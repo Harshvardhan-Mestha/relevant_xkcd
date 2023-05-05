@@ -11,7 +11,9 @@ app = Flask(__name__)
 # returns the data that we send when we use POST.
 
 
-
+@app.route('/')
+def home():
+    return render_template("index.html")
 
 
 @app.route('/prompt', methods = ['GET','POST'])
@@ -26,5 +28,6 @@ def prompt():
         data = "its up <POST>"
         data = request.form["prompt"]
 
-        return jsonify({'data': data})
+        #return jsonify({'data': data})
+        return render_template('index.html',prompt=request.form["prompt"])
     

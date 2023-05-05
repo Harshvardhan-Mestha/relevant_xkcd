@@ -5,11 +5,12 @@
 </head>
 <body>
     <h1>Type anything and it will find the relevant xkcd !</h1>
-    <form action="#">
-        <input type="text" placeholder="Space themed jokes.">
+    <form action="http://127.0.0.1:5000/prompt" method="post">
+        <input type="text" placeholder="Space themed jokes." name="prompt" id="prompt">
+        <button type="submit">Find xkcd !</button>
     </form>
-    <button type="submit">Find xkcd !</button>
+    
     
 
 </body>
-</html>
+</html> 

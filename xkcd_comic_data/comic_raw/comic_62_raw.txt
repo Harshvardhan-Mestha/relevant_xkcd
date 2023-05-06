@@ -1,0 +1,47 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+62: Valentine - Karnaugh
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 62)
+|<< PrevComic #62 (February 10, 2006)Next >>|
+Valentine - Karnaugh
+
+Title text: Love and circuit analysis, hand in hand at last.
+Explanation[edit]
+A Karnaugh map is a Boolean algebra tool that is used to simplify expressions. The final picture, the one that looks like a crossword puzzle, is similar to the way that a Karnaugh map is used on a Boolean truth table, to identify areas that can be simplified. This PDF document shows how the process is used to simplify logic circuits. The lament of the Valentine is that feelings don't yield themselves to the same kind of analysis.
+This comic has four pictures with lines of text alongside them. The text can be used to understand the picture. The first three pictures show love to become more coherent and well-defined but yet complicated. The last picture and text alongside it show Cueball's desire that there should be a way to simplify complications in love, just like Karnaugh maps for Boolean expressions.
+The first line means that love is such an overwhelming feeling that it is hard to understand it and even harder to explain. The picture alongside has incoherent lines depicting the feelings of someone in love and hearts represents the overwhelming love.
+The second picture and related text mean that the feelings are now identified to some extent but are numerous, and there are too few words to explain them. The picture depicts Cueball and Megan on separate side of his heart crisscrossed by many feelings. It shows that his inability to explain his feelings is like a barrier between them.
+The third picture shows that Cueball has a much better understanding of love and now sees it as a matrix of desires and tangled relations, but it is still very complex to fully understand love.
+The fourth picture shows a Karnaugh map that Cueball wishes he could find in the future to solve the matrix of desires and tangled relations that is love.
+The phrase in the title text, "Love and circuit analysis, hand in hand at last" is likely a play on the more common phrase "love and marriage, hand in hand." It appears that Cueball has finally reconciled and understood his feelings of love via circuit analysis, and could be interpreted as a comment from Randall about how this comic has brought together love and circuit analysis together as such.
+Transcript[edit]
+[An abstract design made of squiggly lines. Colored hearts fill in the gaps, with the largest heart being in the center of the lines.]
+(Text on right)
+You make me feel so much
+it all runs together
+I wish I could tell you
+[A large colored heart being crisscrossed by 3 thick lines in a vague triangle. Hearts border the intersection of the lines. Cueball and Megan stand on opposite sides of large heart in the center.]
+(Text on left)
+So few words
+for so many feelings
+crisscrossing my heart
+[An unevenly lined grid pattern is present, with small hearts present in select cells. A very large heart covers most of the grid on top of it.]
+(Text on right)
+A matrix of desire
+Tangled relations
+I can't simplify
+[A drawing of a Karnaugh map with individual cells being filled with hearts. 3 groups of 4 hearts have been circled, alongside a pair of hearts.]
+(Text on left)
+I wish I could find
+the Karnaugh map
+for love.
+Trivia[edit]
+Since at least 2021-04-16 this comics on xkcd.com appears rotated 90 degrees counterclockwise. Apparently, this is due to change to the image itself (and not, for example, because of HTML on comics' page).
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+As of 16.4.2021 the image on xkcd.com is rotated 90 degrees counterclockwise.
+Curious indeed. ISaveXKCDpapers (talk) 06:57, 5 August 2021 (UTC)
+It’s always been sideways for me, and I’ve been reading since around 2015. Intara (talk) 04:45, 12 April 2023 (UTC)
+Categories: All comicsComics from 2006Comics from FebruaryFriday comicsComics featuring CueballComics featuring MeganComics with colorMathRomanceValentinesComics with lowercase text

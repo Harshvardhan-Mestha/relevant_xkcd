@@ -1,0 +1,72 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+19: George Clinton
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 19)
+|<< PrevComic #19 (October 12, 2005)Next >>|
+George Clinton
+
+Title text: I still wish it were true.
+Explanation[edit]
+George Clinton is an American musician most famous for his funk music and wild hair style. His recorded music features themes of space, sci-fi, technology, and futurism. An example of his work most appropriate to this comic is the song "Mathematics" from the 1996 album T.A.P.O.A.F.O.M. (The awesome power of a fully operational mothership).
+"I count the moments we're apart. And add them up mathematically
+and multiply them by the kisses supposedly I've been missing.
+Divided by the attention not to mention the affection.
+Subtract that from your gross potential and see I ain't missin' none.
+Cause any percentage of you is as good the whole pie.
+Any fractions thereof brings dividends of interest.
+Any percentage of you is as good as the whole pie.
+Any fractions thereof brings dividends of love.
+I take the square root and get boxed in every time.
+When I know the shortest distance between two points is in a straight line.
+I'ma go into you, I'ma come into you two times, and carry the fun over the one to where we equal one.”
+(Chorus 2x)
+As Randall says, he had attempted to spread around an urban legend that George Clinton had a Bachelor of Arts degree in mathematics. However, the more Randall thought about this rumor, the more he found himself believing it was true. This behavior is related to pseudologia fantastica, which is more commonly known as pathological or compulsive lying. This comic references the associated behavior that an "individual may be aware they are lying, or may believe they are telling the truth, being unaware that they are relating fantasies." These individuals may eventually stop the lie as demonstrated by the title text, which indicates that at some later time, the individual realized that the rumor was not true, but wishes it to be so.
+This may also be a reference to James Thurber's 13 clocks, in which a character called the Golux has the following exchange with the main character:
+"When I was young I told a tale of buried gold, and men from leagues around dug in the woods. I dug myself."
+"But why?"
+"I thought the tale of treasure might be true."
+"You said you made it up."
+"I know I did, but I didn't know I had. I forget things, too."
+The equations on the board are laplace transforms of functions.
+Transcript[edit]
+[George Clinton uses a baton to point to the bottom of two equations on a blackboard. There is one more equation and a diagram on another blackboard to the right, which is cut off. There is text above:]
+I once tried to start the urban legend that George Clinton has a B.A. in mathematics
+[On the left blackboard there are two formulas:]
+L(F(t) = F(s) = ∫∞0f(t)e-stdt
+L-1 (F(s)) = f(t) = ∫∞0 F(t)estdt
+[On the right blackboard there is part of a formula and a diagram with an x-y scale and three other lines touching down to the base. Above these lines are some numbers that are partly indecipherable.]
+γn = 2n/12K
+0 2 3
+⌊⌊⌊⌊
+[Below George and the blackboards is text:]
+...but I wanted it to be true so badly that I started believing it myself.
+Trivia[edit]
+This was the 18th comic originally posted to LiveJournal.
+The previous was 18: Snapple.
+The next was 20: Ferret.
+Original title: "Wednesday: George Clinton"
+There were no original Randall quote for this comic.
+This comic was posted on xkcd when the web site opened on Sunday the 1st of January 2006.
+It was posted along with all 41 comics posted before that on LiveJournal as well as a few others.
+The latter explaining why the numbers of these 41 LiveJournal comics ranges from 1-44.
+One of the original drawings drawn on checkered paper.
+The first Laplace transform has a mismatched left parenthesis, which was the topic of 859: (.
+The second formula is not the inverse Laplace transform as stated. It differs from the actual Mellin's inverse formula by its bounds and a missing factor. [1]
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Rikthoff (talk) Does anybody know what the correct date of issue of this comic is? Also, does anybody know why Randall loves George Clinton?
+Have you listened to George Clinton? It's seems reasonable to me that Randall should love him. Blaisepascal (talk) 03:54, 15 August 2012 (UTC)
+While reading that I got curious: How is it possible to gain a B.A. in mathematics? I couldn't find any information about the U.S. bachelor system, but in Germany a bachelor's degree in any STEM field is considered a B.Sc. Elektrizikekswerk (talk) 12:08, 17 November 2014 (UTC)
+In America, BA and BS are both 4-year degrees with an equivalent number of courses, but a BA usually has a certain percentage of its coursework drawn from what counted as a "liberal arts" education in the mid 19th century--which included math. In Europe, the Bologna Accords standardized a similar system, but based on late 20th century rather than mid 19th standards. (Or, if you're older than that, depending on your country, the meanings could be very different.) So, it makes sense to have a BA in math, and many universities offer that instead of, or in addition to, a BS. For example, at my university, a BA in math required some of your non-math courses to come from philosophy and related fields, while for a BS some of you non-math courses had to be (non-social) science courses that had math (usually calculus/analysis) as a requirement. When I was a student, focusing on mathematical computer science, the computer classes came from engineering rather than science, so I didn't qualify for either the BA or the BS, so my faculty advisor had to create a custom degree profile for me to get a combined BA in mathematics and electrical engineering, but I assume that's no longer a problem nowadays. 199.27.130.180 01:40, 18 September 2015 (UTC)
+Thank you :) Elektrizikekswerk (talk) 13:16, 24 September 2015 (UTC)
+Interestingly, a few years after this comic was made, George Clinton did record the track "Mathematics Of Love" (http://www.metrolyrics.com/mathematics-of-love-lyrics-george-clinton.html). 141.101.99.77 11:57, 6 January 2015 (UTC) Kingofderby
+I don't think explainxkcd has a math extension yet...--Forrest (talk)12:49, 01 May 2015 (UTC)
+The expression on the blackboard is the expression of Laplace transformation and inverse Laplace transformation.--173.245.53.145 06:21, 4 May 2015 (UTC)
+added lyrics and background 173.245.54.205 03:57, 5 May 2015 (UTC)
+I feel we should just remove the "incomplete marker, as noone seems to have changed anything. Also, regarding the date of this comic, assuming Randall has always uploaded on mondays, wednesdays, and fridays, couldn't we then create a formula to see how many days ago the comic was made? 108.162.219.105 22:01, 15 May 2015 (UTC)
+The author employs the literary concept of 'the unreliable narrator.' We are asked to believe a story told by someone who admits losing touch with reality. The first equation shown on the board, the Laplace transform, takes something that is 'real' and maps it to something 'complex' (having a 'real' and an 'imaginary' part). In the story, we start with something 'real' (George Clinton is a musician). This is transformed into something 'complex' (George Clinton is a musician and a mathematician). The second equation, the inverse Laplace transform, takes something that is 'complex' and maps it to something 'real.' At some point, the narrator's beliefs stop being 'complex' (musician and mathematician). They are transformed back into something real (musician). Therefore, the equations written by the 'imaginary' George Clinton parallel the 'real' journey of the narrator. --DP9000 (talk) 23:29, 6 March 2016 (UTC)
+Fun fact: I spent years thinking this comic was a joke about the low intelligence of US President George W. Bush. (I'd never heard of the musician 'George Clinton', and I managed to conflate then-president George W. Bush with former president Bill Clinton when reading the name.) -- 108.162.219.244 22:04, 19 December 2018 (UTC)
+Good that you say it, I also didn't notice that the title was not a president's name. Fabian42 (talk) 07:30, 20 December 2018 (UTC)
+George Clinton was 4th Vice President of the US, serving under both Jefferson & Madison. Different George Clinton than the one Randall is referencing, though.--173.245.52.151 02:54, 9 July 2019 (UTC)JWC
+Categories: All comicsComics from 2005Comics from OctoberWednesday comicsComics posted on livejournalFirst day on xkcdCheckered paperComics featuring real peopleMathComics with lowercase text

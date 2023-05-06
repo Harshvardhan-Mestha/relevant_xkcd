@@ -1,0 +1,58 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+12: Poisson
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 12)
+|<< PrevComic #12 (December 22, 2005)Next >>|
+Poisson
+
+Title text: Poisson distributions have no value over negative numbers
+Explanation[edit]
+Cueball expresses himself as a Poisson distribution.
+A Poisson distribution is a distribution that shows the probability of a given number of events occurring in a fixed interval of time or space. The X axis typically represents the "number of events" while the Y axis is a decimal representing the probability (i.e. 0.5 for 50% probability) a given number of events will occur in that fixed interval of time or space. It is commonly represented by a bar graph or a scatter graph (sometimes with a line connection to show a trend, even though there is no actual value for non-integers).
+What's important to note for this comic is that this distribution only has data points on non-negative integers and is not continuous through decimal numbers or (as the image text tells us) negative numbers because events can't occur 0.3 of a time, or −2 times.
+After implying that the concept of a person being a mathematical distribution is irrational, Black Hat suggests he is "less than zero". Since the Poisson distribution doesn't exist or has no value at negative values, Cueball either leaves or disappears magically.
+Hence, the punchline is the same as the title text: Cueball doesn't exist to Black Hat anymore, because he has a value less than zero. Another one of the early comics where Randall explains the joke in the title text.
+Also, because a Poisson point process is memoryless, the figure claiming to be the distribution may simply be repeating the fact as a reference to this.
+Transcript[edit]
+[Cueball is talking to Black Hat. Cueball has his mouth wide open and has both of his arms up.]
+Cueball: I'm a poisson distribution!
+[Same scene, except Cueball has only one arm up.]
+Cueball: Still a Poisson distribution!
+Black Hat: what the hell, man. Why do you keep saying that?
+[Cueball's face is gone, and he is not holding any arms up.]
+Cueball: Because I'm totally a poisson distribution.
+Black Hat: I'm less than zero.
+[Cueball is gone. Black Hat is now whistling.]
+Trivia[edit]
+This comic was posted on xkcd when the web site opened on Sunday the 1st of January 2006.
+It was posted along with the 41 comics posted before that on LiveJournal.
+But this comic, as well as 5: Blown apart also released that day, were never posted on LiveJournal.
+The release date is given from - wayback.archive. At least the 22nd of December was the first crawl date.
+This also explains that it was "released" on a Thursday.
+On xkcd, it was released for the first time to the public on Sunday the 1st of January 2006.
+One of the original drawings drawn on checkered paper.
+Randall was still experimenting with character design, as Cueball has a face in the first two frames.
+First comic featuring Black Hat in the current order the comics are now presented on xkcd.
+But since this comic was not released on LiveJournal there had been several comics with Black Hat released almost 3 months before this one there.
+The original LiveJournal number 6, 24: Godel, Escher, Kurt Halsey was the first to use Black Hat and thus stick figures as well as Cueball, Megan and Multiple Cueballs, see this Trivia.
+Two other comics with Black Hat, 29: Hitler, 45: Schrodinger, where also released on LiveJournal before the current number 12. So it was actually only the fourth comic using him to be released.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Rikthoff (talk) The date of issue of this comic is off. Does anybody have the correct date? Does anybody know the song that BlackHat is singing in the last frame?
+I always imagine the song is either the Bangles cover of "hazy shade of winter" from the movie Less than Zero though I have also imagined it to be "saved by zero" by the Fixx.
+Did anyone notice the pun on poison and Poisson? 108.162.254.174 18:39, 10 March 2014 (UTC)
+What pun? Replacing "Poisson" with "poison" anywhere doesn't produce any additional meaning. Zowayix (talk) 18:54, 29 April 2014 (UTC)
+On the other hand, "Poisson", in French, despite being the name of the discoverer of this distribution, also means "fish". thus maybe the "no memory" joke? 141.101.104.101 21:43, 27 April 2017 (UTC)
+Note that the 'h' in the word 'hell' looks like 'λ'. 141.101.64.35 20:03, 21 July 2014 (UTC)
+Also note that the Poisson distribution is "memoryless" (like the exponential distribution) which explains why the Poisson is content to continue repeating this fact. 108.162.222.178 16:44, 21 April 2015 (UTC)
+The coinflip distribution described in the second paragraph not a Poisson Distribution. Rather it is a binomial distribution (or a Bernoulli distribution for the single flip case). 108.162.229.163 11:11, 7 September 2015 (UTC)
+I deleted it. 173.245.50.154 12:25, 7 September 2015 (UTC)
+The first three panels establish that Cueball is a Poisson distribution, that Black Hat finds him annoying and that both parties exist and can communicate with each other. In other words, Black Hat's value is compatible with a Poisson distribution. The implication of panel three seems to be that Black Hat isn't stating his value but is stating his change in value to "I'm less than zero." This is similar to the phrase, "I'm less than impressed." The change in value causes Cueball to vanish. In the fourth panel, Black Hat is whistling a happy tune; pleased at having removed an annoyance. --DP9000 (talk) 02:44, 22 February 2016 (UTC)
+If Cueball only exists for non-negative integers, how can he be irrational?141.101.76.16 16:08, 3 January 2018 (UTC)
+fish red dwarf
+honestly my first thought was Rimmers advanced theory on pourus circuits in his astro navigation exam in which he wrote i am a fish numerous times saluted and passed out but a hot second was 'i am a fish merchant'? -- Strawdog (talk) (please sign your comments with ~~~~)
+Also trivial piece of trivia: one of the comics drawn on graph paper 172.71.26.64 (talk) 00:17, 13 April 2023 (please sign your comments with ~~~~)
+Covered by the Category:Checkered paper appended to the page... 172.70.85.67 00:23, 13 April 2023 (UTC)
+Categories: All comicsComics from 2005Comics from DecemberThursday comicsFirst day on xkcdCheckered paperComics featuring CueballComics featuring Black HatStatisticsComics with lowercase text

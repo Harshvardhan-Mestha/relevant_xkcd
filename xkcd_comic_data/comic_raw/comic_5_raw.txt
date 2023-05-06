@@ -1,0 +1,47 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+5: Blown apart
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 5)
+|<< PrevComic #5 (October 25, 2005)Next >>|
+Blown apart
+
+Title text: Blown into prime factors
+Explanation[edit]
+This comic is a mathematical and technical joke involving prime numbers and primary colors.
+In the comic, a black-colored 70 sees a package, but it turns out to be a letter bomb that explodes when opened. The result is pieces of the number scattered about: a red-colored 7, a green-colored 5, and a blue-colored 2.
+The title text explains the logic for splitting 70 into 7, 5, and 2; as with many of the earlier comics, the title text explains the joke rather than adding to it. 7*5*2 is a prime factorization of the number 70. Prime numbers are numbers that cannot be divided by any number other than itself and 1. Factors of a number are numbers that can be multiplied together to produce that number (i.e. 2×5×7 = 70). 70 has other factors, including 1, 10, 14, 35, and 70, but 2, 5, and 7 are the only factors that are prime. All other factors of 70 can be formed by choosing zero, two, or three of the prime factors and multiplying them together.
+An implication of this comic is that prime numbers would be immune to explosions, as they are already their smallest parts.
+Although not explicitly called out, the colors of the numbers also seem to have been blown apart. Red, green, and blue are the primary colors in the additive color model. These colors mixed in pairs produce cyan, magenta, and yellow, which are primary colors in the subtractive color model. The removal of all additive primary colors, or conversely, the combination of all subtractive primary colors, produces black, which is the color of the original 70 (according to the official transcript, although it looks dark blue). The comic is somewhat misleading in that red, green, and blue do not compose black in either color model, but the difference between the two models is not widely understood (most still view the additive primaries as red, yellow, and blue).
+Transcript[edit]
+[A black number 70 sees a red package. This small panel is partly overlaid on the next larger panel, which is shifted down.]
+70
+70: hey, a package!
+[The package explodes in a cloud of brown smoke. This panel is both behind the first in the top left corner, and below the last panel, which has been laid on top of that corner.]
+BOOM
+[There are a red 7, a green 5, and a blue 2 lying near a scorched mark on the floor.]
+7
+5
+2
+Trivia[edit]
+This comic was posted on xkcd when the web site opened on Sunday the 1st of January 2006.
+It was posted along with the 41 comics posted before that on LiveJournal.
+On the site, it is the first comic with an actual punchline (all previous comics are either just sketches or establishing the background for later comics)
+But this comic, as well as 12: Poisson also released that day, were never posted on LiveJournal.
+The release date is given from - wayback.archive. At least the 25th of October was the first crawl date.
+This also explains why it was "released" on a Tuesday.
+On xkcd, it was released for the first time to the public on Sunday the 1st of January 2006.
+One of the original drawings drawn on checkered paper.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+No 70s were harmed in the making of this comic. Davidy22[talk] 14:06, 8 January 2013 (UTC)
+Also, the 70 is black, and, in a subtractive colour system, black = red+green+blue. 108.162.216.85 19:14, 30 September 2015 (UTC)
+... or rather black = magenta+yellow+cyan (red, green, blue are used in additive colour system), I suppose. Then again, who has magenta, yellow, cyan pens available during a boring lecture? Hagman (talk) 22:26, 2 November 2015 (UTC)
+No it is the subtractive color system that is refereed as the additive ends up white. But true about the colors, but when mixing the primary colors magenta+yellow+cyan two by two you get red, green, blue, which would then in that system also mix to black! Have added this to the explanation. So thanks to both of you. --Kynde (talk) 18:18, 3 August 2016 (UTC)
+I always read the factors and as 7, 5, and N. Then I realize N must be 2, and finally that it's literally 2. 162.158.222.94 (talk) (please sign your comments with ~~~~)
+I think it's worth keeping the message around that was just edited in and then out again: The bomb is PRIMED, that may be the reason why it makes PRIME numbers. Fabian42 (talk) 19:03, 14 June 2018 (UTC)
+Thanks for your critics but that sentence explains nothing. There is no bomb mentioned in the comic, it's an exploding package. And was it drunken, prepared, armed (obviously it was), or a mathematic variable like x' (x primed) referring to the prime symbol. You can find even more meanings of this simple word. I also don't understand why it should be the reason. Bombs are often armed but they don't produce prime factors on detonation. The explanation should be no puzzle game. --Dgbrt (talk) 19:53, 14 June 2018 (UTC)
+"70 has other factors, including 1, 10, 14, 35, and 70, but 2, 5, and 7 are the only factors that are prime. All other factors of 70 can be formed by choosing zero, two, or three of the prime factors and multiplying them together." This is incorrect. You can not multiply zero, two, or three of the prime factors to obtain 1. Nitpicking (talk) 02:33, 25 November 2021 (UTC)
+Usually in math, we consider the empty product to be equal to 1 because multiplying by 1 does nothing and adding zero factors to a product does nothing as well. So in this interpretation we obtain 1 by multiply zero of the prime factors. I opt for keeping the text the way it is. --Flukx 23:35 30 Nov 2022
+Categories: All comicsComics from 2005Comics from OctoberTuesday comicsFirst day on xkcdCheckered paperComics with colorNumber theoryComics with lowercase text

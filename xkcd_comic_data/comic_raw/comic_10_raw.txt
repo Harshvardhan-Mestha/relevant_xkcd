@@ -1,0 +1,65 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+10: Pi Equals
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 10)
+|<< PrevComic #10 (September 30, 2005)Next >>|
+Pi Equals
+
+Title text: My most famous drawing, and one of the first I did for the site
+Explanation[edit]
+There are two possible references here. One is from the book Contact by Carl Sagan, where the existence of God was shown in the last chapter to be encoded in the digits of pi. The other is an old joke of a fortune cookie with a fortune that reads, "Help! I'm trapped in a fortune cookie factory!" Similar jokes are often repeated for any mass-manufactured personalized item, often implying that the worker who made the item is working in a sweatshop somewhere or is literally trapped inside a factory and calling for help via the items they produce. This joke is also referenced in 327: Exploits of a Mom's title text, where Mrs. Roberts daughter's name is "Help I'm trapped in a driver's license factory."
+The most literal interpretation of the joke would be that some being who helped to create the universe in a "universe factory" snuck a message into the digits of pi (a number that has an endlessly long decimal that never repeats) asking for help to get out. Mathematical concepts being manufactured in a factory is the main mental image here. One can't help but wonder if the primordial beings who labored on the universe to produce things like the gravitational constant and pi have a labor union. Judging by the fact that they're calling for help, it seems they don't.
+Since pi never ends and does not follow any sort of known pattern, if each number pair were assigned a letter from the alphabet, or if it was converted to base-26 (or preferably ASCII or some other form of text encoding, if you desire capitalization and punctuation), the entire works of Shakespeare, as well as any other expressible piece of information, including the message in this comic, could presumably be found (it is not really known that pi really has this property, but the absence of this property would in itself be an extraordinary coincidence); although the probability of finding any given string of numbers within a calculable range of digits of pi diminishes rapidly as the string length increases.
+In the novel Contact by Carl Sagan, he includes a "Signature of God." In brief, the signature consists of a very long string of 1s and 0s far out (after some 10^20 seemingly random numbers) in the base-11 expansion of pi that when arranged in a square of a specific size yields a clear drawing of a circle with a diameter of several hundred digits. The existence of this pattern was hinted to the protagonist by a member of an advanced alien civilization as being encoded in physics by an even more advanced civilization with the ability to create universes.
+Interestingly enough, this could also work for pictures: if you assign a set of nine numbers to equal an RGB hexadecimal color value, eventually you will find the Mona Lisa.
+In the title text, Randall notes that this became one of his most famous comics (at the time it was re-released on the new xkcd site on the 1st of January 2006.) He also notes that it was one of his first drawings for the site (it was the 11th posted originally). See trivia below.
+Transcript[edit]
+[A huge π to the left, then a large equal-to sign, and then five rows of text.]
+π = 3.14159265
+3589793help
+imtrappedin
+auniversefac
+tory7108914...
+Trivia[edit]
+This was the 11th comic originally posted to LiveJournal.
+The previous is 9: Serenity is coming out tomorrow.
+The next is 14: Copyright.
+Comic #36 was originally posted as a duplicate of comic 10: Pi Equals. This was corrected some time between April 23, 2006 and July 5, 2006 when the current version showed up in the web archive (see the links).
+This comic kept its original title: "Pi Equals"
+There were no original Randall quotes for this comic.
+This was one of the thirteen first comics posted to LiveJournal within 12 minutes on Friday September 30, 2005.
+This comic was posted on xkcd when the web site opened on Sunday the 1st of January 2006.
+It was posted along with all 41 comics posted before that on LiveJournal as well as a few others.
+The latter explaining why the numbers of these 41 LiveJournal comics ranges from 1-44.
+One of the original drawings drawn on checkered paper.
+The book version of this comic (in xkcd: volume 0) has different title text:
+"I've put rescue instructions in e. You'll need the cheat codes for your universe, which I hid in the square root of two."
+The book version of this comic (in xkcd: volume 0) has red text at the bottom of the page: CNEG BAR BS RVTUG VA URK: RR AVAR RVTUG SVIR BAR BAR RVTUG. It's ROT13 for "PART ONE OF EIGHT IN HEX: EE NINE EIGHT FIVE ONE ONE EIGHT".
+"7108914" appears in position 13,709,690 of pi, suggesting that the length of the string of "digits" that is 'helpimtrappedinauniversefactory' is correspondent to a good 13,709,675 digits long, meaning each individual letter corresponds to about 456989.166667 digits. Aggravatingly, however, if the string was instead "71089314", it would appear at position 2533.
+If the letters correspond to the phone keypad, then these digits are wrong: 3.14159265358979343574687277334628648377332286797108914
+If the words correspond to their length, then these digits are wrong: 3.14159265358979342721877108914
+And if the words are omitted altogether, then these digits are wrong: 3.1415926535897937108914
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Interestingly, 7108914 does not occur in the first 100,000 digits of pi. However, 71089 does occur at roughly around the 2,500 digit mark. --DanB (talk) 18:17, 6 August 2012 (UTC)
+7108914 position 13,709,690 counting from the first digit after the decimal point. The 3. is not included. --whitecat (talk) 10:43, 7 August 2012 (UTC)
+There is a children's book called "Help, I'm a prisoner in a toothpaste factory". 86.30.117.77 (talk) 17:13, 7 January 2013 (UTC) (please sign your comments with ~~~~)
+or it's reference of the Mac OS 6 and 7 "BlueMeanies" easter egg "Help! Help! We're being held prisoner in a system software factory!". 46.126.181.133 (talk) 08:59, 7 January 2013 (UTC) (please sign your comments with ~~~~)
+In my profession - simplifications of π is equal perfection, I can throw a recurring function at it, but it will just give me more pages of numbers. Remember that pi will ultimately equal 22/7, and you'll be alright. - E-inspired (talk) 09:17, 3 March 2013 (UTC)
+We still have to find "helpimtrappedinauniversefactory" @pi, even when Randall also does not know.--Dgbrt (talk) 20:48, 23 June 2013 (UTC)
+You know, we could convert "helpimtrappedinauniversefactory" to the ASCII numbers and then use one of those algorithms that searches pi for a particular string of numbers... 108.162.219.36 22:40, 13 November 2013 (UTC)
+While the string 72697680 (HELP) appears multiple times throughout the first 200,000,000 digits of pi (not counting the 3.), none of the resulting ASCII strings makes sense. The closest (7269768022774869990317421141) is at position 31,961,494 with the resulting string as "HELP�M0E". Note that it is the number "0" and not the letter "O". The string "104101108112" ("help") does not occur in the first 200,000,000 digits. -108.162.250.114 08:15, 30 December 2013 (UTC)
+Umm... "Of course, because pi never ends and never repeats, if you assign each number pair a letter from the alphabet and look through the digits of pi, somewhere within it is the entire work of Shakespeare, or any other piece of information that could be expressed with human language. So, ironically, somewhere in pi, there actually is the phrase stated in the comic, in a sense." This isn't guaranteed. Just because it's infinite and non-repeating doesn't mean that every possible pattern exists within it. 0.1010010001000010000010000001... is infinite and non-repeating, but it most certainly doesn't contain Shakespeare. It would only be guaranteed if the series was perfectly random over an infinite amount of time. 108.162.237.64 23:47, 14 March 2014 (UTC)
+Ah, but in 0.1010010001... there is a pattern, isn't there? 1, then n number of zeroes, where n is incremented by 1 each time it is used. I don't see such patterns in 3.14159... myself. :PNSDCars5 (talk) 12:56, 23 May 2014 (UTC)
+That you don't see a pattern doesn't mean there is one. That there is no pattern doesn't mean it contains every possible sequence. --108.162.231.98 12:14, 6 August 2014 (UTC)
+Have edited it to add that this requires a proof that pi is normal. For readers, to see the flaw in NSDCars5's reasoning, consider how he might have seen the entire infinite sequence of pi's digits, then realize it's impossible without a formal proof. Which is what the proof of pi being normal would solve. As it is, we don't have that proof yet, and so we cannot say for sure that pi has every possible finite sequence. 103.22.201.63 16:31, 12 August 2014 (UTC)
+I vote we modify that. It's almost certainly true that pi does include the entire works of Shakespeare, but good luck proving that. 108.162.216.58 07:29, 30 November 2014 (UTC)
+If you would argue that, statistically, even one line of Hamlet or Romeo and Juliet could be found within Pi, then statistically, it would be found thousands of time with typos or mistakes first. By the time someone found ALL of Shakespeare's works lined up, first we would have found the individual works separated, millions of times, with all manner of mutations that would result from random chance. Something to consider. 108.162.221.44 16:30, 28 June 2015 (UTC)
+I feel like there should be a mention that, since pi is a mathematical constant rather than a physical constant, even if you did create the universe you'd have no control over it. You might be able to influence the directions math takes and exert some control over what constants seem important, but that will only give you a few bits of control, meaning that you can only encode a message a few bits long. You could easily encode messages into the fine structure constant, but if you stick it too close to the beginning it might inhibit life, and if you stick it too far nobody will be able to measure it accurately enough to find it. 108.162.216.58 07:29, 30 November 2014 (UTC)
+Yes, manipulating such a mathematical constant would require changing in some incomprehensible way basic rules of logic or arithmetic, which seems much farther beyond human comprehension than physical constants which human physicist still don't fully understand a clear reason behind their known value needing to be what it is and can only deduce by calculating them based on experimental results. However some being outside the universe making universes including fine tuning their details would have to be in some way beyond human comprehension anyway. This was a topic in the Contact book btw, with a conversation with the Alien like "how could a message be hidden inside pi? It's part of the fabric of the universe!" To which the alien replied "exactly." Note that most of this topic, like a ton of other stuff was left out of the movie supposedly based on it.--108.162.216.215 23:21, 3 October 2022 (UTC)
+
+Whereas the fictional prisoner in a Fortune Cookies Factory may harbor hopes that once his message gets out and the finder of the message take it to the authorities who will trace it's origins and affect a rescue; no such hopes are available to the Universe Factory prisoner. Not unless the residents of the created universe have a manner of interfacing with the creators civilization. Which brings up an interesting question: Once an intelligence has deciphered a message from a higher being, do they just move on as if nothing happened, or do they now focus their resources toward ascending into the higher realm just revealed. If the latter, than our Universe Factory prisoner may have some hope after all... Mountain Hikes (talk) 08:52, 31 August 2015 (UTC)
+The link to TV tropes yields "403 Forbidden", please find a different link. 108.162.210.220 18:15, 8 September 2016 (UTC)
+Though the fortune cookie story is fictional, I once read a credible seeming article about someone buying a Halloween decoration made in China and finding a hand written letter inside asking for help.--172.70.178.221 23:23, 3 October 2022 (UTC)
+Categories: All comicsComics from 2005Comics from SeptemberFriday comicsComics posted on livejournalFirst day on LiveJournalFirst day on xkcdCheckered paperMathFooter comicsComics with lowercase text

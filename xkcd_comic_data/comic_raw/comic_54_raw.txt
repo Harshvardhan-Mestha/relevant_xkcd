@@ -1,0 +1,72 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+54: Science
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 54)
+|<< PrevComic #54 (January 18, 2006)Next >>|
+Science
+
+Title text: Bonus points if you can identify the science in question
+Explanation[edit]
+The solid line represents the theoretical radiation for a blackbody at 2.73 K according to Planck's Law (derived as early as 1900 by Max Planck). The formula, almost as written in the graph, can be found here. The only changes are that on Wikipedia, the frequency f is represented by the Greek letter ν (nu) and the temperature T is included as an independent variable, so I(f) becomes I(v,T). However, I(v,T) still represents the spectral radiance (similar to energy density). In this formula, h is the Planck constant, c is the speed of light in a vacuum, and k is the Boltzmann constant. The frequency (f or v) along the x-axis is measured in gigahertz. The curve peaks at 160.4 GHz. There is no scale or unit on the energy density on the y-axis.
+The theory is that the blackbody in question was the universe at the point when it had cooled down enough to allow photons to escape, 0.38 million years into its 13.8 billion years history. The photons that reach us today are the ones that have been travelling to us at lightspeed since then. As the light from astronomical objects suffers from redshift due to the expansion of the universe, and this shift becomes more pronounced with distance from the observer, this light displays in the infrared range.
+The title text praises viewers who can identify where this equation and corresponding graph come from (without consulting this wiki, of course).
+Official T-shirt explanation[edit]
+This comic was made into a T-shirt, but is no longer available.
+On the xkcd store, there was both an explanation for the title:
+Science: We finally figured out that you could separate fact from superstition by a completely radical method: observation. You can try things, measure them, and see how they work! Bitches. 
+And specifically an explanation for the graph:
+The graph on the back of the shirt is data from the COBE mission which looked at the background microwave glow of the universe and found that it fit perfectly with the idea that the universe used to be really hot everywhere. This strongly reinforced the Big Bang theory and was one of the most dramatic examples of an experiment agreeing with a theory in history -- the data points fit perfectly, with error bars too small to draw on the graph. It's one of the most triumphant scientific results in history.
+The above is a direct copy paste, with errors. The current wiki page of the COBE mission can be found at Cosmic Background Explorer on Wikipedia.
+Transcript[edit]
+[A graph with a curve that begins at zero, then peaks at a given frequency, indicated via a thin vertical line, and then fades down towards zero. It is possible to see the data points, which fit the curve perfectly. The y-axis is labelled. Along the x-axis, the zero point and the frequency where the peak has its maximum are labelled and close to the arrow the unit of this axis is written.]
+y-axis: Energy Density
+Along the x-axis:
+0
+160.4
+GHz
+[Above the graph to the right is the following formula, with the last inner parentheses only included to make the formula clear, since in the drawing the fractions are written above and below horizontal lines:]
+I(f) = (2hf3/c2)(1/(ehf/kT-1))
+[Below the graph is written the following:]
+Science.
+It works, bitches.
+Trivia[edit]
+This was the 48th comic originally posted to LiveJournal.
+The previous was 50: Penny Arcade.
+The next was 51: Malaria.
+This comic kept its original title: "Science"
+It is part of the last six comics on LiveJournal that all had a title without the word "Drawing" in it.
+Five of these had exactly the same title on both sites.
+Only 11 comics have the same title on both sites.
+Apart from the thirteen first comics posted to LiveJournal, there were only three other comics without the word "Drawing" in the title before these last six.
+Original Randall quote: "Bonus points if you can identify the science in question."
+Only difference between this and the title text on xkcd is the last period: "."
+It is rare that these two texts are so similar.
+This comic was one of the last 11 comics posted on LiveJournal.
+These 11 comics were posted both on LiveJournal and xkcd after the xkcd site opened on the 1st of January 2006.
+The first six comics were posted on both sites on the same day. But not this one.
+For some reason, this comic was first posted a week later on xkcd (25 January 2006), on the day that 53: Hobby was released on LiveJournal.
+On the day 54: Science was released on LiveJournal (18 January 2006), another comic (51: Malaria) was released on xkcd.
+51: Malaria also became the next comic released on LiveJournal, but this meant that three comics in a row were posted a release day earlier on xkcd than on LiveJournal.
+Only with the last comic released on LiveJournal, 55: Useless, did the two sites release the same comic on the same day again.
+"It works, bitches" has been quoted by Richard Dawkins in 2013, when questioned on the superiority of science. It is not sure whether he was quoting xkcd, though. See https://www.theverge.com/2013/4/2/4173576/richard-dawkins-on-science-it-works-bitches
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+It's also commonly called "Microwave Background Radiation" because where the radiation peaks at 160.4 GHz is in the microwave range of the electromagnetic spectrum. --Dangerkeith3000 (talk) 18:02, 13 March 2013 (UTC)
+Error - Inverted graph!
+Am I the only one who came here confused because the graph is wrong? The shape of the graph is clearly that of blackbody radiation - on a wavelength axis! However Randall titles the axis GHz (pointing right) which is the inverse of wavelength (of course on a wavelength axis, the curve should not extend down to zero). But look up the graph on Wikipedia, and notice that it's on a wavelength scale and looks exactly like this - even better, google "black body radiation" images, and notice how ~95% of them show the radiation on a wavelength scale for some reason. But scroll down, and eventually you'll see one on a frequency scale. It looks quite different! Also, the blackbody radiation is known for its rather sharp high frequency cutoff (or low wavelength), which Randall accidentally got inverted here, and placed at zero... It shows much more dramatically on frequency axis, which is why you can very clearly see that this graph is NOT a radiation graph on a frequency axis - it goes on to infinity. Anyway, sorry for the rant - but it's Science bitches, and axis' matter! Especially if you are going to invert one of them! - Richard 162.158.134.16 22:56, 28 June 2018 (UTC)
+I don't think it's inverted. We are not plotting against -wavelength but 1/wavelength, so it's plausible to have the sharp drop on the left. I haven't plotted it for myself, but see for example https://www.researchgate.net/figure/A-plot-of-the-intensity-of-the-radiation-of-a-blackbody-versus-frequency-for-temperatures_fig2_259735413. 172.70.250.231 14:30, 29 April 2022 (UTC)
+Title Text Meaning
+As can easily be seen from the page's history, Dgbrt and I have been locked in a minor edit war over the meaning of the title text. I claim that Randall is simply complimenting the readers who happen to know what the formula and curve mean. Dgbrt thinks otherwise; I will let him explain his interpretation.
+Please add to this discussion so we may come to a consensus on its meaning. Thanks. --Quicksilver (talk) 23:18, 25 August 2013 (UTC)
+Glad to oblige. I think we need to draw a distinction between what Randall means and what some people might like him to mean. Many people don't agree that the universe started with a Big Bang, whether because they're cosmologists who support an alternative scientific theory, or because they're young earth Creationists who hold that God created the universe about 6000 years ago, or because they're philosophers who hold it self-evident that something can't come out of nothing, or for whatever reason.
+Now, I'm not going to say which of those (if any) I believe, because it really doesn't matter in this context - and neither is it important (in this context) what Quicksilver or Dgbrt believes. What we have to keep clear in our minds is that this site is about explaining the cartoons, not projecting particular philosophical standpoints onto Randall's mildly ambiguous phrasing. (When he wrote it, I doubt very much whether he realised he was writing ambiguously.)
+The xkcd series, throughout its history, shows not only Randall's firm belief in the scientific method for establishing plausible explanations of the way the universe works, but also his antipathy towards historical explanations that seem to be at odds with observable evidence and even historical record. See #803 and #1255 for obvious examples.
+Given Randall's known love of science and the absence of any firm clues that he was being heavily ironic and running massively against type, I think we have to conclude that he was either praising those who could identify the science he was talking about, or just possibly was trying to cause a Wikipedia search spike! --BinaryDigit (talk) 07:17, 8 April 2014 (UTC)
+
+So no one's gotten the bonus points yet?! He was asking to identify the science in question. When he says "It works", I'm sure he was not meaning that blackbody radiation works. This graph was the key to one of the biggest leaps in human understanding.--ChrisfromHouston (talk) 06:23, 8 September 2014 (UTC)
+He meant that Science in general works. And this is just an example that proves this point. And he has explained what the graph is on his own page in the shop. --Kynde (talk) 20:16, 30 April 2015 (UTC)
+Is the description supposed to say 273 Kelvin? I don't see the significance of 2.73 Kelvin.
+-- Terry  172.70.178.49 (talk) 23:38, 17 August 2022 (please sign your comments with ~~~~)
+Categories: All comicsComics from 2006Comics from JanuaryWednesday comicsComics posted on livejournalPosted on LiveJournal after xkcdLine graphsAnalysisMathPhysicsScienceComics with lowercase text

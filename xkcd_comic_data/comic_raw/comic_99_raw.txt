@@ -1,0 +1,59 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+99: Binary Heart
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 99)
+|<< PrevComic #99 (May 8, 2006)Next >>|
+Binary Heart
+
+Title text: i love you
+Explanation[edit]
+An array of zeros and ones is depicted, 21 across by 23 down. Some of the zeros and ones are red instead of black to form the shape of a Valentine heart.
+The digits themselves are an ASCII bit stream reading:
+iloveyOuilOveyouiloveyOuilOveyOuiloveyouilOveyouilOveyOuilOv
+The final octet is incomplete, but the three bits that are present are consistent with the start of an "e".
+The mixture of upper-case and lower-case "O"s is presumed intentional to avoid a repeating pattern.
+Transcript[edit]
+[All the numbers are black except for a heart-shaped red section in the middle.]
+0 1 1 0 1 0 0 1 0 1 1 0 1 1 0 0 0 1 1 0 1
+1 1 1 0 1 1 1 0 1 1 0 0 1 1 0 0 1 0 1 0 1
+1 1 1 0 0 1 0 1 0 0 1 1 1 1 0 1 1 1 0 1 0
+1 0 1 1 0 1 0 0 1 0 1 1 0 1 1 0 0 0 1 0 0
+1 1 1 1 0 1 1 1 0 1 1 0 0 1 1 0 0 1 0 1 0
+1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 0 1 1 1 0 1
+0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 1 0 0 0 1 1
+0 1 1 1 1 0 1 1 1 0 1 1 0 0 1 1 0 0 1 0 1
+0 1 1 1 1 0 0 1 0 1 0 0 1 1 1 1 0 1 1 1 0
+1 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 1 0 0 0 1
+0 0 1 1 1 1 0 1 1 1 0 1 1 0 0 1 1 0 0 1 0
+1 0 1 1 1 1 0 0 1 0 1 0 0 1 1 1 1 0 1 1 1
+0 1 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 1 0 0 0
+1 1 0 1 1 1 1 0 1 1 1 0 1 1 0 0 1 1 0 0 1
+0 1 0 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 0 1 1
+1 0 1 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 1 0 0
+0 1 0 0 1 1 1 1 0 1 1 1 0 1 1 0 0 1 1 0 0
+1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 0 1
+1 1 0 1 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 1 0
+0 0 1 0 0 1 1 1 1 0 1 1 1 0 1 1 0 0 1 1 0
+0 1 0 1 0 1 1 1 1 0 0 1 0 1 0 0 1 1 1 1 0
+1 1 1 0 1 0 1 0 1 1 0 1 0 0 1 0 1 1 0 1 1
+0 0 0 1 0 0 1 1 1 1 0 1 1 1 0 1 1 0 0 1 1
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The l's and 0's in the binary translation make the code: 10101010011010010, which if you remove either the first or the last digit and convert to text make either, ªi OR TÒ which isn't very helpful. -- LostFire (talk) (please sign your comments with ~~~~)
+10101010011010010 in hexadecimal is 154D2 which could mean "I'm sad too". Noit (talk) 00:34, 27 September 2013 (UTC)
+I wondered why he didn't include space characters, but then I realized that ASCII 32 makes for too much white space (only one bit is set) which might spoil the random appearance of the background. Also, shouldn't there be a Doctor Who reference in there somewhere? Just saying... 108.162.219.58 18:28, 24 January 2014 (UTC)
+This may be part of the reason for 'O' as well; 'o' only has 2 unset bits. ('O' is '01001111', 'o' is '01101111'). 199.27.128.181 23:55, 21 January 2015 (UTC)
+Maybe the mixture of o's and O's is only there so that the sequence of bits doesn't contain a single repeating sequence. 108.162.216.84 20:47, 8 March 2014 (UTC)
+On the 'o's and 'O's - Converting 011001110010111 from binary to decimal gives 13207. Googling that number only gives hits about Syracuse. Does anyone know if there's a connection there? 141.101.89.205 01:04, 18 May 2014 (UTC)
+This Binary-to-Ascii converter or Binary to Text tool can be used to decode the sequence to a string. --Pudder (talk) 12:23, 18 December 2014 (UTC)
+Some of the o's in love are capitalized and some of the o's in you are capitalized but no other letter in any other position has mixed capitalization. If you take a lower case o to be a 0 and a capital o to be a 1, that gives you the string of binary digits: 011001110010111. Unfortunately that is 15 bits, not 16 so not quite enough for two letters, but apparently the first 8 bits are "g". If we append a 0 to the last 7 bits, it becomes "g.", if we use a 1 it becomes "g/". Neither seems likely to be anything that i can tell. in hex, those 15 digits become 0x3397. Appending a 0 it's 0x672E and appending a 1 it's 0x672F. Negating the bits (in case 1's and 0's were reversed) didn't seem to help either unfortunately. I think there is more to the o and O's but not sure what it is :P Atrix256 (talk) 02:30, 25 January 2015 (UTC)
+It could be the start of 'g*d'... 141.101.76.16 16:46, 17 January 2018 (UTC)
+Since letters in ASCII only really use the last 5 bits, I tried splitting that into 3 sections of 5 bits then prefixing each section with '010' or '011' leads to either L\W or l|w. Doing the same with the negated version results in 'SCH' or 'sch'. Doesn't really seem like much to me, but it tickles the "potentially meaningful" spot in my brain... maybe someone else sees something? SliceThePi (talk) 08:39, 6 March 2019 (UTC)
+The heart pattern isn't symmetric, could the masked-out bits make a message? 141.101.64.29 17:11, 2 February 2015 (UTC)
+The binary of the heart only is 11111010010111111011110100111011001101110110011001111001010011110111011010010110
+11001110111011001100111001010011110011010010110110111011001001011011010010011100101. I tried entering it into the converter linked to above, and got "�_�;7fyOv����S�-�%���". Z (talk) 21:58, 7 February 2016 (UTC)
+Somehow despite the comments above, I found this one sweet that Randall drew this. i<3u.Boeing-787lover 07:36, 29 June 2018 (UTC)
+using the following tools for binary translation https://www.rapidtables.com/convert/number/binary-to-ascii.html and https://dnschecker.org/binary-to-text-translator.php after deleting the spaces between the numbers, it is a repeating pattern of "I love you" with some o's capital and some not
+Categories: All comicsComics from 2006Comics from MayMonday comicsRomanceComics with colorLanguage

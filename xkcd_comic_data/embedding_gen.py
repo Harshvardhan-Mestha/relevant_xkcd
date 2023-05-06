@@ -6,52 +6,46 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain.document_loaders import TextLoader
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.vectorstores import FAISS
+import time
+from urllib.request import urlopen
+import json
 
-
-
-
-
-
-# def test_eight_components():
-#     driver = webdriver.Chrome()
-
-#     driver.get("https://www.selenium.dev/selenium/web/web-form.html")
-
-#     title = driver.title
-#     assert title == "Web form"
-
-#     driver.implicitly_wait(0.5)
-
-#     text_box = driver.find_element(by=By.NAME, value="my-text")
-#     submit_button = driver.find_element(by=By.CSS_SELECTOR, value="button")
-
-#     text_box.send_keys("Selenium")
-#     submit_button.click()
-
-#     message = driver.find_element(by=By.ID, value="message")
-#     value = message.text
-#     assert value == "Received!"
-
-#     driver.quit()
-
-# test_eight_components()
+st = time.time()
 exp = ""
+titles = list()
 
-def extract_explanation():
+
+
+url = "https://xkcd.com/info.0.json"
+response = urlopen(url)
+data_json = json.loads(response.read())
+
+total_sites = int(data_json['num'])
+
+
+
+
+
+def extract_explanation(n):
     options = Options()
     options.add_argument("--headless=new")
     driver = webdriver.Chrome(options=options)
-    driver.get("https://www.explainxkcd.com/wiki/index.php/1:_Barrel_-_Part_1")
+    driver.get("https://www.explainxkcd.com/wiki/index.php/"+str(n))
+    driver.implicitly_wait(0.5)
+
     exp = driver.find_element(By.ID,'content')
-    with open('./xkcd_comic_data/temp.txt', 'w') as f:
+    with open("./xkcd_comic_data/comic_raw/comic_"+str(n)+"_raw.txt", "w") as f:
         f.write(str(exp.text))
 
     #print(exp.text)
     driver.quit()
 
 
+
+
+
 def generate_embedding():
-    loader = TextLoader('/Users/harshvardhanmestha/repos/relevant_xkcd/xkcd_comic_data/temp.txt')
+    loader = TextLoader('/Users/harshvardhanmestha/repos/relevant_xkcd/xkcd_comic_data/comic_raw/comic_1_raw.txt')
     documents = loader.load()
 
     text_splitter = CharacterTextSplitter(chunk_size=250, chunk_overlap=0)
@@ -68,7 +62,15 @@ def generate_embedding():
     print(docs)
 
 
+#extract_explanation()
+#generate_embedding()
 
-extract_explanation()
-generate_embedding()
+def extract_all_exp():
+    for i in range(20,total_sites+1):
+        extract_explanation(i+1)
 
+extract_all_exp()
+
+et = time.time()
+elapsed_time = et - st
+print('Execution time:', elapsed_time, 'seconds')

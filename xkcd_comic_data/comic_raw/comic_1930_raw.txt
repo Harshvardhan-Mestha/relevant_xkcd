@@ -1,0 +1,232 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1930: Calendar Facts
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1930)
+|<< PrevComic #1930 (December 18, 2017)Next >>|
+Calendar Facts
+
+Title text: While it may seem like trivia, it (causes huge headaches for software developers / is taken advantage of by high-speed traders / triggered the 2003 Northeast Blackout / has to be corrected for by GPS satellites / is now recognized as a major cause of World War I).
+Explanation[edit]
+This is the second comic using Facts in the title.
+Randall presents what appears to be a generator of 156,000 facts [20 x 13 x (8 + 6 x 7) x 12], about calendars, most of which are false or have little meaning[citation needed]. The facts are seeded by a mishmash of common tidbits about the time of year.
+The formula for each generated fact goes as follows: "Did you know that [a recurring event] [occurs in an unusual manner] because of [phenomena or political decisions]? Apparently [wild card statement]."
+This is the fifth time that Randall has referred to the phenomenon of a supermoon, which he typically makes fun of, most prominently in 1394: Superm*n.
+The title text continues the chart with supposed real-life consequences of the trivia in the comic.
+There are multiple online generators of Calendar 'facts' using this formula here and here.
+All 156 000 possible combinations can be found here, lovingly assembled by hand (or rather, by a Python script) for your entertainment. A random fact generator (including title text), written in Python, can be found here.
+Elements[edit]
+Entry What it is Relation to other entries
+Recurring Events
+The [Fall/Spring] Equinox The time of year at which the apparent position of the overhead sun passes the equator. During the equinox, the time that the Sun is above the horizon is 12 hours across the globe. Before the adoption of the Gregorian calendar in 1582, the equinoxes fell on earlier and earlier dates as the centuries went by, due to the Julian calendar year being 365.25 days on average compared to the tropical Earth year of 365.2422 days. Pope Gregory's decision to remove the leap days on years that were multiples of 100 but not 400 corrected the average length of the calendar year to 365.2425 days.
+The [Winter/Summer] Solstice The time of year when the apparent position of the overhead sun reaches its most extreme latitude. During the Winter and Summer solstices the days are the shortest and longest respectively. Similar to the equinoxes, the solstices were also falling on earlier dates every year before the Gregorian calendar.
+The [Winter/Summer] Olympics The Olympic Games occur during the summer and the winter, alternating between the two seasons every two years. The Olympic Games do not have any set dates, and seem to only be included humorously as something else that alternates between occurring during the summer and winter.
+The [latest/earliest] [sunset/sunrise] The extremes of times that the sun crosses a horizon according to a clock that keeps a fixed 24 hours as opposed to varying with the sun like a sundial. The latest sunset and earliest sunrise occur around the summer solstice; the latest sunrise and earliest sunset occur around the winter solstice. They do not occur exactly on these dates due to the equation of time causing drift in the times that sunsets and sunrises occur.
+Daylight [saving/savings] time Daylight saving time, commonly referred to as daylight savings time, is the practice of setting clocks ahead, typically by one hour, during the summer months of the year. Daylight saving time will push the time of certain events such as sunrise and sunset past their "natural" times. For example, solar noon will occur around 1:00 PM instead of 12:00 noon when daylight saving time is active, making it the "wrong" time.
+Leap [day/year] Because the durations of celestial events are not generally nice multiples of each other, they will tend to fall out of sync with each other. Leap days are days inserted into specific years to bring the calendar back into sync, and the years on which these leap days occur are called leap years.
+Easter Easter is a holiday celebrating the death and resurrection of Jesus. Traditionally it was defined as the Sunday after Passover; today, it is the first Sunday after the first full moon after the spring equinox. This complicated formula has a long tradition behind it, known as Computus. When Pope Gregory decided to change the calendar in 1582, it was because the spring equinox was putting Easter on unexpectedly early dates.
+The [harvest/super/blood] moon
+The harvest moon is the full moon that appears closest to the autumnal equinox.
+The supermoon is a phenomenon in which the moon is full at its closest approach to the Earth.
+The blood moon is a moon that appears tinted red during a total lunar eclipse because of light refracted from the Earth's atmosphere. It can also refer to the hunter's moon, the full moon directly after the harvest moon.
+Each of these lunar events happens approximately once a year.
+The harvest moon appears exactly once because it has a particular definition based on the time of year.
+The cycle of the distance of the full moon lasts about 13.5 months (14 full moons). However, because a supermoon is defined as any full moon that is within 10 percent of the closest relative distance possible (with 0 being perigee and 1 being apogee), it happens multiple times a cycle, for a total of usually 3 to 4 times per year.
+The blood moon during a lunar eclipse appears between zero to two times a year. The hunter's moon appears exactly once like the harvest moon.
+Toyota Truck Month Toyota offers a discount for Tacoma trucks one month a year. Mainly notable because radio and television ads hype this discount up as "Toyota Truck Month".
+Shark Week Every year, the Discovery Channel dedicates a week during the summer to programming featuring or about sharks.
+Unusual manners in which the events occur
+happens [earlier/later/at the wrong time] every year The solstices and equinoxes happened earlier every year before the decree by Pope Gregory in 1582. The earliest sunrise happens one hour later than it "should" happen due to daylight saving time having turned the clocks forward one hour.
+drifts out of sync with the [sun/moon] The Sun and Moon are generally what calendars are based on. If something were to drift out of sync, some corrective mechanism would have to be put in to put it back. This is the motivation behind leap years, leap months (in countries with lunisolar calendars) and leap seconds.
+drifts out of sync with the zodiac The dates on which the Sun crosses the constellations in the traditional zodiac has shifted in the past centuries due to the precession of the Earth's axis. In the period of time traditionally known as Aries (March 21–April 20), for example, the Sun actually points to Pisces instead.
+drifts out of sync with the [Gregorian/Mayan/lunar/iPhone] calendar
+The Gregorian calendar is a solar calendar with a mean calendar year length of 365.2425 days.
+The Mayan calendar is based on two cycles or counts, with a 260-day count combined with a 365-day "vague" solar year.
+A lunar calendar is based on Moon's phases, with each lunation being approximately 29.5 days, and a lunar year lasting roughly 354 days. An example of a lunar calendar is the Hebrew calendar.
+The iPhone calendar is listed humorously due to its data synchronization issues.
+drifts out of sync with the atomic clock in Colorado
+NIST-F1 is an Atomic clock used as a reference for official time in the USA.
+might [not happen/happen twice] this year Some events may have a period of slightly more or slightly less than one year. If an event has a period of slightly less than one year (e.g. the Islamic calendar), it can occur twice in the same solar year (e.g. the year 2000 had two Eid al-Fitrs—one on January 8, and one on December 28). If an event has a period of slightly more than one year, there can be a year in which it does not occur at all, instead occurring near the end of the previous year and the beginning of the next.
+Cause (phenomena or political decisions)
+time zone legislation in [Indiana/Arizona/Russia] Some states or provinces have time zone legislation that sets the standard time to something other than what the natural longitude of that location would suggest.
+The state of Arizona generally does not observe daylight saving time, keeping their clocks on UTC-7:00 Mountain Standard Time year round. However, the Navajo nation reservation inside Arizona does observe it, causing the two regions to have different times in the summer and the same time in the winter.
+Time zones in Russia are all one hour ahead of what their longitude would suggest, which puts them in a "permanent" state of daylight saving time. (For example, St. Petersburg is 30°E, which means that its natural time zone is UTC+2:00, but its time zone is actually UTC+3:00.) From 1981 until 2011 Russia used to have the daylight saving time on top of it as well. The other changes include the abolition of the one-hour shift in 1991 and a return it back in 1992, and an increase to two hours in 2011 and a restoration back to one hour in 2014.
+Indiana has a complicated history with daylight saving time, likely related to the state being split between two time zones.
+a decree by the Pope in the 1500s In 1582, Pope Gregory introduced the Gregorian Calendar, the calendar we use today, to replace the Julian Calendar. The calendar applied retroactively to the birth of Jesus Christ, which means that they had to skip 10 days, going straight from October 4 to October 15, 1582, during the switchover. The introduction of the Gregorian calendar brought Easter and the dates that months started back in sync with what they were in the 3rd century AD.
+the precession of The Earth's axis is slowly changing position, in a phenomenon called the precession of the equinoxes. The precession of the equinoxes causes the seasons to occur about 20 minutes earlier than would be expected with the Earth's position relative to the stars, which could be construed as the equinox happening "later every year" if you use the stars as your frame of reference.
+the libration of The Moon is tidally locked to its orbit around the Earth, which means that the same side of it tends to face the Earth at any given point in time. However, there are slight variations in the angle over the course of a month, which are known as libration. The libration of the Moon does not affect anything else in the chart, and seems only be included humorously as another example of a celestial phenomenon.
+the nutation of Besides precession, there is also a smaller wobbling effect called nutation.
+the libation of A libation is a drink, often used in the context of a ritual offering of liquid to a deity by pouring it onto the ground or into something that collects it. This entry seems to have been included simply as a humorous misspelling of the word "libration". Certainly libation of any of the entities listed would be inadvisable.[citation needed]
+the eccentricity of Orbital eccentricity is the deviation of a body's orbit from a perfect circle. Orbital travel is faster when it's closer to the body being orbited and slower when farther away. The Earth's eccentric orbit causes the equinoxes and solstices to occur at irregular intervals. For example, summer in the northern hemisphere lasted 93 days in 2017, while fall only lasted 90 days.
+the obliquity of The tilt of the Earth's axis relative to the ecliptic is also known as its obliquity.
+the Moon The Moon is the primary satellite of the Earth.
+the Sun The Sun is the star that the Earth orbits around. The Sun is the basis for many timekeeping events, such as the day and year.[citation needed]
+the Earth's axis The Earth's axis of rotation defines the Geographic North and South Pole, as well as the lines of latitude.
+the Equator The Equator is the line on the Earth's surface which is equidistant from both poles of the Earth's axis.
+the Prime Meridian The Prime Meridian is the line that starts at the geographic North Pole, runs through the Greenwich Royal Observatory in London, and ends at the South Pole. It is the basis for longitude when calculating coordinates for positions on the surface of the Earth. The Prime Meridian (and in particular the Greenwich Observatory) gives us Greenwich Mean Time (GMT), which is the basis for UTC and the time zone system.
+the International Date Line The International Date Line is a line on the opposite side of the Earth as the Prime Meridian that separates regions that use time set behind UTC versus regions that are set ahead of UTC. It has many irregularities due to political changes that put certain countries or islands on either side of the divide contrary to their natural longitude. The irregular shape of the International Date Line means that certain regions of the Pacific Ocean (such as Kiribati) are more than 24 hours ahead of some other regions (such as Baker Island and American Samoa), which may cause problems with timekeeping.
+the Mason-Dixon Line The Mason-Dixon line is a line delineating a portion of the border between Pennsylvania, Maryland, and Delaware. The Mason-Dixon line is included as a humorous example as another imaginary geographic line.
+magnetic field reversal The Earth's magnetic field has been reversed several times in its geologic history, so that what we would currently call the "magnetic North Pole" was near the geographic South Pole about 780,000 years ago, before the most recent reversal.
+an arbitrary decision by Benjamin Franklin Benjamin Franklin wrote a letter to the Journal of Paris in 1784 in which he advised them to rise with the sun in order to save candlelight, after he observed that the Parisians were getting up at the same time by the clock and burning a lot of candles in the winter as a result.
+An "arbitrary decision by Benjamin Franklin" also likely refers humorously to Franklin having defined positive charge to be that which is left on a glass rod by rubbing it with silk. As described in 567: Urgent Mission, this had the unfortunate consequence of assigning a negative value to the charge of the electron, which was later identified as the fundamental carrier of electric charge.
+Benjamin Franklin is often touted as "the father of daylight saving time", despite him never actually proposing to alter the clocks.
+an arbitrary decision by Isaac Newton Possibly a reference to how Newton divided the color spectrum into the now-familiar seven colors of the rainbow, on a somewhat arbitrary basis. Newton did spend time working on the problem of calendar reform, but it's unlikely that any decisions he made as a result would affect anything, since he never published his work, and by the time it gained attention the Gregorian Calendar had been widely adopted. The spectrum fact is one of those standard bits of trivia of the kind the chart alludes to. Although it has nothing to do with time-keeping, Newton is the sort of person who seems like he should have made decisions like this.
+an arbitrary decision by FDR Franklin Delano Roosevelt set all time zones one hour ahead year-round during World War II. The law was repealed after the war ended.
+Additionally, he changed the date of Thanksgiving from the last Thursday in November to the third Thursday in November as a way to increase the length of the Christmas shopping season. It was later changed to the fourth Thursday after his death.
+Setting the time permanently one hour ahead would make everything happen at the "wrong" time celestially.
+Related 'fact'
+It causes a predictable increase in car accidents. The week following daylight saving time, car accidents increase by about 5-7%.[1]
+That's why we have leap seconds. Leap seconds occur because the time required for one rotation of the Earth is actually slightly longer than the 86,400 seconds in a standard UTC day. The Earth's rotation is slowing down by about 2 × 10-5 seconds every year due to tidal friction caused by the Moon's gravity; however, this is not one of the possible entries in the list of phenomena.
+Scientists are really worried.
+it was even more extreme during the [Bronze Age/Ice Age/Cretaceous/1990s]. This may be reference to debates over climate change, where global temperature changes during these periods are frequently cited as supposedly proving / disproving human-related change. Solar events, such as sunspot activity, are often invoked as explaining temperature change in these debates. However, while there are a number of potential sun-related 'facts' that could be generated, none touch on sunspots.
+There's a proposal to fix it, but it [will never happen/actually makes things worse/is stalled in Congress/might be unconstitutional]. Time zone reform is surprisingly a very controversial and politicized issue, with special interests on either side looking to modify it to fit their needs. Examples of proposals to modify the scheme include:
+Extend the duration of daylight saving time by one month, which was done in 2007 in many states as part of an energy-saving proposal by George W. Bush.
+Reduce the duration of daylight saving time back to its original span, or further.
+Eliminate daylight saving time altogether, going back to using standard time.
+Abolish daylight saving time but advance the time zone by one hour, effectively instating daylight saving time year round. This was done during World War II, and is also done in certain areas of Canada like Saskatchewan (which from 1966 onwards has observed Central Standard Time despite the entire province being squarely in the Mountain longitudes).
+Abolish daylight saving time and advance the time zone by 30 minutes, splitting the difference between the current standard time and daylight saving time.
+Abolish daylight saving time, but make government offices open one hour earlier in the summer, encouraging private businesses to do the same. This was done by Warren G. Harding in 1922 because he felt that changing the clocks was a "deception", but was rolled back the next year as it caused mass chaos in terms of what businesses decided to do to adapt to the change in business hours.
+Reduce the number of time zones in the United States to two, consolidating Pacific time into Mountain time (UTC-7:00), and Eastern time into Central time (UTC-6:00). This was proposed in a 2013 article in Quartz by Allison Schrager.
+At best, these time zone proposals will be fraught with controversy, with both sides arguing for the benefits of their time system. Some proposals, such as the 30-minute and 20-minute suggestions, would put the minute hands of the entire United States out of sync with the rest of the world, defeating the purpose of time zones with hourly UTC offsets in the first place, which could be construed as "making things worse".
+It's getting worse and no one knows why.
+Title Text: Consequences
+causes huge headaches for software developers Trying to support time zones correctly for all dates present and historic is a mishmash of different regional laws, time zones, and DST changes. The headache is best exemplified in this video by Tom Scott.
+is taken advantage of by high-speed traders A leap second must be taken into account by trading software, and may cause bugs if not accounted properly. Because leap seconds happen at midnight UTC, it might happen in regular trading hours for somebody living in Seattle, where the time zone is UTC-08:00. Somehow, a high-frequency trader may try to take advantage of any bugs in the software if they are not built to handle this particular case. This scenario is relatively unlikely because the market software can keep its own "market-official time" and synchronize with the correct time while the market is closed.
+triggered the 2003 Northeast Blackout The Northeast blackout of 2003 was caused by a race condition in the energy management software at a power plant in Ohio. In a race condition the result of a computation is different depending on the order of completion of the operations, even though the result is supposed to be independent of that order. Race conditions can theoretically be caused by mismatched timestamps.
+has to be corrected for by GPS satellites Because Global Positioning System (GPS) satellites are further from the earth than surface receivers, their clocks run faster than clocks on the surface due to general relativity. But they are also slower because they are moving faster than surface receivers, as explained by special relativity. Also, their clocks are not updated for leap seconds. All these factors mean that GPS satellites have a different timekeeping standard than clocks on the ground which are generally synchronized to Greenwich solar time.
+is now recognized as a major cause of World War I. Daylight saving time was first implemented in World War I as a fuel-saving measure. Randall seems to be humorously implying that World War I was started in order to implement these fuel-saving measures during peacetime as well.
+Examples of true complete statements[edit]
+Did you know that the spring equinox drifts out of sync with the zodiac because of the precession of the Earth's axis? Apparently it was even more extreme during the Ice Age.
+Did you know that daylight saving time might happen twice this year because of time zone regulation in Russia? Apparently there's a proposal to fix it, but it actually makes things worse. (True in Russia in 1981)
+Did you know that leap year might not happen this year because of a decree by the pope in the 1500s? Apparently there's a proposal to fix it, but it will never happen. While it may seem like trivia, it causes huge headaches for software developers. (The Pax calendar proposes that 2018 be a leap year. If anyone finds a calendar in which 2017 is a leap year, I'd love to see it!)
+Transcript[edit]
+-Calendar Facts-
+[Shown below is a branching flow chart of sorts that begins at the phrase "Did you know that", then flows through various paths to build up a sentence. (Note that the "→" arrow symbol is used below to indicate a new branch with no intermediate text from a previous branch.)]
+Did you know that:
+the ( Fall | Spring ) Equinox
+the ( Winter | Summer ) ( Solstice | Olympics )
+the ( Earliest | Latest ) ( Sunrise | Sunset )
+Daylight ( Saving | Savings ) Time
+Leap ( Day | Year )
+Easter
+the ( Harvest | Super | Blood ) Moon
+Toyota Truck Month
+Shark Week
+→
+happens ( earlier | later | at the wrong time ) every year
+drifts out of sync with the
+Sun
+Moon
+Zodiac
+( Gregorian | Mayan | Lunar | iPhone ) Calendar
+atomic clock in Colorado
+might ( not happen | happen twice ) this year
+because of
+time zone legislation in ( Indiana | Arizona | Russia )
+a decree by the pope in the 1500s
+( precession | libration | nutation | libation | eccentricity | obliquity ) of the
+Moon
+Sun
+Earth's axis
+equator
+prime meridian
+( International Date | Mason-Dixon ) Line
+magnetic field reversal
+an arbitrary decision by ( Benjamin Franklin | Isaac Newton | FDR )
+?
+Apparently
+it causes a predictable increase in car accidents.
+that's why we have leap seconds.
+scientists are really worried.
+it was even more extreme during the
+Bronze Age.
+Ice Age.
+Cretaceous.
+1990s.
+there's a proposal to fix it, but it
+will never happen.
+actually makes things worse.
+is stalled in congress.
+might be unconstitutional.
+it's getting worse and no one knows why.
+References[edit]
+↑ http://www.cbc.ca/news/canada/end-of-daylight-saving-time-2015-6-eye-opening-facts-1.3296353
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Shouldn't it be "libration" not "libation"? Pretty sure drinking has nothing to do with it. Also pretty sure this is a mistake and not a clever alteration. 162.158.62.57 16:41, 18 December 2017 (UTC)
+No, it's a clever alteration because "libration" is listed right above it. --Videblu (talk) 16:45, 18 December 2017 (UTC)
+That's just a mistake - he meant to write 'vibration'141.101.76.16 16:48, 18 December 2017 (UTC)
+'Vibration' wouldn't make any sense, 'libation' is at least humorous, I vote it was no mistake. 172.68.54.64 18:00, 18 December 2017 (UTC)
+You're right - I don't know what I could have been thinking...141.101.76.16 08:49, 19 December 2017 (UTC)
+I formatted the transcript into a bullet tree since I thought it was the closest equivalent you can get in plain text to the branching flowchart deal in the comic. I'm open to alternative suggestions. The biggest problem I encountered, and one I'd like to see resolved, is what to do in the case where two branching sections butt up against each other, e.g. winter/summer and solstice/Olympics. I used an arrow symbol ("→") on an in-between line just to separate the set of bullets, but if someone wants to change that, I'm up for it. Kenbellows (talk) 18:04, 18 December 2017 (UTC)
+I find the bullet tree legible for the last few long lines, but it's hard to follow a single path. I was thinking of using (option 1|option 2) syntax, but that would probably look messy too. 162.158.91.29 18:10, 18 December 2017 (UTC)
+I think indenting when lines diverge and un-indenting when they converge would make it look nice and be easy to follow. I'm willing to do the work if others agree. 162.158.74.9 23:58, 18 December 2017 (UTC)
+Could you do it? I don't see what it looks like. Is it similar to this? 162.158.88.68 06:16, 19 December 2017 (UTC)
+Random error noticed - the line connecting "International Date" and "Mason-Dixon" to "Line" is drawn in the wrong color. 162.158.75.136 18:57, 18 December 2017 (UTC)
+Isn't the point with this comic that there is at least one valid path for every included element? I don't think Randall intended it to be a factorial combination because as the explanation suggests, most would be wrong/absurd/silly. But why not instead try to find some invalid element when it can be included in any possible path from end to end? Toyota Truck Month or Shark Week might not happen next year, who knows? Can anyone find any element that has no valid path at all? If not, then maybe the main explanation should be updated to fit the model recommended here.Lunar7 (talk) 20:05, 18 December 2017 (UTC)
+I'm not sure there's any 'fact' that could be constructed that 'scientists are really worried' about. Unless it's something to do with Shark Week. Although having said that, it doesn't actually say that they're worried 'about it', so I guess you could append this to any otherwise true fact and still have something true, albeit non sequitous. 141.101.76.16 08:53, 19 December 2017 (UTC)
+I'm pretty sure the whole point of this comic was to be a "screw you" to the Explain XKCD crew. Way to roll with the punches. 172.68.174.16 (talk) (please sign your comments with ~~~~)
+Generators
+PIBWEB online generator of Calendar 'facts' using this formula.
+http://calendarfact.com/ (https://github.com/mstratman/calendarfact)
+https://staab.github.io/xkcd-1930/
+Not sure who's responsible for this, but there seem to be a few errors. "Might (not happen/happen twice) this year" is missing "this year", and "the (harvest/super/blood) moon" is similarly missing "moon". Also, I see a part "happens at the same time every year" that I don't see in the comic. Are there any other additions; and is there a way to find them other than keep refreshing? -- Angel 18:40, 18 December 2017 (UTC)
+Checked the source; looks like "at the same time" replaces "at the wrong time". Also, some of the options are missing a "." between the main tree and the title text or at the end of the sentence. (And for some reason every time I go to edit this talk page, the wiki logs me out) -- 162.158.91.167 18:48, 18 December 2017 (UTC)
+The source is on github - you can add pull requests to fix errors (I'll take care of the aforementioned errors).
+Here's mine.
+http://www.hearn.to/calendar.html
+172.68.142.65
+
+Here's one I wrote on jsFiddle. Glad I'm not the only one who read this and immediately thought, "I must code this!" 172.68.34.64 21:29, 18 December 2017 (UTC)
+https://jsfiddle.net/qa290hss/3/
+
+Here's a GraphML gist that I knocked up:
+https://gist.github.com/GeoSpark/0c64cb85ca8927175892f43f23ba1bdb
+The only change I made was to "precession", "libration", etc by adding the word "the" in front because it reads better. At least to my British English sensibilities. YLMV.
+
+I tuned it into a twitter bot: http://twitter.com/xkcd_cal_facts. It’s built using Tracery and cheapbotsdonequick.com
+https://codepen.io/DouglasMeyer/full/YYqKzX/
+I made one too! https://jsfiddle.net/kr661rhy/
+Here's my python implementation (it ain't pretty, but then I'm not very good at python yet, either):
+https://github.com/aroaminggeek/xkcd-calendar-facts-python/
+And my Crystal implementation:
+https://github.com/aroaminggeek/xkcd-calendar-facts-crystal/
+As there are many generators isn't better to remove links to generators from the comic explanation and add a link to this section?
+Here is my implementation in Haskell:
+https://github.com/mwuttke97/xkcd1930 162.158.90.222 19:57, 20 December 2017 (UTC)
+I made a Python command and function;
+Package: https://pypi.python.org/pypi/calendar-fact
+Source: https://gitlab.com/uda/calendar-fact
+YehudaDe (talk) 08:43, 21 December 2017 (UTC)
+I wrote a command line tool in node.js. My code's pretty concise because it doesn't hard code all possible options for each "piece" but uses the "(choice|choice|choice)" syntax.
+Package: https://npmjs.com/package/xkcd-calendar-facts
+Source: https://github.com/shreyasminocha/calendar-facts 172.68.144.211 (talk) (please sign your comments with ~~~~)
+I created a human-readable file format to represent structures like the one in the comic, then wrote a C program to parse those files, so now you can write your own calendar facts.
+Source: https://github.com/saucecode/adventure-sets 198.41.238.82 03:13, 13 October 2018 (UTC)
+Equinox
+I don't think this is the correct definition for equinox, the plane comprising the Earth orbit around the Sun is never perpendicular to the Earth's axis. During the equinox the sun rays arrive to the Earth perpendicular to the equator line, this would be better. 172.68.62.238 22:10, 18 December 2017 (UTC)CBM
+I agree with the comment above; the Earth's axis is always tilted 23 degrees from the plane of the orbit. There are times the North pole is tilted toward the Sun and times it is tilted away from the Sun. Twice a year (at the equinoxes) the tilt is perpendicular to the Sun. 108.162.221.239 22:47, 18 December 2017 (UTC)
+I've edited the descriptions - do they look better now? 162.158.126.28 00:32, 19 December 2017 (UTC)
+Daylight Saving Time
+Twice the description references locations that don't follow the common DST plan as 'other than the natural latitude would suggest'. The longitude would suggest a time zone, not the latitude. 108.162.221.239 22:47, 18 December 2017 (UTC)
+Arbitrary decision by Benjamin Franklin
+The electric charge on an electron is conventionally described as being negative. I was always taught that this was because of a more or less arbitrary decision made by Franklin. I suspect Mr Munroe is humorously conflating this with Franklin's connection to Daylight Saving Time.
+Favorite combinations
+My personal favorite: “Did you know that Toyota Truck Month happens at the wrong time every year because of a decree by the pope in the 1500s? Apparently it’s getting worse and no one knows why. While it may seem like trivia, it is now recognized as a major cause of World War 1. PotatoGod (talk) 02:06, 19 December 2017 (UTC)
+Did you know that the Blood Moon might happen twice this year because of a decree by the pope in the 1500s? Apparently there's a proposal to fix it, but it actually makes things worse. While it may seem like trivia, it is now recognized as a major cause of World War 1. (I suspect the WW1 line will feature in a lot of people's favorite combinations—it's just so random!) GreatWyrmGold (talk) 21:05, 19 April 2021 (UTC)
+
+Got this from the link to the fact generator, and I like that too, maybe because it is close to the one above, which I first saw now:
+Calendar Facts by xkcd
+Did you know that Shark Week drifts out of sync with the sun because of a decree by the pope in the 1500s?
+Apparently it's getting worse and no one knows why.
+While it may seem like trivia, it triggered the 2003 Northeast Blackout.
+Damn sharks and pope decree. --Kynde (talk) 10:08, 19 December 2017 (UTC)
+"Did you know that Shark Week might happen twice this year because of..." Sold. Don't care about the rest. 172.68.34.64 23:28, 20 December 2017 (UTC)
+Is no one going to mention that "Shark Week" sometimes is used as slang to refer to menstruation? That's what I thought of the moment I saw it, and since cycles are roughly every 28 days but can change length slowly to re-synchronize (with others or for various reasons) that might be another valid interpretation. 172.69.22.86 20:14, 31 December 2017 (UTC)Rowan
+
+What's incomplete in this explanation? Seems pretty exhaustive to me. Can't we remove the incomplete tag? Zetfr 15:09, 2 May 2018 (UTC)
+The explanation says the comic generates facts. But as most of them are false it should refer to them as factoids. 162.158.38.8 11:19, 18 February 2020 (UTC)
+I don't see it... it clearly says it "appears to be a generator of 156,000 facts [...], about calendars, most of which are false or have little meaning" with the word appears and the statement following right after, that most are false.--Lupo (talk) 13:03, 18 February 2020 (UTC)
+this is the same general pick-and-choose idea as the star wars spoiler one 172.70.126.211 15:15, 8 November 2021 (UTC)BUmpf
+Categories: All comicsComics from 2017Comics from DecemberMonday comicsPages using the "citation needed" templateCalendarChartsFactsComics featuring real peopleDaylight saving timeTimeScienceAstronomySupermoonSharks

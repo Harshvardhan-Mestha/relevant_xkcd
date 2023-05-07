@@ -1,0 +1,359 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1916: Temperature Preferences
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1916)
+|<< PrevComic #1916 (November 15, 2017)Next >>|
+Temperature Preferences
+
+Title text: There's a supposed Mark Twain quote, "The coldest winter I ever spent was a summer in San Francisco." It isn't really by Mark Twain, but I don't know who said it—I just know they've never been to McMurdo Station.
+Explanation[edit]
+This is a chart of major (and not-so-major) populated areas showing seasonal temperature patterns. The chart is a guide to where one might like to live depending on how much summer heat and winter cold they enjoy. There are four focused zones:
+Hate both cold and heat -- Neither summers nor winters are too extreme. These are either places at high altitude in the tropics (e.g. Quito, Addis Ababa) or areas at mid latitudes in Mediterranean climates (e.g. San Francisco, Wellington). All of these areas (as well as cities near this zone such as Mexico City and Melbourne) have a climate type of C-b in the Koppen Climate Classification, indicating a temperate climate with a warm summer.
+Hate cold but love heat -- Very hot in the summer. These are all either tropical regions with a latitude of 23°26’ or less (e.g. Rio, Bangkok, Manila) or desert areas very near the tropics (e.g. Needles, Baghdad). These areas all have a climate type of A-, indicating a tropical rainforest, savanna, or monsoon climate; or a classification of B-h, indicating a hot desert or arid climate. All cities listed with a Af/Am/Aw climate type fall in this zone.
+Hate heat but love cold -- Very cold in the winter. These are typically places at high latitudes (e.g. Moscow, Oslo), with almost none of the places listed below 40°, and the average latitude being 51°. These areas tend of have a climate type of B-k, indicating a cold desert or steppe, or D-b, indicating a continental climate with a warm summer. Some of coldest places, including those off of the chart, have a climate of Dfc subarctic (e.g. Fairbanks and Yellowknife) or EF ice cap (McMurdo).
+Love both heat and cold -- Both summers and winters are extreme. These places are either in the inland of North America (e.g. Sioux Falls, Kansas City) where there is no nearby ocean to buffer temperatures; or, interestingly, clustered around the Yellow Sea (e.g. Seoul, Beijing). These places are almost all climate type D-a, indicating a continental climate with a hot summer. Turpan, the place farthest toward the love heat/love cold corner, has a climate so miserable that it meets the requirements for both climate type BWk (cold desert) and BWh (hot desert) at the same time.
+The summer heat axis is determined by humidex, a system that combines heat and humidity to generate an estimate of perceived "summer discomfort".
+Note that if the values from this table are charted, the result is similar but not exact to how Randall drew the comic. For instance, he shows Kinshasa as having a “colder” winter than Honolulu, but the average low in the coldest month for Kinshasa (20°C) is hotter than the average low in Honolulu (18.9°C). In general these differences are minor, but a few stand out:
+Lubbock is shown having a climate similar to Geneva or Budapest, but in reality it should be in the “Love Cold and Love Heat” zone. The coldness of the winter is accurately reflected, but the hottest month Humidex is similar to Xi’an or Saint Louis.
+Casper is shown in the “Love Cold and Hate Heat” zone, but its summers are much warmer than shown. It should be closer to Toronto, both have a peak month Humidex of around 30-31°C.
+Omaha should be in the “Love Cold and Love Heat” zone. Its hottest month Humidex of 37.2 is warmer than Jinzou, which has a similar coldest month.
+Los Angeles should be in the “Hate Cold and Hate Heat” zone. Its hottest month Humidex is only 26.7, which is less than Mexico City or Nairobi.
+Flagstaff and Santa Fe are shown as having warmer winters than they do. They should be grouped with Boston, Kabul and Sapporo (average coldest month low of -5°C to -8°C) rather than Istanbul, Madrid and Portland (average coldest month low of 1°C to 2°C)
+It is not certain if these differences are a due to errors, the use of a different data set, or deliberate “Easter Eggs” set to see if anyone would notice.
+According to Randall:
+People who love cold should live where the average low in the coldest month is -3°C or less.
+People who love heat should live where the hottest month Humidex is at least 33°C (in otherwise cold places such as Minneapolis) to 38°C (in otherwise hot places such as Honolulu).
+People who hate cold should live where the average low in the coldest month is higher than 3°C.
+People who hate heat should live where the hottest month Humidex is less than 29°C.
+However, given the great variability of weather patterns across the globe, it's not altogether clear how useful this would actually be to someone looking to choose where to live, since it's not clear exactly what "love/hate hot/cold" would mean. It's also not clear that the relationship between temperature and discomfort is linear. More likely is that there is a small temperature band where each degree of change causes significantly more discomfort, and beyond which it's just "too hot/cold".
+Hottest and coldest month therefore may not be the best measure. For example, is one or two very cold days better or worse than a month's worth of moderately cold days? Shown in the table below for each place are the number of days above 32°C (90°F) and the number of days below 0°C (32°F), taken from Weatherbase.com (Randall's source). For most people a temperature above 32°C is considered hot and a temperature below 0°C is considered cold. So, for instance, someone who loves heat might want to live in Tehran (with three months above 32°C) rather than Beijing (with only one month) even though the peak month Humidex in Beijing is higher. Someone who loves cold might want to live in Santa Fe, where it never gets particularly cold (only -8°C) but where it is below freezing almost half of the year (179.8 days on average). In general though, the places with the most hot or cold days also have the hottest and coldest extremes.
+Once again, Turpan stands out for its misery, with days above 32°C totaling four months and days below 0°C totaling four months. In fact, on average there is at least one day every month of the year that the temperature is either above 32°C or below 0°C. This includes almost every day in June, July and August being hot and every single day in December, January and February being below freezing.
+Some of the most extreme climates on earth are not shown on this comic, however, perhaps because some of them are uninhabited. Eismitte (a camp established in the center of Greenland in the 1930s) and Vostok Station (in the center of Antarctica) both see temperatures far colder than McMurdo, although being in the middle of ice caps neither can be inhabited without outside support. The areas around Oymyakon and Verkhoyansk in eastern Siberia also see temperatures colder than McMurdo and are actual towns, although summer temperatures are much higher. In both places the summer weather is generally average (Humidex of 22°C to 23°C) but they have seen record highs of 34°C to 37°C and record lows of almost -68°C, giving them the greatest temperature swings on earth. Bouvet Island is a small island in the South Atlantic Ocean, near the latitude where there are no land masses to interrupt storms and currents (south of South America but north of Antarctica). As a result it has one of the most consistent climates on earth, with a high and low almost always within a few degrees of 0°C all year long – a perpetual state of almost to just freezing, combined with clouds, fog, wind and rain from ocean storms. Death Valley in California, Shahdad in Iran, and Murzuk in Libya all vie for having the highest temperature in the world, although not the highest Humidex.
+The relevant temperature data for these extreme locations, where known, is in the second table for comparison.
+The title text refers to a quote sometimes attributed to Mark Twain; however, as it points out, the quote is misattributed, and it is unknown who created it. The text then goes on to claim that the person who originally said the quote never visited McMurdo Station, a US Antarctic research center, which is certainly a colder place than San Francisco.
+City Country Continent Preference Type Average low in coldest month (°C) Average high in hottest month (°C) Highest monthly average dew point (°C) Humidex Average Annual Days Below 0°C Average Annual Days Above 32°C Latitude Elevation (m) Koppen Climate Classification
+Abakan Russia Asia -22 26 13 28.8 207 6 53° 43′ N 240 Dwb (humid continental) / BSk (cold semi-arid)
+Addis Ababa Ethiopia Africa Hate Both 10 22 11 23.8 0 0 9° 1′ N 2355 Cwb (subtropical highland)
+Altay China Asia Love Cold, Hate Heat -22 27 8 27.4 181 13 47° 52′ N 887 BSk (cold semi-arid)
+Athens Greece Europe 7 31.8 14 35.2 2 34 37° 59′ N 70 Csa (hot Mediterranean)
+Atlanta United States North America 1.3 31.7 20.1 39.4 36.3 35.7 33° 45′ N 225 Cfa (humid subtropical)
+Baghdad Iraq Asia Love Heat, Hate Cold 3 43 8 43.4 15 178 33° 20′ N 34 BWh (hot desert)
+Bangkok Thailand Asia Love Heat, Hate Cold 21 34 24 45.3 0 13° 45′ N 1.5 Aw (tropical savanna)
+Barcelona Spain Europe 4.4 28 18 34 6 1 41° 23′ N 12 Cfa (humid subtropical) / Csa (hot Mediterranean)
+Beijing China Asia Love Both -8 30 20 37.6 121 30 39° 55′ N 43.5 Dwa (hot wet summer humid continental)
+Berlin Germany Europe -3 22 11 23.8 97 0 53° 31′ N 34 Cfb (temperate oceanic)
+Blagoveshchensk Russia Asia -26.2 27.3 16 31.9 204 3 50° 15′ N Dwa (hot wet summer humid continental)
+Bogotá Colombia South America Hate Both 6 19 10 20.3 0 0 4° 42′ N 2640 Cfb (temperate oceanic)
+Boston United States North America -5.4 27.6 16.3 32.4 97.7 12.5 42° 21′ N 43 Dfb (warm summer humid continental)
+Brisbane Australia Oceania 9 28 18 34 0 9 27° 28′ S 28 Cfa (humid subtropical)
+Budapest Hungary Europe -3 26 12 28.3 100 7 47° 29′ N 96 Cfb (temperate oceanic)
+Buenos Aires Argentina South America 7.4 30.4 16 35 14 21 34° 36′ S 25 Cfa (humid subtropical)
+Cairo Egypt Africa Love Heat, Hate Cold 9 33 18 39 0 125 30° 2′ N 23 BWh (hot desert)
+Calgary Canada North America Love Cold, Hate Heat -13.2 23.2 7 23.2 194.4 4.5 51° 3′ N 1045 Dwb (warm wet summer humid continental)
+Cape Town South Africa Africa 8 25 15 29 0 6 33° 59′ S 42 Csb (warm Mediterranean)
+Casper United States North America Love Cold, Hate Heat -10.3 31.2 6.8 31.1 183.4 30.6 42° 51′ N 1560 Bsk (cold semi-arid)
+Chengdu China Asia 2 28 22 37.3 12 14 30° 29′ N 500 Cwa (dry winter humid subtropical)
+Dallas United States North America Love Heat, Hate Cold 3 36 19.4 43.1 29.3 95 32° 46′ N 131 Cfa (humid subtropical)
+Da Qaidam China Asia Love Cold, Hate Heat -23 22 -6 18.6 242 0 37° 50′ N 3174 Bwk (cold desert)
+Dar es Salaam Tanzania Africa Love Heat, Hate Cold 19 31 23 41.3 0 0 6° 48′ S 24 Aw (tropical savanna)
+DC United States North America -1.9 31.3 19.1 38.1 60.6 31 38° 54′ N 50 Cfa (humid subtropical)
+Delhi India Asia Love Heat, Hate Cold 7.8 39.8 24 51.1 0 174 28° 36′ N 225 Cwa (dry winter humid subtropical) / BSh (hot semi-arid)
+Dhaka Bangladesh Asia Love Heat, Hate Cold 12.7 33.7 25 46 0 91 23° 42′ N 4 Aw (tropical savanna)
+Dubai United Arab Emirates Asia Love Heat, Hate Cold 14 39 23 49.3 0 200 25° 15′ N 16 BWh (hot desert)
+Dublin Ireland Europe 2.3 19.5 11 21.3 23 0 53° 21′ N 43 Cfb (temperate oceanic)
+Duluth United States North America Love Cold, Hate Heat -16.1 23.4 13.3 26.4 159.8 1.1 46° 47′ N 214 Dfb (warm summer humid continental)
+Edinburgh United Kingdom Europe 1.1 19.2 10 20.5 60 0 55° 57′ N 47 Cfb (temperate oceanic)
+El Paso United States North America -0.3 35.6 12.8 38.3 55.8 107.3 31° 47′ N 1140 BWk (cold desert) / BWh (hot desert)
+Fairbanks United States North America Love Cold, Hate Heat -27.2 22.6 9.8 23.8 223.6 0.3 64° 50′ N 136 Dfc (subarctic)
+Fargo United States North America -17.7 28.1 15.1 32.1 172 11.6 46° 52′ N 274 Dfb (warm summer humid continental)
+Flagstaff United States North America -7.3 30.9 8.2 31.4 168.1 17.6 35° 11′ N 2106 Dsb (warm dry summer continental)
+Geneva Switzerland Europe -1.3 26.5 12 28.8 90 3 46° 12′ N 1230 Cfb (temperate oceanic)
+Guangzhou China Asia Love Heat, Hate Cold 10 32 25 44.3 0 71 23° 8′ N 21 Cfa (humid subtropical)
+Hailar China Asia -32 25 13 27.8 225 2 49° 12′ N 614 Dwb (warm wet summer humid continental)
+Halifax Canada North America Love Cold, Hate Heat -10 22 13 24.8 156 0 44° 38′ N 18 Dfb (warm summer humid continental)
+Ho Chi Minh City Vietnam Asia Love Heat, Hate Cold 22 33 23 43.3 0 7 10° 46′ N 19 Aw (tropical savanna)
+Hong Kong Hong Kong Asia Love Heat, Hate Cold 14 31 24 42.3 0 53 22° 17′ N 40 Cwa (dry winter humid subtropical)
+Honolulu United States North America Love Heat, Hate Cold 18.9 31.1 20.1 38.8 0 19 21° 18′ N 6 BSh (hot semi-arid)
+Houston United States North America Love Heat, Hate Cold 6.2 34.7 22.7 44.7 9.7 102.4 29° 45′ N 32 Cfa (humid subtropical)
+Irkutsk Russia Asia Love Cold, Hate Heat -22 24.8 12 27.1 231 0 52° 17′ N 436 Dwc (wet summer subarctic)
+Istanbul Turkey Europe* 2 27 16 31.6 21 5 41° 0′ N 39 Csa - Cfa - Cfb
+Jakarta Indonesia Asia Love Heat, Hate Cold 23 31 23 41.3 0 0 6° 12′ S 8 Am (tropical monsoon)
+Jerusalem Israel Asia 6.4 29.4 15 33.4 7 10 31° 47′ N 754 Csa (hot Mediterranean)
+Jinzhou China Asia Love Both -12 27 20 34.6 141 6 41° 7′ N 24 Dwa (hot wet summer humid continental)
+Kabul Afghanistan Asia -5 31 8 31.4 97 32 34° 32′ N 1791 BSk (cold semi-arid)
+Kansas City United States North America Love Both -6.9 31.3 19.6 38.5 104.3 32.6 39° 6′ N 210 Cfa (humid subtropical)
+Karachi Pakistan Asia Love Heat, Hate Cold 12 33 25 45.3 0 159 24° 51′ N 8 BWh (hot desert)
+Kiev Ukraine Europe Love Cold, Hate Heat -9 23 12 25.3 145 0 50° 27′ N 179 Dfb (warm summer humid continental)
+Kinshasa Democratic Republic of the Congo Africa Love Heat, Hate Cold 20 30 21 38.4 0 0 4° 19′ S 240 Aw (tropical savanna)
+Lagos Nigeria Africa Love Heat, Hate Cold 23 30 23 40.3 0 0 6° 27′ N 41 Aw (tropical savanna)
+Lahore Pakistan Asia Love Heat, Hate Cold 8 38 24 49.3 0 155 31° 32′ N 217 BSh (hot semi-arid)
+London United Kingdom Europe 1 22.9 12 25.2 64 0 51° 30′ N 35 Cfb (temperate oceanic)
+Los Angeles United States North America 13 22 16.2 26.7 0.1 19.5 34° 3′ N 93 Csa (hot Mediterranean)
+Lubbock United States North America -3.6 33.8 15.9 38.3 93.3 86.8 33° 34′ N 992 BSk (cold semi-arid)
+Madrid Spain Europe 2.6 31.2 11 33 59 52 40° 23′ N 667 Csa (hot Mediterranean)
+Manila Philippines Asia Love Heat, Hate Cold 21 33 23 43.3 0 122 14° 35′ N 5 Aw (tropical savanna)
+McMurdo Antarctica Love Cold, Hate Heat -31 -1 -8 -4.7 365 0 77° 50′ S 10 EF (ice cap)
+Melbourne Australia Oceania 5 26 12 28.3 2 19 37° 48′ S 31 Cfb (temperate oceanic)
+Mexico City Mexico North America 7 26 11 27.8 0 0 19° 26′ N 2250 Cwb (subtropical highland)
+Miami United States North America Love Heat, Hate Cold 15.5 32.8 23.4 43.5 0.1 79.8 25° 46′ N 3.5 Am (tropical monsoon)
+Minneapolis United States North America Love Both -13.6 28.6 15.8 33.1 147.7 10.7 44° 59′ N 264 Dfa (hot summer humid continental)
+Moscow Russia Europe Love Cold, Hate Heat -11 21 12 23.3 174 0 55° 45′ N 190 Dfb (warm summer humid continental)
+Mumbai India Asia Love Heat, Hate Cold 16.7 33.5 25 45.8 0 122 18° 58′ N 14 Aw (tropical savanna)
+Nairobi Kenya Africa 12 26 15 30 0 0 1° 17′ S 1623.5 Cwb (subtropical highland)
+Needles United States North America Love Heat, Hate Cold 4 39 11 40.8 8 165 34° 50′ N 151 BWh (hot desert)
+Omaha United States North America -10.2 30.7 18.6 37.2 136.1 28 41° 15′ N 332 Dfa (hot summer humid continental)
+Oslo Norway Europe Love Cold, Hate Heat -7 21 10 22.3 148 0 59° 57′ N 23 Dfb (warm summer humid continental)
+Ottawa Canada North America -14.4 26.6 13 29.4 149.6 10.3 45° 25′ N 70 Dfb (warm summer humid continental)
+Paris France Europe 2.7 25.2 12 27.5 50 3 48° 51′ N 35 Cfb (temperate oceanic)
+Perth Australia Oceania 7 31 12 33.3 0 50 31° 57′ S 26 Csa (hot Mediterranean)
+Portland United States North America 1.8 27.3 12.4 29.8 29.6 12 45° 36′ N 6 Csb (warm Mediterranean)
+Pyongyang North Korea Asia Love Both -10 28 20 35.6 127 5 39° 1′ N 38 Dwa (hot wet summer humid continental)
+Qiqihar China Asia -23 27 17 32.3 186 6 47° 21′ N 147 Dwa (hot wet summer humid continental)
+Quito Ecuador South America Hate Both 9 19 9 19.8 0 0 0° 14′ S 2850 Cfb (temperate oceanic)
+Raleigh United States North America -0.6 32.3 20.3 40.1 60.7 46.8 35° 47′ N 119 Cfa (humid subtropical)
+Regina Canada North America Love Cold, Hate Heat -23 26 12 28.3 210.9 16.4 50° 27′ N 577 Dfb (warm summer humid continental)
+Reykjavik Iceland Europe Love Cold, Hate Heat -2 12 7 12 133 0 64° 7′ N 39 Cfc (subpolar oceanic)
+Richmond United States North America -2.1 32.1 19.8 39.5 73.5 42 37° 32′ N 46 Cfa (humid subtropical)
+Rio Brazil South America Love Heat, Hate Cold 16.9 32.9 21 41.3 0 129 22° 54′ S 6 Aw (tropical savanna)
+Riyadh Saudi Arabia Asia Love Heat, Hate Cold 8 42 4 41 0 205 24° 38′ N 612 BWh (hot desert)
+Rome Italy Europe 3.7 28.7 4 27.7 15.6 4 41° 54′ N 21 Csa (hot Mediterranean)
+Sabha Libya Africa Love Heat, Hate Cold 5 40 11 41.8 5 171 27° 2′ N 420 BWh (hot desert)
+Saint Louis United States North America Love Both -4.6 31.7 19.4 38.8 86.3 45.9 38° 37′ N 142 Dfa (hot summer humid continental) / Cfa (humid subtropical)
+Salt Lake City United States North America Love Both -5.8 33.7 7.7 34 112.8 52.1 40° 47′ N 1286 Dfa (hot summer humid continental)
+San Francisco United States North America Hate Both 7.6 20.6 N/A 0.2 2.4 37° 47′ N 16 Csb (warm Mediterranean)
+Santa Fe United States North America -8 32.3 10 33.6 179.8 43.5 35° 40′ N 2194 BSk (cold semi-arid)
+Santiago Chile South America 2 29 11 30.8 31 16 33° 27′ S 521 Csb (warm Mediterranean)
+Sao Paulo Brazil South America 12 28 18 34 0 16 23° 37′ S 802 Cfa (humid subtropical)
+Sapporo Japan Asia -7 26.4 18 32.4 136 2 43° 4′ N 26 Dfa (hot summer humid continental)
+Seoul South Korea Asia Love Both -6 28 20 35.6 92 7 37° 34′ N 38 Dwa (hot wet summer humid continental)
+Shanghai China Asia 1 31 24 42.3 36 30 31° 14′ N 4 Cfa (humid subtropical)
+Shenyang China Asia Love Both -15 28 20 35.6 149 6 41° 48′ N 55 Dwa (hot wet summer humid continental)
+Singapore Singapore Asia Love Heat, Hate Cold 23 31 25 43.3 0 0 1° 17′ N 2 Af (tropical rainforest)
+Sioux Falls United States North America Love Both -13.9 28.9 16.8 34 164.3 13.8 43° 34′ N 432 Dfa (hot summer humid continental)
+St Petersburg Russia Europe Love Cold, Hate Heat -9 21 12 23.3 153 0 59° 57′ N 4 Dfb (warm summer humid continental)
+Stockholm Sweden Europe Love Cold, Hate Heat -6 21 10 22.3 151 0 59° 39′ N 60 Cfb (temperate oceanic)
+Sydney Australia Oceania 6 26 16 30.6 0 12 31° 51′ S 19 Cfa (humid subtropical)
+Tashkent Uzbekistan Asia -1.5 35.7 12 38 67 80 41° 16′ N 455 Csa (hot Mediterranean)
+Tehran Iran Asia -1 36 6 35.6 50 95 35° 41′ N 900 Bsk (cold semi-arid)
+Thunder Bay Canada North America Love Cold, Hate Heat -20 23 13 25.8 195.9 2.6 48° 22′ N 199 Dfb (warm summer humid continental)
+Tokyo Japan Asia 2.5 29.4 22 38.7 21 17 35° 41′ N 40 Cfa (humid subtropical)
+Tongliao China Asia Love Both -20 29 18 35 177.8 18.7 43° 37′ N 179 BSk (cold semi-arid)
+Toronto Canada North America -10.2 27.1 14 30.5 148.5 4 43° 42′ N 76 Dfa (hot summer humid continental)
+Turpan China Asia Love Both -15 39 11 40.8 129.8 128.4 42° 56′ N 30 BWk (cold desert) / BWh (hot desert)
+Ulaanbaatar Mongolia Asia Love Cold, Hate Heat -25 21 8 21.4 222 0 47° 55′ N 1350 BSk (cold semi-arid) / Dwc (subarctic)
+Ürümqi China Asia Love Cold, Hate Heat -15 28 8 28.4 154 18 43° 49′ N 1961 BSk (cold semi-arid)
+Vancouver Canada North America 0.3 26.2 N/A 40.9 0.2 49° 15′ N 0–152 Cfb (temperate oceanic)
+Vladivostok Russia Asia Love Cold, Hate Heat -15.3 23.3 17 28.6 154 0 40° 8′ N 40 Dwb (warm wet summer humid continental)
+Volgograd Russia Europe -9.2 29.3 N/A 146 11 48° 42′ N 36 Dfa (hot summer humid continental)
+Wellington New Zealand Oceania Hate Both 6.3 20.6 12 22.9 0 0 41° 17′ S 495 Cfb (temperate oceanic)
+Wuhan China Asia 2 32 24 43.3 35 49 30° 35′ N 37 Cfa (humid subtropical)
+Xi'an China Asia Love Both -3 30 20 37.6 88 39 34° 16′ N 405 BSk (semi-arid) / Cwa (humid subtropical)
+Yellowknife Canada North America Love Cold, Hate Heat -29.5 21.3 7 21.3 224.5 0.5 62° 26′ N 206 Dfc (subarctic)
+Yumen China Asia Love Cold, Hate Heat -15 28 7 28 176 7 39° 50′ N 2237 BWk (cold desert)
+Istanbul spans both Europe and Asia but its city center is located in Europe.
+City Country Continent Preference Type Average low in coldest month (°C) Average high in hottest month (°C) Highest monthly average dew point (°C) Humidex Average Annual Days Below 0°C Average Annual Days Above 32°C Latitude Elevation (m) Koppen Climate Classification
+Bouvet Island Norway (dependency) South Atlantic Love Cold, Hate Heat -5 4 0.5 2 54° 25′ S 780 EF (ice cap)
+Death Valley United States North America Love Heat, Hate Cold 3.8 46.4 4 45.4 4.3 191.8 36° 14′ N -86 BWh (hot desert)
+Eismitte Greenland North America Love Cold, Hate Heat -53 -12 -13 -16.3 365 0 71° 9′ N 3010 EF (ice cap)
+Murzuk Libya Africa Love Heat, Hate Cold 5.9 42.4 16.5 47.3 25° 54′ N 453 BWh (hot desert)
+Oymyakon Russia Asia Love Cold, Hate Heat -50 22.7 6 22.3 273 0 63° 27′ N 750 Dwd (cold wet summer subarctic)
+Shahdad Iran Asia Love Heat, Hate Cold 7.7 46.1 30° 25′ N 452 BWh (hot desert)
+Verkhoyansk Russia Asia Love Cold, Hate Heat -48.3 23.5 6 23.1 67° 33′ N 142 Dfd (cold subarctic)
+Vostok Station Antarctica Love Cold, Hate Heat -75 -30 -37 -35.4 365 0 78° 27′ S 3419 EF (ice cap)
+Original version[edit]
+The "smudge" from the original comic, edited to enhance visibility
+The comic as originally published had a "smudge" or scattering of gray pixels, visible in the center of the image between the labels for Madrid and Lubbock. A new version of the image was later uploaded with this removed.
+By editing the image to increase the contrast between the background and the "smudge", as shown here, it is possible to see dots and grid lines. This would seem to be a scatter graph, likely one showing temperature data used by Randall as a reference while making this comic, and accidentally left visible when the comic was first uploaded. A similar thing happened in 1561: Water Phase Diagram, where a phase diagram from Wikipedia was faintly visible in the original version of the comic.
+Transcript[edit]
+[A chart labeled:]
+Where to live
+based on your temperature preferences
+[In gray, the data source is mentioned below:]
+Climate data from weatherbase.com
+[A chart with two lines with single arrows. Each arrow is labeled:]
+Y axis bottom: Cold winters
+X axis right: Hot/humid summers (measured via Humidex, which combines heat and dew point)
+[Near each of the corners of the chart there is a gray blob, labeled:]
+Top left: If you hate cold and heat
+Top right: If you hate cold and love heat
+Bottom left: If you love cold and hate heat
+Bottom right: If you love cold and heat
+[The following city names intersect with the top left blob [hate cold and heat] (in reading order):]
+Mexico City
+Quito
+Addis Ababa
+Bogotá
+San Francisco
+Wellington
+[The following city names intersect with the top right blob [hate cold and love heat] (in reading order):]
+Bangkok
+Ho Chi Minh City
+Manila
+Singapore
+Mumbai
+Jakarta
+Dar Es Salaam
+Honolulu
+Lagos
+Rio [de Janeiro]
+Dhaka
+Kinhasa
+Miami
+Karachi
+Dubai
+Cairo
+Hong Kong
+Delhi
+Riyadh
+Guangzhou
+Lahore
+Sabha
+Houston
+Needles
+El Paso
+Baghdad
+Dallas
+[The following city names intersect with the bottom left blob [love cold and hate heat] (in reading order):]
+Reykjavik (with arrow pointing left)
+Berlin
+Stockholm
+Oslo
+Calgary
+Halifax
+Daqaidam
+Kiev
+Casper
+Yumen
+St Petersburg
+Volgograd
+Moscow
+Ottawa
+Vladivostok
+Thunder Bay
+Duluth
+Urumqi
+Altay
+Regina
+Irkutsk
+Abakan
+Ulaanbaatar
+Blagoveshchensk (also on bottom right blob)
+Fairbanks
+McMurdo (with arrow pointing down-left)
+Yellowknife (with arrow pointing down)
+Hailar
+[The following city names intersect with the bottom right blob [love cold and heat] (in reading order):]
+[Washington] DC
+Shanghai
+Tehran
+Saint Louis
+New York
+Xi'An
+Salt Lake City
+Kansas City
+Beijing
+Seoul
+Sapporo
+Pyongyang
+Sioux Falls
+Turpan
+Jinzhou
+Minneapolis
+Shenyang
+Fargo
+Tongliao
+Qiqihar
+Blagoveshchensk (also on bottom left blob)
+[The following city names do not intersect with any blob (in reading order):]
+Nairobi
+São Paulo
+Brisbane
+Los Angeles
+Perth
+Cape Town
+Sydney
+Athens
+Santiago
+Barcelona
+Melbourne
+Rome
+Buenos Aires
+Jerusalem
+Atlanta
+Raleigh
+Madrid
+Chengdu
+Tokyo
+Dublin
+Portland
+Richmond
+London
+Istanbul
+Edinburgh
+Vancouver
+Paris
+Flagstaff
+Santa Fe
+Tashkent
+Wuhan
+Geneva
+Lubbock
+Boston
+Budapest
+Kabul
+Toronto
+Omaha
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+As someone who lives near San Fransisco, but has lived in multiple other climates, I can say, San Fransisco can be pretty cold during summer months (compared to normal summers), but is still moderate. If you truely hate heat though, avoid mid-September till November as that is our hottest time of year, since there is not as much fog then. Once November hits it pretty suddenly gets cold again though. 172.68.189.187 06:08, 15 November 2017 (UTC)Rowan
+This graph doesn't make any sense. In my experience, people who live in places with hot summers hate heat, and people who live in places with cold winters hate coldness. Everyone I've ever spoken from Perth basically constantly complains about the heat! Shouldn't the whole thing be flipped? Maplestrip (talk) 08:46, 15 November 2017 (UTC)
+I just now realized that it says "where to live," not "where you live." I take back this silly comment ^_^; My bad Maplestrip (talk) 09:00, 15 November 2017 (UTC)
+Why is there dirt in the middle of the picture? Fabian42 (talk) 09:06, 15 November 2017 (UTC)
+It appears to be a faded-out image, probably some reference pic that Randall was using while drawing. Something similar appeared in 1561, and was later removed. Peregrine (talk) 11:32, 15 November 2017 (UTC)
+Coming from Denmark I'm really dissapointed that he left out our capital, and the largest city in Scandinavia, Copenhagen, when he has both Oslo, Stockholm and .... Reykjavik... :-D But guess it should be placed near Oslo... --Kynde (talk) 09:54, 15 November 2017 (UTC)
+Within the mid-United States, Randall ignored Chicago entirely and highlighted Minneapolis. Since I'm originally from Minnesota, I appreciate that a LOT. (Chicago can keep their wind, those blowhards; if you want a humid summer, find a Minnesota lake for your vacation! Then enjoy the ice fishing in winter, too.) --BigMal // 108.162.216.184 15:16, 15 November 2017 (UTC)
+Denver isn't on here. We have over 230 temperate days per year; We get big snow sometimes, then it melts away within a day or two. I think it belongs somewhere directly below Paris? I wonder how we'd be positioned relative to Portland...
+There's no way Randall has spent any significant time near Lubbock Texas; It should be shown farther up & to the right, maybe a lot farther.
+172.68.58.59 02:46, 16 November 2017 (UTC)
+The point isn't where Randall has spent time (imagine someone spending enough time in ALL these places to get a good feel for what the summers AND winters are generally lke??!?!?). This graph was made entirely from hard data. NiceGuy1 (talk) 04:46, 17 November 2017 (UTC)
+I'm disappointed he left out Hamburg, Germany (and instead included Berlin). Average high over the year in Hamburg is 13.2°C (highest average is 22.1°C and 22.2°C in July and August, respectively), average low over the year is 6.2°C (lowest average is -1.4°C in January). So, if you like mild winters as much as you like mild summers, you should live in Hamburg. --LordHorst (talk) 09:52, 16 November 2017 (UTC)
+So I've added a table with one entry for you all to put in data. I don't know where to find humidex info but the average low temperatures should be easy enough to find on e.g. Wikipedia. --AnotherAnonymous (talk) 10:10, 15 November 2017 (UTC)
+I think I've sorted all the disambiguations out apart from Richmond. My instinct is to say it's Richmond, Virginia but now I've seen how many Richmonds there are I'm not so sure...--AnotherAnonymous (talk) 12:07, 15 November 2017 (UTC)
+The convention that I've always stuck to, is that the mention of a place without qualifiers always refers to the oldest place with that name (where there are more than one location). Therefore, Richmond (with no qualifier) must refer to the place in North Yorkshire. If Richmond in the US was meant, the text would have referred to it as "Richmond, VA" or some such. 141.101.104.155 12:53, 21 November 2017 (UTC)
+I think that "Altay" is more likely to be Altay City, China, not Altai City, Mongolia. The Wikipedia-preferred spellings are one piece of evidence, but more convincing is the position of "Altay" right above (i.e. winters warmer than) "Regina". If this is Regina, Saskatchewan, then its temperature profile (per Wikipedia) is very similar to the Chinese city.
+Jan average: Regina, −20.1 to −9.3°C, and Altay, −21 to −9.4°C (versus Altai, −24.8 to −10.4°C)... pretty close all around, but Altai is a little colder.
+Jul average: Regina, 11.9 to 25.8°C, and Altay, 15.1 to 28.2°C (versus Altai, 8.0 to 19.7°C)... Altay is warmer than Regina, whereas Altai is quite a bit colder.
+Annual average: Regina, −3.2 to 9.3°C, and Altay, −1.4 to 10.7°C (versus Altai, −7.98 to 5.03°C)... Altai is again noticeably colder.
+(Oops, edit conflict with AnotherAnonymous. Before their edit—which points to Altay City, China—the table said it was unclear which was meant.) -- Peregrine (talk) 12:18, 15 November 2017 (UTC)
+Yeah, sorry, I changed my mind, I can't remember why now... --AnotherAnonymous (talk) 13:28, 15 November 2017 (UTC)
+So, the table lists temperatures for these cities from some unknown source(s), that may not be the same source(s) Randall used. I think the more interesting table would bte the table of X/y coordinates for each city from the comic. No? JohnHawkinson (talk) 15:01, 15 November 2017 (UTC)
+I disagree - we can see where they are on the comic, so that's not very interesting at all. This table puts some hard figures on the co-ordinates. (In most explanations when we 'estimate' co-ordinates, it's because there are no hard figures). By the way, the source I'm using for my figures is weatherbase.com as suggested in the transcript. I can't speak what others are using but maybe we should make this clearer. --AnotherAnonymous (talk) 16:05, 15 November 2017 (UTC)
+The point isn't to be interesting, the point is to accurately capture the comic. As I've seen mentioned a couple of times, there are blind people who use readers on ExplainXKCD to follow this comic. As far as I gather, the presence of the transcript is largely if not exclusively for them. And for this comic right now, it seems to read as "There's a bunch of cities over here, and a bunch over in that clump". Seems like a table with rough co-ordinates is extremely called for. NiceGuy1 (talk) 04:46, 17 November 2017 (UTC)
+Chicago? Bottom right corner. 162.158.106.12 15:37, 15 November 2017 (UTC)
+Chicago averages around 12 days of 90+ and none over 100 per year (similar to New York) does not rank as being all that hot on a world scale Rtanenbaum (talk) 18:47, 15 November 2017 (UTC).
+Wherever Chicago should go (and it's definitely in the lower right quadrant), it's weird that Randall didn't put it there. It's the USA's third-largest city and by far the biggest metropolitan area in the Midwest. How did Minneapolis make the cut if Chicago didn't? (No offense, Minnesotans.) 108.162.216.250 23:33, 15 November 2017 (UTC)
+As far as I know, Montreal is one of the top ten largest cities in North America, and it's not on there, either. He probably focused on cities particularly known for one extreme or the other, the bottom right is both, which might be why that glob is half empty.NiceGuy1 (talk) 04:58, 17 November 2017 (UTC)
+Added hottest month Humidex values for all cities that have temperature and dew point data, using equation from the Wikipedia page on Humidex.
+My jimmies are really rustled by Randall using the puny american McMurdo station (record low of mere -51 centigrade) instead of the glorious russian Vostok station (record low -89 "steel shatters" centigrade).
+As a resident of Oregon, I vote for Portland being Portland, OR. It is not only larger than Portland, Maine; it also more closely fits the mild climate that Randall seems to place it in on the graph. An early settler wrote two letters back east: The first, "Come live with me, there ain't no winter here", the second six months later "Nevermind, there ain't no summer either" Seebert (talk) 21:44, 15 November 2017 (UTC)
+I'm not convinced by the Humidex numbers (or possibly the calculation) for London. It has the third highest value of 49.3, which according to the Wikipedia entry for Humidex, is "Dangerous; heat stroke quite possible". London can occasionally have some unpleasantly hot days in the summer, but generally (as the diagram implies) it's rarely too hot or too cold. --TimO (talk) 10:26, 16 November 2017 (UTC)
+You're right - I think someone got their numbers out of sync when they were typing them in, there were several in the wrong place. Fixed now --AnotherAnonymous (talk) 13:38, 16 November 2017 (UTC)
+Is the Humidex right for Rio? It shows 48, but meaning it should have been one of the furthest to the right. But that's not where it was drawn.
+I don't know whether or not that's correct, but it could be: That is a known problem with Humidex (note: it was invented in Canada and has not been adopted in many southern countries where heat and humidity is much larger). See: an argument about wind chill and Humidex. That value seems to be correct, as calculated by this site. However, maybe there's multiple different equations to compute Humidex? Jeudi Violist (talk) 22:05, 16 November 2017 (UTC)
+Hey, could the thing be edited? I don't like how, for example, DC is blank in the chart, so if it is not too much of a hassle, could it be edited so DC is classified as where it is closest to being (maybe with an indicator or something like "not in area"? I don't know.) I feel like that would be useful to give people an IDEA of where it is. Thanks!
+Temperatures[edit]
+For the low/high temperatures, should it be the average temperature of the coldest/hottest months or the average low/high of the coldest/hottest months? The two are not the same, and you can get both from weatherbase.com. Some of the data is already messed up. I highly doubt that Raleigh is the hottest place on earth. AFAIK, people live there, but I don't think anyone could survive between 50C and 70C all year round... --Dkasza (talk) 03:31, 16 November 2017 (UTC)
+Hi Dkasza, thanks for the comment. I think the point of the original comic is to compare how hot it typically gets in summer - so the average high for the hottest month - with how cold it gets in winter - so the average low for the coldest month. That's what I went with - I think the average temperature for the hottest month isn't the best because it doesn't tell you how hot it gets (and similarly for cold). As for Raleigh, I think the data you mention must have been changed because it looks reasonable now - perhaps someone originally but the Fahrenheit values in by mistake? I've entered most of the data myself, but feel free to correct any errors! --AnotherAnonymous (talk) 14:39, 16 November 2017 (UTC)
+Intuitiveness[edit]
+Comparing relative placements on the map with cities I've been to or lived in: All the ones I see on the chart make a very good fit for how I've known them. It's very well drawn. St. Louis and DC are definitely pinpoint accurate. Same goes for Toronto, Istanbul, Santa Fe, New York, & Tehran.
+Chart didn't include Cleveland, Ohio, so I'll tell you it falls right between Toronto and Sioux Falls in the lower middle range. I pretty much agree with 172 about Denver; I'd place it about where Geneva is, though I've never been to Geneva.
+As for equable climates of the upper left, keeping to moderate temperatures year-round, I have heard that a lot about Aruba and Kampala. I personally knew a colleague from Kampala who verified that: on the equator and elevation 1,190 m (3,900 ft), charted perhaps above Addis Ababa and left of Nairobi. Aruba I've heard is equable year-round, thanks to ocean breezes off the Caribbean. My parents have been there, but I haven't; it probably keeps company with Kampala. Kuala Lumpur would keep company in the upper right with Jakarta and Singapore. Messina (my ancestral province) keeps company in the upper middle space between Santiago and Athens. Palermo would be closer to Santiago. Diggin how intuitive it is from the chart, without even looking at the data tables below. Johanna-Hypatia (talk) 23:49, 16 November 2017 (UTC)
+A few surprises here... My expectation would have put L.A. in the same spot as Miami, suprised this puts the summers at about the same as Ottawa and Toronto (L.A. being the only one of those I haven't visited). Also, have always figured Toronto, Ottawa and Montreal to be the same, weather-wise (so, would be the exact same spot on this chart), weird to see Ottawa and Toronto that separate, which makes it more frustrating that Montreal isn't present (surprising in and of itself, as last I knew Montreal is one of the top ten largest cities in North America). One reason I would approve Montreal's absence is that its position would have wandered over the past 10 years. This summer and last winter would definitely be a bunch left and up from 10 years ago. NiceGuy1 (talk) 04:58, 17 November 2017 (UTC)
+The picture is fixed![edit]
+The dust/smudge/whatever has been removed already. Can someone update that? 162.158.165.94 16:23, 22 November 2017 (UTC)
+I never saw this smudge! I saw references to it, but never saw it, either here or on XKCD itself. And I would have read this within a day or two of when it was first published. Usually when the original changes, this description includes a link to the original... I'm really curious to see this! LOL! NiceGuy1 (talk) 07:33, 24 November 2017 (UTC)
+Someone just (correctly) fixed the location of Perth, Australia, as being at the thirty-something degrees south in latitude terms. Good catch. Of course, the real Perth is at 56°N. It doesn't match the (unqualified as to which particular Perth) label position on the chart, of course, being Oceanic/Cfb in climate and generally mild-to-cool with plenty of opportunity to be wet (or frozen-wet, at the right times of year), so only noting this fact here rather than revising the comic-explanation further. ;) 172.70.162.77 14:47, 28 May 2022 (UTC)
+Was leaving New York out of the table a private joke of some sort, or just a mistake? Nitpicking (talk) 14:53, 21 January 2023 (UTC)
+Categories: All comicsComics from 2017Comics from NovemberWednesday comicsScatter plotsWeather

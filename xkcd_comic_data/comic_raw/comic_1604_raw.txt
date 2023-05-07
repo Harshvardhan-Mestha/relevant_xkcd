@@ -1,0 +1,54 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1604: Snakes
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1604)
+|<< PrevComic #1604 (November 16, 2015)Next >>|
+Snakes
+
+Title text: The last band of color indicates the snake's tolerance for being held before biting.
+Explanation[edit]
+In the comic, Megan confuses a popular method of identification of the dangerous North American coral snake by its red, yellow, and black stripes with the color-coding system used to indicate the resistance of electrical resistors.
+The coral snake has red bands adjacent to its yellow bands. However, coral snakes are mimicked by nonvenomous species with similar coloring, such as the milk snake, whose red bands are not adjacent to its yellow bands. This has led to a variety of rhyming mnemonics, such as “Red touches yellow, kill a fellow; red touches black, friend of Jack.” Because Megan is describing a red band being adjacent to a yellow band, she is indeed holding a coral snake, which contains the most potent venom of any snake in North America. (This assumes, of course, that Randall isn't faking us out; there are other lesser-known subspecies of the coral snake, such as the Cattinga and Pygmy coral snakes of South America, who do not follow the above patterns.)
+Instead of realizing the danger, Megan equates the color bands to having the same function as those printed on electrical resistors. Resistors have at least three bands to identify their resistance value in ohms, followed by an optional fourth band showing the tolerance as within the bounds of a certain percentage of the aforementioned resistance value. A red band followed by a yellow and a black one identifies a 24 ohm resistor (the omega symbol, “Ω”, stands for ohms). Per the mnemonic, North American coral snakes have an additional yellow band between the black band and the next red band, so that red does touch yellow. Yellow corresponds to a tolerance of ±5%, so the actual resistance will be between 22.8Ω and 25.2Ω. Resistor color codes were also mentioned in 227: Color Codes.
+The title text refers to the fourth band specifying the tolerance but interprets it as the snake's tolerance for being held before biting, instead of the measure of the imprecision of the 24 ohms. In the case of yellow, this would refer to a tolerance value of 5%. How tolerance to being held is measured is left ambiguous. If the value represents the probability of being bitten over a given period of time, then larger numbers would mean a less tolerant snake. If it instead represents the position on some per-determined "tolerance scale" between 0 and 1, then larger values would represent a 'more' tolerant snake.
+Transcript[edit]
+[Megan and Cueball are standing in some grass. Megan is holding a snake with red, yellow, and black stripes.]
+Megan: Red touches yellow, which I think means this is a 24Ω snake.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+i don't know how to add the omega sign for the units of the resistor in the transcript. i'll leave that to someone more skilled than myself Beardmcbeardson (talk) 05:26, 16 November 2015 (UTC)
+Just copy-and-paste! -N00b 108.162.214.77 (talk) (please sign your comments with ~~~~)
+Or find the 'omega' symbol in Windows Character Map. RAGBRAIvet (talk) 08:37, 16 November 2015 (UTC)
+To be exact, a 24Ω resistor would be red, yellow, black; 240Ω would be red, yellow, brown, and so on, along a well-defined sequence. Red, yellow on its own would be missing the final "scaling" colour. Gearóid (talk) 08:54, 16 November 2015 (UTC)
+We don't need the scaling colour here, the snake is scaly enough as is. Matega (talk) 18:58, 16 November 2015 (UTC)
+
+According to https://en.wikipedia.org/wiki/Electronic_color_code， a "black red black red black" resistor shoud be 2kΩ, not 24Ω ... -- Oicebot 162.158.252.119 09:30, 16 November 2015 (UTC)
+The fourth band on a resister is usually the multiplier (the value gets multiplied by 10 to a power according to the colour); it's the fifth that indicates tolerance sbutler87
+The resisteors that I have at hand are coloured the way I remember, Three bands of 'spectrum' colours (including black at zero, brown for 1, leading through the spectrum red to violet until grey at 8 and white at 9), the first two are literal, the third the power of magnitude to adjust up, and a fourth band (metalic silver/gold, to aid identification of the direction to read) as tolerance.
+I know there's variations, and zero ohm (or effectively so) links are a single black band, but that's all I've ever needed to know, in my time. (When I don't put something across mulimeter probes, just to make sure...) 162.158.152.221 11:57, 16 November 2015 (UTC)
+The last band is tolerance, and there can be as many bands before that as the manufacturer needs. It's always the last band, no matter how many come before. Mikemk (talk) 18:18, 16 November 2015 (UTC)
+There's two "standard" versions of colour banding that I know of, the 4-band and 5-band "precision" resistors. Some resistors may also have a red band after the tolerance band to indicate that it's "flame-proof" – or at least very high temperature resistant. The 4-band system indicates first digit, second digit, multiplier, tolerance like people have said so far. In the 5-band system the bands indicate first digit, second digit, third digit, multiplier, and tolerance. Bah, in verifying my facts I've found a 6 band system (really? Give it up already. :P) which is: first digit, second digit, third digit, multiplier, tolerance, temperature coefficient (in ppm/ºC or ppm/ºK relative change). Heck, why don't we code the power dissipation on to the resistors while we're at it? Instead of colours let's switch to a micro-bar code or QR code. (Sorry, slightly OT.) Jarod997 (talk) 15:11, 17 November 2015 (UTC)
+Power dissipation is coded by size of the resistor. 141.101.91.157 09:46, 18 November 2015 (UTC)
+
+FWIW: raw image: and with added math: . - Frankie (talk) 12:28, 16 November 2015 (UTC)
+Does this mean a 200ohm snake is safe? (Red black yellow) Seebert (talk) 14:51, 16 November 2015 (UTC)
+That would be 20*10^4 ohm = 240.000 ohm if I get it right? --Kynde (talk) 15:13, 16 November 2015 (UTC)
+Red black yellow would be 200000 ohms, or 200kΩ (200 kilohms). Red-black is 20, and yellow is basically adding 4 zeroes to that. Just some random derp 17:56, 16 November 2015 (UTC)
+Ups, I put in the 4 from the comic, 20*10^4 ohm = 200.000 (not 240.000 as I wrote at first). Thanks for correcting ;-) --Kynde (talk) 19:48, 16 November 2015 (UTC)
+As far as I can see, it's black yellow red yellow, repeated, and red does not touch black... greptalk20:57, 16 November 2015 (UTC)
+Do they still use color bands? Do they still teach them to technicians? Should parts of this explanation be rewritten in the past tense mentioning that Randal is getting old? I though the bands were relegated to the dead languages section, right next to linear B, once surface mounted components came along. I certainly haven't used them since around 1990, and would not expect my younger technicians to understand them. --198.41.235.101 19:58, 16 November 2015 (UTC)
+I garuntee that they still do.--199.27.133.47 23:21, 16 November 2015 (UTC)
+Being one who is actively learning electronics I can say firsthand that they still do teach color bands, and almost all the resistors we use in class are color banded. Just some random derp 23:27, 16 November 2015 (UTC)
+That's just the thing, though; surface mount components aren't used everywhere. Hobbyists and classroom environments still use through-hole resistors and DIP TTL ICs and the like because they're easier to breadboard and reuse, and therefore cheaper. SMT, CMOS, and other things have advantages for most commercial applications but not for everything else.108.162.221.36 05:07, 17 November 2015 (UTC)
+In industrial applications, there's hardly use of through-hole resistor anymore. However with the resurgence of DIY electronics and arduino stuff I think it's safe to say people are now seeing breadboard electronics way way more than in the past and in this context color-coded resistor are relevant. Surface mount components are not very hobby-friendly so casual DIYers are actually not familiar with them. Ralfoide (talk) 15:53, 17 November 2015 (UTC)
+\o| _o_ \o   o/ |o   o   o  |o  \o| _o_ \o/ _o  \o|  o/ |o   o_  o/ \o| _o  \o  |o
+ #   #  /#  |#   #| /#| /#\  #|  #   #   #   #\  #  |#   #| /#  |#   #  /#  ¯#   #|
+141.101.106.161 10:31, 18 November 2015 (UTC)
+I fucking lost it when I read this. Easily one of the funniest xkcds in my opinion haha International Space Station (talk) 12:32, 17 November 2015 (UTC)
+Edited the swearing. Won't somebody please think of the children! Hellen Lovejoy (talk) 15:53, 17 November 2015 (UTC)
+Snakes. Why'd it have to be snakes? Indiana Jones (talk) 15:53, 17 November 2015 (UTC)
+I have determined that some of my local wildlife is comprised of 103Ω snakes, with a 1% tolerance for holding. --SquaredRoot (talk) 13:46, 17 November 2015 (UTC)
+But who says you have to start with the black stripe? It's a repeating pattern: Black/Yellow/Red/Yellow over and over - but if you start reading it on a yellow stripe - it's Yellow/Red/Yellow/Black or Yellow/Black/Yellow/Red - and if you start on a red stripe - you get Red/Yellow/Black/Yellow - so there are three other possible "resistor codes" you could deduce here. Yellow/Red/Yellow/Black isn't legal because you can't have a tolerance of 0% (well, not for a resistor - but coral snakes may well have a 0% tolerance for being handled!). Another problem is clearly illustrated on the headline photo of Wikipedia's "Coral Snake" article. That coral snake is missing some of the red stripes at both head and tail...fortunately (again) we can ignore them because black isn't a legal tolerance value. Thank god coral snakes are palindromic - so we don't have to worry about which end we start reading from (which is always my problem with resistors). SteveBaker (talk) 14:16, 3 September 2019 (UTC)
+Categories: All comicsComics from 2015Comics from NovemberMonday comicsComics with colorComics featuring CueballComics featuring MeganAnimals

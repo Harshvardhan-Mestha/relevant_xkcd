@@ -1,0 +1,450 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1572: xkcd Survey
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1572)
+|<< PrevComic #1572 (September 2, 2015)Next >>|
+xkcd Survey
+
+Title text: The xkcd Survey: Big Data for a Big Planet
+The original comic links to The xkcd survey at Google, which is closed now.
+Explanation[edit]
+As the comic image states, it links to a survey created with Google Forms, containing a series of questions. The questions range from mundane typical survey questions such as “Do you have any food allergies?”, to rather strange, such as “Fill this text box with random letters by randomly mashing keys on your leopard.” (See 1530: Keyboard Mash and 1031: s/keyboard/leopard/).
+The stated goal of the survey is to “create an interesting and unusual data set for people to play with”. A strange data set is a ripe opportunity for a sampling of readers. It's also supposed to be “a search for weird correlations” – presumably the goal is to be able to say things like “people who have been skydiving are (more/less) likely than average to dislike cilantro”. (See also 882: Significant about finding presumably-spurious correlations between unrelated data.)
+If the data is ever released, this explanation will be updated, but as of March 2023, this has not happened.
+HTML image maps is a technique for marking up areas of an image on a web page, such that each area can be a link without the whole image being a link. Randall could have used this type of image map to make only the “Click here to take the survey” button be a link, and none of the rest of the image. But he cannot get the hang of it (or knowing his skills, does not wish to take the time to learn it). Not getting the hang of HTML image maps was also referenced on the banner for his book tour for the what if? book. See the link for other instances where he mentions this problem in the xkcd Header text.
+The title text is a joke off of Big Data, which is a name for analysis of a set of data that includes a huge amount of information. He also says "for a big planet" because the Earth is big.[citation needed]
+The survey is closed, and the questions replaced with the text: "The xkcd survey is now closed. Thank you for all your answers! Response data is being collected and will be posted soon." As of August 2022, the same caption is still there, with no indication of exactly how soon the data is intended to be posted. (Apparently, Randall crashed google forms, so the data is taking a long time to be retrieved (see this reddit thread) - much like his breaking of Wolfram Alpha] during answering a reader's question on what if?)
+The Survey[edit]
+A recreation of the survey can be found here on Google.
+The recreation's data can be found live here.
+It started with the following statement:
+This is an anonymous survey. After it's done, a database of everyone's responses will be posted. There's no specific reason for any of the questions. The goal is to create an interesting and unusual data set for people to play with. This is obviously not going to be a real random sample of people, but in the interest of getting cooler data, if you're sharing this with friends, try sending it to some people who wouldn't normally see this kind of thing! WARNING: This survey is anonymous, but your answers WILL BE MADE PUBLIC. Depending what you write, it's possible that someone may be able to identify you by looking at your responses. None of these questions should ask about anything too private, but don't write anything that you don't want people to see. If you're not comfortable answering a question, just skip it.
+Note: The order of the possible answers (the list of possibilities) was random, and changed every time the page is reloaded. So do not try to fix the order here below...
+Plane[edit]
+Have you ever been in a plane?
+No
+Yes
+Skydiving[edit]
+Have you ever been skydiving?
+No, but I might someday
+Yes
+No
+The Dress[edit]
+When you first saw The Dress, what color was it? — (Also see 1492: Dress Color and the Blag entry Color Survey Results).
+White and gold
+A color combination not listed here
+I don't remember
+Blue and black
+What dress?
+Popular food[edit]
+What's a really popular food that you don't like?
+Text box
+Floaters[edit]
+When you look at a blue sky, do you see those swirly floaters in your vision?
+Yes, constantly
+I'm not sure what things you mean
+Yes, occasionally
+No
+Running out of gas[edit]
+Have you ever had a car run out of gas while you were driving it?
+Yes
+No
+Animals[edit]
+Name the first five animals you can think of
+Multi line text box
+Weather[edit]
+What's the weather like where you are right now?
+Text box
+Activities[edit]
+Which of these can you do reasonably well?
+(Check all that apply)
+Dunk a basketball — A "slam dunk" or simply "dunk" is the act of jumping up and putting the ball through the net with a lot of force
+Tie a sheet bend or bowline — A sheet bend is a knot that joins two ropes together; A bowline is a knot used to form a fixed loop at the end of a rope. Although tied differently, the resulting knots are identical[citation needed].
+Roller skate
+Run in high heels
+Drive a stick shift — See Manual transmission of a car
+Solve a Rubik's cube
+Dive headfirst off a diving board — See Springboard and Diving platform
+Ice skate
+Skateboard
+Walk on stilts — Stilts are poles, posts or pillars used to allow a person to walk at a height above the ground
+Ski
+Cut vegetables with a knife
+Swim
+Ride a horse
+Unicycle
+Change the oil on a car
+Do a back handspring — A handspring is an exercise in gymnastics in which you jump through the air landing on your hands, then again landing on your feet
+Juggle — Toss juggling (the most recognizable form of juggling) consists in throwing objects into the air and catching them.
+Spelling[edit]
+What word can you never seem to spell on the first try?
+Text box
+Condiments[edit]
+Do you eat condiments directly out of the fridge as a snack?
+No
+Yes
+Thermostat[edit]
+When you adjust a thermostat that was set by someone else, it's usually because you want the room to be...
+Cooler
+Warmer
+Clothing[edit]
+What color is the shirt/dress/upper-body-clothing you're wearing right now, if any?
+Text box
+Colds[edit]
+Do you get colds often?
+No
+Yes
+Number[edit]
+Pick a number from 1 to 100
+Text box
+Spelling[edit]
+On a scale of 1 to 10, how good at spelling are you? (Note that the question does not specify which end of the scale is good or bad.)
+Tick off list with numbers from 1 to 10.
+Myers-Briggs[edit]
+Do you know your Myers-Briggs type?
+No
+Yes
+Astrology[edit]
+Do you know your astrological sign?
+No
+Yes
+Siblings[edit]
+How many older siblings do you have?
+Text box
+How many younger siblings do you have?
+Text box
+How many twin/etc siblings do you have?
+Text box
+Sleepiness[edit]
+Do you feel sleepy a lot?
+Yes
+No
+Movie star[edit]
+Name a movie star
+Text box
+Time in sun[edit]
+Do you spend a lot of time in the sun?
+Yes
+No
+Broccoli[edit]
+Does broccoli taste bitter to you?
+Yes
+No
+I've never had it
+Wakefulness[edit]
+Do you regularly stay awake much later than you meant to?
+Yes
+No
+Keyboard mashing[edit]
+Fill this text box with gibberish by mashing random keyboard keys (See 1530: Keyboard Mash and 1031: s/keyboard/leopard/).
+Broad multi-line text box
+Driving[edit]
+On a scale of 1 to 5, where 1 is terrible and 3 is average, how good a driver do you think you are? (note it does not include the possibility that you don't drive)
+Tick off list with numbers from 1 to 5.
+Allergies[edit]
+Do you have any food allergies?
+No
+Yes
+Thunder[edit]
+Have you heard thunder or seen lightning in the past year? — (The title-text of 831: Weather Radar mentions the belief that thunderstorms seemed more common when one was a kid. Since the survey also asks for age this question is likely a test of that belief.)
+Yes
+No
+Flavor preference[edit]
+Which do you prefer? (It seems to be missing the neither option...)
+Chocolate
+Vanilla
+Number (reprise)[edit]
+Pick another number from 1 to 100 (Supposedly should not be the same as in the first pick a number box).
+Text box
+Internet[edit]
+When you think about stuff on the internet, where do you picture it being physically located? Even if you know it's not really how things work, is there a place you imagine websites and social media posts sitting before you look at them? If so, where is it?
+Broad multi-line text box
+Roll tongue[edit]
+Can you roll your tongue?
+Yes
+No
+What?
+Toes[edit]
+Can you pick things up with your toes?
+No
+Yes
+Age[edit]
+How old are you?
+Text box
+Walls[edit]
+What color are the walls around you right now?
+Text box
+Cell phone[edit]
+What kind of cell phone do you have?
+iPhone
+Android
+Other smartphone
+Non-smartphone
+I don't have a cell phone
+Eating[edit]
+What's the last thing you ate?
+Text box
+Difficult words[edit]
+Which of these words do you know the meaning of?
+Some of these words don’t appear in any of the following dictionaries: the Oxford English Dictionary, the New Oxford American Dictionary, Wiktionary, or Dictionary.com. With one exception, however, reviewers on this site have found verifiable examples of use for the words in question.
+Dictionary.com has an index of difficulty (measured in pixels, with class name difficulty-indicator). We add it at the right of the words that have it. N/A means that a word isn't present in Dictionary.com, or that it doesn't have an index.
+Slickle – Not in any standard dictionary. However, it is in the crowd-sourced in Urban Dictionary, as well as a suggested planet name in 1253: Exoplanet Names
+Rife – 117
+Soliloquy – 150
+Fination – not in any dictionary. Appears infrequently in Victorian texts (e.g., 1889, 1839)
+Stipple – 144
+Peristeronic – N/A. Randall used it and defined it for readers in 798: Adjectives.
+Modicum – 120
+Trephony – Not available in reference dictionaries. An obsolete spelling of "Trephine" (especially when used as a verb for the process of trephination). Initially a transliteration of Greek τρυπάω for the same.
+Tribution – A regular construction from Tribute (verb) using "-tion" to transform into a noun. Using this regular formation, the term would mean the act of tribute, but no examples of actual use are available. It is worth noting that the use of "tribute" as a verb is generally considered obsolete and the few forms that persist in use relate primarily to the tributary and distributary river systems
+Phoropter – N/A 1.An instrument used in eye examinations to determine an individual's prescription, the patient looking through various lenses at a chart on the other side.
+Unitory – Not available in reference dictionaries. An obsolete spelling of "Unitary," chiefly British. While long obsolete in normal usage, it persisted longer in mathematics that it did elsewhere (particularly for "Unitory Method" and "Unitory Matrices"). Example of use: (1)
+Amiable – 123
+Salient – 69
+Regolith – 162
+Lithe – 105
+Revergent – technical word from fern biology, referring to the edges of fern leaves which curl back on themselves (see Schölch, 2000)
+Hubris – 117
+Fleek – N/A
+Cadine – A rare loan-word for a sultan's wife or a noble ottoman woman which comes to English through the French. Examples of Use: (1). Also the name of an italian city.
+Apricity – Not available in reference dictionaries. An obsolete word for the sun's heat in winter (e.g., Bailey 1775). According to the What If? book (page 80), this is Randall's single favourite word in the English language.
+cat[edit]
+Please type "cat" here: (Likely to see how they write the word)
+Text box
+Dreams[edit]
+Do you usually remember your dreams?
+No
+Yes
+Text editors[edit]
+Do you have strong opinions about text editors? (See Editor war)
+Yes
+No
+Emoji[edit]
+How do you feel about emoji?
+Negative 😠 (Unicode 1f620 - Angry face)
+Positive 😊 (Unicode 263a - Smiling face)
+Neutral 😐 (Unicode 1F610 - Neutral face)
+Snow[edit]
+Does it ever snow where you live?
+No
+Yes
+Taste of food[edit]
+Do you strongly dislike the taste or texture of any of these things?
+Eggs
+Chocolate ice cream
+Beer
+White wine
+Carbonation (or Fizz)
+Red wine
+Cilantro
+Coffee
+Tomatoes
+Yogurt
+Beverages[edit]
+Which of these do you regularly drink?
+Caffeinated soda (e.g. Coca-Cola, Dr. Pepper)
+Noncaffeinated soda
+Coffee
+Fruit juice
+Milk
+Beer
+Wine
+Tea
+Maple syrup
+Water
+Random words[edit]
+Type five random words
+Broad multi-line text box
+Flying[edit]
+Are you nervous about flying?
+Yes
+No
+A little
+Favorite number[edit]
+On a scale of 1 to 5, which number is your favorite?
+Tick off list with numbers from 1 to 5.
+Sandwich[edit]
+Which of these would you consider a sandwich?
+(Check all that apply)
+Taco
+Quesadilla
+Sub/Hoagie
+Cheesesteak
+Hamburger
+Open-faced sandwich
+Calzone
+Animal affinity[edit]
+Which of these describes you?
+(Check all that apply)
+Dog person
+Cat person
+Half-cat half-person
+Part of a subterranean race of dog people
+Literally named "Catherine Person"
+Sense of direction[edit]
+Would you say you have a good sense of direction?
+Yes
+No
+Socks or underwear[edit]
+Have you ever thrown out all your different pairs of socks/underwear, bought a bunch of replacements that were all one kind, and then told all your friends how great it was and how they should do it too?
+Yes
+No
+I did the throwing out thing, but didn't talk to everyone about it
+No, but I'm totally doing that now
+Transcript[edit]
+[A simple comic with text only. The click here part is inside a black frame.]
+Introducing
+The xkcd Survey
+A search for weird correlations
+Note: This survey is anonymous, but
+all responses will be posted publicly
+so people can play with the data.
+Click here to
+take the survey
+Or click here, or here.
+The whole comic is a link,
+because I still haven't gotten
+the hang of HTML imagemaps.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Mildly interesting to note that the ordering of most of the checkbox/radiobutton lists randomise each time the survery is loaded. Also, there is at least one other comic where Randall comments about not having figured out HTML imagemaps. Anyone remember which? --Pudder (talk) 10:52, 2 September 2015 (UTC)
+It was in one of his "under the logo" news bars, about him starting What If, iirc --Aescula (talk) 11:28, 2 September 2015 (UTC)
+I wonder how many people, on reading 'Type "cat" here:', typed '"cat" here:'? I know I did... 141.101.98.214 11:58, 2 September 2015 (UTC)
+Guilty...--Pudder (talk) 12:08, 2 September 2015 (UTC)
+Me too... However you could have typed '"cat" here:', as well... (/edit: I wonder how many different entries the survey's result will reveal) (/edit2: I did not read properly... sorry. I typed '"cat"' not '"cat" here:' -.-)Elektrizikekswerk (talk) 12:27, 2 September 2015 (UTC)
+I typed meow -141.101.105.86 12:41, 2 September 2015 (UTC)
+Where it said "Type five random words" I typed "five random words" (without the quotes).
+--Lou Crazy (talk) 11:24, 3 September 2015 (UTC)
+My first thought there was "Correct Horse Battery Staple"162.158.255.47 04:42, 4 September 2015 (UTC)
+Those were the first four of my five "random words". -- Pne (talk) 17:18, 4 September 2015 (UTC)
+   Me too
+Man, why didn't I think of that? Sobsz (talk) 06:37, 5 September 2015 (UTC)
+I tried to make it at least a bit random, rather than arbitrary, with a bash script: for _ in 1 2 3 4 5; do sed -n "$(((((32768*RANDOM)+RANDOM) % $(wc -l </usr/share/dict/words) ) + 1))p" /usr/share/dict/words; done -- ferret 141.101.99.121 11:58, 5 September 2015 (UTC)
+"Type five random words": Broad multi line text box Fabian42 (talk) 11:07, 19 October 2018 (UTC)
+Not sure if it was just me, but the comic wasn't a link at all! The cursor changed into a No cursor for me everytime I mouseover'd the comic. I went to survey using the "Bonus Link!" below the comic page. Brilliantnut (talk) 12:01, 2 September 2015 (UTC)
+Never mind, this was probably due to the WebComics reader extension that I have in my browser. Brilliantnut (talk) 12:03, 2 September 2015 (UTC)
+From hearing people on reddit comment about not being able to completely fill the text box (not just the visual box) with the error "Answer too long", it's caused by a 10k character limit. Presumably by Google Docs. 108.162.249.192 13:18, 2 September 2015 (UTC)
+Can we get a note on the title text? Something about the 1493-like vacuousness of "Big Data for a Big Planet". Also, I added a defn for "revergent"; future researchers, anyone who knows that one is probably a fern biologist. FourViolas (talk) 20:51, 2 September 2015 (UTC)
+I just did a bit on the title text, but I don't think that I did the best job at explaining it, so someone should look over what I did.Mulan15262 (talk) 23:32, 4 September 2015 (UTC)
+
+Validation
+The validation choices are interesting.
+"Enter a number between 1 and 100" rejects numbers outside this range (e.g. -1) but also reject valid responses (e.g. π).
+"Enter your age" and "Enter the number of $SIBLING" accept invalid responses such as -1. Paddles (talk) 13:29, 2 September 2015 (UTC)
+-1 is not an "invalid response" for "Enter your age" if you are an unborn fetus. On the day of birth and all subsequent days less than one year later, a baby's age is zero. So from one year before birth to the day before birth, a fetus's age is negative one.108.162.214.233 06:49, 30 November 2015 (UTC)
+I would like to point out that, one year prior to birth, a fetus does not exist. 162.158.126.76 13:40, 15 March 2018 (UTC)
+Their point still stands. If you consider age 0 to be between birth and day 365 of life, this implies that between conception and birth a baby's age is -1. 172.71.10.173 22:06, 19 April 2023 (UTC)
+That depends on your species.--172.68.65.24 17:47, 7 April 2019 (UTC)
+I (with fairly honest intention) tried to give non-numeric answers to the two Think Of A Number questions and my the age one (honestly, I had to actually think about that one, for a moment) and found them restricted to numbers only. So obviously Randall's not so subversive as to allow free text. (BTW, I've only driven 'stick shift', though an old friend of mine has just gotten an automatic, I think for the first time, which said was rather posh of him.) 141.101.99.108 15:55, 2 September 2015 (UTC)
+I used an HTML inspector tool to create a unique response to one of the radio button questions. The form claimed to submit successfully; it should be obvious in the results if it worked. - Frankie (talk) 16:29, 2 September 2015 (UTC)
+Identification
+"it's possible that someone may be able to identify you by looking at your responses" Then why send those informations to Google ? I find the idea of thee survey interesting but why Google doc ? There are other options like Lime Survey. Seipas (talk) 13:37, 2 September 2015 (UTC)
+Given the stated intention to make the collected dataset available publicly, there's no information-security reason to prefer another survey tool over Google. Paddles (talk) 14:21, 2 September 2015 (UTC)
+Technically Google could de-anonymize the data if you're logged in or otherwise identifiable when submitting the survey. When Randall publishes the data set it can be completely anonymized. Not that I care if Google knows I claim to consider myself half-cat, half-person. Jestempies (talk) 21:15, 2 September 2015 (UTC)
+Not a transcript
+This is mildly interesting, but it is not a transcript. Transcripts are meant mainly for blind people and search engines. Different letter sizes and a frame are not needed. Xhfz (talk) 12:54, 2 September 2015 (UTC)
+Introducing
+THE XKCD SURVEY
+A search for weird correlations
+Note: This survey is anonymous, but
+all responses will be posted publicly
+so people can play with the data.
+Click here to
+take the survey
+Or click here, or here.
+The whole comic is a link,
+because I still haven't gotten
+the hang of HTML imagemaps.
+The transcript is not only for blind people. And an enhanced layout doesn't harm them but instead it would help them. A speech synthesizer would tell them something like "headline" or "small text at bottom" so that the impaired people would get a much better feeling of the comic. --Dgbrt (talk) 15:12, 2 September 2015 (UTC)
+
+I wonder how many people included "battery, horse, staple, correct" in the five random words box. 173.245.56.64 (talk) (please sign your comments with ~~~~)
+I typed ');drop table survey; -- at the end of the random characters text box. I must have been the first person to think of that because the survey was still working. Jeremyp (talk) 13:46, 2 September 2015 (UTC)
+I typed "cat, cat, cat, cat, cat" in random words and "lion, cat, dog, horse, lettuce" for the random animals. Yes, I was trolling. 108.162.221.150 06:38, 4 September 2015 (UTC)
+Uninspired. Wanna troll for real, you should have put in "slime mold" or some other bullshit protist. 172.71.11.47 22:22, 19 April 2023 (UTC)
+I wish it was funny. 108.162.241.148 16:20, 2 September 2015 (UTC)
+Tables Vs Bulleted List
+The list of questions and possible responses has been added to the explanation by myself and xhfz, in different formats. I went for a wikitable, xhfz used a bulleted list. Rather than just overwrite each other, I think we need to have a discussion on which is the best choice. The reasons I believe a wikitable is the best option:
+Far better expandability, in anticipation of survey results
+More structured and neater presentation
+In general I tend to lean towards tables, but it is probably a constructive discussion to have for the wiki as a whole. I would be interested to hear opinions of bulleted list vs tables in these types of situation.--Pudder (talk) 13:42, 2 September 2015 (UTC)
+If we have a table we need colspan instead of rowspan. On the other hand a table is very difficult to maintain. In addition, the table didn't have space for explanations (another column, maybe). Xhfz (talk) 13:44, 2 September 2015 (UTC)
+If you used colspan, questions like "How many of these 20 words do you know" would be excessively wide. Perhaps a combination of colspan and rowspan, or simply a single cell with the responses listed as comma seperated list. As far as adding a column for explanations, its pretty trivial. What I'm getting at is that perhaps the format of a table would need to be optimised, but that is entirely feasible.
+I agree with you as far as tables being more intimidating to edit and maintain, but once set up they aren't that bad.
+Bulleted lists (to me at least) look messy, and tend to lack a coherent structure. As more information is added, sub-levels and sub-sub-levels are added without much thought as to the overall intent. --Pudder (talk) 14:14, 2 September 2015 (UTC)
+By colspan I mean this:
+Question Possible Answers
+When you think about stuff on the internet, where do you picture it being physically located? Even if you know it's not really how things work, is there a place you imagine websites and social media posts sitting before you look at them? If so, where is it?
+Multi-line text box
+Which of these words do you know the meaning of?
+Slickle
+Rife
+Soliloquy
+Fination
+Stipple
+Peristeronic
+Modicum
+Trephony
+Tribution
+Have you ever thrown out all your different pairs of socks/underwear, bought a bunch of replacements that were all one kind, and then told all your friends how great it was and how they should do it too?
+Yes
+No
+I did the throwing out thing, but didn't talk to everyone about it
+No, but I'm totally doing that now
+Xhfz (talk) 14:44, 2 September 2015 (UTC)
+Yeah, if someone just did that, that would be great. The Twenty-second. The Not So Only. The Nathan/Nk22 (talk) 18:54, 2 September 2015 (UTC)
+Missing questions
+Something notably missing which would have greatly helped later analysis was a question about where someone is - Country and/or State. Some of the questions and answers will be differently understood because of that (eg meaning if 'sandwich') --141.101.98.65 14:23, 2 September 2015 (UTC)
+I think that is the whole point though, to provide a data set that actively attempts to prevent the obvious simple analysis. There are plenty of statistics on how people from place A are more likely to do thing B. What I want to know is "How many people who would class a taco as a sandwich and can drive stick shift are able to juggle?". Also, is it true that most people think they are above average drivers? --Pudder (talk) 15:09, 2 September 2015 (UTC)
+If you're actually curious about those questions, the answers are "0" and "yes". No one classes a taco as a sandwich. The only thing that this data set will provide is how many sandwich-trolls claim to be able to drive stick shifts and juggle.--Antipudder (talk) 15:10, 7 September 2015 (UTC)
+Subsections were added for ease of editing
+You can delete the subsections later. Xhfz (talk) 15:30, 2 September 2015 (UTC)
+Ok, I agree on that. --Dgbrt (talk) 15:42, 2 September 2015 (UTC)
+I think we shouldn't force the reader to go to Wikipedia
+I added explanations in "Activities" and twice they were deleted. Why? [1] [2] Xhfz (talk) 15:39, 2 September 2015 (UTC)
+Personally, I think those activities are so easily understood, that adding an "explanation" is not necessary. I think wiki links are sufficient, so that if somehow people don't know what the activities are, they can go look. --Pudder (talk) 15:45, 2 September 2015 (UTC)
+I know 20,000 words in testyourvocab.com. I also know soliloquy, modicum, amiable and salient. I had never heard of dunk, sheet bend, bowline, or stick shift, but I know the meaning of manual transmission without going to Wikipedia. Xhfz (talk) 15:47, 2 September 2015 (UTC)
+For the record, it wasn't me who deleted the explanations. The fact that Randall included those words in his survey without any explanation shows that they are fairly common words. In the context of the question, the meaning becomes clearer (Tie a sheet bend or bowline = its very likely those are knots), and if people still don't know, they can click on the wiki link. --Pudder (talk) 16:14, 2 September 2015 (UTC)
+From a different perspective, I understand a number of the words and terms, even though they aren't the ones I'd use, locally. i.e. gas/petrol, stick-shift/gears, cell phone/mobile phone, soda/pop (and where would cordial, to be diluted with water, sit in that list of drinks..? either way, I chose "fruit juice" so maybe that covers it). Also I think I would call an "open-faced sandwich" a 'Smorgasbord', but that seems to be a childhood misunderstanding of what the scandinavian term actually represents (the whole buffet, not any individual item bread-and-topping construct that you end up with on your platter). "Condiments" obviously means something differently, too. For me that's the likes of salt, pepper and vinegar - along with other chopped herbs at a push - but from context it sounds like it includes dips such as mayonnaise, and/or sauces like ketchup/brown/tartar. A different world, truly! 141.101.99.108 17:46, 2 September 2015 (UTC)
+It's a poorly worded question to which people in some countries would answer the opposite of that intended because of the way the question is worded. Very few cars run on gas (a friend's van runs on LPG), but many use petrol or diesel. 198.41.239.32 05:55, 3 September 2015 (UTC)
+Fellow Brits? No, IP of the latter appears to be Arizona (or at least the ISP, in Phoenix). Strange. Anyway, thanks to copious imports of 'Merkin TV and film, it'd be obvious to most(/all?) people I know that gas(olene) would be the common word in the US for the fuel that I'd call petrol(eum). Or so I was under the impression of, until now. Of course there is actual gas (modern LPG or wartime contingencies) but so far liquid hydrocarbons seem to still be king, inclusive of DERV. 141.101.98.188 07:51, 3 September 2015 (UTC)
+I changed them to Wikipedia links because it seemed neater, uses the hypertext features of HTML for the reason they were intended, and seemed more in line with general style here. No-one is forced to go to Wikipedia, but providing useful hyperlinks instead of having to explain everything inline is generally considered A Good Thing &tm;. It wasn't intended as a personal affront. This is a wiki - we can all edit to make things (hopefully) a bit better. Paddles (talk) 12:40, 3 September 2015 (UTC)
+Can we access the results now?
+Are the contents available at a known URL? I use Google Docs but have never done a survey before...141.101.105.24 06:03, 3 September 2015 (UTC)
+Maple syrup
+The current article comments that the "Maple syrup" option to the any that you drink question is a joke. Are you sure? I have met several people (to clarify, adults, I'm not even considering children) who drink straight maple syrup, and many times more who pour maple syrup into their drinks (notably coffee, tea, and milk are the most common I see people pour it into). There are webpages devoted to maple syrup drink recipes (alcoholic and non-alcoholic) and people debating other people's opinions on whether maple syrup is better drunk hot, cold, or room temperature. There is a possibility that Randall was not intending this question as a joke since it seems to be "a thing" among some people. 108.162.220.11 12:16, 3 September 2015 (UTC)
+I was very delighted to see maple syrup under the drink options! When I started the survey with my co-workers I came to the condiments question and was explaining to them how I even drink maple syrup. So I was very giddy when I came to the drink question! Yes, I do drink maple syrup and not as a joke, usually at night and only Grade B. --R0hrshach (talk) 15:40, 4 September 2015 (UTC)
+Regarding "Difficult words" not currently linked
+Trephony - Another (equally obselete) term for Trepanning. The not listed directly on the Wikipedia page for the topic (the article uses gerund forms in discussing other names for the procedure), but the related gerund "trephining" is listed. Cf. also Trephine, which was the actual surgical instrument used for these procedures (and for which Trephony occasionally served as an alternate spelling).
+Tribution appears to be the result of converting the tribute (when used as a verb)into a noun by use of the -tion suffix. While this is a standard form, it is also nonsense (as the nounal form is also tribute).
+Unitory - An obsolete spelling unitary used in mathematics, chiefly British. Several examples appear in the of the papers of the 1913 Imperial Education Conference (I've linked to the instance on page 97 as an example). You will still occasionally see this spelling in use when discussing the Unitary Method in former British Colonies.
+Cadine -- the french term also saw some use in English as a loanword. Cf. page 146 of Volume 99 of The Gentleman's Magazine and Historical Chronicle (published 1829) for several examples.
+108.162.216.36 16:54, 3 September 2015 (UTC)
+Apricity
+this appears to be an obsolete, poetic and/or pompous word to describe the sun's heat in winter. It shows up in several dictionaries from the 1700's through the Victorian era; e.g., Bailey 1775 - Anonymous
+Should we move the survey section to a different page (e.g. 1572: xkcd Survey/Survey)? It takes up most of the current page. Forrest (talk)13:10, 04 September 2015 (UTC)
+The survey section is a transcript, so I moved it appropriately for now. Forrest (talk)13:14, 04 September 2015 (UTC)
+The survey is not a transcript. And even if it was it is not the comic and should thus not be listed as part of this comics transcript. But the survey section is used to explain the survey and this is certainly not supposed to happen in a transcript. I have moved it above the transcript again. But it could be an idea to make separate survey page and link to it from the comic page. --Kynde (talk) 21:39, 5 September 2015 (UTC)
+If one is free to skip any question, how does the survey distinguish between a skiped question and a question for which the answer is nothing, e.g. if one does not dislike any named beverage? --162.158.90.241 11:47, 8 September 2015 (UTC)
+
+Difficult words Does anyone have access to a good bio-org chemistry reference? I seem to remember "-fination" as a valid suffix for O-Chem usage for fixation of certain kinds of reactions (ex. Pearson ole-fination), but I don't remember if there is a general meaning of the term. 108.162.216.36 (talk) (please sign your comments with ~~~~)
+HTML image maps
+As a web designer, I'm certain that a big part of the joke is that almost no one uses image maps anymore -- the technique of cutting up images and laying them out using CSS or HTML tables (the latter now mostly obsolete) won out back in the 90s. The trouble you have to go to to create an image map is nowhere near worth the payoff. 199.27.128.91 21:30, 8 September 2015 (UTC)
+When it comes to that, I know someone who (in the mid 2000s!) made a web-page by rendering the entire page (including all text-as-raster, and it was mostly text) into a single image file (vastly over-assuming the consistency of the end-user's screen/browser-window dimensions), and image-mapped it. Yes, CSS already existed, and even without I would never have used it. I did a byte-for-byte comparison with an HTML-rendered version (even though that has its own inefficiences in sprawling across multiple bytes, in <LONGTAGNAMES></LONGTAGNAMES> in particular) and it was horrific. Never mind horribly unfriendly to anyone with a non-standard/special-needs browsing environment!
+Which might in part be why (more intelligent!) image-mapping never took off in the adolescent years of the web (once it became predominantly dial-up by home users, rather than those sat directly upon academic/etc LANs sitting on high=bandwidth fat pipes to the internet in its infancy, with bandwidth already used (outside of 'proper' usage)to pre/early Eternal September propgation of Usenet and UUEncoded images sent over email), even though quite intelligent usages of the art had been long pioneered for such purposes as literal (i.e. geographical!) map-clicking rather than the Mysterious Meat navigation method.
+But then it might also have died out after the initial bloom of Geocities, when the tedious last remnants of the <BLINK> tag phenomenon merged into the ubiquity of the over-use of animated GIFs depicting some form of "Website under construction" message, and there were so many other tricks to (over-)use in a person's supposedly interesting self-publicising page. Ahh... nostalgia!
+Seriously, however, looking at the design elements of site design, e.g. curve-effect button/frame areas and scrolling galleries, amongst other things, and a simple markup imagemap (if not coordinate-sending to be processed by the server-side scripting through URL-query format) has outlived its easy usefulness (for the coder in a hurry, who has so many other tool-scripts available) and now we need this complicated and often vastly obfuscated client-side scripting to make the gloriously laid-out web-pages react (consistently) to the end-user in the way intended. I'm sure you make sure your web pages work in the likes of Lynx and even screen-readers (where practical, and of course imagemaps always did work horribly for both of these!), but modern bells-and-whistles have progressed far beyond imagemap tomfoolery. Not always because the new method is better, for a given instance, but that's progress for ya. 141.101.98.32 12:39, 11 September 2015 (UTC)
+Has anyone else noticed that the series of image links to comics at the bottom of every xkcd comic page actually uses an imagemap. So apparently he did get the hang of it a while ago :) or at least his web designer did...DenverCoder9 (talk) 21:27, 27 January 2016 (UTC)
+Underwear
+I still don't understand why the last question asks about "socks/underwear" instead of just "socks". Is there any species of underwear that comes in pairs, other than socks? 173.245.56.167 15:39, 11 September 2015 (UTC)
+It is supposed to be read as "(pairs of socks)/underwear", NOT "pairs of (socks/undrwear)" Jaalenja (talk) 08:50, 12 September 2015 (UTC)
+That still doesn't answer my question: why would anyone care if their underwear is all one kind? 173.245.54.116 02:27, 13 September 2015 (UTC)
+Comfort, primarily. Find one kind of underwear that you find enjoyable to wear, then make sure all your underwear are all that kind and throw out the others - then you'll never have to wear or think about the uncomfortable ones that you routinely shove into the darkest corner of your drawer, ever again. Also, if you go shopping later, when you wear holes in the current selection, then you know exactly which brand and style, no waffling necessary. 108.162.245.167 06:02, 13 September 2015 (UTC)
+C'mon guys. It's about matching. I like always having matching socks. I've thrown away all my socks and started from scratch, because after a while, you lose socks or one sock gets a big hole in it, and you have to reboot. The same may hold true for women, who have been known to wear matching underwear in two parts: bras and panties. 108.162.216.53 19:37, 12 November 2015 (UTC)
+Since the results still aren't in, I'm calling it now, so no one can accuse me of p-hacking: People who ended their entries in multiline textboxes with newlines are more likely to have opinions about text editors, suffer from colds, and show symptoms of insomnia. 173.245.55.60 06:44, 5 December 2015 (UTC)
+It has been over a year since this comic was released, where are the results Randall‽!? (Seriously, there are at least 2 Reddit posts asking about this) 173.245.54.69 03:46, 5 September 2016 (UTC)
+Probably never going to come. Just some random derp 17:40, 25 September 2016 (UTC)
+I am working on a recreation. Email me if you're interested. caoboystx0609 at gmail dot com. StillNotOriginal 11:39, 21 May 2018 (UTC)
+Q: What word can you never seem to spell on your first try? A: Scince
+Categories: All comicsComics from 2015Comics from SeptemberWednesday comicsPages using the "citation needed" templateComics with color

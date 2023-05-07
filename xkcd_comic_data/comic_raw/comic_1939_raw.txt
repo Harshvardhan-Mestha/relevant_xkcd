@@ -1,0 +1,148 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1939: 2016 Election Map
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1939)
+|<< PrevComic #1939 (January 8, 2018)Next >>|
+2016 Election Map
+
+Title text: I like the idea of cartograms (distorted population maps), but I feel like in practice they often end up being the worst of both worlds—not great for showing geography OR counting people. And on top of that, they have all the problems of a chloro... chorophl... chloropet... map with areas colored in.
+A larger version of this image can be found by clicking the image at xkcd.com - the comic's page can also be accessed by clicking on the comic number above.
+Explanation[edit]
+The United States elects its president not directly by popular vote but by an Electoral College composed of a number of electors, partially proportional to population, from each state. Presently, a "winner-take-all" system is used in most states: the winner of the popular vote in each state receives all of the electoral votes for that state. Though, strictly speaking, the electors are not required to cast their ballots according to this system, many states impose penalties on them if they don't. Technically, the popular vote in each state is to elect a slate of electors who in turn elect the President. Many Republicans tend to claim that Trump had a strong victory, and show maps filled with large, red counties. These maps look even redder than the state maps, so they make it look like Trump won a large nationwide victory. However, as Randall points, out, those maps are misleading, and using them to promote your candidate is a bit disingenuous.
+The news media commonly use maps to represent the progress or results of the election. Because of this winner-take-all system, states won by the Democratic candidate are typically portrayed in one color (blue is currently in wide use), and states won by the Republican candidate in another (currently red). In recent years, this distinction has gone far beyond electoral maps, and states are often referred to as "blue" or "red" by their political leaning in many contexts.
+Randall seems to be making a point on the shortcomings of both maps, by showing how different the actual vote was from the red and blue choropleth maps. He mentions how strange cartograms look, and by creating this map he hopes that it will convey the actual vote by geography well, while keeping the normal geographic boundaries.
+The title text repeatedly attempts and fails to spell the term choropleth map, a map that uses shading or colors to show information about a geographic area, such as a 'normal' election map that shows districts/states colored to the party that won them. In geography classes, "choropleth" is known as a chronically misspelled and mispronounced word. This is because the "choro" syllable sounds very similar to the Greek prefix "chloro", meaning "green in color" or "containing chlorine". The similar "pl" consonant cluster in the second syllable adds to this, resulting in metathesis. A choropleth map has many shortcomings. For example, many large Western states have small populations and thus don't make much difference to the electoral vote count, but look like a broad swath of red or blue on the map. The map overall can have the appearance of being very red or very blue, suggesting to the eye an overwhelming victory, when in fact the election can be extremely close. Donald Trump has repeatedly emphasized how red the map appears, especially when broken down by county, even though he actually lost the popular vote. In a speech on June 21, 2017, he said, "And those maps, those electoral maps, they were all red. Beautiful red."
+In this cartoon, Randall seems to be pointing out the shortcomings of the choropleth map (or perhaps this overall red-state/blue-state mentality). His map shows more clearly the small impact of the low-population states, as well as how combination of the winner-take-all system with the typical election maps fails to show the sometimes large number of opposition votes in a given state. This map also combines all third-party or independent candidate into one type of marker (green, likely as the third primary additive color available, but at least in part would represent the Green Party), making it clear that a substantial number of votes went to these candidates. A cartogram, also referenced in the title text, is a map that changes the size, and sometimes shape, of a region based on population or some other metric. Like a choropleth, these maps also have many shortcomings, the most obvious being the distortion required for the maps to work sometimes making it difficult to tell what and where the region actually is. Many versions of cartograms use squares to represent each region, with the size of the square corresponding to the metric measured. Often, it's easier to find specific places on these square maps.
+
+A similar map was actually used during the 2016 election by the Financial Times (discussed here). It made similar use of colorless states for geographic information and color in proportion to population for electoral information. However, the FT map is based on the electoral college, not the popular vote. It in turn is similar to a 2013 map used by The Guardian for the 2013 Australian election (discussed here). Other compromise maps of geographic and electoral information exist, such as maps of geographically accurate but re-scaled states: a 2016 election example is here, indirectly inspired by a similar vox.com map.
+With a stick figure representing 250,000 votes, Trump would have exactly 251.918544 stick figures and Clinton would have exactly 263.37844 stick figures according to the final results. The map shows 252 Trump stick figures and 264 Clinton stick figures, meaning Randall used ceiling rounding instead of conventional rounding, which would have shown Clinton with one fewer stick figure.
+Table[edit]
+State Red Blue Green Total
+Alabama 5 3 8
+Alaska 1 1
+Arizona 5 4 1 10
+Arkansas 3 2 5
+California 18 35 5 58
+Colorado 4 5 1 10
+Connecticut 2 3 5
+Delaware 1 3 4
+Florida 19 18 1 38
+Georgia 8 7 1 16
+Hawaii 1 1
+Idaho 2 1 3
+Illinois 9 13 1 23
+Indiana 6 4 1 11
+Iowa 3 2 5
+Kansas 3 2 5
+Kentucky 5 3 8
+Louisiana 5 3 8
+Maine 1 2 3
+Maryland 2 6 8
+Massachusetts 4 7 1 12
+Michigan 9 8 1 18
+Minnesota 5 6 1 12
+Mississippi 3 2 5
+Missouri 6 4 1 11
+Montana 1 1 2
+Nebraska 2 1 3
+Nevada 2 2 4
+New Hampshire 1 1 2
+New Jersey 6 9 1 16
+New Mexico 1 2 3
+New York 12 20 2 34
+North Carolina 10 9 1 20
+North Dakota 1 1
+Ohio 11 9 1 21
+Oklahoma 4 2 6
+Oregon 3 4 1 8
+Pennsylvania 12 11 1 24
+Rhode Island 1 2 3
+South Carolina 5 3 8
+South Dakota 1 1
+Tennessee 6 4 1 11
+Texas 19 16 2 37
+Utah 2 1 1 4
+Vermont 1 1
+Virginia 7 8 1 16
+Washington 5 7 2 14
+Washington DC 1 1
+West Virginia 4 1 5
+Wisconsin 6 5 1 12
+Wyoming 1 1
+Total 252 264 30 546
+Transcript[edit]
+[A map of the United States, with Hawaii and Alaska offset, is shown. Across the states red, blue and green Cueball like stick figure are scattered about, much more on each coast, and very few in the central parts, especially in the mid west. There are about the same amount of red and blue stick figures. There are not many green, but they are represented almost in any state with more than 10 stick figures. Above the map there is a large bold title. Below that there is a legend description explaining the red, blue and green Cueball stick figure with labels of who they represent next to them. Below this, in light gray text, are two lines of explanation of how the map was created:]
+2016 Election Map
+Each figure represents 250,000 votes
+[Red stick figure:] Trump
+[Blue stick figure:] Clinton
+[Green stick figure:] Other
+Based on 2016 election results
+Votes are distributed by states as accurately as possible while keeping national totals correct.
+Location within each state is approximate.
+
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Why now?
+So why are we getting this map now instead of a year ago? Has something significant to this area just happened in the U.S.A.? (I am a Canadian so might well have missed something.) 108.162.216.154 16:42, 8 January 2018 (UTC)
+I'm from the midwest in the US and I'm really confused as well... I also don't find anything particularly funny or poignant in this. So yeah, color me confused in the US. 162.158.75.76 16:52, 8 January 2018 (UTC) Sam
+At a guess, because we're coming up on the anniversary of Trump's inauguration. Wwoods (talk) 23:26, 8 January 2018 (UTC)
+I think the idea is that this map, while interesting as an object, still sort of fails as a map - it doesn't provide the sort of easily digestible information that a map of this variety is supposed to show. Conceptually, I don't think it's that different than #1138 (Heatmap) - the map more or less shows population density and fails to easily communicate party alignment. As to why it's showing up in the first year of 2018, my best guess is that mid-term elections are this year...? 172.69.69.238
+My friend I showed the comic to thinks it could be a general political commentary on the uselessness of these kinds of maps. 1. the map is a year old: useless. 2. there are no numbers: useless. 162.158.75.76 17:04, 8 January 2018 (UTC) Sam.
+I'm wondering if it has to do with the fact that Trump just disbanded the commission on voter fraud. I think I heard somewhere that this commission was to "prove why Trump should have won the popular vote". I think the map relates to the whole popular vote versus electoral college discussion.--108.162.216.172 17:17, 8 January 2018 (UTC)
+I think it might be claiming Trump only won because very many people failed to vote? Either that, or as already mentioned, it's about how useless these maps can be. That's right, Jacky720 just signed this (talk | contribs) 17:20, 8 January 2018 (UTC)
+The point of the map is that the standard choropleth map for the 2016 election shows the vast majority of us area voting for Donald Trump. (shown on this link http://brilliantmaps.com/2016-county-election-map/) The comic is criticizing the visual accuracy of chloropleth maps in giving a strong understanding of election results (as the majority of voters voted for Hillary). ---- -- Widea (talk) (please sign your comments with ~~~~)
+Actually, less than "a majority of voters" voted for her. A majority of the voters that voted for either her or Trump voted for her. But a "majority of the voters" means more than half the voters (including those who voted for other candidates besides the two major ones), and she and Trump each got slightly less than half of the total.162.158.59.34 06:32, 14 February 2018 (UTC)
+If this map is really so correct (as stated in the caption) then it has been a huge job to collect the data so precisely and calculate how to split voters across borders when not fitting. This says to me that this is a very big issue for Randall. Of course he has made it clear many times that he is against Trumps election and more or less anything he does... I believe there is a lot to learn from this map as opposed to those he mentions in the title text --Kynde (talk) 19:33, 8 January 2018 (UTC)
+If this map is correct, then there are 252 Trump guys on it and 263 Clinton guys on it, a difference of 11 guys. I don't know how many "other" guys are on it. Just in case someone would like to know. 198.41.230.4 20:13, 8 January 2018 (UTC)
+One thing that the map does clearly show is that voters of Clinton were clustered in heavily urbanized regions (New England to Delmarva, Miami region, Chicago region, Houston and Austin, and coastal California in particular). Those same Clinton clusters are also home to the most third-party voters. Meanwhile, Trump voters were spread out more evenly and in isolated pockets, and there are very few third-party voters living out in the boonies. I think the takeaway is that Democratic voters are underrepresented because they are grouped so closely together, and those same populations are also prone to giving rise to anti-two-party sentiment. These two factors combined work against liberalist movements in the United States. 162.158.74.225 20:23, 8 January 2018 (UTC)
+The placement of red vs blue is quite interesting. Was the vote differential used in any way? For instance, Urban San Diego leans heavily blue, but San Diego County lies slightly red. And it's a huge population center. Gotta put those red stickfigures somewhere! Breakthroughscelebration (talk) 21:13, 15 January 2018 (UTC)
+I never realized until now just how few people live in Michigan's Upper Peninsula. --108.162.241.46 20:25, 8 January 2018 (UTC)
+I also think Randal needs a lesson in rural/urban voting, as the placement of many of the red figures on this map are, well, a bit off.Seebert (talk) 22:46, 8 January 2018 (UTC)
+Not necessarily. Each figure represents 250,000 votes, and as someone who grew up in a rural area, it takes a lot of land to get that many people. Take those two red figures in northwestern-ish Pennsylvania. Counting only people who are of voting age, assuming about 2% are ineligible to vote, with a state voter turnout of 70%, and the fact that only ~60-70% of the voters in those counties voted for Trump, it takes all 18 counties in that region--every single county north of Pittsburgh and west of State College (the blue figures beside those two red ones)--to come up with about 500,000 Trump voters. That matches up exactly with the map. (The total population of those 18 counties, if you're curious, is a little under 1.5 million, with Erie being the largest at 280k and Cameron the smallest at 5k.) Eosa (talk) 17:19, 9 January 2018 (UTC)
+The claim about Trump being "obsessed" with how red the map appears seems to just be added to be inflammatory. As far as I know, he just gloated about the map a bit on Twitter on the days following his election. He definitely hasn't kept sharing red maps one year later like Randall, and I think we don't consider Randall obsessed. I'm removing it, and I'd rather this not be added back without a source that clearly shows such an obsession. [01000101] 172.68.25.112 21:13, 8 January 2018 (UTC)
+I'm reinstating it. In April, Trump gave reporters a printout of the counties map, saying at the time, "Here, you can take that, that's the final map of the numbers. It's pretty good, right? The red is obviously us." He later framed and hung a similar map in the West Wing. In a speech in June, he said, "And those maps, those electoral maps, they were all red. Beautiful red." He has mentioned the election—which keep in mind he only won because of the Electoral College, not because of the popular vote—one out of every five days over the last year. He is clearly obsessed. 172.69.69.70 22:48, 9 January 2018 (UTC)
+I toned down the language a bit, to hopefully address concerns about the potentially controversial use of the word 'obsessed'.141.101.76.16 08:59, 10 January 2018 (UTC)
+I'm fine with the change, even if I personally would stand by the word. Based on his actions (immediately announcing his bid for reelection and holding rallies, etc.) and statements he has made and continues to make nearly a year into his actual presidency, I think a reasonable case can be made that he genuinely dislikes the job of being president and is clinging to the one time when he was really happy—when he was campaigning. 172.69.69.70 15:55, 10 January 2018 (UTC)
+I count 31 "Green" folks, in addition to whoever counted the red and blues. That means our total is 546 little stick figures. I'm not sure why he picked that number, but it could be the correct number of folks to stick one on the small states of Alaska, Hawiaii, Wyoming, and the Dakotas. He also took the unusual step of counting VOTES instead of population. It'd be fun to have a version with non-voters on it.
+There are 538 electoral votes. So if electoral votes were distributed in proportion to population, each electoral vote would correspond to 1.01486988848 stick figures. Maybe he was going for 1 electoral vote per stick figure but it got off due to rounding.108.162.215.142 03:29, 15 February 2018 (UTC)
+I think Randall has always been a map enthusiast. I read this as an alternative map. 108.162.237.28 21:54, 8 January 2018 (UTC)
+136,669,237 votes in 2016
+To all the guys who are counting the Cueballs in the map: 546 Cueballs multiplied by 250,000 is 136,500,000 votes.--Dgbrt (talk) 22:07, 8 January 2018 (UTC)
+My count agrees. Red = 252, Blue = 263, Green = 31 Ansarya (talk) 00:48, 9 January 2018 (UTC)
+The title text is probably referring to this map on wikipedia:[1] 108.162.249.106 06:46, 9 January 2018 (UTC)
+"the small impact of the low-population states" Shouldn't it be "high impact"? The vote of a person living in a low-density state has a higher weight than the vote of a person living in a high-density state. Right? Fabian42 (talk) 08:21, 9 January 2018 (UTC)
+Actually, Randall's map doesn't show much of anything as regards the relative influence of the states, because it only shows popular votes, and not Electoral College votes, which give proportionately higher representation to the lower population states. So I'd say that sentence should just be removed, or at least completely rewritten to state this as a deficiency of Randall's map (though criticising it for not showing something that it doesn't purport to show in the first place would be a bit unfair).141.101.76.16 09:20, 9 January 2018 (UTC)
+The table looks weird on a mobile device. The first number column has a way bigger font than the other two. Can be reproduced on a PC by pressing Ctrl+Shift+I (in Chrome), selecting "Nexus 5X" (or similar) at the top and reloading.
+--- Assuming the text above is correct, the count is as follows:
+$ for color in red blue green; do ( cat text |  pcregrep -o1 "(\d*) $color" | awk -v c=$color '{s+=$1} END {print c,  s}') ; done
+red 252
+blue 264
+green 30
+Sysin (talk) 12:38, 9 January 2018 (UTC)
+I think that this comic might have something to do with 1902: State Borders. Herobrine (talk) 10:35, 10 January 2018 (UTC)
+rounding error
+Randall's political leanings are obvious, but are we to believe that he picked a ceiling rounding just to get one extra blue guy? One figure is not be noticeable on such a large map. Its an effect of about 0.0018%. Its more likely an artifact of trying to distribute figures across states or an honest mistake. I think that paragraph should be reworked. 108.162.237.40 15:25, 10 January 2018 (UTC)
+I reworded it to state what the exact figure would be and included a note that he rounded both figures up, which I think is interesting trivia in both cases. I don't think anything should be mentioned about a potential bias, for the reasons you state. No one would notice that it's (arguably) off by one unless they obsessively checked every little thing about the map. Randall's choice to round up or down doesn't affect the overall accuracy of the map or whatever point he's trying to convey. 172.69.69.70 15:41, 10 January 2018 (UTC)
+I added a possible unbiased reason for the use of ceiling rounding (avoiding the inclusion of partial Cueballs.) 162.158.79.47 15:43, 10 January 2018 (UTC)
+Regular rounding, which gets to whichever integer is closest (whether up or down), would also avoid broken people, but it would give Clinton one less guy. I removed your sentence, but added that it could be either due to Randall's political leanings or in order to achieve a better fit in a specific state. It's true that it is hard to point to either without further analysis. 198.41.230.154 16:19, 10 January 2018 (UTC)
+I know this wiki is in love with speculation, but this is such an insignificant detail about this map that there is no need to make guesses about Randall's motivations (political or otherwise) for rounding the way he did. Just state the facts. If a reader wants to draw their own conclusion, that's up to them. 172.69.69.70 18:52, 10 January 2018 (UTC)
+Couldn't the additional guy also be a result of using regular rounding for each state separately? 162.158.202.76 21:41, 10 January 2018 (UTC)
+Possibly, but the text on the map specifically states that "votes are distributed by states as accurately as possible while keeping national totals correct." 172.69.69.70 22:43, 10 January 2018 (UTC)
+As one of those Americans who doesn't like either major political party much, I'm disappointed that there wasn't a third color for voters who voted independent. More people voted independent in 2016 than any other recent Presidential election—that should be enough for at least two or three little yellow guys somewhere, right? 162.158.75.166 15:47, 10 January 2018 (UTC)
+Is green not enough? Fabian42 (talk) 16:05, 10 January 2018 (UTC)
+As a somewhat red-green color blind person, I have a hard time seeing the green Cueballs on this map. If I zoom in, I can see whether an individual Cueball is red or green, but I can't look at the map as a whole and easily see where all the green ones are. I wish Randall had instead made them dark green, dark brown, or even black so that seeing them wouldn't have been an issue for people like me (~6% of males). DKMell (talk) 21:22, 10 January 2018 (UTC)
+Actually, to the best of my knowledge I have no colour-blindness whatsoever, and under normal viewing I have trouble distinguishing the green ones from the blue (at first I actually thought they were grey). I actually thought they were very few, until I looked at the large version, THEN I can see they're green, look quite distinct from the blue, and are way more than the 4 or 5 I thought there were. However, it DOES seem like after red and blue, the next colour to use in any colour-coding system is green. Would be yellow, as a primary colour, but that's too light on a white background. NiceGuy1 (talk) 03:50, 12 January 2018 (UTC)
+This comic is number 1939. I was already getting upset when 1776 had nothing to do with the American Revolution, all the way to none from 1914-1918 having to do with WWI, and now 1939 has nothing to do with WWII?) Hopefully 2018 won't have nothing to do with current events.162.158.88.128 11:21, 11 January 2018 (UTC)
+Maybe its a reference to WWIII? 162.158.74.9 19:33, 14 January 2018 (UTC)
+Democrats have now won the popular vote in 6 of the last 7 Presidential elections (1992, 1996, 2000, 2008, 2012, 2016). The last previous time that they did that well was when FDR won four consecutive elections (1932, 1936, 1940, 1944) and then Truman won one (1948), so they won 5 consecutive Presidential elections. FDR was President from 1933 to 1945. So the midpoint of his time in office was in 1939.108.162.215.142 03:29, 15 February 2018 (UTC)
+Ohhh, I missed this misleading comment long ago but this still needs a proper respond by some real facts:
+1992, 1996 was democrats won by Clinton (dem.) - before was Bush, Reagan (rep.)
+2000 (and of course 2004 too) was eight years Gorge W. Bush (rep.)
+2008, 2012 was Obama (dem.)
+2016 - in case you missed something: Donald Trump is maybe a democrat, but he definitely belongs to the Republican Party and won the last election.
+And for non US people FDR refers to Franklin Delano Roosevelt (dem.), the 32nd President who ignored the informal rule given by the first president George Washington not running for more than two times. This rule was later laid down in an amendment to the US constitution. And Truman (dem.), successor to him as the former vice president because of the dead of FDR in the beginning of the forth part, dropped two bombs on Japan, I still remember people on this. --Dgbrt (talk) 19:29, 31 October 2018 (UTC)
+Apparently, you also missed the part where it said it's about "popular vote", not about what the end result of the election was... -- 162.158.90.36 14:32, 19 February 2019 (UTC)
+Categories: All comicsComics from 2018Comics from JanuaryMonday comicsComics with colorLarge drawingsUS mapsElectionsComics featuring Donald Trump

@@ -1,0 +1,1057 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1663: Garden
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1663)
+|<< PrevComic #1663 (April 4, 2016)Next >>|
+Garden
+
+Title text: Relax.
+Contents [hide] 
+1 Explanation
+1.1 Extra Garden pages
+2 Transcript
+3 Functionality
+3.1 Saving garden with url
+3.2 Lamps
+3.3 Colors of light
+3.4 Effect of light
+3.5 Grown items
+3.6 Growth development
+3.7 Debug mode
+3.8 Limitations
+3.9 Bugs
+4 Trivia
+4.1 Linsang - cat like animal
+4.2 Monday 4th of April release
+4.3 April Fools' header text
+4.4 Header text after release
+4.5 April Fools' comic
+5 Items in the garden
+5.1 Characters
+5.2 Animals
+5.3 Plants
+5.4 Platforms
+5.5 Other items
+5.6 Helper structures
+6 Discussion
+6.1 Finally Garden is up on xkcd
+6.2 April Fools?
+6.3 Mobile
+6.4 Resets
+6.5 Linux
+6.6 Available "plants"
+6.7 Suggestions for the explanation
+6.8 Title text
+6.9 Colour mapping
+6.10 Bird 5
+6.11 Lost gardens after new comic
+6.12 Requires light on ground?
+6.13 Not working...
+6.14 Videos
+6.15 Memory issues
+6.16 Has growth almost halted?
+6.17 Header text
+6.18 Broken
+Note: this is an interactive comic. Go to xkcd to try it out.
+Also note that a few weeks after the comic was released a change was made so growth only seems to appear when the gardens is actively running in a browser window!
+(This is opposed to what happened during the first few weeks after release!)
+Explanation[edit]
+This explanation may be incomplete or incorrect: Fill out the tables with images of all the possible items. General explanations/comment are missing as well as link to screenshots of gardens where each item "grows".
+If you can address this issue, please edit the page! Thanks.
+This was the seventh April fools' comic released by Randall. The previous fools comic was 1506: xkcloud from Wednesday April 1st 2015. The next did not come out in 2017, but first in 2018 when 1975: Right Click was released on Sunday April 1st 2018.
+This comics represents the April fools' comic of 2016, and it is Randall's celebration of April Fools' Day Friday, April 1, 2016. It represents the third time in a row that user input changes the April Fools' comic. Although in the last two 1350: Lorenz and 1506: xkcloud it was written (or drawn) input that became part of the comics. This time the user input is like a game, as the user actively adds, moves and deletes items, and new items appear based on these actions. In this way it actually more resembles the game comic 1608: Hoverboard, than the previous April Fools' comics.
+Due to technical problems (or to make fools of his fans, see more about the header text below) the comic did not go live until Sunday evening (after midnight, so technically on Monday April 4th) so there was no Friday release the week before, see more details below.
+The comic begins with a loading screen with a revolving tree and the text "loading..." This is because the first time a computer loads this dynamic comic it can take a while.
+Once it is loaded it displays "your Garden", being a barren landscape, with a small pond to the left, some rocks at the far left and right, and a single lamp shining light yellow light on most of the ground. This is what is shown at the top of the explanation here. But if you leave the lights on and wait (or "relax", as the reader is told to do by the title text), then plants and other items will start to appear.
+The reason it is correct to call it "your garden" is that every time this comic is loaded from scratch, a new garden will be created with a unique url-address. By saving this link (making a bookmark for it), the user will be able to return to their garden again and again. As the garden only develops very slowly this is important. (If users wish to share their garden they can do it in the table on the page for Users gardens).
+Plants appear one at a time, and sometimes it takes a long time. Only a few of the plants actually grow. For instance there are some large trees that begins as a large trunk and from there grows branches and leaves. This can sometimes happen quite fast. Most other plants just appear, the only other exception being one type of flowers. All plants, except the cactus, clearly sway in the breeze.
+Also animals and building-like structures such as a monolith and birdbaths appear, together with lots of other items like office furniture with balloons swaying in the wind or even one of the Mars rovers which so often have been featured in xkcd.
+On top of all this, several known characters may appear in different poses including Cueball and Megan (for instance with a sword, see here), Ponytail (see here) and Beret Guy from the torso and up (see here). Megan and also Cueball can both be seen with a black hat, but it is one that "grows" on top of their heads after they first appear. However, Cueball with a black hat automatically turns into Black Hat, so he can also be said to be in this comic. There is also an unknown character, a girl on stilts with black hair in a ponytail who like plants and balloons sways in the wind. A possible origin of this girl could be the What If article Burning Pollen. The article involves a character with seasonal allergies that is trying unsuccessfully to avoid their allergen (pollen) with giant stilts.
+All the items that can appear in the garden are listed below in several tables. During the first week new items kept appearing, but after the eighth day (April 12th), no new items have appeared. Also the growth rate (and thus the fun of this comic) has decreased with time (maybe due to the enormous amount of gardens that the server has to keep track of?) .
+Every so often the image will refresh. You can change the number of lamps, their position, direction, beam width and the color temperature which always begins somewhere between white and yellow, but can change all the way from red to blue (See this example with one lamp selected and three colors of light). Other colors than those four may appear where two lamps' cones of different colored light overlap.
+The color of light affects the growth with a strong correlation for what appears in the garden depending on the color of light, and this is not only split between red, yellow and blue, but rather 10 different colors.
+Early on it became clear that pure red light results in a desert theme with cacti and turtles and pure blue light gives an aquatic theme with lots of octopuses that may also wear a black hat. For the most interesting gardens the light colors should be mixed; see more below under Effect of light.
+If this comic is scientifically accurate, that correlation will be based on photosynthetically active radiation.
+Some users manage to create fantastic gardens (by using lots of time on them, pruning them at the right time and changing the light and lamp position to get what they strive for). Especially one user have created a series of amazing gardens that is posted on another xkcd forum. Here is a collection of screenshots with some of Blitz Girls amazing gardens!
+The title text "Relax" can be debated. Is it to let the users know they should just sit back and relax as the garden grows.? Or should they relax and don't worry so much about how it works (not working here on explain xkcd though!)? Or is he teasing the users by giving them a garden that they need to tend to, and then telling them to relax? And also giving them many more colors than lamps... Given that this comic was supposed to come out on April 1st, there is a good chance that it is, also, to tease the users. There are actually two other title texts as well.
+Extra Garden pages[edit]
+Since this comic is so complicated extra pages have been created to include much more information than is wished for on this main page (which is already of considerable size).
+These pages are listed here for convenience, but they are also linked in the relevant sections below:
+1663: Garden/Images. The images of items that can appear in the comic.
+This page is linked in the section below with table for Items in the garden.
+1663: Garden/Screen-shots. Since there are no permalink, then in order to save a particular moment of a garden a screen shot is needed. These can be posted here.
+This page is linked in the section below about for Saving images.
+1663: Garden/Users gardens. A place for users of explain xkcd to post links to their own garden, and also for experimental gardens.!
+This page is linked in the section below about for Saving garden with url.
+Transcript[edit]
+[After a loading image with a rotating tree in the middle and the text "Loading..." with the three dots appearing one at a time, and then disappear when all three have been there the image shown above in the explanation will appear:]
+[Description of the image above: A piece of bare landscape is shown. At the edges there are some rocks or stones raising the level from the general level through the center of the panel. Above the middle, a little more than halfway to the to of the panel, is a light bulb sitting inside a lamp that reminds of the desk lamp from the movie Luxo Jr. The lamp shines a yellow light down on the landscape in a broad cone that jus reaches the first rock to the left, but not those to the right. The lamp just hovers in the air. In the top right corner are two gray icons. The top one has a black frame and shows an image of a lamp, tilted left as opposed to the straight position of the lamp in the image. There is a + sign below in the left corner. The second icon without a frame has a large white cross in the middle.]
+[This turns out to be a web applet and using the "+ lamp" icon two more lamps can be added getting up to three. They are all adjustable both regarding position, direction, color of light and beam width. When selecting a lamp a red circle appear around it with a small circle on top that can be used to control the light color from blue to the left to red to the right. In front is a red arrow that can turn the lamp and it can also be used to change the beam width by pulling it away from the lamp or pushing it back. The lamps can be moved by just clicking on it and moving it. The other icon with a X can be used to remove the lamps (and later any object that appear in the garden). When any object is selected there is a red circle around it. When this is done the gray cross icon becomes red and can the be used to delete the selected item. When no item is selected (either because it is deleted, or by clicking in a part of the screen with no items), then the cross icon turns gray again. When all three lamps are on, then the "+ lamp" icon is faded out.]
+[If you wait (or relax, as in the title text), then a plant will grow or animals, humans and other items may appear. This could be birds, snakes, octopuses or turtles, Megan or Cueball or a birdbath, a monolith or a tall gate just as a few examples. Most of the items appear in one go, but at least the largest trees grow up with a big stem first and then adds parts later with leaves or empty branches. Also one item may appear on top of another item and for instance birds may fly in the air.]
+[There is but two words in the entire comic, which appears when you grow a sign:]
+Sign: Sale
+Functionality[edit]
+Saving garden with url[edit]
+There is no permalink button as in the last two years' April Fools' comics.
+The URL is different for every garden that is loaded, but stays the same. It links to a server-side copy of the scene, which then changes depending on what the users does with their gardens.
+Sharing a URL will connect a new browser to the same garden session, but only the original browser will be allowed to edit.
+The user can always return to change the garden with the link, but only from the same browser on the same computer.
+This means that a specific moment in a gardens life has to be saved as an image for future references.
+The garden itself will thus continue to develop further from the time when the url was copied, and events will happen from now on even though the garden is not opened in any browser.
+If the user doesn't keep it, it will become infested with weeds.
+So most likely the garden is serverside, as all browsers are allowed to see the development of this garden, but users following the url are not allowed to edit anything.
+Here is an example garden linked by ID versus the same garden:
+In the original screenshot from April 4th from when the url was created
+In a screenshot from April 5th the day after.
+Here example after the user pruned the garden in the examples.
+Other user gardens can be found on the link.
+Starting two browser windows or tabs pointing to the same URL will allow you to edit from either window.
+linden.xkcd.com holds all the data; the UUID just corresponds to your access key, held in your browser's local storage.
+Saving images[edit]
+Since the urls are changing, the only way to save a particular garden is to save an image of the current garden.
+Alternatively, by deleting all lamps (or changing them to laser beams or turning them upwards) then no new growth will occur -- but then the garden will no longer develop.
+In Edge, Firefox and Chrome, the image plus light cones but minus lamps and icons elements, can be saved by right clicking in the image. (Not possible in Internet Explorer)
+They do not always save in the same way as some browsers saves the part of the background without any light cones as white, and other save it as no background, in which case it may render black, basically hiding any black items outside the light.
+For those images it depends on which viewer is used to see the image, if everything can be seen or only that in the light cones.
+See examples of how it looks with black background in these two color maps collections using a single lamp and three lamps.
+See more details about how these color maps have been made.
+See also (at least) two examples of saved images as the are here on explain xkcd here.
+An image of the whole screen can be captured by pressing the PrtScn (Print Screen) key on the keyboard and then pasting the content into a blank image in an image-editing program.
+An even better solution is to use a tool like Snipping Tool which can take the part of the screen that are relevant. This is how most of the screen shots for this explanation has been acquired.
+In both ways, the lamps and icons can also be displayed, which is not an option with saved images.
+Lamps[edit]
+Additional lamps, up to a total of three lamps, can be added by clicking the black plus lamp icon along the right of the window.
+Lamps can be removed by clicking to select a lamp, then clicking the red X icon along the right of the window, or pressing the Delete or Backspace key on the keyboard. All lights can be deleted.
+The position of the lamp can be moved by clicking and dragging the lamp within the scene.
+The angle and area of the light cone emitted by the lamp can be changed by clicking to select the lamp and to reveal the red control triangle. Rotating the control triangle around the lamp will change the aim of the lamp to point in the direction of the triangle, dragging the control triangle towards the lamp will widen the beam, and dragging the control triangle towards away from the lamp will narrow the beam.
+The color emitted by the lamp can be changed by clicking the lamp to reveal the colored control dot, and by rotating the dot around the lamp. The small color control circle changes color to match the color of the lamps beam of light. new lights default to a center position, emitting a pale green. rotating the control right changes the color to yellow, orange, and finally red, and rotating the control left changes the color to white, then blue.
+Colors of light[edit]
+The color control moves in a smooth gradient between colors, along the spectrum without any set positions.
+Small changes in the color can have an effect on the garden, even though there is no clear change in the color.
+As many as nine colors can be identified from the emitted light of a single lamp, and many more colors are evident when two or three lamps overlap.
+There is reason to believe that even half the change will create different gardens, i.e. there can be at least one more position between those nine settings that will change the effect, giving eight more settings for a total of 17 "different" colors. An experiment with such 17 settings for just One lamp with one color.
+Several unique elements only seem to appear using the eight half-colors. Both the Mars rover and the Stilts girl might be missed.
+Colors can thus be indicated from these 17 divisions:
+Below is a table with these 17 division shown and what to expect.
+This may change over time, but was as it about a week after release.
+If updating, please make a note that this may have only applied during the first week(s) and add new feature without deleting.
+There has been an experiment made with these 17 colors, see that for more details.
+The color names links to these experimental gardens, that will never be changed after the initiation.
+But there are reasons to believe that two gardens made identical may develop quite differently, as it seems some gardens have very limited growth in spite of the same light. Some of these gardens may be of that persuasion.
+This was proven when 34 more gardens using the 17 colors where started in a similar experiment.
+The debugger reveals that each light has a "temp" property which ranges from 0 (red) to 1 (blue). The default setting is 0.5.
+The RGB color corresponding to "temp" is determined by this function in linden.js:
+function u(t){return.32>t?[1,.5+.5*t/.32,.5]:.64>t?[1,1,.5+.5*(t-.32)/.32]:[.75+.25*(1-t)/.36,.75+.25*(1-t)/.36,1]}
+
+# Color Description of items etc
+1 Blue Pure blue! Aquatic theme with octopus (some with black hat), Cueball checking for rain with hand up. Less growth after the first week and octopus only over the pond (see growth speed vs blue light).
+2 Blue -> light blue Octopus over pond and boats in pond, Cueball hands up and down (the latter possibly with black hat), Cairns of stones and obelisk.
+3 Light blue Cueball hands down (but can be with hand up as well), Cairns of stones, obelisk, wading bird and boats.
+4 Light blue -> blue white Obelisk, flower base and stems and balloon string with normal and huge balloons, Cueball hands up (and also down with column and wadding bird), fish, shark fins and boats.
+5 Blue white Office landscape with desks and chairs, table, column, obelisk, pots with star plant or other flowers base and stems, Beret Guy in pond, Cueball hands up and down, balloon string with normal and huge balloons drifting far left and right on their strings in the wind. Also wadding bird, boats and shark fin
+6 Blue white -> white Both kinds of Cueball, Ponytail, Beret Guy, both types of cats, office desk, table, standing bird, wading bird, heron, owl, shark fin, bunny boat, flowers base and stems, balloon string with normal and huge balloons. Also fish and flying fish.
+7 White Balloon string with normal and huge balloons (here three in one garden), Megan hand up, cats, bunnies, shark fin, fish, Beret Guy, flowers base and stems and trees. Also platform in tree, beehive base, Ponytail, water bird and flying fish and Heron.
+8 White -> light yellow Megan hands up, shrubs, flowers base stems, hilt and some blooms, trees, bunnies, fish, shark fin, water bird, owl, bunnies. Also birdbath and stilt girl.
+9 Light yellow Starting color. Megan hands down and with sword on platform, trees, shrub, flowers base and stems, grass, platform in tree, birdbath, ducks, wading bird, pots, with star plants, tall platform. Also deer, stilt girl, fish and shark fin.
+10 Light yellow -> Yellow Girl on stilts, Megan with swords on platform, trees, flowers base and stems, grass, reeds in pond, platform in trees, tall platforms, deer, snake, pots
+11 Yellow Sale signs, tall platform, snakes, armadillo, flowers base and stems, reeds in pond. Also deer.
+12 Yellow -> Orange Sale signs, snakes, turtles, tulips and wavy plants. Also tall platform and armadillo.
+13 Orange Wavy plants, turtles, linsang, flying birds and flying Megan (and thus also bird risers and their roots). Also armadillos.
+14 Orange -> orange red Snakes, turtles, linsang, armadillo, tulips wavy plants, flying birds and flying Megan (and thus also bird risers and their roots).
+15 Orange red Desert landscape with turtles, cactus sale, signs, lamp post poles without lamps, platform on cactus resulting in inverted pyramids. Also linsang.
+16 Orange red -> red Desert landscape with Mars rover, turtles, cactus sale, signs, lamp post poles without lamps but no platforms. Also linsang.
+17 Red Pure red! Desert landscape with turtles and cactus only.
+Effect of light[edit]
+How much the color affects the growth took some time to find out but already from the start it was clear that there definitely was a correlation
+For instance areas under lights set to the the outer position or the starting position was very different.
+Pure blue light (left most) develop into a boring aquatic theme with only lots of octopuses (maybe with a black hat) and the Cueball holding a hand out to check for rain.
+The appearance of pure blue gardens have changed with time so octopuses now only appear over the pond like this.
+Pure red light (far right) develop into a boring desert theme with only cactus and turtles.
+Light yellow or starting light grows lots of plants like trees, grass and scrubs and several animals like ducks, deer, fish and wadding bird and also birdbath, stilt girl and both standing Megan and sword Megan.
+Soon after the release of the comic some research into a single lamp with unchaining light, that covering the whole light range split into 17 divisions was undertaken.
+See these gardens locked for explanation use only and also see more about the 17 split in the color range above.
+Mixed light seems to be able to do the same, but it is unclear if what grows only depends on the final mixed color, or if it is a mix of what would grow under those two colors.
+There are some indications that it is not a clear mix as pure blue together with pure red, does not seem to produce neither Octopuses or desert theme.
+If there are any items that can only grow under a mix of light this has not been proven. Most objects that can grow directly from the ground, has been observed in the experimental single color gardens mentioned above.
+But there may be items that needs to grow on top of other objects, and these may require a change of color from what the base needs. And thus they will not appear under one color light. Possible examples of these items could be:
+Desk lamp (needing some kind of platform forming in another color range like the tall platform, yellow or the small platform, orange).
+Giant Planter (needing for instance a platform column, light blue light]
+Lamp pole tops (needing lamp poles forming under orange light)
+Flower blooms (any type) (needing flower segments, several colors)
+Actual flying fish (needing bird raiser, orange light)
+Flying saucer (needing bird raiser, orange light)
+What happens when using only one color (other than the two outer points red and blue and the starting light yellow color) has been explored in great depth in no less than two different One lamp one color experiments with 51 gardens created using 17 different color settings.
+Blue light (just right of pure blue) creates a landscape with stones forming cairns, together with monoliths, both kinds of Cueballs (with black hat on the standing one) and still octopuses.
+Light blue light (just a little farther from pure blue than above), the octopuses disappear, but the rest remains the same, although boats and wadding bird now appear in the water, and still both Cueballs can occur. Going just slightly further away fish and columns start to appear.
+Blue white light grow a sort of office theme, with desks, balloons and Cueballs. Moving towards white light Ponytail appears with less office items together with cats (and now no Beret Guys in the pond but lots of animals).
+White light gives a forest of balloons with Megan holding her hands up.
+Yellow light (somewhat right of the starting color) produce sale signs and snakes.
+Orange light produce flying bird and flying Megans and on the ground snakes, turtles, linsangs and armadillos, plus tulips and wavy plants.
+Orange red light (just left of red) produce lamp posts (without the top), in addition to the same desert theme as red with cactus and turtles. If it is very close to red the Mars rover appears (as in the example above). If it is a little longer from red, the platforms can form, which can then act as a catalyst for growth and create large towers on top of cactus's.
+Nothing seems to be able to grow under several conditions:
+If no lamps are pointing towards the ground for instance because:
+All lamps are deleted.
+The beam is laser thin.
+The lamps points towards the sky without touching the ground.
+The lamps are below the ground pointing down. (In this case the one over the pond was not far enough down and a single water plant has formed anyway.)
+On the other hand if the lamps are below the ground but pointing up it can result in growth well enough as shown in this example and this example.
+It was believed that if the lamps where very close to the ground pointing straight down there would be no growth.
+However this can be because only a very small area is illuminated
+In this example there are turtles under the red light in the pond, plants under the yellow and octopus, column and Cueball under the blue (from the time that columns could appear under pure blue light).
+Similar in this example there are octopus (in the pond), deer/plants and a cactus from even lower lamps.
+Of course the lamp has to be so high as not to be underground as mentioned above.
+Also if lamps point towards the ground there can still only grow something from the ground where the light touches. The growth can move outside the light cones up in the air, but the base has to be within an area with light.
+Similar with items that can grow new things on top of them like tree trunks or platforms, this will only happen if light shines on the relevant places.
+For instance the tall tree trunks can easily grow outside a light cone. Then leaves and branches will only grow below the point where the light hits
+Similar with platform, that grows partially outside the light cone. More items will only appear where this lamp still hits the platform.
+One exemption to the rule mentioned here seems to be the bird raisers. The bird raisers are used to hold anything that flies up in the air. And the bird raiser it self needs to grow from either another bird riser or from a bird riser root (which in the end holds all bird raisers). This root has to have light on the ground to grow and thus have light on it self. But from the top of the bird raisers growing from such a root, items are able to grow even if the tip pf the bird raiser is not in the light.
+Thus flying items can appear to grow where there has never been light!
+See much more about this under the description of bird raisers in the table below.
+Of course lights can be moved and changed without destroying what has already grown there (or so it seems). So a tended garden cannot be used to determine this.
+This is why some locked gardens have been set up where there will be no changes ever.
+Examples from above has mainly been taken from screen shots of these locked gardens.
+Grown items[edit]
+Grown items may be highlighted by clicking on them. Selected grown items will be highlighted with a red circle, and appear slightly lighter then other items.
+Grown items may be "pruned" by the red X icon along the right of the window, or pressing the Delete key on the keyboard.
+Some items (such as the large tree) can be deleted in minor parts by selecting a branch or smaller set of leaves without deleting the entire tree.
+See the images (with links to xkcd) of all 250 items that can appear, here below in the tables.
+Growth development[edit]
+After a few weeks growth not only seems to appear when the garden is actively running in a browser window (maybe only in the original users browser?)
+There continued to appear new items that was not available on the release day.
+This lasted about a week (maybe 8 days).
+For instance many new items and animals like the columns and the owls started to appear after a few days.
+Also tulips and lightning poles did not appear at first.
+A last burst of new animals occurred about a week after release (either 11th or 12th of April). This burst included the following animals:
+Herons, Wadding birds, Sharks fins, jumping fish and flying fish plus actual flying fish (flying without water), armadillos and no less than 12 different linsangs (see Linsang - cat like animal).
+But it also seems to change what might appear, so that the result of a particular color will change dramatically, not only by adding new, but also by not growing what used to be.
+A clear example of this is that for the first half week pure blue light resulted in lots of octopuses all along the ground and also Cueballs cheeking for rain.
+Later also columns appeared.
+But after a week the growth rate under blue light almost stopped, and it seems that octopuses now only grow over the pond to the left, and much less Cueball and no columns under that color.
+See details here: Growth speed vs blue light.
+Debug mode[edit]
+Anyone who can explain what the debug mode is, how it works, why it is there and why there is difference between the linden and the normal xkcd?
+By changing the url address it is possible to get into a debug mode.
+This may not work from for internet explorer, but seems to work from Firefox and chrome.
+Normal mode: http://xkcd.com/1663/#ID
+Normal mode example.
+Debug mode works from this address http://xkcd.com/1663/?debug#ID
+http://linden.xkcd.com/?debug#ID does not work anymore.
+Linden debug mode.
+In this mode each item can clearly be seen as the image is framed, and thus invisible lifter images for flying things can be seen.
+See this example.
+This last mode can be used to find the names of the images of each item in a garden.
+See this section on How to find new links.
+By preventing the browser from loading specific images (e.g. with an ad blocker), all instances can be pruned temporarily.
+On the forum, yan provides some jQuery which can be entered in the javascript console to add an interactive sidebar listing the objects in the garden.
+Limitations[edit]
+The beam produced by each lamp is normally restricted to spread between 0° (which results in no growth) and 95°. The "create new light" button chooses a random angle between 45° and 90°.
+Attempting to view several gardens simultaneously may cause some to hang on the "loading" image, likely due to the server refusing additional connections. The maximum number which can load successfully is usually six, but may be as low as three.
+Bugs[edit]
+There have been several bugs mentioned already after the first day. Please include any spotted here:
+Also some problems that may now be fixed.
+May not run on some tablets or smart phones (i.e. touch-screen only devices).
+There are some browser versions of Chrome and Firefox where it doesn't run.
+The lamps may be invisible for a few seconds after loading.
+The whole page refreshes at random intervals. This has been patched.
+It still does on April 5th.
+Sometimes (in some browsers?) the garden is reloaded when refreshing.
+This may though be because of the url which is a link to a given garden.
+See examples of this here.
+Seems to be dependent on the browser type.
+Some lamps jumped back to their starting position after a few minutes, without the whole page reloading.
+For a few hours after its apparition, the loading didn't seem to stop for some people, making them think that the rotating tree was the whole joke, with people expected to "relax" while looking at it.
+Occasionally invisible objects are added. They can be deleted, and they have bounding boxes in the debugger: Example.
+Doesn't work over https, you have to use http instead.
+It is possible to save the image in Chrome and in Firefox, but not in Explorer.
+It is possible to save the visible portion of the image (in any browser) by pressing the Print-Screen key to perform a screen capture.
+But in Chrome the image is black where there is no light.
+In Firefox everything is visible, wth the light cones (in color) shown.
+Appears to have a memory leak at least in some Windows/Firefox versions, as keeping the page open for a long time will cause Windows to kill Firefox for insufficient memory.
+On the forum, Weeks tries to summon davean! [1]
+Does not work in many Linux versions.
+Tree trunks will sometimes grow endlessly without leaves depending on the lights hitting them.
+If you are dragging a light, the arrow, or the color slider when a refresh happens, the refresh will enter an infinite loop.
+This seems to cause corruption of the garden because refreshing the whole page will result in a loop that never loads the page.
+Clearing your local data for xkcd.com solves the issue but also makes you unable to edit your garden.
+On April 6, gardens viewed from http://xkcd.com/1663/ links began to include double-size objects, while they appeared normally with different objects enlarged when viewed from http://linden.xkcd.com/.
+Apparently some of the server's art files were misdirected to the larger versions replaced with new large images. [2] [3]
+New giant objects are still placed according to their original sizes. [4]
+This was suddenly fixed on April 7, possibly inducing browser memory issues at that time. [5]
+However, some giant images remained cached (where?) for a long time. [6]
+Although there are six bee images, they have not been reported in any gardens
+Trivia[edit]
+There are three different title text in this comic, as there are also one over each of the two icons.
+This is special as with some of the newest "game like comics" there are no title text!
+The normal one "Relax" is mentioned above in the main explanation.
+The other two are explanations for what the two icons in the top right corner does and appear when the cursor hovers over them.
+They are Create new light explaining that this icon introduces new lamps and
+Remove selected (delete key), which explain that this icon can be used to remove (delete) selected items like lamps, plants or items. It also explains that the delete key can be used instead of the icon.
+Linsang - cat like animal[edit]
+In the second week of release no less than 12 images of the animal called linsang appeared in the garden.
+See all of them here.
+This animal was referenced in Thing Explainer in Tree of life where the animal is drawn in the cat-shaped section with the following caption:
+Almost cat
+This animal looks like a cat with a long neck. It's the closest thing to a cat that's not actually in the cat family.
+Next to the section another one is drawn in front of Cueball (obvsiously it's Randall).
+The linsang says "Mrowl?" and Cueball says "I wan't one!"
+Randall has in an interview discussed these Cat-Like-Creatures and in is quoted for saying
+Q: An animal I’m obsessed with is:
+A: The linsang, which looks almost like a cat but has this weird long neck. I find them both unnerving and adorable. I found some footage of one running; it’s like watching a cat video from a parallel universe.
+The linsang is related to the animal genet, and here are two videos/photos of a genet running:
+Genet on a rhino
+Genet on other things
+Monday 4th of April release[edit]
+Due to technical problems (or to make fools of his fans?) the comic did not go live until Sunday evening (after midnight, so technically first on Monday April 4th).
+There was thus no Friday release in the week before
+So the Wednesday comic 1662: Jack and Jill got a lot more attention than it would usually have had.
+This comic thus turned in to the Monday release instead, as no other comic was released later that Monday, as this would have taken attention away from this very special comic.
+But it was called the April 1st comic and later the Friday comic in the header text displayed at the top of xkcd to explain why there was no Friday comic.
+A header text continued to stay a the top but changed two more times until the release past midnight Sunday in the US. It was even past midnight Pacific Time, but not yet on Hawaii.
+There were thus only two comics released in the week before this Monday, which may be the first time since xkcd went live on xkcd.com in 2006.
+April Fools' header text[edit]
+There is some debate as to whether this comic is an April Fools' comic or not.
+Was instead the April fools' joke the text written above the comic in the header of xkcd?
+There is reason to believe this was not the case based on among other thing these xkcd Header text, see also here.
+Below it a list of the different header text displayed from Friday until the comic was just released.
+The header text continued to change regularly after release in regard to this comic at least until next Friday (April 8th).
+Here below is the different header text with info on when it appeared.
+Links are given when possible to a screen shots on the word message and to a webarchive in another link when both are available.
+On Friday, April 1st, 2016, the xkcd website changed to a new message where the standard message "XKCD updates every Monday, Wednesday, and Friday." usually is. (This message had, however, up to this point and for a long time been a commercial for Thing Explainer). But now it began displaying this instead:
+The xkcd April 1st comic is currently experiencing technical difficulties.
+Please stand by!
+Early Saturday April 2nd the message was updated:
+The xkcd April 1st comic is currently experiencing technical difficulties.
+Status update: Please stand by.
+Status update: This is fine. Everything is fine.
+Status update: Everything is on fire.
+Status update: Searching for calendar systems in which Saturday is April 1st.
+Later on Saturday the message was again changed to:
+The Friday xkcd comic is currently experiencing technical difficulties
+[Editor's note: Everything is on fire] and has been delayed until Sunday night.
+The comic did not come out until past midnight in the entire North America (coming out just before midnight in Hawaii).
+It was finally released very early on Monday April 4th, and the message then returned to the old standard text for xkcd for a short while:
+xkcd updates every Monday, Wednesday, and Friday.
+Header text after release[edit]
+During April 4th, after the release the xkcd Header text changed from the old standard to display a Protip:
+Protip: If you don't like how your garden is growing, you can click to prune it.
+And then later on April 4th, the message was again changed to:
+Protip: If you don't like how your garden is growing, you can click to prune it.
+You can copy the URL to share your garden. From other browsers, it will be view-only.
+When the next comic came out, the message then changed, (also for the new comic) to
+Protip: If you don't like how your garden is growing, you can click to prune it.
+You can copy the URL to share your garden. From other browsers, it will be view-only.
+Note: If you're seeing today's comic in place of your garden, change the URL from xkcd.com/#<your code> to xkcd.com/1663/#<your code>.
+After the Friday comic came out on April 8th, the message then changed back to
+Protip: If you don't like how your garden is growing, you can click to prune it.
+You can copy the URL to share your garden. From other browsers, it will be view-only.
+The message stayed like the one above at least until Friday April 22th before that Friday's comic was released. But either at the time of release or at least on Saturday the day after the release the message returned to the original.
+XKCD updates every Monday, Wednesday, and Friday.
+The pro tip, however, remained as the header text when displaying the Garden comic.
+April Fools' comic[edit]
+This comic was indeed supposed to be the Friday 1st of April, April Fools' comic!
+This statement is based on several things, which can can be deduced from the above header text and the subsequent issues with the many bugs in this comic.
+It is clear that this comic did actually come out as promised, at least as promised in the third message about release on Sunday night.
+It is also clear that it is regarded as the Friday comic, even in the last update before the release, which was two days after April 1st.
+It is also clear that this was a very complex comic, and it is realistic that Randall did have problems with making it work.
+On day two there still seemed to be several minor bugs, which seemed to improve over time so Randall was still working on it after release.
+But then new bugs appeared when the next comic was released.
+Both of the last two April Fools' comics, 1350: Lorenz and 1506: xkcloud, have had no real meaning or joke in the comic. The jokes appeared from user input, and here it comes from waiting.
+This makes people who spend too much time on these comics April Fools' (or if they rather wish to be called a nerds than fools, then they can claim to have been a victim of nerd sniping).
+So, even if Randall did play a joke on people who eagerly awaited the comic, then he did deliver as promised a spectacular comic Sunday night.
+There are several reasons to believe that Randall would have preferred the comic to get out on Friday April 1st.
+Apart from it being a time consuming comic that in it self is April Fools' comic material, then by getting it out Friday this special comic, which he obviously have used a lot of time to prepare, would have had one more day as the first comic.
+Getting it out before a weekend would have let many more users spend time looking at their garden. Now many would not spend enough time to appreciate the comic, as it came out right when the new work week began.
+And it is a very complicated comic that just to get to understand how to really use it could take a days time even for someone with time.
+And this is not talking about how the comic works, but just how to use the program, i.e. the whole functionality of the comic is way more complex than even a game like 1608: Hoverboard.
+And before next weekend two more comics were released taking some of the focus away from this one too soon, and also before the next weekend.
+Of course die hard fans will not forget this one, but many xkcd fans may only come by in the weekend etc. and such a hard to come by comic like this, that demands patience and that you return does not profit from being bumped down to number three as it would be next Friday.
+Randall lives of his fans goodwill and to deliberately make a pun on them like this would probably not seem like a good business proposal, apart from the fact that the comic now gets less attention than by coming out before the weekend.
+Items in the garden[edit]
+Below in the section are several tables displaying all the known images of items that may grow (appear) in the garden.
+They have been sorted based on type like characters, animals (by type), plants (by type), platforms, others and helper structures.
+In time each item will have a link to a screen shot where they appear.
+Also explanations for each item can be written in these tables
+For colors reference refer (also) to the numbers in this image:
+The color under which a given item may grow should be noted.
+Particularly if they can grow under just one color if light (maybe a range, but with only one lamp lit as one specific color).
+But almost more important if some items needs more than one color
+Especially if the items base, the base on which they have to grow, needs another color than they do, as seems to be the case with flower blooms and the lamp to go at the top of the lamp poles.
+All the images can be seen without the table here: Images of items.
+Characters[edit]
+To see/hide images click here: Description of images Relevant colors Link to screen-shots
+Cueball
+ Man 1a
+ Man 2a
+Here are the two different images of Cueball.
+The first Cueball just stands with his hands down.
+In this position he always looks left.
+Some items can grow on his head, most obviously the hat, turning him into Black Hat. But also animals like the water bird, standing bird or cats and owls can perch on his head.
+He never seems to appears in pure blue light, and also only appears when the light is turned left of white.
+The second Cueball has one hand out.
+In this position he always looks right.
+He is the only character that appears under pure blue light (color 1).
+It seems like he cannot wear the hat or anything else on his head.
+Instead he can hold object on his hand, like a balloon string (later with balloon or the huge balloon), the small platform or some of the smaller animals like the bird, the turtle, or cat and owls.
+There is a third version of Cueball with both hands up.
+Standing Cueball with color 2 blue, 3 light blue, 4 light blue and 5 Blue white
+Hand out Cueball with color 1 blue, 2 blue, 3 light blue, 4 light blue and 5 Blue white
+Standing
+Hand out
+Megan
+ Woman 1a
+ Handfig 1
+ Handfig 2
+ Sword fig
+ Flying fig
+Here are the images of Megan.
+Megan with sword seems to only occur on top of a platform or a piece of furniture.
+She seem to not be willing to pull out the sword when just standing on the ground.
+This means that she can only occur under a one color setting if that setting can also produce a platform. This is the case though see the color column.
+Standing (Yellow 9 standard)
+Hands up (L and R) (White 7)
+Sword (Yellow 9 standard and Yellow 10)
+Flying (Orange 15)
+Standing
+Hands up
+Sword-tree platform
+Sword-gate
+Sword-desk
+Flying
+Beret Guy
+ Beret shrub
+Here is the image of Beret Guy.
+White 7 or mix of yellow and blue In lake
+In birdbath
+In shrub
+Ponytail
+ Fig 1
+Here are the images of Ponytail.
+She is also shown with a long stick, which she bends.
+Bendy-stick Ponytail occurs in Yellow 9. Example
+Stilt girl
+ Stilt walker
+Here is the image of the girl on stilts.
+Light yellow 10 Example
+Animals[edit]
+Mammals[edit]
+To see/hide images click here: Description of images Relevant colors Link to screen-shots
+Armadillo
+ Armadillo L
+ Armadillo R
+Here are the images of Armadillo.
+Color: Combination of 17 and 9, 15 [ Example]
+Cats
+ Cat Balanced
+ Cat Ground
+Here are the images of cats.
+Look similar to the cats in the mobile game Neko Atsume.
+Color? [ Example]
+Deer
+ Deer 1
+ Deer 2
+Here are the images of Deer.
+Color? [ Example]
+Bunny
+ Important bun
+Here is the image of the Bunny.
+Color? [ Example]
+Linsang
+ Linsang 1
+ Linsang 2
+ Linsang 3
+ Linsang 4
+ Linsang 5
+ Linsang 6
+ Linsang 7
+ Linsang 8
+ Linsang 9
+ Linsang 10
+ Linsang 11
+ Linsang 12
+Here are the images of linsangs.
+See more about Linsang - cat like animal in the trivia section.
+Color? Linsang infected by fungus
+Birds[edit]
+To see/hide images click here: Description of images Relevant colors Link to screen-shots
+Flying birds
+ Bird 1
+ Bird 2
+ Bird 3
+ Bird 4
+ Bird 5
+Here are the images of flying birds.
+Color? [ Example]
+Standing bird
+ Bird standing
+Here are the images of Standing bird.
+Color? [ Example]
+Duck
+ Duck 1
+Here is the image of the duck.
+Color? [ Example]
+Heron
+ Heron L
+ Heron R
+Here are the images of Herons.
+Color? [ Example]
+Owl
+ Owl
+Here is the image of the Owl.
+Color? [ Example]
+Wading bird
+ Wading bird L
+ Wading bird R
+Here are the images of wading birds.
+Color? [ Example]
+Water bird
+ Water bird 1
+ Water bird 2
+Here are the images of water bird.
+Color? [ Example]
+From the sea[edit]
+To see/hide images click here: Description of images Relevant colors Link to screen-shots
+Fish
+ Fish 1
+ Fish 2
+Here are the images of Fish.
+Color? [ Example]
+Flying fish
+ Flying fish 1
+ Flying fish 2
+ Actual flying fish 1
+ Actual flying fish 2
+Here are the images of Flying fish.
+Color? Flying fish in Megan's hair Flying fish and UGO
+Octopus
+ Octopus
+ Octopus hat capable
+Here are the images of Octopuses.
+Color: Blue (Only On the Pond) [ Example]
+Sharks
+ Shark fin L
+ Shark fin R
+Here is the image of the shark fins.
+Color? Shark in birdbath
+Tentacle
+ Tentacle 1
+ Tentacle 2
+ Tentacle 3
+ Tentacle 4
+ Tentacle 5
+ Tentacle 6
+Here are the images of tentacles.
+Color? [ Example]
+Reptiles[edit]
+To see/hide images click here: Description of images Relevant colors Link to screen-shots
+Snake
+ Snake 1
+ Snake 2
+Here are the images of snakes.
+Color? [ Example]
+Turtle
+ Turtle 1
+ Turtle 2
+Here are the images of turtles.
+Color reddish? Orange 15 Octopus turtle capable
+Insects[edit]
+To see/hide images click here: Description of images Relevant colors Link to screen-shots
+Bees
+ Bee 1
+ Bee 2
+ Bee 3
+ Bee 4
+ Bee 5
+ Bee 6
+Here are the images of bees.
+Color? [ Example]
+Beehive
+ Beehive-base
+ Beehive entrance a
+ Beehive section
+Here are the images that construct the beehive.
+Color? BlitzGirl's beehive
+Plants[edit]
+Trees[edit]
+To see/hide images click here: Description of images Relevant colors Link to screen-shots
+Tall trunks
+ Tall trunk 1
+ Tall trunk 2
+ Tall trunk 3
+ Tall trunk 4
+Here are the images of tall trunks.
+Color? [ Example]
+Trunks
+ Trunk 1
+ Trunk 2
+ Trunk 3
+ Trunk 4
+ Trunk 5
+ Trunk 6
+ Trunk 7
+ Trunk 8
+Here are the images of smaller trunks.
+Color? [ Example]
+Branches
+ Branch 1
+ Branch 2
+ Branch 3
+ Branch 4
+ Branch 5
+ Branch 6
+ Branch 7
+ Branch 8
+ Branch 9
+ Branch 10
+ Branch 11
+ Branch 12
+ Branch 13
+ Branch 14
+ Branch 15
+ Branch 16
+ Branch 17
+ Branch 18
+ Branch 19
+ Branch 20
+ Branch 21
+ Branch 22
+ Branch 23
+ Branch 24
+Here are the images of branches.
+Color? [ Example]
+Leaves
+ Leaves 1
+ Leaves 2
+ Leaves 3
+ Leaves 4
+ Leaves 5
+ Leaves 6
+ Leaves 7
+ Leaves 8
+ Leaves 9
+ Leaves 10
+ Leaves 11
+ Leaves 12
+ Leaves 13
+ Leaves 14
+ Leaves 15
+ Leaves 16
+ Leaves 17
+ Leaves 18
+ Leaves 19
+ Leaves 20
+ Leaves 21
+ Leaves 22
+ Leaves 23
+ Leaves 24
+ Leaves 25
+ Leaves 26
+ Leaves 27
+ Leaves 28
+ Leaves 29
+ Leaves 30
+Here are the images of leaves.
+Color? [ Example]
+Flowers[edit]
+To see/hide images click here: Description of images Relevant colors Link to screen-shots
+Blooms
+ Flower bloom 1
+ Flower bloom 2
+ Flower bloom 3
+ Flower bloom 4
+ Flower bloom 5
+ Flower bloom 6
+ Flower bloom 7
+Here are the images of blooms.
+Color? [ Example]
+Hilt
+ Flower hilt 1
+ Flower hilt 2
+Here are the images of hilt.
+Color? [ Example]
+Stem segments
+ Flower base
+ Flower segment 1
+ Flower segment 2
+ Flower segment 3
+ Flower segment 4
+ Flower segment 5
+ Flower segment 6
+ Flower segment 7
+ Flower segment 8
+ Flower segment 9
+ Flower segment 10
+ Flower segment 11
+ Flower segment 12
+Here is the image of the base and segments of the flower stems.
+Color? [ Example]
+Star plant
+ Star Plant
+Here are the images the star plant.
+Color? [ Example]
+Tulips
+ Tulip 1
+ Tulip 2
+Here are the images of Tulips.
+Orange 15 Tulip Megan
+Other plants[edit]
+To see/hide images click here: Description of images Relevant colors Link to screen-shots
+Cactus
+ Cactus 1
+ Cactus 2
+Here are the images of cactus.
+Color? [ Example]
+Grass
+ Grass 1
+ Grass 2
+ Grass 3
+ Grass 4
+ Grass 5
+ Grass 6
+ Grass 7
+ Grass 8
+ Grass 9
+Here are the images of grass.
+Color? [ Example]
+Reeds
+ Reeds 1
+ Reeds 2
+ Reeds 3
+ Reeds 4
+ Reeds 5
+ Reeds 6
+ Reeds 8
+ Reeds 9
+ Reeds 10
+ Reeds 11
+ Reeds 12
+ Reeds 13
+Here are the images of reeds.
+Color? [ Example]
+Shrub
+ Shrub 1
+ Shrub 2
+ Shrub 3
+ Shrub 4
+ Shrub 5
+ Shrub 6
+ Shrub 7
+ Shrub 8
+ Shrub 9
+ Shrub 10
+ Shrub 11
+Here are the images of shrubs.
+Color? [ Example]
+Wavy plant
+ Wavy plant 1
+ Wavy plant 2
+ Wavy plant 3
+ Wavy plant 4
+Here are the images of wavy plants.
+Color? [ Example]
+Platforms[edit]
+To see/hide images click here: Description of images Relevant colors Link to screen-shots
+Tree platform
+ Left platform
+ Right platform
+Here are the images of platforms in trees.
+Color? [ Example]
+Platform
+ Platform 1
+Here is the image of the basic platform.
+Color? [ Example]
+Platform Column
+ PlatformColumn 1
+ PlatformColumn 2
+ PlatformColumn 3
+Here are the images of platform columns.
+Color? [ Example]
+Stone Platform
+ Stone Platform 1 Wide
+  Stone Platform 3 Wide
+ Stone Platform 5 Wide
+Here are the images of stone platforms.
+Color? [ Example]
+Tall platform
+ Tall platform
+Here is the image of the tall platform.
+Color? [ Example]
+Other items[edit]
+To see/hide images click here: Description of images Relevant colors Link to screen-shots
+Balloon
+ Balloon
+ Balloon Huge
+ Balloon Segment
+ Balloon segment short
+Here are the images of balloons and their strings.
+Color? S-shaped balloon string
+Birdbath
+ Birdbath
+Here is the image of the birdbath.
+Color? Birdbath legged deer
+Boat
+ Boat 1 L
+ Boat 1 R
+Here are the images of boats.
+Color? [ Example]
+Cairn stones
+ Cairn Base 1
+ Cairn Base 2
+ Cairn Base 3
+ Cairn Base 4
+ Cairn Base 5
+  Cairn Mid 1
+ Cairn Mid 2
+ Cairn Mid 3
+ Cairn Mid 4
+ Cairn Mid 5
+ Cairn Top 1
+ Cairn Top 2
+ Cairn Top 3
+ Cairn Top 4
+ Cairn Top 5
+Here is the image of the stones used to form cairns.
+Color? Gigantic rock pile
+Furniture
+ Desk 1
+ Desk lamp
+ Table 1
+Here are the images of furniture for the office and other places.
+Color? [ Example]
+Giant Planter
+ Giant Planter
+Here is the image of the giant Planter.
+Color? Giant planter with trees
+Hat
+ Hat 1a
+Here is the image of the black hat.
+Color? [ Example]
+Lamppost
+ Lamp crossbar left
+ Lamp crossbar right
+ Lamppost 1
+ lamp-topper
+Here are the images that may form the complete lamppost.
+The lamp post looks exactly like the one in 665: Prudence, and that is the one from Narnia which actually grew up in the forest when Narnia was created in the chronologically first book The Magician's Nephew when Aslan created Narnia.
+Color? Example with lamp
+Example with crossbar
+Obelisk
+ Obelisk
+Here is the image of the obelisk.
+Color? [ Example]
+Pot
+ Pot 1
+ Pot 2
+ Pot 3
+Here are the images of pots.
+Color? [ Example]
+Rover
+ Rover
+Here is the image of the Mars rover.
+Color 16 Mars rover
+Sale sign
+ Sale sign
+Here is the image of the sale sign.
+Color? [ Example]
+Saucer
+ Saucer
+Here is the image of the flying saucer.
+Color? BlitzGirl's UFO garden
+Helper structures[edit]
+To see/hide images click here: Description of images Relevant colors Link to screen-shots
+Bird riser
+,  Bird riser, and with background
+ Bird riser root, and with frame
+Here are the images of the bird riser and it's root.
+They only seem to appear in the orange color range.
+The riser is invisible (white) and would have to have a background to be seen (both versions are shown to the left). This will never be the case in the garden as the raiser does not show up in front of other black items.
+However, the risers can be seen using the debug mode, and this is used as the example to the right.
+Also using the debug mode on this garden the number of items can be counted as shown in the link.
+From this link it is clear that there are three bird risers attached to two of the seven bird riser roots.
+Here only single bird risers are displayed, but they can be connected see below.
+The root can often be seen on the ground, but it can be hidden behind other objects.
+Also the root has the first short part of a bird riser above the root, which is invisible (by any means). The bird riser takes hold at the top of this invisible part. That it is there can best be seen by putting a frame around the image of the root, to see that it is twice as high as the root itself. Such an image is also shown to the left. (But the end can also be seen in the debug mode images).
+The riser are used to make items fly in the air.
+I.e. the five types of flying birds, the saucer, flying Megan and the two "actual flying fish", can attach them selves to the end of a bird riser.
+Whereas the risers need to have a root to begin, then more risers can attach to the end already existing risers, thus getting much higher up in the air than one riser (all the way up!).
+Risers can have any angles to each others, even going further down, which can explain birds and other flying objects touching the ground (even making an object be situated partially beneath the ground, like this flying Megan from this garden or maybe even outside the frame, see last example below).
+As opposed to anything else the light that creates a bird (or other flying item) does not need to touch the actually bird, but rather the place from where the bird riser is rooted.
+This indicates that the birds etc. can grow from light touching the base of the risers rather than the tip.
+Since many bird risers can grow in layers above the first riser it is clear that the bird riser does not appear with a bird on them in one go!
+There are many examples with birds or flying Megan "growing" outside the light, where no light ever was, as seen from some of the locked experimental gardens.
+When selecting a bird riser root all bird risers and all flying things connected to these will also be selected (and deleted if the root is deleted).
+Here are two examples from the same garden where two different roots have been selected:
+In this example the selected root is hidden by the tulip in the red circle. Seven birds are selected both right and left of this root. (Two of them on top of each other).
+In this example the root in the red circle is completely hidden by turtles etc. It connects to three birds and one flying Megan, showing that it is the bird riser roots that also connect to her.
+In this next example garden the links between a root and four birds are displayed in detail.
+The first image is just the normal garden view screen-shot (lamps deleted). 10 birds can be seen; there are six birds over the lamp post; two near the ground under the high platform; one near the right crown of the tree; and one to the left that looks like it is a part of the linsang. Several bird riser roots (at least five) can be seen on the ground from the middle of the platform and right past the cat (two under it) and then at the sign.
+In the second image the root at the foot of the Sale sign has been selected. Four birds have been selected, spread out over the entire section with birds, including the lowest, the highest, the left most and one over the lamp post.
+In the third image debug mode has been used. All the long purple lines (of equal length) indicate bird risers.
+In the last fourth image the links between the root and the four birds have been indicated. A zero (0) has been written under the root. Then 1 indicates the single bird riser that goes to the right bird over the lamp post. Bird riser 2, 3 and 4 connect to each other from the root up to the highest bird right of the crown. Then bird riser 5 goes from that to the bird near the linsang left of the tree, and finally bird riser 6 and 7 goes straight back and down to the lowest bird near the ground.
+Several bird risers seems to go beneath the ground!
+That bird risers can go beneath the ground has already been show with flying Megan partly under ground.
+In this last example it is made clear that birds can then appear either under ground (or under the top of other structures blocking their view) or even totally outside the frame (as indicated above the bird risers seem to be able to sprout items outside the cones of light, as long as they grow in the light them selves).
+The proof for this comes in this example with the debug version of this garden showing the count:
+At the time of these images there where only 8 visible birds
+But the count lists 20 birds, indicating that no less than 12 birds are hidden from view!
+Color 13 Orange and 14 Orange. Bird riser debug
+Root
+Null
+ Null
+ Null continue
+,  Null continue air, and with background
+Here are the images of null. They cannot normally be seen, the air version even have to have a background to be seen (both versions are shown). They are used for ??.
+Color [ Example]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Some of the posts in Finally Garden is up on xkcd where originally posted on the Talk page for Jack and Jill, below the section about why this comic was not already up on April 1st. The Finally Garden is up on xkcd section was moved here, because this was made after the comic was up, but before this page was created... Kynde (talk) 12:11, 5 April 2016 (UTC)
+Finally Garden is up on xkcd[edit]
+It is here the comic we have been waiting for, and it seems it is a April fool comic although it first came out past midnight in all of the US except Hawaii...
+I do not know when it will be on this page but for those impatient...
+Loading screen shot
+It says to Relax, while it loads, but it will eventually get to a barren land with a growth lamp that can be moved:
+Starting point screen shot
+The lamp can be moved and change color.
+Red Lamp selected screen shot
+It may be there will be something growing if we wait long enough?
+And there will be more lamps and new items:
+Three Lamps and birdbath screen shot.png]
+Yes he is messing with us for sure but at least not by not making a comic :-) --Kynde (talk) 09:46, 4 April 2016 (UTC)
+I succeeded to get a small plant, but I'm not sure how. --162.158.86.167 10:16, 4 April 2016 (UTC)
+Try not to cover everything with every light wavelength. I'm sure you get different plants with different wavelengths:
+Lots of growth.
+Moved the picture links to the image page, and inserted direct links to the images instad. It took up too much space. Kynde (talk) 12:04, 5 April 2016 (UTC)
+Also, I've noticed a constant cpu usage, indicating some kind of number crunching. The script's name "linden" reminded me of linden dollars and crowdsourcing bitcoin mining with javascript, but afair linden dollars were never mined nor based on cryptography. -- Xorg (talk) 10:30, 4 April 2016 (UTC)
+"Linden" is probably a reference to the Linden trees, a genus (Latin name Tilia). It would make more sense than a reference to dollars, at least. 162.158.135.57 12:14, 4 April 2016 (UTC)
+My first thought were Lindenmayer systems --198.41.242.240 16:29, 4 April 2016 (UTC)
+Ok, it's *moving*. The leaves wobble in the wind. That explains the cpu usage. So far I have seen the following images: asdfx2=""; for (asdfx in garden.linden.imgCache.imgs) { asdfx2 += asdfx+" "; } asdfx2
+"http://xkcd.com/1663/art/background.png http://xkcd.com/1663/art/talltrunk-2.png http://xkcd.com/1663/art/shrub-8.png http://xkcd.com/1663/art/wavyplant-3.png http://xkcd.com/1663/art/turtle-1.png http://xkcd.com/1663/art/shrub-6.png http://xkcd.com/1663/art/birdbath.png http://xkcd.com/1663/art/cactus-2.png http://xkcd.com/1663/art/trunk-6.png http://xkcd.com/1663/art/branch-11.png http://xkcd.com/1663/art/branch-18.png http://xkcd.com/1663/art/woman-1a.png http://xkcd.com/1663/art/branch-21.png http://xkcd.com/1663/art/rover.png http://xkcd.com/1663/art/leaves-7.png http://xkcd.com/1663/art/leaves-6.png " -- Xorg (talk) 12:10, 4 April 2016 (UTC)
+For those who are in https (with firefox for example) and don't see the "comic", there is mixed content. Click on the padlock on the up-left corner, then on the arrow, then "disable the protection against not secure elements" (or something like that). Seipas (talk) 11:32, 4 April 2016 (UTC)
+The comic is finally here! ... but it won't load on my computer. Does anybody know what the problem might be or how I can fix it? Soad Kraken (talk) 12:45, 4 April 2016 (UTC)
+Does not load (continually Loading...) on IE/FF/Chrome for me (in UK, non-https, ad-blockers turned off) any ideas? 141.101.98.114 (talk) (please sign your comments with ~~~~)
+Loads for me in Chrome, but then every time it refreshes, it resets the lamps to the default (one lamp in center). Removes the ones I added. Does this happen to anyone else? Vixy (talk) 16:51, 4 April 2016 (UTC)
+Did someone try the debugmode?
+http://xkcd.com/1663/?debug#YourCode
+It also logs data in the console Magno (talk) 12:51, 4 April 2016 (UTC)
+Doesn't work even in HTTP at all. Both Chrome and Firefox fail to load the content due to CORS: "EventSource cannot load http://linden.xkcd.com/run. No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'http://xkcd.com' is therefore not allowed access. The response had HTTP status code 500." 141.101.80.31 16:37, 6 April 2016 (UTC)
+Post new images here: 1663: Garden/Screen-shots. Anyone know what happens to the site, it looks really weird and it is difficult to use the site now. Kynde (talk) 13:52, 4 April 2016 (UTC)
+Ah I can see there is a community post about this already. Kynde (talk) 07:22, 5 April 2016 (UTC)
+April Fools?[edit]
+What's the evidence that this is an April Fools comic? I think that the April Fools joke this year was the absence of a comic, and all the silly excuses about it when it was never coming. JoDu987 (talk) 15:48, 4 April 2016 (UTC)
+It's interactive. April Fools comics are always interactive. Normal comics rarely are. Mikemk (talk) 16:52, 4 April 2016 (UTC)
+I would rather say that it is also an april fool's comic because it came late. But first of all it has the pointless but time consuming concept of user input resulting in a comic that has no joke in it self, or at least only user made. Second the comic is rather complex and doesn't seem to work on all browsers. I cannot make it work on my explorer at home, but it did work at my office. It seems likely that he has worked very hard t make this work. When he then had problems with it Friday, he may have taken the chance of using April 1st to make excuses that people could read as being an April fool's joke. But neither way, he tells in the status updates that we are awaiting a complex comic, and in the end he said that the Friday comic (from April 1st) would come Sunday evening, and it did, so this is Fridays comic and thus also April the 1st's comic. Kynde (talk) 18:52, 4 April 2016 (UTC)
+Oddly, IE is the only browser I could get it to work on. Mikemk (talk) 22:41, 8 April 2016 (UTC)
+The April Fool's Joke is lost on everyone here so far. Let me explain. You have 3 lamps you are allowed to use max and 3 different colors you can use max. That means there are a total of 7 possible colors you can use to grow things in your garden (red only, yellow only, blue only, red+yellow, red+blue, yellow+blue, and red+yellow+blue). If you are OCD, like me, you will work to position the lamps in such a way that all possible combinations are available at different positions on the ground. However, it cannot be done or if it can I have yet to find a way! I believe that is why the title text says "Relax". Because he knows the challenge will drive people crazy trying to find the solution. Maybe there is one but I think the April Fool's joke is that there isn't a possible solution but people will spend lots of time trying anyway.R0hrshach (talk) 16:33, 5 April 2016 (UTC)
+I updated the explanation with this information but apparently someone didn't like that and just removed the entire paragraph without any alternate explanation. Oh well...R0hrshach (talk) 17:23, 5 April 2016 (UTC)
+This doesn't sound likely to me. It is impossible to do what you describe, and I would think "Relax" refers to the slow growth rate of the gardens. KangaroOS 18:18, 5 April 2016 (UTC)
+And also it is possible over time because you can move the lamps. By the way there are more than three colors. There are also white and other hues in between red and yellow and red and blue. So there are many more combos. Kynde (talk) 22:30, 5 April 2016 (UTC)
+I agree that "Relax" can have multiple meanings but the fact that you are limited to 3 lamps and 3 primary colors bears significance to me. Or why not let you spawn in 4 or 5 or 6? I also think the April Fool's joke can refer to the fact that gardens are meant to be relaxing but instead you will be left tending your garden and working to achieve all possible combinations. The opposite of relaxing.R0hrshach (talk) 03:43, 6 April 2016 (UTC)
+There are many more colors than three. White Yellow Orange is not the light yellow you start out with. And there are deeper shapes of orange before turning red and similar it goes from Blue to White. I have tried 9 different color settings between blue and red, links can be found down in the middle of the table here, and since all nine are clearly different, I will now try to set the light in between those nine for additional eight settings. This has been tricky but I'm now positive that the settings are different for all 17. I will soon post the next eight links the same place, in between the other 9. Of course these gardens are then almost created a day later so this has to be taken into acount when comparing the growth. Maybe this time there will be some gardens that are exactly the same type (not the same), but if not it means there are too many combinations to check, as if there where not already that. Kynde (talk) 14:55, 8 April 2016 (UTC)
+Mobile[edit]
+Like many of the dynamic comics, Garden doesn't interact well with mobile devices, but I have found a workaround for this one. On my Android tablet, going to m.xkcd.com/1663 gives me a page where I can manipulate the lights - tap once on a light to reveal the handles, tap in whitespace to hide them - but the landscape and growth are not rendered.
+But, as I manipulate the lights, a string is appended to the URL; if I replace the initial m with www while preserving this string, I get a page where the landscape and growth are displayed. But from this page, I cannot manipulate the lights. But it does appear that the string includes enough information to prevent "losing progress", as several iterations of swapping between the mobile and desktop URLs retained all existing growth. Therefore, some level of timestamp information may also be included in the composition of this string. 108.162.216.73 14:18, 4 April 2016 (UTC)
+Actually, it doesn't look like the URL changes when I move the lights after all. So now instead I'm guessing it's more of a unique identifier or something. If two people both use the same string, will one person's act of moving a light be reflected by the other user refreshing their browser? 108.162.216.73 14:33, 4 April 2016 (UTC)
+Resets[edit]
+Resets occur sporadically, because they are actually happenning when there was a connection_error event in the WebWorker. The "game" is continually contacting the server (linden.xkcd.com) and is resetting the page on the connection errors. The fact that this resets the progress is probably a bug. --DukeBG (talk) 16:52, 4 April 2016 (UTC)
+It seems to reset the light placement and settings too, not just the plants in the garden 162.158.210.238 07:06, 5 April 2016 (UTC)
+Linux[edit]
+Anyone else NOT able to get it to work on Linux. Tried Chrome, and FF, both with all extensions disabled. Linux Mint (like Ubuntu). Constantly says "Loading..." 162.158.214.217 17:23, 4 April 2016 (UTC)
+
+You're not the only one. Running Unbuntu 12.04. Opera displays "Loading ..." for over 30 minutes. Firefox finishes loading and I can add and tweak lamps, but nothing grows. 108.162.218.59 19:32, 4 April 2016 (UTC)
+Works fine with chromium on gentoo. 162.158.83.156 (talk) (please sign your comments with ~~~~)
+I had the same problem with Firefox on Ubuntu 15.04. However, reloading the page fixed it. Maybe it's got something to do with caching, or maybe it just only works with some chance. 141.101.104.92 11:02, 5 April 2016 (UTC)
+trying to use chromebook - garden did not load, finally checked-again (today/fri) and it loads/grows ok... but, apparently i cannot see the text to prove i am not a bot to provide edits... (edit: well, here i can, just not in experimental-garden... maybe just a fluke...) 108.162.215.67 15:45, 8 April 2016 (UTC)
+Available "plants"[edit]
+I've got a Megan so far. Are we going to try to compile a list of what things will grow in the garden? --KingStarscream (talk) 19:06, 4 April 2016 (UTC)
+Oversight on my part. Apologies. --173.245.52.64 19:18, 4 April 2016 (UTC)
+Suggestions for the explanation[edit]
+What is missing and what would be interesting. And how can you help... Add it here below, maybe even with subheadings. Kynde (talk) 14:18, 5 April 2016 (UTC)
+Possible items[edit]
+Someone has made a list of images of items that can be found on xkcd and seems to be complete.
+Can anyone say for certain if it is complete now?
+And can we be certain no new items appear? Anyone who can check this?
+Can someone easily download all the images?
+And if so either post them here as a zip file, or even better upload them to xkcd so we can have a page like this 1350: Lorenz/Images for these items
+And later tables similar to those in the themes section of 1350: Lorenz!
+Kynde (talk) 14:27, 5 April 2016 (UTC)
+Got a Megan on stilts (http://xkcd.com/1663/#9ed4d584-fb59-11e5-8001-42010a8e0009). Could not find in the list, but did not know, how or where to add it. 162.158.85.177 10:15, 7 April 2016 (UTC)
+The forum speculates that additional images are being automatically unlocked after some delay. Balloon huge and Owl seem to have first appeared yesterday. The Platform column series now appears under some blue lighting. The debugger lists filenames in the console. .42 (talk) 19:08, 7 April 2016 (UTC)
+How do people find these images, I mean where do you get the addresses? Please keep posting new links to new items on the link above. We should try to collect them for the explanation when we later actually find out what this was all about (apart from fooling us to sped time watching grass grow, and relax :-) Kynde (talk) 14:16, 8 April 2016 (UTC)
+Ah I did not understand .42's comment at first, but I now found that following the link to his (really cool) garden above (in Firefox) and pressing F12 and then going to console the names of each image item is listed (and how many of each are in the image). Thanks. I have now uploaded all 195 images (well fou was uploaded), to the page with images of items. These can now be used in the explanation. (PS .I have this great garden to the user gardens. Kynde (talk) 11:21, 11 April 2016 (UTC)
+I found a clapping cueball(https://xkcd.com/1663/#d18a7938-dd35-4e78-82b0-ae4576ceeac3)172.68.73.32 21:46, 2 March 2023 (UTC)
+Urls[edit]
+Post urls here.
+Seems like the urls are not quite understood.
+What I have found so far is that the urls do not change after you load a garden. Even if something grows or if the lights are moved.
+If you save the url to begin with it will stay the same.
+But if you load the url later then it is a view only image.
+The questions are if the garden that an url refer to can be manipulated by the original user, to change what others see later even though they have the url.
+My gardens reload to often to really have a chance to test this. But the url I posted yesterday (now used as example) under explanation of permalinks kept developing after I copied it and closed the garden down.
+Kynde (talk) 14:27, 5 April 2016 (UTC)
+I have understood it much better now, and the explanation has been changed to the way it work. Urls are still interesting to see how peoples gardens develop, but they are not permalinks, so only screen shots will be useful to guide the explanation.I have taken lots already of peoples posted interesting gardens, before they became overgrown or the interesting part might get deleted by the owner of the garden. Kynde (talk) 21:42, 5 April 2016 (UTC)
+I'm not sure if it's been mentioned before, but Cueball can look like he's holding items if they grow on his outstretched hand. http://xkcd.com/#8d526e44-fb49-11e5-8001-42010a8e000c 162.158.38.207 10:03, 6 April 2016 (UTC)
+It has not directly. More that it can grow on other things. Nice garden. I'll put it in the url section and post a screen shot with the twig on Cueballs hand. Kynde (talk) 15:31, 6 April 2016 (UTC)
+Title text[edit]
+The "Create new light" and "Remove selected (delete key)" icons have their own title text. I don't think anything else does though. 141.101.98.74 (talk) (please sign your comments with ~~~~)
+Great thanks. Had not noticed. Added this to the explanation now. Kynde (talk) 21:26, 5 April 2016 (UTC)
+Colour mapping[edit]
+Yellow light grows plants and birdbaths, but so does a combination of Magenta and Cyan light.
+Magenta light grows cacti and turtles. Yellow light does not seem to affect this.
+Cyan light grows octopuses.
+Yellow light plus Cyan light grows office furniture.
+141.101.98.74 (talk)  (please sign your comments with ~~~~)
+Great it would be nice to see some garden urls or screen shots, especially of the furniture, which I haven't seen yet. Kynde (talk) 21:29, 5 April 2016 (UTC)
+I've noticed that blue + yellow sometimes yields really tall tress. 162.158.255.103 17:00, 6 April 2016 (UTC)
+I made a garden with GUID f31fe17a-fb3f-11e5-8001-42010a8e000d to show the effects of mixing Magenta with either Cyan or Yellow. Interestingly on the left there are no cacti, only wavy plants and turtles, and I see a couple of birds have recently arrived. Meanwhile on the right you see something much like a regular Yellow garden, with trees, shrubs and bird baths with ducks. My second garden has GUID 6ebc8e04-fb50-11e5-8002-42010a8e0014 where I wanted to see the effect of mixing Cyan with Yellow. The pure Yellow section has a regular garden, the pure Cyan section an octopus farm, while in the middle we have what I can only describe as a white section, where I have a couple of desks (but sadly no lamp), balloons, bunnies, cats, a plant pot, and even an obelisk. --141.101.98.74 19:15, 6 April 2016 (UTC)
+Bird 5[edit]
+What's in the beak of Bird 5? It reminds me of 614: Woodpecker, but it's something different. --162.158.86.167 07:29, 6 April 2016 (UTC)
+It looks to me like a mobile phone with charger cable attached 141.101.104.174 (talk) (please sign your comments with ~~~~)
+Yes that might be it, I had thought a mouse with a USB cable... By the way great spotted with the woodpecker. Beret Guy is also in this comic. This is why we need a table of items to make such observations. But who will do it ;-) Kynde (talk) 15:29, 6 April 2016 (UTC)
+
+Lost gardens after new comic[edit]
+Have others lost access to changing their garden after Wednesdays comic came out? Even though I can find it via the new link (as described in the trivia section) then it seems I can no longer change anything and just has to see my gardens develop on their own. That would be a shame. If everyone experience this, then it may be fixed? Kynde (talk) 15:51, 6 April 2016 (UTC)
+Same here. New gardens are editable, however. 162.158.255.103 17:16, 6 April 2016 (UTC)
+I hope this gets fixed cause my garden needs some pruning... Palmerito0 (talk) 17:32, 6 April 2016 (UTC)
+I still can adjust the lights and prune but my gardens do not seem to grow any more... Time limited activity or maximum objects, clicks ??? Wed Apr 6 22:20:24 EDT 2016
+I have seen such issues too. I used a garden to create this color map. And that garden I can actually still change here almost a day after, but at the time I post this link nothing had grown... On a more sad note the other garden which I just became so fond of when I saw it earlier today on another computer is again lost to me, and I cannot prune it. This really sucks. I'm now trying to make three new gardens in three different browsers to see if I will continue having this problem... :-( Kynde (talk) 15:09, 7 April 2016 (UTC)
+Yes today I could prune the gardens I started growing yesterday. Hope it will stay this way. Was getting afraid the garden had to stay open all the time to keep it running and with all the cpu it uses that would not have worked for me. Great that it at least works today. Kynde (talk) 14:05, 8 April 2016 (UTC)
+Requires light on ground?[edit]
+I created a garden (GUID 5fad7434-fba3-11e5-8001-42010a8e0009) in which the lights are directed upward, but nothing has grown. This would seem to indicate that even the "flying" objects are "grown" from a particular piece of ground. 108.162.217.191 22:28, 6 April 2016 (UTC)mathuaerknedam
+Flying objects have invisible riser elements that grow first, such as http://linden.xkcd.com/art/bird-riser.png -- 108.162.219.4 01:59, 7 April 2016 (UTC)
+Yes see this example with light only above ground, and many more like it here 1663: Garden/Users gardens Kynde (talk) 15:48, 8 April 2016 (UTC)
+Not working...[edit]
+I'm on Mac OS, and I have tried 3 different browsers with no luck loading this. It works fine on my phone, but Firefox, Chrome, and Safari on my laptop all hang at the loading screen. If i click on a link with a specified UUID in it (from this page for example), it goes into a refresh loop. I've tried clearing my cache, and using incognito on chrome. Anyone have any ideas? 108.162.246.115 03:03, 10 April 2016 (UTC)
+Videos[edit]
+Some people have recorded videos for Youtube. .42 (talk) 13:00, 14 April 2016 (UTC)
+Let's Plant
+Timelapse 1
+Timelapse 2 -- .42 (talk) (please sign your comments with ~~~~)
+Memory issues[edit]
+The article claims that the memory issues have been fixed. However, as of April 17, I'm still seeing the memory usage of the process in Chromium steadily rising - is the memory usage being fixed part just incorrect? Skimming through the source cited, I didn't see anything saying it was fixed, but if it was there, I probably missed it. 173.245.54.91 22:45, 17 April 2016 (UTC)
+The memory issues probably relate to how each browser and operating system handles many static images drawn over each other. It's surprising that Chromium would have problems, since Google uses a more complicated version of this for everything. Software that tries to be too clever might store every frame expecting that it can always recover an image from memory faster than it can redraw a particular canvas state. They might also just be bad at garbage collection.
+I've noticed Firefox seems to have trouble with increased zoom. Zooming out might reduce the amount of leaking image data. .42 (talk) 01:52, 18 April 2016 (UTC)
+Apparently there have been outstanding issues with images leaking memory in Chrome for over three years. .42 (talk) 02:06, 18 April 2016 (UTC)
+Eventually I realized this must be a misunderstanding of the note about the giant image bug being fixed. When I wrote that, I meant the fix seemed to be so drastic that it simultaneously caused memory problems. It appeared that linden.js had tried to process something unusual and briefly exploded. Afterward the original images began to replace the cached double-size images. .42 (talk) 13:01, 18 April 2016 (UTC)
+The stilt girl seems to be disappeared (as an image) but things placed on her head are still visible. Floating cats and owls everywhere. :D 162.158.83.120
+Has growth almost halted?[edit]
+It seems that the growth rate has decreased dramatically to the point where many new gardens seems barren. Yesterday, two weeks after the release, I started a new color experiment, like the one started a few days after the original release (See One lamp one color). See the new gardens at the bottom of the table in the locked garden section of user gardens. I made 34 new gardens in one go and most of them are still completely bare after almost two days. And only five have more than 2 items in them. The growth rate is far less than one item for each "garden hour" (i.e. if all the 34 gardens hours are divided up into the number of new items!) But this seems like it has begun even before these gardens (as the 6 growth speed gardens started on April 11th above these new 34 also displayed lack of growth). I wondered if everyone else experiences the same? Maybe Garden was only for the first two weeks. Also nothing new has appeared since the last boost with all the Linsangs, fish and large birds. Kynde (talk) 11:10, 20 April 2016 (UTC)
+I saw much less growth yesterday. Currently trees seem to grow most quickly.I think the server has a lot of other work sometimes, which slows down garden processing. I haven't been able to view more than six gardens at the same time; how do you watch 34? .42 (talk) 13:04, 20 April 2016 (UTC)
+I do not watch them simultaneous. I just stated 34 gardens at the same time (started one garden copied the link clicked away to the next comic and then back to repeat the process). Then I pasted all the links into the table I linked to above. And the first 1½ days almost nothing happened, in many gardens not a single thing had grown. I will check again now about 3 days after the initiation. See my result in the table. But if this is general then the comic literally stops being interesting. Start a new garden and come back in a week to see two things... Great we tried it during the first 2 weeks then. Kynde (talk) 19:51, 21 April 2016 (UTC)
+Solution:
+I have noted that new gardens where the link is saved but not left open seems to no longer sprout anything. But by leaving the garden open in a browser will then trigger growth (relatively rapid). Tried it with several gardens, where nothing appeared for several days. Then I left one garden open (by chance) and when I came back an hour later it was full of growth where none was before after two days. Tried it with the other gardens to see the same. Maybe there where too many gardens running, and to make anything happen for those who actually tried to sit and watch and relax, this change was invoked. Because in the beginning gardens grew a lot even if you never looked at them. Kynde (talk) 08:12, 12 May 2016 (UTC)
+Header text[edit]
+Has anyone noticed that the header text hasn't changed back from "Protip: If you don't like how your garden is growing, you can click to prune it. Copy the URL to save/share (garden will be view-only from other browsers.)" to the usual message: "XKCD updates every Monday, Wednesday, and Friday."? Should/could anyone alert Randall or the site's admin? 141.101.102.205 (talk) (please sign your comments with ~~~~)
+We do not have anything to do with Randall - we just try to understand and explain his comics. I think he still like to keep peoples attention to the Garden comic. But I agree it is weird he hasn't changed it so it only displays on that comic by now. He has a few other comics that has different headings than the main page. Kynde (talk) 19:53, 21 April 2016 (UTC)
+And now it has changed back somewhere between the 22nd (before the Friday comic came out and Sunday 24th). See updated Header text after release section. Kynde (talk) 20:34, 24 April 2016 (UTC)
+
+Do I have to always stare at the tab for the garden to develop? Is it possible for the garden to grow when you are looking at another tab in the same browser?--Some user (talk) 01:08, 26 July 2020 (UTC)
+Broken[edit]
+The garden seems to be broken. I tried it on several different browsers & got no images at the link. I'm curious if it works for anyone else. 😥 If it *is* broken for everyone, should this be added to the page? 162.158.187.131 16:51, 27 December 2020 (UTC)
+It seems to be working now!!! I just tried it on Brave Browser & it seems to work, when it was indeed broken in December. 108.162.237.127 18:09, 25 July 2021 (UTC)
+Broken as of 2022-Jan-26. Nitpicking (talk) 01:42, 27 January 2022 (UTC)
+Still broken on Google Chrome as of March 2022. 172.70.126.87 05:00, 14 March 2022 (UTC)
+Still broken on Google Chrome, Safari, Opera, Edge, and Firefox as of March 2022. Tested on OS X Monterey. Seezee (talk) 18:56, 24 March 2022 (UTC)
+I've tried to run it… seems that linden is down 141.101.104.146 16:18, 13 April 2022 (UTC)
+Only way I found to run it is on a really old iPad 4 on safari on the internet archive --172.70.100.172 03:04, 8 October 2022 (UTC)
+Categories: All comicsComics from 2016Comics from AprilMonday comicsLinks to xkcd.comIncomplete explanationsApril fools' comicsComics with colorDynamic comicsInteractive comicsComics with animationComics featuring MeganComics featuring CueballComics featuring Beret GuyComics featuring PonytailComics featuring Black HatAnimalsSharksMars roversProtipBunsChronicles of Narnia

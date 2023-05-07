@@ -1,0 +1,96 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1972: Autogyros
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1972)
+|<< PrevComic #1972 (March 26, 2018)Next >>|
+Autogyros
+
+Title text: I understand modern autogyros are much more stable, so I've probably angered the autogyro people by impugning their safety. Once they finish building the autogyros they've been working on in their garages for 10 years, they'll come after me.
+Explanation[edit]
+Randall has been looking at the facts about autogyros, hence the title of the comic. He has drawn Megan flying in such a vehicle with several statements of the facts he has unveiled.
+Randall states that an autogyro is nothing like a helicopter (which it looks like), nothing like a plane (but flies like one) and works like a powered parachute or paraplane (which it might kind of look like except without a parachute). He continues to make a total of 12 statements which will be explained individually below.
+The final statement at the bottom right is the punch line of how strange these flying machines are, because they are safe, as long as you do not do what a pilot instinctively would do in a plane in case of a stall because if you do so the autogyros will crash immediately... See the explanation below. That sentence is almost rendered unnecessary by the one above it that states that autogyros never stalls!
+Randall's conclusion is clear: Autogyros are weird.
+In the title text Randall continues on the last statement by saying that today, autogyros are much more stable. Which, presumably, must refer to how this was not always the case. This new stability, then, probably means that a stall situation is much less likely and the last statement is not really all that relevant.
+Randall then goes on to suggest that the autogyro people will be angered by this comic, which attacks the safety of their beloved machines. But he keeps on mocking them, stating that they will come after him, once they have finished building the autogyros they have been working on in their garages for the last 10 years. By this, he implies that the people who work on them do this as a home garage project, so they will never really be able to finish or fly them.
+Statements[edit]
+Below, each statement in the comic is explained.
+The optimal reading order is to read them in the four columns they are arranged in:
+The left with four, the two single in the middle, and the six on the right.
+"Looks like a helicopter, but is nothing like a helicopter"
+It is like a helicopter in the sense that a horizontally spinning fan provides the lift. It is unlike a helicopter because A) the fan is not powered, B) the fan does not provide forward propulsion, C) it is incapable of hovering, or moving in any other direction than forward.
+"Flies like a plane but is nothing like a plane"
+Its flight pattern resembles a plane in that it can only move forward, turns by banking, and needs to maintain forward velocity in order to climb. However, unlike a plane, it can only maintain control when the rotor is loaded in the normal direction. Airplanes are "ok" when upside down, or when there's no load on the lifting surfaces. Autogyros lose control, much like a parachute under those circumstances.
+"Sort of like a powered parachute"
+A powered parachute, also referred to as a PPC or paraplane, is a similar design except instead of a freely-rotating blade they are attached to a large parachute that acts like an airplane wing. As long as there is thrust the parachute will fill with air and maintain its wing-like characteristics, with the advantage of acting like a real parachute in the event of a loss of thrust (i.e. engine dies) wherein they come floating down at a speed significantly slower and more survivable than freefall. A single-seater can often be flown without a license and can be as inexpensive as $5,000 USD in parts.
+"Rare in the US, usually homemade. Common in Europe."
+Autogyros are uncommon in the US because of the light sport rule (there is nothing on autogyros), while there is a detailed section in the European version of the light sport rule so they would obviously be more common in Europe.
+"Big blade on top is not powered and spins freely"
+The blades rotate due to the wind. Some autogyros use power to rotate the blade to speed before take-off but the power is removed for flight.
+"Can often be flown without a license"
+Autogyros are frequently built as ultralights, and that group of aircraft are a special case where licenses are not needed. (In the US, ultralights are aircraft that weigh less than 254lbs, carry less than 5 gallons of fuel, stall at less than 24kts, have a maximum speed of less than 55kts, and carry only the pilot.)
+"Cheap"
+Helicopters are notorious for being extremely expensive to operate. At a typical general aviation service in the US, a two-seat aircraft may rent for under $100/hr, while a helicopter runs over $200/hr. Similarly, a small used helicopter may cost almost $200,000 while a small new autogyro may cost under $25,000. Since many people home-build their autogyros, it would often be even cheaper.
+"Needs a runway to take off, but not a long one"
+An autogyro must be moving forward relative to airspeed in order for the rotor to generate lift. It needs a runway to take off, but with the extra lift provided by the rotors, the runway can be much shorter than a regular one.
+"Can land vertically"
+An autogyro can land vertically: for that matter, so can any airplane. What matters isn't ground speed but airspeed, and as long as there's as much headwind as the landing airspeed of the aircraft, it will land vertically. Now, with fixed-wing airplanes, the landing speed is at least 40-50 mph, and you don't often find headwinds like that. The much lower landing airspeed of an autogyro makes vertical landings feasible.
+"Cannot hover"
+True hovering would require the rotor to be powered. However, an autogyro must be moving forward relative to airspeed in order for the rotor to generate lift.
+"Never stalls"
+Most conditions that would cause a stall in a fixed-wing airplane such as low speeds, high-G maneuvers, and gusty winds don't apply to autogyros. The rotor in an autogyro is in equilibrium, the inner, slower part is stalled, the middle part makes it spin and the outer, faster part slows down the rotor and provides lift. As the angle of attack increases, a fixed-wing aircraft would stall, however, on an autogyro, it will just make the lift-generating area smaller, causing the rotor to automatically spin faster and the equilibrium is restored.
+This is not entirely correct, however. If you reduce the forward speed of an autogyro, the rotor slows down, reducing lift so the autogyro will descend. Under most circumstances, this would lead to a controlled landing. However, if it happens at a high altitude, you can run out of lift completely while still high above the ground causing a stall. This is more likely to happen if there is a strong tailwind.
+"Extremely safe, unless you do the one thing you instinctively do to escape a stall in a normal airplane, in which case it will crash immediately."
+Autogyros are considered safe due to their slow landing speed, which is important in emergency landings, their forgiving behavior in windy conditions, and the fact they are almost impossible to stall. This is thanks to the freely spinning rotor. Unfortunately, as soon as the rotor stops spinning, the whole aircraft falls like a brick and the rotor may be impossible to restart in flight. This is a situation that should be avoided at all costs.
+Normally it is not a problem since the weight of the aircraft keeps the rotor spinning. However, if the weight becomes too low or even negative, the angle of attack will become negative, and the rotor will slow down and eventually stop. It can happen when the pilot "pushes on the stick" and dives.
+Unfortunately, "pushing on the stick" is also how you escape a stall in a fixed-wing (normal) airplane as it is a way to regain airspeed. This is actually a counter-intuitive maneuver but because a stall is an emergency, pilots are trained to do it instinctively. It can trick a pilot trained in fixed-wing aircraft into doing the one thing that shouldn't be done on a gyro.
+Transcript[edit]
+[A picture of Megan wearing aviator goggles, sitting in an autogyro and holding the control stick. The autogyro is surrounded by sentence fragments, explaining its characteristics. The one above the blade that concerns the blade has an arrow pointing from the text to the blade. The sentences in columns from the left (i.e. first four sentences to the left, then two above the autogyro's body, and finally six sentences to the right):]
+Looks like a helicopter, but is nothing like a helicopter
+Flies like a plane but is nothing like a plane
+Sort of like a powered parachute
+Rare in the US, usually homemade. Common in Europe.
+Big blade on top is not powered and spins freely
+Can often be flown without a license
+Cheap
+Needs a runway to take off, but not a long one
+Can land vertically
+Cannot hover
+Never stalls
+Extremely safe, unless you do the one thing you instinctively do to escape a stall in a normal airplane, in which case it will crash immediately.
+[Caption below the panel:]
+Autogyros are weird.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Land vertically?
+Hi, searching 'autogyro' has led me to find autogyros can't land vertically. Could this be a mistake on Randall's part, or am I missing a joke here?
+172.69.186.58 13:55, 26 March 2018 (UTC)
+I just read about them on Wikipedia and I see that they can't take off vertically, but there are kinds (possibly all) that can land vertically 108.162.219.76 14:01, 26 March 2018 (UTC)
+The Wikipedia article was edited this morning to claim that they could not land vertically, but the edit was short-lived and reverted. So, be careful what you trust. JohnHawkinson (talk) 14:37, 26 March 2018 (UTC)
+It appears they can land vertically with the correct wind conditions. Here is a YouTube video: https://www.youtube.com/watch?v=GAoK9zM8FFQ - and they say "Actually it is a 'Zero GROUND Speed Landing' approx. 25 kts headwind".
+Here is a YouTube video of a zero ground speed takeoff: https://www.youtube.com/watch?v=Kd7_V4pW--Q
+I think the confusion here is that yes, it can land vertically: for that matter, so can any airplane. What matters isn't ground speed but airspeed, and as long as there's as much headwind as the landing airspeed of the aircraft, it will land vertically. Now, with fixed wing airplanes the landing speed is at least 40-50 mph, and you don't often find headwinds like that. The much lower landing airspeed of an autogyro makes that feasible. Gbisaga (talk) 21:26, 26 March 2018 (UTC)
+"Landing vertically"...having so little forward airspeed on touchdown that it is negligible108.162.216.208 23:40, 26 March 2018 (UTC)
+I disagree with this. If that were the case, an autogyro could NOT land vertically or anything close to it. I think it's clear that "vertical" refers to movement relative to the ground, as movement relative to airflow is invisible. I'm having a hard time finding hard numbers on minimum airspeed for an autogyro (and unlike fixed wing aircraft, I've never flown one myself, so I don't have practical experience to fall back on). However I've seen a typical autogyro's best rate of climb speed is 50-50 mph, versus almost 70 for a 152; so I'll project about 30 mph for a minimum speed in landing configuration. Landing in that kind of headwind is certainly not unreasonable (though it would probably be not that much fun). Gbisaga (talk) 12:56, 27 March 2018 (UTC)
+I'd expect an autogyro to be capable of landing the same way a helicopter with an engine malfunction lands - autorotate the rotor to store energy and then stop while relying on the rotor to slow the descent. Does not sound like the safest of procedures, but it certainly gives you a vertical landing. Mat (talk) 08:30, 27 March 2018 (UTC)
+Doesn't the downward motion of the autogyro during descent contribute to the autorotation of the rotor, thereby providing lift while descending even through air that is calm laterally? 162.158.154.43 14:29, 27 March 2018 (UTC)
+Thanks for the comments, guys. I'm not the original commenter, but I had a severe misunderstanding of what "landing vertically" meant. 172.68.26.71 13:54, 27 March 2018 (UTC)
+Cannot hover?
+I would assume that autogyros can hover in some conditions (i.e. in a headwind). This is the same argument as the one for "Land Vertically?"; namely that it's the wind that matters. Is Randall wrong here or is this just an impractical edge case? Here is a YouTube video Kosak2000 (talk) 15:58, 27 March 2018 (UTC)
+It can hover in the sense that any fixed wing airplane can hover - by having a fast enough headwind. I've "hovered" in a Piper Cub before - even flown backward! But that isn't the conventional use of "hover" by aircraft pilots. Hover it meant to refer to purposeful powered flight over a stationary spot 'with no wind'. Such as a Helicopter can do. An autogyro cannot do this, as it must maintain forward movement (compared to the air) to maintain lift. However, with some "trick piloting," you can vertically land an autogyro. You're not hovering because you're not holding your altitude, but if you come in with some forward speed and high-ish descent rate, you can flare a few feet above the ground to a horizontal stop, turning your formerly forward speed in to slowing the descent rate to an acceptable descent rate to land at. 172.68.174.94 03:21, 28 March 2018 (UTC)
+Trivia
+First successful flight of an autogyro was in 1923, so they have been around for close to 100 years. Rtanenbaum (talk) 17:04, 26 March 2018 (UTC) The 1981 movie Mad Max II prominently featured an autogyro as part of the action. Rtanenbaum (talk) 17:04, 26 March 2018 (UTC) Also James Bond 007 flew the autogyro 'Little Nellie' in " You Only Live Twice". Reputedly prompting a bit of an autogyro revival. RIIW - Ponder it (talk) 17:46, 26 March 2018 (UTC)
+There was also an autogyro in the 1980 adaptation of Ray Bradbury's "The Martian Chronicles" --Mr. I (talk) 00:51, 30 March 2018 (UTC)
+First of all, I've converted section headings to bold labels - we should avoid them in discussion content. Secondly, my take on how to order the labels around the autogyro is down the left side, then across the top, and finally down the right side. I realize it's entirely up to the reader, but that order makes the most sense to me instead of clockwise - the text on the lower-right seems to be climactic in a strange Randell-esque way. Ianrbibtitlht (talk) 18:15, 26 March 2018 (UTC)
+Agree with your entire comment, and have changed the order in the transcript --Kynde (talk) 20:03, 26 March 2018 (UTC)
+Has Megan been seen wearing goggles before? Herobrine (talk) 23:05, 26 March 2018 (UTC)
+"Powered parachute"? Sounds to me like this awesome thing. Fabian42 (talk) 08:50, 27 March 2018 (UTC)
+It's actually this similar awesome thing and I've updated the main descriptions to link there. -boB (talk) 20:14, 27 March 2018 (UTC)
+Section Headings
+Re-converted section headings to bold labels in discussion content - please avoid re-adding them because they can interfere with auto-layout templates in the explainxkcd page system. Ianrbibtitlht (talk) 17:04, 27 March 2018 (UTC)
+I feel like the "Not popular in the U.S., popular in Europe" should say "Self explanatory", then link to a page showing stats about popularity. (I can't find anything quickly, and am in a hurry right now). NiceGuy1 (talk) 07:19, 30 March 2018 (UTC)
+Stack Exchange question
+FYI: This xkcd was a subject on the Avionics Stack Exchange site: Is this XKCD comic list about autogyro features accurate? --PeterMortensen (talk) 12:46, 30 March 2018 (UTC)
+Categories: All comicsComics from 2018Comics from MarchMonday comicsComics featuring MeganAviation

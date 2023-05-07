@@ -1,0 +1,60 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1892: USB Cables
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1892)
+|<< PrevComic #1892 (September 20, 2017)Next >>|
+USB Cables
+
+Title text: Tag yourself, I'm "frayed."
+Explanation[edit]
+In this comic, Randall states the 'Law of USB cables': You will never have more than one which has no problems now matter how many you get. Now that most devices charge off USB, having a cable (specifically, USB-A (the big end) to Micro-B or USB-C (the small end)) is essential. However, most USB cables are cheaply made, and carrying them around quickly damages them. This comic lists some common (and not so common) problems with USB cables.
+Carry power but not data - USB cables have separate data and power lines. To save money (and sometimes for security reasons), the data lines can be omitted. This means it can be used for charging, but not data transfer. Two cables are shown with this problem.
+Carries data but not power - Not typically done, but it could happen if the wires or pins get damaged. While such a cable is theoretically possible, if used with standards-compliant devices, it would appear completely broken.
+Too short - Another money saving wheeze, some devices ship with pathetically short cables.
+Charges phone slowly - More likely a problem with the charger than the cable, but may happen if the wires are damaged. Refers to some chargers not delivering more than half an ampere. Could also be caused by thin or very long wires which lead to a significant voltage drop, thereby reducing charging speed. This is also a typical user experience for cables that carry power but not data, as charging current/voltage negotiation typically happens over the data lines.
+Won't auto-activate portable charger - Most portable chargers (basically big batteries) should activate when the device is plugged in. Something about the cable (possibly the way the data lines are shorted) is interfering with this mechanism.
+Has annoying ferrite lumps - Ferrite beads are used to filter out interference from the cable. High-performance applications need these, but on a phone charger you're just adding unnecessary weight and bulk. Two cables are shown with this problem.
+Heavy and not very flexible - Either a heavy-duty USB cable, with thicker insulation, or a shielded one with a metal sheath inside to keep out interference.
+Frayed - Cables with improper strain relief experience a lot of bending force at the ends, near the connectors, and these can easily burst the insulation as shown here. Two cables are shown with this problem.
+Plug doesn't fit through case - Manufacturers don't always follow the standard for what the plastic housing around the USB connector should look like, and sometimes these are molded so they don't quite fit in the phone socket or through the charging port of an external case.
+Needs to be twisted to keep working - The wires inside are damaged, and only connect when held in just the right way. One step away from total breakage.
+Weird shape - A normal USB cable but the connector is molded with a 90 degree turn (which is actually specified in the MicroUSB Specification, see pages 28-31) for no apparent reason and might be not convenient in some situations.
+The good one - This is the one that really works out of the 15 shown, with 11 different problems. The funny thing is that it looks more or less exactly like at least 6 of the other 14. So it will take some time to find this cable.
+The title text refers to the popular meme "Tag yourself, I'm..." which is used with pictures containing lots of strange objects, phrases or other elements. The phrase prompts people to identify individual elements from the image that they personally feels matches their own identity, usually self-deprecatingly. (The meme stems from Facebook, where people can place tags identifying themselves in photos, but has spread to other websites without an actual tagging system.) Here, Randall suggests that, like a USB cable, he's frayed. "I'm frayed" is also a pun on the sentence "I'm afraid" that is commonly added to the end of a comment which the speaker believes may leave a negative impression on the listener.
+Transcript[edit]
+[15 USB cables are shown lying in a column. They are mostly very similar, with small differences. To the right of the cables there are 12 labels, as three of the labels belongs to three sets of two cables.]
+[2 cables] Carry power but not data
+Carries data but not power
+Too short
+Charges phone slowly
+Won't auto-activate portable charger
+[2 cables] Has annoying ferrite lumps
+Heavy and not very flexible
+[2 cables] Frayed
+Plug doesn't fit through case
+Needs to be twisted to keep working
+Weird shape
+The good one
+[Caption below the panel:]
+The law of USB cables: No matter how many you get, you only ever have one good one.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+> Carries data but not power - Not typically done, but it could happen if the wires or pins get damaged.
+> Charges phone slowly - More likely a problem with the charger than the cable, but may happen if the wires are damaged.
+Some manufactures limits charging / fast charging to approved devices only, and this can also be done by some non-standard trick within cable connectors, so non-OEM cable do no charge or charge slower
+>Plug doesn't fit through case - There's no standard for what the plastic housing around the USB connector should look like, and sometimes these are moulded so they don't quite fit in the phone socket or through the charging port of an external case.
+There is standard defining clearances for plastic housing of connectors, but not all manufactures care
+/mhcmega 162.158.202.10 15:52, 20 September 2017 (UTC)
+Not just an OEM-being-dicks thing. USB type C specification requires a smart chip inside the connector that communicates with the devices on each side and contains information about what protocols that cable is capable of, which pins are connected through, thunderbolt support, etc. 162.158.63.22 16:17, 21 September 2017 (UTC)
+I think Weird shape has to do with mould doing a 90 degree turn. Trimutius (talk) 15:55, 20 September 2017 (UTC)
+Agreed. You can see the 90 degree turn in the silhouette. The plug isn't big enough to be Type B. 162.158.62.159 13:01, 21 September 2017 (UTC)
+I honestly think this entire comic is a protracted anatomy joke. Elvenivle (talk) 00:54, 21 September 2017 (UTC)
+At a first glance I thought the pictures on the left side were sperm. 162.158.34.40 20:24, 21 September 2017 (UTC)
+And then there are all those cables I've saved in case I get a new device with that particular connector on the other end.
+>Needs to be twisted to keep working. Might have to do with the wire, but most likely (our case for the 12-footers) is that a dropped phone messed up the plug, that then will charge only if the wire and the phone are set "just so". We keep those wires because they *are* 12-footers, natch.
+Referring to title text, I am 'too short', as my charging cable is short.Boeing-787lover 15:56, 15 December 2017 (UTC)
+USB-A to micro-usb or USB-c yes, but also mini-usb. A lot of cheap mp3 players still use it in 2020. (And given the limited life expectancy a device can expect when it is playing podcasts to me, I am not going to use an expensive device for that.) 17:47, 7 February 2020 (UTC)
+
+Categories: All comicsComics from 2017Comics from SeptemberWednesday comics

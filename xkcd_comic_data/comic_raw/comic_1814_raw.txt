@@ -1,0 +1,100 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1814: Color Pattern
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1814)
+|<< PrevComic #1814 (March 22, 2017)Next >>|
+Color Pattern
+
+Title text: ♫ When the spacing is tight / And the difference is slight / That's a moiré ♫
+Explanation[edit]
+The comic references moiré patterns in a parody of the song “That's Amore” made famous by Dean Martin in 1953. (See trivia for pronunciation).
+In mathematics, physics, and art, moiré patterns or moiré fringes are a kind of aliasing -- large scale interference patterns that can be produced when an opaque ruled pattern with transparent gaps is overlaid on another similar pattern. For the moiré interference pattern to appear, the two patterns must not be completely identical in that they must be displaced, rotated, etc., or have different but similar pitch. Moiré patterns appear in many different situations. In printing, the printed pattern of dots can negatively interfere with the image. In television and digital photography, a pattern on an object being photographed can interfere with the shape of the light sensors to generate unwanted artifacts.
+In digital photography or videography, moiré patterns occur when the pattern of pixels on the image sensor are not 100% identically aligned with patterns on the subject being photographed. Photographs of a digital screen taken with a digital camera often exhibit moiré patterns, since it is very difficult to align the camera sensor's grid with the screen's pixel grid perfectly. This is the problem Cueball ran into, where the photo he just took of his computer screen is covered in weird rainbow patterns (the color patterns from the title). It is possible to reduce this effect by changing the distance and angle between the camera and the screen. There can also be bands of uneven brightness on digital photos or videos of electronic displays, those are caused by scan lines and are different from the moiré patterns described in this comic.
+Megan responds to Cueball's complaint with a song that explains moiré patterns. Her song is a parody of the song That's Amore, where "Amore" means "love" in Italian. The pun is that "That's a Moiré" and "That's Amore" are phonetically quite similar. The title text continues the song with a second verse, again with musical notes indicating that it should be sung. More information on when moiré patterns occur is given here, indicating that the space between the grid lines should be small and the two grids should be almost identical, for the maximum moiré effect. This verse, however, could also work if a moiré was changed to amore, as two people squeezed tight together, and without much difference between them could lead to a romantic relationship.
+Randall was not the first to spoof this song using "a moiré" instead of "Amore". His two verse version, two verses from the original song, and other prior versions can be found below.
+It is the second time that Randall has changed the lyrics to "That’s Amore", although the first time, in 321: Thighs, he only changed eye to thigh in the original versions first verse.
+The songs[edit]
+It turns out that Randall was not the first to spot the possibility of changing the lyrics from "That’s Amore" to "That's a Moiré." Verses are shown below as follows: the lyrics first to the original song, then to Randall's song from this comic, and below that other songs (with citations).
+The two first verse in the original song:
+When a moon hits your eye
+like a big pizza pie
+That's amore
+When the world seems to shine
+like you've had too much wine
+That's amore
+
+The entire version of Megan's (Randall's) song is:
+When a grid's misaligned
+with another behind
+That's a moiré...
+When the spacing is tight
+And the difference is slight
+That's a moiré
+
+A similar song based on the same pun was made by Craig Swanson in 1993 and can be found on his web comic Perspicuity in this comic: That's a Moiré. His song text was:
+When new lines hit your eyes
+From two screens when they ply
+That's a Moire!
+
+Jamie Zawinski and Michael Bayne wrote a similar verse for the Moiré screensaver they made in 1997 (search for that's to find it on the linked page):
+When the lines on the screen
+Make more lines in between,
+That's a moiré!
+Transcript[edit]
+[Cueball holds up his smartphone in front of his laptop which stands in front of him on a desk. Megan is sitting in an armchair reading, facing away from Cueball. She is singing her reply, as indicated with four double musical notes around her two lines of text.]
+Cueball: I took a picture of my computer screen—why is the photo covered in these weird rainbow patterns?
+Megan: When a grid's misaligned with another behind
+Megan: That's a moiré...
+Trivia[edit]
+Pronunciation:
+Moiré (/ˈmwɑːreɪ/ – /mwɑˈreɪ/ – French: [mwaˈʁe])
+That’s amore /ðæts aˈmɔːrɛ/.
+That’s a moiré /ðæts ə ˈmwɑːreɪ/.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This link, note 1, may help whomever is going to be editing the comic explanation, I don't have time this morning. [1] Seebert (talk) 13:40, 22 March 2017 (UTC)
+May help whoever is going to be editing ...
+Did a quick google and copy/pasted from the Wikipedia page on Moiré patterns. Xseo (talk) 13:51, 22 March 2017 (UTC)
+This is a copyright infringement. The contents of Wikipedia are not in the public domain. When using text from Wikipedia anywhere, you must indicate the license (CC-BY-SA 3.0).--162.158.150.82 13:58, 22 March 2017 (UTC)
+This is fine. Wikipedia text is licensed for re-use by anybody, provided the original is referenced; Xseo referenced the source material in his comment above, and an explicit link is given in the article; furthermore, this entire website is CC-BY-SA 3.0, as indicated in the footer on every page. Cosmogoblin (talk) 15:16, 22 March 2017 (UTC)
+I can't be the only one for whom the note emoji are not showing up.
+I don't see them either. I'm running Chrome 48 Portable. 162.158.62.225 14:18, 22 March 2017 (UTC)
+Running Chrome 57, Chromium 53, and Firefox 52; the note emoji doesn't work on any of these (Linux Mint 17.3 64-bit). I wonder why? Cosmogoblin (talk) 15:19, 22 March 2017 (UTC)
+Works for me, Firefox 52. Bring up the menu bar (Alt or F10), "View > Text Encoding > Unicode". If you still don't see the notes, it may be an issue with the font settings. You could try to fiddle with "Tools > Options > Content > Default Font". Instead of using the menu, you can bring up "Options" by entering "about:preferences" in the address bar. If that doesn't work, you need professional help. ;) 162.158.114.106 06:23, 23 March 2017 (UTC)
+Firefox 71 on macOS and they still don't show up. Instead of the music notes, it says "â™« When the spacing is tight / And the difference is slight / That's a moirÃ© â™«", with completely broken symbols at the start and end. Numbermaniac (talk) 05:07, 4 January 2020 (UTC)
+Chrome 56 for Android, they display for me. Mikemk (talk) 10:24, 23 March 2017 (UTC)
+AFAIK moiree patterns would not show up on an image that have been *properly* sampled, such moiree patterns are IIRC a byproduct of poorly sampled digital images. See WP for "aliasing" and "digital sampling" for reference. My two cents... Todor (talk) 14:31, 22 March 2017 (UTC)
+Good Lord. 24 hours! If any of you guys are actual engineers you should be ashamed of yourselves! I am not an engineer, but I do know a a tiny bit about signal theory, hence the tip. But then again this just shows how cheap shit chinese gizmos proliferate. Quality just cost too much, haha! Just need the looks, not the brainz! Only the zombies loves them BRAINZZZZZ! hurr hurr. Todor (talk) 19:17, 22 March 2017 (UTC)
+What are you trying to say with 24 hours. At this moment the comic has been up for 6 hours... If you think the explanation could be improved this is luckily a wiki, so you could just improve instead of rant ;-) --Kynde (talk) 19:55, 22 March 2017 (UTC)
+Did I say that too early? Well it certainly is 24+ hours now and you guys still don't know where the dart target is. :D The comic suggests some matches of geometry in the digital age are highly prone to distortions. That's interesting in it's own, but feel free to ignore it. As I hinted the real issue here relates to digital sampling and aliasing problems related to this. There are more than one way to fix artifacts in images, but one method involves oversampling at about twice the nyquist frequency and running the signal through a band-pass filter. That's fairly common, but I think that will only solve aliasing related to sampling not moiree patterns occurring naturally due to geometry. I suspect a digital photo of a digital screen might be one such case, of "naturally" occurring distortion patterns. Todor (talk) 18:08, 23 March 2017 (UTC)
+I cannot see this has anything to do with the explanation. Cueball has a moiré pattern on his picture of his lap top screen as taken by the phone, which obviously do not sample properly. I have seen the same using my phone and camera. This comic explains in a song why a moiré patterns forms, and the explanation above explains why such a pattern occurs. I cannot see any connection with what you write. But if you think it is relevant feel free to try and include a paragraph on the subject, it is a wiki. In case it does make sense, then it is probably just me that do not understand what you write, but hey I'm not an engineer so... ;-) --Kynde (talk) 09:51, 24 March 2017 (UTC)
+The Dean Martin version, which likely is the only version anyone younger than I has heard goes like this- When the moon hits your eye - like a bigga pizza pie - That's amore - - When the world seems to shine - like you've had too much wine - That's amore ExternalMonolog (talk) 04:25, 23 March 2017 (UTC)
+At first I thought Russell was alluding to Tom Lehrer's "That's Mathematics". :D 162.158.114.106 06:23, 23 March 2017 (UTC)
+"Amore" is pronounces as /aˈmɔːrɛ/ in Italian. The initial vowel is a clean open "a" and there's no final "ei" but rather a clean open "e". Source: https://en.wikipedia.org/wiki/Help:IPA_for_Italian (Not counting I am Italian myself!)
+Sorry, I can't help myself, but... If it's swimming in the sea and it's long and slippery, that's a moray 141.101.107.150 07:54, 23 March 2017 (UTC)
+"When you try write a song, but the rhythm is wrong, that's a pity... (but still witty)" ^_^ 141.101.107.180 10:28, 23 March 2017 (UTC)
+When it's sometimes quite slow but on average it goes, that's amor...tized
+If your alphabet soup is tied up like a sloop, that's a mored A
+(This nonsense definitely not by Quantum7 (talk) 10:23, 23 March 2017 (UTC))
+If a diet's your wish, but you can't avoid the dish, that's a moreish 141.101.107.150 12:10, 23 March 2017 (UTC)
+Is it bad I came to the talk page specifically for more song lyrics? 172.68.65.30 05:29, 24 March 2017 (UTC)
+Then you'll be happy to hear that Jamie Zawinski and Michael Bayne wrote another verse for their Moiré screensaver:
+When the lines on the screen
+Make more lines in between,
+That's a moiré! 162.158.91.167 07:18, 24 March 2017 (UTC)
+Now I'm happy ;-) I have also added this to the list of songs that precedes Randall's. Wonder if he knew about this, or got the idea by himself independently? I think (and hope) he did. He has before given credit on xkcd to one that had made a similar joke to his before him. --Kynde (talk) 09:51, 24 March 2017 (UTC)
+"When you've stopped for the night,"
+"and the dock's not in sight,"
+"That's a mooring!"
+"When the anchor's in view"
+"And there's nothing to do"
+"That's a mooring!"
+--Mlv (talk) 19:18, 24 March 2017 (UTC)
+Does anybody else think that the title text may just as well refer to "amore" as to "a moire"? 162.158.91.209 15:40, 23 March 2017 (UTC)
+Yes I think that is relevant. Have added it to the title text explanation. Thanks. --Kynde (talk) 09:51, 24 March 2017 (UTC)
+Hmmm... the explanation would also be valid the other way round. Cause (amore) and effect (tight spacing) ... 162.158.91.209 11:15, 24 March 2017 (UTC)
+"When an eel bites your toe, and he just won't let go, that's a moray..." KieferSkunk (talk) 01:21, 25 March 2017 (UTC)
+Spider Robinson either invented most of this or at least used it in The Callahan Touch (1993)
+Categories: All comicsComics from 2017Comics from MarchWednesday comicsComics featuring CueballComics featuring MeganSmartphonesSongsPhotography

@@ -1,0 +1,46 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1788: Barge
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1788)
+|<< PrevComic #1788 (January 20, 2017)Next >>|
+Barge
+
+Title text: My life goal is to launch a barge into the air and have it land on one of Elon Musk's rockets.
+Explanation[edit]
+This is another one of the "My Hobby" series, where Randall tells about a strange hobby. This one is depicted with three drawings illustrating the core concept, and explained in details in the caption.
+The launch company SpaceX has developed a reusable rocket system, where the first rocket stage is capable of landing back on either the launch pad or an autonomous spaceport drone ship after launch (See this video displaying both types of landing, from when the sea landing was successful the first time). The landing pads and ships are decorated with a "X" symbol from the SpaceX logo, with the center of the X being the desired landing spot.[citation needed]
+Randall imagines creating a similar-looking barge and placing it near the intended landing site, except his barge's platform would be hollow in the middle with only a sheet of paper supporting the part where the rocket would land. Since the paper is painted to look just like the real landing platform, the goal of this setup is presumably to trick a returning first stage rocket into falling into the sea. This is the same concept as the old trapping pit. If a rocket attempts to land on Randall's barge, it will quickly burn through the paper and fall through the hole.
+There are several reasons why this setup would not work in real life. First, the rocket actually navigates to the landing site using GPS coordinates shared with the real barge. It does not use cameras to identify its landing site and will not recognize another barge based solely on a painted logo. Also, a wide area around the rocket's flight path would be restricted around the launch window due to safety concerns. Vessels that are not part of the official launch plan would not be allowed in the area. Even if the fake barge manages to enter the area and does not get removed by authorities, at most it will cause the launch to be canceled for the day.
+This "my hobby" is probably the most destructive one so far, as it would result in the total loss of the first stage containing nine space rocket engines. The costs associated with buying and remodeling a barge would also likely make this the most expensive hobby, even disregarding the costs to others, though it could potentially be reused if it did not get destroyed by the falling rocket. This hobby seems more appropriate for Black Hat, considering that he is a real classhole, and goes to show that Black Hat is as much part of Randall's personality as Cueball.
+The title text plays on the incredible difficulty of landing a rocket on a barge. Reusing rockets like this is a feat that has only recently become possible, some 60 years after the launch of the first satellite Sputnik 1. SpaceX, founded by Elon Musk, was the first (and so far only) organization to do so successfully. Blue Origin is also currently testing reusable rockets and achieved landing their first stage before SpaceX, albeit only on land and only with a sub-orbital rocket.
+Thus Randall imagines an even more implausible idea of turning the scenario upside down and getting a barge to land on one of Elon Musk's rockets. That would be a spectacular feat of engineering, and the challenges it presents as well as its inherent irony appear to satisfy Randall so much that he would make it into one of his life goals. Launching a barge in the first place would be tremendously difficult - they are big, heavy and not very aerodynamic. Maneuvering it through the air precisely enough to come down on top of a rocket would be difficult as well. The barge (and probably the rocket) would have to be redesigned if the goal is a soft landing, otherwise the falling barge would certainly destroy the rocket and possibly itself.
+This comic was published on the week following SpaceX's Iridium 1 mission, where the first stage of the rocket which delivered 10 satellites into orbit successfully landed on a barge near California. This was filmed from the returning stage 1 and also from further away. More details of the launch are available here. It marked the seventh time SpaceX successfully landed and recovered its booster on a commercial mission.
+Transcript[edit]
+[There is one panel in this comic with the main drawing at the bottom. Two smaller drawings are inserted above this drawing to explain the idea.]
+[The first insert shows a barge with no center and a large piece of paper with the SpaceX logo above the barge.]
+[The second insert shows the paper stretched over the hole.]
+[The main drawing at the bottom shows a cross-section of the barge in water, showing there is only water below the paper. Above the paper the large first stage, without the top part with the payload, of a reusable rocket is attempting to land on the paper on the SpaceX logo (not visible in this view). It is still so high above the fake barge that the exhaust fire below the rocket is nowhere near the paper.]
+[Caption below the panels:]
+My hobby: Hollowing out the center of a barge, stretching paper over the hole painted with the SpaceX logo, and leaving it floating offshore near launch sites.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Any reason why the background is black in this one? 162.158.234.34 16:35, 20 January 2017 (UTC)
+Black background...huh? GoonPontoon (talk) 18:27, 20 January 2017 (UTC)
+The xkcd Browser Android app, at least, uses black outside the rectangular comic image for this one instead of the usual white. It usually does that for dark-background comics like 312. I don’t know if it gets the color from the site somehow or uses its own heuristics, but either way this isn’t the first time it’s made the “wrong” choice. --162.158.78.148 18:40, 20 January 2017 (UTC)
+When did the fine print at the bottom of the xkcd homepage change? 162.158.122.102 18:08, 20 January 2017 (UTC)
+A few weeks ago, exactly when I'm not sure.
+Actually, for quite a while That's right, Jacky720 just signed this (talk | contribs) 21:22, 20 January 2017 (UTC)
+Where do we put this kind of information on this wiki? Very funny but not so great as the one about the humour --Kynde (talk) 23:16, 20 January 2017 (UTC)
+A sorry did not understand that the link was to a page on this site: footnote. Thanks. Have made a link to this page from the page on (xkcd). --Kynde (talk) 14:21, 23 January 2017 (UTC)
+But much worse the xkcd warning has also been removed. So sad. Made the page for it. --Kynde (talk) 15:13, 23 January 2017 (UTC)
+What exactly would cause a rocket to explode when it lands on this trick-barge (and into water)? 141.101.105.48 08:52, 23 January 2017 (UTC)
+If the computer thinks it landed on a solid barge, it will turn off the engine, and the rocket will tip over, crash into the remaining hull, and explode. If the computer does not think it landed, the engine will enter the water and either go out (tip over, explode) or cause a steam explosion followed by a fuel tank explosion. Chrullrich (talk) 10:26, 23 January 2017 (UTC)
+I'm not sure it is intended to be destructive, so much as scaling up of the everyday. You know how satisfying it is when you open a new jar of coffee or spread and get to punch the paper seal with a spoon? Randall has previously referred to these little pleasures, like cleaning the dryer fluff in https://xkcd.com/1346/ . 141.101.98.244 09:32, 23 January 2017 (UTC)
+I do not think I would take any pleasures engaging in violence against pinnipeds made of compressed wood cellulose, especially with a metallic eating utensil. Fresh dryer fluff is another story while the spread depends on the magazine. 162.158.69.9 11:38, 23 January 2017 (UTC)
+Paper isn't compressed wood, it's dissolved wood that has been stuck together with a paste. Beanie talk 13:22, 16 July 2021 (UTC)
+In fairness, paper other than cheap tissue is compressed. While still wet, it's generally pressed between rollers. Nitpicking (talk) 12:07, 4 March 2022 (UTC)
+Actual SpaceX launch was a couple of weeks ago: should we mention it?
+SpaceX launches happen regularly. They do not happen often, but you can still count on them. Therefore, no. Beanie talk 13:22, 16 July 2021 (UTC)
+Categories: All comicsComics from 2017Comics from JanuaryFriday comicsPages using the "citation needed" templateMy HobbySpaceComics featuring Elon Musk

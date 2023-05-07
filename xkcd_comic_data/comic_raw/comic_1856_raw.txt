@@ -1,0 +1,52 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1856: Existence Proof
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1856)
+|<< PrevComic #1856 (June 28, 2017)Next >>|
+Existence Proof
+
+Title text: Real analysis is way realer than I expected.
+Explanation[edit]
+In mathematics, an existence proof is a proof that only shows that an object with a specific property exists, but does not tell what this object is. For instance, if f is a continuous function such that f(0) = 0 and f(100) = 2, it is easy to prove that there exists an x between 0 and 100 such that f(x) = 1 (as in the comic). However, this proof gives no way to find such an x.
+In many situations, a proof of existence is enough to satisfy a mathematician, but in others, it is desirable to actually identify the object whose existence has been proven.
+The full statement itself seems like a solution to some kind of function composition problem. Seems like what the class has proven is that if you apply certain function G(x) to a starting point of function f(0), then what it will do is just give you a value of f(x) at some other value of x, existence of which is stated to be proven. The sentence "There exists some number x such that f(x)=G(f(0))=1." boils down to "There is an x such that f(x)=1". The part with G(f(0)) is only a way to arrive at 1. For some reason there is an x that satisfies f(x)=G(f(0)), and since G(f(0))=1, it is equivalent to f(x)=1.
+In the comic, Miss Lenhart (and students) take this one step further, by taking up arms to destroy the function value, which they have proven to exist. In the last panel, some students off screen begin to wonder if they are in the right class, as normal math classes do not take up swords to fight abstract concepts.[citation needed] Another student remarks that they are finally in the right math class, implying that this is the kind of thing they wanted from their math curriculum all along.
+The phrase "We ride" is commonly used in rallying battle cries, particularly in fantasy or medieval dramas where characters are preparing to enter combat on horseback. Variations of the phrase are used several times in The Lord of the Rings, for example.
+The title text refers to Real Analysis, a branch of mathematics dealing with real numbers and real-valued functions (as opposed to studies dealing with integers, rational numbers, imaginary numbers in the complex plane, etc.). As the speaker implies, Real Analysis is supposed to remain confined to the theoretical realm of mathematics; certainly nobody signing up for such a class would ever expect to be embroiled in a crusade against intangible constructs! Taken out of its mathematical context, "analysis" literally means "breaking down", referring to the teacher's intention to cut things up with a sword. The use of the uncommon word "realer" conveys that the situation has suddenly developed unusually high stakes. This nuance would be lost if the word "realer" were replaced with the technically correct phrasing of "more real".
+This may be a continuation of 982: Set Theory, where numbers were "executed" to prove a point.
+Transcript[edit]
+[Miss Lenhart stands in front of a whiteboard and points at calculations written on it.]
+Miss Lenhart: There exists some number x such that f(x)=G(f(0))=1.
+[Miss Lenhart moves her arm in a frameless panel.]
+Miss Lenhart: Oh yes.
+Miss Lenhart: Somewhere out there, it exists.
+[Zoom-in on Miss Lenhart raising a fist.]
+Miss Lenhart: And we must find it... and destroy it.
+[Miss Lenhart raises a sword.]
+Miss Lenhart: Grab your swords, students! We ride!
+Student #1 (off-screen): I think I'm in the wrong math class?
+Student #2 (off-screen): I'm finally in the right one.
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Whoever added the citation needed got more of a laugh out of me then Randall did this morning. Well done. --172.68.142.29 17:32, 28 June 2017 (UTC)
+I hope you enjoy the joke just as much the second time. And the third. And the fourth. And the fifth. And the sixth. And the... 162.158.75.100 00:56, 29 June 2017 (UTC)
+[citation needed][citation needed][citation needed][citation needed][citation needed][citation needed][citation needed] 162.158.78.28 03:54, 2 July 2017 (UTC)
+I don't re-read old pages of explain xkcd so often it would stop being funny. -- Hkmaly (talk) 04:11, 29 June 2017 (UTC)
+I disagree, I must have seen 5 or 6 crazy "citation needed"s in recent memory, and for me it never stops being funny. :) A couple of faves have been that a baby could not plan and execute a jewel heist [citation needed] and 5 million years is longer than the average lifespan [citation needed]. :) I might have to start collecting these. NiceGuy1 (talk) 04:22, 30 June 2017 (UTC)
+<AOL>Me too!</AOL> RoyT (talk) 07:10, 29 June 2017 (UTC)
+[ Citation needed ]Mathmannix (talk) 16:23, 18 July 2017 (UTC)
+Does the function have any special hidden meaning, or is it just some random function? Thawn (talk) 20:23, 28 June 2017 (UTC)
+Yeah - I wondered that too. But I'm not sure if there is enough information to know. SteveBaker (talk) 21:28, 28 June 2017 (UTC)
+Without knowing what the functions are, there's no way to tell. Gmcgath (talk) 23:52, 28 June 2017 (UTC)
+Unless I'm way off-base, There are an infinite number of solutions. For example, let's assume f(x)=2x and G(x)=x+1. X can, in this example, be literally any number because G(f(0)) = G(2*0) = G(0) = 0+1 = 1. As long as G(x) takes the result of f(0) and makes it equal to 1, it doesn't matter what f(x) is. 162.158.62.225 13:25, 29 June 2017 (UTC)
+Well, f(x) would also have to be equal to 1, not just G(f(0)). 108.162.237.154 14:14, 5 July 2017 (UTC)
+They're defined to be equal. It's right there on the board! Nitpicking (talk) 01:37, 29 December 2022 (UTC)
+Mitchell Feigenbaum's study of the universality of period-doubling ratios involved a function that solved f(0)=1 and af(x)=f(x/a) (IIRC). The equation in the comic reminded me of this, though it's not quite right. 172.68.78.58 16:55, 29 June 2017 (UTC)
+"I'm finally in the right one," made me laugh more than usual. It added character to Offscreen Student #2, something that the comic usually lacks HisHighestMinion (talk) 03:56, 29 June 2017 (UTC)
+Could be Black Hat? Observer of the Absurd (talk) 12:23, 6 May 2019 (UTC)
+According to https://en.wikipedia.org/wiki/Constructive_proof "existence proof" means a non-constructive proof. Such proofs are annoying to some mathematicians as they claim existence of something but do not show how to find it. So I fully understand the teacher that she wants to grab a sword and finally find it. 162.158.202.76 08:54, 29 June 2017 (UTC)
+Jokes on her. The number is a | nonstandard integer. 172.68.78.28 10:12, 29 June 2017 (UTC)
+To me, the comic reads (especially with the title text) with the implication that the teacher is encouraging the students to help her actually fight real numbers in real life, as if the platonic idea of numbers was "realer" than we think. 172.68.215.98 10:42, 29 June 2017 (UTC)
+The sentence "There exists some number x such that f(x)=G(f(0))=1." boils down to "There is an x such that f(x)=1". The part with G(f(0)) is only a way to arrive at 1. For some reason there is an x that satisfies f(x)=G(f(0)), and since G(f(0))=1, it is equivalent to f(x)=1. 141.101.76.142 (talk) (please sign your comments with ~~~~)
+Categories: All comicsComics from 2017Comics from JuneWednesday comicsPages using the "citation needed" templateComics featuring Miss LenhartAnalysis

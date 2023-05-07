@@ -1,0 +1,42 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1861: Quantum
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1861)
+|<< PrevComic #1861 (July 10, 2017)Next >>|
+Quantum
+
+Title text: If you draw a diagonal line from lower left to upper right, that's the ICP 'Miracles' axis.
+Explanation[edit]
+The comic depicts a relationship between how philosophically exciting the questions in a field of study are, versus how many years are required to understand the answers. For example, special relativity poses very intriguing philosophical questions, such as "can the temporal ordering of spatially separated events depend on the observer?", or "can time run at different rates for different observers?". But it doesn't take a lot of mathematical knowledge to understand the answers - that when objects move very close to the speed of light, time slows down and their lengths contract: the key Lorentz transformations ultimately involve little more than high-school algebra. Hence, Special Relativity is very high up on the y-axis but not very far on the x-axis. Basic physics is not very philosophically interesting but also not very complicated. Fluid dynamics, as captured by the Navier–Stokes equations is very complicated, but it's concerned with a very specific topic - how water or other fluids flow around - so it doesn't lead to big philosophical questions.
+The "danger zone" in the top right of the chart is when a field of study is wide-ranging enough to pose broad philosophical questions, and also so complicated that most people can't answer those questions. Quantum mechanics deals with some very strange concepts that readily lend themselves to philosophical questions, such as the idea that merely observing something can change it, or the idea that something can be both a wave and a particle at the same time. However, the explanation for those phenomena is a very complicated piece of math, notably the Schrödinger equation, which means that most people don't have accurate answers to those questions. Randall suggests that this is the reason why so many people have "weird ideas" about quantum mechanics.
+1240: Quantum Mechanics also discusses weird ideas that people have about quantum mechanics.
+General relativity also presupposes considerable mathematical sophistication to understand the Einstein field equations. However, the main contribution of GR – the explanation of gravity in terms of a curved spacetime – does not seem to induce a lot of philosophical novelty beyond that already seen in special relativity, possibly with the exception of black holes.
+The title text references the Insane Clown Posse (ICP) song "Miracles", made memetic by the lyric "Fucking magnets, how do they work?" An axis is the direction on a graph in which some quantity is increasing or decreasing. So things that are far along the "miracle" axis are presumably more miraculous. As you move from bottom-left to top-right on the graph, items become both more philosophically interesting and harder to understand. It would be fair to describe something that's hard to understand and raises big philosophical questions as a "miracle". The ICP "Miracles" axis would also intersect the topic "magnets" infamously mentioned in the song.
+Transcript[edit]
+[A chart with the Y-axis titled "How Philosophically Exciting the Questions Are to a Novice Student" and the X-axis titled "How Many Years of Math are Needed to Understand the Answers". The upper-right portion of the chart is labeled "Danger Zone". The following topics are charted as follows:
+Basic Physics: low excitement, low prerequisites
+Fluid Dynamics: low excitement, high prerequisites
+Magnets: medium excitement, medium prerequisites
+General Relativity: medium excitement, high prerequisites (on the border to the "Danger Zone")
+Special Relativity: high excitement, low prerequisites
+Quantum Mechanics: high excitement, high prerequisites (in the "Danger Zone")]
+[Caption below the panel:]
+Why so many people have weird ideas about Quantum Mechanics
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The final paragraph probably should note that Magnets are directly on the ICP "Miracles" axis. JamesCurran (talk) 18:34, 10 July 2017 (UTC)
+And now I have to listen to "Miracles" again. Thanks explainxkcd. OldCorps (talk) 19:03, 10 July 2017 (UTC)
+Unless Randall includes Quantum Field Theory in Quantum Mechanics (which is unusual), General Relativity certainly must be on the right of QM, but on the chart they are almost same level, why? All physics students learn QM, but only small minority take GR course, because mathematically it's much more demanding.
+If you look closely, General Relativity is slightly to the right of Quantum Mechanics. 172.68.141.94 20:33, 10 July 2017 (UTC)
+_I'M_ extremely intrigued by Special Relativity being depicted as requiring not much more math than Basic Physics (the only thing I've studied on this chart - I'm not counting magnets as all I know are the grade school basics), but as being vastly more exciting (I enjoyed the physics courses I took, as far as I remember). :) NiceGuy1 (talk) 04:46, 11 July 2017 (UTC)
+It's interesting that special relativity is to the left of magnets when you can explain magnetism as a consequence of special relativity, from each charged particle's frame of reference, it's experiencing an electrostatic attraction or repulsion due to length contraction or an altered electric current due to time dilation.172.68.141.214 05:11, 11 July 2017 (UTC)
+That's way more complicated than special relativity, at least to me.--TheSandromatic (talk) 07:55, 11 July 2017 (UTC)
+The thin with magnets is that they are like lasers; they are easy to get used to, but hard to understand the math behind.162.158.106.12 07:19, 6 November 2017 (UTC)
+He forgot entropy. Maybe around where Special Relativity is? 172.68.58.53 22:22, 11 July 2017 (UTC)
+The Maxwell equations are more complicated than the Lorenz equations. That is why Magnets are to the right of special relativity. 162.158.92.106 08:33, 11 July 2017 (UTC)
+Now I'm listening to "Highway To The Danger Zone". Thanks, upper-right corner! 162.158.62.15 13:03, 11 July 2017 (UTC)
+Every idea anyone has about quantum mechanics is weird. That includes those who can do the math for basic field theory (I have) and beyond. There are no non-weird mental models that fit what the math describes, and experiments validate. 172.68.58.167 15:02, 12 July 2017 (UTC)
+The explanation mentions a couple of philosophical questions, but I'm not sure that a novice to the field would even understand the question. I just can't imagine a room full of people getting excited if you said "Lets explore whether the temporal ordering of spatially separated events depend on the observer." Pudder (talk) 08:06, 11 August 2017 (UTC)
+Categories: All comicsComics from 2017Comics from JulyMonday comicsPhysics

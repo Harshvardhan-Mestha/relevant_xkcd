@@ -1,0 +1,243 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1638: Backslashes
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1638)
+|<< PrevComic #1638 (February 3, 2016)Next >>|
+Backslashes
+
+Title text: I searched my .bash_history for the line with the highest ratio of special characters to regular alphanumeric characters, and the winner was: cat out.txt | grep -o "[[(].*[])][^)]]*$" ... I have no memory of this and no idea what I was trying to do, but I sure hope it worked.
+Explanation[edit]
+Most programming languages use the concept of a string literal, which is just a text between some delimiters, usually quotes. For example, "Hello, world" is a string literal. The text being represented is Hello, world without the quotes. However, the quotes are also written to mark the beginning and end of the string. This is a problem when the text itself contains a quote, as in "This is a "quoted" string". The quotes around the word "quoted" are intended to be part of the text, but the language processor will likely confuse it for the end of the string, which would thus be two strings with quoted outside these strings (probably resulting in a syntax error).
+To avoid this problem, an escape character (usually a backslash) is prepended to non-string-terminating quotes. So, the previous text would be written as "This is a \"quoted\" string". The language processor will substitute every occurrence of \" with only the quote character, and the string terminates at the quote character which does not immediately follow a backslash. In this case the resulting text string would be This is a "quoted" string as intended.
+However, the problem now is that the intended text might contain a backslash itself. For example, the text "C:\" will now be interpreted as an unterminated string containing a quote character. To avoid this, literal backslashes also are escaped with a second backslash, i.e. instead of "C:\" we write "C:\\", where the language processor interprets \\ as one single backslash and the quote terminates the string to give C:\ as the output.
+This doubling of backslashes happens in most programming and scripting languages, but also in other syntactic constructs such as regular expressions. So, when several of these languages are used in conjunction, backslashes pile up exponentially (each layer has to double the number of slashes). See example of a backslash explosion and alternatives to avoid this below.
+This kind of backslash explosion is known as Leaning toothpick syndrome, and can happen in many situations. Below is an explanation of all the entries in the comic.
+The backslash explosion in the title text is about a bash command (which uses the backslash to escape arguments) invoking the grep utility which searches for text following a pattern specified by means of a regular expression (which also uses the backslash to escape special characters). This leads to 3 backslashes in a row in the command, which could easily become 7 backslashes in a row if the text being searched for also contains a backslash.
+Even advanced users who completely understand the concept often have a hard time figuring out exactly how many backslashes are required in a given situation. It is hopelessly frustrating to carefully calculate exactly the number of backslashes and then noticing that there's a mistake so the whole thing doesn't work. At a point, it becomes easier to just keep throwing backslashes in until things work than trying to reason what the correct number is.
+It's unclear whether the regular expression in the title text is valid or not. A long discussion about the validity of the expression has occurred here on this explanation's talk page. The fact that many editors of the site, often themselves extremely technically qualified,[citation needed][citation needed] can't determine whether the expression is valid or not, adds a meta layer to the joke of the comic. This is an example of nerd sniping (oh, the irony\!\!\!\).
+Entries in the list[edit]
+The first four examples have names that are (somewhat) based on what they actually produce:
+Backslash: 1 backslash appropriately named
+Real backslash: 2 backslashes are labeled correctly as they do indeed refer to an escaped backslash.
+Real real backslash: 3 backslashes would refer to an escaped backslash followed by an unescaped one. The first two backslashes would combine to make a real backslash while the third one would combine with the character following it to form an escape sequence. The name does thus not make a lot of sense, as this is two escape sequences and not a single "very real" one.
+Actual backslash, for real this time: 4 backslashes form one single backslash escaped twice (the first escaping produces two backslashes, the second escaping doubles each of the backslashes). This is so common that even the documentation for the Python regular expression library has a section called Regular expression operations that mentions "\\\\" explicitly. In this case, the backslash has to be escaped once for being part of a regular expression and then each of these once more as the regular expression needs to be written inside a Python string. This is named in reference to the fact that the previous examples didn't contain enough escaping.
+The remaining five examples of backslashes have more and more occult names (explanations) and do not refer to any more real uses of backslash escapes:
+Elder backslash: 5 backslashes would be a doubly-escaped backslash plus an unescaped one. The reference to Elder in the comic has many meanings. It has become known through fantasy media; Most prominent with the Elder Days, which are the first Ages of Middle-earth in The Silmarillion, the more-or-less prequel to The Lord of the Rings. More recently it has been used in the Harry Potter universe where the Deathly Hallow called the Elder wand, made from Elder wood, is a very important part of the last book Harry Potter and the Deathly Hallows. Other examples are the Elder Gods of the Cthulhu Mythos as well as various 'Elder' magical items and beings in the Dungeons and Dragons mythologies.
+Backslash which escapes the screen and enters your brain: 6 backslashes is a play on the word "escape" as the backslash is supposed to be an "escape character" but obviously not "escaping the screen" and entering your brain. This could also be understood as the programmer getting backslashes on their mind, when they go beyond the Elder backslash domain...
+Backslash so real it transcends time and space : 7 backslashes goes further than escaping the screen as they now transcends both time and space
+Backslash to end all other text: 8 backslashes would be a triply-escaped backslash (same as 4 backslashes but with an additional escaping layer). It is said to "end all other text", i.e. there should never be any more text if someone uses eight in a row. But there could be more as indicated in the last example.
+The true name of Ba'al, the Soul-Eater: ∞ backslashes (11 are shown but followed by "..." to indicate that they continue forever). If you could write an infinite number of backslashes it would actually be The true name of Ba'al, the Soul-Eater. This indicates that if you continue misusing backslashes like this you will end up devoured by a demon, for instance Beelzebub, for being so thoughtless... Ba'al has been mentioned before in 1419: On the Phone and in the title text of 1246: Pale Blue Dot.
+Backslash explosion and alternatives[edit]
+A reasonable example of a backslash explosion would be a PHP script on a web server which writes JavaScript code with a Regular Expression to be run on the client. If the JavaScript code has to test a string to see if it has a double-backslash, the Regular Expression to do so would be:
+\\\\
+where the first two backslashes represent a single backslash and the second two also represent a single backslash, so this searches for two consecutive back slashes. And the JavaScript would be:
+RegExp("\\\\\\\\").test(str);
+where every two backslashes means just one backslashes in the string, so the 8 backslashes in JavaScript become 4 backslashes in the Regular Expression. However, since this JavaScript code is to be written through a PHP script, the PHP code would be:
+echo "RegExp(\"\\\\\\\\\\\\\\\\\").test(str);";
+where:
+The word echo is the PHP command for writing something
+The first quote starts the string
+The RegExp( - including the open parenthesis - is written literally
+The \" following that is a literal quote to be written
+The first two slashes produce one single slash
+And so on until 8 backward slashes are written
+The next \" produces a literal quote character
+The ).test(str); is written literally
+The next quote finishes the string.
+The final semicolon terminates the echo command
+So, the presented scenario has escalated from a simple test for \\ to no less than seventeen backslashes in a row without stepping out of the most common operations.
+If we go a bit further and try to write a Java program that outputs our PHP script, we'd have:
+System.out.println("echo \"RegExp(\\\"\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\").test(str);\";");
+Here, we have 35 backslashes in a row: the first 34 produce the 17 we need in our PHP script, and the last one is for escaping the quote character. (This comes closer to The true name of Ba'al, the Soul-Eater).
+Some programming languages provide alternative matching string literal delimiters to limit situations where escaping of delimiters is needed. Often, one can begin and end a string with either a single quote or a double quote. This allows one to write 'This is a "quoted" string' if double quote marks are intended in the string literal or "This is a 'quoted' string" if single quote marks are intended. Both kinds of delimiters can't be used in the same string literal, but if one needs to construct a string containing both kinds of quote marks one can often concatenate two string literals, each of which uses a different delimiter.
+Another feature that seems to be popular in modern programming languages is to provide an alternative syntax for string delimiters designed specifically to limit leaning toothpick syndrome. For example, in Python, a string literal starting with r" is a "raw string" [1] in which no escape processing is done, with similar semantics for a string starting with @" in C#. This allows one to write r"C:\Users" in Python or @"C:\Users" in C# without the need to escape the backslash. This does not allow one to embed the terminating delimiter in the middle of the string and prevents the use of the backslash to encode the newline character as \n, but comes in handy when writing a string encoding of a regular expression in which the backslash is escaping one or more other punctuation characters or a shorthand character class (e.g., \s for a whitespace character). For example, when looking for an anchor tag in HTML, developers may encode the regular expression as <[Aa]\s[^>]*>. If they express this regular expression as a raw string literal, the code looks like r"<[Aa]\s[^>]*>" instead of "<[Aa]\\s[^>]*>". The point here is that "leaning toothpick syndrome" is such a real problem that it has influenced programming language implementations.
+Transcript[edit]
+[A list of the names of different numbers of backslashes. After each "item" there is a gray line to the text describing each item. As the text is aligned above each other, the lines becomes shorter as the sequence of backslashes becomes longer until there is just a line with the length of a single hyphen for the last item. There are 1 to 8 backslashes and then 11 plus "..." in the last entry.]
+\------------ Backslash
+\\----------- Real backslash
+\\\---------- Real real backslash
+\\\\---------- Actual backslash, for real this time
+\\\\\--------- Elder backslash
+\\\\\\-------- Backslash which escapes the screen and enters your brain
+\\\\\\\------- Backslash so real it transcends time and space
+\\\\\\\\------ Backslash to end all other text
+\\\\\\\\\\\...- The true name of Ba'al, the Soul-Eater
+Note on Title Text[edit]
+The title text when first published was
+I searched my .bash_history for the line with the highest ratio of special characters to regular alphanumeric characters, and the winner was: cat out.txt | grep -o "\\\[[(].*\\\[\])][^)\]]*$" ... I have no memory of this and no idea what I was trying to do, but I sure hope it worked.
+It was changed within a few days to
+I searched my .bash_history for the line with the highest ratio of special characters to regular alphanumeric characters, and the winner was: cat out.txt | grep -o "[[(].*[])][^)]]*$" ... I have no memory of this and no idea what I was trying to do, but I sure hope it worked.
+The original title text seems to be more relevant to the comic, but the revised title text seems to make more sense as a legitimate command line due to the way backslashes are interpreted in regular expressions. See the Discussion below for much more on the topic.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+It should be noted that this also occurs in almost every programming language where "\" is the escape character. i.e.
+print("Hello")
+> Hello
+print("\"Hello\"")
+> "Hello"
+print("\\Hello\\")
+> \Hello\
+Oh, and by the way, isn't this the third comic to mention "Ba'al, the Soul Eater"? Maybe we should start a category. (Others are 1246 (title text) and 1419.) 173.245.54.29 06:14, 3 February 2016 (UTC)
+Did that before seeing you comment, so yes I agree. --Kynde (talk) 09:47, 3 February 2016 (UTC)
+But Davidy did not so the category has been deleted again. I have just cleaned up after my mess ;-) so there are no left over links to the dead category... --Kynde (talk) 22:27, 8 February 2016 (UTC)
+The last entry may also be an oblique reference to the infinitely-expandable recursive acronym "GOD = GOD Over Djinn" mentioned in Richard Hofstadter's Gödel, Escher, Bach.Taibhse (talk) 16:42, 3 February 2016 (UTC)
+I don't think the regex is invalid
+Note: The regex changed after initial publication. See Changed Regex below
+According to man grep you need to specify the -E option to use extended regex; without it unescaped parentheses are not interpreted, so they don't need to match.
+My - very wild - guess is that it was the command he used to find the line with the most special characters, but I am not confident enough to edit the article (if someone can confirm?). 141.101.66.83 (talk) (please sign your comments with ~~~~)
+If it was supposed to do that, it doesn't work. Running it on my bash history matches no lines, and I have lots of special characters in there 197.234.242.243 07:12, 3 February 2016 (UTC)
+Explain it to me like I'm dumb. What is this comic going on about? I think the explanation needs more examples like that hello, above, because that's almost understandable. --198.41.238.231 07:47, 3 February 2016 (UTC)
+I agree. But I cannot help either.--Kynde (talk) 09:51, 3 February 2016 (UTC)
+This is the third time Randall has mentioned Ba'al the Soul Eater xD International Space Station (talk) 08:26, 3 February 2016 (UTC)
+Yes, that was already mentioned a few hours before you comment, see the first comment. --Kynde (talk) 09:51, 3 February 2016 (UTC)
+After passing the regex through bash, you get \\[[(].*\\[\])][^)\]]*$ That is, the literal character \, followed by [ or (, followed by any number of any characters, followed by \, followed by ] or ), followed by any number of characters that aren't ) or ], until the end of the line. 108.162.216.44 08:33, 3 February 2016 (UTC)
+It sounds like you know what you are talking about. Anyone who can explain it good enough for the explanation, and correct the explanation of the title text if it is wrong to say that it would not work. I have added this as the reason for incomplete. But maybe also examples are needed for people with not programming skills/knowledge. We also enjoy xkcd ;-) --Kynde (talk) 09:51, 3 February 2016 (UTC)
+I'm thinking that it's grepping for regular expressions that contain regular expressions. A regex containing "\[...\]" or "\(...\)" will match other regular expressions, as almost all non-trivial regexes use either character lists or groups. Now why out.txt is likely to contain not just regexes but rather regexes that search for regexes I have no idea - perhaps he had actually put too many backslashes in and he was trying to grep just for "[...]" or "(...)" (i.e. to locate probable regular expressions in out.txt, or anything else in parenthesis for that matter such as countless kinds of code/markup)? 162.158.152.185 17:35, 4 February 2016 (UTC)
+For fun:
+cat ~/.bash_history | xargs -d "\n" -n 1 -I {} bash -c 'chars="$(echo "$1" | grep -o "[a-zA-Z0-9 ]" | wc -l)"; echo "$(( 100 - $(( $chars * 100 / ${#1} )) )) $1"' _ {} | sort -nrk 1 | less
+Outputs your bash_history, ordered by relative gibberishness. This was copied by hand from desktop to mobile, might well have a few typos.--162.158.90.208 10:04, 3 February 2016 (UTC)
+Besides the fact that -d is a GNU extension to xargs (so it won't exist on OS X, FreeBSD, or anything else but Linux), this is a weird way to calculate gibberishness; I'm guessing functions, variable substitutions, .. and ./, etc. are going to swamp the more unreadable grep and the like. Plus, I think you need a uniq in there somewhere; otherwise, aren't the first few pages are all going to be filled with the 78 copies of "422 cd .." that tied for most gibberishy in my last 500 commands? --162.158.255.82 22:51, 7 March 2016 (UTC)
+The problem in the comic is not with regexes per se but with situations when the entered text or expression passes through several interpreters, like bash -> grep/sed/awk, or program text -> external shell command. In such cases, you have to escape backslashes for each program in the sequence, and it gets worse if you have 'real' backslashes in the final text that you're processing with the utilities (Windows' file paths, for example). See https://en.wikipedia.org/wiki/Leaning_toothpick_syndrome. Feel free to lift this to the explanation page, since I'm not good at longer and more careful explanations than this one. Also, gotta notice that Feedly stripped paired backslashes in the title text (probably passed it through some 'interpreter' embedded in its scripts). Aasasd (talk) 10:13, 3 February 2016 (UTC)
+A funny comment about the MediaWiki software, which is even worse than this comic: <Nikerabbit> I looked the code for rlike and didn't find where it does this. Can you point me to it? <vvv> $pattern = preg_replace( '!(\\\\\\\\\\\\\\\\)*(\\\\\\\\)?/!', '$1\\/', $pattern ); <Nikerabbit> I thought that was ascii art :) (source) --162.158.91.215 10:18, 3 February 2016 (UTC)
+Interestingly, I first looked at this on my phone (using Chrome Feedly for Android), but the title text did not display correctly in that the backslashes didn't appear (which was a little confusing!). In Chrome on my Windows desktop, the title text appeared correctly. Jdluk (talk) 11:36, 3 February 2016 (UTC)
+enough with the harry potter fancruft. "elder" is a perfectly good word. just because you came across it for the first time in harry potter means you are *typing carefully* the kind of person that likes harry potter. unless this is a harry potter reference wiki, of course. in which case i'll prepare a complete list of every word that appears both here and there and put a list on every page. oh, right, no i won't. --141.101.106.161 12:41, 3 February 2016 (UTC)
+Remember that "Elder" is used in a lot of RPGs to denote high level enemies or items. I feel like that's what Randall's referring to here, more than Harry Potter or the general sense of the term "Elder." 108.162.245.156 (talk) (please sign your comments with ~~~~)
++1. Between the fact that harry potter (, ages, or tribes) aren't mentioned anywhere else in the text and the comic being a progressive list, I see this being the most likely explanation. Plus the metion of demons, which are easily the most* common usage of the modifier.
+(*) or second most, after "elder gods", who are, let's face it, also demons. 162.158.180.125 14:41, 3 February 2016 (UTC)
+I'm pretty sure that "Elder backslash" is in reference to the "Elder gods" of Lovecraft. 173.245.54.35 16:51, 3 February 2016 (UTC)
+Note also that it's called 'The Elder Wand' not as an intensifier, as in this comic and the other examples given, but because it is literally made from the wood of an Elder Tree I'm pretty sure it's not an intentional reference. -Graptor 173.245.54.23 19:29, 3 February 2016 (UTC)
+If it's an intentional reference to anything, it's to Lovecraft (or to something similar). I suspect the Elder Wand was an intentional pun by Rowling, however. --162.158.180.137 04:16, 4 February 2016 (UTC)
+Since no-one else seemed to want to, I just restructured that paragraph to make it more clear that if anything Harry Potter was inspired by the older examples, not the other way around. Expanded the LOTR reference and added DnD. If anything Randall is likely to be referencing either the Lovecraft references, or the concept of Elder in general. 141.101.64.173 11:50, 4 February 2016 (UTC)
+Attempting to add to the discussion: This regex is not necessarily invalid or incomprehensible. (Note: The regex changed after initial publication. See Changed Regex below.) It looks like he was looking for a line with a regular expression or definitely some code. You just have to work your way through the backslashes. Although it might be invalid depending on the precise rules. He has some unescaped closing brackets and closing parenthesis. If these have to always be escaped then the regex is invalid. If however you don't have to escape a closing bracket with no opening bracket, then things are fine. I'm not familiar enough with grep's regex parser to know how it handles that edge case. Presuming those unescaped paren and brackets are fine, his regex searches for:
+1. A backslash
+2. An opening bracket
+3. An opening parenthesis (this is a character set but the only character in it is an opening paren)
+4. Any number of any characters
+5. A backslash
+6. An opening bracket
+7. A closing bracket
+8. A closing paren (presuming it doesn't have to be escaped when there is no opening paren)
+9. A closing bracket (presuming it doesn't have to be escaped when there is no opening bracket)
+10. Any number of character that are not a closing paren or closing bracket
+11. The end of the line
+
+Basically he is looking for a string that looks like:
+\[(AAAAA\[])]AAAAA
+Looks like a regex to me, and it looks like this regex also doesn't escape closing paren/brackets that don't have an opening paren/bracket, so I'm guessing that he knows what he is doing and his regex is fine. Maybe he was playing regex golf? Cmancone (talk)cmancone
+Ninjaed by Cmancone, above. I agree with that result in every respect except for the start-of-string being potentially anything, but putting my own analysis in here because it took long enough to type!
+Depth-of-backslash might depend upon depth of utility. In Perl, ''-quotes (among others) treat everything within as literal whilst ""-quotes (and variations) interpolates any special characters, variables, etc that you put in it. (Search for "Quote and Quote-like operators" in your favourite PerlDocs source.) '\sss' is a literal backslash followed by three 's' characters , while "\sss" is the special \s escape (a whitespace) followed by two further regular characters. You might need to define the first when you need to use it to provide a not-previously-escaped \s so that it might be escaped within another context. Or you define it as "\\sss" (escaped-\) the first time, as equivalent to '\sss'. But '\\sss' would be a literal that, later, could be interpreted as an escaped-\ to the input of a further context where the \s finally becomes 'match a whitespace'.
+'\\\sss' would be literal, whilst "\\\sss" could be equivalent to '\ ss' (literal backslash, literal space, rest of characters). Then, instead of literal '\\sss', for some purpose, you could interpolate two escaped-backslashes "\\\\sss"... and so on.
+Meanwhile I think, just from visual inspection, "\\\[[(].*\\\[\])][^)\]]*$" in Bash should obey the interpolation rules quite nicely. The first two characters must be a literal backslash (from the escaped-backslash) and a literal open-square bracket (again, escaped). The next open-square and the close-square shortly after depict a character class that contains only an open-parenthesis, and could have been written as \(.
+The .* indicates zero-or-more (the asterix) instances of any character (the dot). There is then a literal backslash (from the next \\ duo) and a literal open-square (the \[ pair) and close-square (the \] pair). The ) is literal and does not need escaping (as a parenthesis group had not yet been opened), as is the next ] character. To be sure, I would have written these two as the pair escapes \)\], but horses for courses...
+Then there's another character class (the next [ and the final ]) required zero-or-more times (the asterix) to use up all the rest of the characters to the end (the ending $ character). As there was no ^ character (a.k.a. caret/circumflex/etc) at the start, the match isn't bothered about what unmatched characters appear before the original \(. This character class, however, starts with a ^ which in this context (the very first character of a character-class definition, not somewhere where an entire match-string starts) indicates negation of the following selection, so it is all characters but those specified, which is the regular close-parenthesis and (because it needs to be contained within a [] pair) the escaped close-square.
+So, all matching strings must start with \[(, i.e. the backslash, open-square and open-paren. They can continue with any further text, before then having a \[])], i.e. backslash, open-and-close-squares and close-paren, close-square. After this, the match continues just as long as there are no non-closing square/classic brackets before the ending.
+The minimum matching literal string would be \[(\[])] with longer variants being of the form X\[(Y\[])]Z where X and Y can be replaced by anything (or be absent), and Z can be replaced by anything (or absent!) so long as it doesn't contain possibly relevent close-brackets!. The latter stipulation is likely because the Y (and X) is allowed to contain these characters, and for some reason you don't want to confuse the test by finding some other \[])] segment within the X/Y-zones. (In this context, it doesn't actually seem to matter too much. But it might do in ways I haven't spotted or just be a hang-over from a prior permutation of the test.)
+The "grep -o" function is working on the output to the file being cated (there are alternate ways of doing this that some people might prefer), to only accept the lines in the file that match the X\[(Y\[])]Z string. These lines would appear to be lines of out.txt (a fairly generic name that reveals little to its original purpose) that are well-formed for some other purpose. A safety-escaped (i.e. not to be taken literally by any simple parser) []-grouping containing a ()-group (not escaped, perhaps reasonably in context) containing potentially random text followed by an empty [] pair (again, safety-escaped). Depending on the source, the empty []-pair could mean many things, as with the other layers. And the lines may end with any further text.
+The "out.txt" file might be the result of a prior Grep (string-search function) quote possibly scanning code for lines of particular importance by another pattern and dumping the results to out.txt for further perusal. And then Randall finds the need to dig further into the first result by extracting just those already selected that all have the X\[(Y\[])Z]-ish pattern to them.
+But I could be wrong, and that's way too long for an official explanation. (Perhaps just something like the penultimate paragraph, if we're not entirely mistaken?) 162.158.152.89 14:14, 3 February 2016 (UTC)
+The regex is supposed to be looking for (Note: The regex changed after initial publication. See Changed Regex below.):
+\\\      backslash
+[[(]     [ or (
+.*       any character (repeated 0 or more times)
+space    space
+\\\      backslash
+[[\])]   probably meant to match either [, ] or ). However, it's not correct, it instead matches the literal characters [)]
+[^)\]]*  probably meant to match any character that isn't ) or ], repeated. Instead it means one character that's not a ), and then a ] zero or more times
+$        end of string
+The first problem is that you're not supposed to escape ] in a [...], and it also has to be first in the grouping (unless negated with a ^) It should be [][)] or something similar.
+The second problem is the same. The last bit should be [^])]*$ and not [^)\]]*$. Khris (talk) 14:24, 3 February 2016 (UTC)
+
+I was reading through the regex, if using grep you run into an error with an unmatched ")". Removing this gets a string such as \[(AAAAA\[]]AAAAA$ http://regexr.com/3cng8 162.158.214.230 14:42, 3 February 2016 (UTC)
+
+The regex relies on several special cases (*surprise*). (Note: The regex changed after initial publication. See Changed Regex below.) First: bash double-quote expansion (see [2]). Perhaps non-intuitively, \\\ followed by a character that \ doesn't escape is an escaped backslash followed by a literal backslash, effectively the same as \\\\ followed by that same non-escaped character. After bash double-quote expansion, this results in:
+\\[[(].*\\[\])][^)\]]*$
+
+grep interprets this as:
+any leading non-\ characters
+literal backslash
+character class containing [ and (
+zero or more *any* characters
+another literal backslash
+yet another literal backslash, via a character class containing only a backslash. Note this does not contain an escaped ], as it might appear at first glance. See [3]
+literal )
+literal ]
+character class of anything except ), \
+zero or more ]
+end of line
+Matching examples:
+echo 'asdf\[asdfasdf\\)]a]]]]]]' | grep -o "\\\[[(].*\\\[\])][^)\]]*$"
+echo '\(\\)]P' | grep -o "\\\[[(].*\\\[\])][^)\]]*$"
+
+108.162.216.34 16:14, 3 February 2016 (UTC)rb
+One key thing to understand is that \ is not a special character when it's in a bracket expression - you can't escape characters in bracket expressions. So [^)\] simply means any character other then ) or \. Also, ( and ) are just regular characters unless they are escaped in basic regular expressions - extended regular expressions reverse this rule. -- Kalfalfa (talk) (please sign your comments with ~~~~)
+I don't know about the regular expression in the title text, but I think the explanation is incorrect in that it starts off talking about regular expressions. Escaping backslashes is an issue with strings in programming in general. 173.245.54.46 17:12, 3 February 2016 (UTC)
+I suspect that Randall may have used the regexp in the title text to *find* malformed regular expressions in a file (out.txt) that he (or someone) had previously filled with output from some error message (or collection of error messages, or at least the output of something where a regular expression had been expected to work but had not worked as expected). 162.158.252.227 19:06, 3 February 2016 (UTC)
+You can use metacharacters in character classes, the only metacharacters in a character class that must be escaped are the closing square bracket (]), the backslash (\), the hyphen, and the carat and hyphen (^) if they are the first listed item in the set. The closing square bracket requires escaping because including it without would signal the end of the set otherwise, which then means the backslash must also be escaped. The hyphen must be escaped because, without it, it signals a range (unless it is listed first, then it is literal without escaping). Carat when listed first because otherwise it signals a negative set.
+Therefore, the end of the title text regex matches a backslash followed by either ] or ), which is then followed by any number (including none) of characters so long as they are not ] nor ) which means the whole regex can match "\[something\] more" or "\(something\)more" or "\[something\) more" as well as "\[something\]". — 162.158.255.117 01:16, 4 February 2016 (UTC)
+I'll add that I use an almost identical regex in my mail server for matching mailing-list subject lines which often have a format of "[Listname] normal subject line" which made it pretty recognizable to me. — 162.158.255.117 01:24, 4 February 2016 (UTC)
+Example of a match
+Note: The regex changed after initial publication. See Changed Regex below
+First, the shell will do some escaping substitution. So, in order to easily read it, let's see what grep really receives:
+$ echo "\\\[[(].*\\\[\])][^)\]]*$"
+\\[[(].*\\[\])][^)\]]*$
+Let's break it out:
+\\ matches a \
+[[(] matches either a [ or a (
+.* matches any series of characters until the next match
+\\ matches a \
+[\] matches a \
+)] matches )]
+[^)\] matches anything but ) or \
+]* matches any number of ] (including none)
+$ matches the end of the string
+So the string \[aaa\]\\)]a]]]]]] matches! 108.162.228.167 (talk) (please sign your comments with ~~~~)
+...Maybe it's meant to search for all Game Grumps transcripts which make mention of the "Grep" gag? 108.162.216.55 15:53, 3 February 2016 (UTC)
+...Wow, guys, and here I was thinking he wanted to put the cat out, when the cat didn't want to go out.... 108.162.249.158 04:03, 4 February 2016 (UTC)
+What I think is that Randall probably intended the regex to match "backslash, opening round or square bracket, anything, backslash, closing round or square bracket, anything that doesn't involve closing round or square brackets", since (unlike most other possibilities given) that actually looks like something one might want to search for. Whether it does, in fact, match that or something else (or indeed anything at all) is another question entirely. (For all we know, it didn't work, Randall figured out it didn't, and wrote the correct thing the next line over.)
+Unrelatedly: this comic (and the backslash proliferation in general) reminded me of the Telnet Song. --162.158.180.137 04:16, 4 February 2016 (UTC)
+That explanation is wrong: [\] does not match a literal backslash; it would still need to be escaped inside the brackets. That backslash escapes the next character, a ], so the group doesn't end there. The actual expression there is [\])], a character group containing an escaped ] and a ). Just like the first part. It is most likely intended to catch content surrounded by [ ] or ( ). 141.101.104.15 13:43, 4 February 2016 (UTC)
+To clarify: this makes the expression catch anything that starts with a block surrounded by escaped round or square brackets. So stuff like \(Hello world\)more text here but with either round or square brackets (or combinations, since there's nothing enforcing they have to match. I'd have made it an OR case with two groups with matching brackets, personally) -141.101.104.15 13:51, 4 February 2016 (UTC)
+You're making the same mistake Randall did: while many (most?) regex dialects use \ as escape inside a character class, this is not true for grep's default syntax. I've expanded that interpretation in my comment below, however the analysis by 108.162.228.167 is a correct explanation of how this expression is actually interpreted by grep. --141.101.75.185 15:42, 4 February 2016 (UTC)
+Your analysis is thorough and correct, however it is unlikely this is what the regex was intended to accomplish. (Note: The regex changed after initial publication. See Changed Regex below.) More likely, Randall is more accustomed to other regex dialects such as Perl(-compatible) regex where a backslash does work to escape special characters inside a character class. Under that assumption the regex (with some whitespace inserted for readability) would break up as:
+\\ [[(] an escaped opening bracket or paren
+.* anything
+\\ [\])] an escaped closing bracket or paren
+[^)\]]* $ no closing bracket or paren occurring on the remainder of the line
+Although the final condition is still a bit obscure, this still makes a lot more sense. Unfortunately it also crushes Randall's hope the regex worked as intended, since this simply isn't how the expression is parsed with grep's default syntax (which is why I always use grep -P). --141.101.75.185 15:34, 4 February 2016 (UTC)
+Did anyone notice the Useless Use of Cat? 141.101.106.101 19:36, 4 February 2016 (UTC)
+Yup - I hereby award Randall with the Useless Use of Cat Award of the day. Cherish it.
+Zedn00 (talk) 03:51, 5 February 2016 (UTC) Zedn00
+Changed Regex
+At some point before 2016-02-09 18:00 +0100, Randall has modified the bash command in the title text!
+Original command:
+cat out.txt | grep -o "\\\[[(].*\\\[\])][^)\]]*$"
+New command:
+cat out.txt | grep -o "[[(].*[])][^)]]*$"
+For the old command, 108.162.228.167's and 108.162.216.34's explanations above were correct.
+The new command matches:
+[[(]  either a '[' or a '('
+.*    an unbounded and possibly empty sequence of arbitrary characters
+[])]  either a ']' or a ')'
+[^)]  any character except for a ')'
+]*    an unbounded and possibly empty sequence of ']'
+$     anchored at end of line
+It now e.g. matches 123[abc.<>)x]]]]]:
+$ echo "123[abc.<>)x]]]]]" | tee /dev/stderr | grep -o "[[(].*[])][^)]]*$"
+This makes hardly more sense than the original command. --Markus (talk) 17:38, 9 February 2016 (UTC)
+Randal may have been sincere about finding it in his history and wondering if it worked. I think he probably meant
+cat out.txt | grep -o "[[(].*[])][^])]*$"
+which breaks down as:
+[[(]  either a '[' or a '('
+.*    an unbounded and possibly empty sequence of arbitrary characters
+[])]  either a ']' or a ')'
+[^])]*  any number of any characters except for a ')' or ']'
+$     anchored at end of line
+This matches any line that has a '[' or '(' followed by a ')' or ']', matching from the first '[' or '(' to the end of the line. The final part of the regex, '[^])]*$', is not really necessary here, but it is a common pattern to follow a character pattern with an opposite character pattern to be sure the first character pattern matches the last instance of a repeating character, so he might have added it out of habit, which would explain also why he got it wrong (since he just followed '[blah]' with '[^blah]' which in this special case doesn't work because 'blah' has a special character in it: ']').
+Concerned Netizen (talk) 02:23, 25 April 2017 (UTC)
+Funny enough, I'm literally looking at some other dev's code right now that actually implements an eight backslash regex sequence, with just the comment "backslash". I'm still scratching my head over what they were trying to accomplish or even communicate with this. Domino (talk) 21:45, 16 August 2016 (UTC)domino
+I believe the regex is a reference to xkcd 1313 (Regex Golf) 108.162.221.90 16:08, 26 August 2016 (UTC)
+I had to use a backslash that escaped the screen today. I have a Discord bot written with Node.js, and my "friends" demanded I add a shruggie output [despite Discord having that already]. So, I now have a string that looks like '¯\\\\\\_(ツ)\_/¯'. -- Papayaman1000 (talk) (please sign your comments with ~~~~)
+Regarding the change to the title text (with all backslashes being removed) it appears that this may not be a deliberate edit, as other comics (e.g. 1277) have also had all backslashes disappear from the title text. It appears that one of the tools Randall is using may be 'solving' accidentally escaped characters by doing a sed 's/\\//g' Sqek (talk) 13:18, 14 December 2017 (UTC)
+Categories: All comicsComics from 2016Comics from FebruaryWednesday comicsPages using the "citation needed" templateRegexProgramming

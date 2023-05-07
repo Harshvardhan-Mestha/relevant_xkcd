@@ -1,0 +1,95 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1923: Felsius
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1923)
+|<< PrevComic #1923 (December 1, 2017)Next >>|
+Felsius
+
+Title text: The symbol for degrees Felsius is an average of the Euro symbol (€) and the Greek lunate epsilon (ϵ).
+Explanation[edit]
+Just like in 1292: Pi vs. Tau, Randall tries to unify two measurement systems by averaging both values, with little success (however this is a matter of opinion).
+There are several temperature scales actively used in different parts of the world of for different purposes, including Celsius and Fahrenheit, but e.g. also Kelvin and Rankine.
+The debate on whether to use Fahrenheit or Celsius is, just like the one between United States customary units (which uses Fahrenheit), imperial units (outdated system that used Fahrenheit), and metric units (which use Celsius or Kelvin), one that is mostly restricted to the US. While Fahrenheit is a widely used temperature scale in the US, most other countries have already switched from Fahrenheit to Celsius or have always used Celsius. In scientific circles, even in the US, only Celsius (and Kelvin) are used.
+The conversion factors between Celsius and Fahrenheit are:
+°C = (°F − 32) × 5 / 9
+°F = °C × 9 / 5 + 32
+which makes the average (mean) value of °C and °F: °⋲ = °C × 7 / 5 + 16. The step-by-step derivation of this is:
+°⋲ = (°C + °F) / 2
+= (°C + (°C × 9 / 5 + 32)) / 2
+= (°C + °C × 9 / 5 + 32) / 2
+= (°C × 5 / 5 + °C × 9 / 5 + 32) / 2
+= (°C × (5+9) / 5 + 32) / 2
+= (°C × 14 / 5 + 32) / 2
+= °C × 7 / 5 + 16
+Randall chose to name his new unit of temperature Felsius (a portmanteau of Fahrenheit and Celsius).
+Comically enough, the Felsius scale discards the main advantages of either temperature scale. The Celsius scale is based around 0 °C as the melting point of water and 100 °C as the boiling point, which is an advantage Felsius does not preserve. Fahrenheit is often argued to be a convenient temperature measure for human comfort, as 0 °F is very cold and 100 °F is very hot. Many places on earth which humans inhabit fall reasonably well within these extremes the majority of the time, but Felsius does not preserve this advantage of the Fahrenheit scale either.
+The title text states that the symbol he chose to represent this unit also is the average of two other symbols. Visually, it is assumed to be a combination of Celsius and Fahrenheit (a C with a crossbar), but it is actually the unrelated symbols for the euro (€) and the Greek lunate epsilon (ϵ). Randall's symbol has a single crossbar, like the Greek lunate epsilon, but the crossbar continues to the left, like the Euro symbol. (In this explanation and the transcript, we have used the mathematical symbol U+22F2, which may appear too large or too small depending on the font.)
+Symbol Number of crossbars Length of crossbar(s)
+Euro 2 Long
+Epsilon 1 Short
+Felsius 1 Long
+[not used] 2 Short
+In doing all this, Randall has fallen into the trap of creating a new temperature scale/standard: see 927: Standards.
+Randall has also compared Celsius and Fahrenheit scales earlier in 1643: Degrees and in 526: Converting to Metric he tries to give users of the Fahrenheit scale an idea about what a given Celsius temperature would feel like.
+This is an example of Argument to Moderation, also known as the false middle point fallacy. A famous use of this fallacy is in the Bible, the Judgment of Solomon. The true mother of a disputed baby is discovered[1] by proposing the "compromise" of cutting the baby in half. Perhaps Randall has a similar strategy in proposing Felsius, an absurd compromise, in order to somehow discover the "true" temperature scale.
+Note that this is not the first time Randall has proposed a controversial third way.
+Table of Given Conversions & Additional[edit]
+°C °⋲ °F Note
+100.0 156.0 212.0 Water boils at sea level (1 atmosphere)
+54.0 91.6 129.2 World heat record (per Wikipedia)
+37.0 67.8 98.6 Body temperature (accepted average)
+22.0 46.8 71.6 Room temperature (maximum per American Heritage Dictionary)
+0.0 16.0 32.0 Pure water freezes at sea level (1 atm); 0°C reference
+−11.4 0.0 11.4 0°⋲ reference
+−17.8 −8.9 0.0 0°F reference
+−21.1 −13.5 −6.0 Saturated salt water freezes at sea level (1 atm)[1]
+−40.0 −40.0 −40.0 Equivalence point (exactly −40°)
+−273.2 −366.4 −459.7 Absolute zero (exactly −273.15°C or −459.67°F)
+↑ 1 Kings 3:27 "...she is the mother thereof."
+Transcript[edit]
+[A thermometer is shown where the temperature is indicated, with a red column of liquid, to be just above room temperature. This can be seen from the five labels belonging to five lines pointing at the scale. None of these coincide with the 14 ticks on the actual scale for the thermometer. Below the last label is the formula for calculating the temperature on this scale.]
+92°⋲ world heat record
+68°⋲ body temperature
+47°⋲ room temperature
+16°⋲ water freezes
+–9°⋲ 0°F
+°⋲=7×°C/5+16=(7×°F–80)/9
+[Caption below the panel:]
+Since the Celsius vs Fahrenheit debate has proven surprisingly hard to resolve, as a compromise I've started using Felsius (°⋲), the average of the two.
+
+Implementations[edit]
+An implementation of Felsius is available at Weather In Felsius, using a location based on user's IP address and accepting US ZIP codes (permanent dead link).
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Thanks who, at the same time as I, wrote the better explanation with formulae; you're welcome for the table (which, for my first attempt at a MediaWiki table, and in a big hurry to be first*, I think came out all right). ((*Go ahead and edit at will!)) --BigMal // 108.162.216.184 16:44, 1 December 2017 (UTC)
+Seems like this is awfully relevant: https://xkcd.com/927/ -- Derek Antrican 108.162.246.23 16:54, 1 December 2017 (UTC)
+You can't write formulas like that! °C is degree(s) Celsius, not the value of some temperature as measured in degrees Celsius. You should write something like [°C] or °C-1 instead (if we treat °C as an affine function mapping dimensionless values to temperatures). Or you can be explicit and say something like "x°F = ((x − 32) * 5 / 9)°C". --172.68.54.22 19:59, 1 December 2017 (UTC)
+Fahrenheit contribution to the name is disproportionately small for an average of two scales. It should have been at least Falsius, with added punniness, or Fahlsius, to be more unique. -- Average Alex
+It should be ‘Fahlsius’, or even ‘Fählsius’, but notice that the pronunciation will still be more or less like ‘Felsius’ and not like ‘Fall-sius’ (for the same reason that ‘Fahrenheit’ or ‘Fährenheit’ is pronounced more or less like ‘Fair-enheit’ and not like ‘Far-enheit’. —TobyBartels (talk) 04:58, 3 December 2017 (UTC)
+It should be Centiheit141.101.104.239 09:32, 4 December 2017 (UTC)
+No, it should be Celsiheit. Either case, the name would also fit the sign better than Felsius162.158.92.28 11:52, 4 December 2017 (UTC)
+There's obviously only one way to resolve this. It should be called Eemsinl5:. Hppavilion1 (talk) 03:58, 7 May 2018 (UTC)
+I'm obliged to share https://www.youtube.com/watch?v=227Hdz8VFKo. As a pedant, I have to point out that water's melting and boiling point aren't quite at 0 °C and 100 °C (and that Celsius originally had it backwards). And I *do* like "Falsius". Fluppeteer (talk) 21:19, 1 December 2017 (UTC)
+Watch out for Felsius/Celsius or Felsius/Fahrenheit hybrids: https://xkcd.com/419/ WhiteDragon (talk) 22:20, 1 December 2017 (UTC)
+What is an "epislon"? 162.158.88.170 23:02, 1 December 2017 (UTC)
+A Greek letter; follow the link where the word first appears in the explanation. —TobyBartels (talk) 04:58, 3 December 2017 (UTC)
+I'm pretty sure there's no Greek letter epislon. Which is presumably why it got corrected.141.101.104.239 09:40, 4 December 2017 (UTC)
+I think the Ukranian Ye (Є) would be closer, visually speaking.162.158.186.42 23:40, 1 December 2017 (UTC)
+Or the mathematical symbol ⋲ (ELEMENT OF WITH LONG HORIZONTAL STROKE) or C̶ (LATIN CAPITAL LETTER C + COMBINING LONG STROKE OVERLAY)? Or ℃̶ (DEGREE CELSIUS + COMBINING LONG STROKE OVERLAY)? Sabik (talk) 11:36, 2 December 2017 (UTC)
+Yes, ELEMENT OF WITH LONG HORIZONTAL STROKE seems exactly right (not only by look, but also since ELEMENT OF is basically a lunate Epsilon already and changing the HORIZONTAL STROKE so that it is LONG is precisely the modification WITH which it needs to be equipped), and I think that we should switch to this immediately! —TobyBartels (talk) 04:58, 3 December 2017 (UTC)
+Done. Sabik (talk) 06:42, 3 December 2017 (UTC)
+Apparantly someone needs to be taught about the Rømer scale that is the ancestor of both Celcius and Fahrenhet. It has fixed constants for all three of water boiling, freezing and the temperature of brine.162.158.202.226 23:06, 2 December 2017 (UTC)
+I remove the reference to ammonium chloride from the temperature table because, while it is cool (both figuratively and literally), it's also obsolete: in the modern Fahrenheit scale, this happens at 4°F, not at 0°F. (See the table at Frigorific mixture.) —TobyBartels (talk) 04:58, 3 December 2017 (UTC)
+If the creator of the website that was inspired by the comic created one that was based on SE Asian countries, I would like to know the felsius of that. I am curious as heck.Boeing-787lover 06:33, 3 December 2017 (UTC)
+Note that as visible on the Kelvin page, the temperatures actually used to define the scales are absolute zero and the triple point of water, as other points, including the boiling temperature of water, body temperature, room temperature, pure water freeze and saturated salt water freeze one, are hard to measure reliably (due to pressure requirements). -- Hkmaly (talk) 02:59, 4 December 2017 (UTC)
+Do you think Randall made up a new symbol for Felsius with the intention of making the job difficult for explain xkcd (or at least knowing that it would complicate matters)? Sensorfire (talk) 03:15, 4 December 2017 (UTC)
+assumably? really? i suppose you use supposably, too, just to annoy. tsk. --162.158.89.133 13:55, 4 December 2017 (UTC)
+Reminds me of the time I created a standard that blended the two together in such a way that 0 degrees was the water freezing point (because that does make sense) and 100 degrees was equal to 100 degrees in fahrenheit (because really hot = larger number than celsius.) lol, that was years ago, I don't remember the formula. 173.245.50.186 14:42, 8 December 2017 (UTC) Sam
+The Andronov Scale is based around this idea (though it was later revised to move 100° Andronov to 44°C). Arcorann (talk) 13:16, 13 March 2018 (UTC)
+The room temperature and body temperature provided in the table above display false precision. The link provided gives room temperature as the range from 68°F-72°F, so if you wanted to say 70°F +/- 2°F, that would be correct, but there is literally nobody on the planet who would tell you that normal room temperature is 71.6°F. As to body temperature, there is likewise considerable variation which is considered normal. According to WebMD, "For a typical adult, body temperature can be anywhere from 97°F to 99°F." 98.6°F may be a commonly-quoted figure, but it is nevertheless a product of false precision introduced when converting from the round number in Celsius. 162.158.78.202 18:12, 13 December 2017 (UTC) Joshua
+Title text error??[edit]
+So I looked at this comic today and when i went to view the title text it had changed slightly. Where it should have said "Euro symbol (€) and the Greek lunate epsilon (ϵ)" it said "Euro symbol (â,﹁) and the Greek lunate epsilon (Ï,μ)
+It it just my device? (I'm on mobile) Or has the comic changed? 172.68.70.70 03:45, 15 September 2019 (UTC)
+Categories: All comicsComics from 2017Comics from DecemberFriday comicsComics with colorPortmanteauMathPhysicsCompromise

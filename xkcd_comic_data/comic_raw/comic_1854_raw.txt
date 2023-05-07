@@ -1,0 +1,106 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1854: Refresh Types
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1854)
+|<< PrevComic #1854 (June 23, 2017)Next >>|
+Refresh Types
+
+Title text: The hardest refresh requires both a Mac keyboard and a Windows keyboard as a security measure, like how missile launch systems require two keys to be turned at once.
+Explanation[edit]
+In this comic Randall presents five different levels of refresh operations for web applications. The first three (soft refresh, normal refresh, and hard refresh) are common operations to keep the content in the browser retrieved from the server up to date. The other two (harder refresh and hardest refresh) are fictional operations to perform refresh operations on remote resources. The terms are probably adopted from soft and hard reset operations used to restart broken computers or e.g. smartphones.
+Soft refresh[edit]
+Soft refresh refers to an operation in a web page, commonly known as Ajax, that requests new information without reloading the entire page. The given example, Gmail, includes a feature that allows users to poll new emails and show it in the inbox interface. It is a command using JavaScript to load new contents from the server in the background and only update necessary components of the page. Modern web applications do this automatically in short time intervals such that these buttons are mostly unnecessary - for example, in Gmail, a user will see a new message instantly.
+Normal refresh[edit]
+The normal refresh is a browser operation that reloads the complete web page, text and other content that has changed since the original load will be updated. The operation can be triggered by refresh buttons in browsers, though it also can be requested using the common keyboard commands as listed by Randall. Many pages -- like the main page at xkcd.com -- don't have a refresh button. If the page has been opened before a new comic release, pressing F5 afterwards causes reload and the new comic is shown.
+Hard refresh[edit]
+What Randall calls hard refresh is a less common browser operation forcing the browser to re-download every part of the web page, ignoring any cached content. Caching is a common way of decreasing web page load times. Browsers save resources such as images or CSS stylesheets on the first visit on a web page and use the local copy on subsequent visits. It allows them to decrease amount of transfer needed to show the web page, but can prevent showing changes made to the resources (for example a web developer changing the stylesheet). In those cases the hard refresh ensures that each part of the website is downloaded in its newest form.
+If there is a proxy or a cache (like used for this wiki) in between the browser and the server this type of refreshing may not work. In this case, unless a purge link is available, the user has to wait until the cache entry is expired and a new request to the web server is done. Some browsers may try to avoid this behavior by including special headers in the HTTP request to control caching, but not all proxies or clouds follow these instructions.
+Harder refresh[edit]
+Harder refresh is a joke that extends the existing naming scheme. The joke is that if a hard refresh resets the browser display and cache, a harder refresh should reset the source of the data by cycling power in the data center. Assuming no damage was done, this would reset the memory on the server, erasing any information that had not been written to disk, and setting the server to the state it was in at launch. This would cause considerable downtime, and would be unlikely to help the user at all.
+In orchestrated environment it may indirectly cause some virtual machines in the cloud to be rebooted and assigned to another web server needing more workload. But a growing workload is caused by hundreds or thousands additional requests and not just a single key combination from one browser. While there are administrative web tools allowing to perform a reboot (physical or virtual server) just by clicking a single button, this is not what is being referred to in the comic. A standard (non-administrative) user rebooting an actual physical server using a common web page is not possible, unless there is a software or operating system bug that will cause exactly this. This would be considered an extremely critical problem and its resolution would be given an extremely high priority by the server owners.
+The harder refresh uses six keys, including the non-standard 'HYPER' key, a feature of the Space cadet keyboard. Hyper could also refer to the Linux modifier key Hyper, similar to Control, Alt, and Super.
+Hardest refresh[edit]
+The fifth option, hardest refresh, moves beyond resetting the source of the data and resets the entire internet back to ARPANET, an early military network which was a forerunner to the modern internet. The implications of this are not made clear, but it should be noted that it wouldn't help to immediately fix any problems a user is experiencing in-browser, as HTTP, the protocol by which web pages are sent, was not developed until late 1990, the year ARPANET was decommissioned.
+The hardest refresh shortcut uses fifteen keys, including non-standard ones such as Ø and ⏏. (The former is a key found on Danish and Norwegian keyboards, the latter is the "eject" key found on Mac keyboards and some laptops.) The shortcut makes amusing comparisons about a shortcut that includes not only the F5 function key, but also the keys for the letter "F" and the digit "5", as well as the similarity in appearance between O, 0, and Ø.
+The title text suggests that the inclusion of both the Windows key and Command key in the hardest refresh shortcut is a security measure akin to the Two-man rule, as it would require two keyboards to enter. Normally this would not work in practice as the modifier keys are handled per keyboard and not combined across keyboards for most operating systems allowing more than one keyboard.
+Transcript[edit]
+[A table with three columns is shown. The header is:]
+Refresh Type; Example Shortcuts; Effect
+[First row:]
+Soft Refresh
+[The word refresh has a border to mimic a button:]
+Gmail REFRESH Button
+Requests update within JavaScript
+[Second row:]
+Normal Refresh
+[Two PC shortcuts and the Apple command key followed by an R:]
+F5, CTRL-R, ⌘R
+Refreshes page
+[Third row:]
+Hard Refresh
+[One PC shortcut, the combination Control plus Shift, and the Apple command key followed by Shift and R:]
+CTRL-F5, CTRL-⇧, ⌘⇧R
+Refreshes page including cached files
+[Fourth row:]
+Harder Refresh
+[One single combination using Control plus Shift plus Hyper plus Escape plus R plus F5:]
+CTRL-⇧-HYPER-ESC-R-F5
+Remotely cycles power to datacenter
+[Fifth row:]
+Hardest Refresh
+[One single combination using Control plus the Apple command key plus the Windows key plus Shift plus the hash key plus R plus F5 plus F plus 5 plus Escape plus the letter O plus a slashed zero plus a slashed letter O plus an eject sign plus Scroll Lock:]
+CTRL-⌘⊞⇧#-R-F5-F-5-ESC-O-0-Ø-⏏-SCROLL LOCK
+Internet starts over from ARPANET
+Trivia[edit]
+One of the shortcuts listed for Hard Refresh, “CTRL-⇧”, is incorrect – it should be “CTRL-⇧-R”.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I tried the last one (omitting the keys that don't exist on my keyboard), and it runs Firefox as an administrator. 162.158.134.40 09:54, 5 June 2021 (UTC)
+Similar to this comic. 108.162.212.83 14:55, 23 June 2017 (UTC)
+Aren't you supposed to use Shift-F5 (at least in chrome) for a hard refresh - not Ctrl - F5. https://support.google.com/chrome/answer/157179?visit_id=1-636338263045956762-2405452703&hl=en&rd=2 108.162.219.136 (talk) (please sign your comments with ~~~~)
+I believe that's correct. It is likely browser dependent. --Arccos (talk) 15:27, 23 June 2017 (UTC)
+Erratum: The middle hard-refresh option is missing something - it lists only modifier keys. 172.68.142.185 15:32, 23 June 2017 (UTC)
+It appears that the "hard refresh" option is a real option, but that the keyboard shortcuts in the comic may not be correct. The above user's linked material suggests that the keyboard shortcut for a hard refresh, labeled "Reload the current page, ignoring cached content", is, in Chrome, SHIFT-F5 or CTRL-Shift-R on Windows and APPLE-Shift-R on a keyboard for MacOS. This is in contrast to the comic, which currently lists CTRL-F5, CTRL-Up, and APPLE-UP-R as the shortcuts. 162.158.74.105 15:33, 23 June 2017 (UTC)
+That's not an "UP," the symbol ⇧ represents the SHIFT key. Indeed it appears Randall omitted the 'R' inadvertently. JohnHawkinson (talk) 15:46, 23 June 2017 (UTC)
+Randall says the keys are examples, meaning some may missing. But for me it looks like the most common shortcuts. Except the hard refresh by pressing CTRL+SHIFT, that's nonsense because a F5 or R should follow. I'm sure we will see a picture update soon. Stay tuned...--Dgbrt (talk) 15:44, 23 June 2017 (UTC)
+Ctrl-F5 works across every browser. It does appear that Shift-F5 also works in Chrome. Trlkly (talk) 23:35, 23 June 2017 (UTC)
+The missile launch keys can be totally identical for the two-man rule to work; the thing is not that they are interchangeable, but that the locks are too far apart for one person to operate both. Chrullrich (talk) 18:49, 23 June 2017 (UTC)
+Big Bang refresh - restarts universe just to be sure there's nothing stuck in cache. (Of course in EMACS, that's just good old: C-x M-c M-bigbang).  :-) 162.158.69.39 20:41, 23 June 2017 (UTC)
+
+It looks like the "harder refresh" shortcut also requires two keyboards to work, since the "hyper" key seems to only exist on the space-cadet keyboard, which does not have an F5 key. 162.158.74.105 19:12, 23 June 2017 (UTC)
+What do we use when Skynet takes over? OldCorps (talk) 19:33, 23 June 2017 (UTC)
+Gmail does not update instantaneously at all. I don't know how many times I've gotten a notification from my RSS feed, and then have to go to Gmail and press refresh. And that's not even counting external email. I frequently use the Gmail refresh button. Trlkly (talk) 23:30, 23 June 2017 (UTC)
+That's weird, it definitely does for me. Sometimes it'll even update with the new unread emails before I get a notification that I got a new email. It updates faster than my work email. OldCorps (talk) 10:35, 24 June 2017 (UTC)
+I also find it funny that this page uses an additional type of refresh: the "purge server cache" kind. Trlkly (talk) 23:30, 23 June 2017 (UTC)
+Powercycling datacenter can't be that long downtime unless the servers starts checking discs. And sometimes remotely triggering soft reset of server would really help user of incorrectly written application - servers are generally configured in way which allows them to start all needed services automatically. -- Hkmaly (talk) 23:47, 23 June 2017 (UTC)
+Dear Dgbrt, before deleting things and writing on topic you don't know about, please at least read this, this and this. 162.158.90.12 (talk) (please sign your comments with ~~~~)
+Hi IP, please sign your posts with ~~~~.
+I have mentioned RFC 7234 meta-tags for suppressing caching.
+"Difference between Ctrl+Refresh and Ctrl+Shift+Refresh". This an old QA from 2009 and still browser dependent. The HTTP-Response "304 Not Modified" isn't always reliable as I also have mentioned.
+Your reboot statement doesn't belong to any cache issues. I will move it to the harder refresh section.
+Please stop the edit war by just undoing content. I have rewritten something by using many existing phrases. Please read my edits first before becoming upset. And please follow a unique style according to the rest of the page.--Dgbrt (talk) 10:44, 24 June 2017 (UTC)
+No war. I am clearly bad at explaining, so I'll not touch this explanation any more; you are free to fix it the way you want. But at least investigate the issue first, since your proposed sentence showed that you are not familiar with the issue. 162.158.90.12 (talk) (please sign your comments with ~~~~)
+Hi IP, PLEASE sign your posts with ~~~~.
+I'm a web developer for more than 20 years including mobile devices as clients at a time the word smartphone wasn't invented. My 2ct.--Dgbrt (talk) 11:28, 25 June 2017 (UTC)
+Status - currently eating popcorn waiting for the response to the haymaker Dgbrt just delivered. OldCorps (talk) 12:06, 25 June 2017 (UTC)
+Off-topic transcript discussion
+I want to say that ELinks (the text-based web browser that I, for some reason, have on my Ubuntu) displays this for the talk section. Isn't the transcript for text-based web browsers on comics where the official transcript fails? Also, I can't figure out how to put headers in. JacobDS65536 (talk) 01:33, 24 June 2017 (UTC)
+I don't understand your problem. Are you talking about the talk section or the transcript? And what's wrong except the inverse text?--Dgbrt (talk) 10:44, 24 June 2017 (UTC)
+The discussion area is enclosed in a div tag with some sort of background and text color settings. Your copy of ELinks is probably trying to emulate the background for you. --162.158.62.9 02:25, 25 June 2017 (UTC)
+Seems like Randall keeps returning to missile launch topics after Trump... There have been quite a few since then. --Kynde (talk) 13:57, 24 June 2017 (UTC)
+He mentioned the nuclear briefcase back during the Obama administration. 108.162.212.83 16:09, 24 June 2017 (UTC)
+It would be nice if the transcript section here would use words to describe what the symbols are. Or possibly a separate table in the explanation section. Thanks 108.162.219.112 23:49, 24 June 2017 (UTC)
+That's the reason why it's still incomplete. A real transcript doesn't need a table but a description what's in the image. This includes the full text but also a description of the content like pictures or symbols.--Dgbrt (talk) 11:28, 25 June 2017 (UTC)
+Looks like Randall missed out a couple of intermediate refreshes:
+Service refresh: restarts the HTTPD service on the web server, clearing out the services's cache
+Warm server reboot: restarts the OS on the web server, clearing out the OS's cache
+The cold server reboot usually clears out hardware caches, but the cache of battery-backed RAID controllers will survive a cold reboot. --162.158.154.97 10:34, 25 June 2017 (UTC)
+Hey, you are on the server side. ;) --Dgbrt (talk) 11:28, 25 June 2017 (UTC)
+So, what type of refresh are you all using today to make the next comic appear on xkcd? :-) 141.101.99.161 11:29, 26 June 2017 (UTC)
+I think part of the joke is also that harder/hardest refers to the difficulty of using those shortcuts, instead of just the implications of the refresh command. --162.158.222.100 14:22, 26 June 2017 (UTC)
+"And rebooting an actual physical server upon a web page request is not possible, unless there is a software or operating system bug that will cause exactly this." This is not exactly correct. It would be very possible to write functionality into a webpage (deliberately; not a bug) to reboot the server that it is running on or another server. This functionality would need server credentials to do so, provided by either the web coder or the user. This would be useful in e.g. a cloud infrastructure management dashboard. It would be a very bad idea to a public facing webpage without credentials required to prove that the user is authorized to perform reboots of the given servers. 108.162.216.190 (talk) (please sign your comments with ~~~~)
+Maybe it should read "common web pages" or something similar, because you're right. There are administrative web pages like Webmin capable of doing exactly this.--Dgbrt (talk) 17:02, 26 June 2017 (UTC)
+Somehow, somewhere, I was expecting a reference to the Konami code for the Hardest Refresh. :) (i.e. either by Randall or somewhere here) NiceGuy1 (talk) 04:52, 27 June 2017 (UTC)
+Categories: All comicsComics from 2017Comics from JuneFriday comicsComputersInternet

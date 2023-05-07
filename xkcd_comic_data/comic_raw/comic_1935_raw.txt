@@ -1,0 +1,82 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1935: 2018
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1935)
+This page refers to the comic named "2018". For comic #2018, see 2018: Wall Art.
+|<< PrevComic #1935 (December 29, 2017)Next >>|
+2018
+
+Title text: We should really start calculating it earlier, but until the end of December we're always too busy trying to figure out which day Christmas will fall on.
+Explanation[edit]
+In this, the first of two New Year comics in a row, Megan wonders whether 2018 will be a leap year. Cueball thinks 2018 will not be a leap year, and Megan responds that she "doubts anyone knows at this point." This appears to be a jab at people who suggest that anything they don't know is generally unknown. As Cueball says, leap years occur every four years (though there are a few exceptions - a year divisible by 100 is not a leap year, unless it is also divisible by 400), adding an extra day to account for the fact that Earth takes a bit longer than 365 days to orbit the Sun. Therefore, most years that are a multiple of four are leap years. As Megan says, this is easy for odd-numbered years, since no odd numbers are divisible by four. However, for even-numbered years, it isn't quite as simple. (Though, since the number 2,000 is evenly divisible by 4, the problem can be reduced to the much simpler question of whether the number 18 is divisible by 4.)
+The last panel expresses a misunderstanding of modern public-key cryptography, which relies on the fact that it is difficult to factorize large numbers. Megan is applying this concept to the year, claiming that it is hard to determine whether or not 2,018 is a multiple of four and hence is a leap year. In reality, factorization is not needed here, since we already know the factor in question, which is four. Megan states that, if it were possible to factor large numbers with a calculator, modern cryptography would collapse. While true, it is true only for truly large numbers (hundreds of digits), and no factorization is needed in this case.
+At the end of the strip, Megan hopes the answer can be brute-forced by February. Brute force is a method of breaking cryptography by trying every possible option until one works. This is misdirection upon misdirection, in that, even if we needed to factorize 2,018 (which we don't), the simplest brute-forcing algorithm would need to try only 14 numbers -- each prime from 2 to 43 (the square root of 2,018 is closest to 44). In cryptography, the algorithms use numbers much, much bigger than 2,018 -- on the order of hundreds or even thousands of digits.
+The title text refers to calculating which day Christmas will fall on. As Christmas always lands on December 25 by definition, the day of the week varies from year to year, though it's always the 359th or, in leap years, the 360th day of the year. Still, determining which day of the week December 25 lands on is not a difficult problem to solve, requiring only a few mathematical operations to compute. Alternatively, this might be an oblique reference to Easter, the date of which jumps from year to year according to a multi-layered algorithm that most people don't know. The changing date of Easter was recently included in 1930: Calendar Facts. Additionally, uncertainty with the regard to the date of Christmas has also been referenced in 679: Christmas Plans.
+A handy coincidence to help with this problem for those living in America or following American politics is that leap years fall on presidential election years.
+Transcript[edit]
+[Megan is walking.]
+Megan: I wonder if 2018 will be a leap year.
+[Now it turns out that Cueball walks behind Megan.]
+Cueball: ...it won't be, right?
+Megan: I doubt anyone knows at this point.
+[Same scene in a frame-less panel.]
+Cueball: No, it's definitely not. Leap years are divisible by 4.
+Megan: Right, and for odd numbers, that's easy.
+Megan: But 2018 is even.
+Megan: 50/50 chance.
+[Zoomed-out view with both walking in silhouette on a dark slightly curved ground.]
+Cueball: I can settle this with a calculator.
+Megan: No way. If it were easy to factor large numbers like that, modern cryptography would collapse.
+Cueball: I see.
+Megan: I just hope we manage to brute-force it by February.
+Trivia[edit]
+Released on Friday, December 29, this was the last comic of 2017. The next comic, 1936: Desert Golfing, was released soon after midnight (in Randall's time zone) on New Year's Day 2018.
+Every year that is exactly divisible by four is a leap year, except for years that are exactly divisible by 100, but these centurial years are leap years if they are exactly divisible by 400. For example, the years 1700, 1800, and 1900 were not leap years, but the years 1600 and 2000 were.
+Since 100 is divisible by 4, only the last two digits of a number are needed to determine if that number is divisible by 4. So to determine if 2018 is divisible by 4, we only need to check whether 18 is divisible by 4, which is easy.
+2018 is not divisible by 4, so the year was not a leap year. 2016 and 2020 are leap years. This is true for both the Gregorian and the Julian calendar. A year is roughly 365.2422 days long.
+Eastern Christian Churches celebrate Christmas also on December 25 but on the older Julian calendar, which currently corresponds to January 7 on the Gregorian calendar.
+This is the third year in a row with New Year's comics with only the year used as the title; before that there were two more comics with such titles, but those two (and thus the first three) were only released in the even years: 998: 2012 in 2012, 1311: 2014 in 2014, 1624: 2016 in 2016 and 1779: 2017 in 2017.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This is easy! Don't factor it - just multiply by 25 and if that ends in two zeros, but not four zeros then it's a leap year, at least most of the time.....17:25, 29 December 2017 (UTC) 162.158.126.112 (talk) (please sign your comments with ~~~~)
+This is easy! Don’t factor it - just convert it into a binary and look at the 2 least significant bits. If they are 00 the number is multiple of four. —172.69.33.35 17:37, 29 December 2017 (UTC)
+This is easy! Don't factor it - just subtract 4 repeatedly. If you end up at 0, it's divisible. If you end up at 1, 2, or 3, it's not. -- 17:55, 29 December 2017 (UTC) 172.68.58.167 (talk) (please sign your comments with ~~~~)
+This is easy! Sums of numbers that have 4 as a factor are all divisible by four. (I'll leave the proof of that as an exercise for the reader, but it's really trivial, though possibly non-intuitive.) This means that one can take a number apart and check the individual pieces. Now, any number that's a multiple of 100 is divisible by four (10 * 10 = 5² * 2²,) so one can essentially cut away the higher digits of a number, as they do not influence its divisibility with regard to 4. Now look at the first of the remaining digits. If that's odd, add 2 to the last digit. If the last digit is now divisible by four, the original number is divisble by four. Tibfulv (talk) 00:38, 30 December 2017 (UTC)
+This really, absolutely, truly, is 100% easy! To tell if a number is divisible by four, look at the last two digits. If the last one is divisible by four, the penultimate one is even. If it isn't divisible by four, the penultimate digit should be odd. Waterlubber (talk) 03:01, 3 January 2018 (UTC)
+Checking these are a whole multiple of 4 has always worked for me. Elvenivle (talk) 00:36, 13 June 2019 (UTC)
+This is extremely easy - look at the calendar for the year and see if it has a 29th Feb.141.101.76.16 10:40, 3 January 2018 (UTC)
+The calculation of Christmas is trivial[citation needed] it's December 25th. Where as the calculation of Easter is complex ([1]). 172.68.133.18 18:03, 29 December 2017 (UTC)
+Calculating the date of Christmas is actually non-trivial. It depends on your location. For example if you are in the US it's in December. If you are in Russia it's in January. If you are in Ukraine it's sortof both but not really. And if you are in Crimea, well, see one of the 2 previous sentences. --172.68.238.172 15:22, 30 December 2017 (UTC)
+Actually, it's December 25 on the old Julian calendar in Russia. It's just that Russia uses the Julian calendar for liturgical purposes and the Gregorian calendar for secular purposes. It's a bit schizophrenic. Billjefferys (talk) 19:40, 30 December 2017 (UTC)
+I've moved some content to the trivia section and added this Julian calendar issue for the Eastern church.--Dgbrt (talk) 19:42, 30 December 2017 (UTC)
+FYI, Christmas in 2018 falls on a Tuesday. I just did a quick research on my laptop's calendar, it is an answer to the title text.Boeing-787lover 19:10, 31 December 2017 (UTC) -- Xkcdreader52 (talk) (please sign your comments with ~~~~)
+Title text explanation mis-read
+Explanation of title text is incorrect: "The title text refers to calculating the date of Christmas; again, this is a trivial exercise, because Christmas is always December 25." Title text states 'day of Christmas', not 'date...'. The day changes each year and so does require calculation. 162.158.111.73 (talk) (please sign your comments with ~~~~)
+Oops, my bad. Fixed. FlyingPiMonster (talk) 18:08, 29 December 2017 (UTC)
+I think you have it backwards. The title text is a reference to calculating the day (as in "date", not "day of week") of Easter. This is a non-trivial calculation (though one that modern computers can perform easily). On the other hand, the Christmas day is fixed. (There's no reason to believe that the joke was anything else.) - Mike Rosoft (talk) 19:13, 29 December 2017 (UTC)
+
+I don't know who wrote the explanation, but... Are they having a bad day? 162.158.111.205 18:44, 29 December 2017 (UTC)
+That was vandalism. I did a revert. --Dgbrt (talk) 19:06, 29 December 2017 (UTC)
+Ah, no, I was asking because the explanation sounds so angry. 141.101.104.17 22:48, 29 December 2017 (UTC)
+Also, Megan understands that checking if a number divisible by 2 is easy 141.101.77.50 19:32, 29 December 2017 (UTC)
+Theory for possible explanation
+Didn't want to edit this in because I'm not sure- but the motivation for this uncharacteristic lack of mathematical rigor could have to do with the current trend of people being dismissive of science being able to predict things. Something that seems pretty obvious is made to look like a chance event that nobody can really predict ahead of time. -- Sirpent (talk) (please sign your comments with ~~~~)
+This is easy! Don't factor it - just subtract 2000. Is 18 divisible by 4? If so, you're an idiot. 172.68.143.156 (talk) (please sign your comments with ~~~~)
+The nonsense does look to me like a political discussion where one person uses "alternative facts". But in real life people get leap years "amusingly" wrong. Computer system designers for instance... one software tool I used passed into the year 2000 working correctly, but then it broke 2 months later because it thought 2000 wasn't a Gregorian calendar leap year, I guess because every 4th year is but every 100th year isn't. Every 400th year is, but, if the programmer just stopped at "every 4th is a leap year" then they'd have been fine until 2100. Robert Carnegie rja.carnegie@excite.com 141.101.105.102 22:06, 29 December 2017 (UTC)
+I can assure you with a rather high degree of certainty that this comic is a nod to the exceedingly large number of people who are uncomfortable with math, some to the point where they seem to consider people who are comfortable with math with a sense of awe nearly akin to a magician of old, like a small part in the back of their brain harkens back to the times of the Salem Witch Trials and wants to point and yell "Witch! Witch! Burn them!". :) NiceGuy1 (talk) 05:16, 5 January 2018 (UTC)
+The joke in this might be that it might take some time to brute-force the prime factorisation of 2018 with a calculator as it’s 2*1009. Same holds true for 2017 which is prime. Therefore on might come to the conclusion that factorisation is hard already at this scale. (flx) 172.68.253.71 22:24, 29 December 2017 (UTC)
+Odd/even is another joke
+Cueball: No, it's definitely not. Leap years are divisible by 4. Megan: Right, and for odd numbers, that's easy. Megan: But 2018 is even.
+She can see that finding out if a number is divisible by 2 is easy, but for dividing by 4 it's a "50/50 chance", and really hard to calculate. IMHO the best joke in the comic but missing from the explanation. 141.101.77.50 23:59, 29 December 2017 (UTC)
+Actually, as someone who has helped a LOT of math-challenged people, I understand what she means. Even for them, it's easy to tell if a number is even. But without doing ANY math, it really is 50/50 if it's divisible by 4, only every second even number is. Those of us more comfortable with math can remember that since the 2000 part is, we only have to look at the 18, and since for us it's very easy to remember 16 is - it's freaking 4 squared - that makes the rest easy. But that requires a little math, and math-challenged people shy away from any amount of math. :) NiceGuy1 (talk) 04:53, 5 January 2018 (UTC)
+I think it's interesting that 2018 only has two factors, 2 and 1009. Maybe a trivia? 162.158.238.107 17:40, 30 December 2017 (UTC)
+I think there should be a mention of leap year rules in general, since they are nontrivial (divisble by 4, except not multiples of 100, except yes to multiples of 400)? 172.68.142.233 18:43, 30 December 2017 (UTC)
+I think the joke in the title text is a play on the old joke that even though we know every year when Christmas falls, and every year we always say that we are going to begin saving or shopping in the months preceding Christmas we always get to December and are "surprised" that Christmas happens to be in December. Effectively Randall is suggesting that the reason we are surprised Christmas is in December is not due to forgetting but rather that we are "calculating" when the day is. Also related are Jokes about American Tax day (April 15th) or pretty much anything to do with procrastination. 172.69.70.107 01:06, 31 December 2017 (UTC) Sam
+Nope. No matter how it's worded (I haven't checked) the Christmas and Easter bits are about figuring out what day of the week Christmas lands on and what date Easter lands on. Christmas is always December 25th in North America, on the calendar most widely used IN North America (since that's where Randall is). This means the day of the week changes every year. Conversely, Easter is always Sunday (again, N.A....), so it always falls on a different DATE. These are the things being figured out. In both cases it can affect things (though with Easter I expect mostly for what week it is). For example, my mother, who is getting on in years, receives help washing herself every Tuesday and Friday. If Christmas lands on a Tuesday, it's safe to say her wash is cancelled or requires rescheduling. However, if Christmas is on a Wednesday, it MIGHT not affect either wash day that week. Furthermore, if Christmas is on a Tuesday, most people would expect to get the Monday off from work, Wednesday it starts to come into question. These are the things being figured out. NiceGuy1 (talk) 05:37, 5 January 2018 (UTC)
+Here is some trivia! This comic is number 1935. In 83 more comics XKCD will reach number 2018. So sometime in the year 2018 we will have comic number 2018. Now go calculate what date that will happen ... and don't pull out your pocket slide rule [2] to do the calculation. Rtanenbaum (talk) 14:47, 1 January 2018 (UTC)
+Trivia "So we will have a comic named 2018 and a comic numbered 2018 both in the year 2018" is wrong: actually, comic named "2018" was published in the year 2017. 195.62.179.66 07:23, 2 January 2018 (UTC)
+Aargh. Thank you. Corrected. Rtanenbaum (talk) 14:13, 2 January 2018 (UTC)
+I don’t see at all why the joke is anything other than the date of Christmas. It’s not funny if it’s the day of week of Christmas, and it’s so obviously a reference to Easter. The explanation should be changed. 172.68.58.131 15:03, 10 May 2018 (UTC)
+Categories: All comicsComics from 2017Comics from DecemberFriday comicsPages using the "citation needed" templateNew YearComics featuring MeganComics featuring CueballComics sharing nameNumber theoryCalendarCryptography

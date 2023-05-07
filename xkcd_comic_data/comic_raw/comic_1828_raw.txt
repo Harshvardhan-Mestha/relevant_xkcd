@@ -1,0 +1,67 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1828: ISS Solar Transit
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1828)
+|<< PrevComic #1828 (April 24, 2017)Next >>|
+ISS Solar Transit
+
+Title text: I guess it's also the right setting for pictures of the Moon at night.
+Explanation[edit]
+This is the first comic in a two comic series, released during the same week on Monday and Friday. This comic continues in 1830: ISS Solar Transit 2.
+Cueball is trying to take a photograph of the International Space Station moving in front of the sun (example). He has his camera with a long lens set up with a fixed setting to keep it still while he contemplates the best way to get the photographs he wants.
+A normal camera is not able to take a photograph of the sun due to the extreme brightness. This is why Cueball is using a solar filter, which makes the sun look orange instead of white, as shown in the second panel.
+Digital cameras need to determine the color temperature of a photograph to correctly display colors. This is done using the white balance setting. The joke here is that Cueball selects the "direct sunlight" option, as he feels it is the option that best suits his unusual situation of directly photographing the sun, even though the "direct sunlight" setting is intended to be used for photographing objects directly illuminated by the sun and not for the sun itself.
+The light from an object illuminated by "direct sunlight" is, in fact, indirect sunlight when it reaches the camera sensor; so when photographing the sun itself, the camera receives sunlight that is even more direct than "direct".
+The use of a solar filter influences the color temperature, so "custom" would probably be the correct option here. A camera using the "custom" option usually requires you to focus on a white or gray object first to determine the correct setting. Most high-end cameras, like the superzoom camera that is likely depicted here, are able to capture in raw image format, allowing the user to adjust the white balance afterwards in software.
+The title text is pointing out that the sunlit side of the moon is also in direct sunlight, which is why we are able to see it, and so "direct sunlight" would actually be the correct setting in this case.
+It is the second comic within a week where Cueball is using a camera, similar to the one he used in 1719: Superzoom. The previous comic was 1826: Birdwatching, two comics before this one.
+Transcript[edit]
+[Cueball is kneeling in front of a small platform while operating a camera with a very long objective. The camera is angled sharply upward toward the sky as it is attached to a tripod standing on the platform. An off-panel voice calls out to him.]
+Off-panel voice: What's going on?
+Cueball: ISS solar transit. From this spot, the space station should briefly line up with the sun.
+Cueball: I got a sun filter and I'm trying to take a picture of it crossing.
+[Two half height panels above each others follow. The first shows an image of the very orange sun on a black background, as seen through the camera.]
+[The second of the two half height panels shows Cueball making further adjustments to the camera, as in the first panel.]
+Cueball: Perfect. Hmm, I should set the white balance.
+[Once gain there are two panels above each other. The top is black with white text and icons from the white balance menu. It has the following options shown after each of the icons as mentioned below in the square brackets:]
+[Shining light bulb]: Incandescent
+[Shining fluorescent lamp]: Fluorescent
+[Shining sun]: Direct sunlight
+[Lightning]: Flash
+[Cloud]: Cloudy
+[A house that cast a shade]: Shade
+[Two triangles with a circle between them]: Custom
+[In the panel below Cueball still operates the camera as before]
+[A frame-less but full height panel follows where Cueball leans back from the camera with his hands on his thighs.]
+[The last two panels are again above each other. It is almost the same panels as before the frame-less panels, except that the direct sunlight option has been selected as shown with a blue selection band across that option.]
+Incandescent
+Fluorescent
+Direct sunlight
+Flash
+Cloudy
+Shade
+Custom
+[In the bottom panel Cueball again operates the camera.]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The staging of this comic is really confusing... Top to bottom, right to left is just a weird order. It took me a little while to figure out that the solid white space in the top row is actually a double high, and not a solid white beat panel. I was thinking that the picture was completely whited out. Andyd273 (talk) 15:37, 24 April 2017 (UTC) ....Oh my god, you're right, you can read it backwards, right to left, and it still works as a comic! 108.162.222.148 04:19, 28 April 2017 (UTC)
+
+The comic reads left-to-right, not right-to-left... Raj-a-Kiit (talk) 16:45, 24 April 2017 (UTC)
+
+I disagree with the description that's posted. The joke is that Cueball is not trying to take a picture of the sun - he is trying to take a picture of the ISS while it passes in front of the sun. So it is true that the object being photographed (the ISS) is in direct sunlight, just as the label says. The problem with the label is that it's incomplete: in context, it really means something like, "The object being photographed is in lighting equivalent to direct sunlight falling on the surface of the planet Earth with no intervening filters." The ISS (and the moon, as mentioned in the title text) are being directly struck by sunlight but do not fit the rest of the implied context of the label.
+So shouldn't it then use the 'Shade' option for the ISS? ;) -- Denny
+Technically, he's trying to take a picture of the shadow of the ISS, since he's not looking for the reflected sunlight. Since the Sun is incandescent, that filter would also apply, but only for the background, not the object in question. Also, isn't that kind of the joke, here?162.158.74.51 22:48, 24 April 2017 (UTC)
+Photographically, incandescent filters are used to correct color when using standard tungsten light as the primary light source. Without supplemental lighting (e.g., electronic flash), images appear more yellow. 35mm film can be corrected using a blue filter over the lens. 172.68.65.36 12:25, 26 April 2017 (UTC)
+The side of the ISS that he is photographing is not being struck by sunlight. The other side of the ISS (the side facing toward the sun and away from earth) is being struck by sunlight. He is photographing the side facing away from the sun and toward the earth.162.158.69.45 02:18, 25 April 2017 (UTC)
+I have a strong suspicion that no matter HOW you try to white-balance image like this it wouldn't be correct. The idea behind white balance is to show how the photographed object would REFLECT white light, and Sun certainly doesn't reflect enough for it to be visible over the light it radiates. -- Hkmaly (talk) 01:50, 25 April 2017 (UTC)
+Isn't the joke that that a solar filter is really a physical piece of hardware while Cueball is incorrectly using a software filter? Yeah, you might need to use a software filter to color correct the picture in reality, but this being Cueball he is probably trying to do it in software alone. --141.101.104.17 10:39, 25 April 2017 (UTC)
+The title text is wrong though. A reflection of direct sunlight (the visible moon for a full moon) isn't direct sunlight.172.68.65.138 11:56, 25 April 2017 (UTC)
+The Moon is in direct sunlight. If something that is hit by sunlight and then this sunlight gets to your camera with out interference then that must be what is meant by direct sunlight. Else nothing is in direct sunlight (except when taking a picture directly into the sun, which is not what is meant by direct sunlight). But taking pictures of something on Earth in moon light is not direct sunlight. So title text is correct but more is needed on why that option would also make no sense. --Kynde (talk) 13:49, 25 April 2017 (UTC)
+Do we need a Category:Camera?? Or photography? Randall has made many comics with this as the subject. Two are already linked above. Then there are 1314: Photos and 648: Fall Foliage etc.--Kynde (talk) 13:53, 25 April 2017 (UTC)
+Regarding if direct sunlight is the correct white balance for photographing the moon: There could be a slight difference in color, because the sunlight is reflected by the moon before being filtered by the atmosphere instead of being filtered by the atmosphere first before being reflected by the photographed object, but this should be negligible. Condor70 (talk) 14:53, 25 April 2017 (UTC)
+Photographer here. The proper settings for photographing the moon at night (including white balance and exposure) are indeed the same you would use to photograph a rock in daylight, as that is exactly what you're doing. Atmospheric effects don't factor into it since what you see is the same whether the filter is between the light and your subject, or between the subject and you. --162.158.78.142 15:04, 26 April 2017 (UTC)
+Wondering about a description of what the resulting shot would actually look like if he used that setting. Somebody who knows more about cameras than me should probably say something about that, even if the answer's obvious. 108.162.216.154 00:13, 2 May 2017 (UTC)
+Smarter Every Day did this for real, you can look it up on youtube. It's pretty neat
+Categories: All comicsComics from 2017Comics from AprilMonday comicsISS Solar TransitComics sharing nameComics with colorComics featuring CueballAstronomySpace

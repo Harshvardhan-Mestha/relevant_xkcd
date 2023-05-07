@@ -1,0 +1,157 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1810: Chat Systems
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1810)
+|<< PrevComic #1810 (March 13, 2017)Next >>|
+Chat Systems
+
+Title text: I'm one of the few Instagram users who connects solely through the Unix 'talk' gateway.
+Explanation[edit]
+The comic consists of an Euler diagram showing a wide variety of chat systems and their intersections. (Euler diagrams should not be confused with Venn diagrams, see more on this here). The comic demonstrates the complexity that can be involved in modern communications: simply remembering how to get in touch with someone can be a challenge.
+Below is a table with explanation for all 24 mentioned chat systems and below that a list of each system's intersections with the other systems. Several of the systems are already considered old, like The "chat" tab in an old Google Doc, but some people keep using them, which is part of the joke. There only seems to be one "chat" system which could in no way be said to be an on-line chat system, and that is the Wall (bathroom) at the bottom, which refers to how people writes notes on public bathroom walls, making it an extra joke and possibly a reference to 229: Graffiti.
+In the title text, Randall explains how he is one of the only few Instagram users to use the UNIX 'talk' gateway (an old peer-to-peer chat system whereby users logged into the same UNIX system could privately communicate with each other in a full-screen interface.) But he doesn't tell how he had enhanced this old fashioned software.
+Note that this is similar to the earlier 949: File Transfer.
+Chat systems[edit]
+The 24 chat systems with the number of stick figures inside are listed. Notice there are only 23 real systems, as one of the systems is a bathroom wall.
+System Number of people in group Explanation Intersects
+SMS 39 Short Message Service; a text-based messaging system connecting most worldwide phone systems that had its beginnings in the 1980s and has since represented the most common form of data transmission for most people. It is principally used to send short text messages between mobile phones, but most phone carriers provide facilities to send-to-email or send-to-voice (for use with landline phones). Most major phone carriers also provide support for email-to-SMS. Slack, Hangouts, IRC, iMessage, Signal, Email, Snapchat, Whatsapp, Zephyr, FB Messenger, Instagram DM, BBM, Twitter DM, WeChat, Peach
+Email 35 A popular form of electronic communication that saw first widespread use in the 1960s. It allows you to send electronic "letters" to people using pre-exchanged email addresses. Many people use this platform, hence the large size of the corresponding circle. Slack, Hangouts, IRC, iMessage, Signal, Whatsapp, Zephyr, FB Messenger, Instagram DM, BBM, Twitter DM, Skype, ICQ, Telegram
+Hangouts 9 Google Hangouts is Google's instant messaging system. It can be used to share data and for video chat. SMS, Email, IRC, Slack, Signal
+Signal 8 An app used for encrypted communications. SMS, Email, IRC, Slack, Hangouts, iMessage, Instagram DM, Zephyr
+iMessage 6 Apple's SMS service Email, SMS, FB Messenger, Signal
+IRC 5 Internet Relay Chat; a chat protocol from the late 1980s that still sees considerable but declining use today. It is an open, freely available protocol with many free client apps available. Communications are principally in text and users typically use an app to connect to an IRC server, which may in turn be connected to other IRC servers. Many clients also provide for file sharing. There are many client and server plugins that provide access to other protocols (such as IRC-Hangouts, etc). Email, SMS, Slack, Signal, Hangouts
+Slack 5 A team instant messaging service Email, SMS, IRC, Hangouts, Signal
+Twitter DM 4 "Direct messages" between users on Twitter. Email, SMS
+AIM 2 AOL Instant Messaging service; a popular messaging system from the 1990s that suffered a severe decline in 2005 upon the release of Gmail and Google Chat. It is based on the closed source OSCAR protocol, but AOL created the TOC/TOC2 protocol specifications, and made specifications openly available, for third parties to connect to their service. There have been short-lived dalliances with other protocols since 2008; it has never had direct support for the other widely used protocols here. Furthermore, it was discontinued on December 15, 2017, approximately nine months after the release of this comic. None
+The "chat" tab in an old Google Doc 2 Google Docs is an online word processor reminiscent of Microsoft Word. One of the notable features is online collaborative editing, with a rudimentary chat feature for communication. Randall apparently communicates with someone using the chat in an old Google Doc. None
+FB Messenger 2 Facebook's chat system. Email, SMS, iMessage
+Instagram DM 2 Direct Messaging, a feature of Instagram that allows users to post personal messages to each other. Email, SMS, Signal
+Peach 2 Peach is a mobile-based social network introduced in January 2016. SMS
+Telegram 2 Could refer to a cloud based instant messaging system by this name (Telegram), or to actually sending messages using telegrams. Telegrams were messages sent by electric telegraphy, which were often typed out and hand-delivered to the recipient. This was the first system for rapid communication across long distances that was widely available, originally developed in the 19th century. Naturally, telegraphy is now wildly obsolete (though some local services apparently do still exist) which would explain why Randall communicates with so few people that way. Email
+Skype 2 Microsoft's chat client. It offers voice over IP (VOIP) video and audio calls, instant messaging and phoning from within the app. Email
+WhatsApp 2 Billed as encrypted end-to-end chat, allows voice over IP (VOIP) chats, text chats, video and image sharing. Caters for group chat as well. As of 2020 WhatsApp is the most common instant messaging app worldwide, with more than 2 billion users in 180 countries. Email, SMS
+WeChat 2 Started off as a Chinese WhatsApp imitation. WeChat has become a full scale social media system, with its own news, games and payment system. SMS
+Apache Request Log 1 Like many web servers, Apache keeps a record of incoming requests -- both successful and unsuccessful -- in various log files. A conscientious webmaster will often review those logs, either to gauge interest in visited pages, or more importantly to detect failed requests that should not have failed, perhaps due to errors in the site's hotlinks which are therefore in need of cleanup. If you know a particular webmaster who does this regularly, you can therefore send him/her a personal message by attempting to fetch a deliberately-nonexistent URL like http://example.com/Hey_Sandra_its_Pierce_wanna_have_a_drink_tonight.html, knowing that the "message" will show up as a failed request in the logs. This is a form of "back channel" communication, hardly practical as a true "chat system"[citation needed], although an excellent in-joke among like-minded hackers. Nevertheless, shortly after this comic appeared, a more "practical" implementation was published on github. None
+BBM 1 Blackberry message. A chat system available on BlackBerry phones, now largely obsolete. Email, SMS
+Snapchat 1 Snapchat is an image messaging app. SMS
+Wall (bathroom) 1 This is the only "other" joke in the comic as this is the only "system" not on-line. Apparently it is a chat system based around writing on the wall in the bathroom. Not an electronic system. It may thus be a reference to 229: Graffiti. Leaving messages on public bathroom walls is a common form of graffiti. It may be used as a support for anonymous conversations. Alternatively, this could mean the person is an extreme introvert, and hides in his bathroom instead of interacting with others, by talking through the wall. It could also be a pun on "communicating through _____" as a bathroom wall is a physical object rather than an interface. It could also refer to someone who has a habit of talking through the wall to people in adjacent stalls of a public bathroom.
+Alternately, there used to be a Facebook App called Bathroom Wall, which was an anonymous message board where people could both post and reply to posts. This was all anonymous by default, but users could attach a nickname to each individual post or reply in order to maintain a continuity, and even have a full conversation. It's possible that this is what Randall meant for this group, seeing as it was indeed a way to communicate online.
+None
+Wall (Unix) 1 Short for "write all", the "wall" command copies its input to every user logged into the same Unix system, and so can be used as a primitive chat system. None
+Zephyr (protocol) 1 Zephyr was designed as an instant messaging protocol and application-suite with a heavy Unix background. Email, SMS, Signal
+ICQ 1 An older open-source instant messaging application. Email
+Transcript[edit]
+[An Euler diagram with many circle like drawings for various chat systems is shown. Some circles overlapping others in complicated ways, others are single circles with no connections, but most are embedded into others. Inside the circles mainly the standard sticky figures like Cueball, Megan, Ponytail and Hairy are shown but there are also a few others.]
+[The list of items and its intersections from left top to right bottom is:]
+Skype - none, Email
+Email - none, Skype, SMS, Slack, Hangouts, IRC, ICQ, iMessage, Signal, WhatsApp, Zephyr, FB Messenger, Instagram DM, BBM, Telegram, Twitter DM
+SMS - none, Email, Slack, Hangouts, IRC, Snapchat, iMessage, Signal, WeChat, WhatsApp, Zephyr, FB Messenger, Instagram DM, Peach, BBM, Twitter DM
+AIM - none
+Slack - Email, SMS, Hangouts, IRC, Signal
+Hangouts - Email, SMS, Slack, IRC, Signal
+IRC - Email, SMS, Slack, Hangouts, Signal
+Snapchat - SMS
+ICQ - Email
+iMessage - Email, SMS, Signal, FB Messenger
+Signal - Email, SMS, Slack, Hangouts, IRC, iMessage, Zephyr, Instagram DM
+WeChat - SMS
+WhatsApp - Email, SMS
+Zephyr - Email, SMS, Signal
+FB Messenger - Email, SMS, iMessage
+Instagram DM - Email, SMS, Signal
+Peach - SMS
+BBM - Email, SMS
+Telegram - none, Email
+Twitter DM - none, Email, SMS
+The "chat" tab in an old Google Doc - none
+Apache Request Log - none
+Wall (Unix) - none
+Wall (bathroom) - none
+[Caption below the panel:]
+I have a hard time keeping track of which contacts use which chat systems.
+Trivia[edit]
+There are 57 characters in the comic.
+The ubiquity of standards - here, of messaging systems - was already covered in 927: Standards and people's hesitation to switch off IRC was mentioned in 1782: Team Chat. The same point about people using various chat systems was used in 1254: Preferred Chat System. And famously the hidden chat room mentioned in 1305: Undocumented Feature, was later created by Randall through the April fools' comic 1506: xkcloud - see the Don't contact us section.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+"Wall (bathroom)" might be a reference to the Spaceballs movie. President Skroob is using the bathroom when he gets a video call from one of his officers. "Ahh! I told you never to call me on this wall! This is an unlisted wall!" 172.68.54.112 16:31, 13 March 2017 (UTC)
+Or "Wall (bathroom)" is just a pun on "Wall (Unix)". That would explain why only these two have disambiguation, and not "Telegram" or "Peach". See also how both Walls are next to each other. Shirluban 141.101.88.106 11:54, 14 March 2017 (UTC)
+I Believe "Wall (Bathroom)" is a reference to XKCD 229 - Graffiti. 173.245.50.234 20:57, 14 March 2017 (UTC)
+I agree adding this in --Kynde (talk) 21:49, 14 March 2017 (UTC)
+Having communicated with nocturnal housemates by the method "leave a note where they will see it", it could also be a way of communicating with someone uncommunicative in your own house, alternative locations at our house being the bathroom mirror, the wall of the toilet room, and the kitchen fridge. It's possible it's not a public bathroom wall that he's referring to. 108.162.250.53 22:05, 14 March 2017 (UTC)
+From the explain section (User: Cosmogoblin): See this spreadsheet on Dropbox for a list of each person in the diagram, as a basis for more complex analysis.--Dgbrt (talk) 16:48, 13 March 2017 (UTC)
+Man, IRC is not old. I remember using it at college in 1996... Oh, wait. 172.68.26.65 (talk) (please sign your comments with ~~~~)
+I'm pretty sure that says Wall (Unix), not Wall (Linux). --162.158.79.131 17:16, 13 March 2017 (UTC)
+He left off the chat tab on wikipedia :o) 172.68.86.100 (talk) (please sign your comments with ~~~~)
+He also left off Discord. 108.162.241.160 23:22, 13 March 2017 (UTC)
+He also also left off explain xkcd talkpages. ~AgentMuffin
+Just curious - has Randall ever directly referenced explainxkcd? I know that he relies on us in minor ways, and I'm sure he reads explain, but I can't recall any actual references. And I'm having great difficulty thinking of a good Google search term to check! Cosmogoblin (talk) 17:09, 14 March 2017 (UTC)
+Randall has no connection to this wiki but he has mentioned it in some former hidden transcripts. Look at bottom of my talk page.--Dgbrt (talk) 18:45, 14 March 2017 (UTC)
+Humorous diagram comparing Euler and Venn diagrams--Dgbrt (talk) 18:06, 13 March 2017 (UTC)
+To whom are the individuals unique to some sets talking to? eg those in Apache Request logs, and wall (unix) and wall (bathroom)? I suppose there is no reason to assume anyone is receiving their messages.......108.162.241.160 18:37, 13 March 2017 (UTC)
+I'd assume that the diagram is the ways Randall communicates with people. So the person in the Apache Logs circle would be the only person he is able to reach using this method. Likely meaning that for the really big circles (like email), a person outside the circle doesn't necessarily mean they don't use email; just that Randall doesn't have their address. --(bah, I can't remember my username on here. Old laptop was left logged in) 162.158.154.109 20:37, 13 March 2017 (UTC)
+This seems related to #1254, and maybe #1789 as well. Randall really has a problem with his friends' bizarre methods of communicating.172.68.132.5 18:44, 13 March 2017 (UTC)
+Is the Instagram/Unix-'talk' gateway a real thing? Can't find any other mention of it. Jkshapiro (talk) 03:36, 15 March 2017 (UTC)
+Related comics
+I've created this new section at the bottom of the explain section. Those references don't explain much but moving it to a trivia section would move this out of sight for the reader. Since many writers like to find such references this chapter groups them all together. Any suggestions? --Dgbrt (talk) 19:04, 13 March 2017 (UTC)
+Related: #1305 BMB (talk) 08:01, 14 March 2017 (UTC)
+I like this and have also found 1305: Undocumented Feature and the one where Randall made such a feature. Someone else included those mentioned above. I have moved them above the table so people interested in similar comics, which many coming here are can see that we have supplied them. --Kynde (talk) 21:49, 14 March 2017 (UTC)
+I've created this new section at the bottom of the explain section. But when this is not accepted it must be moved to trivia!!!--Dgbrt (talk) 22:06, 14 March 2017 (UTC)
+Well I disagree about that. This has not been the standard of this explanatin xkcd for making references to other comics. --Kynde (talk) 14:20, 19 March 2017 (UTC)
+Transcript
+I'm thinking it may be best to do the transcript by listing each person and the circles in which they are present, possibly condensing people in identical circles with the number in parentheses. 162.158.246.82 22:23, 13 March 2017 (UTC)
+I'm also thinking about this. But the persons are some sticky figures like Cueball and so on; the character itself is unimportant... Important are all the "Chat Systems" and their connections together. That's not easy to transcribe.--Dgbrt (talk) 23:31, 13 March 2017 (UTC)
+I think the easiest way is to use the "mathematical approach": https://en.wikipedia.org/wiki/Set_(mathematics) Elektrizikekswerk (talk) 07:14, 14 March 2017 (UTC)
+I've done a "text approach". What's about the sticky figures, do the numbers represent anything?--Dgbrt (talk) 18:38, 14 March 2017 (UTC)
+I like the list of intersections, but that is part of the explanations. Have for the moment created a new section below the table. Instead text written in the transcript should only be mentioned once. I have used the order already given. Believe the transcript to be fine now, but I'm sure others will disagree... --Kynde (talk) 21:49, 14 March 2017 (UTC)
+Explanation is why or how the intersections work. The plain list is transcript! I totally disagree on this recent massive edits.--Dgbrt (talk) 22:04, 14 March 2017 (UTC)
+Only text in the comic should be written outside square brackets in transcript and only once! It must now also be very complicated for those using the transcript to "read the comc" to find all different chat systems as most of them are now mentioned many times. It will have to be changed back to only having text in the transcript and no explanations! --Kynde (talk) 14:20, 19 March 2017 (UTC)
+A possible method to transcribe the Euler diagram might be like this. Each intersection is a column, where the systems that intersect are marked with "X". The intersections that don't exist are left out.
+System Intersections
+SMS X - X X X ...
+Email - X X - X
+Hangouts - - - X X
+...
+Number of people in group 3 3 5 1 3 ...
+--162.158.222.100 15:58, 17 March 2017 (UTC)
+Nice idea but hard to read (especially for impaired people). A transcript should be raw text. And the sticky figures are random, or for what do the two figures in WhatsApp stand for?--Dgbrt (talk) 04:18, 18 March 2017 (UTC)
+XMPP
+He forgot Jabber! 198.41.242.7 (talk) (please sign your comments with ~~~~)
+
+I explained the title text and how a Euler diagram works. Please add onto my explanation. --JayRulesXKCD what's up? 13:29, 14 March 2017 (UTC)
+Maybe for Dummies: "...a Venn diagram for n component sets must contain all 2n hypothetically possible zones that correspond to some combination of inclusion or exclusion in each of the component sets." (Wikipedia). This here would be 224 or 16,8 million zones -- hard to paint.--Dgbrt (talk) 18:38, 14 March 2017 (UTC)
+Thanks for that info. --Kynde (talk) 19:59, 14 March 2017 (UTC)
+Lorenz Venn Diagram :-) --Kynde (talk) 19:30, 19 March 2017 (UTC)
+When people use bold text to make sections, then it becomes difficult to see where new discussions begins. This is not something we have used to do for a long time. Maybe it is better left out for smaller discussions like the one above here. --Kynde (talk) 21:54, 14 March 2017 (UTC)
+Massive changes by user Kynde (OR NOT? With reply now from Kynde)
+While many users worked over more than 30 hours here together user Kynde (talk) needed just one hour to change everything in the explanation and the transcript. See here (everything in RED on left or right is a change):1810: Chat Systems changes by Kynde except one other. I'm a little bit frustrated because all my work, investigations, and edits are misused and changed. Do we need those major reworks on every comic?--Dgbrt (talk) 22:31, 14 March 2017 (UTC)
+I've brought back some former agreed parts. Look at my edits here: [1]. It's mainly trivia and transcript, and it's still incomplete because all the intersections have to be explained. Randall uses the Euler diagram NOT for the sticky figures, the intersections are important.--Dgbrt (talk) 14:39, 15 March 2017 (UTC)
+But when a third party (I) put a table together explaining the intersections, you took it out again, with the comments "Please avoid useless tables and describe the intersections" and "Do not count the sticky figures. Randall has more than 35 email contacts. The figures are only a filler!"
+I think this is a misunderstanding of the comic. The figures are not a filler at all; they are exactly what is important here. They represent people whom Randall can contact by various means. There is no other meaning to the intersections.
+The point about Randall's having more than 35 email contacts is well taken. Perhaps the individual figures represent quantity groupings. One figure means a small number of friends, two a medium number, three a large number, and five a very large number. Or perhaps this is a sample of 57 of his friends. Or perhaps this is really all the people he regularly communicates with for social reasons. But whatever the explanation, I think it's meaningful that there are more figures within the iMessage set than within the Skype set.
+I will admit to being mystified, though, by the empty intersections: iMessage with Signal, FB Messenger with non-SMS, and Twitter DM with email but not SMS. Those don't really fit my theory.
+Jkshapiro (talk) 02:42, 17 March 2017 (UTC)
+Your perhaps' doesn't explain anything. And one more: Only two in WhatsApp? Really? Is email so much larger than WhatsApp? Believe me, an Euler diagram is used for showing relevant intersections. And these intersections are possibly Randall specific because for example Skype is a little bit odd. SMS is a feature in Skype but that's not shown in the diagram. You may count the numbers but they are irrelevant.--Dgbrt (talk) 08:58, 17 March 2017 (UTC)
+I really do not know why I keep trying to reach Dgbrt because he seems to have decided to be against anything I do. But after taking a few days off from him and explain xkcd I went back to look at my "massive edits" and found almost none. For the second time Dgbrt looks only on the red part in his link to my edits, not at the text or the actual changes. And for the second time the red appears because one or more paragraphs is moved or inserted. Then the existing paragraphs do not match and all becomes red. I went through all paragraphs and explained what I had done and what was changed. And it turned out that the only think I actually deleted was the incomplete reason and the first paragraph. But because I moved the incomplete reason into the explain section everything below moved down and became red. Here below is my findings to revert Dgbrts fall claims that I changed everything. And I really believe the transcript is all wrong as it is now!
+I moved the incomplete reason below the explanation section. And tried to do exactly what is said originally while mentioning what now needed updating. This made a lot of the rest red without I had changed much. This was the same the previous time you complained about red all over after my edits!
+I changed the first paragraph which was really poorly written. Also there was really no connection to Venn diagrams but it seems there had been some confusion. So instead of explaining Venn diagram in the comic I made a ref to the category and made a general example there to be used in other situations. I think this is a great idea, which probably is another point we disagree, but that is not the point here. But it made the start of the explanation easier to read without removing the possibility to understand Venn vs Euler.
+The second paragraph is mainly red because of the extra paragraph from moving incomplete: I only added this: “and social networking”
+As I put the chat system table into a new section (which is the usually way, also making it possible to edit the table and the main explanation simultaneously) then I put in a paragraph linking to it. Here I explained shortly a few things without changing anyone’s contributions.
+The title text was only briefly mentioned, but I did not delete anything. It was the extra paragraphs again that made it red. I added the explanation from the table. Tables is often used for the main comic, and the title text is explained in the main explanation. So I did not add or change, just move two title text explanations together into one.
+Then there was the “Related comics” below the table, which is not the place for these. So I moved them up above the table, someone added a third comic and I added two more. Again I did not delete anything.
+In the table I only fixed one link and mentioned that the WC wall is the only “joke” in the main comic. And then moved the title text out of table.
+As I think you have mentioned explanations and very long descriptions should not go into the transcript. So I moved the intersection description out. I think it is important, but should maybe even down in a trivia? But definitely not be in the transcript.
+I did thus not delete anything from the transcript, but kept only the text actually written in the comic. OK I added more to the explanation in brackets, maybe too much for your taste, but again that is not a debate about my “aggressive” edit here. We also disagree on that.
+Finally I added the image with character numbers and the number of characters in the trivia. Of course you have deleted that as well? It added a way to discuss different characters and also made it clear that there where 57!
+So as you can see from this I did not really delete anything except the first paragraph. Which I mainly just rewrote. I cannot understand the idea that you should not edit a wiki because it might hurt other editors. What is the point then. --Kynde (talk) 14:20, 19 March 2017 (UTC)
+
+Where is TOX? He forgot about that! 172.68.62.58 (talk) (please sign your comments with ~~~~)
+I'm amused to note that I'm a great example of how this is Euler, not Venn: The best way to contact me is FB Message, with SMS a close second. I almost never get real emails anymore, so I don't check it much. But as the entire FB group is inside the Email group, I couldn't go in there. :) As for the current Incomplete explanation, I would say it's fairly self explanatory. For example, said FB Messenger group. We have a Ponytail, who is also in the iMessage, SMS, and Email groups, meaning that Randall can talk to her using FB messenger, iMessage, SMS, or by Email. Meanwhile the Cueball in this group is in the same groups except for iMessage, meaning Randall can talk to him using FB messenger, SMS, or by Email, in other words in the same ways as (this) Ponytail except iMessage. Going into detail listing every combination represented and what they mean seems like it would be too long and tedious (and would beg for identifying the combinations which aren't represented, which would be worse).
+BTW, there used to be a Facebook App called Bathroom Wall (later changed for a short time to Bathroom Stall, because Facebook decided to forbid anything called Wall), which was an anonymous message board. Not a chat system per se, but it WAS an online communication tool. Messages were anonymous by default, but you could identify yourself through an optional nickname (much like I do here). Within a thread you could faithfully keep using the same nickname in order to maintain a conversation. I had understood THIS was what Randall meant (since it IS actually a way to communicate, unlike actual bathrooms, and is electronic, unlike actual walls). However, this app was closed years ago because it attracted fighting. People wouldn't stop, Facebook pushed the creators to do something about it, they eventually felt forced to close it. They put it into read-only mode for a while so people could salvage whatever was meaningful to them, then it was gone. The fact that it no longer exists would seem to be a vote against it being what Randall meant, except for the other clearly outdated methods on here (I miss ICQ). - NiceGuy1 162.158.126.76 03:47, 22 March 2017 (UTC) I finally signed up! This comment is mine. NiceGuy1 (talk) 04:38, 13 June 2017 (UTC)
+Since it appears as if my comment has gone unnoticed, I added my Bathroom Wall tidbit. It DOES seem extremely relevant. :) - NiceGuy1 108.162.219.16 13:33, 31 May 2017 (UTC) So's this! NiceGuy1 (talk) 04:38, 13 June 2017 (UTC)
+
+"had its beginnings in the 1980s and has since represented the most common form of data transmission for most people." Wait, are SMSs really used that much? I have never met a single person who uses SMSs as their primary chat system. --198.41.231.215 22:47, 10 March 2020 (UTC)
+Well at least not in the past few couple of years, since everyone has a smartphone and internet flatrate, so they use free and more flexible services (such as WhatsApp) instead. But in the 2000s it was that way for many who didn't use computers much (so no/limited access to IRC, ICQ, etc.)--Lupo (talk) 07:26, 11 March 2020 (UTC)
+Categories: All comicsComics from 2017Comics from MarchMonday comicsPages using the "citation needed" templateComics featuring CueballComics featuring MeganComics featuring PonytailComics featuring HairyComics featuring BlondieMultiple CueballsChartsSocial networkingEuler diagrams

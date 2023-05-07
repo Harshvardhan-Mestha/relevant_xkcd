@@ -1,0 +1,38 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1867: Physics Confession
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1867)
+|<< PrevComic #1867 (July 24, 2017)Next >>|
+Physics Confession
+
+Title text: "You know lightning, right? When electric charge builds up in a cloud and then discharges in a giant spark? Ask me why that happens." "Why does tha--" "No clue. We think it's related to the hair thing."
+Explanation[edit]
+A Theory of Everything is a goal of modern physics which would describe the properties of all fundamental particles and all the interactions between them. The current approach to a theory of everything is to describe how at high energies different interactions, such as electromagnetic forces and the strong and weak nuclear interactions merge. It would be possible, in principle to demonstrate how the rest of known physics can be derived from that quantum behavior. This approach, however, leaves many everyday phenomena which are not understood by modern physics, and many arguments against a theory of everything suggest that it won't ever be able to actually precisely describe everything. This comic lists several of those phenomena:
+The fine detail of how ice skates work is unknown. It is known that there is a film of water between the skate and the ice that lubricates sliding, but scientists dispute how the film gets there. The commonly held belief is that it is caused by the pressure of the narrow skate; another belief is that the ice is melted by the friction of movement; but both fail to fully explain why skating continues to be possible at temperatures that are significantly below 0 Celsius. A better explanation is simply that, near the melting point of a solid, there will be a thin layer of liquid on the surface due to the dynamic equilibrium between the two phases, hence why ice is slippery. This happens regardless of the presence of skates. A more complete explanation is given in the linked article: Why is ice slippery?.
+Physicists lack a clear understanding of the interactions involved in the flow of granular materials, such as sand. It is known that the behavior diverges greatly from that of a liquid, but it is unknown exactly how the flow works. PhysicsCentral:Granular Materials
+Modern physics also doesn't understand what makes electrons move from one material to another when two materials are rubbed against each other (the triboelectric effect), and why the transfer takes more electrons in one direction than in the other. However, this happens, and it's the cause of static electricity, which can be seen when one rubs a latex rubber balloon against hair.
+The title text mentions another common phenomenon that is poorly understood: the separation of charges in a cumulonimbus cloud. It is thought that interactions between ice and water transfer electrons, and then the different motion of ice (as hail) and water droplets in the cloud separates the charge. NOAA How lightning is created.
+5 years later, the triboelectric effect was brought up again as an unsolved problem in 2682: Easy Or Hard.
+Transcript[edit]
+[Megan is facing Ponytail and Cueball.]
+Megan: I'll be honest: We physicists talk a big game about the theory of everything, but the truth is, we don't really understand why ice skates work, how sand flows, or where the static charge comes from when you rub your hair with a balloon.
+Trivia[edit]
+Randall modified the xkcd header on July 25, 2017 to ask readers to "...tell your senators to vote against this health care bill. It will hurt people." This is accompanied by a phone number, 202-224-3121, and a link to TrumpCare Ten. An archived version of the image is available here.
+Later, after the senate rejected several versions of the bill, Randall replaced this message with a "thank you" message and a link to an article showing the senate votes.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+F1rst P0st http://www.explainxkcd.com/wiki/index.php/269:_TCMP 172.68.141.190 07:54, 24 July 2017 (UTC)
+Fuckin' ice skates, how do they work? OldCorps (talk) 11:26, 24 July 2017 (UTC)
+Any relation to #1489? They're both about things physicists don't understand. http://www.explainxkcd.com/wiki/index.php/1489:_Fundamental_Forces 172.68.132.5 (talk) (please sign your comments with ~~~~)
+Explain physics: It's 'cause Randall's dumb. 141.101.104.47 (talk) (please sign your comments with ~~~~)
+Explanation of skating
+A lot of people both here and on Reddit seem to be talking about the pressure of the skates reducing the melting point. The pressure of the skates can only reduce the melting point by about 0.5C, so this is clearly not sufficient to produce a layer of liquid below -0.5C. The more correct explanation is that there is an ever-present layer of liquid on the surface of most crystals, including ice - this is the best explanation that exists right now and explains why ice skating stops being possible below around -30C (and is hard at intermediate temperatures). This is the explanation offered by most modern university courses on thermodynamics or materials science - here is an excerpt from a University of Cambridge materials science course: Excerpt Jaredjeya (talk) 13:03, 24 July 2017 (UTC)
+I've just looked at the article linked in the explanation, whoever put it in didn't read the full article because it goes on to mention exactly this explanation. Jaredjeya (talk) 13:07, 24 July 2017 (UTC)
+Good ol' circular reasoning. OldCorps (talk) 15:48, 24 July 2017 (UTC)
+"...ice skating stops being possible below around -30C". Not true. I've skated at -40C. It's effing stupid, risk of frostbite in minutes, but still works. (Living North of 60 for 4+ decades) 162.158.74.219 (talk) (please sign your comments with ~~~~)
+-40C? Ha! Try -40F! davidgro (talk) 23:55, 28 July 2017 (UTC)
+Ice skating works because ice is slippery and skates reduce the surface touching the ice which reduces the friction increasing how slippery it is. However, it is a special case of the question: "Why is ice slippery in the first place?" Which is not fully understood.162.158.114.16 11:27, 31 July 2017 (UTC)
+A recent article discusses ice skating things here. Looks like the confined melted water film behaves oddly (viscoelastically) and unexpectedly gains ideal lubrication properties for skiing and skating. Surface hydrophobicity also affects sliding coefficients not by changing the thickness of melted films but rather the local water (complex) viscosity. However, they do not try this at -40 C (or -40 F as slyly pointed out above).
+Categories: All comicsComics from 2017Comics from JulyMonday comicsComics featuring MeganComics featuring PonytailComics featuring CueballPhysics

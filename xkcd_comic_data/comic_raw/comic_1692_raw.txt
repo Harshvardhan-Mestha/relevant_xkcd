@@ -1,0 +1,208 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1692: Man Page
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1692)
+|<< PrevComic #1692 (June 10, 2016)Next >>|
+Man Page
+
+Title text: For even more info, see blarbl(2)(3) and birb(3ahhaha I'm kidding, just Google it like a normal person.
+Explanation[edit]
+This comic shows a Unix manual page, i.e. a man page (hence the title), for a fictional program called "blerp". Unix man pages are meant to provide a brief reference on the usage of a command, not extended explanations with tutorials as may be found in many hardcopy product manuals. Unfortunately, some Unix commands tend to be very bloated and include lots of optional behavior that is often irrelevant to the original intent of the command and can be done much more easily using shell features like piping and redirection, and thus the manpage grows to explain all of the features. This example exaggerates the obscurity and terseness found in many man pages, making fun of the typical style of the genre.
+It follows the prescribed format for a man page, with the following sections:
+Command Name: self-explanatory
+Synopsis: a synopsis of the valid command line formats
+Description: a summary of the purpose and operation of the command
+Options: detailed description of all the available command line arguments
+See Also: references to other man pages with relevance
+Bug Reports: contact details for the support group (if any)
+Copyright: details of the ownership and rights status of the man page (not the program)
+For comic effect, most of this particular man page is not meaningful, and sometimes doesn't obey the expected syntax.
+The Synopsis section is supposed to be in a regex-like language called Wirth Syntax Notation, with structures like
+{<list of valid alternatives>}, e.g. blerp {A,B,C}
+[<optional element>], e.g. blerp [-o [<output file>]]
+<something>... meaning repeat <something> as many times as you need
+But the two Synopsis lines given do not have valid Wirth syntax; they randomly mix objects and syntactic characters, and the brackets and braces are not properly nested or paired.
+The Description section provides an unhelpful summary that could apply to almost any Unix command. Processing input files (or output of other commands in a pipeline) is a generic function for Unix shell tools, as is specifying their behaviour with command line arguments, environment variables and flags. The text leaves to the reader's imagination what the program actually does, and what behavior the various options modify, which gives maximum scope for humorous possibilities.
+The options are in conventional alphabetical order, except that lower case is placed before upper case, and an em-dash is inserted between b and c.
+Command-line options, also known as flags, are typed after the program's name to change how the program runs. For example, a user of blerp might type:
+blerp -a -d -t -p "AVIGNON"
+According to the man page, this would run blerp in attack mode, piping its output to DEBUG.EXE, with tumble dry, and the true Pope set to "AVIGNON". In most cases, any number of flags can be used in any order, and flags can be followed by argument (such as "AVIGNON" in this example).
+For a walkthrough of all possible flags see the table of flags below.
+Below the flags there is a see also list with other ludicrous program names (blirb, blarb and blorp), each followed by a number in parentheses. This is a common way to refer to a command in Unix environments, where the number denotes the documentation section the program is found in. This serves to disambiguate man pages with the same name, in this instance those for the blerp command (section 1, "General commands") and the blerp() C library function (section 3, "C library functions").
+It is unknown which section the man page in this comic resides in. It looks like it could be in section 1, "General commands", which would make it self-referential. Section numbers only go up to 8, so blarb(51) is not a valid section number. The last blorp(501)(c)(3) is not a valid section number either, it is however a slightly covert reference to 501(c)(3) which is an organization that is tax-exempt.
+Then follows a bug report site. www.inaturalist.org is a site working to extend biological research, and the exact address given, http://www.inaturalist.org/taxa/47744-Hemiptera, points to the same page as http://www.inaturalist.org/taxa/Hemiptera. Hemiptera is the order classifying true bugs, making it a good place to report any biological bugs discovered while running a program (Like the bees found without using -b.) Insects got into some early computers, causing them to malfunction, and hence computer malfunctions are often called "bugs".
+Finally there is a "copyright" line which references several variously open-source content licenses, which is a recurring theme on xkcd (see 225: Open Source). For instance, GPL references GNU General Public License and the (2) and (3+) refers to GPL 2 and GPL 3 or higher. CC refers to creative commons where BY is the type of license, 5.0 refers to the attribution and RV 41.0 refers to revision 41.0. However there were no higher attribution than 4.0 at the time of this comic's release. xkcd is released under CC BY-NC 2.5 as can be seen at the bottom of the xkcd   homepage. A few comics have been released under the CC-BY-SA license or 3.0. BSD refers to BSD licenses, another recurring theme in xkcd. "Like Gecko" is a reference to a web browser user-agent string; modern user-agent strings include a lot of text designed to allow browsers to masquerade as different browsers/renderers, and "(like Gecko)" is the standard text for a browser that wants to be treated as if it were Gecko while admitting, if you look closely, that it isn't really Gecko. This copyright line, which includes a lot of mashed-together text that might appear to match any of several different licenses, resembles a user agent string.
+"Or best offer" is usually seen on a notice of a private sale, where it proclaims the intent to be flexible on asking price in the hope of expediting the sale, with a suggestion that the seller will sell to the highest bidder even if the offer is nowhere near the asking price. In the context of the comic, it suggest that the rights for the program are available for purchase by anyone who makes the "best" offer. Since the other licenses listed would allow free usage without incurring any royalty charge, it would be pointless to buy the rights to this program. It is possible to revoke the other licenses though. Perhaps the program's creator is suggesting the rights could be given to someone making him a different sort of offer, perhaps romantic or sexual?
+In the title text there is a list with even more info, again with silly names like blarbl and birb. Again there are section numbers. While writing about birb, and without bothering to close the brackets around (3), the writer breaks off to laugh at the reader, telling them that he is kidding and suggesting that they just Google it like a normal person. The implication is that anyone trying to pick through a man page to find out what a program does is going the long way round, when it's much simpler to get Google to tell you.
+Man pages were part of the subject of 293: RTFM, 912: Manual Override and 1343: Manuals and were mentioned in 434: xkcd Goes to the Airport and 456: Cautionary.
+Table of flags[edit]
+There are 28 'defined' flags.
+Only these five letters are not used: l, m, w, x, z.
+j and k are used together as jk.
+The following seven capital letters are used: D, I, O, R, S, U, V.
+That makes it one capital letter for every lower case letter that is not used by itself.
+Finally the em dash "—" is used as the only non-letter character. Also the only that breaks the strict alphabetical sorting of the list, with lower case before upper case letters.
+As well as the general expansion of flag-use 'definitions', -f is explicitly featured in the first usage example of the Synopsis. See below.
+Additionally, either "-{}" or "- {}" is featured in the Synopsis's second usage example. This could indicate a flag of further type (an ill-defined set of further possibilities or literally a curly-bracket pair) or else specifies STDIN as a possible file input (and then ill-defined/curly-bracketted continuations of the parameter-listing).
+Flag Description Explanation
+-a ATTACK MODE This sounds like a command for a robot or something similar. Strange for a command line program. Possibly this is designed to break something? Sounds as if you have to really know what you're doing to use this option. Could also be a reference to Yu-Gi-Oh or other similar games where a card can be played in "Attack Mode".
+-b SUPPRESS BEES Nonsensical option. This is a word play, meaning either to suppress Bees (the insects) or the letter B. A possible implication is that running the program without this flag would somehow result in the user being attacked by bees. This is also a possible Discworld reference, as the long-term storage of the only recurring computer in the series, Hex, is composed of a beehive. (Note that the actual computer runs on ants.) Another explanation is that there will be smoke (perhaps magic smoke?), which is used by beekeepers to suppress bees.
+-— FLAGS USE EM DASHES Command line options (flags) typically use hyphens (short horizontal lines largely used within words). Em dashes (longer, with the same length as the letter "m") can't always be easily typed into a command line interface, so by invoking blerp with this flag you are intentionally making things difficult for yourself.
+This may be a play on how a lot of commands accept both single-dash options, like -h for help, as well as double-dash options like --help also for help. In word processors, a double-dash (--) is often replaced with the longer em dash (—), making them kind of synonymous.
+Also implies a paradox where if flags were to use em dashes, this flag would be invalid.
+-c COUNT NUMBER OF ARGUMENTS Most likely not useful, but the only function of blerp whose behaviour is at all well defined, although there is no indication whether it would count duplicate flags or only distinct ones.
+-d PIPES OUTPUT TO DEBUG.EXE DEBUG.EXE is the old 16-bit debugger that came with MS-DOS. On a Unix system it is much more likely that one would use the GNU Debugger (GDB). A debugger is usually called by calling the debugger with the program (or script) to be debugged as parameter.
+Piping in Unix means that the output of one program serves as input for another program.
+-D DEPRECATED Many programs contain legacy options to avoid breaking scripts that use them. While the option should still work, the documentation is changed to say "deprecated" to discourage further use. Eventually such options usually get removed. (However, given the nature of this comic, it's likely that -D has always stood for "deprecated".)
+-e EXECUTE SOMETHING Vague. Also a possible pun on a kill-switch.
+-f FUN MODE Strange and slightly ominous, given some of the other options. How does the program know what the user would consider fun? Perhaps blerp is sentient, and has its own concept of "fun". See under -O.
+The presence of an -f and then "FLAGS" in the usage Synopsis suggests that this flag can be used to flag that subsequent command flags are explicitly under the FUN MODE context, but with nothing to prevent -f (also?) being a standalone flag in the general ARGS (argument options, including flag parameters) or being further included in such a FUN MODE's hierarchical list of flags. This is just a further ambiguity to the Synopsis format, where it is often explicitly expanded into separate interpretations where the program has a complex but defined-in expectation of how to deal with such varied parsing possibilities.
+-g USE GOOGLE As an actual program flag, a bit hackjob-ish, but it is possible it is telling the user to use Google to find out what this tag does. Or, the program might actually use Google functionality (e.g. a code library online) or even simply the search mask to achieve the filtering it is supposed to do. The fact that this is optional suggests that there is also a 'native' implementation that does not use Google.
+Possible reference to the title text, which could mean that the title text is telling the user to use this flag.
+-h CHECK WHETHER INPUT HALTS The Halting problem is the problem of determining, from a description of an arbitrary computer program and an input, whether the program will finish running or continue to run forever. Alan Turing proved in 1936 that a general algorithm to solve the halting problem for all possible program-input pairs cannot exist. Halting problem also featured in the comic 1266: Halting Problem.
+Many Unix and Linux commands reserve -h for help, so using it for a different function is non-standard. The shutdown command is a real example of an exception: it uses -h to cause the computer to halt.
+-i IGNORE CASE (LOWER) Usually, ignoring case means that a program will run without differentiating between upper- and lowercase. This flag suggests that blerp will run ignoring all the lowercase characters completely, or ignoring all the uppercase characters with the next flag "-I". Alternatively it will ignore the case of all lower case characters, but not upper case ones. Or perhaps this option makes the program ignore the case of flags like -i and -I...
+-I IGNORE CASE (UPPER) See above. Also possible that all text is converted to upper case, or that upper-case requirements only are ignored.
+-jk KIDDING A common acronym for Just Kidding, not usually a program flag! Also note that standard behavior of Unix command line options is that a single "-" can be followed by multiple one-letter options, making -jk equivalent to -j -k. Perhaps this is a reference to the -WhatIf flag provided by many programs written in powershell. Some UNIX programs do offer a "simulation mode" before important, irreversible operations, such as the "-n" switch of mke2fs.
+-n BEHAVIOR NOT DEFINED Who would ever knowingly run a program, knowing that its behaviour was non-deterministic or random? Doing such a thing seems potentially sinister. (Possible debug/unstable feature flag.)
+-o OVERWRITE Standard program flag, usually meaning that the program will overwrite a file rather than make a new one when data is output. But the text does not indicate what the program will overwrite, it could be anything. May work strangely with -d.
+-O OPPOSITE DAY Strange flag, a reference to Opposite Day. Perhaps indicates that it would make all other flags have the opposite effects as usual. If so, a lot of strange things would happen, especially with -b, -e, -f, -jk, -O, -S, and -y. On the other hand, it may simply indicate that absent flags are treated as if they were present and vice versa.
+-p SET TRUE POPE; ACCEPTS "ROME" OR "AVIGNON" This refers to a historical schism in the Catholic Church. In the 14th century, the Pope briefly ruled from Avignon, France, instead of Rome. After the Papacy was returned to Rome in 1377, the Church split (the so-called Western Schism) as not everyone accepted the move or the authority of the Pope who ordered it. This flag apparently allows the user to select a preferred Pope. A possible feature request for blerp would be to allow "PISA". It is the second time this week that Popes have been mentioned, last time was two comics before in 1690: Time-Tracking Software regarding the Pope's sexual activity.
+-q QUIET MODE; OUTPUT IS PRINTED TO STDOUT INSTEAD OF BEING SPOKEN ALOUD In most cases, a program will output basic information to the console, and running it in quiet mode will make it run without outputting anything. Blerp, on the other hand, apparently outputs information through audio, and the quiet flag causes it to run like a normal program. "STDOUT" is short for "standard output".
+-r RANDOMIZE ARGUMENTS Pointless and possibly damaging. Presumably the randomization takes the form of any flag randomly causing the behavior of another. This would perhaps be similar in effect to the -n flag.
+-R RUN RECURSIVELY ON http://* The star (*) symbol is often used as a wildcard to match any string of characters. "http://*" suggests that blerp will be run recursively on every (unsecured) webpage on the internet. Programming requirements that might make this a valid thing to want to do are ominous.
+-s FOLLOW SYMBOLIC LINKS SYMBOLICALLY A symbolic link is a filesystem feature that allows the creation of "fake" files which when accessed redirect to another file path. Many commands offer an option to follow filesystem links and operate on the actual file rather than the fake pointer; this option however seems to suggest that it will only politely pretend to do so.
+-S STEALTH MODE Similar to -a, in that it sounds more like an option for some kind of robot. In this mode it appears the program will attempt to make sneaky changes without drawing any attention to itself.
+-t TUMBLE DRY Perhaps useful for a program that runs on a clothes dryer. Refers to directions like these. Many clothing items are marked "do not tumble dry" in the care instructions, but this would be extremely difficult to make relevant to a program. Given the other flags, this may be less nonsensical than it would first appear. This flag could also be a reference to the dry-run flags that are sometimes available to make command line tools do a simulation run without making any actual modifications to the system.
+-u UTF-8 MODE; OTHERWISE DEFAULTS TO ANSEL ANSEL is an old and obscure character encoding that predates ASCII. Using ANSEL as a default would be strange and largely incompatible with most modern systems. By comparison, UTF-8 is standard in the mainstream. Similar in this regard to -q, blerp does something non-standard by default. The problem with using different modes (where the original was also UTF-8) is shown in the title text of 1683: Digital Data.
+-U UPDATE (DEFAULT: FACEBOOK) Update usually refers to replacing an old software with a newer version. The default here suggests posting a status update to Facebook, sourcing an update from Facebook, or updating Facebook itself.
+-v VERBOSE; ALIAS TO find / -exec cat {} Almost standard flag, in ordinary programs the opposite of -q - instead of silencing output, it generates more, usually to help with debugging. For blerp, this flag gets replaced with a command that prints the contents of all files in the filesystem tree. However, it will never complete, as certain device files never end (/dev/urandom contains random bytes). In any case, the "find" command is missing \; and will not run, instead complaining find: missing argument to `-exec' .
+-V SET VERSION NUMBER Many programs will have a flag to view their version number. This flag changes the version number instead. Version number should only be changed when the program is updated (because it's used for distinguishing which edition of a program you have), so manually changing the version number like this is strange and potentially damaging.
+-y YIKES yikes is an interjection which can express fear or empathy with unpleasant or undesirable circumstances. It is unclear how this would influence the program.
+Transcript[edit]
+[A terminal screen; the background is black and the text is white.]
+NAME
+blerp
+SYNOPSIS
+blerp {[ OPTION | ARGS ]...[ ARGS ... -f [FLAGS] ...}
+blerp {... DIRECTORY ... URL | BLERP} OPTIONS ] -{}
+DESCRIPTION
+blerp FILTERS LOCAL OR REMOTE FILES OR RESOURCES USING PATTERNS DEFINED BY ARGUMENTS AND ENVIRONMENT VARIABLES. THIS BEHAVIOR CAN BE ALTERED BY VARIOUS FLAGS.
+OPTIONS
+-a      ATTACK MODE
+-b      SUPPRESS BEES
+-—      FLAGS USE EM DASHES
+-c      COUNT NUMBER OF ARGUMENTS
+-d      PIPES OUTPUT TO DEBUG.EXE
+-D      DEPRECATED
+-e      EXECUTE SOMETHING
+-f      FUN MODE
+-g      USE GOOGLE
+-h      CHECK WHETHER INPUT HALTS
+-i      IGNORE CASE (LOWER)
+-I      IGNORE CASE (UPPER)
+-jk     KIDDING
+-n      BEHAVIOR NOT DEFINED
+-o      OVERWRITE
+-O      OPPOSITE DAY
+-p      SET TRUE POPE; ACCEPTS "ROME" OR "AVIGNON"
+-q      QUIET MODE; OUTPUT IS PRINTED TO STDOUT INSTEAD OF BEING SPOKEN ALOUD
+-r      RANDOMIZE ARGUMENTS
+-R      RUN RECURSIVELY ON http://*
+-s      FOLLOW SYMBOLIC LINKS SYMBOLICALLY
+-S      STEALTH MODE
+-t      TUMBLE DRY
+-u      UTF-8 MODE; OTHERWISE DEFAULTS TO ANSEL
+-U      UPDATE (DEFAULT: FACEBOOK)
+-v      VERBOSE; ALIAS TO find / -exec cat {}
+-V      SET VERSION NUMBER
+-y      YIKES
+SEE ALSO
+blerp(1), blerp(3), blirb(8), blarb(51) blorp(501)(c)(3)
+BUG REPORTS
+http://www.inaturalist.org/taxa/47744-Hemiptera
+COPYRIGHT
+GPL(2)(3+) CC-BY/5.0 RV 41.0 LIKE GECKO/BSD 4(2) OR BEST OFFER
+Trivia[edit]
+Actual UNIX manpages exist on some systems which are written in a similar, nonsensical style to these. Manual pages distributed for the <n>fun sections describe similarly humorous "commands" with unusual options. On some systems, these manual pages are available in funny-manpages or asr-manpages packages.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I do not entirely understand how wikis work; however, I have attempted to add a transcript. I apologize if anything breaks. I also apologize if this is not how I should be apologizing.
+In time, perhaps with counseling, I feel confident we will learn to forgive you. -- Brettpeirce (talk) 14:19, 27 June 2016 (UTC)
+108.162.241.135 04:27, 10 June 2016 (UTC)
+The Pope flag is referencing the time of the Avignon Papacy --108.162.237.243 04:56, 10 June 2016 (UTC)
+Would have frickin' loved Randall if he inserted a reference to Pope of Dope here. :D Todor (talk) 08:17, 10 June 2016 (UTC)
+OK, -e -h -v doesn't seem to work, it keeps halting at an input line!
+Also, -p "AVIGNON" only works if I specify -D -I, -O, or -jk.
+Why isn't -x documented on this man page? -x seems to do something but I'm not sure what the value of it is.
+-y just returns "CHROMOSOME MISMATCH".
+-a -e -f -n -o -r -S works if I specify -g, but -R starts to return CloudFlare errors after the first few million sites.
+-v -d seems to make debug.exe speak out loud, but eventually it just starts spouting seemingly random numbers, unless I use -q. Is this desired behavior, or a bug?
+255.255.255.0 (talk)  (please sign your comments with ~~~~)
+(-jk | off) 108.162.221.8 20:19, 10 June 2016 (UTC)
+The horrible thing about this comic is that somebody is sure to have implemented this program by the end of the day... 141.101.104.140 (talk) (please sign your comments with ~~~~)
+Found one on Github: https://github.com/iKevinY/blerp . It has a man page file, but the program itself just outputs "bleep blerp" and doesn't implement any of the flags (yet?). 141.101.104.141 08:05, 10 June 2016 (UTC)
+Thanks for linking my repo! I quickly drafted up the man page when the comic was released, and decided to use this project as an opportunity to become more familiar with Rust. I'll be gradually adding functionality to meet the "spec" of the man page. 108.162.244.79 06:38, 14 June 2016 (UTC)
+"Behavior Not Defined" might be a reference to undefined behavior, where a program is allowed to do anything including make demons fly out your nose: https://en.wikipedia.org/wiki/Undefined_behavior 108.162.219.12 06:48, 10 June 2016 (UTC)
+162.158.135.36 06:58, 10 June 2016 (UTC) Søren Mors
+I thought Ansel was a deliberate misspelling of ANSI, the most common 8 bit codepage. 162.158.135.36 (talk) (please sign your comments with ~~~~)
+The commit "Revision as of 07:08, 10 June 2016" reverted an IMO good explanation for the debug option with a bad one. Consider changing it back. Todor (talk) 07:20, 10 June 2016 (UTC)
+I agree. The bad explanation also mixed up piping with redirection --141.101.104.76 07:41, 10 June 2016 (UTC)
+I don't think `blerp -a -d -t -p "AVIGNON"` is a valid call to blerp, because the syntax line syntax is utterly off. For example, the first line has an unclosed open [, whereas the second line – in addition to having the corresponding unmatched ] – plays with the fact that even though {} is usually used to list a set of required items, {} is also how `find` (which might do something similar to blerp, and is in fact mentioned in -v) denotes its results when passed to an exec. 141.101.104.30 (talk) (please sign your comments with ~~~~)
+Command line options do not normally use n-dashes; they use hyphens. Another problem with this option is that n-dashes and m-dashes cannot usually be displayed properly in the fixed-width fonts commonly used for command line terminals. The usual custom is to use two hyphens to represent a dash (which for proportional font display will often be converted to either an n-dash or m-dash).
+In groff (GNU troff, the language in which man pages are written) the code for an m-dash is \(em. It will display as either two hyphens "--" or as an actual m-dash "—" depending on the character set specified in the locale environment variables. Locoluis (talk) 17:17, 10 June 2016 (UTC)
+Many commands use a double dash "--" to specify the end of the options. In "ls -a" the "-a" is an option. In "ls -- -a" the "-a" is the name of the file.--108.162.218.59 16:00, 11 June 2016 (UTC)
+While "check whether input halts" clearly alludes to the halting problem, it may not actually be impossible, depending on what blerp actually does and what sort of input it accepts. (It says nothing about actually reporting the result, and it makes no guarantees that it will itself halt.)
+—PhantomLimbic (talk) 07:30, 10 June 2016 (UTC)
+Indeed. Turing's proof for the halting theorem says that there is no algorithm that allows a Turing machine to determine whether any possible program/input combination will halt. However, this doesn't necessarily mean that it's impossible to develop an algorithm that determines whether a particular, fixed program will halt on an arbitrary input. 141.101.104.141 08:14, 10 June 2016 (UTC)
+Currently, there is no mention of the unmatched square brackets in the synopsis, or unmatched parenthesis in the title text. Presumably a reference to XKCD comic 859. 141.101.98.77 07:51, 10 June 2016 (UTC)
+Attack Mode might be a reference to the Yu-Gi-Oh Trading Card Game 162.158.85.117 08:23, 10 June 2016 (UTC)
+Attack mode could also be a pun on "Attract Mode", a demo mode of arcade machines which is meant to attract players. 162.158.85.243 09:39, 15 June 2016 (UTC)
+In the description of -b the computer (Named "Hex") from discworld uses ants not bees. Ref: https://en.wikipedia.org/wiki/Hex_(Discworld) 141.101.98.125 09:13, 10 June 2016 (UTC)Bluewhelk
+Hmm. Reading the wiki article further Hex uses a beehive for long term storage! My bad 141.101.98.125 09:20, 10 June 2016 (UTC)Bluewhelk
+"Or best offer" doesn't need to reference a financial offer, it may also mean that anyone offering to reuse the article with an alternative license is allowed to do so. Attack Mode and Stealth Mode seem to me to be references to computer viruses. Stealth Mode is also an option in some applications that can hide their presence when run, often because of malicious behavior, such as remote access tools, keyloggers, etc. Piping is not only used in Unix, it is also common in MS-DOS. Opposite Day has a good explanation on Wikipedia. Literal quote from Wikipedia: "Once Opposite Day is declared, statements mean the opposite of what they usually mean.". --162.158.222.217 11:17, 10 June 2016 (UTC)
+Is there any evidence that Opposite Day may refer to Cyanide & Happiness? Opposite Day is a fairly well-known concept (at least from what I know growing up in the U.S.), and I don't see any direct connections to the specific C&H video short. I think that speculation should be removed. Sayno2quat (talk) 14:33, 10 June 2016 (UTC)
+I could be wrong, but I think the program is also "simulating" a man (a play with the words because it's a man page). If you think like that a lot more commands makes sense (especially, -D, -e, -f, -g, -jk, -R, -u). Just a penny for a thought. --108.162.241.134 11:52, 10 June 2016 (UTC)
+If someone wants a history of the useragent string (possibly a reference for that "citation needed"), then might be of interest. --Draco18s (talk) 16:12, 10 June 2016 (UTC)
+The -n option might be a reference to echo, where it is an option often used but which does not work on all systems.
+Am I the only one to see the “k” capitalized in -jK?
+Ltrlg (talk) 18:55, 10 June 2016 (UTC)
+I interpreted "CHECK WHETHER INPUT HALTS" as simply determining whether the input was a finite string. (while at the same time referencing the halting problem) --162.158.68.59 20:22, 10 June 2016 (UTC)
+I think that "suppress bees" probably indicates a smoke situation, a situation where the magic smoke is let out of the computer, such as halt-catch-fire. Smoke is the way to suppress bees. 108.162.249.158 20:24, 10 June 2016 (UTC)
+What does "BSD 4(2)" mean? --162.158.255.65 20:54, 10 June 2016 (UTC)
+blerp -v | blerp -ha Mikemk (talk) 21:28, 10 June 2016 (UTC)
+The word "bug" doesn't actually come from an insect; see the Etymology section of https://en.wikipedia.org/wiki/Software_bug 108.162.245.117 04:37, 11 June 2016 (UTC)
+Some remarks to the current explanation:
+- I think the description is more specific than suggested. It is true that command-line programs regularly read stdin and output something to stdout, but I would categorize only some of them grep/sed/awk/sort/... as filter in the narrower sense. Also that it can access remote files (URL syntax) is a clue
+- In the syntax we have args, option, options, and flags
+- the environment variables are never described
+- attack mode could refer to a network attack, e.g. trying to break into protected servers, or not just filtering the information, but also using it in a damaging way
+- suppress bees hints that for normal operation bees are used, something you would not expect from a typical command line program
+- the em dashes are probably used from there on on the command line (right of this option)
+- piping output to the MS-DOS debug.exe can be used for entering small assembly programs (including saving them typically as .com command), changing memory contents or accessing I/O ports. Normally it is used interactively. In a pipe setup it enhances the abilities of a text processing filter to do some enhanced actions on the target computer
+- execute something, similar to the find program which can execute an external program per match; could also mean a specified algorithm and refer to halting check; in any case "something" is quite vague for a man page
+- use google: either for input (e.g. read URLs by searching for ARG and getting the first found webpage) or some special Google API; possibly Google is so powerful, it can replace some of the functionality of the program. Just use Google
+- Check whether input halts hints that the input processing including algorithm execution is so complex that it can run into an infinite loop, but easy enough to be not yet Turing complete or it is and -h is the joke; or some input never halts, e.g. /dev/random, or it refers to the robot theory, e.g. whether the attacked victim halts
+- ignore case probably refers to the actual input files instead of to the command line
+- overwrite would be funny with speech output
+- the true pope is seemingly important fir filtering. Could refer to important faith settings for other programs, e.g. which editor to use vim/emacs or it us important for knowledge processing
+- randomize arguments is good for some test procedures
+- as mentioned in the explanation the copyright refers to the man page, not the program, here the explanation is inconsistent in the current revision
+Sebastian --162.158.83.168 08:55, 11 June 2016 (UTC)
+
+With reference to the See Also, the multiple blerps are due to different sections, see https://en.wikipedia.org/wiki/Man_page#Manual_sections 173.245.54.34 13:08, 11 June 2016 (UTC)
+Could "supress bees" reference to "debian-main"? 162.158.86.131 19:20, 11 June 2016 (UTC)
+Does the unclosed paren in the title text bother anyone else? 173.245.50.25 06:02, 12 June 2016 (UTC)
+Not me, but someone somewhere... - 108.162.244.85 08:41, 12 June 2016 (UTC)
+Is the newspaper on this What-If [1] relevant? - 108.162.244.85 08:41, 12 June 2016 (UTC)
+I've never put anything on this site, but I feel it's worth mentioning that lerp (which stands for linear interpolation) is a thing and it sounds like blerp. 108.162.245.119 02:31, 13 June 2016 (UTC)
+1. The NAME section is missing the one-line description that is necessary for the whatis and apropos commands. 2. "Set version number" could be used to set the version number in the output files or provide compatibility output. 108.162.216.98 02:38, 13 June 2016 (UTC)
+I thought one of the main features of licences like the GPL and BSD was that they weren't revocable (unless you break the licence terms)? Oh, and someone else already mentioned it, but computer bugs aren't called "bugs" because of insects flying into them. The reason there's that famous bug in a logbook? That's because "bug" already existed as a term for a malfunction, and the operator who kept that logbook found it funny that a bug was caused by an actual bug. 141.101.98.92 00:42, 14 June 2016 (UTC)
+The explanation about ANSEL is largely incorrect. ANSEL is backward compatible with 7-bit ASCII, which would make the "blerp" default compatible with most english-language inputs. Sysin (talk) 11:00, 15 June 2016 (UTC)
+The capital flags D, I, O, R, S, U, V, have exactly one English anagram found: "DO VIRUS". 162.158.255.143 (talk) (please sign your comments with ~~~~)
+Missing a Velociraptor option. -VR maybe? 108.162.246.70 01:03, 16 June 2016 (UTC)
+-b is probably reference to "Suppress warnings/errors" option in some commands, while -y is probably reference to a "yes" option (default all prompts to yes), and -e a reference to some programs that allow you to execute commands within it, though wording makes it look that it may actually be executing randomly. 172.68.253.191 16:45, 4 December 2017 (UTC)
+I think that GNU did this first, with `echo`. 162.158.166.191 (talk) (please sign your comments with ~~~~)
+Categories: All comicsComics from 2016Comics from JuneFriday comicsLinks to xkcd.comProgrammingComputersBSDBeesMan pagesScientific research

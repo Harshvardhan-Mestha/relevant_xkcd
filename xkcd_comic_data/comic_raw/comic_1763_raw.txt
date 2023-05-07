@@ -1,0 +1,54 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1763: Catcalling
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1763)
+|<< PrevComic #1763 (November 23, 2016)Next >>|
+Catcalling
+
+Title text: Effect strength => [unstoppable] | Effect range => [2 miles] | Effect duration => [1 year]
+Explanation[edit]
+"Catcalling" refers to the act of whistling or shouting to express sexual interest in a person, and often constitutes harassment. Annoyed by this practice, Megan alters the Universe Control Console to create a setting in which catcalling actually attracts cats (as the name implies), thus resulting in the catcaller being harassed by the overwhelming feline presence, instead of the other way around, likely in an attempt to discourage the act.
+When read without the title text, it could be assumed that Megan is trying not to punish catcallers, but to turn catcalling into a positive thing, since after the change is made catcalling will no longer offend women and instead attract the attention of cats, an animal many people on the internet find cute.[citation needed] It is only with the clarifying information in the title text that it becomes clear that Megan is trying to punish catcalling, thus changing the joke.
+It is interesting to note that changing what women find insulting/harassment would involve fundamentally changing their psychology on some level. How exactly the Universal Control Console will make them immune to this specific behavior is unclear. The Universal Control Console is an intentionally ambiguous device, but based on how Megan and Ponytail used it in 1620: Christmas Settings, it can be implied to change people's memories of what reality was like before a change, so using the catcalling example, it might make everyone in the universe forget what catcalling initially was, thus removing the insult of even trying to do it in the first place.
+The "Universe Control Console" was introduced in 1620: Christmas Settings as the "Universe Control Panel", where it was used to control aspects of reality related to Christmas. Based on the name, it is presumed all aspects of reality could be altered using this fictitious device. The pointer arrow and menu options shown above Megan appear to depict aspects of the user interface that Megan is seeing. In 2240: Timeline of the Universe someone hit the inflation switch starting the inflation again. And then someone stopped this by hitting the emergency stop. These must also be on the Universe Control Panel.
+The Console appears to have been modified/upgraded since its last appearance and features fewer controls while gaining a joystick in this incarnation. It also appears that Megan has learned to operate the console better since first encountering it. (Ponytail, who first demonstrated the console to Megan, may be the offscreen voice in this comic.)
+Furthermore, the title text suggests that catcalling now attracts all cats within two miles for an entire year. The prospect of being piled in cats for a year would discourage people from catcalling by a large amount.[citation needed] 1156: Conditioning also persuades people to change behavior related to wildlife.
+The redefining of terms related to sexual harassment as more innocent things has also been discussed in 1178: Pickup Artists.
+Also, the cursor on the console is left-handed for some reason.
+Transcript[edit]
+Offscreen: Hey! Are you messing with the Universe Control Console!?
+Megan: [standing at a control panel with a small lever and what appears to be a display] It's cool. Just gotta fix one thing.
+[Megan still at the control panel; now a mouse pointer appears]
+[Megan still at the control panel; "Catcalling" appears written at the top of the panel above a dropdown menu that says "Harasses women"; the pointer is hovering over the arrow]
+[Megan still at the control panel; The dropdown menu is expanded to show two elements: "Harasses women" and "Attracts cats". The pointer is hovering over "Attracts cats", which is highlighted]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Is it just me or wouldn't this fail if the misogynists also were cat-lovers? 141.101.98.224 15:16, 23 November 2016 (UTC)
+I doubt even cat-lovers would enjoy being swarmed by a hopeless amount of cats for an entire year. 162.158.74.36 15:51, 23 November 2016 (UTC
+You underestimate some peoples' love of cats. Hppavilion1 (talk) 03:08, 13 May 2017 (UTC)
+>"Misogyny" 108.162.245.51 (talk) (please sign your comments with ~~~~)
+The way I originally read this, in addition to wanting to stop getting harassed, Megan also just liked cats and wanted an easy way to gather them. 172.68.55.71 15:56, 23 November 2016 (UTC)
+My initial thought: Awww! Maybe by being confronted to care for neighborhood cats, such "men" might learn how to love and care for creatures who only want to exploit them, like said men do with women. That could work! ...And then I read the title text. --BigMal // 162.158.74.36 16:52, 23 November 2016 (UTC)
+To be sure, it is an astonishing feat to invent some mention of specifically men that is apparently present in the comic but which us mere mortals could never comprehend. 108.162.215.170 20:45, 21 October 2020 (UTC)
+Catcalling now attracts my friend Catherine. Int (talk) 17:00, 23 November 2016 (UTC)
+Did we know Megan was a lefty? jameslucas (" " / +) 18:18, 23 November 2016 (UTC)
+I imagine this comic is Randall Munroe making a statement. He has clearly demonstrated himself as left-leaning on numerous occasions. 172.69.34.140 09:49, 25 August 2020 (UTC)
+The big question is... does it attract bobcats? --172.68.54.123 21:30, 23 November 2016 (UTC)
+The cursor might not be left handed, rather, we might just be on the other side of the screen, eh? NotLock (talk) 07:40, 24 November 2016 (UTC)
+I was thinking the same thing, but dismissed the idea because the text ("Catcalling", "Attracts cats", etc) isn't similarly mirrored. The drop-down menu itself usually has its arrow-thingy on the right, though... Hmm... Maplestrip (talk) 11:22, 24 November 2016 (UTC)
+Maybe comic characters read in mirror-text! 162.158.165.176 23:23, 24 November 2016 (UTC)
+Occam seems to have lost his razor. Int (talk) 16:53, 4 December 2016 (UTC)
+I'm pretty sure the part about the title text being perl is wrong. It's definitely not perl5, because things like [2 miles] are not valid syntax at all. This might be perl6 with syntax I don't know, but I doubt it, since the square brackets would indicate something like an array rather than a single element: [2 miles] would then mean "2" and "miles" separately, which doesn't make much sense. 173.245.49.75 09:23, 24 November 2016 (UTC)
+I agree, it looks much more like trying to indicate text fields in a ASCII string. 162.158.69.142 12:20, 24 November 2016 (UTC)
+Seems to me those are just freakin' arrows indicating changing those settings. -- Jacky720 (talk) (please sign your comments with ~~~~)
+I read each "=>" in the title text as meaning "equal or greater than". Which is horrifying when you think about it. These Are Not The Comments You Are Looking For (talk) 06:23, 27 November 2016 (UTC)
+Effect strength is unstoppable OR GREATER.--108.162.237.40 16:45, 27 November 2016 (UTC)
+Wouldn't this very quickly result in the extinction of all cats, as they are forced to rush from one chauvinist to another, unable to escape long enough to eat or sleep? >Jesper 141.101.105.40 (talk) (please sign your comments with ~~~~)
+Catpocalypse! --188.114.111.116 17:41, 7 December 2016 (UTC)
+FYI The Universe Control Panel was used to alter the meaning of Catpocalypse. --188.114.111.116 17:47, 7 December 2016 (UTC)
+Why do you assume that Megan thinks that catcalling is harassing women? Maybe she is tired of women who get harassed by it, when in fact there is no point to. 162.158.150.140 15:03, 4 December 2016 (UTC)
+Does this change also apply to catcalling that is directed at men? If not, that certainly seems a bit sexist to exempt one gender from street harassment but not the other. 162.158.79.29 21:56, 18 January 2017 (UTC)
+I was going to point that out. Maybe it isn't catcalling when it's men? Maybe it has a different name, and she already adjusted that panel? Hppavilion1 (talk) 03:08, 13 May 2017 (UTC)
+Categories: All comicsComics from 2016Comics from NovemberWednesday comicsPages using the "citation needed" templateComics featuring MeganCats

@@ -1,0 +1,99 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1654: Universal Install Script
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1654)
+|<< PrevComic #1654 (March 11, 2016)Next >>|
+Universal Install Script
+
+Title text: The failures usually don't hurt anything, and if it installs several versions, it increases the chance that one of them is right. (Note: The 'yes' command and '2>/dev/null' are recommended additions.)
+Explanation[edit]
+Most users of computers today are used to simple, easy installation of programs. You just download a .exe or a .pkg, double click it, and do what it says. Sometimes you don't even have to install anything at all, and it runs without any installation.
+However, when things are more "homebrew", for example downloading source code, things are more complicated. Under Unix-like systems, which this universal install script is designed for, you may have to work with "build environments" and "makefiles", and command line tools. To make this process simpler, there exist repositories of programs which host either packages of source code and the things needed to build it or the pre-built programs. When you download the package, it automatically does most of the work of building the code into something executable if necessary and then installing it. However, there are many such repositories, such as "pip" and "brew", among others listed in the comic. If you only know the name of a program or package, you may not know in which repository(ies) it resides.
+The install.sh file provided in the comic is a shell script, which attempts to fix this problem by acting as a "universal install script" that contains a lot of common install commands used in various Unix-like systems. This script in particular is interpreted by the Bourne Again Shell (Bash), which is denoted by the #!/bin/bash in the first line. In between each of the install commands in the script is the & character, which in POSIX-compatible shells (including Bash, a popular shell scripting language) means it should continue to run the next command without waiting for the first command to finish, also known as "running in the background". This has the effect of running all the install commands simultaneously; all output and error text provided by them will be mixed together as they are all displaying on the screen around the same time.
+The script accepts the name of a program or package as an argument when you run it. This value is then referenced as "$1" (argument number 1). Everywhere the script says "$1", it substitutes in the name of the package you gave it. The end result is the name being tried against a large number of software repositories and package managers, and hopefully, at least one of them will be appropriate and the program will be successfully installed. Near the end, it even tries copying the source code from an online source and then runs several commands which compile/build the program.
+All in all, this script would probably work; it runs many standard popular repository programs and package managers, and runs the nearly-universal commands needed to build a program. Most of the commands would simply give an error and exit, but hopefully the correct one will proceed with the install.
+One of the more subtle jokes in the comic is the inclusion of apt-get and sudo apt-get in the same script. Good unix practice dictates never logging in as root; instead you stay logged in as your normal user, and run system admin accounts via sudo program name. This prevents accidental errors and enables logging of all sensitive commands. A side effect of this, however, is that an administrator may forget to prefix their command with sudo, and re-running it properly the second time. This is a common joke in the Linux community, an example of which can be found at this viral tweet which shows a humorous workaround for the issue.
+Since Randall's script does not use sudo for any but the apt-get command, there are two possibilities: the script itself was run via the root user or via sudo, in which case the sudo apt-get is not needed, or the script was run as a normal user, in this case the commands may install a local (as opposed to system-wide) version depending on local conditions. For instance npm will install a copy of the package under $HOME/.npm and pip would work as long as the user is working in a virtualenv (which is standard practice for Python developers).
+Sudo has also been used both by Randall in 149: Sandwich and by Jason Fox to force Randall to let him appear on xkcd with 824: Guest Week: Bill Amend (FoxTrot).
+The tool curl downloads files from the network (e.g., the Internet). For example, curl http://xkcd.com/ downloads and displays the xkcd HTML source. The pipe | in the script attaches the output of the command before the pipe to the input of the command after the pipe, thus running whatever commands exist in the web content. Although this "curl|sh" pattern is a common practice for conveniently installing software, it is considered extremely unwise; you are running untrusted code without validation, there may be a MITM who modifies the code you receive, or the remote system could have been hijacked and the code made malicious. Most local package managers (e.g. apt, yum) offer digitally-signed packages that thwart this problem. You can find many examples of software providers suggesting a curl|sh solution at curlpipesh
+There appears to be a bug with the & at the end of the "git clone" line; since a git repository typically contains program source code, not executables, it may have been intended to retrieve the source code with git and then compile and install the program in the next line. In this case, the single & should be replaced with &&, an operator that will run the second command only if the first one has completed successfully. This plays into a second bug on the "configure" line, where the placement of the & means that only the "make install" command will be run asynchronously after the "configure" and "make" steps have finished in sequence (though this would likely fail due to a lack for write permissions unless it was run with sudo). To make success as likely as possible, the two lines should be like this or script should be executed twice:
+git clone https://github.com/"$1"/"$1" && (cd "$1"; ./configure; make; sudo make install) &
+Since all commands are running in the background, any command that requires user input will stop and wait until brought to the foreground. A common request would be for a database password, or if it is allowed to restart services for the installation. This could lead to packages being only partly installed or configured. (See more about using "yes" below.)
+The title text mentions the possibility that the same program may be in multiple repositories, so in this case, the script will download and install several versions, or it may fail on a number of repositories, in which case usually nothing bad happens. Since all the commands come from different operating systems, versions, or distributions, it is not very likely that more than one will work (with the exception of pip/easy_install and the two forms of apt-get) or even exist on the same system. It mentions that adding a way of automatically saying "yes" to questions asked during the different repository-fetching programs' running, by making them read input from another program that writes a (nearly) endless stream of "y"s, could simplify things further. This would not work for any curses-based menus, or to answer any more complicated questions. Adding 2>/dev/null to a command redirects the second output stream (the "error stream") to the null device driver, which discards all writes to it, meaning errors (the package not existing) will not be sent to the screen.
+Transcript[edit]
+[In the panel is a shell script which, unusual for xkcd, uses only lower case. At the top the title of the program is inlaid in the frame, which has been broken here.]
+Install.sh
+#!/bin/bash
+pip install "$1" &
+easy_install "$1" &
+brew install "$1" &
+npm install "$1" &
+yum install "$1" & dnf install "$1" &
+docker run "$1" &
+pkg install "$1" &
+apt-get install "$1" &
+sudo apt-get install "$1" &
+steamcmd +app_update "$1" validate &
+git clone https://github.com/"$1"/"$1" &
+cd "$1";./configure;make;make install &
+curl "$1" | bash &
+Trivia[edit]
+pip and easy install are package managers for Python
+brew is the successor/replacement for MacPorts and a third-party package manager for OS X
+npm is the node package manager that maintains node.js packages
+yum is the package management tool for Red Hat Enterprise Linux and some derivatives
+dnf is the package management tool for Fedora since version 22
+docker run is a Docker command that runs a given container (similar to a virtual machine)
+pkg is the package management tool on BSD systems
+apt-get is the package management tool of Debian and derivatives (e.g. Ubuntu)
+steamcmd refers to the command line version of Steam, the computer game client
+git is the revision control software used for many projects and gained a lot of traction through the GitHub platform
+configure/make/make install refers to the standard way of compiling software from source (on Linux/Unix)
+curl is a tool for loading data via http:// (i.e. from a website), this data is then pushed to the shell interpreter (in order to install)
+Note: While this is a security nightmare, some projects (like Homebrew) still use it as the preferred or only method of installation.
+a similar comic is 1987 which concerns only Python.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+A few comments:
+curl | sh is still a common way to install things like package managers. Until you have Homebrew, or pip (for older versions of Python that didn't bootstrap it), etc., you can't use a package manager to install it, so they usually give you a one-liner to download and run a shell script that installs the package manager. Of course this isn't an issue for linux distros (which, unlike OS X, come with a built-in package manager).
+Mac users probably only interact with Steam through its GUI, but on linux, running steamcmd is more common. And this command will install a game that's in your library but not downloaded yet.
+I don't know why _only_ apt gets a sudo, but for brew, and for typical installations of Python on a Mac, you don't want or need sudo; they encourage you to leave the relevant directory writable by your normal user account.
+This script only handles the popular package managers on OS X and current popular linux distros. No port for FreeBSD, no Choco for Windows, etc. In fact, if you try it on Windows, you should get an error message telling you that you've ruined the joke by trying to extend it.
+--162.158.255.82 10:44, 11 March 2016 (UTC)
+Also, docker is a deployment tool for deploying isolated, complete applications. For example, instead of just installing the Python scripts to run your web server behind nginx, you'd deploy nginx, Python, the modules you need for each, the appropriate configurations, a variety of tools the server depends on, and your scripts all as one big hunk of stuff. The docker website probably explains it better. :) --162.158.255.82 10:50, 11 March 2016 (UTC)
+Errors
+He forgot the .git on the end of the git clone command.
+--173.245.54.53 11:16, 11 March 2016 (UTC)
+Actually, the command works fine anyway. I don't know whether it's git or GitHub which works around this. 141.101.75.161 11:46, 11 March 2016 (UTC)
+Really? I've been typing 4 more characters than I needed to all this time. 173.245.54.10 16:29, 11 March 2016 (UTC)
+Yes you have -- and for information, it is git that does the work around Spongebob (talk) 22:44, 11 March 2016 (UTC)
+Also, the TLD in the curl. And, the install script would probably be at /install.sh, and use sh not bash.
+Sh is generally preferred in scripting anyway since it comes on all *nix systems by default. Bash is on a very large number of systems, but not all.
+Apt-get should have the -y flag.
+If installing a program, npm should be given the -g flag to install globally instead of just in this directory.
+Most programs print errors (as would arise if a package did not exist) to the console even if they are run with an & to indicate it should not be attached to the session. In this case, it should be &>/dev/null.
+The program as a whole ignores previous programs and continues anyway. If it was found in one package manager, it would be a a very bad idea to write over it with another package manager's copy. This is part of the point of the comic, as is noted in the title text, but it's still an error. --173.245.54.53 11:38, 11 March 2016 (UTC)
+He forgot cpanm. :) 108.162.217.17 16:02, 11 March 2016 (UTC)
+He also left off emerge for Gentoo users. 198.41.235.47 19:08, 11 March 2016 (UTC)
+Question
+That whooshing sound you heard was the Linux-y stuff going way over my head, but could part of the joke be that he's trying to install money? With all the $1's in the script? 173.245.54.53 15:47, 11 March 2016 (UTC)
+No, all those $ are just part of the scripting language -- the $1's get replaced with the name of the program you're trying to install. There are so many $ simply because he's included so many install commands, each one of which needs the name of the program.-boB (talk) 16:00, 11 March 2016 (UTC)
+On that note, would any of these fail or would it not just be easier to use `$@`? xerxesbeat (talk) 19:27, 11 March 2016 (UTC)
+`$@` and `$1` are different things -- `$@` replaces with all the parameters to the script where `$1` only does the first one -- for the script to have **any** change of working he will need just (exactly) the first one Spongebob (talk) 22:48, 11 March 2016 (UTC)
+Inaccurate Description of &&
+The description formerly described the usage of &&:
+"This bug could be indicative that Randall wanted to use && throughout the whole script. This would make the installation trying sequentially and the first successful install stops the script and will not install multiple versions of the same software."
+This is false. The && operator will *quit* when it encounters the first command that *fails*. The operator that behaves as described is ||. With that said, it is obvious that Randall did not intend this, especially because the title text mentions what happens when multiple versions are installed.
+108.162.216.64 16:23, 11 March 2016 (UTC)
+Won't work on Arch Mikemk (talk) 00:05, 12 March 2016 (UTC)
+i am very disappointed that that does not read "doesn't work..." --162.158.153.29 12:58, 14 March 2016 (UTC)
+Added clarification on bash scripts
+I've added a few lines addressing the concerns formerly displayed in the incomplete tag. Hopefully my edits will be easier for the layman to understand. Please let me know if this needs further attention. AfroThundr3007730 (talk) 12:30, 16 March 2016 (UTC)
+He totally forgot to include "urpmi $1" --108.162.216.11 03:33, 17 March 2016 (UTC)
+asdf
+I was amazed to notice someone actually created such a program, esoterically called asdf, which supports multiple languages like that. --Anarcat (talk) 17:39, 22 October 2018 (UTC)
+Meta Package Manager
+There is a CLI called Meta Package Manager that is trying to solve this issue. Source: comment on Hacker News.
+Categories: All comicsComics from 2016Comics from MarchFriday comicsLinuxProgrammingVersion ControlComics with lowercase text

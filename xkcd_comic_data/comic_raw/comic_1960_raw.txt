@@ -1,0 +1,72 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1960: Code Golf
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1960)
+|<< PrevComic #1960 (February 26, 2018)Next >>|
+Code Golf
+
+Title text: I also enjoy Reverse Regular Golf. I've been playing for years all across the country and I'm still on the first hole.
+Explanation[edit]
+This was the first comic in the My Hobby series in over a year. It directly followed the second Fun fact comic in the same month, 1959: The Simpsons, after more than two years break from that series. It seems that Randall returned to his old themes this month.
+Code golf is the attempt to use as few characters as possible to write a computer program with a certain function, analogously to regular golf's goal of getting the ball into the hole with as few strokes as possible. Reverse code golf would be to write a given program, probably to achieve a trivial outcome, using as many characters as possible. Randall's approach to this in the code example shown in the comic is to create overly long function names, using the beginning lines of Herman Melville's notoriously long-winded whaling novel Moby-Dick. Regular code golf also results in names of functions and variables that have nothing to do with their purpose in the program, but would minimise their length.
+Using "as many characters as possible" to produce code is known as "Code Bowling" in the code golf space. Code bowling challenges usually come the requirement of being "pristine" meaning every substring of the code is necessary, and also often have restrictions on whitespace and identifier length. Without these restrictions it would be a trivial task to make any given program longer by inserting useless code or comments. Furthermore, some programming languages place no limit on function names, so these could simply be made longer. The program listed here would not meet the requirements of most challenges. The code is written in a programming language that looks similar to Python, but with the keyword “define” instead of “def” to define functions. Python has no limit for function name length, and was previously featured in comic 353: Python.
+The first two functions defined implement “zero” and “successor”, the two basic operations of Peano arithmetic. Presumably, the programmer will next implement natural number addition, then integers, then whichever branches of mathematics the original problem needs, all from scratch. Generally, you would use built-in functions to perform mathematical operations, so it is redundant to implement them yourself from scratch.
+The title text suggests that Randall has also invented a reverse version of regular golf, where the aim is to take as many strokes as possible to get the ball in the hole. Similarly to Reverse Code Golf, the only challenge here would be the player's own boredom threshold, since they could always add more strokes by tapping the ball in a direction other than that of the hole. Alternatively, he actually plays golf in reverse, starting from the hole (or pin) and hitting the ball towards the tee (he may or may not also be playing in the opposite direction of the hole layout established by the organisation which manages the course). This would however, be a flagrant violation of the Laws and Customs of Golf, as it interferes with other players' games and some aspects are impossible or unpractical (if Randall takes the view that the ball should start in the hole, the rules prohibit using any clubs to remove it in that it would damage the hole, and he would have to putt off the green).
+The comment that he has "been playing for years all across the country and [is] still on the first hole" is ambiguous. Normally, when a golfer says they have been playing all across the country they mean that they have played rounds at many different courses. Randall could be implying the same, but that he's never finished the first hole (which, as noted above, would hardly be surprising), and so still counts it as playing one continuous first hole. Alternatively, he may literally mean that he has been playing the ball continuously across the whole country. Under normal golf rules this would result in his shots going "Out of Bounds" when it went beyond the boundaries of the original course. In one way, this would help him, as he would incur a penalty stroke. However, he would then have to play his next shot from the same spot as the last one, which would hamper him from continuing to play across the country. Since Randall has invented the sport, though, he may have chosen not to include Out of Bounds rules.
+Interestingly, the comic ends with an unmatched left parenthesis (something which might be intended to create unresolved tension.
+Transcript[edit]
+[There is code written as colored text in a black box (all black text here below is white in the comic):]
+define callMeIshmaelSomeYearsAgoNeverMindHowLongPrecisely():
+return 0
+define havingLittleOrNoMoneyInMyPurseAndNothingParticular(toInterestMeOnShoreIThoughtIWouldSail):
+return 1+toInterestMeOnShoreIThoughtIWouldSail
+define aLittleAndSeeTheWateryPartOfTheWorld(
+[Caption under the black box:]
+My hobby:
+Reverse Code Golf
+Trivia[edit]
+Revitalizing old themes[edit]
+Is Randall revitalizing old themes?
+This was the first comic in the My Hobby series for over a year.
+The previous one, 1795: All You Can Eat, was released early in February 2017, and this one at the end of February 2018.
+This is by far the longest span between My Hobby comics, since the first, 37: Hyphen, came out in comic 37 back in 2005.
+It also followed directly after the second Fun fact comic in the same month, 1959: The Simpsons, after more than two years break from that series.
+That Fun Fact comic was also in the Comics to make one feel old category, a subject he had not returned to since October last year (so not that long, but still a return to a well known theme).
+The first of the two Fun Fact comics was 1950: Chicken Pox and Name Statistics.
+Finally in the very next comic he returned to his problems with Small Talk and social interactions in general in 1961: Interaction, something he last dealt with in three comics released for about two years ago, the last being 1650: Baby.
+This comic also refers to another recurring theme Programming, but there has been no break from this as this was the third of those already in 2018.
+Reverse golf[edit]
+"Reverse code golf" has been mentioned on Code Golf Stack Exchange.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+What's the programming language? It seems to me like a special reverse golf variant of Python, where def is replaced by define, just to make it longer. Or is there a real language with that syntax? --172.68.110.106 08:40, 26 February 2018 (UTC)
+Lisp/some derivatives (I'm most familiar with scheme) use define<define> as does Slate, however both have a different syntax. Most likely, this is just pseudo-code. Baldrickk (talk) 09:59, 26 February 2018 (UTC)
+Definitely going to have to include a link to the actual longest language: Unary, which is literally just a certain length of 1s. No one actually writes in it: you write in another language and then it gets converted. Trlkly (talk) 10:48, 26 February 2018 (UTC)
+You could make a longer programming language by representing "1" with some longer string; perhaps the entire text of Moby Dick. And now the file size can be arbitrarily big. 198.41.230.100 16:45, 26 February 2018 (UTC)
+Though this idea is still quite compressible. It might be better (?) to make a language where the file size cannot be easily significantly compressed.172.68.25.106 16:48, 26 February 2018 (UTC)
+This might be directed at a code golfing challenge currently taking place: https://codegolf.stackexchange.com/questions/152856/write-moby-dick-approximately. The goal is to write a program that outputs a text, that is as closly as possible to moby dick, while no containing it, and of course beeing as small as possible.141.101.105.150 13:04, 26 February 2018 (UTC)
+Not sure why JSFuck is included in the explanation. Not sure how it really has any relevance here as it is not mentioned in the text and is not the programming language being used by Randall in the comic. 108.162.216.94 13:18, 26 February 2018 (UTC)
+agreed, JSFuck is not relevant in the explanation. moved it to the discussion (see below) Thawn (talk) 13:56, 26 February 2018 (UTC)
+Instead of Python, one could use JSFuck though, which is valid JavaScript code - but written with only six different characters. Even mundane variable names like `LowestDenominator` will take up hundreds, if not thousands, of bytes in JSFuck. -- Comment Police (talk) (please sign your comments with ~~~~)
+I added it because JSFuck allows you to write you simple and useful tasks with zillions of bytes, each of which is needed for the programm to run correctly. It's the ultimate Reverse Coding Golf.--172.68.50.178 13:53, 27 February 2018 (UTC)
+Off Topic: I just realized that statistical thermodynamics is nothing else than reverse molecule golf: The entropy of a given system is equal to the maximum score you can achieve in reverse molecule golf. Thawn (talk) 13:56, 26 February 2018 (UTC)
+Seems like Java programmers play this game all the time.162.158.234.100 20:13, 26 February 2018 (UTC)
+Someone made everyone's comments monospaced. Please fix this. 198.41.230.100 14:24, 26 February 2018 (UTC)
+Fixed 162.158.155.26 15:52, 26 February 2018 (UTC)
+They just wanted to play reverse comments golf with the comments section by making the comments take as much space as possible. 162.158.126.76 15:56, 26 February 2018 (UTC)
+This is called Code Bowling.
+I would like to point out that there may be a ReCaptcha site shutdown? It will occur on the 1st of March (maybe). QATEKLYXM
+Is the explanation thinking of miniature golf when it mentions a hedge or border and the need for a ramp? In actual golf you can easily hit the ball through the air with almost every single club...and just as easily hit it off of the golf course. [[[Special:Contributions/172.69.62.64|172.69.62.64]] 15:11, 27 February 2018 (UTC)]
+Curious Georges also likes Reverse Regular Golf! 108.162.237.232 02:18, 28 February 2018 (UTC)
+I found this xkcd confusing because there appears to be no obvious limiting principal. The code in the panel is written verbosely, but it could easily be a word longer, a paragraph longer, a page longer, a chapter longer, an entire book longer. Nor is skill (or chance!) particularly required to do such a thing [I suppose in "blinded reverse code golf" the question might be to guess how much length your opponents would bother to express and then to top that]. The result is I feel confused. Maybe my standards for humor are too high, but maybe, also, I'm just missing something here? JohnHawkinson (talk) 12:02, 28 February 2018 (UTC)
++1 Elektrizikekswerk (talk) 12:07, 28 February 2018 (UTC)
+I think that is the joke: what a stupidly bad game reverse code golf is. ditto for reverse regular golf. Or a dumb excuse for writing unreasonably long code/playing with a golfball in random settings User:00N8
+No mention of The International Obfuscated C Code Contest? It's about as close to reverse code golf as there is. 172.68.255.158 14:20, 28 February 2018 (UTC)
+If Randall plays Reverse Golf while playing out-of-bounds, and that means he's getting at least one penalty stroke for every regular, out-of-bounds stroke, it seems to me he perfectly well understood the rules of both golf and reverse golf. He's gaining strokes at twice the regular speed. 141.101.104.17 15:49, 28 February 2018 (UTC)
+this guy gets it 00N8
+I was so confused by this comic it took me a few minutes to figure out "This was the first comic in the My Hobby series for over a year" is supposed to read "in over a year" 108.162.221.95 05:43, 23 March 2018 (UTC)
+Code golf is the attempt to use as few *key-strokes* as possible, that makes the analogy with regular golf strokes clearer. (currently reads "Code golf is the attempt to use as few characters as possible") 162.158.154.103 15:16, 19 September 2018 (UTC)
+To me, "reverse regular golf" is starting with the ball in the hole, and you need to get it out and to the starting position in as little hits as possible. the second part of the title text is explained by how its very difficult to get the club into the whole and hit the ball out of it. maybe add this to explanation? 108.162.221.193 11:53, 14 September 2021 (UTC)Bumpf Isn't the code obviously a reference to "Moby Dick"? I think this should be added to the "Trivia" section. 172.70.211.82 18:39, 14 September 2022 (UTC)
+Categories: All comicsComics from 2018Comics from FebruaryMonday comicsComics with colorMy HobbyProgramming

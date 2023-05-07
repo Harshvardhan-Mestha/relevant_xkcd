@@ -1,0 +1,187 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1571: Car Model Names
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1571)
+|<< PrevComic #1571 (August 31, 2015)Next >>|
+Car Model Names
+
+Title text: CLIMAX is good, but SEXCLIMAX is even better.
+Explanation[edit]
+In English, letters like X and Z are rarely used in the common vernacular. Marketers have found that names with these infrequently-appearing letters sell more products.
+Scores
+There are two explanations for scores. Both of them share the fact that Randall must have used a car-name database to calculate letter frequency in car models.
+There are 19 positive scores and 17 negative scores, which is interpreted differently in each explanation.
+Score(x) = Frequency_in_cars(x) - Frequency_in_English(x)
+This formula generates a positive number if a letter is more common in car models than in typical English (as X) which Randall then calls carlike. The formula generates a negative number if a letter's relative frequency in car models is lower than in typical English (as O) and Randall calls it English-like (more suitable for readable text). The letters F and B, with scores of 5 and -5, respectively, are about as common in English as in car models. With this nomenclature, the most English-like letter is Y because, while not the most common English letter, it is apparently extremely rare in car models. The most common letter in ordinary English is E, which is (presumably) fairly common in car models.
+Score(x) = Frequency_in_cars(x)
+It seems that Randall arbitrarily used positive and negative numbers: if a letter is very common in car models (as X) he calls it carlike. If a letter is very uncommon in car models (as O) he calls it English-like. With this nomenclature the most English-like letter is Y, but actually Y is the least carlike letter. The most common letter in ordinary English is E. Y on the other hand is just in the middle (place 13), which can't be called English-like.
+Algorithm for the index
+Randall devised an index for car models which is the score average divided by 10.
+Example
+We take 2Chainz and add the scores of its different numbers and letters: 6 +27 -44 -14 -21 -46 +83 = -9
+Average is -9/7 = -1.29 and divided by 10 it's -0.129 or -0.13.
+Names to avoid
+Honda 2Chainz - 2 Chainz is an American rapper
+Mitsubishi Fhqwhgads - A reference to a running joke on Homestar Runner. See http://www.hrwiki.org/wiki/Fhqwhgads
+Kia 49andGothy - Gothy or gothic is a member of the goth subculture; most of its members are much younger than 49
+Chevrolet Niceguy - A reference to the idiom "nice guys finish last".
+Oldsmobile Goodwood - May be a reference to the Goodwood Festival of Speed
+Infiniti Toothy69 - "69" is slang for a sex position where two participants pleasure each other orally; for obvious reasons, many would not want teeth involved.
+BMW Outhouse - Loose standing toilet, or Outhouse.
+Volkswagen Woodpony 7oh7 - Wood ponies are wooden constructions to give kids (and sometimes adults) the feeling of riding a horse, but don't actually move. 7oh7 is a way to pronounce 707, which could be a reference to the Boeing 707 passenger jet series.
+Chrysler Uh Iono - When pronounced, sounds roughly like someone slurring "Uh, I don't know"
+Nissan Doody - An incredibly juvenile term meaning feces. May reference the unfortunately named Nissan Moco, which is Spanish for snot
+Potential Hits
+Honda 3Chainz - A play on 2Chainz in the previous section; according to the table the number 2 has a score of 6 and the number 3 has a higher score of 55; the index will go up by (55-6)/7/10=0.7.
+Subaru Andre3000 - André 3000 is an American rapper
+Suzuki Sexism - Akihiro Suzuki is a Tokyo city assemblyman who made sexist remarks in June 2014.
+Lincoln Marxism - Marxism is a political method of societal analysis which has been used to critique Capitalism. There are various essays noting its founder and Abraham Lincoln exchanged letters during the American civil war. Lincoln is also the marque for the Ford Motor Company's luxury vehicles, capitalist status symbols throughout the late 20th century. Its juxtaposition with Marxism is thus particularly ironic.
+Hyundai Climax - In this context, an orgasm. The title text finds an excuse to add another "x" with the model SexClimax.
+Porsche Zizek9000 - A portmanteau referencing academic Slavoj Žižek and the Saab 9000
+Lexus 3×3Cutrix - 3×3 is a play on 4×4; this car presumably has 3 wheels. "Executrix" (in leet "3×3Cutrix") is the female counterpart of "executor", one who administers a will.
+Acura PizzaJazz - The letter Z has a very high score, so using 4 of them in a fairly short name makes this a potential hit.
+Ford SixAxle 4×4 - A contradictory name, as the 4×4 refers to a vehicle that has all four wheels connected to the drivetrain, which would only use two axles. May also be a reference to the Sony PlayStation's Sixaxis controller.
+Toyota Cervixxx - A portmanteau of cervix and XXX rating used by pornographic industry to make titles seem more extreme (see X rating). It being the highest scoring item on the list may be an attempt to show that sex sells.
+Note that Randall gives the symbol × the value of 126, which means he equates it with the letter x.
+index(3×3Cutrix) = (+55 + score(×) +55 +27 -68 -18 +8 -21 +126)/9/10 = 3.22. This means that the score of the symbol × is 90×3.22 - 164 = 125.8
+Title text
+As mentioned in the comic, the index for the word "climax" is 2.48. However, applying the index to the phrase "sexclimax" yields a value of 2.72, higher than that for "climax".
+Transcript[edit]
+Certain letters and numbers are used
+disproportionately often in car models
+compared to regular text.
+(see:"Rev-4 cr-x x3 G6 Maxx")
+Letter and number scores based on relative frequency in car model names
+Carlike 60 6 55 35 74 6 27 5 27 64 32 12 19 40 8 15 41 126 83
+0 1 2 3 4 5 6 7 8 9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+English-like -74 -58 -67 -37 -14 -5 -21 -45 -44 -21 -46 -80 -27 -18 -68 -20 -90
+Based on these scores, here are a
+few suggestions for car companies:
+(with average letter scores)
+Names to avoid Potential hits
+Honda 2Chainz (-0.13) Honda 3Chainz (0.57)
+Mitsubishi Fhqwhgads (-0.62) Subaru Andre3000 (1.30)
+Kia 49AndGothy (-2.96) Suzuki Sexism (1.82)
+Chevrolet Niceguy (-3.09) Lincoln Marxism (2.17)
+Oldsmobile GoodWood (-4.44) Hyundai Climax (2.48)
+Infinity Toothy69 (-4.51) Porsche Zizek9000 (3.06)
+BMW Outhouse (-4.85) Lexus 3x3Cutrix (3.22)
+Volkswagen Woodpony 7OH7 (-5.70) Acura PizzaJazz (3.56)
+Chrysler Uh Iono (-5.65) Ford SixAxle 4x4 (3.95)
+Nissan Doody (-5.84) Toyota Cervixxx (4.85)
+Trivia[edit]
+Later after the initial release of this comic Randall added a link to this page. It's viewable in the HTML-source or here: https://xkcd.com/1571/info.0.json. The text is: "A full explanation of THE CUNNING REFERENCES in this are at http:\n\nwww.explainxkcd.com\nwiki\nindex.php\n1571".
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Suzuki Sexism kinda has a ring to it... Bbruzzo (talk) 14:39, 31 August 2015 (UTC)
+Worth noting that there actually was an engine manufacturer named "Coventry Climax", who produced a range of racing engines and specialty machinery like forklift trucks. Coventry Climax's engine works were eventually bought out by Jaguar Cars in the 1960s. 141.101.98.154 (talk) (please sign your comments with ~~~~)
+Considering the existence of the Civic RX and the CR-V EX, Cervixxx should have been a Honda model. - Frankie (talk) 16:44, 2 September 2015 (UTC)
+A simple Lua script I wrote to calculate these ratings: http://pastebin.ubuntu.com/12259822/ Run it with your favorite Lua interpreter, and it should ask for a name. 108.162.216.160 03:01, 3 September 2015 (UTC)
+For people who don't have a favorite Lua interpreter, here's a simple python3 script I wrote : https://gist.github.com/Syncrossus/dd69d185d9af39d84f8a600871b27691 You can run it with a model name as command line argument, or run it with no argument and it will prompt you for model names. 141.101.69.105 14:22, 3 June 2019 (UTC)
+Interestingly, "xkcd" has a high score of 4.1. 199.27.129.59 (talk) (please sign your comments with ~~~~)
+Could be a Jaguar, as homage to the XKS. --SaturNine (talk) 12:25, 7 September 2015 (UTC)
+Scores
+Anyone know how the averages are calculated? I tried a couple but I don't arrive at the same numbers:
+HONDA { -44 -80 -46 -21 -14 } Sum: -205 Avg: -41
+2CHAINZ { +6 +27 -44 -14 -21 -46 +83 } Sum: -9 Avg: -1.2857142857142857142857142857143
+Combined: (-205 -9) / (5 + 7) = -17.833333333333333333333333333333
+SG 01 (talk) 15:29, 31 August 2015 (UTC)
+
+I think only the model should be considered. Xhfz (talk) 15:36, 31 August 2015 (UTC)
+2CHAINZ { +6 +27 -44 -14 -21 -46 +83 } Sum: -9 Avg: -1.29 Index: -0.13
+CLIMAX { +27 +12 -21 +19 -14 +126} Sum: 149 Avg: 24.83 Index: 2.48
+Obvioulsy it's the average divided by 10. Xhfz (talk) 15:44, 31 August 2015 (UTC)
+Ah, it's so obvious now, thanks :) SG 01 (talk) 16:00, 31 August 2015 (UTC)
+I worked it out to be average divided by 10 early on but why divided by 10? Is it because each category has 10 cars listed? This is the piece I've been stuck at. Understanding that part of the logic. --R0hrshach (talk) 16:05, 31 August 2015 (UTC)
+The only thing I can think of is to make the numbers be below 10 as a lot of scoring is done in that scale, then again, that doesn't include numbers below 1 usually (On a scale from 1 - 10). Oh, also the 3x3cutrix, the i is worth -21, not -45 (which is E), the x in 3x3 is treated as a normal x with score 126
+3X3CUTRIX { +55 -126 +55 +27 -68 -18 8 -21 +126 } Sum: 290 Avg: 32.222... Index: 3.22
+SG 01 (talk) 16:17, 31 August 2015 (UTC)
+OK, my mistake. Thanks. Xhfz (talk) 16:27, 31 August 2015 (UTC) BTW: 3X3CUTRIX { +55 +126 +55 +27 -68 -18 +8 -21 +126 } Sum: 290
+Yea, made a typo there originally, did edit-fix it ^^ Also SIXAXLE4x4 { +15 -21 +126 -14 +126 +12 -45 +35 +126 +35 } Sum: 395 Avg: 39.5 Index: 3.95 (which is the number next to it)
+SG 01 (talk) 16:33, 31 August 2015 (UTC)
+Mercedes 3X-WIF3 scores a decent 3,33 198.41.243.9 18:46, 31 August 2015 (UTC)
+Anyone want a Porsche 911? Mikemk (talk) 18:53, 31 August 2015 (UTC)
+The Saab Y. Worst possible car name. The Oldsmobile XXX. Best possible car name. 173.245.54.4 19:33, 31 August 2015 (UTC)
+Seems worth mentioning somewhere that 3x3cutrix is semi leet/133+ for the English word executrix, the feminine form of executor, but I don't know quite where it belongs. Miamiclay (talk) 20:49, 31 August 2015 (UTC)
+"The letters F and B, with scores of 5 and -5, respectively, are about as common in English as in car models." Looked odd, at first reading. May need re-writing to point out that ±5 is as close to zero (parity between English and car-speak) as you get in this example. Perhaps "...scores of merely +5 and -5, respectively", or similar? But that also seems too brief. 141.101.99.108 01:37, 1 September 2015 (UTC)
+Forgot to add what I meant to put here... Apostrophes. Very rare in car names (just the Kia Cee'd), fairly often (over)used in standard English text. I wonder what its value is? (Not as easily 'assume it's a letter' as the x/times symbol.) 141.101.99.108 01:44, 1 September 2015 (UTC)
+Order of the scores
+There are two possible explanations
+Score(x) = Frequency_in_cars(x) - Frequency_in_English(x)
+I'm pretty sure it's a comparative scale between cars and English, not just a car-like/not-car-like scale.
+Randall uses positive numbers if a letter is more common in car models than in typical English (as X) which he then calls carlike. He used negative numbers if a letter's relative frequency in car models is lower than in typical English (as O) and he calls it English-like (more suitable for readable text). The letters F and B, with scores of 5 and -5, respectively, are about as common in English as in car models. With this nomenclature, the most English-like letter is Y because, while not the most common English letter, it is apparently extremely rare in car models.
+Score(x) = Frequency_in_cars(x)
+English has no relationship with the score
+It seems that Randall arbitrarily used positive and negative numbers: if a letter is very common in car models (as X) he calls it carlike. If a letter is very uncommon in car models (as O) he calls it English-like. With this nomenclature the most English-like letter is Y, but actually Y is the least carlike letter. The most common letter in ordinary English is E. Y on the other hand is just in the middle (place 13), which can't be called English-like.
+Xhfz (talk) 12:56, 1 September 2015 (UTC)
+"Y (...) can't be called English-like". Well, it can be, as it's not uncommon. And on the relative scale, it's much more indicative of being English than it is of being a car. And I'm going to give the explanation a further tweak, I think, hopefully small and agreeable. Also don't think the reversion helped (without checking the edit-changes), it was almost right. 141.101.99.108 13:24, 1 September 2015 (UTC)
+Now I understood your idea. I think I tweaked it to be more understandable. X is a letter that supports your claim. Xhfz (talk) 13:41, 1 September 2015 (UTC)
+I'd like to suggest a third possibility, I figured it was a ratio: Score(x) = 100*(Frecuency_in_cars(x) / Frequency_in_English(x) - 1). This allows numbers to be negative or positive and would explain the questions raised above. Djbrasier (talk) 13:53, 1 September 2015 (UTC)
+Well, my "little tweak" became a big overhaul, then edit-conflicted. For the record, it became the following monstrosity:
+Scores for letters and numbers are presumably taken from their frequency in car models. Randall doubtless analysed a car-name database, in a manner similar to that used to derive the letter frequency statistics for written English against which the former seems to have been compared.  From these, letters that appeared equally commonly in both lists (either rare or frequent, but consistently between the two) would have been given a hypothetical value of zero, whilst ones that were almost exclusively in one medium would have a high-magnitude score; positive for more car-like and negative for more English-like.
+Without the raw car-letter frequency data it's hard to derive the exact formula used, but taking the mathematical log value of a ratio would give us zero for 1:1 (equally car-like and English-like) and high positive/negative values for comparisons more skewed more towards the former/latter.
+The closest letters to zero in the comic are F at +5 and B at -5 and may hover somewhere around the same ratios in car-names as in English (around 2.2% and 1.4% of total usage in the above link), with just a slight car/English dominance.  The most 'car-like' letter is X, that seems to be quite common in cars whilst very rare (<1% of usage) in English.
+The most 'English-like' letter in the comic is Y with a score of -90.  Y is not common in English (~2%), but presumably even more disproportionately uncommon in car names.  The next most 'English-like' letter, O, with a given score of -80.  It is significantly more frequent in English (~7.5%, and perhaps the fourth most encountered individual letter), and so is likely also more frequent in the raw car-name data, alone, albeit similarly much less than 'expected' from its English occurances.
+It makes some sense that rarer English letters are over-chosen (for the novelty and stand-out effect) for car names, at the general expense of several commoner English letters without particular bias, thus the highest positive peak is greater in magnitude than the lowest negative trough.  Although you could also point out that 'x' (used for 'times') is also a more useful car-name 'letter', whilst the letter O might be surpressed in alphanumeric sequences so as not to be confused with a zero.
+When looking at the numbers in the table, Randall's analysis may have dealt with the decimal digits entirely seperately, based upon something like Benford's Law for the natural occurance of numbers in common data, rather than from their disproportionately rare occurance within largely alphabetic English.  It is thus not unexpected that the 1 that is most common in data is underepresented within numbers in car-names, whilst sub-avearge 5 becomes a 'power number' in the world of cars, and the third most car-like character in the comic.
+There are 19 positive scores and 17 negative scores.  They each add up to a score of 735 and -722, respectively, with the grand total being +13, suggesting that without rounding errors the whole system could have a neutral score.  The numbers alone  give a total offset of -0, the letters alone thus account for a not particularly unreasonable +0.5 'error' per character, and may also support the idea of separate analyses of these two sets.
+...there was no easy way to resolve the differences, so the above is FYI. (TLDR: perhaps it's a Log function?) In editing it down, I'd also had another bit:
+The letters I and T may appear in non-word model-name strings to represent "Injection" and "Turbo", respectively, but with their overwhelming commonality already in English text they still appear more more in English than in cars.
+...which was looked less useful and too wordy even for me, but might also be a useful fragment to consider. 141.101.99.108 15:09, 1 September 2015 (UTC)
+Typo or Deliberate?
+Randall gave REV-4 as an example car name. Did he accidentally misspell the (Toyota) RAV4, or was this a deliberate reference to chapter 4 of Revelations?--173.245.54.26 02:31, 1 September 2015 (UTC)
+Old Goths
+49 is a reasonable age for those who grew up Goth in the 80s, just sayin'. --141.101.99.123 08:47, 1 September 2015 (UTC)
+I thought this too. It could be a joke on a youth sub-culture growing up (old). -- 108.162.229.157 11:28, 1 September 2015 (UTC)
+'Quick' and Dirty Car Data
+Examining this page, which has notable exceptions (I specifically looked for the Toyota Yaris and the Kia Cee'd, neither of which were there), using a quick script to isolate the car names, a lengthy manual process of sanitising all the exceptions the quick script couldn't handle and then another script to analyse letter frequencies of the model names (not the make/marque part), I came up with the following undefinitive data, that is almost certainly flawed but may yet be useful:
+<spaces> = 85 (but this count of whitespace may not be accurate and is superfluous...
+& = 1  (...as are these first four items of punctuation, given their absence from Randall's chart)
+- = 23
+. = 3
+/ = 10
+0 = 104
+1 = 73
+2 = 54
+3 = 43
+4 = 35
+5 = 54
+6 = 35
+7 = 18
+8 = 26
+9 = 17
+A = 231 (includes à)
+B = 30
+C = 95
+D = 54
+E = 210 (includes é and ë)
+F = 46
+G = 52
+H = 18
+I = 122
+J = 12
+K = 13
+L = 113
+M = 83
+N = 99
+O = 145 (includes ó)
+P = 80
+Q = 4
+R = 202
+S = 127 (includes Š)
+T = 166
+U = 45
+V = 38
+W = 19
+X = 25
+Y = 33
+Z = 14
+Comparing just B and F (natural frequency 1.4% and 2.2%, above 30 to 46, both instances being approximately 1:1.5 when comparing the two letters within the same source), this matches the similarly close-to-zero scores given to them by Randall. O vs. Y is 4.4:1, above, real life is 3.8:1 and adjusting for O being 1/9th 'more carlike' we get a similar value. But Z vs J is 7:6, real life it's 1:2 and I can't reconcile that with the 1.3:1 on Randall's chart. Probably indicates something non-linear (e.g. a log function) along the way, if O:Y wasn't so easy to distinguish. Might, of course, be a differently biased dataset and thus GIGO. 141.101.99.108 00:35, 2 September 2015 (UTC)
+I thought that R would be used quite frequently.. (i.e Audi RS5). -- Thomas 633 (talk) (please sign your comments with ~~~~)
+Surprised nobody mentioned before now the irony of Lincoln, the late 20th C. status symbol luxury vehicle, being paired with Marxism.--SaturNine (talk) 12:36, 7 September 2015 (UTC)
+Marx wouldn't be happy having his name associated with corporate scum. Then again, the Lincoln part of it makes sense since Marx and Lincoln wrote to each other a lot. I hate corporatism, but there isn't really an "open" car like there are open softwares or hardwares for laptops and desktops. Stuck buying corporate boojie trash for now. If this so-called "Lincoln Marxism" was an electric or hybrid, I'd consider it because of its name. IFL Marx haha :P I'd think "Bolshevik" would also score high... Lenin, maybe? CHOICeS x'D International Space Station (talk) 04:35, 22 April 2016 (UTC
+"Doody" means faeces where you come from??? Interesting. I only came across it as meaning a baby's soother -- not sure what that's called over your way, maybe a dummy? Anyway 'doody' is what you get if someone who is too young to pronounce S properly tries to.say 'soother' (especially if they are sacking on one at the same time) 162.158.38.166 07:27, 6 August 2019 (UTC)
+It's ridiculous how much Toyota Cervix sounds like a real car model. 172.71.10.213 22:37, 19 April 2023 (UTC)
+Categories: All comicsComics from 2015Comics from AugustMonday comicsBar chartsChartsLanguageMathSex

@@ -1,0 +1,415 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1799: Bad Map Projection: Time Zones
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1799)
+|<< PrevComic #1799 (February 15, 2017)Next >>|
+Bad Map Projection: Time Zones
+
+Title text: This is probably the first projection in cartographic history that can be criticized for its disproportionate focus on Finland, Mongolia, and the Democratic Republic of the Congo.
+A double sized version of this image can be found by clicking the image at the comic on xkcd.com.
+Explanation[edit]
+This explanation may be incomplete or incorrect: Table now has all relevant countries and is sortable. But needs to be filled out for each country with explanation of its time zone and why it looks as it does on the map. (Especially those from title text needs explanation like that). Some of the info already given in the explanation could be moved to the table.
+If you can address this issue, please edit the page! Thanks.
+This is the second comic in the series of Bad Map Projections and presents Bad map projection #79: Time Zones. It was first with this comic that it became a series. The series began a month earlier with 1784: Bad Map Projection: Liquid Resize (#107). It was followed almost three years later with 2256: Bad Map Projection: South America (#358).
+This comic shows a map projection in which countries are placed according to the time zones that they fall under. It seems that Randall, being Randall, runs with the idea as he has made yet another map projection that is not only inaccurate, but utterly unusable, though less so than the previous one.
+The first "Liquid Resize" was #107, while this comic features #79. Since the liquid resize was purely aesthetic, whereas this one at least conveys some meaningful information it makes sense that this projection is ranked higher.
+Conceptually, the series is a comment on the fact that there is no perfect way to draw a map of the world on a flat piece of paper. Each one will introduce a different type of distortion, and the best projection for a given situation is sometimes very disputed. Randall previously explored 12 different projections in 977: Map Projections, and expressed his disdain for some types he sees as less efficient but whose users feel superior. None of them are really good as any 2D map projection will always distort in a way the spherical reality, and a map projection that is useful for one aspect (like navigation, geographical shapes and masses visualization, etc.) will not be so for all the others. Local maps of smaller areas can be quite accurate, but the idea of both these map projection comics is to map the entire globe on a flat surface.
+Time zones are based on the way the Sun shines on the Earth, so these time zones, which are based on the sun's position in the sky, would best be divided by roughly longitudinal (North-to-South Pole) lines. However, this is not the case in practice, as the defined time zones tend to have very jagged boundaries, and furthermore some countries use a completely different time than the zones they are in, at least for some parts (see China). Since Randall knows he cannot fix the boundaries of the time zones, he instead "fixes" the world by making a map appear to match up with the time zone system, as shown in this map, also posted in the trivia. This results in bizarre distortions such as the large, gum-like strands of Greenland (these are the towns of Danmarkshavn (UTC) and Ittoqqortoormiit (UTC-1), which use different time zones to the rest of the island) and three enormous gulfs in Russia (some time zones in Russia are only used in southern areas, leaving two-hour differences between some adjacent areas on the country's northern border). See also this map with a time zone map overlayed the comic.
+The effect of this map is to "punish" large countries with a single time zone - for instance, China, which uses UTC+8 across the whole country - and countries that share large time zones - for instance, almost all of Europe is packed into the Central European UTC+1 zone - by shrinking these down. Conversely, countries that use multiple time zones without filling them out are stretched out - for example, the Democratic Republic of the Congo (DRC) and Mongolia, as pointed out in the title text - as are slim countries that do not fill out the full width of their time zones but where their neighbors use different timezones so they have to fill the entire width of their time zone. For instance Finland (also mentioned in the title text) and the Baltic countries, who look huge because their western and eastern neighbors do not use the UTC+2 Eastern Europe time, and thus have to fill out the distance between the countries that are pushed to the zones on their east/west borders.
+Other map projections distort countries this way as well, but based on their actual physical location as opposed to their position on imaginary time zones. The Mercator projection is infamous for distorting Greenland in this way, to the point that it appears to be larger than Africa despite being nowhere near the same size.
+See the table below for lots more information on the comic, but here are some further details.
+Map imperfections[edit]
+The map is imperfect for several reasons:
+Randall attempts to preserve adjacency where possible - for instance, Chad and Sudan are neighbors even though Chad uses West Africa Time (UTC+1) and Sudan uses East Africa Time (UTC+3). Randall draws an extremely thin strand connecting the countries through Central/South Africa Time (UTC+2), even though no part of Chad or Sudan uses this time. Similarly, a thin strand of Kazakhstan and Turkmenistan is shown projecting into the UTC+4 time zone in order to separate Russia and Iran, which do not really share a border. Worst of all is China, which has to have borders to several countries that do not share the single eastern time zone of east China, which the whole China is forced to use. A thin strand, resembling the Yangtze river, is shown passing through time zones that China does not use. This is the most complicated preservation of adjacency shown in the map.
+There is no mention of daylight saving time - all countries shown are given the base winter time. Depending on the time of year, countries will shift around - around June, many northern hemisphere countries will move east, while some southern hemisphere countries will move east around December.
+The map doesn't allow for half-hour time zones. (India, for instance, is on UTC+5.5) Instead, countries that use fractional time zones are shifted so they straddle the two time zones, and are then marked with an asterisk (*). This is also true of regions within countries, including the island of Newfoundland in Canada and a section in the center of Australia.
+The only extra detail mentioned in the map is also for Australia. It is the UTC+8:45 time zone that is used only by 5 roadhouses covering a population of only a few hundred people.
+There are several errors in the map, see below.
+Table of countries and their time zones[edit]
+This sortable table includes all countries shown in the map, not just those are labeled, as well as the continents and some other regions are mentioned.
+The countries or continents are mentioned approximately in reading order. If a country is not labeled with full name the abbreviation is in brackets behind the name. If the country is not labeled, labeled wrong or not even shown in the comic, there is a note after the name. Countries labeled with a footnote by an asterisk (*) are shown together with that asterisk at the name.
+If a country has more than one time zone all are listed.
+Table[edit]
+Country/Continent Time zone(s) Distortions Explanation
+North America
+(not labeled) UTC-9 – UTC-3:30 Not labeled.
+Canada UTC-8 – UTC-3:30 West coast is flattened, and the east coast is stretched out.
+Canada has two main distortions:
+The west coast is on UTC-8 time, and shares a border with Alaska, which is UTC-9. In this map, the border is much further east than the real border and is straightened out. While the border between the Yukon Territory and Alaska is mostly straight at 141°W, the division between the time zones are at 127.5°W; and the border between British Colombia and Alaska is not straight.
+On the east coast is the island of Newfoundland at UTC-3:30, which is marked with an asterisk; in the map it is depicted more eastward due to the extra half-hour difference. Also, the southeastern tip of Labrador shares the UTC-3:30 time zone, though not marked with an asterisk, it is stretched out to line up with the island of Newfoundland.
+United States UTC+10, UTC+12, UTC-12 – UTC-4 Alaska appears thinner than usual, and Texas' coast has been smushed. Usage of time zones in U.S. territories is complicated. The contiguous United States use times zones from UTC-5 (East Coast) to UTC-8 (West Coast), the State of Alaska uses UTC-9, and Puerto Rico uses UTC-4. These are the only parts shown on Randall's map. Other territories, not shown on the map, use the following time zones:
+United States Virgin Islands use UTC-4.
+Navassa Island and the disputed Bajo Nuevo Bank and Serranilla Bank use UTC-5.
+The State of Hawaii, most of the Aleutian Islands and Johnston Atoll use UTC-10.
+Jarvis Island, Midway Atoll, Palmyra Atoll and Kingman Reef all use UTC-11.
+Baker Island and Howland Island use UTC-12.
+Wake Island uses UTC+12.
+Guam and the Northern Mariana Islands use UTC+10.
+Mexico UTC-8 – UTC-5 Guadalajara and the Yucatan Peninsula are too far east The east coast of the Yucatan Peninsula goes as far east as the Florida Keys here - this because the state of Quintana Roo is the only one to use UTC-5 (equivalent to US Eastern Time).
+Antilles
+(not labeled) UTC-5 – UTC-4 No distortion. Not labeled.
+Cuba UTC-5 No distortion.
+Haiti UTC-5 No distortion.
+Jamaica (Jam.) UTC-5 No distortion.
+Dominican Republic (D.R.) UTC-4 No distortion.
+Guadeloupe
+(not labeled) UTC-4 No distortion. Not labeled. Tentatively identified as one of four dots in the Lesser Antilles region of Randall's map.
+Dominica
+(not labeled) UTC-4 No distortion. Not labeled. Tentatively identified as one of four dots in the Lesser Antilles region of Randall's map.
+Martinique
+(not labeled) UTC-4 No distortion. Not labeled. Tentatively identified as one of four dots in the Lesser Antilles region of Randall's map.
+Saint Lucia
+(not labeled) UTC-4 No distortion. Not labeled. Tentatively identified as one of four dots in the Lesser Antilles region of Randall's map.
+Trinidad and Tobago
+(not labeled) UTC-4 No distortion. Not labeled.
+Central America
+(not labeled) UTC-6 Squashed together Not labeled. Apart from Panama, all Central American countries use the same time zone. This means Panama is stretched out, while the other countries are pushed back west of Florida.
+Guatemala (Gua.) UTC-6 Stretched out.
+Belize
+(not labeled) UTC-6 Greatly decreased in size, represented by only a few pixels. Not labeled.
+El Salvador
+(not labeled) UTC-6 Greatly decreased in size, represented by only a few pixels. Not labeled.
+Honduras (Hon.) UTC-6 The left side is flattened and pushed inwards.
+Nicaragua (Nic.) UTC-6 No distortion, other than that Lake Colcibolca is exaggerated for no apparent reason.
+Costa Rica (C.R.) UTC-6 Flattened and decreased in size.
+Panama (Pan.) UTC-6 Stretched out.
+South America
+(not labeled) UTC-5 – UTC-3 Not labeled.
+Colombia UTC-5 Eastern border straightened
+Venezuela UTC-4 Western boarded straightened. Country shrunk top to bottom.
+Guyana UTC-4 Shrunk slightly top to bottom.
+French Guiana (labeled Suriname) UTC-3 Minimal distortion Labeled incorrectly.
+Suriname
+(labeled F.G.) UTC-3 Minimal distortion Labeled incorrectly.
+Ecuador
+(not labeled) UTC-6 – UTC-5 Not labeled. UTC-6 is used only on Galápagos Islands (not shown).
+Peru UTC-5 Mostly intact
+Brazil UTC-5 – UTC-3 Eastern shore shrunk in size
+Bolivia UTC-4 Compressed shape, slight rotation
+Paraguay (Par.) UTC-4 Country shrunken and location with respect to (new) Argentina has changed
+Chile UTC-5, UTC-3 UTC-5 is used only on Easter Island (not shown).
+Argentina UTC-3 This is stretched out vertically to fit the entire country into the UTC-3 timezone that it uses.
+Uruguay UTC-3 Minimal distortion
+Europe
+(not labeled) UTC-4 – UTC+4 Compressed with the countries of central and western Europe pressed closer in east-west direction while eastern countries are stretched in all directions. Iceland is moved east. Greenland is stretched horizontally and got strange protruding peninsulas. Not labeled. Europe uses mostly UTC+1, which causes severe distortion. Disproportionally smaller areas utilize UTC±0, UTC+2 and UTC+3. UTC-4, UTC-1 and UTC+4 are used only marginally. Greenland, even if it belongs to North America geographically, is counted here as well as it lies within the Denmark rule.
+UTC-4 is used solely in Thule Air Base in western Greenland.
+Only Greenland uses UTC-3, throughout most of its territory.
+UTC-2 is not used at all.
+Azores, being an autonomous region of Portugal, and a Greenland settlement of Ittoqqortoormiit observe UTC-1.
+The United Kingdom and Ireland both use UTC±0. Portugal is the only country in mainland Europe which uses UTC±0 as well – that's why it sticks out a bit towards the British Isles which share the time zone with Portugal. Greenland's settlement of Danmarkshavn uses UTC±0 as well, and Iceland is here, too.
+Most of Europe uses UTC+1 but these countries in reality spread over a much larger area than just one zone. This is why central and western countries are so compressed. Svalbard archipelago in the Arctic Ocean also belongs here.
+The eastern countries (except Belarus and the European part of Russia but not the Kaliningrad exclave) use UTC+2. These are: Finland, Latvia, Estonia, Lithuania, Belarus, Moldova, Ukraine, Bulgaria, Romania, Greece and Cyprus. In reality, they occupy a smaller area on the map, but on Randall's map they are stretched to fill the UTC+2 zone strip.
+Belarus, most of the European part of Russia and Crimea use UTC+3. See below for peculiarities regarding Russia and Ukraine.
+UTC+4 is used in Armenia, Azerbaijan, Georgia and some parts of Russia.
+Finland looks specifically distorted, partly because in reality it borders with Norway on the north, and Norway uses UTC+1. On Randall's map Norway is compressed into UTC+1 strip and Finland suddenly got some coast on Barents Sea. Poland (abbreviated POL. on the map) and Belarus (BEL) have common border but differ by two time zones, Poland uses UTC+1 but Belarus uses UTC+3 (Moscow time). Therefore on the map they have protruding 'fingers', touching one another, squeezed between Lithuania and Latvia on the north and Ukraine on the south.
+Randall got Turkey a bit wrong, however: its European part is stretched into UTC+2 zone, but in reality Turkey uses UTC+3 on its whole territory.
+Greenland UTC-4 – UTC±0 Two landmasses stretched from the rest of the country Greenland stretches from UTC-4 to UTC±0 with most of the country being UTC-3. UTC-4 is only applicable to Thule Air Base in the southern part of the Hayes-Peninsula, while UTC-1 and UTC±0 are used in smaller areas on the east coast of Greenland. Even though UTC-2 is not used in Greenland at all, the country is depicted as a single landmass with two small strips of land connecting the UTC-1 and UTC±0 landmasses. These two strips should be considered infinitesimally thin but depicted to clarify the two areas are not separate islands but connected with the rest of Greenland.
+Iceland UTC±0 No shape distortions, but different location. Iceland, even if it geographically lies mostly within the UTC-1 time zone, uses UTC±0. It is therefore moved east on Randall's map.
+Norway UTC+1
+Sweden UTC+1
+Finland UTC+2 Stretched horizontally because it borders Norway on the north, which uses UTC+1.
+Ireland UTC±0 None. Ireland uses UTC±0 as the rest of British Isles.
+United Kingdom (UK) UTC±0 None. The country is fully within the single time zone used for the country. UK defined the time zones so their time zone is by definition the one with UTC±0 (or GMT).
+Denmark
+(not labeled) UTC+1 Not labeled.
+Lithuania UTC+2
+Latvia UTC+2
+Estonia UTC+2
+Belarus (Bel.) UTC+3 Belarus lies entirely in the UTC+3 time zone yet the map depicts a small strip of land in the UTC+2 zone. This is most likely to allow for Belarus to have a common border with Poland even though the countries do not have two consecutive time zones (Poland uses UTC+1)
+Russia (First label) UTC+2 – UTC+12 See Asia section for explanation. It is the only country labeled twice.
+Netherlands
+(not labeled) UTC+1 Not labeled.
+Belgium
+(not labeled) UTC+1 Not labeled.
+Germany (Ger.) UTC+1
+Poland (Pol.) UTC+1
+Ukraine UTC+2 (UTC+3 in disputed regions) Crimea stretched away from the rest of the country. Since the annexation of Crimea by the Russian Federation, the peninsula has used Moscow time (UTC+3). The sovereignty of Crimea is disputed, but it is currently de facto controlled by Russia, and Randall colors it like Russia. Two breakaway provinces in the east, Donetsk and Luhansk, also use Moscow time. These are not shown.
+France UTC+1
+Switzerland
+(not labeled) UTC+1 Not labeled.
+Austria
+(not labeled) UTC+1 Not labeled.
+Czech Republic
+(not labeled) UTC+1 Not labeled.
+Slovakia
+(not labeled) UTC+1 Not labeled.
+Slovenia
+(not labeled) UTC+1 Not labeled.
+Hungary
+(not labeled) UTC+1 Not labeled.
+Italy (It.) UTC+1
+Romania UTC+2
+Moldova
+(not labeled) UTC+2 Not labeled.
+Portugal UTC±0
+Spain UTC+1
+Croatia
+(not labeled) UTC+1 Not labeled.
+Bosnia and Herzegovina
+(not labeled) UTC+1 Not labeled.
+Serbia
+(not labeled) UTC+1 Not labeled.
+Montenegro
+(not labeled) UTC+1 Not labeled.
+Albania
+(not labeled) UTC+1 Not labeled.
+Macedonia
+(not labeled) UTC+1 Not labeled.
+Bulgaria UTC+2
+Greece
+(not labeled) UTC+2 Not labeled.
+Cyprus
+(not labeled) UTC+2 Not labeled.
+Georgia
+(not labeled) UTC+4 Squashed into thin horizontal strip. Merged with Azerbaijan. Not labeled. Georgia uses UTC+4 but has coast on the Black Sea which on Randall's map is shown entirely within UTC+2 and UTC+3 zones. Therefore Georgia is depicted as a thin strip touching the Black Sea squashed between Russia and Turkey and the main part is shown as a slightly wider blob in the east supposedly lying in the UTC+4 strip. However in the process Georgia got some coast on the Caspian Sea in the place Azerbaijan shall be located, including the Absheron Peninsula with the Azerbaijani capital, Baku.
+Azerbaijan
+(not labeled) UTC+4 Heavily shrunk, displaced south. Not labeled. Most or all of the Azerbaijani territory including its capital area is mistakenly attributed to Georgia, see above. In reality, Azerbaijan is the only country with coast on the Caspian Sea between Russia and Iran. However, in the Randall's map there are two tiny patches touching the Caspian Sea just north of Iran. The northern one can be tentatively identified as Azerbaijan.
+Armenia
+(not labeled) UTC+4 Displaced east to Caspian Sea coast. Not labeled. A tiny patch of land on the Caspian Sea coast just north of Iran can be tentatively identified as Armenia. However, Armenia ia a landlocked country in reality.
+Africa
+(not labeled) UTC±0 – UTC+3 Compressed in the northwest and along the southeast coast. Not labeled.
+Western Sahara (labeled Morocco) UTC±0 Labeled incorrectly.
+Tunisia UTC+1
+Morocco
+(labeled W.S.) UTC±0 Labeled incorrectly.
+Algeria UTC+1
+Mauritania UTC±0
+Senegal (Sen.) UTC±0
+Gambia
+(not labeled) UTC±0 Not labeled.
+Mali UTC±0
+Niger UTC+1 Slightly compressed in the west
+Libya UTC+2 Nations located to the south of Libya tend to use either UTC+1 (Chad) or UTC+3 (Sudan), but not UTC+2, which Libya uses. In order to fill in this area, Libya, one of the few countries in the area which uses the intermediate UTC+2, has been used to demonstrate the two-hour gap.
+Egypt UTC+2 Egypt uses the UTC+2 time zone, while most countries located to its south use UTC+3. Since the area of central Africa using UTC+2 is small compared to the section using UTC+3, those countries in UTC+2 are extended to cover more of that time zone.
+Sudan UTC+3 Sudan and South Sudan (S.S.) are fully in UTC+3 zone, but in the map a little part of them has been stretched to meet the borders with Chad the Central African Republic which are in UTC+1.
+South Sudan (S.S.) UTC+3 See Sudan’s explanation.
+Eritrea
+(not labeled) UTC+3 Not labeled.
+Guinea-Bissau (GB.) UTC±0
+Guinea (Guin.) UTC±0
+Burkina Faso (B.F.) UTC±0
+Sierra Leone (S.L.) UTC±0
+Liberia UTC±0
+Côte d'Ivoire UTC±0
+Ghana UTC±0
+Togo
+(not labeled) UTC±0 Not labeled.
+Benin
+(not labeled) UTC+1 Not labeled.
+Nigeria UTC+1
+Chad UTC+1
+Cameroon (Cam.) UTC+1
+Central African Republic (C.A.R.) UTC+1 Displaced to the southwest. It is also extended to retain its border with South Sudan despite being two timezones apart.
+Ethiopia UTC+3 Compressed horizontally.
+Somalia UTC+3
+Equatorial Guinea (E.G.) UTC+1
+Gabon UTC+1
+Republic of the Congo (R. of Congo) UTC+1
+Democratic Republic of the Congo (Dem. Rep. of the Congo) UTC+1
+Rwanda
+(not labeled) UTC+2 Shifted northwards. Not labeled.
+Burundi
+(not labeled) UTC+2 Shifted northwards. Not labeled.
+Uganda
+(not labeled) UTC+3 Gains border with Burundi. Not labeled.
+Kenya UTC+3 Slightly horizontally compressed.
+Angola UTC+1 Eastern border straightened.
+Zambia UTC+2 Slightly stretched horizontally.
+Malawi
+(not labeled) UTC+2 Rotated slightly clockwise and loses border with Tanzania. Not labeled.
+Tanzania UTC+3 Horizontally compressed; loses border with Rwanda.
+Namibia UTC+1 Loses Caprivi Strip to Botswana.
+Botswana (Bots.) UTC+2 Border with Namibia simplified.
+Zimbabwe (Zimb.) UTC+2
+Mozambique UTC+2 Horizontally compressed.
+Madagascar UTC+3 None. Madagascar has the correct shape and position.
+South Africa UTC+2 Loses some of Atlantic coast to Namibia.
+Lesotho
+(not labeled) UTC+2 Not labeled.
+Swaziland
+(not labeled) UTC+2 Not labeled.
+Asia
+(not labeled) UTC+3 – UTC+12 Not labeled.
+Turkey UTC+3
+Lebanon
+(not labeled) UTC+2 Not labeled.
+Syria
+(not labeled) UTC+2 Not labeled.
+Iraq UTC+3
+Iran* UTC+3:30 Is a bit inflated in the northeast corner.
+Israel
+(not labeled) UTC+2 Not labeled.
+Jordan
+(not labeled) UTC+2 Not labeled.
+Saudi Arabia UTC+3
+Kuwait
+(not labeled) UTC+3 Not labeled.
+Qatar
+(not labeled) UTC+3 Not labeled.
+United Arab Emirates
+(not labeled) UTC+4 Not labeled.
+Yemen UTC+3
+Oman UTC+4
+Russia (2nd label) UTC+2 – UTC+12 Three deep troughs almost cutting Russia into pieces, but not quite, also eastern parts stick out of proportion relative to Eastern Asian countries. Only country with two labels. Russia has a peculiar usage of time zones, therefore it is the most distorted country on Randall's map. It covers eleven time zones but uses them very unevenly. Each of constituent entities of Russia (also called federal subjects) uses a specific time zone throughout its territory, the only exception being Yakutia, the largest administrative subdivision, which spans three time zones. The time zone assignments are quite arbitrary, however.
+UTC+2 (MSK-1) is used in Kaliningrad Oblast only, an exclave on Baltic Sea between Poland and Lithuania. On Randall's map it can be seen as a small green patch north-east of Poland.
+UTC+3 (MSK+0) is used throughout most of the European part of Russia including Northern Caucasian republics, covering 49 constituent entities of the Russian Federation in total. These parts make up the easternmost mass of Russia on Randall's map, stretching from the Black Sea in the south including the area between the Black Sea and Caspian Sea to the White, Barents and Kara seas in the north and includes the arctic archipelagoes of Novaya Zemlya and Franz Josef Land as seen in the upper part of the map.
+UTC+4 (MSK+1) is used in Udmurtia, Astrakhan Oblast, Samara Oblast, Saratov Oblast and Ulyanovsk Oblast, forming three disjoint areas lying more or less along the Ural mountains on their western side. Astrakhan Oblast has coast on the Caspian Sea. Saratov and Samara oblasts have a common border and lie somewhat to the north-east of Astrakhan Oblast. Udmurtia lies still somewhat to the north. On Randal's map they are represented by a patch of land north-east to the Caspian Sea. Further north there's a huge 'bay' reflecting the time-gap between northern parts of Russia that use either UTC+3 or UTC+5 but not UTC+4, even if they are adjacent to each other.
+UTC+5 (MSK+2) is used by the administrative subdivisions lying on and close to Ural mountains, both on western and eastern sides of them, also covering major part of Western Siberia. These include Bashkortostan, Perm Krai, Kurgan Oblast, Orenburg Oblast, Sverdlovsk Oblast, Tyumen Oblast, Chelyabinsk Oblast, Khanty-Mansi Autonomous Okrug and Yamalo-Nenets Autonomous Okrug. The lands are represented on the Randall's map by the second-from-the-left major land mass within Russia. These parts border mostly with areas utilizing either UTC+3 or UTC+7, therefore Randall has drawn huge patches of sea on both sides. In the north, one can recognize somewhat distorted shapes of the Yamal and Gydan peninsulas.
+UTC+6 (MSK+3) is used solely in the Omsk Oblast in the southeastern Siberia, bordering Kazakhstan. On Randall's map it is shown as a strip of land joining the second and the third land mass from the left, just to the left of the RUSSIA inscription. However, taking into account the relatively small area of the Omsk Oblast, it should have been much thinner.
+UTC+7 (MSK+4) is used in federal subjects located in the central and parts of eastern and western Siberia: Altai Republic, Tuva Republic, Republic of Khakassia, Altai Krai, Krasnoyarsk Krai, Kemerovo Oblast, Novosibirsk Oblast and Tomsk Oblast. These lands border mostly with areas using non-adjacent time zones, namely UTC+5 and UTC+9, and therefore form the tallest pillar on the Randall's depiction of Russia between two large seas. This part of Randall's Russia also has a strange thin strip of land going south and touching China's tendril just between Kazakhstan and Mongolia – this is to represent the fact that there is a short length of Russian-Chinese border there. The rest of the border is depicted elsewhere, see below. Taymyr Peninsula and Severnaya Zemlya archipelago can be seen atop that area of the map.
+UTC+8 (MSK+5) is used in Buryatia and Irkutsk Oblast only, which lie in eastern Siberia, on both sides of Lake Baikal (not shown on the map). This is represented by a patch located just northwest of a protruding fragment of China, which shares the time zone with these parts; however neither Buryatia nor Irkutsk Oblast border with China.
+UTC+9 (MSK+6) is used in Amur Oblast, Zabaykalsky Krai and in most of Yakutia also known as the Sakha Republic. On Randall's map this time zone is joined together with the remaining three eastern time zones forming a strange shape connected to the rest of Asia with a weird-looking isthmus. This is actually the part of Russia that has the longest part of the border with China along the Amur River, but here it is torn away because of the strange map 'projection'. New Siberian Islands are depicted in the far north.
+UTC+10 (MSK+7) is used in north-eastern parts of Yakutia, Jewish Autonomous Oblast, Khabarovsk Krai and Primorsky Krai. In reality these parts (except Yakutia) all border with China, all the way down to North Korea. On Randall's depiction they are torn away from Chinese border to represent time zone difference. The strange hook is the southernmost part of Primorsky Krai with the big haven of Vladivostok, the tip of the hook shall actually touch North Korea in reality.
+UTC+11 (MSK+8) is used in extreme north-eastern parts of Yakutia, Magadan Oblast and Sakhalin Oblast. The Sakhalin island is clearly recognizable in this strip of the map, but it is far removed from Japan which lies next to it in reality. The shape of the Sea of Okhotsk is somewhat recognizable, and the location of Magadan is clearly seen as a small hook on the shoreline near Kamchatka.
+UTC+12 (MSK+9) is used in Kamchatka Krai and Chukotka Autonomous Okrug. This is probably the least distorted part of Russia, the characteristic shapes of Kamchatka and Chukchi peninsulas are totally recognizable.
+A notable thing is that Russian railways use Moscow time (UTC+3) exclusively, all timetables are expressed in this time, even in the most remote eastern parts of Russia. You'd better know your local time zone while awaiting your train at the station.
+Kazakhstan UTC+5 – UTC+6 Vertically: stretched in eastern part, squeezed in western part. Horizontally: squeezed in eastern part, stretched in western part UTC+5 is used in the smaller western part and UTC+6 in the larger eastern part. The division goes more or less along the 60th meridian. On Randall's map Kazakhstan's shape is heavily distorted, because in the bordering Russia only one small part, namely Omsk oblast, uses UTC+6 – therefore the eastern part of Kazakhstan is squeezed to fit. On the other hand, the western part of Kazakhstan borders with parts of Russia using as far as UTC+3, which is depicted by a long west-reaching finger. Kazakhstan has a significant part of Caspian Sea coast, but here it has only a tiny stretch.
+Mongolia UTC+7 – UTC+8 Mongolia primarily uses the UTC+8 time zone but has some western portions using the UTC+7 time zone. Its neighbor to the south, China, is geographically located across three time zones (UTC+6-UTC+8) but by governmental decision only uses the eastern UTC+8 time zone. This choice by China has caused it to shrink towards the east on the map, requiring other countries to replace the unoccupied map area in the UTC+6 and UTC+7 time zones. Mongolia is one of very few countries using the UTC+7 time zone near China, and therefore it has been the primary recipient of the extra space generated by China's shrinking. It has occupied much of what would on an ordinary map be central Chinese territory.
+Turkmenistan UTC+5
+Uzbekistan UTC+5
+Afghanistan* UTC+4:30
+Tajikistan (Taj.) UTC+5
+Pakistan UTC+5
+India* UTC+5:30
+Sri Lanka
+(not labeled) UTC+5:30 Not labeled.
+Nepal* UTC+5:45
+Bhutan
+(unreadable label) UTC+6 Labeled unreadable.
+China UTC+8 Heavily squashed horizontally, with finger-like tendrils to the west All of China is in UTC+8 (usage of UTC+6 exists in Western Xinjiang but is unofficial). However, it reaches as far west as Tajikistan, in UTC+5, and even has an extremely short border with Afghanistan in UTC+4.5. A border is also shown with Pakistan - this is disputed by some who support India in the Kashmir conflict, but represents the de facto Line of Control between India and Pakistan.
+Taiwan
+(not labeled) UTC+8 Not labeled.
+North Korea* (N.K.) UTC+8:30 In the map North Korea is smushed West of South Korea because North Korea at the time of publication had a time zone that is set half an hour off from South Korea's time zone.
+South Korea (S.K.) UTC+9
+Japan UTC+9
+Bangladesh (Ban.) UTC+6
+Burma* (Bur.) UTC+6:30
+Laos UTC+7
+Vietnam UTC+7
+Thailand UTC+7
+Cambodia
+(not labeled) UTC+7 Not labeled.
+Philippines UTC+8
+Oceania/Australia
+(not labeled) UTC+7 – UTC+12 Not labeled.
+Malaysia UTC+8 Malaysia and Singapore (not shown) stretched East from the rest of peninsular Southeast Asia Malaysia and Singapore both switched to using UTC+8 on 1 January 1982, after using GMT+7.30 under British rule and UTC+9 during the Japanese occupation. This change was due to Malaysia wanting to standardise time between East and West Malaysia, with Malaysia choosing to use the time in East Malaysia, with Singapore following suit.
+Indonesia UTC+7 – UTC+9
+Papua New Guinea UTC+10 – UTC+11
+Australia UTC+8, UTC+9:30, UTC+10 Although the UTC+8:45 region is acknowledged by local authorities, legally the region shares the same time zone as the rest of Western Australia, UTC+8.
+New Zealand UTC+12 None. The main islands use UTC+12. There is a small archipelago under New Zealand's rule, the Chatham Islands, which use non-standard UTC+12:45 time, but it is too small to depict.
+Transcript[edit]
+Bad map projection #79:
+Time Zones
+Where each country should be,
+based on its time zone(s)
+[A world map is shown divided and colored by political boundaries. There are many distortions, and especially Russia looks weird. Many countries have their name listed in a gray font and at the bottom below Australia there are two specialties mentioned for time zones which are not divided in full hours. One of these is a footnote used by other countries as well.]
+[The labels are listed here in order of the "continents" as they come from top left to down right. Similarly within each continent's list the countries which are usually said to belong to a given continent (at least politically or partially, e.g. Greenland and Turkey in Europe) are listed in a similar reading order as accurately as possible.]
+[North America. (Newfoundland, the most easterly part of Canada, is labeled with a star *):]
+Canada, *, United States, Mexico, Gua., Hon., Nic., C.R., Pan., Cuba, Haiti, Jam., D.R.
+[South America:]
+Colombia, Venezuela, Guyana, F.G., Suriname, Peru, Brazil, Bolivia, Par., Chile, Argentina, Uruguay
+[Europe. (Russia is as the only country mentioned twice, the other place is over the central part in the Asia section):]
+Greenland, Iceland, Norway, Sweden, Finland, Ireland, UK, Lithuania, Latvia, Estonia, Bel., Russia, Ger., Pol., Ukraine, France, It., Romania, Portugal, Spain, Bulgaria, Turkey
+[Africa:]
+W.S., Tunisia, Morocco, Algeria, Mauritania, Sen., Mali, Niger, Libya, Egypt, Sudan, Gb., Guin., B.F., S.L., Liberia, Côte d'Ivoire, Ghana, Nigeria, Chad, Cam., C.A.R., S.S., Ethiopia, Somalia, E.G., Gabon, R. of Congo, Dem. Rep. of the Congo, Kenya, Angola, Zambia, Tanzania, Namibia, Bots., Zimb., Mozambique, Madagascar, South Africa
+[Asia. (Russia is the only country mentioned twice, the other label is within the European border. The text written over Bhutan is unreadable in the image and marked with a question mark in this list):]
+Iraq, Saudi Arabia, Yemen, Iran*, Oman, Russia, Kazakhstan, Mongolia, Turkmenistan, Uzbekistan, Afghanistan*, Taj., Pakistan, India*, Nepal*, ?, China, N.K.*, S.K., Japan, Ban., Bur.*, Laos, Vietnam, Thailand, Philippines
+[Oceania/Australia. (In Australia there is a star * in the middle of it above the name):]
+Malaysia, Indonesia, Papua New Guinea, *, Australia, New Zealand
+[Below Australia there is an arrow pointing to the south coast and below that a footnote for the stars * used above:]
+UTC+8:45
+(One small area)
+*=Half-hour offset
+Click to expand for a more detailed description:
+[Expand]
+
+
+Trivia[edit]
+Errors[edit]
+Mixing labels:
+Randall mixes up Morocco and Western Sahara (a disputed territory)
+Suriname and French Guiana also have switched labels.
+Wrong time zones:
+East Thrace, the European portion of Turkey, is shown in Eastern European time (UTC+2). Actually, like the rest of Turkey, it uses UTC+3.
+Nepal's time zone is UTC+5:45
+Thule Air Base in northwestern Greenland follows UTC-4 rather than UTC-3, and should thus be shown on a tendril to the west, directly above Labrador and the rest of Atlantic Canada; instead, it is shown using UTC-3, like most of the rest of Greenland. This is especially strange considering that Randall has correctly drawn Danmarkshaven as using UTC and Ittoqqortoormiit as using UTC-1.
+Borders and adjacency are not always preserved although often attempted as mentioned in the section on map imperfections:
+Estonia is shown sharing a border with Finland - in fact, the two countries are separated by the Gulf of Finland. This sea should run to St Petersburg in Russia - instead, the city is shown as landlocked.
+Norway should border Russia. See Norway–Russia border.
+Azerbaijan territory is mistakenly attributed to Georgia – Georgia should not have coast on the Caspian Sea. Armenia should not have coast on the Caspian Sea as well.
+Tajikistan should not border Kazakhstan and follows UTC+5 rather than UTC+6. These would apply to Kyrgyzstan, which is not drawn in the map; Kyrgyzstan, however, does not border Afghanistan.
+Malawi has lost its border with Tanzania.
+Omissions[edit]
+Some countries and territories are missing from the map. Most of these omissions are undoubtedly deliberate, but some are likely mistakes.
+Countries supposedly too small to show on the map's scale are omitted. These include small European countries: Andorra, Kosovo, Liechtenstein, Luxembourg, Malta, Monaco, San Marino and the Vatican City, Djibouti in Africa, Singapore in Asia.
+All the Pacific Ocean isles, including Hawaii.
+All Atlantic and Indian Ocean isles excluding Sri Lanka and Madagascar.
+Most of the small Caribbean countries and territories; however four small dots in the Lesser Antilles are depicted, but are unlabelled and cannot be definitively identified.
+Kyrgyzstan is clearly omitted by mistake.
+Map with Labeled time zones[edit]
+Here is a map with labeled time zones, made by a user who posted the link in the discussion.
+Time zone map overlayed the comic[edit]
+And here is an attempt that shows a time zone map overlayed with the comic.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Notice The what if? Coast-to-Coast Coasting came out February 8th, at the same time as 1796. This was noted yesterday in the last comics discussion. For the first time in a year with less than two weeks between releases --Kynde (talk) 14:27, 15 February 2017 (UTC)
+
+"Screw Hawaii and the rest of the Pacific!" Z (talk) 04:56, 15 February 2017 (UTC)
+
+It is actually way less distorting than I expected 141.101.104.239 06:38, 15 February 2017 (UTC)
+
+Aahhhh, why are Suriname and French Guiana switched? They have the same timezone ... 162.158.150.22 06:52, 15 February 2017 (UTC)
+
+Can anyone explain why Russia has all the hills and valleys? East-west distortion I understand, but what is the reason for the north-south distortion? Nonnal (talk) 07:06, 15 February 2017 (UTC)
+I actually know this one - Russia has 11 timezones, but some of these form "islands" in the South of the country. From West to East, the North has: (+2 Kaliningrad), +3, +5, +7,+9, +10, +11, +12. Going West to East through the South adds back in +4 (Samara), +6 (Omsk), and +8 (Irkutsk), each corresponding to one of the "dips" in the projection. Atmarsden95 (talk) 07:15, 15 February 2017 (UTC)
+Why is Morocco labeled as U.S. and the Sahrawi Republic as Morocco? 141.101.88.88 07:24, 15 February 2017 (UTC)
+That actually says "W.S", for Western Sahara, but either way I can't see a good reason for the inversion. Both are on UTC+0, and Morocco is on UTC+1 in summer, while WS doesn't use DST, apparently... So even if that was being taken into account, the countries are STILL the wrong way around. Possibly, this is related to the French Guiana/Suriname inversion. Atmarsden95 (talk) 07:55, 15 February 2017 (UTC)
+And Western Sahara is the name used for the disputed area south of Marocco by the United Nations. The Sahrawi Republic have only limited recognition and does not control all of the disputed area. Pmakholm (talk) 07:59, 15 February 2017 (UTC)
+The switch is just a mistake, maybe caused by a map not depicting Western Sahara.--Pere prlpz (talk) 09:06, 15 February 2017 (UTC)
+It would be cool to see countries moving in and out of Daylight saving time. --141.101.69.69 07:56, 15 February 2017 (UTC)
+I'd like that, too. Elektrizikekswerk (talk) 08:42, 15 February 2017 (UTC)
+Why did he use 6 colors? And do the colors code for something? 162.158.202.58 08:06, 15 February 2017 (UTC)
+I think it's just for easier depiction without any further meaning. It's like in 850, I think... Elektrizikekswerk (talk) 08:42, 15 February 2017 (UTC)
+
+Should we replace the comic image with a bigger version? I've already uploaded the image: http://www.explainxkcd.com/wiki/index.php/File:bad_map_projection_time_zones_2x.png sirKitKat (talk) 09:02, 15 February 2017 (UTC)
+Should we compile a table of oddities in the map?--Pere prlpz (talk) 09:07, 15 February 2017 (UTC)
+I think yes. Elektrizikekswerk (talk) 09:12, 15 February 2017 (UTC)
+So am I getting this correct? The map is made to be divided into timezones with perfect vertical borders and the countries are then distorted to fit perfectly within their timezones? Shouldn't Greenland then be "split" since it spreads from UTC-3 to UTC but is not actually using UTC-2? 162.158.92.118 10:41, 15 February 2017 (UTC)
+Yes. But actually there should be connections since these parrts of Greenland are no separate landmasses. But the connections should be infinitesimally thin (but not of thickness 0) to be accurate. However the style these connection are made imply that they're just connection and no actual landmasses, I think... Elektrizikekswerk (talk) 10:59, 15 February 2017 (UTC)
+I have added Greenland to the table, please feel free to provide a more coherent wording if necessary, english is not my native language :) 162.158.92.118 12:42, 15 February 2017 (UTC)
+Only for understanding to the image sizes: The image tag uses the srcset feature and the browser decides if bad_map_projection_time_zones.png or bad_map_projection_time_zones_2x.png is shown. At this comic there is also a link to the large version. But the srcset feature is not new at this comic. Look at the source:
+<a href="http://imgs.xkcd.com/comics/bad_map_projection_time_zones_2x.png">
+  <img src="//imgs.xkcd.com/comics/bad_map_projection_time_zones.png" 
+   title="This is probably the first projection in cartographic history that can be criticized for its disproportionate focus on Finland, Mongolia, and the Democratic Republic of the Congo." 
+   alt="Bad Map Projection: Time Zones" 
+   srcset="//imgs.xkcd.com/comics/bad_map_projection_time_zones_2x.png 2x"/>
+</a>
+--Dgbrt (talk) 12:21, 15 February 2017 (UTC)
+Thanks for explaining that. So this is just the first time that the large version is linked from the normal sized version. Is that then the explanation for the 2x images appearing in Garden? --Kynde (talk) 14:27, 15 February 2017 (UTC)
+The comic Garden is one of those rare dynamic comics. Each of them are different and in this case a javascript file called "linden.js" creates the picture. But the next one (https://xkcd.com/1664/) is like this one I wrote about. Go to that comic and use rigth-click -> view image (or whatever your browser says). If your display has a large resolution you will see the large picture, if not you will see the standard. But I don't know when this scrset feature was implemented for the first time. Early comics don't support this.--Dgbrt (talk) 14:55, 15 February 2017 (UTC)
+The people from 850 should have a fun time with this.XFez (talk) 13:30, 15 February 2017 (UTC)
+"Finland and the Baltic states look huge because they are the only countries using the UTC+2 Eastern Europe time." That's not really true: Romania and Bulgaria use that time zone too, as does Greece. Angew (talk) 07:20, 16 February 2017 (UTC)
+Does Randall know about this wiki? I would assume he does. Also how does a comic become completed? I have filled in explanations for comics that I think meet the missing criteria so am I allowed to remove the incomplete thingy or does an admin have to do that?XFez (talk) 13:38, 16 February 2017 (UTC)
+Hi XFez, sorry for the late reply but this was hard to find. I don't know if Randall knows..., but maybe he does. But he does NOT support this wiki in any way -- like he does not here: http://forums.xkcd.com (while everything is now on https that board isn't ;) ). So there is no final explanation and he says 100 points! To your second question: You are allowed to remove the "incomplete tag". But the given criteria is not enough, often that simple text covers not all. Please check also the discussion page. So, when you are not sure just change the criteria text and mention it at the discussion page. And for older comics you probably should talk to someone else here because nobody checks every comic every day.--Dgbrt (talk) 19:00, 17 February 2017 (UTC)
+Transcript TLDR;
+I have started a discussion on this topic here: User_talk:Kynde#Transcript_TLDR.3B. I think I'm not the only one who wants the transcript to be short and only describing the essentials. Maybe we can define a Transcript-Guide.--Dgbrt (talk) 11:55, 15 February 2017 (UTC)
+Thanks for letting me know about the comment in the previous comics discussion Dgbrt. I still disagree with you that we should not write down every word written in the comic even if it is not spoken. As else this comic would have none. But also the labels for the countries should be written down. But if that is as the end of the transcript, it would not trouble the reader! --Kynde (talk) 14:27, 15 February 2017 (UTC)
+I added the names of the countries before noticing this discussion as I wanted to remove the incomplete tag, I apologize if I inconvenienced anyone due to this. IMO the text written in the comic deserves a mention but should be formatted in a way it doesn't bother those who don't need it. The text inside the square brackets should be kept concise.Asdf (talk) 18:48, 15 February 2017 (UTC)
+I shortened the description on top by a few words. The countries for each continent are now in one line. I added the incomplete tag again because the discussion is probably not finished. Feel free to remove this tag.--Dgbrt (talk) 19:39, 15 February 2017 (UTC)
+Labelled time zones
+I created a map overlaid with more obvious time zone divisions, labelled with some of that zone's more popular abbreviations. Tried to keep 'em to Standard Time rather than Daylight. Seen here. --VonAether (talk) 17:39, 15 February 2017 (UTC)
+Fantastic VonAether. I was just thinking of making such a map, but your looks much better than what I had in mind. Would it be OK to download your map to these pages and insert it in the explanation? --Kynde (talk) 19:54, 17 February 2017 (UTC)
+Absolutely; that's why I made it. Go nuts. :) --VonAether (talk) 21:07, 17 February 2017 (UTC)
+Thanks a lot VonAether. I will put it on the explantion now (I also posted my question on VonAether's talk page, and his answer is copied in here from there). --Kynde (talk) 21:32, 18 February 2017 (UTC)
+Palawan is missing again?--162.158.230.45 02:07, 16 February 2017 (UTC)
+Table entries
+Shall we put all countries there even if they are not on the map because of their size? San Marino, Monaco, Liechtenstein, Malta etc. What about all the Oceania? If not, shall we remove those not shown, but already put in the table?
+What about regions, i.e. Middle East? I'd vote for removal
+I would definitely remove Lake Victoria, it has no use in this context. Or shall we add the Great Lakes?
+Malgond (talk) 17:44, 21 February 2017 (UTC)
+Since nobody commented on it, I went ahead and removed regions, not shown countries and the Lake Victoria. -- Malgond (talk) 13:33, 24 February 2017 (UTC)
+Overlay Time Zones Map / comic
+I created an overlay, taking Australia and Greenland as reference points. It makes it easier to find the distortions. I am not yet very happy with it. But if you like the idea I would try to do region focused maps... Unfortunately even the large version of the comic resolution is worse compared with the time zones map which I took from Wikipedia. --LaVe (talk) 18:19, 25 February 2017 (UTC)
+Categories: All comicsComics from 2017Comics from FebruaryWednesday comicsIncomplete explanationsLinks to xkcd.comLarge drawingsComics with colorBad Map Projections

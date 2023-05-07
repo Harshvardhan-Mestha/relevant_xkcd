@@ -1,0 +1,85 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1721: Business Idea
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1721)
+|<< PrevComic #1721 (August 17, 2016)Next >>|
+Business Idea
+
+Title text: Then we move to phase two. Gas stations store fuel in underground tanks. Normally, these are inaccessible except via the pump. However, with hydraulic fracturing, we-- Wait! Come back!
+Explanation[edit]
+In this comic, Cueball announces he has "an exciting business opportunity to share". After hearing discouragement from his off-panel audience, he promises that "this time it's a good one", and goes on to explain his plan.
+Cueball's plan involves the premise that a small amount of premium gas is left in a fuel pump hose after a car driver fills their car up with premium gas. He states that even if the next customer only pays for regular gas, that they are still getting a small amount of the expensive premium gas. Though he doesn't get a chance to finish the outline for his plan, one can assume he planned to get premium fuel at regular prices, so he could then sell it for profit. After hearing the first part of his plan, two people from the off-panel audience announce they are leaving, clearly and correctly thinking that Cueball's idea is stupid and impractical.
+In reality, this would be an impossible business venture to execute. While in the United States often the same hose is used for the various octane fuels, the amount of fuel contained in the hose is relatively small (about a third of a gallon, or half a liter) compared to the amount that is generally purchased, though for motorcycles the ratio is more significant. It is also illegal to resell fuel without the correct licenses, and it would be difficult, bordering on impossible, to have the fuel pump run to just the premium fuel out, and driving to each gas station would use more money to buy more fuel than any money that could be made back. This is not to mention trying to keep track of when someone purchased premium so as to be the next person to use that pump to extract those precious drops.
+1499: Arbitrage implies a similar plan to extract wealth out of a small market inefficiency that, in reality, would be far too onerous to exploit, in this case reselling the free chips offered at some restaurants. The same idea was also used in 1110: Click and Drag where a person takes free drinks to resell. See also the what if? Cost of Pennies regarding why it would not be worth trying these kind of ventures out.
+The title text is another one of Cueball's fuel-based business ventures, as he says he plans to dig up fuel stations underground fuel storage tanks, to then sell the contents of. Again, illegal/theft, impractical, don't try it (though it would be much more profitable than his previous plan). The punchline is that a gas station's underground tank is "inaccessible" from the outside, just as there are some oil deposits that are inaccessible to traditional oil production techniques because no sufficient natural flow towards a well can be obtained. In the case of oil deposits, high-pressure fluids are pumped into the rock to break it up ("Hydraulic fracturing" also known as "fracking") and allow the oil to reach the well. Oil tanks, on the other hand, can be made accessible by puncturing them using (presumably) hydraulically powered tools (electrical power is inadvisable in the presence of high-vapor-pressure hydrocarbons due to the significant risk of fire and explosion caused by electrical sparking).
+The title text of 1662: Jack and Jill also refers to fracking.
+This comic originally shared name with 827: Business Idea, which was then renamed. There were no other relations between the ideas for the two comics, see Trivia.
+Transcript[edit]
+[Cueball is standing next to a rolled down projector screen holding a hand up towards his off-panel audience, one from the audience speaks. It is impossible to say if there are more than two persons off-panel, but it's also impossible to say if a person who speaks in one panel also speaks in one of the next, hence the numbering.]
+Cueball: Thank you all for coming.
+Cueball: I have an exciting business opportunity to share.
+Off-panel voice #1: Oh no.
+[Zoom in on Cueball's head. An off-panel person speaks twice.]
+Cueball: Now hear me out-
+Off-panel voice #2: Your ideas are always the worst.
+Cueball: No, no, this time it's a good one! I promise.
+Off-panel voice #2: Uh huh...
+[Front view of the screen with an image of a black gas pump, with the white hose snaking it's way up to the black handle. And arrow points to the middle of the hose where it is at it's highest point before the turn that goes to the handle. Cueball is pointing at the hose with a stick. Two different off-panel persons speaks to him.]
+Cueball: When someone fills their car with premium gas, some of it is left in the hose, and is dispensed to the next customer even if they've only paid for regular. If we create a network of-
+Off-panel voice #3: I'm leaving.
+Off-panel voice #4: Me too.
+Trivia[edit]
+Because this comic had the same title (and filename) as comic 827: Business Idea, Randall inadvertently broke both xkcd.com and explainxkcd.com when it went up.
+The main xkcd.com site showed this comic for both numbers, while explainxkcd.com showed 827 for both.
+On 11:35 am UTC, Randall has fixed this by renaming the old comic to 827: My Business Idea.
+This is the third time Randall has released a comic with a name exactly the same as a previous comic.
+This is the second time the xkcd site broke. See more under the introduction to this category.
+Not all gas stations leave the fuel in the hose; many pump it back into the tank for storage.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Fixed as of 11:35 UTC, the old comic is now named "My Business Idea" 162.158.203.141 11:32, 17 August 2016 (UTC)
+Same person, just want to note the forum is a little behind. It was 11:35 according to Google, and the timestamp on the signature said 11:32. Posting this at 11:39 162.158.203.141 11:36, 17 August 2016 (UTC)
+ExplainXKCD is still showing the image for 827. 173.245.52.62 14:02, 17 August 2016 (UTC)
+As far as I can tell, everything's been fixed now. I removed the warning in the incomplete tag. 108.162.218.107 15:07, 17 August 2016 (UTC)
+I'm pretty sure there's been a naming overlap or something because https://xkcd.com/827/ and http://xkcd.com/1721/ are showing the same image 108.162.250.157 04:13, 17 August 2016 (UTC)
+Randall done goofed
+He accidentally named TWO comics "Business Idea". This one and comic 827 (https://xkcd.com/827/). Because his comics are stored by name, not id, he has two "business_idea.png"s. The newer replaced the older one, but explain-xkcd has the original, probably due to the way either one is stored.
+What should we do? Contact Randall? 108.162.219.10 (talk) (please sign your comments with ~~~~)
+I'm honestly surprised Randall would make a mistake like this. Like shouldn't he have a list and a script that automatically checks wether a title was already used? --162.158.133.66 09:25, 17 August 2016 (UTC)
+Or simply append/prepend the comic number to the image name, that way you can't have duplicates. 141.101.98.90 (talk) (please sign your comments with ~~~~)
+Check the fora. Let him know he broke 827(http://i.imgur.com/0LTTpmJ.png) if he doesn't know already. I'm too lazy. 108.162.245.110 04:35, 17 August 2016 (UTC)
+Store it on the wiki as a jpeg and differentiate that way. --173.245.48.89 04:59, 17 August 2016 (UTC)
+The older comic has now been renamed as "My Business Idea", and is back up again. Zorlax the Mighty'); DROP TABLE users;-- (talk) 11:34, 17 August 2016 (UTC)
+Great. I tried to fix the issue by renaming the old comic (both page and file), but it now has the old version cached and shows it on both comics' pages... --SlashMe (talk) 14:05, 17 August 2016 (UTC)
+Explanation for us users from countries with different fueling systems
+In Germany and many other countries, the gas pumps actually have a separate hose per fuel type, so many fans of xkcd might not be able to understand this comic. 162.158.83.162 05:18, 17 August 2016 (UTC)
+Yes, because many of us use Diesel, and you should not mix diesel and petrol. But it's no problem to mix small quantities of regular into premium or vice versa. --162.158.86.161 09:06, 17 August 2016 (UTC)
+Not just diesel and petrol - every kind of fuel sold (usually 4 per pump - petrol/diesel x premium/regular, sometimes fast diesel pump for trucks instead of diesel premium) has a separate hose and pistol in Poland. You choose the fuel by choosing the pistol. I'm guessing it's the same in a large part of Europe at least. It didn't even occur to me that it could be done differently. I honestly thought it was part of the joke - that Cueball doesn't even know that. --162.158.86.119 10:07, 17 August 2016 (UTC)
+I'm really surprised, too. How DOES a system work where the customer can presumably switch between the kinds of gas he fills in his tank? And where is such a system installed? The States, I suppose, but where else? For international readers, this should definitely be part of the explanation. Is there a convenient weblink that shows the differences between countries' gas stations, or a weblink that shows this unique setup that Randall takes for granted here? --162.158.83.72 10:50, 17 August 2016 (UTC)
+American here. There's a button for each type of gas. You have to hit a button before you start fueling and then that's the kind that comes out. I'm surprised that other countries use multiple-hose systems. It sounds inefficient. Diesel is still separate here, though. 108.162.246.123 23:56, 17 August 2016 (UTC)
+It might be inefficient but at least you get what you pay for. ;) Elektrizikekswerk (talk) 08:08, 18 August 2016 (UTC)
+The point of Elektrizitätswerk is the most important in Germany. We have very strict laws concerning precision of amount/quality of sale.
+162.158.85.69 09:59, 18 August 2016 (UTC)
+Here is a photo from France: [Broken link to: French petrol pump]. I'm surprised it's not like that in the country that gave us warnings on plastic bags and paper cups :-) 108.162.229.121 13:27, 18 August 2016 (UTC)
+We use both in the US. Some gas stations have one hose with multiple buttons to select the grade of fuel, other gas stations do have a separate hose for each fuel grade.162.158.74.33 14:19, 18 August 2016 (UTC)
+Beret Guy?
+Is this Cueball, or Beret Guy with his hat off? Mikemk (talk) 08:22, 17 August 2016 (UTC)
+Unlikely. Wasn't Beret Guy's hat stapled? --162.158.86.119 10:07, 17 August 2016 (UTC)
+If it was Beret Guy he most likely would have had (inexplicable) success with this idea. Elektrizikekswerk (talk) 10:13, 17 August 2016 (UTC)
+"Pay it forward" at Starbucks
+This is actually about Starbucks, where customers - depending on the place, of course, as I've never seen it in Switzerland - are asked to pay some bucks for the next customer. You are expected to pay something "forward".
+This idea originates from Italy, where you can buy a "caffè sospeso", a "suspended café". Somebody in need can walk up to the bar tender and ask for a free coffee. And yes, it disgusts me that this good idea was taken over by hipsters.--162.158.150.228 11:20, 17 August 2016 (UTC)
+I think you may be seeing something that is not in the comic. 108.162.246.119 13:53, 17 August 2016 (UTC)
+I know what you're talking about, and it usually happens with one spontaneous and kind person starting a chain reaction, not corporate encouragement. This would both go against your statement and the comic itself (as they both suggest the company intervening). -- Papayaman1000 (talk) (please sign your comments with ~~~~)
+Fuel mixture quality
+Knowing about the oil industry myself and how oil is transported... different qualities of oil are separated by having different densities, however, some mixture where the two products are touching is unavoidable.
+This is relevant because the non-premium gas actually has a certain amount of premium mixed in, and that's why the octane rating is a minimum.
+In other words, oil companies already account for the mixing of qualities. 108.162.220.221 (talk) (please sign your comments with ~~~~)
+In Europe there are premium versions of the same octane-number (95 Normal 95 Premium 98 Normal 98 Extreme). So that wouldn't work. Also if you buy the premium version you are an idiot. 162.158.114.222 10:48, 19 August 2016 (UTC)
+Your "In Europe" statement is not entirely true. I can't recall seeing such thing. In Germany for instance, we have "Normal" (91), "Super E10" (95 with 10% bio-ethanol), "Super" (95), "Super Plus" (98) and on bigger companies such as Shell or ARAL there are some 100 (V-Power/V-Power Racing/Ultimate 100) or even 102 (Ultimate 102) octane gasolines. "Normal" isn't sold anymore at most places, while E10 is - as far as I know - mandatory by law. Arguably you could say that some companies do sell "premium" while others sell "normal", though, but there is no "normal 95" and "premium 95" at the same station. Elektrizikekswerk (talk) 06:52, 22 August 2016 (UTC)
+The upper-left side of http://xkcd.com/1110/ "Click and Drag" has a similar theme where someone is standing on a rooftop party and saying "I'm working at a small startup. Our business model is taking free drinks from industry events and reselling them." (Scroll to the left and follow the building upwards.)108.162.216.77 21:45, 26 August 2016 (UTC)
+Thanks, have included this both here and on 1110 and in 1499 --Kynde (talk) 12:58, 8 September 2016 (UTC)
+Too trivial for the Trivia section: in fact, in the natural gas business, we use pneumatic tools, rather than hydraulic, to avoid igniting our fossil fuel. They're just easier to handle where practical, because you don't have to deal with hydraulic fluid. Air is not going to cause a spill and require a hazmat response if it leaks out. I don't know what's used on gas station storage thanks, though. Nitpicking (talk) 03:58, 9 February 2022 (UTC)
+Categories: All comicsComics from 2016Comics from AugustWednesday comicsLinks to xkcd.comComics featuring CueballComics sharing name

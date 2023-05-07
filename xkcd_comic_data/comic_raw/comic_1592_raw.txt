@@ -1,0 +1,71 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1592: Overthinking
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1592)
+|<< PrevComic #1592 (October 19, 2015)Next >>|
+Overthinking
+
+Title text: On the other hand, it took us embarrassingly long to clue in to the lung cancer/cigarette thing, so I guess the real lesson is "figuring out which ideas are true is hard."
+Explanation[edit]
+In this comic, Cueball is telling White Hat about several recent scientific studies he read that appear to contradict the results of either prior studies whose results have stood for a long time or are long-held misconceptions. The studies can be reviewed on-line via their Digital Object Identifier (DOI) in Randall's citations.
+In the first, Cueball mentions a study that showed that while water is good for you, you only need to drink when you are thirsty. This appears to be a reference to common misconceptions that we should drink a certain set quantity of water per day (oft-cited as eight cups - see 715: Numbers) and may even be referencing the fact that drinking too much water (well more than the standard 8 cups, for most people) can lead to hyponatremia (lack of salt in the body).
+Another recent study showed that prolonged sitting is not bad for you which contradicts the long-held belief that sitting at a desk all day is unhealthy and that standing or lying down are healthier. The study showed that the position is not particularly relevant if there is no physical activity in any of the positions.
+Finally, Cueball references a study that pre-industrial humans have similar sleep patterns to our own, which would appear to contradict a belief that modern technology has disrupted our sleep patterns (which is likely tied to health concerns around our modern sleep habits).
+Cueball's conclusion is that humanity may be over-thinking things in trying to find problems in the way we live our everyday lives. In the last panel, White Hat seems to be attempting to start an inquiry into what everyday modern phenomenon has caused us to over-think things. This is obviously a self-referencing example of the types of claims Cueball is debunking in the first three panels. Cueball responds by suggesting that humanity's over-thinking is likely not a recent phenomenon but probably dates back to the stone age. This could also be viewed as an argument that over-thinking is not all bad, as the wheel would certainly be a good result of over-thinking.
+In the title text, Cueball gives a counter-example to his own argument, suggesting that it took far longer for us to realize the negative health connotations of smoking than it should have. Suggesting instead it's not about overthinking or underthinking-it's just that people make mistakes about what is important. (The link between cigarettes and lung cancer has been known for longer than most people realize, possibly coming as early as the 1940s.)
+Links to studies referenced[edit]
+Panel 1: DOI:10.1097/JSM.0000000000000221: "Statement of the Third International Exercise-Associated Hyponatremia Consensus Development Conference, Carlsbad, California, 2015", Clinical Journal of Sport Medicine, July 2015, Retrieved 19-Oct-2015
+Panel 2: DOI:10.1093/ije/dyv191: "Associations of sitting behaviours with all-cause mortality over a 16-year follow-up: the Whitehall II study", International Journal of Epidemiology, 27-Aug-2015, Retrieved 19-Oct-2015
+Panel 3: DOI:10.1016/j.cub.2015.09.046: "Natural Sleep and Its Seasonal Variations in Three Pre-industrial Societies", Current Biology, 15-Oct-2015, Retrieved 19-Oct-2015
+Transcript[edit]
+[Cueball and White Hat are walking together. The references are at the bottom of the three first panels.]
+Cueball: I found a study* that said water is good for you, but you should just drink it when you feel thirsty and not go overboard.
+White Hat: Uh huh?
+*DOI:10.1097/JSM.0000000000000221
+[More walking with Cueball lifting his hand in front of him.]
+Cueball: Another study* found that prolonged sitting isn't necessarily bad for you, as long as you're also getting exercise.
+White Hat: Okay...
+*DOI:10.1093/ije/dyv191
+[A border-less panel, but still walking.]
+Cueball: Now a study* claims that humans in pre-industrial societies stay up late and sleep 6 or 7 hours a night, just like most people today.
+White Hat: Huh.
+White Hat: So what you're saying is...
+*DOI:10.1016/j.cub.2015.09.046
+[Zoom out showing Cueball and White Hat walking in silhouette.]
+Cueball: Maybe we're overthinking it.
+White Hat: But what caused our modern epidemic of overthinking?! Plumbing? Or is it email?
+Cueball: Modern? I bet the wheel was invented by someone overthinking "pushing."
+Trivia[edit]
+In the original version of the comic, the three DOIs were shifted one panel, so the reference in the first panel belonged to the second panel, the second belonged to the third panel and the reference in the third panel belonged to the first. This was corrected within a few hours.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+First Panel: DOI: 10.1097/JSM.0000000000000221 Title: Statement of the Third International Exercise-Associated Hyponatremia Consensus Development Conference, Carlsbad, California, 2015. Tamara HB, Mitchell HR, Sandra FG et al. Link: journals.lww.com/cjsportsmed/Fulltext/2015/07000/Statement_of_the_Third_International.2.aspx
+Second Panel: DOI: 10.1093/ije/dyv191 Title: Associations of sitting behaviours with all-cause mortality over a 16-year follow-up: the Whitehall II study. Richard MP, Emmanuel S., Annie RB et al. Link: ije.oxfordjournals.org/content/early/2015/10/09/ije.dyv191
+Third Panel: DOI: 10.1016/j.cub.2015.09.046 Natural Sleep and Its Seasonal Variations in Three Pre-industrial Societies. G. Yetish, H. Kaplan, B. Wood et al. Link: cell.com/current-biology/abstract/S0960-9822%2815%2901157-4
+Full Text links: goo.gl/kc8cSs 162.158.34.206 13:17, 19 October 2015 (UTC)
+DOI's
+Doh, after I added the links and noticed they were off by a panel I went to add a blurb in the comic description likely at the same time someone else did so in the references section I had just created. :P lol Jarod997 (talk) 13:38, 19 October 2015 (UTC)
+Linking "Digital Object Identifier" to www.doi.org is not helpful. Even their FAQ doesn't tell you what a DOI is. https://en.wikipedia.org/wiki/Digital_object_identifier will be more informative to most people, assuming wikipedia is correct. 198.41.235.101 (talk) (please sign your comments with ~~~~)
+Shifted DOI
+The Image provided here does not match with the one given at [1]. At xkcd.com the DOIs are shifted to match the corresponding text. 162.158.92.167 14:22, 19 October 2015 (UTC)
+Indeed you are correct. It would appear that Randall didn't intend to confuse us this way. ;) Problem is the comic panel on this page is auto-grabbed by a bot. Someone with more experience than me is going to have to look into this. Once the panel is updated, we can update the DOI link references. Jarod997 (talk) 14:26, 19 October 2015 (UTC)
+0000000000000221 ???
+The Journal of Sports Medicine seems to think that someday they might have over a quadrillion articles indexed by DOI. I dunno, maybe that's a tiny bit overly optimistic? - Frankie (talk) 16:09, 19 October 2015 (UTC)
+"Figuring out which ideas are true is hard."
+Verification is hard? Maybe as hard as finding a solution? OMG it's a hidden message: Randall found a proof for P=NP! 162.158.91.213 (talk) (please sign your comments with ~~~~)
+I'm not convinced that's hard. It seems to me more likely that accepting the consequences is hard. For example, telling people they can no longer smoke because they are harming themselves and others would likely impinge on their personal freedom or hurt their poor little feelings. 198.41.238.33 22:12, 19 October 2015 (UTC)
+Figuring out which ideas are true is just science. -- Ima420r (talk) (please sign your comments with ~~~~)
+Am I going to offend someone if I point out that religion is a great example of "figuring out which ideas are true is hard" ??? 108.162.249.163 (talk) (please sign your comments with ~~~~)
+The text says "being the character with an odd "surreal" way of thinking" about White Hat, but isn't that Beret Guy? 141.101.105.211
+"Plumbing"
+Can someone explain why White Hat suggests plumbing could cause overthinking? Thanks. 141.101.66.23 11:24, 20 October 2015 (UTC)
+My guess when I read it was: you should understand "overthinking" as "over sink-ing", hence the plumbing suggestion. 162.158.6.222 16:14, 20 October 2015 (UTC)
+I take it as a reference to lead piping, which can be blamed for all manner of physical and metal "epidemics" with no obvious vector--Laverock (talk) 10:31, 21 October 2015 (UTC)
+I took it as water being easily available (how much should you drink?). As for e-mail, I think because it made ideas (wrong or right) really easy to spread. 108.162.210.205 15:48, 21 October 2015 (UTC)
+LOL! I think (ironically) you guys are overthinking this. It seems that "plumbing" and "email" are just examples of ubiquitous modern technology. Atreides (talk) 05:05, 23 October 2015 (UTC)
+I thought it is a reference to the fact/claim that Romans had plumbing system with lead, which might have caused them much health problems, (pushing it) make people dumb, and hence also "the Fall" of the Empire.
+It seems to me that the current explanation is overthinking the significance of the studies. They're not things that challenge commonly held (mis)perceptions, but things that would usually be seen as self-evident yet people are doing research to formally verify them. 141.101.80.57 16:18, 21 October 2015 (UTC)
+Er, no. Every single panel makes a statement that is surprising not because it's so self-evident that we shouldn't need a study about it, but for the exact opposite reason: Because while these issues might seem to have common sense solutions, the research suggests that they're actually quite complex and difficult to solve. There's a lot of debate and conflicting research about [how much water you should drink], whether prolonged sitting on a regular basis is bad for you (and what we should do about it if it is), and which sleep patterns are the most natural or healthy. The studies cited challenge the prevailing idea that these issues are complex, by claiming that the real answer is either common sense after all ("get enough exercise"), or is just what we naturally do already when we aren't thinking about it too hard (drinking when you're thirsty, staying up late and sleeping 6-7 hours). NoriMori (talk) 18:16, 13 July 2021 (UTC)
+Categories: All comicsComics from 2015Comics from OctoberMonday comicsComics featuring White HatComics featuring CueballScience

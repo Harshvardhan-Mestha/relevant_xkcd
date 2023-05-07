@@ -1,0 +1,38 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1722: Debugging
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1722)
+|<< PrevComic #1722 (August 19, 2016)Next >>|
+Debugging
+
+Title text: When you Google an error message and it gets no results, you can be pretty sure you've found a clue to the location of Martin's sword.
+Explanation[edit]
+Cueball is telling White Hat about his attempt at debugging, i.e. the process of finding out what is causing a given (computer) problem, which can become increasingly difficult and convoluted. In this case, Cueball had a problem with his browser. His attempts to solve this problem led him to a problem with the device driver for his keyboard. Chasing that issue, he found an unclear error message from a system utility, and so on.
+Cueball decides to "make a long story short" by skipping several steps he believes are boring, and he unexpectedly reveals this process has led him to find the “Sword of Martin the Warrior”, a legendary relic from the children's fantasy novel series Redwall. This refers to the fact that a complicated riddled path was devised in the series that would lead to the sword, which is similar to the process of debugging, as it involves following clues to achieve an answer. But apart from that, they are entirely different.[citation needed] This is pointed out by White Hat who states that at some point in the process he switched from the puzzle of debugging to the Redwall puzzle of finding Martin's sword. Redwall has been referenced before, most prominently in 370: Redwall; where Martin and the sword can be seen; but also in 1286: Encryptic and more recently in 1688: Map Age Guide.
+Googling an error message is a common method used during debugging, often leading to useful information. However, when there are no search results for a given message, it may mean the problem is so obscure that almost nobody had experienced it before. (See also 979: Wisdom of the Ancients about getting only one result.) Or, as the title text hints, it might mean it was a hidden clue to the location of Martin’s sword.
+Transcript[edit]
+[Cueball and White Hat are walking, while Cueball holds a hand out while talking.]
+Cueball: I was trying to figure out why my browser was acting weird.
+[In a frame-less panel they keep in walking, Cueball holds both hands up in front of him.]
+Cueball: Turns out it wasn't the browser-the issue was with my keyboard driver.
+[Zoom in on Cueball's upper torso as he is holding a finger up.]
+Cueball: Debugging that led me to a mysterious error message from a system utility...
+[Zoom out as Cueball holds up a miniature sword by the blade in one hand. White Hat turns his head around and looks at it while they keep walking.]
+Cueball: Anyway, long story short, I found the sword of Martin the Warrior.
+White Hat: I think at some point there you switched puzzles.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Cueball is describing the familiar experience of hunting down bugs through convoluted steps. There's obviously a leap from debugging a computer issue to finding a fictional sword.
+Sword of Martin the Warrior is a reference to [1] from the Redwall series of books. The sword has passed through the ownership of many characters in its time.
+Anyone notice how small the sword is? ----
+141.101.98.42 12:40, 19 August 2016 (UTC)--swampers
+The keyboard problem could be the sword stuck (or hidden) in it. 141.101.98.15 11:12, 21 August 2016 (UTC)
+Google'ing for an error message. 99% of the internet doesn't understand that concept. *sigh* --108.162.237.220 15:13, 21 August 2016 (UTC)
+
+Seems like the issue was with the mouse, not the keyboard, after all. --108.162.221.29 03:01, 22 August 2016 (UTC)
+Personally I find it even more irritating when googling an error message gives results... but those results are only for the source code of the program giving the error. Which invariably is not commented well enough to actually describe what the error code means, let alone potential ways to fix it. What do others think is the most irritating? No results, or source code results? 141.101.98.92 15:01, 22 August 2016 (UTC)
+
+My dad used to call Sierra when their games crashed, and he'd give them the error code, and about half the time they went "Wow! Nobody's ever gotten that one before! What happened?!". Dad, fortunately, found this amusing. 108.162.237.134 04:25, 7 September 2016 (UTC)
+Categories: All comicsComics from 2016Comics from AugustFriday comicsPages using the "citation needed" templateComics featuring CueballComics featuring White HatComputersFictionRedwall

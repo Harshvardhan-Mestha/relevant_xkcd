@@ -1,0 +1,121 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1636: XKCD Stack
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1636)
+|<< PrevComic #1636 (January 29, 2016)Next >>|
+XKCD Stack
+
+Title text: This site requires Sun Java 6.0.0.1 (32-bit) or higher. You have Macromedia Java 7.3.8.1¾ (48-bit). Click here [link to java.com main page] to download an installer which will run fine but not really change anything.
+Explanation[edit]
+In software engineering, a tech stack is the set of technology platforms and tools that a company or app uses. A common tech stack is LAMP, composed of a Linux operating system, an Apache Web server, a MySQL Database, and the PHP programming language. In this comic, the XKCD stack is introduced. The technologies it comprises are either non-existent, unreliable, outdated, or entirely irrelevant.
+Another example of a tech stack is featured in 2166: Stack.
+Explanation of Layers[edit]
+EBNF/CSS
+BNF or Backus–Naur Form is a syntax used for describing context-free grammars. EBNF is "Extended BNF", it is the same thing as BNF with a few more syntactic constructs intended to ease its use in the most common cases. 1343: Manuals mentioned EBNF.
+CSS or Cascading Style Sheets is a language used to describe what a web page should look like. Web pages are usually written in HTML, which describes the structure of the page (i.e. divides the document into paragraphs, lists, etc.) complemented with CSS which describes the look and feel of the page (colors, fonts, margins, etc.). EBNF/CSS would suggest CSS with strange syntax.
+Broken Java Applet
+In recent years it has become more difficult to run Java applets in several browsers. Chrome 45 stopped supporting NPAPI, Firefox dropped support in version 52, and Edge does not support NPAPI plugins at all. Furthermore, two days before this comic was published Oracle (the developer of Java) announced plans to officially end support of Java applets in an upcoming version.
+Archive.org Mirror
+Archive.org is a website which archives websites, and created the Wayback Machine. It's ambiguous whether the "Archive.org mirror" would be a copy of the xkcd server or of Archive.org itself.
+Hypercard.js
+HyperCard can be considered as a kind of predecessor for powerpoint developed at Apple. The file extension .js indicates that is was rewritten in JavaScript. A similar reference to JavaScript is found in 1508: Operating Systems.
+QBasic on Rails
+A mix between QBasic and Ruby on Rails. BASIC is a programming language that was very widespread during the 80s. QBasic is an implementation of BASIC created by Microsoft in early 90s, that, among other things, added support for structured programming. QBasic, lacking several of the features present on modern computer languages, is known for its spaghetti code. Ruby is a rather modern language, often used with Ruby on Rails web application framework. QBasic on Rails would likely mean a port of Ruby on Rails, replacing Ruby with QBasic. QBasic no longer runs on modern computers, but there are a couple of free open source implementation of QBasic, one being QB64 and the other FreeBASIC, which are available for Windows, Linux, Mac, and Android. There also exists a webserver on BASIC called RunBasic.
+[Blocked by AdBlocker]
+Ad blocking software are extensions to browsers that try to remove ads from web pages, so the user is not distracted by them. 624: Branding shows what "browsing without adblock" looks like. The joke is that AdBlocker is preventing us from seeing what makes up this portion of the stack. This could be because:
+Someone inserted an ad in the stack description. Some sites do insert ads in the middle of tables and lists, a typical case being between posts in forums.
+An ad is actually an integral part of the stack. Some sites make ads an integral part of the site content, so that users with ad blocking software will be forced to disable ad blocking to be able to properly interact with the site. Usually, in real life, this is not really a case of ads being part of the site, only that the site artificially refuses to work until it has some confirmation that ads have been properly loaded in the client side (by means of some script within the ads which sends the confirmation to the server).
+Ad blocking software has misidentified that portion of the stack as an ad, when in fact it is not (i.e. a false positive). This happens in real life, and it is a common source of great pains for the owner of the site which is being misidentified as an ad.
+MongoDB/Excel
+MongoDB is a modern NoSQL database system, Microsoft Excel is a spreadsheet program from Microsoft, which is sometimes used as a database system (rarely a good choice).
+Some piece that works so nobody asks any questions
+Writing any non-trivial piece of software always require a phase of debugging, which consists in finding and fixing bugs. With complex software, this is a long and tiring process, so when the product is finally finished no one dares to modify it any further for fear that it will fail in unexpected ways. After some time passes, it is even worse because nobody really remembers how the software was supposed to work, so the product becomes some kind of godlike treasure which must be treated with the utmost respect and reverence because, you know, if it stops working we're all doomed (1421: Future Self). After completion, Refactoring is the process of rewriting code for greater efficiency or reliability. However, if the performance is not 'too bad' (i.e. not unusably terrible in normal use) there is a great temptation to avoid this, in favor of the 'if it ain't broke, don't fix it' methodology. This could lead, for example, to a trained monkey and an abacus being used to crunch numbers. It works, but could be done far better. However, nobody wishes to change it, for fear of breaking a presently functional, if inefficient, system.
+Triply-Nested Docker
+Docker is a software container, which is a way that allows a complete operating system to run under different operating system (OS) (as long they share the same kernel, among other things). Triply-nested docker would mean OS A running under OS B running under OS C running under OS D (running under OS E?). That would likely be a performance and management nightmare
+Paravirtual Boy®
+This is a reference to the Virtual Boy, a failed portable console created by Nintendo. It was promoted as being a highly immersive, incredible experience, but the poor technology that it used caused it to be very criticized for not meeting the high expectations. Paravirtualization is a way of virtualization, that requires cooperation of the guest operating system, contrary to full virtualization, on which the guest operating system is not required to do anything special and the host handles everything.
+A dev typing real fast
+A dev is a software developer. This is possibly a reference to 341: 1337: Part 1, where Mrs. Roberts edits the TCP stream live while wearing oven mitts and baking cookies. It looks like the XKCD Webserver is not a computer after all -- we have a person manually replying to HTTP protocol queries. Such a feat would indeed require real fast typing. If this is the case, then it's possible that almost none of the other layers of the stack actually do anything.
+Older version of our software
+People are often reluctant to switch to newer versions of software because, even though newer versions are supposed to have more features and fewer bugs, they end up confusing users. Users of older versions are used to doing everything with less features and circumventing old bugs. They don't know how to use the new features, which of course come with new bugs they haven't learned how to circumvent yet. It is also often the case that newer versions remove weird unused old features, breaking the workflow of users who actually did use such features and are left without a suitable replacement (1172: Workflow). Alternately, since higher parts of a stack are dependent on lower parts, this could also be a reference to how the consumer versions of Microsoft Windows (3.x, 95, 98, and ME) ran on the "older version" software Microsoft DOS until Windows NT. Paired with the previous layer, it could instead mean that the human is merely retyping the output of the older version.
+Mystery Networking Horror
+Randall suggests here that the whole networking stuff behind the XKCD service is both mysterious (no one actually knows the details) and horrific (technically questionable architecture and implementation, or somehow tentacled and eldritch in nature).
+Microsoft Bob Server®
+Microsoft Bob was a short-lived, failed attempt by Microsoft, around 1995, to provide a user-friendly interface for the Windows 3.1x, Windows 95 and Windows NT operating systems. It consisted of a virtual "house" and "rooms", and clicking on objects in the room would open applications, for instance clicking on a pen would open the word processor. It was heavily criticized and was soon discontinued. Randall seems to be making the suggestion that Bob has continued to be developed and now there's a Bob Server, similarly to Windows server.
+A giant CPU someone built in Minecraft
+Minecraft is a popular sandbox game where you place blocks to build things. Since the introduction of Redstone objects (materials used to create basic electric circuits within the game) people have made many machines within Minecraft, including calculators and clocks. The most complex of these machines simulate simple computers, capable of storing several lines of code and performing basic mathematical operations such as division, which requires thousands of blocks and extremely complex designs. A Minecraft CPU capable of hosting a website would be ridiculously huge and nearly impossible to work with: the input/output would be needlessly unwieldy, and by the time the data is parsed any other computer could have finished the job already; and Redstone circuits in Minecraft work much slower than in real life, quite literally trillions of times slower.
+Title text[edit]
+The title text contains several jokes about the Java programming language:
+First, it refers to Java both as Sun Java and Macromedia Java. This is a pun on the fact that older documents refer to "Sun Java" where newer documents refer to "Oracle Java", as if there were two different languages. The fact is that Java was designed originally by Sun and then bought by Oracle, so it "changed name" even though the language is the same. Macromedia was the company that developed Flash before it was bought by Adobe. Both Flash and Java were popular in the early WWW to have interactive web pages, but both are being deprecated in favor of JavaScript.
+Second, the version numbers: older software products used to have two version numbers: major and minor (e.g. in MS-DOS 6.22 the major number is 6 and the minor is 22). Newer products tend to have hundreds of minor revisions, all of them numbered, so a typical user may well find themselves updating version 6.0.0.1 to 7.3.8.1 without knowing at all the differences between both versions or which other versions are in between. The ¾ in the Macromedia Java version is a joke on complex version numbers, which (so far) have never included fractions.
+Third, the 32-bit or 48-bit version: The Intel 80386 processor used an architecture known as IA-32, which implies the address bus is 32-bit wide and thus able to handle up to 4GiB of RAM memory. This was plenty for the early 1990s, when a typical home PC would have about 8MiB (this is 512 times less than 4GiB). However, about 10 years after that, a typical home PC could well use more than 4GiB of RAM, so several 64-bit architectures were created. These architectures are not compatible (32-bit software may run on 64-bit hardware of the same family, but software compiled as 64-bit doesn't work on a 32-bit system), so programs (including the Java Runtime Environment, or JRE) often have 32-bit and 64-bit versions to allow the most appropriate version to be installed. Furthermore, the JRE is heavily used by many web browsers, and for this to work the JRE and browser need to be the same "number of bits". This means that most people have installed both versions of the JRE to be able to use it with both 32-bit and 64-bit browsers. There's no 48-bit architecture (though some 64-bit processors including the most common ones don't actually use all 64 bits everywhere, ignoring some bits so actual virtual or physical memory is smaller (in the case of the most common ones, 48bits virtual and 40bits physical), they simulate a full 64-bit environment to allow adding more bits later, so there are no specific 48-bit applications).
+Fourth, an application trying to let the user install a new version of the JRE should direct the user to the download page in the java.com site, not to the main page which deals with lots of issues with java and is not particularly helpful when trying to update the JRE.
+Fifth, and continuing with the joke of users updating from 7.3.8.1¾ to 6.0.0.1 and not knowing why they should, the new version is said to "run fine but not really change anything". This is the usual behavior for Java updates: they run fine (possibly in opposition to 1197: All Adobe Updates, where updating must be done several times and the user is never sure they have installed all the newest updates), but after finished updating the user can't see any difference with the previous behavior, and/or may still be told that an update is required. Considering that 7.3.8.1¾ is bigger number than 6.0.0.1, it can also refer to the fact that the test for upgrading is incorrect and 7.3.8.1¾ is actually newer version or that a downgrade is required for the applet to work properly, because no one fixed it to work with the newer version. It may also refer to the fact installing new Java versions often requires editing environment variables to force the OS to default to the new JRE, which standard users of an application don’t know to do, leading their computer to use the old JRE anyway.
+Transcript[edit]
+[A simple table with only one column and fifteen rows is shown. Text above:]
+Introducing
+The XKCD Stack
+[The list of cells:]
+EBNF/CSS
+Broken Java Applet
+Archive.org Mirror
+Hypercard.js
+QBasic on Rails
+[Blocked by AdBlocker]
+MongoDB/Excel
+Some piece that works so nobody asks any questions
+Triply-Nested Docker
+Paravirtual Boy®
+A dev typing real fast
+Older version of our software
+Mystery Networking Horror
+Microsoft Bob Server®
+A giant CPU someone built in Minecraft
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I just came here. AM I IN THE FUTURE? I'm in the future! 199.27.130.246 (talk) (please sign your comments with ~~~~)
+We are in the future together. -- KingSupernova (talk) (please sign your comments with ~~~~)
+But if there are no comments, aren't we in the past? The distant past, before the beginning of the comments? ...Watch out for raptors! 162.158.2.227 (talk) (please sign your comments with ~~~~)
+Can confirm... all you guys are in the past; (as an active time traveller heading to the future, i've seen it all!) 162.158.91.210 09:11, 29 January 2016 (UTC)
+Would you two sign your comments, please? --PsyMar (talk) 07:17, 29 January 2016 (UTC)
+It was actually three people Davidy²²[talk] 08:12, 29 January 2016 (UTC)
+Right now it says that we aren't yet at the stage of having a CPU in Minecraft. That's not true. SethBling has implemented BASIC using only command blocks, armor stands, and banners. DanielLC (talk) 08:50, 29 January 2016 (UTC)
+That's not really a CPU, it's just an inefficient method to parse characters and compile code. 108.162.216.38 17:28, 29 January 2016 (UTC)
+Actually, isn't BASIC an interpreted language? Thus, "compile code" should be stated as "interpret code". 108.162.216.58 18:02, 29 January 2016 (UTC)
+I would think "archive.org mirror" means a mirror of [company]'s website on archive.org, not a mirror of archive.org. Sjorford (talk) 11:51, 29 January 2016 (UTC)
+But a mirror of archive.org would be funny because a) it's essentially a mirror already and b) it would be absolutely enormous. 141.101.70.55 23:25, 31 January 2016 (UTC)
+I think a mirror of the company's site on archive.org would be much funnier, because it would imply that this whole stack is pointless because it recursively requires a mirror of its own operation as part of itself. 172.68.254.66 05:49, 31 July 2017 (UTC)
+Docker?
+Docker: A-B
+Nested Docker: A-B-C
+Doubly Nested Docker: A-B-C-D
+Triply Nested Docker: A-B-C-D-E
+Surely. --141.101.106.161 13:38, 29 January 2016 (UTC)
+LOL, I read on the front page the bit about Excel being a database, clicked through here to edit it, and found that in the intervening 2 minutes someone had made the exact edit I meant to. The system works :) 162.158.153.59 14:01, 29 January 2016 (UTC)
+"The Microsoft Jet Database Engine is a database engine on which several Microsoft products have been built." Microsoft Access 95 / Excel 95 Jet version 3.0 https://en.wikipedia.org/wiki/Microsoft_Jet_Database_Engine 108.162.208.68 15:19, 29 January 2016 (UTC)
+48-bit architecture
+you mixed together machine word size and address space size, the former is the matter, address space is insignificant (eg most 8-bit computers use 16bit address space).
+there are 48-bit architectures "Computers with 48-bit words include the AN/FSQ-32, CDC 1604/upper-3000 series, BESM-6, Ferranti Atlas, and Burroughs large systems (B5xxx-B8xxx, which additionally had a 3-4 type tag)." https://en.wikipedia.org/wiki/48-bit
+108.162.208.68 15:14, 29 January 2016 (UTC)
+Does anyone else think that the 48bit arch could be a reference to the 3/4s from the version number, 48 is 3/4 of 64, which is a much more common arch. 162.158.34.140 (talk) (please sign your comments with ~~~~)
+
+I see it as a Randall-style compromise between 32- and 64-bits. Zetfr 17:53, 29 January 2016 (UTC)
+Mystery Networking Horror
+This may also be a reference to the D-Reaper from the anime Digimon Tamers, which was a primitive anti-virus and resource manager that was, as TV Tropes put it, Gone Horribly Right. Constructed to cull AI programs that that exceeded their memory budget on a computer from the year 197X, it saw the Digimon (and humans) in the year 200X as a threat, and was actually able to delete anything in the Digital World that it touched due to having grown more powerful and complex by many orders of magnitude from all of the code it had consumed in the past. It was quite literally a digital Eldritch Horror, in every sense of the word.
+You may view both TV Tropes and the Digimon Wiki for more information on this subject. - Kitsune_Phoenix; 16:13, 2016-01-29 (UTC)
+
+How exactly did someone interpret "Macromedia Java 7.3.8.1¾ (48-bit)" as a reference to Platform 9¾? The only obvious connection I see is that they both include "¾", but if that's enough to make something a reference, then Platform 9¾ is actually, itself, a reference to Deep Space 9. 162.158.142.222 20:55, 29 January 2016 (UTC)
+Agree. I'm taking it out. Jkshapiro (talk) 03:37, 31 January 2016 (UTC)
+Broken Java Applet Interpretation
+Could this not also be saying that the Java applet is "broken" in the same sense that people say that Windows is "broken"
+I mean, technically, Windows works, but it works so poorly, and there are alternatives that are so much better, so by comparison, it is broken. Well, of course there are some things in Windows that truly are broken, too.
+Honestly, this is definition I originally used internally when I first read through the comic.108.162.216.46 02:46, 31 January 2016 (UTC)
+I think the stack presented is mostly a pun on the OSI/ISO stack (see OSI model) which is usually drawn in this kind of format, and is usually thought to be too cumbersome to use in actual practice. --Lou Crazy (talk) 14:53, 1 February 2016 (UTC)
+Everytime I see someone say something about Java not working anymore I play that rap music video "Java Life" they released a few years ago Beastachu (talk) 12:47, 4 February 2016 (UTC)
+There actually was something called "MacromediaJava" (one word). Before Alchemy/FlasCC/CrossBridge, there was an earlier C-to-AS3 compiler meant to demonstrate how cool the AS3 runtime is. Someone managed to port enough of Kaffe and Classpath to it to build a replacement for the Java Plugin that ran applets in Kaffe under FlashPlayer instead of directly in Java. It didn't work on most applets, and was slow and glitchy, and it was never meant as more than a demonstration, and normally I'd say there's no way anyone would be referring to that in 2016… but given the theme of this comic, the XKCD stack may be the one place where it was used. --162.158.255.82 23:34, 7 March 2016 (UTC)
+I changed the table in the transcript to a list. If this fits the requirements for transcripts, please remove the incomplete-tag. --LaVe (talk) 22:36, 8 March 2017 (UTC)
+Thanks for bringing this up, but removing that table means you have to explain it. Furthermore have a look at the standard layout like I've done. --Dgbrt (talk) 23:48, 8 March 2017 (UTC)
+Thank you! --LaVe (talk) 06:52, 9 March 2017 (UTC)
+Categories: All comicsComics from 2016Comics from JanuaryFriday comicsComputersProgrammingVideo gamesMinecraft

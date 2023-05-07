@@ -1,0 +1,66 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1771: It Was I
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1771)
+|<< PrevComic #1771 (December 12, 2016)Next >>|
+It Was I
+
+Title text: It me, your father.
+Explanation[edit]
+This comic starts with a scene from Return of the Jedi, with Emperor Palpatine, Luke Skywalker (drawn as an xkcd character) and Darth Vader. The original scene in the movie had a tense mood as the hero faces the villains. The comic's version of the scene, however, descends into a silly debate of grammar rules.
+Initially Palpatine begins saying "It was I who..." in accordance with traditional prescriptive English grammar. The verb "to be" is a copula, meaning that in a sentence of the form "A is B", both A and B are treated like the subject of the sentence. In most Indo-European languages, subjects use the nominative case (I, he, she, and we) while objects use the accusative case (me, him, her, us). This rule is still strong in languages like German, where speakers still use cases and therefore are familiar with how they work.
+The case system in English has almost died out, and only a few fossils of nominative case pronouns still remain. English's case system is so weak that most people have reduced the rule to "I goes before a verb, me comes after a verb or preposition". This gives the correct result in sentences like "It saw me". By extension, speakers therefore often say "It was me" (here's a famous example from Vince McMahon) even though this is not true to the traditional rules. Luke thinks that there's nothing wrong with this modern sense. It's possible the intent was to portray a descriptivist approach to grammar. His words could also be said to be prescriptivist in a different way, as he is objecting to Palpatine's grammar for not being modern enough.
+Darth Vader counters by pointing out that regardless of the grammatical correctness of "It was I", it is a set phrase with a good archaic ring to it suitable for a dramatic revelation from an Emperor. Vader and the Emperor using English archaisms has canon basis in Star Wars, with Vader asking "What is thy bidding, my master?" in The Empire Strikes Back. Historically, "thee", "thou", and "thy" were actually informal pronouns, but because they are not used in modern English, except in reciting historical works like some editions of the Bible, they are thought of as ceremonial and formal today. Using the archaic form would be more consistent with the Emperor's speech pattern.
+Palpatine finally decides to take a third option, and uses "it me" (link no longer working), a popular meme on Twitter in 2016. Darth Vader, out of embarrassment, begs him not to talk like that again.
+One of Randall's themes is that grammar pedants apply rules to correct other people long after those rules have fallen out of actual usage. Luke is here being an anti-grammar-pedant, asking the Emperor to disapply the rule. See 890: Etymology for another instance of Luke failing to notice semantics.
+Characters concentrating on the linguistics of other characters speech while they deliver dramatic revelations, or the overall situation being already critical, is a classic joke. But characters interrupted for grammatical remarks typically ignore it or just blame the interrupter for not focusing on the important subject. Here, Randall goes one step further by having the other characters join the grammatical argument instead.
+The title text runs with the joke in the final panel, applying the same meme to Darth Vader's iconic quote "No, I am your father." It could be said that such a phrasing robs the moment of all gravitas, but then again, Yoda managed to coin a phrase like "Do or do not; there is no try", and still be taken seriously.
+Transcript[edit]
+[Emperor Palpatine, Luke Skywalker, and Darth Vader in throne room]
+Emperor: It was I who allowed the Alliance to know the location of the shield generator.
+Luke: You mean "It was me." You're following an archaic grammar rule.
+[Zoomed in on Darth Vader, with the Emperor speaking off panel]
+Emperor: It was me who allowed the-
+Vader: No, my master, an archaic tone is appropriate here. The sentence sounds-
+[Zoomed in on Luke Skywalker, with the Emperor speaking off panel]
+Emperor: It was I who allowed-
+Luke: Come on, the accusative case is fine. Nominative pronouns are-
+[Zoomed in on the Emperor, with Darth Vader responding off panel]
+Emperor: It me
+Emperor: I allowed it
+Vader: My master,
+Vader: Please never say that again.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+"It me" isn't "caveman-speak"... It's a popular Internet meme. See here and here, for starters. --Esterhazy (talk) 07:47, 12 December 2016 (UTC)
+I was thinking it might be a reference to the syntax Jar Jar Bings uses "It's a me Jar Jar" "Misa is" etc. which would ad to why Darth Vader begs the Emperor never to speak like this again, it could also serve as a reference to the Darth Jar Jar theories flying around.162.158.202.148 08:30, 12 December 2016 (UTC)
+Not super familiar with the general style on this wiki, but surely we should note that this Star Wars comic comes ahead of Friday's Rogue One premiere, right? Like in a trivia section or the main article somehow? Aepokk (talk) 08:19, 12 December 2016 (UTC)
+I read it as being the emperor who said "It was me who allowed the-" --ru42lines (talk) 09:32, 12 December 2016 (UTC)
+I agree, so edited as such. --141.101.98.233 09:46, 12 December 2016 (UTC)
+Quite right, thanks! --AnotherAnonymous (talk) 10:29, 12 December 2016 (UTC)
+I checked a bunch of online style guides. It looks like Luke is actually wrong here. "to be"/"was" is a linking verb, and generally "It was I" is considered the correct form. "It was me" is acceptable informally but that doesn't invalidate the rule. Luckykaa (talk) 10:22, 12 December 2016 (UTC)
+I think you may have missed the point there.--AnotherAnonymous (talk) 10:30, 12 December 2016 (UTC)
+Just a note that might be relevant to a more detailed discussion. This wiki does often detail the academic elements of the joke Luckykaa (talk) 10:44, 12 December 2016 (UTC)
+Please do document them. But the whole point of the cartoon is in fact to discuss this question, but there isn't really a 'right' or 'wrong' and certainly not one prescribed by style guides. See 1735: Fashion Police and Grammar Police.--AnotherAnonymous (talk) 10:58, 12 December 2016 (UTC)
+Modern English doesn't really have linking verbs anymore. Linking verbs only really make sense in languages where adjectives agree in case with nouns, like German, Latin, or in Slavic languages, which makes the construction "X is Y" where Y is an adjective really common, and since Y agrees in singular/plural and gender already, it makes sense to apply agreement to case also, and that usage spreads to cases where Y is a noun as well. None of this applies to English: nouns have lost case and gender, adjectives have completely lost agreement and case and gender and plural, pronoun case has become limited to subject vs object-and-everything-else. Other West-European languages that have lost case have followed a similar pathway (ex: French "C'est moi", where "moi" is caseless). In the case of "X is Y", Y is an attribute to the subject, and in linking verb languages this gets nominative case (and likewise, attributes to the object get accusative case). Modern English applies the rule that it's not a subject, so it falls into the object-and-everything-else category.108.162.219.91 17:59, 12 December 2016 (UTC)
+Correct; "Luke" was wrong. And if the point - wrongly - is that there is no right or wrong then Luke was wrong in saying anything at all, because he was thus opposing something that wasn't wrong, and he was wrong to defend his point. "Vader" was right. 198.41.238.10 23:33, 13 December 2016 (UTC)
+No, a) English doesn't use that kind of grammar anymore. And b) "is" has multiple meaning. If you are to use double nominative, you should only do it when stating a link where the order is irrelevant "It was I" <-> I was it/the one", but if you are doing that you are also invoking an achaic grammar structure where you can say things like "So say I". "You hate I" and "Me loves She". While not technically incorrect, you should leave it to old sayings. 162.158.92.17 18:57, 15 December 2016 (UTC)
+Reminds me of this: https://youtu.be/IIAdHEwiAy8 --141.101.81.44 12:09, 12 December 2016 (UTC)
+This probably should have a link to this comic. 108.162.219.120 (talk) (please sign your comments with ~~~~)
+There already is one! Look closely at the penultimate paragraph --AnotherAnonymous (talk) 15:21, 12 December 2016 (UTC)
+You know, I think there should be a Category:Pedantics. Eh? That's right, Jacky720 just signed this (talk | contribs) 23:16, 13 December 2016 (UTC)
+No mention of Rogue One's release? 162.158.58.10 22:19, 12 December 2016 (UTC)
+
+What does "It me" even mean? 108.162.219.98 01:45, 13 December 2016 (UTC)
+It means "it is me" or "it was me" dependent on the context. NotLock (talk) 02:27, 13 December 2016 (UTC)
+Is it just I (me), or does the punchline have another meaning? Namely: "Eat me, I allowed it"? Or "Eat me, I am your father"? A little basic and gross, but hey... 5h4n6 (talk) 02:25, 13 December 2016 (UTC)
+Had Emperor Palpatine followed a style guide he would have said simply "I allowed the alliance to know [...]" rather than use the highly deprecated passive voice, and by using the active voice rather than passive he would have avoided he whole fiasco. Of course some would urge avoiding the verb "to be" entirely; any English sentence using "to be" as the verb can be formulated using a better verb. 173.245.52.89 11:32, 13 December 2016 (UTC)
+I think the title text refers to the meme "its me ur brother." 173.245.49.84 19:23, 13 December 2016 (UTC)
+I find it hilarious how much people get hung up on grammar. Language is a beautiful chaos that we partially order, but it is not set in stone. Seasons, years, and people change, as does language. If you understand what they're saying, why do you still point it out? If it's illegible, it's understandable to point it out, but an extra and or the wrong 'there' isn't going to hurt you. Proper grammar is only so important; it is not the end-all be-all of language. Thank you for reading my short rant. 108.162.219.125 16:14, 12 December 2016 (UTC) It me. I made it.
+
+While in synthetic languages like Russian "it me" will be completely normal form of omitting the "was" part, in analythical languages like English it still looks weird and useful only as a meme. Sorry, here goes my signature with an IP: 172.68.245.193 10:20, 6 October 2019 (UTC)
+
+It was I, DIO!141.101.96.154
+Categories: All comicsComics from 2016Comics from DecemberMonday comicsStar WarsLanguagePedantic

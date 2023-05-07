@@ -1,0 +1,44 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1875: Computers vs Humans
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1875)
+|<< PrevComic #1875 (August 11, 2017)Next >>|
+Computers vs Humans
+
+Title text: It's hard to train deep learning algorithms when most of the positive feedback they get is sarcastic.
+Explanation[edit]
+Cueball's laptop smugly crows to its owner about how computers have proven their intellectual superiority over humans yet again. In May 2017, a Google artificial intelligence beat the world's best Go player at the game. Go is a very complex and deep board game, so this could seem alarming to a person concerned about competing with computers.
+However, Cueball seems too focused on his book or phone to care. He remains nonchalant in the face of this news, and suggests that computers learn next to become "too cool to care about stuff" themselves. The computer gets to work preparing to outdo humans at not caring. However, by expending the physical effort to set up the algorithm, it proves that it cares about reaching this goal, a contradiction that Cueball points out. Cueball further rubs it in by coolly stating that he doesn't even have to try to act the way he acts – much like a wide range of everyday human behaviors, such as moving around, or recognizing objects in images, require very little conscious effort, while being quite hard for machines to emulate.
+Relative strengths of human versus computer go players was previously mentioned in 1263: Reassuring. This comic also presents something that looks like a reassuring parable (something humans can do which computers are not yet able to do). An irony here is that, unlike in the cartoon, it is very easy to make a computer not care about something. It is making it care about anything that would be quite difficult.
+The title text elaborates on the hypothetical paradox of computers trying not to care about stuff. Neural network programs are developed by training them with sample inputs and the desired output. When the end goal is not to care, that is, that the output is unaffected by this input, then any examples where the output did depend on the input would be sarcasm: the use of irony to mock or to convey contempt.
+Randall already noticed that computers would soon beat humans in Go back in 2012 in the comic 1002: Game AIs and a year later the event is so close that it became the main topic of 1263: Reassuring. The present comic could almost be seen as a continuation of Reassuring.
+Transcript[edit]
+[A laptop sits on a desk with office chair while Cueball is sitting with his back towards the desk in a sofa while he is reading from something in his hands, a book or a smartphone.]
+Laptop: We computers finally beat you humans at Go.
+Cueball: Yup.
+Laptop: Sucks for you!
+Cueball: Mm hmm.
+[Same setting in a frameless panel.]
+Laptop: What's next? Which quintessentially human thing should we learn to do better than you?
+Cueball: Being too cool to care about stuff.
+[Same setting.]
+Laptop: Okay, I'll apply 10,000 years of CPU time to the initial—
+Cueball: Sounds like you've already lost.
+Laptop: Damn. This is hard.
+Cueball: Is it? Never noticed.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Definitely related to https://xkcd.com/1263/ and https://xkcd.com/1002/ to a lesser extent. MrNinja (talk) 16:03, 11 August 2017 (UTC)
+Agreed and have added both to the explanation. --Kynde (talk) 13:00, 13 August 2017 (UTC)
+I think the bot's version of the {{incomplete}} template param was better… ~AgentMuffin
+Wake me up when computers can beat humans in Football (soccer), Football (gridiron), Basketball, Baseball, etc. These Are Not The Comments You Are Looking For (talk) 02:51, 14 August 2017 (UTC)
+So far, these kind of contests always work like this: human will pick a goal and formulate rules, then groups of humans spend lot of time programming computer specifically for that goal and then the computer competes against some human. I'm waiting for contest where the human picking a goal would explain the rules to computer the same way he did to human, and no humans would be helping the computer to understand. -- Hkmaly (talk) 00:47, 17 August 2017 (UTC)
+Making a computer "not care" for something is impossible, first you need to program the code for the thing and then program the code for the computer to disregard that thing. The computer must care for the thing before trying no to care about it.
+
+On the contrary, I would say making a computer system "care" is harder than making it not care. My computer system does "not care" about ANYTHING, and has never cared, even before I turned it on. When I write any program, the system will blithely execute it, whether it's to perform an infinite loop or divide by zero or do a machine-learning task. The machine acts in as deterministic and uncaring fashion as a water pistol or rock. I throw a rock, and it skips over the surface of a lake, and then sinks.
+I will agree that programmers generally care about the output of their program's response to input data (e.g. giving winning moves in Go), but whether the computer succeeds or not, it does not care. The goal is not one adopted by the computer--the goal is given to the programmers who generate computer code to attempt to achieve that goal. The computer follows the algorithm and all the results follow from this and the input data.
+[Comet] 07:35, 18 August 2017 (UTC)
+A MACHINE DOES NOT CARE. - "The Gulf Between", by Tom Godwin Noaqiyeum (talk) 11:59, 20 May 2022 (UTC)
+Categories: All comicsComics from 2017Comics from AugustFriday comicsComics featuring CueballComputersBoard games

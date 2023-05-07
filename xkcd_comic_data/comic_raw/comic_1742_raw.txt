@@ -1,0 +1,45 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1742: Will It Work
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1742)
+|<< PrevComic #1742 (October 5, 2016)Next >>|
+Will It Work
+
+Title text: 'Copy and paste from a random thread on a website' is the hardest to predict, and depends on the specific website, programming language, tone of the description, and current phase of the moon.
+Explanation[edit]
+This comic humorously lists how likely computer code is to function on the user's computer based on the source of the code.
+App store or package manager: Most likely referring to the Apple's Mac or iOS App Store, Google's Google Play, Microsoft's Windows or Windows Phone Store, or package managers such as Debian's Advanced Packaging Tool (APT). Programs in the App Store are already compiled from raw code into executable files that have been tested on their respective platform -- otherwise they would be rejected from the storefront -- and so should be expected to run with no effort from the user. Similarly, a package manager for a Linux OS handles downloading and installing the program requested, as well as installing any dependencies (other programs or libraries needed by the desired program, potentially including locusts) automatically.
+GitHub Link: GitHub is a website where people can host Git repositories of code that they are working on. Since Git is built to track changes in code for an entire project, it is likely that all of the code needed to run the project is included in the download. One reason it may be less reliable than the previous entry is that it may not include external libraries expected to already be on the user's computer.
+SourceForge Link: SourceForge is similar in scope to GitHub : hosting source code repositories but also binary packages. But it is older and dwindling in popularity. As a result, a project hosted on SourceForge is more likely to be abandoned.
+Geocities/Tripod Link: Geocities is a now-defunct free website host. Tripod is a similar website host owned by Lycos. The fact that the software comes from there means that nobody has paid attention to the project since Geocities shut down, which could mean that code rot has begun to take effect, with various dependencies being less and less likely to work over time.
+Copy-and-paste example from paper's appendix: Some academic papers publish code or pseudocode (example of a paper with pseudocode in appendix) in order to illustrate their concepts, strategies or algorithms. Often this code is not meant to be compiled because it is thought to illustrate ideas rather than be used in an actual working piece of software. Copying and pasting this code and trying to compile it will rarely give satisfactory results, and that is why it is at this point in the comic's spectrum.
+Anything that "requires only minimal configuration and tweaking": The punchline of the comic is that something advertised as having been tested and working with "minimal configuration and tweaking" on the system it was developed on turns out to be a frustrating mess that will almost inevitably require huge fixes for anybody else trying to get it to function. It's also often used by technically advanced people who are not aware of how difficult even minimal configuration and tweaking can be for beginners.
+The title text refers to websites such as Stack Overflow that allow users to post questions about their code and have other users provide answers. Websites like Stack Overflow usually generate useful answers but the quality may be lower if the conversation is disgruntled (i.e. if the asker has put in very little effort to solve the problem themselves) or if the language is less commonly used. The title text of 1185: Ineffective Sorts also references executing arbitrary code until it works, in that comic the code is actually mentioned as being from StackOverflow.
+Saying that something "depends on the phase of the moon" usually means that there is some apparently random component to the problem, as neither the performance of a program nor the quality of answers on websites should depend on the position of the moon in its orbit. However, there was at least one case where the phase of the moon did, in fact, trigger a bug in code. This comic was released the day after Rosh Hashanah, a Jewish holiday that always occurs at or near a new moon. It is not clear whether this is why Randall was thinking about moon phases or just a coincidence.
+The shape of the moon was the subject of 1738: Moon Shapes released during the week before this comic was released. This comic is called Will It Work, the previous comic was just called 1741: Work
+Transcript[edit]
+[Caption above the panel:]
+Likelihood you will get code working based on how you're supposed to install it:
+[A chart with a double arrow going from the top to the bottom. Both arrows are labeled. Along the arrow, six labels follow from top to bottom. The first five take up different amounts of space, but the space between them (bottom of one to top of the next) is the same and resembles a typical line shift between paragraphs. The space, however, to the last label is more than three times as wide.]
+Very likely
+App store or package manager
+GitHub Link
+SourceForge Link
+Geocities/Tripod Link
+Copy-and-paste example from paper's appendix
+
+Anything that "requires only minimal configuration and tweaking"
+Unlikely
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I think original poster did a great job transcribing, but missed the point somewhat. While it is true that package managers make the installation process more robust for average users (they sometimes also screw things royally), Randall probably wanted to make the point that projects which have reached package state are the most mature, tested and debugged. Using public git repository also speaks well about coding practices and hence product quality. On the other hand, code which requires manual tweaking to be installed likely has only been seriously used by its author (if at all) and is very likely to contain fatal bugs. 172.68.11.85 08:06, 5 October 2016 (UTC) qm2k
+With fatal bugs, it wouldn't work for author either. However, it can depend on some obscure combination of libraries and tools versions, and you need to guess which libraries it depends on to start with. -- Hkmaly (talk) 15:33, 9 October 2016 (UTC)
+Also, I believe this misses the joke about Geocities. I don't believe he is referring to code that was downloaded from Geocities at some distant past date, but code for which you are today given a link on Geocities to get it. The joke here is that, despite the fact that the chance of installing that code is zero, this is still better than code needing to be tweaked. JamesCurran (talk) 15:06, 5 October 2016 (UTC)
+The chance of successfully finding code from a Geocities link is not zero - there's a nonzero chance that the page survived on the Wayback Machine (and/or on one of the projects dedicated to archiving Geocities specifically). It is, however, still tiny. (Incidentally, what's Tripod? The explanation doesn't mention it at all.) --172.68.11.85 23:05, 6 October 2016 (UTC)
+xkcd.com is best viewed with Netscape Navigator 4.0 or below on a Pentium 3±1 emulated in Javascript on an Apple IIGS at a screen resolution of 1024x1. Please enable your ad blockers, disable high-heat drying, and remove your device from Airplane Mode and set it to Boat Mode. For security reasons, please leave caps lock on while browsing. 162.158.239.63 18:58, 7 October 2016 (UTC)
+Anybody else old enough to remember when there were "installation wizards"? Whatever happened to those? 108.162.238.161 17:07, 15 October 2019 (UTC)
+Last time I saw one of those was installing a copy of morrowind from a disk, blast from the past it was.172.70.214.185 03:01, 18 March 2022 (UTC)
+Funnily enough, I have found something worse than the title text one, write code based on screenshots of the source code and then try to compile.172.70.214.185 03:01, 18 March 2022 (UTC)
+Categories: All comicsComics from 2016Comics from OctoberWednesday comicsChartsProgrammingVersion ControlRankings

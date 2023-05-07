@@ -1,0 +1,123 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1537: Types
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1537)
+|<< PrevComic #1537 (June 12, 2015)Next >>|
+Types
+
+Title text: colors.rgb("blue") yields "#0000FF". colors.rgb("yellowish blue") yields NaN. colors.sort() yields "rainbow"
+Explanation[edit]
+This comic is a series of programming jokes about a ridiculous new programming language, perhaps inspired by Mathematica and Wolfram Language — the latter was used by Randall many times before. Maybe it's also inspired by Gary Bernhardt's CodeMash 2012 lightning talk on JavaScript's unpredictable typing. In the talk, the highly technical audience was unable to correctly guess the results of adding various JavaScript types and roared with laughter when they were revealed. The programming language shown in this comic has types even more unpredictable than JavaScript.
+Most regular programming languages distinguish types, e.g. integers, strings, lists… all of which have different behaviours. But for instance, the operation "+" is usually conventionally defined over more than one of these types. Applied to two integers, it returns their sum. Applied to two strings (denoted by being enclosed in quotes) it concatenates them:
+> 2 + 3
+5
+
+> "123" + "abc"
+"123abc"
+While these behaviours are standard, conventional, and intuitive, there is a huge amount of variation among programming languages when you apply an operation like "+" to different types. One logical approach is to always return an error in all cases of type mixing, but it is often practical to allow some case mixing, since it can hugely simplify expressions. Variation and lack of a clearly more intuitive behaviour leads some languages to have weird results when you mix types.
+Weird results abound in the new XKCD programming language:
+2 + "2" uses the + operator on a number and a string. In some programming languages, this might result in the number 4 in math addition, or "22" in string concatenation; however, the new language converts the string to an integer, adds them to produce 4 and converts back to a string. Alternatively, it may instead be adding 2 to the ASCII value of the character "2" (50), resulting in the character "4" (52). This is (somewhat) consistent with the behavior for item 4.
+"2" + [] adds a string to an array or list. This first inexplicably converts the string to a number again, and then it literally adds the number to the list by prepending it. And then the result (the entire array) is converted to a string again. (Possibly, this is meant to be read as 'adding brackets to the string "2" produces the string "[2]"?')
+(2/0) divides 2 by 0 and quite reasonably results in NaN, meaning "Not a Number", though in most languages, as prescribed by the IEEE 754 standard for floating point numbers, dividing a nonzero number by zero would instead return an infinity value.
+(2/0)+2 adds 2 to NaN. 2 Is "added" to the string "NaN" as again, the number is converted to a string for apparently no reason, which produces "NaP". If the language's convention is to add to the ASCII value of a character or string, then in this case it added 2 to the character "N" (78), resulting in "P" (80). How the string "NaP" is converted into a bare NaP with undefined meaning is not clear. It is possible the "NaP" means "Not a Positive" as opposed to "Not a Negative". It could also mean "Not a Prayer", as you're taking a "NaN" condition and trying to do more with it.
+""+"": In many languages, two consecutive double-quote characters denote an empty string, so this expression would concatenate two empty strings, resulting in an empty string. However, it appears that this language treats only the outermost quotes of the expression as the string boundary, so all of the characters between them become part of the literal string, producing '"+"' (In many programming languages, you can use both " or ' to delimit strings and both behave similarly if not identical). Alternately, these two consecutive double quotes may be treated similarly to the way that consecutive single quotes are treated in a SQL string, with the first quote escaping the 2nd. This would result in a string that contains the value "+". It is also possible to read this expression as '"'+'"', which would usually be '""'.
+[1,2,3]+2 seems to test whether it's sound to append 2 to the list [1,2,3], and concludes that it doesn't fit the pattern, returning the boolean value false. It could conceivably also be the result of an attempt to add 2 to the set [1,2,3], which already contains that element (although {1,2,3} would be a more common notation for sets).
+[1,2,3]+4 returns true for much the same reason.
+2/(2-(3/2+1/2)) is a floating point joke. Floating point numbers are notoriously imprecise. With precise mathematics, (3/2+1/2) would be exactly 2, hence the entire thing would evaluate to 2/0 or NaN in Randall's new language. However, the result of (3/2+1/2) is "just slightly off," which makes the result "just slightly off" of NaN, which would be ridiculous in a real language. The ironic thing is that fractions with 2 in the denominator are not the kind of numbers that typically suffer from floating point imprecision. Additionally, if there had indeed been a rounding error, the actual calculation would become something like 2/0.000000000000013, which should not return a NaN since it is not division by zero. It is most likely not a coincidence that there are 13 zeros before the "13" at the end of the "decimal".
+RANGE(" ") normally wouldn't make any sense. However, the new language appears to interpret it as ASCII, and in the ASCII table, character #32 is space, #33 is !, and #34 is ". So, instead of interpreting " " as a string, it seems to be interpreted as 34, 32, 34 (in ASCII), and then range appears to transform this into 34, 33, 32, 33, 34 (the "ranges" between the numbers), which, interpreted as ASCII, becomes ('"','!',' ','!','"').
++2 adds 2 to the line number, 10, and returns the result, 12.
+2+2 would normally be 4. However, the interpreter takes this instruction to mean that the user wishes to increase the actual value of the number 2 (aka the "literal value") by 2 for the remainder of the program, making it 4 and then reports that the work is "Done". The result can be seen in the subsequent lines where all 2s are replaced by 4s. This could be a reference to languages like Fortran where literals could be assigned new values. This would normally be 2+=2.
+RANGE(1,5) would normally return (1,2,3,4,5); however, because the value of 2 has been changed to 4, it returns (1,4,3,4,5). This also affects the line number by changing the "2" in 12 to "4" resulting in the line number 14.
+FLOOR(10.5) should return 10 (the "floor" of a decimal number is that number rounded down); however, it instead returns ASCII art of the number on a "floor." The floor is also five lines down and ten characters long (if you count the number as part of the floor), making it look like the "10.5" was taken as two separate arguments to the "floor" function. Normally, multiple arguments for a function are separated by commas, not periods. This could be a reference to different decimal notation conventions in different cultures.
+The title text contains three further examples relating to color. color.rgb("blue") returns the hexadecimal code for pure blue (as would be used in HTML, for example), which is how a real programming language might work. The lookup for "yellowish blue" returns "NaN" (Not a Number) again, which makes sense at one level because there is no such color as "yellowish blue" (yellow and blue are opposites on the RGB color triangle, making yellowish-blue an impossible colour, which can only be perceived with great difficulty through contrived figures). However a more typical result would have been a failure indicating that the color database does not include the name, in the same way that a typo such as "bluw" would. (Note that HTML does explicitly attempt to handle all "color names". For the record, "yellowish blue" is a dark blue with an imperceptible amount of red — #0E00B0.) Similarly sorting the colors would normally produce some defined ordering, such as alphabetical, but in this language it generates the string "rainbow". It seems that Randall's new language understands color theory in an unusually deep way.
+Transcript[edit]
+[Caption above the black part of the comic:]
+My new language is great, but it
+has a few quirks regarding type:
+[The rest of the comic is written in a black rectangle. All text to the left of ">" is written in gray. Text to the right of the ">" on the lines with numbers are in white, and then gray text on the other lines. There seems to be a missing ">" after line no. 3.]
+  [1]> 2+"2"
+    => "4"
+  [2]> "2"+[]
+    => "[2]"
+  [3] (2/0)
+    = > NaN
+  [4]> (2/0)+2
+    = > NaP
+  [5]> "" + ""
+    = > ' "+" '
+  [6]> [1,2,3]+2
+    = > False
+  [7]> [1,2,3]+4
+    = > True
+  [8]> 2/(2-(3/2+1/2))
+    = > NaN.000000000000013
+  [9]> Range("   ")
+    = > (' " ',"! "," ","!",' " ')
+[10]> + 2
+    = > 12
+[11]> 2+2
+    = > Done
+[14]> Range(1,5)
+    = > (1,4,3,4,5)
+[13]> Floor(10.5)
+    = > |
+    = > |
+    = > |
+    = > |_ _ _10.5_ _ _
+Trivia[edit]
+There is an inconsistency in the comic after [3] where the ">" is missing.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Relevant: WAT talk https://www.destroyallsoftware.com/talks/wat 108.162.254.108 (talk) (please sign your comments with ~~~~)
+Are (6) and (7) about completing sequences?
+If the sequence was [1, 2, 3, ?] we would expect the ? to be a placeholder for 4. So [1, 2, 3]+2 is wrong := FALSE. But [1, 2, 3]+4 is correct := TRUE. 141.101.99.22 (talk) (please sign your comments with ~~~~)
+"+2 appears to be applying a unary + to the number 2" : or it adds the number of the line, 10, to 2 => 12. Also, the eleventh line, "2+2" may add 2 to all the following 2, explaining line 12. (that theory is from a friend of mine) Seipas (talk) 12:17, 12 June 2015 (UTC)
+Also, for the lines 6 and 7, the operation "[1,2,3]+x" may add x to the set [1,2,3] and return true if the operation succeeded or false if not. Adding 2 to the set [1,2,3] returns false because 2 is already in [1,2,3]. Seipas (talk) 12:23, 12 June 2015 (UTC)
+I thought it was doing element-wise addition and then comparing "[6] > [3,4,5]" (using the line number in the joke, like in line 10). The problem here is that line 6 should return true and line 7 should return false. Rand (talk) 15:46, 13 June 2015 (UTC)
+Yellowish Blue: http://www.livescience.com/17948-red-green-blue-yellow-stunning-colors.html is NaN! 108.162.221.129 (talk) (please sign your comments with ~~~~)
+
+"The ironic thing is that fractions with 2 in the nominator are not the kind of numbers that typically suffer from floating point impreciseness." - This is not technically correct. Should read "fractions with 'power of 2' in the denominator. However, the 3/2 would cause precision errors. 108.162.221.129 (talk) (please sign your comments with ~~~~)
+I don't know proper English wording for things, but 3/2=3*2^-1, so it would be represented exactly under IEEE-754 too. 141.101.89.217 13:58, 12 June 2015 (UTC)
+Is there more to this comic, a fixed set of rules that can tie all the examples together, or does each line make its own joke independently? 108.162.219.5 12:54, 12 June 2015 (UTC)
+"normally"
+This would make sense if it was [] + 2
+It really wouldn't. Javascript returns "2" (god knows why) and Python gives an error. Don't really feel like testing many other languages, but I also think it's not really a logical assumption to make at all. Can't think of a reason for [] + 2 to return [2]... ever. It might make a little bit of sense in Randall's oddly typed language, but not in any sane one. --TotempaaltJ (talk) 12:35, 12 June 2015 (UTC)
+Javascript first converts [] (the empty array) to the empty string (using the rule "stringify each element and join with a comma"), then treats the operation as "" + 2, which results in conversion of the other operand to string and then concatenation. 141.101.97.214 12:46, 12 June 2015 (UTC)
+line 4: asci code of N + 2 = asci code of P sirKitKat (talk) 13:07, 12 June 2015 (UTC)
+My favourite xkcd in a while. =8o) Of the list I got a good laugh out of numbers 8 and 13. Jarod997 (talk) 13:11, 12 June 2015 (UTC)
+I think a lot of this is his joke about programming languages loving the number 4. 2 + "2" = "4", [1,2,3] + 4 = true, 2+2 = DONE, and the range one all seem to support this. Also reminds me of this: http://xkcd.com/221/ 173.245.52.112 (talk) (please sign your comments with ~~~~)
+Why isn't yellowish blue just green? Djbrasier (talk) 16:18, 12 June 2015 (UTC)
+Because yellow and blue don't make green. 108.162.237.158 23:33, 12 June 2015 (UTC)
+It does with my paint kit. Isn't that subtractive mixing. I feel like I've just traveled to a version of 1268: Alternate Universe, except I'm the only one here who went to kindergarten. What am I missing? Djbrasier (talk) 02:28, 13 June 2015 (UTC)
+Since this is a Programming language, it must be talking about RGB colors, where green is a base color and yellow is mixed using red and green. So a "yellowish blue" would contain all base colors, resulting in white – and that's propably why Randall's language returns NaN.141.101.92.42 08:39, 13 June 2015 (UTC)
+The only color wheel I know has purple (not blue) opposite yellow and orange (not yellow) opposite blue. If that is incorrect, then wikipedia needs some serious editing. Djbrasier (talk) 02:31, 13 June 2015 (UTC)
+You're talking about the RYB color model, whereas most programming languages work in the RGB color model, where yellowish blue is undefined. 188.114.97.151 23:30, 29 December 2015 (UTC)
+It's a lot simpler than that. Perceptually there is no yellowish-blue, one would never describe a blue as being yellowish. If you add yellow to blue you get greenish-blue, add more and you get green, then yellowish-green, then greenish-yellow. At no point would you describe the colour as either yellowish-blue or bluish-yellow. This is why it's the equivalent of NaN, you can use the language to tell the machine you want the result of "2/0", or you want the result of "blue with a yellowish tinge", but in either case it is not possible to represent the result. 141.101.98.154 (talk) (please sign your comments with ~~~~)
+line 4: I read NaP as Not a Problem. 141.101.104.12 17:00, 12 June 2015 (UTC)
+So did I. Xynariz (talk) 23:12, 12 June 2015 (UTC)
+To me, the (2/0) looks like a person curled up on bed with the +2 as the Z's indicating sleeping which I believe was the intention on top of 'P' being 2 chars more than 'N'
+Line 3 is missing its prompt. There does not appear to be any relevance to the joke, nor has anyone yet explained why it should be missing. Typo? 108.162.221.183 17:10, 12 June 2015 (UTC)
+I haven't noticed it until I saw your comment. It seems deliberate to me. Hard not to notice that when writing the fourth line. 108.162.221.48 19:24, 13 June 2015 (UTC)BK201
+Although I agree the context makes the mistake a hard one to have failed to be spotted, I still think there's not much sense in it being deliberate. 188.114.97.151 23:30, 29 December 2015 (UTC)
+Note that some programming languages avoid the problem of overloaded '+' operator between operands of vividly different types by using other symbols for string concatenation (be it "a"~"b" or "a"."b") and numerical addition. The real WTF is abusing '+' for string concatenation, which has very different properties from numerical addition, not being symmetrical for example: concat("aa", "bb") == "aabb", while concat("bb", "aa") == "bbaa" != "aabb". --JakubNarebski (talk) 17:38, 12 June 2015 (UTC)
+Series of comics? I don't recall any others about Randall's new programming language... 141.101.98.29 19:13, 12 June 2015 (UTC)
++2
+I think this is a japanese language joke. The + sign can also refer to the kanji 十, which is 10 in japanese. This would explain the result being twelve. 十二, or 10 2, is twelve in japanese. -- Rafaeladson (talk) (please sign your comments with ~~~~)
+I think number 5 is an escaped quote (two consecutive double quotes yields one double quote), a plus sign, and another escaped quote. The result is shown with an alternate form of escaped quotes (the apostrophe and double quote can both be used to show a string). NSIS scripting language uses this notation.108.162.221.180 20:19, 12 June 2015 (UTC)
+Clearly this is what the xkcd phone's OS is written in (with some help from StackOverflow) 162.158.68.113 (talk) (please sign your comments with ~~~~)
+
+Great job at explaining the outputs. I clearly would have missed some interpretations without your insights. 108.162.254.146 21:10, 12 June 2015 (UTC)
+The joke on line [10] really doesn't seem to be a Chinese/Japanese language joke. We can see that the language interacts much more directly with line numbers from the inter-line joke between lines [11] and [14], where line [12] becomes [14] because the value of 2 has become 4. This is provable by observing that the line after [14] is [13], showing that the previous line really is still line [12], it simply displays as [14] because the value of 2 has changed. This absurdly direct interaction between the code and its line number makes the joke on line [10] make a lot more sense, as a Chinese/Japanese language joke here seems much too contrived and out-of-place considering the nature of the other jokes in the comic. Not to mention, if the joke on line [10] was really concerning the code's interaction with its line number, it would set up nicely for introducing the inter-line joke between lines [11] and [14].188.114.106.89 03:35, 13 June 2015 (UTC)
+Mostly agreed, but still it's an amusing coincidence. 188.114.97.151 23:30, 29 December 2015 (UTC)
+As a speaker of Japanese, the explanation "[In the Japanese number system] the plus sign is instead the symbol 十" sounds even more absurd than if someone said that English speakers use the small letter "t" as an addition symbol. "十" (ten) and "＋" (full-width plus) are different glyphs and using them interchangeably would certainly not be useful. Although depending on language skill and display font they may visually seem more equal than they're supposed to. 08:28, 13 June 2015 (UTC)
+#5—I'm surprised we've missed the obvious joke: quotations within quotations. the double-quatation "I think so." gets single-quoted within another quotation: "He said, 'I think so.'"
+The word is "complements", not "opposites", on the colour wheel. I think the joke is likely that most people think of "yellowish blue" as "green"—as it would be on an artists' colour wheel. Regardless, complements on an RGB colour wheel should not result in NaN—it would result in a mix of yellow (255, 255, 0) and blue (0, 0, 255), which is white (255, 255, 255).
+108.162.226.174 12:23, 13 June 2015 (UTC)
+Is it bad that all I understood at first was the last one? -- LuigiBrick (talk) (please sign your comments with ~~~~)
+"yellowish blue" is actually parsed in HTML to be a red colour: #e00000 which is between pure red and "chucknorris". See here: http://randomstringtocsscolor.com/ 162.158.3.12 00:55, 15 June 2015 (UTC)Martin
+In response to the comment above that a mix of yellow (255, 255, 0) and blue (0, 0, 255) would be white (255, 255, 255): you could just as easily claim that the result would be black (0, 0, 0) ;-) 162.158.3.12 00:59, 15 June 2015 (UTC)Martin
+And now I just wait for an implementation of this language to show up on GitHub. /grab popcorn Ralfoide (talk) 06:16, 15 June 2015 (UTC)
+hmm i was thinking NaP could be Not a Problem? what do u guys think 172.70.134.47 22:31, 13 September 2021 (UTC)Bumpf
+Categories: All comicsComics from 2015Comics from JuneFriday comicsProgrammingLanguage

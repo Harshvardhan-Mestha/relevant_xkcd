@@ -1,0 +1,37 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1780: Appliance Repair
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1780)
+|<< PrevComic #1780 (January 2, 2017)Next >>|
+Appliance Repair
+
+Title text: [holding up a three-phase motor] As you can see here, the problem is that the humidifier I took this from is broken.
+Explanation[edit]
+Cueball is either trying to repair his appliances himself or possibly running an appliance repair service. Although, he isn't doing much in the repairs aspect, as he is diagnosing problems with the appliances that he himself caused. Megan and White Hat (supposedly) call him over to have him fix a humidifier that isn't working. As most repairmen/handymen do, he takes apart the machine to find the root of the problem. However, after this he states the reason it isn't working is because someone took it apart. In this case it was Cueball himself. This would not be very helpful for repairing the appliance.[citation needed]
+In the title text it is mentioned that Cueball is holding up a three-phase motor that he has taken from the humidifier. Normally when a person repairing an appliance shows you a part, they are showing you the part of the machine that was broken. In this comic however, Cueball is just showing off a (presumably) random part of the machine and stating that the problem is that the machine it came from is broken – something that was already known and unlikely to help find the root cause of the problem. In addition, it is unlikely that the part being held ever would have worked, because three-phase motors won't work on residential power in North America. Residential humidifiers use single-phase voltage, while three-phase equipment uses three-phase voltage.
+This might also be a reference to self reference which is referenced in xkcd sometimes.
+Transcript[edit]
+[Cueball faces Megan and White Hat as he stands in the middle of a mess of a dissasembled machine, holding a screwdriver.]
+Cueball: After disassembling and inspecting the humidifier, I've determined that the main problem with it is that someone took it apart.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+He took it apart because it's not working. It's not working because he took it apart. And so we are all a part of the Great Circle of Life. 162.158.122.102 15:22, 2 January 2017 (UTC)
+Reminds me of my Christmas present to my parents - a USB mains socket, and my time and work to install it. The old non-USB socket was working fine, but when I removed it, I couldn't get the new one installed due to some unusual wiring, and couldn't replace the old one either. This also cut the power to the fridge! We had to call an electrician to fix the problem - literally, that it wasn't working because somebody took it apart... Cosmogoblin (talk) 15:57, 2 January 2017 (UTC)
+I added onto the transcript and description so it would be less barebones. If not, please add onto my work. Thanks. (It feels good to be back after so long. :)) --JayRulesXKCD (talk) 16:56, 2 January 2017 (UTC)
+Randall was right. :)) does look mismatched and wrong. How do you fix it?! --JayRulesXKCD (talk) 16:56, 2 January 2017 (UTC)
+I'm a fan of putting a space after the smiley (like this :) ) it can still make it look unbalanced, but in my opinion it is better than the double paren.108.162.238.11 12:24, 4 January 2017 (UTC)
+Or, there's always unicode. 😀 --JayRulesXKCD (talk) 15:38, 4 January 2017 (UTC)
+120V is a US standard - in the civilized world, or at least Europe, single phase domestic supply is 230V.
+The three phases are 120 degrees apart. Wikipedia is over there. 141.101.99.137 18:10, 2 January 2017 (UTC)
+I removed all references to actual voltage values. I was thinking only for me... Canada also uses 120V (and 240V too, for house heating, clothes dryers, and ovens), along with another few countries.--Jeanrenaud (talk) 19:06, 2 January 2017 (UTC)
+Not sure where you get the idea that Cueball is running an appliance repair business. Seems simpler to assume that he is taking apart his own humidifier. Rtanenbaum (talk) 20:27, 2 January 2017 (UTC)
+The Tautology Club might be involved :-)
+--Lou Crazy (talk) 11:06, 3 January 2017 (UTC)
+Title Text
+Maybe Randall is simply giving the game away here: If it is a three-phase motor, then it should not be referred to as the humidifier. And if it is being referred to as the humidifier, then it likely is leaking, or smoking, the smoke of which is confused for the production of mist. On top of the three-phase v.s. one-phase, I think we have a good game going. 108.162.222.16 (talk) (please sign your comments with ~~~~)
+There doesn't seem to be any direct indication of a repair service being run by Cueball. Also, the fact that he is holing a 3-phase motor doesn't mean the three phase motor is the problem. The comic directly states that the motor being removed, not the motor itself, is the problem. (not to mention that a three-phase motor by itself is not necessarily suspicious; instead of the type of mains-connected 3-phase motor described above, it could be a small brushless motor, many of which are 3-phase, and while more expensive can be expected in small electronics under digital control)162.158.75.130 10:14, 4 January 2017 (UTC)
+The part is not necessarily broken
+Cueball never says that the motor is broken (as most appliance repair people would do when they find the problem). He merely states that the part came from a broken machine--something that was already known. Updated description to include this subtlety. 172.68.34.94 19:50, 21 September 2017 (UTC)
+Categories: All comicsComics from 2017Comics from JanuaryMonday comicsPages using the "citation needed" templateComics featuring CueballComics featuring White HatComics featuring Megan

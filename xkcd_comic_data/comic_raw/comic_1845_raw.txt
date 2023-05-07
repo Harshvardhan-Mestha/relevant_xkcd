@@ -1,0 +1,57 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1845: State Word Map
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1845)
+|<< PrevComic #1845 (June 2, 2017)Next >>|
+State Word Map
+
+Title text: The top search for every state is PORN, except Florida, where it's SEX PORN.
+Explanation[edit]
+This is another of the many comics where Randall used a map of the United States for his joke (see below for examples).
+Similar in spirit to 1138: Heatmap, this comic pokes fun at many maps that attempt to use data to discern unique characteristics about various sub-regions, in this case American states. This map may have been inspired by this map posted on Twitter by Google Trends the day before the comic was posted. Many web companies use maps like this in viral marketing, but the methodology behind them is pretty weak. The random noise in the data will mean that there will be variations between states even if there is no underlying pattern - and this can be further boosted by statistical tricks. A common one is to show the "most characteristic" or "most distinctive" term for each state. For instance, the most common cause of death is heart disease or cancer in every US state, but this makes for a boring map. Looking at the most distinctive cause of death produces a more interesting map, but it highlights very minor trends - Louisiana is marked as having syphilis as its most distinctive cause of death, even though only 15 Louisianans in every 100,000 have the disease and there were only 22 syphilis deaths in the state over a whole decade. These maps can give a misleading impression of huge variation between states that doesn't really exist.
+This map does not include real data, but says (when read left to right/west to east):
+You can make these maps say whatever you want by adjusting the methodology. Half of the time you're just amplifying random noise because the underlying data doesn't vary that much from one state to another. But whatever. Nobody checks this stuff. Just pick whatever normalization lets you make fun of Florida.
+The primary joke is that the likelihood of these being the words used most often by the inhabitants of each state is low, rather than accurately representing the most used words Randall has just done exactly what he says he can do (make fun of Florida by putting whatever he wants). He also has not obtained the data from anywhere, just 'Something Something'.
+The joke about Florida is that the most used word in Florida is "Florida", which would make people in Florida very self-centered.
+The comic continues to make fun of Florida in the title text by saying that Florida searches for sex porn instead of porn, which is not needed since porn means images and film of people having sex. This is also probably a reference to PornHub's data-farming exercises, where they have periodically released the most frequently searched term by state.
+Florida is often the butt of many jokes, including the Florida Man meme and many mocking jibes regarding its messy electoral history. For more information on why Florida itself seems eager to play into this stereotype, check out the "Only in Florida" phenomenon
+Randall previously used a map of the United States as the basis for his comics in 1767: US State Names, 1653: United States Map, 1509: Scenery Cheat Sheet and in 1079: United Shapes.
+Transcript[edit]
+[Caption above the map, with sub caption:]
+Most-Used Word in Each State
+Based on Something Something Search Data
+[Beneath the captions are a colorful map of the United States of America. Each state has one color, but the colors do not change from state to state, but rather between rows of states. The top "row" is purple, the second row is gray-blue, but only goes half across. Where it stops a pink row of states begins. Beneath this runs a yellow row, except it does not take California with it, since it belongs to the next purple line beneath this yellow line. Finally the two states not in the contiguous states as well as the southern states from Texas to Florida are again pink. Inside each state is written one, and only one word (or for small states the word is outside and if needed a line indicates which state it belongs to). The words size depends on the size of the state and the word. If it can fit inside the state it will be written in a font large enough to fill the entire state if possible (in one case a hyphen is used). So a short word, like "lets" in huge Texas becomes huge, but a word like "noise" which has been fitted inside small Massachusetts becomes small.]
+[Here are the 50 words written in lines resembling the colors on the map (from left to right). Purple, gray-blue, pink, yellow, purple and pink:]
+You can make these maps say whatever you want
+by adjusting the methodology.
+Half the time you're just amplifying random noise.
+Because the underlying data doesn't vary that much from one state to another.
+But whatever. Nobody checks this stuff. Just pick
+whatever normal-ization lets you make fun of Florida.
+Trivia[edit]
+In the original version of this comic the border line dividing New Hampshire and Maine was missing, although both states had distinct words attributed to them ("you" for NH and "want" for ME). The error was later corrected by Randall to the current version.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+New Hampshire and Maine are merged together? Significance? JohnHawkinson (talk) 04:19, 2 June 2017 (UTC)
+That's weird, because there're definitely 50 words. Am I overlooking something... PvOberstein (talk) 04:22, 2 June 2017 (UTC)
+Well, there are two words assigned to the merged state. It's just that the political boundary line is missing. JohnHawkinson (talk) 04:26, 2 June 2017 (UTC)
+Oh, duh. PvOberstein (talk) 04:54, 2 June 2017 (UTC)
+Added trivia about Randall's error. Wonder if he will spot it and correct it later?--Kynde (talk) 13:10, 2 June 2017 (UTC)
+The picture update here doesn't show any difference and the original picture still lacks the border line. So I've changed the trivia according to this.--Dgbrt (talk) 14:24, 4 June 2017 (UTC)
+Now the border line has been added. But the original picture here on explain xkcd also has the line. This is really weird. Anyone who has the original picture without the border line? Else we should remove the trivia, as there is no proof... --Kynde (talk) 19:18, 6 June 2017 (UTC)
+The original both picture uploads never had that border. You must mix something up. I've done a new upload right now, but you have to wait maybe a few hours until this damn cloud server cache will show this. BTW: Please avoid double nested lists in the trivia section. That's a bad style ;)...--Dgbrt (talk) 19:53, 6 June 2017 (UTC)
+"The comic continues to make fun of Florida in the title text by saying that Florida searches for sex porn instead of porn, when porn is already about sex." But is it really, though? 108.162.212.59 05:40, 2 June 2017 (UTC)
+Exactly - since terms like "food porn", "bacon porn" and "space porn" have started to gain popularity, the Florida approach makes more and more sense. --162.158.90.66 07:55, 5 June 2017 (UTC)
+Besides, we know from another XCKD that abusing link() with a modified kernel is yet another form of porn :-) --Keybounce (talk) 16:12, 4 August 2017 (UTC)
+The Insert non-formatted text heremisspelling map reference is clear, but the first thing I thought of was all the conclusions in the recently published book Everybody Lies about people's real opinions and desires drawn from Google data. 108.162.246.107 06:27, 2 June 2017 (UTC)
+The word "porn" has become slightly more generic than that in informal speech. See eg. Scenery Porn on TVTropes. So, searching for "sex porn" is probably mostly redundant, but not necessarily completely so. --162.158.92.148 13:16, 2 June 2017 (UTC)
+Alas, "porn" is rather entrenched as meaning sexual, so "sex porn" is indeed pretty completely redundant. And there's enough of it that a search is unlikely to have a generic use appear in the first several pages of results, making specificity unnecessary. It's widely understood that a qualifier is required when using it generically, such as a Subreddit I know of called EarthPorn (which features beautiful landscape pictures). - NiceGuy1162.158.126.76 04:28, 8 June 2017 (UTC) I finally signed up! This comment is mine. NiceGuy1 (talk) 06:28, 13 June 2017 (UTC)
+As a non-native speaker and also someone who failed statistics: how is distinctive e.g. with the syphilis thing different from most? should this be explained more? 162.158.202.160
+"Distinctive" would indicate that it makes the state stand out from the others. If the most common cause of death in Louisiana were also one of the top 5 in most of the other states, then it would not really be distinctive in that it doesn't make Lousiana stand out from the others. If you took the list of most frequent causes of death for each state, and then removed all the causes that appeared in the "Top 10" of the other states, then the top entry for each state might (or might not) make it distinctive - for example, "eaten by an alligator". A more precise way of determining "distinctive" would be to calculate the mean and standard deviation of death rate for each cause of death across all states, and then calculate how many standard deviations each state's mean is from the national mean. The state cause that deviates the most from the national mean would be considered "distinctive" in that is an outlier in the national distribution.
+Not sure if important enough to be included in official explanation, but a couple days before this comic, a map showing the most misspelled words in every state was making the rounds on Facebook, etc. http://www.nbcnews.com/news/us-news/what-are-most-misspelled-words-every-state-n766361 the color scheme is pretty similar, too 162.158.74.135 17:03, 2 June 2017 (UTC)katherine
+I thought an aspect of the Florida joke was a callback to the Google misspelled words map, which also featured a single state (Wisconsin) labeled with the state name instead of a word.
+It's just subtle enough that it might be. I think, though, that if it were an intended joke "Florida" would have been misspelled. OldCorps (talk) 14:58, 5 June 2017 (UTC)
+From the timing reported here, and the similarities (including pairing words with states) I'd say this comic is flat out a direct reference to the Google Trends map, blatantly making fun of it as a whole. I could see "Florida" landing in Florida being part of that. Oh, and according to the link provided above, "Wisconsin" wasn't an accidental label, it's actually their most misspelled word! - NiceGuy1 162.158.126.76 04:21, 8 June 2017 (UTC) I finally signed up! This comment is mine. NiceGuy1 (talk) 06:28, 13 June 2017 (UTC)
+Categories: All comicsComics from 2017Comics from JuneFriday comicsComics with colorUS mapsCharts

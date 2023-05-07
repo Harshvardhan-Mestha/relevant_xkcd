@@ -1,0 +1,60 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1784: Bad Map Projection: Liquid Resize
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1784)
+|<< PrevComic #1784 (January 11, 2017)Next >>|
+Bad Map Projection: Liquid Resize
+
+Title text: This map preserves the shapes of Tissot's indicatrices pretty well, as long as you draw them in before running the resize.
+Explanation[edit]
+This is the first comic in the series of Bad Map Projections presenting Bad map projection #107: The Liquid Resize. This turned into a series when 1799: Bad Map Projection: Time Zones (#79), was released just a bit more than a month after this one.
+There is no perfect way to draw a map of the world on a flat piece of paper. Each one will introduce a different type of distortion, and the best projection for a given situation is sometimes disputed. Randall previously explored 12 different projections in 977: Map Projections, and expressed his disdain for some types he sees as less efficient but whose users feel superior. None of them are truly perfect as any 2D map projection will always distort in a way the spherical reality, and a map projection that is useful for one aspect (like navigation, geographical shapes and masses visualization, etc.) will not be so for all the others. Local maps of smaller areas can be quite accurate, but the idea of both these map projection comics is to map the entire globe on a flat surface.
+This comic suggests that there are many other projections than the 12 from the previous map projection comic, and Randall seems to have an entire list, of which at least 358 are "Bad Map Projections." The one presented here is #107 and is it called the "Liquid Resize." It is unclear if he includes the previous 12 in this list. Quite possibly he does, since all 2D projections of the surface of a 3D sphere will be bad in certain respects. (The next comic's projections Time Zones based on these, has #79 and could be concluded as being less bad than this one, which also seems realistic as this map looks more like a normal map projection, although it also has huge flaws).
+The Liquid Resize map projection, however, is not only useless for most map applications -- as the size, shape, and position of most countries are quite distorted -- but its creation includes two steps which are outright counterproductive. If the list is sorted from best to worst it may be hard to find a worse projection method than this, so finding 106 projections better than this one seems realistic!
+First, this method needs a planar map projection as its starting point, thus compounding the problems right off the bat. Planar projections are relatively accurate near the center but heavily distorted toward the edges. A famous example of a planar projection is the logo of the United Nations. Planar projections are basically only useful for 3D graphics rendering, if the user needs a quick, inexpensive way to store map textures that will later be attached to a sphere.
+Second, the map uses Photoshop's content aware resizing tool, a very questionable choice.[citation needed] (Using a Photoshop tool for a task it is not intended for was also used in 1685: Patch where a GNU patch tool was replaced with Adobe Photoshop's patch tool to compile code.) The content aware resizing tool resizes images by identifying what it thinks are important details and preserving these, while shrinking or stretching less detailed areas. For example, when used on a face, the algorithm detects that the eyes and mouth are important details and tries to keep these in place, while stretching the skin around it. When applied to a map, this means that areas with lots of countries - and therefore lots of detail - such as Europe, West Africa, the Eastern Mediterranean and Central America/the Caribbean are relatively unchanged, while big countries like India, China and the US are very warped. The choices that the resizing tool makes are also dependent on the exact visual features of the original map, such as the choice of not having any topography or infrastructure drawn on, or not including a latitude/longitude grid, so what areas are deemed as unimportant is even more arbitrary than it would be on, say, a photographic picture of the Earth.
+Bad content aware scaling is already a meme. This projection does do a good job, however, of making almost every country clearly visible and indicating which countries are neighbors. South America fits into Africa almost as it did in the era of the super-continent Pangaea.
+Tissot's indicatrices are equally sized small circles overlaid on a globe to show the distortion of a particular map projection; if the map distortion distorts the shapes or areas of countries, it will do the same to the circles. The title text suggests that the shapes of Tissot's indicatrices would be pretty well preserved by the Liquid Resize transformation, 'as long as you draw them in before running the resize'. This is a joke. "Drawing them in before running the resize" means that a different projection would be generated (probably preserving the indicatrices themselves), making the use of the indicatrices meaningless, sort of like cheating. In fact by drawing them small enough there will be no resizing at all.
+Transcript[edit]
+[Caption at the top of the panel:]
+Bad map projection #107:
+The Liquid Resize
+A political map compressed using Photoshop's content-aware resizing algorithm to cut down on unused blank space
+[Below the caption there is a map of the world divided and colored by political boundaries, with outlines around each continent in black and around each country in dark gray. Antarctica is colored in light gray, bodies of water in white, and countries in pale shades of red, orange, yellow, green, blue, and purple. The map is heavily distorted, with Africa in the center and the other continents curving around it, approximating the bounds of a square with rounded corners. The oceans have been removed but also huge countries like the US, Australia, Brazil, Russia and especially India and Argentina have been heavily distorted while areas in the center with many smaller countries like Africa and Europe is almost unchanged.]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I'm not too experienced with PhotoShop, but I think that the tool is a selective delete that he used on water bodies, so removing most of the water while maintaining relative shapes and sizes?
+Mostly just from the fact that India looks desiccated.
+162.158.166.197 05:06, 11 January 2017 (UTC)Girish
+Australia is pretty mutilated, so I think the tool was used on land too 162.158.178.111 05:55, 11 January 2017 (UTC)
+Where are Laos and Cambodia missing? 108.162.246.11 06:14, 11 January 2017 (UTC)
+It seems that Laos and Burma have been merged into one big county, as well as Cambodia and Thailand. Maybe they are just unnecessary details according to this map projection. 162.158.238.22 16:39, 11 January 2017 (UTC)
+The tool removes spaces of uniform color automagically. If you have big countries like India or Australia, they get caught by the algorithm as well. 162.158.69.9 06:16, 11 January 2017 (UTC)
+Can anybody figure out the projection before the application of the tool? 108.162.219.232 06:58, 11 January 2017 (UTC)
+I think it is a Mercator projection that got mutilated. 141.101.104.239 07:50, 11 January 2017 (UTC)
+I agree, it looks like a Mercator that Freddy Kruger got at.
+Girish, 162.158.166.197 09:02, 11 January 2017 (UTC)
+I think if it was a Mercator, the bottom of Antarctica would be flat. To me, it looks like Winkel Tripel, with the odd angles in Alaska and the Russian Far East. Schroduck (talk) 15:02, 11 January 2017 (UTC)
+I feel like there is some part of sarcasm in "unused blank spaces", as if it was Randall saying "You're right, why would anyone care about the oceans? There, I have removed them, problem solved.". Can anyone tie this to a recent event? Or maybe the joke is about improperly handling data, where you use a tool just because it's known to work well and for the sake of processing data, even if using in a given context doesn't make much sense. 141.101.69.213 10:14, 11 January 2017 (UTC)
+I'm not sure about recent events, but "removing oceans" features prominently in one of Randall's What If? articles. 108.162.241.130 (talk) (please sign your comments with ~~~~)
+This map proves, once again, that it's good to be an archipelago. Philippines, FTW! 172.68.54.58 13:59, 11 January 2017 (UTC)
+Hold your patriotic horses there, where did Palawan go? --162.158.138.10 12:24, 12 January 2017 (UTC)
+Comics like these make me wonder how Randall preserves the XKCD visual style when working with content that is clearly not hand-drawn. ~AgentMuffin
+"This is a play on the common advice to young children to refrain from "running with scissors" to avoid physical accidents." <-- Does anyone else thing this is a bit of a stretch? 108.162.245.130 (talk) (please sign your comments with ~~~~)
+Yes, I do :) Luckykaa (talk) 15:46, 12 January 2017 (UTC)
+absolutely. Running just refers to the algorithm. It's not meta in any way.162.158.58.45 16:29, 12 January 2017 (UTC)
+This map centres on Africa, which has survived the distortion relatively unscathed. Might this be a dig at other projections that exaggerate the relative size of Africa? For example, Gall-Peters is called out in xkcd 977 with a simple "I hate you". --108.162.241.130 15:47, 13 January 2017 (UTC)
+Maybe but I think it is because all landmasses are more or less centered around Africa. By putting this center there is not need to show any of the Earths half-sphere with the paccific Ocean, which would anyway disappear completely. I think it would be more difficult for people to relate to a map that shows USA up Against China, than US up against Europe. And that may be an important factor when making such a comic. People need to know what they see and what has happened to appreciate the comic. But I'm sure he appreciated that it keeps Greenland and Australia much smaller then Africa, which is not the case for the mercator projection. --Kynde (talk) 20:46, 17 January 2017 (UTC)
+It seems to me that this comic is inspired by xkcd 1685, once again making humorous reference to using a Photoshop tool to accomplish an unrelated task. 108.162.215.130 (talk) (please sign your comments with ~~~~)
+Agree. Will add 1685: Patch to the explanation. --Kynde (talk) 20:46, 17 January 2017 (UTC)
+Can someone please explain the relevance of "political" in the title? Because I understood the resizing of the map to be related to unused blank political space, so that areas with little or no political "content" were cut away, which seems to run counter to what everyone else thinks. But then again, I know absolutely nothing about actual map resizing.
+"Political" is a type of map which focuses on showing locations of countries, usually by painting neighbouring ones in different colors.172.68.11.41 09:33, 24 January 2017 (UTC)
+This page reads more like a review than an explanation. ★☆☆☆☆ 108.162.212.227 10:16, 7 August 2017 (UTC)
+
+Could someone add Tissot's Indicatives (correct spelling) onto the map as the title text shows? could someone do a reverse liquid resize to put it back to what it was before? 172.69.63.203 16:40, 11 June 2020 (UTC)Bumpf
+"Bad content aware scaling is already a meme." -- Well, this is about bad continent-aware scaling! 162.158.155.90 13:21, 30 December 2020 (UTC)
+
+This reminds me of maps for underground train networks, which greatly distort distances but preserve relationships between stops on different rail lines. 172.70.126.116 16:27, 1 March 2023 (UTC)
+Categories: All comicsComics from 2017Comics from JanuaryWednesday comicsPages using the "citation needed" templateLinks to xkcd.comComics with colorBad Map Projections

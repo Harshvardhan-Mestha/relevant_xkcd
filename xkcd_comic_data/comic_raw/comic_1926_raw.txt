@@ -1,0 +1,57 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1926: Bad Code
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1926)
+|<< PrevComic #1926 (December 8, 2017)Next >>|
+Bad Code
+
+Title text: "Oh my God, why did you scotch-tape a bunch of hammers together?" "It's ok! Nothing depends on this wall being destroyed efficiently."
+Explanation[edit]
+This comic is the fourth in the Code Quality series:
+1513: Code Quality
+1695: Code Quality 2
+1833: Code Quality 3
+1926: Bad Code
+2138: Wanna See the Code?
+Ponytail has caught Cueball in the act of writing some messy code — code in the form of a spreadsheet formula, which in turn produces another program in a language called Haskell. Haskell is a purely functional programming language, a concept that has a debatably steep learning curve, which causes it to be somewhat obscure, as referenced in 1312: Haskell. It is explained that this code will, in turn, interpret more source code, specifically code written in HTML. Parsing HTML is notoriously tricky without a dedicated software library for several reasons, including frequent changes to web pages, a nested structure of tags and quotes that frustrates regular expressions, allowing new lines to be started almost anywhere, and different standards that are followed or not followed to varying degrees.
+After Cueball excuses his bad code by stating that "nothing depends on this" (meaning that no other projects rely on this code being good to operate properly), Ponytail uses the analogy of breaking a non-load-bearing wall to ridicule Cueball's excuse. A load-bearing wall is a wall that plays a role in supporting the building. Damaging such a wall would threaten the structural integrity of the entire building, and could potentially cause a collapse. In contrast, walls that aren't load-bearing are designed only to separate spaces within the building, and do not contribute to keeping the building up. Damaging or destroying such walls wouldn't endanger the overall structure of the building. However, supporting the building is just one of the functions which could depend on having an intact wall, and non-load-bearing walls are still there for a purpose. Walls serve many other important purposes, from creating opaque and sound blocking barriers (desirable for privacy purposes, particularly for bedrooms and bathrooms), to containing and protecting water pipes and electrical wiring. Ponytail's analogy suggests that, even though poorly written-code wouldn't cause the entire program to fail, it's still not a good idea.
+Immediately after, Ponytail appears to have realized that she's only inspired Cueball to go ahead and break the wall, instead of swaying him away from writing ugly code. If left unchecked, this will only end in tragedy.
+This is most likely a continuation of the Code Quality series, but it differs slightly. For one thing, all of the previous strips were named "Code Quality <number>", with the exception of the first, which was just named "Code Quality". Also note that, unlike the previous Code Quality strips, Ponytail does not start using similes like "This is like being in a house built by a child using nothing but a hatchet and a picture of a house". It's also the longest explanation of Cueball's code by Cueball himself.
+The title text suggests that Cueball's approach to breaking the wall - scotch-taping a bunch of hammers together - is as good as his code, and his excuse is similar.
+Transcript[edit]
+[Cueball is at his desk on a swivel chair, using his computer. Ponytail walks towards him.]
+Ponytail: That's the ugliest mess of code I've ever seen. What on earth are you working on?
+[Cueball swivels his chair to face Ponytail in a frameless panel.]
+Cueball: It's nothing weird this time, I swear.
+Cueball: It just looks bad because it's a spreadsheet formula.
+[Cueball is turns back towards the computer while Ponytail looks over his shoulder at the computer screen.]
+Cueball: ...which assembles a Haskell function.
+Ponytail: Uhhh.
+Cueball: ...for parsing HTML.
+Ponytail: ...oh my God.
+[Ponytail points away from the scene while still looking at the computer screen.]
+Cueball: It's ok! Nothing depends on this.
+Ponytail: That wall isn't load-bearing. Does that mean we can just throw hammers at it?
+Cueball: ...I mean...
+Ponytail: Wait. Crap.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Is it just me or is the fact that this page was created by a bad coder slightly funny? Halo422 (talk) 16:56, 8 December 2017 (UTC)
+Sometimes on this wiki we change the created by text to something relevant to the comic Halo. DPS2004 (talk) 16:58, 8 December 2017 (UTC)
+Slightly, yes. :oP141.101.76.16 14:13, 11 December 2017 (UTC)
+"MAY be the same Cueball and Ponytail as the Code Quality series"???!?! As far as I'm concerned, this is the latest entry in the Code Quality series! Oh, and my interpretation of her "Wait, crap." was her saying she realized he's actually done that before, thrown hammers at that wall. I feel like the giving-him-bad-ideas explanation makes more sense, though. NiceGuy1 (talk) 17:56, 8 December 2017 (UTC)
+I don't see this that way. Cueball from Code Quality series was a beginner, self-taught coder. This one seems much more mature with programming skills.kshksh (talk) 20:45, 11 December 2017 (UTC)
+That happens sometimes. I.e. people get better over time. But in this case I'd agree with Ponytail that Cueball is not showing "programming skills and is not showing maturity.108.162.216.40 20:35, 11 December 2017 (UTC)
+I know that people get better over time, but I'm picking more on indirect clues here. Cueball comments that "it's nothing wierd THIS TIME", which means he's written many wierd projects. This means that he likes programming, and possibly have written some non-wierd projects. He also says "nothing depends on it", which means that he has written something that could depend on it. And while we have no direct indication of how much time passed in between comics, all of the Code Quality seems to happen in one sitting, while this is obviousely different situation.kshksh (talk) 20:45, 11 December 2017 (UTC)
+I've usually understood that Cueball isn't so much a beginner (in other Code Quality strips), but that he never bothered learning GOOD programming (format, syntax, efficiency, etc). He slaps together code and tries to nudge it and twist it into working, ending up needing assistance to get it done. Brute force programming, no finesse... Instead of using a loop, copies a command sequence 10 times over. That kind of thing. Besides, if he's always just a beginner, why is he always programming? Seems to me he has a passion for it and as such he keeps trying, but never bothers trying to improve (and, honestly, I feel like it takes a large, robust program to inspire such colourful comments from Ponytail. A simple beginner Hello, World progam couldn't have much to say other than "Put a semicolon here" and "You should indent these lines", stuff like that). And part of why his code is usually bad is because he writes programs to do weird things, hence his describing this one as not so bad. Actually, in this respect I wonder if this is ALSO related to the "Cueball has the weirdest computer problems" series, essentially tying those two series together: Cueball gets weird problems because he writes bad code to do weird things which has unexpected results. NiceGuy1 (talk) 04:49, 12 December 2017 (UTC)
+The hammer-throwing may also be a call-back to xkcd 905, "Homeownership", where Cueball accidentally destroys his home by getting carried away drilling holes in the walls?
+Wait, so nobody thinks calling it "Bad Code" instead of the prior "Code Quality" is a veiled reference to Mr Robot? Randall clearly watches the show; I thought he was referring to the show's repeated assertion that careless people are like bad code, their actions dangerously in need of revision. IE that some people have a knack for really messing stuff up which reaches far beyond the minimal effort they put into choosing their actions.
+I'm almost certain that "parsing html" is a reference to this: https://stackoverflow.com/a/1732454 Waterlubber (talk) 20:16, 8 December 2017 (UTC)
+Isn't it ponytail who tries to destroy the wall, since by Cueball's logic it doesn't matter if she does it?
+Without the title text, I'd believe the wall is actually (already) bearing some kind of dependency into Cueball's spreadsheet, hence the reaction from Ponytail. Rather than giving him ideas to destroy it. It still makes sense because he's the kind of person to do messy things like that. 162.158.92.46 00:29, 10 December 2017 (UTC)
+I just loaded this xkcd comic (7/20/2021, 21:45 Pacific Daylight Time), and the page took time loading, then just shows "Bad Code" *UNDER* the title, in a different font. Page may be using some disfunctional code to display the comic, which, when it fails, displays "Bad Code".
+
+Haskell, incidentally, has powerful parser combinators, one of the crown jewels of the language, that make it easy to parse HTML, or for that matter, anything. So, Cueball is just likely bad at Haskell. 172.70.55.112 04:23, 13 January 2023 (UTC)
+Categories: All comicsComics from 2017Comics from DecemberFriday comicsComics featuring CueballComics featuring PonytailProgrammingComputersCode QualityCueball Computer ProblemsSpreadsheets

@@ -1,0 +1,108 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1733: Solar Spectrum
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1733)
+|<< PrevComic #1733 (September 15, 2016)Next >>|
+Solar Spectrum
+
+Title text: I still don't understand why the Sun paid the extra money for Transitions lenses.
+Explanation[edit]
+This comic's release day was postponed from the scheduled Wednesday release to a Thursday release because Randall noticed the extreme popularity of the previous comic on Monday: 1732: Earth Temperature Timeline. Randall even explained this in the header text; see this trivia item from the previous comic.
+This comic depicts the Fraunhofer lines, i.e. the spectral lines seen when sunlight is split in a spectrometer. These appear as black gaps in the rainbow of light, caused by light being absorbed by elements in the Sun. The frequencies of light that an atom absorbs depend on the exact arrangement of electron orbitals around it - because each element has a different pattern of orbitals, each one has a distinctive pattern in the absorption spectrum. The chart shows most of the main lines in the visible spectrum and identifies the elements linked to them.
+The image of the Fraunhofer lines from Wikipedia is shown below in the section with a table of these lines. Here it can be seen that all the lines that are labeled with elements are correctly labeled. Also all lines shown in the part of the spectrum included in the comic are included. Ten of the lines included are not labeled in the picture on Wikipedia (at least not with an element; two of the three "h" labels are not in the table on Wikipedia). Six of these also have no label in the comic. The other four lines' label Those giant sunglasses constitutes the joke of the comic. There seems to be only one clear error in the comic and that is the fifth line labeled Sunglasses, the middle of the lines, which is actually a Hydrogen line (C in the picture below). But the line next to it to the right is one of those not labeled in either picture and it seems likely that it was this line Randall meant to be a Sunglass line...
+All ten extra lines (including both the labeled and unlabeled ones) seem to correspond to the spectrum of silicon, and the joke then refers to the silicon dioxide (aka glass) used in the lenses of the Sun's sunglasses. Of course, this means that the glasses have been ionized and turned into plasma by the heat of the sun.
+The idea of a sun with sunglasses is a reference to pictures/clipart of the sun wearing sunglasses, often used to denote good weather. Randall has specifically used this picture in at least two what if? posts:
+In Into the Sun it is seen in the fourth image. The title text of that image even references the fact that those sunglasses will block the light to Earth:
+A partial solar eclipse is when the Earth moves across the part of the Sun blocked by its sunglasses.
+So this comic is a direct callback to this what if? post.
+In Black Hole Moon it is in the first image also including a banana as the mouth. Both the image and the title text of that image references the fact that those sunglasses will block (eclipse) some the light to Earth:
+Doctors warn that even sunglasses that block UVB will only protect you from the part of the Sun covered by them.
+There is another joke in drawing a sun with sunglasses because sunglasses are meant to protect your eyes from the sun, so what should they protect the Sun's eye from, Star light...? Also, any glasses worn by the sun, would they not become sun glasses?
+Transitions® is a brand of photochromic lenses; however, photochromic lenses are often referred to as "transition lenses", so the title text does not necessarily refer to the brand. Photochromic lenses are a type of plastic lens used in prescription spectacles that allow the lens to turn dark when exposed to UV light such as that found in sunlight. The sun choosing to get transition lens would prove a waste of money as the lenses would be permanently transitioned to be dark, so a pair of ordinary sunglasses would likely have proved more cost effective. (Always assuming they do not turn into plasma when getting close to the sun...)
+Table of spectrum[edit]
+This is the official image for Fraunhofer lines (solar spectrum) on Wikipedia:
+The graph is a typical spectral lines chart, with a long rainbow band (from ultraviolet to the left to infrared on the right both colors appearing black as they are not visible.) The black lines in it, indicating the traces of different elements. Noe that the comic only covers the visible part of this spectrum.
+In the table below are the official labels from the picture above. If there are no label this is noted with none.
+Note that they are labeled from right to left!
+Then the element causing the line is mentioned. Unlabeled is used if the line is not mentioned in the table from Wikipedia.
+Then follows the wavelength. It is given with decimals if it is noted in the table from Wikipedia. Else it has been read off manually from the picture above.
+Then follows the label given in this comic, with unlabeled meaning that it is not labeled in the comic but still shown.
+If the line is not even included in the xkcd comic "N/A" will be used.
+A number will be given after the xkcd label listing which number line on xkcd that has used this label. (Note going from left to right in the numbering).
+Finally a comment can be made on this.
+If the two labels fit, then agreement is noted.
+Designation Element Wavelength (nm) xkcd label Comment
+A O 759.370 N/A This line is outside comics range. So are the two unlabeled lines shown in the spectrum in the picture above around 720 and 730 nm. There are also even more oxygen lines further out in the infrared part of the spectrum which is not even included in the picture above.
+None Unlabeled 690 Those giant sunglasses 5 This is the fifth of the five xkcd sunglass lines. This line is not labeled in the picture above. Wavelength read off manually
+B O 686.719 Oxygen 2 Agreement
+None Unlabeled 577 Those giant sunglasses 4 This is the fourth of the five xkcd sunglass lines. This line is not labeled in the picture above. Wavelength read off manually.
+None Unlabeled 660 Unlabeled This line is not labeled either in the comic or in the picture above. Wavelength read off manually. It seems like this one was supposed to be one of the sunglasses lines, and then by mistake the arrow points to the labeled line C below.
+C H 656.281 Those giant sunglasses 3 This is the third of the five xkcd sunglass lines. This is actually the Hα line belonging to the hydrogen Balmer series. Seems like a mistake, and more likely it was meant for the arrow to point to the unlabeled line mentioned here above.
+None Unlabeled 645 Those giant sunglasses 2 This is the second of the five xkcd sunglass lines. This line is not labeled in the picture above. Wavelength read off manually.
+a O 627.661 Oxygen 1 Agreement
+D1 Na 589.592 Sodium 2 Agreement. There are only one label (Sodium) in the comic above these two close lines.
+D2 Na 588.995 Sodium 1 Agreement. There are only one label (Sodium) in the comic above these two close lines.
+D3 or d He 587.5618 N/A This line is so close to the nearest sodium line that only one line is visible, so only one is shown, both in the comic and in the picture above.
+None Unlabeled 577 Those giant sunglasses 1 This is the first of the five xkcd sunglass lines. This line is not labeled in the picture above. Wavelength read off manually.
+None Unlabeled 554 Unlabeled Agreement. This line is not labeled either in the comic or in the picture above. Wavelength read off manually.
+None Unlabeled 549 Unlabeled Agreement. This line is not labeled either in the comic or in the picture above. Wavelength read off manually.
+None Unlabeled 537 Unlabeled Agreement. This line is not labeled either in the comic or in the picture above. Wavelength read off manually.
+E2 Fe 527.039 Iron 5 Agreement.
+b1 Mg 518.362 Magnesium 2 Agreement. See b below. There are only one label (Magnesium) in the comic above these two close lines.
+b2 Mg 517.270 N/A These two magnesium lines are so close that only one is visible in the spectrum, so only one is shown, both in the comic and in the picture above.
+b3 Fe 516.891 N/A This iron line and the next magnesium line are so close that only one is visible in the spectrum, so only one is shown, both in the comic and in the picture above. There is only one label for both visible lines showing them to be magnesium, even though there are four lines one of which (this one is Iron).
+b4 Mg 516.733 Magnesium 1 Agreement. See b above. There are only one label (Magnesium) in the comic above these two close lines.
+c Fe 495.761 Iron 4 Agreement.
+F H 486.134 Hydrogen 3 Agreement with Hβ.
+h Unlabeled 476 Unlabeled Agreement. This line is also unlabeled in the table on Wikipedia. "h" is used between H and g below. The wavelength is manually read off from the image.
+d Fe 466.814 Iron 3 Agreement.
+e Fe 438.355 Iron 2 Agreement.
+f H 434.047 Hydrogen 2 Agreement with Hγ.
+G Fe 430.790 Iron 1 Agreement.
+g Ca 430.774 Calcium 3 Agreement.
+h H 410.175 Hydrogen 1 Agreement with Hδ.
+H Ca 396.847 Calcium 2 Agreement.
+K Ca 393.366 Calcium 1 Agreement.
+None Unlabeled 389 N/A This is the last line in the picture above. It is not included in the comic. There are even more lines outside the visible spectrum deeper into the ultraviolet which are not even shown in the picture above.
+Transcript[edit]
+[A chart shows the visible colored spectrum of the sun from deep violet to deep red. Along the spectrum are shown 28 black spectral lines of different thickness. Above the chart is a caption:]
+The Sun's spectral lines
+[Above the chart there are four and below the chart there are two labels, each label has one or more arrows pointing to different black lines. The two that has only one arrow points to two close lines marking them both. Only 22 lines are labeled like this, the other 6 are not labeled. The labels in reading order, with the number of arrows noted behind in square brackets:]
+Calcium [3] Iron [5] Sodium [1] Oxygen [2]
+Hydrogen [3] Magnesium [1] Those giant sunglasses [5]
+Trivia[edit]
+Even though this comic was released on a Thursday, the scheduled Friday comic 1734: Reductionism was still released as planned.
+This was also the first time this occurred on xkcd - see this trivia item from the next comic.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Sun in sunglasses is also in whatif "Into the sun" and I'm 99% sure this is not the only xkcd appearance of that... --162.158.86.119 11:38, 15 September 2016 (UTC)
+Why is Randall using JPEG for the second time in a row? Gosh, the comics look horrifying when zoomed in. 108.162.244.67 12:35, 15 September 2016 (UTC)
+It looks like a .PNG to me, maybe the .jpg was temporary for an upload deadline? 108.162.241.127 12:54, 15 September 2016 (UTC)
+The one on this page has always been a png file (see the first revision). This also means that whoever wrote the complaint must have had access to this same file, which has not been updated here since. Of course Randall may have had another version up first, but that seems highly unlikely... --Kynde (talk) 14:38, 15 September 2016 (UTC)
+Are the spectral lines actually accurate apart from the sunglasses? Wouldn't surprise me to much... (Meh, https://en.wikipedia.org/wiki/Fraunhofer_lines, believably close). 141.101.105.10 12:51, 15 September 2016 (UTC)
+Yes very accurate also the sunglasses lines are there in the real spectrum. --Kynde (talk) 11:43, 18 September 2016 (UTC)
+I feel we need an explanation of the concept of spectral lines for those readers not familiar with absorption spectra 141.101.70.91 13:21, 15 September 2016 (UTC)
+According to Wikipedia, absorption lines occur because solar radiation within the sun’s photosphere is absorbed at frequencies that match the energy difference between two quantum mechanical states of electrons bound to atoms or molecules. The absorption that occurs due to the transition between these two states is referred to as an absorption line and a spectrum is typically composed of many lines. These lines are dark because the light at those frequencies has been absorbed. In the case of an atom, absorption typically occurs when an electron is boosted from a less energetic inner orbital to a more energetic outer orbital in the process of absorbing a photon of light. Emission spectra are due to the opposite process.
+Please consider the possibility that the title text mention of Transitions may hinge on the absorption process's quantum state transitions. Run, you clever boy (talk) 18:37, 17 September 2016 (UTC)
+I think he's referring to the spectral lines of transition metals - not pictures of the sun wear glasses. The transition lenses reference is a play on words. 108.162.218.154 13:27, 15 September 2016 (UTC)
+Can we figure out what sunglasses he is referring to by comparing the spectral absorption of different brands? 108.162.246.119 14:06, 15 September 2016 (UTC)
+Any good links to "permanent" images of a sun with sunglasses? Guess there is none of Wikipedia? --Kynde (talk) 14:38, 15 September 2016 (UTC)
+I agree this refers to "Transitions" light-reacting prescription sunglasses / regular reading glasses. However, Google won't give me a sun wearing sunglasses picture unless I type in "sun" and "sunglasses". Not for Transitions or Reactolite, not for weather forecasts, not for emojis. With eyes yes, big smile too, but not shades. I suppose because it actually is a stupid thing for the sun to have. Otherwise, nearest I get: http://www.essilor.com/en/BrandsAndProducts/Lenses/Photochromics/Pages/CrizalTransitions.aspx  :-) "30% faster" (than what? taking off the glasses?) Robert Carnegie rja.carnegie@excite.com 141.101.98.90 15:11, 15 September 2016 (UTC)
+See: http://imgur.com/a/35RDC 162.158.203.147 14:18, 15 September 2016 (UTC)
+Is there a category for comics without characters? Are there enough comics to need a new category? GizmoDude (talk) 14:27, 15 September 2016 (UTC)
+There are many many comics without characters, so it would be a huge job to make such a category and they do not necessarily have anything in common like two comics with Blondie for instance does. So I would say no. --Kynde (talk) 14:38, 15 September 2016 (UTC)
+"Charts" looks right, seems implicitly to cover "infographics" (btw I agree with worrying about readers who don't know what spectral lines actually are although clearly everyone writing here does, or thinks so). Another possible edition for other cases is "Landscapes" but those in fact tend to have people in (or Mars rovers or such), also landscape in the sense of vista may be covered by "Large drawings" unless that specifically means "Image is larger than the pane on screen", since there also isn't a Scroll it" category. Alternatively... "Spectacles". Robert Carnegie rja.carnegie@excite.com 141.101.98.90 15:23, 15 September 2016 (UTC)
+Ya'll should keep in mind the large number of multivitamins that use rainbows as part of their branding and often some form of spectra/spectrum as part of the brand name. Here's a relevant image: http://centrum.com/sites/default/files/wheel_silver_adults_0.png 173.245.48.65 17:59, 15 September 2016 (UTC)
+Except Centrum is the only brand I've seen that does that. 141.101.70.61 08:03, 16 September 2016 (UTC)
+There's another image of a Sun with sunglasses (and a giant banana) at http://what-if.xkcd.com/129/ Jojonete (talk) 22:59, 15 September 2016 (UTC)
+Great thanks adding this --Kynde (talk) 11:43, 18 September 2016 (UTC)
+And perhaps we should acknowledge John Finnemore's terrific sketch about J M W Turner painting sunglasses on the sun (transcribed here: http://j-f-s-p.livejournal.com/5403.html). 141.101.70.49 (talk) (please sign your comments with ~~~~)
+Given that all the lines for the sunglasses are in the red-orange spectrum I took it as a joke about glasses <a href=https://www.google.com/search?q=orange+wraparound&ie=utf-8&oe=utf-8#q=orange+wrap+around+glasses>similar to these.</a> Sorry I can't find the exact model I've seen in ads from the early 90s of wraparound over regular glasses that were orangish (old style Blue Blockers.) 108.162.216.128 14:22, 16 September 2016 (UTC)
+The idea of the sun wearing transitions lenses became even more silly when I did a little research and found that the silver chloride that they often make transitions lenses with actually has a lower melting point (455°C) than glass itself typically has (1400°C to 1600°C.) I'm not sure that this has any relevance, but I was trying to find a plausible connection between the fabrication of transitions lenses as opposed to standard lenses and the use a sun (a sentient sun) might have for them. 173.245.50.83 15:37, 16 September 2016 (UTC) Sam
+Hey, the example image of the sun's spectral lines in the description is just a tetch too big. I can't see it all at once, but if I set my zoom to 90%, I can see all of it just fine. I tried to resize it, but I'm not sure it worked. Feel free to revert it or fix it if you know how. NotLock (talk) 05:55, 18 September 2016 (UTC)
+I have loaded a smaller version of the image from Wikipedia. Hope this workd, because with you edit the image did not show at all. --Kynde (talk) 11:43, 18 September 2016 (UTC)
+Thanks! I think I tried to do a similar thing 6ish months ago, and it worked, but the image took time to render to a different size if I recall correctly (which I might not be doing at all). I googled "Wikipedia markup, and tried to follow the instructions there, but evidently it didn't work. Thanks for taking the time to fix this! -- NotLock (talk) (please sign your comments with ~~~~)
+My impression, before reading the comments, was that "those giant sunglasses" referred to those giant novelty sunglasses that are usually used as a silly prop. 162.158.186.30 16:35, 15 October 2019 (UTC)
+Categories: All comicsComics from 2016Comics from SeptemberThursday comicsLinks to xkcd.comComics with colorChartsPhysicsAstronomy

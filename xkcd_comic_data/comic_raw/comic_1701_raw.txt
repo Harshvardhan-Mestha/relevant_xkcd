@@ -1,0 +1,85 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1701: Speed and Danger
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1701)
+|<< PrevComic #1701 (July 1, 2016)Next >>|
+Speed and Danger
+
+Title text: NASCAR removed the passenger seats because drivers hated how astronauts kept riding along with them and loudly announcing "Ahh, what a nice and relaxing drive."
+Explanation[edit]
+In this scatter plot Randall plots the speed of several vehicles (including people on foot for "normal sports") and how disastrous a crash would be. The punchline is that space rockets travel so dangerously fast, and crashes are so utterly catastrophic, that it pushes literally every other kind of crash to the "slow and safe" corner by comparison. (A similar punchline was used in the title text of 388: Fuck Grapefruit.)
+With the plot Randall makes the observation that the danger of a crash is greatly influenced by its speed and highlights the concept of relativity between what we perceive as "fast," normal sports and two different types of racing cars, vs. a much faster vehicle, a rocket during launch. A rocket may appear to ascend slowly (and of course it begins its ascent slowly), but on the way to orbit it ends up moving very fast. But before it reaches the more extreme speed regime it will be far away from the ground (and the casual observer), where there is nothing to compare this speed to as opposed to a race car speeding by a spectator during a race.
+Apart from the high speed, there is also the altitude to take into account for a rocket launch, and the vast amount of fuel needed to get into orbit, and any sort of catastrophic failure is almost certainly fatal (Apollo 13 notwithstanding).
+Racing cars are often involved in crashes, but at that speed it is possible to construct them so even serious crashes may not be fatal. Although rockets are also made as safe as possible, it is a completely different regime of speed and danger, and the risk of something going wrong during a take off is much higher, and it is impossible to prevent a lethal disaster if the launch fails during the ascent. This results in a much higher mortality rate for each crashed rocket (probably 100%) vs. crashed sports/race cars.
+Rocket launches are compared to "normal sports" (presumably meaning people running approximately 25 km/h, and possibly also polo horses galloping approximately 40 km/h), NASCAR (which reaches speed of 320 km/h), and Formula One (F1), where the fastest race cars go 380 km/h. Although peak speed for an F1 car is higher than NASCAR, the average lap speed is much lower as F1 tracks have slow corners while NASCAR ovals can be negotiated with much less speed variation. It is also arguable whether F1 is more dangerous than NASCAR - there have been fewer fatalities in F1 this millennium, though fewer cars compete and races are of shorter duration. The 2016 Formula one season had 21 races, with each race lasting 1.5~3 hours. The NASCAR season had 36 races, with each race lasting 3~5 hours.
+A rocket launched to reach the ISS needs to match the speed of the space station which moves at 27,600 km/h. A rocket that needs to escape from Earth needs to reach 40,270 km/h, but so far no humans have escaped. However, the astronauts going to the Moon came close, with Apollo 10 setting the speed record for manned flights with 39,896 km/h. (It was only about 0.4% faster than the next 7 missions that, in contrast to Apollo 10, were supposed to land on the Moon). The lowest of the rocket speeds mentioned above is still more than 70 times as fast as the highest speed for race cars.
+The title text serves to emphasize the point further, as an astronaut (used to the several G's of acceleration during takeoff and overall much higher speeds) would likely find a NASCAR car moving at ~300 km/h paltry compared to what they're acclimated to and has supposedly aggravated NASCAR drivers by making a point of saying so. And thus this is used to explain why there are no passenger seats in NASCAR cars, to prevent astronauts from joining the drivers for a nice, slow ride.
+Of the many charts in xkcd this one is notable for containing the fewest sample points of any scatter plots in xkcd.
+Transcript[edit]
+[A two-axis diagram with two double headed arrows centered in the middle of the panel. Each arrow is labeled. There are four large dots in the diagram, three close together in the top left corner and one in the bottom right corner. Each dot is labeled.]
+[Y axis:]
+Top: Crashes are safe
+Bottom: Crashes are dangerous
+[X axis:]
+Left: Slow
+Right: Fast
+[Dots from top left to bottom right:]
+Normal sports
+NASCAR
+Formula One
+Rocket launches
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Worst Comic
+I think this might be a strong contender for worst comic on xkcd. Although 1384: Krypton definitely makes for stiff competition. 108.162.216.102 14:28, 1 July 2016 (UTC)
+Perhaps "in worst taste" might be a better term than simply "worst". Certainly the fatality rate (in fatalities/crash) for rocket crashes is higher, but placing motor sports crashes to the extreme end of the safety-danger axis is a bit suspect in light of https://en.wikipedia.org/wiki/Driver_deaths_in_motorsport . 108.162.237.242 02:25, 2 July 2016 (UTC)
+This is a great comic, but taste differs. It's not like he is making a joke of people who die in NASCAR crashes, but on this scale it is just not dangerous compared to crashing with a rocket heading for space. This is exactly the same as if he had put in the coconut in on of his most controversial comics, and another scatter plot 388: Fuck Grapefruit. In the title text of that comic he mentions that the whole charts would have lost meaning if he included the coconut. But here he did put it in (the rocket) since he likes rockets and will not use the F word on those like he did with grape and coconuts. It may not be one of the best, but I like it :-) --Kynde (talk) 11:55, 2 July 2016 (UTC)
+The worst? Have you looked at the first few hundred? 108.162.246.119 15:09, 1 July 2016 (UTC)
+I think this comic is actually enlightening on a certain (albeit narrow level). People frequently lack a proper sense of perspective, and this comic illustrates this fact. While we might say "Wow, that Indy car is really moving fast!", it pales in comparison to other vehicles that some fortunate few travel in. -- BobTheMad (talk) (please sign your comments with ~~~~)
+And I totally wanted to learn that from a comic that's supposed to be humorous... --108.162.219.7 16:50, 1 July 2016 (UTC)
+Yeah well there are countless people who learned everything they know about space travel from 'The Martian' (as well as a lot of wrong things). So I really don't think that it's that uncommon for information on a subject to come from popular culture, however unfortunate it may be.--Snewmark (talk) 03:24, 4 July 2016 (UTC)
+1699 and 1680 would like to have a word with you. Also 1675. Actually, all of the last 25 or so comics would. I really don't know how the xkcd forums put up with being 500x smarter than all the comics they praise every day. Youforgotthisthing (talk) 17:18, 1 July 2016 (UTC)
+Referencing Something?
+Is there something this is referencing? Saklad5 (talk) 14:41, 1 July 2016 (UTC)
+I believe this is in response to the recent crash of a Tesla car while running on autopilot - possibly the first recorded fatality of an autonomous car. 108.162.249.156 (talk) (please sign your comments with ~~~~)
+Seems unlikely, as there is no mention of normal cars or Tesla. And although Elon Musk also do rockets launches (so far without humans as far as I know), there seem to be no relation to Tesla. --Kynde (talk) 11:55, 2 July 2016 (UTC)
+To me the reference seems to be the Formula 1 "Halo" discussion. The last month I saw a few news articles about prominent F1 people calling this new safety measure "too safe" etc. To me this is a ridiculous argument and the comic is spot-on about it. The title text also seems to refer somewhat from that discussion. 141.101.104.72 19:55, 3 July 2016 (UTC)
+Sarcasm
+Is sarcasm to be encouraged in explanations? “Here, Randall makes the truly astounding observation that the danger of a crash is directly proportional to its speed….” [Emphasis mine.] — tbc (talk) 15:29, 1 July 2016 (UTC)
+In this case it's definitely warranted...Jesus Randall, this wouldn't exactly have been hard to make funny/interesting. --108.162.219.7 15:51, 1 July 2016 (UTC)
+No it should not be in the explanation. Keep the sarcasm here  ;-) --Kynde (talk) 11:55, 2 July 2016 (UTC)
+Well a rocket to achieve orbit hits about 18,000 MPH http://spaceflight.nasa.gov/shuttle/reference/basics/launch.html Where as NASCAR is only ~200 MPH https://en.wikipedia.org/wiki/Stock_car_racing Formula 1 is only ~257 MPH https://en.wikipedia.org/wiki/Formula_One_car#Top_speeds 162.158.68.71 16:51, 1 July 2016 (UTC)
+I'm kinda shocked Randall didn't reference Star Trek for this comic, considering the number. - Michael C. 141.101.98.85 17:00, 1 July 2016 (UTC)
+Why only 4 examples?
+Why not put things like biking, driving a regular car, WWI planes, WW2 planes, supersonic jets, satellites, Apollo, New Horizons... 108.162.244.67 (talk) (please sign your comments with ~~~~)
+It was not interesting as they would all overlap and there would be not enough place for labels. The whole idea is that any sport bound to Earth is slow compared to a rocket launch. 100 m dash or Formula one is on the same scale when comparing. Reminds me of when he compared the speed of New Horizon to the speed of a bullet, which would also have been in the left side if New Horizon had been entered... --Kynde (talk) 11:55, 2 July 2016 (UTC)
+Sports or Sports Cars?
+I don't think the comic intended to say "Normal Sports CARS," as the explanation currently says, I think it means what it says, "Normal SPORTS" like foot ball, or hockey. On the linear scale of 0-to-rocket, running or walking is close to race car speed, compared to how fast a rocket is, and the graph illustrates that. Also, crashing a normal sports CAR is far more dangerous than crashing a professional race car because of all the safety equipment, so a sports car would be more toward the dangerous side. 108.162.219.81 (talk) (please sign your comments with ~~~~)
+Agreed. I was assuming the reference was to various contact sports such as football, hockey, and quidditch where collisions between players regularly happen. 108.162.237.132 20:52, 1 July 2016 (UTC)
+Yes of course. My bad, I just read the three dots like different types of car, and did not think further about it. For sure I see now that it is any sports not using motor powers (maybe also not anything about going fast down-slope like bobsleigh etc.) --Kynde (talk) 11:55, 2 July 2016 (UTC)
+What is the point of this comic and where is the fun
+I don't know, I feel like people is missing the point of the comic, where is the funny on it.
+I think finding Formula one on the slow an secure quadrant of the chart is surprising, so near to regular sports, until you understand that it is only compared to a rocket launch. People sure think of F1 as fast and dangerous, so this comic plays with our expectations.
+Not exactly hilarious, but neither the worst XKCD comic.
+Inconexo (talk) 20:19, 1 July 2016 (UTC)
+One thing I think it might be interesting to indicate is how this is the first one of these plots where everything is in only two quadrants. There is no slow but dangerous crash nor fast but safe crash. Usually at least one these quadrants would have an entry, and probably a facetious one.
+True but there has only been three (with this) comic with a four quadrant scatter plot, the other being 388: Fuck Grapefruit and 1501: Mysteries. The other scatter plot are either in one square or not really scatter plots that can be compared to this one. So it may be too slim a data set to say this is special for xkcd. But still interesting enough that there are no fast safe or slow dangerous crashes. --Kynde (talk) 12:22, 2 July 2016 (UTC)
+I didn't mean just scatter plots. I mean any time he's compared to variables. There was a recent one where it was a just a table with four entries, one for each "quadrant." The joke is usually one silly item. Trlkly (talk) 14:53, 5 July 2016 (UTC)
+I also think the part about scale could be expanded to more than just the "relative to the speed of light." Something like "While we tend to speak of race cars as going fast, they are slow compared to rockets." --Trlkly (talk) 22:27, 1 July 2016 (UTC)
+Please feel free to improve with better examples. --Kynde (talk) 11:55, 2 July 2016 (UTC)
+I'm not sure why that line about the speed of light is in the explanation. What's it relevant to in the comic? Speaking of it, though, if you DID want to chart fast/safe collisions, visible light photons hitting something would probably rate! (And if you wanted slow/dangerous, maybe the Titanic hitting crashing into an iceberg, or an army tank crashing into...anything.) 108.162.219.56 (talk) (please sign your comments with ~~~~)
+Agree; removing. Jkshapiro (talk) 02:35, 9 November 2016 (UTC)
+
+Fatality rate is not 100% as shown by Non-fatal incidents during spaceflight Wyrme (talk) 03:22, 2 July 2016 (UTC)
+None of those events resulted in a crash. All crashes have been fatal as far as I can see. A crash involves the rocket hitting something. --Kynde (talk) 12:04, 2 July 2016 (UTC)
+By that definition, has there ever been a fatal rocket crash (excluding rockets fired as weapons hitting their target)? Thinking of the US space program: Apollo 1 was a fire in the capsule on the ground, not a crash. Challenger was an explosion in mid air, not a crash. Columbia was a break up on re-entry, not a crash. Jeremyp (talk) 13:05, 2 July 2016 (UTC)
+Columbia crashed into the atmosphere. Psu256 (talk) 19:32, 5 July 2016 (UTC)
+When I saw this comic, I immediately though of Little Bobby Tables (https://xkcd.com/327/) 141.101.70.193 (talk) (please sign your comments with ~~~~)
+Fewest data points? 605: Extrapolating shows a scatter plot with only two points (and a line extrapolating them). --198.41.242.240 11:27, 4 July 2016 (UTC)
+I think it's worth noting that this chart also shows how unlike a mathematical scatter plot, the position of the points relative to the axes isn't really meaningful. Randall could have chosen to have the entire chart only show the lower right quadrant, and place the other sample points close to the origin, but his choice of presentation emphasizes the discrepancy. Formula 1 car crashes aren't simply "less dangerous" than rocket crashes, compared to rockets they are extremely slow and safe - words that one generally wouldn't use to describe formula 1. 20:28, 5 July 2016 (UTC)
+I removed the comment about logarithmic axes: "The scatter plot uses logarithmic scales. If they were linear, the origin would be at the bottom left. With a logarithmic scale you can have fast, slow, safe and dangerous unbounded in all 4 directions." Having spent lots of time doing plots (logarithmic and otherwise) I'm pretty sure this comment is incorrect. In fact, logarithmic scales cannot go through zero because log(0) is undefined, meaning that logarithmic plots are the ones that can't be unbound in all four directions. Also, in linear plots there is no requirement that the origin has to be at the bottom left.Cmancone (talk) 17:18, 12 July 2016 (UTC)
+I made a better verion of this comic. It's still not funny File:speed and dangerFIXED.png -- Jono41 (talk) (please sign your comments with ~~~~)
+Pics or it didn't happen Jkshapiro (talk) 02:35, 9 November 2016 (UTC)
+Categories: All comicsComics from 2016Comics from JulyFriday comicsPages with broken file linksScatter plotsSportSpace

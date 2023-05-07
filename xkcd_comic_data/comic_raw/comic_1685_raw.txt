@@ -1,0 +1,100 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1685: Patch
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1685)
+|<< PrevComic #1685 (May 25, 2016)Next >>|
+Patch
+
+Title text: My optimizer uses content-aware inpainting to fill in all the wasted whitespace in the code, repeating the process until it compiles.
+Explanation[edit]
+Adobe Photoshop is a commonly used application for image manipulation. One of its features is the Patch tool, which allows the user to overwrite parts of the image, replacing them with a copy of another area of the same image. It is often used for “patching up” photographs by overwriting scratches or other visible damage to the photo. Another of Photoshop’s features is “content-aware fill”, which could also be described as “content-aware inpainting”. It works similarly to the Patch tool, but automatically generates a replacement texture from the area surrounding the deleted part instead of copying a user-specified area exactly.
+GNU patch is a program that replaces only parts of code with an updated version, without requiring the user to download the entire source code. Here, it appears the author was told to “patch” the code but used Photoshop to do this instead of GNU patch, with devastating results. Although the title text suggests that if you did this enough times the code would eventually compile, this would never happen. In fact, Photoshop could only edit an image of the text and not the text itself. However, it could work if optical character recognition (OCR) were integrated into the workflow as well.
+The comic blurs the difference between text (in which letters and symbols represent discrete values, such as 65 being the number for the letter A in the ASCII encoding standard, and it's relatively easy for a program compiler to interpret combinations of these values as keywords and other programming constructs) and graphics (where the letters and symbols in the comic are actually represented by a pattern of colored dots), playing with the idea that the patch metaphor can be used on both (although with different meanings). There are common and straightforward processes for converting text information to images, such as printing, which can convert text to a graphics format very faithfully. The reverse, however, requires the use of optical character recognition (OCR), which attempts to figure out which letter or symbol certain patterns of dots "look like". OCR could be effective in converting some of the image in the comic back to usable text; however, it would fail on some of those patterns that have been mangled and don't look like any existing characters or symbols. A compiler can only operate on text data, so converting the graphic back into text would be a requirement to even begin to attempt to compile it, a step omitted in the title text.
+The code appears to be written in Python, a programming language often referred to in xkcd, such as in 353: Python. A few of the function names that can be recognized are "isPrime" and "quicksort", both elementary programming algorithms. It was also apparently originally edited using a Python-aware programming text editor, which is able to use different colors for different programming elements. For example, it appears to use red for keywords, blue for variables, and black for other elements; however, because of the mangling from the use of the wrong patching program, that doesn't appear to be consistent. Since the patching replaced graphical elements rather than whole characters, there are examples of symbols that are combinations of two different characters, and when the original two characters were rendered in different colors the resulting non-character could be in two colors, or the resulting "word" might be rendered in multiple colors.
+The comic brings to attention the high rate of Adobe Photoshop piracy. GNU Patch is available for free, even for Windows, and Mac OS X. So the comic implies that Adobe Photoshop, a subscription to which costs $20/month, is more available than GNU patch. According to this poll, 58% of Photoshop copies were pirated.
+The title text also explains that the patch used the content-aware inpainting to fill in all the wasted whitespace in the code. In most programming languages, whitespace is necessary to separate words, so this would combine words that shouldn’t be combined and create invalid code. Since the code in the image is Python, the code will be messed up even more, because Python uses whitespace as a part of its programming syntax. For example, statements are separated by newlines instead of by semicolons (;), and indentation is used instead of brackets to determine the scope of each section of code.
+The original code was likely as follows:
+import re
+def isPrime(n):
+ if n<=1:
+  return False
+ for i in range(2, int(n**0.5)+1):
+  if n%i==0:
+   return False
+ return True
+def isPrimeRegex(n):
+ if re.match(r'^1?$|^(11+?)\1+$', '1'*n): 
+  return False
+ return True
+def quicksort(a):
+ if len(a) < 2:
+  return a
+ pivot=a[0]
+ l=[i for i in a if i<pivot]
+ r=[i for i in a if i>pivot]
+ mid=[pivot]*(len(a)-(len(l)+len(r)))
+ return quicksort(l)+mid+quicksort(r)
+isPrime and quicksort are standard python implementations of simple algorithms (although you would not generally write a sorting algorithm in python as there are built-in algorithms available). isPrimeRegex uses the re module to detect if a number is prime by seeing if a string containing that many 1s can be matched to 2 or more copies of some string containing at least 2 1s.
+The comic two comics back 1683: Digital Data, also related to turning digital data into bad copies. Less than a month before quicksort was mentioned in 1667: Algorithms, and a month before that another "easy" solution to a programming problem was released in 1654: Universal Install Script.
+Using a Photoshop tool for a task it is not intended for was also used in 1784: Bad Map Projection: Liquid Resize, where Photoshop's content-aware resizing tool was a very questionable choice to use for a Map Projection.
+Transcript[edit]
+[The panel displays part of a code, in five different colors (red, purple, light blue, blue, and green) as well as normal black text, which due to image editing is difficult to read. The first and last lines are partly obscured by the frame of the panel. Here below is an attempt to transcribe the code, using the sign "¤" for anything not easily transcribed. Feel free to add other signs instead of these that look more like the one in the image (and also improve the attempted transcription if possible).]
+impoɞtme
+dooPisPŞ¤me(n):
+ r(¤n<n,1:
+  retern F(ise
+ for i irararre(2, nint *n**n+5)+5):
+  if n i==0
+   ret¤¤nrselsel:
+ re¤ irn True
+defesisPrimcieg ¤x(cx
+ if ge¤inatcx(ᵣ'^(1?| ?.1+?)\+)$'*n )1'*n):
+  rerjrn Fa( e
+ LetylnrTrl
+dql qlsorsorn(a :
+ if ¤n(a < 2:
+  eteturn a
+ pi= =r fa[0]
+ l=pi=for j ın a i< i<pi<(t]()
+ r=[ı=for f in a) r i>viviv](vo)
+ mid=[pi[*t]*(l*t,(a)-(lenpienlen(c)))
+ r¤lrurrriklcksckt(l) + r ¤ ¤quickrort(r)
+[Caption below the panel:]
+Protip: If you don't have access to the GNU patch tool, you can use the Photoshop one.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Hey, I'm first! Guessing the Bot only JUST created this, it was mere minutes after midnight EST when I landed on this page. Unfortunately this is a comic I'm less capable of explaining. From the looks of it, his Photoshop Patch turned what looks like C code into gobbledegook by filling in several of the spaces (and I think even changing some of the characters, possible with characters which fill more of the space). - NiceGuy1 108.162.218.77 04:24, 25 May 2016 (UTC) I finally signed up! This comment is mine. NiceGuy1 (talk) 10:06, 9 June 2017 (UTC)
+This appears to be Python code. Note the "def" keyword, how "for i in [garbled]:" is used rather than C's for syntax, and how there are no semicolons or braces. --Sherlock9 (talk) 05:03, 25 May 2016 (UTC)
+Photoshop has a 'patch' tool but it has a very different function from a software patch. 108.162.242.123 (talk) (please sign your comments with ~~~~)
+An explanation of Photoshop's patch tool might be helpful in identifying patterns in what pixels were changed by it, perhaps facilitating the identification of some likely characters. Dansiman (talk) 05:56, 25 May 2016 (UTC)
+The first function looks like "isPrime" and seems to check if a number is prime. The last function looks like "quicksort". Both are common functions you create when learning programming. Not sure about the second one, but it looks like it uses regular expressions. -- 198.41.242.242 06:44, 25 May 2016 (UTC)
+I think the second one is "isPrimeRegex". *cringe* 141.101.104.25 08:55, 25 May 2016 (UTC)
+Second function looks like a function to check if number is a prime using Regex (described here http://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/). I don't know if it deserves some special mention, but at least to me (non-programmer) it looks like one of the most arcane things you can do in programming 141.101.80.79 07:22, 25 May 2016 (UTC)
+That indeed looks very much like it. I think this is worth mentioning. --198.41.242.240 11:22, 25 May 2016 (UTC)
+Note that mathematically speaking, that regular expression is NOT regular expression - use of backreference in match is one of originally perl extension which makes it much more powerful (and much slower in some cases). It's just that both python and ruby already copied most of perl extensions of regular expressions. -- Hkmaly (talk) 12:39, 25 May 2016 (UTC)
+Do you think the use of pi is a reference to one of the other comics(I forgot which one...)?Transuranium (talk) 10:35, 25 May 2016 (UTC)Transuranium
+I rather guess it is short for pivot. See quicksort for what the pivot does. --198.41.242.240 11:22, 25 May 2016 (UTC)
+You know, it's theoretically possible for Photoshop to create compilable code in the esoteric programming language "Piet". But unless there's a way to turn off the Patch tool's antialiasing, it'll be practically impossible for patches larger than a single pixel. 108.162.237.220 14:15, 25 May 2016 (UTC)
+I don't really know anything about programming, but it looks like it's checking for factors of n from 2 to sqrt(n)+1. Why would it need to check any number larger than sqrt(n) though? If i>sqrt(n), then ij=n implies that j<sqrt(n), and j should already have been found. So the largest integer you need to check is floor( sqrt(n) ), which is in the range from 2 to sqrt(n). Checking ceiling( sqrt(n) ) for a non-square number seems redundant. 108.162.237.250 15:25, 25 May 2016 (UTC)
+It's because range(a, b) in Python means the interval [a, b) (excluding b). 108.162.222.29 15:41, 25 May 2016 (UTC)
+That mismatched bracket in your comment is hurting me. 162.158.68.71 17:02, 25 May 2016 (UTC)
+It's not mismatched; the right paren indicates the value's the upper limit but excluded. I'd include a right bracket in my response but I think that might make a compiler curse. Elvenivle (talk)
+The line with re.match in the likely original code should have an "r" for "raw" before the first string thus:
+ if re.match(r'^1?$|^(11+?)\1+$', '1'*n):
+I am not changing it in the main explanation because I don't know what colour it should be and it's my first time contributing. - Charles W. 141.101.98.42 22:24, 25 May 2016 (UTC)
+Seems like it has been changed by now. --Kynde (talk) 07:13, 26 May 2016 (UTC)
+Has someone added this to the Protip category?162.158.2.139 23:53, 25 May 2016 (UTC)
+Uhm yes, it should be clear right below these comment on the main page? All categories are listed at the bottom of each page. --Kynde (talk) 07:01, 26 May 2016 (UTC)
+It might be worth explaining the [pivot] * (len(a) - (len(l) + len(r))) since that threw me when I first saw it. Since l has the elements of a < pivot, and r has the elements of a > pivot, len(a) - (len(l) + len(r)) will be the number of elements in a that = pivot (which must be in the range [1, len(a)]), and these are then 'spliced' into the result between the result of quicksorting l and r. Jstout (talk) 19:48, 26 May 2016 (UTC)
+Photoshop is available for a much lower price than mentioned in the explanation. Adobe offers an Photography Creative Cloud plan (currently US$9.99/month). This includes Photoshop CC, Lightroom CC and additional apps and online storage. http://www.adobe.com/creativecloud/photography.htmlThese Are Not The Comments You Are Looking For (talk) 22:44, 29 May 2016 (UTC)
+Resemblance to Xerox number mangling issue
+To me, this reminds me of the problem that a large set of Xerox copiers had. Their faulty use of image compression when scanning could cause portions of images to be replaced with similar portions, but the threshold of similarity was loose enough that numeric data would be subtly corrupted. For example, building plans and spreadsheet data could have numbers copied incorrectly, either of which could certainly have disastrous consequences. Documents were corrupted for a period as much as eight years before the problem was corrected, making legal archive data unreliable for this period, and some of the faulty machines may still be in use. http://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning 162.158.252.185 (talk) (please sign your comments with ~~~~)
+Now that you mention it... Although here it's a person intentionally doing harm to the image.173.245.52.69 22:20, 26 May 2016 (UTC)
+So that's what it was! I wondered why all the copies I could find of Concrete Mathematics had random font changes all over (and half the formulas came out wrong). 141.101.80.121 22:26, 26 May 2016 (UTC)
+Wow. that's intense.173.245.52.69 00:04, 27 May 2016 (UTC)
+A couple of decades ago, the firm I was working for suddenly realised that one of its dot-matrix printers was causing problems. It was being used to print out specific validation information for archival, but the centre pin of the (vertical)print-head pin array was no longer striking. Out of 9 or perhaps 13 pins, it didn't represent much difference in the output normally, but the difference between a 0 and a 8 was whether that pin's contribution was two separated pixels, the middle of the two long verticals in the zero*, or a short horizontal sequence of dots representing the contact between the two small circles in the eight. The way the hardly-noticed absent row caused the character to be read meant that both read as zero, with no difference. (Other characters had problems, but usually did not look like anything else. There were no hyphens/minus-signs, but they might have rendered as whitespace if there had been.) This was not an ideal situation, and a different printer was swapped in ASAP.
+* - This typeface's zero did not have a diagonal bar, of the type I even habitually handwrite, but confusion with O-for-Oscar characters was already not an issue due to context... 141.101.98.43 03:37, 27 May 2016 (UTC)
+I think the party of the explanation that details OCR is more in depth than it really needs to be. Considering that the comic itself makes no reference to OCR, these details should be trimmed down considerably, or at least moved to a later point in the explanation after the more salient details. Dansiman (talk) 15:48, 28 May 2016 (UTC)
+Categories: All comicsComics from 2016Comics from MayWednesday comicsComics with colorProtipProgrammingPhotography

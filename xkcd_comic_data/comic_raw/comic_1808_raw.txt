@@ -1,0 +1,55 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1808: Hacking
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1808)
+|<< PrevComic #1808 (March 8, 2017)Next >>|
+Hacking
+
+Title text: The dump also contains a list of millions of prime factors, a 0-day Tamagotchi exploit, and a technique for getting gcc and bash to execute arbitrary code.
+Explanation[edit]
+This comic is referencing an incident on the day before this comic was released, March 7, 2017, in which WikiLeaks exposed thousands of hacking exploits (thus the title) and programs from the CIA (see for instance this article: WikiLeaks Just Dumped a Mega-Trove of CIA Hacking Secrets). Many of the tools that were in the leak were similar to publicly available tools, or not entirely unexpected, with several coming from sites such as StackOverflow and Reddit.
+The main joke in this comic refers to the common practice of adding spaces between parts of an email address when publishing them on websites. For example, "john.doe@example.org" may be written as "john dot doe at example dot org". The purported goal of doing this is to thwart page scraping bots from harvesting the correct email addresses and prevent them from becoming the target of spam or being sold as address lists for email marketers.
+In this comic, Ponytail tells Cueball that the CIA has a tool which can delete such spaces. Such a tool can fix the space and most likely convert the words "dot" and "at" into their respective symbols. This will overcome the problems faced by harvesting tools, and make these email addresses more prone to receive spam.
+Cueball appears shocked to hear this news, but given the caption below, stating that this was one of the less dramatic revelations from the CIA hacking dump, this is likely sarcasm by Cueball (and Randall). In fact, it is quite simple to devise a program which detects and converts/removes such spaces; it's naive to believe that one can prevent e-mail addresses from being harvested just by writing the addresses with space or omitting @ etc. Some people might not realize that he's being sarcastic, though, and that misunderstanding might be part of the joke.
+The title text lists three other undramatic (fictitious) hacking exploits which sound more interesting, but are still more or less useless, and certainly not dramatic news. They are:
+Millions of prime factors: The security of the RSA cipher relies on the difficulty of finding prime factors for a large number. But just having those numbers without any other context means you only have millions of prime numbers. This is as useless as having a list of millions of passwords without any further information.
+A 0-day exploit for Tamagotchi: A 0-day exploit is an exploit of which the manufacturer is not (yet) aware. 0-days are very valuable to hackers since defenses against them have not yet been developed. However, an exploit for a Tamagotchi is likely useless because they are very low-end entertainment devices that do not contain microphones or cameras, and usually don't have access to any networks. This may also be a play on words, as Tamagotchi are notoriously difficult to keep alive for more than zero days.
+A way to get gcc and bash to execute arbitrary code: Unintentional execution of arbitrary code is serious vulnerability that allows attackers to do whatever they choose on a victim's computer. However the examples given here merely describe the intended purpose of the tools: gcc is a compiler, so preparing arbitrary code is its main purpose, and bash is a Unix shell, so executing arbitrary code is also one of its primary functions.
+Transcript[edit]
+[Ponytail is writing on her laptop at her desk while Cueball looks over her shoulder.]
+Ponytail: You know how sometimes people put a space in their email address to make it harder to harvest?
+Cueball: Yeah?
+Ponytail: They have a tool that can delete the space!
+Cueball: Oh my god.
+[Caption below the panel:]
+Less-dramatic revelations from the CIA hacking dump
+Trivia[edit]
+This is the second comic in a row (after 1807: Listening) about how computers can be misused and also the second in a row where Cueball is with Ponytail rather than Megan.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Some explanations for title text:
+a list of millions of prime factors: trivial to produce and useless without knowing the problem they're from
+a 0-day Tamagotchi exploit: sounds not very useful, unless modern Tamagotchis have internet connection
+and a technique for getting gcc and bash to execute arbitrary code: unlike other applications, these two programs (especially when used together) are specifically created to let user execute arbitrary code 141.101.80.106 (talk) (please sign your comments with ~~~~)
+-- Internet connected tamagotchis you say? http://spritesmods.com/?art=tamasingularity -- 141.101.76.202 06:42, 8 March 2017 (UTC) --
+Expanded the details; I know Tamagotchi hacking is a thing, but I'll leave it to someone who actually knows about it to decide whether it's worth mentioning in the page. Also, "a list of millions of prime factors" could just as well be called "a list of millions of prime numbers", which sounds much less important, but I couldn't think of a brief way to mention that. 162.158.78.4 09:53, 8 March 2017 (UTC)
+The television-show "Zondag met Lubach" (Sunday with Lubach) has prior to the elections in the Netherlands launched the Kamergotchi-app. In this app you have to cuddle and feed your partyleader to keep him/her alive. The party leader is randomly chosen. In the last episode of the show the results from the app were compared with the polls. Surely the CIA and the Russians would like to hack this Tamagotchi-clone. Vince 10:27, 8 March 2017 (UTC) 141.101.105.174 (talk) (please sign your comments with ~~~~)
+- I think the joke regarding the "millions or prime factors" is that "millions" sounds like a lot, but it is in fact a very small set that can be easily computed, and even more easily downloaded. It is also useless for cracking any modern encryption. Bigprimes.net has a downloadable list of the first 1.4 billion primes; the 1.4 billionth prime (32416190071) is a 40-bit number, which is only useful for factoring 80-bit products at best. The CIA would likely need (and probably do have) at least a trillion primes pre-computed. Sysin (talk) 10:53, 8 March 2017 (UTC)
+Say, this was the first header on the WSJ today! That's right, Jacky720 just signed this (talk | contribs) 10:54, 8 March 2017 (UTC)
+I think the 0 day tamagotchi exploit might be a pun on 0 day exploits as explained above and the fact that tamigotchis use an ingame time mechanic. So a 0 day tamigotchi exploit might allow you to do something special with or to your tamigotchi while it is still and egg. 172.68.2.28 12:56, 8 March 2017 (UTC)-
+I think you're actually allowed to have an e-mail address like john dot doe@example.org - but a lot of programs will be greatly confused by it. That is not really a comment on the comic. Also, I once read someone's research which reported that spam list users simply delete obfuscated addresses, and particularly if "spam" appears in the address; for them, if not for the TLAs, to do more is pointless. So by all means set your real address to johnlovespamela@couples.com. Although you may have to change your names and sex. Robert Carnegie rja.carnegie@excite.com.fearless.not!:-) 141.101.107.108 15:47, 8 March 2017 (UTC)
+A list of one prime from each of the million most important RSA keys could accurately, if understatedly, be described as "a list of a million prime factors". If people realize what it is it would break the web. So it depends on which primes: the first million, meh; a million random primes; yawn; a million carefully chosen primes, yowza! The last two would not be obviously different unless you did some fairly minimal work. A prime the CIA classifies could be interesting. Or they could be messing with us.--162.158.62.21 15:52, 8 March 2017 (UTC)
+
+I can't resist pointing out that anything that has a speaker also has a microphone. So a network connected tamagotchi, which is presumably capable of playing sounds, could also be used as a bug, despite being a "low-end device" ☺ 162.158.78.130 (talk) (please sign your comments with ~~~~)
+I don't think you can turn a speaker into a microphone using only software, you have to reconnect wires. Also the sound card must already have hardware for audio input. --162.158.92.34 14:59, 9 March 2017 (UTC)
+Any speaker can be a microphone too, so "hardware for audio input" is rather loose. It just has to be capable in some way, directly or indirectly, to measure the fluctuations from sound waves striking the speaker.162.158.78.130 17:30, 9 March 2017 (UTC)
+By hardware for audio input I meant electronic circuits inside the sound card that accept analog input and convert it to a digital signal. If a device is designed just for sound output it might not have the necessary electronics for sound input. --162.158.92.34 21:52, 9 March 2017 (UTC)
+If the device uses a RealTek (Conexant, IDT or other) audio codec chip, malware may silently "retask" the output channel as an input channel (as per Intel High Definition Audio specification) and record sound from normally connected speakers without any hardware modification. --162.158.92.34 15:16, 9 March 2017 (UTC)
+If the gcc/bash thing was actually a reference to ShellShock or some other real problem, then its inclusion wouldn't be funny... 162.158.74.51 19:18, 8 March 2017 (UTC)
+Pretty sure the gcc/bash thing is a joke about using gcc to make a program, then executing it in bash. This is trivial. A real hack that did this unintentionally would need to involve some other program as well, like some way to get remote access using ssh or such. Trlkly (talk) 21:52, 9 March 2017 (UTC)
+In light of the CIA hack revelations, I'm tempted to change my email to Me '); DROP TABLE @gmail.com 162.158.154.193 09:39, 10 March 2017 (UTC)
+Having millions of passwords without a context can be very useful. Ever heard of a dictionary attack? This list is such a dictionary. --162.158.134.202 20:16, 19 March 2017 (UTC)
+I really do not think that Cueball is being sarcastic! People exposing security leaks often seem to be convinced that they have found something terrifying when it's really something trivial. Sarcasm would be hugely less funny. 162.158.38.94 10:09, 4 December 2019 (UTC)
+Categories: All comicsComics from 2017Comics from MarchWednesday comicsComics featuring CueballComics featuring PonytailComputersCryptography

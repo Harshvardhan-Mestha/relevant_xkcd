@@ -1,0 +1,116 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1800: Chess Notation
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1800)
+|<< PrevComic #1800 (February 17, 2017)Next >>|
+Chess Notation
+
+Title text: I've decided to score all my conversations using chess win-loss notation. (??)
+Explanation[edit]
+Cueball begins a conversation with White Hat with the declaration that he will be scoring his conversations using chess notation (hence the title). White Hat is not interested, so the conversation dies out, with both Cueball and White Hat saying "Fine".
+And just as promised, Cueball has scored this particular conversation, giving it a ½-½, as he believes that this is a drawn conversation. The reasons for the draw may be due to agreement (both parties walk away afterwards), a stalemate (the conversation isn't going anywhere), draw by repetition (both players have played the same moves over and over again, and cannot improve their position - probably if "Fine" had been repeated more times), 50-move rule (the conversation has been going on fruitlessly for too long - unlikely here since it is only 4 dialogues long) or something else. There could be some similarities between chess games and conversations. In general, see more under the trivia section.
+The title text contains the same assertion that Cueball is scoring all his conversations in chess notation, followed by a (??). In chess notation, (??) means the move in question was a very bad, or losing, move - a blunder. Cueball scores this part of the conversation as a blunder, which is understandable as it immediately turned the conversation against him. It can also be considered a losing move not just in the conversation but in general, being a confusing and pointless decision with no apparent gain. If Cueball is treating his conversation itself like a chess game (memorizing openings, using tactics, and evaluating various possible things to say), then he will avoid ever opening a conversation with this statement again. If he was scoring his idea to score his conversations as a blunder, then that itself may yet be another blunder. Either way, quite a ?? indeed!!
+The (??) may also be interpreted not as chess notation, but as regular interpunction, in which case it would denote a confused reaction by someone who doesn't know what chess notation is (like White Hat in the comic). This makes it a double entendre, covering both the case when either the conversation party or the reader doesn't understand what chess notation is (and thus reacts with confusion to Cueball's announcement), and the case when chess notation is understood, and actually used to comment on the soundness of Cueball's move as being a blunder.
+Transcript[edit]
+[Cueball and White Hat facing each other.]
+Cueball: I've decided to score all my conversations using chess win-loss notation.
+White Hat: I don't know or care what that means.
+Cueball: Fine.
+White Hat: Fine.
+[Caption below the frame:]
+½–½
+Trivia[edit]
+The following points are debated:
+Chess notation
+Draws in chess
+Draw in conversation
+Chess games and conversations
+Chess notation[edit]
+Chess players and critics use certain notations to write down chess games in a very short fashion (for example the Forsyth–Edwards Notation, which is both computer- and human-readable). In addition, chess annotation symbols like ! and !? help to comment certain moves in a similarly short fashion. That way it is possible to print or discuss a chess game (or a chess opening) in a limited space, for example in printed reference manuals.
+A short synopsis about common chess annotation symbols:
+!! – brilliant move: Very strong and counter-intuitive move. A sound sacrifice.
+! – good move: A surprisingly good move.
+!? – interesting move: Risky, or worthy of attention and analysis.
+?! – dubious move: Designates a move that may be bad, but it is hard to explain why.
+? – mistake: Poor move that should not be played.
+?? – blunder: Exceptionally bad move, usually designates a move that turns a winning position into a draw, or a draw into a losing position.
+The score of the "white" player is always given first, followed by the score of the "black" player. Possible notations for the game outcome are:
+1-0 – a win (for white)
+0-1 – a loss (for white)
+½-½ – a draw
+Because every chess game begins by moving a white piece, the following can be observed: When Cueball ends a conversation with 1-0,
+he either began the conversation, and won it;
+or he responded to a communication request, and lost the conversation.
+Draws in chess[edit]
+A chess game can be won (and lost for the other party) or drawn. It should be noted that draws most commonly occur by agreement, or very rarely by stalemate. A stalemate is a situation where the opponent's king is not in check, but none of the opponent's pieces can be moved in a legal way. In a human conversation, what amounts to a draw, and what amounts to a stalemate?
+If agreed draws should be allowed (and under which circumstances) is a matter of some discussion among chess players, thus adding another point to Randall's comic. For example, some tournament rules (e.g. the so-called "Sofia Rules") do not allow a draw to be offered directly - any player has first to announce the intention of drawing to the arbiter (referee), who then decides if the position should be played out further or not.
+The official chess rules offer some ways the concept of a "draw" could be applied to a human conversation. According to the World Chess Federation (FIDE) rules, a draw can occur:
+by agreement. Any player can offer a draw when it is his turn to move.
+by stalemate. As explained above: The king is not in check, but no legal moves are available.
+when the same position (with the same possible legal moves) occurs at least three times, with the same player having the same possibilities of moving his pieces. This draw must be requested by the player. According to the FIDE rule 9.6, the arbiter himself declares the game drawn when the same position occurs five times.
+when 50 moves have passed without a capture or a pawn move. Again, the draw occurs only upon request. According to the same FIDE rule 9.6, the arbiter declares the game drawn when 75 moves have passed, without a request by either player.
+when one of the players has used up his time, but his opponent has not enough material to mate. For example, king and pawn mate against a king in certain situations, while king against king leads to a draw by the 50-move-rule.
+when both players have used up their time, but the arbiter cannot determine who did so first. This is impossible with modern electronic chess clocks, though.
+upon request, when the opponent does not play seriously and attempts to win the game by timeout.
+Draw in conversation[edit]
+So, what's a "draw" in a conversation?
+Draw agreed: As pointed out by Randall in his cartoon, a drawn conversation is one where all participants agree.
+50-move-rule: Conversation is drawn, based on the excessive duration of the talk.
+Draw by repetition: Both participants have talked in circles, arriving at the same conclusions all over again. No progress has been made.
+Draw by stalemate: When A cannot convince B, but B doesn't have any legal argument left, and would have to resort to lies or logical fallacies in order to continue.
+Chess games and conversations[edit]
+The notion of applying chess scores to conversations raises the question if and how chess play and conversations can be compared.
+Chess games and human conversations do have some things in common, but of course also many differences.
+Similarities
+The outcome fully depends on the behavior of the partner/opponent.
+As in chess, there is no certainty that a certain statement will have the desired effect. The opponent can always react in a surprising way.
+Chess players, like conversation partners, do not "calculate" the opponent's next move(s). They don't compute anything. They are not cold-blooded machines. They do, however, similar to conversation partners in a job interview or a televised debate:
+create a plan, and revise and refine it as necessary
+try to get a good feel of the situation, and try to remember how they dealt with a similar situation in the past
+try to identify the opponent's weaknesses, and try to remedy one's own weaknesses. Prepare against surprises and pitfalls.
+focus on a few promising moves, and quickly spot if they're easily refutable. "You see, I spent 8 years programming BANCStar applications at..." - "Anybody with that experience is dangerous and should be locked up." - "Oh."
+The question of what is considered a good move (or statement) can only be answered in a subjective way. Chess engines though use algorithms to assess the position, and they can calculate the value of different possible moves. In human conversations, social norms help avoid making bad moves.
+It is difficult to win against an experienced, alert partner or opponent. Competent exploitation of the opponent's errors is often the only way to win.
+In both, you will try to find moves that make your win more probable, while avoiding deleterious moves. Due to inadequate computing power, it is hitherto impossible to calculate all possible ways a chess game (or a conversation) could play out. See also 1002: Game AIs. Therefore it is impossible to design a path that leads to a guaranteed outcome - except when the situation has been simplified enough. There are handbooks to play endgames, explaining how to secure either a win or a draw, no matter the capability of the opponent. Nowadays, computer-generated endgame tablebases exist for six-piece and seven-piece endgames. Those for six pieces are freely available and are about 1 terabyte large.
+Differences
+Chess games are inherently competitive, zero-sum ventures; if one player wins, the other loses. In contrast, conversations aren't usually competitive, so there isn't really a concept of a winner and loser unless the conversation was an argument or debate. Often, both people in a friendly conversation will benefit ("win") from having had the conversation.
+Both chess games and conversations are turn-based, but lacking time controls, people's statements sometimes go on and on and on ...
+Especially in disputes, (agreed) draws are extremely rare.
+It is difficult to judge the winner of a conversation.
+In chess, every position of the pieces can be analyzed completely independent of the previous moves. It does not matter how the situation evolved. After 1.e4 e5 and 1.e3 e6 2.e4 e5, there is an identical situation. Due to human emotions, though, this is not the case for conversations. No situation is ever exactly the same.
+Chess games are extremely constrained by a set of rules. Players are expected to behave gentlemanly, and arbiters can hand out punishments for any behavior that brings the game into disrepute.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+So... This is just a really excellent pun? "Drawn" conversation?162.158.75.22 15:59, 17 February 2017 (UTC)
+The pun gets better when you think about drawn and stalemated conversations, both of which will be scored 0.5 - 0.5. A stalemate occurs when no legal moves are possible, but the opponent isn't in check.--162.158.150.82 16:26, 17 February 2017 (UTC)
+I have 2 questions does Randall know about this wiki and if there is an "incomplete" comic and I complete the explanation or other issue can I delete the incomplete notification thingy or does an admin have to do that?XFez (talk) 17:45, 17 February 2017 (UTC)
+Anyone can remove the incomplete tag. Likewise, anyone can add it back again if they feel the explanation can be improved. 162.158.62.225 18:37, 17 February 2017 (UTC)
+My answer at the last comic:
+Hi XFez, sorry for the late reply but this was hard to find. I don't know if Randall knows..., but maybe he does. But he does NOT support this wiki in any way -- like he does not here: http://forums.xkcd.com (while everything is now on https that board isn't ;) ). So there is no final explanation and he says 100 points! To your second question: You are allowed to remove the "incomplete tag". But the given criteria is not enough, often that simple text covers not all. Please check also the discussion page. So, when you are not sure just change the criteria text and mention it at the discussion page. And for older comics you probably should talk to someone else here because nobody checks every comic every day.--Dgbrt (talk) 19:19, 17 February 2017 (UTC)
+Randall knows of this page for sure. How often he goes here for a laugh is hard to say, but I would guess he would never comment on anything. But who knows if he checks here to see if has made a mistake. Sometimes errors are corrected after they get mentioned here. Often very early in Randall's time zone. Who knows if he sees this here. He has given a 100 % proof that he knows about this page in his official transcript. He actually made a direct link to Explain xkcd for a better transcript than his own. Alas there was not transcript until this year, where I made it: See this trivia under Payloads, that I added earlier in 2017. --Kynde (talk) 19:45, 17 February 2017 (UTC)
+Isn't the mouseover text saying that it was a blunder to tell white hat that he is scoring it because that will cause white hat to actively compete, instead of simply losing because he didn't know there was a game? [a guest and fan] 141.101.107.12 (talk) (please sign your comments with ~~~~)
+Why is the figure on the left not wearing a beret? 162.158.78.208 21:14, 17 February 2017 (UTC)
+Because Beret Guy would never do something like this, which is basically degrading to other humans. It could have been Hairy, or White Hat himself that ha d said it though. --Kynde (talk) 19:49, 19 February 2017 (UTC)
+Under the "Chess games and conversations" section, "differences" subsection, it says that "people's statements sometimes last an eternity or even longer". Eternity = infinite time, duration without beginning or end. It's impossible for a person to make a statement lasting longer than his or her lifespan, and realistically for someone to continue speaking for more than an hour or so is extremely rare (someone giving a speech or presentation, for example, which isn't the type of "conversation" we're dealing with). Is the word "eternity" being used in a hyperbolic sense? If so, I'm not sure I understand exactly what this sentence is trying to say.172.68.46.11 04:19, 18 February 2017 (UTC)
+How did the conversation end in a draw? Was it by agreement? Was it actually "drawn" as mentioned below?162.158.79.185 20:17, 17 February 2017 (UTC)
+"Fine." "Fine." Agreement. 108.162.210.202 23:18, 17 February 2017 (UTC)
+The move to score conversations itself was probably a blunder, but it seems that, since the sentence is copied verbatim, that the move to declare your scoring of conversations to somebody else is a blunder. Because that's weird and nobody wants to hear about it. 173.245.50.72 18:35, 17 February 2017 (UTC)
+Hello all. Just pointing out that stalemate it's not one of the most common ways to draw a chess game. It's quite rare in fact. Agreement, threefold repetition, perpetual check (and maybe even insufficent material) are statisticaly more usual. Keep up the great job, Albi.--188.114.102.52 09:16, 18 February 2017 (UTC)
+The last part of the first section, Chess notation (and annotation), says that Cueball would score a conversation "1-0" whether he won it or lost it (depending upon who started the conversation). That is totally ambiguous; he would need more annotation to show whether he started the conversation and won it or the opposite. If I were scoring it - but I'm not a chess player - I would just score it as if I were always white, and it would be clear whether I won or not. What's the point of scoring the conversation if you can't read the score later on? He didn't say he was recording and scoring his conversations, he just said he was scoring them.108.162.237.226 21:10, 18 February 2017 (UTC)
+I don't know if you wil be reading this, but chess games are indeed scored 1-0 for a win for white and 0-1 for a win for black. Because you *record* your (more important) chess games anyway, and the score sheets always carry the names of the white and black players. It's similar in soccer, where 2:3 is always in the format of <home team>:<away team>. If you want to know how you scored in the past, you have to convert your scores depending if you played black or not. It has been like this all the time, and will never be changed. :) --162.158.150.82 11:59, 21 February 2017 (UTC)
+HOLY CRAP HOW MUCH OF THIS PAGE IS ACTUALLY NECESSARY TO EXPLAIN THE JOKE --108.162.245.226 22:13, 18 February 2017 (UTC)
+I came here to say just that. Just some random derp 18:11, 19 February 2017 (UTC)
+My immediate reaction when I was reading this. When I realized this was going to be one of THOSE, I just stopped reading (I remember the Princess Bride comic was simarly overblown, with the excuse "What if someone hasn't seen the movie?". As such a unique person, who hadn't seen it but both reads xkcd AND this explanation site, I felt an obligation to mention that the extra explanation was quite unnecessary) :) I feel the explanation here is complete as of the first title, to wit "Chess notation (and annotation)". From that title on down can happily be deleted as unnecessary, the focus switches to teaching chess and its notation, not helping people understand the comic. - NiceGuy1 162.158.126.76 05:28, 22 February 2017 (UTC) I finally signed up! This comment is mine. (And though moving the chess notation explanation to after the trivia is helpful, it still seems completely unnecessary. Seems like it would be better to link to a website that teaches it and be done with it) NiceGuy1 (talk) 04:10, 13 June 2017 (UTC)
+I think that too. There is WAY too much explanation here. Why is there an entire paragraph about a blunder when there isn't even one in the comic? 625571b7-aa66-4f98-ac5c-92464cfb4ed8 (talk) 06:01, 8 March 2017 (UTC)
+For this reason the comic is incomplete again.--Dgbrt (talk) 15:06, 8 March 2017 (UTC)
+No problem with describing chess notation. I found it interesting having never used it. But for sure it should be below the transcript in a trivia section. Have moved it there and only linked from above. Then it will not seem to long for those coming just to get the general gist of what the point of the comic is. Thus it is now complete. --Kynde (talk) 15:53, 11 March 2017 (UTC)
+Agreed, but there is no need for an excuse in the intro of the trivia.--Dgbrt (talk) 20:37, 11 March 2017 (UTC)
+The cartoon should have had Cueball talking to Black Hat, not White Hat. Since Cueball makes the first move in the conversation, by chess rules he would have been playing as White. Having Black Hat play as Black in chess would not only be more color-coordinated, it would be more appropriate for him to say "I don't know or care what that means" than it would be for Black Hat. --162.158.75.160 20:39, 19 February 2017 (UTC)
+Wow, yeah. Missed opportunity. That dismissive comment did seem quite characteristic of Black Hat. - NiceGuy1 162.158.126.76 05:28, 22 February 2017 (UTC) I finally signed up! This comment is mine. NiceGuy1 (talk) 04:10, 13 June 2017 (UTC)
+I gotchu: http://i.imgur.com/4I5BpHm.png Just some random derp 20:22, 28 March 2017 (UTC)
+It feels noteworthy that 4 days before this comic, an episode of Scorpion aired which was heavily about competitive chess. Whether it's noteworthy or merely strange coincidence hinges on whether or not Randall watches that show. :) (which seems quite plausible, considering this comic is often about highly intelligent scientific thought, and that show attempts to depict the same) - NiceGuy1 162.158.126.76 05:28, 22 February 2017 (UTC) I finally signed up! This comment is mine. NiceGuy1 (talk) 04:10, 13 June 2017 (UTC)
+Thanks for the definitions. Apparently, almost every conversation I have ever had with a Trump supporter ended in "draw by stalemate." Miamiclay (talk) 18:08, 24 February 2017 (UTC)
+The only winning move is not to talk -- an introvert (talk) 08:41, 17 January 2022 (UTC)
+Categories: All comicsComics from 2017Comics from FebruaryFriday comicsComics featuring CueballComics featuring White HatChessSocial interactions

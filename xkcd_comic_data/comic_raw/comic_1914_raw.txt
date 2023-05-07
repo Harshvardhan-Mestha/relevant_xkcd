@@ -1,0 +1,48 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1914: Twitter Verification
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1914)
+|<< PrevComic #1914 (November 10, 2017)Next >>|
+Twitter Verification
+
+Title text: When we started distributing special status tokens that signify which people are important enough to join an elite group, we never could have imagined we might be creating some problems down the line.
+Explanation[edit]
+Some Twitter users (such as Randall Munroe, Coldplay, and Donald Trump) have a verification checkmark next to their name. This checkmark was used to indicate that the user is who they say they are, rather than being a fake account made by someone else using their picture and name (however, that has since been replaced by the orange checkmark). This helps fans find the real accounts of their favorite celebrities. However, since the most notable people benefit from this the most, there is some ambiguity in the granting of the verified mark, as it also seems to be interpreted as a status symbol to indicate the notable celebrities. Some even see this as Twitter actively endorsing the user. For this reason, Twitter has removed verified checkmarks from real accounts of celebrities because of political controversies in the past. Examples of this are political commentator Milo Yiannopoulos (before he was banned from the service). One recent controversial decision regarding the verified mark is that Twitter gave a verification checkmark to Jason Kessler, the organizer of a recent far-right rally in Charlottesville, Virginia. This drew attention to Twitter's verification system, so they temporarily suspended it.
+The alt-text comments on the lack of foresight on Twitter's part when implementing the verified system: as it by design separates users between an in-group and an out-group, it seems to imply endorsement or, at least, favors some users to the detriment of others. This in turn automatically creates the twin sets of "people who shouldn't have been verified, but were" and "people who deserve to have been verified, but weren't." As the internet is populated by various large and strongly opinionated groups [citation NOT needed], neither set will ever be empty and Twitter will always be seen as either endorsing unworthy or snubbing worthy people. There have been considerable problems created by this; see Twitter verification for more information.
+The last line of dialogue is a typical English sentence and has nothing to do with the Twitter Moments feature, which can be used to compile several tweets with a shared theme into a browsable gallery. The character depicted is the (at the time of publication) Twitter CEO Jack Dorsey, judging by the beard.
+Transcript[edit]
+[A bearded figure, who is meant to be Jack Dorsey, the Twitter CEO at the time, is standing behind a podium with the blue Twitter bird logo.]
+Jack: Everyone calm down—
+Jack: We just need to go figure out how to bestow a global in-or-out status badge on some people, at our discretion, without anyone reading anything into who gets one.
+Jack: This should only take a moment.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+https://twitter.com/jack/status/928658511311097856 Comic may relate to twitter's usage of the verification symbol. Randall might be mocking Twitter for not realizing how the verification symbol would be thought of as a symbol of importance. Character shown may be Jack Dorsey, Twitter CEO. --Videblu (talk) 05:54, 10 November 2017 (UTC)
+Reminds me of when the checkmark emoji on Mastodon (https://joinmastodon.org) was similar to the Twitter "verified" mark and anyone who wanted was a verified user. Then, people moved on to pineapples for whatever reason. -- --Nialpxe, 2017. (Arguments welcome)
+How can a bot write this text? Does it automatically scan the text in the comic, somehow find a news page about the topic and copy its text? If that's the case, that's some pretty advanced AI and it should be applied to more things than this wiki. Fabian42 (talk) 08:42, 10 November 2017 (UTC)
+Nope, the bot only creates a new page with an image and a title text when a new comic goes online. See edit history and bot's profile ;) The incomplete tag is kept even after people start editing the page, until it looks complete. 141.101.96.218 11:28, 10 November 2017 (UTC)
+As an aside, I tip my hat to Fvalves for this edit to the incomplete template! 162.158.92.82 12:24, 10 November 2017 (UTC)
+For posterity (and so future visitors don't have to wade through the edit history), the page was created by a bot and then edited by a non-bot, a Cylon, and a Verified Twitter User. It was later "verified by a creationist twit." 172.68.54.34 18:08, 10 November 2017 (UTC)
+So how do I get verified on twitter? I'm real I tell you! I'm a real boy! I am Iam! 162.158.69.71 14:58, 10 November 2017 (UTC) Sam
+
+Twitter should just change the standard for who gets the checkmark to be the same as the Wikipedia notability standard: getting "significant coverage in reliable sources that are independent of the subject". That seems to create few quarrels. An even easier solution for them is to make the requirement be having a personal Wikipedia page – that way, now it's Wikipedia's problem. 172.68.26.41 16:36, 10 November 2017 (UTC)
+I'll add that maybe the badge would look less like an "endorsement" if it were just, say, a rectangle with an "R" for "real account", rather than something with such positive implications as a check mark (which you get on your good grades at school for example) 172.68.26.41 16:40, 10 November 2017 (UTC)
+DOES CAPS ALSO FEEL NATURAL? Fabian42 (talk) 16:50, 10 November 2017 (UTC)
+
+I think I saw the end of this story on The Orville. Seebert (talk) 16:56, 10 November 2017 (UTC)
+For some reason, I have always assumed this "verified account" thingy is available to anyone who applies for it and supplies an ID scan or something to prove their identity (not a twitter user, obviously). They just randomly give it to people as they see fit? WTF were they thinking? Jaalenja (talk) 17:12, 10 November 2017 (UTC)
+As someone who has literally never been on Twitter, this doesn't seem hard. Why doesn't Twitter just give verified status to people who can verify who they are? User sends Twitter proof of their identity, if Twitter finds the proof satisfactory they make that account verified.HisHighestMinion (talk) 17:53, 10 November 2017 (UTC)
+Because a lot of actual people do have the same names. There are numerous people with the name William Gibson on Twitter, but when you search William Gibson, the handle @GreatDismal comes up, with his name listed as William Gibson, & a check-mark to indicate that the account belongs to the (most) famous William Gibson, not some random guy with that name.
+'Some random guy' named William Gibson is no more random than the (most) famous William Gibson. It's certainly no guarantee that it's the person you want to follow. 141.101.105.18 12:15, 14 November 2017 (UTC)
+Since there are so often multiple people with the same name, & even people who (gasp!) don't use their name as their Twitter handle, I think the verification should be relative to a particular association; People could even attain multiple verifications, such as "Verified author of Neuromancer", "Verified Ford certified mechanic", "Verified resident of Zyzzyx", "Verified president of the United States", etc. (Not that someone as important as the US president would have time to waste writing Tweets.) Just make a list of anything you can verify about them, & let people see that on their profile. Just because she wasn't in Terminator doesn't mean Sarah O'Connor is insignificant; often it can be difficult to tell which profile belongs to someone you know, versus a stranger with that name. They should just verify stated facts about the person, avoiding any judgement of the notability of those facts. (By the way, "Marina Appaloosa" may potentially be the coolest fictional name I've seen generated by these captchas so far.) 108.162.216.4 22:56, 10 November 2017 (UTC)
+
+"As the internet is populated by various large and strongly opinionated groups [citation not needed]" I strongly disagree with the "citation not needed" tag. Please cite a source! 162.158.63.202 14:30, 15 November 2017 (UTC)
+I'm honestly having a bit of difficulty figuring out whether that edit was made by someone who didn't understand the inherent sarcasm in [citation needed], or by someone who did understand and was trying to make a point. —CsBlastoise (talk) 19:59, 7 December 2017 (UTC)
+Twitter also provides additional behind-the-scenes functionality to users with blue ticks which isn't available to regular users. It's not just about marking their profiles with a signifier. It's about allowing them to use the service in a way which hides the contributions of anybody without a tick.
+There is no twitter account @realDonaldTrump anymore. --141.101.99.19 04:19, 10 January 2021 (UTC)
+This didn't age well. lol 172.70.210.242 05:22, 10 November 2022 (UTC)
+This *really* didn't age well 162.158.166.172 00:27, 17 November 2022 (UTC)
+Agree. This… aged… terribly. SilverTheTerribleMathematician (talk) 08:25, 22 December 2022 (UTC)
+Categories: All comicsComics from 2017Comics from NovemberFriday comicsPages using the "citation needed" templateComics featuring real peopleComics with colorSocial networking

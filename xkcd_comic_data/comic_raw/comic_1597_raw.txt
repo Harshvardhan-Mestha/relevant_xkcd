@@ -1,0 +1,109 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1597: Git
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1597)
+|<< PrevComic #1597 (October 30, 2015)Next >>|
+Git
+
+Title text: If that doesn't fix it, git.txt contains the phone number of a friend of mine who understands git. Just wait through a few minutes of 'It's really pretty simple, just think of branches as...' and eventually you'll learn the commands that will fix everything.
+Explanation[edit]
+This is Git[edit]
+Git is a version control system, used to manage the code in many millions of software projects. It is very powerful, and was amongst the first widely adopted tools to use a distributed version control model (the "beautiful graph theory tree model"), meaning that there is no single central repository of code. Instead, users share code back and forth to synchronise their repositories, and it is up to each project to define processes and procedures for managing the flow of changes into a stable software product.
+How do we use it?[edit]
+Although very powerful, the command line of Git is notoriously difficult to master. Dozens of blog posts and websites (see [1], [2]), and even books ([3], [4]) have been written to help users navigate this complexity.
+The difficulty of using Git in common situations is contradicted by the apparent simplicity of its use in tutorial-style situations. Committing and sharing changes is fairly straightforward, for instance, but recovering from situations such as accidental commits, pushes or bad merges is difficult without a solid understanding of the rather large and complex conceptual model. For instance, three of the top five highest voted questions on Stack Overflow are questions about how to carry out relatively simple tasks: undoing the last commit, changing the last commit message, and deleting a remote branch.
+This comic thus explores the difference between the idealised view of Git's architecture, and its actual typical usage. Tutorials for Git tend to use simple systems in their examples, and only deal with the most basic commands to get started, which can create the misleading impression that Git can be used effectively without extensive study.
+Due to this problem, compounded by the fact that Git's commands are named differently from similar commands in other version control systems, many users (including Cueball) are unable to use it beyond basic commands, and might try to avoid problems by saving their code outside Git, downloading a newer copy, and then re-applying their changes to the new copy instead of trying to understand and use the features that exist in Git to accomplish this task.
+Memorize these shell commands[edit]
+Cueball suggests "just memoriz[ing] these shell commands and type them to sync up". He is probably referring to a sequence of commands such as:
+   git pull
+   # remote changes have now been received, so work on your file
+   git add file.txt
+   git commit -m "Added some text"
+   git push
+If you get errors...[edit]
+As long as every contributor to the project follows these principles, this may suffice for a while. But many situations may cause "errors":
+merge conflicts (two people editing the same part of the same file)
+unmerged changes (another person committed a change before you did, so you need to merge their changes first)
+attempting to recover from a situation such as an accidental merge, and making the situation worse.
+In a situation such as a merge conflict, Git will show an error message such as:
+   CONFLICT (modify/delete): README.md deleted in HEAD and modified in branch-b. Version branch-b of README.md left in tree.
+   # Automatic merge failed; fix conflicts and then commit the result.
+Save your work elsewhere...[edit]
+Although Git experts can of course deal with such situations, the remedy proposed by Cueball is "save your work elsewhere, delete the project, and download a fresh copy". That is, to copy the files out of their local repository's working directory, delete that whole structure, then clone the remote repository again (and, implicitly, copy the saved work back again):
+# Copy files elsewhere
+mkdir /tmp/myproject
+cp * /tmp/myproject
+cd ..
+# delete the project
+rm -rf myproject
+# Download a fresh copy
+git clone https://github.com/myorg/myproject
+cd myproject
+# Copy saved work
+cp /tmp/myproject/* .
+Abandoning the old project likely means losing some work, but may be faster and give a more predictable outcome than attempting to salvage the situation. Applying this method to a mere merge conflict issue may prolong the issue however, as the merge conflicts may still be present.
+Title text[edit]
+The title text suggests an alternative method for working around Git's complexities, which reflects common practice: knowing a "Git expert" who can help in any situation. Such experts are somewhat notorious for waxing lyrically about Git's strengths, so it may be necessary to win their favour by first letting them ramble enthusiastically about it. They will hopefully eventually give the exact commands needed. In practice, the question-and-answer site Stack Overflow is frequently used for this exact purpose.
+It may even be a reference to the infamous tweet "Git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space" which has been discussed here but it is inconclusive whether a meaningful interpretation exists.
+Putting a telephone number of someone who "understands Git" into such a file is humorous because:
+Software teams would more normally use electronic means of communication
+Explaining Git over the phone to team members should not be necessary, as there is extensive help available online, and
+In the situation where many team members would need phone support to avoid or fix basic Git problems, this would be extremely distracting to the person whose phone number was given in the file.
+TL;DR[edit]
+In short: programmers use version control systems to track changes to code. Most of these version control systems are quite similar and easy to learn if you already know another one. Git is a version control system based on completely different principles, and most programmers find it difficult to wrap their heads around it (although Git also offers a large number of nontrivial benefits over standard version control systems, which is why it is used). Cueball is one of those programmers.
+Trivia[edit]
+This comic was referenced in an earlier version of the page for what if? #153, where Randall, due to a problem with git, had at one time erroneously posted a draft of his what if? piece on peptides. As of December 17th, 2016 the page read:
+Whoops
+This article is still in progress. An early draft was unintentionally posted here thanks to Randall's troubled approach to git, and it took a little bit to get everything sorted out and rolled back. Sorry for the mixup!
+On January 30, 2017, the page was updated with a completed article, Hide the Atmosphere. As of September 23, 2019, the page no longer contains any reference to this comic or Randall's earlier mistake with Git (or anything related to Git, for that matter).
+The comic 1296: Git Commit also features Git.
+Transcript[edit]
+[Cueball points to a computer on a desk while Ponytail and Hairy are standing further away behind an office chair.]
+Cueball: This is git. It tracks collaborative work on projects through a beautiful distributed graph theory tree model.
+Ponytail: Cool. How do we use it?
+Cueball: No idea. Just memorize these shell commands and type them to sync up. If you get errors, save your work elsewhere, delete the project, and download a fresh copy.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+If someone is interested, the best book I've read on it is Pro Git. The chapters 2 and 3 explain pretty well this mess of branching and merging. But it's true that it takes a bit of patience to go over it all. 108.162.228.35 08:47, 30 October 2015 (UTC)
+Also take a look at GitFlow: A Successful Git Branching Model. Though Randall is correct there usually comes a time when it is easier to give up and "start again". 162.158.34.147 08:53, 30 October 2015 (UTC)
+I never liked the name of this piece of software; in British English, the name "git" is mildly rude :-) https://en.wikipedia.org/wiki/Git_(slang) . Gearóid (talk) 09:20, 30 October 2015 (UTC)
+According to word of god it was on purpose: https://en.wikipedia.org/wiki/Git_(software)#History 162.158.22.46 11:41, 30 October 2015 (UTC)
+He also designed it in such a way that people often run into problems with commitment to detached heads, and typically deal with this by reflogging... 108.162.249.161 (talk) (please sign your comments with ~~~~)
+'Internally, Git works by saving the differences between various versions of the files, rather than creating a new copy each time the user "commits" the current version of the code.' - It is exactly the opposite. It stores whole files, or rather all committed pieces of data (blobs). See http://gitready.com/beginner/2009/02/17/how-git-stores-your-data.html 141.101.88.202 09:38, 30 October 2015 (UTC)TK
+It is stored as diffs in pack file. Whole file (loose object) are packed automatically by default.
+See https://schacon.github.io/gitbook/7_the_packfile.html and https://www.kernel.org/pub/software/scm/git/docs/git-pack-objects.html
+162.158.177.59 10:15, 30 October 2015 (UTC)
+Not sure what pack files are used for, but data is stored as is and named by the SHA-1 of its contents. See object model in the same reference. Walenc (talk) 16:02, 30 October 2015 (UTC)
+I think you guys need to differentiate between the underlying data scheme, and the command line. The way git stores underlying data is indeed beautiful, but the command-line is the worst UI ever. You know how you switch to working on a different branch? "git checkout". You know how you revert the changes you've made to a file? "git checkout". You know how you make a new branch? "git checkout -b". If you're used to other systems, you'll find nearly every operations - even common ones - counterintuitively named. I work at Google and even here, every week someone near me screws up their respository enough that they have to save their work, nuke their repo, reapply their changes, and try moving forward again. I don't know why anyone puts up with this! (Actually I do - it's because if you're collaborating between companies, git does it better than anything else.) 199.27.129.107 18:46, 2 November 2015 (UTC)
+That's not actually true. git checkout takes you to a node of development, as a convenience that can be either the entire code base (a branch) or a single file. You could remove the file you want to 'revert', stash all other changes, checkout HEAD and then pop the stash...or use the git checkout FILE shortcut. git checkout -b is just a shortcut so you don't have to do git branch; git checkout. 108.162.220.239 06:00, 7 November 2015 (UTC)
+I feel like this article should end with a quick guide to git commands. 108.162.216.27 (talk) (please sign your comments with ~~~~)
+Well, I feel this article focuses on explaning git too much that it loses the point of the joke. We have Wikipedia to refer readers to ... The thing is, not just users who are unable to use git beyond a few basic commands, but also those who understand git often use some sort of "start over" method because an action looking perfectly legit got the repository into unusable state, where recovery is much more difficult than reapplying patches. For one of the most common, search for "detached head", for example - especially funny when git insists on falling into that state after checking out master which is in direct contradiction to what docs say when it happens. But I don't feel like rewriting that, sorry :-/ --kavol, 141.101.96.206 16:04, 30 October 2015 (UTC)
+I feel you've all been nerd-sniped. 108.162.216.8 19:33, 30 October 2015 (UTC)Pat
+The problem is not about the working copy and about the branching tree structure and some git internals that is quite confusing. This 4 years old reddit post can be used as a funny reference: https://www.reddit.com/r/programming/comments/embdf/git_complicated_of_course_not_commits_map_to/
+http://tartley.com/?p=1267 "One of the things that tripped me up as a novice user was the way Git handles branches. Unlike more primitive version control systems, git repositories are not linear, they support branching, and are thus best visualised as trees, upon the nodes of which your current commit may add new leaf nodes. To visualise this, it’s simplest to think of the state of your repository as a point in a high-dimensional ‘code-space’, in which branches are represented as n-dimensional membranes, mapping the spatial loci of successive commits onto the projected manifold of each cloned repository." 108.162.210.212 (talk) (please sign your comments with ~~~~)
+Should someone mention how git is by default used through a terminal - which is often more confusing than a GUI for most people - and that while there are graphical shells for git, some people refuse to use them because they're not fully-featured? 108.162.221.36 11:43, 30 October 2015 (UTC)
+The really sad part of all this is that if you work in a multi-dev environment and anyone on the team is doing what Cueball suggests, it negates every other user's ability to use the main trunk properly. Ericm301 (talk) 02:26, 31 October 2015 (UTC)
+Hasn't it got too extensive about git? I've never used git but quite understood the comedy. I just visited this page to know about git.txt and there's nothing about it but just long text that doesn't help whatsoever to understand the comic. 141.101.84.125 08:45, 31 October 2015 (UTC)
+I agree completely! I've stripped out the overlong discussion of git's features. --Slashme (talk) 00:12, 1 November 2015 (UTC)
+AFAIK, the git.txt is not the part of the Git itself. I just added it to explanation. 162.158.114.231 20:21, 31 October 2015 (UTC)
+"This comic is a play on how git, a popular version control system, is misused by people who have a very poor understanding of its inner workings."
+Comically missing the point. That is NOT what the comic is about, that is a poor excuse from a fanboy. --162.158.90.159 12:00, 1 November 2015 (UTC)
+I agree the verbose "explanation" misses the point. The reality is that git is a confusing mess from a user's point of view. It's a very nice and powerful design from a technical point of view yet one that will mostly confuse anyone who encounters it at first; most people are afraid of admitting it because they don't want to look dumb. There's beauty in a design that is user-friendly at its core, and git misses that mark. Ralfoide (talk) 17:38, 1 November 2015 (UTC)
+The same can be said of Linux. It seems to be a common theme in Linus Torvalds' work. 108.162.249.163 23:52, 1 November 2015 (UTC)
+In pretty much every team I've worked I found there ends up being one "git expert" that raises above the rest and people continuously go see that person with "I don't know how to do X", to which the expert will often reply with a magic unheard-of-before git command line that looks pretty much like perl line noise. Ralfoide (talk) 17:38, 1 November 2015 (UTC)
+In what world are telephones not an electronic mean of communication ? 141.101.75.245 10:56, 2 November 2015 (UTC)
+That's not the point. The distinction was being made (ambiguously, perhaps) between electronic and vocal communication. We might naturally turn to telephones for the latter.--162.158.2.227 12:16, 2 November 2015 (UTC)
+ExplainXKCD is usually amazing, but the explanation above is really "comically missing the point".
+Git has a very cool distributed architecture, but the user experience is much more complex than other revision control systems. TFS and subversion can be taught to junior developers in about 20 minutes, but it takes much longer to learn how to use Git’s basic features. It is very easy for Git to become deadlocked, which requires some obscure commands to fix. Unless you are an expert at Git, it is sometimes easier to delete your project and try again.
+There are things that Git does that other RCS don’t do. (I am not entirely sure what they are, to be totally honest. When the question is asked, the responses usually just talk about the architecture.) Git experts tend to like that the software is more powerful than other RCS systems, and some tend to be dismissive of how difficult other people find it to use. Many people (such as myself and Cueball) find the architecture cool, but are not Git experts.
+So this is the joke. There is a conflict between how experts typically TALK about Git, and how most users actually USE Git. The humor comes from having a character say things that many people think, but wouldn’t say out loud for fear of looking stupid.
+Would it be worth polishing the above and adding it to the description, or would that just be flamebait? 108.162.246.86 16:08, 2 November 2015 (UTC)
+The title text may be referring to the famous saying: "Git is really pretty simple, just think of branches as homeomorphic endofunctors mapping submanifolds of a Hilbert space." 162.158.255.40 23:23, 2 November 2015 (UTC)
+The current explanation is wrong [not anymore, it's excellent now!]. As others have stated, the comic is clearly making fun of git itself, NOT of its users. Daskas (talk) 13:44, 3 November 2015 (UTC)
+Wow, it's amazing how there are comments above defending git: those commentators lost the fact that XDCD is making fun of git because of it's idealistic view of source control doesn't map at all to reality, which in many cases, leads to user frustration and... dare I say it, lost data and lost productivity. Git is a joke and XKCD highlighted that well :) 162.158.60.5 20:35, 21 December 2015 (UTC)
+Someone made a website to be that "smart guy on the other end of the phone." The final entry on the page is this comic for sure.--Draco18s (talk) 16:17, 12 September 2016 (UTC)
+I'd like to recommend a site I found on a recent (at the time of this comment) CS Educator stackexchange post. 108.162.216.106 05:33, 25 July 2017 (UTC)
+Categories: All comicsComics from 2015Comics from OctoberFriday comicsLinks to xkcd.comComics featuring CueballComics featuring PonytailComics featuring HairyComputersProgrammingVersion Control

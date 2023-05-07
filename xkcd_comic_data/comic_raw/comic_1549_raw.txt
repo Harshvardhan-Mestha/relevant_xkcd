@@ -1,0 +1,116 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1549: xkcd Phone 3
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1549)
+|<< PrevComic #1549 (July 10, 2015)Next >>|
+xkcd Phone 3
+
+Title text: If you're not completely satisfied with the phone after 30 days, we will return you to your home at no cost.
+Explanation[edit]
+This is the third entry in the ongoing xkcd Phone series which parodies common smartphone specs by attributing absurd or useless features to a fictional phone that sounds impressive but would actually be very impractical. The previous comic in the series 1465: xkcd Phone 2 was released over half a year before this one and the next 1707: xkcd Phone 4 was released almost a year later.
+2 AA batteries (not included)
+A phrase usually shown on small, low-powered, electronic devices like remote controllers, and not on cellphones; which use lithium-ion batteries and need to be periodically recharged for continuous use.
+The apparently thin phone (according to the scale as judged by the wristband) would also preclude inserting AA batteries, unless a protruding battery compartment is hidden out of view on the back of the phone.
+Alternatively could mean two Anti-Aircraft (artillery) "batteries" which would be groups of light or medium artillery pieces or missiles (2 to 9 weapons per battery, depending on country, weapon system and organization). In any case, they would badly hamper the portability of the phone.[citation needed]
+Boneless
+Reference to meat or fish products being boneless, i.e. having all the bones removed, making it convenient to cook or eat. Phones do not typically have bones[citation needed], so this is wholly unremarkable. A possible reference to the iPhone 6's reported problems with its chassis, where it could bend under pressure.
+Likely a reference to "Bone Conduction Microphones" implying that needing bones to work is a disadvantage and this phone has the feature of being "Boneless".
+xkcd Phone 4 was instead "seedless".
+Ear screen
+An overcomplicated term for a speaker, connecting a screen which emits light to send visual information and the portion of a speaker which vibrates to send auditory information. Comparing the two makes a speaker a screen for the ear.
+Could also be implying that there's a screen protecting the user's ear from the phone's internals, or the reverse.
+Heartbeat accelerator
+A mashup of heartbeat sensor and accelerometer. May be some sort of external pacemaker. If that's the case, it's worrying that it only accelerates, potentially causing a positive feedback (heart attack). It may also be the result of the phone being so exciting or frustrating that it increases its user's heart rate.
+MobilePay money clip
+While mobile pay is a form of payment involving electronic transfers via cellphone, this model includes a money clip; a way of holding physical bills together, which defeats the purpose of electronic payment. Because you can take cash wherever, this is a "MobilePay" using physical money.
+Siri, or whoever it was we put in here
+A joke on intelligent personal assistants. It also hints that Siri and the like are actual people, trapped inside of phones, which is not the case[citation needed].
+Instead of being on surface only, screen goes all the way through
+A reference to surface screens. Possible reference to smartphones with screen display wrapping one or more edges, like Samsung Galaxy Note Edge or Samsung Galaxy S6 Edge, or dual-screen smartphones with screen on the back (usually e-ink) like YotaPhone 2, or smartphones with minimal bezel like e.g. Sharp AQUOS Crystal.
+Screen going all the way through would leave no place for innards of smartphone: processor, battery etc., and unless each layer is designed to be semi-transparent to see the inner voxels the inner displays would be unseeable anyway.
+theknot.com partnership - phone licensed to perform wedding ceremonies and does so at random
+theknot.com is a website that assists in all stages of wedding planning. Due to this partnering, the phone has apparently obtained legal status as a Justice of the peace capable of performing legally valid marriages. It exerts this capability randomly, however, so the phone's owner (or potentially any other unsuspecting bystander) could suddenly find themselves with a new spouse without their knowledge, generally an undesired effect[citation needed]. Whether this would result in unintentional bigamy or if the phone restricts itself to pairing up singles, or even enacts divorce first if necessary, is left unclear. May be a reference to how same-sex marriage was fully legalized in the United States just two weeks prior to the release of this comic.
+Fingerprint randomizer
+Presumably randomizes the user's fingerprint, which may or may not be inconvenient depending on the intent of the user. It is not clear whether the device will change the person's fingerprint into a human-like fingerprint that is randomly selected from all possibilities, or if it completely mangles the fingerprint of the user. Either way, physically altering the user's finger to this degree will likely involve a painful process. Likely a cynical reference to fingerprint scanners, which are touted as password replacements.
+USB E (hotswappable)
+A USB port that makes fun of the three current systems, A, B, and recently C, by skipping D completely and jumping to E. The port presumably charges the phone and allows to transfer files like normal, but this kind lets you perform Hot swapping (replacing computer system components without turning the system off) with it, which has always been a feature of USB, so mentioning it is redundant at best.
+May be a reference to the eSATAp (Power over eSATA) hybrid port that is functioning as a USB and eSATA port at the same time. The Serial ATA bus interface has standardized hot swapping support.
+Waterproof, but can drown
+Perhaps a reference to Siri or the person trapped in the phone drowning, but the phone itself staying functional. This is another human-like function, which the first 2 XKCD Phone comics had.
+Foretold by prophecy
+Likely mocking people on the internet who attempt to predict when Apple will release their next device. Might also be a joke on many videogames or fantasy novels, in which the main character is 'the chosen one', because 'the prophecy' foretold it.
+Runs Natively
+Usually a description given to ported software, as this statement doesn't make any sense when referring to hardware (notable exceptions to the norm are few and far between). When software writers would like to run their apps on multiple platforms, they usually have three choices: re-compile the source code into each platform's codebase (often requiring tweaking to handle practical differences in resources between the systems); use a specially 'pre-portable' code that you can write once, run anywhere, such as Java, but requires a suitable interpreter to be written for each platform (and may still require code tweaks to absorb differences in implementations); create a specific emulator/virtual machine to allow existing code to 'see' the platform it was written for, despite the underlying system.
+Only the first option is 'running natively', often the most optimized and thus best-performing option, and is usually qualified such as "Runs <Software Name> natively", for particular packages full compiled upon that platform. It would also make little sense for the OS itself to be non-native, except when intentionally emulating another system (ideally on a more powerful system that can power past the inefficiencies of conversion and translation).
+This might also be another non-feature poking fun at the aforementioned marketing term of "Runs <Software Name> natively", implying that the phone itself can be started and operated without modification. Although given the track record of previous xkcd phones, this might be a genuine improvement over previous models.
+Or, in this case, it may be that the phone has legs and can literally run.
+Wristband
+Probably mocking trending smart watches, this feature would not be very useful on a full-sized smart phone, as it would be uncomfortable to wear due to its size. Also possibly a follow-up to xkcd Phone 2 being described as a 'phone for your other hand', as the wristband would make it possible to have all three phones accessible at once.
+Wireless discharging
+Some modern smartphones use a system called "wireless charging," in which power is delivered to the phone without a wire. This phone, however, uses wireless technology to discharge the phone, which would be useless given that the phone needs power and removing power from its battery doesn't seem to help... May also refer to the standard behavior of the phone's antenna, which communicates wirelessly via EM radio waves, but discharges the battery in doing so. It could also be simply and literally describing the nature of all cell phones, and indeed all battery-powered electronic devices, to gradually use the battery (discharging) when there are no wires attached (wireless), since wireless also means no power cord is plugged in (and assuming the absence or non-use of the aforementioned wireless charging function, which this phone may not even have). Depending on the avenue of discharge, this may also be related to the heartbeat accelerator, accelerating the user's heartbeat by shocking them. Notably, a few recent flagship phones now have a built in Qi wireless charging pad, so other devices can charge from its battery; this is usually marketed as power-sharing but could also be called wireless discharging.
+Magnetic stripe
+Likely a dig at the NFC (near-field communication) wireless radio modules in many modern phones. NFC allows, among others functions, mobile payment. This magnetic stripe could be a cheap way to imitate payment functionality, but "compatible" with classic credit cards.
+Magnetic stripes are a data storage method used by devices such as credit cards and key cards to hold and transfer small amounts of information like key codes. Usually cellphones don't have them as they utilize more robust and protected ways to store and transmit data (such as NFC). The magnetic stripe shown would likely be unusable with current magnetic stripe readers due to the phone's thickness, in contrast to that of regular cards, thus breaking all imagined 'compatibility' arguments.
+It would also be very annoying as it seems to block part of the screen, albeit a small portion.
+However, some modern phones actually have Magnetic secure transmission which allows them to interface wirelessly with magstrip readers by simulating the magnetic field from a passing magnetic stripe.
+The phrase "We made another one®©™" is a reference to how phone companies release new phones very often, and the trademarks that surround the phone itself.
+The title text is a joke on guarantees and customer service. Usually the advertisement says that if the customer is not satisfied with the product, they'll refund the money and take the product back at no additional cost. In this case they guarantee the customer they'll send them home without charge; implying they won't fix or refund anything. Or that due to anticipated but unspecified faults of some kind, the phone's owner will need help to get back home when things go wrong, and probably be thankful for such assistance, in yet another example of a worryingly non-specific 'reassurance'. In addition, it says it would do so only AFTER thirty days, as opposed to the usual thirty-day return guarantee, which means you may be stuck with your phone for a month until you can be taken home yourself. Alternatively, the owner of the phone must be taken to a specific place in order to use the phone, and if they return it, they will be allowed to return home.
+Transcript[edit]
+[An image of a smartphone lying down, with many labels pointing to it. There is a black stripe across the top left corner of the phone. At the top right something is protruding from the side, like a volume control. There is a wrist band (only partly shown) attached to the middle of each side of the phone. Above the screen are several small features, below only a central square and on the bottom a socket. Clockwise from the top left the labels read:]
+2 AA batteries
+(not included)
+Boneless
+Ear screen
+Heartbeat accelerator
+MobilePay money clip
+Siri, or whoever it was we put in here
+Instead of being on surface only, screen goes all the way through
+theknot.com partnership: Phone licensed to perform wedding ceremonies and does so at random
+Fingerprint randomizer
+USB E
+(hotswappable)
+Waterproof, but can drown
+Foretold by prophecy
+Runs natively
+Wristband
+Wireless discharging
+Magnetic stripe
+[Below the phone:]
+Introducing
+The xkcd Phone 3
+We made another one®©™
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I assume that this is made, at least in part, in reference to the just-made OnePlus infodump and their upcoming OnePlus 2 smartphone. 162.158.2.188
+Is the heartbeat accelerator used to fool fitness wristbands? Or apps? Or ... ? sirKitKat (talk) 07:56, 10 July 2015 (UTC)
+
+"Ear screen" may refer to a different meaning of "screen" - a device that protects you from something, as in "sun screen". In this case, the "ear screen" would block the sound of the phone's speakers, making it useless (at least for telephony). 08:02, 10 July 2015 (UTC)~~ thepike
+I thought it was a name change like those of beret guy, repurposing words to stay accurate without using the correct/standard term.Athang (talk) 09:54, 10 July 2015 (UTC)
+I'm puzzled by the "ear screen" explanation: On old wired telephone handsets, the speaker grille was sometimes referred to as an "earpiece screen" or "protective ear screen" in the user manuals, so I just assumed that it was a common feature being pointlessly touted as if it were exclusive (common practice on iOS & Android device packaging & promotional material). 108.162.221.95 19:53, 14 July 2015 (UTC)
+Doesn't running natively just mean that it runs apps natively instead of emulating them or something. Which would be a pointless marketing term OR it implys that the phone itself or the person inside runs.108.162.249.192 10:53, 10 July 2015 (UTC)
+I did some re-writing on that point (because the likes of the Java Virtual Machine-type solution is a half-way house that needs mentioning, between 'native' and 'emulated'), but it's a bit long. Also I briefly mentioned the Crusoe chip essentially a 'hardware virtual machine layer' (over and above the machine-code to micro-code one that doesn't bear mentioning due to the ubiquity), but not sure I described it well enough. At the time, the talk was that a Crusoe chip could end up (by sofware flag or magic 'autodetection') run x86/Intel-compatible or Motorola (Apple) or DEC Alpha instruction sets (and probably any other sets they could squeeze in, whether CISC or RISC, like Acorn's ARM) without any software emulation at all. Of course, that was the time when programs didn't so heavily rely upon an OS's own API for pretty much all resources (at least on single-user machines), which is in effect an additional Virtual Machine layer, and the whole computing business has gone in a different direction, even Apple temporarily played with the PowerPC platform model.
+...Yeah, that's no shorter than my in-article edit, is it? 141.101.98.252 13:44, 10 July 2015 (UTC)
+Wireless discharge: I think the explanation is too complicate. Every cellphone (and every other device that uses batteries) does discharge without a wire, it is just normal. The joke (in my eyes) is here that no-one would advice with that. --DaB. (talk) 11:43, 10 July 2015 (UTC)
+Here's an idea: a phone that discharges it's power wirelessly into another device.(unlikely that this is what it means though)108.162.249.166 12:39, 10 July 2015 (UTC)
+How about a phone that discharges it's battery into another human? I'd buy that (provided I could control when and whom.) 141.101.88.224 13:54, 10 July 2015 (UTC)
+knowing the previous xkcd phones: it isn't going to be controllable 108.162.249.166 11:41, 11 July 2015 (UTC)
+Could "Boneless" be a play on words against the jawbone devices?108.162.219.203 13:12, 10 July 2015 (UTC)
+The second xkcd phone comic had the phone being "Ribbed"... Perhaps that's what "boneless" is talking about? 108.162.242.84 20:20, 12 July 2015 (UTC)
+Boneless might probably refer to Ivar the Boneless, a Viking leader who invaded Britain in 865 — an allusion to Harald Bluetooth, another Viking, king of Denmark and Norway. --141.101.64.113 20:52, 14 July 2015 (UTC)
+Does the title text seem to imply to anyone else that the customer may have been abducted for testing? Schiffy (Speak to me|What I've done) 17:13, 10 July 2015 (UTC)
+A runaway pacemaker ("heartbeat accelerator") probably wouldn't cause a heart attack. A heart attack is the interruption of blood flow to the heart muscle. A runaway pacemaker could cause a lethal tachycardia -- 2,000 beats per minute is documented and hearts don't do well at that rate... Andrew (talk) 19:24, 10 July 2015 (UTC)
+Could "heatbeat accelerator" be a reference to an indicator light? Or am I the only one who gets a bit excited when I see my phone LED flashing indicating I have a friend out there who remembered I exist? 108.162.225.105 23:04, 12 July 2015 (UTC)
+I completely agree with 108...105. When I first read the comic my first thought was that the heartbeat accelerator was the LED indicator light. I can recall getting quite nervous sometimes when waiting for a text back from my girlfriend, all that much amplified when something comes in. Robodoggy (talk) 01:32, 15 July 2015 (UTC)
+The first xkcd phone comic also mentioned that the phone can drown. It said something like, "Don't submerge phone; it will drown."108.162.216.141 03:20, 11 July 2015 (UTC)
+I have to protest the idea in the explanation that a screen "all the way through" would leave no space for the actual workings of the phone. I owned an original Nexus 7, which I took apart after the kids dropped it in the bath. All of the controlling circuitry was in a thin layer *around* the screen surface, not below it. Below it was mostly battery, and presuming it takes AA batteries it wouldn't have a giant LiIon. It's not an absurd notion at all that a phone could have nothing behind its screen. 108.162.216.59 11:30, 11 July 2015 (UTC)
+I would actually like a phone running on 2AA (Or better, AAA) batteries. Not a smartphone, just a basic phone. I wouldn't want the other features though... -- 141.101.104.67 15:38, 11 July 2015 (UTC)
+Based on my experiences with wireless microphones, which I think probably consume batteries at a similar rate as dumbphones do (the reason I think this is because the main thing powered by the battery in both devices is the wireless transmitter), you'd get maaaaybe 5-6 hours of battery life from each pair of AA batteries. Less if they were AAA - for alkaline batteries, the smaller they are, the quicker they die.108.162.216.141 01:59, 12 July 2015 (UTC)
+I am struggling to say this without sounding mean, but... 141.101.104.67 must be someone over 50 years old? I never hear anyone younger desiring alkaline pile cell slots in modern devices unless they are older & miss the convenience of interchangeable batteries using standardized sizes. I think standardizing flat-pack dimensions for lithium-ion batteries could be of great benefit to the consumer & the environment in general. Far too many batteries & charger accessories become deprecated by external layout changes that are not required by the advancements made within the cells. Older folks remember being able to get a fresh battery just about anywhere. Even at the elevated price of high capacity rechargeable lithium cells, I think consumers would love being able to buy a fresh battery when theirs is low or failing. 108.162.221.95 19:53, 14 July 2015 (UTC)
+There is a standard for Li-ion batteries named 18650. Size comparison: https://upload.wikimedia.org/wikipedia/commons/2/2a/Liion-18650-AA-battery.jpg 108.162.246.191 (talk) (please sign your comments with ~~~~)
+"It would also make little sense for the OS itself to be non-native..." The first few versions of MacOS for PowerPC and PalmOS for ARM were largely emulated 68k code, with only the most performance-critical or central code ported. It was presumably faster to build a 68k emulator than to port everything. (And of course this meant that existing third-party drivers, extensions, etc. continued to work for a few years after the transition, but that could have been done separately--e.g., Mac OS X 10.4 on Intel could use some kinds of PowerPC drivers, even though the OS itself was purely Intel.) Also, the NT and OS/2 DOS environments, WOW and WOW64, OS X's early "Classic", etc. are all arguably emulated systems (you may be running x86 code natively on an x86, but the BIOS, memory mapped hardware, EMS, etc. are all emulated). 162.158.255.52 09:00, 28 September 2015 (UTC)
+I believe that the reference to "Surface" refers to the "Microsoft Surface", touch sensitive hardware and software technology.199.27.129.155 23:02, 4 December 2015 (UTC)
+Aren't there lithium AAs? would -> should; thin -> fine; meat or fish -> flesh; boneless, -> boneless;; physical -> real; themselves -> whoself; their -> whose; physically -> ; will -> shall; described -> related; charging," -> charging",; thickness -> coarseness; him/her -> whom; something. -> something?; wire, -> wire;; it's -> its; protest -> contest; dumbphones -> doltphones; quicker -> sooner; folks -> folk; MacOS -> Mac OS; faster -> swifter -> shorter; purely -> sheerly; systems -> systems.; you -> You; ). -> .) Lysdexia (talk) 18:24, 25 July 2019 (UTC)
+I saw the title text as "if you're not fully satisfied, I guess we shouldn't keep you prisoner anymore"
+Categories: All comicsComics from 2015Comics from JulyFriday comicsPages using the "citation needed" templatexkcd PhonesComics sharing nameVirtual Assistants

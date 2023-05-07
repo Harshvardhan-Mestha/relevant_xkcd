@@ -1,0 +1,120 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1525: Emojic 8 Ball
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1525)
+|<< PrevComic #1525 (May 15, 2015)Next >>|
+Emojic 8 Ball
+Contents [hide] 
+1 Explanation
+1.1 Permalink
+1.2 Bugs
+2 Transcript
+3 Trivia
+4 Discussion
+
+To experience the interactivity, visit the original comic.
+To see an example of what the comic looks like after you ask a question see this answer.
+Explanation[edit]
+Emojic 8 Ball is a parody of the Magic 8-Ball using emoji instead of words. "Emojic" is a portmanteau of "emoji" and "magic".
+A real Magic 8 Ball is a toy designed to visually resemble a real pool ball, which responds to questions (posed as yes-or-no questions) asked of it, ostensibly by magic. The responses are provided through a window on one face that displays text phrases printed on a triangular shape as depicted in this comic. Vintage balls contained a die with multiple triangular facets suspended in a dark fluid, while modern balls feature an electronic screen.
+The ball in this comic provides responses in the form of graphical Unicode "text" (which this comic is suggesting are emoji).
+It is possible that this may be commentary on the inclusion of such "meaningless" symbols into Unicode. Ask a question and get a meaningless reply, even more meaningless than the answers given by a Magic 8 Ball.
+It could also be commentary about the ambiguous nature of advice from fortune tellers, horoscopes, etc. Each emoji has an ambiguous meaning (for example, depending on context, the cow symbol 🐄 could refer to beef or farming). The interpretation has more to do with the person receiving the fortune than anything given by the so-called fortune reader.
+With the default question being "How will I die?", this may also be partially a reference to "Machine of Death". This book from 2010 is a collection of short stories edited by amongst other Ryan North (of Dinosaur Comics) mentioned here since the idea was based on one of his comics. Since Randall Munroe wrote one of the stories the reference is very likely. All the stories are based around a device, the "Machine of Death", that can predict, with 100% accuracy though generally with extreme ambiguity, how people die from a drop of their blood. In many of the stories very unusual deaths are predicted, often in a very literal way, but not so you know when or where you will die. From the official home page the entire book can be downloaded for free as a PDF file(broken) 2020/06 archive.org copy. (Randall's story begins on page 421 - or page 218 of the two sided PDF file. It is simply called "?"). The "Machine of Death" may also have been referenced in the fourth panel of 1341: Types of Editors.
+Emoji were previously referenced in 1513: Code Quality. Emoji has since then become a recurrent theme on xkcd. But this is the first one with Emoji in the title.
+Permalink[edit]
+After the first time you ask a question a permalink will appear below the panel in gray letters.
+The "permalink" is an actual link of the type that is called a "permalink", a portmanteau of "permanent-link".
+If you wish to "save" any given question and combination of emojis for future reference (for instance one where you think the combo makes sense to your question) you can do so by copying down this link.
+The last two years April Fools' Day comics, 1350: Lorenz and 1506: xkcloud also used the concept of a permalink.
+The permalink option did not appear in the comic when it was first posted. This has been seen before.
+Here a three examples with one, two and three emojis in the reply
+permalink with 1 emoji.
+Question: Why am I so sad?.
+The answer is one emoji [♿ (Wheelchair symbol)] (A reply that actually makes sense as to why you might feel sad)
+permalink with 2 emojis.
+Question: What should I wear tomorrow?.
+The answer is two emoji [🏦 (bank) and 🍖 (meat on bone)]
+permalink with 3 emojis.
+Question: Where will I be after tomorrow?.
+The answer is three emoji [🏯 (Japanese castle), 🎩 (top hat) and 🐡 (blowfish)].
+This is also available as a picture - it is the picture linked to above the explanation.
+Bugs[edit]
+Note: if you see mostly squares (possibly with six numbers/letters inside) in the 8 Ball instead of actual symbols or pictures, it means your system doesn't have fonts that support the Emoji unicode characters. Scroll down to the discussion section below for suggestions on how to get and install the right font for your system, as well as to see a list of emoji characters so you can easily see if they're working or not.
+Transcript[edit]
+[An image of a shiny black ball with a white circle forming a black window at its center. Above the image is a title where the number 8 is written in a black circle, making it look like an 8-ball.]
+Emojic 8 Ball
+[Below the title is an input field with a placeholder text in grayed out text:]
+How will I die?
+[Below is a gray submit button.]
+Ask
+[The Emojic 8 Ball is below the ask button. The text in the input field can be changed by the user before pressing the ask button. After the submit button is pressed, 1 to 3 emoji symbols appear in the black window, framed inside a light blue equilateral triangle with one end pointing straight up. Once this has been done once, then a link appears below the panel with this text: Permalink].
+Trivia[edit]
+The 8-ball randomly returns between one and three emoji characters. The source code reveals there is 42.1% chance of getting one character, 52.6% chance of getting two characters, and 5.3% chance of getting three.
+The source code contains 507 different emoji characters. For a full list of the supported characters, see List of emoji.
+This is the second official comic with no title text. The first was 1506: xkcloud.
+The official transcript of the comic originally said:
+"Sorry blind people. There is no title text, even. Just a text box, an \"ask\" button, and a graphic that changes to a random emojii.\n\nThis one doesn't seem to be for you."
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I'm not sure that "This is an obvious parody" counts as an explanation of the cartoon. I looked up "Magic 8 ball" (with which I was unfamiliar). I looked up "Emoji" (with which, too, I was unfamiliar). I then turned back to the cartoon, and I still don't understand it. What's more, there is no explanation of the practically unique absence of mouseover text. BinaryDigit (talk) 05:55, 15 May 2015 (UTC)
+Lack of mouseover / alt and title attributes is common in **interactive** comics. --JakubNarebski (talk) 06:23, 15 May 2015 (UTC)
+Randall has published several interactive comics: 1350: Lorenz, 1110: Click and Drag, and 1416: Pixels. All of these have title text. The only other without was this year's April Fools (which was also interactive. However, this is definitely not a common feature of interactive comics. Djbrasier (talk) 13:20, 15 May 2015 (UTC)
+See Category:No title text --Kynde (talk) 21:03, 17 May 2015 (UTC)
+It seems that this comic may be poking fun at the reliance of the modern generation on emoji for communication. By trying to answer serious questions only in emoji, their inadequacy in conveying information is shown. After all, a telephone and party ball hardly answer how one will die. It's all left to the imagination. 173.245.56.179 06:01, 15 May 2015 (UTC)
+There might be a horoscope component to it too, i.e. you can interpret the emoji as a meaningful answer no matter which one you get. 108.162.215.162 06:30, 15 May 2015 (UTC)
+I believe you may mean to refer to tarot cards. I had a similar thought. Azule (talk) 07:16, 15 May 2015 (UTC)
+Both horoscopes and tarot cards qualify; they're two ways of eliciting the same sort of Rorschach test. 173.245.52.183 11:58, 15 May 2015 (UTC)
+It also bears similarities - particularly with its default question of "How will I die?" - to the fictional Machine of Death, which tells a person how they will die, often in a particularly obtuse or cryptic manner. Randall has previously submitted a short story to the collection: Machine of Death Podcast 33 Studley (talk) 07:21, 15 May 2015 (UTC)
+I'm guessing Randall is using Unicode emoji characters, i.e. from a font I don't have. I get a small rectangle with "01F40C" (two rows of three characters), which is indicative of "A character I have no font support for", in the browser I'm using (although from previous experience it isn't a browser thing, it's that I haven't deliberately installed the specialist font involved). Which rather spoils things for me, this time round, but I suppose doesn't cause problems for most people who have been persuaded to install emoji-characters to use in the place of 'mere' emoticons... 141.101.98.213 06:36, 15 May 2015 (UTC)
+(reply to self), I've found a good guide, for someone like me, would be to consult the document http://www.unicode.org/charts/PDF/U1F300.pdf to see what one should see. Apparently "How will I die?" is answered by a snail, and my flippant "Where do I get the Emoji font from?" is answered by a man's face. It remains to be seen whether that's 100% correct on both counts. ;) 141.101.98.213 07:58, 15 May 2015 (UTC)
+Linux folks can install the ttf-ancient-fonts package to add support for the Unicode emoji characters.
+Ok, I've given in. As a non-Linux folk, I followed various signposts and went to http://users.teilar.gr/~g1951d/ and went straight for the "Symbola: 08-03-2015" download (extracted and installed the .ttfs by the age-old method). In case anyone else as out-of-date as me needs and wants to do it manually. It instantly converted my "Man's Face" code (see reply-to-self, above) into the actual man's face, on that browser tab. FYI. 141.101.98.213 08:12, 15 May 2015 (UTC)
+On Fedora: sudo yum install gdouros-symbola-fonts
+On Ubuntu: apt get ttf-ancient-fonts
+On Debian: sudo apt-get install ttf-ancient-fonts
+Spongebog (talk) 04:36, 16 May 2015 (UTC)
+On Gentoo: emerge symbola
+--Quazgar (talk) 21:25, 16 May 2015 (UTC)
+ON OpenSUSE: sudo zypper install gdouros-symbola-fonts
+--Tom 141.101.92.18 11:19, 20 May 2015 (UTC)
+Note that, although the emojis do seem to be chosen at random (I haven't attempted to check any code), the URL is changed to encode your question and the result, so this link encodes my question and a three-emoji result. Mark Hurd (talk) 07:07, 15 May 2015 (UTC)
+Is that 3-emoji result hack free? I've only gotten 1 or 2 emoji results so far. Edit: Nevermind. I clicked a bunch in a row and got a 3 emoji result. Now the question is: Can 4 be hacked in? Azule (talk) 07:19, 15 May 2015 (UTC)
+I had to be horrible and hack every single emoji into the page. For the lovers of overflow! Azule (talk) 07:54, 15 May 2015 (UTC)
+From the code there appears to be an 8/19 chance (42.1%) of one character, 10/19 (52.6%) of two, and 1/19 (5.2%) of three.--Laverock (talk) 07:52, 15 May 2015 (UTC)
+It is just a base64 encoding of the question and answer characters as a JSON object, the part of the link given by Markhurd after the "#" is the encoding of {"q":"Is this a good question to immortalise?","a":["🍥","🐐","🍝"]}. So you can add extra characters to the answer array, but after 3 they start clipping out of the triangle. 108.162.249.158 07:32, 15 May 2015 (UTC)
+In the edit history it is noted that the emoji are in color. They are in color for me, too. But I question whether this is universal (where the glyphs are supported). Anyone having a black and white experience? Azule (talk) 07:36, 15 May 2015 (UTC)
+From the code, here's the list of possible characters: 🙅, 🙆, 🙇, 🙋, 🙌, 🙍, 🙎, 🙏, ✂, ✈, ✉, ✊, ✋, ✌, ✏, ❄, ❤, 🚀, 🚃, 🚄, 🚅, 🚇, 🚉, 🚌, 🚏, 🚑, 🚒, 🚓, 🚕, 🚗, 🚙, 🚚, 🚢, 🚤, 🚥, 🚧, 🚨, 🚩, 🚪, 🚫, 🚬, 🚲, 🚶, 🚽, 🛀, ⌚, ⌛, ⏰, ⏳, ☁, ☎, ☔, ☕, ♨, ♻, ♿, ⚓, ⚡, ⚽, ⚾, ⛄, ⛅, ⛪, ⛲, ⛳, ⛵, ⛺, ⭐, ⛽, 🃏, 🌀, 🌁, 🌂, 🌃, 🌄, 🌅, 🌆, 🌇, 🌈, 🌉, 🌊, 🌋, 🌏, 🌙, 🌛, 🌟, 🌠, 🌰, 🌱, 🌴, 🌵, 🌷, 🌸, 🌹, 🌺, 🌻, 🌼, 🌽, 🌾, 🌿, 🍀, 🍁, 🍂, 🍃, 🍄, 🍅, 🍆, 🍇, 🍈, 🍉, 🍊, 🍌, 🍍, 🍎, 🍏, 🍑, 🍒, 🍓, 🍔, 🍕, 🍖, 🍗, 🍘, 🍙, 🍚, 🍛, 🍜, 🍝, 🍞, 🍟, 🍠, 🍡, 🍢, 🍣, 🍤, 🍥, 🍦, 🍧, 🍨, 🍩, 🍪, 🍫, 🍬, 🍭, 🍮, 🍯, 🍰, 🍱, 🍲, 🍳, 🍴, 🍵, 🍶, 🍷, 🍸, 🍹, 🍺, 🍻, 🎀, 🎁, 🎂, 🎃, 🎄, 🎅, 🎆, 🎇, 🎈, 🎉, 🎊, 🎋, 🎌, 🎍, 🎎, 🎏, 🎐, 🎑, 🎒, 🎓, 🎠, 🎡, 🎢, 🎣, 🎤, 🎥, 🎦, 🎧, 🎨, 🎩, 🎪, 🎫, 🎬, 🎭, 🎮, 🎯, 🎰, 🎱, 🎲, 🎳, 🎴, 🎵, 🎶, 🎷, 🎸, 🎹, 🎺, 🎻, 🎽, 🎾, 🎿, 🏀, 🏁, 🏂, 🏃, 🏄, 🏆, 🏈, 🏊, 🏠, 🏡, 🏢, 🏣, 🏥, 🏦, 🏧, 🏨, 🏩, 🏪, 🏫, 🏬, 🏭, 🏮, 🏯, 🏰, 🐌, 🐍, 🐎, 🐑, 🐒, 🐔, 🐗, 🐘, 🐙, 🐚, 🐛, 🐜, 🐝, 🐞, 🐟, 🐠, 🐡, 🐢, 🐣, 🐤, 🐥, 🐦, 🐧, 🐨, 🐩, 🐫, 🐬, 🐭, 🐮, 🐯, 🐰, 🐱, 🐲, 🐳, 🐴, 🐵, 🐶, 🐷, 🐸, 🐹, 🐺, 🐻, 🐼, 🐽, 🐾, 👀, 👂, 👃, 👄, 👅, 👆, 👇, 👈, 👉, 👊, 👋, 👌, 👍, 👎, 👏, 👐, 👑, 👒, 👓, 👔, 👕, 👖, 👗, 👘, 👙, 👚, 👛, 👜, 👝, 👞, 👟, 👠, 👡, 👢, 👣, 👤, 👦, 👧, 👨, 👩, 👪, 👫, 👮, 👯, 👰, 👱, 👴, 👶, 👷, 👸, 👹, 👺, 👻, 👼, 👽, 👾, 👿, 💀, 💁, 💂, 💃, 💄, 💅, 💆, 💇, 💈, 💉, 💊, 💋, 💌, 💍, 💎, 💏, 💐, 💑, 💒, 💓, 💔, 💕, 💖, 💗, 💘, 💙, 💚, 💛, 💜, 💝, 💞, 💟, 💠, 💡, 💢, 💣, 💤, 💥, 💦, 💧, 💨, 💩, 💪, 💫, 💬, 💮, 💯, 💰, 💲, 💳, 💵, 💸, 💺, 💻, 💼, 💽, 💾, 💿, 📀, 📃, 📅, 📆, 📈, 📉, 📌, 📍, 📎, 📓, 📔, 📕, 📖, 📞, 📟, 📠, 📡, 📣, 📦, 📧, 📫, 📰, 📱, 📷, 📹, 📺, 📻, 📼, 🔊, 🔋, 🔌, 🔎, 🔐, 🔑, 🔒, 🔓, 🔔, 🔜, 🔥, 🔦, 🔧, 🔨, 🔩, 🔪, 🔫, 🔮, 🗻, 🗼, 🗽, 🗾, 🗿, 😴, 🚁, 🚂, 🚆, 🚈, 🚊, 🚍, 🚎, 🚐, 🚔, 🚖, 🚘, 🚛, 🚜, 🚝, 🚞, 🚟, 🚠, 🚡, 🚣, 🚦, 🚮, 🚵, 🚿, 🛁, 🌍, 🌎, 🌜, 🌝, 🌞, 🌲, 🌳, 🍋, 🍐, 🍼, 🏇, 🏉, 🏤, 🐀, 🐁, 🐂, 🐃, 🐄, 🐅, 🐆, 🐇, 🐈, 🐉, 🐊, 🐋, 🐏, 🐐, 🐓, 🐕, 🐖, 🐪, 👬, 👭, 📬, 📭, 📯, 🔬, 🔭 108.162.249.158 07:38, 15 May 2015 (UTC)
+Those are mostly the SAME character. An eye chart.108.162.238.191 14:12, 15 May 2015 (UTC)
+I added them to the page body in table form (my two new favourite tools for the day: Bulk unicode code converter and Excel to Mediawiki table converter). However, even converted to three columns, it does seem to take over the page somewhat; it's nice to have the descriptions, but maybe a simple character list like yours would be better. Studley (talk) 07:44, 15 May 2015 (UTC)
+Moved the emoji list to a separate page, problem solved (or at least deferred). Studley (talk) 08:04, 15 May 2015 (UTC)
+No numerals, weirdly enough. The Twenty-second. The Not So Only. The Nathan/Nk22 (talk) 12:09, 16 May 2015 (UTC)
+Most of the characters show up as squares with hex digits for me, both on the comic itself and on this wiki. Bad choice of font, I guess... Randall should learn how to use web fonts. 141.101.91.91 09:04, 15 May 2015 (UTC)
+I wonder if this is related to "Machine of Death" (see http://www.amazon.com/Machine-Death-Collection-Stories-People/dp/0982167121). It's a collection of stories that were written by many different people. The story-starter was that a machine existed that could tell you the manner in which you would die, The day you turned a certain age, you could insert money or a credit card, it would take a tiny blood sample, and spit out a piece of paper with your manner of death. But no specifics were given. Thus, "swimming pool" might cause you to avoid swimming in pools, but one day you'd die after being hit by a truck delivering a prefab pool to some distant location. I believe the xkcd cartoonist (I'm blanking on his name--sorry--it's early and I'm old) had a hand in that book. The emoji concept is similar--even after you decipher "your" symbol's/symbols' meaning, you know nothing. 173.245.52.150 (talk) (please sign your comments with ~~~~)
+You're thinking of Ryan North, of Dinosaur comics. Munroe (the actual author of XKCD) is clearly well aquinted with (at least that part of) North's body of work, so the "How will I die" line could be a reference. Then again, it's a common enough question (along with "does Bobby like me") 108.162.254.164 12:54, 15 May 2015 (UTC)
+Machine of death is a collection of short stories. Munroe wrote one of them. He is well acquainted with MoD. I would suggest that Machine of Death be added to the description as a reference for "how will I die?" as the default question. 173.245.54.182 13:48, 15 May 2015 (UTC)
+
+This comic does not have a title text which is uncommon. Should this be mentioned in the article? 141.101.92.135 11:03, 15 May 2015 (UTC)
+I see this cartoon as a comment on the stupid questions asked of these "magic 8-ball"-type devices, and the expectation that the answer gained will have any relevance - i.e., ask a silly question and you'll get a silly answer." Grutness (talk) 12:07, 15 May 2015 (UTC)
+I think it is a shame that this was not tested on linux. I see a bunch of squares with numbers. I am running a modern version of Mint and I have no intention of installing icon based fonts on my system. How very windows. 173.245.48.160 13:56, 15 May 2015 (UTC)
+This isn't a Windows vs Linux thing, this is a do you have a font that includes additional symbols thing. For my part, it didn't work in multiple browsers on my Mint Linux box, but it also didn't work on a Windows XP box. It did work on a Windows 7 box.-boB (talk) 14:24, 15 May 2015 (UTC)
+This displays correctly for me on Linux Fedora 20 which I installed about two months ago. I have not installed any extra fonts (directly), but it is possible that some packages I have installed added more fonts. Walenc (talk) 08:00, 16 May 2015 (UTC)
+Could someone on a system with the right fonts replace the picture above with a picture showing emoji, i.e. showing the after-clicking-the-button version of the picture rather than the before version. Or better yet, an animated GIF showing both states. I think that would really help explain it for those for whom the interactive version isn't working properly and they're only seeing squares.-boB (talk) 14:04, 15 May 2015 (UTC)
+The number of people in this discussion who simply don't understand the concept of Unicode is appalling. Come on, people... there is no "right" font or "wrong" font. There are only fonts (and operating systems) with complete Unicode support, and fonts (or operating systems) without complete Unicode support. NO, you don't need to install an icon font, because the font has nothing to do with the Unicode specification. NO, there is no need for Randall to use web fonts (forcing every user to see the comic with the same font) because the whole point of having a Unicode standard is that many different OSes and fonts can support it. If your system doesn't render Unicode emoji properly, then update your system. (The latest versions of OS X and iOS, for example, have no trouble rendering this comic, regardless of what font your browser is set to use.) Don't blame Randall for the fact that you're running out-of-date technology. I thought XKCD readers were generally more technically-literate than that. 108.162.238.187 21:02, 15 May 2015 (UTC)
+
+Try using a smartphone .Emoji are made for smartphone. 108.162.231.53 (talk) (please sign your comments with ~~~~)
+Nope. Black squares on a smart phone. I'm fairly sure the joke is that people think they're sending you emoticons when they're sending you useless eye charts or black squares. There's nothing here. No emoji. Nothing. Checked on all all sorts of sources, and others are saying the same thing. You can't fool me. I'm not afraid to say the emperor isn't wearing any clothes. The question is, are you?108.162.238.191 17:04, 15 May 2015 (UTC)
+
+People act all superior when they talk down to people who use emoji, but what do you care how other people communicate? Yourlifeisalie (talk) 16:00, 15 May 2015 (UTC)
+I see gun, is it a price question? 141.101.89.223 16:40, 15 May 2015 (UTC)
+Chrome users can install the [1](Emojify) extension to view this comic properly. I downloaded it specifically to view this comic, so I have no idea if it contains malware or hogs resources. 173.245.54.194 17:51, 15 May 2015 (UTC)
+When I clicked the initial 'How Will I Die?,' I got the symbols for Bank and pushpin, so presumably I will die in a bank stickup. Not the worst way, but my next bank visit may be a bit fraught. Miamiclay (talk) 23:06, 15 May 2015 (UTC)
+Hmmm... I don't think that this is an emoji The Twenty-second. The Not So Only. The Nathan/Nk22 (talk) 11:45, 16 May 2015 (UTC)
+References to meaningless square symbols only make sense on systems that don't support Emoji, like most Windows boxes. On any current Apple device, the emoji show up properly. I don't think the explanation on meaningless symbols actually fits...108.162.222.167 04:45, 19 May 2015 (UTC)
+I asked what life would be like after Covid-19. The choice of emoji it responded with wasn't very upbeat... --141.101.98.152 03:54, 28 February 2021 (UTC) What does tree and cyclone mean?172.69.68.88 17:22, 27 April 2022 (UTC)
+Seems pretty accurate... [2] or [3] PoolloverNathan[stalk the blue seas]
+U•T•S•c
+17:42, 22 November 2022 (UTC)
+Categories: All comicsComics from 2015Comics from MayFriday comicsLinks to xkcd.comInteractive comicsComics with colorNo title textEmojiComics with lowercase text

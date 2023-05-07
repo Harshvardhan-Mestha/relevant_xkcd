@@ -1,0 +1,39 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1739: Fixing Problems
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1739)
+|<< PrevComic #1739 (September 28, 2016)Next >>|
+Fixing Problems
+
+Title text: 'What was the original problem you were trying to fix?' 'Well, I noticed one of the tools I was using had an inefficiency that was wasting my time.'
+Explanation[edit]
+Due to the complex relationships within a program or other system, making an alteration can cause problems with other parts of the program. This can lead to a seemingly small "fix" becoming a long chain of debugging and consecutive fixes, which Cueball is in the middle of, a typical example of recursion often used in xkcd. As Cueball attempts to solve the initial computer issue, he creates more problems along the way.
+The title text suggests that the original problem was not stopping the function of the program and the benefits that Cueball may have hoped to achieve with the mentality of "If it ain't broke, break it and fix it" are being consumed by the expanding effort of the fix. Attempting to solve all of these problems results in more time wasted than he hoped would be gained by optimizing the inefficient tool described in the title text. Though depending on the tool, he could publish the changes once completed, allowing the community using that tool to gain back the man-hours collectively. Wondering if something is worth doing has been a subject in 1205: Is It Worth the Time?
+This comic is similar in thesis to 1445: Efficiency and 1319: Automation. Other relevant comics include 1171: Perl Problems, where using regular expressions causes more problems than it solves, 349: Success, where Randall comments on the goals of a project decreasing in optimism as a project goes on due to more and more problems distracting from the original, and 1579: Tech Loops, which shows that attempting to fix one problem in a piece of software can force a developer to delve into seemingly irrelevant parts of the relevant tech loop that the software in question is trapped in.
+Transcript[edit]
+[Cueball sitting in an office chair at his desk typing on his laptop. A person addresses him from the left:]
+Off-panel voice: What are you working on?
+Cueball: Trying to fix the problems I created when I tried to fix the problems I created when I tried to fix the problems I created when...
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This one seems relatively straightforward. It points out the rabbit hole that comes from attempting to optimize and attempting to fix earlier mistakes. -- Drewthedude64 (talk) (please sign your comments with ~~~~)
+I agree. I added my explanation as such, and as I was doing it, I noticed that this comic seems to repeat the themes shown in past ones. 108.162.219.60 (talk) (please sign your comments with ~~~~)
+I want to build a web browser from scratch so I can load web pages on my iPod quicker. Benjaminikuta (talk) 06:45, 28 September 2016 (UTC)
+I put in a mention of the fixed-point combinator. It seems like that can hardly be an accidental pun since it's the essence of recursion. I forgot to put in a summary of the change. Murray (talk) 07:19, 28 September 2016 (UTC)
+The interpretation of the title as pun seems far-fetched to me. Sebastian --162.158.86.233 14:34, 28 September 2016 (UTC)F
+I'm not so sure it's far-fetched. The fixed point combinator (called "fix" in e.g. Haskell) is the theoretical basis behind recursion.[1] If one "fixes" a function repair (say), fix repair expands to repair (fix repair) which then expands to repair (repair (fix repair)) and so on. One can hardly discuss recursion in the context of functional programming without quickly hitting fix a.k.a. the Y-combinator. This would seem to be right up XKCD's alley. Murray (talk) 19:31, 28 September 2016 (UTC)
+I disagree with some points of the current explanation. Most important one: "This comic is clearly remarking upon whether or not the benefits of the mentality "If it ain't broke, break it and fix it" [...]":
+1. Words like "clearly" shouldn't be used in a wiki, since they're suggesting that whoever has another point of view is an idiot. But that's not the important part.
+2. Depending on time constraints for a given task "wasting my time" (as in the title text) could be the definition of a software being "broken". So fixing a problem which causes "time wasted" is not necessarily fixing something which isn't broken. The solution for inefficient software is _not_ more hardware ;) Elektrizikekswerk (talk) 07:32, 28 September 2016 (UTC)
+Please feel free to improve then! --Kynde (talk) 19:22, 28 September 2016 (UTC)
+Usually I do, but had no time for finding the right words. The current explanation seems fine to me, though :) Elektrizikekswerk (talk) 07:31, 29 September 2016 (UTC)
+Possibly related to http://seclists.org/bugtraq/2016/Sep/65? 162.158.74.30 13:47, 28 September 2016 (UTC)
+I'm surprised no one has mentioned xkcd.com/1205[2] yet...--108.162.216.78 17:50, 28 September 2016 (UTC)
+Agree, I was just about to enter 1205: Is It Worth the Time? when I saw your comment, so credits to you. Have added it now. --Kynde (talk) 19:22, 28 September 2016 (UTC)
+There was an old lady who swallowed a fly … 162.158.222.227 17:55, 28 September 2016 (UTC)
+What? --Kynde (talk) 19:22, 28 September 2016 (UTC)
+This is part of a nursery rhyme that indicates an old woman swallowed a fly, so as a fix, she swallowed a spider. This creates a situation that is also (and possibly more) intolerable, so she needs to fix that as well. This is similar to the recursive nature of the original comic. [3] 162.158.75.100 21:17, 28 September 2016 (UTC)
+Many years ago I coined the adage, "The bug I fix today introduces two more to be fixed tomorrow." Rtanenbaum (talk) 14:22, 29 September 2016 (UTC)
+Categories: All comicsComics from 2016Comics from SeptemberWednesday comicsComics featuring CueballComputersProgrammingRecursionTime management

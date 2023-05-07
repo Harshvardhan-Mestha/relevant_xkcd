@@ -1,0 +1,59 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1952: Backpack Decisions
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1952)
+|<< PrevComic #1952 (February 7, 2018)Next >>|
+Backpack Decisions
+
+Title text: "This one is perfect in every way, except that for some reason it's woven from a tungsten mesh, so it weighs 85 pounds and I'll need to carry it around on a hand cart." "That seems like a bad--" "BUT IT HAS THE PERFECT POCKET ARRANGEMENT!"
+Explanation[edit]
+Cueball, probably representing Randall, is having issues choosing a good backpack. He notices their different features and is indecisive. After presumably spending a long time choosing, he is able to narrow his choices down to two backpacks, only to discover that another backpack had the extra feature of being waterproof, a criterion he had not up to then been accounting for. This has made him more indecisive. Frustrated by the extra information load, he considers giving up on backpacks to take another look at messenger bags. Disregarding that thought, he decides to start over, evaluating all of the backpacks again considering the new information. Clearly he is spending a lot of time on this, and the chart below shows that he spends more time unsure of what backpack to pick than of any other major choice, such as a college or a car. This is unusual, since differences between backpacks impact one's life much less than those between colleges or cars.[citation needed]
+A backpack and its features, or lack thereof, might impact a person on a more ongoing and intimate basis than a college choice (which, for Randall, was a long time ago) or a car (if your view of cars mainly concerns their function) in certain situations. A perfectionist technology geek, such as Cueball or Randall (as Cueball is implied to be) would likely remember, every time he used his backpack, the satisfaction of having found the perfect backpack, or the disappointment of being unable to do so.
+The title text is Cueball having a conversation (or thinking to himself) about a backpack, which seems (absurdly) to be made of heavy tungsten mesh. In fact, at 85 pounds (39 kg), it is so heavy that Cueball thinks he will need to carry it around in a cart, defeating the purpose of the backpack. However, Cueball considers it simply because of the perfect pocket arrangement, which he cannot use anyway, due to the backpack's heaviness. The explanation about the pocket arrangement is written in all caps, indicating that Cueball is yelling from pure excitement at the pocket arrangement.
+Transcript[edit]
+[Cueball stands in front of a store display with 17 backpacks and a couple of boxes on the shelf. He has pulled two backpacks down, and they sit at his feet along with a messenger bag (or satchel) behind him. He thinks to himself:]
+It's down to two: the one with the charger pocket and the one with—
+Wait, that other one is waterproof!
+Ugh. Do I even want a backpack?
+Maybe I should be looking at messenger bags again.
+OK, starting over.
+[Caption below the comic:]
+Amount of time I’ve spent paralyzed by indecision over choosing the right…
+[A bar graph is shown. Each label is followed by a black bar representing the amount of time:]
+College [short bar that is 40 pixels wide]
+Phone [short bar that is 26 pixels wide]
+Apartment [short bar that is 33 pixels wide]
+Car [shortest bar, 20 pixels wide]
+Laptop [second longest bar, 46 pixels wide]
+Backpack [longest bar, 202 pixels wide]
+Trivia[edit]
+Previous comics explained that decision paralysis might happen because there are detailed reviews online for the items (in 1036: Reviews), you have very similar options and unlimited internet access (in 1801: Decision Paralysis), or just that you're a nerd (in 309: Shopping Teams).
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Great, now I can't decide how to write the transcript 108.162.216.40 15:00, 7 February 2018 (UTC)
+And I now want a new backpack. I'm fine with the one I have, but *I want a new one dammit!* But I can't decide which one Jdluk (talk) 15:08, 7 February 2018 (UTC)
+The knapsack optimization problem is famous for being NP-hard (Knapsack problem). Seems to be an allusion to it. Sebastian --162.158.91.191 15:53, 7 February 2018 (UTC)
+Nope, see below. The knapsack problem is about optimizing the amount of stuff put into something, while Cueball goes through a buying decision process. 162.158.114.100 17:49, 7 February 2018 (UTC)
+But the buying decision process could be solved by a variation of the knapsack optimation problem: You can choose several features, but cannot combine all of them. The difficulty would be linear in the number of available backpacks (but this would/could be a very large number - for all the other listed items like car, phone, college, appartment, laptop there is less choice available and the decision can be made way faster) and nonlinear in the number of criteria. Sebastian --162.158.91.191 10:18, 8 February 2018 (UTC)
+This comic is an illustration of the law of triviality aka the bike-shed effect. 162.158.114.100 17:42, 7 February 2018 (UTC)
+I don't believe the bike-shed effect is related, since that would imply that he is focusing on unimportant issues instead of important ones. In this case, the problem is trying to satisfy a number of important needs that are not fully met by any one backpack, forcing him to decide which can be left unsatisfied by any particular backpack. Ianrbibtitlht (talk) 18:59, 7 February 2018 (UTC)
+Yes, you are right. I had the comparison chart in mind and incorrectly connected the dots here. The correct description of the situation is of course analysis paralysis. Snap decisions apparently aren't infallible, either. :P 162.158.114.100 19:38, 7 February 2018 (UTC)
+Now that you point out your reasoning, I can see where someone might think deciding on a backpack is less important than buying a car or picking a college, which is consistent with the bike-shed effect. You deserve points for thinking of it, even though I think it really is more important to Cueball in this case. In fact, I'm surprised that Cueball didn't have a laptop in hand, calculating a composite feature weighted score per backpack to totally geek things up! ;-) Ianrbibtitlht (talk) 22:05, 7 February 2018 (UTC)
+The description completely identifies the author with his figure. Mixes them up. That's very bad form and impolite. --162.158.88.236 21:39, 7 February 2018 (UTC)
+On top of that, it makes no sense. Nothing in this comic says anything about laptop choices. 162.158.178.111 03:08, 8 February 2018 (UTC)
+Agree. Removed that part and marked it as incomplete, again. Elektrizikekswerk (talk) 10:03, 8 February 2018 (UTC)
+I'm confused by this series of comments. I thought the first one was talking about mixing up references to Cueball and Randall. Then the next comment mentions the lack of content related to laptop choices. First of all, I don't understand how laptop choices are related to the Randall vs Cueball issue (if I interpreted it correctly), and furthermore the bar graph specifically includes a bar for choosing a laptop - that means laptop choices in my book! What am I missing here? Ianrbibtitlht (talk) 14:59, 8 February 2018 (UTC)
+I'm too lazy to figure out what you're missing, but if I were to do so, I'd start by checking the edit history to see what the description was like at the time(stamp) of those comments, as maybe it focused too much on laptops or whatever. 172.68.26.143 15:17, 8 February 2018 (UTC)
+It gave lengthy consideration to the difference in length of bars between 'car' and 'laptop', which was probably rather missing the point, which is more that they're all pretty short in comparison to 'backpack'. I'm not sure that does relate to the original point in this thread, hence why the second commenter said "On top of that...". 162.158.155.26 15:46, 8 February 2018 (UTC)
+Do we really need a Wikipedia link to explain what 'yelling' is? Really? 162.158.155.26 11:50, 8 February 2018 (UTC)
+Unless we want to have a link for every word I don't think so. I removed it. Elektrizikekswerk (talk) 12:22, 8 February 2018 (UTC)
+Do we really need one for 'all caps'? Linker (talk) 14:04, 8 February 2018 (UTC)
+The all caps article explains not only what all caps is, but also its connotation to mean shouting. So I think it's a good inclusion. (Maybe the one for yelling was too much though.) 198.41.230.82 15:10, 8 February 2018 (UTC)
+It is so wonderful to have so many choices. Well, no, not especially. After a point, there is so much to wade through, and the additional does not help much with making a better decision. 108.162.216.220 02:13, 9 February 2018 (UTC) Gene Wirchenko genew@telus.net
+The 'citation needed' is hilarious to me for some reasons. Whoever added that one needs a gold medal.Boeing-787lover 16:57, 9 February 2018 (UTC)
+Actual way to choose backpacks ==
+Last week I learned the following: don't buy a backpack unless you have already purchased and used all the items you want to keep in your backpack.
+Reason: you don't need to have gazillion pockets if you have a really basic set of items. But you may think your items need many pockets. 162.158.87.92 (talk) 18:11, 4 March 2023 (please sign your comments with ~~~~)
+Categories: All comicsComics from 2018Comics from FebruaryWednesday comicsPages using the "citation needed" templateComics featuring Cueball

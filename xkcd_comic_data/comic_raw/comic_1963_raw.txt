@@ -1,0 +1,197 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1963: Namespace Land Rush
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1963)
+|<< PrevComic #1963 (March 5, 2018)Next >>|
+Namespace Land Rush
+
+Title text: You can also just mash the keyboard at random, but you might end up with a gibberish name no one can pronounce.
+Explanation[edit]
+When a new web service starts, such as a forum, a social media server or an email portal, the people who sign up get to choose their username on the service, which, in most cases, blocks future users from using those usernames. Common names such as "john" are likely to be taken quickly. This is analogous to the way that land was distributed in America, with the first to claim able to choose the best land.
+This comic is a list of usernames Randall suggests should be used if they are available.
+The title text is a self-reference to "xkcd"; the name of the comic is a purposefully unpronounceable phrase created by Randall. The fact that an unpronounceable name is portrayed as a disadvantageous outcome is also humorous because the comic has a section dedicated to unpronounceable usernames.
+(Note: for a more serious list of problematic user names to block from a service provider’s point of view, see Hostnames and usernames to reserve as well as RFC 2142.)
+Table[edit]
+Entry Explanation
+Straightforward (Usernames that a person would use under typical circumstances)
+<Your usual username, if any> Most internet users will have settled on some unique handle that they try to use across all platforms. Even if this wasn't a new service, most people would try this first.
+<Your given name> More rare is using one's nickname or first name as their username, since the amount of common names will mean many users share a name. Thus, if you can get your given name, you will have a simple username that many others wanted, and without resorting to prefixes or numbers (i.e. Xx_MyName00_xX)
+<Your full name> Similar to your given name, but slightly more unique since a last name and/or middle name is added.
+<Initial><Surname> A common second choice if a given or full name is already in use.
+<Surname> Possibly available if your last name is more uncommon; names like "Smith" or "Kim" will probably be taken faster than even given names.
+Recognizable (Usernames that would make it look like the email came from an official source within the organization named)
+Google Registering the name "Google" would allow for communicating on the site (or even outside of it) with a name that appears to be an official Google account. For any of the examples in this section, you would select the names for the same reason. This has been done in the past with both humorous and nefarious results.
+iPhone Many services would mark messages sent from an iOS client on iPhone as "sent from iPhone".
+This could make people believe that your messages are sent from an iPhone even if you don't own one.
+Facebook Similar to Google above.
+Bitcoin One could pose as the Bitcoin Core development group by using this handle and/or scam uninformed users interested in cryptocurrencies.
+Obama Impersonating the former president, supposedly to send messages as them to make them seem bad (or not).
+Canada Impersonating a whole country might get you in trouble.[citation needed]
+NFL The American "National Football League".
+Garfield In the original "GMail" service on the Internet, the G stood for "Garfield".
+<Your city> Impersonating the official account for your place of residence.
+NASA The American "National Aeronautics and Space Administration". Randall worked there as a contract programmer and roboticist.
+<Name of person who runs the service> Impersonating the site owner can allow you to gain the trust of users.
+Causing Trouble (Usernames that might cause errors when mixed with the service's back-end code)
+User This is usually the default username for a non-administrative account. This may trick a user that this is owned by the operator of the service.
+Username See above.
+Name See above.
+You Many services display "You" as the signed-on user, so naming oneself "You" makes users think that they are you/they are signed on when they aren't.
+Guest Attempts to fool users into thinking that they have a guest account.
+Account The opposite of "Guest" (someone without an account). However, for someone with an account, their username will usually be displayed. There is an active user named "Account" on Explain XKCD.
+Causing More Trouble
+Admin Impersonating to be a system administrator will let someone fool people and cause a lot of trouble. In particular, it could be used to obtain SSL certificates by demonstrating ownership of a supposedly internal address.
+Administrator See above.
+System Pretending to be a system-controlled account - might give permissions if the server checks by name.
+<Name of service> Pretending to be the official account of the service. There are a lot of spammers who did this on Explain XKCD.
+Help Pretending to be the help account. This could led to many questions from new users.
+Error This may trick users to do what the user says as they could claim that it was a legitimate error.
+Impossible to Say
+Hyphen-Emdash Could be read "Hyphen hyphen Em dash" or "Hyphen dash em dash". In addition, in many markup languages (such as the one used by this very wiki) one can create a larger hyphen with some variation of an "&mdash" command, which could theoretically be pronounced "emdash."
+Dash-8hyphen-8 Could be read "Dash dash eight hyphen dash eight" or "Dash hyphen eight hyphen hyphen eight". "Hyphen eight" sounds like "hyphenate".
+Zero0ne2numeral2 Could be read "Zero zero one two numeral two" or "Zero zero ne two numeral two" or "Zero oh ne two numeral two".
+KrisasinHemsworth This would be confusing to say out loud, as it would sound like the user was saying that their username was "Chris," spelled the same way that famous actor Chris Hemsworth spells his name. However, the actual username uses the name "Kris," spelled a completely different way than Chris Hemsworth's name, and the phrase "as in Hemsworth" being also part of the username, rather than a clarification of the spelling of "Kris" as would be assumed.
+TheWord&Ampersand This would also be confusing and difficult to communicate, as anyone trying to read the username to someone else would say "The word ampersand ampersand" which could be interpreted as "ampersand&" or "ampersand ampersand". Having the phrase "the word" in front of a symbol makes it quite difficult to communicate which variation of ampersand (word or symbol) is actually being referred to.
+ZettaWith3Teees Read aloud, this would lead the listener to expect a username of 'Zettta'. Clarifying that "with three tees" is text and not description would in turn make it difficult to explain the spelling of 'Zetta' with two 't's, and 'Teees' with three 'e's.
+Misc
+<Single Letters> and <Single Numbers> These are highly valuable. The Twitter handle "@n" for example is constantly bombarded with offers and hacking attempts.
+<Common Words> Also highly valuable; overlaps with "Recognizable" and "Causing (more) Trouble".
+<SQL/JS Injection> Codes such as "Drop Table" intended to cause errors or even damage the service's back-end code. (See Comic 327)
+ASDF and QWERTY Since those keys are right next to each other (on English language layouts), they are often typed as placeholders.
+Yes This might be a Beret Guy-esque misunderstanding when filling out the sign up form. When encountering the form field "Username:" someone may type "Yes" (as in "yes, I want a username") instead of specifying it.
+Bot and Computer Pretending to be a bot.
+Blocked When users get banned or blocked, their name is often replaced by a string like this.
+Deleted Some services like Reddit keep up user posts and data after account deletion, marking the content as submitted by the user "[Deleted]" or "Deleted".
+Jeeves Might refer to Ask Jeeves (now Ask.com), a Internet Search Engine.
+Narrator In books, radio plays and movies it is quite common to have a narrator explain parts of the story. In an online forum however, it is not.[citation needed]
+Internet "The Internet" sometimes refers to a large group of users, the collective hive-mind if you will. However, there cannot be a single user account speaking on behalf of them, as they aren't a single entity.
+NPC Stands for Non-player character.
+Password If the user accidentally typed their password into the username field, this would be the result.
+Permissive Character Sets
+<Space> Usernames containing only whitespace can not only be confusing for other people, but often systems 'trim' (remove whitespace at the beginning and end) user input. If the username was only made of spaces, after trimming it would be completely empty, which can cause a whole slew of other problems.
+@ é | The @ separates the local part from the domain part of email addresses. If a service decides to create email addresses for their users, they will have a hard time if they allowed the "at" character as part of a username.
+é is encoded in many character sets, like Latin-1 and Unicode. In Unicode, it can even be described either "U+00E9 LATIN SMALL LETTER E WITH ACUTE" or as the sequence "U+0065 LATIN SMALL LETTER E" and "U+0301 COMBINING ACUTE ACCENT". If a system uses Unicode normalization after the check if the username is available, this might allow someone to take over someone else's account.
+“ ” " ‘ ’ ' ` Various quotation marks.
+“, ”,‘ and ’ (Unicode quotes): can expose a system's inability to handle multi-byte-encodings. If they are converted to their ASCII counterparts, they might cause code injections. ' and " (ASCII single and double quotes): often used as string delimeter (causing the rest of the name to be interpreted as HTML, or worse, code. ` (ASCII grave / backtick): Sometimes used as string delimeter; Perl (which some websites are still programmed in) executes commands ("shell code") when between backticks.
+<NBSP> Unicode character "U+00A0 NO-BREAK SPACE". Similar attack vector as <Space>, but some programming languages will not strip non-ASCII whitespace (therefore the validation will pass).
+\ . # The backslash is very often used for "escape sequences", that get expanded to other characters. (\n -> newline, \t -> tab character, \b -> backspace character (deletes the character to its left), etc.)
+The period can be problematic in emails. RFC 2822 forbids periods at the beginning or end of the local part or more than one period in a row. In URLs, the Octothorpe (#) is used as the 'anchor'. Anything following a # will not be transmitted to the server. If a user is named 'logout#blahblah' (which might be a valid username) and the user profile is located at http://example.com/<the_username>, the server might generate the URL http://example.com/logout#blahblah. Since the URL will be truncated at the '#', any user attempting to view this profile will be logged out of the service.
+<RTL override> The right to left override is an Unicode character which forces text after it to be laid out right to left. Thus, in left-to-right locales, it flips everything after it. This can be rather amusing if permitted. (See Comic 1137)
+– - _ / Includes both the em-dash and the hyphen, which are easily confused and are highly unusual for user names. The forward slash is also the path delimeter for URLs; if user profiles are located at e.g. http://example.com/user/the_username, this can cause obvious issues. Explain XKCD does not allow / in usernames.
+<Any emoji> Current databases are not set up to store emojis as characters. Explain XKCD does allow emoji in usernames. [actual citation needed]
+"," In CSV files this separates one column or data item from another. This could cause bugs if the usernames are used as part of a CSV file since the next column on the row could be left blank filled with other data.
+&NBSP; The special entity in HTML (web page language) for a non-breaking space, or a space that prevents an automatic line-break at its position. When rendered as part of an HTML page without sanitization, this would only display a space. However, if the username in question is really long, this would increase the page's width (details needed).
+</HTML> This is trying to inject code for the web page using the user name. If the user name is not sanitized and does not have special characters encoded, this HTML end tag could end the HTML document, leading to page errors.
+&LT;/HTML&GT; &lt; and &gt; are special character entities in HTML that represent < and >, repectively. So all together, when rendered as part of an HTML document, this would print "</HTML>" Although this would look similar to the previous </HTML> entry, it would be unlikely to cause problems as the symbols are not interpreted if encoded as special entities.
+OkThisIsKindOfConfusingButIt's <LessThan\ForwardSlashHTML GreaterThanActualGreaterThan Symbol>Yes,ThatWasAllPartOfThe Name,ButSoIs...Ok,LetMeStartOver” The abundance of symbols and symbol related worlds and phrases such as ActualGreaterThanSymbol would make this extremely difficult to vocally communicate to another person. This difficulty is further compounded by the parts at the beginning and end, which sound like they are part of the explanation despite being part of the name itself.
+Transcript[edit]
+Namespace Land Rush Cheat Sheet (Note: if an item is "quoted", it is meant literally, otherwise the reader is supposed to substitute their own information for words in <angle brackets>)
+When a new service appears that lets you register a name, here are some you may want to try and get first:
+Straightforward
+<Your usual username, if any>
+<Your given name>
+<Your full name>
+<Initial><Surname>
+<Surname> (Bold & Slightly Unconventional)
+Recognizable
+"Google"
+"iPhone"
+"Facebook"
+"BitCoin"
+"Obama"
+"Canada"
+"NFL"
+"Garfield"
+<Your city>
+"NASA"
+<Name of person who runs the service>
+Causing Trouble
+"User"
+"Username"
+"Name"
+"You"
+"Guest"
+"Account"
+Causing More Trouble
+"Admin"
+"Administrator"
+"System"
+<Name of service>
+"Help"
+"Error"
+Impossible to Say
+"Hyphen-Emdash"
+"Dash-8hyphen-8"
+"Zero0ne2numeral2"
+"KrisasinHemsworth"
+"TheWord&Ampersand"
+"ZettaWith3Teees"
+Misc
+<Single Letters>
+<Single Numbers>
+<Common Words>
+<SQL/JS Injection>
+"ASDF"
+"QWERTY"
+"Yes"
+"Bot"
+"Computer"
+"Blocked"
+"Deleted"
+"Jeeves"
+"Narrator"
+"Internet"
+"NPC"
+"Password"
+Permissive Character Sets
+<Space>
+<NBSP>
+<RTL override>
+<Any emoji>
+"&NBSP;"
+"</HTML>"
+"&LT;/HTML&GT;"
+one or more of the following symbols: @ é | “ ” \ . # " ‘ – - _ / ’ ' `
+"," (including quote marks)
+"OkThisIsKindOfConfusingButIt's<LessThan\ForwardSlashHTMLGreaterThanActualGreaterThanSymbol>Yes,ThatWasAllPartOfTheName,ButSoIs...Ok,LetMeStartOver”"
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Ahh, he left off root under Causing More Trouble. Nutster (talk) 05:41, 5 March 2018 (UTC)
+Also "null"... 162.158.62.237 21:09, 5 March 2018 (UTC)
+I'm very disappointed he left out dotnotreplay@... --05:43, 5 March 2018 (UTC)~
+Is "gibberish name no one can pronounce" a reference to xkcd? 108.162.215.64 05:56, 5 March 2018 (UTC)
+No test included. Frankly speaking I have seen people using testtest,testtesttesttest, and so on, up to the maxiumn allowed character limit. Jackomatt (talk) 06:35, 5 March 2018 (UTC)
+Took me some time to type the transcript. Randall made it quite hard. Klyxm (talk) 06:38, 5 March 2018
+I came here just to see if the transcript had "..." or "…" in the last one -- 162.158.154.133 17:01, 7 March 2018 (UTC)
+The thing at the bottom-right, he wrote "forward slash" but used a backslash. 162.158.126.76 08:35, 5 March 2018 (UTC)
+It's just to mess with you. Klyxm (talk) 08:49, 5 March 2018
+Null! Where's null? PenguinF (talk) 09:14, 5 March 2018 (UTC)
+I think this whole comic is a reference to the video Worst Wifi Password Ever [1] --162.158.238.76 11:13, 5 March 2018 (UTC)
+This is analogous to the way that land was distributed in America
+There is so much wrong with that sentence. --162.158.154.25 12:26, 5 March 2018 (UTC)
+I think is what he means by rtl override: https://krebsonsecurity.com/2011/09/right-to-left-override-aids-email-attacks/ and I agree surprised he didn’t include the null character; maybe because it’s so hard to get it to actually reach the service? 172.68.54.136 15:24, 5 March 2018 (UTC)
+Emojis don't work in databases? They should be treated no differently from any other UNICODE characters. They would be hard to type if you're using an OS/browser that doesn't have a convenient Emoji-picker, but I would think that they should work as long as the server isn't filtering them out. But I've never deployed a service like this so there may be something important I'm missing here. Shamino (talk) 17:53, 5 March 2018 (UTC)
+The "emoji not work" refers specifically to emojis requiring four characters when encoded in UTF-8, as many programs including databases like MySQL used to only support three-byte UTF-8 characters. There are emoji which fits into three bytes and non-emoji characters requiring four bytes, but for most people, support for four-byte UTF-8 is equivalent to support of (new) emoji. -- Hkmaly (talk) 00:56, 6 March 2018 (UTC)
+(Obviously, when you want to test database, you should be creative and instead of "any" emoji try something like "fairy girl with dark skin tone" 🧚🏿‍♀️ - that's five UTF characters, 18 bytes total, and is supposed to render as single character) -- Hkmaly (talk) 01:08, 6 March 2018 (UTC)
+Whether it renders as a single character is only relevant if you're trying to render it. The database only cares about a name as a sequence of characters, it shouldn't care how many glyphs they correspond to. (And almost related: I vaguely recall the guys behind emoj.li saying that the most common complaint they got was that the most obvious single-character usernames were already taken) -- 162.158.154.133 17:01, 7 March 2018 (UTC)
+Most databases support sorting 😊. Also, attempts to store four-byte character into three-byte UTF column really damaged it - although, obviously, storing it to binary column would not, it's just that username is rarely binary column. -- Hkmaly (talk) 23:41, 7 March 2018 (UTC)
+Someone once told me that on old email databases, you could send a message to "*@example.com" and it would send the message to everyone with an account on that domain. No idea if its true or not, but it seems like the username "*" could cause problems. 162.158.75.16 19:56, 5 March 2018 (UTC)
+So OkThisIsKindOfConfusingButIt's <LessThan\ForwardSlashHTML GreaterThanActualGreaterThan Symbol>Yes,ThatWasAllPartOfThe Name,ButSoIs...Ok,LetMeStartOver actually is "<<\/HTML>> or is it just supposed to be </HTML>? 141.101.105.180 13:46, 6 March 2018 (UTC)
+Do you really think there's a definitely correct answer to that question? 162.158.155.38 14:25, 7 March 2018 (UTC)
+I am not confident enough about this to make the edit myself, but wouldn't the names listed in Causing Trouble (Usernames that might cause errors when mixed with the service's back-end code) (user, guest, etc) be used not so much to trying to fool other people, but because those names are often used as placeholders when the site is in development, and may therefore still have odd/altered permissions, allowing potential malicious access assuming the devs were lazy? Snowblinded (talk) 18:04, 6 March 2018 (UTC)
+Also true. And false. And Schrödinger'sCat.172.69.70.41 21:15, 8 March 2018 (UTC)
+I still try Alt-codes
+I can remember ¥ [alt-157] off the top of my head from high school (circa i286), and I'm trying to figure out how to keyboard 乜 [U+4E5C], it doesn't quite map to [alt-20060]. As for Causing More Trouble anybody try Hastur? I wonder if there will ever be a Unicode Symbol for "The Yellow Sign."Cutech (talk) 08:54, 11 March 2018 (UTC)
+I saw a username that uses hashtag and asterisk symbols before on a website I usually frequent, are they even allowed?Boeing-787lover 09:02, 13 March 2018 (UTC)
+Re
+the transscript
+Klyxm, I know it was probably a hard effort to make it look this pretty, but I believe that we should not try to recreate the physical layout. Not only is it not relevant to the joke, but this makes the transcript hard to use for people using screen readers (try reading the source code -- the categories are intertwined and linewise reading doesn't make sense any more).
+I have stripped the formatting and replaced it with a list (in reading order). I'd welcome a discussion about this, but if you must, there is the "revert this edit" button right there. 172.68.50.112 (talk) (please sign your comments with ~~~~)
+Please don't forget to sign your comments. You are right and there were many discussions about this here before. My new incomplete reason is this: "Layout not standard (eg. indentation) and a short description at the beginning about what is shown should be given." It needs a little bit more rework. In principle the transcript is the written text of the words you use when telling someone else what's in the comic. --Dgbrt (talk) 13:18, 30 May 2018 (UTC)
+Added zero-width spaces in the last line of the transcript due to page zooming issues. 172.69.22.140 06:52, 4 October 2018 (UTC)
+Keep it simple, compare it to other recent transcripts, and read this What is the format of the transcript section ? --Dgbrt (talk) 18:39, 5 October 2018 (UTC)
+"Username" could also be a reference similar to entering "your name" when instructed to "Enter your name." 162.158.74.173 03:42, 7 July 2020 (UTC)
+I wouldn't suggest using the unpronounceable names. People who play Keep Talking and Nobody Explodes are good with those. 172.68.133.36 20:41, 14 July 2020 (UTC)
+Categories: All comicsComics from 2018Comics from MarchMonday comicsPages using the "citation needed" templateComics with lowercase textiOSInternet

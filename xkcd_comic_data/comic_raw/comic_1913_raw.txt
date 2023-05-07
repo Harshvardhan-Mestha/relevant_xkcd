@@ -1,0 +1,55 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1913: A ?
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1913)
+The correct title of this page is 1913: A �. It appears incorrectly here because of technical restrictions.
+|<< PrevComic #1913 (November 8, 2017)Next >>|
+A �
+
+Title text: If you want in on the fun, map a key on your keyboard to the sequence U+0041 U+0020 U+FFFD (or U+0021 U+0020 U+FFFD for the exclamation point version), and then no update can never take this away from you.
+Explanation[edit]
+After the update to Apple's iOS 11.1, many (though not all) iPhone users suffered from a strange bug, where the autocorrection changed any input of the single lowercase letter "i" to either "A" or "!", followed by a space and a Unicode variation selector 16 (U+FE0F, on iOS displayed as a question mark in a square).[1] The expected behavior is replacing "i" with a capital "I".[citation needed] Using a replacement character (U+FFFD) to approximate this display, the result of typing "i took" might be "A � took" or "! � took". In a handwritten text, the "�" symbol could then be mistaken for a censored word, signifying indignation against the person taking out the trash. This problem previously manifested as an "I" followed directly by the VS-16 "emojify character", turning them into an " �" without the "A".[2]
+The note in this comic is the equivalent of starting a text message with "i took out..." and triggering the iOS bug. The joke revolves around acceptance of the bug through repetition has influenced the writer's hand written style.
+The codes in the title text refer to "A �" and "! �" respectively. The text provides a way to keep the "bug" active with the U+FFFD approximation, (which can be realized through the use of a Cydia tweak) even after it is patched. Although this would have no practical use, it is still a fun way[citation needed] for iPhone users to keep the infamous bug fresh in everyone's mind, and to make sure that the Apple company never lives down the embarrassing incident.
+The statement in the title text "no update can never take this away from you" is a double negative, which is a considered non-standard grammatical use in modern English, although common in many dialects. Taking literally it could actually mean "any update can take this away from you". This may be a typo or a colloquial use, with the intended meaning to be "ever" instead of "never" with some exaggeration.
+Transcript[edit]
+[A picture of a yellow post-it note with a handwritten message:]
+A ⍰ took out the trash but the dishwasher still needs to be run.
+[Caption below the panel:]
+Apple can try to fix the autocorrect bug, but I've already incorporated it into my handwriting.
+References[edit]
+↑ http://www.loopinsight.com/2017/11/06/ios-bug-autocorrects-letter-i-to-a-plus-unicode-symbol-heres-a-workaround-and-a-clue-to-the-cause/
+↑ https://twitter.com/willkirkby/status/925865928193134593
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+"no update can never" is logically equivalent to "any update can". Not sure if this is intentional. 162.158.106.60 16:49, 8 November 2017 (UTC)
+Isn't it logically equivalent to "any update can sometimes"? Linguistically, of course, it can be equivalent either to this, or to "no update can".141.101.105.198 16:59, 8 November 2017 (UTC)
+I think it's actually equivalent to "ALL updates can" (because if even a single update could not, the statement would be false). Jedi.jesse (talk) 05:28, 9 November 2017 (UTC)
+But "all updates can" could imply that only applying all updates would take it away. It also doesn't deal with the temporality - "no update can never" only implies that for each update there is a point in time when it could take it away, not necessarily that any update can always take it away, nor that there is any time at which all updates could take it away. Or to summarise, trying to reduce language to terms of logic is a fool's errand. ;o)141.101.105.198 09:53, 9 November 2017 (UTC)
+It could also mean "all updates can sometimes take this away", which, while making no logical sense, seems to be correct 108.162.246.154 01:03, 30 March 2022 (UTC)
+Or did Randall mean to type "no update can ever take this away" which makes more sense to me? 172.68.54.76 19:08, 8 November 2017 (UTC)
+Due to the linked Wikipedia article "some dialects of English are examples of negative-concord languages", i.e. double negatives intensifies eauch other. From my experience, it isn't only some dialects but most (of American English). Same Wikipedia article also states that negative-concord are more common. (we need more mathematicians in the world.) Imho, the relevant sentence on the comic page should be deleted or strongly modified, since it's common usage. Derda17 (talk) 07:05, 9 November 2017 (UTC)
+Idiot English is a bit of stretch to call a dialect. It just happens to be how dumb people speak.162.158.202.118 21:57, 9 November 2017 (UTC)
+"And that no woman has, nor never none / Shall mistress be of it, save I alone." I wouldn't consider Shakespeare as dumb. Derda17 (talk) 09:38, 21 November 2017 (UTC)
+Rule #1 here: don't be a jerk. Your modern "proper" English is basically the "extremely, super duper idiot" version of Old English. English has no strong and/or standardizing authority to establish e.g. a standard French. (Wowitschris (talk) 20:15, 10 November 2017 (UTC))
+It could also be read as "Not updating can prevent this bug being taken away from you".
+In Australian English, I was always taught that a double negative is a positive (no surprise there) but more interestingly, a double positive can be a negative. The example of this is where a teacher says "In English there is no such thing as a double positive being a negative" and the student (in best sarcastic Australian accent) replied "Yeah, right" which is clearly a negative :-)
+Is this a comment on all those moral panics about 'the youth of today can't read or write because they're only learning to speak in emojis'? And/or about developers using 'undocumented features' in their applications, so that when they're fixed it breaks those applications?141.101.105.198 16:55, 8 November 2017 (UTC)
+More like on how Randall appears to have strange habits. 172.68.141.52 16:59, 8 November 2017 (UTC)
+Hopefully somebody will make a full tutorial on how to accomplish the title text thing. 162.158.89.241 19:03, 8 November 2017 (UTC)
+I could do this easily on the computer with AutoHotKey (which might be overkill), but I'm not sure about iPhones, which are likely the target for the idea. iPhones have built-in text replacement, but I think you have to follow the word to be replaced with a space for it to work, rather than it working instantly (as "mapping a key on your keyboard" implies). 172.68.26.41 19:15, 8 November 2017 (UTC)
+The correct url for this comic would be something like 1913:_A_%EF%BF%BD, but that is an invalid title. It would still probably be better to change it to "A ?" with a note instead of "A_%C3%AF%C2%BF%C2%BD". —Artyer (talk|ctb) 21:03, 8 November 2017 (UTC)
+I suggest using ⍰ (U+2370) instead, as it better approximates the original iOS display. --172.68.54.52 21:25, 8 November 2017 (UTC)
+Interesting to note that the name of the posted image is i.png, which I guess DOES match the name of the comic? Alanbbent (talk) 22:35, 8 November 2017 (UTC)
+Perhaps, change the strange symbol to its HTML entity, � 108.162.249.154 23:00, 8 November 2017 (UTC)
+A lowercase i represents the square root of negative one, so let's just say that this comic is imaginary and resolve the problem that way :-)162.158.59.238 05:46, 9 November 2017 (UTC)
+It is not possible to make a wiki page with � in the name so I have changed to title to "A ?" and moved both the explanation and the comment here. --Kynde (talk) 10:20, 9 November 2017 (UTC)
+This name seems to be causing problems as well, when I refresh the page or paste the url I just get a white page with the text "No input file specified.", to get to the page I have to remove the name from the url and just use the index. edit: The talk page seems to be unreachable. Kvarts314 (talk) 09:07, 7 June 2021 (UTC)
+Strange that I was the first to comment on the fact that it was I not i that was changed in the comic, which acording to the current explanation is what happens with the Apple bug... --Kynde (talk) 10:28, 9 November 2017 (UTC)
+The expected autocorrection on typing "i" would be replacing it by "I". So usually there's no need to type "I", it should be enough to type "i" (saves you one click). --YMS (talk) 16:18, 9 November 2017 (UTC)
+OK. But what about the other i in the text. Would they not trigger the error because it is inside a word? --Kynde (talk) 18:59, 9 November 2017 (UTC)
+No they wouldn't, because the autocorrect is triggered by hitting space. If you use "i" in the middle of a word, the next button is a letter, not the space button, and it recognizes the rest of the word. (I don't know what it would do if you found a word ending with "i".) 162.158.74.33 21:09, 9 November 2017 (UTC)
+Worth noting also that if the lower-case i is at the end of a word (e.g. "Hawaii"), this wouldn't trigger the AutoCorrect because "Hawaii" is a recognized word and wouldn't need correcting. And I assume that if you typed "hawaii" instead, it would perform a standard correction to "Hawaii". (Ironically, my MacBook auto-corrected my lower-case "hawaii" to "Hawaii" for me while typing this. I had to override it here. :)) KieferSkunk (talk) 22:36, 9 November 2017 (UTC)
+Categories: All comicsComics from 2017Comics from NovemberWednesday comicsPages using the "citation needed" templateUnicodeComics with coloriOSComics with lowercase text

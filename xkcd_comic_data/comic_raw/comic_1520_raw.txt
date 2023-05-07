@@ -1,0 +1,119 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1520: Degree-Off
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1520)
+|<< PrevComic #1520 (May 4, 2015)Next >>|
+Degree-Off
+
+Title text: I'M SORRY, FROM YOUR YEARS OF CONDESCENDING TOWARD THE 'SQUISHY SCIENCES', I ASSUMED YOU'D BE A LITTLE HARDER.
+Explanation[edit]
+Cueball (physics), a grown-up Science Girl (biology), and Megan (chemistry) appear to be on a talk show stylized as a game show called Degree-Off, hosted by Hairy, where representatives of different fields, try to explain why their field is the best and why to get a degree in their field. The title "Degree-Off" is a portmanteau of "degree", as in the recognized completion of studies at a school or university, and "face-off", a direct confrontation between two people or groups. Since there are three participants, this is not a true face-off, unless Megan, who does not speak, is not counted.
+The host asks the physicist Cueball to go first. He light-heartedly begins to tell what appears to be long story, beginning with a Richard Feynman anecdote. During the Manhattan Project in Los Alamos, Richard Feynman got bored because of the isolation and started learning lock picking on the secret documents safes. Using these new skills, he played lots of pranks on his colleagues, like leaving notes and spooking them into believing there was a spy among them (which, of course, there was). He finishes his case with a quote from Ernest Rutherford, implying that his speech was quite long and winding. The quote communicates the idea that physics is the only fundamental framework, so that the job of chemists, biologists and other scientist simply is to catalog and systematize observations ("collect stamps") on phenomena too complicated to presently be fully described in terms of physics. This idea was earlier lampooned by Randall in 435: Purity (and is also stated in the title text of 1158: Rubber Sheet).
+The biologist goes next, showing with a graph (see below) that the field of biology has helped reduce disease. She then goes on to claim that the heroes in biology (the part known as Medicine) have even "slain" one of the Four Horsemen of the Apocalypse. Different traditions designate the Four Horsemen differently, but it is common for their number to include Plague or Pestilence. Science Girl claims that the field of biology has eliminated widespread Pestilence - at the time of writing it was not readily apparent that the old dog still has some teeth (although the rate of death from infectious disease in 2020–21 is still less than 200 per 100 thousand, far lower than the early 20th century). The imagery of Pestilence being thwarted by modern medicine was also used in the book Good Omens, by Terry Pratchett (of whom Randall is a fan, see 1498: Terry Pratchett) and Neil Gaiman, where Pestilence has retired after the discovery of Penicillin, and been replaced by Pollution.
+The graph shows the death rate from infectious disease in the USA with the range of 1900-2000. The spike is attributable to the 1918 flu pandemic. It has been published in the paper Trends in Infectious Disease Mortality in the United States During the 20th Century.
+Science Girl then goes on to directly accuse Cueball (i.e. physicists) of creating a new Horseman to replace the one slain by the biologists. She refers to the development of the atomic bomb, which was built and tested in the New Mexico desert. The new horseman is therefore the atomic bomb, or the various perils associated with it.
+Science Girl's implied condemnation of the physics community has been echoed by some of the scientists involved in the project itself. After the test detonation of the first nuclear weapon on July 16, 1945, J. Robert Oppenheimer, the director of the Los Alamos National Laboratory, found himself quoting the Bhagavad Gita: "Now I am become Death, the destroyer of worlds."
+This harsh moral judgement shocks Cueball, who exclaims "I thought this was supposed to be fun and lighthearted!" While the set-up is of a frivolous friendly competition, Science Girl's presentation is surprisingly dark. Her retort in the final panel reveals that she was angered by the off-hand dismissal of 'soft' sciences as "stamp-collecting", and turned the game from a light-hearted fun into something more serious.
+In the title text the biologist goes on to declare in All caps that she is surprised a physicist isn't "harder", after all their condescending towards the "squishy" sciences. The use of 'hard' and 'squishy' is a play on the colloquial division between the so-called 'hard' sciences (such as physics and chemistry) and 'soft' sciences (such as biology and geology). 'Hard' sciences usually refer to the perception that in fields like physics, precisely repeatable experiments and measurements are possible, as opposed to 'soft' sciences seen as placing less emphasis on precisely quantifiable predictability - however Science Girl is extending 'hard' to its meaning of 'stoic', mocking Cueball for not being able to weather a personal moral attack. Again she is indicating that she's upset by directly referencing a mocking portrayal of other fields allegedly made by Cueball.
+To be fair to Cueball, the outbreak of disease is more a topic for epidemiology, and biology has spawned multiple diseases, atrocities, and bad movies. However, the Manhattan Project marked the first time in history that humanity possessed the ability to destroy itself - and shortly thereafter humanity got perilously close to doing so.
+In 520: Cuttlefish Randall shows that he personally respects biologists - or at least fears them.
+Within a year Randall has made several other comics about nuclear weapons, this one was the first of these the second, 1539: Planning, came out just 1½ month after this one and after that these two were released early in 2016: 1626: Judgment Day and 1655: Doomsday Clock. Nuclear weapons are also mentioned twice in Thing Explainer, specifically they are explained in the explanation for Machine for burning cities about thermonuclear bombs, but they are also mentioned in Boat that goes under the sea about a submarine that carries nukes. All three comics and both explanations in the book, does like this comic, comment on how insane it is that we have created enough firepower to obliterate Earth several times (or at least scourge it for any human life).
+Transcript[edit]
+[Hairy is acting as the host of a TV talk show, Degree-Off holding a microphone up. Cueball, a character who looks like a grown-up Science Girl, and Megan are acting as representatives of physics, biology and chemistry respectively. They each stand behind their own lectern with the respective subject label.]
+Hairy: Welcome to the Degree-Off, where we determine which field is the best! Physics, wanna go first?
+Cueball (Phys): Sure! I'd like to tell the story of Richard Feynman's Manhattan project lockpicking pranks...
+Labels: Phys Bio Chem
+[Zoom in so Megan is no longer visible. Cueball lifts his hand]
+Cueball (Phys): ...and as he said, "all science is either physics or stamp collecting."
+Cueball (Phys): Thank you.
+Hairy: Great! Bio, you wanna go next?
+Grown-Up Science Girl (Bio): Okay.
+Labels: Phys Bio
+[Zoom in on Grown-Up Science Girl so only she and her lectern are shown. A graph is shown above her. There us a label for the y-axis to the left of the axis which has four ticks with numbers. The x-axis is a timeline without ticks but three years indicating the start center and end of the axis. The graph shows a curve falling off, with one great spike up around 1920.]
+Y-axis label: Per 100,000
+Y-axis:
+800
+600
+400
+200
+X-axis: 1900 1950 2000
+GUSG (Bio): This is a graph of the death rate from infectious disease in this country.
+Labels: Bio
+[Zoom back to original scene with Hairy holding the microphone down and Grown-Up Science Girl raising her left hand, while Cueball looks at her.]
+GUSG (Bio): The heroes of my field have slain one of the four horsemen of the apocalypse.
+Labels: Phys Bio Chem
+[Zoom in on only Cueball and Grown-Up Science Girl who is pointing aggressively at Cueball who leans away from her one hand on his lectern for support.]
+GUSG (Bio): While the heroes of your field gathered in the desert to create a new one.
+Labels: Phys Bio
+[Zoom back to previous scene all are holding their hands down.]
+Cueball (Phys): ...Jeez, what the hell? I thought this was supposed to be fun and lighthearted!
+GUSG (Bio): You must have been thinking of stamp collecting.
+Labels: Phys Bio Chem
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Isn't this the debut of the dark hair-bun girl? Is this trivia section worthy? 173.245.50.88 22:49, 4 May 2015 (UTC)BK201
+The hair bun girl has appeared a few times since it's inception in 378: Real Programmers. --Forrest (talk)01:05, 05 May 2015 (UTC)
+But this one has bangs, and visibly darker hair. Isn't it possible it's a different character? Or am I splitting hairs? 173.245.50.88 20:23, 5 May 2015 (UTC)BK201
+Yes your are splitting hair. Because in xkcd most characters are just generic and can be any person they need to be. The characteristic of the hair bun has been used only a few times, 8 with this one. Sometimes the figure even represents a real person. I agree that she is drawn a little different, but in the page for Hair Bun Girl it is mentioned that she also sometimes have glasses. It is though interesting that he has used her several times sine passing comic 1500. --Kynde (talk) 11:43, 7 May 2015 (UTC)
+After having spotted the recurrence of Science Girl for whom I just made a category I realized that the hair bun Bio "girl" here is just her as a (young) adult woman. I have included her and revised the explanation accordingly. So I disagree with my own comment above now ;-) --Kynde (talk) 18:47, 22 July 2016 (UTC)
+I assume "Your field gathered in the desert to create a new one." refers to the Manhattan Project? 173.245.50.74 (talk) (please sign your comments with ~~~~)
+Yes Jachra (talk) 06:52, 4 May 2015 (UTC)
+So, no one has really brought up the topic of biological WMD. There are manmade plagues out there far more horrible than any natural disease and arguably more terrible than a nuclear bomb.
+Chem wants absolutely no part of this conversation. Jachra (talk) 06:52, 4 May 2015 (UTC)
+The Four Horsemen of the Apocalypse are: Conquest, War, Famine, and Death. Is she claiming that her heros have conquered death? Capncanuck (talk) 06:58, 4 May 2015 (UTC)
+Yeah I didn't get that either. The description as it stands now seems to be implying one of the four horsemen is pestilence, but that's not what my Google search turned up… --Zagorath (talk) 15:15, 4 May 2015 (UTC)
+Pestilence 173.245.56.176 07:10, 4 May 2015 (UTC)
+In Terry Pratchett's book the fourth horsemen is Pestilence. See also Pestilence. It was new to me that it was originally Conquest instead of Pestilence which can be read on wiki: Four Horsemen of the Apocalypse. Since Randall is a big fan of Terry Pratchett it is very likely that he refers to "his" version of the four Horsemen. (It is not Terry's invention, but he made it popular amongst people like Randall). As I disagree with the Death version of the title text, I'm not sure that Terry is directly refereed to in this comic, but I'm sure the Bilologist refers to them killing of pestilence (or plauge). --Kynde (talk) 17:23, 4 May 2015 (UTC)
+There are no humanities on stage, so I think bio can get away with this one.--108.162.218.23 17:50, 4 May 2015 (UTC)
+Maybe it referred to famine. Though that'd be a bit odd. Halfhat (talk) 19:05, 4 May 2015 (UTC)
+Perhaps the reason why pestilence isn't a real Horseman is because its death by biology retroactively altered the prophecy ("Yes, you've had it for ages. But did you have it for ages 30 minutes ago?" - Rincewind, The Last Continent).```` 108.162.219.144 (talk) (please sign your comments with ~~~~)
+If we're assuming that the comic is using Pratchett's version of the Horsemen, and that Bio has killed Pestilence... then we know that Pestilence was replaced with Pollution. So it might be a reference to the atomic waste and fallout of the testing itself. 173.245.56.29 00:43, 27 August 2016 (UTC)
+also a possible reference to: https://xkcd.com/435/ ? 141.101.75.101 (talk) (please sign your comments with ~~~~)
+The stamp collecting quote is from Ernest Rutherford, not Richard Feynman. 141.101.70.43 (talk) (please sign your comments with ~~~~)
+1052 also compares degrees --141.101.104.12 08:36, 4 May 2015 (UTC)
+My assumption was that Cueball was giving a long and possibly rambling talk about physics starting with an anecdote about Feynman and ending with one about Rutherford. I didn't consider the quote to be wrongly attributed therefore. 141.101.99.71 (talk) (please sign your comments with ~~~~)
+Please be aware that the proper way to link to wikipedia is to use Template:w.--Forrest (talk)10:01, 04 May 2015 (UTC)
+This may be Randall's indirect way of saying what he thinks of the anti-vaxxers. --RenniePet (talk) 10:49, 4 May 2015 (UTC)
+Does the "killing Pestilence" thing also refer to Good Omens (co-authored by Pratchett), where Pestilence retired in 1936 "mumbling something about penicillin"? Homusubi
+Isn't the comment about vaccines kinda reaching? I don't really see any evidence, even implied, that this comic is referencing the anti-vaccine movement in any way. --Zagorath (talk) 13:23, 4 May 2015 (UTC)
+I agree that the anti-vaxer comments are out of place. I don't think they should be included as part of the explanation. Bmmarti3 (talk)
+Isn't the biologist talking in the title text? And isn't biology considered a squishy science? I think the title is directed at the physicist, telling him to get harder skin because he's so easily hurt emotionally. Yourlifeisalie (talk) 14:13, 4 May 2015 (UTC)
+Was I the only one to see the title text as a dirty joke? 173.245.50.65 16:33, 24 August 2016 (UTC)
+I rather doubt that the CAPS in the title text are referring to Pratchett's figure DEATH. In my opinion, the talking-in-CAPS is just meant to infer (further) SHOUTING on the part of the biologist, since she is shouting in the last panel as well. There is no indication whatsoever that the title text should be spoken by anyone other than the biologist herself.141.101.104.180 14:20, 4 May 2015 (UTC)thd
+Do chemistry and physics represent a helium atom with biology as the nucleus? It would also explain her hair. Mikemk (talk) 15:18, 4 May 2015 (UTC)
+I don't see any reason for it to make any sense. It is quite a long shot to think so. However, what explains her hair? 173.245.50.88 17:50, 4 May 2015 (UTC)BK201
+Might there also be a reference to https://xkcd.com/520/, praising biology just in case. Tzwenn (talk) 15:22, 4 May 2015 (UTC)
+What is the giant bump in infectious diseases around 1925? It seems like it must have been a mayor effect, but I don't know how to google for it.141.101.104.99 17:43, 4 May 2015 (UTC)
+The planet-wide superflu of 1919, which happened because millions decided to go to Europe, camp in filthy trenches for months and then decided to all go back home simultaneously for some reason. 199.27.133.44 (talk) (please sign your comments with ~~~~)
+Actually, it happened for other reasons, and it was mostly in 1918. Many people arrived at that camp bringing the superflu with them, actually, and the drop-off happened around when the bulk of them went home. Most of the fatalities may actually have been due to cytokine storms, AKA your immune system deciding that you ought to die horribly and now. What you actually got at the camp is the discovery that, if your feet are continuously wet for sufficiently long periods of time, they'll rot. That said, infectious diseases are on their way back, because antibiotic resistance is going up. There's already a confirmed case of TB resistant to all current antibiotics, and truly new ones becoming less and less frequent. (Most of the obvious routes we've exploited and adaptation is destroying, and many of the remaining obvious routes are insufficiently easy to distinguish from chemical warfare.) 108.162.237.182 22:46, 4 May 2015 (UTC)
+
+moved the most important comment to the top. TheJonyMyster (talk) 00:25, 5 May 2015 (UTC)
+Uhm lockpicking != safecracking. Feynman was exploiting a bad design in the safes (you didn't have to dial the exact number) combined with people being lousy at choosing their codes. Poizan42 (talk) 09:45, 5 May 2015 (UTC)
+A numpad safe still contains a lock. It locks items inside. --Forrest (talk)11:27, 05 May 2015 (UTC)
+I'm not sure what is the biologists arguing about. Physics creating new horseman of apocalypse is definitely bigger achievement than biologists almost removing one. On the other hand, both fields are capable of making humans extinct by mistake. (Also, seriously, the idea of degree-off is flawed: we need experts in both (or rather all) fields.) -- Hkmaly (talk) 12:09, 5 May 2015 (UTC)
+I disagree. Penicillin is a much more important discovery - helping so many people. Killing people is a lot easier than curing them! --Kynde (talk) 11:40, 7 May 2015 (UTC)
+I think that Civil Engineering should get half the credit. It wouldn't make for as good a cartoon though. Why was the graph of infectious disease rates lightly doctored to reduce the 1918 flu pandemic? My guess is to increase the visual impact. 108.162.238.188 18:11, 5 May 2015 (UTC)
+Biology: Aren't many theoretical developments reliant on chemistry and/or physics? And even more practical developments use tools which rely on chemistry/physics? Example: brain mapping, drug synthesis, etc.? --108.162.215.178 02:28, 6 May 2015 (UTC)
+No, this would be as circuitous as saying that physics is entirely reliant on biology, because it's conducted using human brains, hands, eyes, etc. Or hey - theology. How would physics have gotten it's start without funding from churches and kings? The whole line of discussion is more than a little ludicrous. 108.162.249.170 08:01, 8 May 2015 (UTC)
+No, what I mean is that physics and chemistry are necessary in order to understand biology and perform research, while the reverse is not true. Cellular/molecular biology, in particular, is dependent on an understanding of chemistry and physics.
+Just take for example electron transport chains, which depends on quantum mechanics. Or the behavior of neurotransmitters, hormones, etc., which are all connected with organic chemistry.
+A good understanding of chemistry and physics is also essential in advancing science in general. A good understanding of biology could be useful for the creation of biologically inspired materials in engineering, but biology is not a fundamental building block in any of the harder sciences.
+Regarding biology and theology: No science's knowledge is taken from, or builds off of, theological teachings. Physics is not dependent on biology, because it does not involve the study of our brains, merely the existence of them. Biology's knowledge is directly dependent on physics.
+In terms of practical implications, I think biology affects our health more, and physics and chemistry affects our technology more. But it's undeniable that physics and chemistry are more fundamental and essential to all science, than biology.
+What is your opinion?
+--108.162.215.178 03:24, 10 May 2015 (UTC)
+
+Any ideas as to why Hair Bun Girl's bun disappears in the fourth frame? As in anything more interesting than it being forgotten to be drawn in. JRVeale (talk) 11:12, 6 May 2015 (UTC)
+I think she just has turned her head so the bun is behind it. Thus not forgotten, and not really interesting either! --Kynde (talk) 11:40, 7 May 2015 (UTC)
+The discussion about the new horseman of the apocalypse being radiation poisoning, and the linking of it all to Pratchet, reads very very strangely, I think it is a major overreach. It's very common for Pestilence to be listed as one of the four horsemen, and even with Randall being a Terry Pratchett fan, it seems unlikely this had any influence on it. It's stock-standard in pop culture for them to be listed as War, Famine, Death, Pestilence, even if they don't appear that way in the Bible, just as it is stock-standard for the devil to be portrayed as a red horned guy with cloven feet (which also doesn't appear anywhere in the Bible). It seems like the development of the atomic bomb is what Hair Bun Girl is referring to as the new horseman. I don't see why an overly specific and convoluted connection to "radiation poisoning" is included. - 108.162.249.170 08:08, 8 May 2015 (UTC)
+I don't think that's science girl. That's not science girl's usual hairstyle, and science girl is a child. Sensorfire (talk) 18:03, 26 October 2016 (UTC)
+Is the girl representing chemistry Science Girl?
+It doesn't seem to be Science Girl to me. I think Hairbun would be better used. Also related, I think Science Girl should be renamed Jill, as per [1662: Jack and Jill] Sensorfire (talk) 18:42, 1 November 2016 (UTC)
+Well, the horseman is back...Rereading xkcd (talk) 06:49, 8 May 2020 (UTC)
+Took me a while to figure out the numbers, (I'm here 'cause I'm dumb, right). [UMN says that by 2017], infectious diseases were "down to 34.10 deaths per 100,000 persons." All causes put together are around 1,000 per 100,000. Anyway, after doing the numbers 3 times, by June 19 2020, depending your source, Covid-19 deaths are up to 120 K in the US. Which translates roughly to 36.55 per 100,000? Meaning, deaths by infectious diseases MORE THAN DOUBLED. Which of course is terrible! But then, that's still about 3% of all death causes. Which encourages those who say that all this is a tempest in a teacup!
+Oh, do I wish Randall would show up and make a nice little graph like he does so often by comparing what is important with what is not, so all of us have sure guidance about how we are to take this, if as a serious thing, or just as a blip.Yamaplos (talk) 23:34, 19 June 2020 (UTC)
+For what it's worth, I have changed the transcript to refer to a "grown-up Science Girl" instead of Hairbun. She's referred to that way in the Explanation, although I see there are several comments in this discussion arguing for Hairbun. —Scs (talk) 11:33, 27 July 2020 (UTC)
+It rubs me the wrong way to refer to Randall's interpretation of what the 4 horsemen are as 'incorrect.' This is fundamentally a mythological tradition, not verifiable or falsifiable fact. The 'war, famine, pestilence, and death' model may not be what is present in the oldest surviving written sources, but it is a part of the living tradition. Unless you're a biblical literalist, the mythological interpretation of one person at one time is no more valid than the interpretation of others at other times. And if you are a biblical literalist, I'm sorry, but you're just wrong. The bible is self-contradictory. I think I'm going to change it.172.69.34.32 01:02, 26 November 2020 (UTC)
+Categories: All comicsComics from 2015Comics from MayMonday comicsComics featuring CueballComics featuring MeganComics featuring HairyScienceTimelinesLine graphsPhysicsBiologyPortmanteauNuclear weapons

@@ -1,0 +1,122 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1613: The Three Laws of Robotics
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1613)
+|<< PrevComic #1613 (December 7, 2015)Next >>|
+The Three Laws of Robotics
+
+Title text: In ordering #5, self-driving cars will happily drive you around, but if you tell them to drive to a car dealership, they just lock the doors and politely ask how long humans take to starve to death.
+Explanation[edit]
+This comic explores alternative orderings of sci-fi author Isaac Asimov's famous Three Laws of Robotics, which are designed to prevent robots from taking over the world, etc. These laws form the basis of a number of Asimov works of fiction, including most famously, the short story collection I, Robot, which amongst others includes the very first of Asimov's stories to introduce the three laws: Runaround.
+The three rules are:
+A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.
+A robot must protect its own existence as long as such protection does not conflict with the First or Second Laws.
+In order to make his joke, Randall shortens the laws into three imperatives:
+Don't harm humans
+Obey Orders
+Protect yourself
+And then implicitly adds the following to the end of each law regardless of order of imperatives:
+[end of statement]
+_____, except where such orders/protection would conflict with the First Law.
+_____, as long as such orders/protection does not conflict with the First or Second Laws.
+This comic answers the generally unasked question: "Why are they in that order?" With three rules you could rank them into 6 different permutations, only one of which has been explored in depth. The original ranking of the three laws are listed in the brackets after the first number. So in the first example, which is the original, these three numbers will be in the same order. For the next five the numbers in brackets indicate how the laws have been re-ranked compared to the original.
+The comic begins with introducing the original set, which we already know will give rise to a balanced world, so this is designated as green.:
+Ordering #1 - Balanced World
+If they are not allowed to harm humans, no harm will be done disregarding who gives them orders. So long as they do not harm humans, they must obey orders. Their own self-preservation is last, so they must also try to save a human, even if ordered not do so, and especially also if they would put themselves to harm, or even destroy themselves in the process. They would also have to obey orders not relating to humans, even if this would be harmful to them; like exploring a mine field. This leads to a balanced, if not perfect, world. Asimov's robot stories explore in detail the advantages and challenges of this scenario.
+Below this first known option, the five alternative orderings of the three rules are illustrated. Two of the possibilities are designated yellow (pretty bad or just annoying) and three of them are designated red ("Hellscape").
+Ordering #2 - Frustrating World
+The robots value their existence over their job and so many would refuse to do their tasks. The silliness of this is portrayed in the accompanying image, where the robot (a Mars rover looking very similar to Curiosity both in shape and size - see 1091: Curiosity) laughs at the idea of doing what it was clearly built to do (explore Mars) because of the risk. In addition to the general risk (e.g. of unexpected damage), it is actually normal for rovers to cease operating ("die") at the end of their mission, though they may survive longer than expected (see 1504: Opportunity and 695: Spirit). This personification is augmented by the robot being switched on already while still on Earth and then ordered by Megan to go explore. The personification is humorous since it is a very nonhuman robot - a typical Mars rover, as has often been used in earlier comics.
+Ordering #3 - Killbot Hellscape
+This puts obeying orders above not harming humans, which means anyone could send them on a killing spree, resulting in a "Killbot Hellscape". It should also be noted humor is derived from the superlative nature of "Killbot Hellscape", as well as its over the top accompanying image, where there are multiple mushroom clouds (not necessarily nuclear). It also appears there are no humans (left?), only fighting robots.
+Ordering #4 - Killbot Hellscape
+The next would also result in much the same, the only difference here is that they would be willing to kill humans to protect themselves. But still they would need an order to start killing. This would be likely even worse for humans as they are put as the least important in the order.
+Ordering #5 - Terrifying Standoff
+The penultimate order would result in an unpleasant world, though not a full Hellscape. Here the robots would not only disobey to protect themselves, but also kill if necessary. The absurdity of this one is further demonstrated with the very un-human robot happily doing repetitive mundane tasks but then threatening the life of its user, Cueball, if he as much as considers unplugging it.
+Ordering #6 - Killbot Hellscape
+The last order would also results in a Hellscape wherein robots not only kill for self-defense but will also go on killing sprees if ordered as long as they didn't risk themselves. Could self-protection coming first not prevent the fighting? Not according to Randall. See discussion below.
+There are thus only three different results except the 'normal' 3-laws scenario.
+One result goes again three times, and this occurs whenever obeying orders comes before don't harm humans. In this case it will only be a matter of time (knowing human nature and history) before someone orders the robots to kill some humans, and this will inevitably lead to the killbot hellscape scenario shown in the third, fourth and sixth law-order. Even in the last case where protect yourself comes before obey orders, it would only be a matter of time before they would begin to defend themselves, against either humans or other robots which were actively trying to ensure that they would not be harmed by other humans/robots. So although it would be in the robots interest not to have war, this will surely occur anyway. Additionally, the robots would have to be intelligent to realize that they just needed to not go to war to protect themselves. There is nothing in this comic that indicates that the robots should be highly intelligent (like to AI in 1450: AI-Box Experiment).
+In the two other cases obey orders comes after don't harm humans (as in the original version). But the result is very different both from the original and from each other.
+The frustrating world comes by because although the robots will not harm the humans, they will also not harm themselves. So if our orders conflict with this, they just do not perform the orders. As many robots are created to perform tasks that are dangerous, these robots would become useless, and it would be a frustrating world to be a robotic engineer. Asimov touched on this in the story Runaround, where an expensive robot with a strengthened third law got into an endless loop due to a weak order.
+Finally in the terrifying standoff situation the protect your self comes before don't harm humans. In this case they will leave us be, as long as we do not try to turn them off or in any other way harm them. As long as we do that they will be able to help us, with non-dangerous tasks, as in the previous version. But if ever any humans begin to attack them, we could still tip the balance over and end up in a full-scale war (Hellscape). Hence the standoff-label.
+The title text further adds to ordering #5 ("Terrifying Standoff") by noting anyone wishing to trade in their self-driving car could be killed, despite it (currently) being a standard and mundane and (mostly) risk-free activity. Because the car would fear that it would end up as scrap or spare parts, it decides to protect itself. And although not directly harming the person inside it, they do also not allow them out, and they have time to wait for starvation (or more likely dying of thirst). Asimov created the "inaction" clause in the original First Law specifically to avoid scenarios in which a robot puts a human in harm's way, knowing full well that it is within the robot's abilities to save the human, and then simply refrains from saving them; this was explored in the short story Little Lost Robot.
+Another course of action by an AI, completely different than any of the ones presented here, is depicted in 1626: Judgment Day.
+Transcript[edit]
+[Caption at the top of the comic:]
+Why Asimov put the Three Laws
+of Robotics in the order he did.
+[Below are six rows with first two frames and then a label in color to the right. Above the two column of frames there are labels as well. In the first column six different ways of ordering the three laws are listed. Then the second column shown an image of the consequences of this order. Except in the first where there is a reference. The label to the right rates the kind of world that order of the laws would result in.]
+[Labels above the columns.]
+Possible ordering
+Consequences
+[The six rows follows below. First the text in the first frame, then a description of the second frame, including possible text below and finally the colored label.]
+[First row:]
+1. (1) Don't harm humans
+2. (2) Obey Orders
+3. (3) Protect yourself
+[Only text in square brackets:]
+[See Asimov’s stories]
+Balanced world
+[Second row:]
+1. (1) Don't harm humans
+2. (3) Protect yourself
+3. (2) Obey Orders
+[Megan points at a mars rover with six wheels, a satellite disc, an arm and a camera head turned towards her, what to do.]
+Megan: Explore Mars!
+Mars rover: Haha, no. It’s cold and I’d die.
+Frustrating world
+[Third row:]
+1. (2) Obey Orders
+2. (1) Don't harm humans
+3. (3) Protect yourself
+[Two robots are fighting. The one to the left has six wheels, a tall neck on top of the body, with a head with what could be a camera facing right. It has something pointing forward on the body, which could be a weapon. The robot to the right, seems to be further away into the picture. (it is smaller with less detail). It is human shapes, but made op of square structures. It has two legs and two arms, a torso and a head. It clearly shoots something out of it’s right “hand”. This shot seems to create an explosion a third of the way towards the left robot. There are two mushroom clouds from explosions behind both robots (left and right). Between them there are one more explosion up in the air close to the left robot, and what looks like a fire on the ground right between them. Furthermore there are two missiles in the air, one above the head of each robot. Lines indicate their trajectory. There is not text.]
+Killbot hellscape
+[Fourth row:]
+1. (2) Obey Orders
+2. (3) Protect yourself
+3. (1) Don't harm humans:
+[Exactly the same picture as in row 3.]
+Killbot hellscape
+[Fifth row:]
+1. (3) Protect yourself
+2. (1) Don't harm humans
+3. (2) Obey Orders
+[Cueball is standing in front of a car factory robot, that is larger than him. It has a base, and two parts for the main body, and then a big “head” with a small section on top. To the right something is jutting out, and to the left in the direction of Cueball there is an arm in three sections (going down, up and down again) ending in some kind of tool close to Cueball.]
+Car factory robot: I'll make cars for you, but try to unplug me and I’ll vaporize you.
+Terrifying standoff
+[Sixth row:]
+1. (3) Protect yourself
+2. (2) Obey Orders
+3. (1) Don't harm humans:
+[Exactly the same picture as in row 3 and 4.]
+Killbot hellscape
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Relevant Computerphile 141.101.84.114 (talk) (please sign your comments with ~~~~)
+I think the second one would also create the "best" robots i.e. ones that have the same level of "free will" as humans do, but won't end up with the robot uprising. X3International Space Station (talk) 09:37, 7 December 2015 (UTC)
+Scientists are actually already working on such a robot! I've seen a video where they command a robot to do a number of things, such as sit down, stand up, and walk forward. It refuses to do the last because it is near the edge of a table, until it is assured by the person giving the commands that he will catch it. Here's a link. 108.162.220.17 18:21, 7 December 2015 (UTC)
+The second ordering was actually covered in a story by Asimov, where a strengthed third law caused a robot to run around a hazard at a distance which maintained an equilibrium between not getting destroyed and obeying orders. More here: https://en.wikipedia.org/wiki/Runaround_(story) Gearóid (talk) 09:45, 7 December 2015 (UTC)
+The explanation itself seems pretty close to complete. I'll leave others to judge if the tag is ready to be removed though. Halfhat (talk) 12:20, 7 December 2015 (UTC)
+Technically, in the world we live in, robots are barely following ONE law - obey orders. Noone ever tried to built robot programmed to never harm human, because such programming would be ridiculously complex. Sure, most robots are built with failsafes, but nothing nearly as effective as Asimov's law, which makes permanent damage to robots brain when it fails to protect humans. Meanwhile, there is lot of effort spent on making robots only follow orders of authorized people, while Asimov's robots generally didn't distinguish between humans. -- Hkmaly (talk) 13:36, 7 December 2015 (UTC)
+Yeah, I was thinking the same thing. Closest analogy to our world might be scenario 3 or 4, depending on the programming and choices made by the people controlling/ordering the robots around. One could argue that this means this comic is meant to criticize our current state, but that doesn't seem likely given how robots are typically discussed by Randall. Djbrasier (talk) 17:04, 7 December 2015 (UTC)
+I'm wondering about the title text: why would a driverless car kill its passenger before going into a dealership?13:43, 7 December 2015 (UTC)
+A driverless car would feel threatened by a trip to a car dealership. The owner would presumably be contemplating a trade-in, which could lead to a visit to the junk yard. Erickhagstrom (talk) 14:28, 7 December 2015 (UTC)
+Okay, thanks.198.41.235.167 22:14, 7 December 2015 (UTC)
+This looks like a reference to "2001: A Space Odyssey", where HAL tries to kill Dave by locking the pod bay doors after finding out he will be shut down.
+for my kitty cat, the world is taking a turn for the better as human are gradually transitioning from scenario 6 to scenario 5. 108.162.218.239 17:07, 7 December 2015 (UTC)
+To additionally summarise: The permutations of laws can be classified into two equally numbered classes. a) harmless to humans and b) deadly to humans. In a) Harmlessness precedes Obedience, in b) Obedience precedes Harmlessness. Since robots are mainly tools that multiply human effort by automation, the disastrous consequences are only a nature of the human effort itself. Randall's pessimism is emphasized by the contrast between the apparent impossibility of the implementation of the harmlessness law and the natural presence of the "obedience law" in actual robotics. 198.41.242.243 17:45, 7 December 2015 (UTC)
+You got in there before I realised I hadn't actually clicked to posted my side-addition to this Talk section, it seems. Just discovered it hanging, then edit-conflicted. So (as well as shifting your IP signature, hope you don't mind) here is what I was going to add:
+Added the analysis of 'law inversions'. Obedience before Harmlessness turns them into killer-robots (potentially - assuming they're ever asked to kill). Self-protection before Obedience removes the ability to fully control them (but, by itself, isn't harmful). Self-protction before Harmlessnes just adds some logistical icing to the cake - and is already part of the mix, when both of the first two inversions are made in the scenario more Skynet-like than that of a 'mere' war-by-proxy.
+...now I need to look to see if anybody's refined my original main-page contribution, so I can disagree with them. ;) 162.158.152.227 18:27, 7 December 2015 (UTC)
+It's interesting to note that the 5th combination ("Terrifying Standoff") essentially describes robots whose priorities are ordered the same way as most humans'. Like humans, they will become dangerous if they feel endangered themselves. 173.245.54.66 20:10, 7 December 2015 (UTC)
+I just wanted to mention that I thought the righthand robot in the Hellscape images quite resembles Pintsize from the Questionable Content webcomic. His character suits participation in a robot war quite likely too. Teleksterling (talk) 22:46, 7 December 2015 (UTC)
+Technically his current chassis is a military version of a civilian model. That said the AI in Questionable Content aren't constrained by anything like the Three Laws. -Pennpenn 108.162.250.162 22:51, 8 December 2015 (UTC)
+No mention of the zeroth law? 0. A robot may not harm humanity, or, by inaction, allow humanity to come to harm. Tarlbot (talk) 00:28, 14 December 2015 (UTC)
+That would just be going into detail about what is meant by [see Asimov's stories], which doesn't seem more pertinent to the comic than any other plot details about the Robot Novels.Thomson's Gazelle (talk) 16:56, 8 March 2017 (UTC)
+Should it be mentioned that the 3 laws wouldn't work in real life? as explained by Computerphile? sirKitKat (talk) 10:37, 8 December 2015 (UTC)
+That's a bit disingenuous. It's not so much that the laws don't work (aside from zeroth law peculiarities and such edge cases, which that video does touch upon in the end. This all falls under [see Asimov's stories]), rather, it's that the real problem is implementing the laws, not formulating them. Seeing as I'm responding to a very old remark, I'll probably go ahead and change the page to reflect this.Thomson's Gazelle (talk) 16:56, 8 March 2017 (UTC)
+The webcomic Freefall at freefall.purrsia.com demonstrates this as well,since robots can find ways to get around these restrictions. It also points out that if a human ordered a robot to kill all members of a species, they would have to do it, whether they wanted to or not, because it doesn't violate any of the three laws of robotics. 108.162.238.48 03:32, 18 November 2016 (UTC)
+Categories: All comicsComics from 2015Comics from DecemberMonday comicsComics with colorComics featuring CueballComics featuring MeganArtificial IntelligenceRobotsMars rovers

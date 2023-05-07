@@ -1,0 +1,558 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1975: Right Click
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1975)
+|<< PrevComic #1975 (April 1, 2018)Next >>|
+Right Click
+
+Title text: Right-click or long press (where supported) to save!
+NOTE: The above is what is seen when viewing the comic on xkcd.
+But it is just the starting point of an interactive comic experience, which begins when you Right Click the comic.
+To experience the interactive content, click here.
+See an example of what happens in the Trivia section below.
+Explanation[edit]
+This explanation may be incomplete or incorrect: Created by A FIRST BASEMAN NAMED NATURALLY. Lots of explanations and menus missing. Do NOT delete this tag too soon.
+If you can address this issue, please edit the page! Thanks.
+This was the eighth April fools' comic released by Randall. The previous April Fool's comic was not from the year before as there was no such comic released in 2017. Instead, the previous one was 1663: Garden, scheduled for released Friday, April 1st, 2016, but in the end released on Monday April 4th 2016. The next was 2131: Emojidome released on Monday, April 1st, 2019.
+This comic was released on April 1 even though that was a Sunday (only the fourth comic to be released on a Sunday). But it was only due to the April Fool joke, as it did replace the comic that would have been scheduled for Monday, April 2nd. The next comic, 1976: Friendly Questions, was first released on Wednesday, April 4th.
+At first, the comic seems like the most simplistic xkcd comic possible - Cueball standing and doing nothing. The "editor's note" tells you to save a copy of the image to "view the full comic".
+To save an image from a browser most people would right-click on it (or long-click in mobile devices) which normally leads to a "context menu" allowing several actions related to the image, including saving/downloading. This is what you are encouraged to do by the editorial note as well as by the comic name and title text. However, the context menu opened is not the default context menu of the browser but an elaborate context menu containing many nonsensical options.
+At first it also seems impossible to save the image using that menu. However, after exploring the context menu you can find an "easter egg" in one of two different places (see below) which unlocks the save option. This save option gives you a different image than the one you see, which can be thought of as "the full comic" although the meat of the comic is actually in the interactive context menu itself. Note that "cheating" by disabling JavaScript and other methods that allow you to directly save the image won't get you that "full comic" image.
+This comic pokes fun at how hard it can be to save an image or to just navigate context menus in some computer programs. The "easter egg hunt" might be related to the fact the comic was released during Easter (which fell on April fool's in 2018). It might also be related to the movie "Ready Player One" which was recently released when the comic was released. In the movie, based on the book by Cline, finding an "easter egg" in a VR world was a central plot point.
+The title is reminiscent of one of the first interactive comics 1110: Click and Drag, where the title explains what the user should do to experience it. However, that was not a fools' day comic.
+The comic uses JavaScript and HTML5 to override the standard context menu. Since modern browsers use the same features to integrate Add-ons into that menu, the behavior may be different depending on the browser environment. Browsers with JavaScript disabled, either totally or by using NoScript, won't access the functionality of the comic, but of course can easily save the image (not "the full version" but the image that is seen initially).
+The manipulated context menu is described below.
+Context menu[edit]
+Main Context Menu[edit]
+# Menu Item Explanation Sub-Menu Items
+1 Save Only appears after getting one of the two easter eggs that can be found in the menu - in the games ADVENT.EXE and Mornington Crescent (see their explanations below). Save image> Views the image the first time you click, then downloads this image on every visit after that. [1]. The image includes a spheroid object near the top right-hand corner which appears to exhibit red shift and green shift, suggesting that it is rotating rapidly.
+2 File Normal submenu Close: Closes menu, does nothing.
+Open: A:\, C:\, / (See more below)
+Find: Where, When, How, (grayed out) What, (grayed out) Why, Who.
+'Where' leads to four options. The first, 'computer', has two options ('folder' and 'menus'), which link back to the 'find' and right-click menus, respectively. "Narnia" leads to a link to the comic 665: Prudence as well as to a grey comment about how it's weird that "they" have to die to go back to Narnia. "Canada" and "America" lead to the same set of bizarre menus (America leads into Canada's menu), which then give the options 'Upper' and 'Lower', ultimately leading to a drive-through and hockey, respectively.
+'When' leads to a description of Siri entering someone's home, and the menu can be followed to reveal several further events from 'earlier' in the day. The last one ('a bottle of jack and a toothbrush') is likely a reference to the song 'Tik Tok' by Kesha.
+'How' simply leads to an exclamation of 'How!?'.
+'What' is grayed out.
+'Why' links to [2], technically answering the question of "Why?"
+'Who' leads to a menu version of the Abbot and Costello "Who's on First?" routine, which eventually links to a youtube video of the routine. As of April 4th, a second submenu has been added, which contains Slappy and Skippy's "Who's on Stage?" parody of the previous routine, which also eventually leads to its youtube video.
+Backup: Causes the area around the comic to flash red 9 times, with high-pitch sounds reminiscent of a truck backing up. Reminiscent of the Sinclair Spectrum SAVE to tape command, which would flash the border and modulate the speaker.
+Save: Only available after the save menu is unlocked after one of the two Easter Eggs is found, allows a download of a bonus comic, same as clicking the save option from the main menu.
+3 Edit Enables a mode allowing the user to draw on the webpage. You can draw multiple scribbles, however, they will automatically connect together. Pressing Esc asks "Aw, that looks nice though. Really delete?" and the page returns to normal if OK is clicked. None
+4 System Normal submenu Shut Down> Changes the only menu option to "Power on", then once that is used, the system returns to normal.
+/ (See below)
+5 View Normal submenu Cascade>Links to [3]
+Tile> Links to 245: Floor Tiles
+Minimize> Changes pointer to a smaller pointer.
+Full Screen> Enters full screen.
+6 Utilities Normal submenu Park drives> Nothing.
+Check space usage> (cannot click) Space usage: -Dark matter -Hydrogen -Helium -Scattered clumps of heavier elements -Stars -Rocks -Some space probes -Earth
+Spell check> English (links to 1069: Alphabet) and Colors (links to [4])
+Train AI> links to 1838: Machine Learning
+Identify song> opens a long word-by-word menu for song lyrics; it's actually a menu-ised version of 851: Na.
+Advanced> several Unix commands, all absurd (or dangerous) for some reason:
+apt-get install /dev/null: apt-get is the standard package manager used in Debian-derived Linux distributions (including Ubuntu); it is normally used to install software; /dev/null is the "bit-bucket" device on any Unix system, which can be used as a dummy output file to discard output or as a dummy empty input file. This command would attempt to install /dev/null (which is a device, not a package!) or, more correctly, would try to install a package reading its data from /dev/null (if apt-get is given a file name it tries to interpret it as a .deb package), which is obviously impossible.
+brew install apt-get: brew is a third-party package manager for macOS; it is generally used to install "missing" open-source utilities on a macOS system; the command is attempting to install the aforementioned apt-get, which is both impossible (apt-get doesn't run on macOS) and hilariously recursive (did you install a package manager - brew - to install another one?). Even if this were possible, the package would have been called apt, as apt-get is only one of the commands in the package manager.
+/usr/local/bin/wine xen-hypervisor.exe: wine is a compatibility layer used to run Windows executables on Linux (and on macOS); the fact that it is in /usr/local hints that it has been manually compiled on this machine; Xen is a Linux-based hypervisor, i.e. a software used to run and manage virtual machines over a Linux host, but the .exe suffix here hints that it is a Windows executable. The command would try to launch a Windows build of a Linux-based virtual machine manager on a Unix machine through a Windows emulation layer (wine).
+source .bash_history: the source shell command reads the file that is given as argument and executes each of its rows as a command in the current shell, roughly as if you typed them in; .bash_history (located in the user home directory) is the file where the bash shell saves the history of the commands that have been run. This command would re-run all the commands that have been typed in the shell.
+rm -rf $DIRECTROY/*: rm -rf deletes recursively and forcefully the paths it is given as arguments; $DIRECTROY is a shell variable, probably containing some directory that whoever typed in this command wanted to clean; however, it is misspelled (it says $DIRECTROY, not $DIRECTORY), and, due to how POSIX shell work, it is thus expanded to an empty string; so, the command becomes rm -rf /*, which deletes all the files and directories in the root of the disk, effectively killing the system instead of just deleting the content of some directory. Notice that this particular misspell manages to circumvent the builtin protection of many rm versions, which refuse to do a plain rm -rf /, as /* gets expanded by the shell, so rm never has the chance to see explicitly that you are killing all the data in the root directory.
+:(){:|:&};:: this is a classic shell fork bomb, i.e. a small program that keeps launching copies of itself until all resources have been exhausted or the user somehow manages to kill all its copies.
+echo "source .bashrc" >> .bashrc: .bashrc is a file that gets executed whenever the bash shell is started in interactive mode; this command appends the string source .bashrc to it, which effectively executes it again recursively; this would pretty much make it impossible to open an interactive shell when launching it with the default parameters.
+alias gcc=php: the alias shell builtin create an alias for another command; gcc is the GNU C compiler driver, which is used to compile programs written in the C language; php is the command-line interpreter for the PHP language. This line creates an alias such that when typing gcc, php is actually invoked, which would generate completely absurd error messages. This is doubly devious, as PHP isn't generally held in high esteem by large part of the programming community (especially by someone writing stuff in C).
+'); DROP TABLE Menus;-- links to 327: Exploits of a Mom
+7 Games Normal submenu Twenty Questions> A Twenty Questions interface that gets really confusing. There are links to Bing image searches for 'okapi', 'pronghorn', 'eland', 'baribusa', 'musk deer' and 'ibex'. The game also contains some extremely large cans of creamed corn (a reference to 1807: Listening).
+Rock Paper Scissors> A Rock Paper Scissors game where the computer always matches your move. If you go long enough, the Defect option is added, a reference to the Prisoner's Dilemma.
+D&D> An interface that allows you to "cast" over 300 spells from D&D 5e. Several menus are used to filter the spells based on their traits: class which can learn the spell, the school of the spell, the spell level, and components required to perform it (somatic, vocal, material). The traits can be chosen in any order. After all six traits are chosen a submenu opens with all of the spells that match those exact traits (which might be no spells at all).
+Most spells link to various pages, including xkcd comics (e.g. 1331: Frequency), what-ifs (e.g. Saliva Pool) and other external sites (e.g. The Sun | NASA). Some spells create effects that change the comic page temporarily or permanently, and some open submenus from different parts of the context menu.
+See below for all links and effects.
+ADVENT.EXE> A text-based adventure game. If played correctly, you can win, unlocking 'Save'>'Save image' from the beginning menu, which links to [5].
+The first scene allows you a choice between exploring a dark cave or a castle. If you explore the cave first you get the following description: "It's pitch black. You're likely to be eaten by a grue". This is a reference to a text adventure game called Zork, where Grues are monsters who dwell in the dark and eat human explorers, making it impossible to explore dark areas. The same description often appears when you enter a dark area without a light source in Zork and other related games.
+If you ignore the warning and go deeper, you are given one more warning ("You're deep in a cave. Something, possibly this very sentence, tells you it would be dangerous to go any further"). If you ignore that too and keep going, you fall into a pit. Several options are given to try and rescue yourself (or alternatively "resign to your fate" or deny you are in a pit [You also may try to cause a distraction by saying "Look behind you! A three-headed monkey!" This may be a reference to the Curse of Monkey Island, where Guybrush Threepwood distracts characters by saying the same line.]) but all lead to "you've been eaten by a grue". Being eaten by a grue seems to be an irreversible condition - if you exit the context menu and enter ADVENT.EXE again, you are given no options and are told again that "you've been eaten by a grue". Apparently only refreshing the page cancels that.
+Exploring the castle is a much safer option to begin with. The main castle scene has a door, a well, and stairs that go up to the tower. The door is locked, and trying to break it is futile.
+The well is a wishing well. Examining it allows for several options:
+Examine the sign - it reads "Dark! Narrow! Scary! Well of Three Features". This is a reference to the well of three features from The Legend of Zelda: Ocarina of Time.
+Wish for... - this one has a lot of options, some of which are links to comics or What If pages and some lead to further submenus:
+World peace - leads to the answer "I'm just a well, can you scale it down a bit?" and then back to the well menu; this option is from now changed to "Inner peace", which gives "A feeling of calm washes over you." and "Ommmmmm...", which also goes back to the well menu
+More wishes - leads back to the "Wish for..." menu. The idea of using a wish to wish for more wishes is common when discussing things with wish-granting powers and was previously mentioned in 1086: Eyelash Wish Log.
+Fewer wishes - Tell you "Really? Okay.." (as this is not something most people would ask for[citation needed]). If you continue you return to the "Examine well" menu. If you want to make a wish again (even after exiting the menu and coming back again) you can only wish for "more wishes" and then you can continue wishing normally.
+Happiness - links to 572: Together, a comic about getting "happiness" as a scavenger hunt item.
+Luck - links to 1053: Ten Thousand which refers to hearing about commonly known things for the first time as being one of "today's lucky 10,000".
+Wisdom - You hear a voice whisper 'N, E, N, N, N, W, S, W'. This is a clue for later.
+Wealth - Links to the what if article All the Money, which might explain what will happen if the wishing well "overgrants" your wish.
+A human-sized hamster ball - links to 152: Hamster Ball where Cueball wishes for the same thing.
+A map of everything - links to 1196: Subways, a map of the subways of North America, which are apparently "everything" for Americans.
+True love - links to Soul Mates.
+A kitty! - links to 231: Cat Proximity, a comic detailing the effect of cats on humans.
+Jump in - Allows you to swim (and later "just keep swimming..." indefinitely) or climb out and return to the "Examine well" menu.
+Pull up the bucket - "You reel in the bucket. There's something shiny in the bottom". If you examine the bucket you get a key!
+After you have the key, if you go back to the castle you can now use the key on the locked door and enter a dungeon. In the dungeon, there is a clamp on a table that you can take.
+Finally, in the tower, you can find a "strange machine" dubbed a "C-Remover". You can try to use the C-Remover on any item you got. It doesn't affect the key, but it does turn the clamp into a lamp! The C-remover is a reference to either the T-remover from Leather Goddess of Phobos or the multi-letter remover from Counterfeit Monkey, a text adventure by Emily Short inspired by it.
+After you have the lamp, entering the cave becomes safer. It now becomes "a maze of twisty passages, all alike" where each room allows going N, E, S, or W, normally leading to an identical room. Only by using the clue from the wish for "wisdom" in the well and going N, E, N, N, N, W, S, W you can navigate the maze successfully. When following that path, after the first "W" the options become N, S, and Dennis instead of the usual N, E, S, W; this is a reference to the text-based game Thy Dungeonman found in a Strong Bad email from homestarrunner.com.
+If you follow the full path you find the center of the maze where there is a nest with a "large multicolored egg" (an easter egg!). If you take the egg you are told "You feel a sense of potential, as if you may have more options now". This is because the "save" options are now unlocked in the main context menu and the file menu!
+Hoverboard> Links to 1608: Hoverboard browser game.
+Mornington Crescent> This is a simulation of the well-known game Mornington Crescent, which bears a surprising resemblance to London's Underground railway network. Players name a station, in turn, endeavoring to reach Mornington Crescent. The rules of play are very complicated and beyond the scope of this article; interested persons are referred to N. F. Stovold’s Mornington Crescent: Rules and Origins (sadly out of print). In this variation, one may reach 'Vauxhall'>'Easter basket'>'Take egg', also allowing you to save. The shortest path to the Easter basket is: Euston / Warren Street / Oxford Circus / Green Park / Victoria / Pimlico / Vauxhall / Easter basket
+All playable stations are immediately adjacent on the London Underground network to the station last played. Despite the fact that this version of the game starts at Euston, which is adjacent to Mornington Crescent, the branch of the Northern line on which the eponymous station is situated does not appear in the game.
+8 Help Contains various submenus, all of which, barring Credits, loop back recursively to this menu: Tutorial
+Support
+Manual
+Troubleshooting
+FAQ
+Guide
+Q&A
+User forums
+Credits> 'Some people who helped with this comic: @chromakode Amber @fadinginterest Kat Kevin Stereo'
+9 Do Crimes Contains several "crimes" that can be committed. This option is unlocked by File > Open > C:\ (or /home/user) > Bookmarks/ > Secret > Enable Dark Web.
+This is a joke about how the dark web is perceived in popular culture - a place that exists solely to do crimes, mainly bitcoin and hacking related.
+Steal Bitcoins > Grayed out.
+Say swears > Several clean swears that all link to 771: Period Speech.
+Hack > Three sub-options that link to various related comics. (Gibson: Nothing. Election: 1019: First Post. Planet: 1337: Hack.)
+Forge a Scrabble Tile > Several sub-options that don't do anything. (U, Z, <this menu option intentionally left blank>, and two special characters, one being a Russian 'Э', as low-pitched [eh], and the second being a crossed swords emoji (⚔)
+
+Filesystems Menu[edit]
+Drive Menu Item Explanation Sub-Menu Items
+A:\ Insert Only appears before inserting a floppy disk. Floppy disk> Unlocks other options for drive A:\, which are identical to drive C:\
+Chip card> A long sequence of being told 'Please wait. Authorizing...' ending in 'Chip error! REMOVE CARD NOW!'
+C:\ Documents/ Nothing. None.
+C:\ Music/ Leads to a long string of prompts for song lyrics. 'Hey now / Hey now na now / Sing "This Corrosion" to me' inverts the webpage's color before Easter egg mode is enabled, and plays the referenced song in the browser with inverted color and flashing if the Easter egg mode is enabled. It's actually the same menu that is shown under Utilities>Identify song (which itself is a menu-ised version of 851: Na). 'Hey now / Hey now / Don't dream it's over' links to 240: Dream Girl. 'This / is / a / story all about how / my life got flipped, turned upside down' links to 464: RBA. 'This / is / the / story of a girl / who cried a river and drowned the whole world' links to a Youtube video: https://www.youtube.com/watch?v=8_FVAEYRM5I
+C:\ Bookmarks/ Similar to Music/, Bookmarks/> Comics leads to a chain from which many comics are titled and linked. Probably all comics actually. For instance, he thus here recognizes his first April Fools' comic 404: Not Found, which cannot be found, as a real comic by linking to it. Bookmarks/> Secret> Enable Dark Web adds the 'Dark Web' option to the initial menu.
+C:\ Games/ Same as 'Games' from the initial menu.
+C:\ Sequences/ The options are the lines from a Tim and Eric sketch Celery Man; the final option links to a YouTube video of the sketch. After several single-option menus, it links to this Youtube video. https://www.youtube.com/watch?v=MHWBEK8w_YY
+/ home/ Nothing. guest> links to http://uni.xkcd.com/ - a command-line Unix-style interface for viewing xkcd comics (and other commands to discover) that was used as the April Fool's joke in 2010. See also UniXKCD.
+user> Same files as C:\
+root> Displays 'You are not in the sudoers file. This incident will be reported.' Which is what the sudo command will print if unauthorized users try to use it.
+/ opt/ Does nothing. None.
+/ sbin/ Does nothing. None.
+/ usr/ Opens an infinite sequence of options, each similar to the last, but replacing the previous selection with another folder; probably a reference to the fact that the /usr hierarchy does contain a list of subdirectories pretty much identical to those of the root directory. /usr/local, too is a duplicate of /usr for files not originating with the distro, and of late /var and /opt have also started expanding.
+/ dev/ Nothing. random/> links to a random xkcd comic. In unix systems reading from the /dev/random file generates pseudorandom bytes, so it fits here that /dev/random gives a random comic.
+urandom/> links to 221: Random Number. In unix systems, /dev/urandom is the same as /dev/random, except in /dev/random you don't get anything if you don't have sufficient "randomness" in the system, and in /dev/urandom you get whatever you have. The linked comic describes a botched attempt to create a function that would return a truly random number but actually, it returns a fixed number (and thus isn't useful at all). This alludes to /dev/urandom providing bad results sometimes.
+D&D spells[edit]
+Here all the spells from the "d&d" game are detailed, including the traits you need to enter to get to them and the link they lead to/effect they create.
+To get to a specific spell using this table you need to go to games->d&d->cast and then enter the traits - level, class, school, and components - in any order. Note that many spells list more than one class in the table (in d&d it means multiple classes can cast that spell), which means you need to choose one of those classes in the menu. Components are listed in the table as V for Verbal Components, S for Somatic Components and M for Material Components - choose "yes" or "no" for these based on whether the matching letter is there or not.
+Link Spells[edit]
+The vast majority of spells (285 of them apparently) are actually links to xkcd comics, what ifs, or external pages that somehow demonstrate or relate to the spell.
+Name Level Classes School Components Link Explanation
+Acid Arrow 2 Wizard Evocation V, S, M https://xkcd.com/790/ The comic is about giving LSD (commonly known as "acid") to test subjects
+Aid 2 Cleric, Paladin Abjuration V, S, M http://donorschoose.org A site dedicated to donations - aiding various subjects
+Alarm 1 Ranger, Wizard Abjuration V, S, M https://xkcd.com/1359/ Comic about phone alarm
+Alter Self 2 Sorcerer, Wizard Transmutation V, S https://xkcd.com/1099/ In this comic beret guy is "altered" in a weird way
+Animal Friendship 1 Bard, Druid, Ranger Enchantment V, S, M https://xkcd.com/1746/ Comic about making friends in a way that might attract some animals better than humans
+Animal Messenger 2 Bard, Druid, Ranger Enchantment V, S, M https://twitter.com/dog_rates A humorous Twitter page about "rating dogs" - in a way "messaging about" animals
+Animal Shapes 8 Druid Transmutation V, S https://xkcd.com/1278/ Comic about using genetic engineering to change an animal (in this case a giraffe) shape
+Animate Dead 3 Cleric, Wizard Necromancy V, S, M http://www.asofterworld.com/index.php?id=62 They were once dead.
+Arcane Eye 4 Wizard Divination V, S, M https://xkcd.com/993/ The comic is related to creating a brand by having products that "stand out" and are therefore "more visible"
+Astral Projection 9 Cleric, Warlock, Wizard Necromancy V, S, M https://xkcd.com/977/ Comic about map projections
+Augury 2 Cleric Divination V, S, M https://xkcd.com/1334/ The comic is about checking the second page of google results for answers, which might be parallelized to reading omens in the spell.
+Awaken 5 Bard, Druid Transmutation V, S, M https://xkcd.com/1518/ Comic about awakening... badly to an alarm sound
+Bane 1 Bard, Cleric Enchantment V, S, M https://xkcd.com/972/ The comic details a simple exploit by blackhat, the bane of everyone's existence
+Barkskin 2 Druid, Ranger Transmutation V, S, M https://youtu.be/qFI4BQlBbig A video by "My Brother, My Brother and Me" where a person creates a "shitty iron man armor", parallel to the armor created by barkskin
+Beacon of Hope 3 Cleric Abjuration V, S https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault Link to the wikipedia page about the global seed vault, which is meant to function as "a beacon of hope" in case of global disaster.
+Bestow Curse 3 Bard, Cleric, Wizard Necromancy V, S https://xkcd.com/214/ The comic talks about "the problem of wikipedia" which can be time-waster to curious people. This can also be rephrased as "the curse of wikipedia"
+Black Tentacles 4 Wizard Conjuration V, S, M https://xkcd.com/1926/ The comic is about an "ugly mess of code" which can be compared to a tentacle mess
+Blade Barrier 6 Cleric Evocation V, S https://xkcd.com/1406/ The comic is about a "universal converted" which can be thought of as a kind of barrier
+Bless 1 Cleric, Paladin Enchantment V, S, M https://what-if.xkcd.com/55/ A what if article about saying "bless you" to random people on the phone, hoping they just sneezed
+Blight 4 Druid, Sorcerer, Warlock, Wizard Necromancy V, S https://xkcd.com/1807/ Another exploit by black hat
+Blindness/Deafness 2 Bard, Cleric, Sorcerer, Wizard Necromancy V https://xkcd.com/467/ Comic related to "two girls one cup", a well-known shock video which might make people wish they were blind after seeing it
+Branding Smite 2 Paladin Evocation V https://xkcd.com/384/ (Can thunder make intelligent?)
+Burning Hands 1 Sorcerer, Wizard Evocation V, S https://xkcd.com/1296/ Git messages become increasingly similar to a person on fire typing them and also relate to haaaannds
+Call Lightning 3 Druid Conjuration V, S https://what-if.xkcd.com/16/ A what if with several lightning-related questions
+Calm Emotions 2 Bard, Cleric Enchantment V, S https://twitter.com/CuteEmergency Twitter page about cute dogs that might indeed calm your emotions
+Chain Lightning 6 Sorcerer, Wizard Evocation V, S, M https://xkcd.com/898/ Comic about the chain of command
+Charm Person 1 Bard, Druid, Sorcerer, Warlock, Wizard Enchantment V, S https://xkcd.com/1777/ Comic about the Nigerian Scan, which can be thought of as a way to "charm" people into doing what you want (like other scams)
+Chill Touch 0 Sorcerer, Warlock, Wizard Necromancy V, S https://xkcd.com/1108/ Comic about a cautionary ghost, similar to the ghostly hand the spell creates
+Circle of Death 6 Sorcerer, Warlock, Wizard Necromancy V, S, M https://xkcd.com/1674/ Comic about doing "adult stuff" including writing a will
+Clairvoyance 3 Bard, Cleric, Sorcerer, Wizard Divination V, S, M https://xkcd.com/1421/ Comic about discovering a creepily clairvoyant comment from your "past self" in your code
+Clone 8 Wizard Necromancy V, S, M https://xkcd.com/1597/ Comic about git - "clone" is a common git command.
+Cloudkill 5 Sorcerer, Wizard Conjuration V, S https://what-if.xkcd.com/8/ Human crowd
+Color Spray 1 Sorcerer, Wizard Illusion V, S, M https://xkcd.com/1882/ Comic about color
+Command 1 Cleric, Paladin Enchantment V https://xkcd.com/857/ Comic about a man making a famous phrase by Archimedes into a command with an ultimatum
+Commune 5 Cleric Divination V, S, M https://youtu.be/7yxaKeRRypo?t=44s Tried to snipe but turned into laughs
+Commune with Nature 5 Druid, Ranger Divination V, S https://youtu.be/BOxRFMiSDZU?t=9m47s Suddenly, Dino-Lansbury.
+Comprehend Languages 1 Bard, Sorcerer, Warlock, Wizard Divination V, S, M https://xkcd.com/1816/ Comic about language weirdness and puns
+Compulsion 4 Bard Enchantment V, S https://xkcd.com/609/ Comic about TVTropes, which might create a compulsion to follow links and stay there for a long time
+Cone of Cold 5 Sorcerer, Wizard Evocation V, S, M https://xkcd.com/1714/ Comic about volcanoes, which are actually cones of heat usually (the "waffle cone" volcano in the comic is probably cold)
+Confusion 4 Bard, Druid, Sorcerer, Wizard Enchantment V, S, M https://xkcd.com/1969/ Comic presents a way to confuse people by setting to "not found" page of your site to a "not available in your country" page
+Conjure Woodland Beings 4 Druid, Ranger Conjuration V, S, M https://xkcd.com/1903/ Comic about "buns" (rabbits) which are woodland beings
+Contact Other Plane 5 Warlock, Wizard Divination V https://xkcd.com/1889/ Comic from the "xkcd Phone" series. With all their features, surely xkcd phones can contact other planes...
+Contagion 5 Cleric, Druid Necromancy V, S https://xkcd.com/1161/ Comic about hand sanitizer, which is meant to prevent contagion, but maybe not as effectively as Cueball would like.
+Contingency 6 Wizard Evocation V, S, M https://xkcd.com/140/ Comic about how one gets cheese when they have chips and chips when they have cheese, a situation in which one condition triggers a contingency and vice versa.
+Continual Flame 2 Cleric, Wizard Evocation V, S, M https://en.wikipedia.org/wiki/John_F._Kennedy_Eternal_Flame Wikipedia about eternal (continual) flame
+Control Water 4 Cleric, Druid, Wizard Transmutation V,S,M https://what-if.xkcd.com/103/ What if article about water disappearing
+Control Weather 8 Cleric, Druid, Wizard Transmutation V, S, M https://xkcd.com/1126/ Comic about the weirdness of the weather in 2005
+Create Food and Water 3 Cleric, Paladin Conjuration V, S https://xkcd.com/1774/ Comic about food in supermarkets
+Create or Destroy Water 1 Cleric, Druid Transmutation V, S, M https://what-if.xkcd.com/103/ What if article about water disappearing (Same as in "control water" - actually more fitting here)
+Create Undead 6 Cleric, Warlock, Wizard Necromancy V, S, M https://what-if.xkcd.com/69/ What if about the dead users in Facebook who are compared to "undead" in a comic image at the start of the article
+Creation 5 Sorcerer, Wizard Illusion V, S, M https://youtu.be/_hH7vZF15SY "Monster Factory" episode which is a gameplay video of the game spore which is about the creation of a species and a civilization. "Creating" is also in the video title.
+Cure Wounds 1 Bard, Cleric, Druid, Paladin, Ranger Evocation V, S https://xkcd.com/1618/ Comic about trying to cure a pretty bad cold
+Dancing Lights 0 Bard, Sorcerer, Wizard Evocation V, S, M https://xkcd.com/1331/ Comic that shows frequencies of different events in the form of blinking ("dancing") gifs ("lights")
+Daylight 3 Cleric, Druid, Paladin, Ranger, Sorcerer Evocation V, S https://xkcd.com/673/ Comic about "daylight saving time"
+Death Ward 4 Cleric, Paladin Abjuration V, S https://xkcd.com/865/ In the comic IPv6 functions as a sort of "death ward" against nanobots, buying us some time before the total annihilation of life on earth.
+Demiplane 8 Warlock, Wizard Conjuration S https://xkcd.com/1703/
+Detect Evil and Good 1 Cleric, Paladin Divination V, S https://xkcd.com/256/ A map of internet communities, with the good and bad parts.
+Detect Magic 1 Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard Divination V, S https://xkcd.com/808/ An economic argument that "detects" what crazy "magic" phenomenon actually works and what doesn't.
+Detect Poison and Disease 1 Cleric, Druid, Paladin, Ranger Divination V, S, M https://xkcd.com/802/ Updated version of "map of online communities" which was linked to from "detect good and evil", again suggesting that online communities are full of "poison and disease".
+Detect Thoughts 2 Bard, Sorcerer, Wizard Divination V, S, M https://xkcd.com/1448/ A note asking someone about their thoughts (or feelings)
+Disguise Self 1 Bard, Sorcerer, Wizard Illusion V, S https://xkcd.com/451/ Comic about being an impostor and "disguising" yourself as an expert in a field.
+Disintegrate 6 Sorcerer, Wizard Transmutation V, S, M https://what-if.xkcd.com/1/ The very first what if, where a baseball is pitched at 90% of the speed of light and begins to disintegrate... In a nuclear explosion
+Dispel Evil and Good 5 Cleric, Paladin Abjuration V, S, M https://what-if.xkcd.com/5/ What-if about a contemporary robot apocalypse ("evil") and how to "dispel" it.
+Dispel Magic 3 Bard, Cleric, Druid, Paladin, Sorcerer, Warlock, Wizard Abjuration V, S https://xkcd.com/109/ Comic about spoilers who "dispel the magic" of watching some movies.
+Divination 4 Cleric Divination V, S, M https://xkcd.com/1525/ xkcd's version of the magic 8 ball, a toy/tool for divination
+Divine Favor 1 Paladin Evocation V, S https://xkcd.com/1575/ Comic parodying the Christian poem "footprints" which is about divine favor
+Divine Word 7 Cleric Evocation V https://xkcd.com/741/ Comic about content producing, some of which may be divine words
+Dominate Beast 4 Druid, Sorcerer Enchantment V, S https://xkcd.com/1934/ Comic about excessive phone security settings that "dominate" the thief in a way
+Dominate Monster 8 Bard, Sorcerer, Warlock, Wizard Enchantment V, S https://youtu.be/JgChfrBsEaI "Monster factory" episode about "creating the Shrek franchise" - which is about a monster - in spore.
+Dominate Person 5 Bard, Sorcerer, Wizard Enchantment V, S https://xkcd.com/1116/ Comic about confusing traffic light which can "dominate" a person.
+Dream 5 Bard, Warlock, Wizard Illusion V, S, M https://xkcd.com/557/ Comic about the common "not ready for school" dream
+Druidcraft 0 Druid Transmutation V, S https://xkcd.com/867/ Comic about branches of zoology - zoology can be thought of as "druidcraft"
+Earthquake 8 Cleric, Druid, Sorcerer Evocation V, S, M https://blog.xkcd.com/2011/08/24/earthquakes/ Blog post about earthquakes
+Eldritch Blast 0 Warlock Evocation V, S https://xkcd.com/356/ Comic about "nerd sniping", an unconventional sort of "blast" for "hitting" nerds
+Enhance Ability 2 Bard, Cleric, Druid, Sorcerer Transmutation V, S, M https://youtu.be/YLg_aIlhe6I?t=23m33s "Monster factory" episode about the stars recreating themselves in a WWE videogame, in a way "enhancing their abilities"
+Entangle 1 Druid Conjuration V, S https://xkcd.com/257/ Comic about code encryption, which adds complexity similar to an entanglement
+Enthrall 2 Bard, Warlock Enchantment V, S https://xkcd.com/1286/ Comic about improperly encrypted passwords, similar to the "distracting string of words" in the spell description
+Etherealness 7 Bard, Cleric, Sorcerer, Warlock, Wizard Transmutation V, S https://xkcd.com/644/
+Expeditious Retreat 1 Sorcerer, Warlock, Wizard Transmutation V, S https://what-if.xkcd.com/61/ What-if about speed bumps
+Eyebite 6 Bard, Sorcerer, Warlock, Wizard Necromancy V, S https://xkcd.com/1015/ Comic about bad kerning, which is a "bite" to the eyes
+Fabricate 4 Wizard Transmutation V, S https://youtu.be/bn4x_BRqIpI?t=5m5s
+Faerie Fire 1 Bard, Druid Evocation V https://what-if.xkcd.com/151/
+Faithful Hound 4 Wizard Conjuration V, S, M https://xkcd.com/1193/ Comic that ends with a very large dog
+False Life 1 Sorcerer, Wizard Necromancy V, S, M https://youtu.be/8-3jDVTLdaQ
+Fear 3 Bard, Sorcerer, Warlock, Wizard Illusion V, S, M https://xkcd.com/1242/ A chart comparing how scary things are
+Feather Fall 1 Bard, Sorcerer, Wizard Transmutation V, M https://youtu.be/bWvyJ05TdC8?t=13m34s
+Feeblemind 8 Bard, Druid, Warlock, Wizard Enchantment V, S, M https://xkcd.com/574/
+Find Familiar 1 Wizard Conjuration V, S, M https://xkcd.com/413/ Comic talking about a new pet (that is actually a computer). A familiar is an animal, similar to a pet, that serves a master, usually the magic user that summoned it.
+Find Steed 2 Paladin Conjuration V, S https://xkcd.com/1651/
+Find the Path 6 Bard, Cleric, Druid Divination V, S, M https://xkcd.com/887/
+Find Traps 2 Cleric, Druid, Ranger Divination V, S https://xkcd.com/1195/
+Finger of Death 7 Sorcerer, Warlock, Wizard Necromancy V, S https://what-if.xkcd.com/117/
+Fire Bolt 0 Sorcerer, Wizard Evocation V, S https://xkcd.com/639/
+Fire Shield 4 Wizard Evocation V, S, M https://www.jpl.nasa.gov/video/details.php?id=1090
+Fire Storm 7 Cleric, Druid, Sorcerer Evocation V, S https://youtu.be/ujADg0nWqCw?t=15m51s
+Flame Blade 2 Druid Evocation V, S, M https://xkcd.com/961/
+Flame Strike 5 Cleric Evocation V, S, M https://youtu.be/J9hMe1R8eYw
+Flaming Sphere 2 Druid, Wizard Conjuration V, S, M https://xkcd.com/673/
+Flesh to Stone 6 Warlock, Wizard Transmutation V,S,M https://xkcd.com/1409/
+Floating Disk 1 Wizard Conjuration V, S, M https://what-if.xkcd.com/50/
+Fly 3 Sorcerer, Warlock, Wizard Transmutation V, S, M https://xkcd.com/353/
+Fog Cloud 1 Druid, Ranger, Sorcerer, Wizard Conjuration V, S http://twitter.com/karlthefog
+Forbiddance 6 Cleric Abjuration V, S, M https://xkcd.com/782/
+Forcecage 7 Bard, Warlock, Wizard Evocation V, S, M https://xkcd.com/1142/
+Foresight 9 Bard, Druid, Warlock, Wizard Divination V, S, M https://xkcd.com/1876/
+Freedom of Movement 4 Bard, Cleric, Druid, Ranger Abjuration V, S, M https://youtu.be/sCOwRahm0so?t=1m8s
+Freezing Sphere 6 Wizard Evocation V, S, M https://what-if.xkcd.com/121/
+Gaseous Form 3 Sorcerer, Warlock, Wizard Transmutation V, S, M https://what-if.xkcd.com/146/
+Geas 5 Bard, Cleric, Druid, Paladin, Wizard Enchantment V https://xkcd.com/1559/
+Gentle Repose 2 Cleric, Wizard Necromancy V, S, M https://youtu.be/1Wl_yf86n78?t=20m
+Giant Insect 4 Druid Transmutation V, S https://youtu.be/_1jGnFt78H8?t=25m32s
+Glibness 8 Bard, Warlock Transmutation V https://xkcd.com/707/
+Globe of Invulnerability 6 Sorcerer, Wizard Abjuration V, S, M https://what-if.xkcd.com/153/
+Glyph of Warding 3 Bard, Cleric, Wizard Abjuration V, S, M https://xkcd.com/1247/
+Goodberry 1 Druid, Ranger Transmutation V, S, M https://xkcd.com/1035/
+Grease 1 Wizard Conjuration V, S, M https://what-if.xkcd.com/4/
+Greater Invisibility 4 Bard, Sorcerer, Wizard Illusion V, S https://what-if.xkcd.com/72/
+Greater Restoration 5 Bard, Cleric, Druid Abjuration V, S, M http://www.maximumfun.org/shows/my-brother-my-brother-and-me
+Guardian of Faith 4 Cleric Conjuration V https://xkcd.com/1934/
+Guards and Wards 6 Bard, Wizard Abjuration V, S, M https://xkcd.com/1890/
+Guidance 0 Cleric, Druid Divination V, S https://xkcd.com/1028/
+Guiding Bolt 1 Cleric Evocation V, S https://xkcd.com/1160/
+Gust of Wind 2 Druid, Sorcerer, Wizard Evocation V, S, M https://xkcd.com/1378/
+Hallow 5 Cleric Evocation V, S, M https://xkcd.com/1677/ PF2e tips: "Hallow-led" Background has Dubious knowledge skill feat, fail pulls a correct information and a misinformation.
+Hallucinatory Terrain 4 Bard, Druid, Warlock, Wizard Illusion V, S, M https://xkcd.com/1472/
+Harm 6 Cleric Necromancy V, S https://xkcd.com/218/
+Haste 3 Sorcerer, Wizard Transmutation V, S, M https://xkcd.com/1701/
+Heal 6 Cleric, Druid Evocation V, S https://xkcd.com/218/
+Healing Word 1 Bard, Cleric, Druid Evocation V https://youtu.be/NYnldxUpYQQ
+Heat Metal 2 Bard, Druid Transmutation V, S, M https://what-if.xkcd.com/35/
+Hellish Rebuke 1 Warlock Evocation V, S https://xkcd.com/327/
+Heroes' Feast 6 Cleric, Druid Conjuration V, S, M https://youtu.be/_v1v0t8Q5xg?t=7m48s
+Heroism 1 Bard, Paladin Enchantment V, S https://xkcd.com/326/
+Hideous Laughter 1 Bard, Wizard Enchantment V, S, M https://xkcd.com/1974/
+Hold Monster 5 Bard, Sorcerer, Warlock, Wizard Enchantment V, S, M https://xkcd.com/1604/
+Hold Person 2 Bard, Cleric, Druid, Sorcerer, Warlock, Wizard Enchantment V, S, M https://xkcd.com/540/
+Holy Aura 8 Cleric Abjuration V, S, M https://what-if.xkcd.com/145/
+Hunter's Mark 1 Ranger Divination V https://what-if.xkcd.com/11/
+Hypnotic Pattern 3 Bard, Sorcerer, Warlock, Wizard Illusion S, M https://xkcd.com/722/
+Ice Storm 4 Druid, Sorcerer, Wizard Evocation V, S, M https://what-if.xkcd.com/104/
+Identify 1 Bard, Wizard Divination V, S, M https://what-if.xkcd.com/9/
+Illusory Script 1 Bard, Warlock, Wizard Illusion S, M https://xkcd.com/1288/
+Imprisonment 9 Warlock, Wizard Abjuration V, S, M https://youtu.be/U4rwlvMEoj0
+Incendiary Cloud 8 Sorcerer, Wizard Conjuration V, S https://what-if.xkcd.com/139/
+Inflict Wounds 1 Cleric Necromancy V, S https://youtu.be/Kcd44VfN-Ro?t=3m24s
+Insect Plague 5 Cleric, Druid, Sorcerer Conjuration V, S, M https://xkcd.com/1127/
+Instant Summons 6 Wizard Conjuration V, S, M https://what-if.xkcd.com/123/ What if about fairy demographics which are "summoned" to the first laugh of a child
+Invisibility 2 Bard, Sorcerer, Warlock, Wizard Illusion V, S, M https://xkcd.com/1080/
+Irresistible Dance 6 Bard, Wizard Enchantment V https://xkcd.com/878/
+Jump 1 Druid, Ranger, Sorcerer, Wizard Transmutation V, S, M https://youtu.be/kT2Y6ftxilM?t=17m37s
+Knock 2 Bard, Sorcerer, Wizard Transmutation V https://xkcd.com/530/
+Legend Lore 5 Bard, Cleric, Wizard Divination V, S, M https://xkcd.com/1350/
+Lesser Restoration 2 Bard, Cleric, Druid, Paladin, Ranger Abjuration V, S https://xkcd.com/567/
+Levitate 2 Sorcerer, Wizard Transmutation V, S, M https://xkcd.com/520/
+Light 0 Bard, Cleric, Sorcerer, Wizard Evocation V, M https://what-if.xkcd.com/13/
+Lightning Bolt 3 Sorcerer, Wizard Evocation V, S, M https://what-if.xkcd.com/109/
+Locate Animals or Plants 2 Bard, Druid, Ranger Divination V, S, M https://xkcd.com/1826/
+Locate Creature 4 Bard, Cleric, Druid, Paladin, Ranger, Wizard Divination V, S, M https://xkcd.com/1747/
+Locate Object 2 Bard, Cleric, Druid, Paladin, Ranger, Wizard Divination V, S, M http://bfy.tw/Dh
+Longstrider 1 Bard, Druid, Ranger, Wizard Transmutation V, S, M https://xkcd.com/1065/
+Mage Armor 1 Sorcerer, Wizard Abjuration V, S, M https://xkcd.com/1636/
+Mage Hand 0 Bard, Sorcerer, Warlock, Wizard Conjuration V, S https://xkcd.com/1812/
+Magic Circle 3 Cleric, Paladin, Warlock, Wizard Abjuration V, S, M https://xkcd.com/112/
+Magic Jar 6 Wizard Necromancy V, S, M https://xkcd.com/1021/
+Magic Missile 1 Sorcerer, Wizard Evocation V, S https://xkcd.com/1356/
+Magic Mouth 2 Bard, Wizard Illusion V, S, M https://what-if.xkcd.com/37/
+Magic Weapon 2 Paladin, Wizard Transmutation V, S https://what-if.xkcd.com/81/
+Magnificent Mansion 7 Bard, Wizard Conjuration V, S, M https://youtu.be/TamwFUUd9Yk?t=10m29s
+Major Image 3 Bard, Sorcerer, Warlock, Wizard Illusion V, S, M https://xkcd.com/980/
+Mass Cure Wounds 5 Bard, Cleric, Druid Evocation V, S https://xkcd.com/1793/
+Mass Heal 9 Cleric Evocation V, S https://youtu.be/1Cj8d6EcFp0
+Mass Healing Word 3 Cleric Evocation V https://xkcd.com/1520/
+Mass Suggestion 6 Bard, Sorcerer, Warlock, Wizard Enchantment V, M https://xkcd.com/1264/
+Maze 8 Wizard Conjuration V, S https://xkcd.com/246/
+Meld into Stone 3 Cleric, Druid Transmutation V, S https://youtu.be/V5PlKZRQVgQ
+Mending 0 Bard, Cleric, Druid, Sorcerer, Wizard Transmutation V, S, M https://xkcd.com/1780
+Message 0 Bard, Sorcerer, Wizard Transmutation V, S, M https://xkcd.com/1782/
+Meteor Swarm 9 Sorcerer, Wizard Evocation V, S https://xkcd.com/1249/
+Mind Blank 8 Bard, Wizard Abjuration V, S https://xkcd.com/1145/
+Minor Illusion 0 Bard, Sorcerer, Warlock, Wizard Illusion S, M https://xkcd.com/1492/
+Mirage Arcane 7 Bard, Druid, Wizard Illusion V, S https://xkcd.com/806/
+Mislead 5 Bard, Wizard Illusion S https://xkcd.com/1488/
+Misty Step 2 Sorcerer, Warlock, Wizard Conjuration V https://what-if.xkcd.com/126/
+Modify Memory 5 Bard, Wizard Enchantment V, S https://xkcd.com/1156/
+Moonbeam 2 Druid Evocation V, S, M https://xkcd.com/1738/
+Move Earth 6 Druid, Sorcerer, Wizard Transmutation V, S, M https://xkcd.com/723/
+Nondetection 3 Bard, Ranger, Wizard Abjuration V, S, M https://xkcd.com/937/
+Pass Without Trace 2 Druid, Ranger Abjuration V, S, M https://youtu.be/LHBzVTCO3nM?t=4m32s
+Passwall 5 Wizard Transmutation V, S, M https://xkcd.com/1608/
+Phantasmal Killer 4 Wizard Illusion V, S https://what-if.xkcd.com/12/
+Phantom Steed 3 Wizard Illusion V, S https://youtu.be/U3JnZEzoL6M
+Planar Ally 6 Cleric Conjuration V, S https://xkcd.com/112/
+Planar Binding 5 Bard, Cleric, Druid, Wizard Abjuration V, S, M https://xkcd.com/1956/
+Plane Shift 7 Cleric, Druid, Sorcerer, Warlock, Wizard Conjuration V, S, M https://xkcd.com/803/
+Plant Growth 3 Bard, Druid, Ranger Transmutation V, S https://youtu.be/yV9wy9ucXgc
+Poison Spray 0 Druid, Sorcerer, Warlock, Wizard Conjuration V, S https://what-if.xkcd.com/144/
+Polymorph 4 Bard, Druid, Sorcerer, Wizard Transmutation V, S, M https://xkcd.com/1094/
+Power Word Kill 9 Bard, Sorcerer, Warlock, Wizard Enchantment V https://youtu.be/VHR0EfYACAI?t=13m51s
+Power Word Stun 8 Bard, Sorcerer, Warlock, Wizard Enchantment V https://what-if.xkcd.com/
+Prayer of Healing 2 Cleric Evocation V https://xkcd.com/418/
+Prestidigitation 0 Bard, Sorcerer, Warlock, Wizard Transmutation V, S https://xkcd.com/942/
+Prismatic Spray 7 Sorcerer, Wizard Evocation V, S https://xkcd.com/657/
+Prismatic Wall 9 Wizard Abjuration V, S https://xkcd.com/1271/
+Private Sanctum 4 Wizard Abjuration V, S, M https://xkcd.com/1663/#74b2196a-34fa-11e8-8001-42010a8e0006
+Produce Flame 0 Druid Conjuration V, S https://xkcd.com/386/
+Programmed Illusion 6 Bard, Wizard Illusion V, S, M https://xkcd.com/303/
+Project Image 7 Bard, Wizard Illusion V, S, M https://youtu.be/bR0Ubck0IRA
+Protection from Energy 3 Cleric, Druid, Ranger, Sorcerer, Wizard Abjuration V, S https://xkcd.com/556/
+Protection from Evil and Good 1 Cleric, Paladin, Warlock, Wizard Abjuration V, S, M https://xkcd.com/1303/
+Protection from Poison 2 Cleric, Druid, Paladin, Ranger Abjuration V, S https://xkcd.com/1305/
+Purify Food and Drink 1 Cleric, Druid, Paladin Transmutation V, S https://youtu.be/ONSWw4aBBLg
+Raise Dead 5 Bard, Cleric, Paladin Necromancy V, S, M https://xkcd.com/599/
+Ray of Enfeeblement 2 Warlock, Wizard Necromancy V, S https://xkcd.com/526/
+Ray of Frost 0 Sorcerer, Wizard Evocation V, S https://xkcd.com/312/
+Regenerate 7 Bard, Cleric, Druid Transmutation V, S, M https://xkcd.com/1024/
+Reincarnate 5 Druid Transmutation V, S, M https://youtu.be/WbKrlJgwI4A?t=17m33s
+Remove Curse 3 Cleric, Paladin, Warlock, Wizard Abjuration V, S https://xkcd.com/391/
+Resilient Sphere 4 Wizard Evocation V, S, M https://xkcd.com/1248/
+Resistance 0 Cleric, Druid Abjuration V, S, M https://xkcd.com/730/
+Resurrection 7 Bard, Cleric Necromancy V, S, M https://xkcd.com
+Reverse Gravity 7 Druid, Sorcerer, Wizard Transmutation V, S, M https://xkcd.com/1115/
+Revivify 3 Cleric, Paladin Necromancy V, S, M https://xkcd.com/346/
+Rope Trick 2 Wizard Transmutation V, S, M https://www.youtube.com/watch?v=dQw4w9WgXcQ
+Sacred Flame 0 Cleric Evocation V, S https://www.nasa.gov/sun
+Sanctuary 1 Cleric Abjuration V, S, M https://youtu.be/qQVlGrwG9yo?t=11m49s
+Scorching Ray 2 Sorcerer, Wizard Evocation V, S https://xkcd.com/729
+Scrying 5 Bard, Cleric, Druid, Warlock, Wizard Divination V, S, M https://archive.org/donate/
+Secret Chest 4 Wizard Conjuration V, S, M https://xkcd.com/1762/
+See invisibility 2 Bard, Sorcerer, Wizard Divination V, S, M https://xkcd.com/401/
+Seeming 5 Bard, Sorcerer, Wizard Illusion V, S https://xkcd.com/451/
+Sending 3 Bard, Cleric, Wizard Evocation V, S, M https://xkcd.com/352/
+Sequester 7 Wizard Transmutation V, S, M https://xkcd.com/646/
+Shapechange 9 Druid, Wizard Transmutation V, S, M https://youtu.be/-aWH3-46slI?t=6m4s
+Shatter 2 Bard, Sorcerer, Warlock, Wizard Evocation V, S, M https://what-if.xkcd.com/137/
+Shield 1 Sorcerer, Wizard Abjuration V, S https://xkcd.com/916/
+Shield of Faith 1 Cleric, Paladin Abjuration V, S, M https://xkcd.com/129/
+Shillelagh 0 Druid Transmutation V, S, M https://youtu.be/LXxdC9X3hxg?t=8m6s
+Shocking Grasp 0 Sorcerer, Wizard Evocation V, S https://xkcd.com/242/
+Silence 2 Bard, Cleric, Ranger Illusion V, S https://xkcd.com/525/
+Silent Image 1 Bard, Sorcerer, Wizard Illusion V, S, M https://xkcd.com/1416/
+Simulacrum 7 Wizard Illusion V, S, M https://youtu.be/1Qo1Aj_leEo
+Sleep 1 Bard, Sorcerer, Wizard Enchantment V, S, M https://xkcd.com/320/
+Sleet Storm 3 Druid, Sorcerer, Wizard Conjuration V, S, M https://xkcd.com/511/
+Slow 3 Sorcerer, Wizard Transmutation V, S, M https://xkcd.com/162/
+Speak with Animals 1 Bard, Druid, Ranger Divination V, S https://xkcd.com/1879/
+Speak with Plants 3 Bard, Druid, Ranger Transmutation V, S https://what-if.xkcd.com/70/
+Spider Climb 2 Sorcerer, Warlock, Wizard Transmutation V, S, M https://what-if.xkcd.com/136/
+Spike Growth 2 Druid, Ranger Transmutation V, S, M https://what-if.xkcd.com/67/
+Spirit Guardians 3 Cleric Conjuration V, S, M https://xkcd.com/695/
+Spiritual Weapon 2 Cleric Evocation V, S https://youtu.be/A1gTbnB-Gps?t=17m2s
+Stinking Cloud 3 Bard, Sorcerer, Wizard Conjuration V, S, M https://xkcd.com/1066/
+Stone Shape 4 Cleric, Druid, Wizard Transmutation V, S, M https://what-if.xkcd.com/135/
+Stoneskin 4 Druid, Ranger, Sorcerer, Wizard Abjuration V, S, M https://youtu.be/LlKnEgPEGmA
+Storm of Vengeance 9 Druid Conjuration V, S https://what-if.xkcd.com/93/
+Suggestion 2 Bard, Sorcerer, Warlock, Wizard Enchantment V, M https://xkcd.com/672
+Sunbeam 6 Druid, Sorcerer, Wizard Evocation V, S, M https://what-if.xkcd.com/141/
+Sunburst 8 Druid, Sorcerer, Wizard Evocation V, S, M https://what-if.xkcd.com/115/
+Telekinesis 5 Sorcerer, Wizard Transmutation V, S https://what-if.xkcd.com/3/
+Telepathic Bond 5 Wizard Divination V, S, M https://xkcd.com/1504/
+Thaumaturgy 0 Cleric Transmutation V https://xkcd.com/1131/
+Thunderwave 1 Bard, Druid, Sorcerer, Wizard Evocation V, S https://what-if.xkcd.com/140/
+Tiny Hut 3 Bard, Wizard Evocation V, S, M https://xkcd.com/905/
+Tongues 3 Bard, Cleric, Sorcerer, Warlock, Wizard Divination V, M https://xkcd.com/1137
+Tree Stride 5 Druid, Ranger Conjuration V, S https://youtu.be/IDBcGgjtFRs?t=1m3s
+True Polymorph 9 Bard, Warlock, Wizard Transmutation V, S, M (no link?)
+True Resurrection 9 Cleric, Druid Necromancy V, S, M https://youtu.be/7-n8TZqm9Ic?t=12m36
+True Seeing 6 Bard, Cleric, Sorcerer, Warlock, Wizard Divination V, S, M http://geekwagon.net/projects/xkcd1190/
+True Strike 0 Bard, Sorcerer, Warlock, Wizard Divination S https://youtu.be/wWOVS0XQmPM?t=12m11s
+Unseen Servant 1 Bard, Warlock, Wizard Conjuration V, S, M https://xkcd.com/958/
+Vampiric Touch 3 Warlock, Wizard Necromancy V, S https://what-if.xkcd.com/98/
+Vicious Mockery 0 Bard Enchantment V https://xkcd.com/732/
+Wall of Fire 4 Druid, Sorcerer, Wizard Evocation V, S, M https://www.nasa.gov/mission_pages/fires/main/usa/index.html
+Wall of Force 5 Wizard Evocation V, S, M https://what-if.xkcd.com/147/
+Wall of Ice 6 Wizard Evocation V, S, M https://what-if.xkcd.com/104/
+Wall of Stone 5 Druid, Sorcerer, Wizard Evocation V, S, M https://pubs.usgs.gov/of/2003/of03-001/htmldocs/images/chart.pdf
+Wall of Thorns 6 Druid Conjuration V, S, M https://xkcd.com/1970/
+Warding Bond 2 Cleric Abjuration V, S, M https://xkcd.com/1188/
+Water Breathing 3 Druid, Ranger, Sorcerer, Wizard Transmutation V, S, M https://xkcd.com/969/
+Water Walk 3 Cleric, Druid, Ranger, Sorcerer Transmutation V, S, M https://xkcd.com/1599/
+Web 2 Sorcerer, Wizard Conjuration V, S, M https://xkcd.com/195/
+Weird 9 Wizard Illusion V, S https://xkcd.com/1501/
+Wind Walk 6 Druid Transmutation V, S, M https://youtu.be/zpahjcaRt6w?t=12m27s
+Wind Wall 3 Druid, Ranger Evocation V, S, M https://what-if.xkcd.com/66/
+Wish 9 Sorcerer, Wizard Conjuration V https://xkcd.com/1086/
+Zone of Truth 2 Bard, Cleric, Paladin Enchantment V, S http://www.maximumfun.org/shows/adventure-zone A reference to the Adventure Zone podcast by the McElroy family, specifically the character Merle Highchurch, who is well known for using this spell in possibly unhelpful situations.
+Submenu Spells[edit]
+These 9 spells all appear with an arrow and open submenus when hovered on. The submenus are all actually from different parts of the context menu. Several of the spells are "teleportation/transportation" related which might explain why they lead you to a different place in the menu.
+Name Level Classes School Components Submenu Explanation
+Antimagic Field 8 Cleric, Wizard Abjuration V, S M Utilities menu
+Banishment 4 Cleric, Paladin, Sorcerer, Warlock, Wizard Abjuration V, S, M Do Crimes menu (even without unlocking it via Enable Dark Web)
+Blink 3 Sorcerer, Wizard Transmutation V, S Utilities menu
+Counterspell 3 Sorcerer, Warlock, Wizard Abjuration S Utilities menu
+Delayed Blast Fireball 7 Sorcerer, Wizard Evocation V, S, M Help menu
+Dimension Door 4 Bard, Sorcerer, Warlock, Wizard Conjuration V File - Open - C:\ - Bookmarks submenu
+Teleportation Circle 5 Bard, Sorcerer, Wizard Conjuration V, M Games menu
+Transport via Plants 6 Druid Conjuration V, S Games menu
+Word of Recall 6 Cleric Conjuration V Utilities menu
+Effect Spells[edit]
+These 10 spells activate different JavaScript functions that affect the page in various ways, permanent or temporary, that are suggestive of the spell that was cast.
+Name Level Classes School Components Effect Explanation
+Acid Splash 0 Sorcerer, Wizard Conjuration V, S Causes the background to change color between red, yellow, chartreuse, blue, fuchsia, and blue-violet randomly every 300ms. Using LSD ('acid') often causes vibrant colors to 'splash' and swivel around one's visual field.
+Animate Objects 5 Bard, Sorcerer, Wizard Transmutation V, S Causes most parts of the page to begin shifting in place randomly every 100ms. The parts, or "objects" on the page are being "animated".
+Blur 2 Sorcerer, Wizard Illusion V Causes the comic and most text to blur. Largely self-explanatory. In D&D, the Blur spell blurs one's body to make it harder to hit. This one blurs the elements on the page.
+Conjure Animals 3 Druid, Ranger Conjuration V, S Adds a rabbit image of a random size next to the comic. Conjures an image of an animal.
+Darkness 2 Sorcerer, Warlock, Wizard Evocation V, M Causes the comic to disappear and the background to turn black. In D&D, the Darkness spell conjures darkness. This does largely the same thing.
+Darkvision 2 Sorcerer, Wizard, Druid, Ranger Transmutation V, S, M Causes the background to turn gray and the comic to fade. However, it does not appear to work.
+Fireball 3 Sorcerer, Wizard Evocation V, S, M Causes the page background to turn red then slowly turn white. Fireballs caused by nuclear weapons generally appear reddish-white.
+Mirror Image 2 Sorcerer, Warlock, Wizard Illusion V, S Causes the entire page to be mirrored on the vertical axis. Here, Mirror Image "mirrors" the image, instead of conjuring "mirror images" of yourself.
+Symbol 7 Bard, Cleric, Wizard Abjuration V, S, M Changes all text on the page to use Wingdings, Webdings, Symbol, or Zapf Dingbats. These are all dingbat fonts which replace text with symbols.
+Time Stop 9 Sorcerer, Wizard Transmutation V Pauses any currently ongoing effects. (But does not cancel them) Time Stop is a spell that stops time. This would make sense to stop ongoing effects.
+Transcript[edit]
+[Empty frame with Cueball standing slightly right of center.]
+[Caption below the frame:]
+Editor's Note: Today's comic is optimized for local viewing. To see the full version, just save a copy of the image!
+
+Trivia[edit]
+On Monday, April 1st, 2019 2131: Emojidome, an April Fools' comic was released, making it look like the missing April Fools' Day comic in 2017 was an outlier.
+Here is an example of how the game looks when entered:
+This is broken on iPadOS.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Hi, I found a way to download the picture. First, you click "edit", then when you are in the edit screen, you right click, and then you can save the image.108.162.246.154 01:24, 14 March 2022 (UTC)
+No more JS Source
+It is working on address https://xkcd.com/1975/ and not working on https://www.xkcd.com/1975/. Urls to comics should be updated to exclude www part. 172.68.226.58 09:28, 26 March 2020 (UTC) tadej
+I think there is no more JS source for it. I can only find it at archive.org. Biran4454 (talk) 14:29, 21 September 2019 (UTC)
+Has this stopped working for anyone else? I just went to the comic today and the right click menu that showed up was the normal one, rather than the altered one. Is this happening with anyone else? DanTheTransManWithoutAPlan (talk) 15:44, 26 September 2019 (UTC)
+Yeah. I noticed this a while back, but accidentally put it at the bottom of the talk. When I go to the source, it says it can't find it. The last known code is the code I placed above. Biran4454 (talk) 16:58, 26 September 2019 (UTC)
+Can somebody explain why almost all of the April Fools Day comics stopped working, when 1110: Click and Drag and 1608: Hoverboard Still work as usual?108.162.242.5 16:09, 31 October 2019 (UTC)
+I have no idea. Maybe Randall has just stopped them - but that would be really annoying because they are still really cool. Biran4454 17:57, 4 November 2019 (UTC)
+...but why though? What reason would he have for shutting them down?108.162.216.116 20:00, 27 November 2019 (UTC)
+It seems to work fine now. I don't know when it started working again. Biran4454 11:51, 7 December 2019 (UTC)
+Sorry if this has been found already, but I'm going to post it since I haven't seen it anywhere in here. If you input the konami code into https://uni.xkcd.com/ weird stuff happens. First time around, it puts all the letters in caps. Second time, it doesn't seem to do anything? Next, text gets highlighted in red. Another and the screen starts shaking. Another; the screen sort of flashes and a character with a beard holding two katanas/machetes with XK CD surrounding it appears faintly in the background. I've done the code maybe 20 more times and nothing else seems to happen. Tidepool (talk) 21:47, 24 May 2018 (UTC)Tidepool
+That's probably Richard Stallman. 162.158.74.243 22:46, 30 May 2018 (UTC)
+I created this page manually. DgbrtBOT fail?
+Also, notably, while the comic at xkcd.com works as intended (even from Chrome on Android, to a certain degree), the mobile site, m.xkcd.com, does not. It shows the standard system/browser-specific context menu. --Videblu (talk) 00:28, 2 April 2018 (UTC)
+The BOT didn't fail, the comic just wasn't released on Mon, Wen, or Fri. And in the past there was no comic on 1. April when it didn't fit into that rule. And the release was LATE; it was already the 2. April in Europe.--Dgbrt (talk) 09:45, 2 April 2018 (UTC)
+The mobile version at m.xkcd.com works fine in Android. --Dgbrt (talk) 10:56, 2 April 2018 (UTC)
+Untrue; going to m.xkcd.com on my Android devices brings up a non-interactive version of the comic, whereas going to xkcd.com (without setting the browser to present a Desktop client type) works fine. Viewing https://xkcd.com/1975 on mobile works fine for me; viewing https://m.xkcd.com/1975 does not work properly. I'm on Kit-Kat & Marshmallow, using the standard browsers; you? ProphetZarquon (talk) 16:04, 2 April 2018 (UTC)
+You are right. I don't remember what I've tested before. It cannot work because the embedded JavaScript file doesn't exist. Maybe this will be fixed in the future. --Dgbrt (talk) 17:46, 2 April 2018 (UTC)
+How are we going to handle submenus submenus and subitems etc? (Also Captcha outdated! Update immediately!) 162.158.238.34 01:46, 2 April 2018 (UTC)
+Um, I don't see a reCapatcha. Just saying...Fmccarthy (talk) 04:17, 2 April 2018 (UTC)
+There is one when saving edits. I'm assuming this is the one they mean. Also, aside from a table with way too many columns I don't really know. 162.158.79.215 04:21, 2 April 2018 (UTC)
+Captchas only appear for guests and young accounts. I haven't seen one since roughly the day after I signed up, LOL! (I commented a lot my first day, "taking" ownership of all my previous anonymous comments) NiceGuy1 (talk) 04:44, 3 April 2018 (UTC)
+Oh my gosh this is incredible. The Games section, especially, is mind boggling. Entropy! Hameltion (talk) 00:30, 2 April 2018 (UTC)
+Whoever owns this site update ReCaptcha! Sizzilingbird (talk) 00:40, 2 April 2018 (UTC)
+WOO!!! Unicode XKCD!!! Phoenix Up (talk) 00:44, 2 April 2018 (UTC)
+2 hours later I'm done, and the save picture button wouldn't work... ripLinker (talk) 11:38, 2 April 2018 (UTC)
+This (uni.xkcd.com) is not new, I remember using this months (perhaps years) ago :P PotatoGod (talk) 02:44, 2 April 2018 (UTC)
+ Is there a second for easter eggs in there? Fork bombs ( :(){ :|: &};: ) work, I'm not sure what else. Waterlubber (talk) 02:52, 2 April 2018 (UTC)
+Sorry if this is already well known, but there are a couple unlisted commands, e.g. you can delete things individually using rm -rf. It looks like auto-completion and * don't work. Power Factor (talk) 03:27, 2 April 2018 (UTC)
+Could be known already, but sending "hi" or "hello" (case indifferent) to uni.xkcd.com elicits a response of "Hi." and "Hello" respectively. Sending "xkcd" gives "Yes?" back. All of these are in all caps if the Konami/Contra code easter egg has been activated.
+Reluctant to call it an Easter Egg, but Utilities / Identify Song / Hey Now / Hey now na now / Sing "This Corrosion" to me inverts the colours on the comic/background Maslink (talk) 02:02, 2 April 2018 (UTC)
+He missed a chance for a Rick Roll there (For all we know there may be a Rick Roll in here) Phoenix Up (talk) 02:36, 2 April 2018 (UTC)
+SPOILER:
+
+I managed to save the image by playing ADVENT.exe, has anyone else found other ways? 162.158.75.172 00:54, 2 April 2018 (UTC)
+
+COMIC MAY BE UNDER CONSTRUCTION I think one of the menu options change since the comic was first posted. Randall may still be changing things. --Videblu (talk) 01:15, 2 April 2018 (UTC)
+I agree. It's not just that menu items unlock. On a fresh refresh of the comic, items are there that weren't there before, such as file > find > who what etc., some that had been greyed out are no longer grey.
+Actually it's that once you do some things others "unlock". For instance, accessing File > Open > A:\ > Insert > Floppy disk, and then File > Open > A:\ you get the Games, Music, and the really cool Bookmarks catalog of comics. Also, as said above, completing the game ADVENT.exe lets you go to save:
+[Expand]
+Egg spoiler: Text adventure route
+I made it hidden so that anyone who wants to explore on their own may still... Hameltion (talk) 02:01, 2 April 2018 (UTC)
+How did you solve the maze? Is there a clue anywhere or just brute force? 141.101.98.196 (talk) (please sign your comments with ~~~~)
+When at the Well, maybe try wishing for wisdomSteampunkery (talk) 19:44, 2 April 2018 (UTC)
+The Help menu changed after I refreshed the page (that is what I see at first glance), other things may have changed as well. Phoenix Up (talk) 02:29, 2 April 2018 (UTC)
+Ah - I don't recall it being different, but I may have missed an earlier version. Anyway here is another way to make the image available:
+C-remover is a reference to the interactive fiction "Counterfeit Monkey". (Adding it for future restructure) 162.158.134.142 08:00, 2 April 2018 (UTC)
+I claimed earlier that it was a Counterfeit Monkey reference on the Reddit thread, but someone who worked on the comic pointed out on Twitter that it is actually a reference to "Leather Goddesses of Phobos", though Counterfeit Monkey also uses that mechanic. 172.69.90.52 16:23, 2 April 2018 (UTC)
+[Expand]
+Egg spoiler: London Underground route
+This is really fun! (and there's this) --Hameltion (talk) 02:43, 2 April 2018 (UTC)
+I followed the "Land of 1000 dances" "na-na"s over 1000 times and didn't hit an end. It may be infinite. Jedi.jesse (talk) 02:45, 2 April 2018 (UTC)
+Doing System > / > home/ > guest (click) takes you to uni.xkcd.com which it pretty neat. Hameltion (talk) 02:53, 2 April 2018 (UTC)
+List of D&D spells can be ported into explanation from here. And here is a path through Mornington Crescent to an easter egg. 162.158.134.142 07:52, 2 April 2018 (UTC)
+https://en.wikipedia.org/wiki/Mornington_Crescent_(game) Mornington Crescent is a joke nonsensical game from an old British radio show. 141.101.98.142 (talk) (please sign your comments with ~~~~)
+You actually can install apt with brew. It can't actually install anything because it needs to create a package record during the initial operating system install, but you can do it if you want to. Not sure why you would though. EDIT: I can't find the package anymore, but I am pretty sure I was able to do this at one point. Might have been removed due to uselessness. 172.68.34.64 00:08, 3 April 2018 (UTC)
+Land of 1,000 Dances
+This goes on forever. Or at least well over 1000 levels: [Media:https://i.imgur.com/iiHDE3e.png number of popups checked with jQuery]--MikeOShay (talk) 04:21, 2 April 2018 (UTC)
+Transscript
+Is the transscript really unfinished? It transcribes the entirety of the comic image itself, and the menu part is in explanations. 162.158.238.142 05:36, 2 April 2018 (UTC)
+Release date
+This comic was probably released on April 2, 00:00 UTC. But of course it was still April 1 in the US. I don't really care, but the release date here is probably wrong.--Dgbrt (talk) 11:31, 2 April 2018 (UTC)
+More discussions
+No effect for iOS. --162.158.138.88 05:37, 2 April 2018 (UTC)
+If you quickly right click on the comic after refreshing the page, it is possible to save the comic. Unfortunately there is no easter egg for doing so. Baquea (talk) 12:26, 2 April 2018 (UTC)
+Added it to the page. ~﻿~﻿~﻿~ 02:49, 3 April 2018 (UTC)
+Katamari in the music bit is a reference to this song --141.101.99.137 13:31, 2 April 2018 (UTC)
+spell list (half of it, i didnt test spells with material components): --norill
+[Expand]
+Spellbook
+172.68.110.52 (talk) (please sign your comments with ~~~~)
+Recursive package managers are perfectly sane if the two package managers use different repositories, for example apt install python3-pip. The true hilarity arrives if you install a package manager for the sole purpose of installing another, or if they use the same repositories. But that's not unheard of either: apt install npm && npm install yarn -78.68.24.134 but your site thinks I'm 162.158.134.130 16:42, 2 April 2018 (UTC)
+Bing image search
+Surprisingly, when you are playing 20 questions and get into the section with the animals, all of the image requests go to Bing.
+I'm curious if anyone will look at the traffic of Bing and compare the normal traffic with the traffic from this comic. I want to see just how much of a spike Bing image search gets from this.
+And by the way, "Bing" is actually a red underlined misspelling according to Firefox. Keybounce (talk) 19:48, 2 April 2018 (UTC)
+Is there a reason why UniXKCD is under comic 721? Also, there are significant things missing from it, especially the special ctrl- functions! ChunyangD (talk) 02:56, 3 April 2018 (UTC)
+I read the comic, tried to save, it saved. Check what saved, was the same comic. How boring. LOL! Guess Randall doesn't think people read XKCD on iPads (or maybe just that he doesn't think anybody is reading on an iPad 1 with iOS 5.1.1). :) NiceGuy1 (talk) 04:44, 3 April 2018 (UTC)
+Not your iOS 5.1.1's problem, basically all the interactive comics are like that with iPads, even if using iOS 10. (On my iPad, 1608: Hoverboard works but lags and controls are awful, 1663: Garden can't run, 1037: Umwelt refuses to appear, you can't do anything in 1193: Externalities, and as for this comic... *flips table* ) The only comic that works perfectly on my iPad is 1350: Lorenz. Herobrine (talk) 11:25, 3 April 2018 (UTC)
+Yeah, that's been my experience. I remember for Umwelt I got what looked like a black hole, which I think might have been the titular Umwelt. I seem to recall the description identified that as being some obscure set up I've never heard of, LOL! I also remember Garden didnt even do anything on my computer! I could change the lights, but that was it. I can't remember Externalities and Lorenz by name. But since my iPad CAN save images I hoped this would be different. Like saving it would, as promised, save a different comic (like Umwelt showed a different comic depending on your set up and connection). *sigh* NiceGuy1 (talk) 04:28, 6 April 2018 (UTC)
+EDIT: Checking now, can't remember seeing Externalities, I've certainly never tried it on a computer (I think I just dismissed it as "Oh well" and moved on). Lorenz I did indeed try it a bit on a computer. Hoverboard I went literally everywhere reachable, LOL! NiceGuy1 (talk) 04:34, 6 April 2018 (UTC)
+Graph
+This is what the whole network of menus looks like, minus the massive Comics tree. The big cluster near the center is the DnD game, and the single-file trail on the left is Who's on First. Blue circles are menus, red are links, purple are client-side JS calls, pinks are null (they just collapse the menu), and yellows are "tags" - client-side state variables that are set or unset by some menu options. The orphaned pair of grey dots at the top are the Save menu, which is only visible when a tag is set by the ADVENT.EXE or Mornington Crescent games. I'll try to make this some kind of interactive graph that people can explore - the actual DB I made contains more data than is visible in the image. Okofish (talk) 15:27, 3 April 2018 (UTC)
+
+I made a scraper that downloads all the jsons, and also makes a graphviz graph. Code: https://github.com/ad1217/xkcd1975scraper, Graph: https://raw.githubusercontent.com/ad1217/xkcd1975scraper/master/out.svg (save the graph and open it in Inkscape or something, it is rather large). Ad1217 (talk) 19:58, 3 April 2018 (UTC)
+Where is the javascript source?
+Where is the source file for this comic? I had trouble figuring out what was happening from opening my browser console. I can usually figure out things like e.g. kittens game, etc. Which file has the source for the right click menu in this comic? 108.162.210.130 17:41, 3 April 2018 (UTC)
+It's here, but the interesting stuff happens server-side. You'll get more info by looking at the network tab in your browser's developer tools. Okofish (talk) 19:03, 3 April 2018 (UTC)
+None of the "links to ___" things actually link to anything here. I guess they use window.open or something similarly silly that does not work in real browsers. 162.158.210.88 08:43, 4 April 2018 (UTC)
+When you play the "Backup" noise, the audio quality isn't that great, it seems to be recorded from a device. Also, you can hear what seems to be a bird chirping and a mouse click. Can anyone else verify this? 625571b7-aa66-4f98-ac5c-92464cfb4ed8 (talk) 22:39, 4 April 2018 (UTC)
+This morning I tried to follow the path in the cave again (in ADVENT.EXE) but found that it's changed, the cave leads me to a "grue" which ate me, now ADVENT.EXE just returns "you've been eaten by a grue" and doesn't let me go anywhere. 108.162.221.113 13:06, 5 April 2018 (UTC) Sam
+Sooooo just FYI, any similarities to Ready Player One are 100% unintentional. (I can't speak for Randall but I worked on that bit and I haven't read/seen it.) It was just an Easter egg unlock because it was... literally Easter. And we put it there and in Mornington Crescent as the longest/most complicated paths. Apparently if you throw enough 80s/90s nerd references at the wall now, you get Ready Player One. ¯\_(ツ)_/¯ 172.68.141.232 18:46, 5 April 2018 (UTC)
+Why is this still incomplete? Nitpicking (talk) 16:47, 27 February 2023 (UTC)
+Because nobody is yet convinced enough (rightly or wrongly) that it is complete? And, given that there were fairly recent revisions (in January and February, with different tweaks that may be considered hovering around/near substantive), perhaps we comunally think there's room for improvement?
+But if you think it is complete (and I'm not even saying that you should thoroughly rule out there being any more undocumented features to it, though I'd say that'd help - easier for a single-panel static comic than this, naturally) then you could take the plunge. Explanations can still change after being 'complete'.
+Or leave it, because there's no harm in (official) Incompletedness even if it is factually complete. The mechanism of highlighting articles (originally those with no Explanation, that needed creation, before the one supposed to "fill in the details") is now much of a curiosity and a boilerplate thing that gives the community here a place to express our own single guaranteed spot of humour (the thing the BOT might get changed to).
+That's the beauty of the wiki, you can do what you like and (so long as it isn't grossly against the group's expectations, and get bounceback) perhaps shift the centre of the common attitude to how these things should be conducted. And you're a good (nitpicking) editor, where I've rarely seen you edit with anything that I'd consider outright wrong (not claiming to be an authority on this; I'm clearly not, just my observation!) so I'm perfectly happy to let you think about this. And I couldn't ever stop you thinking/doing, anyway. ;) 141.101.99.159 22:40, 27 February 2023 (UTC)
+Unable to touch most options[edit]
+On an iPad (Safari) I can't manage to touch any options apart from File, Edit, Close and Backup. Therefore I cannot experience the interactivity of the comic. Has this happened to you? 172.70.85.185 19:19, 5 November 2021 (UTC)
+Mornington Crescent[edit]
+There is a programming language under the same name. ColorfulGalaxy (talk) 20:20, 11 December 2022 (UTC)
+Indeed, and it looks good fun, though I'm only presently running its potentialities through my own head (slightly distracted by having a copy of a very similar map currently up on my wall). Certainly the same source of inspiration, perhaps with a proper nod to the formalised rules as eventually brought together by Stovold, though no reference there to laterals, being in Nidd, etc... 172.70.85.175 20:50, 12 December 2022 (UTC)
+Categories: All comicsComics from 2018Comics from AprilSunday comicsIncomplete explanationsLinks to xkcd.comPages using the "citation needed" templateInteractive comicsApril fools' comicsComics featuring CueballAnimalsBunsComics featuring Beret GuyMultiple CueballsComics featuring Black HatComics featuring PonytailComics featuring HairbunComics with audioChronicles of Narnia

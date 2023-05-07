@@ -1,0 +1,100 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1950: Chicken Pox and Name Statistics
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1950)
+|<< PrevComic #1950 (February 2, 2018)Next >>|
+Chicken Pox and Name Statistics
+
+Title text: People with all six of those names agree that it's weird that we have teeth, when you think about it for too long. Just about everyone agrees on that, except—in a still-unexplained statistical anomaly—people named "Trevor."
+Explanation[edit]
+This is another comic with one of Randall's fun facts.
+In this comic statistics are used to point out some non-intuitive correlations. The first panel sketches out the prevalence of chicken pox by age in the United States.
+As the graph indicates, prior to the introduction of the varicella vaccine in the United States, it was an exceptionally common childhood illness, with almost 100% of the population experiencing it at some point. The illness is highly memorable (since the symptoms last for days and are intensely uncomfortable) and noticeable (since the characteristic blisters are distinctive and difficult to hide), meaning that it was once a common experience that people expected to both experience and see in their peers.
+As the vaccine became widespread in the US, rates of varicella infection declined dramatically, and new infections are now relatively uncommon. The graph points out that this has led to a fundamental shift in experiences by age. For an American over the age of 30, nearly all your peers growing up would have had chicken pox. For an American under the age of 10, virtually none of them would have had it. This means that older people are likely to think of chicken pox as a normal part of life, while children are likely to have no experience with it, and may not even know what it is.
+The second, seemingly unrelated graph, charts the popularity of certain names over time, in the US. It's normal and expected for certain names to rise and fall in popularity over time, which means that the number of people with those names ends up clustered by age. The names "Sarah" and "Brian" have gone from being highly popular to relatively uncommon for new babies, meaning that people with those names are much likelier to be older. Names like "Logan", "Brooklyn", "Jaxon" and "Harper" went from being virtually unused to having a spurt of popularity, meaning that (as of 2018) people with those names are much more likely to be under the age of 15 than over it.
+The final panel points out that these trends, taken together, generate the interesting effect that you can, in some cases, estimate the odds of someone having had chicken pox, based solely on their first name. Having a name like "Brian" or "Sarah" raises the odds that you're over 30, which raises the odds that you had chicken pox. People named "Harper" or "Jaxon" are almost certainly young enough to have grown up with the vaccine in broad use. These time-based trends predict both the odds of a person having had the illness personally, and the odds that they grew up in a time when infections were common and generally expected.
+The cartoon demonstrates the correlative fallacy, i.e. what can go wrong if one attempts to draw conclusions based on a random comparison of two variables, as described by the famous saying: "Correlation does not imply causation". In this case, there's a real correlation between names and the incidence of a particular disease. A superficial reading could suggest that either certain names make people prone to the disease, or that the disease, in some way, impacts a person's name. The real cause of this correlation is simply that certain trends just happen to coincide, causing them to statistically correlate without either variable having a real causal affect on the other.
+The citations are real articles. The first citation DOI:10.15585/mmwr.mm6534a4 is on the Center for Disease Control (CDC) web site at [1] and the second citation DOI:10.1016/j.vaccine.2012.05.050 is an article in Vaccine at [2]. Both articles describe the effects of the vaccine for varicella which is the virus that causes chicken pox and shingles (also known as herpes zoster).
+The title text states that people with all six of the names in the last panel (and indeed, most people in general) tend to think that it's weird we have teeth after thinking about it for a while, but that people named Trevor don't in an unexplained statistical anomaly. Teeth are a normal and near-universal part of the human anatomy (and that of many other animals). Like many aspects of biology, they're generally taken for granted, but can seem "weird" if you think about them too much. Randall has often demonstrated a tendency to over-analyze typical aspects of life until they become troubling. Here, he jokes that people with one particular name (Trevor) don't experience this, for unexplained statistical reasons. This is, of course, fictional. The joke comes from the fact that, were that claim true, it would be as random and as hard to believe as the real phenomenon that the comic addresses.
+Transcript[edit]
+[The first panel shows graph with only the x-axis labeled and with seven labeled ticks. The y-axis has three ticks with percentage labels. A red line rises from bottom to top as it goes from left to right. There is an arrow pointing at the graph with a label. Above the left part of the red line there is a title and beneath that a reference to the source of the data in gray font.]
+[According to the graph, the percentage is close to 0 for ages below 15 and close to 100 for ages above 30.]
+Fraction of kids your age who got chicken pox
+(Very rough US estimates based on DOI:10.15585/mmwr.mm6534a4 and DOI:10.1016/j.vaccine.2012.05.050)
+100%
+50%
+0%
+Your age: 5  10  15  20  25  30  35
+Vaccine introduced in 1995
+[The second panel shows a graph with only the x-axis labeled and with seven labeled ticks. The graph has six gray lines with labels on them. To the right is a title and beneath that a reference to the source of the data in gray font.]
+[According to the graphs, Sarah and Brian are more popular names for older age groups.]
+Relative popularity of several names in your age group
+(Source: ssa.gov)
+Harper
+Sarah
+Jaxon
+Brian
+Brooklyn
+Logan
+Your age: 5  10  15  20  25  30  35
+[The third panel shows a list of names with a percentage next to them. Above the list is a title and beneath that a statement in gray font:]
+Chicken pox incidence by name:
+(Very rough estimate)
+Brian: 75%
+Sarah: 60%
+Logan: 20%
+Brooklyn: 10%
+Jaxon: 4%
+Harper: 2%
+[Caption below the panels:]
+Fun Fact: People named "Sarah" and "Brian" think chicken pox is normal and common, and people named "Logan" and "Harper" do not.
+Trivia[edit]
+This was the first Fun fact comic in more than two years, to be followed just three weeks later by another Fun fact in 1959: The Simpsons.
+It seems that Randall returned to his old themes this month.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I think Randall missed an opportunity to do another “make you feel old” joke here, perhaps something like “if your age isn’t on the chart, your doctors probably still thought chicken pox was caused by imbalanced humors or angry gods” or something. PotatoGod (talk) 15:24, 2 February 2018 (UTC)
+Shouldn't the vaccine note have been placed at age 23, not 28, if the vaccine was introduced in 1995? Rockcell (talk) 15:28, 2 February 2018 (UTC)
+When do children get their first smallpox vaccine? If that's around three that might be one explanation for the position of the note. Also the vaccine wasn't only used on children born after its introduction, kids that were already a few years old but never had smallpox could still have gotten their shots. 108.162.229.220 15:52, 2 February 2018 (UTC)
+This isn't *smallpox*. Smallpox was eliminated in the middle of the 20th century, so it's weird if anyone gets it. Also: my understanding is that most people who got smallpox died before they got to be old enough to be on any of those graphs.
+I found the top graph very hard to interpret, so I've included my interpretation here for posterity: If you are 35 years old, then you were a young child before the vaccine was introduced and probably 100% of the people you knew as a child got chicken pox. If you are 20-25 years old, there's a 50-50 chance that you got the vaccine and, as a result, about 50% of the people you knew as a child got chicken pox. If you are 10 years old, then you more than likely got the vaccine and have a low probably of getting chicken pox. If you are under 5, you probably don't know many other kids. 162.158.62.39 17:03, 2 February 2018 (UTC)
+We are so used to reading graphs from left to right that this graph, with the inverse time line (current age) and the introduction of vaccines marked, seems to indicate that everyone had chicken pox after the vaccine was introduced, but that it was fairly rare before that. So this might be a stab at the antivaxx movement as well, and their use of warped statistics. Torax (talk) 11:36, 3 February 2018 (UTC)
+Wait, this has nothing to do with confusing correlation with causation, right? The assumption is simply that if most of the kids your age got chicken pox, which is likely if you have certain names, you will consider chicken pox to be normal and common, which seems like a reasonable claim. On the other hand, if the comic hadn't said that, the implication would be that people with certain names cause chicken pox, which would be confusing correlation with causation. -108.162.219.16 17:17, 2 February 2018 (UTC)
+I agree, that’s how I interpreted the comic as well PotatoGod (talk) 18:15, 2 February 2018 (UTC)
+I also agree, if anything this is doing the opposite and assuming no underlying causality between names and chickenpox likelihood, so that the people who get chickenpox at any given time should be distributed randomly amongst all names at prevalent at that time.162.158.78.184 19:06, 2 February 2018 (UTC)
+Basically, what he's describing is a two-step correlation (of which only the second one seems causal to me, but this is debatable). First, your first name and its popularity in particular eras leads to an estimation of your age/year of birth. Second, your year of birth and the prevalence of chicken pox shortly after this year will influence whether you think chicken pox is normal. --IByte (talk) 23:14, 2 February 2018 (UTC)
+People with all six of those names probably think "Why do I have no less than six names?" --IByte (talk) 23:17, 2 February 2018 (UTC)
+It would be considerably weirder if we didn't have teeth. 172.68.25.106 11:39, 3 February 2018 (UTC)
+I disagree. Trevor (talk) 00:37, 4 February 2018 (UTC)
+I thought the joke was that fewer people who have a rare name get chicken pox than those with a common name, therefore people with said rare name must be resistant. --172.69.33.167 12:41, 3 February 2018 (UTC)
+I'm 30 and looking at my high school yearbook there was 1 Logan, 2 Brians, and 5 Sarahs. None of the other names appear. That makes the 2nd graph pretty accurate. However, I managed to avoid the chicken pox, so I got the vaccine when I was 12.108.162.237.40 15:41, 3 February 2018 (UTC)
+There was an opportunity for 'old' names that have come back into common use, like, I dunno, 'Mabel', 'Eva', or 'Emmett', where you're likely to be either below 10 or over 70 years old. What percentage of Mabels remember polio, for example?162.158.74.63 20:59, 5 February 2018 (UTC)
+Logan
+Logan becomes less popular at age 30. Coincidence? --162.158.126.10 19:09, 2 February 2018 (UTC)
+That just means that Logan started getting popular as a name about 30 years ago. So maybe their parents grew up watching X-Men cartoons on TV in the late 1970's through the 1980's? Nutster (talk) 20:40, 2 February 2018 (UTC)
+I’m pretty sure the above was referencing the “Logan’s Run” and “Logan’s World” TV series and books, not X-men. It was meant as a joke.162.158.78.16 04:54, 3 February 2018 (UTC)
+Grammar
+OK. Grammar check now. How many people actually have all six of these names? Can't be too many of them. And is it only men who have this issue?
+Statistically... None. So there's your unique new baby name! ProphetZarquon (talk) 22:42, 3 February 2018 (UTC)
+If you were to compare the top 1000 'male' and 'female' given (first) names in the USA, you'd see a number of cross-overs (such as Mary on the male list, Robert on the female list). Most Common First Names and Last Names in the U.S. These Are Not The Comments You Are Looking For (talk) 02:32, 4 February 2018 (UTC)
+Another grammar check: I'm struggling to understand "fraction of kids my age". My age is 41; there are no kids my age, only adults.
+But those people age 41 now where kids around 40 years ago. LordHorst (talk) 08:20, 5 February 2018 (UTC)
+Isn't everybody someone's kid? Or is there a distinction between "kid" and "child" in such kind that the former addresses small humans of young age whereas the latter describes people who are descendants from someone else? I always assumed "kid" was just informal (or maybe an American English thing?). I don't know - I'm no native speaker and in German language both is "Kind" Elektrizikekswerk (talk) 11:56, 5 February 2018 (UTC)
+Another grammar check: the title of the graph is "Fraction of Kids" yet the y-axis intervals are percentages. 141.101.77.152 08:55, 6 February 2018 (UTC)
+Chickenpox Parties
+As a parent with five children born between 1980 and 1988 before the chickenpox vaccine was available, I recall a phenomena called Chickenpox Parties. If you had a preschooler and heard about a neighbor's child who had the chickenpox, you would arrange a playdate with sick child so that your child would catch the disease young and then be inoculated against catching it later when it was believed to have worse prognosis. Apparently this is no longer in fashion. See this article [3] So the joke could be rewritten, "People named 'Sarah' and 'Brian' are more likely to have been invited to a chickenpox party than people named 'Logan' and 'Harper'." P.S. one of my 5 is named Sarah and none are named Logan or Harper. Rtanenbaum (talk) 13:44, 4 February 2018 (UTC)
+What's the new disease?
+I'm 30, and absolutely everyone I knew eventually caught chickenpox (and then I even caught shingles, as a statistically improbable teenager). I even have a small scar/blemish from it on my torso. The idea that it's been practically eliminated is fantastic. What diseases do parents worry about these days? --172.68.141.196 21:32, 4 February 2018 (UTC)
+A.I.D.S., maybe? *wink* 172.68.143.48 23:57, 4 February 2018 (UTC)
+Unfortunately too many parents worry about autism from vaccines, despite there being no indication of any risk what so ever. So in some areas these diseases are making a come back. Torax (talk) 16:12, 5 February 2018 (UTC)
+That's weird. I am 31 and I know litterally no one who had chickenpox. 162.158.93.15 09:06, 7 February 2018 (UTC)
+Brian The babe they called brian He grew Grew grew and grew grew up to be grew up to be A boy called brian
+A boy called 'Brian'. He had arms, and legs, and hands, and feet, This boy, whose name was 'Brian', And he grew,, grew, grew, and grew,
+Grew up to be, Yes, he grew up to be A teenager called 'Brian', A teenager called 'Brian',
+And his face became spotty. Yes, his face became spotty, And his voice dropped down low And things started to grow
+On young Brian and show He was certainly no, No girl named 'Brian', Not a girl named 'Brian'.
+And he started to shave And have one off the wrist And want to see girls And go out and get pissed,
+A man called 'Brian', This man called 'Brian', The man they called 'Brian', This man called 'Brian'! NanoMan2000 (talk) 15:06, 22 December 2021 (UTC)
+Categories: All comicsComics from 2018Comics from FebruaryFriday comicsLine graphsChartsFun factKids

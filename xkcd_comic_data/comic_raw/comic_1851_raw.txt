@@ -1,0 +1,41 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1851: Magnetohydrodynamics
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1851)
+|<< PrevComic #1851 (June 16, 2017)Next >>|
+Magnetohydrodynamics
+
+Title text: Magnetohydrodynamics combines the intuitive nature of Maxwell's equations with the easy solvability of the Navier-Stokes equations. It's so straightforward physicists add "relativistic" or "quantum" just to keep it from getting boring.
+Explanation[edit]
+In this comic, Ponytail explains to Cueball that the Sun's atmosphere is a super hot plasma controlled by "magnetohydrodynamics" (a real word), the study of magnetic properties of electrically conducting fluids. This is true, as plasma is both electrically charged (following the laws of electrodynamics) and a fluid (following the laws of hydrodynamics). However, the combination is so difficult for Cueball that he finds it easier to comprehend any statements containing the word "magnetohydrodynamic" by dropping the central part of the word ("netohydrodynam"). Thus, he pretends that Ponytail instead said "The Sun's atmosphere is a superhot plasma governed by magic forces". If Cueball really thinks that magic is more comprehensible than magnetohydrodynamics, then considering just how vaguely and inconsistently magic is portrayed across fiction, that must mean that magnetohydrodynamics is really, really hard![citation needed]
+In the title text, Randall riffs on the sheer difficulty of magnetohydrodynamics, claiming that they are as simple and understandable as Maxwell's equations and the Navier–Stokes equations -- which is to say, not at all. Maxwell's equations require an advanced knowledge of calculus to even be able to interpret the symbols used, and the solutions of Navier–Stokes equations are on the Millennium Problems list. Randall also notes the alarming frequency with which the subject of magnetohydrodynamics is paired with quantum mechanics and the theory of relativity; he sarcastically quips that physicists must find magnetohydrodynamics so easy to work with, since they're so compelled to spice it up.
+Transcript[edit]
+[Ponytail holding her hands up is facing Cueball and Megan .]
+Ponytail: The Sun's atmosphere is a superhot plasma governed by magnetohydrodynamic forces...
+Cueball: Ah, yes, of course.
+[Caption below the panel:]
+Whenever I hear the word "magnetohydrodynamic" my brain just replaces it with "magic."
+Trivia[edit]
+In the title text Magnetohydrodynamics was misspelled as Magnetohydrodyanmics.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Hey, how the hell am I seeing this comic here when I can't see it yet on xkcd??!!?! And I'm not even trying to explain this one, I feel my complete unfamiliarity with Magnetohydrodynamics, except for being able to parse the word, will greatly hinder my ability to sufficiently explain it. :) (And that any explanation should and will include explaining what it is). I'm just rather amused at the concept that he's hearing the word often enough to make a "whenever I..." statement about it, like he's hearing it daily or more. Especially since his clear unfamiliarity suggests he isn't in the field or anything. And hey, leave my comment first this time, huh? LOL! NiceGuy1 (talk) 04:49, 16 June 2017 (UTC)
+Figured it out. I last loaded the page with the previous comic before midnight EST, then came here to comment a lot on it, but after midnight, after the comic was posted, the link was still dead, I had to Refresh to get the real link. :) NiceGuy1 (talk) 05:11, 16 June 2017 (UTC)
+""...I replace it with "magic" "" magic has 5 letters, one more than the average anglospeaker is able to understand.162.158.18.10 13:10, 16 June 2017 (UTC)
+Not necessarily. "Troll" has five letters and it's meaning and present applicability are easily understood. These Are Not The Comments You Are Looking For (talk) 01:48, 18 June 2017 (UTC)
+Possible interpretation: It could also be that Cueball is simply unable to comprehend such a large word, and so compresses it into it's beginning and ending letters. Therefore, magnetohydrodynamic becomes mag...ic. 172.68.78.82 (talk) (please sign your comments with ~~~~)
+Randall is downplaying it. I used to work with magnetohydrodynamics when building systems for studying the solar wind. It's really hard because you've got masses of local and non-local (at sane timescales) interactions and the non-linearities don't cancel out nicely. Doing the same within the sun, especially at the boundary between the radiation zone and the convective zone, would require relativistic quantum magnetohydrodynamics, and that's got like every sort of hard in modern physics. I think I'll stick with simple things like trying to build a true AI. 141.101.98.226 17:10, 16 June 2017 (UTC)
+The real question is what's harder: solving an MHD problem or building an AI to solve it for you? 172.71.94.181 20:22, 6 July 2022 (UTC)
+There is a typo in the caption: "magnetohydrodyanmics" :-) 188.114.102.202 (talk) (please sign your comments with ~~~~)
+That's because we have a trivia section.--Dgbrt (talk) 22:10, 16 June 2017 (UTC)
+You meant to say "That's why we have a trivia section." :) NiceGuy1 (talk) 04:25, 27 June 2017 (UTC)
+"Magnetohydrodynamics". I mean, the basic concept of magnets influencing water doesn't sound so bad, but the word itself sounds like a mad scientist having a stroke. 162.158.62.135 19:23, 16 June 2017 (UTC)
+Hydrodynamics is the study of liquids in motion - not only water. The term hydraulics is an other example not much related to water nowadays. --Dgbrt (talk) 22:10, 16 June 2017 (UTC)
+I thought of that after I posted... The fact I didn't go right back and change it and didn't expect to be corrected suggests I forgot where I was, lol. All the same, thank you. 162.158.62.135 22:16, 16 June 2017 (UTC)
+I think he just calls it "magic" for the obvious reasons: the word is very long, and the concept denoted by it is really confusing. 108.162.216.106 02:05, 17 June 2017 (UTC)
+Hydrodynamics is the study of fluids, not just liquids, as it includes solids (though usually plain hydrodynamics or radiation-hydrodynamics is used in explosion simulations, e.g. dynamite or something) as well as liquids and gases (again rad-hydro is used here lots in stellar explosions) and things that are sort of in-between or not really SL or G. Hydrodynamics is regularly treated numerically using simulations, you can't solve it analytically (unless someone claims that prize) so you integrate it bit by tiny bit, loads of times. MHD adds a layer of difficulty as you might expect, it's used to describe interstellar gas where the magnetic bits gets important (e.g. stellar winds, the top few layers of the sun (Solar Vortex Tubes!)), MHD is widely used in the Magnetic Confinement Fusion community to simulate plasma flow/turbulence/horror in Tokamak or Stellerator (and weirder) devices, it's pretty difficult to get right, hence very little fusion yet in these devices. Though it is worth noting that it is actually a simplification of particle kinetic behaviour and that it can't describe a lot of really fast time dynamics, or some of the more odd instabilities, so some poor sods (me sadly) have to use the particle kinetic codes to simulate their plasmas.127.0.0.1|20:39, 17 June 2017 (UTC) -- Xoanon (talk) (please sign your comments with ~~~~)
+To make things more unpleasant, several of the assumptions MHD uses don't apply to most fusion plasmas (particularly the collisionality).108.162.215.160
+Or it could just be greased lightning.172.68.132.195 17:54, 11 April 2021 (UTC)
+Categories: All comicsComics from 2017Comics from JuneFriday comicsPages using the "citation needed" templateComics featuring PonytailComics featuring CueballComics featuring MeganPhysics

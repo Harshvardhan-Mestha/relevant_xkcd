@@ -1,0 +1,94 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1683: Digital Data
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1683)
+|<< PrevComic #1683 (May 20, 2016)Next >>|
+Digital Data
+
+Title text: â€œIf you can read this, congratulationsâ€”the archive youâ€™re using still knows about the mouseover textâ€!
+Explanation[edit]
+Digital information has the potential to be copied such that the copy is 100% identical to the original. While physical media themselves (such as books, or hard drives) and information stored by analog means may degrade as the universe continues, digital information as expressed by specific values, such as combinations of binary zeros and ones, does not decay over time and can be copied indefinitely with no changes.
+However, in this comic, Randall points out that while digital information itself doesn't need to degrade, things that are on the Internet are often degraded through copying when the copy is not a 1:1 copy or changes are deliberately introduced. In addition, as technology advances, the method to save or call the information changes and the medium to view it changes, occasionally causing misinterpreted information. (This is also demonstrated with the title text.) As the frames continue, they gain the appearance of images which have been screenshotted repeatedly, with a resulting loss of quality due to compression of the original resolution and JPEG artifacting. (The JPEG format is intended for representing photorealistic grayscale or color images; when misused for line drawings, such as comic strips, any compression artifacts become particularly noticeable, as the background is normally of completely uniform color.) In the last frame, this is taken to an extreme, as the frame appears to have been very sloppily screenshotted off of at least two different smartphones (not the same device that uses the bottom frame in the third panel as the top border in panel four), and the final image is covered both with a watermark from an unregistered screenshot program, as well as references to at least two different web sites: 9GAG (bottom right image) and Tumblr in the web address bottom left. 9GAG is an online platform and social media website where users upload and share content of their own, or of other networks. It is often accused of rehosting other sites' funny content without attribution and adding their own watermark to the image or video.
+As an easter egg, the high-resolution (pixel-doubled) version of the comic is merely the comic resized to 50% and then to 400%, making it an image of poorer quality rather than a higher resolution image as for other comics, demonstrating how repeated image scaling can also introduce artifacts into images.
+The title text is seemingly addressed to a reader in the future who will only be able to access xkcd through a digital archive. Digital information might not degrade with time, but it can't be properly displayed without knowledge of the encoding. As new encodings and file formats get developed and old ones abandoned, the webpage format of the comic might not be available in the future, when users would need special archives to view content from today's world. The title text contains seemingly garbage characters, which typically result from data being interpreted according to a character encoding different from the one used to encode it. In this case, the characters are the result of encoding the string “If you can read this, congratulations—the archive you’re using still knows about the mouseover text”! using UTF-8 (which represents non-ASCII Unicode characters as multibyte sequences) and then interpreting the resulting bytes as the still commonly used Windows-1252 encoding (which uses only one byte per character, but utilizes the non-ASCII codepoints for a limited selection of extra letters and symbols such as "â" or "€"). This shows that degradation of digital data through conversions isn't restricted to images. Furthermore, as screen navigation moves away from the mouse toward touch, voice recognition, and modes still to be implemented, mouseover text will itself become archaic.
+Transcript[edit]
+[Cueball and a White Hat are walking, Cueball holds both hands in front of him palms up.]
+Cueball: The great thing about digital data is that it never degrades.
+[They walk on in the next panel which shows jpeg compression artifacts, as if the image had been converted from png format to a lossy jpeg format.]
+Cueball: Hard drives fail, of course, but their bits can be copied forever without loss.
+[They continue walking in the third panel which is now clearly pixelated, the white is slightly discolored, and it contains part of the interface of some program, probably supposed to be a screen shot from a smartphone. At the bottom there are three blue buttons and one gray. the first is a blue "<" indicating back in a browser. Then a grayed out ">" that is not active. And then three more standard buttons in blue to the right of those two. The interface matches that of an iPhone running Safari in iOS 9 (or other versions with the same Safari UI (probably iOS 7-9))]
+Cueball: Film degrades, paint cracks, but a copy of a century-old data file is identical to the original.
+[Still walking, now Cueball holds out both arms to the sides, and finally White Hat replies. This panel is heavily pixelated and discolored and has a distorted aspect ratio. It contains a clear watermark of 9GAG (although difficult to read all letters in the end of the first word), even more 'frame' elements, and text above the image at the bottom (where the last letter is obscured by the frame of the image). There is also an internet address at the bottom left, but it is not readable except for the .tumblr.com ending. In this panel it is clear that it is a screen shot from a smart phone. The frame around the image obscure the very top of Cueball's text and the half of the last letter in White Hat's reply.]
+Cueball: If humanity has a permanent record, we are the first generation in it.
+White Hat: Amazing
+Watermark: Screenshotpro 2
+Watermark: ~Unregistered~
+Top border: Verizon LTE 4:45 PM
+Bottom text [slightly cut off]: 9GAG
+Internet address at the bottom [nearly unintelligible]: [ama].tumblr.com
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Ewww, Verizon? **** them International Space Station (talk) 04:58, 20 May 2016 (UTC)
+Don't forget the whole "Verizon Math" incident and Randall's much passed around check image. I'd be surprised if it isn't on 9GAG somewhere.... Psu256 (talk) 17:12, 23 May 2016 (UTC)
+https://xkcd.com/verizon/ 198.41.238.16 02:30, 15 July 2017 (UTC)
+Ironically, the title text on explainxkcd is different from the one on xkcd.com, demonstrating the reinterpretation of text encoded in UTF-8 as if it were encoded in ISO 8859-1. 162.158.85.231 05:45, 20 May 2016 (UTC)
+-Exactly; this nicely proves Randall's point. On my computer, different characters appear in different browsers, but of course in one browser the characters are reproducible.--Jkrstrt (talk) 07:26, 20 May 2016 (UTC)
+Here is the decoded title text:
+   “If you can read this, congratulations–the archive youʼre you're using still knows about the mouseover text”!
+108.162.229.16 07:51, 20 May 2016 (UTC)
+Grungy details:
+â€œ -> convert to hex -> E2-80-9C -> UTF8 decode -> 0010-000000-011100 -> U-201C "LEFT DOUBLE QUOTATION MARK"
+â€” -> convert to hex -> E2-80-94 -> UTF8 decode -> 0010-000000-010100 -> U-2014 "EM DASH"
+â€™ -> convert to hex -> E2-80-99 -> UTF8 decode -> 0010-000000-011001 -> U-2019 "RIGHT SINGLE QUOTATION MARK"
+â€! -> convert to hex -> E2-80-9D -> UTF8 decode -> 0010-000000-011101 -> U-201D "RIGHT DOUBLE QUOTATION MARK"
+Odysseus654 (talk) 17:31, 20 May 2016 (UTC)
+The convert to hex step is really encode with Windows-1252. Also, in the last sequence, the "!" is not part of the encoded quotation mark. The third byte of the quotation mark comes from an unprintable U-009D between the "â€" and the "!". U-009D isn't a valid Windows-1252 character, so either the encoding is actually a superset of Windows-1252 that includes U-009D, or the encoding process just allowed it.
+162.158.255.103 17:26, 21 May 2016 (UTC)
+He's written you're twice, but one is with a curly apostrophe, often favoured by americans (and maybe brits?), possible because of their keyboard. The simple apostrophe is “just” html-formatted, whereas the curly one has been molested by a UTF-8 / ISO-8859-1 misreading. --108.162.229.16 07:51, 20 May 2016 (UTC)
+I'm British, and I don't have the curly apostrophe anywhere on my keyboard. Enchantedsleeper (talk) 11:01, 20 May 2016 (UTC)
+I'm American, and I also don't have the curly apostrophe anywhere on my keyboard, but word processing programs (like MS-Word) are configured by default to automatically replace an ASCII apostrophe in a conjunction with the fancy right-single-quote mark. Also when using quotation marks around text those programs automatically replace the repeated single ASCII quotation marks with the fancy left and right quotation marks (single if using single quotes, double if using double quotes). Most people don't care enough to disable that "feature"... 162.158.252.143 15:13, 20 May 2016 (UTC)
+Ok. I've never experienced that from any text processor (incl. MS Word), so maybe it's dependant on the system locale or another mysterious factor. I've just noticed a prevalence in english language texts online, but an absence in other european languages. Not even french, which has as many or more contractions. 108.162.229.16 08:11 21 May 2016 (UTC)
+This is a phenomenon that has always both fascinated me and frustrated me. I find it fascinating how, even today, data degrades as more and more people copy it (remember the old days when people used to copy VHS tapes, and the further you were from the original tape the more copying artefacts your copy had in it?). It also frustrates me, though, when I'm trying to find an original, undegraded image or video and it seems impossible to find. It's also annoying because it's actually pretty easy to copy something without causing any quality loss, yet practically every copied image on the internet has been degraded in some way or another. 141.101.98.130 07:08, 20 May 2016 (UTC)
+If you haven't yet, you should check out this guy who ripped and reuploaded his own Youtube video 1000 times: https://www.youtube.com/watch?v=jEIzS_27Vt0 162.158.222.150 08:28, 20 May 2016 (UTC)
+...and after 100 iterations https://www.youtube.com/watch?v=k6GMvihskBQ ...and the summary of all of them https://www.youtube.com/watch?v=icruGcSsPp0 Odysseus654 (talk) 16:50, 20 May 2016 (UTC)
+It can be frustrating to try to convince new people drawing schematics on the computer to not use 4-way junctions because they don't expect digital images to degrade over multiple generations of copying. This xkcd demonstrates the way multiple generations can degrade even digital images, potentially making it difficult to differentiate two crossing (but electrically separate) signal lines from a 4-way junction on a schematic. Sorry, I'll get off my soap box now. ;-) 162.158.252.143 15:13, 20 May 2016 (UTC)
+It's also funny because just a few moments ago I was trying to compress some video to send to someone. 141.101.98.130 07:12, 20 May 2016 (UTC)
+http://fotoforensics.com/analysis.php?id=274fcf46426f2da31b057f1652ae5269cfdbd70a.190103 this page highlights the encoding blocks so that the degration of quality can be seen better. 141.101.91.205 09:42, 20 May 2016 (UTC)
+Nice example. Their picture is already a bad copy. While it's still a PNG, it's already reduced in size (600x228 instead of 720x282, 131381 byte instead of 190103). Btw. the file used in this wiki is also slightly different from what I see on xkcd. It's just 3 minutes older and 308 bytes larger. 162.158.83.48 01:28, 23 May 2016 (UTC)
+The phenomenon that Randall is making fun of in this comic is actually called a "shitpic" http://www.theawl.com/2014/12/the-triumphant-rise-of-the-shitpic The explanation should probably make reference to that. Enchantedsleeper (talk) 10:57, 20 May 2016 (UTC)
+I think the watermarks on the last frame are from an unregistered screenshot tool, not "9gag" or similar. The references to shit pics are interesting, but aren't you over interpreting the whole thing? 162.158.83.174 (talk) (please sign your comments with ~~~~)
+...You realise that over-interpreting is what this wiki is for, right? Also, not really, since all I said was that a "shitpic" is what this type of degraded image is called. Enchantedsleeper (talk) 15:03, 23 May 2016 (UTC)
+There's a 9gag thing in the image, clean your glasses and look again. --173.245.54.46 12:15, 20 May 2016 (UTC)
+Both screenshots from iOS definitely. Safari browser and… anybody knows? Some kind of other web browser? Maybe Chrome or Opera? <Need to finally create account> 162.158.202.152 15:32, 20 May 2016 (UTC)
+Apparently Russians have been getting this a lot, as they (up to the point of the existence of UNICODE) have had to deal a lot with people using bad codepages. Example of their post office dealing with a physical package addressed with a bad codepage: http://worldlanguages.wikia.com/wiki/Mojibake?file=Letter_to_Russia_with_krokozyabry.jpg Odysseus654 (talk) 16:54, 20 May 2016 (UTC)
+Here is the progression as I see it:
+Frame 1 - The original PNG
+Frame 2 - The PNG converted to a JPEG
+Frame 3 - The JPEG as viewed on a mobile browser (Safari on iOS in this case)
+Frame 4 - A screen-shot of the mobile browser uploaded to Tumblr and then stolen by 9GAG
+173.245.52.62 19:37, 20 May 2016 (UTC)
+Note that while the term "digital" is new, first digital format of information appeared long ago, with the development of standard alphabet. Images hand-drawn on paper can't be copied without loss, but if you write letters in fixed alphabet, it can be copied without errors forever (not counting errors caused by some letters getting out of use through history). Egyptian literature is probably lost due to us not knowing the (very big) full set of hieroglyphs, but Odyssey could (and hopefully even was) be stored exactly how it was written. Wouldn't help read it, of course, language changed since then and it would need to be translated which, again, can lose some meaning ... -- Hkmaly (talk) 16:16, 21 May 2016 (UTC)
+There's a much much older example. RNA and subsequently DNA are digital representations of the protein structures (also digital representations of 3-D molecular shapes). Degradation through copying is 1 source of variation which evolution selects over.MerlinMM (talk) 11:28, 23 May 2016 (UTC)
+Right. Humans were using digital data for their own reproduction long before they knew what "digital", "data" or even just "letter" is. DNA even uses primitive error correction techniques. Although when humans finally found out about RNA being digital, they already had other digital formats. -- Hkmaly (talk) 00:21, 15 July 2017 (UTC)
+There's nothing primitive at all about DNA error correction techniques, just some people's understanding of them. 198.41.238.16 02:35, 15 July 2017 (UTC)
+Is it possible that the watermark in the bottom left of the last panel is supposed to read "drama.tumblr.com"? --173.245.52.67 20:42, 23 May 2016 (UTC)
+
+The alt text has been fixed, the second "You're" has been removed. 141.101.104.80 (talk) (please sign your comments with ~~~~)
+The phenomenon is related to Generation loss --JakubNarebski (talk) 14:50, 27 May 2016 (UTC)
+Btw, does anybody know a digital archive that actually "knows about the title-text"? 162.158.17.66 (talk) (please sign your comments with ~~~~)
+Source image updating?
+If you look at the comic on the website, the first couple of frames are much more "decayed" than they are on the wiki copy. --198.41.238.16 01:47, 19 December 2016 (UTC)
+The source image has definitely been changed. Here's the original image, and here's the new one. --162.158.59.190 01:13, 23 December 2016 (UTC)
+Ok, this is weird - earlier today (2018-12-21), I was seeing the low-res version. But this evening, I'm seeing the high-res version. In between, I had linked it from reddit, maybe it switches based on popularity? 172.68.132.95 07:23, 22 December 2018 (UTC)
+I don't think so? I just saw the original comic after it was linked from reddit, still the degraded version. It was actually how I found about the degrading image. Herobrine (talk) 11:58, 13 March 2019 (UTC)
+Getting worser 172.69.69.196 04:49, 13 April 2019 (UTC)
+As briefly described in the explanation, the high-DPI version of the comic is actually worse than the low-DPI version. Since comic 1084, xkcd offers higher-quality images if you're viewing it on a high-DPI screen - a tablet, a smartphone, or a high resolution PC or laptop. In a normal comic, the high-DPI image (twice the width and twice the height in pixels) would be sharper and nicer to look at on such a screen. In this comic, however, randall has deliberately made it worse than the low-DPI image. --NeatNit (talk) 12:08, 25 December 2020 (UTC)
+
+Ironically, the special characters across xkcd.com appear to be messed up in a the same way the title text of this comic references--including the title text of this comic itself. It now reads, "Ã¢â‚¬Å“If you can read this, congratulationsÃ¢â‚¬â€the archive youÃ¢â‚¬â„¢re using still knows about the mouseover textÃ¢â‚¬Â!" 162.158.63.124 01:25, 12 October 2019 (UTC)
+That happens if the page defaults to "Western" encoding. Switch it to UTF-8 and it changes back to the original 'failure'. --Aaron of Mpls (talk) 05:45, 11 February 2020 (UTC)
+It is 2019. Disney+ has launched. It cropped 19 seasons of Simpsons from 4:3 to 16:9, by just getting rid of the top and bottom of the images. It is the official streaming version of the series. --Lupo (talk) 10:36, 18 November 2019 (UTC)
+My laptop shows the 2x image instead of the normal image on this comic. Has it been replaced or does my laptop just use the 2x images for some reason? 162.158.79.19 23:26, 25 February 2021 (UTC)
+As mentioned above, xkcd displays the high-res image to laptops for all cases. It just isn't obvious for most of them. Nitpicking (talk) 02:25, 30 January 2022 (UTC)
+Categories: All comicsComics from 2016Comics from MayFriday comicsComics with colorComics featuring CueballComics featuring White HatComputersSelf-reference

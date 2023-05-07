@@ -1,0 +1,53 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1823: Hottest Editors
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1823)
+|<< PrevComic #1823 (April 12, 2017)Next >>|
+Hottest Editors
+
+Title text: Elon Musk finally blocked me from the internal Tesla repository because I wouldn't stop sending pull requests for my code supporting steering via vim keybindings.
+Explanation[edit]
+The comic has a play on the word 'Editor'. The editors from 1995 to 2015 are software text editors, and the editor(s) from 2020 onward are genomic editing techniques that edit DNA.
+Text editors are popular among programmers and computer scientists to edit machine-readable text, as well as other digital files. Two of the earlier editors, Vim and Emacs, traditionally use the keyboard (rather than the mouse) to perform common actions (like scrolling, marking text, saving, and searching). As Vim and Emacs use different keyboard commands in different styles, proficiency in one editor does not make it easy to use the other. The "Editor wars" refers to Vim and Emacs users debating heavily over which of the two editors is the best (keyboard bindings is just one argument). This debate was previously mentioned in 378: Real Programmers. More modern editors (including Notepad++ and Sublime Text) mainly use keyboard shortcuts that are global to the operating system, again different from Vim and Emacs.
+Notepad++ is a popular text and source code editor, initially released in 2003 and available only for the Windows platform.
+Sublime Text is the current "most popular" text editor according to this comic; it was released in 2008.
+Sublime Text, Vim, and Emacs are cross-platform.
+The 2020 editor 'CRISPR' is not a text editor, but a technique used to edit DNA in a pre-existing genome. The technique has experienced a surge of recent attention in the media (beginning with the 2016 publication of "The Heroes of CRISPR" and litigation over the patent ownership), suggesting it may become the most popular "editor" in years to come. The joke lies in the comic intentionally not distinguishing between text/code editing and genome editing. It may also suggest that we will not be editing digital plain-text files, but DNA in 2020, possibly due to very recent advances in DNA digital data storage.
+Many pieces of software that contain editing functions (in text boxes, on command lines, etc.) offer Emacs and/or Vim keybindings: the keys will be (roughly) the same as in Emacs or in Vim, so that someone familiar with one of those editors can use the keyboard without learning something new. The comic suggests that in 2025, the Vim key-bindings will be the most popular for editing genes using CRISPR. This creates a comical effect: CRISPR is a technique that operates on genes and not on digital hardware, so it does not use a keyboard per se. Consequently, it is surprising that CRISPR would have key bindings. The comic also suggests that in 2025, Vim will make a comeback in DNA editing, thus having 'won' the battle with Emacs.
+The title text says that Randall has been banned from the code base of Tesla, as he keeps sending pull requests (code changes) to steer a Tesla car using Vim keybindings. Not only does this seem implausible, but it seems dangerous to steer a car with a (computer) keyboard. The arguably most important keybindings of a text editor are those to move the editing location (the cursor) around. Vim classically uses the h, j, k, and l keys for left, down, up, and right functions, although it also supports the arrow keys present on modern keyboards. To use these in a vehicular context, up and down would probably, as in many racing games, be mapped to acceleration and braking, respectively. One additional problem with using essentially binary inputs (key pressed or not) as a replacement for a car's steering wheel is achieving different degrees of direction change. Pressing, say, the h key could either cause the car to turn its wheels left by a pre-set, fixed amount, or it could turn them left the more the longer the key is held down. There has been a spoof based on the reverse principle, however.
+Transcript[edit]
+[A short list with a heading above a line and below that a list of seven years increasing with 5 years intervals. After each year are gray lines that leads to the name of an editor, except for the first two years, where there is a two row square bracket around the first entry;]
+Hottest Editors
+--------------------
+1995-2000—[Emacs–Vim Editor war]
+2005—Vim
+2010—Notepad++
+2015—Sublime Text
+2020—CRISPR
+2025—CRISPR (Vim keybindings)
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+So Randall is saying that in 2005 Vim as the most popular editor, and no Emacs user bat an eye? I came here to see why, highly disappointed 108.162.229.230 00:18, 5 January 2020 (UTC)
+https://en.wikipedia.org/wiki/CRISPR, a procaryotic immune defense system that, coupled with Cas9, has been used by molecular biologists as a technology for precise edition of a the genome of virtually any organism. 141.101.105.216 14:59, 12 April 2017 (UTC) LinVl
+So.. the M-x crispr command? 172.68.51.172 15:54, 12 April 2017 (UTC)ZZ
+You mean `ESC:crispr` ? 162.158.62.183 13:54, 15 April 2017 (UTC)
+Do you spend all of your time in insert mode? PoolloverNathan[stalk the blue seas]
+U•T•S•c
+00:00, 16 May 2022 (UTC)
+The first editors are not for machine-readable Text. But for sourcecode which is human-readable.162.158.90.192 16:49, 12 April 2017 (UTC)
+Well, the compiler or interpreter can hopefully read your source code, so in some sense it's machine-readable :P. --172.68.54.112 18:13, 12 April 2017 (UTC)
+i noticed the article fails to mention the comic declaring vim as the winner in 2005... kind of a huge oversight. mayhaps there is bias in the author of this wiki? mayhaps the author is a huge emacs fan?
+Maybe he's alluding to this with CRISPR-VIM in 2025.162.158.74.51 22:12, 12 April 2017 (UTC)
+As a 30+ year Emacs user, I too wanted to know why vim was declared the winner. Is there some sort of objective basis for the declaration, or is it just a joke in the context of Emacs versus vi debate STILL going on? 172.68.54.100 19:33, 20 April 2017 (UTC)
+I'm surprised no female name is included. I mean, there must be lot of newspapers with female editors and some of them are likely hot. -- Hkmaly (talk) 02:06, 13 April 2017 (UTC)
+Could CRISPR being the hottest editor refer to DNA computing? https://www.britannica.com/technology/DNA-computing
+"Sublime Text is the current "most popular" text editor according to Randall[citation needed]". Citation needed? Someone should link that phrase to this comic then, LOL!
+And I want to mention, this site has been looking all wrong and messed up on my iPad 1 for the last week or two. The entire left side is missing, being relegated to looking wrong below, the logo is gone, the buttons are in some different Times-looking font, and this comment text box is only using the centre half of the screen, horizontally. It's like a style sheet got corrupted. Or it's been made prejudiced against older devices and OSes. :) - NiceGuy1 108.162.219.88 03:18, 14 April 2017 (UTC) I finally signed up! This comment is mine. (and the site was fixed, maybe when it went down for maintenance?) NiceGuy1 (talk) 05:45, 13 June 2017 (UTC)
+Have you tried turning it off and on again? 162.158.114.46 21:06, 14 April 2017 (UTC)
+A modal editor with a modal modem : In the days of Hayes modems, using "+" in vi to move down a line (similar to "j") would not always work because "+++" sent in a short time period changes the modem from data mode to command mode. One could imagine a future Tesla having a debug mode entered through a similar key sequence.
+"Vim will make a comeback in DNA editing, thus having 'won' the battle with Emacs" - Why would Vim only win the battle with Emacs in 2025, when, according to the chart, Vim already was the hottest editor in 2005 (which Emacs never was)? --YMS (talk) 15:07, 19 April 2017 (UTC)
+So CRISPR _was_ the hottest editor in 2020 all right. 172.68.246.73 17:00, 1 February 2021 (UTC)
+I'm from the year 2020 to ask: ARE THERE ANY BAGELS LEFT?!?! But seriously, CRISPR is not the hottest editor of 2020. Maybe in 2025? --172.68.57.55 19:09, 2 June 2021 (UTC)
+Categories: All comicsComics from 2017Comics from AprilWednesday comicsChartsComics featuring Elon MuskComputers

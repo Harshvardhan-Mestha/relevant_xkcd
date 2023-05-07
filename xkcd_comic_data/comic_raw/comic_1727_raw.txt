@@ -1,0 +1,51 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1727: Number of Computers
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1727)
+|<< PrevComic #1727 (August 31, 2016)Next >>|
+Number of Computers
+
+Title text: They try to pad their numbers in the annual reports by counting Galileo's redundant systems as multiple computers, but they're falling behind badly either way.
+Explanation[edit]
+This comic shows a semi-log plot with two red lines. The first line shows the increasing rate that computers have been created since the first came around in the 1940s. The graph shows this to occur around 1946. (The precise date can be discussed but it was around that time that the concept began to be applied to real working machines.) After the first computer, the number of computers created is shown to increase in a roughly straight line, indicating exponential growth. At the time of this comic's release in 2016, the curve has passed 10 billion computers, and its projection into the 2020s predicts that the number of computers will keep rising exponentially for at least 10 years to come.
+The other plot on this graph represents all the computers destroyed by throwing them into Jupiter. So far this is only true for the computers on two space probes: those on the Galileo orbiter and its probe. The latter's mission was to fly into Jupiter so it went first in 1995; the orbiter went only after it had completed its mission in 2003. That constitutes the first two steps on the graph.
+Recently the Juno space probe entered into orbit (as only the second after Galileo), and that was celebrated with 1703: Juno on xkcd. Juno's main mission has hardly begun yet; as at the time of this comic's release, it is not even in its final orbit. But once its mission is completed, it will also crash into Jupiter thus destroying a third computer. This is shown as the third step, but this section is shown with a dotted line, as the destruction may still fail if NASA loses contact with the probe before giving it the order to deorbit into Jupiter. This is now scheduled to occur in 2025. All three steps on the graph fits with these years. (Note the number of computers created is not drawn with a dotted line into the future, probably because Randall believes this continued increase in numbers of computers to be quite certain over the next 10-20 years, whereas the outcome of a space probe mission is never certain, even when the probe is already in orbit and only 1½ years before scheduled deorbit!)
+Space probes sent to Jupiter are typically scheduled to deorbit and fall into Jupiter's atmosphere. There can be several reasons for this, but one very important reason is to avoid contaminating Jupiter's moons with Earth pathogens, especially the four Galilean moons including Europa which may harbor life. Also the huge gravity well of Jupiter that would have to be overcome for such a probe to leave the planet again makes it impossible to have an orbiting probe return to Earth with samples.
+The caption below the comic humorously implies that NASA's reasons for causing the probes to deorbit into Jupiter is merely an attempt to destroy all the computers of the world. The caption notes that they are failing horribly, given that they have destroyed only three computers out of more than 10 billion. However, due to the semi-log scale, those three computers appear to have more significance than they actually have. The caption states that NASA really needs to pick up the pace (having only destroyed two since the 1940s, when computers were created), if they wish to actually finish the job of destroying all computers by hurling them into Jupiter. In addition, seeing as there have been many computers destroyed by other means, NASA will never actually catch up, no matter how hard they try, making this statistic even more irrelevant.
+Destroying unwanted objects by hurling them into Jupiter pokes fun at the common science fiction trope of destroying objects by hurling them into the Sun [1]. Hurling objects into the Sun is in fact extremely difficult because of the need to cancel out the orbital velocity of the earth. Randall may be referencing calculations ([2], see item 11) that show that hurling items into Jupiter requires 38% less energy than hurling them into the Sun.
+The title text continues the caption by mentioning that in NASA's annual reports they try to make their numbers look better by counting the redundant computer systems on Galileo and its probe, thus doubling the numbers of destroyed computers to four. This of course makes no big difference given the exponential growth of computer production, which is also noted. This indicates that this is a top priority for NASA. That NASA might try to make themselves look better in a report by doubling a number could be realistic, presumably for political reasons or to get better funding.
+Transcript[edit]
+[A graph with two red lines. The X-axis is a time-line with eight ticks with every second tick labeled below the axis, ranging from around 1940 to 2030. The Y-axis is a logarithmic count ranging from 1 to 1 billion. There are 12 ticks with the first and then every third tick after that larger than the two ticks in between. All the large ticks are labeled, but only the first two of the small ticks are similarly labeled. Labels are written to the left of the axis. All labels on both axes are written in gray. The first red line is a straight line (thus exponentially growing), starting close to the bottom left corner eventually reaching the upper right edge of the graph. The other red line begins around 1990 and has three straight steps. Each step is labeled with gray text, the last part of the line (after the present 2016), is dotted. Both of the red lines have an arrow pointing to them with a label above the arrow.]
+Left red line: Number of computers created
+Right red line: Number of computers destroyed by hurling them into Jupiter
+Labels on right red line:
+Galileo probe
+Galileo orbiter
+Juno (scheduled)
+Y-axis:
+1 billion
+1 million
+1,000
+100
+10
+1
+X-axis: 1960 1980 2000 2020
+[Caption below the panel:]
+NASA needs to pick up the pace if they ever want to finish the job.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Huh. Just noticed I missed a sentence at the beginning, but I'm too lazy to fix it. Could someone else rewrite my horrible draft? 173.245.50.85 06:19, 31 August 2016 (UTC)
+I have done that now. ;-) And added a "few" extra details. --Kynde (talk) 14:52, 31 August 2016 (UTC)
+The dotted line may also mean that the mission could possibly be extended, as happened to many NASA missions, in which case the destruction would occur later than currently planned. Zetfr 15:22, 31 August 2016 (UTC)
+There's a HAL9000 joke in there all over it. Aasasd (talk) 16:26, 31 August 2016 (UTC)
+The line is indicating linear growth, not exponential. Exponential growth would be parabolic, not straight. Tinny 17:20, 31 August 2016 (UTC)
+Note the log scale.162.158.86.137 17:51, 1 September 2016 (UTC)
+Did you miss the point about the left axis being logarithmic, or do you need an "explain explain xkcd" page to teach you basic graphing concepts? flounder 108.162.237.136 (talk) (please sign your comments with ~~~~)
+If the implied goal is destroying computers in Jupiter I’m afraid it is completely impossible for NASA to finish even if we stopped manufacturing them now. Some computers have already been destroyed by other means. 162.158.74.27 03:01, 2 September 2016 (UTC)
+Could there be a reference to Lord of the Rings? Having to travel a long distance to destroy an object in the one location it can be destroyed. 108.162.237.133 (talk) (please sign your comments with ~~~~)
+Is that really so hard to send probe on Jupiter orbit into Jupiter? I would expect it would likely happen even if not trying, either because orbit not being totally stable or because the probe will hit something. Or get under Io. ... -- Hkmaly (talk) 21:28, 4 September 2016 (UTC)
+Just out of curiosity, does anyone have a source for number of computers created? I'd be really interested to see that, whether it's the one Randall used when making the comic, or a newer source. Thanks! 172.69.69.207 19:38, 29 September 2021 (UTC)
+As of 2022, Juno's mission has been extended through at least September, 2025. https://www.nasa.gov/mission_pages/juno/overview/index.html Nitpicking (talk) 12:40, 8 October 2022 (UTC)
+Categories: All comicsComics from 2016Comics from AugustWednesday comicsComics with colorLine graphsTimelinesSpace probesComputers

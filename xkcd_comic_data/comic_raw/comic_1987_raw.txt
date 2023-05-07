@@ -1,0 +1,101 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1987: Python Environment
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1987)
+|<< PrevComic #1987 (April 30, 2018)Next >>|
+Python Environment
+
+Title text: The Python environmental protection agency wants to seal it in a cement chamber, with pictorial messages to future civilizations warning them about the danger of using sudo to install random Python packages.
+Explanation[edit]
+A development environment is the collection of tools used to create a computer program. It generally includes an interpreter, a package manager, and various libraries that the project needs. Computer programs often depend on a specific version of these tools, such as a program that only runs on Python 2.7. A badly configured build environment can lead to mysterious errors as the program looks for libraries or features that aren't there, making it hard to develop stable and portable software.
+Python is a computer programming language which has been around for quite a while, especially on Linux platforms. Randall has shown his fascination with Python before. He has likely used it on his computer for quite a few years, from the early years when it wasn't so easy to install, through newer versions where there is a more defined way to install it. Because standards change over time (in particular, although the newest version of Python is Python 3.x, many people prefer Python 2.x, and it's still widely used for backward-compatibility), and he didn't completely uninstall old versions before installing new versions (likely to not break what was already working), he's ended up with a mess where different pieces and versions of Python and its related components litter his hard drive's directory structure.
+Superfund is a US federal government program created for cleaning up contaminated land. The comic is saying that his computer's Python environment is so messed up that it's comparable to a real-world environmental disaster.
+The title text may refer to the philosophical debate surrounding the construction of warning features around the WIPP site in New Mexico, and other nuclear waste disposal sites. In particular, it may refer to this article. These would have to last and be understandable for tens of thousands of years, longer than any known human-made structure or language to date. It also refers to the use of "sudo", a Posix command utility that allows a user to operate with heightened permissions. Using "sudo" to install a Python package may make the package available to the entire system, or, based on the settings of Virtualenv/Anaconda, it may end up installing the package in a user's home directory. This would make it so that the user could not update, edit, or remove the packages.
+$PATH
+$PATH refers to the PATH environment variable, which determines where to search for executable files. In this case, it indicates that the pip, Homebrew Python (2.7), and macOS's pre-installed Python are accessible on path, with ~/newenv/ and a mysterious ???? as part of PATH.
+pip
+pip is the Python package management system, and is used to install and manage python packages. As it is written in Python, it requires Python to run. It leads to easy_install, Homebrew Python (2.7), "(misc folders owned by root)", and ????.
+Homebrew Python (2.7)
+Homebrew is a third-party macOS package manager. Homebrew Python (2.7) is the Python 2 version installed through Homebrew. This leads to Python.org binary (2.6) and /usr/local/Cellar.
+OS Python
+Apple bundles an (out of date) version of Python with macOS. This only leads to ????.
+????
+With so many versions of Python installed and used in the system, it becomes very hard to track which Python program uses which version and environment. The system becomes unpredictable and its workings and faults mysterious. All parts of the graph that lead to this point, lead to confusion.
+easy_install
+easy_install, much like pip, is a cpan-like tool to download and install Python packages. As of the creation of the comic, many people discourage its use. (e.g., this question on stack exchange.)
+Anaconda Python
+Anaconda is a Python distribution for data science and machine learning-related applications.
+Homebrew Python (3.6)
+As of the creation of the comic, Python 3.6 is the current stable version of Python. It can be installed together with Python 2.7 on the same computer. Care must be taken to use an appropriate version for every Python program, however. Homebrew is a "macos" package management utility. Presumably, Randal installed Python 3.6 with Homebrew (as opposed to downloading and compiling the language himself).
+Python.org binary (2.6)
+Python.org is the home site of the Python language and provides its reference implementation. Among other stuff, there are downloadable installers that create ready-to-use Python environments for you (on Windows and macOS only). It makes little sense, however, to use it on a computer where Homebrew, Anaconda, and a locally compiled version are already present, since the Python.org version is the baseline one, doesn't give you any benefits, and can't be optimized for your needs. Having an obsolete 2.6 version, when the typically used 2.7 is already on the computer, also doesn't help. Some justified uses do exist (tests, programs that depend on this particular version), but in the end, an extra version of Python just adds to the overall confusion.
+(Misc folders owned by root)
+This suggests that over years Randall dropped various versions of Python environments everywhere around his computer, probably by hand without proper installers, and used root privileges to do so. The exact locations either are highly nonstandard, so it makes no sense to show them to us, or have simply been forgotten. Now it's hard to even tell where exactly those Pythons lay, what in the system depends on them, and if it's safe to remove them or not (because if installed by the root, they can integrate into unexpected places in the system; having them can break something, and removing them can break something).
+/usr/local/Cellar
+The default (normal) location of the Homebrew Cellar, the directory where Homebrew actually stores the files of the installed packages. It's a storage-only location, the files, including Python, will be symlinked from other, more convenient places in the files tree, and should not be used through /usr/local/Cellar path directly. It seems that Randall broke this safety rule in the past, so some stuff of his accesses Python directly in the Cellar. Such setup can break if Homebrew performs automatic maintenance in the Cellar (like removing unneeded versions of the packages). The name cellar is likely a reference to the practice of storing wines and other alcohol in cellars, intended as a pun of homebrew.
+/usr/local/opt
+A folder that is usually created by Homebrew.
+/(A bunch of paths with "Frameworks" in them somewhere)/
+Python on macOS is often distributed as a framework and placed in a "Frameworks" folder. For example, the system-included Python distribution in macOS resides in /System/Library/Frameworks, and many package managers will also install the framework in a folder with this name.
+$PYTHONPATH
+The environment variable PYTHONPATH specifies the search path for Python modules to the Python interpreter. Having it refer to locations controlled by 3 different package managers, each of which is managing software for different versions of Python, as shown, is likely to lead to incompatible software being loaded together.
+Another pip??
+Pip is a Recursive acronym for "Pip Installs Packages." There should only be one installation of pip (or other package management system) managing any given working environment. Often, additional "pip" executables are installed based on the Anaconda settings for different virtual envs. This often leads to internal contradictions in the software. Randall is confused as to how this other one relates to the rest of the development environments.
+~/python/
+Might be another virtualenv, or, given the absurdity of the rest of the comic, even a manually compiled python installation (many online guides instruct users to extract sources into the home (~) directory).
+~/newenv/
+Probably a virtualenv. Virtualenvs are mechanisms for having Python environments that don't conflict with the system Python. They include the Python interpreter, independent library paths, and usually a copy of pip. The user typically installs packages using the virtualenv's pip such that they can only be accessed by the virtualenv's Python instances, while more common packages are still referenced via the system Python paths.
+/usr/local/lib/python3.6
+The default place under a Unix-like OS for the Python 3.6 standard libraries for a locally compiled Python 3.6 interpreter.
+/usr/local/lib/python2.7
+The default place under a Unix-like OS for the Python 2.7 standard libraries for a locally compiled Python 2.7 interpreter.
+Transcript[edit]
+[A single frame depicting a flowchart is shown. Many chaotic arrows are arranged between the items which are:]
+$PYTHONPATH
+EASY_INSTALL
+ANACONDA PYTHON
+HOMEBREW PYTHON (3.6)
+ANOTHER PIP??
+HOMEBREW PYTHON (2.7)
+PYTHON.ORG BINARY (2.6)
+PIP
+EASY_INSTALL
+$PATH
+(MISC FOLDERS OWNED BY ROOT)
+????
+[The endpoints are:]
+/usr/local/Cellar
+/usr/local/opt
+/(A BUNCH OF PATHS WITH "FRAMEWORKS" IN THEM SOMEWHERE)/
+~/python/
+~/newenv/
+/usr/local/lib/python3.6
+/usr/local/lib/python2.7
+[Caption below the panel:]
+My Python environment has become so degraded that my laptop has been declared a superfund site.
+Trivia[edit]
+A similar comic is xkcd 1654 which is the same but for multiple languages.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Now you can see why the BOT is written in PERL;). But I have to be honest, there are also different versions causing similar problems... --Dgbrt (talk) 14:26, 30 April 2018 (UTC)
+Is pictorial misspelled as pictoral? --162.158.62.231 19:08, 30 April 2018 (UTC)
+Wiktionary says: "Probably an alteration of pictorial..." But please add new comments to the bottom. --Dgbrt (talk) 21:03, 30 April 2018 (UTC)
+Currently working on a table with everything. Note: Programs are boxed, and file paths are just strings. Chbs (talk) 14:44, 30 April 2018 (UTC)
+I never will understand why you guys always create tables...--Dgbrt (talk) 15:59, 30 April 2018 (UTC)
+Convention? IDK. Chbs (talk) 17:06, 30 April 2018 (UTC)
+Of course there is no convention, but often a floating text is a prettier layout. And it's easier for the editors because a single wrong char can corrupt the entire table. But we always get tables here... --Dgbrt (talk) 17:49, 30 April 2018 (UTC)
+"using sudo to install python packages" is probably a reference to the "(Misc folders owned by root)" Chbs (talk) 17:06, 30 April 2018 (UTC)
+I swear every so often Randall just releases a comic like this to mess with us... Just in case the last few ones have been too easy. Linker (talk) 14:58, 30 April 2018 (UTC)
+Created by a PYTHON script (well actually PERL but that's besides the point (I know a lot of people who would fight you over that comment)) - why would people fight me over this comment? Zachweix (talk) 15:25, 30 April 2018 (UTC)
+Only in the sense of "How dare you imply that python and perl are interchangeable!" Cgrimes85 (talk) 16:06, 30 April 2018 (UTC)
+I've removed the "lot of people". Comments are going here. --Dgbrt (talk) 15:58, 30 April 2018 (UTC)
+They aren't interchangeable, but in respect to the comment above it is besides the point Zachweix (talk) 16:22, 30 April 2018 (UTC)
+Isn't the joke that installing multiple versions of Python has resulted in a Byzantine set of $path declarations, pointing all over the place? The title-text/alt-text reference to nuclear waste does not seem like the central joke, but merely compares the difficulty of cleanup. ProphetZarquon (talk) 16:25, 30 April 2018 (UTC)
+May a file system which uses HashIDs for version tracking allow files stored anywhere within that file system to be accessible by only referencing their hash, without the use of paths? Seems like "folders" are not as useful as relational tags would be. ProphetZarquon (talk) 16:25, 30 April 2018 (UTC)
+My has this problem. System Integrity Protection won't let me update python libraries, so whenever I need to update a library I install it in a different place and have to switch to the new version. I can't actually uninstall anything because of SIP, so multiple versions of every library I have ever used will remain on my computer forever.162.158.75.16 18:56, 30 April 2018 (UTC)
+Thanks to the editor who added the article about the WIPP warning messages. I'd been looking for that source for a while. Cgrimes85 (talk) 13:27, 1 May 2018 (UTC)
+Whoever added this pretty rude 2nd incomplete tag: who do you think you are and what this is!? we are volunteers, not your personal data entry monkeys. 172.68.51.46 00:07, 9 August 2018 (UTC)
+Huh, seems no one mentioned the atrocious pun of storing homebrew in cellar. -Tanz
+Categories: All comicsComics from 2018Comics from AprilMonday comicsLinks to xkcd.comComputersProgrammingFlowcharts

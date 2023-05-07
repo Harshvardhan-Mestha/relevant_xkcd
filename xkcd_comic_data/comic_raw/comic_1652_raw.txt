@@ -1,0 +1,73 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1652: Conditionals
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1652)
+|<< PrevComic #1652 (March 7, 2016)Next >>|
+Conditionals
+
+Title text: 'If you're done being pedantic, we should get dinner.' 'You did it again!' 'No, I didn't.'
+Explanation[edit]
+This comic is about the many different uses of conditional statements in human languages, such as those marked by the English word "if". The most obvious kind of conditional is a statement about conditions and consequences (i.e. causality). An expression such as "If A, then B" amounts to asserting that, if A is true, then B is also true is called conditional probability:
+"If it rains, then the air gets cleaner." (a general law or observation)
+"If it rains, then they'll cancel the event." (a prediction)
+This kind of simple conditional statement is the most common case, and has been adapted for use in computer programming and formal logic. But consider the following statement:
+"If Seattle is always rainy, Beijing is smoggy just as often."
+This kind of "bleached conditional" doesn't at all assert that, if the left statement is true, the right one needs to be true. Rather, it's just a way of introducing the right statement (taken as novel) by comparing it with the left one (taken for granted). "As everyone knows, Seattle is always rainy, right? Well, Beijing is smoggy just as often".
+So conditionals in language are more varied than those of conditionals when used in logic or programming. Another kind of linguistic conditional is as follows:
+"There are biscuits in the sideboard if you want some."
+No one would understand this statement as meaning "if you want biscuits, they'll magically pop up in the sideboard". The if-clause ("if you want some") doesn't specify the conditions in which the then-clause ("there are biscuits") is true. Rather, it describes the conditions in which it's relevant. We can paraphrase it as: "If you want biscuits, then you'll be interested in knowing that there are some in the sideboard". If A is true, then it's relevant for us to talk of B. This construction is known to linguists as relevance conditionals, or "biscuit conditionals", due to J.L. Austin's discussion based on the example above.
+The humor in the comic is based on the difference between simple conditionals and relevance conditionals. Cueball gets a chat message on his phone to a social event: "I'll be in your city tomorrow if you want to hang out." This is an everyday relevance conditional, with a meaning like: "if you want to hang out, then it's relevant for you to know that I'll be in your city tomorrow".
+However, Cueball interprets it as a simple conditional, just as in formal logic. Under this interpretation, the message amounts to a claim that, if it's true that Cueball wants to hang out, then it's also true his conversation partner will be in his city. Cueball is willfully forcing this interpretation, due to his belief that simple conditionals are the only "proper" ones. That is, he's being a pedant. A pedant is a person who is excessively concerned with formalism, accuracy, and precision.
+Under this deliberate misreading, if it's true that Cueball wants to hang out, then we automatically know the other person's location. But if Cueball does not want to hang out, we don't know anything about their location; they could be in the city or anywhere else. Since the person is only "guaranteed" to be in the city if Cueball wants to hang out, he asks them where they will be if he doesn't.
+The other person then makes an excuse to drop their invitation, apparently tiring of his pedantry. Hence in the caption Cueball/Randall observes that being pedantic with regard to conditionals is likely to make your friends disinclined to hang out with you. So he tries not to be pedantic about it.
+In the title text, the initiator of the conversation presents another "If A, then B" conditional: "If you're done being pedantic, we should get dinner". In most contexts, this kind of "If you're done being X" utterance marks relevance conditionals. Cueball assumes so, and answers "You did it again!". But the reply is "No, I didn't." Which means that this time they're actually using a simple conditional; because, if Cueball isn't done being a pedant, then they think it's a bad idea to have dinner together. And since Cueball was not finished being pedantic about conditionals, then the last no, would probably also end up being a no to having dinner.
+The title text (and partly the subject of the comic) is literally a reference to 725: Literally, if you know what I mean.
+Transcript[edit]
+[Cueball is shown texting on a phone with a friend. Above him in light gray rectangles with indentations pointing left are the two text messages from his friend, and between them in dark a gray rectangle with an indentation pointing right is Cueball's message.]
+Friend (text): I'll be in your city tomorrow if you want to hang out.
+Cueball (text): But where will you be if I don't want to hang out?!
+Friend (text): You know, I just remembered I'm busy.
+[Caption below the panel:]
+Why I try not to be pedantic about conditionals.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The title text... So he should both stop being pedantic in general and stop caring about conditionals in particular. What is it he does in the title text... the current explanation of that part is not clear to me. Is it completely clear who speaks which line in the title text...? --Kynde (talk) 15:03, 7 March 2016 (UTC)
+It is fairly obvious that the line "If you're done being pedantic, we should get dinner," is provided by Cueball's friend, as it is already established that Cueball was the one being pedantic about conditionals in the first place. 108.162.216.12 15:15, 7 March 2016 (UTC)
+To me the word "Conditionals" is clearly in the grammatical sense. Computer programming was invented literally centuries after the grammatical meaning, and the joke would have been as meaningful 3000 years ago as it is today. 108.162.221.13 15:17, 7 March 2016 (UTC)
+The particular kind of conditional that Cueball's friend is using is called a "biscuit conditional," after the example "There are biscuits in the sideboard if you want some" (from the philosopher J.L. Austin). There's a bit of discussion of them at Language Log--Cueball is doing what Sam C talks about in the first comment, deliberately misunderstanding the conditional. The characteristic of these conditionals is that the truth of the consequent doesn't depend on the truth of the antecedent (the "if" clause), but the consequent isn't relevant if the antecedent isn't true--if Cueball didn't want to hang out, it wouldn't matter that his friend was in the city. In the title text, Cueball thinks that his friend is uttering another biscuit conditional, and that just saying that they should get dinner. But the truth of the consequent really is dependent on the truth of the antecedent--if Cueball isn't done being pedantic his friend doesn't want to get dinner. So I think it is accurate to say "The intent is to show that because the initiator still believes that Cueball is still being pedantic, then he believes that it is not a good idea to have dinner together," though maybe it could be expressed more clearly. 162.158.60.23 15:57, 7 March 2016 (UTC)
+Didn't Demitri Martin do this joke like 10 years ago? :P 108.162.221.63 18:11, 7 March 2016 (UTC)
+Whenever there is something like this that annoys me and I find out it has a name (like relevance conditional), it stops bothering me. HisHighestMinion (talk) 20:20, 7 March 2016 (UTC)
+The one that always bugs me is the Steven Universe intro song:
+   We are the Crystal Gems
+   We'll always save the day,
+   and if you think we can't
+   We'll always find a way.
+Something about the "if" being at the beginning of the biscuit clause throws me. What if I think they can save the day? Then there's no guarantee that they will! But if I AM always thinking that they can't save the day, then they will ALWAYS find a way. Therefore I think they will always find a way. It's so circular!NotLock (talk) 20:28, 7 March 2016 (UTC)
+By the way... Steven Universe was references twice in 1608: Hoverboard, first the family with a "gem" (to the right of course) and then Vader himself talks about them, both inside the Destroyer. I never hear of the show before experiencing the Hoverboard comic, but since I have seen part of an episode and now this comment ;-) You learn so much from reading xkcd. But I'm not sure most of it is useful. But almost always funny. --Kynde (talk) 22:29, 7 March 2016 (UTC)
+"You learn so much from reading xkcd. But I'm not sure most of it is useful. But almost always funny." This should be on a banner at the top of explainxckd. 162.158.255.162 00:49, 8 March 2016 (UTC)
+The title text (you did it again - no I didn't) hearkens back to 725: Literally 108.162.216.58 21:14, 7 March 2016 (UTC)
+Thanks for the ref. I have included this in the explanation. --Kynde (talk) 23:10, 7 March 2016 (UTC)
+So I read the caption as "WHEN I try not to be pedantic about conditionals" and was thinking that it was about "if/only if" directionality. ;-) 173.245.54.16 (talk) (please sign your comments with ~~~~)
+The relevance-conditional that always gets me is "If you're interested in buying something, my name is X". Always makes me think, "And what is your name if I'm just looking?" KieferSkunk (talk) 01:27, 8 March 2016 (UTC)
+If you're interested in buying something, I'm Joe. If you're just a lookie-loo, call me Chuck. That way, at the end of the month, Chuck has a lower close ratio than me, and I get the bonus. :P --162.158.255.82 11:04, 11 March 2016 (UTC)
+Thank you![edit]
+It's amazing how much you can learn about things you thought you already knew. Explainxkcd is so much more than xkcd! Mumiemonstret (talk) 22:03, 7 March 2016 (UTC)
+Yes thanks to those who made today's explanation. This was outside my English capabilities, and I really needed others to explain! :-) --Kynde (talk) 22:24, 7 March 2016 (UTC)
+
++1! This is one of the best (clearest, succinct, well written) explanations on this site. Kudos to all who participated. 108.162.221.40 14:38, 8 March 2016 (UTC)
+
++1 -- Add you comment here if you think that every explanation should be this well written 162.158.253.6 23:05, 9 March 2016 (UTC)
+Is this another case of small talk problems just mentioned after the release of 1650: Baby? Maybe there should be a category (see link for more)...--Kynde (talk) 23:10, 7 March 2016 (UTC)
+Philosophy
+There are some underlying elements of solipsism here. If the other person is hanging out with Clueball, she actually exists. But if that other person is not present, does she exist? "Where will you be" means that the other person existence becomes unsure, at least from Clueball's point of view.
+As an off topic, it would be interesting to see what modern solipsism supporters have to say about the usage of cell phone communications. If one were to spend all day alone say in a forest and talked to a bunch of people over cell phone for the whole day, what would that say about the existence of others outside the forest? Would other's existence still be unsure? Is talking to someone via a mechanical device validating or invalidating of their actual existence? Ralfoide (talk) 16:29, 8 March 2016 (UTC)
+For them hard solipsists it is irrelevant if they experience another being face-to-face or over the phone. They cannot be sure the other person, the phone, and the surrounding woods, really exist. Both living and dead matter are experienced through unreliable senses. For us soft solipsists, it is also irrelevant if we talk to someone over the phone or face-to-face. We still can't know for sure if the other person have a mind, have consciousness (like I do), or if it is just a mindless animal, a robot (albeit with functional repertoire of feelings and ability to learn skills). 141.101.80.33 01:35, 17 September 2016 (UTC)
+The issue I have with this comic is that there isn't anything wrong with saying I'll be in the city tomorrow if you want to hang out. It's logically equivalent to (you want to hang out tomorrow) -> (I'll be in the city) which isn't equivalent to (you don't want to hang out tomorrow) -> (I won't be in the city). In fact the only other logical inference that can be made from this statement is (I won't be in the city) -> (you don't want to hang out tomorrow), or in English, if I'm not in the city tomorrow, you didn't want to hang out. The person can be in the city tomorrow in either case. 162.158.255.113 (talk) (please sign your comments with ~~~~)
+Yes, but as a logical conditional, if Randall is going to be busy tomorrow, he's learned nothing about his friend's location--which is why he asks. --162.158.255.82 11:04, 11 March 2016 (UTC)
+Is it just me, or did Randall mis-spell IFF? 162.158.176.77 (talk) (please sign your comments with ~~~~)
+The title text here, and in 725: Literally, may also reference Monty Python's 'Argument Clinic' sketch.These Are Not The Comments You Are Looking For (talk) 03:13, 12 March 2016 (UTC)
+This made me think of the "Drinker paradox" 108.162.238.221 03:20, 3 October 2019 (UTC)
+Thing like this is why we should add iff and xor to general English vernacular. --4D4850 (talk) 02:54, 22 July 2021 (UTC)
+Categories: All comicsComics from 2016Comics from MarchMonday comicsComics featuring CueballLanguagePedanticSocial interactionsPhones

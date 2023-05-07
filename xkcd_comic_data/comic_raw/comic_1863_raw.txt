@@ -1,0 +1,81 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1863: Screenshots
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1863)
+|<< PrevComic #1863 (July 14, 2017)Next >>|
+Screenshots
+
+Title text: For the final exam, you take a screenshot showing off all the work you've done in the class, and it has to survive being uploaded, thumbnailed, and re-screenshotted through a chain of social media sites.
+Explanation[edit]
+The comic shows a syllabus of an introductory course on screenshots. Screenshots have become a common way of spreading and sharing content on social media like Tumblr and Twitter, particularly excerpts of text such as seen in the cartoon. This in turn has developed into a common language with unwritten rules; the comic imagines a world where such rules have become codified into best practices, able to be taught in classes.
+The image on the left shows an image of screenshots of text, along with what seems like annotations describing various ratios and dos and don'ts about making such screenshots. The right side shows the main points of the course, touching on topics that are relevant for making and publishing screenshots. Some of these guidelines are violated on a regular basis by people sharing screenshots on the internet, leading to impaired readability and the degradation of digital quality (see 1683: Digital Data).
+The punchline of the comic describes a high attendance in the course (presumably many people are interested in how to take high-quality screenshots); however, the digital textbook only sold one copy, implying that the only attendee that bought the book was adept enough to distribute screenshots of the textbook content to the others, because of the information gathered from the class itself. In essence, the writer of the textbook has taught their students how to pirate their material, effectively putting themselves out of a job. There isn't anything that the author can do to prevent this due to the analog hole, which states that if non-interactive media can be visually seen by humans, it can be copied, as with a screenshot.
+Detailed explanation of the headings on the right:
+Highlighting: What & How much?
+This refers to highlighting text of particular interest in screenshots, as depicted on the left.
+Aspect ratios
+Again, depicted on the left. If a screenshot is too wide, it might be difficult to read, and/or it will not fit into thumbnails and social networking feeds. This leads to the screenshot being scaled down too much to be readable (see bottom left). An aspect ratio that is too tall would have similar effects, so in general it is better to stick to near-square aspect ratios (see bottom right of the left section). Some users change the aspect ratio when scaling with a very ugly result (see e.g. 1187: Aspect Ratio).
+Cropping: Pre- and Post-
+This refers to cropping the image, that is, cutting away the irrelevant or unnecessary parts, leaving just the content one needs to communicate. Pre- and Post- refers to when the cropping is done, either before the screenshot (i.e. framing the shot) or cropping the screenshot after it has been taken (i.e. fine tuning it in a photo editing program).
+Whitespace
+This section presumably deals with whitespace. This generally refers to the space around the content of interest, which is often but not always white. In the main image on the left side of this comic, most of the red marks are arrows indicating the white space of that image. In this case the "whitespace" at the top and bottom are indeed not white, but rather filled with text not relevant to the screenshot. Removing all whitespace makes an image more efficient and helps provide focus on the important part of a screenshot, but too little whitespace can be less comfortable to read or look at, and therefore appear as a more amateurish result. This section of the course would likely discuss this balance.
+Screenshots vs Links
+For the most part it is recommended that one links to the original content, rather than publishing a screenshot of said content. In some situations it is advisable to opt for using screenshots, such as if the content in question has been removed from the original source, and one still wants to communicate the fact that it was published there. Additionally, a screenshot is easier to catch people's attention with, as it doesn't require them to take any actions to view.
+Catching the right GIF frame
+A GIF is a bitmap image format that was developed in 1987 by CompuServe and has since come into widespread usage on the World Wide Web due to its wide support and portability. The format supports animations and is often used for short looping animations on the internet. They often employ a low frame rate, so that one might notice a funny or interesting frame during playback. The naïve approach is to press the 'Print Screen' button with careful timing, but in this manner it can be very challenging to capture the desired frame of any GIF that plays at a speed of greater than 5 frames per second. Presumably, the course introduces its students to special tools to get the job done, such as the EZgif website or the downloadable 7GIF app.
+Snapchat and trust
+Snapchat is a popular social networking application for mobile devices primarily used for sharing images and short videos. One of the main selling points is the transience of content posted. The idea is that as soon as one opens an image or video, a timer starts, and once it has expired the content is no longer accessible on the device. This has led to people sending sensitive content to their friends, thinking that they wouldn't be able to cause much harm, as the content is non-permanent. An obvious flaw in this model is the capability of modern mobile devices to take screenshots (usually available from shortcut keys), and thus permanently save the images to the phone's memory. Saving embarrassing images of one's friends, that they themselves meant as a transient joke, is a serious breach of trust, hence the heading.
+Embarrassing background tabs
+A common error when publishing screenshots is not being careful, and leaving content visible that might be embarrassing. For instance, a browser tab open in the background might show content that is embarrassing or private information, such as a page about a sensitive disease one may have (e.g. AIDS) or pornography. It is easy to miss this when checking, which leads to situations such as this one, where a politician handed out a document with background tabs to pornography websites.
+Spellcheck's red underlines
+Spell checkers are designed to notify the writer of a document of spelling and grammatical mistakes in the text. This is usually done through the editor marking text it thinks is incorrect with an underline (usually red, but other colors may indicate different kinds of mistakes). Sometimes these mistakes are not relevant to the writer, such as when editing source code or using a spellchecker that is set to another language. Even if the corrections are relevant, however, one would not want the ugly red underlines on a screenshot. This section presumably deals with this problem.
+Security: Beware of URL tokens
+URL tokens are pieces of code embedded in the URL of a website. If implemented well, these help identify a particular document or search query, and do not carry any sensitive security information. Insecure web-apps, however, may encode authentication information (such as session IDs, or even worse: usernames and passwords) in the URL, leading to a massive security risk on the part of someone whose screen might be visible to others. Screenshots allow anyone to easily read off these parameters, and possibly successfully impersonate the creator of the screenshot on a website. This is especially hard to notice to less technically inclined users, who might not know that, say, a session ID (a seemingly random jumble of characters), might be used to impersonate them.
+Redacting personal info
+Somewhat related to the previous point: Screenshots might include personal information, such as indications of institutions one might work for, e-mail addresses, and the like, that one might not want to share with the world. This section presumably deals with ways of obscuring such information on screenshots.
+Useful browser modes
+Using the private browsing mode offered by most browsers helps with the previous point of keeping your personal information out of the screenshots because websites see you as logged out. Another helpful mode is the full screen browsing mode (usually F11) that will maximize the content to cover the whole screen, keeping the browser UI out of the screenshots. This also helps with privacy, as it will keep the bookmarks on your browser toolbar from being visible, as well as your username if you're logged in Chrome, without having to crop the screenshots manually. Counterpointing with the final bullet on spotting fakes, the Inspect Element browser mode allows you to live-edit the HTML source of the webpage, allowing you to create more convincing fakes if that is your goal.
+Tradeoffs: PNG vs JPG
+PNG and JPG are file formats with different image compression algorithms. JPG is widely used for encoding photographs, as it compresses real-world images to a fraction of their normal size without losing much quality. On artificial images with lots of sharp changes in contrast (such as text), however, JPG produces visible compression artifacts due to its lossy compression. For these, PNG is usually used, as it compresses large blocks of a single color, and repeating patterns efficiently, and due to it having a lossless option is able to encode text without artifacts, improving readability. PNG is usually superior for screenshots, as these are artificial images, but if the screenshot is of an actual photo (or a frame of a GIF or movie), JPG might yield lower file sizes at comparable quality. This tradeoff is presumably discussed under the heading.
+JPG images also have an attached EXIF data file, not present in PNG images, which may contain information about the device that the screenshot was taken on (especially "with", e.g. a camera) and thus be a potential privacy risk in some cases. However, EXIF metadata is not used with JPEG 2000. However, PNG can contain a transparency layer, allowing the object in the image to exist without a background.
+Watermark ethics
+Many users and websites add watermarks to their original content (or even worse: their screenshots) to indicate where it came from. As depicted in 1683: Digital Data this can lead to degradation of quality as watermarks are stacked on top of each other. It is generally considered okay to put a single unobtrusive watermark on one's own original work; anything other than that would be considered unethical.
+Spotting fakes
+It is relatively easy to fake a screenshot in an image editing program such as GIMP or just editing the page source, making it seem like another organization or person is the original source of the content, possibly damaging their reputation. Some of these techniques are easily detectable by looking at the images metadata or correlating the contents of the screenshot with other sources.
+The title text once again refers to the continual re-screenshooting of data as seen in 1683: Digital Data, where the final examination consists of the students taking a screenshot good enough that it is still recognizable (and hopefully readable) after being re-compressed, re-screenshot and re-uploaded to various social networking sites, deteriorating its quality. This is quite a difficult task, considering the student only has control over the first screenshot, and subsequent screenshots could degrade the quality to any level. Hopefully the professor is aware of this and plans to perform the test under controlled conditions, as well as grade on a curve.
+Screenshots were previously explored by Randall in 1373: Screenshot, 1683: Digital Data and 1815: Flag. This comic is one of a small set of comics with the same or almost the same title as another comic (with only the plural form of the word screenshot being the difference).
+Transcript[edit]
+Intro to Screenshots
+[The left side of the panel shows three images. The largest image is a screenshot of text with the middle section highlighted and margins and top and bottom rows marked with red lines and arrows. The two smaller images below are cropped versions of the screenshot in the first image: the left image has an incorrect "squashed" aspect ratio and a red X on it, while the right image has a correct aspect ratio and a green check mark.]
+[The right side of the panel:]
+Syllabus
+Highlighting: What & how much
+Aspect ratios
+Cropping: Pre- and post-
+Whitespace
+Screenshots vs links
+Catching the right GIF frame
+Snapchat and trust
+Embarrassing background tabs
+Spellcheck's red outlines
+Security: Beware URL tokens
+Redacting personal info
+Useful browser modes
+Tradeoffs: PNG vs JPG
+Watermark ethics
+Spotting fakes
+[Caption below the panel:]
+My class on screenshots was a big hit, although for some reason I only ever sold one copy of the digital textbook.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Is "Embarrassing Background tabs" a dig at Kurt Eichenwald? 162.158.134.70 14:00, 14 July 2017 (UTC)
+Him or just about anyone who has porn on background tabs. It's a regular occurrence these days. OldCorps (talk) 14:31, 14 July 2017 (UTC)
+Well sure, but he's probably the most triumphant example in recent media memory 162.158.134.70 14:56, 14 July 2017 (UTC)
+Ramon Perez was the first one to come to mind for me. He's a US Congressman who recently passed out a handout to the US House of Representatives Finance Committee with screen shots that included a 'MILF' tab and several 'Teen' porn tabs. 162.158.75.250 16:23, 14 July 2017 (UTC)
+Does someone has uncensored image of that? BTW we should add censorship on list of things which can degrade digital data. -- Hkmaly (talk) 00:35, 15 July 2017 (UTC)
+I went looking to see if I could find a copy of the screenshot, wondering if he was actually looking at porn. (Seems to me, "MILF" and "Teen" are more likely to be at the start of the page title on a popunder ad than they are on an actual site, and someone who's actually watching porn is unlikely to have many tabs of such diverse content open. So maybe he was really looking at warez/movies/dating sites and didn't notice the popunders). The only one I could find was the copy of the story on Men's Health magazine; which has a screenshot of a guy tweeting a screenshot of Perez's apology tweet, which included a screenshot of the original screenshot. -- 141.101.98.76 08:50, 15 July 2017 (UTC)
+Do you think it's coincidental that the comic numbers for this one (1863) and for the thematic predecessor (1683) are anagrams?
+Yes, I think it's accidental. Randall doesn't reference comic numbers too often, and if he does, it's something more obvious. Here it looks like it's some numerology connection, created by searching enough patterns. kshksh (talk) 13:13, 15 July 2017 (UTC)
+Categories: All comicsComics from 2017Comics from JulyFriday comicsComics sharing nameComics with colorComputers

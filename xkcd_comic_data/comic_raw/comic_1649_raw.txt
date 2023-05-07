@@ -1,0 +1,171 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1649: Pipelines
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1649)
+|<< PrevComic #1649 (February 29, 2016)Next >>|
+Pipelines
+↓ Skip to explanation ↓
+
+Title text: In the future, every single pipeline will lead to the bowl of a giant blender, and we'll all just show up with a bucket each day to take our share of the resulting smoothie.
+Explanation[edit]
+This comic follows a similar idea to the what if? "Niagara Straw" from three days before this comic's release, where the entire water flow over Niagara Falls is imagined to be funneled through a straw (i.e. 7 mm diameter), with disastrous results.
+In this comic Randall imagines what size pipes are necessary to carry US domestic production/consumption of various fluids if the flow rate were fixed at 4 meters per second. Randall notes that "many pipes would overlap", owing to the fact that consumption of one item as corn syrup would be due to the production of one of the others, in this case soda pop (another example, than the previous one which is actually mentioned in the comic, could be gasoline which is produced from petroleum ).
+The top panel is in actual size (something Randall often jokes about, like in the very next released what if? "Eat the Sun", where he shows part of the sun in actual size in the 2nd picture, but in this comic he actually means it). This means that if you look at the image in actual size (or measure lengths in the full size image) then the measured diameter is the diameter Randall has calculated the pipe should be, based on his data for the consumption of these substances.
+In the second panel the pipes are too big for his drawing. To indicate the scale he has both inserted a woman (Blondie) and the top panel has been shrunk down to indicate how much larger the bottom panel is (this is similar to the link between the panels in 980: Money). Using the size of the top panel and the smaller insert, it can be found that the scale is 20:1. The woman is 9 cm tall in the image, which makes her 180 cm — 5 feet 11 inches — in "real life". The pipe next to her for gasoline would have a diameter of 2.2 m.
+Since the caption at the top mentions both fluid produced and consumed in the US it becomes very difficult to find out which number Randall uses. For instance the consumption of wine in the US and the production of wine in the US is not necessarily the same as wine is both imported and exported. Should there then be two pipes? Unlike similar comics (like Money mentioned above) there are no references for where Randall has the data for this comic.
+As usual with xkcd, the absurdity — and improbability — of routing the entirety of each fluid through a single pipe at any point is the source of humor. Randall appears to assume that all of the fluids would flow at a similar speed to typical water mains (4 meters per second). This is, of course, unrealistic, given the wide range of pipe size and fluid viscosity. Running water through a pipe of that size would be trivial (such speeds are typical), but forcing a material like Silly Putty through a tube that tiny at similar speeds would be implausible. And, as the comic points out, some of the materials are effectively solids at room temperature. Many examples are just plain zany (e.g. saliva may be a reference to another what if? "Saliva Pool"). Nonetheless, the table gives a good visual representation of the comparative usage rates. Note that at the bottom of the last panel there is a much larger pipe for the tap water used by the public. This should, perhaps, be unsurprising, as water is used a far higher rate than any other substance that we produce or transport. All substances are listed below in the table.
+The title text refers to a possible future based on the idea of this comic in which all the pipes with the above-mentioned fluids will actually lead into the same hole as shown in the top right panel. This hole will then be the bowl of a giant blender that mixes all these substances together to a smoothie. The future people will then just come up to this blender and get a bucket full of this mix each day. In reality, this would be an impractical method of getting all of the fluids. Setting the logistical considerations of such a setup aside, this would mean that ketchup and salsa, both intended for human consumption, would be mixed with fluids which are harmful to humans, such as windshield wiper fluid.
+Note: "Soup" has been left out, and it might have been expected in this comic due to the similarity to this system with Beret Guy's use of a "soup outlet" as an entrepreneur in 1293: Job Interview. It is probably a larger pipeline than salsa and possibly even ketchup. However, there are many different varieties of soups, and most soup is probably not bought finished, both very good reasons to not include it in the chart. But still the idea of having a soup outlet is very similar to this comic.
+Table[edit]
+All the substances are listed here in the "reading" order, also used in the transcript.
+The diameter is for the inner part of the tube.
+GL is short for GigaLiters, or one billion liters. This is strictly the annual discharge of the size (cm) column at 4 m/s.
+All substances with size as found in the picture, vs. size calculated from public information
+Substance Size (cm) Annual Discharge (GL) Explanation
+Toothpaste 3.5 0.121 In the title text of 1599: Water Delivery, Randall claims that he as a child could not understand why there were no toothpaste pipe to his house when there was one for water. Given this is at the top, this is a clear allusion to this comment. The calculation was based on a figure of 542 g/year per capita consumption of toothpaste.[1]
+The year the graph was made in is estimated to be 2013, and the 316.5 million estimated 2013 US population was used to calculate the diameter above.
+Nail polish 0.4 0.000159 Much less than acetone, which is used as a nail polish remover.
+Windshield washer fluid 5.6 0.311 Largely water, also contains methanol, dyes for a hue, normally bluish, and detergent.
+Silly putty 0.1 0.0000991 The smallest diameter of any of the pipes. Acting as a non-newtonian viscoelastic, properties of the Silly Putty, the size of the pipe may cause unknown effects to the putty and pipe.
+Shampoo 4 0.159 As most people wash (hopefully, every few days), this would be a larger pipe.
+Honey 5.2 0.268 In both pure form and many honey products.
+Donated blood 0.9 0.00803 A small pipe as not many operations need a huge blood transfer.
+Vanilla 0.4 0.000159 Not the ice cream, but the spice (which is black as the substance in the vanilla pipe shows).
+Ketchup 5.2 0.268 A huge ingredient in many products in the U.S., for example McDonalds.
+Salsa 3.6 0.128 Smaller than a typical jar of salsa.
+Sunscreen 1.35 0.0181 A smaller pipe that is largely dependent on the season (summer).
+Personal lubricant 0.65 0.00419 Otherwise known as a "lube", or a sexual lubricant.
+LCD liquid 0.26 0.000670 For liquid-crystal displays.
+Mayo 4.4 0.192 Otherwise known as mayonnaise, this product contains mainly eggs, dairy, and oil.
+Printer ink 1.4 0.192 Some offices and printing centres may need a medium size pipeline of ink.
+Maple syrup 1.8 0.0178 Used as a topping on pancakes. As it is a relatively popular ingredient, it has a medium sized pipe.
+Conditioner 2.5 0.0620 For hair, like shampoo.
+Mustard 3.7 0.136 Like with ketchup, it is a popular topping but not as popular.
+Liquid soap 4.7 0.219 A large pipeline as many people use this.
+Olive oil 6.2 0.381 Largest diameter in the upper chart. A common cooking oil and also used in Mediterranean cuisine.
+Coffee 58 33.4 Extremely popular drink in the U.S. as many people drink it in the morning, so it has a medium sized pipeline in the upper chart.
+Peanut butter 8.6 0.733 Smallest diameter in the bottom chart.
+Ice cream 20 3.97 Most likely solid rather than melted. This would be a weird pipe as the ice cream would have to be melted to be transported through the pipe and then refrozen to a blend of all flavours. Then again, if the future was really the scenario in the title text, then mixing flavours isn't so bad.
+Cheese 70 48.6 Made from milk, also in the chart.
+Soda 82 66.7 As in soda pop aka soft drinks (flavored carbonated water) or club soda (unflavored carbonated water). In many parts of the U.S. flavored carbonated water is referred to simply as "soda".
+Acetone 13.6 1.83 An organic chemical used as a highly potent cleaner in labs.
+Liquor 15 2.23 May not include beer or wine (also in chart).
+Gasoline 220 480. Made from petroleum, also in the chart.
+Yogurt 15 2.23 Made from milk (from a cow), also in the chart.
+Milk (cow) 106 111 All the milk that comes from cows. A large pipeline, as consumption and production of dairy products is in high demand.
+Bottled water 71 50.0 See also 1599: Water Delivery. Bottled water normally has a much higher price than tap water, but the bottled water may have "special properties", like spring water.
+Sugar 42 17.5 See also 1639: To Taste. Sugar is commonly made from sugarcane or beets. Cooking sugar is generally sucrose. Other chemicals called sugars include glucose and lactose.
+Saliva 85 71.6 From this data it could be calculated how long it would take the whole of America to drool enough to fill that pool from the what if? "Saliva Pool".
+Wine 18 3.21 Americans drank just under 900 million gallons of wine in 2014, or almost 3.4 million cubic metres per year meaning that Americans drink about 0.11 m3/s.
+HFCS 20 3.97 High fructose corn syrup is a widely used sweetener, mostly found in soft drinks. It is naturally found in a low concentration in most fruits (sucrose is made out of a glucose molecule bonded to a fructose molecule), and thus it can be naturally extracted from corn.
+Milk (human) 10.6 1.114 A rather small pipe as many people unfortunately do not breastfeed (Human milk is infinitely better for babies than formula), preferring to give their babies milk formula.
+Petroleum 318 1002 The largest diameter in the bottom chart, except for the public water. Also known as crude oil. Used to make, for instance, gasoline, also in the chart.
+Meat 59 34.5 The amount of meat purchased in the U.S. This "pipeline" would be mostly solid, save for some blood.
+Glass 28 7.77 Glass is rumored to be a liquid. However, glass is an amorphous solid; people, wrongfully, assume this lack of crystalline structure gives it the potential for viscous flow, making it technically a liquid (non-newtonian). This is incorrect as glass is composed of covalently bound molecules in a somewhat disorganized fashion, more similar to a thermoset plastic than a liquid. This common misconception was referred to before in the title text of 843: Misconceptions.
+Beer 54 28.9 As only people over 21 can buy this it is a smaller pipe. A larger pipe than wine, as beer is consumed more in the U.S.
+Tea 41 16.67 Smaller than coffee, as many people prefer coffee, but some like tea more.
+Cement 74 54.3 As most buildings have this and there are countless construction projects ongoing, this is a large pipe.
+Public water 2550 64,465 Using the formula here, it is possible to calculate the diameter of a circle given the chord length = l and height = h of a segment. From the drawing (and scaling) l = 390 cm and h = 15 cm. The formula states that D = h + l2/(4*h) = 15 cm + (390 cm)2/(4*15 cm) = 2550 cm.
+Transcript[edit]
+[Caption above the first main panel, to the left of a smaller panel to the right:]
+The size of the US’s
+Pipelines
+if each fluid produced or consumed in the US has to be carried by a single pipe
+Assuming they all flowed at the same speed of about 4m/s
+Note: Many pipelines would overlap (eg. soda/corn syrup)
+[There is a small panel to the right showing three gray pipes of different sizes leading out over a large hole in the ground. Only a part of the hole can be seen at the bottom left part of the panel, but it curves around indicating it is a large circular hole. The pipes are supported by small legs beneath them and from the end of all three thick liquids are squirting out and down into the hole. The first pipe is by far the largest; the liquid from it is white, but not as white as the background. The second pipe is by far the smallest squirting dark red liquid and the final rightmost pipe is in between and squirts our light brown liquid. Each pipe is labeled. The label on the smallest cannot be read properly, but from the info gained in the next panel it can be inferred for certain what it says (and this is indicated here below):]
+[Large pipe (white)]: Mayo
+[Small pipe (dark red)]: Nail polish
+[Medium pipe (light brown)]: Maple syrup
+[Below is a large panel with a caption at the top. And below this there are twenty circles in different sizes and with different color (or even texture). Each circle is labeled, for the five smallest the label is outside, in one case with an arrow indicating where the label belongs. The rest has the label inside. The text is in black except for four of those with text inside, but with red of black color. Here the text is white. The labels are indicated by color and size, going roughly from top left in reading order based on the position and size of circles not of position of the text:]
+Actual size (When viewed on a typical computer screen)
+[Medium green blue and white spiral]: Toothpaste
+[Tiny dark red]: Nail polish
+[Big light blue with white specks]: Windshield washer fluid
+[Very tiny purple]: Silly putty
+[Medium light green]: Shampoo
+[Large dark yellow]: Honey
+[Very small blood red]: Donated blood
+[Tiny black]: Vanilla
+[Big red]: Ketchup
+[Medium dark red with chunks of in different green and lighter red colors]: Salsa
+[Small white]: Sunscreen
+[Very small light green]: Personal lubricant
+[Very tiny gray]: LCD liquid
+[Medium off-white]: Mayo
+[Very small black]: Printer ink
+[Small light brown]: Maple syrup
+[Small light green]: Conditioner
+[Medium yellow]: Mustard
+[Large light green]: Liquid soap
+[Big olive green]: Olive oil
+[The panel just described is indicated to fit into a small rectangle at the top left of the next panel below. There are four lines ending at the four corners of this small rectangle, two of these are going to the two bottom corners and the other two ends on the lower part of the panel just above the small rectangle. They are indicated to go under the panel and would hit the two top corners if extrapolated. The 11 largest circles are clearly seen, but most of the other circles can also be noted. The colors are the same but any features in the original circles as well as the labels are gone. The part of the black top frame of the next panel below is faded out to gray in between the section cut off by the two lines going to the bottom corners of the panel above. This rectangle indicated the increasing size compared to the first panel above.]
+[Apart from the insert mentioned above, the second panel follows the same layout, but with 22 circles with even larger range of sizes. The panel is more than twice as long as the first panel. Blondie is drawn at the top of the panel just left of the middle. Her hair is close to the top, just below the line going to the right corner above. There are two medium-sized and five smaller circles to her left and one small close to her head and one huge circle to her right. Her feet are less than a third down this panel standing on top of the next row of circles. In the bottom half of the panel there is a giant circle which almost touches the left side of the panel. There are smaller circles above it and down along the right side. One last circle is to the left almost at the bottom. At the very bottom is a slightly curving line to indicate a much much larger blue circle that only graces the panel (no. 23). There is a small green fish in this water to the left of the label. Below the labels are again listed as above. One label has a foot note. But it is written directly beneath the circle in which it is referenced. So it will be written together with the label on the next line. There is also one case with an arrow used to indicate where the label belongs.]
+[Medium dark gray]: Coffee
+[Very tiny gray]: Peanut butter
+[Very small gray with black specks]: Ice cream
+[Very small yellow with white specks]: Cheese
+[Large brown with white fizzing]: Soda
+[Tiny White]: Acetone
+[Tiny gray]: Liquor
+[Huge dark yellow]: Gasoline
+[Tiny White with blue and orange specks]: Yogurt
+[Big white]: Milk (cow)
+[Large light blue]: Bottled water
+[Small white]: Sugar
+[Large light gray with white specks]: Saliva
+[Very small light yellow]: Wine
+[Very small orange]: HFCS
+[Very tiny white]: Milk (human)
+[Gigantic dark gray]: Petroleum
+[Medium dark red with black texture]: Meat (mostly solid)
+[Small white]: Glass*
+*Solid at room temperature
+[Medium light brown]: Beer
+[Small gray brown]: Tea
+[Large gray]: Cement
+[Gracing bottom of panel light blue, with a fish inside]: Public water
+Trivia[edit]
+In addition to the what if? article, the relevancy of pipelines, particularly regarding public water, is heightened due to the ongoing public health crisis in Flint, Michigan, caused by recent (mis-)management of their public water system.
+See McLaughlin, Elliot. 5 things to know about Flint's water crisis, 'CNN', January 21, 2016. Retrieved 1 March 2016.
+Studies have shown that temporary use of the Flint River as a water source caused corrosive water to leach lead from old pipes, causing lead poisoning in many residents, particularly children; other ill effects in addition to lead have been noted.
+The crisis has lead to a public outcry against the state "emergency financial management" team appointed and supervised by the state executive (Gov. Rick Snyder and staff) and an outpouring of support from nearby communities such as Metro Detroit via bottled water donations to Flint residents.
+This is the third comic posted on Leap Day (February 29) on Monday in 2016; the previous ones were:
+390: Nightmares on a Friday in 2008 and
+1023: Late-Night PBS on a Wednesday in 2012.
+If the current M-W-F schedule continues, the next such comic will not happen before 2036 when the leap day again falls on a Friday (Following the 28 year cycle).
+It may also be interesting to note that the first three leap years after xkcd began (in just over 10 years) all fell on a release day, then followed by a break of 20 years.
+References[edit]
+↑ https://www.google.com/search?q=toothpaste+consumption+by+country&tbm=isch&pf=m#imgrc=2wpGcxkoKlCvAM%3A[dead link]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+No discussion yet? Strange ...
+Anyway, the title text "and we'll all just show up with a bucket each day to take our share of the resulting smoothie" reminds me of this bit near the end of Monty Python's "The Meaning of Life": https://www.youtube.com/watch?v=Zx0ME65y72E (Warning: not for the squeamish.) --RenniePet (talk) 16:21, 29 February 2016 (UTC)
+This comic came out very late today. Mikemk (talk) 19:16, 29 February 2016 (UTC)
+I tried to discuss earlier but did not have permission to "create a page." Now I can comment, I assume because you created the page? Hrmm. Anyway, my comment is that the honey pipe seems so unreasonably large that I'm curious of the source and the math. I found figures for honey production in US, in pounds, did not convert it to volume or look up other values but it's hard to imagine it is correct in relation to ketchup, mustard, and mayo. Grocery stores sell honey in smaller bottles and much less often, than the others. Factory bakers and makers of cereal use a little honey but not much; it's so much more expensive than corn syrup or even sugar. Restaurants use all those other products at much higher volumes. McDonald's has honey at breakfast for biscuits but it's rarely requested, versus how many gallons per day of ketchup they must use per store, just on burgers, let alone packets given away. 108.162.216.62 17:24, 29 February 2016 (UTC)wrybred
+Please (once you get permission to do create pages) do not try to create pages like this yourself. There is a bot that will do that when the comic has been out for a short while. And this comic was very late. And when people do it themselves there often goes a lot wrong with the functionality. And contributions may be lost when an admin has to fix this later. --Kynde (talk) 22:00, 29 February 2016 (UTC)
+There is so much wrong with "cheese" labeled as a fluid... Flavio from Switzerland 141.101.104.33 (talk) (please sign your comments with ~~~~)
+Since there are both glass (not a solid) and meat (mostly solid) and cement, only liquid for a short time, then the question is if cheese (once milk) could not be measured as a liquid without being more strange than other substances in the table? I also think that some (strange to me) people like to eat cheese that is runny ;-p --Kynde (talk) 22:00, 29 February 2016 (UTC)
+I find it appropriate and satisfying that tea and sugar are the same size :) 108.162.245.180 18:38, 29 February 2016 (UTC)
+Glass is a reference to the common misconception that glass is a slow moving liquid. (Spoiler: It's not) 141.101.106.161 19:31, 29 February 2016 (UTC)
+I believe he has mentioned this fact in a previous comic... One where he urges us to look at Wikipedias page for common misconceptions before going to a party and telling everyone that glass is a liquid! ;-) --Kynde (talk) 22:00, 29 February 2016 (UTC)
+To give an example: Americans drunk just under 900 million gallons of wine in 2014, or just over 4 million cubic metres per year. There are 31557600 seconds in a year, so about America drinks 0.13 m3/s. If the pipe is flowing at 4m/s The pipe must have an area of 0.032m^2 = 320cm^2. The radius of a pipe of area 320cm^2 is 10cm. The wine pipe should have a diameter of 20cm. How about a table of calulated diameters 141.101.70.91 19:38, 29 February 2016 (UTC)
+Fantastic. I did some recalculations of the numbers posted as a transcript, at the moment moved to a trivia section when I posted a real transcript. There was an error in the scaling which I have now fixed. And right now the number for wine diameter says 20 cm. I did just check the picture and I disagree a little as I come to 11.5 mm on the picture which would then make it 23 cm in diameter, but that would be close enough to fit with this wine calculation withing the uncertainty of both calculations measurement and Randall's accuracy. And yes there should be such a table as you mentions.
+Table now added. --Kynde (talk) 22:33, 29 February 2016 (UTC)
+But what about the additional wine produced in America? You only took into account the wine consumed. --Effy (talk) 10:15, 1 March 2016 (UTC)
+Also, I recalculated from the article you linked to and got a figure much closer to 18 cm. Maybe check your calculations? When I take 893M gallons and convert to cubic meters I get about 3.38 million, not just over 4 million. This would perhaps suggest that each pipe in the comic is either matter produced OR consumed, but not both added together. --Effy (talk) 10:33, 1 March 2016 (UTC)
+Oh yes, US gallons are not UK Gallons......... -- Zeimusu (talk) (please sign your comments with ~~~~)
+One last comment: I corrected the table per above, I hope that's okay. However, I noticed that if we use wine produced instead of wine consumed, the pipe comes out to 17.9 cm instead of 18.5. Perhaps that was what the pipe was intended for? (I guess the extra wine will need to imported with a transatlantic pipeline.) See: List of wine-producing countries. --Effy (talk) 10:39, 1 March 2016 (UTC)
+Thanks for the scale check. It's always nice to know someone else looked at this stuff. BTW - would suggest that you not compare "size" to "calculated size" - but rather multiply these diameters by 4 m/s and output "calculated annual output" v. "Annual Output" - any source that can be found for annual outputs. This would be a bit more elegant as sources can be verified instantaneously. (i.e. using the 23 cm wine for example - "Annual Output" would be 4 million cubic meters, "Calculated Annual Output" would be 5.24 million cubic meters. --188.114.106.47 23:20, 29 February 2016 (UTC)
+It's not blonde, it's albino. 173.245.63.144 23:28, 29 February 2016 (UTC)
+How are we defining a typical computer screen? How many dots per inch? And where do we get that data from? Are we gonna have to do the math ourselves on one of the pipes to figure out what DPI setting Randal is suggesting? Or has he said somewhere? Trlkly (talk) 23:58, 29 February 2016 (UTC)
+I'm not sure the initial size assumptions are very fair. If not-Megan is 5 feet 11, she's in the 99.4% percentile for American women. So perhaps the initial measurement of 9cm should be smaller for an "average computer". Here's a percentile height checker. https://tall.life/height-percentile-calculator-age-country/ Bgaskin (talk) 23:50, 1 March 2016 (UTC)
+The Trivia section speaks of Leap Day comics, describing another as being "also like this one on a Friday in 2008". That implies Leap Day yesterday was a Friday. It was not, Leap Day was a Monday this year (as was the release date of this comic). ???? Other phrasing in the Trivia section uses similarly incorrect phrasing, leading me to question the validity of the declaration that the next Leap Day Release Date is in 20 years. (I personally can't check right now). - NiceGuy1 108.162.218.148 06:44, 2 March 2016 (UTC) I finally signed up! This comment is mine. NiceGuy1 (talk) 08:58, 9 June 2017 (UTC)
+I note that the Trivia sections of 390: Nightmares and 1023: Late-Night PBS are similarly garbled with the same incorrect information. I also note that UTC timestamps on here are 5:15 ahead of Eastern time where I am. I thought UTC was the middle of the ocean, this is 15 minutes past Greenwich. Even if the number of hours is right, the 15 minutes shouldn't be - NiceGuy1 108.162.218.148 07:51, 2 March 2016 (UTC) So's this! (and I note timestamps are now +4 hours from Eastern. Like I said, middle of the ocean). :) NiceGuy1 (talk) 08:58, 9 June 2017 (UTC)
+I'm the guy who added the leap day stuff on this one originally; when I did that, the other two comics' pages didn't mention leap days at all. I most definitely did not say anything about Fridays, or indeed any other days of the week other than the "if MWF schedule continues next one will be 2036" part; I certainly would not have claimed that February 29, 2016 was in some way a Friday. (UTC is basically Greenwich, incidentally. But yes, 15 minutes past Greenwich - maybe 16 or 17 - seems about right for UTC timestamps here. Is it faulty time on the server?) 162.158.180.203 06:30, 3 March 2016 (UTC)
+Interesting that Randall doesn't include a pipe for air, a fluid consumed in great quantities in the country. 162.158.255.74 11:48, 2 March 2016 (UTC)
+Checking some numbers - Meat seems consistent with this USDA report (I got 32.1 GL), but Milk Consumption (29.8 GL) was way off - mainly I think because it was based on consumption - not production. Using the numbers listed of "all dairy products" is 86.3 GL, which isn't right either - but closer. Cheese (4.44 GL) was also off. In the small pipes, based upon a report here, Mayo (0.656 GL), Ketchup (0.687 GL) were way off. Mustard (0.106 GL) wasn't that far off. Further investigation is coming as I find the time, but it seems that production numbers were used more than consumption numbers - (consistent with the note of "pipes overlap" - obviously you can't consume something that's been used in something else). --188.114.106.47 18:02, 2 March 2016 (UTC)
+Ok after review of Saliva Pools 500 mL/day figure (stated within this last month), the population should product 59.9 GL of Saliva. Comparing with the 71.6 GL listed shows that the saliva pipe should have a diameter of 77.8 cm. Applying this scaling to "not-meg" gives a height of 165 cm - which matches with what Google says for Average woman height. I'll rescale everything in the lower panel to match unless I see a disagreement. --188.114.106.47 19:20, 2 March 2016 (UTC)
+Categories: All comicsComics from 2016Comics from FebruaryMonday comicsLinks to xkcd.comComics with colorLarge drawingsComics featuring BlondieChartsRankingsFoodAnimals

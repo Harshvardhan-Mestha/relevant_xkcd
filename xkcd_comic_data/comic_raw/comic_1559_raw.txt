@@ -1,0 +1,64 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1559: Driving
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1559)
+|<< PrevComic #1559 (August 3, 2015)Next >>|
+Driving
+
+Title text: Sadly, it probably won't even have enough gas to make it to the first border crossing.
+Explanation[edit]
+A self-driving car is a car that requires no human interaction to navigate streets to a destination. Thus, when Black Hat places a rock that weighs "as much as a small adult" into the car's seat, he begins the process of fooling the car into thinking it has an occupant when it does not. His purpose in doing so appears to be to send the car to Anchorage, Alaska, which is presumably quite far from where Black Hat and Cueball are standing, thus taking the car far away from its owner with relatively little effort on the part of Black Hat. This is yet another evil prank from xkcd's resident classhole.
+The title text references the fact that driving to Alaska from the contiguous lower 41 states requires two border crossings, once into Canada from the mainland, and once from Canada into Alaska. The car apparently begins some distance from the Canadian border, since it will likely run out of gas before reaching Canada. The title text expresses regret about this probable failure; perhaps Randall was looking forward to the encounter between the border guards and the vehicle's "occupant." However, even if the car does not get to Anchorage, Black Hat will have created a serious problem for its owner who will have to report the car as stolen.
+Shortly after this comic appeared, Tesla released footage of a robotic charger that can connect itself to a Tesla automatically. If this kind of technology becomes common then a self-driving electric car might be able to make a transcontinental journey without human intervention.
+At the time of the release of this comic there were no places where self-driving cars were for sale to individuals. However, several corporate-owned test cars are frequently seen on public roads (such as those operated by Google among others). Nevada, Florida, California and Michigan were the first states to allow the testing of self-driving cars on public roads, and this legality is quickly spreading to many other states, as well as several countries in Europe. Alternatively, Randall might be setting this comic in an idyllic near future, wherein you could drive all over the country (and Canada) with these cars!
+It could have been Beret Guy's car - see 1493: Meeting. Self-driving cars are a recurring topic on xkcd.
+Transcript[edit]
+[Black Hat, carrying a rock, is walking toward Cueball, leaving a trail of sand.]
+Black Hat: Would you guess this weighs as much as a small adult?
+Cueball: What?
+Cueball: Uh, probably.
+[Black Hat walks past Cueball who turns to look after him.]
+Black Hat: Great!
+[Black Hat has walked out of the frame. Cueball is looking in the direction he left in. Several noises and voices are coming from off-panel.]
+Off-panel: *Thump*
+Car voice (off-panel): Please fasten your seatbelt.
+Off-panel: *click*
+Black Hat (off-panel): Take me to Anchorage, Alaska.
+Car voice (off-panel): Navigating
+Off-panel: *slam*
+[Black Hat walks back in the panel towards Cueball.]
+Car driving off:Vrrrrrrrrrrrrrrrrrrrrrrr
+Black Hat: I love self-driving cars.
+Cueball: ...Whose car was that?
+Black Hat: Dunno, but they shouldn't have left it running.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+They're probably in California, seeing as that's the only place self-driving cars are actually on the road. Wmss (talk) 09:46, 3 August 2015 (UTC)
+If there are self-driving cars, what about self-filling cars? So these cars are able to make long distances without the driver's interaction. Maybe he is sleeping. GeorgDerReisende (talk) 10:47, 3 August 2015 (UTC)
+Yeah, for some reason that does not exist yet -- the self-driving car on the other hand DOES exit and I can see them driving down my street every day Spongebog (talk) 01:07, 4 August 2015 (UTC)
+People have no problem entrust the self-driving cars with their lives, but did you saw how much the petrol costs? Too risky. -- Hkmaly (talk) 10:26, 4 August 2015 (UTC)
+Should've used hitchBOT instead of a rock. 108.162.216.82 12:46, 3 August 2015 (UTC)
+Could this have been a semi-tribute? Showing how some malicious people will abuse technology that is programmed to be too trusting? 108.162.216.138 20:56, 3 August 2015 (UTC)
+Could you explain with an example Spongebog (talk) 01:07, 4 August 2015 (UTC)
+I disagree with the part of the explanation that claims that the comic must take place in the continental US. The title text doesn't specify "exactly two" border crossings; it merely implies that there is more than one. That could be anywhere in mainland (or attached-to-the-mainland-by-bridge) North America, north of the Darien Gap, except for most of Canada (from most of the population centers of Ontario, Google Maps wants to route through Michigan, for a total of three border crossings). 108.162.221.149 14:18, 3 August 2015 (UTC)
+Correct. It "implies" more than one, but doesn't require it. Only that there be at least one. So they could be in Canada. Essentially anywhere on the continent (or an island connected by bridge to the mainland (e.g., Florida Keys)) north of the Darien Gap but outside Alaska. - Equinox 108.162.238.172 23:15, 3 August 2015 (UTC)
+I disagree. Randall makes comic in the mainland US and if there is no indication we are outside it is safe to assume they are in the mainland US. And the title text clearly indicated more than one border crossing. You are making it way to complicated. I have corrected accordingly.--Kynde (talk) 12:02, 4 August 2015 (UTC)
+It is likely that the car's owner can locate it via the Internet, via an app and location logic provided by the car's manufacturer. E.g., OnStar. 108.162.216.157 (talk) (please sign your comments with ~~~~)
+"At the time of the release of this comic there were no places where these cars could be used privately." That is not true, as there are no restrictions on vehicle use on private property. --108.162.212.7 16:35, 3 August 2015 (UTC)
+You are correct, and I have fixed that -- the true statement is that they are not for sale to private individuals Spongebog (talk) 01:03, 4 August 2015 (UTC)
+The only US state that both borders Canada and permits self-driving cards is Michigan. Assuming that the logic in self-driving cars prevents them from driving on streets where they are not legal, the conversation would have to take place in that state (but then again, wouldn't the car know that it is not allowed to drive in Alaska?) 162.158.92.64 19:38, 3 August 2015 (UTC)
+Maybe it's exactly a matter of what knowledge the car has. It could be linked up to something proprietry, or possibly a Cortana information-engine, to control a virtual "GPS fence", based on current legal and possibly licence-based limits. I'll bet it can be reprogrammed to ignore/extend such limits, though. (Which is why I'm dubious about the idea of 'hard limiting' flying drones from entering restricted airspace. A little hardware/software/firmware hacking should be simple enough for anyone who needs to get around such limits.)
+I can also imagine the following conversation: "How far does your car's self-driving system let you go on automatic?" "I'll ask her..."(/Alaska...) 141.101.98.188 00:33, 4 August 2015 (UTC)
+Yes the car would know that it was not permitted to drive in Alaska, however that would not prevent it from setting of with that destination in mind assuming that the person would take over control and entering manual driving in places where automatic were not permitted. Spongebog (talk) 01:03, 4 August 2015 (UTC)
+In that case, the "border" in the title text could be a state border... Sabik (talk) 06:13, 4 August 2015 (UTC)
+But you are still assuming this is the present. If this comic is set in the future they could be anywhere in the US and drive all the way through the country, then through Canada and finally to the destination in Alaska. --Kynde (talk) 12:02, 4 August 2015 (UTC)
+I think you mean North Montana, hasn't been called Canada in years 162.158.255.156 16:59, 4 August 2015 (UTC)
+We always used to call Anchorage "North Seattle." Also, once we casually said "good morning" to a stranger on the street in Inverness (Scotland) and got the instant response "Vancouver!" We said "No, Seattle." The response to that was "Oh, same thing." Taibhse (talk) 10:49, 5 August 2015 (UTC)
+There's no reason to assume that the same laws apply in XKCD world, where velociraptors spontaneously attack people who use GOTO. There is also no direct indication that the self-driving car was being operated legally. I feel that trying to pin down the location of this comic is overthinking the matter. 108.162.238.155 22:37, 5 August 2015 (UTC)
+I agree -- we're wasting valuable time that should be spent arguing that Black Hat is not in fact carrying a sand bag, but rather a large rock!
+Many years ago, a major oil company approached an auto research company to come up with both a means to describe as well as coordinates in that system of every fuel filling location on every vehicle. The thought at the time was that the company was seeking to create an automated filling station that could eliminate both the attendant and self-serve. It is only a matter of time. 173.245.54.5 (talk) (please sign your comments with ~~~~)
+I can't believe no one is raising the really important question about self-filling cars and/or automatic filling stations: would they be legal on the New Jersey Turnpike? 162.158.255.52 17:55, 28 September 2015 (UTC)
+It should be noted that this comic refers to a driverless car, which is very different from a self-driving car. In short, having a self-driving car means you can set the steering to keep you in your lane, the cruise control to keep you at a safe following distance, maybe even to observe red lights. It can’t make turns or really much of anything without *some* driver interaction. Driverless cars function as the comic describes; the driver enters a destination and the car goes there. It is illegal to test driverless cars on the roads of any state except Michigan. 162.158.62.243 22:28, 22 February 2018 (UTC)
+Categories: All comicsComics from 2015Comics from AugustMonday comicsComics featuring Black HatComics featuring CueballSelf-driving carsSabotage

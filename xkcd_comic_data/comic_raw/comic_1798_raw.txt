@@ -1,0 +1,69 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1798: Box Plot
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1798)
+|<< PrevComic #1798 (February 13, 2017)Next >>|
+Box Plot
+
+Title text: You have to be careful doing this. Sometimes, when you push the whisker down, dynamite explodes.
+Explanation[edit]
+This comic shows three vertical box plots in the first panel, hence the title.
+In descriptive statistics, a box plot is a convenient way of graphically depicting groups of numerical data through their quartiles. The second quartile is the median and it is not indicated in this comic, as it should be a line through the box (see the definitions of quartiles). But the top and bottom of the box is the first and third quartile, which splits the lowest/highest 25% off data of from the highest/lowest 75%, respectively.
+Box plots may also have lines extending vertically from the boxes (whiskers) indicating variability outside the upper and lower quartiles, (that is, the highest and lowest values in the data,) hence the terms box-and-whisker plot. These can be used to indicate the interquartile range, a measure of statistical dispersion. These have been included on the three boxes in the plot.
+The joke in the comic arises, because it turns out that the box plot is actually three real world objects and Cueball walks into the plot in the second panel, climbs up on the lower first box and on to the highest middle box. When the boxes are depicted in the orientation shown, the boxes can look like they are pumps, where the middle part, the box, can be pumped up. And Cueball does just that in the fourth panel, by pushing the top whisker down and when he leaves in the fifth and last panel, this box stays inflated, with the whisker visibly lower than in the first three panels, although higher than when he pushed it down in the fourth panel. (Inflating things that cannot be inflated was also the joke in 1395: Power Cord. But as opposed to inflating the meaning of data, which many researchers sadly do in the real world, what Beret Guy does in that comic, is strictly supernatural.)
+It could be said that the "data" in this comic was "inflated" and thus Cueball has been trying to show a smaller interquartile range than there actually is, thus inflating the possible conclusions that could be drawn from the data.
+The title text refers to how dynamite, an explosive, often used to have detonator boxes (aka. blasting machines) which also looked similar to the top part of the box (without the lower whisker). These detonators were most commonly used for mining, with long wires leading to the explosives. Modern blasting machines are operated by push buttons and key switches, but the old push-handle design still resonates in the public consciousness today, due to its exposure in classic slapstick cartoon shorts like Looney Tunes, especially often used by Wile E. Coyote against the Road Runner. See this compilation for examples.
+The title text also refers to so-called dynamite plots. This type of plot used to be very common in scientific publications, but since it hides most details about one's actual data, it is now frowned upon. The recommended alternative is the box plot.
+The title text thus warns against this kind of data inflation, since sometimes it can go awry and lead to explosions. Randall has often made comics about presenting data as more important that they are, in one way or another, and this comics clearly falls into that category. See for example 882: Significant, 1132: Frequentists vs. Bayesians, 1478: P-Values and 1574: Trouble for Science, and this one for manipulating the way data is presented: 558: 1000 Times.
+A box plot was also used in 539: Boyfriend, maybe the only other time in xkcd. There are many other types of data carts that have their own subcategories, but not this type.
+Transcript[edit]
+[A box plot with three vertical data points is shown. Each point consists of a shaded rectangular box, and a T-shaped whisker on each end.]
+[Cueball walks in; revealing that the box plot is a physical object which he looks up on.]
+[Cueball climbs on top of the diagram, holding onto the top whisker of the leftmost data point.]
+[Cueball, now standing upright on top of the box plot, bends over, grips the whisker of the center data point and starts pumping. The shaded box of the data point bulges. Cueball's movements are accompanied by sounds:]
+Pump
+Pump
+Pump
+[The box has been inflated so much that it almost touches the left and right data points. Cueball walks away.]
+Click to expand for a more detailed description:
+[Expand]
+
+
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+No Valentine's comic this year? (Or could it be later this week?) 162.158.154.163 16:27, 13 February 2017 (UTC)
+Trump killed Valentine's Day for Randall. 162.158.74.219 17:54, 13 February 2017 (UTC)
+I would agree with that, but it could just as well be next comic. However, Randall doesn't usually make Valentines comics, so... --Kynde (talk) 20:59, 13 February 2017 (UTC)
+Just checked and the last he did was 1016: Valentine Dilemma. He has made six Valentines comics and now it is five years ago he made one last. He seems to not like Valentine by the way! --Kynde (talk) 19:48, 18 February 2017 (UTC)
+I thought this may also be similar to a bycicle pump because it doesn't explode it just enlarges. Wasn't there a comic similar to this where someone blows into a laptop power cord and it blows up like a balloon.XFez (talk) 18:54, 13 February 2017 (UTC)
+Yes: https://xkcd.com/1395/ 108.162.216.100 (talk) (please sign your comments with ~~~~)
+Good call 1395: Power Cord should be mentioned. --Kynde (talk) 21:01, 13 February 2017 (UTC)
+I’m surprised this was Cueball, not Beret Guy. 108.162.216.100 (talk) (please sign your comments with ~~~~)
+It could be that inflating/manipulating data is not supernatural. 162.158.154.163 19:37, 13 February 2017 (UTC)
+Yes many people do this all the time, sadly. Often referenced in xkcd... --Kynde (talk) 21:01, 13 February 2017 (UTC)
+There's also a blasting machine in Floor, /735 141.101.88.148 22:11, 13 February 2017 (UTC)
+Could whoever writes the transcripts, please keep them more concise? I am visually impaired and rely on transcripts to "get" the comics, but I find that detailed descriptions of how things are drawn make the joke harder, not easier, to understand. Most transcripts are great, with just the information needed to get it, but some are way too detailed—and this one is pushing it to the extreme. Does anyone really want to know the exact size of each box, or how many lines are drawn around Cueball's shoulders to indicate movement? I'd be much happier with something like "Cueball climbs on top of the second box and pushes the whisker as if it were a pump. The box inflates as if air had been pumped into it." I don't want to know precisely how this information is conveyed, I just want to laugh like you guys with a good joke without getting lost in details. That said, many many thanks to those who write the transcripts! Zetfr 23:11, 13 February 2017 (UTC)
+That is one very detailed transcript. Cardboardmech (talk) 14:00, 14 February 2017 (UTC)
+I have taken matters into my own hands and rewrote the transscript. This is my first contribution to this wiki, so feel free to revert this commit it if it does not fit explainxkcd's style. 162.158.91.215 19:57, 14 February 2017 (UTC)
+Maybe this wiki could benefit from having both "basic transcripts" and "super-detailed transcripts" as separate sections. Asdf (talk) 00:15, 15 February 2017 (UTC)
+To me, this new transcript is perfect. Those "basic transcripts" are really useful. I hope all future transcripts will be made in the same spirit! If others want "super-detailed transcripts" in addition, fine, but for what purpose?
+Zetfr 09:06, 15 February 2017 (UTC)
+I have started a discussion on this topic here: User_talk:Kynde#Transcript_TLDR.3B. Maybe we can define a Transcript-Guide. --Dgbrt (talk) 11:48, 15 February 2017 (UTC)
+@Zetfr. Thanks for the input and sorry about the inconvenience. I was really trying to do my best, and also thanks for using our transcripts. But great to have a debate. As Dgbrt wrote above there is now a discussion on my page. Cool if more than him and me (and one more so far) joined in. I think my observations in the transcript is valid information, but yes maybe they should go into a trivia below the transcript. And great with the already changed transcript by the user who took it into his own hand. --Kynde (talk) 14:16, 15 February 2017 (UTC)
+However, the deleted "data" shows how much the points change, and that could be interesting. So I have added it again in a collapsed section, only shown for those with interest. --Kynde (talk) 19:36, 18 February 2017 (UTC)
+You've edited the transscript again to add irrelevant details? For the joke it is completely irrelevant if the box bulges at the bottom or the top; it is equally irrelevant that Randall has drawn the motion of pumping with shaded versions of Cueball in the 4th tile (That's what the transscript is for: describing _what_ happens, not _how_ it is displayed). (This goes for all these additions, but I won't bother with listing them all). 172.68.51.40 00:41, 19 February 2017 (UTC)
+I took the liberty of trimming the main transcript. The extra details can still be found in the collapsible section, so I think both types of description are covered. Asdf (talk) 04:10, 19 February 2017 (UTC)
+Its not mentioned in the explanation (and i dont feel confident enough to add it), but these plots are occasionally referred to by statistical types as "dynamite plots" (as some statistical folk dont like them), which is what i believe the title text may be a reference to. --Takigama (talk) 02:08, 14 February 2017 (UTC)
+Box plots also resemble candle stick plots that are widely used in stock trading charts. It could be a reference to inflated stock prices172.68.62.22 05:57, 14 February 2017 (UTC)
+If so Cueball did a pretty bad job. The open, close, and low are all at the same value and the high is lower. I think you’re reaching a bit too far with that. --
+probably but i can't help seeing something like this CandleVolume [ChartSchool] - StockCharts.com . Once you see it, you can't help seeing it every time. Until your body finishes metabolizing the mushrooms. 172.68.62.22 00:27, 18 February 2017 (UTC)
+162.158.78.154 06:14, 14 February 2017 (UTC)
+I just had an funny thought: What if this comic is Randall's response to the recent "trend" of trying to see a connection to Trumps's election to his comics? (@Kynde: That comment is not meant to be that serious ;) ) Elektrizikekswerk (talk) 14:13, 14 February 2017 (UTC)
+Yes for sure it is about Trump... :-) I don't see anything Trump like here though, and it has "only" been five comics (out of about 40) I think is related to these issues since the election. But Im sure it is statistically valid, and I will make a box plot for you soooooooon, which you can blow up :p --Kynde (talk) 14:22, 15 February 2017 (UTC)
+Pretty sure there is an Indiana Jones comic about data and artifacts we should maybe include that.XFez (talk) 14:59, 14 February 2017 (UTC)
+This feels like one of the most detailed explanations on explainxkcd I've seen for a normal-size comic. 141.101.98.208 15:33, 14 February 2017 (UTC)
+Anyone else notice the new What-If article that went up a few days ago? 162.158.122.144 03:47, 15 February 2017 (UTC)
+No I did not thanks for alerting us: The what if? Coast-to-Coast Coasting came out February 8th, at the same time as 1796. This time there seems to be no connection with it and the comics released. Only 10 days after the previous instead of 15 weeks. Maybe Randall will begin writing them more regularly again, one could hope. It has been a week today, but no new article is up yet. So maybe not down to weekly releases yet... --Kynde (talk) 14:22, 15 February 2017 (UTC)
+Categories: All comicsComics from 2017Comics from FebruaryMonday comicsLinks to xkcd.comComics featuring CueballChartsScienceStatistics

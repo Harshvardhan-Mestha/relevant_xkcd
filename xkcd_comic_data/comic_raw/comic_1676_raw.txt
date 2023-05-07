@@ -1,0 +1,104 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1676: Full-Width Justification
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1676)
+|<< PrevComic #1676 (May 4, 2016)Next >>|
+Full-Width Justification
+
+Title text: Gonna start bugging the Unicode consortium to add snake segment characters that can be combined into an arbitrary-length non-breaking snake.
+Explanation[edit]
+The comic refers to an irritating problem in laying out text to fit from margin to margin, the problem of justification, where you want multiple-line text to line up on the left side (common), the right side (less common), or both sides, which is commonly called full justification. This strip is dealing with how to make text fit such that it lines up on both sides while still looking good. Sometimes, as with a shorter word between two long words like "relationship between deindustrialization," there's no universal good way to make the typography work. It is a difficult problem to make text look good and be easily legible especially in a narrow space, with the biggest issue being how to handle words that are too long to fit nicely.
+The comic shows several solutions to this problem, some realistic and others less so, but each partly or wholly unsatisfying.
+"Giving up" essentially means not attempting full justification for a particular line, which means it will not fit with the rest of the layout.
+"Letter spacing" involves an conspicuously large amount of whitespace between letters, suggesting a reading where each letter is a word until the reader recognizes what is intended. This method is in somewhat common use in newspaper and magazine layout, where it is generally known by the name "tracking" (distance between all letters) and "kerning" (distance between particular pairs of letters that fit together easily). However, letter spacing is unavailable for justification purposes in some languages (such as German), in which it is used for emphasis, as italics are in English.
+"Hyphenation" can be confusing because it requires suspended recognition of the full word, confusing the eye into seeing, in the given case, the non-words "deindus" and "trialization". This creates difficulty in both pronouncing and parsing the word. Moreover, the decision of when and where to hyphenate is non-trivial, particularly for automated text layout; for example, breaking a word and leaving only two "orphaned" letters on the following line is generally considered an illegal hyphenation. Nevertheless, hyphenation is a very common means of handling extreme cases. The hyphenation option is most compact, yielding the extra word "ecological".
+"Stretching", in which individual letters are displayed as wider than usual so that a word will take up more space, appears visually unnatural and unfamiliar, and may present technical difficulties in rendering.
+Adding "filler" words is generally undesirable: in the worst case, the meaning may be unintentionally altered, or the tone might be rendered too informal, as in the given example, and even in the best case, the text becomes less concise and potentially more difficult to read. Automation is also difficult. However, filler words added by a human, especially the original author of the text, are the least visually conspicuous, and may be the most practical solution in some scenarios.
+Finally, adding a decorative image like "snakes" (but not necessarily snakes in particular) to fill the extra space is a justification practice of significant historical interest (it was particularly common for illuminated manuscripts in the medieval era and remained prominent until the invention of the printing press) but little modern relevance. There may be a particular absurdity to using a snake as it can be read as a word, such as "the relationship between snake deindustrialization" as would be done similar to a rebus.
+In modern text layout programs, some combination of the above strategies may be used to achieve the most visually consistent effect. For example, in one case, hyphenation might be the best option to split a very long word, while another line might be too long by only one or two letters, in which case the program could apply a very slight degree of extra letter spacing, too small for the average reader to notice.
+The title text suggests that in order to facilitate the "snakes" method of "solving" the problem, the Unicode Consortium, the organization in charge of the common text standard Unicode, should add "snake-building characters" (similar in concept to the existing Box Drawing block), to allow variable-length snake images to be used as filling. Currently, there are at least six snake characters in Unicode, not including at least ten more Egyptian hieroglyphs that represent specific snakes, some in specific combination with other hieroglyphs: [1]
+U+1DC2   ᷂   [S᷂]
+A diacritical combining character used in Americanist phonetic notation to indicate lenis (weak) articulation.
+U+2E92   ⺒
+A CJK character which might be interpreted as "snake".
+U+8675   虵
+Another CJK character meaning "snake".
+U+86C7   蛇
+Another CJK character meaning "snake".
+U+1D9DC   𝧜
+One of the poorly-supported characters in the signwriting block.
+U+1F40D   🐍
+An emoji snake.
+One of the hieroglyphs (U+13192 EGYPTIAN HIEROGLYPH I009A) is described in source documents as HORNED VIPER CRAWLING OUT OF ENCLOSURE, so it is literally a snake-building character.
+"Non-breaking" in the title text refers to a similar process as zero-width joiners and no-break HTML and CSS; the whole snake would shift down if it were too wide to fit on a given line. This suggestion would likely be rejected; the Unicode consortium is very specific about which characters are added[citation needed], and always require a good reason[citation needed] before adding a character or set of characters to the standard. Strange decisions by the consortium have previously been referenced in 1253: Exoplanet Names, 1513: Code Quality, and 1525: Emojic 8 Ball.
+Within an hour or two of this comic being published, a thread on the subject started on the Unicode Consortium’s official Unicode Mailing List. As of two days later, it’s still running.
+Transcript[edit]
+Strategies for full-width justification
+[Below the caption is a column with six boxes, each showing a different "strategy" for justification which is annotated beside it. Here the annotation is written at the top and the text below. The top and bottom of the text is cut of in the middle, but as it can be "read" this is written anyway. Only for hyphenation does an extra word appear at the end. In the last with snakes, a snake is drawn to cover the entire space from the end of between to the right border.]
+Giving up
+their famous paper on the relationship between deindustrialization and the growth of
+Letter spacing
+their famous paper on the relationship b e t w e e n deindustrialization and the growth of
+Hyphenation
+their famous paper on the relationship between deindus- trialization and the growth of ecological
+Stretching
+their famous paper on the relationship between deindustrialization and the growth of
+Filler
+their famous paper on the relationship between crap like deindustrialization and the growth of
+Snakes
+their famous paper
+on the relationship
+between 🐍 [a snake filling the gap]
+deindustrialization
+and the growth of
+Trivia[edit]
+The full text (with alternate changes) reads:
+...their famous paper on the relationship between [crap like]/[ 🐍 ] deindustrialization and the growth of [ecological]...
+An approach not depicted is to treat justification as part of a spherical typesetting strategy which allows words to move between lines even where this is not locally optimal. Its net effect in a case like this is to pull words from the previous line for use as filler. This approach is used by TeX.
+In Arabic, it is common to stretch the lines connecting letters as a relatively elegant and satisfying resolution to this problem. This trick is called "kashida" (كشيدة). There does in fact exist a Unicode character, U+0640: (ـ), to help with this: using it to extend "كشيدة" would result in something like "كـــــشـــيـــدة" (which, incidentally, looks a lot like a snake).
+Jim Chapman, developer of Windows 10 e-reader app Freda, has implemented snake-justification in the app, now available on the Windows Store. For best results, use the 'settings' screen to switch 'hyphenation' to 'no', 'use snakes' to 'yes', and choose a large font size (33 or so). Then pick a book with long words and justified text, and read it in a narrow window.
+The comic has been discussed on the Unicode Mailing List.
+The typesetting system SILE implemented snake justification on the same day the comic was published.
+"Line Fillers" depicting animals (including snakes) were widely used in medieval book art.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I added the emoji snake. Is emoji snake the same as a Unicode snake would be? Azule (talk) 05:46, 4 May 2016 (UTC)
+I assumed Unicode snakes would use three different characters: a head, a body segment, and a tail. Your solution is good, but objectively not perfect compared to what's shown in the comic.
+So what would be the optimal snake transcription method here? A parenthetical aside saying "A drawing of a snake stretches to the right end of the line."? Or should we just blackmail the Unicode consortium again? ~AgentMuffin
+The correct solution is obviously to include a 16 Mpixel image of a snake.Henke37 (talk) 07:41, 4 May 2016 (UTC)
+Emoji full snake is already in Unicode as Azule knows. &#x1f40d = 🐍
+Segmented snake needs at least three characteres: head, e.g. °, body e.g ~ and tail, e.g. ◝.
+Three segment snake °~◝
+Four segment snake: °~~◝
+Demro (talk) 12:45, 4 May 2016 (UTC)
+Could the title text also be a reference to the snake in umwelt? Azule (talk) 05:46, 4 May 2016 (UTC)
+Amazon is notorious for being bad at this. Here's a somewhat related Computerphile video. Eno (talk) 06:32, 4 May 2016 (UTC)
+Also, funnily enough, the filler text and the snakes were used in medieval (hand-written) manuscripts. Although it's not a snake but usually a nondescript wriggle that could only pass as a snake when you're squinting really hard. For filler text it's usually low-content words like "truly", "verily", "indeed", "without fail", "in truth" or stuff like that. So it's really an old problem with no satisfactory solution developed in hundreds of years... 162.158.85.93 08:19, 4 May 2016 (UTC)
+This practice of filling the line with a dingbat carried on into the days of handset letterpress (i.e. up until the early 1900's), although it gradually became more whimsical and so less frequent in serious works.108.162.241.123 12:28, 4 May 2016 (UTC)
+In practice you reformulate. Not necessarily insert filler words, but just reorder the sentence enough that justification works. That is assuming the automated justification doesn't work, which will try a combination of multiple methods like word-spacing, letter-spacing and hyphenation. Imagine hyphenating at "de-" instead, but adding a little bit extra letter space in "between", and almost double normal word space between "between" and "de-".162.158.114.222 08:20, 4 May 2016 (UTC)
+Reformulating can only be done with the (tacit or explicit) permission of the author. There are situations where rewording would not be allowed.108.162.241.123 12:28, 4 May 2016 (UTC)
+While the arabic part is interesting, I don't feel it to be very relevant here. 108.162.249.156 09:11, 4 May 2016 (UTC)
+It is relevant because is yet another solution (useful only in Arabic). Demro (talk) 12:47, 4 May 2016 (UTC)
+Sorry- how do add a [citation needed] in superscript? Transuranium (talk)Transuranium
+
+The "snake" option is actually less out there than the current explanation indicates. Snakes proper were not necessarily the go-to, but the same general strategy (decorative filling) was used heavily in illuminated manuscripts in the medieval period. 162.158.214.217 14:36, 4 May 2016 (UTC)
+Came here just to say that. The current explanation needs reworking because that's actually one of the oldest ways of dealing with text justification. Check for example the Book of Kells 162.158.203.141 20:15, 4 May 2016 (UTC)
+Modified the explanation accordingly.162.158.214.217 21:44, 4 May 2016 (UTC)
+"the Unicode consortium is very specific about which characters are added[citation needed], and always require a good reason[citation needed] before adding a character or set of characters to the standard." Seriously? Then what are all the emoji pages added for? U+1F459 (Bikini) 👙, for example... 108.162.221.98 04:05, 5 May 2016 (UTC)
+Emoji were added because Japanese cellphones had introduced them with wild success. A stable standard was badly needed, and the Unicode Consortium, whose job it is to make such standards, complied, after some hesitation.108.162.219.10 17:55, 9 May 2016 (UTC)
+In case of bikini, I would suspect the gender of Unicode consortium members is the reason ... -- Hkmaly (talk) 17:52, 5 May 2016 (UTC)
+I suspect that U+13192 (EGYPTIAN HIEROGLYPH I009A) is actually a "snake building" character in the sense that it is a horned viper coming out of a building. I do not however have easy access to a copy of the original source reference (Gardiner’s "Supplement to the Catalogue of the Egyptian Hieroglyphic Printing Type Showing Acquisitions to December 1953") that was the basis for adding this character in Unicode 5.2. Poslfit (talk) 20:19, 10 May 2016 (UTC)
+Found a list online and have updated the main text accordingly. Poslfit (talk) 20:53, 10 May 2016 (UTC)
+I changed "Hyphenation is also confusing as it often leaves two partial non-words" with "Hyphenation is confusing in English because its spelling requires full-word recognition". In many (if not most) languages two partial non-words can be easily read. The hyphenation problem is probably unique to English. 108.162.221.13 13:06, 5 May 2016 (UTC)
+In most languages, the cases where the hyphenation will be confusing will be rare. In English, the cases where the hyphenation will NOT be confusing will be rare. -- Hkmaly (talk) 17:52, 5 May 2016 (UTC)
+On the contrary, it will generally result in non-words (and hence difficulty reading) regardless of which language you're writing in. Unless maybe you're dealing with logographs, e.g. in written Chinese languages. Flipping Mackerel (talk) 03:32, 6 May 2016 (UTC)
+For hyphenation would it make sens to also talk about the case where it create new words which can be offensives ? Ex therapist -> the-rapist 108.162.228.137 22:37, 9 May 2016 (UTC)
+Letter Spacing in German
+Hi there...
+I guess the statement concerning letter spacing being not available in German isn't (wasn't ever) entirely accurate.
+Letter spacing has since the demise of black letter typing become obsolete and is nowadays merely used to emphasise surnames or city names in administrative paperwork. But even in ancient times of German black letter usage, letter spacing wa salso used to achieve justification. If something was to be emphasised in such a line, the spaces would've been even larger, maintaining a certain ratio between regular letter spaces and emphasised letter spaces.
+However, since letter spacing is as uncommon in German typing as black letters are, it may be used for justification without any concern. In order to emphasise certain words, italic, bold or underlined text is the means of choice.
+Personally, I prefer letter spacing and hyphenation combined, although snakes seem to be the real deal!162.158.85.141 14:29, 29 July 2016 (UTC)
+Categories: All comicsComics from 2016Comics from MayWednesday comicsPages using the "citation needed" templateAnimalsUnicode

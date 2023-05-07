@@ -1,0 +1,91 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1518: Typical Morning Routine
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1518)
+|<< PrevComic #1518 (April 29, 2015)Next >>|
+Typical Morning Routine
+
+Title text: Hang on, I've heard this problem. We need to pour water into the duct until the phone floats up and ... wait, phones sink in water. Mercury. We need a vat of mercury to pour down the vent. That will definitely make this situation better and not worse.
+Explanation[edit]
+Waking up to an alarm can be annoying, especially when it is your partner's alarm, and they are slow to wake up and even then have difficulty figuring out how to turn the alarm off. This comic takes this situation to a ridiculous extreme, from whence the comic derives its humor, especially when paired with the title describing this situation as a "Typical Morning Routine". Of course the typical could refer only to the part of the "routine" until the phone is dropped into an air vent.
+In this comic, Hairy with morning hair is shown using his smartphone as his alarm clock. Another unseen person is sharing the bed with Hairy and growing more irate as Hairy's alarm continues beeping.
+Even simple actions like turning off an alarm can be easily fumbled by a just-awakened groggy person. In this case, Hairy accidentally exited the alarm app without stopping the alarm. In some OSes, simply exiting the app doesn't close it, requiring you to use the app switcher to close it.
+After giving up on shutting down the alarm the usual way, Hairy, in annoyance, decides to remove the battery, which will disable the phone's entire operation. However, while trying to remove the battery in the dark, he accidentally drops his device down a floor air vent (most likely part of forced air central heating common in North America) next to the bed. While the vent is covered by a grille, it is apparently coarse enough (or perhaps missing a few pieces, creating a large hole) to allow the phone to pass through if it falls at a particular location and angle. Also, the vent apparently does not descend very far before bending, allowing the phone to survive the fall intact.
+As of when this comic was posted, Randall uses both iOS and Android according to 1508: Operating Systems—although there is no reason to be certain that the character in this comic is using the same operating systems as Randall. However, the fact that Hairy tries to remove the battery strongly suggests it cannot be an iOS device, given that all iOS devices have non-removable batteries.
+If he were a little handy, Hairy might be able to open the vent and retrieve the phone—or perhaps not, if the phone slid further into the ventwork or Hairy lacked the necessary tools. Instead of trying to physically recover the phone, Hairy attempts to remotely brick the phone from his laptop, permanently disabling all its functions (including the alarm app).
+This attempt fails because Hairy had accidentally put the device into airplane mode before dropping his phone, thereby cutting off all wireless communications with the device and preventing any attempt at remote control. Airplane mode also has the unfortunate (in this situation) side effect of increasing the phone's battery life (though playing loud sounds incessantly should still limit it to a day or so, notwithstanding the pessimistic assessment of Hairy's companion).
+Rather than finding a solution to the problem with the phone, Hairy proposes that they just move out instead.
+Relevant for the title text: There is a semi-common logic puzzle involving a ping-pong ball falling down a pipe with a kink in it. In this puzzle, the solution is to pour water into the pipe until the ping-pong ball floats up.
+In the title text, one of the two characters remembers this problem and attempts to apply it to this situation. Since phones do not float in water, a modified version is proposed using mercury instead. The phone would certainly float on mercury, as it is a very dense liquid (the only metal that is liquid at room temperature).
+The extremely toxic nature of mercury makes pouring it into the air supply a very dangerous idea. Also the required amount of mercury would be extremely expensive. The weight of the mercury would also be substantial (13.5 kg/liter or 113 lb/gallon), and would likely break something in the air duct system. Both mercury and water could also push the phone further into the duct system instead of bringing it back. The end of the title text, declaring that the mercury idea would definitely make this situation better and not worse could be either a sarcastic commentary on these problems or a desperate attempt to bolster confidence that this extreme solution will work when everything else has failed.
+Given that Hairy was willing to sacrifice the phone anyway (by attempting to brick it), he would probably be better off pouring water down the vent—it wouldn't bring the phone within reach, but it would disable and thereby silence it (unless the phone is completely waterproof (and the waterproofing layer wasn’t damaged by the fall), which most phones aren't, especially those where the battery can be removed).
+Of course, Hairy probably wouldn't have gotten into this mess if he had not just been awakened brutally by a very loud alarm, making it difficult to think clearly (or, alternatively, if he just had a standard alarm clock that he could have unplugged or even a mechanical one that he could, say, hit with a hammer until it broke; or just flip the off switch).
+Fortunately, Hairy did not resort to using the EMP of a nuclear bomb to disable the phone, as while it would work, it would be overkill[citation needed] and probably destroy the phone, him, his friend, and his surroundings.
+Transcript[edit]
+[The panel is completely black, with white text. Small lines indicate from where the two voices are coming, and also from where the alarm goes off. A small broken square surrounds the first word spoken.]
+Alarm: Bleep Bleep
+Voice (right): Urgh
+Voice (left): Your alarm is going off
+Voice (right): Huh?
+Voice (left): Make it stop.
+Voice (right) Urrgh
+[The panel is completely black, with white text. Small lines indicate from where the two voices are coming. Several small lines surrounds the last "sound" which is not spoken. The alarm noise is continued from the previous panel and continues over the top of the frame directly into the next panel.]
+Alarm: Bleep Bleep Bleep B
+Voice (left): Hit snooze.
+Voice (right): I'm trying. I closed the alarm app and I can't... I'll just pop out the battery.
+Voice (right): Whoops!
+Clang
+[The lights have turned on so it is now a white panel with black text. The voice to the right came from Hairy with morning hair. He is leaning over the side of the bed, looking down the air vent through which he has dropped the phone. The other person to the left is not shown. The alarm noise (now coming from the air vent as visualized by the lines coming out of the vent) still continues from the previous panel and continues over the top of the frame directly into the next panel.]
+Alarm: eep Bleep Bleep Ble
+Off-Screen voice: Make it stop!
+Hairy: It... fell down the vent.
+[Hairy is sitting in his bed with a laptop. The person to the left is still off-screen. The alarm noise still continues from the previous panel and continues over the top of the frame out of the comic on the right.]
+Alarm: ep Bleep Bleep Bleep Ble
+Off-Screen voice: Can you brick it remotely?
+Hairy: Trying... I think I fumbled it into airplane mode?
+Off-Screen voice: The battery could last for weeks.
+Hairy: You know, maybe we should just move.
+Trivia[edit]
+This comic follows a similar storyline to 349: Success and 530: I'm An Idiot, where Cueball, like Hairy here, encounters an issue and attempts progressively more absurd solutions.
+There is a callback to this in the title text of 1946: Hawaii.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+If he has hair, shouldn't he be called Hairy by definition? Sidenote: Did I really just use the word whence?199.27.130.228 05:57, 29 April 2015 (UTC)
+Added first draft for the transcript. This is my first edit here, so feel free to clean it up. 173.245.56.158 06:02, 29 April 2015 (UTC)
+I think that this is still Cueball because his hair isn't a different colour to his head. The only reason we can see it is because it's bed hair, and he hasn't combed it down yet. 141.101.98.172 06:06, 29 April 2015 (UTC)
+It is not Cueball when he has hair. It is not hair enough to call him Hairy. He has obviously still hair in the last panel, where it is less morning hair, and it is now clearly black (as Hairys). But there is too little air for it to be Hairy in my opinion. However, if it should be either of the two it would be Hairy. Makes no sense to call a guy with hair (any hair) Cueball. I have removed all reference to Cueball and the hairy category that was also added. Since we do not know who is lying beside him, we cannot even use this to say anything about him. --Kynde (talk) 07:27, 29 April 2015 (UTC)
+Someone has changed it to Hairy. See further comment below. So lets call him that. --Kynde (talk) 07:44, 29 April 2015 (UTC)
+I don't see how this comic is about sarcasm or language. It contains language, but it isn't about language.
+Update: Oh, right, the title text ends with a sarcastic comment.173.245.56.158 06:17, 29 April 2015 (UTC)
+I'm not convinced that the character in the title text is being sarcastic. Randall uses that kind of "would be X and totally not Y" talk in other comics and in his What-Ifs. In the times I've seen it, the character speaking it comes off as hilariously naive as opposed to sarcastic. 108.162.237.161 04:35, 30 April 2015 (UTC)
+I think that the character should be Hairy, as the name is "used by xkcd explainers to describe male characters with hair and no other distinguishing features."--17jiangz1 (talk) 07:31, 29 April 2015 (UTC)
+Well then lets call him Hairy then - see discussion above though... --Kynde (talk) 07:44, 29 April 2015 (UTC)
+I would like to be the first to point out similarities between this comic and 349: Success. He starts with hitting snooze (easy) then needs to switch applications (not really worse yet, bear with me), remove battery (losing whatever is unsaved in RAM), bricking the phone (losing it, though maybe just until he has time to reinstall the OS) and finally is willing to fill the flat with mercury vapours (which is a major health hazard). 141.101.104.136 11:32, 29 April 2015 (UTC)
+I am not so sure that metallic mercury is "extremely toxic"; of course, some mercury-containing compounds are. "Extremely expensive"? Yes, compared to what one usually throws into an air vent, but many metals are far more expensive per kg than mercury. Jkrstrt (talk) 15:15, 29 April 2015 (UTC)
+For sure, but in the amounts they would need it would be quite an expense, not to say heavy burden to get back home with. The vapours from the mercury would be flowing into the apartment from the vent and it is not something you wish to get inside. --Kynde (talk) 16:00, 29 April 2015 (UTC)
+Air Vent
+Is having an air vent in your floor something common? o.o Pinkishu (talk) 09:28, 29 April 2015 (UTC)
+Yes, but I had the same question. See wiki links in the updated explanation. --Kynde (talk) 10:21, 29 April 2015 (UTC)
+Also, pouring water in the vent will short-circuit the smart-phone which gives us the same result as bricking a smart-phone. sirKitKat (talk) 09:55, 29 April 2015 (UTC)
+I also though of that and added it. --Kynde (talk) 10:21, 29 April 2015 (UTC)
+Adding enough water to drown the speaker should drown the noise? Puggan (talk) 12:43, 29 April 2015 (UTC)
+And pouring mercury will dissolve some of the metals in the phone. 141.101.104.94 10:01, 29 April 2015 (UTC)
+Not necessarily if it actually floats on-top. But I'm questioning if a smartphone lies flat on a surface, would the mercury then actually get beneath it? I would not be surprised if it would make it stick to this surface. Of course if you put the phone on top of a pool of mercury, it would not think. Not much would! But this is a different story. Hopefully they just move out instead ;-) Or maybe get really awake and start to think. Will add this last part to the explain --Kynde (talk) 10:21, 29 April 2015 (UTC)
+I think that long before mercury (significantly) disolves metal in the phone, it would already have shorted out various bare metalic wires (as per water, only better). The question is whether the miniscus effect of the mercury allows the mercury to enter the casing quite as easily as water.
+As to the possibility of a flat phone being held down by the mercury you pour over it, I think that's unlikely. Maybe a limpet-like (flanged outwards) case flush to a flat surface could exclude the liquid metal from getting under the edges of the phone to allow a suction effect to counteract buoyancy, but that's not a common shape for phone cases which are rarely even sharp-edged perpendicularly to the faces. Mercurial pressure would end up edging under the more realistic curved edges and remove any residual 'stiction'.
+(I also read the "make this situation better not worse" as a continuation of the former text, not a response by the other speaker. It's a common meme for a single person to suggest a monomaniacal plan of action with escalatingly ridiculousness, and then to cap it off with "And I see absolutely no problems with that..." whilst forgoing traditional emoticon indicators of humour, to continue the 'deadpan serious' tone.)141.101.98.186 16:43, 29 April 2015 (UTC)
+I think "Forced-air Central Heating" is a better explanation for Hairy's vent than "Underfloor air distribution". Forced-air heat/cooling is very common in the US, and the Wikipedia entry has a good picture of a floor vent. --199.27.128.211 16:41, 29 April 2015 (UTC)
+Just open the vent! 173.245.50.64 23:39, 25 September 2015 (UTC)
+I remember that the explanation included a bit about how it was fortunate that they did not attempt to detonate a nuclear bomb and use its EMP to disable the phone. Not related to the comic, but I thought it was funny. I'm adding it back in. R3TRI8UTI0N (talk) 00:52, 31 March 2023 (UTC)
+Noise and battery
+How much effective are today's phones in making noise? If they use the same circuits as for playing music (which I suspect most do), I don't think they will be able to do it for weeks, even in airplane mode ... -- Hkmaly (talk) 11:30, 29 April 2015 (UTC)
+Spelling and Commentary
+There are a couple spelling mistakes. 'hos' in the first sentence, 'cold' instead of 'could'. Probably more.
+Instead of correcting the spelling, I was wondering about the tone of the explanation. Specifically, shouldn't this be written in a more neutral tone without the side commentary?
+Don't get me wrong, I appreciate the contribution. Just curious.
+108.162.221.101 11:36, 29 April 2015 (UTC)
+Please just correct spelling if you find errors. Not everyone who contributes are native English speakers. So bear with them and help by just correcting spelling and grammar. --Kynde (talk) 13:37, 29 April 2015 (UTC)
+"Quiet please make it stop" - Mass Effect 2 Overlord DLC 172.70.251.16 15:22, 7 October 2022 (UTC)
+Categories: All comicsComics from 2015Comics from AprilWednesday comicsPages using the "citation needed" templateSarcasmComics featuring HairyPhones

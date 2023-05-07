@@ -1,0 +1,164 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1728: Cron Mail
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1728)
+|<< PrevComic #1728 (September 2, 2016)Next >>|
+Cron Mail
+
+Title text: Take THAT, piece of 1980s-era infrastructure I've inexplicably maintained on my systems for 15 years despite never really learning how it works.
+Explanation[edit]
+On Unix-like systems, cron is a system utility that runs tasks on a schedule. This program has been around since the early days of Unix and has not changed much - it is still one of the most widely used functions in modern operating systems. Many administrative tasks on servers are automated using cron, including monitoring and updates.
+When a cron job produces output, cron's default behavior is to send an email to the user account under which the job ran. However, in most situations, an email address has not been set up for that user, so the email is instead written to a mailbox file. Most Unix shells will notify the user with a message like "You have new mail" when this mailbox file is updated, but if the user doesn't know how to check this mail file, they will likely just ignore the message.
+In this case, Cueball has been ignoring his mailbox for fifteen years. When he finally learns where to look, he discovers more than a gigabyte worth of messages from the cron program, the vast majority of which are likely meaningless. Ponytail says to Cueball "fix your cron" (likely meaning he should fix the task that's generating the output so that it doesn't do so), then set a parameter that tells cron to send email to an address he actually checks. (He could also opt to direct the mails to /dev/null, which would discard them, or simply disable the mail in the crontab.) Cueball, however, interprets the tremendous amount of email as spam and decides to redirect the emails to /etc/crontab, the main configuration file that contains all of cron's scheduling information. He apparently believes that this will either stop the emails or cause cron to spam itself instead.
+In reality, this will not cause significant problems as the MAILTO environmental variable in cron takes an email address or usernames on the local system and attempts to send emails to them. It will not write or append output to a local file like /etc/crontab. Thus when cron attempts to email /etc/crontab the mail program cron uses will generate an error saying it can't find the user /etc/crontab.
+For example, if you create the following crontab:
+MAILTO=/etc/crontab
+
+* * * * * echo "Some output from a cronjob"
+installed on a user named me on a system called mycomputer then you will see a new error messages email to you (located in /var/mail/me) stating it can't send email to a user named /etc/crontab and the undelivered email is being returned to the sender. The error email will look like the following:
+From MAILER-DAEMON  Tue Sep  6 14:47:01 2016
+Return-Path: <>
+X-Original-To: me@mycomputer.local
+Delivered-To: me@mycomputer.local
+Received: by mycomputer.local (Postfix)
+        id 5341C64EE516; Tue,  6 Sep 2016 14:47:01 -0400 (EDT)
+Date: Tue,  6 Sep 2016 14:47:01 -0400 (EDT)
+From: MAILER-DAEMON@mycomputer.local (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: me@mycomputer.local
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+        boundary="33AF864EE514.1473187621/mycomputer.local"
+Message-Id: <20160906184701.5341C64EE516@mycomputer.local>
+
+This is a MIME-encapsulated message.
+
+--33AF864EE514.1473187621/mycomputer.local
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host mycomputer.local.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+</etc/crontab@mycomputer.local> (expanded from </etc/crontab>): unknown user:
+    "/etc/crontab"
+
+--33AF864EE514.1473187621/mycomputer.local
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mycomputer.local
+X-Postfix-Queue-ID: 33AF864EE514
+X-Postfix-Sender: rfc822; me@mycomputer.local
+Arrival-Date: Tue,  6 Sep 2016 14:47:00 -0400 (EDT)
+
+Final-Recipient: rfc822; /etc/crontab@mycomputer.local
+Original-Recipient: rfc822; /etc/crontab
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "/etc/crontab"
+
+--33AF864EE514.1473187621/mycomputer.local
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <me@mycomputer.local>
+Received: by mycomputer.local (Postfix, from userid 501)
+        id 33AF864EE514; Tue,  6 Sep 2016 14:47:00 -0400 (EDT)
+From: me@mycomputer.local (Cron Daemon)
+To: /etc/crontab@mycomputer.local
+Subject: Cron <me@mycomputer> echo "Some output from a cronjob"
+X-Cron-Env: <MAILTO=/etc/crontab>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=me>
+X-Cron-Env: <USER=me>
+X-Cron-Env: <HOME=/Users/me>
+Message-Id: <20160906184701.33AF864EE514@mycomputer.local>
+Date: Tue,  6 Sep 2016 14:47:00 -0400 (EDT)
+
+Some output from a cronjob
+
+--33AF864EE514.1473187621/mycomputer.local--
+
+The title text shows that Cueball is somewhat aware of what cron does, including the fact that it's existed pretty much unchanged for several decades, but he hasn't bothered to really get into understanding it, treating it more as a foe to vanquish rather than as a tool to understand and use.
+Transcript[edit]
+[Cueball is sitting at a table in an office chair working on his laptop. Ponytail walks up to him.]
+Cueball: I've been getting these "You have new mail" UNIX notifications for like 15 years, but I've never bothered to figure out what it's talking about.
+[Ponytail has stopped behind Cueball who is typing on his laptop. When Ponytail (and later Cueball) mentions code, the text uses both small and capital letters (as opposed to only capital letters in all other text).]
+Ponytail: Look in /var/mail?
+Cueball: OK...
+Cueball: Oh, wow, there's like a gigabyte of stuff from Cron in here.
+[In a frame-less panel Ponytail is facepalming. Cueball is replying from off-panel with a starburst indicating his position.]
+Ponytail: *Sigh*
+Ponytail: You should fix your Cron, then point "MAILTO=" somewhere you actually see-
+Cueball (off-panel): Better idea:
+[Same setting as panel 2 but Cueball is visibly typing on the laptop as shown with three small curved lines over his hands on the keyboard.]
+Cueball: export MAILTO=/etc/crontab
+Cueball: There. Your move, Cron.
+Ponytail: Wow. Hardball.
+Cueball: Let's see how important it thinks that mail really is.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I think the "MAILTO" variable in "/etc/crontab" is meant, so only only cron-mails would go to this address, not all mails for the user
+
+Rincewind (talk) 13:09, 2 September 2016 (UTC)
+The huge question is whether adding an email message to crontab would result in cron producing even more mail - or whether it would cause cron to fail in some way. The latter would do damage by killing some (possibly critical) cron tasks - the former could rapidly fill up the hard drive with an exponentially-growing crontab. An intermediate situation would be that cron simply ignores the junk and continues to function as before - in which case Cueball's change will have little practical impact on disk space consumption - but probably gradually slow cron's crontab parser to a crawl, which would also have rather severe effects. On most Linux setups, the mail directories are on a different partition to /etc. There is often very little spare space on the partition with /etc on it - so it's likely that Cueball's change will eventually do terrible damage in that case too. 162.158.69.98 14:42, 2 September 2016 (UTC)
+On my Mint/Ubuntu/Debian-based Linux system, adding junk to /etc/crontab put a message is /var/log/syslog about "cron[1495]: (*system*) ERROR (Syntax error, this crontab file will be ignored)". So it looks like appending garbage to the crontab will just break cron entirely (or at least those handled by /etc/crontab; it may be private cron and /etc/cron.d/* jobs may continue to run, but cron.hourly, cron.daily, and cron.weekly jobs on my system are initiated through /etc/crontab so they would not run with a broken /etc/crontab). I don't know if other non-Debian distributions have a cron that behaves differently, however. -boB (talk) 15:18, 2 September 2016 (UTC)
+Seems like it wouldn't break the existing stuff, they'd still get run and then cron would start parsing the noise and complaining - the "intermediate" situation, though the "export MAILTO" seems wrong. If Cueball did it in his .bashrc, it might get into some of *his* cron jobs but unless it's in /etc/crontab (and there, no "export" is needed/used), it wouldn't matter. His jobs probably wouldn't have rights to write to /etc/crontab either. 173.245.48.73 17:09, 2 September 2016 (UTC)
+I just checked the source of Paul Vixie's cron-3.0, which is the version that Debian uses. Turns out that the config variables in a crontab file are not actual environment variables when it comes to the cron daemon (which is what matters), so there's no way that putting "export MAILTO=foo" anywhere can change cron's behavior. More importantly, setting the MAILTO variable does not result in /etc/crontab being modified, it merely designates the e-mail address the report is sent to. On most systems, e-mails to "/etc/crontab" will be undelivarable, so Cueball will get bounce messages of the cron mailings instead of the mailings themselves. Interestingly, many mail servers limit the size of the original message contained in the bounce, so depending on the details, the storage used by the e-mails is increased or reduced compared to the previous situation. In any case, Cueball's action displays misconceptions about cron on several levels, which seems to make perfect sense in the context of the strip. guest (talk) 14:24, 5 September 2016 (UTC)
+All this discussion and nobody has tried it in a VM? --Jlc (talk) 22:58, 12 November 2018 (UTC)
+Unfortunately this huge question is undecidable (by trivial reduction to halting problem) --172.68.54.126 08:10, 3 September 2016 (UTC)
+The current explanation misses a part of the joke present in Cueball's last statement: he is considering the cron program to be somehow sentient and able to make a decision between sending the email (is it really important?) and its self-preservation by not trashing its own config file. He is thus daring cron to continue sending emails at the risk of 'self-destruction'. 141.101.98.90 (talk) (please sign your comments with ~~~~)
+
+- I also feel like the part of the joke is the cron has been sending him useless mail for 15 years. So now, he is sending cron useless mail 162.158.69.83 (talk) (please sign your comments with ~~~~)
+(Also that Cueball is evidently using a 15 year old laptop! This deepens the question because he's probably never upgraded it and therefore has 15 year old copy of cron) SteveBaker (talk) 15:20, 4 September 2016 (UTC)
+This states it can be run as infrequently as once a year, however by using February 29th, you can have it run once every 4 years (exc ever 100 inc every 400). But I think you might be able to get better by also setting it to run on a day of the week. e.g. February 29th, which is a Monday, which would then (after this year) not run for another 28 years, next running on February 29th, 2044.
+Should that be noted in the article or is it a needless complication? (Also, I don't know what day of the week is what for this syntax).108.162.250.156 21:13, 2 September 2016 (UTC)
+That's interesting! but I don't think it's relevant to the joke. NotLock (talk) 23:13, 2 September 2016 (UTC)
+If you specify a day of week and a day of month it runs on both, so "11 59 29 2 1" would run at 11:59 on every Monday in February, as well as on February 29, not just on any February 29 that happened to be a Monday.--108.162.219.11 05:18, 3 September 2016 (UTC)
+I'm hesitant to make substantial edits as a random non-registered IP address, but I do feel like this explanation could be improved if a lot of the technical details were removed. For example, the format of a crontab file and how it is parsed distracts a bit from the joke. For a non-technical audience, it would be much more concise to simply note that the file has a specific format, and piping random emails to it would probably break all of cron. In my opinion, the current explanation loses the forest for the trees. For me, the key part of the joke is Cueball doesn't know cron, Ponytail explains it, Cueball conducts a response which is intuitive in the real world ("okay, cron, if you think it's that important then you deal with it!") which would be horrible in a computer. Ponytail's comment on it being harsh, and that it would accidentally solve the problem is the punchline. I think all the other technical details distracts from that simple explanation. 108.162.216.87 (talk) (please sign your comments with ~~~~)
+I would agree. Understanding how exactly cron works isn't really necessary to understand the comic and its humor. Perhaps linking to some "cron for dummies" tutorial for those interested141.101.91.223 04:03, 3 September 2016 (UTC)
+What exactly does "hardball" mean? Is it a US slang term or such?141.101.91.223 04:03, 3 September 2016 (UTC)
+"Playing hardball" is an idiom, meaning "to act strong & aggressive about an issue" 108.162.245.114 05:23, 3 September 2016 (UTC)
+With "YOUR MOVE, CRON." Cueball adapts a famous movie quote ("Your move, creep.") from Robocop (1987) as if he would strike back against "the machine" from a similar age (admitted, cron is slightly older, but then again Robocop also plays 20 minutes into the future). Renormalist (talk) 06:35, 3 September 2016 (UTC)
+Yeah, useless crap. I have smartd on my harddrives and still don't get any warnings that they are about to fail. Well except for all the cron emails I have been ignoring for a decade.162.158.83.240 09:15, 3 September 2016 (UTC)
+A few corrections: (1) Setting MAILTO=/etc/crontab only affect the system-wide crontab. User crontabs will continue to run as normal. Cueball's cronjob runs under his account (we know that because "he has mail") therefore nothing will change as far as he is concerned. (2) MAILTO appends to the named file, therefore the existing lines in /etc/crontab will not be deleted and will continue to run as normal - the worse that can happen is that new, spurious, cronjobs can be introduced (3) in most modern versions of cron, you can run use a /X syntax which will cause X-1 executions to be skipped (for example 20 10 2 1/5 * will run once every 5 years - assuming the system has not been rebooted in the interim) Sysin (talk) 11:28, 3 September 2016 (UTC)
+I agree that the explanation is overly technical, especially considering this Wiki exists largely as a resource to laypeople. A succinct explanation of the joke (the crux of which being that Cueball is actively trying to threaten a computer program) would be preferential to passing off a man page as an ExplainXKCD article. Although linking to a more detailed breakdown of how Cron functions isn't a bad idea at all. This is a pretty good one http://www.unixgeeks.org/security/newbie/unix/cron-1.html 108.162.221.148 (talk) (please sign your comments with ~~~~)
+The joke hinges on a technical matter - and without the technical detail, this would not be an explanation.
+As is often the case with xkcd humor, this cartoon is "layered" so that people with a little knowledge get a joke - but people with deeper knowledge get a bigger joke - or possibly multiple jokes.
+At the topmost layer, Cueball takes a typically unconventional approach to computer problems and is feeding cron with it's own junk - which seems like a small victory - if only a moral victory. Good joke.
+At the second layer, if Cueball can indeed choke cron with it's own junk, then whatever important work that cron is doing will not be done, and this will have a deleterious effect on his computer - so he'll lose out by doing this...but possibly in only a very minor way. This is a better joke because we all love it when an idiotic move results in payback!
+At the third layer, the key to the humor for me is that Cueball has fired the first volley in a "war" - and it is one that he may or may not win. The outcome depends subtly on how his version of cron works...and the outcome is far from certain. If his version of cron ignores errors in the crontab file - then he may cause a violent "explosion" in the number of messages sent by the tool - resulting in his hard drive filling up with crap much more quickly than it was before he knew this was happening...and he'll open up an exploit into his system (the bad guy can send his old-school UNIX account an email containing a cron job request to do something evil (like erasing his entire hard drive, for example). On the other hand if cron refuses to do any work whatever when there is an error then cron's normal activities (mostly organizing and pruning logfiles and such) will be disabled and the hard drive will fill up with those instead. But the idea that there are multiple cron files - per user and per day/week/month - along with personal crontab files that may now fail, or may continue to spew crap, makes this a rather subtle (and DEEPLY technical) question.
+Now this isn't just a joke - it's a deep puzzle with surprising consequences...we have to work hard to decide what the outcome would be. Geeks enjoy that kind of thing - so at the third level, this is a deep and interesting question...and an even better joke for those "in the know".
+Viewed as a "war" between Cueball and cron, I very much doubt that Cueball's first shot will be sufficient to "win" - or indeed improve his situation in any useful way. But unlike most things you can do to screw up a computer, this one could take months or even years to play out...cron's revenge will likely be slow - but possibly devastating.
+If cron dies because of crap in crontab - and if Cueball's computer doesn't do much of any importance using cron - then Cueball wins.
+If cron merely ignores the crap at the end of the crontab - then Cueball's hard drive will still slowly fill with crap (albeit in an obscure system file rather than in an obsolete email system)...we can regard this as "draw" between Cueball and cron.
+If cron produces more error messages because of the crap - and decides to email it to Cueball, then the hard drive may fill up at an exponential rate and cron will steal increasing amounts of CPU time until the laptop locks up and life for Cueball becomes much harder! Cron "wins" and the crowd goes wild!  :-)
+But the reasons behind that are very subtle - and need to be explained. Since the role of explainxkcd is to provide these explanations to the semi-layperson - some significant amount of technical information is indeed required here in order to fully understand all of the layers of the joke.
+One often wonders whether Randall fully understands all of the layers! I've been using UNIX, then MINIX, now Linux since around 1976 - and predicting the outcome of Cueball's actions is far from obvious without diving into the manuals. (And, if I'm honest...trying it on an old Raspberry Pi that I happen to have lying around! :-)
+Another problem here is that if Cueball has been getting these messages for 15 years - then he's using a 15 year old laptop that's probably never been upgraded. Hence all discussion of what "modern" versions of cron might do could be entirely moot. What did circa 2001 versions of cron do?
+SteveBaker (talk) 15:09, 4 September 2016 (UTC)
+What makes you think he never upgraded? Lot of distributions allow to be upgraded without losing /var/spool/mail, and if the problem is caused by bad configuration, it can similarly "survive" several upgrades, especially if done by Cueball ("configuration file was changed - update? Nah ...")
+Oh, and one think cron is CERTAINLY doing is rotating log files. And because linux computer ALWAYS generates at least some log files, killing cron can still fill the disk. Only way Cueball can win is if the problematic command is in /etc/crontab, the useful commands are in /etc/cron.d/ and adding mail to /etc/crontab will make cron ignore /etc/crontab. -- Hkmaly (talk) 21:22, 4 September 2016 (UTC)
+I think you can explain the purpose of cron quite well without having to explain how every parameter in it works. The format of the crontab is never addressed in the comic itself, and in fact going that deep into the explanation kinda ruins the humor. You could just as easily explain the joke like this:
+"In Unix-based systems, the 'cron' utility is used to run system tasks on a schedule. The '/etc/crontab' file is a configuration file that specifies each scheduled job - specifically at what times the job will run, which user account under which to run the job, and the command-line for the job itself. Cueball apparently believes that sending the output of the cron program to this file will either break cron or cause it to start spamming itself with exponentially more jobs. In reality, the former would be true, as the new lines of output would not be in a format that cron understands, resulting in it ignoring the whole file."
+People who aren't familiar with cron really only need to know what it does and its default behavior (to send mail to a file) to understand the joke. I don't think the purpose of this wiki is to reproduce man documents. KieferSkunk (talk) 05:25, 5 September 2016 (UTC)
+Agree. I - as a specimen of "People who aren't familiar with cron" - think that the syntax of cron files doesen't really matter for understanding the joke. In fact I skipped the box and the paragraph below entirely after realising there's only explanation of how a cron command is set up. And I don't feel like I've missed something. After eventually reading the paragraph I think the only part worth mentioning is the last sentence. So I vote for removing that box/paragraph or at least replacing it with your proposal. Elektrizikekswerk (talk) 07:07, 5 September 2016 (UTC)
+Done. I incorporated other parts of the original explanation into what I think is a pretty complete discussion about the essence of the comic, without going too deep into the technical details. Feel free to fine-tune. :) KieferSkunk (talk) 07:47, 5 September 2016 (UTC)
+Much better :) Elektrizikekswerk (talk) 08:30, 5 September 2016 (UTC)
+I like the comics about the tech-inept Cueball and the embarrassed/condescending Ponytail. 108.162.210.196 04:26, 5 September 2016 (UTC)
+Wait, so that means cron's move is the return to sender. Boom! Jacky720 (talk) 21:45, 3 October 2016 (UTC)
+Categories: All comicsComics from 2016Comics from SeptemberFriday comicsComics featuring PonytailComics featuring CueballComputers

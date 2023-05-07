@@ -1,0 +1,152 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1991: Research Areas by Size and Countedness
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1991)
+|<< PrevComic #1991 (May 9, 2018)Next >>|
+Research Areas by Size and Countedness
+
+Title text: Mathematicians give a third answer on the vertical axis, "That question is poorly defined, but we have a sub-field devoted to every plausible version of it."
+Explanation[edit]
+This comic is a scatter plot that ranks different research fields according to the precision of the knowledge of the number of the studied object (vertical axis) vs. how large (the size of) the studied object is on the horizontal axis.
+For instance, the facts pertaining to the number of United States presidents are well known (although the exact number is disputed in that Grover Cleveland is usually counted twice, because he served non-consecutive terms, so the official count exceeds the number of unique Presidents), so the study of their history is at the top of the Y-axis. This study is placed close to the Y-axis as the size of a president is about midway in size between the two extremes of the X-axis, elementary particles to the left (small) and the entire cosmos (cosmology) to the right (big).
+On the X-axis, Presidents are close to the middle. Both presidents and other larger life forms (as a research area) including extinct animals (paleontology) and exobiology are all close to the same central position just right of the Y-axis, with smaller animals like birds and insects just to the left of the Y-axis. But where the number of presidents is well known (aside from the dispute about Cleveland), then the number of exoplanet life forms (exobiology) is completely unknown (and would likely be affected by other disputes, such as whether something the size of Pluto counts as a planet) and thus it will be found at the very bottom of the Y-axis, since we have no idea if there is life elsewhere and if so how many places will it be and how varied.
+The 19 research areas are listed and explained in the tables below.
+In the title text, mathematicians may give a third answer that the concept of counting the things being studied is not reasonable, because the things are abstract or otherwise not discrete. There are many different types of math that blend into each other, and many have turned into separate sub-disciplines based on different interpretations of fundamental rules. As a specific example in geometry, different interpretations of how many lines you may draw parallel to another line through a given point has lead to hyperbolic (infinite parallel lines) and spherical (0 parallel lines) geometric systems that are just as valid (and valuable, in some contexts) as the more commonly known Euclidean (1 parallel line) geometry. As a specific example of the blending, number theory, set theory, and topology all interrelate and it is difficult to concretely say whether many theorems belong to one branch of math or another.
+Tables of research areas[edit]
+For a table with the coordinates given in percentage for each research field, see the table in the trivia section
+Upper left quadrant[edit]
+This is the section with the small items with count known.
+Research field Size of the thing Knowledge of # Explanation
+Elementary particle physics The smallest subjects that we have actually detected are the elementary particles. In the Standard Model of particle physics, they are considered point masses (i.e. to have zero width). They may be made of smaller strings but if so these have still not been detected. We think we have a fairly good estimate of how many elementary particles that are known. There could be some uncertainty though, so it is not at the very top. Elementary particle physics is concerned with the study of subatomic particles (the smallest things that we know of), of which there are 17, not including antimatter. Most notably, until recently it was uncertain whether the Higgs boson was one of the elementary particles, but scientists have a "pretty good estimate" because the mathematical models don't predict the existence of many other particles.
+Dentistry Several mm to several centimeters Most teeth are visible to the naked eye, and dentists have x-ray technology to see what's not visible, so counting them is pretty straightforward. Dentistry is the study of teeth (pretty small, both in size as well as in quantity). Humans adults grow 32 teeth, which is a "pretty good estimate" since it is very rare for more than 32 teeth to grow and it is rather common for wisdom teeth to be surgically extracted or in some cases never to develop. Children may only have 20 teeth before they start falling out, but each tooth that falls out is because another tooth is growing underneath, so a child might have as many as 52 teeth, counting the child teeth that haven't fallen out yet plus the adult teeth that are starting to form. So while a dentist will usually have a good idea how many teeth will be in a patient's mouth, they won't know for sure until they look or consult dental records.
+Shakespeare studies Most are the size of typical book. In printed form, they would be in the range of tens of centimeters in height and width and ~1 centimeter in depth. Although, if stored in digital form, they could be much smaller than a tooth, so it seems to refer to print or handwritten originals. Generally, 36 plays are attributed to him, but between 1 and 3 additional plays are considered "lost" (i.e. at some point between being first published or performed and scholars seriously studying Shakespeare, all known copies, references, and fragments were destroyed, making it impossible to determine whether Shakespeare actually wrote them or whether they actually existed as separate plays), and some 20 more are believed to have been written by him, but not signed. To make matters worse, some plays that were published or performed under Shakespeare's name are believed to have been written as collaborations (not fully by him) or mis-attributed (we don't know who wrote them but everyone says it was him). Shakespeare studies is concerned with the works of William Shakespeare.
+Ornithology Birds tend to be small, with most species able to be held comfortably in hand; even the largest known flying bird, the Condor, stands smaller than the average human, with a handful of non-flying avians such as the ostrich being larger, but still weighing less than 2-3 humans. The number of known bird species is estimated at about 10,000, though a 2016 research result suggested a near-doubling of this figure. As for the number of individual birds, a paper aptly titled "How many birds are there?" examines a number of ways of counting them; the results are "surprisingly consistent", with counts of approximately 200-400 billion individual birds. We do have a "pretty good estimate", to within perhaps a factor of two.
+Ancient literature As above, with Shakespeare plays, original or print reproductions would be the size of a book, typically. Although ancient scrolls may have different dimensions with similar total volume. Because of the high number of lost works, it is hard to have a solid estimate of the number, although rough lists have been made (e.g. Ancient literature#List of ancient texts). While it is fairly straightforward to look up how many books are currently in print, or how many books all currently printed information would fit into if bound into equal-length volumes, and then limiting those estimates to those that date before a specific year, counting how many books from the period of interest haven't survived to the present day (books that were "lost" either by deliberate discontinuation, or accidental destruction such as in the Library of Alexandria) is a bit more difficult. However, because we know the work existed (it is mentioned by name in some other text), we have "pretty good estimate" that the number of lost works is "only" in the tens of thousands, as is the number of surviving works.
+Upper right quadrant[edit]
+This is the section with the big items with count known.
+Research field Size Knowledge of # Explanation
+Marine Mammology[sic] They range in size from the Marine Otter (about 1m) to the Blue Whale (up to 30m). About 125 non-extinct species. Marine mammals are the largest extant animals. The US Government recognizes 119 marine mammals. However, what constitutes each species is constantly being revised, with new studies indicating either that what used to be considered a subspecies is actually a separate species, or that what used to be considered a separate species is actually a subspecies. As the depths of the ocean are further explored, species that were outright unknown are spotted and need to be classified. However, since marine mammals breathe air and thus must surface, it's likely that all species have been observed by scientists.
+Presidential History All presidents are human-sized, with the tallest being Abraham Lincoln at 6 ft 4 in and the shortest being James Madison at 5 ft 4 in. As of 2021, 46 people (only 45 are unique; Grover Cleveland is counted twice because his terms were not consecutive) have served or are serving as President of the United States. Presidents are generally considered "big" men in history. Therefore, each one is fairly well known and documented. There is, however, some discussion on how many presidents there have been in the history of the United States, since prior to the 25th amendment, it was unspecified whether vice presidents counted as presidents during the President's absence. Most notably, this ambiguity is the reason David Rice Atchison's tombstone is inscribed with the words "President of the United States for one day" (he was not eligible and did not accept the duties even if he was).
+Railway engineering Railways can span across countries, and therefore are fairly large As railroads are built by humans, we know pretty well how many there are. However small systems (parks, mines) may make this number uncertain. A railway can span anywhere from a few hundred feet, to thousands of miles, so they're pretty big. The type of a railway is generally given by its track gauge, which is defined as "standard" (the usual gauge for a region or country), "narrow" (rails closer together than that standard) and "broad" (rails farther apart than that standard). Since what is standard varies from country to country, and indeed from line to line, how many kinds of "narrow" gauge and "broad" gauge exist depend on who you ask. However, whereas every region has a standard gauge, "standard-gauge railway" has a specific meaning used by rail technicians and enthusiasts worldwide, of a track with rails 1435 mm (4 ft 8.5 in) apart. Anything narrower than that is often described as a narrow-gauge line, even if it is the standard gauge for a particular rail network.
+Geology The Earth is larger, by far, than everything else on the chart except the universe (Cosmology), black holes, and God (at least under some conceptions, see "Theology" below). There is only one Earth (at least if you set aside the possibility of multiverses, see below in Cosmology). Geology is generally considered the study of rocks (small rocks being considered fragments of mountain layers, so what counts as a "rock" for a geologist can be pretty big). There is no universally agreed upon number to how many types of rock there are, but all geologists agree they can be grouped into igneous, metamorphic, and sedimentary rock. Alternatively, geology can be construed as the study of the planet Earth's composition ( *geo*- meaning "Earth" ), and geologists are confident that the planet Earth is big and there is only one of it.
+Cosmology As this encompasses (at least) all of the visible parts of the universe we live in, there can be no other "items" to study that would be larger. There is only one visible universe, but there could be multiverses/parallel universes, and also an infinite universe beyond the borders of our own part of this universe's event horizon. So it depends on who you ask if they say there is one of and infinite number of universes to study, thus it is placed close to the middle of the two extremes. Cosmology is the study of the universe. There is an asterisk with the note "Depends on who you ask", relating to the estimate of how many universes there are. While it might seem obvious that there is only one universe, some branches of physics believe that our universe is part of a multiverse, and this remains an open and contested subject in the field.
+Lower left quadrant[edit]
+This is the section with the small items with count unknown.
+Research field Size Knowledge of # Explanation
+Mycology microscopic to a few miles Estimated at 2.2 million to 3.8 million species.(Though of these only about 120,000 have been described.) Mycology is the study of fungi (since fungi tend to grow flat -- excepting for mushrooms, which are their sexual organs, and do not exceed a foot in height (see World's Largest mushrooms -- mushrooms are generally considered small). Many fungi are microscopic, but some get to be a few miles in diameter.The World's largest living organism. It is a lot harder to discern which species a fungus is, and therefore classify it, so we "have no idea" how many kinds of fungi there are. Studies vary wildly between about 70,000 to over 5,000,000. There is a comic named after this study: 1664: Mycology.
+Entymology For insects, from a fraction of a mm to several 100. Estimated from 1,000,000 to 3,000,000 It is unclear whether Randall means entomology or etymology (probably neither; it's likely that this wasn't a mistake and it is possibly a direct reference to 1012: Wrong Superhero). He may be referring to both fields as insects and words overlap in size. In either case, estimates for insects (entomology) vary from less than 1,000,000 to 30,000,000; and estimates for root words (etymology) reaching hundreds of thousands. Entomology was mentioned in the title text of 1610: Fire Ants.
+Microbiology The smallest viruses are around 30nm long. The largest bacterium may reach almost 1mm.[1]. 120,000 to 10,000,000+. Microbiology studies microscopic (too small to see) organisms, of which some 1,400 are known and "estimates for the total number of microbial species vary wildly, from as low as 120,000 to tens of millions and higher", according to Nature magazine.
+Pharmacology Drugs, including medications and illegal and recreational drugs are molecules which are sub-microscopic (in the range of nanometers). Although it is possible to tally all the known drugs, this is at the extreme low end of the pile because the number of possible organic compounds is nearly infinite and the fraction of those are bioactive is completely unknown. The number of drugs (pharmaceuticals) discovered and synthesized is not tallied, according to recent studies, but an estimate can be obtained by seeing how many have passed through the U.S. FDA (1,453). Many home remedies, which might technically qualify as drugs, have not been approved because "everybody knows that", as well as many solely recreational drugs since regulation might result in outlawing. Because of this, "we have no idea" how many drugs truly exist. Since drugs are extremely powerful molecules that are only administered in choice amounts, they are generally perceived as small.
+Lower right quadrant[edit]
+This is the section with the big items with count unknown.
+Research field Size Knowledge of # Explanation
+Botany Plants tend to range from few centimeters to hundreds of meters. Therefore, on average plants are about the same size as human beings. Plants estimated from 295,000 to 305,000 in total. Botany studies plants, which can reach hundreds of feet by any measure. Some clonal colonies of trees spread for miles. However, plant tend to clump together in forests and jungles, which makes it hard to get to them and document them. Every year, thousands of new plants are discovered, with the best estimate being that there are nearly 400,000 vascular plants and an additional 12,000 non-vascular plants. However, the rate of discovery doesn't appear to be slowing down significantly, so we truly "have no idea."
+Paleontology Paleontologists study fossils, which range in size from very small to very large. When most people think of paleontologists though, they tend to think of them as studying large animals such as dinosaurs. Estimated at around 5 billion species. Paleontology studies fossils, particularly those of extinct animals, which can reach huge sizes. However, since fossils form under very special circumstances, if the animal did not die under those special circumstances, there will be no record of their existence. Therefore, the number of extinct animals can never truly be known, but we've found around 250,000
+Black Hole Astronomy Compared to most astronomical objects, black holes are fairly small. However, most of them (that we are able to detect) are still larger than the Earth, so they would still fall on the "big" end of this chart. Alternatively, Randall may be referring to their mass, which is on the scale of stars. It has been estimated that the number of black holes in the Milky Way is around 100 million ([2]), although there is uncertainty in that estimate and the total number in the universe depends on the size of the universe (see "cosmology", above). "Most stellar black holes [...] are impossible to detect. Judging from the number of stars large enough to produce such black holes, however, scientists estimate that there are as many as ten million to a billion such black holes in the Milky Way alone." (NASA Black Hole information page)
+Exobiology The comic puts this in the size range of paleontology, which can include many sizes (see above), and also marine mammalogy, which tends to have individuals that are in the range of tens of centimeters to several tens of meters. However, life as we know it is dominated in numbers by microbes, and life on Earth began microscopic, leading most Astrobiologists to hypothesize that life on other planets would necessarily include microbes and only possibly include macroscopic life. The estimate of how many planets with life there are varies from 16 to 40,000,000,000; additionally, multiple moons are believed to be potentially habitable for some forms of life in our own solar system. However, the number of bodies apart from Earth confirmed to have life is currently zero. Even more uncertain than the number of potentially habitable exoplanets is the huge uncertainty in the likelihood of life arising on a habitable planet. Exobiology refers to the study of life outside Earth, which requires scanning the entire universe for life. Currently, exobiology seeks to find a planet or similar body with life (and, to qualify as a planet, bodies capable of sustaining life are big). The uncertainty about how many planets have life in the Milky Way relates to the Fermi Paradox. For life, of the type we know, to exist outside of the Solar system there need to be planets around other stars. Such planets are called Exoplanets, and they have been a recurrent subject on xkcd.
+Theology Presumably, any god transcends the bounds of spacetime, making this the largest. Depends on who you ask. Theology is not a strict science, but as presented here it is the field concerned with the study of one or more deities which is a sacred supernatural being. In particular, theologians study the question of whether one or more gods exist or not, and, in the former case, whether there are multiple gods or just one or indeed whether there is literally only one god. Although the existence of any supernatural being(s) is unfalsifiable by any natural means, the entire human race has very strong opinions on the subject, so this field probably deserves the “depends on who you ask” disclaimer as well. quantitative uncertainty is also mentioned in 900: Religions.
+Transcript[edit]
+[An X-Y scatter plot of research areas, written in gray font, where both axes have arrows in both ends. At the end of each arrow is a label. Above the left part of the X-axis there is a line which goes to a text about the meaning of the X-axis. Similarly there is a line to from the top of the Y-axis to a questions “asked” to those that study the given subject, their answers being somewhere between the two labels on the Y axis.]
+[The X-axis from left to right, text first and then labels:]
+Size of the thing you study
+Small
+Big
+[The Y-axis from top to bottom, question first and then labels:]
+"That thing you study - how many of them are there?"
+"We have a pretty good estimate."
+"We have no idea"
+[The research areas names are listed here below by sorting them into the four quadrants from top left to bottom right. In each quadrant the areas are listed after most left first, and then top to bottom for those at the same x position.]
+[Upper left quadrant (Small & count known):]
+Elementary particle physics
+Dentistry
+Shakespeare studies
+Ornithology
+Ancient Literature
+[Upper right quadrant (Big & count known):]
+Presidential History
+Marine Mammology
+Railway Engineering
+Geology
+Cosmology*
+(*Depends who you ask)
+[Lower left quadrant (Small & count unknown):]
+Pharmacology
+Microbiology
+Entymology
+Mycology
+[Upper right quadrant (Big & count unknown):]
+Botany
+Paleontology
+Exobiology
+Black Hole Astronomy
+Theology
+Trivia[edit]
+Sortable table with the coordinates in percent:
+Research area Size (%) Estimate (%)
+Elementary Particle Physics 7 72
+Pharmacology 12 6
+Microbiology 15 13
+Dentistry 21 84
+Entymology 24 25
+Mycology 29 38
+Ornithology 34 62
+Shakespeare Studies 37 88
+Ancient Literature 38 53
+Botany 60 40
+Presidential History 62 89
+Marine Mammology 66 68
+Paleontology 68 31
+Exobiology 68 5
+Railway Engineering 79 81
+Geology 90 90
+Theology 91 5
+Black Hole Astronomy 92 26
+Cosmology 94 62
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Spelling error? Etymology or Entomology? Randall wrote Entymology. Sebastian --141.101.104.17 15:37, 9 May 2018 (UTC)
+My translator at dict.leo.org asks: Did you mean entomology, enzymology, or etymology? --Dgbrt (talk) 16:20, 9 May 2018 (UTC)
+I mean, we know about how many words exist; I think he means Entomology.
+SilverMagpie (talk) 18:06, 9 May 2018 (UTC)
+I'm sorry, we don't know how many words there are in British English, let alone it's off shoots, Chinese has never been fully counted and actually we don't know how many languages there are, but can put a good estimate on it. Nevertheless I agree it's probably entomology.RIIW - Ponder it (talk) 23:00, 9 May 2018 (UTC)
+Agree. In context, it's next to several other life science branches, ones which especially deal with species typical in jungle environments where new species are regularly discovered, hence the "we don't know how many" axis. Cgrimes85 (talk) 18:55, 9 May 2018 (UTC)
+Wikipedia redirects "Entymology" to "Entomology", fwiw. -boB (talk) 20:46, 9 May 2018 (UTC)
+Just a quick note, a previous version said this made reference to 1012: Wrong Superhero, and 1610: Fire Ants (the same revision also shows Mycology might have been a reference to 1664: Mycology), which I appear to have accidentally deleted. Feel free to add them back where they go. --172.69.33.11 23:16, 9 May 2018 (UTC)
+Please try to add something you delete by mistake yourself next time. I have re-added the three references you deleted for you. --Kynde (talk) 20:23, 10 May 2018 (UTC)
+Dentistry is fairly straightforward, I think. Adults should have 32 teeth, children who have a full set but don't have wisdom teeth yet should have 28. Anyone missing teeth should have that information on their personal record. However, children occasionally lose teeth, and sometimes wisdom teeth need to be removed due to issues with them growing in wrong. It's also possible they could be lost in an accident, or for there to be a new patient with an unknown number of teeth. So a dentist can easily expect to know how many teeth should be in their patient's mouth, but may find they are off in some instances. Hence the mostly towards the top but not quite all the way of its placement. --KingStarscream (talk) 19:06, 9 May 2018 (UTC)
+Children have 20 teeth, that will all fall out. But at some point they have all 20 and none other. So saying they have 28 makes no sense. Some adults never get Wisdom teeth. Before the childbegins to loose they original teeth they may start to have some of the permanent though. --Kynde (talk) 21:16, 9 May 2018 (UTC)
+As well as some people not developing some / all their wisdom teeth (I have never had any upper ones) some people have "super-numerory" canines (my Dad and sister) RIIW - Ponder it (talk) 23:00, 9 May 2018 (UTC)
+Standard gauge is pretty well established as being 1,435 mm. I realize it is tempting to say "standard" is whatever is common and in use in an industry/country, but even India refers to their network as "broad gauge" and the metro/tram lines as "standard gauge". Standard gauge is a commonly accepted technical term among railway engineers, and is used on over 50% of railways and is the primary gauge for North America, Europe, and China. Many countries are slowly converting their lines to standard gauge or only building new lines in standard gauge, such as Japan and Australia. Cgrimes85 (talk) 13:28, 10 May 2018 (UTC)
+I have determined the exact position of each science on both axes. I computed the center of the smallest rectangle that encloses each name. Here they are, expressed as percentages, assuming 0% and 100% correspond to the arrow tips on each axis. I can provide raw pixel values if anyone is interested.
+Presidential History | 62% | 89%
+Geology | 90% | 90%
+Shakespeare Studies | 37% | 88%
+Dentistry | 21% | 84%
+Railway Engineering | 79% | 81%
+Elementary Particle Physics | 7% | 72%
+Marine Mammology | 66% | 68%
+Ornithology | 34% | 62%
+Cosmology | 94% | 62%
+Ancient Literature | 38% | 53%
+Botany | 60% | 40%
+Mycology | 29% | 38%
+Paleontology | 68% | 31%
+Black Hole Astronomy | 92% | 26%
+Entymology | 24% | 25%
+Microbiology | 15% | 13%
+Pharmacology | 12% | 6%
+Exobiology | 68% | 5%
+Theology | 91% | 5%
+Zetfr 23:35, 9 May 2018 (UTC)
+Interesting to see which order they are listed in size and knowledge... Maybe an extra table in a trivia section... --Kynde (talk) 20:36, 10 May 2018 (UTC)
+I have now added that in a trivia section. --Kynde (talk) 20:53, 10 May 2018 (UTC)
+'Microbiology studies microscopic (too small to see) organisms, of which some 1,400 are known and "estimates for the total number of microbial species vary wildly, from as low as 120,000 to tens of millions and higher", according to Nature magazine' What is the 1,400? The other numbers here look reasonable, but this one throws me for a loop. Gene Wirchenko genew@@telus.net 108.162.216.220 05:25, 10 May 2018 (UTC)
+
+There is (another) spelling error: mammology instead of mammalogy 172.68.110.76 09:48, 10 May 2018 (UTC)
+Regarding the spelling of "mammology" - do you think it was intentional and Randall meant mammo- female breast -logy the study of? mammo- prefix on wiktionary --108.162.216.46 21:18, 14 May 2018 (UTC) The size is slightly larger than that of Presidents, and I don't know any women whose breasts are larger than a President. Although the term is preceeded by the word "marine", so we're not talking about humans. Maybe female blue whales have breasts that are larger than the size of an entire human. (That could be of interest to the porn industry.)162.158.59.4 00:56, 24 December 2018 (UTC)
+The explanation about railway engineering is incorrect. Whereas every railway has a standard gauge, "standard-gauge rail" has a specific meaning of a track with rails 1435mm (4 ft 8.5 in) apart. Anything narrower than that is described as a narrow-gauge line by rail technicians and enthusiasts, even if it is the standard gauge for a particular rail network. Where I live in New Zealand, for example, the country's standard gauge of 3 ft 6 in means that the country's rail network uses a narrow-gauge track. I've amended the text accordingly. Grutness (talk) 02:58, 18 May 2018 (UTC)
+I think the title text is actually a reference to combinatorics, which is a subfield of mathematics. --cajsq0228 20:52, 20 May 2018 (UTC)
+I really wonder where History a la 1979: History would be - I'm honestly surprised he didn't include it in this graph... (?) I think I'd personally try to place it somewhere between right above Black Hole and off the right side of the chart (95%-120% | 20%) -- Brettpeirce (talk) 19:50, 17 December 2018 (UTC)
+Categories: All comicsComics from 2018Comics from MayWednesday comicsScatter plotsRankingsSciencePhysicsAstronomyMathFictionReligionAnimalsExoplanetsPoliticsGeologyScientific researchMycology

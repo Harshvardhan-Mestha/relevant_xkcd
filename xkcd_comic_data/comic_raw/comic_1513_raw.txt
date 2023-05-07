@@ -1,0 +1,73 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1513: Code Quality
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1513)
+|<< PrevComic #1513 (April 17, 2015)Next >>|
+Code Quality
+
+Title text: I honestly didn't think you could even USE emoji in variable names. Or that there were so many different crying ones.
+Explanation[edit]
+This comic is the first in the Code Quality series:
+1513: Code Quality
+1695: Code Quality 2
+1833: Code Quality 3
+1926: Bad Code
+2138: Wanna See the Code?
+
+Ponytail is about to look at some source code Cueball has written, and he is warning her that he is self-taught so his code probably won't be written the way she is used to. In spite of Ponytail's initial (polite) optimism, she comments in three increasingly harsh similes (and a fourth in the title text).
+First, she suggests that reading his code is like being in a house built by a child, using a hatchet (a small axe) to put together what he thought was a house based on a picture. She is saying that the code shows a lack of command of the language being programmed. This is like the common expression "If all you have is a hammer, everything looks like a nail." New programmers make use of the same techniques repeatedly, using them for situations where other techniques would be far more efficient or faster.
+Second, she suggests that it looks like a salad recipe, written by a corporate lawyer on a phone with auto-correct that only corrects things to formulas from Microsoft Excel. She is saying that the code is verbose and the corrections that were done are illogical. This presumably relates to the developer not being an expert in their craft, and fixing the problems as they come up instead of re-examining the problem and solving it in a better way.
+Third, she describes it as a transcript of a couple arguing at a branch of the Swedish retail chain IKEA, that was then randomly edited until the computer compiled it with no errors. She is saying that the intent of the code is unclear due to the seemingly random use of the language. This is very similar to an infinite amount of monkeys bashing away on typewriters for an infinite amount of time that will eventually produce the complete works of Shakespeare. (A couple's argument may be even less coherent at IKEA than at the average store, since IKEA products always have idiosyncratic names and many of them are difficult to pronounce or transcribe for anyone who doesn't speak Swedish.) This might happen if the code was written so badly that it does not compile, and people edited the code until it compiles so they can see what the code accomplishes. The fact that Cueball's code is in this bad of a shape indicates he really hasn't learned the programming language; he just happens to have a program that works in some shape or fashion.
+Finally, Cueball makes the rather weak assurance that he will read "a style guide", which articulates the intended use of the language. It seems clear from Ponytail's commentary that his code quality would benefit from far more training in computer programming.
+The title text refers to emoji. Ponytail's comment implies that some of Cueball's variables contained emoji, perhaps in an effort to capture the emotional content of the arguments which show through the requirements document. Emoji have become a recurrent theme on xkcd, but this may have been the first comic to use them for a pun.
+Emoji[edit]
+Many crying-face emoji are possible if variables can include full Unicode (e.g., 😢,😭,😂,😿,😹), as well as faces with sweat drops that are often mistaken for tears (😪,😥,😰,🥵). In some programming languages it would be impossible to use them in variable names, as the symbols would break the language's syntax rules. Exceptions to this include Swift and Perl ([1]), but most languages with compilers that support Unicode characters can include this kind of emoji, even for languages that predate Unicode like C++ and Lisp.
+In any event, Cueball's code may best be represented by a bunch of people crying, as that seems to be the only proper response to it.[citation needed]
+Programming Style[edit]
+Although few programming languages require a perfectly rigid style, so long as the code is syntactically accurate, most programmers follow some sort of style to make the code easier to read. This includes indenting lines to show levels and using descriptive variable identifiers with special capitalization, (e.g., camelCase, capitalizing each word except for the first in a sentence, or snake_case, separating lowercase words with underscores).
+Transcript[edit]
+[Cueball showing Ponytail his laptop.]
+Cueball: Keep in mind that I'm self-taught, so my code may be a little messy.
+Ponytail: Lemme see - I'm sure it's fine.
+[Ponytail sits at desk, Cueball stand behind her.]
+Ponytail: ...Wow. This is like being in a house built by a child using nothing but a hatchet and a picture of a house.
+[Same scene.]
+Ponytail: It's like a salad recipe written by a corporate lawyer using a phone autocorrect that only knew Excel formulas.
+[Same scene.]
+Ponytail: It's like someone took a transcript of a couple arguing at IKEA and made random edits until it compiled without errors.
+Cueball: Okay, I'll read a style guide.
+Trivia[edit]
+Emoji can be simulated using ASCII characters, but their roots are mostly separate from ASCII emoticons. Most languages will allow variable names to include underscores, so some sad face ASCII emoticon will be legal variable names, such as T_T, p_q, ioi etc., but such things rarely show up in software variables. Many more can be made possible using UTF-8 characters, including actual emojis.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+On the bright side, I now have a new array of phrases to keep me sane while doing code reviews... 108.162.249.162 05:47, 17 April 2015 (UTC)
+I think the emojis were referring to swift where you can use emojis as variables. 108.162.250.168 (talk) 05:53, 17 April 2015 (please sign your comments with ~~~~)
+Could we get a link for the Apple language? 108.162.249.162 06:09, 17 April 2015 (UTC)
+This is going on our OneNote at work. It totally made my day Jdluk (talk) 08:06, 17 April 2015 (UTC)
+Yet another reason I'm glad I'm not a coder anymore (went back to hardware design . . . with NO style guidelines ;^) 173.245.56.182 (talk) (please sign your comments with ~~~~)
+The description reads as if camelCase is part of every style. There are styles containing camelCase, but not all of them do. Also, different styles contain different rules, so following one specific style guide will be in conflict with others, therefore it's not necessary good idea: unless you program in team which agreed upon which style to use, it may be better if you don't worry to much to follow style exactly. On the other hand, if Ponytail's similes are accurate, Cueball is likely to discover lot of basic rules which will make the program easier to read even for him.
+For example, there are lot of styles for Indenting alone, but most readability comes from the basic idea to indent code according to block it belongs to. -- Hkmaly (talk) 12:02, 17 April 2015 (UTC)
+Out of curiosity I tried using 😭 as a variable name in Common Lisp. It works in SBCL, but fails in CLISP. 108.162.221.112 12:19, 17 April 2015 (UTC)
+I really wish I knew anything about coding so I could contribute, but my 8th grade HTML class didn't help me that much. The Goyim speaks (talk) 12:50, 17 April 2015 (UTC)
+The cruel person might point out that HTML isn't even 'coding'. (It's markup, for the most part, unless you're dabbling in DHTML or some of the latest bastardisations that have crept into HTML5.) But you will of course know the bit where you get "Hang on, why is that table element on the wrong line/off the end of the line/short of the end/outside the table, even?" and how it makes it easier to use a new-line and indentation scheme at appropriate places (and a logical policy of which lines not to split) so that errors like unaccounted-for COLSPANs and bad tag-pairing can be tracked down easily.
+So it is with code. Liken it to obfuscation of HTML formatting (including using non-sensical, albeit consistent in themselves, id and name tags for the CSS to hang off of) can be employed deliberately (to prevent easy human readability/backformation) or incidentally (because it's created by a server-side/CMS generating script that hasn't been told to try to add useful whitespace). Moreso when it comes to <script> insertions (often deliberately obfuscated to single-letter variables, minimal whitespace and no line-feeds, perhaps in an misplaced attempt to enact 'security through obscurity', but of course that then is code. Arguably.
+One of the aims could be to reduce the size of the 'code' (even when that's Markup), which is laudible given how much over-padded stuff you can get (I don't know if Microsoft Word's "Save as HTML"/whatever is currently as bad as it was in the early days, but even a web-page with just "Hello World" was chockablock full of formatting information that it never even bothered to ask if were necessary), but unless you absolutely do not need (or do not want!) people to read the code, both people and auto-generation scripts should attempt to impart visual elegance. IMO! 141.101.98.192 16:52, 17 April 2015 (UTC)
+Does the second paragraph of the explanation, beginning "A common technique," add anything to explain the comic? I don't see it, but then I am from the era of COBOL. Miamiclay (talk) 19:54, 18 April 2015 (UTC)
+I would propose a rewrite to something along the lines of "A common pattern in self-taught programmers...". As for the need of the paragraph, I feel it helps to explain where some programmers with bad (or a total lack of) employed standards come from. It's the kind of programmers that are used to copy and paste code examples and edit them until it does what they want, unknowingly introducing a horrible level of disparity to the code as well as disregarding any sensible coding standards and design patterns. I can speak from experience that such behavior exists, but that most such people either drop programming quickly or learn to adapt proper standards over time. I'm glad to say I'm in the latter group. — Erim Secla 141.101.79.67 08:02, 19 April 2015 (UTC)
+How do we know that Agile and SaaS are relevant to this? 173.245.50.84 17:38, 19 April 2015 (UTC)
+It has no relation, and futhermore whoever added software-as-a-service probably think it means something else than what it does Spongebog (talk) 19:30, 19 April 2015 (UTC)
+It may even have been spam or a self promotion link. Spongebog (talk) 19:32, 19 April 2015 (UTC)
+Emoji
+IMHO the discussion on emoji is a bit off. Emoji are specifically the graphical representations (😢), not text-based smileys (T_T). And the sentences about language support use double negatives which is very confusing, and should probably mention that Javascript doesn't appear to allow it. (In my testing anyway.) Stevage (talk) 14:17, 20 April 2015 (UTC)
+I agree. Emoticons and Emoji are two different things.--17jiangz1 (talk) 14:56, 20 April 2015 (UTC)
+Can we distinguish between graphical emoji and character-based unicode emoji? The difference being that one is swapped in to normal text via some form of markup code (client-side or server-side, either when it thinks it has an explicit emoticon/etc string like ":)" or encounters a coded statement like ":lol:") while the other one is there already with no extra image bytes necessary. Except for perhaps font-file downloading, of course.
+I assume the above (😢) is the latter, although that's an unrenderable character for me, as with most examples given on this page, and I assume I need some fancy new font installed to see it on any of the browsers I've tried it with. However, I do have ☺ and ☻ available to me. So I can at least emote in the manner of Dwarf Fortress (which, ironically, uses images of the original characters). 141.101.99.69 17:51, 21 April 2015 (UTC)
+Ew non-Emoji code. This is the 21st century, get updated: https://github.com/emj-lang Natural languages ftw! No more this_is_a_variable_that_contains_the_number_of_xkcds_ever_posted! 108.162.210.246 21:18, 5 June 2015 (UTC)
+On a tangential note, I once tried to install a decompiler into IntelliJ by copying and pasting a folder (not realizing it was the same decompiler IntelliJ already shipped with) and run it on Minecraft. It named all the variables and functions ☃. Promethean (talk) 22:28, 17 June 2015 (UTC)
+Added info on code quality 3 141.101.104.215 03:43, 7 May 2017 (UTC)
+I think that this series has to do with 1790: Sad. 108.162.221.70 (talk) (please sign your comments with ~~~~)
+hexascii.com is dead ( maybe from plagiarism complain by Get Kaomoji https://getkaomoji.com/best-of-japanese-emoticons/ ) 162.158.179.40 (talk) (please sign your comments with ~~~~)
+seems a bit like chatgpt sometimes 172.70.162.171
+Categories: All comicsComics from 2015Comics from AprilFriday comicsPages using the "citation needed" templateCode QualityComics sharing nameComics featuring CueballComics featuring PonytailProgrammingComputersLanguageEmojiCueball Computer Problems

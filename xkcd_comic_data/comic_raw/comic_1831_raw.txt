@@ -1,0 +1,43 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1831: Here to Help
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1831)
+|<< PrevComic #1831 (May 1, 2017)Next >>|
+Here to Help
+
+Title text: "We TOLD you it was hard." "Yeah, but now that I'VE tried, we KNOW it's hard."
+Explanation[edit]
+This comic is a satire of computer programmers, who sometimes forget that not everything can be solved with an algorithm, or of the tendency to think computers are the answer to everything. In the first panel, Megan talks about how the field that she and Hairy work in has a difficult problem that many people have been working on. Cueball, believing that algorithms can solve their problem, tries to help. In the next panel, Megan and Hairy silently watch Cueball working on the problem on his laptop. Finally, six months later, Cueball concedes, and an exasperated Megan retorts sarcastically, pointing out that she had explained its difficulty six months ago within the timeline.
+The title text furthers Cueball's apparent arrogance by showing a dialogue. Megan or Hairy says, "We TOLD you it was hard," referring to the first panel, but Cueball, still confident in his own ability's superiority, says, "Yeah, but now that I'VE tried, we KNOW it's hard." The joke is that Cueball believes that, even though he has just failed, it was his attempt which proved the difficulty, and not Megan and Hairy's work for years. The dialog references an exchange from the film The Imitation Game, in which Alan Turing's superior claims, "The Americans, the Russians, the French, the Germans, everyone thinks Enigma is unbreakable," and Turing replies, "Good. Let me try and we'll know for sure, won't we?"
+The satire, however, applies far beyond computer programmers. It can be read as a political commentary, as in nobody knew health care could be so complicated. It is what we'd all like to see when well-meaning advice givers provide the "simple" solution to all our problems, or management provides glib advice from ten thousand feet. It is a commentary on the universal tendency to see problems as simple because we don't know what makes them hard.
+This comic calls back to 793: Physicists and possibly 1570: Engineer Syllogism in central theme.
+Transcript[edit]
+[Megan, standing next to Hairy, is addressing the reader holding her arms out. Cueball walks in from the right.]
+Megan: Our field has been struggling with this problem for years.
+[Cueball holds his laptop high up in one arm above Megan's head while holding his other arm out as well. Megan has turned to look at him.]
+Cueball: Struggle no more! I'm here to solve it with algorithms!
+[In a frame-less panel Cueball sits on a chair at a desk with his laptop working on it, while Hairy and Megan looks on from behind.]
+[Cueball, still sitting at his laptop, points at the screen. Megan raises her arms and four small lines above her head, on either side of her speech line, indicate her annoyance with Cueball.]
+Six months later:
+Cueball: Wow, this problem is really hard.
+Megan: You don't say.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+So who else read the "Six months later" caption in the voice of the French narrator from SpongeBob Squarepants? 172.68.58.41 23:26, 1 May 2017 (UTC)
+So I'm not the only one who does that! Dontknow (talk) 00:00, 2 May 2017 (UTC)
+Gosh, is Randall making a parallel to someone else who only recently announced that his job is hard, and that nobody knew how complicated things could be? Seems like a clear poke at Trump to me. 108.162.246.23 23:43, 1 May 2017 (UTC)
+EVERYONE feels like that after the election. Get over it. That's right, Jacky720 just signed this (talk | contribs) 23:50, 1 May 2017 (UTC)
+Between algorithms and "objectively" establishing that a problem is hard, I took this to be a reference to https://en.wikipedia.org/wiki/NP-hardness … --162.158.222.16 00:31, 2 May 2017 (UTC)
+While the people originally having the problem (Megan and Hairy in this case) may not appreciate it (because it wouldn't help SOLVING the problem), establishing that some problem is not only "hard" but specifically NP-hard, AI-hard, equivalent to halting problem or for example equivalent to axiom of choice is important scientific result. -- Hkmaly (talk) 02:03, 2 May 2017 (UTC)
+Rather than referencing The Imitation Game, the sentence "[...] now that I'VE tried, we KNOW it's hard." may be referencing instead Awakenings (1990), where Robin William's character says something similar near beginning of the movie.
+Regarding the (possible) reference to the Imitation Game, whilst it may be true that the Americans Russians French and Germans thought Enigma unbreakable, the Polish had been breaking it for years before Turing got involved and work done in Poland was an important part of the British success early in the war. German improvements to operating practices later stopped the Polish methods working and yes Turing had better methods that still worked, later on in the war. But Poland at least, didn't think it was unbreakable. Just saying.
+While we are "just saying". The Germans were well aware that the Enigma was breakable, they just figured it would be too much effort. It really was, the total resources pored into breaking the Enigma was on par with the Manhattan project and the moon landing (ie US space program during the 1960s). The Germans did some changes to increase security during the war, but had they suspected how completely Enigma was broken they would probably have abandoned it. 172.68.182.202 17:50, 4 May 2017 (UTC)
+I think the whole paragraph about informatics at the bottom is missing the point. That explanation is based on the premise that Cueball was told the problem was a "hard problem" (a formal type of problem) and didn't understand. Megan never used the formal term "hard" in describing the problem. She merely said that her field had struggling for years.162.158.79.5 13:13, 2 May 2017 (UTC)
+Agreed — she uses "hard", but later in the title text. What's still true is that the problem might still have a solution that is "simple" (you can explain it in a paragraph) but hard-to-find (it took decades to find it), and they haven't proved that's not the case. But most would still call a problem with such a solution "hard".
+Worse, as a PhD student in CS (programming languages), I'm pretty sure "hard problem" in CS also mean the same as in everyday life—"Boy, this research problem is really hard"—as opposed to NP-hard (which is what the description is attempting to describe in an extremely informal way. I've honestly never heard anybody use "hard" for "NP-hard", though that appears used on https://en.wikipedia.org/wiki/Computational_complexity_theory#Hard. Meanwhile, I went ahead and deleted "Set of algorithms" since that was even less relevant (and didn't bother arguing relevance). http://www.explainxkcd.com/wiki/index.php?title=1831:_Here_to_Help&diff=139534&oldid=139519. --Blaisorblade (talk) 14:26, 3 May 2017 (UTC)
+Yeah, but we're shown some arbitrary problem which Cueball is solving not with Bayesian Inference, or Object Oriented Programming, or String Theory, but with Algorithms -- the one technique where showing something is hard is a formal term. It would be quite a coincidence if this happened by accident.
+The current explanation is taking a too tactical or literal approach. Throughout history computer science has presented itself as a solution to a variety of hard problems in other fields using a variety of techniques. These include AI, machine learning and now, big data. In most cases the techniques enter with a lot of fanfare, but later flame out, producing no real gains towards solving the hard problem. For example see all the things that computers were promising back in the 1960's. Cueball simply represents a generic version of these past and present CS fads. Sturmovik (talk) 15:42, 2 May 2017 (UTC)
+Fixed: Throughout [most of] history computer science has [not existed].
+Categories: All comicsComics from 2017Comics from MayMonday comicsComics featuring CueballComics featuring MeganComics featuring HairyProgramming

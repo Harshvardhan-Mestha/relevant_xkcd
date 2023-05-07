@@ -1,0 +1,48 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1577: Advent
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1577)
+|<< PrevComic #1577 (September 14, 2015)Next >>|
+Advent
+
+Title text: The few dozen doors that have little Christmas trees on them are a nice touch.
+Explanation[edit]
+An Advent calendar is usually a means of celebrating the days before Christmas. Each day on the calendar is represented by a "door" (a flap of card), behind which is usually a picture related to the Christian nativity, a picture of commercial Christmas (e.g. a present), a small chocolate, or a small gift. This comic satirizes the concept by proposing such a calendar that would have one gift for each day one is anticipated to live. Such a calendar would be very morbid and existential. This is especially disturbing when given as a gift because it implies someone has put extensive thought into when the recipient will die.
+In Cueball's case, assuming each square in the calendar represents one day, the wall he is facing is the entire present he received and the boxes just out of view follow the same pattern, the entire wall represents 16,800 days (a large grid of 20×12 smaller grids of 7×10 boxes: 20×12×7×10 = 16800), i.e. just under 46 more years (16800/365.25 ≈ 45.99589).
+Assuming that Cueball is a male from the US and the grid represents his life expectancy, according to American Official Social Security Actuarial Life Table for males, he is probably 31.9 years old. This would make Cueball almost exactly one year older than Randall, who was born October 17, 1984 making him 30.9 years old when he wrote this comic. Due to the non-linear shape of the mortality curve, the chance of Cueball making it to the end of his calendar is 57.7%, at which point he will need to get another calendar but with only 9.2 years worth of doors.
+The title text refers back to a standard advent calendar by saying that the Christmases are specially marked; on a traditional Advent calendar, only the 1st to the 24th of December have doors, however in recent times, Advent calendars often also include an additional door for the day after Advent, Christmas Day. A few dozen may be any small number of dozens, and 3 5⁄6 dozens (46) is aptly described by a few dozen; see 1070: Words for Small Sets. Any dictionary (for example Oxford Learner's Dictionaries) says that a dozen may be an approximate number, not exactly 12.
+A completely different advent calendar was mentioned in 994: Advent Calendar.
+Similar calendars have been mentioned in the blog Wait But Why in the 2014 post Your Life in Weeks, and in equally geeky webcomic Abstruse Goose, in the 2008 post 936 Little Blobs.
+Transcript[edit]
+[Cueball is looking at a large wall subdivided into a rectangular 20×12 grid, with each grid subdivided into 7×10 small drawers. Below the frame there is a caption:]
+Unsettling gift: Life expectancy Advent calendar
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Media:Example.ogg16800 squares counted, corresponding to a projected lifespan of 46 years. 108.162.225.124 04:09, 14 September 2015 (UTC)
+This description says "64 small drawers" but each of the small drawer sets contains 70. 7 columns, 10 rows. (Then there are 20 columns of drawer sets, and 12 rows.) 199.27.133.115 04:54, 14 September 2015 (UTC)
+Same counting here, I changed the description. 199.27.133.160 05:07, 14 September 2015 (UTC)
+Use × not x. (Editing with this phone is really hard.) 173.245.55.171 05:13, 14 September 2015 (UTC)
+I corrected the number of drawers ((70×12×20)÷365.25≈50) then used that calculation to work out Cueball's approximate age. 141.101.98.185 06:36, 14 September 2015 (UTC)
+Note that (70×12×20)÷365.25≈46. 173.245.50.154 12:32, 14 September 2015 (UTC)
+Reminds me on the Life calendar from this Wait but why post Elektrizikekswerk (talk) 07:54, 14 September 2015 (UTC)
+
+There is a (common) mistake in the life expectancy calculation in the description. If the life expectancy in the US is 75.9, then that doesn't mean you expected remaining life at 25 will be 50.9 years - otherwise that would imply no-one dies under 25. Since, sadly, many people do die before their 25th birthday, the life expectancy remaining at 25 will be somewhat larger than 50 years. As these tables show: http://www.ssa.gov/oact/STATS/table4c6.html 50 years remaining corresponds roughly to an age of 27-28. In other words your remaining life expectancy drops by less than one year per year, if no new information is presented (i.e. assuming you don't take up smoking etc.) 141.101.98.205 (talk) (please sign your comments with ~~~~)
+There's a link in this explanation stating that the life expectancy refers back to comic 1070. I think this may be the wrong comic, not sure what the correct one should be :/ apbarratt 09:17, 14 September 2015 (UTC) This is about the title text that mentions "The few dozen doors". 1070 explains that "a few" for most people seems to be anything more than one but at most five.173.245.49.97 11:07, 14 September 2015 (UTC)
+What struck me about the comic, and which didn't come out clearly yet in the explanation, is the idea of countdown. An advent calendar is a countdown to Christmas, one day at a time. This is a countdown to Cueball's death. 108.162.241.167 11:54, 14 September 2015 (UTC)
+The cruellest surprise of all would be opening one of the boxes and seeing a Grim Reaper. All those other boxes? You don't get to open them! Margath (talk) 21:32, 16 September 2015 (UTC)
+I was expecting that the alt text would say "Your life may be shorter if you eat all of the chocolate". 108.162.241.148 14:25, 14 September 2015 (UTC)
+I don't know about the USA, but in the UK, advent calendars may contain chocolate, but many just show a picture (related to either the Christian or the commercial aspects of Christmas). I'm going to change the description slightly to make that clear. Cosmogoblin (talk) 17:10, 14 September 2015 (UTC)
+Yes, I would normally get the chocolate ones from my parents. One year my grandmother gave me one with just pictures inside. I was not amused. 108.162.241.148 20:18, 14 September 2015 (UTC)
+Why on earth would it seem strange for 4 to be included in "a few"? It seems perfectly natural to me. 198.41.243.249 23:43, 14 September 2015 (UTC)
+Maybe bacause: "One, two, three, many...". But I think the real reason is, that "a few dozen" = "4 dozen" seems fine, while "a few dozen" = "48" doesn't. So it's a conflict between "few" and "48" here. However, I agree in "4" being a totally acceptable value for "a few" Elektrizikekswerk (talk) 07:26, 15 September 2015 (UTC)
+Randall makes an advent calendar comic within days of LEGO releasing their 2015 advent calendar sets...Coincidence? I think Randall is a LEGO geek! 108.162.241.207 01:25, 16 September 2015 (UTC)
+"S&W" Linkage
+Lets See if I get this right. Could this have anything to do with the current story arc over at Sandra and Woo "S&W" about life expectancy? --Mark w --173.245.54.160 11:51, 15 September 2015 (UTC)
+
+This comic reminds me of this dinosaur comic: http://www.qwantz.com/index.php?comic=1833 --141.101.104.185 08:08, 16 September 2015 (UTC)
+
+Assuming they're all chocolates, the right move to make it sufficiently morbid is to have a chocolate-covered cyanide capsule behind the last door. 172.68.55.81 07:19, 24 November 2016 (UTC)
+My question is, did Randall actually hand draw over ten thousand little squares individually? Due to perspective each is seemingly unique. And they don't look like cut/paste/resize...
+Categories: All comicsComics from 2015Comics from SeptemberMonday comicsComics featuring CueballPhilosophyChristmasCalendar

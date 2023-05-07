@@ -1,0 +1,50 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1545: Strengths and Weaknesses
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1545)
+|<< PrevComic #1545 (July 1, 2015)Next >>|
+Strengths and Weaknesses
+
+Title text: Do you need me to do a quicksort on the whiteboard or produce a generation of offspring or something? It might take me a bit, but I can do it.
+Explanation[edit]
+Cueball is in a job interview and is being asked stereotypical job interview questions by Ponytail, "What is your greatest weakness?", "What is your greatest strength?" and "Where do you see yourself in five years?"
+In a roundabout way, Cueball answers that he is a living organism, and as such he has inherent flaws which could cause him to die. This is a reference to the fact that biological systems are "messy" and are not always optimal in design or operation. For example, cancer is a disease where the cellular machinery that governs cell replications breaks down and prolific cell division happens, endangering the organism through the creation of tumors. While this is a true weakness, it is also a weakness of all biological organisms and is not likely to help the interviewer determine if he is qualified for the job. However, it is likely to help the interviewer determine if he is right for the job — because the interviewer is likely to presume that a person who gives silly and unhelpful answers is not right for most positions.
+For the second question Cueball answers that he will one day be the ancestor to all living humans or none of them. As you go farther and farther into the future the ratio of people alive will either go to 0% or 100% of the descendants of the character. The most recent common ancestor (MRCA) for humans is unknown but occurred some time after Mitochondrial Eve, around 140,000 years ago. If the MRCA's ancestors are traced back, the Identical ancestors point can be found, at which point the entire population are either ancestors of all living humans or of no living humans.
+In the last frame, for Cueball to be the ancestor to all living humans within 5 years means that all the humans who are not his children or grandchildren (including Cueball himself), must have died in a near total extinction of the human race - his apparent optimism about the possibility of this occurring would therefore be worrisome.
+The overarching joke is that, rather than answer Ponytail's questions with answers relevant to the job she's interviewing him for, Cueball is answering her questions from an existential standpoint. He may be assuming that she wishes to assess his fitness as an organism from a genetic perspective (in which his biggest limitation is survival time and mortality), or he may simply be misinterpreting or deliberately avoiding her questions from a professional perspective.
+The title text takes this further, equating producing offspring during an interview (which would be awkward for all involved) with something that may actually help assess a candidate's efficacy as an employee, namely writing out a sorting algorithm on the spot, another stereotypical interview question (see also 1185: Ineffective Sorts, especially the bottom left panel).
+In 1088: Five Years, Beret Guy is also asked where he will be in five years, and he later interviews Hairy in 1293: Job Interview.
+Transcript[edit]
+[Ponytail is shown sitting on a swivel chair, to the left of a desk.]
+Ponytail: What would you say is your biggest weakness?
+[The view expands to show Cueball sitting on another swivel chair, on the opposite side of the desk.]
+Cueball: Probably that I'm a giant tangle of parts that don't always work right, so I can die easily.
+Ponytail: Biggest strength?
+Cueball: There will come a day when I'm either an ancestor to all living humans, or to none of them.
+Ponytail: Where do you see yourself in five years?
+Cueball: Probably not the ancestor of all living humans yet. But you never know!
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+For anyone who wants to take a stab at a more thorough (or better written) explanation of ancestry, the wiki pages for Identical_ancestors_point and Most_recent_common_ancestor helped me to start understanding the topic. I think its easy to jump to the conclusion that it is extremely unlikely that Cueball will be the ancestor of all living humans, however it isn't quite as intuitive as I believed. --Pudder (talk) 16:17, 1 July 2015 (UTC)
+Look at the talk for that Wikipedia page. The figures for most recent common ancestor given there are incredible, but the community lacks the will to replace with decent science. Asimong (talk) 05:57, 2 July 2015 (UTC)
+I don't understand, why would come a day that he is "either an ancestor to all living humans, or to none of them"? It's very possible for him to be the ancestor to some living humans forever Egoist (talk) 19:44, 1 July 2015 (UTC)
+If you have lots of children, and then if people interbreed randomly, as time goes forward it becomes less and less likely that any randomly selected person is not one of your descendents. As probability of not goes to zero, fraction of yes goes to 100%. But, if you do not have lots of children, and your kids don't either, at some future moment you may have zero descendents, and after that statistics cannot save you. Pesthouse (talk) 22:36, 1 July 2015 (UTC)
+Two cases that haven't been dealt with: 1.) Humanity gets wiped out before this happens, so there are no living humans for Cueball to be ancestor to or not. (0/0 case)
+2.) Through physical separation, humanity diverges into 2 or more species, and Cueball is only an ancestor to some of these different species. Would all of these species be considered humans? I'm not familiar with the semantics.
+I'm also not sure how likely either of these are.108.162.215.100 20:29, 1 July 2015 (UTC)
+In your case (1), that means he will *both* be the ancestor to all people or to none. MGK (talk) 01:21, 2 July 2015 (UTC)
+Also! Assuming Cueball hasn't had kids yet, he is already an ancestor to no living humans. 108.162.215.100 23:47, 1 July 2015 (UTC)
+In this comic it is very likely that Cueball is confused regarding the software concept of recursion and "children" or child nodes. This plays off of the idea that if he reproduces he will eventually become a common ancestor to all existing humans at some point in the future (infinte recursion), or he won't reproduce and therefore will have no children (ancestor to none). This is further played with in the subtext which mentions implementing quick sort (a recursive sorting algorithm). Also of note, there are many other comics where cueball is confused by software concepts. 108.162.219.111 21:11, 2 July 2015 (UTC)
+I added a bit to this explanation. I think the explanation as it was dealt too heavily with the existential portion of the exchange and missed one really important part of the joke: Ponytail's questions are meant to be related to Cueball's PROFESSIONAL strengths and weaknesses (and his ambitions), but his responses are either accidentally or deliberately "missing the point" - he's responding from an existential point of view instead of a professional one. I hope that the portion of the explanation I added will help clarify this point. KieferSkunk (talk) 05:58, 4 July 2015 (UTC)
+Not only he's responding from existential point of view. Also, his answers are equally true for ANY interviewed.
+PS: I'm not sure why is sex described as "awkward". Sure, having sex during interview is very uncommon, but "awkward"? -- Hkmaly (talk) 14:01, 7 July 2015 (UTC)
+Have you ever had sex in an office chair, or on one of those round tables they have in mini-conference rooms that are often used for interviews, or in the space between one of those tables and the wall?
+Also, all you know about your interviewer is that she's "Janice from HR here at Whizco", but she's just read a 2-page summary of your life. That could add to the awkwardness.
+And finally, assuming this is the HR interview before the technical and business interviews, and she's already asked half her questions, you've got maybe 15 minutes left to have sex, then clean up and look professional again.
+But mostly it's the lack of good surfaces. 162.158.255.52 02:30, 28 September 2015 (UTC)
+We're fooling ourselves with job interviews, they are largely useless, and in fact may exclude the best candidates because they don't "interview well"; we would be better off doing a lottery after establishing basic credentials (literacy, basic communication ability...) Even Google has come to this conclusion, after all those puzzles and other crap:
+"Years ago, we did a study to determine whether anyone at Google is particularly good at hiring. We looked at tens of thousands of interviews, and everyone who had done the interviews and what they scored the candidate, and how that person ultimately performed in their job. We found zero relationship. It’s a complete random mess, except for one guy who was highly predictive because he only interviewed people for a very specialized area, where he happened to be the world’s leading expert." ( http://www.nytimes.com/2013/06/20/business/in-head-hunting-big-data-may-not-be-such-a-big-deal.html ) 108.162.219.27 (talk) (please sign your comments with ~~~~)
+Numberphile has a video that explains the Strength. If it's worth adding to the explanation. 172.68.211.82 13:27, 7 May 2019 (UTC)
+Categories: All comicsComics from 2015Comics from JulyWednesday comicsComics featuring PonytailComics featuring CueballJob interviewsProgramming

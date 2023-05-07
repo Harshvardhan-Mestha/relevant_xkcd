@@ -1,0 +1,32 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1906: Making Progress
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1906)
+|<< PrevComic #1906 (October 23, 2017)Next >>|
+Making Progress
+
+Title text: I started off with countless problems. But now I know, thanks to COUNT(), that I have "#REF! ERROR: Circular dependency detected" problems.
+Explanation[edit]
+Megan has procrastinated made progress on a large backlog of problems. While she started the day with lots of problems, she has entered those problems into a spreadsheet. While this could potentially allow her to tackle her problems in a more organized way and fix them more quickly, the humor lies in that none of the problems have actually been solved. Additionally, it's questionable whether this was worth the hours of effort she put into making the spreadsheet, and even whether the spreadsheet has made her problems any easier to tackle in the first place. The comic questions the usage of spreadsheets for anything beyond organization.
+In the title text she reveals that even her spreadsheet has a problem, because "#REF Circular Dependency detected" is a spreadsheet error meaning that a formula is (possibly indirectly) using its own cell in the equation. This is probably because she has used the Count() function to find the number of problems to be solved, but since one of those problems is not knowing how many problems she has, it is trying to include itself in the count.
+This counting problem may also be a metaphor for circular dependencies within the problems themselves, such that a solution to one problem would help solve another problem, but solving the first problem depends on a solution to the second problem (e.g. organizing a cluttered mess of objects requires room to work, which is not available because of all the clutter).
+Arguably, this has introduced a further problem, so she actually now has (#REF Circular Dependency detected)+1 problems. It's also possible, since Megan has chosen to interpret the error message as a numeric value representing the number of problems she has, that she is simply not good at using her spreadsheet software, which may be another problem that needs adding to her list. The use of COUNT() has, rather than returning an exact amount of problems to solve, implied that her original problems cause so many more that she does indeed have "countless problems".
+The error shown is similar to two different errors in the popular spreadsheet program Microsoft Excel: #REF!, which means that an invalid reference has been made (such as to a cell or sheet that has since been deleted), and circular references, which means that a certain cell's content has been made to depend, at some stage, on its own content, recursively. The latter could be because it directly refers to itself, or because it refers to another cell which, in some way, refers back to it. Most versions of Excel do not show circular references in the cell, next to where a #REF! error would be; rather they show an error message box and arrows drawn over the sheet which connect the dependencies of the cells involved in the error. However, since the comic does not specify which spreadsheet software Megan is using, Randall can simply make the errors up, to make the joke more quickly understandable, while clearly referencing errors that show in actual spreadsheet software.
+Transcript[edit]
+[Megan is sitting and looking at a laptop.]
+Megan: I started the day with lots of problems.
+Megan: But now, after hours and hours of work,
+Megan: I have lots of problems in a spreadsheet.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+What about "countless" and "COUNT()" in the title text? I think that's a pun... User:Nobody at 1 January 1970 12:00 AM UTC
+Not really, rather that is the purpose of "COUNT()" function, when you are not sure how numerous something is. --Trimutius (talk) 22:11, 23 October 2017 (UTC)
+The pun is that "countless" means they can't be counted, and the error message from the Count() function implies that the problems couldn't be counted. 108.162.215.106 22:33, 23 October 2017 (UTC)
+I agree that both the countless, the use of count and the fact that it failed is important, and this is currently not explained in the title text explanation. Hope someone with more familiarity with spreadsheets will try to make a good explanation of this --Kynde (talk) 11:51, 24 October 2017 (UTC)
+The COUNT() function only works on rows or columns of values rather than text. So if the problems are listed in a spreadsheet, likely as text, the COUNTA() function would really be the correct one...
+Also, COUNT() won't provide an error in Excel, simply a 0 result (though a warning box is shown). Google Sheets produces the content of the title text. 172.68.253.41 02:41, 25 October 2017 (UTC)
+In Excel you can include the formula in the count by checking 'Enable iterative calculation' under options-formulas 162.158.167.198 05:54, 25 October 2017 (UTC)
+If you're having spreadsheet problems I feel bad for ya son. I got "#REF! ERROR: Circular dependency detected" problems but a circular dependency ain't one. Dammit! 172.68.59.198 19:14, 27 October 2019 (UTC)
+Categories: All comicsComics from 2017Comics from OctoberMonday comicsComics featuring MeganSpreadsheets

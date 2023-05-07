@@ -1,0 +1,202 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2496: Mine Captcha
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2496)
+|<< PrevComic #2496 (July 30, 2021)Next >>|
+Mine Captcha
+
+Title text: This data is actually going into improving our self-driving car project, so hurry up--it's almost at the minefield.
+Explanation[edit]
+This comic, like 1897: Self Driving, references the approach of using human-entered CAPTCHA inputs to solve machine learning problems, particularly those involving image classification.
+In order to prevent automated programs from using web services, Google offers a protection called reCAPTCHA, which performs various tests to see if a user is human or machine. (One of these tests is a "I'm not a robot" checkbox which must be checked in order to proceed, although ticking the box is merely a formality, and later versions of reCAPTCHA can simply perform the tests quietly in the background without needing user consent).
+If the reCAPTCHA system suspects that the user may be an automated bot, it presents an image recognition challenge that only humans should be able to pass. This has the desired effect of denying access to robots, but it also has a side benefit that the human input can be used to train Google's image recognition software. The challenge usually features a square grid of images, typically things one might see while driving - eg. "check all squares containing a STOP SIGN". If the user clicks the correct squares, they are permitted to continue.
+Minesweeper, on the other hand, is a logic puzzle game in which the player is presented with a grid of unrevealed squares, and must deduce the location of mines that have been secretly hidden on random squares. The game provides clues by marking some squares with the number of mines (up to a maximum of 8) that are adjacent to that square; by carefully considering the possibilities, a player can deduce which squares must contain mines, and mark them with flags to avoid clicking on them. Revealing a mine loses the game.
+In this comic, Randall combines the two concepts to create a "Mine Captcha", which is presented in the form of a reCAPTCHA challenge but actually appears to be a mini game of Minesweeper. (To be more precise, it is actually the opposite of regular Minesweeper, since the challenge invites the user to click on the mines - in Minesweeper, you are supposed to not click the mines. Furthermore, on its own terms it is unsolvable as a reCAPTCHA, since the user is asked to click on all pictures of mines. However, as in the real Minesweeper, there are no pictures of mines displayed (in Minesweeper, these only appear when the game is over). Taking the game as playable, however, in both cases you still need to know where the mines are, so it is still solved the same way).
+A real-world Mine Captcha would be somewhat ineffective for a variety of reasons. Firstly, not every human would recognize a game of Minesweeper and therefore wouldn't understand what they are being asked to do. Even if they do recognize the game, they may not know the logical method for deducing the locations of mines. Additionally, even for skilled players, there is a trap in that the Captcha's objective is the reverse of regular Minesweeper; they might therefore get tripped up by muscle memory and click on something that is not a mine, which would fail the challenge.
+Another issue is that games of Minesweeper can sometimes involve a degree of luck, as it is possible to generate a puzzle which does not give sufficient information to unambiguously deduce the location of every mine (Though this may not be a problem since Randall's Minesweeper is only a 4x4 grid). In these situations, the most a player can do is click the uncertain square and hope for the best. If the Mine Captcha is poorly implemented in this way, this would increase false negatives in human detection due to some humans failing the captcha purely due to bad luck. (Some variants attempt to eliminate this problem: Mine Detector, for example, is a variant game which provides better information, such that it's almost always solvable without guessing except at the highest difficulty level).
+Finally, a Mine Captcha would actually be fairly easy for an artificial intelligence (AI) to solve, since it is a logic puzzle - as long as the AI can read the numbers, it can simply use an algorithm to eliminate all impossibilities until it has the correct answer. (Indeed, for a 4x4 grid, it's even easier than that; a computer could quickly brute-force the problem by trying every possible arrangement of mines until it has the correct one).
+It seems that Randall predicted that an AI might try to solve the captcha itself, as he rendered each numeral in a different style; this is similar to obfuscation methods used in text-based captchas to prevent automatic text recognition software from reading the captcha. However, it would not be very effective in this case as the same numbers have the same color; an AI could simply recognize the color instead, which is even easier for an AI than trying to read a number.
+The title text is similar to 1897: Self Driving where the CAPTCHA solver is asked to answer quickly, implying that the training data is actually a real-world situation being experienced by a self-driving vehicle at that very moment. The joke here is that real-life minefields do not have large numbers indicating which of the surrounding land contains mines[citation needed].
+Solving the Mine Captcha[edit]
+Assuming that columns are denoted by letters A, B, C, D, left to right, and rows are denoted by 1, 2, 3, 4, top to bottom, one way to solve the captcha is as follows:
+The leftmost red 3 at A3 is surrounded by four squares (A2, B2, B3, A4), of which we know three are mines. Therefore, one of these squares is not a mine. However, because of the blue 1 at B4, we know that only one of B3 and A4 can be a mine, otherwise, there would be more than one mine adjacent to B4; therefore, A2 and B2 must be mines. Otherwise, there could only be two total mines adjacent to A3.
+2 . 1 .
+X X 3 .
+3 . . .
+. 1 . 1
+Since A1 is a green 2 and is adjacent to two squares that we now know are mines (A2 and B2), this means that B1 is not a mine. If it was, there would be 3 adjacent mines to A1. Furthermore, since there is a blue 1 at C1, and we know that the adjacent B2 is a mine, this means that D1 and D2 are also not mines, since if any of them were, there would be more than one mine adjacent to C1.
+2 O 1 O
+X X 3 O
+3 . . .
+. 1 . 1
+We also know that C3 and C4 are not mines, since we already know that the blue 1 at B4 is next to exactly one mine (on either B3 or A4). Since this eliminates two of the three possible neighbors of the blue 1 at D4, this means that D3 must be a mine.
+2 O 1 O
+X X 3 O
+3 . O X
+. 1 O 1
+Finally, since we now know the locations of two of the mines around the red 3 at C2, and we have eliminated all other possibilities, B3 must be a mine. Therefore, the mines are at A2, B2, B3, and D3. This solves the puzzle.
+2 O 1 O
+X X 3 O
+3 X O X
+O 1 O 1
+Transcript[edit]
+[A Minesweeper game in a 4x4 grid is shown beneath a blue rectangle. There is an explanation in white text in the blue field:]
+To proceed, click all the pictures of Mines
+[The Minesweeper field has six cells with revealed numbers on a light gray background. The other 10 fields are empty and dark gray. The three ones are blue, the single two are green and the two threes are red. On top of this each number is drawn in a different font/style. The ones changes how bold they are. The two is drawn in a 3D format, the one three is very thin and the other is drawn with two lines and no filling in between (hollow). The grid looks like this:]
+2 . 1 .
+. . 3 .
+3 . . .
+. 1 . 1
+Trivia[edit]
+The solved version of the puzzle showing where the mines are in this comic:
+The solved puzzle as it would look if played as a real minesweeper game, except the mines would be represented by flags. (The empty square top right corner has 0 bombs next to it. This is not written in the game but indicated as this field has been pushed down):
+The original game can be played here: World of Minesweeper
+It is possible to build a 4x4 CAPTCHA game there:
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Mines at:
++----+
+|    |
+|**  |
+| * *|
+|    |
++----+
+Ezist (talk) 14:42, 30 July 2021 (UTC)
++1234
+A2 1
+B??3
+C3? ?
+D 1 1
+concur.
+AKA
+. . . .
+* * . .
+. * . *
+. . . .
+Should be mentioned that it's most probably easier to run a script that solves this puzzle that to explain minesweeper to the majority of people, so this captcha seems pretty useless 162.158.92.72 15:56, 30 July 2021 (UTC)
+Writing a script to solve Minesweeper is a great exercise and helps to build a guaranteed-solvable game (which, IMO, is a good thing), but it won't usually start with image recognition. I'm not sure how hard it would be to write an image solver, especially if - unlike in this example - you'd need to dig some cells to finish solving it. 108.162.250.59 16:20, 30 July 2021 (UTC)
+I think that it would be better to explain why there is mine in B3 and D3 (due to the ones) because you then have the full solution. I think that the curent explanation isn't complete enough for someone who don't know minesweeper to understand the solution Maybe it is only me but I think that it would be less confusing to have column marked with letter and line with number. i don't know if there is any standard for that. I am used to excel way of doing it 162.158.50.27 16:10, 30 July 2021 (UTC)
+I am soooo disappointed that the cursed minesweeper game is not playable. 108.162.221.79 16:13, 30 July 2021 (UTC)
+Is something supposedto happen when I click on a box? I tried this in Chrome, IE, and Firefox, and nothing happens. --172.70.110.170 16:18, 30 July 2021 (UTC)
+Hello. I have edited the image to include flags or bombs to mark the places. But as a new user I am not allowed to upload images. If somebody is willing to receive them I could email them. Rps (talk) 17:10, 30 July 2021 (UTC)
+The title is eerily similar to Mein Kampf
+The explanation repeats "this is hard because in Minesweeper you're supposed to press the buttons without mines" a lot.172.70.130.108 18:23, 30 July 2021 (UTC)
+As a native German speaker I do not think the title sounds similar. The German Mein is a bit more open than the English Mine which is spoken a bit longer. Kampf has one syllable and ends with a triple consonant, captcha has two syllables and ends with a vocal. In Mein Kampf the emphasis is on Kampf, in Mine Captcha it is on Mine. Sebastian --162.158.89.128 22:26, 30 July 2021 (UTC)
+I would compare it more to Mein Turtle. <hello> BOOM!--173.245.54.236 19:40, 19 August 2021 (UTC)
+I think that explanation misses the fact that images in captcha are in randomized order and do not match with actual position on real board and are actually, which can be deducted from fact it's using different colors and font, from multiple separate games. Therefore 'solving' it gives no actual information. Kalumniatoris (talk) 20:39, 30 July 2021 (UTC)
+
+Using the Excel numbering, here’s one verbose way of solving it: If someone is confused, it may be helpful to draw a diagram and follow along, step by step.
+Fact 1: C1 indicates that 1 of its 4 open neighbors is a mine. Fact 2: A1 indicates that 2 of its 3 open neighbors are mines. Conclusion 1: Looking at B1 and B2, Fact 1 says at most 1 is a mine and Fact 2 says at least 1 is a mine. Therefore exactly 1 is a mine. Conclusion 2: Looking at the three open cells around A1, we now know from Conclusion 1 that B1 and B2 account for exactly one mine next to A1, so the other mine adjacent to A1 must be in A2. Conclusion 3: Looking at C1, from Conclusion 1 we know that B1 and B2 account for the 1 mine next to C1, so there can be no mine in D1 or D2.
+Fact 3: A3 indicates that 3 of its 4 originally open neighbors are mines. Fact 4: B4 indicates that 1 of its 4 open neighbors is a mine. Conclusion 4: Looking at A4 and B3, Fact 3 indicates that at most 1 is empty (or equivalently, that at least one is a mine) and Fact 4 indicates that at most one is a mine. Since these two contain at least 1 mine and at most 1 mine, they must contain exactly 1 mine. Conclusion 5: Looking at Fact 4, we know that A4 and B3 account for the 1 mine adjacent to B4, so C3 and C4 must be empty.
+Fact 5: D4 indicates that 1 of the 3 originally open neighbors must be a mine. Conclusion 6: Looking at fact 5, we see that Conclusion 5 ruled out 2 of the 3 neighbors, so D3 must be the mine.
+(We’ve now determined the state of all cells in columns C and D, as well as A2. We’ve also identified two pairs (B1+B2 and A4+B3) that each contain exactly one mine.)
+Fact 6: C2 indicates that exactly 3 of its 5 originally empty neighbors contain mines. Conclusion 7: From Conclusion 1 we know that exactly 1 of B1 and B2 is a mine, from Conclusion we know C3 is empty, and from Conclusion 6 D3 is a mine. Having accounted for 4 of the 5 neighbors, and 2 of 3 mines, we know that the remaining cell, B3, must be a mine. Conclusion 8: Based on Conclusion 5 and Fact 3, we can see that exactly one of A4+B3 is a mine and therefore the other two cells adjacent to A3 must account for its other two mines. Therefore B2 is a mine. Solid Kalium (talk) 00:30, 31 July 2021 (UTC)
+I don't think it's that relevant that the captcha-solver shall click on the mines, opposite to the standard game. (The problem obviously is that if you were supposed to click on non-mines, you might simply click the number fields. Assuming that the number of the mines is given, 12 mines+B4:5,B2:8,D2:5 would be a uniquely solvable example, you'd have to infer D4 is free. But this sort of lacks elegance.) 162.158.111.218 07:42, 31 July 2021 (UTC)
+I guess no one thought to mention that it is possible to have technically unsolvable (by logic) minesweeper puzzle boards, either when there is a very high, or very low, concentration, usually at an edge or a corner. I was kinda disappointed that he didn't do that and make it interactive so that the (usually) 50/50 choice always came out wrong, or you had to trick it by clicking down on one (internally making it the mine) and releasing on the other (revealing the now safe square)... or maybe I'm just a sadist >.> 172.69.63.143 09:12, 31 July 2021 (UTC)
+I do not work for this game, I just play it: If you really dig the difficult logic required to solve this minesweeper puzzle, check out Fill-a-Pix. It's essentially huge puzzles exactly like this. There are many avenues of solving this puzzle. 3@A3 & 1@B4 for example, require that A2&B2 both be mines. 1@C1,3@C2,1@B4,and 1@D4 all collectively require that B3 and D3 are mines. C1 & C2 require that there are 2 mines within the 3 cells: B3,C3,D3. The 1's at B4 and D4 force C3 to be empty, and thus B3 and D3 are the only places those 2 mines could be.
+What if what's being signed up for is a messageboard for robots, and it is a reverse CAPTCHA; It only lets robots through (although a much better method of allowing only robots is to ask them to factor something like 702923316547 (the factors are 758141 and 927167)). --172.70.126.68 01:38, 2 August 2021 (UTC)
+My working method:
+A3's 3 and B4's 1 mean A4 & B3 are mutually exclusively mined, forcing confirmation of A2,B2 as the other two definite mines around A3 and excluding C3&4 as alternate mined neighbours to B4.
+This immediately fulfills A1's 2 and C1's 1; the latter of which, in turn proves D1&2 are unmined.
+D4 can only refer to D3.
+C2 is only fulfilled by confirming A3 (nailing B4's ambiguity in the process).
+Done..?
+...I'm surprised it's so simple (excluding errors in putting my thoughts down), even for a 4x4, and expected a tricky logic-chain before some initial assumption was confirmed by an "if..., then if..., then if..., but only if the first assumption was right" chain of some kind (e.g. a soft-commit to one or other of A4/B3, which only resolves, or not, after following the repurcusions half way round the rest of the board and back again - which is how I might need to solve a numeric Kakuro (sp?) puzzle, only I actually send both/all soft possibilities around the relevent parts of the puzzle at the same time if I have to do that. Still, it entertained me to unwrap it my own way. 162.158.159.130 12:20, 2 August 2021 (UTC)
+Yo I recreated the board in WoM: https://minesweeper.online/game/795721480 --CrazyMadlad314 (talk) 19:33, 3 August 2021 (UTC)
+AxesOff
+ClrGraph
+"-----MINESWEEPER-----"
+"YOU HAVE TO USE 33"
+"MINES TO GET A HIGH"
+"SCORE"
+138→I
+0→2
+{10,21}→Dim Mat A
+{10,21}→Dim Mat B
+{1,1}→Dim Mat S
+0→C
+"# OF MINES (1~151)"
+?→J
+J→D
+Lbl C
+0→C
+ClrGraph
+D→J
+Fill(0,Mat A)
+Fill(0,Mat B)
+Lbl 0
+Text 2,2,"-------MINESWEEPER-------"
+Text 8,2,"LOADING AND DELIVERING MINES"
+Text 14,2,C
+Text 14,14,"/"
+Text 14,18,J
+2+Int (Ran#×8)→S
+2+Int (Ran#×19)→T
+If Mat A[S,T]<0
+Then Goto 0
+IfEnd
+C+1→C
+If C=J+1
+Then Goto 1
+Else Mat A[S,T]-99→Mat A[S,T]
+Mat A[S-1,T-1]+1→Mat A[S-1,T-1]
+Mat A[S-1,T+0]+1→Mat A[S-1,T+0]
+Mat A[S-1,T+1]+1→Mat A[S-1,T+1]
+Mat A[S+0,T-1]+1→Mat A[S+0,T-1]
+Mat A[S+0,T+1]+1→Mat A[S+0,T+1]
+Mat A[S+1,T-1]+1→Mat A[S+1,T-1]
+Mat A[S+1,T+0]+1→Mat A[S+1,T+0]
+Mat A[S+1,T+1]+1→Mat A[S+1,T+1]
+Goto 0
+IfEnd
+Lbl 1
+1→Xmin
+127→Xmax
+1→Ymin
+63→Ymax
+For 2→A To 10
+For 2→B To 20
+If Mat A[A,B]=0
+Then 5→Mat B[A,B]
+Text 7A-11,5B-8,0
+I-1→I
+Goto 2
+IfEnd
+Next
+Next
+Lbl 2
+1→A
+62→B
+2→R
+2→T
+1→V
+8→U
+... [CODE OMITTED]
+Lbl 9
+Text 55,2,"YOU LOSE :("
+For 2→N To 20
+For 2→M To 9
+If ((Mat A[M,N]<0)+(Mat B[M,N]=0))=2
+Then Text 7M-11,5N-8,"X"
+IfEnd
+If ((Mat A[M,N]>-1)+(Mat B[M,N]=1))=2
+Then Text 7M-11,5N-8,"."
+IfEnd
+Next
+Next
+Lbl B
+If Getkey=76
+Then Goto C
+IfEnd
+Goto B
+Lbl A
+Text 55,2,"YOU WIN :)"
+If ((C=34)+(Z<(Mat S[1,1])))=2
+Then Text 49,2,"NEW HIGH SCORE!"
+Z→Mat S[1,1]
+IfEnd
+Stop
+There are some Minesweeper sites that have a no-guessing mode, which is the only way I like to play since discovering it. Here's one: https://minesweeper.online/game/2111023635. Also, here's a couple logic puzzles with a similar idea: https://www.puzzle-minesweeper.com/mosaic-5x5-easy/ Blerp (talk)
+Categories: All comicsComics from 2021Comics from JulyFriday comicsPages using the "citation needed" templateCAPTCHASelf-driving carsComics with color

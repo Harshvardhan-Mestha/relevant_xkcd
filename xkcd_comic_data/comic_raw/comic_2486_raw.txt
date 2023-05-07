@@ -1,0 +1,58 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2486: Board Game Party Schedule
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2486)
+|<< PrevComic #2486 (July 7, 2021)Next >>|
+Board Game Party Schedule
+
+Title text: Several of the guests are secretly playing Meta Board Game Party. Every minute of parallel debate in the breakaway faction earns double victory points!
+Explanation[edit]
+This comic shows a timeline of a gathering to play some sort of fairly complex board game. These games often have many pages of rules, and a long setup time. Often the very complex rules must be explained in detail, which can be extremely dull in a group environment.
+Conversely, just beginning like at the time entry point "it will make sense once you play" without explanation often leads to new player frustration that, had they had a complete understanding, they would have made different choices and had a more reasonable chance at victory, or even worse, avoided constantly being informed of "illegal moves".
+In addition, since it's a party, there are other activities that take place in addition to playing the game, notably ordering and eating food.
+By the time you eat, prepare the game, and teach the new players, little time is left to actually play the game. This comic exaggerates this dynamic, for in the timeline, no one gets to play the game at all. Often during these gatherings the frustration with the factors above cause people to suggest settling on a simpler or more well known game.
+The title text observes some of the guests supposedly playing a fictional board game, Meta Board Game Party – a game about board game parties. Because the quoted rule states that arguing in the "breakaway faction" is worth more victory points, it would be optimal strategy for them to do just that, for as long as possible. This seems to be a sarcastic explanation as to why they tried to get the whole group to play some other game and turned the ensuing debate into 45 minutes of bickering.
+Transcript[edit]
+[Caption above:]
+Board Game Party Schedule
+[A timeline is shown, from about 6PM at the top to about 11PM at the bottom. Events are displayed as white rectangles, labeled as follows:]
+before 6PM: people filter in
+6:00–6:25: small talk
+6:25–6:55: debate which game to play
+6:55: remember that you need to order food
+6:55–7:15: debate where to order from
+7:15: pick a place, order
+7:15–7:40: pick a game and start setting up
+7:40–8:20: explain rules to new people
+8:20: food arrives
+8:20–9:00: eat food
+9:00–9:27: resume setting up
+9:27–9:52: more explanation
+9:52–10:13: restless faction tries to start simpler game
+10:13–10:38: general debate
+10:38–10:57: “It will make sense once you play”
+10:57–11:10: finish setting up
+after 11:10 PM: people head home
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I've done the best I can starting this out. Since it's been years since I did gatherings like this, if someone can suggest more modern examples of complicated tabletop simulation games than the ones I suggested (Squad Leader and SFB started in the late 1970s, for heaven's sake), please do so. 108.162.245.236 00:27, 8 July 2021 (UTC)
+Diplomacy? 108.162.246.121 21:17, 9 July 2021 (UTC)
+How about Seven Wonders? Gvanrossum (talk) 04:59, 8 July 2021 (UTC)
+This is why we always decide the game before inviting people. Then people can already head home before 11pm. To be more serious, the most complicated game that we played with novices was Eclipse with several expansions in a 9 player setup. 162.158.88.160 07:15, 8 July 2021 (UTC)
+The classics for my home group with this are Kingmaker and Twilight Imperium. In fact to even suggest those we now have to plan a week or month ahead of time. Erin Anne (talk) 13:51, 8 July 2021 (UTC)
+A "simpler" game, like Catan or Dominion...? Um. More like Scattergories, Scrabble, Sorry, Yahtzee, Apples to Apples, Uno, even Go Fish. Catan and Dominion might be relatively well known, but they are NOT simple. My experience is that the strategically-minded people who love immersive resource-allocation based games like Catan and Dominion are frequently open to learning new games, while the crowd that opts for "simpler" games typically just want to have fun without having to think too hard about stuff. (I say this as someone who loves immersive resource-allocation games, with a girlfriend who typically prefers the simpler stuff.) Also, feels like Scythe deserves a mention, as a game that might be pulled out of a cupboard for game night but ends up taking hours to set up and explain. Whereas Warhammer players typically seek out their own, rather than casually springing their hobby on the general public. 108.162.221.84 17:05, 8 July 2021 (UTC) mezimm
+Fair, although with my group what usually ends up happening is side games of Magic: the Gathering, and that's not simple, but it's quick to setup and doesn't take super long to complete. Erin Anne (talk) 13:22, 9 July 2021 (UTC)
+Yeah, a not-a-COVID-19 comic. That said, just curious, why don't we include the title text as part of the transcript? Was a decision made some time ago to not include these, or have we just not been doing it for so long and no one questioned this until just now. 127.0.0.1 19:00, 8 July 2021 (UTC)
+(Nice IP. *cough*) The transcript describes in text that which cannot already be read as text (without OCR, etc). The title-text is already in text form, reiteration would be redundantly repetitive. - Or so I've seen it explained several times before, and it makes perfect sense to me. 162.158.158.105 03:10, 9 July 2021 (UTC)
+Thanks for the explanation. Also, why are you talking to yourself? 127.0.0.1 17:12, 9 July 2021 (UTC)
+Because I'm the last human alive? 10.0.0.1 23:60, 31 Dec 10,000,034 (UTC)
+Yes, I also believe that the title text should be part of the transcript. I have heard the explanation many times and the explanation makes NO sense to me. First, a transcript should be a full transcript, not just a transcript of what is in the picture. Second, Even if I was using a text reader, I would want to hear the title text after the elements in the picture are described, the same way that I experience the comic when I am reading it. First I process the comic then I hover over and look for the title text. Without the title text, it's like hearing the build up of a multipart joke without hearing the final punch line. So if a vote is ever taken, I would vote to start including the title text in the transcript. Rtanenbaum (talk) 20:05, 9 July 2021 (UTC)
+If a vote is forced I (not that I would be taken seriously, as an IP) would suggest (and only in this option vote as more preferential than the status quo, if it's a nice sensible a preferential multi-vote voting system) "<IMAGE=autoimported> <TRANSCRIPT=manual> <TITLETEXT=autoimported> <EXPLANATION=manual> <etcs=...>". The problem with <IMAGE> <TITLETEXT> ... <TRANSCRIPT_INCLUDING_TITLETEXT> is that it'll be so easy to make two TITLETEXTs different, either through failure of importing (currently needs correcting or explaining away via hand-edit) or at some time inevitably messing up the repeat-write (if not the straight copypasta) of what is already there in a perfectly accurate version.
+Or just persuade Dgbrt to change DgbrtBOT (or persuade DgbrtBOT directly, if you can and don't have Dgbrt revert whatever it is that you do to do that) to dual-autopopulate. If you have success there, I suppose you don't need to win a vote, just go straight to the "half of the users are mad at the result" stage...
+Prob. not the forum for discussing all this. In fact I'm sure it'll be better somewhere in the Community Portal. I really must catch up on my reading in there. 141.101.98.122 23:46, 9 July 2021 (UTC)
+I think the explanation is wrong. If you've played table-top games, a semi-complicated game like Catan or Ticket to Ride may seem simple. But the title says "Board Game" so I don't think explanation examples should be table-top games. In terms of "complicatedness", this comic is referring to the middle of the road: e.g. Checkers<Catan<Car Wars.
+that was fast[edit]
+this was my first time looking up the most recent comic on here (though it wasn't 'cause [I'm] dumb'... for once), and can I just say you all work really fast at getting a basic explanation written out. Your work is much appreciated by this student software dev :-)--Twisted Code (talk) 18:56, 8 July 2021 (UTC)
+Categories: All comicsComics from 2021Comics from JulyWednesday comicsChartsBoard games

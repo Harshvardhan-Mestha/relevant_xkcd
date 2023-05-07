@@ -1,0 +1,52 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2291: New Sports System
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2291)
+|<< PrevComic #2291 (April 8, 2020)Next >>|
+New Sports System
+
+Title text: Under my system, boxing and football suffered, pair figure skating still worked but had to adapt by dropping some moves, and pro wrestling was actually completely unaffected.
+Explanation[edit]
+This comic is the 16th comic in a row (not counting the April Fools' comic) in a series of comics related to the COVID-19 pandemic.
+As communities have been ordered to stay indoors to avoid spreading the virus, this has also affected sports leagues around the world, with many of them suspending their seasons, or cancelling them outright. (see this Wikipedia article for a full list of sports or sporting events impacted) Some leagues have instead promoted e-sports, such as the NBA holding an NBA 2K20 tournament between active NBA players.
+Randall, in this comic, proposes an obviously bad "new sports system" of "virtual sports", in which players play with a virtual ball in separate arenas, and are guided by online viewers. This obviously proves to be challenging, as the ball is virtual but the players are not wearing any virtual reality or augmented reality headsets, and thus they do not know how to interact with it properly. Playing in separate arenas would solve the problem of spreading the virus, as the players do not have any direct interactions with each other.
+This would be a similar system to Twitch Plays Pokémon, in which Twitch viewers "play" Pokémon video games in a crowdsourced manner. There are also many games that are intentionally constructed so that some players must accomplish a goal they cannot see or with incomplete information, while they are guided by other players. These include common team-building exercises (often involving blindfolds), and the bomb-disposal themed puzzle game Keep Talking and Nobody Explodes.
+The NBA also is holding a similar idea, holding a Horse tournament among NBA and WNBA players, which works better than the version of basketball shown in this comic because players don't need to interact with the same ball.
+In the title text, Randall claims that boxing and football (he does not specify gridiron football or association football) proved to be difficult, with pairs figure skating still possible as long as figures like elevations are removed, and professional wrestling being unaffected. Boxing and gridiron football would be impossible to play in these situations; on top of the difficulty of trying to play without knowing where the other players are located, these sports are predicated on contact. A boxer cannot get a knockout without being able to touch the other players, and football players cannot block or tackle even if they mime catching the ball. Association football, with less emphasis on contact, might still be playable, but would suffer at least from the same complications as basketball shown here. Pairs figure skating would be possible, excepting "throwing" moves or "lifts", as typically pairs figure skaters skate in unison, replicating the same moves.
+Humorously, Randall claims that professional wrestling will be unaffected by his new system. This is in reference to the "open secret" that the matches have predetermined outcomes and are more "entertainment" than actual competition, with much of the 'forced' movement of one competitor being aided or even guided by the 'victim' rather than the 'aggressor' in semi-improvised feats of coordinated athleticism.
+Transcript[edit]
+[Single wide frame representing a basketball court with a basketball hoop at each end. There are seven players running around the court, with a virtual ball in the bottom right corner (indicated as a dashed circle). Nine off-screen voices of "online viewers" are yelling instructions to the players. A caption is below the frame running nearly the full width of the frame.]
+Viewer One: No!
+Viewer Two: It's on the–
+Viewer Three: Look out!
+[A player with thick hair and a goatee is "air-shooting" into the left-hand basket.]
+Viewer Four: No!
+[A player with thick hair is running to the right.]
+Viewer Five: He's right there
+Viewer Five: Don’t run into–
+[A player with no hair is air-dribbling to the right.]
+Viewer Six: Go left!
+Viewer Seven: Left!
+Viewer Eight: Riiight!
+[A player with thick hair and a full beard is facing left and jumping, hands raised to intercept a ball.]
+[A player with no hair is facing left and crouching, reaching for a ball.]
+[A player with no hair is making an alley-oop motion towards the right-hand basket.]
+Viewer Nine: Stop dunking and find the ball!
+[The virtual ball is slowly moving right, unseen by the players.]
+[A player is hanging on the rim of the basket, making a dunking motion.]
+Caption below the panel: No one liked my new sports system, in which each player is in a separate arena sharing a single virtual ball that they can't see while online viewers yell instructions, but it was fun to watch while it lasted.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Note that the title text goes at the end of the explanation, not within the transcript section. I've removed it twice now. Ianrbibtitlht (talk) 00:41, 9 April 2020 (UTC)
+I really want to see this happen now :D 172.68.174.128 01:18, 9 April 2020 (UTC)
+Alright, who programs the VR software and who organises the tournament? :D Fabian42 (talk) 03:17, 9 April 2020 (UTC)
+I find myself wondering how easy it would be to merge the video feeds from the different players, so viewers can see everyone as if it were a traditional match. If each arena has a camera in the same place, it shouldn't be that hard to isolate parts of the image which are different from a static image; but I'm not sure what would be the best method for determining which player is in front when they overlap. I guess you need some method of tracking the players' positions in any case, to work out who's touching the ball. Would the technology used for home VR be easily adaptable to a full size stadium? - Angel (talk) 10:50, 9 April 2020 (UTC)
+Angel: Yes, with Lighthouse 2.0, used in Valve Index and HTC Vive Pro etc, stadium-sized tracking is possible! -Sharkku
+Another way to do it: Each player has their own ball. But only one of the balls is "live" at any given time. Maybe it lights up or something. If another ball contacts the live one, it changes places, allowing you to effectively "tackle" the player who's in possession. Would mean that ball physics are more realistic, while still maintaining the confusion. Maybe also give the players little shock collars to let them know if they collided with another player. (Is running through another player a foul in basketball?) - Angel (talk) 10:55, 9 April 2020 (UTC)
+And that's just got me thinking that BASEketball would be entirely playable in this form - Angel (talk) 11:13, 9 April 2020 (UTC)
+This reminds me very much of the chess variant Kriegspiel. 162.158.154.73 10:55, 10 April 2020 (UTC)
+You beat me that >< much...I hate you so much that I corrected your typo :-) 172.68.65.192 14:52, 10 April 2020 (UTC)
+Dammit, but thanks for calling it a typo (which it was, honestly) instead of an ignorant misspelling.. 162.158.158.203 17:56, 10 April 2020 (UTC)
+Categories: All comicsComics from 2020Comics from AprilWednesday comicsCOVID-19SportBasketballMultiple Cueballs

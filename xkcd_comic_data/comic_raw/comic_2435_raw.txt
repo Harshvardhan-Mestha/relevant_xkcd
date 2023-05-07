@@ -1,0 +1,431 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2435: Geothmetic Meandian
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2435)
+|<< PrevComic #2435 (March 10, 2021)Next >>|
+Geothmetic Meandian
+
+Title text: Pythagorean means are nice and all, but throwing the median in the pot is really what turns this into random forest statistics: applying every function you can think of, and then gradually dropping the ones that make the result worse.
+Explanation[edit]
+There are a number of different ways to identify the "average" value of a series of values, the most common unweighted methods being the median (take the central value from the ordered list of values if there are an odd number - or the value half-way between the two that straddle the divide between two halves if there are an even number) and the arithmetic mean (add all the numbers up, divide by the number of numbers). The geometric mean is less well-known but works similarly to the arithmetic mean. The geometric mean of n positive numbers is the nth root of the product of those numbers. If all of the numbers in a sequence are identical, then its arithmetic mean, geometric mean and median will be identical, since they would all be equal to the common value of the terms of the sequence. However, if the sequence is not constant, then the arithmetic mean will be greater than the geometric mean, and the median may be different than either of those means.
+The geometric mean, arithmetic mean and harmonic mean (not shown) are collectively known as the Pythagorean means, as specific modes of a greater and more generalized mean formula that extends arbitrarily to various other possible nuances of mean-value rationisations (cubic, etc.).
+Outliers and internal biases within the original sample can make boiling down a set of values into a single 'average' sometimes overly biased by flaws in the data, with your choice of which method to use perhaps resulting in a value that is misleading, exaggerating or suppressing the significance of any blips.
+In this depiction, the three named methods of averaging are embedded within a single function that produces a sequence of three values - one output for each of the methods. Being a series of values, Randall suggests that this is ideally suited to being itself subjected to the comparative 'averaging' method. Not just once, but as many times as it takes to narrow down to a sequence of three values that are very close to one another.
+It can be shown that the xkcd value of 2.089 for GMDN(1,1,2,3,5) is validated:
+Arithmetic mean Geometric mean Median
+F1 2.4 1.974350486 2
+F2 2.124783495 2.116192461 2
+F3 2.080325319 2.079536819 2.116192461
+F4 2.0920182 2.091948605 2.080325319
+F5 2.088097374 2.088090133 2.091948605
+F6 2.089378704 2.089377914 2.088097374
+F7 2.088951331 2.088951244 2.089377914
+F8 2.089093496 2.089093487 2.088951331
+F9 2.089046105 2.089046103 2.089093487
+F10 2.089061898 2.089061898 2.089046105
+The function GMDN in the comic is properly defined in the second row since F acts on a vector to produce another three vector, however GMDN in the last line is shown to produce a single real number rather than a vector and is thus missing a final operation of returning a single component. Each row in this table shows the set Fn(..) composed of the average, geomean and median computed on the previous row, with the sequence {1,1,2,3,5} as the initial F0. While GMDN is not differentiable, due to the median, this can be interpreted as somewhat similar to a heat equation which approaches equilibrium through averaging. Interestingly, the maximum value alternates between the average and the median (highlighted in bold in the table), while the minimum value alternates between the geomean and the median. This holds for many inputs thus providing the basis for a possible proof-by-induction of convergence on the range (see discussions).
+The comment in the title text about suggests that this will save you the trouble of committing to the 'wrong' analysis as it gradually shaves down any 'outlier average' that is unduly affected by anomalies in the original inputs. It is a method without any danger of divergence of values, since all three averaging methods stay within the interval covering the input values (and two of them will stay strictly within that interval).
+The title text may also be a sly reference to an actual mathematical theorem, namely that if one performs this procedure only using the arithmetic mean and the harmonic mean, the result will converge to the geometric mean. Randall suggests that the (non-Pythagorean) median, which does not have such good mathematical properties with relation to convergence, is, in fact, the secret sauce in his definition.
+The question of being unsure of which mean to use is especially relevant for the arithmetic and harmonic means in following example.
+  * Cueball has some US Dollars and wishes to buy Euros. Suppose the bank will exchange US Dollars to Euros at a rate of €5 for $6 (about 0.83333€/$ or 1.20000$/€).
+  * Megan   has some Euros and wishes to buy US Dollars. Suppose the bank will exchange Euros to US Dollars at a rate of $7 for €6 (about 0.85714€/$ or 1.16667$/€).
+Cueball and Megan decide to complete the exchange between themselves in order to save the Bid-ask spread of the Exchange rate which is the cost the bank imposes on Cueball and Megan for its service as a Market maker.
+  * Cueball offers to split the difference by averaging the rates €5:$6 and €6:$7 yielding a rate of €71:$84 (about 0.84524€/$ or 1.18310$/€).
+  * Megan   offers to split the difference by averaging the rates $6:€5 and $7:€6 yielding a rate of €60:$71 (about 0.84507€/$ or 1.18333$/€).
+In one direction (€/$), Cueball is using the arithmetic mean but Megan is using the harmonic mean while in the other direction ($/€), Megan is using the arithmetic mean but Cueball is using the harmonic mean. This creates two new exchange rates which are closer than the orginal rates, but the new rates are still different for each other. Megan and Cueball can then iterate this process and the rates will converge to the geometric mean of the original rates, namely:
+  * sqrt((5/6)*(6/7)) = sqrt(5/7) = 0.84515€/$ or
+  * sqrt((6/5)*(7/6)) = sqrt(7/5) = 1.18322$/€.
+There does exist an arithmetic-geometric mean, which is defined identically to this except with the arithmetic and geometric means, and sees some use in calculus. In some ways it's also philosophically similar to the truncated mean (extremities of the value range, e.g. the highest and lowest 10%s, are ignored as not acceptable and not counted) or Winsorized mean (instead of ignored, the values are readjusted to be the chosen floor/ceiling values that they lie beyond, to still effectively be counted as "edge" conditions), only with a strange dilution-and-compromise method rather than one where quantities can be culled or neutered just for being unexpectedly different from most of the other data.
+The input sequence of numbers (1, 1, 2, 3, 5) chosen by Randall is also the opening of the Fibonacci sequence. This may have been selected because the Fibonacci sequence also has a convergent property: the ratio of two adjacent numbers in the sequence approaches the golden ratio as the length of the sequence approaches infinity.
+Here is a table of averages classified by the various methods referenced:
+averages using various methods
+Method Value Formula
+Arithmetic 2.4
+Geometric 1.9743504858348 Multiply all numbers, then take it to the nth root, where n is the number of terms.
+Median 2
+GMDN 2.089
+Transcript[edit]
+F(x1,x2,...xn)=({x1+x2+...+xn/n [bracket: arithmetic mean]},{nx,x2...xn, [bracket: geometric mean]} {x n+1/2 [bracket: median]})
+Gmdn(x1,x2,...xn)={F(F(F(...F(x1,x2,...xn)...)))[bracket: geothmetic meandian]}
+Gmdn(1,1,2,3,5) [equals about sign] 2.089
+Caption: Stats tip: If you aren't sure whether to use the mean, median, or geometric mean, just calculate all three, then repeat until it converges
+Trivia[edit]
+Geothm means "counting earths" (From Ancient Greek γεω- (geō-), combining form of γῆ (gê, “earth”) and ἀριθμός arithmos, 'counting'). Geothmetic means "art of Geothming" based on the etymology of Arithmetic (from Ancient Greek ἀριθμητική (τέχνη) (arithmētikḗ (tékhnē), “(art of) counting”). This is an exciting new terminology that is eminently suitable for modern cosmology & high energy physics - particularly when doing math on the multiverse. However, it is unlikely this etymology is related to the term "geothmetic meandian" as coined by Randall, as it can be more simply explained as a portmanteau of the three averages in its construction: geometric mean, arithmetic mean, and median.
+The following Python code (inefficiently) implements the above algorithm:
+from functools import reduce
+
+
+def f(*args):
+    args = sorted(args)
+    mean = sum(args) / len(args)
+    gmean = reduce(lambda x, y: x * y, args) ** (1 / len(args))
+    if len(args) % 2:
+        median = args[len(args) // 2]
+    else:
+        median = (args[len(args) // 2] + args[len(args) // 2 - 1]) / 2
+    return mean, gmean, median
+
+
+max_iterations = 10
+l = [1, 1, 2, 3, 5]
+for iterations in range(max_iterations):
+    fst, *rest = l
+    if all((abs(r - fst) < 0.00000001 for r in rest)):
+        break
+    l = f(*l)
+print(l[0], iterations)
+Here is a slightly more efficient version of the Python code:
+from scipy.stats.mstats import gmean
+import numpy as np
+
+
+def get_centers(a, tol=0.00001, print_rows = True):
+    a = np.array(a)
+    l_of_a = len(a)
+    if l_of_a == 1:
+        return a[0]
+    elif l_of_a > 2: 
+        result = all(
+            (
+                np.abs(a[0] / a[1]) <= tol,
+                np.abs(a[0] / a[2]) <= tol,
+                np.abs(a[1] / a[2]) <= tol,
+            )
+        )
+        if result:
+            return a[0]
+    res = [np.mean(a), np.median(a), gmean(a)]
+
+    if print_rows:
+        print(res)
+    return get_centers(res, tol)
+And here is an implementation of the Gmdn function in R:
+   Gmdn <- function (..., threshold = 1E-6) {
+     # Function F(x) as defined in comic
+     f <- function (x) {
+       n <- length(x)
+       return(c(mean(x), prod(x)^(1/n), median(x)))
+     }
+     # Extract input vector from ... argument
+     x <- c(...)
+     # Iterate until the standard deviation of f(x) reaches a threshold
+     while (sd(x) > threshold) x <- f(x)
+     # Return the mean of the final triplet
+     return(mean(x))
+   }
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Oh, this one's good. Just checked in (no, I wasn't hovering over the refresh button, my first visit today!) and one glance had me in paroxysms of laughter. But how to explain it? Gonna have to think about that. 141.101.98.96 01:12, 11 March 2021 (UTC)
+I made a really bad spreadsheet to understand better how it works: https://docs.google.com/spreadsheets/d/1fqmHwDmirJrsKPdf94PutFDw31DMAYxNeR7jef1jneE/edit?usp=sharing
+Someone fix my awful transcript edits please. --Char Latte49 (talk) 02:31, 11 March 2021 (UTC)
+Seeing the Python added to the Explanation, try this Perl (typed straight here, so not tested)...
+## Your prefered variations of "#!/usr/bin/perl", "use strict;" and "use warnings;" here! ##
+sub F { my (@vals)=@_; my $invVals=1/int(@vals);
+ my ($geo,$arith,$med)=(1); # Only defining $geo, so first *= works correctly!
+ while (@vals) { my($lo,$hi)=(shift @vals,pop @vals); # $hi may be undef - this is intended!
+  $arith+=$lo; $geo*=$lo; unless (defined $hi) {  $med =  $lo;     last }
+  $arith+=$hi; $geo*=$hi; unless (@vals)       { ($med)=F($lo,$hi)      }
+ }
+ return ($arith*$invVals, $geo**$invVals, $med);
+}
+sub GMDN { my (@vals)=sort @_; my $lim=10**(-5); # Adjust $lim to taste...
+  return "Error: No vals!" unless  @vals; # Catch!
+  return $vals[0]          unless ($vals[$#vals]-$vals[0]) > $lim;
+  return GMDM(F(@vals));
+}
+my @test=(1,1,2,3,5);
+print "Values:              @test\nGeothmetic Meandian: ".GMDN(@test)."\n";
+...debugged in my head, so probably fatally flawed but easily fixed/adapted anyway. 141.101.99.109 03:04, 11 March 2021 (UTC)
+Why so complicated?
+perl -e 'use strict; use warnings; sub F { my ($s,$p) = (0,1); my @srt = sort {$a<=>$b} @_; for (@_) { $s += $_; $p *= $_; } return ($s/@_,$p**(1/@_),$srt[$#_/2]); } sub Gmdn { print join(", ",@_=F(@_)),"\n" for 0..20; return @_; } print join(", ",Gmdn(1,1,2,3,5)),"\n";'
+(With interim results) SCNR -- Xorg (talk) 03:18, 11 March 2021 (UTC)
+I can read your version (and I see you do explicit {$a<=>$b}, which indeed may be necessary in mine for real use, along with additional sanity checks, I will check later) but I wanted to make mine neat, and slightly tricksy in implementation, but still not quite so entirely obfuscated to the more uninitiated. TIMTOWTDI, etc, so I like your (almost) bare-bones version too. ;)
+(Is 20 cycles enough to converge in sufficiently extreme cases? Won't give "Too deep" error, though, even if it takes at least that long. There's a definite risk that mine might, as written.) 141.101.99.229 03:45, 11 March 2021 (UTC)
+Given the lack of precision in Randall's example usage, I think 20 cycles ought to be enough for everyone ;-P. I'm trying to prove that the interval's size has to shrink by somewhat close to a factor of 1/2 every cycle, but it's tricky and it's late. If I can assume a factor of 1/2 in the long run, 64 iterations should pin down a 64-bit float.
+I actually didn't try to obfuscate, I was just too lazy to type more ;-). Otherwise I might have left out the "return"s and passing parameters at all. -- Xorg (talk) 04:21, 11 March 2021 (UTC)
+I find the one-liner more readable: it's straightforward and pretty minimal. For what its worth, here's my version:
+perl -MList::Util=sum,product -E 'sub F { (sum @_)/@_, (product @_)**(1/@_), (sort { $a <=> $b } @_)[$#_/2] } $, = " "; say @v = @ARGV; say @v = F(@v) for 1..30' 1 1 2 3 5
+30 iterations is enough for the numbers to display identically on this system (to 14 decimal places). I think it's even cleaner in Raku (formerly Perl 6):
+raku -e 'sub F(@d) { @d.sum/@d, [*](@d)**(1/@d), @d.sort[@d/2] }; say my @v = +«@*ARGS; say @v = F(@v) for 1..33' 1 1 2 3 5
+On this system, Rakudo yields an additional decimal place, which takes another 3 iterations to converge. Smylers (talk) 06:53, 11 March 2021 (UTC)
+Side-thought: is GMDN (nowhere near as logical an ETLA contraction of the title term as, say, 'GMMD' or 'GTMD') actually an oblique reference to the GNDNs as popularised/coined by Trek canon? Worth a citation/Trivia? 162.158.158.97 04:12, 11 March 2021 (UTC)
+Besides of nerdgasm is there some reason why the program code is relevant for the explanation? Elektrizikekswerk (talk) 08:55, 11 March 2021 (UTC)
+Apparently not. I moved it to the trivia section. Elektrizikekswerk (talk) 07:51, 12 March 2021 (UTC)
+I do not agree with the statement that "The title text may also be a sly reference to an actual mathematical theorem, namely that if one performs this procedure only using the arithmetic mean and the harmonic mean, the result will converge to the geometric mean." Could one produce a reference to this result? A simple computer experiment does not show this "theorem" to be true, i.e. for the procedure to return the geometric mean of the original entry. Pointfivegully (talk) 15:04, 12 March 2021 (UTC)
+= Here is a reference https://math.stackexchange.com/questions/1734978/computing-square-roots-with-arithmetic-harmonic-mean. You must have made a mistake in your computer experiment. As an example, see the details I posted about Cueball and Megan exchanging dollars and euros. This is actually a handy way to compute square roots by hand.
+Proof of convergence[edit]
+Can any of you come up with a mathematical proof that repeated application of F on a set of (say) positive real numbers is guaranteed to converge toward a single real number, i.e. that the GMDN of a set of positive real numbers is well-defined?
+One observation I've made is that if you consider that maximum and minimum numbers in the original set to be x1 and xn (without loss of generality), something we know for sure is that AM(x1, ..., xn), GM(x1, ..., xn) and Median(x1, ..., xn) are all at least x1 and at most xn that is to say...
+x1 <= AM(x1, ..., xn), GM(x1, ..., xn), Median(x1, ..., xn) <= xn
+So range(AM(x1, ..., xn), GM(x1, ..., xn), Median(x1, ..., xn)) is necessarily <= range(x1, ..., xn).
+And given that we know that unless x1, ..., xn are all equal, that x1 < AM(x1, ..., xn) < xn, we have an even stricter result (unless x1, ..., xn are all equal) that is range(AM(x1, ..., xn), GM(x1, ..., xn), Median(x1, ..., xn)) < range(x1, ..., xn).
+So, it's clear that range(x1, ..., xn) > range(F(x1, ..., xn)) > range(F(F(x1, ..., xn))) > range(F(F(F(x1, ..., xn)))) > ... and it's also clear that all of these ranges are >= 0. There is a result in number theory that says that any infinite sequence of real numbers which monotonically decreases and is bounded from below converges.
+So we know for sure that range(F(F(...F(x1, ..., xn)...))) converges but we still have to show that it converges to 0 to show that the GMDN converges to a single real number.
+I'm not sure how to proceed. Does anyone have any ideas?
+EDIT: I just noticed that unless x1, ..., xn are all equal, AM(x1, ..., xn) is at least ((n-1)/n) * range(x1, ..., xn) away from both x1 and xn. So not only do we have that range(x1, ..., xn) > range(F(x1, ..., xn)) from before, but we also have that ((n-1)/n) * range(x1, ..., xn) >= range(F(x1, ..., xn)). This guarantees that that the range falls exponentially on repeated applications of F. So it's certain that the the range ultimately converges to 0, and hence that the GMDN is well-defined.
+It might be a good idea for someone to concretely present this idea as a proof on Page.
+See my additional notes below. -Ramakarl
+172.69.135.44 05:07, 11 March 2021 (UTC) Anirudh Ajith
+That doesn't quite work as it stands, since proving AM is that distance away does not say anything about the other two averages. I think it's true, but a little more rigour is required. 141.101.98.120 09:17, 11 March 2021 (UTC)
+When trying this myself I first arrived at 2.082, not 2.089. What threw me off was the incomplete formula for the median, which only works with sorted lists. The three values returned by F(...) aren't necessarily sorted. 141.101.76.194 09:49, 11 March 2021 (UTC)
+
+First: almost all invocations are with exactly 3 arguments (The output of the previous invocation), so we don't have to deal with N inputs at all.
+Notation: In iteration n we have the values min[n] <= mid[n] <= max[n] (in any order) and can compute AM[n], GM[n] (and median[n] = mid[n]).
+Let Q[n] := max[n]/min[n] >= 1, R[n] := max[n]-min[n] = (Q[n]-1)*min[n].
+We already established that R is decreasing and min is increasing, so Q is decreasing.
+
+Theorem: There is an n0 with R[n+1] <= R[n]*2/3 for all n > n0.
+
+Proof (by case discrimination for each n):
+case 1: mid[n+1] != AM[n]:
+    R[n+1] <= Max(max[n]-AM[n],AM[n]-min[n]) 
+            = Max(max[n]*3-(max[n]+mid[n]+min[n]),(max[n]+mid[n]+min[n])-min[n]*3)/3
+            = Max(max[n]*2-(mid[n]+min[n]),(max[n]+mid[n])-min[n]*2)/3
+           <= (max[n]-min[n])*2/3
+            = R[n]*2/3
+    Hence: R[n+1] <= R[n]*2/3
+
+case 2: mid[n+1] == AM[n]:
+  because GM <= AM: min[n+1] = GM[n], max[n+1] = mid[n]
+  Q[n+1] = mid[n]/GM[n]
+         = (mid[n]^3/(max[n]*mid[n]*min[n]))^(1/3)
+         = (mid[n]^2/(max[n]*min[n]))^(1/3)
+        <= (mid[n]/min[n])^(1/3)
+        <= Q[n]^(1/3)
+  R[n+1] = (Q[n+1]-1)*min[n+1]
+        <= (Q[n]^(1/3)-1)*GM[n]
+        <= (Q[n]^(1/3)-1)*(max[n]^2*min[n])^(1/3)
+         = (Q[n]^(1/3)-1)*Q[n]^(2/3)*min[n]
+         = (Q[n]-Q[n]^(2/3))*min[n]
+         = R[n]-(Q[n]^(2/3)-1)*min[n]
+        <= R[n]-(Q[n]-1)*min[n]/(Q[n]^(1/3)+1))
+         = R[n]-R[n]/(Q[n]^(1/3)+1)
+         = R[n]*(1-1/(Q[n]^(1/3)+1))
+  Now we can pick a q1 = Q(n1) with q1 > Q[n] >= 1 for n > n1 because Q is decreasing:
+    R[n+1] <= R[n]*(1-1/(q1^(1/3)+1))
+  
+  Together with case 1, this gives R -> 0 and thus Q -> 1. So we can pick another q0 = Q(n0) with q0 <= 8:
+    R[n+1] <= R[n]*(1-1/(q0^(1/3)+1)) <= R[n]*2/3
+-- Xorg (talk) 17:34, 11 March 2021 (UTC)
+Better Python implementations[edit]
+I'd like to add a somewhat more compact Python implementation based on the numpy module.
+import numpy as np
+
+def F(x):
+   return np.mean(x), np.exp(np.log(x).mean()), np.median(x)
+
+def GMDN(x, tolerance=1e-6):
+   while np.std(x) > tolerance:
+       x = F(x)
+   return x[0]
+
+gmdn = GMDN([1, 1, 2, 3, 5])
+print(gmdn)
+--Lvdgraaff (talk) 10:42, 11 March 2021 (UTC)
+No need for numpy, there's the statistics module in the stdlib
+import math
+import statistics
+
+def F(*nums):
+    return (
+        statistics.mean(nums),
+        statistics.geometric_mean(nums),
+        statistics.median(nums),
+    )
+
+def GMDN(*nums):
+    while not math.isclose(max(nums), min(nums)):
+        nums = F(*nums)
+    return nums[0]
+
+gmdn = GMDN(1, 1, 2, 3, 5)
+print(gmdn)
+For something as simple as this, I always find it cheating to use a package to abstract away the few actually necessary calculations. You might as well use a DWIM module and do 'result = DWIM(input)' as the sole command. But that's me for you. I'd write my own direct-to-memory screen RAM accesses, if silly things like OS HALs and GPU acceleration (once you find a way to message them as directly as possible) hadn't long since made that pretty much moot, if not actually verboten... 141.101.99.109 17:53, 11 March 2021 (UTC)
+
+
+
+I'd like to add my own implementation:
+from math import *
+def getMeans(n=list):
+    n.sort()
+    mean=sum(n)/len(n)
+    if len(n)%2==1:
+        median=n[len(n)//2]
+    else:
+        median=(n[1+floor(len(n)/2)]-n[floor(len(n)/2)])/2
+    prod=1
+    for i in n:
+        prod*=i
+    gmean=prod**(1/len(n))
+    return [mean,median,gmean]
+def gmdn(tol,n=list):
+    mList=n
+    mList=getMeans(mList)
+    while not (isclose(mList[0],mList[1],rel_tol=tol) and isclose(mList[1],mList[2],rel_tol=tol) and 
+isclose(mList[0],mList[2],rel_tol=tol) ) :
+        mList = getMeans(mList)
+    return (mList[0]+mList[1]+mList[2])/3
+print(gmdn(1e-15,[1,1,2,3,5]))
+which gives me 2.089057949736859
+Sloppy notation?[edit]
+As a mathematician, I immediately noticed a couple of annoying niggles. Firstly, it is only implied, but never clearly stated, that the input list is ordered - which means the median is wrong unless ordered. Now F outputs an ordered triple of real numbers, and in calculating G, this is fed in to F again directly. This will frequently give inputs that are not in order, and in subsequent iterations the "median" will always be the middle number - i.e. the geometric mean - regardless of the actual median. Secondly, Randall's final line gives the output of G as a single number, but as it is just the result of a repeated application of F, the output of G should be an ordered triple. I'm sure Randall is aware of both, and chose to cut out the implied ordering of the inputs and choosing one of the three values as the output of G as they aren't necessary for the joke, but maybe we should note something about this in the explanation.141.101.99.109 13:07, 11 March 2021 (UTC)
+First, I've never seen a definition of median which doesn't account for ordering itself, although I am a little annoyed at his definition for a different reason— that it doesn't account for even-length lists. Second, what I got from the comic initially is that GMDN is supposed to be a single number, specifically that value for which all three of its elements would become equal if implemented infinitely many times (and it will converge, because if the three elements are all the same it already has converged, and if at least two are different, both means will necessarily become greater than the least value and smaller than the greatest value due to the definition of 'mean'). Another annoyance I noted is that GMDN is real iff there are an even number of negative numbers and/or the length of the initial list is odd, but I suppose that can't be helped. Ooh, complex meandianing! BlackHat (talk) 15:15, 11 March 2021 (UTC)
+I guess it depends on whether we take x_{(n+1)/2} literally or not. If taken literally, the elements need to be sorted, and even-length lists don't work. If we assume the "median" is the literal part, and the notation is just a simplified sketch, then both are okay (median of even list is average of the two "middle" elements). 172.68.143.160 22:00, 12 March 2021 (UTC)
+Is the arithmetic-geometric mean connected to geometry?[edit]
+In the case that only the arithmetic and geometric mean are used the combined arithmetic-geometric mean can be interpreted as the radius R of a circle which has the same circumference as an ellipse with half axes a and b.
+R = M(a,b)
+Can the Geothmetic Meandian be interpreted are the radius R of a 3D sphere which has the same surface as an elliptic cylinder with half-axes a and b and length c ?
+R = GMDN(a,b,c)
+Here is a geometric interpretation of the inequality between them: Inequality_of_arithmetic_and_geometric_means#Geometric_interpretation. DanLoeb (talk) 19:31, 14 March 2021 (UTC) D--DanLoeb (talk) 19:31, 14 March 2021 (UTC)
+The RandallMunroe Set[edit]
+Here is some MATLAB code (sorry) to generate an image showing the number of cycles required to converge, a' la' the Mandelbrot Set. Not sure how to post an image here, but it is really cool.
+   % RandallMunroeSet.m
+   % From a suggestion by Randall Munroe in XKCD #2435 Mar 10 2021
+   % new statistic GMDN(x) = [mean(x), geomean(x), median(x)]
+   % calculation is recursive, ending when converged
+   % here we count the cycles required to converge and plot a' la' Madelbrot Set
+   % the initial X input can be any length vector, but we restrict to 3 space
+   % here for visualization, and fix Z so we get a 2D image
+   % so far, for positive values, it converges in less than 40 or not at all
+   % for negative x, set max cycles to something larger like 60
+   % I haven't plotted it, but there is logically another set that plots the
+   % resulting converged value.
+   % Explore!
+   % (c)2021 CC BY-NC 2.5 SBStevenson@uh.edu peace, love, trees
+   % here we answer the question, how many cycles does it take for GMDN to
+   % converge?
+   maxcycles = 40; stepsize = .0025;
+   z = 1; % pick a Z, any Z
+   x = stepsize:stepsize:(4-stepsize); % explore a range of x and y
+   y = x; 
+   wbh = waitbar(0);
+   RMS = zeros(numel(x),numel(y),numel(z)); % no, not root mean square, this is the Randall Munro Set!
+   for idx = 1: numel(x)
+       waitbar(idx ./ numel(x)); % feedback on progress
+       for jdx = idx:numel(y) % result is symmetric across the diagonal, so we save time by computing above the diagonal
+           for kdx = 1:numel(z)
+               RMS(idx, jdx, kdx)  = gmdn([x(idx),y(jdx),z(kdx)], maxcycles);
+               RMS(jdx, idx, kdx) = RMS(idx, jdx, kdx); % copy across the diagonal
+           end
+       end
+   end
+   close(wbh)
+   RMS = min(maxcycles,RMS);
+
+   if numel(z) == 1;
+       figure(420);
+       image(255*RMS./maxcycles);truesize; colormap(jet(256));
+   end
+   if numel(z) == 3; % allow for true color, but in practice it is so sensitive to initial z value it just gives three different sets unless the Zs are VERY CLOSE
+       figure(420);image(RMS./maxcycles);truesize;
+   end
+   title(['RandallMunro Set Z = ' num2str(z)]);
+   figure(3);hist(RMS(:),0:maxcycles);
+   %% How many cycles to converge?
+   function ncycles = gmdn(x, maxcycles)
+   ncycles = 0;
+   while ncycles < maxcycles
+       ncycles = ncycles + 1;
+       x = [mean(x), geomean(x), median3(x)];
+       if all(x(1) == x(2:3))
+           break
+       end
+   end
+   end
+   %% Geometric Mean
+   function result = geomean(x)
+   result = prod(x) .^ (1/numel(x));
+   end
+   %% Slightly faster median than builtin MATLAB function
+   function result = median3(x)
+   y = sort(x);
+   result = y(2);
+   end
+My python program:
+from math import *
+def getMeans(n=list):
+    n.sort()
+    mean=sum(n)/len(n)
+    if len(n)%2==1:
+        median=n[len(n)//2]
+    else:
+        median=(n[1+floor(len(n)/2)]-n[floor(len(n)/2)])/2
+    prod=1
+    for i in n:
+        prod*=i
+    gmean=prod**(1/len(n))
+    return [mean,median,gmean]
+def gmdn(tol,n=list):
+    mList=n
+    mList=getMeans(mList)
+    while not (isclose(mList[0],mList[1],rel_tol=tol) and isclose(mList[1],mList[2],rel_tol=tol) and 
+isclose(mList[0],mList[2],rel_tol=tol) ) :
+        mList = getMeans(mList)
+    return mList[0]
+print(gmdn(1e-15,[1,1,2,3,5]))
+It gave me 2.0890579497368584
+Proof - Possibly by Induction[edit]
+Earlier question: > Can any of you come up with a mathematical proof that repeated application of F on a set of (say) positive real numbers is guaranteed to converge toward a single real number
+Define:
+F(n) = {An,Bn,Cn}
+F(n+1) = {An+1, Bn+1, Cn+1} = {ave(An,Bn,Cn), geomean(An,Bn,Cn), median(An,Bn,Cn)}
+R(n) = range of F = max(An,Bn,Cn)-min(An,Bn,Cn), for iteration n
+We want to show that the range R(n) converges to 0.
+With the following notation: max(n) == max(An,Bn,Cn), ave(n)==ave(An,Bn,Cn), ..
+We observe the following emperically for many different inputs:
+R(n) = max(n)-min(n)
+CASE 1: max(n)=ave(n), THEN max(n+1)=median(n+1)=geomean(n) AND min(n+1)=geomean(n+1)
+In this case max(n+1) is fixed to a previous value, the geomean(n), and min(n+1) takes on the new geomean(n+1) which is guaranteed to reduce the range R(n) as min(n) < geomean(n+1) < max(n). It also implies case 2 must be invoked because min(n+1)=geomean(n+1) at n+1.
+CASE 2: min(n)=geomean(n), THEN max(n+1)=ave(n+1) AND min(n+1)=median(n+1)=ave(n)
+In this case min(n+1) is fixed to a previous value, the ave(n), and max(n+1) takes on the new ave(n+1) which is guaranteed to reduce the range R(n) as min(n) < ave(n+1) < max(n). It also implies case 1 must be invoked because max(n+1)=ave(n+1) at n+1.
+
+Each case forces the range to be reduced while also forcing the alternate case on the next iteration.
+In other words, the maximum at each iteration alternates between the average and the median, and the minimum alternates between the geomean and the median. Thus either the minimum or the maximum at n+1 are always converging away from the minimum and maximum at previous n.
+While this is not a formal proof, since the initial observations are emperical, I believe that a proof-by-induction can be built based on the oscillating convergence (without the need for F to be differentiable).
+Ramakarl (talk) 00:00, 12 March 2021 (UTC)
+How can this be formulated as a PDE when F isn't even differentiable?
+Besides, R(Fn+1) < R(Fn) does not imply limit R(Fn) = 0 (Think R(n) := 1+1/n). -- Xorg (talk) 02:50, 12 March 2021 (UTC)
+Agreed. F is not differentiable due to median. For arbitrary R(n) such as R(n)=1+1/n then limit R(Fn) != 0, however I do not define R(n) arbitrarily but define it as R(n)=max(An,Bn,Cn)-min(An,Bn,Cn) Ramakarl
+User:snark This has nothing to do with a PDE or the heat equation. It is an iterative map from R^3 to R^3 (after the first application of F). In order to prove it converges you need to show that there is a fixed point and that the mapping takes you closer to it. The fixed points are easy since F((x,x,x))=(x,x,x) so there is a line of fixed points. You can then calculate the perpendicular distance between the starting point (x1,x2,x3) and the line given by (x(t),x(t),x(t)). Next you calculate the distance between f((x1,x2,x3)) and the line and show that is is less than the first distance.
+Agreed. I've removed reference to PDE or Heat equation except for the indirect similarity. The new suggestion for proof, which is incomplete, is inductive based on the observed alternation of the min/max between the geomean and arithmean. I believe it can be shown that for some N, there exists F(N)=k, where k=min(N)=max(N)=arithmean(N)=geomean(N)=median(N) within some epsilon, and k is the fixed point. This is because the min(n+1), median(n+1) and max(n+1) alternate between arithmean(n) and geomean(n), which are strictly inside the open interval ( min(n), max(n) ). Ramakarl
+I believe we can produce a simpler, rigorous proof. Assuming a set of three is given, we can show that after every 2 iterations, the range is reduced by at least 1/3 of its original value, and therefore it converges exponentially to 0. We use the fact that each iteration, none of the three values will lie outside the range of the previous iteration. In addition, it can be shown that the arithmean lies at least 1/3 of the previous range away from the highest and lowest values of the previous iteration.
+If the arithmean is the highest or lowest value on the first iteration, then the range will therefore already be small enough (and won't get bigger in the second iteration.) Otherwise, the only remaining option is that it is the middle (median) value. So on the second iteration, both the median and the arithmean are within the reduced 1/3 range, and at least one of them must be the highest or lowest value. The range will always be the required size.
+Edit: Note that this proof holds only assuming the values are nonnegative. Some sets of values including negative ones, such as gmdn(-4,-4,1), do not converge. 141.101.98.16
+Why is this funny?[edit]
+Wow, paragraphs and paragraphs of explanation, and calculations, and computer code describing everything about the XKCD comic. I am impressed with how much people know. After all that explanation, can anyone tell me if there is anything comical about this comic? Aside from the fact that Randal is combining formulas that don't usually get combined, is there anything here that strikes anyone as funny? The previous one about people asking absurd questions about what they could do after they are vaccinated had me laughing out loud. Can anyone tell me that they laughed at this comic and what was funny? Thanks. Rtanenbaum (talk) 01:56, 12 March 2021 (UTC)
+YMMV, but I found it funny because I just spent the last fortnight teaching how to find mean (and median, and quartiles for that matter) to 15/16yrolds. And they found that hard enough. I did not inform them of Geometric mean. I guess it's funny to me because it's such a long reach. Thisfox (talk) 02:48, 12 March 2021 (UTC)
+No, the joke is quite clearly explained in the text below the formula: "Pro Tip: If in doubt just mash them together". Elektrizikekswerk (talk) 07:53, 12 March 2021 (UTC)
+As I'm currently supposed to be working someone else should please add this with a proper formulation. I just re-added the incomplete tag. Elektrizikekswerk (talk) 08:00, 12 March 2021 (UTC)
+@Rtanenbaum funny you should give previous comic as example, as it is funny for exactly the same reason: using absurdity. The only difference is *most* people will get it why it is absurd to ride bicycle down the stairs in someones house (while it is OK to use bike outside, and it is OK to visit if you're vaccinated and thus use the stairs in someones house, BUT it is combining those unrelated activities that is absurd). Same thing here, only it requires some math background: using median has its uses, as does using geometric and arithmetic means, but it is combining them in this fashion that is absurd. And especially the recommendation to "mash mathematical functions you obviously don't understand as substitute to choosing correct one" is absurd. It is like you don't know you have to ADD prices of items on your receipt to calculate the total, so someone recommended you to use some random combination of mathematical operations to calculate the total. (with a added twist that suggested combination would return some result which is not far off the calculation). In addition, the fact that some people do not understand why it is funny (so might take such absurd recommendation seriously) makes it even more funny.--172.68.221.46 09:49, 12 March 2021 (UTC)
+Apparantly someone deleted the tag again without giving a further explanation... I will undo this change. Elektrizikekswerk (talk) 09:58, 12 March 2021 (UTC)
+'Twas not I, but note that this is 'explainxkcd' not 'explainwhyxkcdisfunny'. I think we both recognise that a cornucopia of details have been explained. It is even funnier to see someone insisting we continue to dissect the frog, but I'm not sure I need to fully explain that. ;) 162.158.159.108 15:16, 12 March 2021 (UTC)
+Yes, here's a bit more on that.. I agree with Elektrizikekswerk the joke is explained. The stat tip: "If you aren't sure whether to use the mean, median or geometric mean, just calculate all three, then repeat until it converges." is funny because there are many situations in the physical sciences where the arthmean, geometric mean and median for some data are different values. It is perhaps common that scientists not well versed in statistics are unsure which to use. The funny bit is imagining this less-statistically-versed-scientist throwing up their hands and just accepting the fixed constant given by iterating GMDN as the 'answer' irrelevant of any physical meaning. Also the name "geothmetic meandian" is funny because the word meandian is similar to both median, which it uses, and to meander which is indicated by the alternate assignment of the median on each iteration -- informally, this function meanders. Ramakarl
+Thanks to all who shared the absurdity so I could also enjoy the joke, and the joke is on me for needing to have a joke "explained". Now where is the button for me to give credit to the best answer? I want to be sure you get points toward your next-level badge. ;-) Rtanenbaum (talk) 16:23, 13 March 2021 (UTC)
+This is actually one of my favorite xkcd comics. Even before seeing this comic, one thing I would always do was take the AM(AM,GM) instead of using either average on it's own. nullcline (talk) 17:33, 20 July 2021 (UTC)
+PyPi-package[edit]
+I made a PyPi-package, if anyone (for some God-forsaken reason) want to use this without implementing it (ya lazy gits): https://pypi.org/project/GMDN/ BollaBerg (talk) 15:03, 15 March 2021 (UTC)
+Proof - extension to negative values[edit]
+As others have proven, the geothmetic meandian converges for a,b,c > 0.
+Case a==0, b,c>=0 (and permutations):
+then the geometric mean will always be 0. All derivations for a,b,c > 0 still apply, thus the set always converges to 0.
+Case a,b,c <= 0:
+arithmean(a,b,c) == -arithmean(-a,-b,-c); the same holds for the median and the geometric mean. Thus convergence is given, with the absolute value of the result the same as for positive inputs.
+Case a<0, b,c>0, Case a,b<0, c>0
+the geometric mean is negative iff 1 or 3 inputs are negative.
+the median is negative iff 2 or 3 inputs are negative.
+thus, any mixed sign input will yield a mixed sign output.
+thus, if the geothmetic meandian converges for mixed-sign inputs, the limit has to be +-0.
+unfortunately, the proof by 141.101.98.16 does not hold here unmodified: it relies on the next set always being within the range of the previous set. This is not true for the geometric mean with mixed-sign inputs. E.g. geommean(-1,2,4)=-4.
+However, what does hold is that geometric mean is always within the extended range of +- max(abs(inputs)).
+this is not yet sufficient proof.
+Xlf (talk) 18:05, 15 March 2021 (UTC)
+Given Mn := max(abs(inputsn)) and minn < 0 < maxn, we still have abs(AMn) ≤ Mn*2/3 (by dropping a summand with different sign from AMn), abs(AMn+1) ≤ Mn+1*2/3 ≤ Mn*2/3 and abs(midn+1) ≤ abs(AMn) ≤ Mn*2/3, because AMn shares a sign with one of the others. abs(GMn+1) = abs(GMn*midn*AMn)(1/3) ≤ Mn*(1*1*2/3)(1/3) ≤ Mn*(2/3)(1/3). Consequently Mn+2/Mn ≤ (2/3)(1/3), which shows convergence to 0. □ -- Xorg (talk) 16:43, 31 March 2021 (UTC)
+Edit: Deleted comment. Sorry for the accidental spam. {)|(}Quill{)|(} 14:54, 25 March 2021 (UTC)
+The joke is still not explained, as far as I can tell. Maybe it's too obvious but since people asked (see three sections above in the comments) I think the explanation of the actual joke shoudl be added. As I too find it quite obvious what the joke is I find it hard to really explain it which is the reason why I didn't. Besides of that, the incomplete tag actually says why it's incomplete (in this case). AND there is already a comment section (again, three sections above) about this problem. Elektrizikekswerk (talk) 07:41, 26 March 2021 (UTC)
+Sorry. That wasn't a thing when I added this section.
+can someone help me with my python code of this? i dont get why this isnt working! https://replit.com/@Bumpf/geothmetic for my code. if you want i can paste my code here. i also commented in the code the error and why i dont understand it. thank you in advance! (also the geometric formula thing in the table on the page is showing a big red error. Maybe fix that?) 172.70.38.56 13:35, 26 March 2021 (UTC)Bumpf
+Since it uses F(F(F...)) someone should write a Hascal version that actually uses the fixedpoint function. 172.69.35.175 22:56, 30 March 2021 (UTC)
+Short proof that the thing converges. Basically there are three cases, one is that the median is larger than both one is that it is smaller than both and one is that it is in between. If it is in between, both he max must decrease and the min must increase. If it is greater, then the minimum must increase. If it is less, the maximum must decrease. In all three cases max(F(n+1))-min(F(n+1))<max(F(n))-min(F(n)) so by monotonic convergence theorem it must converge. 172.70.206.163 02:40, 1 April 2022 (UTC)
+Categories: All comicsComics from 2021Comics from MarchWednesday comicsMathStatisticsPortmanteauTips

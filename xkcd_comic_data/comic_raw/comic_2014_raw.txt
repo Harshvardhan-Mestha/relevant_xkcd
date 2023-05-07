@@ -1,0 +1,98 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2014: JWST Delays
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2014)
+"2014", this comic's number, redirects here. For the comic named "2014", see 1311: 2014.
+|<< PrevComic #2014 (July 2, 2018)Next >>|
+JWST Delays
+
+Title text: Since delays should get less likely closer to the launch, most astronomers in 2018 believed the expansion of the schedule was slowing, but by early 2020 new measurements indicated that it was actually accelerating.
+Explanation[edit]
+The James Webb Space Telescope (JWST) is a space telescope created to be the successor of the Hubble Space Telescope.
+The telescope has been in development since 1996, but has been plagued by numerous delays and cost overruns. This comic was likely inspired by the most recent delay announcement, which was posted on June 27, 2018. At that time, the JWST was scheduled to launch on March 30, 2021.
+In July 2020, this was pushed back further to October 31, 2021 due to the coronavirus pandemic.
+In June 2021, it was announced that the launch day will likely slip to at least mid-November 2021.
+On September 8, 2021, ESA announced that the official planned launch date is December 18, 2021.
+On November 22, 2021, NASA announced that the official planned launch date was delayed by four days to December 22, 2021, following a problem encountered when mating JWST to its payload adapter. This date was referenced in 2550: Webb.
+On December 15, 2021, NASA announced that the official planned launch date was delayed by two days to December 24, 2021, following a communications issue between JWST and the launch vehicle
+On December 21, 2021, NASA announced that the official planned launch date was delayed by one day to December 25, 2021 due to adverse weather at the launch site
+On December 25, 2021, the telescope was successfully launched, which Randall anticipated with this comic: 2559: December 25th Launch.
+This comic portrays the launch delays and the new predicted launch years and the times at which those predictions were made. There have been so many delays in this project that you can plot a line of best fit with a surprisingly high degree of accuracy. Randall says optimistically that the line’s slope is less than one (there is less than one year of new delay per year of elapsed time), implying, of course, that if events continue without further intervention, it will eventually be built, with a predicted launch date of late 2026.
+The title text alludes to the famous research over the universe’s accelerating expansion. The expansion had been predicted to be slowing due to gravity from everything in the universe; instead, it was found to be accelerating since about 5 billion years ago. Here, Randall looks at the apparently ever-delaying schedule and observes that the delay per time does not decrease, although the date gets nearer (which should help to schedule the launch date, as research and unknown parameters are replaced with engineering and exact predictions and measurements). However, this delay inflation contradicts Randall's usage of a linear trendline. Given the COVID-19 pandemic brought some additional delays in 2020 and 2021, the "early 2020" date was perhaps unintentionally prescient.
+The Wikipedia article linked above includes a table which provides the data points for the chart:
+Year Planned
+launch Time left
+(years)
+1997 2007 10
+1998 2007 9
+1999 2007 to 2008 8-9
+2000 2009 9
+2002 2010 8
+2003 2011 8
+2005 2013 8
+2006 2014 8
+2008 2014 6
+2010 2015 to 2016 5-6
+2011 2018 7
+2013 2018 5
+2017 2019 2
+2018 2020 2
+2018 2021 3
+2020 2021 1
+2021 2021 0
+Transcript[edit]
+[Top caption, in the panel:]
+James Webb Space Telescope
+[Subtitle of top caption:]
+Launch Delays
+[There is a positive-quadrant only line graph. The x- axis is labeled 'Current Date' and the y axis is labeled 'Planned Launch Date'. The dates on both of the axes range from 1995 to 2030.]
+[In the graph are 15 points, starting at (1997,2007) and extending at a slope of a little less than one. The most recent one is labeled 'Now: 2021'.]
+[There are two lines on the graph: a red one and a dashed black one. The red one is a regression of the points on the graph. It has a slope of about ⅔. The black one is a line with a slope of one. They intersect at the point (2026,2026), marked by the label 'Late 2026'?]
+[Caption below the panel:]
+Look, at least the slope is less than one.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Haha - I made this same graph 2 weeks ago! Cosmogoblin (talk) 17:39, 2 July 2018 (UTC)
+Suggest the last sentence be made more general: "The title text refers to a fundamental question of the Big Bang Theory; will the universe expand forever, or will is collapse back on itself? The likely answer to this question has changed over the decades as new measurements have been made, and new theories such as dark matter and dark energy developed to explain the new measurements. Apparently, and for an analogous reason, between 2018 and 2020 the likely answer to the fundamental JWST question will change." GODZILLA (talk) 17:58, 2 July 2018 (UTC)
+I agree to the current sentence saying "and compares the universe’s accelerating expansion to the apparently ever-delaying schedule" but were the hell comes the conclusion that "the JWST will have enough delays to fill a universe"? This does not make any sense. Elektrizikekswerk (talk) 07:59, 3 July 2018 (UTC)
+Does today's prediction of 2026 count? If that is included in the data set, it would then skew the best-fit line to be steeper. If a new prediction is made using that new best-fit line, that would further skew the line, and so on, causing the acceleration the title text anticipates between 2018 and 2020.162.158.63.88 20:10, 2 July 2018 (UTC)
+> Until the slope of the line becomes more than one and the prediction goes to the past, right? 108.162.216.16 21:55, 2 July 2018 (UTC)
+No, it doesn't count, because it's just prediction, while the data set is of (official) planned launch dates. -- Hkmaly (talk) 22:06, 2 July 2018 (UTC)
+The Wikipedia data (taking the midpoint for ranges) fits a linear function with slope 0.660618 and intercept 687.739. This implies convergence at 2026.45, which is why Randall is predicting late 2026 for the actual launch. 172.69.22.56 15:04, 10 July 2018 (UTC)
+Von Foersters's doomsday is Friday 13th of November 2026. (cue Twilight Zone intro) 162.158.89.175 21:20, 2 July 2018 (UTC)
+Why does he keep saying it's 2021? Is he trying to skip Trump's term or what? --172.68.211.10 00:30, 3 July 2018 (UTC) Why do you think that Trump will get only 1 term?141.101.76.70 17:10, 3 July 2018 (UTC)
+This is the same chart for the new airport in Berlin. Sadly its slope is not less than one, it is indeed accelerating...
+2006     2011
+2010     2012
+2012     2013
+2013     2014
+2014     2016
+2015     2018
+2016     2018
+2017     2022
+Fabian42 (talk) 07:57, 3 July 2018 (UTC)
+[1] says that the planned launch date from December 2017 is in October 2020 (not 2022). That would make the slope slightly less than 1 (unless you ignore the 2016->2011 data point, as outlier) --162.158.91.35 09:27, 4 July 2018 (UTC)
+There was a 2022 prediction earlier in 2017, I took the maximum value for each year. And honestly, 2202 sounds more reasonable than 2020 for me. Fabian42 (talk) 14:39, 4 July 2018 (UTC)
+I feel a quadratic regression would be needed to determine acceleration / deceleration 172.68.59.24 13:54, 3 July 2018 (UTC)
+If you plot out the least-squares fit as it changes over time (i.e. repeat Randall's graph as each new data point was added), it fits a quadratic quite well. And converges to a 2025 date.
+I wonder what this chart would look like for new york's 2nd avenue subway. 162.158.75.130 17:36, 3 July 2018 (UTC)
+At least there _is_ a slope. How about Trump's wall? 173.245.52.151 00:52, 4 July 2018 (UTC)
+Two more lines are coming together... the year and the XKCD index. 2018 should happen next week. IonFreeman (talk) 14:22, 5 July 2018 (UTC)
+The last three data points have a slope greater than one. Just sayin'. Redbelly98 (talk) 19:55, 29 July 2018 (UTC)
+"NASA announced that the launch date has once again been delayed to 31 October 2021." THE RIDE NEVER ENDS 108.162.215.188 05:24, 17 September 2020 (UTC)
+November to December 2021 now... amazing. 172.69.35.65 20:24, 21 June 2021 (UTC)
+November 2021[edit]
+Is [2] on track for the extrapolation shown? 172.69.35.115 18:31, 24 June 2021 (UTC)
+Update from 2021[edit]
+Turns out the last update in the comic seems to have been correct. As of Sept '21, it's still due to go up in Nov. '21. https://www.jwst.nasa.gov/content/about/launch.html https://www.nasa.gov/press-release/nasa-announces-new-james-webb-space-telescope-target-launch-date
+Updated Image. I've added the blue dots to represent the updated launch dates. (Still in 2021) 172.69.48.147 20:43, 31 August 2021 (UTC)
+On September 8, ESA has announced December 18, 2021, as the planned launch date.[3] 2021 remains possible, but if there are further delays (and launches like this are delayed frequently), we may indeed slip into 2022. 162.158.92.245 05:55, 9 September 2021 (UTC)
+The launch readiness date is moving to no earlier than Dec. 22 because they almost dropped it 141.101.76.223 09:02, 23 November 2021 (UTC)
+I find it interesting that in Comic #2550, posted 3 December 2021, Mr. Munroe returns to the topic of the Webb with a gag involving a particular launch date. This suggests to me that he has confidence the launch is indeed drawing nearer. 172.70.126.221 08:08, 5 December 2021 (UTC)
+Actually, I think that the December 2021 launch date is good. The vehicle is complete and the Ariane 5 is ready. (Edit: i forgot to sign my post) --162.158.62.120 02:31, 6 December 2021 (UTC)
+Delayed to Christmas eve now due to comms issue between satellite and rocket --172.70.162.77 15:50, 15 December 2021 (UTC)
+And now it's Christmas Day, due to weather. 108.162.210.219 04:51, 22 December 2021 (UTC)
+It hath LAUNCHED!!!172.70.210.183 04:55, 27 December 2021 (UTC)
+Categories: All comicsComics from 2018Comics from JulyMonday comicsComics with colorAstronomyTelescopesSpace probesLine graphsExtrapolation

@@ -1,0 +1,45 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2429: Exposure Models
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2429)
+|<< PrevComic #2429 (February 24, 2021)Next >>|
+Exposure Models
+
+Title text: "Cumulative number of coronavirus spreadsheets created over time" is a spreadsheet I am coming dangerously close to creating.
+Explanation[edit]
+This is another comic in a series related to the COVID-19 pandemic.
+Cueball (or Randall) created another COVID exposure model to help lower his risk of catching COVID-19 in the pandemic. Megan inquires about the model's result, to which Cueball admits that he's been sitting at his computer continuously debugging models, and draws the conclusion that debugging COVID-19 models lessens close contact with other people. This is similar to the premise of 1445: Efficiency and 1708: Dehydration, except with the situation reversed — where before, researching a situation made the situation worse, here Cueball's time "wasted" has actually benefited him.
+By "model," Randall likely means a manually crafted model, since he describes debugging it, but he may also mean the form of automatically generated software that is used in modern machine learning.
+Cueball is too busy making models to figure out how to actually lower his risk other than sitting around repeating the work of others and improving his model-building skill. He has also created a meta-model, reporting the number of models Cueball has to create to wait the pandemic out. The fact that Megan refers to having to wait for the time that it would take Cueball to create four more models as "so close" implies that Cueball goes through models quickly, which makes sense because he spends all of his time working on new ones.
+In the title text Randall mentions that he is dangerously close to making a spreadsheet about how many spreadsheets about coronavirus he has made cumulative over time. This would be a recursive graph, a recurring theme on xkcd.
+Transcript[edit]
+[Cueball is sitting in an office chair at a desk typing on his laptop as Megan walks in.]
+Cueball: I built another COVID exposure model to help me limit my risk.
+[Megan stands behind Cueball, who has turned in his chair to face her. He is leaning his arm on the back of the chair.]
+Megan: Any new insights?
+Cueball: Yeah: "If you spend all day debugging models, you don't have close contact with a lot of people."
+[Cueball turns away from Megan to type on his laptop again. The back of his chair has disappeared.]
+Megan: Well, I guess it worked.
+Cueball: According to my meta-model, the end of the pandemic is only four more models away.
+Megan: So close!
+Trivia[edit]
+Cueball's chair is missing its back in the last panel. Randall just forgot to draw it.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Is it worth making a note of the art error in the third panel, where the chair back has disappeared? 108.162.237.8 03:07, 25 February 2021 (UTC)
+Someone did it. Fabian42 (talk) 09:06, 25 February 2021 (UTC)
+I'm not ashamed to say that a good portion of the Bash and Google sheets knowledge I have today comes from creating a Corona spreadsheet and its automatic filling script: https://docs.google.com/spreadsheets/d/1uDTghO_ZYBs5nfs2kDc0Ms6e9bbx7clx_QgkWii7OMY and https://pastebin.com/uHzzMeac Fabian42 (talk) 09:06, 25 February 2021 (UTC)
+Explained the joke(I think?)[edit]
+I wrote that the joke was he was so obsessed with the charts it became a self fulfilling prophecy. Please correct me if I'm wrong.Hiihaveanaccount (talk) 15:06, 25 February 2021 (UTC)
+I think it hinges on the two possible meanings of his first sentence. One interpretation is that he's building the model, with the goal being that the model, once ready, will help him limit his risk. The other one would be that the making itself is what helps him limit his risk because it forces him to stay at home. In the second case, the quality of the eventual result doesn't matter that much and it's more about having something to do instead of getting bored while sitting at home. Bischoff (talk) 15:50, 25 February 2021 (UTC)
+Strange that Randall is apparently debugging a manual model when machine learning models have passed the Turing test and gptneo was recently open sourced. 162.158.63.170 21:54, 25 February 2021 (UTC)
+What's with the meta-model comment? I don't get it.172.69.170.120 00:44, 26 February 2021 (UTC)
+Well, it's just a guess, but using machine learning models to predict and design the behaviors of machine learning models would make a hyperintelligent system, in the extreme, no? A big thing, as a software developer, is finding ways to get the computer to do for you, what you would previously do yourself, which can mean getting more and more meta as a habit. Seems similar to the comic about the tower of babel, to me: touching on research towards hyperintelligence (and current events stemming from use of machine learning) without saying too much outright. 162.158.63.118 00:57, 26 February 2021 (UTC)
+
+Note that alignment sounds like if the AIs end up being evil. They wouldn't be evil. They would be just fulfilling their purpose. Ignoring anything they don't have in program. So, it's kinda dangerous if we don't train the machine to be careful and not kill someone just because we don't know how it could do it ... -- Hkmaly (talk) 02:31, 26 February 2021 (UTC)
+nah it has more to do with how automatically pursuing goals can discover weird approaches that nobody expects. But I guess that's what you're saying. It's just hard to rigorously define "be careful". Somebody removed all the information about machine learning from the article. 162.158.63.188 14:17, 26 February 2021 (UTC)
+It weren't me, but I can see why. There's no signs that any machine learning was employed. The text even stated "This might be the first time machine learning has been mentioned" (not sure that's right), but itself was the first obvious mention of machine learning. A model can just be a simulation (entirely configured by the human creator), and this seems far more likely here, given nothing to say otherwise. 141.101.98.96 19:55, 28 February 2021 (UTC)
+Edit: Deleted comment. Sorry for the accidental spam. {)|(}Quill{)|(} 14:46, 25 March 2021 (UTC)
+Categories: All comicsComics from 2021Comics from FebruaryWednesday comicsComics featuring CueballComics featuring MeganRecursionCOVID-19

@@ -1,0 +1,78 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2016: OEIS Submissions
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2016)
+"2016", this comic's number, redirects here. For the comic named "2016", see 1624: 2016.
+|<< PrevComic #2016 (July 6, 2018)Next >>|
+OEIS Submissions
+
+Title text: SUB[59]: The submission numbers for my accepted OEIS submissions in chronological order
+Explanation[edit]
+The OEIS is the Online Encyclopedia of Integer Sequences, a listing of hundreds of thousands of sequences of integers, generally of real mathematical interest, such as prime numbers (A000040) or Armstrong numbers (A005188). The OEIS normally expects submissions to be accompanied by references to scholarly articles about, or at least referencing, the sequence. They would not be interested in the personal or idiosyncratic sequences proposed by Randall, though they do have the list of subway stops on the New York City Broadway line (IRT #1), perhaps because a NY Times article mentioned that they don't.
+Randall is trying to put his integer sequences on the OEIS website, including making OEIS reveal its password.
+sub[43] - All integers which do not appear in the example terms of another OEIS sequence
+Every OEIS sequence lists several example terms to demonstrate the content of said sequence. This request wants to list all integers which are not used as examples elsewhere. Any numbers used as example terms for this sequence are not counted, so this list is not self-disqualifying. It is well-defined at any given time. Like many other OEIS sequences, it has infinitely many terms (more precisely, it includes all integers except a finite number). However, it may change at any time, whenever a new sequence or a new example is added to the OEIS. If included, it would therefore have to be constantly updated.
+Such integers are sometimes called "uninteresting numbers" in mathematical terms, and attempts have been made to count them. The list changes, but in July 2009 it began 11630, 12067, 12407, 12887, 13258...
+sub[44] - Integers in increasing order of width when printed in Helvetica
+This sequence is not uniquely defined as it depends on the specific version of the Helvetica font used, its point size, the software used to render it (e.g. kerning algorithm), the handling of equal widths by the sorting algorithm and possibly other parameters. Also, all digits usually have the same width, with the exception of the sequence "11", which is a tiny bit narrower because a kerning pair exists in Helvetica. Without an additional tie-breaker for equal width numbers, the order is: 1 to 9 in no particular order, 11, 10 and 12 to 99 in no particular order and so on; for a particular choice of parameters the first 50 terms might be: 1, 9, 6, 2, 8, 5, 0, 7, 3, 4, 11, 61, 71, 91, 21, 51, 81, 41, 31, 19, 13, 18, 10, 12, 15, 16, 14, 17, 69, 63, 68, 79, 60, 62, 65, 73, 78, 99, 93, 98, 66, 70, 72, 75, 29, 90, 92, 95, 23, 28...
+Despite all of the above issues, and as a direct response to this comic, a well-defined version of this sequence was added to the OEIS.
+sub[45] - The digits of Chris Hemsworth's cell phone number
+An attempt to phish the phone number of actor Chris Hemsworth. Luckily for the OEIS there is a loophole to this request: the correct ordering of the digits isn't specified.
+sub[46] - All integers, in descending order
+To list all integers in descending order, you would have to begin at the largest integer, but there is no largest integer, so this is impossible. It is equally impossible to list all integers in ascending order, for that matter.
+On the other hand, A001477 is the sequence of all nonnegative integers in ascending order, as there is the smallest nonnegative integer. Also, A001057 is the sequence of all integers, but in canonical order (i.e. by increasing absolute value).
+sub[47] - The digits of the OEIS serial number for this sequence
+This sequence is only important tautologically.
+sub[48] - 200 terabytes of nines
+This submission appears to be a joke on common video game limits for, e.g., currency or ammunition, in which the maximum a player can carry is one less than a power of 10. This sequence would be entirely useless, as there is no mental effort required to conceive a list that consists only of a single repeated term, however arbitrarily large. Such a list is also incredibly wasteful; to give a comparison, this very large math proof from 2016 is also 200 terabytes, and requires a supercomputer to hold in its entirety.
+200 terabytes is equal to 2 × 1014 bytes. In UTF-8, each ASCII character, including control characters such as ␂ (start of text) and ␍ (carriage return), can be represented by a single byte. If the list is presumed to be formatted as "␂9␍9␍9 ... 9␍9␃", the first term would take up 3 bytes, and all other terms would take up 2 bytes. Assuming Randall wants the file size to be 200 terabytes minimum, the resulting list would be a minimum of 1 × 1014, or 100 trillion, terms long.
+Curiously, OEIS does in fact contain an entry that lists "all nines" which contains this proposal as a subsequence.
+sub[49] - The decimal representation of the bytes in the root password to the Online Encyclopedia of Integer Sequences server
+This would give any user the password to OEIS. Anyone can easily forecast what happens next. Perhaps the idea is to hack OEIS on the premise that accepting this sequence will force OEIS staff to populate it.
+sub[59] (title text) - The submission numbers for my accepted OEIS submissions in chronological order
+This would only be useful to Randall. If all of his submissions have been rejected, this would be an empty set. However, if this submission is accepted, the set would, by definition, include at least one number (except that this would not be known at the time of submission). Thus, as in the Russell Paradox, this set would be out of date as soon as it was accepted, since the set of accepted submission numbers would change at that point.
+Currently, it has one known number: 44. Other sequences suggested by Randall not listed (1-42 and 50-58, and an unknown number of submissions from 60 onwards) may or may not be accepted, but since those sequences are not known it is not known whether they were accepted.
+Transcript[edit]
+SUB[43]: All integers which do not appear in the example terms of another OEIS sequence
+SUB[44]: Integers in increasing order of width when printed in Helvetica
+SUB[45]: The digits of Chris Hemsworth's cell phone number
+SUB[46]: All integers, in descending order
+SUB[47]: The digits of the OEIS serial number for this sequence
+SUB[48]: 200 terabytes of nines
+SUB[49]: The decimal representation of the bytes in the root password to the Online Encyclopedia of Integer Sequences server
+[Caption below the panel:]
+OEIS keeps rejecting my submissions
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+There's an old Numberphile video about Sub[43]: https://www.youtube.com/watch?v=VDYzSzDaHuM --Zom-B (talk) 13:24, 15 July 2018 (UTC)
+"All integers which do not appear in the example terms of another OEIS sequence" there is no paradox: it's pecified *another* sequence 162.158.154.133 17:52, 6 July 2018 (UTC)
+I am so sorry that this comment is not related to the strip, but is the scaling for the explanation way off? Previously the scaling of the whole website was stretched, but now it is a bit too cramped for me. It happens to the previous strips too.Boeing-787lover 18:10, 6 July 2018 (UTC)
+Is it too much of a stretch to mention that Chris Hemsworth stars in the movie Blackhat, which is also a nickname for an XKCD character? John at work (talk) 19:31, 6 July 2018 (UTC)
+The Sub 59 one is also a paradox, it specifies that it should include all of the author's accepted submissions, so it would have to be on it's own list itself in order to be accurate? 172.68.58.233 19:47, 6 July 2018 (UTC)
+No, it would not be paradoxical. If it is accepted, then the sequence contains its identification number. If it is not accepted, that number is not in the sequence. The sequence changes depending on its own status, but there is no contradiction. This is different from e.g. the set of sets that don't contain themselves. If that set contained itself, it shouldn't contain itself, and if it didn't contain itself, it should contain itself. Both alternatives are logically impossible, so the set itself is impossible. There is nothing impossible about submission 59. Howtonotwin (talk) 20:15, 6 July 2018 (UTC)
+If OEIS would bend their own rule and allow a sequence of one number, they could accept SUB[59] , and it will never be out of date as long as they never accept another RM submittal.GODZILLA (talk) 00:49, 8 July 2018 (UTC)
+Do the OEIS rules specify that a finite set of numbers can not be expanded later? 172.68.50.112 14:42, 9 July 2018 (UTC)
+Finite sequences are permitted. — tbc (talk) 15:26, 10 July 2018 (UTC)
+But would they need to be complete at the time of submission/approval or can they be modified at a later stage? 172.68.50.112 09:23, 11 July 2018 (UTC)
+The Westside IRT stops sequence is a wonderful piece of trivia. I found the NYT article, which gives as its reason that at that time only infinite sequences were included. I have failed to find the necessary third-party reference to the inclusion of the sequence in OEIS (this, being an open wiki, is unacceptable) to include the point in the Wikipedia article on the West Side IRT. Can anybody supply one? Yngvadottir (talk) 20:35, 6 July 2018 (UTC)
+http://web.mta.info/nyct/service/pdf/t1cur.pdf Scroll down to page 3, which has a chart showing all the stops on the 1 line. JamesCurran (talk) 16:27, 11 July 2018 (UTC)
+The Manhattan stops of the IRT line (specifically they normal use the #2 express rather than the #1 local) are a classic "What is the next number in this sequence?" puzzle : 14, 34, 42, 72 .... JamesCurran (talk) 16:27, 11 July 2018 (UTC)
+I'm wondering about the comment "In UTF-16, a 9 takes up 2 bytes," about the 2 TB of 9s. Does OEIS store numbers in UTF-16 format? 172.68.174.94 21:01, 6 July 2018 (UTC) nprz
+It seems unrelated to me, the comic says 2 terabytes of 9s not 2 terabytes of 9s in a string (UTF-16 or otherwise). 162.158.158.33 12:49, 9 July 2018 (UTC)
+Helvetica seems to be one of the fonts where all digits have the same width (so that columns of numbers line up). Strangely, there seems to be a kerning pair for "11" that some Software uses. "Helvetica Neue" does not seem to have that kerning pair. (Tested using the simple HTML page in https://gist.github.com/hn3000/bec217afe666b0ee0a0430e976df4d22#file-numbers-by-width-in-font-html ). Hn3000 (talk) 11:04, 7 July 2018 (UTC)
+Such a coincidence! I've been working on my first submission all week and wrote an Emacs Lisp program that discovered the third integer pair the day this came out! You get to see it now that I have a number allocated (A316587): 12, 34, 56, 78, 6162, 7879. Can you find the next number in the sequence? Hint: my sequence is a proper subset of A001704. Still editing before I submit for approval. — tbc (talk) 18:11, 7 July 2018 (UTC)
+I withdrew my sequence. I learned from the OEIS editors that my sequence is "the juxtaposition of terms from A116163 and A116294." The next pair after 6162, 7879 is 6547965480, 8091980920. — tbc (talk) 15:26, 10 July 2018 (UTC)
+Digits do not have the same width in Helvetica, at least not in the version of Helvetica I have. Using the PHP function imagettfbbox (part of the GD library), here is the bounding box width of single digits in 12pt size: 5 points: '1'. 8 points: '4', '7'. 9 points: '0', '2', '3', '5', '6', '8', '9'. With a very large size (480pt) the differences ar more notable: 166 points: '1'. 302 points: '9'. 307 points: '6'. 308 points: '2', '8'. 309 points: '0', '5'. 311 points: '7'. 313 points: '3'. 318 points: '4'.
+For 2-digit numbers in 480pt size I find: 522 points: '11'. 559 points: '61', '71'. 560 points: '91'. 562 points: '21'. 563 points: '51', '81'. 566 points: '41'. 568 points: '31'. 620 points: '19'. 623 points: '13'. 624 points: '10', '15', '18'. 625 points: '12'. 626 points: '16'. 629 points: '14', '17'. The rest range from 657 to 675 points.
+In short, sub[44] makes sense, with all the caveats mentioned in the explanation. The phrases `1 to 9 in no particular order, 11, 10 and 12 to 19 in no particular order and so on' are exaggerated IMHO, the order within these subsets is not completely arbitrary. Zetfr 10:22, 8 July 2018 (UTC)
+I think that all nines sequence can be reference to Dilbert strip about random number generator which always returns 9 http://dilbert.com/strip/2001-10-25 141.101.104.77 19:41, 8 July 2018 (UTC)qbolec
+Okay, it is an overwrought cliché but that joke is actually a lot funnier in 'the original German'. 141.101.105.156 12:56, 15 July 2018 (UTC)
+I thought the all nines sequence was a reference to Revolution 9 from the White Album by the Beatles. 172.69.50.34 12:04, 13 July 2018 (UTC)
+Two of these are real:
+A316600 Integers in increasing order of width when printed in Helvetica.
+A010734 All the 9's.
+- PonyToast (162.158.74.165 01:48, 1 October 2018 (UTC)) the sequence of all oeis sequence identification numbers whose sequences dont contain their identification number Sci0927 (talk) 16:40, 7 February 2022 (UTC)
+For the integers ordered by how wide they are when printed in Helvetica, you also have to consider national numerical styles. For instance, in the USA and most of Europe, I'd write "1,000,000,000" for 10 to the ninth power. In India it's "1,00,00,00,000" (100 crore, or 1 arab). This is true even when writing in English, so Helvetica could still be used.Nitpicking (talk) 03:05, 22 July 2022 (UTC)
+Categories: All comicsComics from 2018Comics from JulyFriday comicsMathComics featuring real people

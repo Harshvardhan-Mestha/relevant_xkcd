@@ -1,0 +1,74 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2148: Cubesat Launch
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2148)
+|<< PrevComic #2148 (May 10, 2019)Next >>|
+CubeSat Launch
+
+Title text: Luckily, the damages were partly offset by the prize money we got from accidentally winning the nearby water skiing championship tournament.
+Explanation[edit]
+A CubeSat (aka U-class spacecraft) is a miniature artificial-satellite with cubic dimensions of 10 cm × 10 cm × 11.35 cm (~ 4 in × 4 in × 4.5 in), and masses of about 1.33 kg (2.9 lbs) per unit. CubeSats are put into orbit from the International Space Station or launched as secondary payloads. As of January 2019, at least 900 CubeSats have successively achieved orbit, and at least 80 have been destroyed in launch failures. Their common functions include: Earth observation, amateur radio transmitters, as well as testing prototype small-satellite technology.
+The comic begins with Megan telling Cueball that being officially part of a CubeSat launch is fairly expensive (starting at around $40,000),[1] but she has an idea for a much cheaper alternative: use a fishing line on a drone to attach to a rocket (that is similar visually to the European Vega rocket) just before launch, with the CubeSat attached to the other end of the fishing line so it gets pulled into space.
+In reality, this plan would fail for multiple reasons.
+Security would presumably prevent the drone from reaching the rocket.
+Even if Megan were to pilot the drone past security undetected, the launch would have been scrubbed as soon as any observer noticed the drone near the rocket and told Mission Control, who would order a countdown halt and stop the rocket launch, which prevents Megan from launching her CubeSat in the first place — after which Security would locate the drone's user and take her into custody.
+The drone would not be able to attach itself to the rocket in a way that would remain secure.
+The fishing line would not hold - either the rocket exhaust would sever it, or the force from the CubeSat, gravity, and the acceleration of the rocket would become more than its tensile strength could withstand.
+The unshielded CubeSat would likely be destroyed by aerodynamic forces.
+The comic shows the drone attaching to the lower part of payload fairing, a shell at the tip of the rocket protecting the satellites from aerodynamic forces in the early phase of the launch. The fairing is ditched as soon as practical and falls back to Earth, so the drone would never reach orbit.
+Precise weight is an important number during launch. The extra weight of the drone, the fishing line, the air drag from the drone, and the CubeSat all would combine to put more downward force on the rocket than planned. The rocket may be able to compensate for this unexpected extra weight, but if it can't, the rocket may find itself in a lower orbit than planned, or unable to reach orbit at all.
+Upon realizing her plan, Cueball immediately responds with "uh-oh", indicating his concern, but Megan assures him that it will be fine, before piloting the drone towards the rocket. She successfully connects the drone to the rocket, and the rocket lifts off.
+Whatever her plan was, it goes wrong almost immediately. The unexpected force on the rocket from the side causes it to tilt and go off course. Perhaps if the rocket's control software employed adaptive control techniques, it could have maintained control in the presence of this unexpected force. It is implied that it's not due to the comparatively small force of the CubeSat, but because Cueball is standing on the fishing line. However in real life the force from Cueball stepping on the line would still be very small and would be unable to cause a scenario like this. Megan and Cueball get tangled in the fishing line and are carried away. While the fate of the rocket is not shown, it is likely that its unplanned attitude change would activate the automatic termination sequence or result in manual activation of the destruction protocol.
+Megan and Cueball miraculously survive and are brought to an investigative board to explain their actions. Megan attempts to defend herself using flawed logic: something was bound to go wrong sooner or later, so it's not her fault that she was the cause. This logic does not account for the fact that this particular rocket's chance to crash was greatly increased by the drone attempting to connect to it. She isn't totally to blame for the accident anyways, since the launch should have been scrubbed as soon as the drone came anywhere near the rocket, and the failure of Mission Control to do so is negligence on their part, and hence they are more responsible for the failure of the mission than Megan and Cueball as they did not follow proper protocol and allowed the launch to occur under unsafe conditions.
+The title text describes that the supposedly huge damages they caused were partly covered by the earnings from a water skiing championship, which Cueball and Megan presumably won by being dragged across the water by the rocket. This might be a tangential reference to an incident in the Tintin adventure The Black Island, where Thomson and Thompson blunder into and win an aerobatics competition when they compel a mechanic with no flying experience into taking off in pursuit of that volume's antagonists. Alternatively, it may simply be a case of the title text being largely irrelevant to the comic itself and simply something Randall found funny.
+This topic of CubeSats has been covered in older comics: 1866: Russell's Teapot and in 1992: SafetySat.
+Transcript[edit]
+[Megan is holding a cube attached by a string to a quad-copter drone flying above her head. She talks to Cueball standing next to her.]
+Megan: A spot on a CubeSat launch costs a lot, but you can get a drone and a spool of fishing line for cheap.
+Cueball: Uh oh.
+[A wide shot of Megan flying the drone with the cube at her feet while Cueball stand behind her looking after the drone that flies up to the left.]
+Megan: No no, watch.
+Megan: This is gonna go great.
+[Wide shot of a rocket standing on its launch pad with the support tower. The, now very small, drone is approaching, string attached, from the right.]
+[Slim shot of the rocket as the drone attaches to the rocket, just under the tip with the payload. The string goes down and out to the right.]
+Megan (off-panel): Perfect!
+[A huge cloud is emitted from the bottom of the rocket as it lift off the ground every so slightly.]
+Foom
+[As the rocket is taking off it begins tilting in the direction of the string. Two off-panel voices come from Megan and Cueball's direction.]
+Off-panel voice #1: Should it be tilting already?
+Off-panel voice #2: Hey, move your leg.
+[Close up of Megan and Cueball struggling in tangle of string that surrounds Megan while she is holding the cube in one hand and the remote for the drone in the other. Cueball uses both hands to try and help her out of the tangle. The string goes out to the left towards the rocket.]
+Megan: Ugh, let go, I can get-
+Cueball: -No, lift your other arm-
+[Three slim panels follow, one above the others, of the rocket, with string, tilting increasingly to the right and down as if pulled by the string. In the final panel of the three the tip of the rocket is now further than where the string goes down to the bottom of the panel. So the string now goes back left from where it is attached to the rocket, rather than to the right as in all previous panels.]
+[Megan entangled in the string with the cube in her hand and Cueball hanging below her holding on to the string, are flying through the air, as the string goes up right, and with small lines drawn above it to indicate it is moving to the right. On the ground Science Girl holds a hand to her mouth looking up at them, while a guy looking like Cueball runs away with hands over his head.]
+Megan and Cueball (screaming): Aaaaaa
+[A disheveled looking Megan and Cueball both with plaster casts on their arms stand before four people, Hairbun, another Cueball like guy, Ponytail and Hairy. They are the members of an interview panel and are sitting behind a desk like table with a large label on its front:]
+Launch accident investigation board
+Megan: Listen.
+Megan: Space exploration is never going to be completely safe.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I have added an important point to the explanation regarding the impossibility of this plan - Mission Control should have scrubbed the launch as soon as someone noticed the drone anywhere near the rocket. The failure of this to happen means that Mission Control was negligent and they bear major responsibility for the failure than the mission, more so than Megan. I can't believe such an obvious point was missed by previous editors though - would you launch a rocket if you saw a drone near it?172.68.253.53 07:12, 11 May 2019 (UTC)
+Ahh, yes kites! Or actually, that is a very strong kite with very strong thread. Must be nice to knock-off a spacecraft! - 162.158.231.24 15:29, 10 May 2019 (UTC) (P. S. Please don't interrupt ANY space launch, kids!)
+To whomever edited the explanation to say the Megan is planning to board the Cubesat rocket: Cubesat rockets launch cubesats only. There is no place for astronauts. If Megan boarded the rocket, she would die from lack of air (among other things). 172.68.90.112 16:28, 10 May 2019 (UTC)SiliconWolf
+This is weird. The first time I went to the page, I saw a bunch of conspiracy theory nonsense, but when I go back, all of that stuff has been deleted. I thank you, whoever did this, but who the heck made all that conspiracy theory stuff? -Spongepants Squarebob 172.68.38.64 (talk) (please sign your comments with ~~~~)
+I believe there's one user who just keeps spouting random conspiracy theorist stuff on a few of the recent comics and who seems to go by the motto "Soon the truth will be revealed" or something. We usually revert all of their edits as soon as possible. (Also sign your comments!) Jason (talk) 18:44, 10 May 2019 (UTC)
+Yeah...a while back, on comic 2133, someone edited it to say "This comic references the non-existent 'Event Horizon Telescope', an international project dedicated to deceiving the masses into thinking that black holes are real, in accordance with the whims of the Zionist conspiracy."
+So...yeah. That happened. 172.68.143.144 20:24, 10 May 2019 (UTC)
+Yeah, one anti-Semitic lunatic vandalizing explanations and talk pages, mostly focusing on the space related comics. We can't ban all IP editors, so the mods are blocking any user accounts he tries to make, which makes him have to type in a CAPTCHA (which can be quite annoying) every time he wants to vandalize a page. Plus we can just instantly revert his edits, making him waste his efforts. Sooner or later he'll get tired of this and leave. Herobrine (talk) 21:41, 10 May 2019 (UTC)
+Do NOT blame that user for Explain XKCD using Cloudflare which makes ALL edits looking like being done by Cloudflare IPs. There is enough stuff he can be blamed for, no need to add something he can't influence. -- Hkmaly (talk) 22:16, 10 May 2019 (UTC)
+??? What I was trying to say was that even though there's only one vandal doing this, Explain xkcd uses Cloudflare which makes edits looking like being done by Cloudflare IPs, so even though there are several IP vandals they're all the same person. I'm not blaming that vandal for Explain xkcd using Cloudflare. Anyways, I've removed that bit, sorry if it caused any misunderstanding. Herobrine (talk) 22:54, 10 May 2019 (UTC)
+The explanation says the inclusion of the additional cubesat would cause the rocket to fail to reach its desired orbit. That is ridiculous. Yes, the unplanned for weight would have an effect, but given the overall weight of the rocket the weight of a single additional cubesat would be close to immaterial. CERTAINLY well within the safety margins. This isn't The Cold Equations." 162.158.107.55 05:26, 11 May 2019 (UTC)
+I agree. The three pounds or so would be surely less than normal variation in loaded fuel mass, either due to measuring uncertainty during loading or evaporation while standing on the launch pad. I've added 'citation needed' but I am somewhat inclined to remove that point completely. -- Malgond (talk) 12:00, 13 May 2019 (UTC)
+How does it work, you ask? CRYSTALS!!! HAHAHAHAHA - Dr. D
+In addition to the problems already mentioned, there's yet another one. At best this scheme could attach a cubesat to the aerodynamical fairing around the rocket's payload. However the fairing is detached as soon as it's aerodynamically feasible to do so (ie. well below orbital altitude) both to save weight and to prevent the fairing from contributing to the orbital debris problem. So the cubesat wouldn't even get to space, much less to orbit. 162.158.238.166 08:13, 12 May 2019 (UTC)
+Is the "Space exploration will never be completely safe" line a reference to this? https://yarchive.net/air/perfect_safety.html Tait marconi (talk) 15:39, 13 May 2019 (UTC)
+I am VERY surprised that one of the "Reasons this is impossible and won't work" isn't "Even if this all worked as intended, Megan would be in space with no space suit, either freezing or suffocating to death." :) NiceGuy1 (talk) 03:03, 18 May 2019 (UTC)
+My interpretation of the comic is that Megan is trying to launch the box that she is holding into space, rather than herself. Still, even though the incomplete banner has gone it doesn't mean that the explanation is definitive, so always feel free to add alternative explanations where appropriate. AlChemist (talk) 09:18, 18 May 2019 (UTC)
+My first understanding was like that, but the very presence of the fishing line means she wants to go up with it. A drone is wireless, it doesn't need any sort of command connection. Her being tied to the rocket seems to be the intent. :) NiceGuy1 (talk) 04:13, 8 June 2019 (UTC)
+Ah, had to reread. I had thought the cubesat was attached as part of the drone. I now recognize the "getting tangled in the fishing line" frame for what it is. Clarity achieved! LOL! NiceGuy1 (talk) 04:17, 8 June 2019 (UTC)
+↑ https://makezine.com/2014/04/11/your-own-satellite-7-things-to-know-before-you-go/]
+Categories: All comicsComics from 2019Comics from MayFriday comicsComics featuring CueballComics featuring MeganComics featuring Science GirlComics featuring HairbunComics featuring PonytailComics featuring HairyMultiple CueballsDronesSpace

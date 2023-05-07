@@ -1,0 +1,247 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2131: Emojidome
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2131)
+|<< PrevComic #2131 (April 1, 2019)Next >>|
+Emojidome
+
+Title text: Thank you to the xkcd April 1st volunteers/commentators, including @Chromakode, Kevin, @Aiiane, Patrick, Kat, Reuven, @cotrone, @bstaffin, @zigdon, schwal, Stereo, and everyone who voted!
+Explanation[edit]
+This was the ninth April fools' comic released by Randall. The previous fools comic was 1975: Right Click from Sunday April 1, 2018. The next became 2288: Collector's Edition, which was delayed two days and released on Friday April 3, 2020.
+The interactive comic began at noon ET (16:00 UTC) on April 1, 2019, and ended a day later. In it, users were shown two emojis and voted for their favorite before the time ran out. 512 different emojis were paired against each other in a cup or bracket system, with only one winner. See more below under How it worked.
+Brackets - like the one in this comic, for finding the best emoji - are a recurring theme in xkcd. It is also relevant for this time of year, and two years ago in 2017, the first comic in April, 1819: Sweet 16 from April 3rd was a bracket, referencing March Madness. The 2019 version of the National Collegiate Athletic Association College basketball national championship tournament began March 19th and ends April 8th 2019. So this comic could also be said to reference this, although it is not so explicit here. Earlier Randall made another large and "silly" bracket in 1529: Bracket (which someone then actually made into an online voting system, just like in this comic).
+The title is a reference to the movie Mad Max Beyond Thunderdome, which had the tagline: "Two men enter. One man leaves." The "Thunderdome" in the film is a gladiatorial arena where conflicts are resolved by a duel to the death.
+In the final round, the Milky Way emoji (🌌) won against the Hedgehog emoji (🦔). The comic was updated to show the result.
+Clicking the comic links to a bracket of 128 emojis showing the winners: https://xkcd.com/2131/emojidome_bracket_round_of_128.png
+How it worked[edit]
+Comic as it appeared during the competition
+In the first round, the voting period for each bout lasted 37.5 seconds. The voting period for each bout doubled for the second, third, and fourth rounds. The voting period for each bout for the fifth round through the end was 26 minutes. The entire bracket took 24 hours 6 minutes.
+Remaining time of a given bout was shown on a timer beneath the voting buttons. If the time remaining was one minute or greater, the time was shown rounded to the nearest minute (e.g., "Remaining Time: 26 minutes"); thus the minute would change on the half minute (e.g., "2 minutes" changed to "1 minute" at 1 minute 30 seconds). If the time remaining was less than a minute, the time was shown in seconds (e.g., "59 seconds"). When there were two (sometimes three) seconds remaining, the timer would display "Time's Up!" through the end of the bout and for a couple of seconds after the end of the bout while the images for the next bout were loading. Then the next bout would appear and the results of the previous bout would be added to the list of past bouts, with the most recent bout at the top.
+Commentary was displayed above the images for each bout, and changed occasionally through the bout. In the first round, the commentary was made up of some stock phrases with a few custom phrases mixed in. Later commentary was tailored to suit each match-up and provided live updates on how each bout was progressing. A final comment was included in the list of past bouts.
+Round Start (ET) Start (UTC) Bouts Bout length Round length
+1 12:00 16:00 256 37.5 s 2 h 40 m
+2 14:40 18:40 128 1 m 15 s 2 h 40 m
+3 17:20 21:20 64 2 m 30 s 2 h 40 m
+4 20:00 0:00 32 5 m 2 h 40 m
+5 22:40 2:40 16 26 m 6 h 56 m
+6 5:36 9:36 8 26 m 3 h 28 m
+7 9:04 13:04 4 26 m 1 h 44 m
+8 10:48 14:48 2 26 m 52 m
+9 11:40 15:40 1 26 m 26 m
+The competing candidates were periodically overlaid with colored hearts that floated up from the vote button oscillating in a triangle wave pattern before disappearing above the candidate. Below the current competition, the results of past bouts were shown with the "loser" displayed in greyscale, the winner in color, and the final robot-commentator comment on that match.
+The commentary appeared to suggest that there was some real-time feedback from the results of the competition. For instance, "It seems like our friends over Australia is joining the fun" appeared in the commentary. So did "We are getting a lot of questions on this today. This is live commentary, folks." https://i.imgur.com/8kPwjou.png, directly declaring that the commentary is live.
+Note that the schedule might show different emoji pictures than the main voting screen, presumably because of fonts. The image is pre-rendered.
+The competing candidates are chosen in order of Unicode value at first, resulting in similar emojis being compared. Examples include:
+😜 squaring off against 😛 - two emojis playfully sticking their tongues out
+🤩 squaring off against 😍 - two smiling emojis with symbols for eyes
+😂 squaring off with 🤣 - two emojis that are crying in laughter/joy.
+The original title text "🤼🤼🤼🤼🤼🤼🤼🤼" consisted of eight wrestler emojis. This likely represented the round of 8, where the eight winners then can turn to the winner next to them and continue the quarterfinals, etc. The title text was updated after the final round.
+Notably, it appears the eggplant emoji (🍆) and the peach emoji (🍑) were left out of the bracket, alongside the middle finger emoji (🖕). The eggplant and peach are frequently used to represent a penis and vulva/buttocks, respectively. There has been no statement from Randall on why they were left out.
+A robot face announcer-emoji (🤖) and a link to the full bracket was added at 38 minutes in. https://www.xkcd.com/2131/emojidome_bracket.png shows 512 emojis in a single-elimination tournament. https://www.xkcd.com/2131/emojidome_bracket_256.png was added later and shows the 256 emojis that competed on the second round. https://www.xkcd.com/2131/emojidome_bracket_round_3.png was added for the third round. https://www.xkcd.com/2131/emojidome_bracket_round_4.png was added for the fourth round. The round 3 bracket was later updated with results during the Volcano vs Owl fight. There was an error where the flying saucer had beaten the stars, which was not the case. A new bracket image was created for the Round of 32 which seems to be updated with new results as they come in. https://www.xkcd.com/2131/emojidome_bracket_round_of_32.png
+It is not clear how the winner is decided when both emojis tied for first. This has happened twice: in Cupcake vs. Birthday Cake (🧁 vs. 🎂) with 3658 points each, where the Birthday Cake (🎂) was declared winner, and in the very first match of Grinning Face vs. Grinning Face With Smiling Eyes (😀 vs. 😁), in which no votes were cast, but the Grinning Face With Smiling Eyes (😁) was declared winner. Both of these tied bouts occurred in round 1, and both declared winners lost their subsequent match in round 2.
+Alternative viewers[edit]
+Real data with results (clicks) can be seen as JSON-websocket at https://emojidome.xkcd.com/2131/socket, transposed into a more human-readable format at https://leet.nu/tmp/xkcd-2131.html.
+https://phiresky.github.io/emojidome/, made by a redditor, shows the brackets along with the final scores and comment.
+Transcript[edit]
+[This was an interactive and dynamic comic during April 1st from its release until its completion. But the final and current image, will be the official image to transcribe. But the dynamic part of the comic as well as the "error image" displayed to services that could not render the dynamic comic is also transcribed here below.]
+[The final picture shows the winner of the gold medal in the Emojidome bracket tournament, as well as the runner up with the silver medal. There is no text. The winner is the "Space", "Stars" or "Milky Way" emoji, which is shown with a blue band on top of a dark blue band on top of an almost black background, indicating the light band of the Milky Way in the night sky. Stars (in both five point star shape and as dots) in light blue are spread out in all three bands of color. The large gold medal with its red neck string, is floating close to the middle of the picture, lacking any kind of neck in space to tie it around. To the left of the gold medal is the runner up, the brown Hedgehog, with light-brown face. It clutches the smaller silver medal, also with red neck string, which floats out there in space. The hedgehog with medal is depicted small enough to fit inside the neck string on the gold medal.]
+Dynamic comic transcript[edit]
+[This is an example of how the comic appeared during the competition. The example includes one of the final winner, Space's, matches. The dynamic part of the comic is transcribed below:]
+[At the top center of the comic, the two emojis battling it out are shown next to each other. The emojis displayed in the comic used the twemoji icon set. A different emoji set was shown in links to image of the tournament brackets. These matches are called bouts in the comic. The emoji from the top (or left) of the bracket is shown to the left. In this case it was space, night sky, milky way or stars vs Maglev train. Between them is the following text:]
+VS
+[There are two buttons one below each of the two emoji. If pressed the buttons became red. They could be pressed multiple times each match. The buttons have text on them:]
+Vote Vote
+[From the buttons colored hearts are released, often in bundles, and then they wave up across the emoji who's button they emanated from.]
+[Below the buttons there is and indicator showing how long the current battle is open for further votes. In the example the text is:]
+Remaining time: 24 minutes
+[The time began at "26 minutes" during the final rounds. It changed to "1 minute", with 1 minutes and 30 seconds left, and then 30 seconds later to "60 seconds" counting down to a few seconds. Then, before reaching 2 or 3 seconds it changed (a bit too early) to "Time's up!" Shortly there after a new bout would begin.]
+[Above the two emoji at the very top is a comment. The commentator is shown as a robot emoji. The comment often changed during the long final rounds. In the current example the text is:]
+"~future~"
+[But there would have been several others during the match. Given that Space won the entire Emojidome, the train lost this match. Often a final comment was posted just as the result was in. These final messages was then put at the top of the list of past bouts (matches). These bouts was displayed at the bottom of the comic below the remaining time. To the left was the following text:]
+Past bouts:
+[Below this text was a list of all previous matches, showing the two emojis, with the loser grayed out, with their final comment next to them. As soon as there where more than three a scroll bar appeared to the right, making it possible to scroll down through all these previous matches. As it was 512 emojis to begin with, there were 256 bouts in the first round, and then 255 the rest of the way to the final for a total of 511 bouts at the end. Here are the the text of the three matches that can be seen in the example (the grayed out loser was Sushi, Bee and Wizard):]
+🌋 vs 🍣 "Sushi has received a technical disqualification for being very very cooked"
+🐝 vs 🦉 "Owls well that ends well"
+🦔 vs 🧙 "The Wizard didn't do it"
+[All the final bouts remarks, as well as the match ups, the score of votes, and all the other comments coming at the top during each bout can be found below in the round 1 to round 9 sections. They are thus not only a transcript.]
+[Finally at the bottom of the comic below the scroll-able version of the past bouts, there was a link to images of the brackets, beginning with the full long one of all 512 emojis, and the zooming in and out, plus updating with results along the way. The link was a text that explained what the link was for. In the current example the link text, which is link blue, was:]
+Full bracket for today's comic (round 3).
+
+Round 1[edit]
+Competitors and score
+[Expand]
+Commentary
+
+Round 2[edit]
+Competitors and score
+[Expand]
+Commentary
+Round 3[edit]
+Competitors and score
+[Expand]
+Commentary
+Round 4[edit]
+Competitors and score
+[Expand]
+Commentary
+Round 5[edit]
+Competitors and score
+[Expand]
+Commentary
+Round 6[edit]
+Competitors and score
+[Expand]
+Commentary
+Round 7 - Quarterfinals[edit]
+Competitors and score
+[Expand]
+Commentary
+Round 8 - Semifinals[edit]
+Competitors and score
+[Expand]
+Commentary
+Round 9 - Final[edit]
+Competitors and score
+[Expand]
+Commentary
+Error image transcript[edit]
+[This is the image that appears when JavaScript fails or other errors occur. This is what embeds and automated programs usually see, as they load down dynamic comics. The transcript for this image is below the image:]
+[A tournament bracket tree is shown with eight participants each on the left and right side, for a total of sixteen, all of which are the 😰 emoji ("Face With Open Mouth and Cold Sweat"). From both sides towards the middle the brackets reduce to eight, then four, two, and one line where the latter join to a rectangle in the middle. Below is an explanation of why this is seen instead of the correct comic. It is due to an error with JavaScript. This is also why the sad emoji is used in all sweet sixteen places.]
+Visit xkcd.com to participate
+If you are on xkcd.com, then you're seeing this
+because of something something JavaScript.
+Listen, websites are hard 😰
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I've checked the network tab and console - nothing really seems to happen when you vote, which may be something we want to put on the explanation tomorrow - Myxoh
+I suspect the real april fools joke is going to come on Wednesday when xkdc posts an app showing us our psychological profiles that they are now selling to marketing companies after data-mining our emotional preferences to marketing firms - Nosajimiki
+@Nosajimiki: psychological profiles of xkcd fans. That might be some interesting marketing. - 5Cincinatus
+@Myxoh: I came here to see if anyone else had noticed this! But, I do also see a websocket connection to emojidome.xkcd.com, I bet it's counting votes that way.
+There is a websocket connection. A message is sent every time you vote. It looks like there are also status update messages every second (saying which emoji currently has exactly how many votes, i suspect this changes the amount of hearts that show up), and "bracket start" messages every so often. The bracket start message seems to contain hundreds of upcoming emoji pairs. Edit: a bracket start is sent at the start of every match (so every ~30 seconds). It also contains logs of which messages to show for previous matches, and which emoji are currently battling.172.69.138.10 16:30, 1 April 2019 (UTC)
+There seems to be nothing stopping me from clicking multiple times. Do you think it actually counts it all those times? Can I click-spam to say "this is much better"? Fabian42 (talk) 16:48, 1 April 2019 (UTC)
+Randall just confirmed that you can vote multiple times, although if you click too fasr you get rate limited. (*warning: generic ip address assigned to phone data.*) 172.69.70.47 22:35, 1 April 2019 (UTC)
+Where did he confirm that? 162.158.93.105 10:44, 2 April 2019 (UTC)
+Well this is fun. Look like there are 512 symbols, meaning 256 first-round contests. The first round would take (at 38 seconds / round) ~2.7 hours. The remaining rounds, from an estimate of geometric progression, would just under double this, meaning this comic will run for ~ 5 hours until we have our winner... ~alexandicity 172.69.226.177 16:51, 1 April 2019 (UTC)
+Did he just add a scroll bar to the previous matches? I didn't notice it earlier 162.158.255.148 18:17, 1 April 2019 (UTC)
+Nope, you were able to scroll before, too. At least about 2 hours ago. Fabian42 (talk) 18:20, 1 April 2019 (UTC)
+While some of the recaps of past battles are generic (taco vs sandwich: "One for the history books"), many seem to be specifically written for the battle (light bulb vs candle: "Some would argue that this one was settled in the 1800s"). I wonder if/how much this will continue into round 2.
+Round two has just begun, and the timeout has been bumped to 60 seconds. --Anarcat (talk) 18:41, 1 April 2019 (UTC)
+If that trend continues, the full competition will take pretty close to 24 hours. Fabian42 (talk) 18:45, 1 April 2019 (UTC)
+It looks like it's 1:14/round, which is double what the time was in round one. Will round three be 2:28? 1:51?
+It's just over 1:15/round from the history JSON (plus some hundredths of a second, but it appears 1:15 is the intent)
+Hadn't looked there. Round one concluded at 18:39:20-ish, 9560 seconds from 16:00:00. At 256 battles, that's 37.34 seconds/battle. However, it looks like the first battle ended at 15:59:57, which would add about 40 seconds, 9600 seconds/256=37.5 seconds exactly. Doubling for round 2 gives 75 seconds.
+2 minutes 30 seconds per battle now. Looks like each round will be 2 hours 40 minutes long.
+Well it is after 5:00 PST and round 4 just started - and this thing is at exactly 5 minutes a round - which means another 160 minutes for the round. Will see in 2 hours and 40 minutes if the times go up to minutes. --172.69.33.65 00:25, 2 April 2019 (UTC)
+And while the match-ups winners are typically colored, and underlined, the losers are endgame grey.
+Has anyone determined if multiple-voting is actually counted? For me at least the vote button fades back to gray after I click it, which implies you can/should click it again, but that may not actually be processed. We might add a clarification about that to the explanation. - jerodast (talk) 19:01, 1 April 2019 (UTC)
+A reddit user on the r/xkcd thread (https://www.reddit.com/r/xkcd/comments/b84at1/xkcd_2131_emojidome_script_src2131comicjs/) claims to have attempted "vote stuffing via the console" with no noticeable change in vote totals. So it looks like it may be sending it client-side, but only counting the vote once server-side --l
+Just few minutes ago there was message in "fun facts" that you can click multiple times, although it's not counted if you click too many times (or something like that). I guess that vote stuffing was too much. -- Hkmaly (talk) 22:34, 1 April 2019 (UTC)
+It would appear that we are supposed to believe the commentary is live, and unscripted: " {"This one is a true test of the audience today.", "Just to stress this again. Live commentary, folks. Completely unscripted and coming in hot.} "--162.158.79.173 19:20, 1 April 2019 (UTC)
+It's clearly live because the result of a previous round is affecting the next round's commentary - and the combinatorial explosion would prohibit that from being remotely plausible. We're watching live comedy here! SteveBaker (talk) 19:30, 1 April 2019 (UTC)
+On the dog vs. wolf, he said "Again, we are getting a lot of questions on this today. This is live commentary, folks." Proof I guess. HI RANDALL! 172.68.189.241 19:31, 1 April 2019 (UTC)
+Is there really anything we can put for the transcript? 172.68.189.241 19:25, 1 April 2019 (UTC)
+We can go into the socket data and pull out the commentary for each matchup. -- Bobson (talk) 04:05, 2 April 2019 (UTC)
+Any ideas on how the commentary is done? It seems to sort of match the emojis. Svízel přítula (talk) 19:31, 1 April 2019 (UTC)
+It seems that Randall is commentating this live, as he periodically says it's live in the robot commentator text. See above. 172.68.189.241 19:36, 1 April 2019 (UTC)
+Perhaps not "live" as each round 2 matchup was known 160 minutes before it was voted on. He could comment on the battle itself, and/or provide a comment if one or the other combatant won. I think he's a couple hours ahead of us.
+I dunno. Whenever a new battle starts, there is a default message, that is soon replaced by a more pertinent message. That seems to suggest that he's doing it on the fly. 9yz (talk) 20:03, 1 April 2019 (UTC)
+If that's live, Randall, and if you see this, give us a shout-out as proof. -Brent
+Just because it says it's live, doesn't mean that it really is. It's also possible that the actual clicks are being ignored and the reported numbers are all pre-generated. Much less likely than that it's actually counting and Randall is inserting commentary live (with default messages when he doesn't), but possible. -- Bobson (talk) 12:50, 2 April 2019 (UTC)
+He updated the title text to thank volunteers for commentating, so I guess we know that the commentary was live, just not necessarily all Randall. Moosenonny10 (talk) 14:34, 3 April 2019 (UTC)
+This is a quick piece of python to see the json results (and commentary): import json, urllib.request d = json.loads(urllib.request.urlopen("https://emojidome.xkcd.com/2131/socket ").read().decode('utf-8')) for g in d['bracket']['played'][0]: c1, c2 = g['game'] print(f"{c1['score']} {c1['competitor']}-{c2['competitor']} {c2['score']}") Tammo80 (talk) 19:42, 1 April 2019 (UTC)
+or if you want to see the vote count live in browser: https://emojidome.playcode.io/ -Andy 22:01, April 2019
+Awesome, thank you 9yz (talk) 20:23, 1 April 2019 (UTC)
+There must be some kind of manipulation going on with the votes. There is NO WAY the poop emoji would lose to the skull emoji in round two. It was my guess for the winner >:( 162.158.106.138 20:50, 1 April 2019 (UTC)
+And the 100 emoji just lost to the shiny heart. :(
+Well, there's the comment "How do you know for sure that your votes are doing anything?". For my side because every single one I voted for lost so far. Well, I'm not a lucky charm, apparently... 141.101.104.11 10:14, 2 April 2019 (UTC)
+The second round bracket was released, but is hidden behind the bottom nav buttons: https://xkcd.com/2131/emojidome_bracket_256.png --Thefallen138 (talk) 20:56, 1 April 2019 (UTC)
+And now the third round has begun. Strangely, the bracket is not visible yet: https://xkcd.com/2131/emojidome_bracket_128.png. The delay has been bump to something above two minutes as well. --Anarcat (talk) 21:21, 1 April 2019 (UTC)
+It's here https://xkcd.com/2131/emojidome_bracket_round_3.png 162.158.107.79 21:41, 1 April 2019 (UTC)
+It seems to be he overwrote round_3.png with round_4.png (at least its the same picture)
+Both the Emojidome and counter were brought together in iframes https://ducakedhare.co.uk/emojidome.html 141.101.99.17 23:39, 1 April 2019 (UTC)taikedz
+Anyone have an IRC room for Emojidome discussion? 162.158.146.10
+
+So disappointed he left out the egg plant... :D --Kynde (talk) 12:27, 2 April 2019 (UTC)
+Despite Spaaaaaaaaace winning the battle 🌌 (36285) vs 🚝 (17405), the current bracket chart https://xkcd.com/2131/emojidome_bracket_round_3.png shows 🚝 as having won. 108.162.242.13 13:23, 2 April 2019 (UTC)
+What if the April Fools joke of the whole bracket is that the "Vote" buttons were actually switched and all the losers are actually the winners??? 172.68.59.84 15:24, 2 April 2019 (UTC)
+In case the websocket ever goes down, here are the data: https://pastebin.com/YYgPS1FC Svízel přítula (talk) 19:22, 2 April 2019 (UTC)
+Is that a Kingdom Hearts reference I see? - Bench
+"Emoji" or "emojis" as the plural?[edit]
+Due to the nature of the Japanese language, "emoji" is technically both the plural and the singular - however, the improper form "emojis" is used more as a plural frequently nowadays among English speakers. Which form should this explanation use? --Youforgotthisthing (talk) 22:27, 1 April 2019 (UTC)
+For clarity, I think we should use emoji as the singular and emojis as the plural. I'm going to go fix this. 9yz (talk) 19:34, 2 April 2019 (UTC)
+The "friends in Australia" comment was made during the last round's wink vs upside down smile battle. This is probably a pun on how Australia is on the other side of the world from America; I don't think Randall was seriously saying he witnessed an influx of Australians inbound. 108.162.219.82 00:47, 2 April 2019 (UTC)
+Draws[edit]
+What would happen if any of the fights resulted in a draw? (same number of votes for both)
+Given the # of matchups, it's not actually that unlikely.
+We should try to test this. Gotta keep Randall on his feet!
+Pretty sure one early on resulted in a tie.
+The very first round was 0-0. I guess no one refreshed at exactly the right minute to see it. --Bobson (talk) 04:05, 2 April 2019 (UTC)
+Actually, Birthday Cake vs Cupcake was a tie at 3658:3658. Birthday Cake advanced. I wonder why? (from the socket: [{"score":3658,"competitor":"ðŸŽ‚"},{"score":3658,"competitor":"ðŸ§"}]) 162.158.106.138 04:54, 2 April 2019 (UTC)
+Is Birthday Cake vs. Cupcake the draw referenced at the end of the "How it worked" section? Can we please have names added to all the emoji in the explanation text; I have never found a way to blow up emoji to a visible size, so frequently find I can't see them clearly enough to identify them, and in that bit at the end of "How it worked", the first one isn't rendering on my computer anyway. I'm guessing that the other is the birthday cake; really, I have come to hate emoji because they are so tiny. At least Randall made them nice and big on the voting screens. Yngvadottir (talk) 18:27, 2 April 2019 (UTC)
+I had assumed that the "score" was a not simple count of vote clicks - I'd imagine (especially with all the autoclicking etc) that the raw votes would be gigantic numbers. So it could be that these were not draws when calculated to full precision - just that the API was only sending out a rounded number?
+Emoji Fonts[edit]
+Having an emoji font is required to see emoji displayed on sites such as http://srv-01.valo.media/ . If anybody else is looking for a way to display these, there's a good free emoji font available here: https://github.com/eosrei/twemoji-color-font It includes a script to replace the default Windows emoji fonts to get them to display properly on windows. Unfortunately it's only black-and-white in chrome. If anybody knows any better options, please let me know!
+For Ubuntu Linux users: sudo apt install fonts-noto-color-emoji -- then restart Chrome/Firefox.
+SteveBaker (talk) 11:29, 2 April 2019 (UTC)
+I'm on Android here & many of the emoji do not show up. Notably, this includes the hedgehog, which... is not in the emoji set of any of my Android devices. Could somebody please add the emoji names next to their pictograms, where they appear the explanation? ProphetZarquon (talk) 04:16, 3 April 2019 (UTC)
+Tested on an iPad, a Mac and a PC, a lot of emoji are still appearing as black rectangles. Herobrine (talk) 07:09, 6 April 2019 (UTC)
+Commentary Transcript[edit]
+I've written a script that pulls the commentary history and transforms it into a wiki table. It's up to date as of right now, and I'll run it again in the morning and one last time after the final round. If you have formatting suggestions, just put them here and I'll incorporate it when I regenerate the table. -- Bobson (talk) 04:58, 2 April 2019 (UTC)
+Wonderful, thank you! Could you perhaps make the winner bold (or underlined like in the comic)? -Andy
+Successful Ballot-stuffing?[edit]
+As I type this, I'm watching owl blast past 180000 votes in the owl-octopus bout. That means that in about 10 minutes, owl has earned more votes than all the votes earned in the entirety of any other individual bout. I could be totally off-base, but that seems vaguely suspicious to me. 162.158.214.82 05:28, 2 April 2019 (UTC)
+I concur: that is highly suspicious. Fortunately, nothing of importance is at stake here, even if you were really pulling for the octopus. At this moment, we're ±10 minutes into bee vs pineapple and nothing comparable has happened. It may be an isolated incident. 162.158.106.144 05:50, 2 April 2019 (UTC)
+I've seen enough hentai to...what? The *owl* has won? O RLY? I demand a recount! 141.101.105.6 08:10, 2 April 2019 (UTC)
+YOLO. You Obviously Like Owls. 141.101.104.11 10:11, 2 April 2019 (UTC)
+For the violin vs the curling stone ('classical vs house'), the stone was ahead, but in the last four minutes I spammed my discord server to vote and we just got it over the line. - fudgeforlife
+Rrrr. :angry face: I love curling, and of course I wanted the stone to win. With curling no-one complains if I fall asleep watching. But with classical music everyone complains... 141.101.104.89 12:49, 2 April 2019 (UTC)
+A similar thing happened for the "scared cat vs devil" bout - those two were consistently nearly tied until about T-10 minutes, whereupon the devil voting rate spiked and devil finished ~12000 votes ahead. The "cat vs hedgehog" bout was also similar - hedgehog had a consistent lead of ~1000 votes until about T-10 minutes, when the hedgehog voting rates spiked and hedgehog ended up finishing ~10000 votes ahead.162.158.214.28 14:39, 2 April 2019 (UTC)
+What? It's possible the owl cheated? IT'S POSSIBLE OCTOPUS TOTALLY SHOULD HAVE WON IF THE MATCH WAS LEGITIMATE? 162.158.75.226 12:02, 2 April 2019 (UTC)
+I love how owl getting 200 000 votes in 20 minutes is causing all this controversy when crayon got 40 000 in 75 seconds --Maple42 (talk) 18:54, 2 April 2019 (UTC)
+Avocado quote citation[edit]
+I'm not sure where to put this. The "I like avocados because they taste pretty good and also they come with a cool wood ball you get to keep" quote is from here: https://twitter.com/jitka/status/236240801926086656 . 172.69.33.41 07:15, 2 April 2019 (UTC)
+
+How sure are we the voting is real[edit]
+I'm no expert at all, but it there any way that the websites that shows the number of votes live etc. can test whether these votes are real, or something Randall has pre-programmed? Not that I would not believe he was willing to stay up for the duration of this day, but it is an April Fools' Day comic, so he is completely "allowed" to have decided him self who should win all matched and have made up the commentaries in advance. Yes it would take along time, but not longer than doing it on the fly. It could just be that joke on us, that our votes does nothing and we just see how Randall has decided the dome should end. Can anyone go in to this, and explain why it is as it is either way (for sure made up, for sure real or uncertain if real or fake)? (PS I dislike these sections in the commentaries, but there are already 6...) --Kynde (talk) 12:27, 2 April 2019 (UTC)
+It should be noted that Milky Way won over Maglev by a long shot, but the bracket shows otherwise. - Brent 172.69.50.58 13:14, 2 April 2019 (UTC)
+Which picture should we use for the comic[edit]
+The current picture shown is not relevant. That is only shown to web crawlers that pick new images up. Does anyone have a picture of the very first match? Not sure that is relevant either. Anything in between could be used. like this: --Kynde (talk) 12:43, 2 April 2019 (UTC)
+I’m assuming there’ll be a picture at the end. Show that when it finishes. “That Guy from the Netherlands” (talk) 13:53, 2 April 2019 (UTC)
+I added the current picture originally as a temporary solution since the bot didn't upload one. No one commented on the image so I kept it though I considered using something like this:
+--Asdf (talk) 14:17, 2 April 2019 (UTC)
+Right now, for me at least, the comic shows this image with the hover-text "Thank you to the xkcd April 1st volunteers/commentators, including @Chromakode, Kevin, @Aiiane, Patrick, Kat, Reuven, @cotrone, @bstaffin, @zigdon, schwal, Stereo, and everyone who voted!" Just another option, though that image doesn't explain the comic set-out during the competition. 172.68.133.84 19:12, 2 April 2019 (UTC)
+Yes for sure we should use that now. I should have thought of that. Can see it has already been uploaded, but it takes long time, hours, from these pictures have been changed to the change can be seen ion the site. I have no idea why, but have experienced it several times, so later today the final picture should be ready. --Kynde (talk) 18:17, 2 April 2019 (UTC)
+If we do that, we should add example pictures in the explanation of what it actually looked like during the competition. I vote for yours, Kynde. 172.68.133.84 19:11, 2 April 2019 (UTC)
+I added Kynde's image in the "How it worked" section as it is useful for people who missed the competition. --Asdf (talk) 19:22, 2 April 2019 (UTC)
+Great, I also added it to the transcript section and transcribed the dynamic part of the image. As well as the final image, which is not on-line and added the error image we had to begin at the bottom of the transcript and kept that transcript as well. Tanscript is more or less done I think.--Kynde (talk) 21:29, 2 April 2019 (UTC)
+References and jokes in the commentary[edit]
+Should we start explaining some of the robot announcer's commentary lines? Some of them are clear references to things. For example, the "Kickpuncher vs. Punchkicker" line is a reference to Community (Kickpuncher is a character in an in-universe film series, and Punchkicker is one of the characters' OC based on it.)
+Maybe make extra pages like has been done for several of the previous years huge comics, especially April Fools' comics. And yes it would be interesting to explain them... But that is a huge job. --Kynde (talk) 13:17, 2 April 2019 (UTC)
+Errors[edit]
+There’s a mistake in the bracket, the genome won but is grayed out “That Guy from the Netherlands” (talk) 13:14, 2 April 2019 (UTC)
+Same with stars vs flying saucer --Kynde (talk) 13:17, 2 April 2019 (UTC)
+The genome has been corrected, but not the stars. --Kynde (talk) 13:48, 2 April 2019 (UTC)
+Yeah - stars is currently duelling volcano - but the bracket shows that stars was eliminated by monorail. This kinda suggests that the bracket is being manually generated! SteveBaker (talk) 13:59, 2 April 2019 (UTC)
+Speaking of errors, hearts no longer show up on mobile. “That Guy from the Netherlands” (talk) 14:31, 2 April 2019 (UTC)
+I think that was intentional, as, at least in my experience, the comic was a massive battery hit. 108.162.241.4 17:11, 2 April 2019 (UTC)
+
+Disappointed no one thought to get the egg to at least the second round. 162.158.255.142 15:27, 2 April 2019 (UTC)
+Many of the rounds were incredibly close - even the final was won by just a couple of percent. It was rare for there to be an overwhelming majority on either side. But it's incredible that 1,393,048 votes were cast in the final...given that all those people had to be there over just the 26 minute voting timeslot. I presume explainxkcd was taken down by overwhelming traffic? SteveBaker (talk) 16:44, 2 April 2019 (UTC)
+Why are brackets relevent to this time of year. The FA Cup has reached the semi-final, the Champions League and UEFA have reached the qarter finals. The European Rugby Champions Cup and European Challenge have reached the semi-finals. Arachrah (talk) 17:02, 2 April 2019 (UTC)
+March Madness is under way, he has referenced this before, it is in the explanation. Do not post at the top but at the bottom, for continuity. I moved your post down here where it belonged --Kynde (talk) 21:27, 2 April 2019 (UTC)
+So it is to do with boxing hares.
+In the mentioning of eggplant and peach, peaches represent butts, not the female sex organs. At least that is the far more common usage, including but not limited to the gay community. https://knowyourmeme.com/memes/peach-emoji-%F0%9F%8D%91 172.68.54.76 16:50, 3 April 2019 (UTC)
+Stuffing[edit]
+Did anyone else noticed these comments :
+Honeybees vs. colony collapse disorder
+I’m looking at the totals, and this one is extremely close.
+🦠 fans need to click more and faster!
+I mean, 🐝 fans need to keep clicking!
+Fun fact: You can click more than once, although if you click too much it ignores you.
+No! Save the bees!
+I'm quite curious as to how many people did those 1.4 million clicks in final ! --172.69.226.131 11:43, 3 April 2019 (UTC)
+random object battles in popular culture![edit]
+Hee hee! All I could think of during this was the old Laurie Anderson recording about which thing was more macho Jonwchgo (talk) 14:19, 3 April 2019 (UTC)
+Categories: All comicsComics from 2019Comics from AprilMonday comicsApril fools' comicsInteractive comicsComics with colorEmojiSportTournament bracket

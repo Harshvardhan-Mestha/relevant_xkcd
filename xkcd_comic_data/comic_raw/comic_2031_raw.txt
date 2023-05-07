@@ -1,0 +1,49 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2031: Pie Charts
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2031)
+|<< PrevComic #2031 (August 10, 2018)Next >>|
+Pie Charts
+
+Title text: If you can't get your graphing tool to do the shading, just add some clip art of cosmologists discussing the unusual curvature of space in the area.
+Explanation[edit]
+Pie Charts graph proportions as "slices" of a circle, like a pie that you cut into slices. The circle, or Pie, represents the whole sum of the slices, or 100% of the data. As such, if the data represented by the slices is expressed as percentages, the total of all the slices, by definition, must total 100%. This comic introduces a new technique for getting around that rule by "warping" the circle to allow more than 100% of the data to exist in the graph. Thus the total amount of 130% is represented with a shape presumably 30% larger in area than the circle.
+The resulting warped circle is then actually part of a hyperbolic plane, while a normal circle is part of a flat plane. Of course, it doesn't matter if the geometric shape is a circle or a hyperbolic plane: A changed graphic doesn't magically solve the misrepresentation of percentages. At best, it serves to highlight the methodical error. Regarding doctored statistics: If the same numbers were presented as absolute values instead of percentages, the error would still remain but would be less obvious, especially if you omit the total count of the sample (Of all people asked, 40 selected green as favorite color, 45 selected red, 30 yellow and 15 blue. This statement omits that you surveyed only 100 people and several of them named several colors, and readers will assume a larger sample.)
+Percentages that add up to more than 100% are often a sign that a math error has occurred, whether a typo somewhere or a sloppy case of taking numbers from different sources. However, they can arise naturally in cases where each item can belong to more than one group, such as approval voting (40% of the people like green 45% like red etc., however there may be some that like both green and red). In such cases, a more accurate depiction would have some form of overlap of the pie pieces, not a warping of the space which they occupy, or a completely different representation, such as a bar chart. Minor cases can also occur if the percentages of the pieces have been rounded for readability - summing the rounded numbers can result in them adding to 99% or 101%.
+Percentages don't need to add up to 100% to be correct. For example, if ten people wear blue t-shirts and ten wear red t-shirts, then 50% of them wear each color for a total of 100%. Now if one of each joins the group, 55% of the original population wears each color, for a total of 110%, as the total population risen by 10%. That said, this change should be represented by something like a bar graph, not by pie chart. If percentages are represented by a pie chart, the assumption is that the total should be 100%, independently of the math behind it.
+In this case, the right image appears to be what happens when you cut the pie chart segments out of fabric, stitch them together, and let the resultant fabric flop around a bit.
+The title text presents an alternative if shading is not possible, namely to excuse the percentage inaccuracy with scientists discussing curvature of space.
+Transcript[edit]
+[Two colored circles are shown. The circle on the right is warped and bent in shape and shows some shadows from the middle to the outer edges, like a round piece of cloth with wrinkles going out from the center.]
+[The left pie chart:]
+Wrong:
+45% (red)
+15% (blue)
+30% (yellow)
+40% (green)
+[The right warped and bent pie chart with shadows:]
+Right:
+45% (red)
+15% (blue)
+30% (yellow)
+40% (green)
+[Caption below the frame:]
+How to make a pie chart if your percentages don't add up to 100
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I wonder if it is a coincidence that this came out the same week as Android Pie Zachweix (talk) 15:34, 10 August 2018 (UTC)
+Zachweix seems to want to share this link: Fox News --NeatNit (talk) 16:56, 10 August 2018 (UTC)
+What's wrong with the link? The link in that page is exactly the type of pie chart to which he is referring Zachweix (talk) 16:57, 10 August 2018 (UTC)
+But that's the wrong place to put it. I'm not even sure that it fits anywhere in the article, but it definitely doesn't fit in the "who created this page" part of the "this page is incomplete" tag. --NeatNit (talk) 17:18, 10 August 2018 (UTC)
+Wrong just in the sense that it's a temporary place, but I think it adds to the humor of referring to Fox News in the "who created this page" piece. It might be appropriate to add it to a section of real world examples of published pie charts that fail the "mostly 100%" test (aside from trivial rounding errors). -boB (talk) 20:40, 10 August 2018 (UTC)
+That's not a hyperbolic plane. It's more like a cone, but with more than 360 degrees instead of less. I don't know the proper term for it. It has curvature zero everywhere except the center, which is a singularity. DanielLC (talk) 19:00, 10 August 2018 (UTC)
+Any explanation of the title text? An example of the clipart would be great. 172.68.47.54 00:26, 11 August 2018 (UTC)
+I wouldn't take it too literally. Clipart is just easy to use, cheap-looking iconography. I highly doubt there's clipart of cosmologists. You could just put in little stick figures saying like "the curvature of the space here is unusual" and you'd get the same effect. 162.158.62.147 17:08, 13 August 2018 (UTC)
+I don't think there is a method to the madness guys, it looks like he just took an editor's warp tool and held it in place. 172.68.59.24 14:35, 11 August 2018 (UTC)
+Edward Tufte on Pie Charts
+Maybe we should also mention what the dodfather of visualization has to say on pie charts: Edward Tufte gives the pie chart a more succinct and decisive treatment in "The Visual Display of Quantitative Information": A table is nearly always better than a dumb pie chart; the only worse design than a pie chart is several of them, for then the viewer is asked to compare quantities located in spatial disarray both within and between charts [...] Given their low density and failure to order numbers along a visual dimension, pie charts should never be used. (Tufte: "The Visual Display of Quantitative Information", quoted by https://news.ycombinator.com/item?id=2991062 )
+(previous editor did not sign) My favourite missapplied chart is a doughnut chart (which is a piechart without of the center comes from one of Germanys big automobile clubs. They made a campaign about how dangerous it is to use a phone in the car, and part of it was a statistic wher ethey would find out, at various places (red light, motorway, city trafic or country roads) what percentage of people would use their cell phone. They summarized it in a doughnut chart which does not make any sense: https://www.mobil.org/wp-content/uploads/2016/08/%C3%9Cbersicht-Verkehrsz%C3%A4hlung-2016-Mobil-in-Deutschland-e.V-1-724x1024.jpg Lupo (talk) 16:29, 14 August 2018 (UTC)
+Come on guys, the blue slice is CLEARLY the intersection of the red and yellow slices. It all makes perfect sense once you realize that. His pie chart isn't wrong, it's just a Venn-Pie-o-gram 172.69.50.4 00:51, 16 August 2018 (UTC)
+Categories: All comicsComics from 2018Comics from AugustFriday comicsCosmologyPie chartsComics with color

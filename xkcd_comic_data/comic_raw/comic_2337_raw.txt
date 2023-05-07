@@ -1,0 +1,89 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2337: Asterisk Corrections
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2337)
+|<< PrevComic #2337 (July 24, 2020)Next >>|
+Asterisk Corrections
+
+Title text: I like trying to make it as hard as possible. "I'd love to meet up, maybe in a few days? Next week is looking pretty empty. *witchcraft"
+Explanation[edit]
+In text messages, asterisks are commonly used to denote a correction of some error in an earlier text. Asterisk corrections typically specify the corrected words, but do not explicitly mark the words that should be replaced. The words that should be replaced are simply the words in the message that make sense to be replaced by the correction, often the ones that are the closest by spelling or meaning to the correction.
+In this comic, the messenger (Randall) corrects four such inaccuracies. The message, if the corrections were to be taken in order, might read "I'm gonna eat 3 AM on the couch at pizza." The typical reader should be sharp enough to know that it should read "I'm gonna eat a pizza on the couch at 3 AM.", replacing the ones that are closest by function in the sentence. Randall finds this remarkable.
+Taken one at a time, it appears the reader would have the following sentences in their head:
+I'm gonna ride a horse on the beach at dawn (original sentence - sounds adventurous and sporty)
+I'm gonna eat a horse on the beach at dawn (replacing the action - a figure of speech?)
+I'm gonna eat a horse on the beach at 3AM (replacing the time - occultish?)
+I'm gonna eat a horse on the couch at 3AM (replacing the location - lazily occultish, or worse?)
+I'm gonna eat a pizza on the couch at 3AM (replacing the food - not too odd, but very slobbish)
+Human brains can process these corrections automatically because the syntax of most English sentences are as follows:
+Subject — Verb — Object — Manner — Place — Time
+Other languages have different word orders but generally have the same six categories.
+The messenger's original sentence can be parsed as follows:
+I (subject) — am gonna ride (verb) — a horse (object) — (no manner) — on the beach (place) — at dawn (time).
+Notice that the four corrections fall into four different categories in this structure, so there is only one sensible replacement:
+Eat: verb
+3AM: time
+Couch: place
+Pizza: object
+"Couch" and "pizza" are both nouns so they could theoretically be subjects, but asterisk corrections must replace an existing part of the sentence satisfactorily, so the "'m" part of the verb prevents these third-person nouns from being parsed as the subject. Theoretically one could also swap "couch" and "pizza" around, giving "eat a couch on the pizza", but this makes much less practical sense than "eat a pizza on the couch". That said, in xkcd's fictional universe there is nothing to stop the character from eating a couch on a pizza.
+In the title text, Randall says that he likes to make it as difficult as possible for his text recipient to guess where his correction should be, and uses the following sentence and correction:
+"I'd love to meet up, maybe in a few days? Next week is looking pretty empty."
+*witchcraft
+The trick here is trying to figure out which word(s) should be replaced by "witchcraft". Broadly speaking, "witchcraft" could serve as an activity, but no words for activities exist in the original sentence, leaving the reader to guess at the intent. Possible solutions suggested in the comments are:
+"I'd love to witchcraft, maybe in a few days? Next week is looking pretty empty."
+"I'd love to meet up, witchcraft in a few days? Next week is looking pretty empty."
+"I'd love to meet up, maybe witchcraft a few days? Next week is looking pretty empty." (These three examples verbed "witchcraft" to mean "perform witchcraft".)
+"I'd love to meet up, maybe in witchcraft days? Next week is looking pretty empty."
+"I'd love to meet up, maybe in a few days? Witchcraft week is looking pretty empty." (Witchcraft week is an event in Bargota, Spain. It usually occurs in July, the month in which this comic strip was released, although this year's event in particular was canceled due to COVID-19 -- which would indeed make it pretty empty.)
+"I'd love to meet up, maybe in a few days? Next witchcraft is looking pretty empty."
+Of course, none of these solutions would be evident as correct to the recipient of the message, until Randall sends further corrections.
+One absurdity in the main comic panel is that, after all four corrections has been parsed, the meaning of the resulting sentence has no connection with the original sentence whatsoever. However, asterisk corrections are generally used to correct typing mistakes, not to completely change the meaning of the original message. This raises suspicion as to why the messenger wrote the original sentence in the first place. Perhaps Randall does want to make the comic as difficult for his readers to parse as possible while making the point that asterisk corrections are usually quite intuitive to understand.
+Transcript[edit]
+[A screenshot of a text messaging app.]
+Other user: Do you have any weekend plans?
+User of this device: I'm gonna ride a horse on the beach at dawn
+*Eat
+*3AM
+*Couch
+*Pizza
+[Caption below the panel:]
+I like how we can do corrections in text chat by appending words with asterisks and our brains just figure out where they go.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I think the only spot of the title text quote into which "witchcraft" makes a decent sentence is to replace "next": "I'd love to meet up, maybe in a few days? Witchcraft week is looking pretty empty" 173.245.54.161 01:02, 25 July 2020 (UTC) Me
+I'd go with replacing "meet up". "I'd love to witchcraft, maybe in a few days? Next week is looking pretty empty." Orion205 (talk) 01:14, 25 July 2020 (UTC)
+"I'd love to meet up, witchcraft in a few days? Next week is looking pretty empty." would be the third interpretation Multiverse42 (talk) 01:39, 25 July 2020 (UTC)
+Or it could be "I'd love to meet up, maybe witchcraft a few days?" Munroe really loves to mess with people. A (talk) 01:43, 25 July 2020 (UTC)
+If it can take out a whole sentence, "I'd love to meet up in a few days. [Magic & calendar shredding sounds, first sentence replaced with witchcraft] Next week is looking pretty empty." would be a pretty satisfying way I would do it IRL. My plan canceling capabilities are absolute witchcraft 172.69.71.82 08:53, 25 July 2020 (UTC)
+Alternatively, witchcraft replaces maybe: "I'd love to meet up, [how about we practice] witchcraft in a few days?" 162.158.75.66 02:06, 25 July 2020 (UTC)
+A splat? I didn't know that. IME it's just the messed up word resurrected to, summon a beech, auto corrected to the same wrong word. BTW the asterisk on an obsolete keyboard looked like a squished spider, thus 'splat.'
+Asterisks can replace multiple words, right? Something like "I'd like to meet up, maybe witchcraft? Next week is looking pretty empty" could work, yeah? 108.162.246.135 04:36, 25 July 2020 (UTC)
+"I'd like witchcraft? Next week is looking pretty empty." 162.158.159.18 12:35, 25 July 2020 (UTC)
+I have to admit, before reading the title text I was expecting him to either have a sentence with a single replacement which could go in several locations (maybe both a noun and a verb), or a followup text implying that the obvious place to put those corrections wasn't the intended one. This time I feel a little disappointed; a sentence which feels natural with the replacement in several places would have been much more satisfying than one where it's a stretch to find any suitable place. Angel (talk) 10:14, 26 July 2020 (UTC)
+does it necessarily have to replace a word? i find "I'd love to meet up, maybe witchcraft in a few days? Next week is looking pretty empty." to make more sense. 172.68.174.80 11:30, 26 July 2020 (UTC)
+
+I'd go with replacing "meet". "I'd love to witchcraft up, maybe in a few days? Next week is looking pretty empty." --172.69.34.54 21:22, 26 July 2020 (UTC)
+How about including the text before the quote (this is surely cheated a bit, but it's witchcraft so..): I like witchcraft to make it as hard as possible. "I'd love to meet up, maybe in a few days? Next week is looking pretty empty" Maybe someone can even figure out a version, where interpreting the quote after "witchraft", i.e. "witchcraft"", as part of the correction, could make sense. My knowledge of weird english sentence types is limited, since english is not my mother tongue. 162.158.92.146 22:20, 26 July 2020 (UTC) WhoCaresAboutMyNameh
+I have NEVER seen splat used this way before. Is it really a thing? I have always used regex (s/wrong/correct). Vampire (talk) 03:28, 27 July 2020 (UTC)
+I usually put the asterisk after the word, rather than before. For example:
+There's smoke coming out of my cat, is that bad?
+car*
+Is that wrong? --NeatNit (talk) 07:27, 27 July 2020 (UTC)
+It seems to be centred in the more modern messaging environments. Geeks from a time before Twitter (heck, before the Web!) might have used s///-notation because it was (to them, i.e. people like me) clear, unambiguous and directly parsable by many who were using (say) Usenet. Even if they weren't coders themselves, they may have picked it up. And it was probably that little less 'snappy' and high volume. I mean, early days-of-Web wasn't exactly a competitor on those fronts, and old conventions and priorities still applied in spades, whether 'chat', IRC, a telnet/dial-up BBS or whatever.
+Then came the rapid demographic changes of The Eternal September, and social-messaging revolutions zooming through Web 2.0 and (what I call, but I don't think is 'official') Web 3.0 which basically dumped the masses into the scene of the day and had more time to think up their new way of working than adopting or adapting holdovers from the now minority/archaic lines of communication (I still use [#] for feetnete, a lot; luckily it seems understandable enough, still).
+For what it's worth, I understand the asterisk to be footnote-like. You can't actually edit in the referer at the typo/thinko (if you could, you would just correct it!) but there's an implicit one there after the eroor* you make. Which is supposed to be obvious at the time or, at least, when subsequently your attention is called to it.
+So the follow-up opportunity notes a back-referenced correction of the *error, simply and sharply. If maybe not as unambiguously as you might imagine, but that's how it rolls in today's world, daddy-o! You grok my jive, good buddy? 141.101.98.96 08:24, 27 July 2020 (UTC)
+Linguists use an asterisk before something made up or erroneous that's being used as an example so, as a Linguistics graduate, I always saw the "*what I really meant" construction as a sort of progression on from this...but it occurs actually that a) really that's the opposite of how linguists use it and b) most people don't know that linguists do that anyway. So it shouldn't have made any sense to me. But it did.
+So it seems that inasmuch as I immediately grasped what it signified despite all that, somehow it must be fundamentally embedded with very powerful levels of meaning! 162.158.154.131 13:15, 27 July 2020 (UTC)
+Sometimes, cunning linguists can blow your mind! 162.158.159.66 14:04, 27 July 2020 (UTC)
+Really, the sentence about riding a horse isn't required for the corrections to have meaning. I showed the corrections without the horse sentence to a group of people, and they still saw the joke. There is enough content in the corrections alone for a human to form a sentence.162.158.7.97 21:33, 27 July 2020 (UTC)
+@WhoCaresAboutMyNameh I like trying to make witchcraft "as hard as possible." I'd love to meet up, maybe in a few days? Next week is looking pretty empty.
+That's not even how asterisks work, you're supposed to put it at the END* of a word and then the footnote goes at the bottom.
+*like this.
+Why don't people use carets anymore?
+Because they aren't as easy to type on a mobile phone screen, and most people send their sms by phone not by keyboard. 172.69.135.98 04:48, 5 August 2020 (UTC)
+As a programmer you put a * before a variable to make a pointer to the variable's location. I thought that was where the convention came from.
+For the sake of the receiver's imagination, I'm glad that the pizza correction didn't come first.Mumiemonstret (talk) 13:40, 12 August 2020 (UTC)
+Categories: All comicsComics from 2020Comics from JulyFriday comicsPhonesFoodAnimals

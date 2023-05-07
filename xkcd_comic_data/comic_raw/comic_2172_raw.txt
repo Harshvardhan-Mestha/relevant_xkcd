@@ -1,0 +1,79 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2172: Lunar Cycles
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2172)
+|<< PrevComic #2172 (July 5, 2019)Next >>|
+Lunar Cycles
+
+Title text: The Antikythera mechanism had a whole set of gears specifically to track the cyclic popularity of skinny jeans and low-rise waists.
+Explanation[edit]
+This comic shows a mixture of real, scientific lunar cycles and cycles that are comedic or fictional in nature. The first four cycles are factual, while the ones following them are not.
+Nodal precession: The Moon's orbital plane is tilted slightly compared to the Earth's orbital plane around the sun (the ecliptic). This tilt is why we don't constantly see eclipses; most of the time, the Moon's orbital plane is tilted higher or lower than the Sun, so they generally don't cross each other. The two points at which these planes do cross are called lunar nodes. Nodal precession is the gradual rotation of these nodes over time, a gyroscopic consequence of Earth's equatorial bulge. For the Moon this follows an 18.6 year cycle.
+Apsidal precession: All orbits have two points where the orbiting body is either closest to, or furthest away from, the thing they are orbiting. These points are called apsides, and the imaginary line between them is called the line of apsides. Apsidal precession is the gradual rotation of this line over time, which occurs in cycles of around 8.9 years for the Moon.
+Phase: Lunar phase describes the change in shape of the sunlit side of the Moon as viewed from the Earth's surface, which is caused by the changing angle between Moon and Sun as the Moon revolves around the Earth. The cycle of lunar phases takes 29.5 days, a figure referred to as the synodic month.
+Distance: Because the Moon's orbit around the Earth is elliptical, its distance from the Earth varies slightly over the course of an orbit. This means that the moon's distance also follows a cycle which is the same as the length of one lunar orbit: approximately 27.5 days. This figure is referred to as the anomalistic month. Note that the synodic month is (perhaps counterintuitively) two days longer than the sidereal month — or to put it another way, it takes 2 more days for the Moon's phases to cycle than it does for the Moon to go around the Earth. This is due to the fact that the Earth is also moving around the Sun while the phases are going on, which means that the Moon has to spend 2 extra days "catching up" to the point at which the lunar phase cycle can restart.
+Earth-Moon relative size: This is a joke cycle; the Earth and Moon do not physically change size, nor does the Moon ever become larger than the Earth. This may be playing on the idea that the Moon often appears to change size to viewers on Earth, due to various factors; most commonly, this is due to the Moon illusion, which tricks the brain into perceiving the Moon as much larger than it really is. There are also so-called supermoons, which occur when the full moon coincides with the Moon's closest approach to Earth; these actually do increase the Moon's apparent size, although by a relatively insignificant amount.
+Lunar shape: Again, this is a joke cycle; the Moon does not actually change shape. A shape intermediate between circle and square is known as a squircle, a subclass of the superellipse.
+Lunar mood: The moon does not have a mood, although humans can have moods that fluctuate over time, sometimes with a regularity akin to a cycle. Ironically, the section of the graph that shows a good (i.e. happy) mood has the graph line curving up then down like the mouth of a frown, and for the bad (unhappy) mood it curves down and then up, as in the mouth of a smile.
+The final diagram shows many different cycles superimposed on each other, highlighting areas where several cycles are coinciding. This is likely satirizing the media trend of overhyping astronomical coincidences and giving them grand-sounding names:
+The light gray "phase × distance" plot does not correspond to the product of periods given for phase and distance, which look like this instead.
+A harvest moon is the traditional name for the full moon closest to the autumnal equinox, but there is nothing astronomically significant about it.
+A supermoon is a full or new moon when the Moon is closest to the Earth, resulting in a slightly larger-than-usual apparent size. A full supermoon is roughly 14% larger in diameter than when the Moon is furthest away. See also 1394: Superm*n.
+A blue moon was originally a description of the very rare occurrence of atmospheric conditions that gave the Moon a bluish tinge, hence the expression "once in a blue moon" for something that happens only rarely. However, the actual blue-hued appearance of the moon is so rare that it the phrase "blue moon" has been reinterpreted as referring to a merely uncommon event: the occurrence of two full moons in a single calendar month. That kind of "blue moon" naturally does not look any different from a regular full moon.
+A blood moon refers to the moon during a lunar eclipse.
+While the popularity of skinny jeans (slim-fit pants) does change over time, the idea that this is connected to a lunar cycle is also a joke.
+The Golden Age of Television is said to have occurred in the 1940s and 50s, and the 2000s.
+Pork mooncakes have been prepared in the rural areas west of Shanghai since more than a thousand years ago, for the Chinese Mid-Autumn Festival.
+"The Vampire of the Dire Moon" is a recently introduced, uncommon card from the Magic: The Gathering card game.
+Astrology is a pseudoscience which claims that the positions of the celestial bodies can be used to predict human affairs. The chart jokingly suggests that astrology actually does work, but only within a very specific two-week timeframe.
+Finally, while the idea of a total eclipse of the sea seems absurd, an eclipse was famously used to explain the migration of maritime animals:
+biologists were beginning to unravel the mystery of this ‘false bottom’–a layer in the ocean that looks the the sea floor on the sounder but isn’t–which covered much of the ocean. This false bottom rises in up at night and sinks down during the day. This rising and falling is in fact caused by the largest migration of animal on Earth–everything from fish, shrimp and jellyfish, moving hundreds of meters in unison up and down each day.... the moon moved into its place in front of the sun, daylight rapidly faded, and the scientists solved the migration mystery: the deep layer of animals began to rise. Bioluminescent creatures started to shine, and nocturnal creatures started a frantic upward thrust. As the world grew darker, they swam upward nearly 80 meters. But this frantic migration didn’t last long. As the moon receded and the sun revealed itself, the massive animal layer did an about-face, scrambling back into the safety of the darkness.
+(Backus, Clark, and Wing (1965) "Behaviour of certain marine organisms during the solar eclipse of July 20, 1963" Nature 4975:989-91.)
+The Antikythera mechanism mentioned in the title text is an ancient Greek machine, rediscovered in 1901, designed to calculate astronomical positions. The title text jokes that there is a set of gears on said mechanism that is used to predict the popularity of "skinny jeans" and "low-rise waists." Since it was likely created in the 1st or 2nd century B.C., it is impossible for the creators to have had any knowledge of skinny jeans or low-rise waists - both are modern-day clothing fashions[citation needed].
+Transcript[edit]
+Understanding lunar cycles
+Nodal precession
+[A diagram showing a broad cosine-like wave with wavelength labelled as 18.6 years. To the right are two diagrams showing an orbital cycle moving in and out of plane.]
+Apsidal precession
+[A diagram similar to the one above but with a slightly shorter wavelength, labelled as 8.9 years. To the right are two diagrams showing an elliptical orbit around a planet and the same orbit rotated.]
+Phase
+[A diagram similar to those above with a shorter wavelength, labelled as 29.5 days. To the right is a diagram showing four phases of the moon: New, Waxing crescent, Waxinf gibbos, Full.]
+Distance
+[A diagram similar to those above with a shorter wavelength, labelled as 27.5 days. To the right is a diagram showing the distance of the moon from the Earth over time, with distances marked by arrows.]
+Earth-Moon relative size
+[A wave with long wavelength with an arrow pointing to the minimum labelled 'Earth bigger' and an arrow pointing to the maximum labelled 'Moon bigger'. To the right are two diagrams of the moon and Earth, one showing the Earth bigger than the Moon and the other showing the Moon bigger than the Earth.]
+Lunar shape
+[A wave with long wavelength with an arrow pointing to the minimum labelled 'Circle' and an arrow pointing to the maximum labelled 'Square'. To the right is a diagram showing a circle, a circle transforming into a square with outward arrows at each corner and a square transforming into a circle with inward arrows.]
+Lunar mood
+[A wave with long wavelength with an arrow pointing to the minimum labelled 'Bad' and an arrow pointing to the maximum labelled 'Good'. To the right are four emojis: :), :|, :(, :|]
+[A superimposed graph of all the above waves. Different points on the graph are labelled: Harvest moon, Supermoon, Blue moon, Skinny Jeans popular, Super blood moon, Golden age of TV, Dire moon, Pork moon, Two week window in which astrology works, Total eclipse of the sea.]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Is it just me or is the square-circle moon cycle a reference to Minecraft? EnderPlays: Joined 29 April 2021 (talk) 02:44, 18 December 2022 (UTC)
+Is it possible that the size of the Earth and the moon are supposed to be comparisons of how big the Earth looks from the moon vs. how big the moon looks from the Earth? 172.69.170.88 (talk) (please sign your comments with ~~~~)
+Why would that have a cycle different from the distance cycle?Barmar (talk) 20:20, 5 July 2019 (UTC)
+Where is the total eclipse of the heart? Actually, why do we not have a total eclipse of the hart - when all deer are hidden?
+A very quick and dirty (probably flawed, until I can plug things into a suitable visualiser to check and/or improve my initial idea) attempt to describe the nature of the square/circle oscilations of the Moon might well be smething like |r.cos(θ)−r.sin(θ)|.|sin(t/λ)| + |r.cos(θ)+r.sin(θ)|.|sin(t/λ)| + |r.√(2/π)|.|cos(t/λ)|=k ...only then you'd also want to make k a quantity also multiplied by the relative Earth/Moon size cycle. Either way, YMoonMV. 141.101.98.88 00:41, 6 July 2019 (UTC)
+Isn't the square/circle a reference to rounded corner rectangles. If you increase the corner radius of a square, enough, you get a circle. SDSpivey (talk) 05:37, 6 July 2019 (UTC)
+Does anyone know of a real chart similar to the format of the last panel? That might be a cool thing to link to. 162.158.75.166 16:38, 6 July 2019 (UTC)
+Did anyone else expect to see "Total Eclipse of the Heart" right after "Total Eclipse of the Sea"? No? Ah, my coat, thank you.Daemonik (talk) 09:17, 8 July 2019 (UTC)
+I refer the honourable gentleman to the answer I gave earlier 162.158.154.67 20:10, 8 July 2019 (UTC)
+I remember there being a blue blood supermoon or some crazy thing like that once a year or so back. Mostly because I dreamed that it was also a falling moon and woke up very worried. --162.158.58.169 00:18, 12 July 2019 (UTC)
+Astrology[edit]
+I think this is primarily an astrology joke. Astrologers often use astronomical cycles (both real and made up) to "predict" future events or explain historic events. By having enough cycles, they can usually come up with results like "skinny jeans are always popular whenever the happy moon is in Pices and wet Mars is in the same Chinese zodiac as Mercury".
+There's also possibly an allusion to Fourier transforms. 162.158.92.160 (talk) 03:14, July 6, 2019 (please sign your comments with ~~~~)
+You know, I kind of expected a joke about periods 172.69.160.146 01:49, 10 July 2019 (UTC)
+I think this is unlikely - the jokes all hinge on cycles of the moon, and don't reference any dates or other celestial bodies in the way astrology does. 162.158.154.37 12:33, 8 July 2019 (UTC)
+Phase x distance and supermoons[edit]
+I've been absolutely nerd-sniped by the "Phase x distance" in the bottom diagram. As far as I can figure out, if you multiply phase and distance, you should end up with a new cycle with a period of (29.5 x 27.5) = 811.25 days, which is about 2 years. A supermoon is when a full moon occurs when the Moon is closest to the Earth, so this phase x distance figure is effectively a supermoon detector - that's why supermoons occur at the peaks in Randall's diagram.
+But when I looked into supermoons a bit - specifically this diagram from Wikipedia - other sources shows supermoons occurring on a yearly cycle - we supposedly get them every year. How can that be the case, if the two lunar cycles only synchronize every 2 years? It seems to me like there has to be at least one out of every two years where we get no supermoons at all - ie. the full moon is always coinciding with the moon being furthest away.
+I feel like I must have made a mistake or wrong assumption, but I can't figure out what it is. Hawthorn (talk) 17:15, 6 July 2019 (UTC)
+I figured it out; it turns out that I was simply wrong about how to calculate the length of a combined cycle. This graph shows that the two cycles would coincide every 400 days or so. Still can't figure out what "phase x distance" is meant to represent, though. Hawthorn (talk) 17:54, 6 July 2019 (UTC)
+Earth/Moon changing size[edit]
+While I do know that the Earth and Moon can technically change size due to accretion of interstellar material, the amount is so negligible that I don't even think it's worth mentioning. I suspect the Earth changes size more from thermal expansion and contraction than from accretion. Hawthorn (talk) 13:03, 9 July 2019 (UTC)
+Harvest Moon[edit]
+The harvest moon does have some astronomical significance: the time of moon-rise from day to day changes less around the harvest moon than at any other time of the year. Wikipedia and its source say that this allowed harvest work to continue into the night during the days after the full moon without a significant period of darkness between sunset and moon-rise. 172.68.189.85 05:59, 10 July 2019 (UTC)
+
+Categories: All comicsComics from 2019Comics from JulyFriday comicsPages using the "citation needed" templateAstronomy

@@ -1,0 +1,70 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2270: Picking Bad Stocks
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2270)
+|<< PrevComic #2270 (February 19, 2020)Next >>|
+Picking Bad Stocks
+
+Title text: On the news a few days later: "Buzz is building around the so-called 'camping Roomba' after a big investment. Preorders have spiked, and..."
+Explanation[edit]
+Cueball and Ponytail are discussing the stock market. Ponytail explains that there has been no reliable way to consistently pick stocks that outperform the market average. She also states that there could be a corollary to that; there is no way to consistently pick bad stocks (presumably for this discussion, bad stocks refers to stocks whose value is expected to go down). Cueball states that he could consistently pick bad stocks, and the last panel shows him at a trading terminal purportedly buying bad stocks, while White Hat and Megan use his bad stock picks as indications that those stocks should be removed from whatever stock index they manage.
+Generally, people invest in the stock market hoping to make money. They buy stock in companies whose value they expect will increase, and sell stock when they feel its value is about to stop increasing or start decreasing. Someone who could tell whether a stock's price will rise or fall (more than the average stock) in a given time interval could make a lot of money, but this is an infamously difficult problem. Market prices already reflect the consensus estimate of what a stock should be worth based on all public information about the company. Some investors use fundamental analysis, that is, they attempt to understand companies based on their financial statements and market position to identify which stocks are likely to become more or less valuable over time, while others use technical analysis which seeks to identify patterns in the stock prices themselves. Technical analysis was featured in comic 2101. However, while the rise and fall of stock prices are sometimes connected to real events (strong or weak profit statements, new product announcements, major scandals) that one person might predict better than another, they more often exhibit random-walk behavior. Many studies, such as the long-running "Investment Dartboard Contest" run by The Wall Street Journal, have found that an index of stocks that represent the total market, or even a set of randomly-selected stocks (often colloquially stated as "picked by a monkey") beats paying an expert to choose your portfolio.
+Realistically, in investing, someone who purposely trades in bad stocks is called a short seller, and someone who could consistently pick bad stock could make a lot of money in the stock market. Short selling consists of selling a stock before you own it, with the anticipation that the stock's price will drop soon, and you can later purchase the stock to fulfill the sale. The difference between the selling price and the purchase price is your profit, just as with any normal ("long") purchase and sale. However, in US stock markets, it is illegal to sell stocks that you don't own, so when you short a stock, you need to borrow that stock from a third party (possibly the trading firm you're working with, or some other firm that the trading firm has a stock loan relationship with, that currently holds a position in the stock you're shorting) to cover the sale. This is all done automatically by the trading platform you use. Between the time you sell the stock until the time you repurchase the stock on the open market, you will have what's called a short position on the stock, and you need to pay interest to the company that lent you that stock. Because of the interest payments, short sales are almost always short-term positions, as the interest paid on the loan can quickly exceed any profit you might make on the sale. A. Gary Shilling, a financial analyst, famously remarked that "markets can remain irrational a lot longer than you and I can remain solvent." Ponytail attempted to explain short selling to Cueball in 2094: Short Selling (perhaps that comic and this one are part of the same conversation), although Cueball found Ponytail's advice much less helpful than he has found this comic's conversation. However, in this case, Ponytail is not describing short selling but instead, investing in every stock except for the bad ones
+Cueball's statement about wanting revenge on a ghost may be a reference to 2259: Networking Problems, in which Cueball was driven insane trying to debug network problems and came to believe in ghosts. Perhaps the CEO of company #208 has had a similar experience with a network.
+If Cueball's statement that a company is developing a "camping Roomba" is correctly attributing the trademark (as opposed to genericizing it to refer to any small cleaning robot), then presumably company #1434 is iRobot. While a Roomba for camping may sound like a ridiculous concept that is not likely to make much money, developing a robot that can navigate and move around natural environments would be a major advancement leading to new opportunities for both their civilian and military product lines. A campground offers a more challenging environment than indoors, while being slightly more controlled than a truly wild area, making for a good development step.
+If this project was successful, dropping iRobot from this company's index would likely not be a wise decision. However, the very difficulty of the project makes success less likely. In addition, if the "camping Roomba" is meant to perform the same functions as a standard Roomba (ie, removing dirt from the floor), success would be virtually impossible, as campground floors are generally made of dirt.[citation needed]
+In the title-text, it seems that Cueball is worse at picking bad stocks than he thinks he is; a legitimate investor could have seen what Cueball saw and taken it as a good sign. This only validates Ponytail's point regarding the stock market - there is no way to consistently identify what stocks will go up or down.
+Transcript[edit]
+[Cueball and Ponytail are walking together.]
+Cueball: I feel like by now I should know about the stock market.
+Cueball: What is investing? Do you just open a website and pick the companies you like?
+[Cueball and Ponytail are still walking; Ponytail is holding out her hand palm-up.]
+Ponytail: Well, you totally can.
+Ponytail: But there's a lot of evidence that no investing strategy consistently picks stocks that outperform the average of the whole market. A lot of fund management is a myth.
+[Close-up on Ponytail, who has turned to Cueball.]
+Cueball (off-screen): Huh, okay.
+Ponytail: But there's a weird corollary to that idea: it implies that, ignoring fees and stuff, it's just as hard to consistently lose money by picking bad stocks from an index.
+[Cueball and Ponytail are both back in frame. They are standing still and facing each other.]
+Ponytail: If someone could consistently buy bad stocks, you could beat the average by hiring them, letting them pretend to invest, then buying every stock except the ones they pick.
+Ponytail: In a way, bad judgement is just as helpful as good judgement.
+[In a frameless panel, Cueball and Ponytail are standing facing each other; Cueball is raising his hands.]
+Cueball: Oh my God.
+Cueball: I can do that!
+Ponytail: No, it's just an example--
+Cueball: This is the job I was born for.
+[Cueball is either sitting in a box or being viewed on a camera screen. He is sitting in front of a computer console, and a camera is pointed at him. Megan and White Hat are viewing him, and White Hat is holding a tablet.]
+[Text box: Soon...]
+Cueball: Hey, this company's CEO wants revenge on the same ghost as me! I'm buying!
+Cueball: Ooh, and this one is planning to develop a "Camping Roomba." That's a sure bet!
+Megan: Drop companies #208 and #1434 from the index.
+White Hat: Done.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+clearly nobody told Randall about shorting stocks 162.158.18.160 20:57, 19 February 2020 (UTC)
+I was going to say that Arachrah (talk) 09:29, 20 February 2020 (UTC)
+Can someone create a "stock market" category, or "economics"? There are a lot of comics referencing this. 172.69.33.89 23:21, 19 February 2020 (UTC)
+You can start by listing these comics here, someone will pick them up to create the category.141.101.98.166 10:35, 20 February 2020 (UTC)
+Yep. General inofficial rule of thumb is, that a new category should have at least 5 comics or consist of a direct series. (the latter doesn't seem to be tha case here.)--Lupo (talk) 10:41, 20 February 2020 (UTC)
+Stock market related comics:
+1570: Engineer Syllogism
+1600: MarketWatch
+2094: Short Selling
+2101: Technical Analysis
+2270: Picking Bad Stocks
+Please add -- 141.101.104.161 (talk) (please sign your comments with ~~~~)
+You mean that there is so few people knowing how to create category that they agreed on some rule? And why didn't they told me? -- Hkmaly (talk) 23:27, 20 February 2020 (UTC)
+As I said it is an inofficial rule of thumb... discussed e.g. on Kyndes talk page --Lupo (talk) 10:58, 21 February 2020 (UTC)
+When he said "camping" I thought more of snipers in MMFPS games (or gate-campers in Eve) and I was imagining the robot waiting patiently hidden under the sofa until someone dropped a crumb, zipping out and hoovering that crumb up then zipping off back again. 141.101.98.148 11:30, 20 February 2020 (UTC)
+Shouldn't they be dropping the companies from a basket rather than an index ? From my understanding, indices refer to "official" lists of stocks, and custom ones are more known as baskets. 108.162.229.28 12:46, 20 February 2020 (UTC)
+I suspect Cueball is more influential than expected 108.162.241.202 14:02, 20 February 2020 (UTC)
+In BBC Radio 4's Dickensian-comedy-spoof series Bleak Expectations (from memory, during the second series/season - though not available at the time of writing, at least direct from the BBC) at one key point Pip Bin uses his best friend's investment 'recommendations' (Harry Biscuit is also a notoriously bad inventor obsessed with using swans in many of his own Heath Robinson/Rube Goldberg devices) to invest in entirely the opposite manner. Not that I think Randall has heard these programmes (or, indeed, programs), so not an annotatable reference for the comic, but putting it out there as a recommendation in general because there's a good chance of humour(/humor) overlap. And it has Anthony Head in it, if there are any Buffy fans/etc, reading this... 141.101.98.148 15:28, 20 February 2020 (UTC)
+Not exactly the same idea, but... in one of Iain Banks novels (Complicity, I think) there's a character who is seriously thinking of setting up as an unethical investment counsellor, deliberately picking investments that are unethical in one way or another (polluters, products that are damaging in some way, etc.) on the grounds that that's where the money is; ethical investments tend not to make huge profits.--Marcus Rowland (talk) 00:00, 27 February 2020 (UTC)
+Maybe Cueball is a 21st-Century Timothy Dexter? 172.69.68.93 16:03, 20 February 2020 (UTC)
+In the last line of the current explanation, it supposes Cueball is connected to and making changes to the portfolio. I read this more as an ironic counterpoint, indicating that even though he's good at picking bad stocks, he is not infallible. OhFFS (talk) 17:18, 20 February 2020 (UTC)
+The ads displayed for me on this page suggest investing in Irish Whiskey. Given the context here, would it be better to buy or short now? Bischoff (talk) 17:40, 20 February 2020 (UTC)
+I'd give a strict buy recommondation. If you loose money on it, you can at least get drunk. --Lupo (talk) 07:50, 26 February 2020 (UTC)
+Anyone else find the "This is the job I was born for" statement and situation strikingly similar to #408: Overqualified? 108.162.246.53 22:00, 21 February 2020 (UTC)
+I think the title text intends to say that he's consistently picking good stock now that he's trying to pick bad ones. Murphy's Law.
+Categories: All comicsComics from 2020Comics from FebruaryWednesday comicsPages using the "citation needed" templateComics featuring CueballComics featuring PonytailComics featuring MeganComics featuring White HatRoombaStock Market

@@ -1,0 +1,39 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2479: Houseguests
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2479)
+|<< PrevComic #2479 (June 21, 2021)Next >>|
+Houseguests
+
+Title text: You can come on in, we're all fully vaccinated. Except the spare room off the living room. Don't go in there, we're not fully vaccinated in there.
+Explanation[edit]
+This comic is another entry in a series of comics related to the COVID-19 pandemic, specifically regarding the COVID-19 vaccine.
+With COVID-19 vaccines under distribution, more and more people are becoming fully vaccinated. Cueball and Megan have apparently become part of that group, and Cueball notes that with the vaccine in their systems, they can once again start hosting people at their house — the various local and national rules maintained to mitigate infections now allowing indoors association in such circumstances for many individuals. Megan concurs, indicating they have been looking forward to having their friends over.
+After a beat panel, Cueball notes that if they intend to host people, they need to clean the house. Megan promptly backtracks on her eagerness to have people over, implying that her reluctance to complete this task (possibly a rather onerous one, if they have been neglecting housework during the pandemic) may outweigh her desire to socialize. Megan claims she only feels 98% vaccinated, and thus is not completely ready for houseguests; Cueball agrees that they need to wait a few more days before they are 100% vaccinated/ready for guests.
+The earlier vaccination-related comic 2460: Vaccinated depicted Cueball and Megan as not very skilled at social interactions, so it's possible they may not have many "people" to invite over anyway, or may be awkward with those they do invite over.
+The title text continues the theme of "vaccination status = houseguest readiness" and assumes that this is an association of one state with the other that is commutative - that is, reversible, with either one implying the other.
+In the title text, it appears Cueball and Megan have cleaned most of their house in preparation for having guests, with the evident exception of the spare room next to the living room, which is perhaps being used to store junk from the other rooms. Thus they pretend that in that room they are not fully vaccinated, as if their vaccination status is dynamically influenced by their location in their home rather than, for instance, by the memory of their adaptive immune system.
+Transcript[edit]
+[Cueball and Megan are talking.]
+Cueball: Now that we're fully vaccinated, we can invite people over.
+Megan: Exciting!
+[Same setting, without talk. Beat panel.]
+[Cueball and Megan are standing in a wider panel. Megan is looking down at her torso while holding her arms out from her body.]
+Cueball: Which means we have to clean.
+Megan: ...You know, I suddenly feel only about 98% vaccinated.
+Cueball: Yeah, let's give it a few more days.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I interpreted this comic completely differently than what is written in the explanation (though I can agree that the explanation as written is plausible). When I first read the comic, I assumed Megan and Cueball were hesitant to have guests come over because they would have to clean up after the guests left. Presumably their house would be spotlessly neat and tidy after more than a year of no visitors, and having someone visit would spoil that. Speaking personally, it will be great to have guests staying with me again, but there is a twinge of regret that the much simpler and easy pace of pandemic life is over now that I’m vaccinated.172.70.110.170 04:21, 22 June 2021 (UTC)
+I can see what you mean, but if you also read the title text is it clear that it is their house that is not clean enough for guest. I can totally relate. We always get the house tidy when we invite guest over, and apart from very close family, which do not need this tidiness, we have not had any visitors for over a year... It is thus for sure the problem that the house is a mess, and they have got used to live in this since no one came around to look at it. But now, if they wish to have friends over, they have to make a big effort to not be embarrassed. And having gotten used to not seeing people the effort may bot be worth it (obviously). --Kynde (talk) 09:53, 22 June 2021 (UTC)
+Regarding the title text, the explanation reads, ". . . and assumes that this is an assignment of one state from the other that is commutative (i.e. reversible) from the simplistic idea of readiness arising from status." Can someone translate this for me, please? I've only completed two years of college English, so it baffles me! 162.158.74.117 11:12, 22 June 2021 (UTC)
+Not sure it's the right word, but a function "A => B" (read that as 'leads to', 'produces', 'implies', etc) need not imply "B => A" (commutative functions, such as matrix multiplication, also give different results depending upon the order attempted).
+In reality, "House Readiness <= Vaccination Status + Pre-Pandemic Standards" (reversing the cause/effect sides) so "Vaccination Status => House Readiness" is already wrong, without even considering how the accepted nature of Vaccinatedness is not going to change between rooms (unless your house crosses a state boundary/whatever, with different enforcements?
+I'd have explained it differently from the start. Maybe the typical programming confusion between equality and assignment operators, and why it's good practice to habitually produce intended boolean outputs from "CONST equ VAR" (however the code dialect demands) rather than the other way round, for the compiler to catch accidental assignments/non-comparisons, that you may have mis-typed, from the off - but that could be even more confusing for readers. ;) 141.101.99.177 12:13, 22 June 2021 (UTC)
+You don't need more of college English. You need college Algebra. -- Hkmaly (talk) 03:21, 23 June 2021 (UTC)
+I thought that it meant that they had a person living in their spare room, an anti-vaxxer
+"2020-21 pandemic of the SARS-CoV-2 virus". I like the optimism that the pandemic will be over in 2021. 😁 Gpk (talk) 14:36, 22 June 2021 (UTC)
+xkcd 78 is slowly starting to look like irony, in the face of strips like this one. 172.70.114.38 18:49, 22 June 2021 (UTC)
+Categories: All comicsComics from 2021Comics from JuneMonday comicsCOVID-19 vaccineCOVID-19Comics featuring CueballComics featuring MeganSocial interactions

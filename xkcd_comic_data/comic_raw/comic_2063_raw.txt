@@ -1,0 +1,79 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2063: Carnot Cycle
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2063)
+|<< PrevComic #2063 (October 24, 2018)Next >>|
+Carnot Cycle
+
+Title text: The Carnot cycle is more properly known by its full title, the "Carnot-Tolkien-Wagner Ring Cycle."
+Explanation[edit]
+This comic shows a Pressure–volume diagram which is used in this case for a Carnot cycle, a theoretical thermodynamic cycle covered in most thermodynamics classes which looks a lot like the figure drawn. The most common example of a (suboptimal) Carnot cycle is the vapor compression cycle used in refrigerators. However in this case, Randall has replaced the labels of the 4 stages of the real Carnot cycle with new ones.
+Pressure–volume diagrams were first developed to understand the efficiency of steam engines and plot the change of pressure p with respect to volume V for a specific process. The process forms a cycle and the amount of energy involved can be estimated by the area under the curve on the chart. The Carnot cycle describes the ideal efficiency that such an engine can achieve during the conversion of heat into work, or vice versa like in a refrigeration system. The real steps are called (explained in short):
+Isothermal expansion (An external heat source causes an increase of volume and an antiproportional lowering of pressure, driving the motor. It's more efficient if this step is performed slowly.)
+Isentropic expansion (The volume of the gas goes down further while the pressure decreases dramatically, as the external heat source is now absent, transforming heat directly into work, lowering the Temperature. This step is more efficient, if it goes quicker.)
+Isothermal compression (External cooling and a small amount of work from another part of the machine decreases the volume of the gas and leads to the last step:)
+Isentropic compression (Now the gas is sharply compressed, using part of the work from step two to return the gas to the beginning of step one, raising the Temperature back up.)
+An isothermal process is a change of a system, in which the temperature remains constant. In this diagram the volume increases (expansion) or decreases (compression). The term isentropic describes a lossless process where no heat leaves the gas, here the increased volume only causes a further decrease in pressure; it is also called an adiabatic process and is the thing which warms air when you compress it quickly. Isentropic means "doesn't cause the heat death of the universe", which is a rare thing.
+The prefix iso- is derived from the Ancient Greek word ísos which translates to equal and used widely in modern days in science like here to indicate a process at the same temperature (-thermal) which is not shown in the graph. The prefix is- to the term entropy is used because isoentropic sounds stupid.
+In the comic, the cycle also has two phases of expansion followed by two phases of contraction (or "decline"), but the names of steps one to three are replaced with other words beginning with the prefix "iso-" meaning same or equal, and the factors that are held constant are absurd.
+Each step in this comic is explained below:
+1. Isometric expansion. When heated, the gas becomes larger due to increasing volume
+Isometric (literally "equal dimensions") can refer to a property or process that is symmetrical in all dimensions (i.e. the gas is expanding radially) or to a type of thermodynamic process where volume is held constant but temperature is free to vary, the exact opposite of the first step in the real Carnot cycle. Additionally, the comic text uses a circular argument (become larger due to increasing volume).
+In mathematics, an isometric mapping (between metric spaces) is a map that keeps all the distances intact. If we measure the distance the same way throughout the cycle, then isometric expansion (or for that matter, isometric compression) is not really an expansion (or a compression).
+2. Isotonic expansion. The gas expands further due to dark energy while percent milkfat remains constant.
+Isotonic is a descriptor commonly associated with sports drinks (and not thermodynamics), which contain similar concentrations of salt and sugar as in the human body. Dark energy is hypothesized to be a cause for the accelerating expansion of the universe, which obviously isn't relevant to thermodynamics (yet). The density of milk depends on milkfat and solids-non-fat, which includes lactose. Fortified milk has increased solids-non-fat but the same percentage of milkfat, resulting in increased calories and an increased density. So the fortification of milk results in increased calories, possibly referred to as dark energy, and a contraction, as less space is needed for 1 kg of milk. However, this explanation does not match the expansion suggested in the comic.
+Later Randall again combined dark energy (and also dark matter) with milkfat in 2216: Percent Milkfat.
+3. Isopropyl compression. While inflation is held constant, the gas contracts due to tightening interest rates.
+Isopropyl alcohol is commonly used for cleaning. Inflation and contraction could refer to changes in gas volume, but the reference to interest rates puts them in the context of macroeconomics. Raising ("tightening") interest rates tends to reduce inflation and/or "contract" the economy. High interest rates are a feature of the third stage (recession) of the Juglar cycle. In economics (and other sciences) to better understand model parameter relations, some parameter may be held constant in theory. This could refer to the Fisher equation. Holding one parameter constant is also done in the Carnot cycle (for a physical parameter): not only in theory but also in practice! (In free market economies the inflation cannot be directly held constant).
+But inflation may also refer to dark energy mentioned at the isotonic expansion section above. Inflation in cosmology is a theory of the exponential expansion of space in the early universe, an effect associated with the "accelerating universe" and for which findings the 2011 Nobel Prize in Physics was given. The National Geographic blog entry Nobel Prize in Physics 2011 – The Accelerating Universe explains that "...Today, most physicists, influenced by inflation, would ... call it dark energy."
+4. Decline and fall. The gas diminishes and goes into the West while remaining Galadriel, completing the cycle.
+Galadriel is a character in The Lord of the Rings. She is one of the leading elves, a race that in the time of the book is said to be dwindling (in number and importance) in Middle Earth and migrating westward to Valinor. Galadriel is one of the last elves to leave, after successfully resisting temptation to take the One Ring and become an all-powerful queen who dominates Middle-earth, instead saying "I will diminish, and go into the West, and remain Galadriel." The title may be a reference to Edward Gibbon's 18th century masterpiece The History of the Decline and Fall of the Roman Empire, or to the novel Decline and Fall by Evelyn Waugh (which is itself a reference to Gibbon's book). This stage is present in the cycle because in the real cycle, at this stage, volume of the gas decreases without exchange of heat. It is the last stage after which the gas has its original value of variables, thus completing the cycle.
+The title text refers to Richard Wagner and J.R.R Tolkien. Wagner's Ring Cycle consists of four operas. Tolkien wrote The Lord of the Rings, which some have suggested was inspired by Wagner's Ring. Their works are known as literary cycles.
+Transcript[edit]
+[A cartesian plot in the first quadrant with axes labeled "P" on the vertical axis and "V" on the horizontal axis, with a rhombus-shaped set of four points with arrows between them.]
+[Caption above the graph:]
+The four stages of the
+Carnot Cycle
+[The first line starts at the top-left point and goes right and slightly downwards to the next point. The label is:]
+1. Isometric Expansion
+When heated, the gas becomes larger due to increasing volume
+[The next line starts at the last point and goes downwards and a little to the right.]
+2. Isotonic Expansion
+The gas expands further due to dark energy while percent milkfat remains constant
+[The next line starts at this last point and goes to the left and slightly upwards.]
+3. Isopropyl Compression
+While inflation is held constant, the gas contracts due to tightening interest rates
+[The last line goes upwards and slightly to the left, returning to the first point.]
+4. Decline and Fall
+The gas diminishes and goes into the west while remaining Galadriel, completing the cycle
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The Carnot cycle is a theoretical construct from thermodynamics describing an ideal way to produce work using a temperature differential. The shape of the diagram matches diagrams of said cycle. The different stages in the Carnot cycle are either isentropic or isothermal. 'Isometric', 'Isotonic', and 'Isopropyl' all play on the 'iso' prefix. 'Isometric' also describes the shape of the diagram. 'Isotonic' seems to have something to do with muscles... which I suppose have some relation to engines as well—they both do work. 172.69.218.52 16:11, 24 October 2018 (UTC)
+Indeed, isotonic and isometric are types of exercises for muscle contraction. Isotonic means that they provide constant force, isometric that they produce no movement in the joints. Maybe the joke is that this are muscle constractions on a expanding phase of a cycle 198.41.226.34 22:18, 27 October 2018 (UTC)
+Did anyone notice that there is a note on the top of XKCD about how to register to vote? Zachweix (talk) 17:18, 24 October 2018 (UTC)
+Randall often gives some hints to elections, in this case it's the United States House of Representatives elections, 2018 on November 6, 2018. --Dgbrt (talk) 17:30, 24 October 2018 (UTC)
+There are other things being voted on, aside from the House of Representatives. One third of the United States Senate is also up for election (as happens every two years), as well as numerous state offices.173.245.48.171 20:35, 24 October 2018 (UTC)
+Please read the Editor FAQ about tables, this here was a good example where tables should not be used (check the history at this comic for the former layout.) Furthermore we should explain the comic but not the real Carnot Cycle, that's done in the Wiki link or at least it should be done in a separate chapter. --Dgbrt (talk) 18:06, 24 October 2018 (UTC)
+I'm sure it doesn't need a full explanation, but because the pairings of the stages are part of the joke, I think it's necessary to explain what each stage is. But just enough to explain the contrast. –P1h3r1e3d13 (talk) 18:39, 24 October 2018 (UTC)
+I agree. --Dgbrt (talk) 18:46, 24 October 2018 (UTC)
+Thermodynamics is the hell! I've always hated it. But I entered the essential original terms with a short explanation. And now I feel we should reverse-translate Randalls words to the real thing, or more precise: a similar sentence using accurate words. --Dgbrt (talk) 20:36, 24 October 2018 (UTC)
+Thermodynamics isn't the hell, it's unexplainable... IMHO real physicists shouldn't stuck on entropy, that's not a measurable value. It's more like... ohh, I don't want to say this here. Nonetheless I tried to give a short description on that official terms. --Dgbrt (talk) 00:37, 28 October 2018 (UTC)
+Decline and Fall could also reference Evelyn Waugh - though it is a stand alone novel, his first, not part of a cycle. Arachrah (talk) 12:13, 25 October 2018 (UTC)
+Randall loves tautologies (see comics 703, and 1602) should we mention that "The gas becomes larger due to increasing volume" is a tautology?162.158.186.90 19:08, 29 October 2018 (UTC)
+I read it as "The gas becomes larger to due to the increasing volume of the container". I was thinking about heat engines, after all, and that's how piston engines work. Nitpicking (talk) 11:33, 7 May 2023 (UTC)
+Inflation is probably wrong explained
+One section before dark energy is mentioned, in Cosmology this energy causes the cosmic inflation. I'm sure Randall talks about this. But maybe we just should mention both. --Dgbrt (talk) 18:12, 24 October 2018 (UTC)
+The cosmic inflation is badly presented at Wikipedia. There was a Nobel Prize in 2011 exactly about this, but it's hard to find this at the corresponding Wiki articles. That's because I'm linking an article from National Geographic. Nonetheless, as a physicist I'm sure not the Nobel Prize but the conclusions will be proven as over-interpreted, but that's not part of the actual explanation here. --Dgbrt (talk) 20:34, 27 October 2018 (UTC)
+Is there a pun in the title text on token-ring (Tolkien ring) networks? Mlv (talk) 18:39, 24 October 2018 (UTC)
+Nice idea, but I don't see that because there is no IBM here. --Dgbrt (talk) 20:40, 24 October 2018 (UTC)
+Wagner Ring Cycle probably refers to a part of the Five-Minute Comics: Part 1 in which Cueball and Bach are running away from Wagner, who is on his ring cycle. 172.68.211.10 (talk) (please sign your comments with ~~~~)
+Decline and fall
+Current explanations for this reference don't seem to adequately explain why it would be a stage in a four-part cycle. Actually, the first thing which comes to mind is the four-stage pride cycle (repentance, prosperity, pride, destruction, repentance et cetera), which is often referenced when analysing the plot of the Book of Mormon (though I don't see why it would be limited to that context). However, the precise term "decline and fall" doesn't seem to be used in the diagrams that first come up in a search for that (though it would be a fitting description for the destruction stage), and I don't know how well known that device is outside of LDS circles, so I'm not sure if that's being directly referenced.
+The other thing which comes up is the lag, growth, stagnation, decline model which is often used for describing the development of a bacterial culture, though I've also been taught a remarkably similar model in the context of popularity over time of seaside resorts (with the addition of a possible rejuvenation stage), so it's not limited to biology. Although while it is a four-stage model with a "decline" stage, it's not inherently a cycle.
+I suspect those might not the only things that have "decline and fall" as one of four parts ("cyclic", in either sense, or otherwise).
+-- HarJIT 141.101.107.234 14:21, 27 October 2018 (UTC)
+Title Text
+The Name Carnot-Tolkien-Wagner Cycle is similar to other hyphenated names used for scientific hypotheses. For example, there's the Bose-Einstein condensate and the Einstein-Podolsky-Rosen Paradox (further examples in this article). Thaledison (talk) 18:18, 26 February 2019 (UTC)
+Categories: All comicsComics from 2018Comics from OctoberWednesday comicsLine graphsPhysicsCosmologyLOTR

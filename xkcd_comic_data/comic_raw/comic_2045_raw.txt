@@ -1,0 +1,50 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2045: Social Media Announcement
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2045)
+Not to be confused with 2685: 2045.
+
+|<< PrevComic #2045 (September 12, 2018)Next >>|
+Social Media Announcement
+
+Title text: Why I'm Moving Most of My Social Activity to Slack, Then Creating a Second Slack to Avoid the People in the First One, Then Giving Up on Social Interaction Completely, Then Going Back to Texting
+Explanation[edit]
+In 2018, especially after Facebook privacy abuses were revealed in the Facebook-Cambridge Analytica scandal, many individuals began seeking alternatives. The #deletefacebook hashtag peaked around April 2018, and in some communities, this type of "why I'm leaving Facebook" announcements were popular. Randall parodies this mentality with Cueball, who wants to think he is making a point about standing by his values, values he assumes other people share. However the overly-long title of his manifesto is too specific to apply to anyone but himself, and also reveal a few embarrassing confessions that probably have nothing to do with his values (such as losing his Facebook password).
+Mastodon is a distributed, federated social network with microblogging features similar to Twitter. "Federated" means that there is one app hosted in many places, so users can choose a host that meets their needs, but everyone can still talk to each other, similar to email. Near the peak of #deletefacebook, mastodon became trending as a twitter alternative with less nazis.
+Wil Wheaton famously moved to Mastodon from Twitter, but was ultimately disappointed by the experience, because while Mastodon's community is generally less toxic, it does not yet have the tools to handle the kind of targeted harassment that a celebrity might face.
+Microsoft has been buying up professional-themed social media platforms lately, such as LinkedIn and GitHub, intending to integrate them more fluidly with their enterprise software suite. Mastodon seems an unlikely target for an acquisition, since its decentralized nature means that one corporate entity can't control it, and the culture there is decidedly unprofessional as of this comic.
+The title text presents an alternative approach by moving most social activities to the cloud-based proprietary team collaboration platform Slack. After making his first workspace in Slack he suggests that he wishes to avoid the people invited, so he creates a second account and a new workspace. This also didn't last long and he stops interacting on social media entirely and reverted to simple texting, probably sending old fashioned SMS-messages to others or just writing texts on paper no one reads.
+Transcript[edit]
+[Cueball sitting in front of a laptop typing.]
+Why I'm Quitting Facebook, Joining LinkedIn, Deleting My LinkedIn, Rejoining Facebook, Quitting Twitter, Getting Locked Out of Facebook, Moving to Mastodon, and Lobbying Microsoft to Take Over Mastodon and Merge It With LinkedIn: A Manifesto.
+Trivia[edit]
+In the original version of this comic, Cueball misspelled "Mastodon" as "Mastadon".
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I doubt it's Wil-Wheaton-specific. I've seen a fair number of people talk about quitting some form of social media or another (though usually not ALL of it); Wheaton's just the biggest (that I'm now aware of). 162.158.75.202 12:00, 12 September 2018 (UTC)
+Trivially amusing, I think "fewer" when I read "less nazis" in the explanation; this may make me a grammar Nazi, so instead of editing I'm pleading 261: Regarding Mussolini. Elvenivle (talk) 18:56, 12 September 2018 (UTC)
+GitHub
+On June 4, 2018, Microsoft announced its intent to acquire GitHub. This means it isn't acquired yet. Thus I've removed it from the explanation. --Dgbrt (talk) 12:59, 12 September 2018 (UTC)
+It was confirmed as a done deal the same day. The purchase is already agreed upon, it will take some months for the merger to be completed. Even if that were not the case, github is still relevant to Microsoft's trend of buying up professional social media platforms. Adding it back in. 108.162.219.220 17:44, 13 September 2018 (UTC)
+I totally agree about Microsoft's trend but it's still only an announcement. Wikipedia says: "The purchase is expected to close by the end of the year" and at GitHub (about; milestones) they say in June 2018 "Microsoft announced it is acquiring GitHub". Sorry if I'm nitpicking, but right now GitHub is NOT owned by Microsoft while the explanation suggests this. --Dgbrt (talk) 18:55, 13 September 2018 (UTC)
+It literally does not matter. 162.158.126.82 22:28, 13 September 2018 (UTC)
+This is like arguing that there was no war in 1939 because the British infantry didn't start shooting yet. The explanation text says nowhere that microsoft currently owns and operates github. It does list github as an example of a trend of Microsoft buying professional social media, which is the truth. This isn't nitpicking because there is no nit to pick. 162.158.63.124 23:07, 13 September 2018 (UTC)
+The explanation says: "Microsoft has been buying ... GitHub." Buying requires cash flow, which actually hasn't happened yet. Nevertheless, as I've said before, I totally agree about Microsoft's trend. But trends and facts are different matters. --Dgbrt (talk) 11:43, 14 September 2018 (UTC)
+Texting
+I'm pretty sure Texting is supposed to mean SMS. -- Hkmaly (talk) 22:12, 12 September 2018 (UTC)
+You are invited to write an additional alternative, I don't think there is something wrong or correct at this point. Your note makes sense. --Dgbrt (talk) 19:00, 13 September 2018 (UTC)
+...but isn't SMS also "Social Interaction"? I'm referring to the latest change "texting means sms". Didn't Shakespeare or Goethe also wrote texts? Ohhh, maybe to complicated in this modern world. --Dgbrt (talk) 19:58, 14 September 2018 (UTC)
+Broken link at xkcd
+Is the Random button on xkcd.com broken for anyone else? 172.68.90.70 18:45, 13 September 2018 (UTC)
+Yep, but not here! ;-) --Dgbrt (talk) 19:00, 13 September 2018 (UTC)
+And I can tell why: It uses this link https://c.xkcd.com/random/comic/ but whois tells me: No match for "C.XKCD.COM". This means the domain "c.xkcd.com" is not registered. Randall should talk to his webmaster. --Dgbrt (talk) 19:08, 13 September 2018 (UTC)
+Broken for me. 172.68.58.203 (talk) (please sign your comments with ~~~~)
+Similarities to xkcd 2044
+So, fundamentally, the title text suggests the same pattern as xkcd 2044.
+"I wish I could communicate with people more easily."
+"Ooh, this new technology makes it easy to create arbitrary social connections, connecting everyone."
+"Uh-oh, there too many people trying to talk to me, and there are bugs and privacy concerns"
+"Social Media Announcement" 141.101.98.154 16:06, 14 September 2018 (UTC)
+Categories: All comicsComics from 2018Comics from SeptemberWednesday comicsComics featuring CueballSocial networking

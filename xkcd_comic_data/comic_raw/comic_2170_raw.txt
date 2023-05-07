@@ -1,0 +1,124 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2170: Coordinate Precision
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2170)
+|<< PrevComic #2170 (July 1, 2019)Next >>|
+Coordinate Precision
+
+Title text: 40 digits: You are optimistic about our understanding of the nature of distance itself.
+Explanation[edit]
+This cartoon gives increasingly precise latitude and longitude coordinates for a location on the planet Earth. However, a given pair of coordinates covers a trapezoidal region of land, and thus leaves some ambiguity; therefore, greater precision requires an increasing count of decimal places in your coordinates. This comic uses this information to roughly identify how precise a given coordinate length might be.
+The increasing precision of coordinates in this cartoon are similar to the increasing magnification in the short documentary "Powers of 10," which can be found here. (Also parodied in #271:Powers of One).
+The coordinates at 28.52345°N, 80.68309°W (in decimal degrees form; in geographic coordinate system form using degrees, minutes, and seconds, 28° 31′ 24.4″N, 80° 40′ 59.1″W) are pointing to the Rocket Garden at the Kennedy Space Center in Merritt Island, Florida —specifically, the tip of the Delta rocket.
+The sixth entry in the table, with seven digits of precision, includes the caveat that, while your coordinates map to areas small enough on the Earth's surface to indicate pointing to a specific person in a room, "since you didn't include datum information, we can't tell who". This is a reference to the geodetic datum or geodetic system — different ways of dealing with the fact that the Earth is neither perfectly spherical nor perfectly an oblong ellipsoid. The various datums do not make much difference at six digits of precision, but at seven, there is enough skew depending on which system is in use that the person in a room you are referring to with the coordinates is ambiguous. It is unstated, but the remaining lines in the table with ever-greater precision suffer from this same issue and are equally ambiguous without datum information.
+The final entry, with seventeen digits of precision, suggests that either the user is referring to individual atoms in the much-larger-scale whole-Earth coordinate system, or (perhaps more likely) has not bothered to format the values from the GPS module for viewing in the software UI in any way whatsoever, resulting in a value that is meaninglessly precise because the measurement wasn't that accurate to begin with. Even if the value is accurate, locating individual atoms by coordinates is not actually useful in most cases, and the motions of multiple systems within our physical world (continental drift, subtle vibrations, Brownian motion, etc.) would render the precise value obsolete rather quickly.
+For the decimal places past the 5th on the latitude, the digits given are actually the first part of the decimal expansion of the constant e (2.7182818284), while for the decimal places past the 5th on the longitude, the digits given are part of the decimal expansion of the constant π (3.14159265358) starting with the second digit (4).
+The title text references how at sufficiently small distances, our understanding of reality itself begins to break down. Smaller than the Planck length, which is more than a quintillion times smaller than the diameter of a proton, the ideals of Euclidean geometry no longer apply and space itself may be composed of a quantum foam where the very geometry of spacetime itself fluctuates, meaning coordinate systems based on an assumption that space doesn't change would no longer work. String theory, on the other hand, assumes that at a short enough distance the world is composed of ten space dimensions, which precludes the use of a two-dimensional coordinate system (not that our “normal” three dimensions don't do so in themselves).
+The actual number of longitude digits needed to identify a point to a particular precision depends on its latitude. Near the poles, you need fewer longitude digits than at the equator – starting with one digit fewer at around lat. 85°, past all constantly inhabited human settlements, and with two digits fewer at lat. 89.5°, inaccessible to anyone but polar researchers and the occasional guided tour. The number of latitude digits for some particular accuracy stays essentially the same everywhere.
+Chart[edit]
+Decimal places Resolution* In the comic Location Explanation/notes
+0 110 km (70 mi) Something space-related Somewhere near the east coast of Florida This resolution is enough to point out a large-scale feature like a country, a mountain range, a large lake, or a significant island on a map of the world. It can also be used to tell if certain celestial phenomena are visible from a given location.
+1 11 km (7 mi) A specific city Cape Canaveral Cities typically span a couple kilometers/miles in diameter and are far enough from each other to distinguish them at this resolution. There are exceptions though, and the veracity of this statement depends greatly on the definition of a “city”, which varies by location and history.
+2 1.1 km (¾ mi) A neighborhood Kennedy Space Center Visitor Complex
+3 110 m (360 ft) A suburban cul-de-sac The Rocket Garden at the Kennedy Space Center
+4 11 m (36 ft) A particular corner of a house Somewhere near the center of the Rocket Garden
+5 1.1 m (3½ ft) A specific person in a room (given geodetic datum information) The Thor-Delta rocket in Rocket Garden As the comic notes, the differences between geodetic datums – different ways to map geodetic coordinates to specific points on the Earth's surface – become large enough that one needs to specify the one in use when supplying coordinates to this degree of precision (or greater, of course). Since the Earth is not a perfect ellipsoid, different parts of the planet conform best to ellipsoids of slightly different proportions, resulting in different coordinates for a specific location; not to mention that locally used datums have local reference points, which means that the local and global standards are slowly drifting away from each other with the tectonical plates.
+Note that the comment in the comic concerns only the NAD 1983 datum which is fairly close to the international, “one size fits all” standard WGS-84. Other datums may be shifted by tens or even hundreds of meters (1.09361 yards each), making geodetic datum specification necessary for less precise coordinates as well.
+7 1.1 cm (⁷⁄₁₆ in) Waldo on a page Presumably the very tip of the rocket This refers to Where's Waldo?, a series of books and magazines containing various scenes (densely packed with people) where one must find Waldo, a character wearing a red and white striped shirt. In the puzzles, he usually stands less than 2 cm (1 in) tall.
+Finding Waldo on a page using satellites was also referenced in #1358.
+9 0.11 mm (4⅜ thou) A specific grain of sand N/A
+15 110 pm (1.1 Å) Raw floating point precision or an individual atom A double-precision (64-bit) floating point variable stores 52 significant bits (with an implicit 1 in front), so that 180.00000000000000 and 179.99999999999997 may be represented as distinct values. (This is only 14 decimals, however; the larger the integral part, the fewer bits remain to represent the fractional part.) This level of precision is useful for mitigating rounding errors in computations, but this advantage only shows if the last few digits are treated as non-significant and thus, ideally, hidden from view. To work with data that is actually this precise – like tracking individual atoms or representing continental drift up to the second –, one must make allowance for these additional non-significant digits and store the coordinates in quadruple precision.
+To track atoms, however, one needs very sensitive (and expensive) equipment with a severely limited range (according to our current understanding of science and technology). Using a global-scale coordinate system when a micrometer-scale would fit much better is either an abuse of the system and a great waste of memory and computing power, or it means that a significant portion of the Earth's surface has been blanketed by quantum microscopes, which would be an abuse and a waste of many other things as well.[citation needed]
+40 1.1 × 10–11 ym (1.1 × 10–35 m) Near (or past) our current understanding of the nature of distance This is where the resolution reaches the Planck length (1.6 × 10–35 m). At this scale, the very structure of spacetime (and thus, the notion of distance) may be different than what we know; measuring anything to Planck length precision would necessitate such tremendous amounts of energy in one place that would create minuscule black holes, warping spacetime further (in addition to wreaking havoc with whatever you were trying to pinpoint).
+*Since the Earth is not exactly spherical, the actual length of one degree of latitude varies between 110.574 km (68.707 mi) at the equator and 111.694 km (69.403 mi) at the poles, while one degree of longitude is 111.320 km (69.171 mi) at the equator, 55.800 km (34.673 mi) at lat. 60°, and 0 km (0 mi) at the poles.
+Transcript[edit]
+[Single panel containing a table with two columns for "Lat/Lon Precision" and "Meaning" and a caption above the table.]
+Caption: What The Number of Digits in Your Coordinates Means
+[Row 1]
+Lat/Lon: 28°N, 80°W
+Meaning: You're probably doing something space-related
+[Row 2]
+Lat/Lon: 28.5°N, 80.6°W
+Meaning: You're pointing out a specific city
+[Row 3]
+Lat/Lon: 28.52°N, 80.68°W
+Meaning: You're pointing out a neighborhood
+[Row 4]
+Lat/Lon: 28.523°N, 80.683°W
+Meaning: You're pointing out a specific suburban cul-de-sac
+[Row 5]
+Lat/Lon: 28.5234°N, 80.6830°W
+Meaning: You're pointing to a particular corner of a house
+[Row 6]
+Lat/Lon: 28.52345°N, 80.68309°W
+Meaning: You're pointing to a specific person in a room, but since you didn't include datum information, we can't tell who
+[Row 7]
+Lat/Lon: 28.5234571°N, 80.6830941°W
+Meaning: You're pointing to Waldo on a page
+[Row 8]
+Lat/Lon: 28.523457182°N, 80.683094159°W
+Meaning: "Hey, check out this specific sand grain!"
+[Row 9]
+Lat/Lon: 28.523457182818284°N, 80.683094159265358°W
+Meaning: Either you're handing out raw floating point variables, or you've built a database to track individual atoms. In either case, please stop.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The coordinates seem to show a NASA building, so in the end you're still soing something space related. 172.69.55.196 19:47, 1 July 2019 (UTC)Some random European.
+The more precise coordinates are actually in the middle of the Rocket Garden at the Visitor's Center of the Kennedy Space Center complex. Ianrbibtitlht (talk) 19:58, 1 July 2019 (UTC)
+
+The atom-level coordinates are obtained by appending digits of e and pi to the Rocket Garden coordinates. Ichoran (talk) 20:21, 1 July 2019 (UTC)
+I always find it very funny to see all those decimals. Regular GPS devices have an uncertainty of 3 meters if there is no interference from trees, buildings or whatever. That puts you at about 4 to 5 decimals I guess. Palmpje (talk) 20:26, 1 July 2019 (UTC)
+A Google Maps webpage URL includes coordinates to seven decimal places. EmuSam (talk) 20:48, 1 July 2019 (UTC)
+Sure but out there with your handheld GPS or normal consumer device that includes a GPS receiver you won't get more precision than about 3 meters. And when your at the higher latitudes you're probably not getting that. Palmpje (talk) 20:52, 1 July 2019 (UTC)
+So combining this comic with #2169, is Randal suggesting he'll be at the Rocket Garden on July 28th (much as he did in #240)? 108.162.216.208 20:47, 1 July 2019 (UTC)
+It says June 28th. --162.158.126.22 20:52, 1 July 2019 (UTC)
+No, the date of that comic is June 28, but the title text says: [AT THE JULY 28TH MEETING] --Kynde (talk) 21:51, 1 July 2019 (UTC)
+Ah, that makes sense. For some reason my app only showed the first part of the tirle text --162.158.126.94 23:04, 1 July 2019 (UTC)
+The COMIC says "June 28th." The TITLE TEXT says "July 28th." Apparently the government computer predictive text was trained from different input. mwburden (talk) 15:26, 2 July 2019 (UTC)
+Regrettably, there are two dimensions missing, Z and T. Without Z (elevation)+/- you could be in space or in a neutrino detector. T is only relevant for dynamic objects, but there again, the Americas are going West at a measurable rate! RIIW - Ponder it (talk) 21:30, 1 July 2019 (UTC)
+The seventh row is likely a reference to comic number 1358 where two stick figures try to find waldo via satellite. 172.69.226.125 21:44, 1 July 2019 (UTC) kisara, 21:42, 1 July 2019 (utc)
+
+10^-40 degrees on the surface of the earth translates to about 0.7 planck lengths. 162.158.106.234 21:50, 1 July 2019 (UTC)
+Do the coordinates 28.5234°N, 80.6830°W really correspond to the tip of the Delta rocket? I checked and it was pointing to a small patch of ground next to the rocket, not the tip of the rocket itself. Herobrine (talk) 00:20, 2 July 2019 (UTC)
+No, you need to go to five decimal places to get the rocket. In that respect, I think he might be off by one digit of precision in his descriptions. Jeremyp (talk) 12:04, 2 July 2019 (UTC)
+Someone corrected it in the explanation, the coordinates 28.52345°N, 80.68309°W do correspond to the Delta rocket. Herobrine (talk) 12:46, 3 July 2019 (UTC)
+I would like to mention that neither number seems to fit into a standard double float value. I made a fiddle showing this. [1] Ansarya (talk) 01:48, 2 July 2019 (UTC)
+Floats are stored base 2, so representing them exactly as decimal often requires many more digits than is actually necessary (for complicated number theory reasons, a float can always be represented exactly as decimal, which would not be true if floats were stored in base 3). For this reason, programming languages that can format floats round them, usually to a number of digits where it will be possible to reconstruct the original float (though C# apparently takes off a couple extra digits, since those digits are almost never significant). To illustrate this, I used Rust to print many more digits of a float than would be shown normally [2]. The latitude coordinate in the comic could be the result of printing a double precision float, but the longitude coordinate could not be. Also note that it takes almost 50 digits to reach an exact base 10 representation, even though only 14 or 15 of those digits are actually needed to reconstruct the original float. Probably not Douglas Hofstadter (talk) 18:01, 2 July 2019 (UTC)
+May be my pet peeve... ...but adding an additional error to every piece of input data [and maybe every intermediate result] in order to show that either the precision the original measurement ends here or that all further digits of the measurement read "0" often introduces an error that can add up surprisingly quickly => I personally prefer raw floats that indicate there probably was no error analysis to rounded data and won't get tired on telling people to explicitely state what precision they can expect.162.158.114.70
+If the smallest subnormal 32 bit float is a Planck length, then the largest 32 bit float is 10 sextillion times the diameter of the observable universe. If the value 1.0 of a 64 bit float is a cubic Planck length, then the largest float is 100 sextillion googol times the volume of the observable universe. Probably not Douglas Hofstadter (talk) 17:21, 2 July 2019 (UTC)
+It'd be neat to have a map that shows the precision of given coordinates; like how Google Maps shows transparent blue circle with a wider radius if it's location detection isn't very precise. 172.69.170.76 19:10, 2 July 2019 (UTC)
+Something about the formatting of the table seems to be messing up the main page. Not sure what it is, but it happens just after the '110 km (70 mi)' so might be related to the span. Not a major problem as it's fine on the comic page and the main page will change tomorrow anyway. AlChemist (talk) 19:43, 2 July 2019 (UTC)
+       /\
+      /  \
+     /____\
+information is people 172.68.34.172 01:27, 3 July 2019 (UTC)
+"more than a quintillion times smaller" that's short scale quintillion, right? Kventin (talk) 08:04, 3 July 2019 (UTC)
+...and it's ambiguous otherwise. Depends entirely upon what one understands as "one time smaller" (or even if you can have a meaningful "zero times smaller", if you prefer) before you start to further multiply the smallerness by incrementing the factorisation. 141.101.98.76 00:57, 6 July 2019 (UTC)
+This is probably a reference to the fact that persons are animate, and different persons can occupy the same position at different times. No it is not. The comic itself explicitly states that it's a reference to the geodetic datum when it says, but since you didn't include datum information, we can't tell who.
+As the comic notes, different persons can occupy the same position at different times. Where does it note that? Am I looking at a different comic? 162.158.38.166 09:57, 3 July 2019 (UTC)
+Is there supposed to be a comma after the dash in the description on 15 decimal places? I thought the "beginning - interjection - end of sentence" structure doesn't require a comma since the interjected section is basically a comma in itself. 172.69.44.146 16:51, 3 July 2019 (UTC)
+As I learned it, a sentence with an interjection should be structured and punctuated as if the interjection were not there, be it enclosed in parentheses or dashes. See “Let's hunt – and then eat –, Grandma!”. 172.68.226.106 22:40, 3 July 2019 (UTC)
+
+For whatever reason, the plural of “geodetic datum” is “geodetic datums”. If you say “geodetic data”, then that sounds like you’re talking about a list of coordinates or something. It’s not regular, but it’s standard usage in the geodetic field. 172.69.160.150 13:47, 4 July 2019 (UTC)
+"The coordinates at 28.52345°N, 80.68309°W (in decimal degrees form; in geographic coordinate system form using degrees, minutes, and seconds, 28° 31′ 24.24.4″N, 80° 40′ 59.1″W)". The reference https://en.wikipedia.org/wiki/Geographic_coordinate_system does not support the view that degrees-minutes-seconds are any more of a geographic coordinate system than are decimal degrees (or meters, radians, etc. for that matter). This reads like somebody is grinding an axe.172.68.58.149 23:53, 4 July 2019 (UTC)
+Also the table at https://en.wikipedia.org/wiki/Decimal_degrees is similar to the comic, and predates it by at least a year. Not sure how or if that should be included in the explanation.172.68.58.149 23:53, 4 July 2019 (UTC)
+Then of course there's N 47° 38.938 W 122° 20.887 - You're probably a geocacher (Which always uses the GPS standard WGS84 datum, by the way, so that's that problem solved). --IByte (talk) 11:37, 6 July 2019 (UTC)
+I was actually surprised there was no reference to geohashing here. 172.68.245.193 06:39, 8 July 2019 (UTC)
+What the number of digits in your time means
+2010s: you're talking about a zeitgeist
+2016: you're talking about a piece of culture and how it fits in that zeitgeist
+2016 Q4: you're talking about a likely release date in the future
+2016 Nov: you're doing accounting
+2016 Nov 08: you're talking about a specific historic event
+2016 Nov 08 01:30 PM: you're talking about an event to gather for, but since you didn't include timezone information, we can't tell when
+2016 Nov 08 01:41 PM: you're writing a play-by-play
+2016 Nov 08 01:41:42 PM: you're checking out the date for an online comment
+2016 Nov 08 01:41:42.135 PM: you're optimistic about your computer's ability to sync to a webserver
+2016 Nov 08 01:41:42.135623 PM: you're probably filming with an expensive slow-mo camera
+2016 Nov 08 01:41:42.135623730 PM: you're probably doing something space-related
+172.69.190.4 20:54, 12 July 2019 (UTC)
+Before I came here I started a Google search on the Latitude and Longitude - Google offered up the correct Longitude as I entered the Latitude. Just interesting, not surprising.
+Someone just corrected that GPS coordinates do not cover square but rectangular areas. Now I am wondering: Is that correct? wouldn't the areas be slightly wider at the base closest to the equator, than on the base closes to the nearest pole? Or does this still qualify as rectangular, since the angles are 90° on the surface? Also: are all rectangles, when defined by the same amount of digits, the same size? or are they smaller close to the poles? (If I do not have something fundamentally wrong in my mind they would need to be either much smaller or more overlapping, close to the poles?) --Lupo (talk) 07:14, 10 June 2020 (UTC)
+Categories: All comicsComics from 2019Comics from JulyMonday comicsPages using the "citation needed" templateSpaceGeographyProgramming

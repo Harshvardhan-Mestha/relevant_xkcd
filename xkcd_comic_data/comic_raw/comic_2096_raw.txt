@@ -1,0 +1,66 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2096: Mattresses
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2096)
+|<< PrevComic #2096 (January 9, 2019)Next >>|
+Mattresses
+
+Title text: After reading that "The War To Sell You A Mattress Is An Internet Nightmare" article, I've decided it's safer and less complicated to just sleep on the floor. DISCLOSURE: THE AUTHOR OF THIS MOUSEOVER TEXT RECEIVED FINANCIAL COMPENSATION FROM THE FLOOR INDUSTRY FOR THIS MESSAGE.
+Explanation[edit]
+Cueball is talking to Ponytail about his mattress, in what appears to be just a casual conversation. Cueball suddenly offers to take any questions from listeners, as though the conversation were part of a podcast; this confuses Ponytail. The subtitle explains that Randall has heard so many advertisements for certain products on podcasts that he can't discuss them without feeling as though he's in a podcast himself.
+Podcasts are typically audio-only programs available online, which frequently generate income through advertisements. Ads are often read by the podcast host. Hosts will often include segues or personal anecdotes to further reduce the "topical whiplash" caused by abruptly switching subjects from that of the podcast to an unrelated brand plug, and back.
+In 2018, many podcasts (or at least many podcasts that Randall listens to) contained ads by Casper or Helix Sleep (both mattress brands), MeUndies or Tommy John (both underwear brands), and Stamps.com (an internet-based mailing/shipping service).
+The title text refers to "The War To Sell You A Mattress Is An Internet Nightmare", about the pressures companies put on reviewers, and the legal battle between a mattress review site that makes money through affiliate sales, and a mattress company, which was unhappy with a review. Since saying anything unfavorable about mattresses might open one to legal action, the title text author opted to avoid them entirely. However, that could be seen as an endorsement of sleeping on the floor, thus requiring a disclaimer. It also references the way that podcast hosts will often note when they intentionally or unintentionally endorse a product sponsor in an attempt to remain transparent about their financial supporters.
+Transcript[edit]
+[Cueball and Ponytail are talking to each other]
+Cueball: ...It's firmer than my old mattress, which I thought I wouldn't like, but it's actually really nice.
+Ponytail: Cool, maybe I should get one.
+Cueball: Now let's take some listener questions!
+Ponytail: What?
+[Caption below the panel:]
+I can't talk about mattresses, underwear, or the Post Office anymore without feeling the urge to segue back into a podcast.
+Trivia[edit]
+The image was originally posted as an indexed image with only a 3-color map (white, black, and grey), leading to graphical artifacts in place of a smooth blur between black and white. Most of Randall's comic images are indexed images with over 200 different grayscale colors. The original image can be seen here.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Image quality
+I wonder if the fact that it's unclear is in intentional, or if it was somehow a mistake Zachweix (talk) 13:46, 9 January 2019 (UTC)
+Is it just me, or has the image got some graphical artifacts?Cyclic3 (talk)
+It's not just you! 141.101.96.221 13:52, 9 January 2019 (UTC)
+I see it too, I saved a picture in case he fixes it Catnerd8695 (talk) 14:09, 9 January 2019 (UTC)
+Both "1x" and 2x versions are black and white, not grayscale, causing artifacts. The 2x image, being larger, have less artifacts. Maybe it's caused by some kind of bug, otherwise, if it was intentional, both versions would look similar.
+Maybe Randall is having problems with his computer and had to scan the comic with a far less capable software tool than usual. Ianrbibtitlht (talk) 14:15, 9 January 2019 (UTC)
+How does one contact him to let him know that he messed up when saving/editing/uploading/whatevering this comic? Fabian42 (talk) 14:16, 9 January 2019 (UTC)
+Also, does he actually have a podcast? Fabian42 (talk) 14:18, 9 January 2019 (UTC)
+I thought it might be a pun based on "new years resolution" but that would've been a couple of comics ago. Came here to see if anyone could explain it as there is normally reason behind his madness.--141.101.99.71 14:29, 9 January 2019 (UTC)
+It's a 2-bit png, haven't seen one of those for over a decade 172.68.215.112 14:31, 9 January 2019 (UTC)
+So you mean the only difference is that it has no greyscales? Fabian42 (talk) 14:36, 9 January 2019 (UTC)
+Maybe we should pre-emptively add the original image to the trivia section. Blacksilver (talk) 15:07, 9 January 2019 (UTC)
+I don't think so. If it stays, nobody will get notified of it and it might stay there for a very long time. And even if it changes, it will be wrong to say something like "it originally looked like this" until that actually happened. Fabian42 (talk) 15:10, 9 January 2019 (UTC)
+Just a thought, it's not on purpose, is it? Something to do with the quality of the mattress vs. the quality of the image? 172.68.132.95 15:09, 9 January 2019 (UTC)
+Nope, I guess not, lol172.69.22.224 14:56, 10 January 2019 (UTC)
+I think this refers to the fact that casper mattresses, meundies and stamps.com are heavy advertisers on many podcasts, and that podcast advertising is often made by the host and mixed with actual podcast content. Dromaeosaur (talk) 15:20, 9 January 2019 (UTC)
+Zooming fixes the issue. Would it be possible for someone to rescale it properly, and then set that as the image, until Randall fixes it? Cyclic3 (talk) 15:25, 9 January 2019 (UTC)
+No, it does not. Your browser or image viewer might interpolate between white and black pixels if you zoom in, but that's actually an even lower image quality. And you might not notice it too much if you only look at a single line. But no, zooming does not fix it. Fabian42 (talk) 15:28, 9 January 2019 (UTC)
+Zooming makes some browsers load the 2x image, which had less artifacts than the normal image, "fixing" it. No interpolation was needed. You can test it by zooming (it it still don't loads the 2x version try reloading the page). -- 162.158.63.166 (talk) (please sign your comments with ~~~~)
+Not in Chrome at least. And I would also not expect my browser to load a new image just because I zoomed. And I can't try it anymore anyway, because the image is fixed now. Fabian42 (talk) 10:58, 10 January 2019 (UTC)
+I use Chrome. You can still test the zoom feature, which still works with the current image as there's a 2x version: zoom to 200%, probably the image will get blurry (as, as you said, Chrome don't loads the higher resolution image automatically). Then reload the page then it will load the 2x version (which isn't blurry).
+Any chance of steganography? -- 172.68.150.82 (talk) (please sign your comments with ~~~~)
+What? What does that have to do with this comic? And what are you expecting to happen or have happened? Fabian42 (talk) 15:37, 9 January 2019 (UTC)
+Hey, it's just been fixed! I'll start uploading the new one now. That's right, Jacky720 just signed this (talk | contribs) 15:46, 9 January 2019 (UTC)
+Instead of uploading as a new image in the wiki, shouldn't we just update the existing image with the new file? Ianrbibtitlht (talk) 16:07, 9 January 2019 (UTC)
+The comic image always has to be updated and the file name must NOT be changed. The name is the same as the comic name and appears automatically in some lists. While someone already had done the proper update I've changed the link at this explanation back to the original and deleted the now unnecessary duplicate. --Dgbrt (talk) 18:07, 9 January 2019 (UTC)
+
+I removed this portion from the explanation - not sure that it is needed. (But here if want to improve/add back.) "To reduce the chances that their listeners will skip or fast-forward through ads," Another reason for having the host read the advertisement would be cost reduction. This style of advertisement is very similar to what is common on radio, and used to be very common in the early days of radio and television. (Again, not sure worth saying in the article.) 172.68.142.77 05:09, 11 January 2019 (UTC)
+
+Post Office
+The named products are not from the comic and seem to reflect the writers bias. Besides postmates, it could as well be stamps.com. I am not sure, but I believe to remember that other matress and underware companies advertise on podcasts as well. --162.158.75.10 17:34, 9 January 2019 (UTC)
+There is no way that this is referencing Postmates. It's definitely Stamps.com -- which advertises on nearly every podcast I listen to. It also makes more sense -- the Stamps.com ad directly references avoiding going to the post office. Casper and Meundies also have to be correct -- listening to podcasts, that's basically all I hear.
+User:Joefresco (talk) 18:03, 9 January 2019 (UTC)
+I have heard a lot of adds about tommyjohn on Pod Safe America (https://medium.com/crookedmedia/crooked-codes-866128fda384) and Mack Weldon as well. They also have advertisements for Helix Sleep another mattress. I think there is a good reason the comic doesn't mention company names but product categories.--108.162.216.208 18:44, 9 January 2019 (UTC)
+Floor
+Next week there is actually a "flooring" fair in Hannover. Pretty fitting to the title text, but not very fitting to my plans for using trains, because that messes up their departure times.
+German website for it: https://www.visit-hannover.com/Messen-Kongresse/Messekalender-Hannover/Messen-2019/DOMOTEX-Hannover-Service Fabian42 (talk) 15:18, 9 January 2019 (UTC)
+Categories: All comicsComics from 2019Comics from JanuaryWednesday comicsComics featuring CueballComics featuring Ponytail

@@ -1,0 +1,76 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2079: Alpha Centauri
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2079)
+|<< PrevComic #2079 (November 30, 2018)Next >>|
+Alpha Centauri
+
+Title text: And let's be honest, it's more like two and a half stars. Proxima is barely a star and barely bound to the system.
+Explanation[edit]
+Alpha Centauri is the closest star system to our solar system, being about 4.37 light-years away. As such, there are numerous ongoing plans and projects to journey to, and explore the star system, especially since the exoplanet Proxima Centauri b was found in 2016 to possibly have liquid water oceans and a very thin atmosphere. Similar to this project, Ponytail announces such a project using a Voyager-like probe.
+However, an offscreen person is against the idea of sending a probe to that particular part of the galaxy, as they think that "Alpha Centauri sucks". The person says that they looked "online" and that the system "only has three stars". This is a pun playing on the stars used in online reviews and stars as celestial objects.
+Star Rating Systems[edit]
+Online rating systems, such as Yelp, often use star rating systems, with more stars indicating higher quality, up to an arbitrary maximum, such as five stars to indicate the best rating. Due to the nature of 5 star rating systems, as shown in in comic 1098: Star Ratings, anything scoring less than 4 out of 5 in a 5 star rating system is crap; and in a 10-star rating system, scoring a mere 3 stars out of a possible 10 stars would be exceedingly low quality. The Alpha Centauri star system has 3 physical stars: Alpha Centauri A, Alpha Centauri B, and Proxima Centauri. The offscreen person has misconstrued this fact of the system as some kind of review.
+The title text furthers the pun. Some online star rating systems also allow partial stars, such as a half-star, to allow more precision in rating (e.g. rating 2.5 stars instead of being forced to chose 3 stars or 2 stars), or display an average collective rating as partial stars (e.g. showing 2.5 stars when five people have rated 3 stars and five people have rated 2 stars). Alpha Centauri's "half star" refers to Proxima Centauri, a red dwarf, which is a type of low-mass star. According to the offscreen person, this barely qualifies it to be a star. Furthermore, Proxima Centauri is nearly 13,000 AU (0.21 light years) away from the other 2 stars in the system, so it was long unknown whether Proxima Centauri was gravitationally bound to the Alpha Centauri star system.
+Calculations[edit]
+All numbers are rounded after subsequent calculations.
+According to space.com the fastest spacecraft ever will be the Parker Solar Probe which will reach 430,000 mph (692,000 km/h) as it reaches its closest point orbiting the sun. This is just over half of 1% of the needed speed of the Alpha Centauri vehicle proposed in the comic. The Voyager 1 spacecraft, launched in 1977, is currently traveling at about 38,000 mph (61,000 km/h).
+Distance to Alpha Centauri system = 4.367ly
+4.367 light years / 35 years = 0.12477ly per year
+0.12477 light years/year * 5.879e+12 miles/light year = 733,484,000,000 miles/year
+733,484,000,000 miles/year / 365 days/year / 24 hours/day = 83,000,000 Miles/hour / 1.60934 miles/kilometer = 134,000,000 Kilometers/hour
+The above math assumes a constant speed, and requires a speed of ~0.124855c. Assuming a constant acceleration from rest (non-relativistic math follows):
+35*365.25*24*60*60 = 1.10e+9 seconds in 35 years
+4.367 * 5.879e+12 = 2.57e+13miles, 4.13e+13 km, 4.13e+16 m.
+x = 1/2*a*t2
+a = 2*x*t -2
+Assuming constant acceleration to the halfway point and constant deceleration to the destination, (otherwise you streak through the system, barely observing anything):
+ttrip = 2*thalfway
+a = 2*2.06e+16*(5.50e+8) -2 = 0.136 m/s2, roughly 1/80 gravity.
+vhalfway = a*thalfway.
+Top Speed: 75,000,000 m/s ~ 1/4*c.
+Assuming E = F*d, 0.136*1*4.13e+16 = 5.37e15 Joules will be required for each kilogram carried to Alpha Centauri in 35 years.
+This would require an unimaginable amount of mass for a conventional chemical rocket, and is a completely impractical power requirement for any sort of passive solar sail concept.
+Further, the top speed is fast enough to require a recalculation using relativistic physics to model the problem. This means that the energy budget will need to increase, as the relativistic mass of the probe will increase, requiring more force (and thus more energy) to accelerate and decelerate near its top speed than this calculation returns.
+Active, laser based propulsion methods require currently non-existent and purely speculative laser and materials technologies, as well as a power plant equivalent to 12,500 of the World's Largest Nuclear Plant to transport sub-gram masses on this timescale. This also assumes that any probes can be steered accurately enough across interstellar distances to come close enough to image with any resolution the bodies they will be passing at a non-trivial fraction of c.
+Short of FTL travel or near-perfect mass-energy conversion technology, transporting more than a fraction of a gram of material to Alpha Centauri in a human lifetime will be unachievable. Short of an enormous breakthrough in power generation, transporting even a fraction of a gram is impossible.
+Nonetheless, Breakthrough Starshot is attempting to send many gram-sized probes to Alpha Centauri within the century. Following current technological trends, they expect the efficiency of laser-based propulsion to increase by launch time, allowing launches driven by an unreasonably-large-but-achievable amount of power. The top speed needed is halved by refraining from slowing at all at the destination: the probes will aim a distance away from the target, so that it traverses by slowly enough for a camera to rotate and track it, even at near-light speeds. To account for error and space dust, the plan is to launch many tiny probes simultaneously. They may only be able to accomplish their goal if they can get enough funding to actually affect the global economy enough to make the technologies they require more efficient to produce. Launches would additionally burn incredible quantities of natural gas.
+Transcript[edit]
+[Ponytail stands on a podium giving a presentation in front of a slide with an image of a Voyager-like spacecraft.]
+Ponytail: Our probe can reach Alpha Centauri in under 35 years.
+Offscreen voice: We should go somewhere else. Alpha Centauri sucks.
+Ponytail: Huh? It's the closest, most convenient system!
+Offscreen: Yeah, but I checked online and it only has three stars.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Possible concept projects he's referencing:
+https://en.wikipedia.org/wiki/2069_Alpha_Centauri_mission or https://en.wikipedia.org/wiki/Breakthrough_Starshot
+172.68.65.150 18:18, 30 November 2018 (UTC)
+Breakthrough Starshot sounds relevent enough to mention in the article. In 2016 an earth-like planet was discovered orbiting Proxima Centauri, which is the closest star in the universe to our sun. Other destinations are considered for the project, but the plan is to visit this planet. Expected velocity is 37,300 km/s. Estimated departure date is 2036, arriving by 2066. Significant funding exists. But some of the technologies do not quite yet. (for those who don't want to click the link) 162.158.187.25 21:06, 30 November 2018 (UTC)
+Alpha century does have 3 stars: Alpha Centauri A (also named Rigil Kentaurus[15]), Alpha Centauri B (also named Toliman), and a small and faint red dwarf (Class M), Alpha Centauri C (also named Proxima Centauri[15]) https://en.wikipedia.org/wiki/Alpha_Centauri
+172.68.65.150 18:18, 30 November 2018 (UTC)
+I don't know what the (voices off) is complaining about. We only have one star! So Alpha Centauti is an upgrade ;-) RIIW - Ponder it (talk) 18:44, 30 November 2018 (UTC)
+But if your going to upgrade, go all the way at least. (Definitely not an excuse I use to buy better PC hardware)Linker (talk) 18:49, 30 November 2018 (UTC)
+Check out figure 1 on page 3 of this 2016 study: http://www.ice.csic.es/personal/iribas/Proxima_b/pdf/Proxima_habitability_II.pdf showing how likely the researchers believe there to be oceans on Proxima b. They expect us to be able to determine what's true directly in 10 years when construction of larger telescopes is completed. Most other sources I found in my brief search are very careful to say that we do not know at all whether or not there is water on this nearby exoplanet. 162.158.186.108
+I (on the basis of no astrophysicists training, just being a Civil Engineer) can't help wondering that of the three planets in the Sun's Goldilocks zone* that only one has... 1. a strong enough magnetic field to prevent the solar wind stripping off a light atmosphere, that prevents the water boiling and being blown away. 2. an abnormally big moon**. 3. proven plate tectonics. 4. macro life.
+And so that 2 is crucial to 1 and 3 and 3 is crucial to 4 (including 1 of course)
+So why we expect liquid water everywhere is a mystery to me.
+YMMV and I reserve the right to be (proved) wrong
+apparently according to various things I have read over the decades
+some believe Mars had a bigger moon (magnetic field and oceans) before it's orbit decayed and it collided.
+RIIW - Ponder it (talk) 19:43, 1 December 2018 (UTC)
+Hmm: 4.367 light years / 35 years = 0.12477 light years/year
+The above math assumes a constant speed, and requires a speed of ~0.0001c.
+Wouldn't the assumed constant speed be about 12% of light-speed instead? 0.12477 light-years/year (cancel the years) = 0.12477 c.
+While conventional rockets could not carry enough fuel for an accelerating trip, what about ion propulsion? Low mass ejected at really high speeds for a long time could accelerate the space craft over the entire distance, with a turn-around halfway. 0.0625 g has been achieved by modern ion thrusters. The question is whether you could still carry enough propellant for 35 years. Nutster (talk) 10:54, 2 December 2018 (UTC)
+Ion engines usually use solar panels for their energy. However, in interstellar space, there is very little light so solar panels are not very efficient. They would first have to come up with an alternative power source to circumvent that problem. 162.158.92.34 12:42, 3 December 2018 (UTC)
+I was thinking nuclear power, like what is powering all the probes to the outer planets. This would just be really out-there planets. I would need to compare the power output of, for example, Cassini's reactor to the power needs of the ion drive (as well the needs of the rest of the system during the trip) to see how well that could work. Nutster (talk) 14:06, 3 December 2018 (UTC)
+Little do they realize, it's 3 Michelin stars. 172.69.210.52 15:46, 2 December 2018 (UTC)
+Not sure if I am the only one wanting to know how long it would take now and add it to the article; Distance to Alpha Centauri system = 4.367ly / fastest current speed 39,897km/h = 1.041 billion hours = 118757 years --162.158.91.59 12:35, 4 December 2018 (UTC)
+
+How is the rate of acceleration determined in the calculations above? Why not decrease it a bit and let it take longer time but save energy?
+Because the comic says "35 years." Nitpicking (talk) 00:03, 23 August 2022 (UTC)
+Why do the calculations assume natural gas as powering Breakthrough Starshot? Seems unlikely to me. Nitpicking (talk) 00:03, 23 August 2022 (UTC)
+Categories: All comicsComics from 2018Comics from NovemberFriday comicsComics featuring PonytailSpace probesOnline reviewsPuns

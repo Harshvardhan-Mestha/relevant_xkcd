@@ -1,0 +1,53 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2239: Data Error
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2239)
+|<< PrevComic #2239 (December 9, 2019)Next >>|
+Data Error
+
+Title text: Cyanobacteria wiped out nearly all life on Earth once before, and they can do it again!
+Explanation[edit]
+Megan is frustrated that a data error invalidates her research, which she was just ready to publish. Black Hat tells her not to panic and states there are two options.
+Option one is to redo her analysis and share the correct results, even if negative. Negative results can be important, and although it would be disappointing, she would be trying to extract some value from the research.
+Option two fits the classhole expectation from Black Hat, as he suggests that she should destroy the evidence, use her research materials to build a superweapon, and use it to conquer the world and rule it with an iron fist.
+Obviously familiar with Black Hat's ways, she moves right into being a smart-aleck. Her research is about the productivity of algae -- a topic not likely to lead to conquering the world. Humorously she states that at least she can make people tremble before her and her anomalously productive algae, and then goes on to state it was the data error that made her algae look productive. She jokingly corrects herself and states Tremble before my normal algae! She is, of course, having some fun with Black Hat and his generally destructive behavior.
+Destroying the evidence, hiding the error and publishing the wrong results as if they were right is what a dishonest scientist would do in such a situation. This behavior is what would be expected by a malevolent character such as Black Hat... But the unexpected turn is that Black Hat passes over scientific misconduct to go directly to pure supervillainhood. He obviously has some other ideas about what a researcher uses her time on, as he did not expect Megan to be frustrated about algae.
+The title text refers to the Great Oxidation Event, when prokaryotic photosynthetic organisms built up oxygen in Earth's atmosphere for the first time and most organisms, which weren't adapted to oxygen, went extinct. It's extremely unlikely that algae could again be dangerous to all life on Earth, though Black Hat may wish they could be. (Note that cyanobacteria, which are colloquially referred to as "blue-green algae", are not considered to be true algae by many scientists, who restrict the term to eukaryotes.) On the other hand, algae and cyanobacteria can still be locally harmful.
+Megan's data error could have been any number of things. Her data pipeline might have had a unit conversion error, or perhaps she mistyped the baseline productivity value that she was comparing her algae to, or perhaps her calculations used assumed or estimated values related to phenomena that were poorly understood at the time but have since been resolved in an unfavorable direction.
+Whatever Megan's data error was, it seems harmless enough, but a similar data error spurred the development of nuclear weapons. In 1940, Otto Frisch and Rudolf Peierls wrote a memo "On the construction of a 'superbomb' based on a nuclear chain reaction in uranium". In this memo, Frisch and Peierls estimated that only 570 grams of uranium-235 would be required to construct a "superbomb" (what we now call a nuclear weapon), compared to many tons of natural uranium-238. This inspired the British and American governments to begin developing infrastructure for uranium enrichment through the Tube Alloys and Manhattan Project programs. Later experiments in these programs revealed that the values Frisch and Peierls had used for uranium's density and nuclear cross-section were overestimates (the true critical mass is actually around fifty kilograms), but by that time, the programs were far enough along that they could simply press on with enriching more material to eventually produce working weapons.
+Transcript[edit]
+[Megan is talking to Black Hat.]
+Megan: I can't believe this data error invalidates a year and a half of my research.
+Megan: I was about to publish.
+[In a frame-less panel Black Hat replies while holding two fingers up one on either hand.]
+Black Hat: Don't panic. You have two options.
+Megan: Yeah?
+[Closeup shot of Black Hat holding one hand out with the palm up.]
+Black Hat: 1) Redo your analysis and share whatever results you can, whether positive or negative. It's disappointing, but these things happen.
+[Zoom out on Black Hat and Megan. Black Hat holds his closed fist up in front of him. Megan throws both arms up in the air.]
+Black Hat: 2) Destroy the evidence. Use your materials and research methods to build a superweapon. Conquer Earth and rule with an iron fist.
+Megan: Tremble before my anomalously productive algae!
+Megan: Except the anomaly was an artifact.
+Megan: Tremble before my normal algae!
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Randall's comics are usually relevant to recent events on or near the day comics are posted. I was wondering if this Data Error comic might be referencing some recent event, some data error at NASA or something. Does anyone know what it might be in reference to? 108.162.219.40 21:13, 9 December 2019 (UTC) ... Sorry, forgot to sign in. Saibot84 21:14, 9 December 2019 (UTC)
+I'm not aware of anything in the news. However, this is not the first time Randall has commented on research publication in a comic, so I suspect it's just another in that series. It seems obvious that he feels the first option is the appropriate choice, and the second option is the joke. Ianrbibtitlht (talk) 21:22, 9 December 2019 (UTC)
+I believe there was a relatively recent issue where a Python script used for processing data-sets made assumptions about the order in which data files would be returned by the host operating system that turned out to not always be true, throwing the results of several analyses off. Could he be referring to that? The scripts in question were used for obtaining results into cyanobacteria studies... https://arstechnica.com/information-technology/2019/10/chemists-discover-cross-platform-python-scripts-not-so-cross-platform/ 162.158.34.222 15:03, 13 December 2019 (UTC)
+I think the stickwoman is not "excited" but sarcastic, although you can't be sure in text. It is a joke based on the discrepancy in capabilities between real scientists and fictional mad scientists. 108.162.238.119 22:23, 9 December 2019 (UTC)
+I agree, Megan is being a smart-ass 108.162.245.202 15:46, 10 December 2019 (UTC)
+For start, "mad scientists" are usually more like mad engineers ... you can't get world domination by researching something and writing paper about it, you need to USE that research, usually by building something. -- Hkmaly (talk) 23:10, 9 December 2019 (UTC)
+Are you suggesting scientists can't build things? I don't actually know, since I'm an engineer! Ianrbibtitlht (talk) 23:43, 9 December 2019 (UTC)
+What is a data error in general? Explain me a term :) 172.69.22.74 02:39, 10 December 2019 (UTC)
+The discovery that the data you used was sampled below the Nyquist frequency pretty much kills your thesis until you can get data that was properly acquired. All your results will be contaminated with artifacts produced by the sampling rate, rather than by variations in the quantity that you imagined you were observing. 173.245.52.209 12:37, 10 December 2019 (UTC)
+I thought I knew what a data error is, but after that reply I'm not sure - although I'm almos sure that it did not help the one asking the question ;-) --Kynde (talk) 15:55, 10 December 2019 (UTC)
+Well, that is a type of data error (bad sampling technique), but not the only type. The data itself could have had corruption problems, such as maybe some rogue second species of algae contaminated the samples, etc. 172.69.62.46 21:39, 10 December 2019 (UTC)
+Also, malfunctioning or miscalibrated measuring equipment (transducers, cabling, etc.) would be another type of data error. Ianrbibtitlht (talk) 22:17, 10 December 2019 (UTC)
+More about data errors. Yes, I listed just one kind, and a fellow I knew had to re-do his thesis because of that particular error. The careful researcher investigates many possible sources of error. The poor researcher simply throws away the data points that do not match his preconceptions. HERE WE GO, enumerating some errors: (1) Noise from physically sloppy equipment. (2) Lack of calibration of measuring device. (3) Device loses calibration over time. (4) Manually recorded data errors, such as transposed digits. (5) Incorrect assumptions of linearity in the design of measurement. (6) Failure to record crucial environmental parameters. [That's just six minutes of thinking. Surely there are others.]
+Yes, I omitted an important source of error: Sabotage! You're not paranoid, someone really is messing with your data.162.158.79.113 01:34, 11 December 2019 (UTC)
+So, a data error is an error in your data, instead of in your analysis? 172.68.132.107 11:35, 11 December 2019 (UTC)
+If it were merely an error in analysis (see the recent mess with python, [1] ), then you simply fix your analysis code and re-run. So, yes, a "data error" means the original data values were flawed or invalid or whatever. Most likely sabotage inflicted by sophons. Cellocgw (talk) 12:29, 11 December 2019 (UTC)
+I'm happy that he said "two options" instead of "two choices", which of course would involve around four options. Watching the horrific Star Trek: Discovery for completist purposes, I was annoyed when someone said "you have only one alternative" when they meant "you have only one option". — Kazvorpal (talk) 18:39, 22 January 2020 (UTC)
+Categories: All comicsComics from 2019Comics from DecemberMonday comicsComics featuring Black HatComics featuring MeganBiologyScienceScientific research

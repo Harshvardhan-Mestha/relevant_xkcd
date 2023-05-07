@@ -1,0 +1,49 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2342: Exposure Notification
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2342)
+|<< PrevComic #2342 (August 5, 2020)Next >>|
+Exposure Notification
+
+Title text: I don't see why everyone is so hungry for BAD news, but fine, I'll give in to feedback and add a dark mode.
+Explanation[edit]
+This comic is another in a series of comics related to the COVID-19 pandemic.
+During the coronavirus pandemic, many apps were developed to implement digital contact tracing, using proximity detection or location tracking to notify people who had been potentially exposed to COVID-19. People who know they are infected are encouraged to isolate, and it takes time to test and find out if somebody is infected; so most notifications are retrospective, telling the user about past potential exposures.
+In this comic, a different type of app has been developed. Instead of notifying someone if they have been exposed to someone with COVID-19, the app produces notifications if they have been exposed to someone who has not tested positive. (Perhaps it also notifies the user if they have been exposed to a person who has tested positive, but if this is the case, it hasn't happened to the user in question yet.) This is much less useful because most people one would typically encounter would either not be infected, or not be aware of their infection, so almost every interaction will generate a notification, annoying the user. Also, being exposed to someone who has not tested positive is not good news, because it is still possible that the person might have COVID-19; it is simply less bad than being exposed to someone who has tested positive, but still worse than not being exposed to anyone.
+Socially and psychologically, modest amounts of people being close to each other normally is a positive behavior. For a typical person, it could be considered a sad sign of our times if you needed an app to tell you whether you did right in social interactions and compliment you. (For socially awkward people, on the other hand, this could be a welcome development.)
+The GNOME desktop environment in dark mode
+In the title text, Randall decides to give in to users requests, and add a mode giving the bad news that you have been exposed to COVID-19. Calling this dark mode is a play on dark referring to less desirable, as well as dark mode, a common user interface option. Dark mode is a common feature in apps which allows users the options to have a user interface that gives off less light. Alternatively, it may just be that the developer is completely misunderstanding the user's actual needs. This would be consistent with creating an app that alerts the way this one did in the first place.
+Randall has published similar "useless useful apps" in 937: TornadoGuard (a tornado-alert app that has lots of great features, except it doesn't actually alert the user about tornadoes) and 2236: Is it Christmas? (a web page that correctly identifies most days as "not Christmas", but then fails to identify Christmas Day as Christmas, for a >99% "accuracy").
+A week after this comic was posted, a user of the Canadian COVID tracing app posted an article about a similar issue: notifications from non exposure.
+Transcript[edit]
+[Cueball standing, holding out his chiming smartphone to review alerts it has received.]
+Alert 1:43 PM
+Good news: You recently had close contact with someone who has not tested positive for COVID.
+Alert 1:38 PM
+Good news: You recently had close contact with someone who has not tested positive for COVID.
+Alert 1:36 PM
+Good news: You recently had close contact with someone who has not tested positive for COVID.
+Alert 1:31 PM
+Good news: You recently had close contact with someone who has not tested positive for COVID.
+[Caption below the panel:]
+No one likes my new COVID exposure notification app.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Is it dark mode as in low light UI or dark mode as in depressing? Or both 198.41.238.106 21:24, 5 August 2020 (UTC)
+I think the title text is using the term "dark mode" not in the sense of UI design but rather that COVID-19 is "dark" and if the app were to have a mode that did what other apps did and gave notifications for potential exposures (bad news) that would be a "dark mode." I have refrained from putting this in the explanation for now as I am curious if there are other interpretations.Nk1406 (talk) 21:27, 5 August 2020 (UTC)
+I see we were thinking the same thing. I will add it.Nk1406 (talk) 21:27, 5 August 2020 (UTC)
+Actually I don't think that's what he meant at all. That would mean the developer was listening to user feedback. It seems more XKCD-like (and funnier) if the developer completely misunderstood the request and decided to spend a bunch of time adding a dark mode instead of what the user actually wanted. I'll add that as a possibility. 172.69.63.203 15:47, 7 August 2020 (UTC)
+Sheesh, why dance around the point, say it loud and proud— ‘’dark humor’’ --WurmWoode (talk) 21:59, 5 August 2020 (UTC)
+reminds me of people who would freak out when a financial audit report included the standard wording "We find no evidence of fraud ...." Cellocgw (talk) 12:31, 6 August 2020 (UTC)
+What's this about Stack Overflow? A link to an explanation of what happened to alienate users might be useful. LtPowers (talk) 12:36, 6 August 2020 (UTC)
+@LtPowers probably the mess when they tossed a moderator after she asked for clarification on some "don't be offensive" rule. (really, SO allowed groups dedicated to discussing the, ummm, finer points of interpreting religions, and then where "shocked, shocked, I tell you" to find that zealots had hissy fits) Cellocgw (talk) 13:29, 6 August 2020 (UTC)
+Huh. I thought SO was only for narrowly-tailored programming questions. Still, a link would be useful in the explanation, in case I wasn't clear. LtPowers (talk) 13:42, 6 August 2020 (UTC)
+@LtPowers The Stack Overflow website is part of a broader collection of sites in the Stack Exchange Network, which has many sites dedicated to various topics related both to technology and other topics.Nk1406 (talk) 21:39, 6 August 2020 (UTC)
+I removed that bit, as it just seems like random trivia. 172.69.34.144 20:49, 6 August 2020 (UTC)
+I agree that it doesn't really belong in the explanation because it is quite a stretch to make a connection.Nk1406 (talk) 21:39, 6 August 2020 (UTC)
+There is no indication that the app is accessing any medical records, so I removed that section. The same self-reporting techniques that work in a normal contact tracing app would still work in this app.Nk1406 (talk) 21:45, 6 August 2020 (UTC)
+The dark mode comment could be about the actual dark mode, making a joke about how programmers don't actually respond to the user's wishes and also a joke about the fact that every app / OS nowadays needs a dark mode to be fancy. 141.101.69.139
+Should there be a Category for "useless useful apps"? Barmar (talk) 15:36, 7 August 2020 (UTC)
+Categories: All comicsComics from 2020Comics from AugustWednesday comicsCOVID-19Comics featuring CueballSmartphones

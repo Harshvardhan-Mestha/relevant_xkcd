@@ -1,0 +1,116 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2420: Appliances
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2420)
+|<< PrevComic #2420 (February 3, 2021)Next >>|
+Appliances
+
+Title text: If you had an oven bag and a dryer that runs unusually hot, I guess you could in theory make tumbled eggs.
+Explanation[edit]
+This comic shows a confusion matrix of the applicability of various household appliances to different tasks. Green indicates an excellent performance, yellow not ideal, but usable, and red dismal or destroyed. The diagonal is green as it shows the tasks done by the machines they are supposed to be performed by. See table below. The comic is similar to 1890: What to Bring, but that comic does not use yellow or another intermediate color.
+Salmon can be easily cooked in a dishwasher, so it's marked "cooked", and thus "cook a frozen dinner" is only yellow on the dishwasher entry.
+The stove/oven has three green as it can also cook a microwave frozen dinner, although slower, and can toast bread, again slower than the toaster. It is by far the machine that has the fewest red entries, only one, as it cannot wash clothes. It can also not clean dishes, but it might sterilize them, thus that entry is yellow. It may actually dry the clothes, but is liable to burn them and is therefore yellow.
+The microwave oven can also cook eggs, thus it has two green, the only other than the stove/oven with more than one green.
+The toaster and the washing machines are the only ones without any yellow, and with only one green, for making toast/washing clothes - they are thus the appliances with the fewest other potential uses (zero). The washing machine will at least not destroy the clothes if you try to dry them, but it has the opposite effect, thus still red. The toaster will not destroy the dishes, but will potentially just make the dirt burn harder.
+The title text mentions that it would be theoretically possible to cook eggs in a dryer, but it is not a common use for a dryer.[citation needed] The joke is that it is not called scrambled eggs but tumbled eggs. It also mentions that the dryer has to become hotter than usual for a dryer (maybe dangerously hot for the clothes for it to work). And then the eggs should be cracked and put in an oven bag, that really needs to be tight and well zipped.
+Table[edit]
+Toaster Dishwasher Microwave Washing machine Stove/oven Dryer
+Make toast Yes, a toaster's function is to make toast from bread.[citation needed] No. A dishwasher would likely turn bread into mush, and the result is unlikely to be edible. No. A microwave could heat up bread, but would not brown the bread and make it crunchy. In this image, it appears that the bread is getting unevenly burnt. No. A washing machine would break the bread into several pieces and is unlikely to be edible. Yes, toast can be made using a stove or an oven. No. A dryer would burn the bread due to its heat and would break it up into crumbs due to its tumbling.
+Wash dishes No. A toaster would not be able to wash dishes and is likely to do nothing to make them clean (again, other than sterilization by heat). Yes, a dishwasher's function is to wash dishes. No. A microwave could heat up the dishes, but this would not serve any function in getting them clean and could cause food to get even more stuck on the dishes. No. A washing machine would break the dishes. The pieces would be clean, but unusable as dishes unless more robust than regular crockery. Maybe, a stove or an oven could theoretically sterilize dishes with high heat (but this would not clean off any stains or stuck food particles). No. Worse than the washing machine, the tumbling of a dryer would thoroughly pulverize porcelain dishes.
+Cook a frozen dinner No. A traditional toaster would not be able to cook a frozen dinner. A toaster oven combination would be able to do so (see stove/oven). Maybe. The fish could be cooked in a dishwasher, however, the rest might not, but this is not a typical use of a dishwasher. Yes, a microwave is normally used to cook a frozen dinner. No. A washing machine would make the dinner soggy and inedible. Yes, a stove or an oven could also be used to cook a frozen dinner. The image shows the dinner being removed from its packaging and placed in a baking pan. No. A dryer would make the frozen dinner inedible due to its tumbling action.
+Wash clothes No. A toaster would not be able to wash clothes and would instead leave burn marks. Maybe. A dishwasher would be able to get the clothes wet but the washing may be uneven. No. A microwave would just burn the clothes and not do any washing. Yes, a washing machine's function is to wash clothes. No, a stove or an oven would burn the clothes and not do any cleaning. Maybe. A dryer would heat the clothes and kill germs, but not get any stains out.
+Cook eggs No. A toaster would not be able to cook eggs. This image seems to show that eggs were cracked directly into the toaster, which causes a large plume of smoke. No. A dishwasher generally cannot cook eggs. However, it does seem that this is plausible to do. Yes. A microwave could be used to cook eggs, poached style as shown in the image, or also scrambled. No, a washing machine would destroy the eggs. Yes, a stove or an oven is typically used to cook eggs (and other foods). No. A dryer would overheat the eggs and tumble them to shreds.
+Dry clothes No. A toaster would not be able to dry clothes and would instead leave burn marks. No. A dishwasher would be able to get the clothes wet but would not do any drying. Maybe. A microwave could (unevenly) get clothes dry. No, a washing machine's function is to wash clothes and would just get the clothes wet. A washing machine's spin cycle could dry clothes to some extent but is not intended to fully wring all the water out of clothes. Maybe, a stove or an oven could be used to get clothes dry but runs a high risk of burning them, especially on parts that are in contact with metal. Yes, a dryer's function is to dry clothes after they are washed.
+Transcript[edit]
+[The comic is laid out like a grid, with usages for common household appliances the left-hand side (Make toast / Wash dishes / Cook a frozen dinner / Wash clothes / Cook eggs / Dry clothes) and appliances for these activities across the top (Toaster / Dishwasher / Microwave / Washing machine / Stove/oven / Dryer). The grid illustrates the "match-ups", with a green square denoting a "correct" match-up, a yellow square denoting something that may work somewhat, and a red square denoting something that most certainly won't work.]
+[From the top left corner, going from left to right, top to bottom, with each first item being on its own line in the grid, the images in the squares are as follows:]
+Make toast with a Toaster: Green square, toasted toast with stripe pattern.
+Make toast with a Dishwasher: Red square, slightly broken soggy toast in a puddle of water.
+Make toast with a Microwave: Red square, non-toasted and unevenly burnt toast.
+Make toast with a Washing machine: Red square, a few small soggy pieces of toast in a puddle of water.
+Make toast with a Stove/oven: Green square, toasted toast with somewhat irregular pattern.
+Make toast with a Dryer: Red square, large pile of breadcrumbs.
+Wash dishes with a Toaster: Red square, intact glass, somewhat bent fork, and slightly cracked and sooty plate.
+Wash dishes with a Dishwasher: Green square, clean glass, fork, and plate.
+Wash dishes with a Microwave: Red square, slightly broken glass, intact fork, and sooty plate.
+Wash dishes with a Washing machine: Red square, broken glass, intact fork, broken plate.
+Wash dishes with a Stove/oven: Yellow square, Text reading "Sterilized, at least" with an arrow beneath it pointing at a slightly cracked glass, intact fork, and sooty and cracked plate.
+Wash dishes with a Dryer: Red square, a large pile of broken porcelain and glass with part of a fork sticking out of it.
+Cook a frozen dinner with a Toaster: Red square, badly burnt food box emitting smoke.
+Cook a frozen dinner with a Dishwasher: Yellow square, Text reading "Fish might be cooked" with an arrow beneath it pointing at a food box two-thirds filled with water.
+Cook a frozen dinner with a Microwave: Green square, cooked food box.
+Cook a frozen dinner with a Washing machine: Red square, crumpled food box two-thirds filled with water.
+Cook a frozen dinner with a Stove/oven: Green square, sideways view of steaming cooked food box with lid removed.
+Cook a frozen dinner with a Dryer: Red square, open crumpled food box with burnt edges. Burnt food stuck to the panel's borders.
+Wash clothes with a Toaster: Red square, smoking T-shirt with large stripe-shaped burns and flames rising from the top.
+Wash clothes with a Dishwasher: Yellow square, unevenly wet/washed shirt.
+Wash clothes with a Microwave: Red square, slightly smoking shirt with spread-out burns and some flame on one sleeve.
+Wash clothes with a Washing machine: Green square, clean wet shirt.
+Wash clothes with a Stove/oven: Red square, shirt with a large semi-burned area.
+Wash clothes with a Dryer: Yellow square, slightly dirty-looking shirt.
+Cook eggs with a Toaster: Red square, toaster emitting a huge cloud of dense smoke.
+Cook eggs with a Dishwasher: Red square, slightly cracked eggs in a puddle of some kind.
+Cook eggs with a Microwave: Green square, egg in egg cup with text "(Poached)" beneath.
+Cook eggs with a Washing machine: Red square, eggshell fragments in a puddle, presumably the egg.
+Cook eggs with a Stove/oven: Green square, fried egg with beans on a plate.
+Cook eggs with a Dryer: Red square, a pile of eggshell dust, and possibly scrambled eggs.
+Dry clothes with a Toaster: Red square, mostly wet shirt, with parts in the middle being somewhat dry. Smaller stripe-shaped burns.
+Dry clothes with a Dishwasher: Red square, entirely wet shirt.
+Dry clothes with a Microwave: Yellow square, dry shirt with smaller burns.
+Dry clothes with a Washing machine: Red square, wet shirt.
+Dry clothes with a Stove/oven: Yellow square, dry shirt with small burn-like patches.
+Dry clothes with a Dryer: Green square, dry shirt.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This seems related to 1890: What to Bring. bubblegum-talk|contribs 02:55, 4 February 2021 (UTC)
+I actually disagree with the stove and washing dishes. In a large pot with water and with some stirring one can remove stains from cloths and kill germs. --141.101.96.28 07:08, 4 February 2021 (UTC)
+I suppose a mesh with spacing of roughly 1 cm or 1/2 inch placed near the bottom could help filter out any dirt/crumbs/similar that come out. Solomon (talk) 18:23, 28 November 2022 (UTC)
+It's interesting that all green squares are mirrored along the diagonal, with one exception, but no yellow ones at all. Usually you would assume that somewhat similar things result in a yellow square on both sides. Fabian42 (talk) 07:35, 4 February 2021 (UTC)
+A washing mashine can (and does) spin-dry clothes[edit]
+A spin-drying program can usually be selected separately without getting the clothes wet. While this is not effective as a dryer, still much better than nothing.
+I microwave can boil eggs, you just nweed to wrap them in foil and ensure they are covered by the boiling water. The foil acts as a faraday cage and ensures they only cook by conduction from the outside and the water stops arcing. You cvan also make scrabled eggs and omlettes. Arachrah (talk) 09:31, 4 February 2021 (UTC)
+You seriously suggest putting foil into the microwave? I guess you don't mean tinfoil/aluminum? --Lupo (talk) 09:58, 4 February 2021 (UTC)
+yes, read what they said. The aluminium foil happens to be unnecessary because they are immersing the eggs in water which will eventually boil. A fun thing to do is say to put a half a cup of water in the microwave, and listen to the screams from people who don't know that a couple of halved grapes are just fine with that half cup of water. One year old microwaves may not need the water; the half cup of water thing is from the directions for use on a twenty year old microwave. Edit by me162.158.75.140 05:02, 5 February 2021 (UTC)
+You can put a foil there IF you know what you are doing. Try dissecting a microwave popcorn bag - its bottom has an aluminium foil inside and acts as a pan. I was surprised by inclusion of egg as okay by Randall though - I thought egg yolks were famous for infrequent but nasty superheating surprises when microwaved. 162.158.165.116 10:41, 4 February 2021 (UTC)
+You don't even need to know what you are a doing. I often don't bother to heat a skillet and fry two eggs in an oiled ceramic bowl. They don't cook evenly, so you gotta rearrange them.
+500watt oven. For a 1500 one use a quarter power. 108.162.216.52 05:17, 5 February 2021 (UTC)
+I'm a bit weirded out by the idea that the eggs in the grid are specified as being poached. I'd have thought that "eggs in a microwave" meant scrambled, unless otherwise specified. And yes, OK, saying "poached" is specifying otherwise, you're right, thanks for mentioning it, but the implication is that poaching is the way that microwaves cook eggs. I've cooked a lot of eggs, microwave and otherwise, and today is the first day the idea of using a microwave to poach them has come up. Yorkshire Pudding (talk) 00:59, 6 February 2021 (UTC)
+I didn't get this at all until I read the explanation, as I am red-green colorblind and the shades of red and green that Randall chose appear completely identical to me. 141.101.104.35 09:47, 4 February 2021 (UTC)
+Oh man, I wonder whether Randall is aware of the difficulty his choice in colors creates for colorblind readers. He's done comics referring to colorblindness before, hasn't he? I wonder if a subtle edit should be in order, on his part. (Alternatively, a confusion map of which vision types perceive differences between which colors, labeled in the same problematic colors, might have a certain apropos irony...?)
+ProphetZarquon (talk) 18:42, 4 February 2021 (UTC)
+What a microwave does to bread is very weird. It seems to make the bread tougher (i.e., harder to bite through; in one case of a microwaved sandwich I was totally unable to bite off pieces), but doesn't make it stiffer (it ends up kind of like rubber). It doesn't wind up unevenly toasted like in the picture, but rather cooked in a completely different way. Magic9mushroom (talk) 11:22, 4 February 2021 (UTC)
+Using a microwave to dry clothes is generally a bad idea, there is quite a high chance of burns. The most household appliance to quickly dry clothes beside a dryer is actually the freezer. Perigril (talk) 13:20, 4 February 2021 (UTC)
+Updated transcript from 1890: What to Bring. Considering the increased size of this table maybe something else is wiser? Does anyone know why the three first items are separate, or why the washing machine appears only to wet parts of the shirt? Should the cited text from the comic be written in all caps to match the comic? Should the "with a" between the pairs be replaced with something better to indicate that unlike What to Bring, Appliances does not have an equivalent to the "Should you bring _____ to ______"-text? --IonIceXIII (talk) 13:22, 4 February 2021 (UTC)
+Attempting to do as well as possible in each square could make an interesting short video series. Stove/oven could probably achieve 6 greens, at least for quality of results if not for the time required Jgt (talk) 13:41, 4 February 2021 (UTC)
+I love this. Where do I click "Like" & "Subscribe"? ProphetZarquon (talk) 19:06, 4 February 2021 (UTC)
+I agree that the stove/oven deserves more green. I'm using the oven to dry (not just) clothes pretty often ;-) --141.101.96.82 21:08, 4 February 2021 (UTC)
+A classic example of a diagonally dominant matrix. 162.158.62.41 18:35, 4 February 2021 (UTC)
+I'm surprised how many people persist in using "bad" toasters (slot loading). They're terrible at handling pretty much everything except sliced bread, & are completely impractical for more than half the things one might want "toasted". Even a sliced bagel turns out better in a half-decent "toaster oven" than in any slot-loader I've seen; & with a toaster oven you can toast the toppings too. (For instance: peanut butter is better toasted! Warm gooey cream cheese! Reheat muffins with loads of butter on top!) Try making a toasted sandwich in a slot loader; they're a nightmare. Even cleaning them is more effort than a toaster oven. Slot loaders are terrible, obsolete fire hazards, as far as I'm concerned. Yet when you say "toaster", people still visualize a slot loader. It's like if you said "pencil" & everyone visualized a stick of bare graphite. The graphite can conditionally be used for some purposes related to "pencil" but the wood cased design with rubber eraser is far more practical. Same situation with toasters; why use a slot-loader when you can get a good toaster instead? ProphetZarquon (talk) 19:06, 4 February 2021 (UTC)
+It is an American thing. It is just how they believe toasters are supposed to look like. Also try telling them slices of real bread aren't square :D 172.69.55.104 09:28, 7 February 2021 (UTC)
+I seem to recall a Cutthroat Kitchen episode where one of the chefs was forced to cook eggs with a toaster. I think they turned the toaster on its side, then put the egg in a shallow dish that was placed inside the slot. I don't remember if that chef was cut, though. - 162.158.212.218 22:28, 4 February 2021 (UTC)
+Wait, you can cook fish in a dishwasher? Guess I'm one of today's lucky 10,000. Herobrine (talk) 01:58, 5 February 2021 (UTC)
+Don't. It is like canning greenbeans with aspirin. The aspirin fucks up the flavor of the greenbeans and with or without the aspirin you must process the greenbeans properly. SDT162.158.74.239 05:32, 5 February 2021 (UTC)
+Yeah I'm obviously not going to actually do that, but it's fun that I learned it's technically possible to cook fish like this. Herobrine (talk) 06:08, 5 February 2021 (UTC)
+Washing machine cooking options[edit]
+Some modern dishwashing machines will hit fairly high temperature for part of the cycle.
+https://www.reviewed.com/dishwashers/features/dishwashers-with-effective-sanitize-cycles
+Our Miele dishwasher tits 65C during part of the washing cycle (not the drying part).
+Classic sous vide egg poaching temperature is 64C so it should be able to poach an egg if you like your yolks runny. It's also plenty hot enough to sous vide fish (as long as it is a relatively thin fillet). Here I would be worried about overcooking white fish but firm fish like tuna or monkfish might work well. I'll give it a go tonight and report back!
+Toaster Cooking, etc...[edit]
+Standard Slot toaster with Toaster Bags can cook many things in a toaster, including eggs and fish
+My Washing Machine (AEG) has a top temperature of 95 C (washing cycle) so I'm pretty sure I could cook many things in it, if pushed.
+Microwave - surely - with the correct setting (low) you could adapt the stove top washing method mentioned above to clean clothes? OH, and you can certainly cook eggs in a MW - Fried, Scrambled, OR Poached (not tried boiled, but can't see why it would be much different from poached, you *may* want to put a hole in the shell though to avoid explosions...)
+Shame Freezer isn't on the matrix - supposedly the best way to keep Jeans fresh is to freeze them... 141.101.68.85 11:12, 4 November 2021 (UTC)
+Main page error?[edit]
+The main page currently has some sort of welcome template accidentally added to it.
+Screenshot: https://ibb.co/F08GNnN
+https://www.explainxkcd.com/wiki/index.php?title=Main_Page&type=revision&diff=205838&oldid=158337
+https://web.archive.org/web/20210205200636/https://www.explainxkcd.com/wiki/index.php/Main_Page --162.158.238.244 20:19, 5 February 2021 (UTC)
+Coloring of table[edit]
+The table should be adjusted to be colored like the comic: see 2360: Common Star Types as an example. SilverTheTerribleMathematician (talk) 00:43, 3 January 2023 (UTC)
+Try it, then. It's easy enough to do. Check it via Show Preview until you're happy (if it turns out that you're ever happy, but I say this rather than part-submitting your experiments and changes while you're tweaking such a big overall change) and then commit the change and let others judge your edit and adjust/revert accordingly.
+If you need to know how to do it, and don't already know (perhaps by checking the source of other Tables you admire) click on the Help link to the left (or just there, where I linked anyway), find the Tables page under the Advanced Editing section (IIRC) and find on that page all the cell-formatting details you need. (And loads that you won't need.)
+HTH, HAND 172.71.178.186 17:23, 3 January 2023 (UTC)
+Categories: All comicsComics from 2021Comics from FebruaryWednesday comicsPages using the "citation needed" templateComics with colorChartsFood

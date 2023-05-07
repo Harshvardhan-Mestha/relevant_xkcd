@@ -1,0 +1,153 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2456: Types of Scientific Paper
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2456)
+|<< PrevComic #2456 (April 28, 2021)Next >>|
+Types of Scientific Paper
+
+Title text: Others include "We've incrementally improved the estimate of this coefficient," "Maybe all these categories are wrong," and "We found a way to make student volunteers worse at tasks."
+Explanation[edit]
+In this comic, Randall describes categories of scientific papers with somewhat humorous generalized titles.
+Breakdown of papers[edit]
+Paper Title Explanation Visual Description
+We put a camera somewhere new Papers of this type include images of previously unseen regions, or sometimes provide new points of view for familiar ones. Includes a large figure, likely an image captured with the camera.
+Hey, I found a trove of old records! They don't turn out to be particularly useful, but still, cool! Papers of this type describe how the author discovered a collection of records—documents, ledgers, or the like—and a description of them. If the records had been useful, the author would presumably have written a different research paper. Small figure may show the most interesting fragment of the records.
+My colleague is wrong and I can finally prove it This title refers to the occasional rivalries between scientists within a field, which can push them to seek proof that they, and not their colleague, are correct. This search for vindication, rather than truth, can lead the researcher to overlook significant flaws in their research, and can also make for tedious reading. Like the two previous types, this one is laid out in two-column format with occasional section headings. Unlike those types, it has no figures.
+The immune system is at it again The human immune system is notoriously complex, and there are countless papers in medical fields just describing its strangeness. While it is best known for preventing and battling infections, it can also overreact or even turn against the body that it is supposed to protect. The title may convey exasperation with the amorphous nature of this study subject. Two-column format, no figures.
+We figured out how to make this exotic material, so email us if you need some Researchers often attempt to create materials with unusual physical characteristics. When they succeed they will often write a paper describing those characteristics. The humor is in the second clause of the title ("email us if you need some"), which reminds us that the researchers now possess some amount of the material in question and may not have a use for it. Sometimes the only reason for trying to create the materials is that they are peculiar or novel in some way, with no consideration of whether they might have any use apart from demonstrating the novel property. However, some other people might find that property very useful... and may lack the ability to make the substance for themselves. Two-column format, no figures.
+What are fish even doing down there The tone of this title expresses the researchers' amazement at finding fish in unexpected places, such as an active volcano crater. This type of article will describe what the researchers were attempting to do when they discovered the fish, and what it was about the environment that made the presence of fish so surprising. This one-column paper does not appear to have any headers, implying a longer, free-flowing format.
+This task I had to do anyway turned out to be hard enough for its own paper The author may be glad to have been able to turn mundane "housekeeping" activities, that don't normally do much to enhance academic reputations, into an actual opportunity to be cite-worthy. This paper is also one-column but it contains section headers.
+Hey, at least we showed that this method can produce results! That's not nothing, right? One of the struggles of the scientific method is that many experiments will not produce the results scientists desired or expected. In this case, the authors seem to have worked on their problem and been left with no citable proof of their efforts. Given the "publish or perish" imperative of academia, the authors may be writing up anything they can. Two-column format, no figures.
+Check out this weird thing one of us saw while out for a walk Sometimes scientists serendipitously encounter noteworthy phenomena even when they're not actively engaged in research. Sometimes the phenomena are not noteworthy but the scientists write about them anyway. Two-column layout. Includes several large figures, likely close-up photographs of the weird thing. There are no headers, as the paper may have little background or methodology, just observations.
+We are 500 scientists and here's what we've been up to for the last 10 years Some papers summarize the work of big research teams. Since the discoveries are a team effort, and since any level of participation helps to advance the project, the papers have many authors listed. A huge portion of the page is taken up by the presumably 500 authors' names, above the main horizontal bar.
+Some thoughts on how everyone else is bad at research Similar to the "my colleague is wrong" paper, but in this case applied to far greater swathes of the community by the author(s) of this (possibly unfocused) tract. Usually this type of paper is listed as a "systematic review". No header sections, possibly because these particular thoughts are in the form of an essay or letter without an accompanying investigation. Formatting this article as a single column with large blocks of text could also be indicating a slightly unhinged rant by someone who—wrongly—perceives themselves as unjustly marginalized.
+We scanned some undergraduates Initial research is often done at universities, so when human subjects are required, it is common for researchers to recruit undergraduate students. (This practice is often criticized, as it introduces a selection bias, which can make the results difficult to generalize to the entire population.) Two-column format with figures.
+We've incrementally improved the estimate of this coefficient Often scientific research, e.g. in cosmology or physics, will work with an assumed constant value that is known to be only an "educated guess" of the actual definite value, or an inclusive range. However accurate/certain this is, further experimentation or observation may further narrow down the uncertainty involved to a statistically significant degree. An improvement to one of these constants also improves the accuracy of every single calculation that uses it.
+Even if these improvements may seem trivial to those outside the discipline (e.g. narrowing down a seemingly esoteric value from 99.99% certainty to 99.995% certainty), they are probably understood as significant achievements by those aware of the effort needed to obtain such diminishing returns, and the authors are probably very excited to have done what they did.
+Another possible interpretation of this title is that it refers not to cosmological constants but to an exponent in algorithmic complexity, for example the 2014 paper that proved that the complexity of matrix multiplication is at most n^2.3728639 in place of the previous upper bound n^2.3729.
+(Only referenced in Title Text)
+Maybe all these categories are wrong In some field that relies heavily upon classification (e.g. phylogenetic biology, or the Standard Model in physics) sometimes observations arise that cast doubt on the previously established ideas. It seems that this may have happened here, hopefully with a suggestion of how to reimagine the situation.
+The article may have been written with with a sense of euphoria (the chance to present a paradigm shift in thinking, to rewrite the textbooks) or pessimism (it demonstrates only the failings in current thinking, without any obvious solution).
+We found a way to make student volunteers worse at tasks As noted above, research at universities is commonly performed with undergraduates as subjects. This research often requires the subject to perform a task under various conditions (e.g. with or without bright lights flashing in their eyes), and in one of the conditions they will perform worse than they do under the other condition. This demonstrates that the conditions have an effect, which is a positive result. Normally this type of paper is phrased as "the effect of X on Y", but the heading given here is also accurate.
+Transcript[edit]
+[Heading:]
+Types of Scientific Paper
+[An array of 4 rows with 3 scientific papers each, is shown. We see the first page of each paper, but only its title is legible. Headings are shown as black lines, paragraphs of text are shown as several squiggly lines and figures are shown as empty white rectangles. Titles are as follows:]
+We put a camera somewhere new
+Hey, I found a trove of old records! They don't turn out to be particularly useful, but still, cool!
+My colleague is wrong and I can finally prove it
+The immune system is at it again
+We figured out how to make this exotic material, so email us if you need some
+What are fish even doing down there
+This task I had to do anyway turned out to be hard enough for its own paper
+Hey, at least we showed that this method can produce results! That's not nothing, right?
+Check out this weird thing one of us saw while out for a walk
+We are 500 scientists and here's what we've been up to for the last 10 years
+Some thoughts on how everyone else is bad at research
+We scanned some undergraduates
+Trivia[edit]
+Originally, this comic's title text misspelled "volunteers" as "volunters".
+Another comic, 2012: Thorough Analysis, similarly categorizes or mocks research papers.
+Derivatives[edit]
+The comic inspired many derivatives, changing the paper titles to be more relevant to specific fields.
+The hashtag #TypesOfScientificPapers on Twitter includes many of these.
+There is a generator.
+There is a moodboard compiling hundreds of them.
+Some examples include:
+https://twitter.com/neil_chilson/status/1388216386967715846 Privacy Paper
+https://twitter.com/SamLMontano/status/1388268078279049217 Disaster Science Paper
+https://twitter.com/jfbastien/status/1388229180211404803 C++ Standards papers
+https://twitter.com/waiterich/status/1388207060412682247 Scientific Paper (Food, Land, and Natural Climate Solutions Version)
+https://twitter.com/stefan_d_jevtic/status/1388192045920137216 Hematology
+https://twitter.com/jeffpeapod/status/1388185831140118529 Papers for Grad Students
+https://twitter.com/EdinburghKnee/status/1388069182642794496 Ortho Paper
+https://twitter.com/j_remy_green/status/1387960392954138624 Law Paper
+https://twitter.com/JavierApfeld/status/1387891336515362819 Aging Paper
+https://twitter.com/Gabeincognito/status/1387873643435216897 Infosec Paper
+https://twitter.com/acarriebear/status/1387870050581889024 Toxicology
+https://twitter.com/yesitsnicholas/status/1387865583908114432 Neuroscience
+https://twitter.com/nexel_art/status/1388263392545280009 Archeology
+https://twitter.com/skinnyfatPhD/status/1388253551013498882 Metabolism
+https://twitter.com/zamanian_/status/1388179675806158848 Parasitology
+https://twitter.com/PWGTennant/status/1387734254960975881 Epidemiology and Public Health
+https://twitter.com/DrIanKellar/status/1387760304818372620 Health Psychology
+https://twitter.com/nappqm/status/1388098251136589824 Pest Science
+https://twitter.com/theangelremiel/status/1388134620219297793 Clinical Paper
+https://twitter.com/plantspipettes/status/1387825850372997121 Plant science
+https://twitter.com/girlandkat/status/1388030240358768642 Planetary Science
+https://twitter.com/Nesquixotic/status/1387848121342853122 History
+https://twitter.com/SamLemonick/status/1388177531703070722 How a reporter sees types of science papers
+https://twitter.com/AndrewBarnas/status/1388161745684996098 Scientific Paper PAYWALL meta-joke
+https://twitter.com/ctdicanio/status/1388630827857289221 Phonetics
+https://twitter.com/ProfSimonFisher/status/1388096934343233537 Language Research
+https://twitter.com/jeanburgess/status/1388245879119781889 Internet Studies
+https://twitter.com/drzimmermann/status/1388526687814656004 AI Ethics
+https://twitter.com/ElephantEating/status/1388552610236403714 Energy systems modelling 1
+https://twitter.com/WPSchill/status/1388584606375493634 Energy systems modelling 2
+https://twitter.com/oikoweather/status/1388533147768434689 Building energy modelling
+https://twitter.com/BrynnTannehill/status/1388947303025844225 Articles on trans people
+https://twitter.com/jiaqikangjiaqi/status/1389225735202607115 Types of diaspora writing
+https://twitter.com/jdporterlive/status/1388192751653687297 Literarcy Criticism
+https://twitter.com/spiroferrer/status/1388169795674120193 Urban planning
+https://twitter.com/ChanceBonar/status/1388266744784080903 Biblical studies
+https://twitter.com/AmesCG/status/1389368675887554562 A certain genre of center-right opinion column
+https://twitter.com/jonathanagray/status/1388527626495594504 Media studies
+https://twitter.com/awaisaftab/status/1388133087356325888 Psychiatry
+https://twitter.com/OriPomson/status/1388911680277651462 International Humanitarian Law (aka 'Law of Armed Conflicts')
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I've a feeling we could find actual papers that paraphrase down to those in the comic. Also, lol at the 500 scientists' "citation" section. 162.158.159.104 20:36, 28 April 2021 (UTC)
+As we edit this we should probably pay attention to the content / layout of the article images: The number of lines beneath the title and layout of each "paper" he's drawn could be relevant to the joke. For example, the "500 scientists" presumably have a massive authors list, and the one on how "everyone else is doing it wrong" has a single author and a particularly "article-esque" layout.
+172.68.132.45 21:04, 28 April 2021 (UTC)
+True. Do you think we should add another column describing the pictured paper to the explanation chart?
+Reywas (talk) 21:06, 28 April 2021 (UTC)
+For the "student volunteers" paper, many experiments involve adding hurdles for the participants to deal with. Like interrupting them, depriving them of sleep, adding distracting information, etc. It's not uncommon that these make them worse at the tasks. So this is just another research paper like that. Barmar (talk) 01:24, 29 April 2021 (UTC)
+Isn't the 'hurdles' style of paper WAY more common than the proposed psychological experiment? It's describing a simple tasks cognitive function test. They run those all the time to prove the effects of oxygen, caffeine, sleep, sugar, music, trauma, comfortable chairs, the color yellow, etc. I can't recall seeing ANY paper like the suggested psychology experiment to make people unlearn skills, let alone enough for that to be a whole category.
+Nobody has pointed out that the "Maybe all these categories are wrong" title directly pertains to this very comic... John.Adriaan (talk) 02:17, 29 April 2021 (UTC)
+I think that’s the more likely ‘correct’ interpretation, honestly. Maybe we should add more detail now that it’s mentioned? Tague (talk) 12:56, 29 April 2021 (UTC)
+At the least the list of categories is incomplete. The broader question is whether there are concentrations of papers in some areas of feature space (a subjectively plausible conclusion - I could offer some examples from botany such as "we compared the performance of several cultivars of a crop species under specific conditions") or do papers fall into a relatively flat continuum in that space. 141.101.107.78 11:35, 30 April 2021 (UTC)
+Should we add another colum to include the corresponding LaTeX template? Some of them seem like that could easily be found.
+These are titles of papers, so shouldn't each word be capitalized? For example: "We Put a Camera Somewhere New". I realize that the original is in all caps, but that's because that's the usual format for comics . . . . 172.68.57.179 10:45, 29 April 2021 (UTC)
+Paper titles are usually not capitalized, contrary to journal names. You can see an example at the Higgs Boson paper cited in the comic description (there are, of course, others.) 141.101.105.134 11:32, 29 April 2021 (UTC)
+Why does the explanation say "There are no headers" for the "We put a camera somewhere new" paper? I assume "headers" refers to "section headers", of which I see more in the camera-paper than in e.g. the immune system-paper (or the old records-paper). 141.101.96.28 11:25, 29 April 2021 (UTC)
+Probably referring to the lack of actual legible text for us to comment on the content of the paper. Tague (talk) 12:49, 29 April 2021 (UTC)
+I feel that the assumption made in a lot of the table that the text in each Paper is meant to be their literal title, is wrong. It strikes me more as an humorous explanation of "what sort of paper this is" for instance the first paper would indicate that a relevant category of scientific papers are about a camera being put someplace new and the data/photo's gathered from that, rather than an example of "clickbait". The actual papers in that category would presumably have an actual name relating to where the camera was actually put. 14:29, 29 April 2021 (UTC)~
+I interpret them as a mix of "over-generalized" headlines and less-than-literal summaries of that general sort of paper's content. Tague (talk) 14:41, 29 April 2021 (UTC)
+I read (e.g., for starters) "We put a camera somewhere new" both as very true to the emotional spirit and a paraphrasing of the true archetype membership being referenced - such as something like "Rat-mounted cameras for remote surveying of sewer pipes" (if that's not already been done, which I suspect it has!), etc. I suspect there's a few "one weird thing"-inspired titles out there, influenced by modern 'headline' links (with or without self-awareness), and know there's a whole history of "my colleague is wrong!" papers, even if not in exactly that wording, pushing the author's own biases in a self-important ranting style, or a rambling one that's an unstructured manifesto of 'thoughts' about all prior 'experts' on a pet issue. There's some deconstruction involved, but with easy reconstruction back to reality. 162.158.158.113 19:54, 29 April 2021 (UTC)
+Derivatives[edit]
+Should this (and any others, which I think likely exist or are about to) go in the main article? https://twitter.com/GreenBankObserv/status/1388148786707406854
+"With apologies to Mr. Munroe, may we present: Types of Radio Astronomy Papers"
+— JohnHawkinson (talk) 18:40, 30 April 2021 (UTC)
+These are good fun, but I don't think we are gonna put it up in image form in the main article. Maybe a section of external links will do. --162.158.165.235 00:56, 1 May 2021 (UTC)
+I don't think that links are a very effective way to show these. I feel like they need to be a gallery. Perhaps it should be a separate wiki page that is linked from the main article?
+Here are some more:
+https://twitter.com/neil_chilson/status/1388216386967715846 Privacy Paper
+https://twitter.com/SamLMontano/status/1388268078279049217 Disaster Science Paper
+https://twitter.com/jfbastien/status/1388229180211404803 C++ Standards papers
+https://twitter.com/waiterich/status/1388207060412682247 Scientific Paper (Food, Land, and Natural Climate Solutions Version)
+https://twitter.com/stefan_d_jevtic/status/1388192045920137216 Hematology
+https://twitter.com/jeffpeapod/status/1388185831140118529 Papers for Grad Students
+https://twitter.com/EdinburghKnee/status/1388069182642794496 Ortho Paper
+https://twitter.com/j_remy_green/status/1387960392954138624 Law Paper
+https://twitter.com/JavierApfeld/status/1387891336515362819 Aging Paper
+https://twitter.com/Gabeincognito/status/1387873643435216897 Infosec Paper
+https://twitter.com/acarriebear/status/1387870050581889024 Toxicology
+https://twitter.com/yesitsnicholas/status/1387865583908114432 Neuroscience
+https://twitter.com/nexel_art/status/1388263392545280009 Archeology
+https://twitter.com/skinnyfatPhD/status/1388253551013498882 Metabolism
+https://twitter.com/zamanian_/status/1388179675806158848 Parasitology
+https://twitter.com/PWGTennant/status/1387734254960975881 Epidemiology and Public Health
+https://twitter.com/DrIanKellar/status/1387760304818372620 Health Psychology
+https://twitter.com/nappqm/status/1388098251136589824 Pest Science
+https://twitter.com/theangelremiel/status/1388134620219297793 Clinical Paper
+https://twitter.com/plantspipettes/status/1387825850372997121 Plant science
+https://twitter.com/girlandkat/status/1388030240358768642 Planetary Science
+https://twitter.com/Nesquixotic/status/1387848121342853122 History
+https://twitter.com/AndrewBarnas/status/1388161745684996098 Scientific Paper PAYWALL meta-joke
+— JohnHawkinson (talk) 13:45, 1 May 2021 (UTC)
+
+The meme is now so popular there is an article in the atlantic about it; maybe that should be included: https://www.theatlantic.com/science/archive/2021/05/xkcd-science-paper-meme-nails-academic-publishing/618810/
+--162.158.89.113 14:28, 7 May 2021 (UTC)
+Categories: All comicsComics from 2021Comics from AprilWednesday comicsScientific researchScience

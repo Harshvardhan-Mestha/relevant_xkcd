@@ -1,0 +1,113 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2351: Standard Model Changes
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2351)
+|<< PrevComic #2351 (August 26, 2020)Next >>|
+Standard Model Changes
+
+Title text: Bugs are spin 1/2 particles, unless it's particularly windy.
+Explanation[edit]
+In this comic strip, Randall is proposing some changes to the Standard Model of particle physics. The currently accepted particle table has 17 slots: 12 fermions (first 3 columns of the table - six quarks [top two rows] and six leptons [bottom two rows]) and five bosons (last two columns of the table - four gauge bosons [left hand column] and one scalar boson [right hand column]).
+
+This comic consists of a normal version of the particle table to which Randall has made substantial alterations and additions, which are drawn in red over the black and white table, reminiscent of the similar "edits" to established diagrams in 1902: State Borders, 2258: Solar System Changes and, at a later date, 2639: Periodic Table Changes.
+While the Standard Model's predictions are very well supported by experiments, the physics community has identified several flaws in it (e.g. it lacks any particles to convey gravity), and so lots of research is committed to searching for "Physics beyond the Standard Model". Some of Randall's changes are sort of intended to fill some of those gaps, but for the most part they are nonsensical (although not quite as much as the Turtle Sandwich Standard Model or Fixion).
+Quarks[edit]
+Randall's proposed changes to the quarks are relatively restrained -- he proposes only that the "strange" and "charm" names should be moved to bosons, while the strange quark should be renamed the "right quark" and the charm quark should be renamed the "left quark", so that all quarks will have "ordinary" directional names.
+In reality, the original quark model proposed by Murray Gell-Mann included only three quarks, with the "strange" quark so named because the particles that contained them were strangely long-lived relative to their masses. The "charm" quark was so named when it was proposed because it brought a "charming" symmetry to the weak interaction, which we now understand is because it completes the second generation of quarks, along with the strange quark. When a third generation of quarks was proposed, they were called top and bottom by analogy to the up and down quarks (which are so named because of the isospin they carry), though the names 'truth' and 'beauty' were briefly in competition, and colliders working with B quarks are sometimes even now called "Beauty Factories".
+Randall likely applied "left" to "strange" and "right" to "charm" simply due to the placement of the particles in the table: In the American English vernacular, the phrase "left and right" is more common than "right and left", in the same way that "top and bottom" is more common than "bottom and top", and "up and down" is more common than "down and up". So he placed "left" above "right" to match the ordering of the other quark generations.
+Leptons[edit]
+While Randall leaves two leptons, the electron and the muon, untouched, he has opted to discard the tau lepton entirely. Each of these three leptons has an associated neutrino; Randall has decided to discard all but the electron neutrino, as he has decided that three are too many neutrino types. He has also replaced the standard symbol for the neutrino, the Greek letter ν (nu), with a capital N, in order to avoid confusion between ν and v, the two letters appearing similar, though this might further be confused with nucleon (particle physicists commonly use N to denote "proton or neutron", and excited states of nucleons are given the symbol N, followed by the mass in parenthesis[1]) or possibly even with the symbol for Nitrogen (the atomic nucleus with 7 protons and a similar number of neutrons, encountered more in radiology/chemistry as an N, 7N, 14N, N+, N2 and other variations).
+In place of one of the neutrinos, Randall has introduced a new elementary particle that supposedly explains the existence of dark matter. The nature of dark matter is one of the most famous mysteries in physics: galaxies seem to have much higher gravity than their detectable matter would account for, yet this mysterious form of matter does not seem to interact with other matter in any other detectable way. Neutrinos are known for rarely interacting with other matter, due to their lack of charge, which could justify Randall's decision, but even the little interaction that neutrinos have with the weak force rules them out as candidates for dark matter. Hypothetical sterile neutrinos could be the source of dark matter, and also for the small but nonzero masses of the familiar neutrinos, but no such particles have yet been identified. Together with the arrow, the only one in the comic that points at the particle's box rather than the symbol, the triumphant exclamation "We found it!" probably means that the new "dark matter" entry in the table is the dark matter particle.
+Bosons[edit]
+Randall proposes several new names for existing particles. First, that the W and Z bosons should be renamed to the charm and strange bosons, respectively (taking the names from the quarks), and second, that the Higgs boson should be named the Vin Diesel boson, as he considers Peter Higgs's name to be too boring to be given to a particle. The Higgs boson is known in the popular press (to the chagrin of many physicists, including Higgs) as "The God Particle", which is certainly a flashy name, but which itself was changed by the editors of the book of the same name from its authors' originally-intended title: The Goddamn Particle.
+Randall inserts the graviton, a purely theoretical particle, noting that its inclusion is "probably fine". While the graviton has never been observed, it is occasionally included in diagrams of the standard model to show its hypothetical place, which likely convinced Randall to do the same. Here it is shown below the Higgs boson, implying to be a scalar boson, though it is theoretically a 2nd-order tensor boson (with a spin of 2) and is usually given its own column.
+Randall also proposes that a false decoy "Magic" particle should be added to the Standard Model, to trip up promoters of quantum mysticism. Presumably, anyone who invokes this particle to support their claims will expose themselves as a fraud, much as cartographers will print trap streets on their maps to catch plagiarism.
+Finally, Randall adds "Cool bugs" as a fundamental particle, with an explanation of "Very small bugs are fundamental particles now".
+The title text builds on the "Cool bugs" entry, joking about what spin bugs would have if they were a fundamental particle.
+Table[edit]
+The title text references quantum spin number, a property of particles in physics that bears similarities to actual spinning. Although the cool bugs particle is put in the scalar boson group with spin 0, Randall states that it instead has spin 1/2, like a fermion. It is thus not clear whether cool bugs obey the Pauli exclusion principle or not. Unique among elementary particles, cool bugs are affected by wind, which can change their spin.
+Changes highlighted in red.
+Particle Symbol Actual particle Actual symbol Explanation
+Up quark u Up quark u No change.
+Left quark l Charm quark c Randall is continuing the pattern of naming quarks after directions. This wouldn't work well with 474: Turn-On unfortunately. The charm quark was named due to bringing a "charming symmetry" to the weak interaction, completing the second generation of quarks.
+Top quark t Top quark t No change.
+Gluon g Gluon g No change.
+Vin Diesel boson V Higgs boson H Peter Higgs is a British theoretical physicist who predicted the existence of scalar bosons, particles with spin 0. Randall suggests that the Higgs boson needs a flashier name and proposes to rechristen it the "Vin Diesel boson", named after American actor Mark Sinclair, who has nothing to do with physics.[citation needed]
+Down quark d Down quark d No change.
+Right quark r Strange quark s Randall is suggesting this name to match the charm (now left) quark. Particles containing this quark were considered "strangely long-lived".
+Bottom quark b Bottom quark b No change.
+Photon γ Photon γ No change.
+Graviton G Graviton (Hypothetical) G The graviton is a hypothetical particle which mediates the force of gravity. Randall is taking a very breezy point of view, stating that it would probably be fine to include it, even though its existence has not been confirmed yet. It is not recommended to act this way, though many do.[citation needed]
+Electron e Electron e No change.
+Muon µ Muon µ No change.
+(no one needs Tau leptons) (none) Tau lepton τ The tau lepton is a lepton with average lifetime much shorter than the electron or the muon. Randall apparently considers this particle redundant and states "No one needs tau leptons".
+Strange boson S Z boson Z The Z boson is one of two particles (three, counting the W boson's different charges) that mediate the weak force, named for having zero charge. Randall suggests the strange quark's name would be better suited for this particle.
+Magic M (none) (none) Randall suggests a "magic" particle as a decoy to trip up quantum woo promoters in order to expose them as the frauds they are.
+Electron neutrino Ne Electron neutrino νe Randall is annoyed by the similarity of the Greek lowercase nu (ν) and the lowercase V (v). Interestingly Randall leaves the "electron" part of its name and the subscript E of its symbol, even though he has eliminated the other neutrinos.
+(too many neutrinos) (none) Muon neutrino νµ Randall thinks one neutrino is enough, and to be honest, who can argue with him?
+Dark Matter D Tau neutrino ντ Dark matter is thought to make up most of the universe's matter. Randall claims to have found it; replacing the tau neutrino with it. This could easily be the most abundant particle in the universe.
+Charm boson C W boson W The other mediator of the weak force. Randall is suggesting that it would suit the charm name more than the charm quark.
+Cool bugs 🐞 (none) (none) Randall has decreed that extremely small bugs are fundamental particles. Bugs in reality are several orders of magnitude larger than any of the other known particles.[citation needed] They would not make a good elementary particle[citation needed] for a number of extremely obvious reasons[citation needed] and would make physics pretty frightening to some people.[citation needed] Randall uses the insect emoji as the symbol of the cool bugs particle. May be a reference to the "Cool Bug Epoch" in 2240: Timeline of the Universe.
+Transcript[edit]
+[A chart of the Standard Model of particle physics with red marks all over the chart.]
+Changes I would make to the Standard Model
+[In reading order:]
+u up, connected to the down quark below.
+c charm, connected to the strange quark below, in faded gray with a red l left written over it. Above is a red note with an arrow pointing to the :charm quark. The note reads,
+Consistent quark names (use "strange" and "charm" for bosons)
+t top, connected to the bottom quark below.
+g gluon
+H Higgs, in faded gray with a red V Vin Diesel writted over it. To the right is a red note with an arrow pointing to the Higgs boson, which reads,
+With all respect to Peter H, the Higgs boson needs a flashier name
+d down, connected to the up quark above.
+s strange, connected to the charm quark above, in faded gray with a red r right written over it.
+b bottom, connected to the top quark above.
+γ photon
+G graviton, in red with a red border. To the right is a red note with an arrow pointing to the graviton, which reads,
+Let's just include it, it's probably fine
+e electron, connected to the electron neutrino below.
+µ muon, connected in faded gray to the muon neutrino below, with red rounded corners cutting it off.
+τ tau, connected to the tau neutrino below, in faded gray with a red scribble over it. On the tau lepton is a red note which reads,
+No one needs tau leptons
+Z Z boson, with the Z symbol and the Z in the name in faded gray. The symbol has a red s written over it and the Z in the name is scribbled out in :red. The word strange is written in red between the symbol and the name.
+M magic, in red with a red border. To the right is a red note with an arrow pointing to the magic particle, which reads,
+Decoy particle for people making nonsense claims about "quantum" philosophy stuff
+v e electron neutrino, with the e as a subscript of the v, connected to the electron above. The v is in faded gray and a red N with a circle around it is written on it. Below is a red note with an arrow pointing to the electron neutrino, which reads,
+Fix neutrino symbol so I stop mixing up ν and v
+v μ muon neutrino, with the µ as a subscript of the v, connected to the muon above, in faded gray with a red scribble over it. On the muon neutrino is a red note which reads,
+Too many neutrinos
+v τ tau neutrino, with the τ as a subscript of the v, connected to the tau lepton above, in faded gray. Written over it is a D dark matter in red with a red border. Below the tau neutrino is a red note with an arrow pointing to it, which reads,
+We found it!
+W W boson, with the W symbol and the W in the name in faded gray. The symbol has a red c written over it and the W in the name is scribbled out in red. The word charm is written in red between the symbol and the name.
+🐞 cool bugs, in red with a red border. To the right is a red note with an arrow pointing to cool bugs, which reads,
+Very small bugs are fundamental particles now
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Re: "but for the most part [the changes] are nonsensical" I find the symbol changes pretty compelling, actually. Much clearer :) 172.69.34.210 00:05, 27 August 2020 (UTC) Related: I was going to respond to Randall here with Talking Heads' "Stop Making Sense"  :=) Cellocgw (talk) 10:04, 27 August 2020 (UTC)
+Honestly, I'd vote to change every nu in physics to something else since its so damned hard to write differently and read lazily.
+Yeah. Can we get the president of physics in here please? 172.69.34.140 01:35, 27 August 2020 (UTC)
+There is no president. Changing names is probably ok, but if you want to change the physics like with removing of neutrinos, you need to talk to God. -- Hkmaly (talk) 23:41, 27 August 2020 (UTC)
+So... We need to talk to the pontiff of physics, then? 162.158.159.110 03:44, 28 August 2020 (UTC)
+Top/Bottom should probably be In/Out or Front/Back or something. And that's even before Randall's proposed changes. 141.101.98.70 01:51, 27 August 2020 (UTC) "T" and "B" originally were going to be short for [redacted] and Bums , back when sexism was rampant. Possibly that's an urban legend, but having been in Physics grad school around the time quarks became a thing, I can believe it. Cellocgw (talk) 10:04, 27 August 2020 (UTC)
+
+Didn't t/b stand for truth and beauty at some point, thus formerly lining up more favorably with strange and charm? Also, a "cool bugs" boson with spin 1/2 would itself be a cool bug, in the sense of a glitch. 172.69.34.150 05:07, 27 August 2020 (UTC)
+It's a bit weird that he added left/right since most of the particle already come in left- and right-handed chirality.
+Comic 2240 has a "cool bug epoch" in the expansion of the universe that could be linked from the "cool bug" particle in this comic. ----
+The explanation says that the cool bugs particle goes into the scalar boson group, which isn't right because there isn't such a group here. Vin Diesel is a scalar, but the general agreement is that graviton has spin 2 (and for this reason it's also not really correct to move it to the gauge boson group). The group is more accurately called the everything else group. 162.158.202.110 11:22, 27 August 2020 (UTC) anon
+
+I posit the reason for "left, right" being in the order they are (instead of the more logical "right, left") is due to the Konami code being up, up, down, down, left, right, etc... SiliconCarbide (talk)
+Standard (American) English pairs Up-Down, Top-Bottom, and Left-Right, in that order, much like To-Fro, Here-There, Salt-Pepper and Shoes-Socks. It is unusual to refer to Right-Left ordering in English. 162.158.74.209 17:37, 28 August 2020 (UTC)
+The Right/Strange description box included this: "What's strange is how Randall assigns the charm quark the left and the strange quark the right, when so many languages have it the other way around. But since when has Randall cared?" Which is not at all clear. What is it that languages have what other way around? I moved it because it is so vague to seems meaningless. If it was a useful observation, please clarify so somebody who doesn't know what it means already can understand. 162.158.106.244 17:32, 27 August 2020 (UTC)
+Isn't a τ-Lepton just the same as two π-Leptons? That's why it's superflous. -162.158.202.86 17:54, 27 August 2020 (UTC)
+Except that π is a meson, not a lepton. 108.162.215.108 04:39, 28 August 2020 (UTC)
+Most recent revision "(→Leptons: neutrons are universally lower-case n, ..." isn't strictly true in its reversion of a prior statement. Wikipedia (amongst other places) states possible symbols of "n, n⁰, N⁰". The replacement information is probably not wrong, though. 162.158.158.185 11:38, 28 August 2020 (UTC)
+"Randall apparently considers magic to exist and be a particle, both of which are blatantly false." - but both the text of the comic and the sentence immediately after this one clearly state that it is intentionally inaccurate, so this seems like a strange claim to make. 172.69.34.156 01:59, 29 August 2020 (UTC)
+This is the first time I have seen an explainxkcd that blatantly and intentionally lies in the explanation. Jokes are common, especially the 'citation needed' meme. But your supposed to do that without any lies. Someone please fix it (especially the bug section) to be a funny, but accurate explanation as per the norm. 108.162.237.226 17:37, 30 August 2020 (UTC)
+I misread the right-most vertical caption [in the explanation's chart] as "secular bosuns" and didn't understand what the religious beliefs of seaman have to do with the rest. These Are Not The Comments You Are Looking For (talk) 09:18, 5 October 2020 (UTC)
+Neutrinos naturally undergo flavor-changing oscillations, so the idea of getting rid of the extra generations is more reasonable than it seems at first. Electron neutrinos change to mu and tau neutrinos in flight and vice versa. Mentioning this simply because I didn't see anyone else mention it. See https://en.wikipedia.org/wiki/Neutrino_oscillation
+"Higgs" loosely rhymes with "Pigs". I guess that's the reason why Randall doesn't want to use the name "Higgs". 2659: Unreliable Connection (talk) 08:05, 29 March 2023 (UTC)
+Higgs exactly rhymes with Pigs, but there's absolutely no reason to believe that hS anything to do with anything. Stupid comment, made for stupid reason, and I think this needs highlighting more than it deserves to be swept under the carpet. 172.70.162.229 19:44, 29 March 2023 (UTC)
+↑ https://pdglive.lbl.gov/ParticleGroup.action?init=0&node=BXXX005
+Categories: All comicsComics from 2020Comics from AugustWednesday comicsPages using the "citation needed" templatePhysicsCosmologyComics with colorComics featuring real people

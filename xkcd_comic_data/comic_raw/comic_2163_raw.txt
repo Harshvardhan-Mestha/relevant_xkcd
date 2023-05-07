@@ -1,0 +1,55 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2163: Chernobyl
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2163)
+|<< PrevComic #2163 (June 14, 2019)Next >>|
+Chernobyl
+
+Title text: You know when you can't hear your speakers, and you keep turning various volume controls up higher and higher in confusion, and then someone hits the mute button and there's a deafening blast of sound? That's basically what happened at Chernobyl.
+Explanation[edit]
+Ponytail and White Hat discuss the HBO miniseries Chernobyl which depicts the 1986 Chernobyl nuclear plant meltdown and the fact that none of them needs to state that they refer to the series, not to the power plant shows the impact the miniseries had on language, at least at this time. White Hat asks Ponytail for an explanation of how the meltdown occurred, but his understanding of science is so limited that he finds even the first part of the first sentence of Ponytail's explanation too complicated to understand.
+Ponytail starts explaining the role of graphite in the reactor's core as the neutron moderator, but White Hat immediately interrupts her, as if he doesn't understand the word graphite. Ponytail tries starting the explanation from another angle, stating that the nuclear reactor was inadvertently put in an unstable state moments before the disaster, but White Hat interrupts again. Realizing that White Hat does not understand what a reactor is, even though the reactor is the entire subject of the reactor meltdown, Ponytail resolves to use plain words every person should know, and to employ a metaphor.
+She compares the purpose of a nuclear reactor as a heat-generating device to primitive humans' way of heating by starting a fire. She goes on describing how a fire can be started by banging rocks (pieces of flint) to create sparks, which in turn would light a fire. Seeing that White Hat understands this simple activity, she compares starting a runaway nuclear fission reaction to banging rocks too hard, presumably splitting or crushing them and injuring the wielder.
+Nuclear reactions are often simplistically described and illustratively pictured as forcibly colliding colored balls representing various nuclear particles or nuclei, resulting in creating other balls, joining some into bigger ones, or splitting some into smaller ones. Fission reaction, in particular, involves a neutron causing a heavy nucleus to split into smaller parts, including more neutrons, that may cause further splits, and so on. To facilitate nuclear reactions, particles need to carry great amounts of energy as compared to their tiny sizes and masses. This may evoke a mental image of hitting rocks too hard so they split.
+Alternatively, banging some rocks too hard may suggest to a person not entirely familiar with the process of starting fire by the use of flint, that instead of providing small sparks and lighting a controlled fire by striking flint moderately, overdoing it may create a huge uncontrolled fire – and it is what has happened in Chernobyl, a huge fire caused by reactor overheat and subsequent explosion and core meltdown, with additional harmful effect of spreading radioactive particles over large area by the fire's fumes.
+The title text explains the cause of the accident using an analogy with the volume of an audio system. To sustain a controlled nuclear fission chain reaction, various mechanisms are involved in controlling the level of neutrons produced and consumed by the nuclear fuel. Due to various design flaws and operation errors leading up to the Chernobyl disaster, the reactor core was producing less heat than desired by the reactor operators, who were preparing to conduct a simulated power outage experiment. To increase heat production, the operators pulled out almost all available control rods without diagnosing the cause first, akin to turning the volume knob to maximum on a sound system while there was no signal on input because of some condition independent from volume setting and not readily recognized by the operator. Then the commencement of the experiment, which reduced the coolant water supply, further enhanced the positive feedback loop of the neutron production. Seeing a rapid rise in the power output, the operators began an emergency shutdown. A critical design flaw of the reactor caused the neutron production to increase temporarily in the reactor once the emergency shutdown started in this condition, which resulted in a runaway reaction caused by the multiple positive feedback loops taking place, ending up with dramatic increase of generated heat, coolant water rapidly boiling, steam explosion breaching the pressure vessel and breaking the coolant lines, and melting of the reactor core. The extreme heat of the melted core caused remaining water to split, and the accumulated hydrogen finally caused a chemical explosion that finally destroyed the reactor. Per the title text, this is analogous to a input signal returning to normal on a sound system that has the volume turned all the way up, creating a "deafening blast of sound."
+Transcript[edit]
+[Ponytail and White Hat facing each other.]
+Ponytail: Did you like Chernobyl?
+White Hat: Yeah!
+White Hat: But I still don't understand the meltdown. Can you explain it...simpler?
+[Zoom in to closeup of Ponytail holding one hand out with palm up, with White Hat off-panel to the right.]
+Ponytail: Well, the graphite–
+White Hat (off-panel): Already too complicated.
+Ponytail: Uh...they put the reactor in an unstable–
+White Hat (off-panel): Nope, sorry.
+[Zoom back out to full view of Ponytail and White Hat, with Ponytail holding hand to her chin.]
+Ponytail: Hmm, ok.
+Ponytail: Long ago, humans banged rocks together to make fire.
+White Hat: Ok...
+[Full view of Ponytail and White Hat, who has both hands held straight out to both sides.]
+Ponytail: 30 years ago, we banged some rocks together too hard.
+White Hat: Oh no!
+Ponytail: Yeah, we messed up real bad.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Please note that the first panel is referring to an HBO mini-series about the Chernobyl disaster, not the disaster itself! White Hat is NOT expressing enjoyment of the disaster itself, which was my initial reaction! Ianrbibtitlht (talk) 16:55, 14 June 2019 (UTC)
+If I were Randall, I would have put "HBO's Chernobyl" to dispel that confusion. Also, I'd be much cooler. OhFFS (talk) 18:06, 14 June 2019 (UTC)
+That’s why Randall put it in italics. 172.69.160.132 18:54, 14 June 2019 (UTC)
+Actually that's exactly what I thought until I came here, I've only been marginally aware such a show even existed, LOL! Actually, I took White Hat's enjoyment as "I find the subject interesting". In April & May I was coming to a bar for a Game Of Thrones viewing party (I only made it to three), and one either started or ended with Chernobyl, that was my only awareness of it. NiceGuy1 (talk) 05:47, 15 June 2019 (UTC)
+In the transcript, there's two words that might be both italic and bold: First, when Ponytail says "30 years ago, we banged some rocks together too hard.", I think "too" is italic and bold, and when she says "Yeah, we messed up real bad.", I think the "real" is also italic and bold. If this is the case, I don't know how to apply both bold and italic to text in wiki markup! Can anyone help? Ianrbibtitlht (talk) 01:51, 15 June 2019 (UTC)
+Never mind - I figured it out via the Wikitext Cheatsheet! Putting 5 single quotes around the text did it! Ianrbibtitlht (talk) 02:20, 15 June 2019 (UTC)
+I completely agree those words are both, and I feel I can say so with utmost certainty. NiceGuy1 (talk) 05:47, 15 June 2019 (UTC)
+I appreciate the feedback. Ianrbibtitlht (talk) 13:22, 15 June 2019 (UTC)
+If you’re going to watch the series, be sure to read this so you’ll know which parts are total BS: https://www.newyorker.com/news/our-columnists/what-hbos-chernobyl-got-right-and-what-it-got-terribly-wrong Tualha (talk) 08:39, 15 June 2019 (UTC)
+Well, there's a really short and simple explanation: "The reactor was a shit design." :P The exact circumstances aren't even that important, since it could just as easily have gone wrong in a variety of different ways. (To quote a 1993 report from a Soviet committee, translated by IAEA, "The Commission considers that the negative properties of this type of reactor are likely to predetermine the inevitability of emergency situations.") Zmatt (talk) 08:59, 16 June 2019 (UTC)
+It was a shitty design - but operational errors were crucial to the disaster. There are many big machines and installations that are very dangerous if put outside of their normal operating envelopes, and designing them to be failsafe in face of operational blunders is often very hard. Airliners stall, power turbines enter resonant states, boilers bust etc. - when operated incompetently. -- Malgond (talk) 18:29, 24 June 2019 (UTC)
+I thought White Hat understood 'banging the rocks together to hard' to mean 'created to big a fire.' 172.68.59.90 19:53, 16 June 2019 (UTC)
+Added alternative explanation with this meaning -- Malgond (talk) 14:38, 18 June 2019 (UTC)
+What I like about this page is that it's an explanation of an explanation...John.Adriaan (talk) 02:18, 17 June 2019 (UTC)
+An explanation for Beret might have to be a little more literary. "The Soviets told no tale; but even as uranium was the foundation of their might, so also was it their destruction: they banged too hard and too greedily, and disturbed that from which they fled, the Curie's Bane."
+/Ponytails/Ponytail/162.158.214.34 10:26, 17 June 2019 (UTC)
+The explanation of the title text mentions unmuting a sound system, but initiating an emergency shutdown is more like muting a sound system. That would make the analogy more precise­—muting a sound system often causes a crack sound, proportional to the set volume, Turning up the volume causes offsets somewhere in the system. At switching off, these offsets rapidly go away, causing a sound. 162.158.89.31 14:26, 20 June 2019 (UTC)
+Categories: All comicsComics from 2019Comics from JuneFriday comicsComics featuring PonytailComics featuring White Hat

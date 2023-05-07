@@ -1,0 +1,328 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2379: Probability Comparisons
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2379)
+|<< PrevComic #2379 (October 30, 2020)Next >>|
+Probability Comparisons
+
+Title text: Call me, MAYBE.
+Explanation[edit]
+This is a list of probabilities for different events. There are numerous recurring themes, of which the most common are free throws (13 entries), birthdays (12), dice (12, split about evenly between 6-sided (d6) and 20-sided (d20) types), M&M candies (11), playing cards (9), NBA basketball mid-game victory predictions (9), Scrabble tiles (7), coins (7), white Christmases (7), and the NBA players Stephen Curry and LeBron James (7 each).
+Themes are variously repeated and combined, for humorous effect. For instance, there are entries for both the probability that St. Louis will have a white Christmas (21%) and that it will not (79%). Also given is the 40% probability that a random Scrabble tile will contain a letter from the name "Steph Curry".
+There are 80 items in the list, the last two of which devolve into absurdity - perhaps from the stress of preparing the other 78 entries.
+The list may be an attempt to better understand probabilistic election forecasts for the 2020 United States presidential election, which was four days away at the time this comic was published and had also been alluded to in 2370: Prediction and 2371: Election Screen Time. Statistician and psephologist Nate Silver is referenced in one of the list items. On the date this cartoon was published, Nate Silver's website FiveThirtyEight.com was publishing forecast probabilities of Donald Trump and Joe Biden winning the US Presidential election. On 31 October 2020, the forecast described the chances of Donald Trump winning as "roughly the same as the chance that it’s raining in downtown Los Angeles. It does rain there. (Downtown L.A. has about 36 rainy days per year, or about a 1-in-10 shot of a rainy day.)" A day previously, when the chances were 12%, the website had also described Trump's chances of winning as "slightly less than a six sided die rolling a 1".
+The probabilities are calculated from these sources, as mentioned in the bottom left corner.
+The title text refers to the song "Call Me Maybe" by Carly Rae Jepsen (cited twice in the list). "MAYBE" is emphasized, perhaps because the probability of getting her phone number correct, as in the last item in the list, is very low. The capitalization could also be a reference to Scrabble tiles, as was previously mentioned in association with Carly Rae Jepsen.
+Table[edit]
+Odds Text Explanation
+0.01% You guess the last four digits of someone's Social Security Number on the first try There are nine digits in a Social Security Number, but the last four are commonly used as an identity verification factor. (1/10)4 = 0.0001, or 0.01%
+0.1% Three randomly chosen people are all left-handed The chances of having left-handedness is about 10%, and 10%3 = 0.1%.
+0.2% You draw 2 random Scrabble tiles and get M and M This appears to be an error. Under standard English Scrabble letter distribution there are 100 tiles of which 2 are M. This would give a probability of randomly drawing M and M as 2/100 × 1/99 ≈ 0.02%. However, other language editions of Scrabble have different letter distributions, some of which could allow this to be true.
+You draw 3 random M&Ms and they're all red Depending on the source of one's M&Ms in the U.S., the proportion of reds is either 0.131 or 0.125 . 0.131^3 ≈ 0.225%; 0.125^3 ≈ 0.177% .
+0.3% You guess someone's birthday in one try. 1/365 ≈ 0.27%. Taking into account that a person might have been born February 29, the probability with a random guess is slightly lower. If the guesser knows on which days there are slightly more births (for example, early October, believed to be because of conceptions occurring on the evening of December 31) and which days there are slightly fewer (for examples, holidays on which a planned, pre-scheduled C-section is unlikely to be held), then the probability is slightly higher.
+0.5% An NBA team down by 30 at halftime wins This calculation, along with all related ones, use the source NBA Win Probability Calculator. Entering Q2, 0:00, and -30 into the calculator yields 0.6% .
+You get 4 M&Ms and they're all brown or yellow Depending on the source of one's M&Ms in the U.S., the proportion of them that is brown or yellow is either 0.25 or 0.259 . 0.254≈ 0.39%; 0.2594 ≈ 0.45% . Both are closer to 0.4% .
+1% Steph Curry gets two free throws and misses both Curry is a 91% career free throw shooter, so the percentage of missing 1 free throw is about 9%. The chance of missing 2 free throws is about 0.8% ≈ 1%.
+LeBron James guesses your birthday, if each guess costs one free throw and he loses if he misses LeBron James' free-throw odds are ~73% . The odds of him winning on the first round are 1/365, for the second (1/364)(0.73), for the third (1/363)(0.73)2... Summing all of these from 1 to 365 gives us his total odds of winning at any point in the game are ≈ 1.022% .
+1.5% You get two M&Ms and they're both red Depending on the source of one's M&Ms in the U.S., the proportion of reds is either 0.131 or 0.125 . 0.131^2 ≈ 1.7%; 0.125^2 ≈ 1.6% .
+You share a birthday with a Backstreet Boy Each of the five Backstreet Boys has a different birthday, so the odds that you share a birthday with one is 5/365.25 ≈ 1.3% .
+2% You guess someone's card on the first try There are 52 cards in a normal deck of cards (excluding jokers), so the probability is 1/52, which is approximately 0.019 (1.9%).
+3% You guess 5 coin tosses and get them all right The chance of correctly predicting a coin toss is 0.5. The chance of predicting 5 in a row is 0.55, or 3.125%.
+Steph Curry wins that birthday free throw game Swap out 0.73 for 0.91 in the above calculations to find Steph Curry's odds of winning. This sum yields ~3.13% .
+4% You sweep a 3-game rock paper scissors series Picking randomly, you have a 1 in 3 chance of beating an opponent on the first try. (1/3)3 = 1/27 ≈ 4% .
+Portland, Oregon has a white Christmas According to Randall's source (from the Bulletin of the American Meteorological Society), the probability of snow cover in Portland is 4%.
+You share a birthday with two US Senators At the time this comic was published, 15 days were birthdays for more than one Senator, and 15/365.25 ≈ 4%.[1]
+5% An NBA team down 20 at halftime wins Entering Q2, 0:00, and -20 into the NBA Win Probability Calculator yields 5.2% or 5.3% .
+You roll a natural 20 A natural 20 indicates a critical hit in the Dungeons & Dragons role playing game. "Natural" means that it is the number showing when rolling a d20 (a 20-sided die), as opposed to an overall total of 20 when counting the die roll plus modifiers. There are twenty sides to a d20 die. 1/20 = 0.05 = 5%
+6% You correctly guess someone's card given 3 tries Picking a random card within 3 times gives 1 - (51/52)(50/51)(49/50) ≈ 6% .
+7% LeBron James gets two free throws and misses both James' career free throw percentage is 73%, so the probability of a miss is 27%. The probability of 2 misses is (27%)2, which is about 7%.
+8% You correctly guess someone's card given 4 tries Assuming you guess four different cards, 4/52 = 0.0769 ≈ 8% .
+9% Steph Curry misses a free throw Curry's career free throw percentage is 91%, so the probability of a miss is 9%.
+10% You draw 5 cards and get the Ace of Spades There are 52 cards in a normal deck of cards (excluding jokers), and the Ace of Spades is one of them.[citation needed] The chances of getting the card is 1 - 51/52 * 50/51 * 49/50 * 48/49 * 47/48 which is approximately 0.096, which rounds to the given 0.1 or 10%.
+There's a magnitude 8+ earthquake in the next month Note that, unlike other earthquake examples, this does not specify where the earthquake occurs.
+11% You sweep a 2-game rock paper scissors series You have a 1/3 chance of winning the first comparison, and a 1/3 chance of winning the second. (1/3) * (1/3) = 1/9 ~ 0.11 = 11% .
+12% A randomly-chosen American lives in California California is the most populous state in the US. Out of the approximately 328.2 million Americans (as of 2019), 39.51 million live in California. This means that a randomly chosen American has about a 39.51/328.2 ≈ 10.33% chance of living in California. Due to population change and rounding based on different sources, this could be pushed to 12%.
+You correctly guess someone's card given 6 tries Assuming you don't repeat previous wrong guesses, the probability is 6/52 ≈ 11.54%.
+You share a birthday with a US President Presidents James Polk and Warren Harding share a birthday, and are the only presidents so far (in 2020) to do so. Additionally, Grover Cleveland served two non-consecutive terms and is counted twice (as the 22nd and 24th presidents). He therefore shares a birthday with himself. With 43 distinct birthdays, the odds of sharing a birthday are 43/365 ≈ 12%. (This does not consider February 29 or that more births occur on some days than others.)
+13% A d6 beats a d20 The odds of a d6 beating a d20 are (0 + 1 + 2 + 3 + 4 + 5)/(6*20) = 0.125 ≈ 13% .
+An NBA team down 10 going into the 4th quarter wins Entering Q3, 0:00, and -10 into the NBA Win Probability Calculator yields 12.6% or 12.8% .
+You pull one M&M from a bag and it's red Depending on the source of one's M&Ms in the U.S., the proportion of reds is either 0.131 or 0.125 .
+14% A randomly drawn scrabble tile beats a D6 die roll Scrabble is a game in which you place lettered tiles to form words. Most of the scores per letter are 1, making it rare to beat a d6. The odds are (70/100)(0) + (7/100)(1/6) + (8/100)(2/6) + (10/100)(3/6) + (1/100)(4/6) + (4/100)(6/6) ≈ 14%.
+15% You roll a D20 and get at least 18 The set of "at least 18" on a d20 is 18, 19, and 20. The odds of rolling one of these is 3/20 = 15% .
+16% Steph Curry gets two free throws but makes only one Steph Curry's free throw percentage is 91%, so (0.91)(0.09) = 8.19% . However, the order of these is irrelevant, so the total odds are 16.38% .
+17% You roll a D6 die and get a 6 The odds are 1/6 ≈ 17% .
+18% A D6 beats or ties a D20 The odds are (1 + 2 + 3 + 4 + 5 + 6)/(120) = 17.5% .
+19% At least one person in a random pair is left-handed The chances of being left handed is about 10%, so the probability of both people in the pair not being left-handed is 0.92=0.81, and 1-0.81=0.19.
+20% You get a dozen M&Ms and none of them are brown Depending on the source of one's M&Ms in the U.S., the proportion of browns is either 0.124 or 0.125 . (1 - 0.125)^12 ≈ 20.1%; (1 - 0.124)^12 ≈ 20.4% .
+21% St. Louis has a white Christmas According to Randall's source, the probability of snow cover in St. Louis is 21%.
+22% An NBA team wins when they're down 10 at halftime Entering Q2, 0:00, and -10 into the NBA Win Probability Calculator yields 22.3% or 22.5% .
+23% You get an M&M and it's blue Depending on the source of one's M&Ms in the U.S., the proportion of blues is either 0.207 or 0.25 .
+You share a birthday with a US senator There are 100 Senators, but 31 Senators share 15 birthdays and 69 Senators have unique birthdays, so there are a total of 84 days of the year that are the birthday of a Senator.
+24% You correctly guess that someone was born in the winter By date, the cited U.S. census data gives that 24,545,230 of the 101,909,161 people were born in the meteorological winter (December through February), or 24.09%.
+25% You correctly guess that someone was born in the fall By date, the cited U.S. census data gives that 25,701,366 of the 101,909,161 people were born in the meteorological fall (September through November), or 25.22%.
+You roll two plain M&Ms and get M and M. An M&M can land on one of two sides, one with an M and one without. The odds of "rolling" two Ms is 1/4 = 25%. The term "rolling" is used jokingly in reference to the d6s and d20s above, suggesting that an M&M is a standard d2; this becomes especially true once you consider that a more accurate reference would have been to a coin, not a die.
+26% You correctly guess someone was born in the summer By date, the cited U.S. census data gives that 26,475,119 of the 101,909,161 people were born in the meteorological summer (June through August), or 25.98%.
+27% LeBron James misses a free throw James' career free throw percentage is 73%, so the probability of missing is 27%.
+32% Pittsburgh has a white Christmas According to Randall's source, the probability of snow cover in Pittsburgh is 32%.
+33% A randomly chosen Star Wars movie (Episodes I-IX) has "of the" in the title Episodes II (Attack of the Clones), III (Revenge of the Sith), and VI (Return of the Jedi) are the movies. This gives the odds of 3/9 ≈ 33% .
+You win the Monty Hall sports car by picking a door and refusing to switch The Monty Hall problem is a counterintuitive logic problem, in which you pick one of three doors at random. One of the doors has a car behind it, so the odds that you picked the door are 1/3 ≈ 33%. Thus, by not switching doors, your odds remain the same. The Monty Hall problem has previously appeared in 1282: Monty Hall and 1492: Dress Color.
+You win rock paper scissors by picking randomly The odds of beating an opponent on the first try by picking randomly is 1/3 ≈ 33% .
+34% You draw five cards and get an ace The odds are 1 - (48/52)(47/51)(46/50)(45/49)(44/48) ≈ 34% .
+35% A random Scrabble tile is one of the letters in "random" The odds of drawing a letter in "random" are (6 + 9 + 6 + 4 + 8 + 2)/100 = 35% .
+39% LeBron James gets two free throws but misses one LeBron James' free throw percentage is 73% , so the odds are (0.73)(0.27) = 19.71% . However, the order is irrelevant, so the odds are actually twice, or 39.42% .
+40% A random Scrabble tile is a letter in "Steph Curry" The odds of drawing a letter in "Steph Curry" are (4 + 6 + 12 + 2 + 2 + 2 + 4 + 6 + 2)/100 = 40% .
+46% There's a magnitude 7 quake in LA within 30 years
+48% Milwaukee has a white Christmas According to Randall's source, the probability of snow cover in Milwaukee is 48%.
+A random Scrabble tile is a letter in Carly Rae Jepsen The odds of a Scrabble tile being in her name are (2 + 9 + 6 + 4 + 2 + 12 + 1 + 2 + 4 + 6)/100 = 48% .
+50% You get heads in a coin toss There are two options in a coin toss, heads or tails, so the odds of getting heads is 50% (1/2). Uncharacteristically for Randall, this ignores the minuscule possibility that the coin might land on its edge.
+53% Salt Lake City has a white Christmas According to Randall's source, the probability of snow cover in Salt Lake City is 53%.
+54% LeBron James gets two free throws and makes both James' career free throw percentage is 73%, so the probability of making 2 free throws is (73%)2 = 53.9%.
+58% A random Scrabble tile is a letter in "Nate Silver" Nate Silver is a recurring person on xkcd. The odds of a Scrabble tile being in his name are (6 + 9 + 6 + 12 + 4 + 9 + 4 + 2 + 6)/100 = 58% .
+60% You get two M&Ms and neither is blue Depending on the source of one's M&Ms in the U.S., the proportion of blues is either 0.207 or 0.25 . (1 - 0.207)^2 ≈ 62.9%; (1 - 0.25)^2 ≈ 56.3%.
+65% Burlington, Vermont has a white Christmas According to Randall's source, the probability of snow cover in Burlington is 65%.
+66% A randomly chosen movie from the main Lord of the Rings trilogy has “of the” in the title twice The titles are:
+The Lord of the Rings: The Fellowship of the Ring
+The Lord of the Rings: The Two Towers
+The Lord of the Rings: The Return of the King
+All of them have “of the” at least once, in “The Lord of the Rings”, but only the first and third have it twice, and 2/3 ≈ 66%. This number typically rounds up to 67% , however, and it is unclear why it is not, given that the same reduced fraction is written in the 67% category below.
+67% You roll at least a 3 with a d6 The set of "at least 3" on a d6 refers to 3, 4, 5, and 6. The odds are 4/6 ≈ 67%.
+71% A random Scrabble tile beats a random dice roll This is a typo, as the correct probability is at the 14% entry. A random (d6) die roll beats a random Scrabble tile 71% of the time. Randall probably meant to write A random d6 dice roll beats a random Scrabble tile.
+73% LeBron James makes a free throw This is James' career free throw percentage, 73%.
+75% You drop two M&Ms and one of them ends with the "M" up so it's clear they're not Skittles The odds of at least one 'M' showing up is 1 - (1/4) = 75% . The reference to Skittles is that the two candies look similar to one another, and Randall has probably bit into a Skittle thinking it was an M&M, or vice versa. This trick might prevent that from happening in the future.
+76% You get two M&Ms and neither is red Depending on the source of one's M&Ms in the U.S., the proportion of reds is either 0.131 or 0.125 . (1 - 0.131)^2 ≈ 75.5%; (1 - .125)^2 ≈ 76.6%.
+77% You get an an M&M and it's not blue Depending on the source of one's M&Ms in the U.S., the proportion of blues is either 0.207 or 0.25 . (1 - 0.207) = 79.3%; (1 - 0.25) = 75.0%.
+78% An NBA team wins when they're up 10 at halftime Entering Q2, 0:00, and 10 into the NBA Win Probability Calculator yields 77.5% or 77.7% .
+79% St. Louis doesn't have a white Christmas According to Randall's source, the probability of snow cover in St. Louis is 21%, thus the probability of no snow cover is 79%.
+81% Two random people are both right-handed The probability of 1 person being right-handed is about 90%, thus the probability of 2 right-handers is (90%)2 = 81%.
+83% Steph Curry gets two free throws and makes both Curry's career free throw percentage is 91%, so the probability of making 2 free throws is (91%)2 = 82.81%.
+85% You roll a d20 and get at least a 4 The set "at least 4" on a d20 refers to 4, 5, 6... 18, 19, 20. The odds of this are 17/20 = 85% .
+87% An NBA team up by 10 going into the 4th quarter wins Entering Q3, 0:00, and 10 into the NBA Win Probability Calculator yields 87.2% or 87.4% .
+Someone fails to guess your card given 7 tries Assuming they guess seven different cards, there are 45 unguessed cards left. 45/52 = 0.865384615 ~ 86.5%
+88% A randomly chosen American lives outside California This is the opposite of the previous California probability. As the probability of an American living in California is 12%, the opposite would be 88%.
+89% You roll a 3 or higher given two tries The probability of rolling a 3 or higher (on a 6-sided die) is 66%, so the percentage of rolling a 3 or higher given 2 tries is 1 - (1-.66)2 = 89%.
+90% Someone fails to guess your card given 5 tries Assuming they guess five different cards, there are 47 unguessed cards left. 47/52 = 0.90385 ~ 90%
+91% You incorrectly guess that someone was born in August If the odds of someone being born in August are ~9% , then the odds that a person was not born in August are ~91%. (In an average month, 8 1/3% of the population was born. August has an above average number of days, but still only about 8.5% of the year is in August.)
+Steph Curry makes a free throw This is Curry's career free throw percentage, 91%.
+92% You guess someone's birth month at random and are wrong On average, a month lasts 8⅓% of the year. Thus, if you were to guess someone's birth month at random, you would be wrong 91 ⅔% of the time.
+93% Lebron James makes a free throw given two tries James' career free throw percentage is 73%, so the percentage of his making at least 1 free throw given 2 tries is 1 - (1-.73)2 = 93%.
+94% Someone fails to guess your card given 3 tries The odds of this happening are (51/52)(50/51)(49/50) ≈ 94% .
+95% An NBA team wins when they're up 20 at halftime Entering Q2, 0:00, and 20 into the NBA Win Probability Calculator yields 94.7% or 94.8% .
+96% Someone fails to guess your card given 2 tries The odds of this happening are (51/52)(50/51) ≈ 96% .
+97% You try to guess 5 coin tosses and fail The odds of this happening are 1 - (1/2)5 ≈ 97% .
+98% You incorrectly guess someone's birthday is this week The odds of this happening are about 51/52 ≈ 98%. (This depends on the week; there are more births in early October and fewer in holiday weeks.)
+98.5% An NBA team up 15 points with 8 minutes left wins Entering Q4, 8:00, and 15 into the NBA Win Probability Calculator yields 98.0% or 98.6% .
+99% Steph Curry makes a free throw given two tries James' career FT percentage is 91%, so the percentage of his making at least 1 FT given 2 tries is 1 - (1-.91)2 = 99%.
+99.5% An NBA team that's up by 30 points at halftime wins Entering Q2, 0:00, and 30 into the NBA Win Probability Calculator yields 99.4% .
+99.7% You guess someone's birthday at random and are wrong The odds of this are 364/365 ≈ 99.7%.
+99.8% There's not a magnitude 8 quake in California next year
+99.9% A random group of three people contains a right-hander About 90% of people are right-handed, so the percentage of at least 1 right-hander in a group of 3 is 1 - (1-.9)3 = 99.9%.
+99.99% You incorrectly guess the last four digits of someone's social security number There are nine digits in a Social Security Number, but the last four are commonly used as an identity verification factor. The odds of this are 1 - (1/10)4 = 99.99% .
+99.9999999999999995% You pick up a phone, dial a random 10-digit number, and say 'Hello Barack Obama, there's just been a magnitude 8 earthquake in California!" and are wrong This probability combines two events.
+First, the probability that a random 10-digit telephone number belongs to Obama is 1/1010. This ignores potential complications from Obama owning multiple phones or failing to answer personally (perhaps using an assistant or answering machine). Additionally, it assumes numbers are dialed at random rather than making more intelligent guesses, such as using likely addresses to guess area codes.
+Second, the probability of a magnitude 8 California quake is given in a previous entry as 0.2% per year. Although the time window for an earthquake to "just occur" is not given, a 15 minute window corresponds (within rounding error) to the total probability given.
+0.00000001% You add "Hang on, this is big — I'm going to loop in Carly Rae Jepsen", dial another random 10-digit number, and she picks up Carly Rae Jepsen is a Canadian singer. As Canada uses the 10-digit North American Numbering Plan, the odds of a random number being hers would be (1/10)10 = 0.00000001%. Like Obama, this ignores the possibility that she has multiple phones or that she doesn't answer personally.
+Trivia[edit]
+In the original comic, "outside" in the 88% probability section is spelled incorrectly as "outide". In addition, the 39% section had "two free throw" instead of "throws".
+The (seemingly unimportant) odds of LeBron James' versus Stephen Curry's free throws and names in Scrabble refer to 2002: LeBron James and Stephen Curry.
+Transcript[edit]
+[Large heading, centered.]
+Probability Comparisons
+[Left column.]
+0.01% You guess the last four digits of someone's social security number on the first try
+0.1% Three randomly chosen people are all left-handed
+0.2% You draw 2 random Scrabble tiles and get M and M
+You draw 3 random M&Ms and they're all red
+0.3% You guess someone's birthday in one try.
+0.5% An NBA team down by 30 at halftime wins
+You get 4 M&Ms and they're all brown or yellow
+1% Steph Curry gets two free throws and misses both
+LeBron James guesses your birthday, if each guess costs one free throw and he loses if he misses
+1.5% You get two M&Ms and they're both red
+You share a birthday with a Backstreet Boy
+2% You guess someone's card on the first try
+3% You guess 5 coin tosses and get them all right
+Steph Curry wins that birthday free throw game
+4% You sweep a 3-game rock paper scissors series
+Portland, Oregon has a white Christmas
+You share a birthday with two US Senators
+5% An NBA team down 20 at halftime wins
+You roll a natural 20
+6% You correctly guess someone's card given 3 tries
+7% LeBron James gets two free throws and misses both
+8% You correctly guess someone's card given 4 tries
+9% Steph Curry misses a free throw
+10% You draw 5 cards and get the Ace of Spades
+There's a magnitude 8+ earthquake in the next month
+11% You sweep a 2-game rock paper scissors series
+12% A randomly-chosen American lives in California
+You correctly guess someone's card given 6 tries
+You share a birthday with a US President
+13% A d6 beats a d20
+An NBA team down 10 going into the 4th quarter wins
+You pull one M&M from a bag and it's red
+14% A randomly drawn scrabble tile beats a d6 die roll
+15% You roll a d20 and get at least 18
+16% Steph Curry gets two free throws but makes only one
+17% You roll a d6 die and get a 6
+18% A d6 beats or ties a d20
+19% At least one person in a random pair is left-handed
+20% You get a dozen M&Ms and none of them are brown
+21% St. Louis has a white Christmas
+22% An NBA team wins when they're down 10 at halftime
+23% You get an M&M and it's blue
+You share a birthday with a US senator
+24% You correctly guess that someone was born in the winter
+25% You correctly guess that someone was born in the fall
+You roll two plain M&Ms and get M and M.
+26% You correctly guess someone was born in the summer
+27% LeBron James misses a free throw
+32% Pittsburgh has a white Christmas
+33% A randomly chosen Star Wars movie (Episodes I-IX) has "of the" in the title
+You win the Monty Hall sports car by picking a door and refusing to switch
+You win rock paper scissors by picking randomly
+34% You draw five cards and get an ace
+35% A random Scrabble tile is one of the letters in "random"
+[Right column.]
+39% LeBron James gets two free throws but misses one
+40% A random Scrabble tile is a letter in "Steph Curry"
+46% There's a magnitude 7 quake in LA within 30 years
+48% Milwaukee has a white Christmas
+A random Scrabble tile is a letter in Carly Rae Jepsen
+50% You get heads in a coin toss
+53% Salt Lake City has a white Christmas
+54% LeBron James gets two free throws and makes both
+58% A random Scrabble tile is a letter in "Nate Silver"
+60% You get two M&Ms and neither is blue
+65% Burlington, Vermont has a white Christmas
+66% A randomly chosen movie from the main Lord of the Rings trilogy has “of the” in the title twice
+67% You roll at least a 3 with a d6
+71% A random Scrabble tile beats a random dice roll
+73% LeBron James makes a free throw
+75% You drop two M&Ms and one of them ends with the "M" up so it's clear they're not Skittles
+76% You get two M&Ms and neither is red
+77% You get an an M&M and it's not blue
+78% An NBA team wins when they're up 10 at halftime
+79% St. Louis doesn't have a white Christmas
+81% Two random people are both right-handed
+83% Steph Curry gets two free throws and makes both
+85% You roll a d20 and get at least a 4
+87% An NBA team up by 10 going into the 4th quarter wins
+Someone fails to guess your card given 7 tries
+88% A randomly chosen American lives outside California
+89% You roll a 3 or higher given two tries
+90% Someone fails to guess your card given 5 tries
+91% You incorrectly guess that someone was born in August
+Steph Curry makes a free throw
+92% You guess someone's birth month at random and are wrong
+93% Lebron James makes a free throw given two tries
+94% Someone fails to guess your card given 3 tries
+95% An NBA team wins when they're up 20 at halftime
+96% Someone fails to guess your card given 2 tries
+97% You try to guess 5 coin tosses and fail
+98% You incorrectly guess someone's birthday is this week
+98.5% An NBA team up 15 points with 8 minutes left wins
+99% Steph Curry makes a free throw given two tries
+99.5% An NBA team that's up by 30 points at halftime wins
+99.7% You guess someone's birthday at random and are wrong
+99.8% There's not a magnitude 8 quake in California next year
+99.9% A random group of three people contains a right-hander
+99.99% You incorrectly guess the last four digits of someone's social security number
+99.9999999999999995% You pick up a phone, dial a random 10-digit number, and say 'Hello Barack Obama, there's just been a magnitude 8 earthquake in California!" and are wrong
+0.00000001% You add "Hang on, this is big — I'm going to loop in Carly Rae Jepsen", dial another random 10-digit number, and she picks up
+[In light grey color and in the lower left corner there is text.]
+Sources: https://xkcd.com/2379/sources/
+References[edit]
+↑ Rand Paul and John Thune - January 7
+Chris Van Hollen and Roy Blunt - January 10
+Tina Smith and James Lankford - March 4
+Tammy Duckworth and Mitt Romney - March 12
+Angus King and Patrick Leahy - March 31
+Jim Risch and Ron Wyden - May 3
+Dianne Feinstein and Elizabeth Warren - June 22
+Todd Young and Joe Manchin - August 24
+Kamala Harris, Brian Schatz, and Sheldon Whitehouse - October 20
+Jeff Merkley and Mike Rounds - October 24
+Jim Inhofe and Pat Toomey - November 17
+Dick Durbin and John Kennedy - November 21
+Rick Scott and Gary Peters - December 1
+John Boozman and David Perdue - December 10
+Based on List of current US Senators on Wikipedia (and processed through this Google sheet).
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+(Sidenote: for the 88% entry in the comic, "outside" is misspelled as "outide" as of the current moment.)
+What's the best way to organize the explanations for this comic, when they begin to be added? By the order they're listed in the comic? That seems inefficient, since presumably many of the entries can be answered as a group by a single explanation. If they should be grouped, how should they be grouped? --V2Blast (talk) 03:59, 31 October 2020 (UTC)
+The table I added is sortable. You could add a "type" column of some sort and users could sort by that if they want. Captain Video (talk) 04:42, 31 October 2020 (UTC)
+There's a discrepancy between the version here and the current official version. Here, 0.2% has the red M&Ms thing paired with the odds of drawing a flush in poker ("you draw 5 cards and they're all the same suit"); the official version has it with "You draw 2 random Scrabble tiles and get M and M." Here, the latter piece of information is at 0.1%, and there the 0.1% item is "Three randomly chosen people are all left-handed." I'm guessing we have an old version of the page? Captain Video (talk) 06:03, 31 October 2020 (UTC)
+Updated. Natg19 (talk) 08:29, 31 October 2020 (UTC)
+Cool, thanks. Captain Video (talk) 01:22, 1 November 2020 (UTC)
+Wouldn't the Lord of the rings one be, technically, 67%, since 66.6666666... rounds to 67%, not 66? Also, we should really add a better comment interface. BarnZarn (talk) 06:28, 31 October 2020 (UTC)
+The same goes for the next entry, imho, since LOTR-one is 2 out of 3 movies and the dice rolls are 4 out of 6, which comes down to the exact same percentage.
+Hooray, xkcd is finally xkcd again! For the last fifty strips it’s basically been lighter SMBC. Yay Randall!
+Also, if anyone wants to read something very English and very horrible, https://endicottstudio.typepad.com/poetrylist/the-white-road-by-neil-gaiman.html. Lightcaller (talk) 07:21, 31 October 2020 (UTC)
+I have to think the second to last is off. First, what is meant by "just been"? Minutes, hours, days? Second, does anyone know the correct number of 10-digit phone numbers that are answered by people named "Barack Obama" (as pronounced, not spelled)? I remember that Obama had a cell, and including the phones in his office and his bedroom (separate #'s), so during his term, that's at least 3. SDSpivey (talk) 15:50, 31 October 2020 (UTC)
+first of all, this is no longer his term, so the number of phone numbers he has nowadays might be different. Also, the scenario requires him to pick up the phone, and he probably wouldn't simultaneously be available to pick up a phone in both his office and bedroom, and unless it's a cell phone, only a fraction of the time would he be there. Also, like many people, he might not answer calls from unknown numbers, or he may have a secretary or someone screening his calls. Judging from the following line though, the calculations used here probably just used 1 in 10 billion for that value, leaving only the "just been an 8.0 earthquake in Calfornia" part.--108.162.216.124 09:12, 1 November 2020 (UTC)
+Isn't the second to last entry really just a sneaky way of listing the probability of a magnitude 8 earthquake having just occurred in California? The entry says nothing about Barack Obama actually answering the phone, nor even that the number dialed being Barack Obama's. If agreed, then can the explanation in the table be updated? If disagreeing, then I'd appreciate you pointing out where I'm in error.
+Could Obama's phone number be referring to when he Tweeted a phone number to text him at in late September[1]? And so the chance of it being the correct number is much higher? B. A. Beder (talk) 01:09, 2 November 2020 (UTC)
+guys i have never edited the transcript section im scared. — The 𝗦𝗾𝗿𝘁-𝟭 talk stalk 16:36, 31 October 2020 (UTC)
+This comic has so many American jokes and brands I can't understand this... I found this from mathematics stack exchange and that helped me understand what this M&M stuff is... — The 𝗦𝗾𝗿𝘁-𝟭 talk stalk 16:39, 31 October 2020 (UTC)
+Alright, I if the only colours are red green and blue how can there be fucking yellow or brown godammit I give up someone else do this shit AHAHAHA — The 𝗦𝗾𝗿𝘁-𝟭 talk stalk 16:45, 31 October 2020 (UTC)
+There are currently 6 colors, blue, red, brown, yellow, green and orange. Each comes in different ratios, for some reason. If there were all the same ratio, then getting 2 that are both red would be 1/36=2.777%, so red is below average. SDSpivey (talk) 00:58, 1 November 2020 (UTC)
+The colors used to be different a number of years ago. I forget what year, but they had a contest for people to vote on a new M&M flavor. They had people vote between blue, pink, and purple. I guess blue won as both pink and purple are considered girly colors and blue is considered manly, but the presencee of two girly colors split the vote for that. At the same time they got rid of there having used to be light brown M&Ms, and for a while they had commercials with blue M&Ms singing the blues. Anyway, I also read speculation the reason some colors are more common is they put less of the ones where the dye they use is more expensive, though I'm not sure if that's accurate.--108.162.216.124 09:07, 1 November 2020 (UTC)
+I don't understand the "You share a birthday with two US Senators" as being 4%. If there is only one pair of U.S. Senators with the same birthday, then your chance of sharing a birthday with them would be 1/365 (~0.27%). --162.158.74.143 20:25, 31 October 2020 (UTC)
+I'm not certain of the math offhand, but it is the odds of randomly sharing a birthday with 2 out of 100 Senators. Not that just a pair shares one with you. Although all this birthday talk ignores Feb 29 births. SDSpivey (talk) 00:58, 1 November 2020 (UTC)
+I just noticed the note about there being 9 days that have a pair of Senators sharing a birthday. Does the 4% take that into consideration? SDSpivey (talk) 01:08, 1 November 2020 (UTC)
+It's been updated to say that there are 15 days that have at least 2 Senators who share a birthday. That would make the probability (15/365.25), or 4.1%, so Randall is correct. (Using 365.25 to account for Feb. 29 births.) --162.158.74.55 03:57, 2 November 2020 (UTC)
+Um... in the Trivia section, someone wrote:
+"the 67% probability of rolling at least a 3 with a D6 is correct. "At least a 3" means a 3, 4, 5, or 6."
+Four out of six is ~67%, right? Please don't tell me I've forgotten basic maths. I'm going to delete that section, but feel free to add it back in if I'm just being an idiot. BlackHat (talk) 22:28, 31 October 2020 (UTC)
+The explanation for the Social Security Number is wrong- it should be that there are ten possible digits for each of the four digits you're trying to guess. The number of digits in a SSN doesn't matter since the comic specifies you're only guessing the last four. Duraludon (talk) 00:59, 1 November 2020 (UTC)
+In addition, there are no valid SSN's with any group as all zeros, so there are only 9999 valid numbers to guess at. Still close enough to .01% SDSpivey (talk) 13:21, 1 November 2020 (UTC)
+XKCD comics are getting later and later in the (American) day. This one was posted Sunday the 1st, from the point of view of us Aussies. 162.158.119.159 01:40, 1 November 2020 (UTC)
+This comic is how I found out I share a birthday with one of the Backstreet Boys (Nick Carter). Thanks, Randall. 172.70.126.69 23:53, 27 July 2021 (UTC)
+2/3 = both 66% and 67%?[edit]
+I get picking either 66% or 67% as a rounding for 2/3 but to have one of each?? Is there any actual reason for this?
+66% A randomly chosen movie from the main Lord of the Rings trilogy has “of the” in the title twice
+67% You roll at least a 3 with a d6
+162.158.79.152 21:40, 31 October 2020 (UTC)
+I wonder what time frame he meant for there "just" having been an earthquake in California.--108.162.216.124 09:03, 1 November 2020 (UTC)
+
+Angus King is from Maine, that’s ME not MN. 108.162.219.200 14:43, 1 November 2020 (UTC)
+Do we do calculus?[edit]
+I think I've got how Randall did the birthday party/free-throw calculations, but it's kind of math-intensive. How much should I put in the explanation column? It's quite easier to explain with summations, but that requires a lot of background to someone who doesn't know calculus (i.e., probably a lot of people who read this). Should I forego the sum entirely? Should I say "the proof is by magic"? Also, at least some of this is stemming from the fact that I have no clue how one would insert a summation sigma into the editing, and I'm too afraid to try it. I'll write it with a bunch of plus signs (basically a sum, but longhand notation) until somebody decides to step in and clean it up. BlackHat (talk) 18:05, 1 November 2020 (UTC)
+Let's talk M&Ms[edit]
+I'm beginning to think Randall is nerd-sniping us, because none of the values for M&M colours seem to line up with his source. The easiest example to demonstrate is '77% : An M&M is not blue'. Nowhere in the article is there a value which rounds to 23% for blue M&Ms. Most of the other calculations also seem to have small-scale differences, and a few have differences so big only using the 95% confidence interval values help. Can anybody figure out his line of reasoning with this? BlackHat (talk) 19:12, 1 November 2020 (UTC)
+You have to remember that 87% of all stats are made up. SDSpivey (talk) 21:24, 1 November 2020 (UTC)
+The source in question does show about 23% for blue M&Ms. In 2008: 24%. In 2017, Cleveland plant: 20.7%, Hackettstown plant: 25% (average 22.85%, assuming both factories produce the same volume).108.162.229.54 13:55, 2 November 2020 (UTC)
+Hemispheres and Seasons[edit]
+Should there be a note of the fact that the summer/winter percentages are only true in the northern hemisphere? In the southern hemisphere, where summer is December-February and winter is June-August, the figures should be reversed (and at the equator, summer and winter don't really exist). 172.68.86.114 21:49, 1 November 2020 (UTC)
+I'm not entirely sure which season boundaries are being espoused. Equinox/Solstice ones (summer starts on "mid-summer's day", sic), mid-way between adjacent equinoces/solstices (mid-summer's day is exactly half way through summer), meteorlogical (groupings of three calendar months)..? I suspect the latter, to provide the off-quarter values from almost continually variable month-lengths, but the other two (in conjunction with the elliptical orbit of the Earth changing the rate each phase of oscillation made by the ecliptic) would be a far more scientific reason worthy of Randall. 162.158.155.102 02:47, 2 November 2020 (UTC)
+By my reckoning the proportions of seasons by various standards are as follows:
+Season Meteorological Summer starts 'mid-summer' Summer astride 'mid-summer'
+Northern Southern Starts Prop Starts Prop Starts Mid-point 'drift' Prop
+Winter 19/20 Summer 19/20 1/Dec/2019 24.86% 22/Dec/2019 04:19 24.36% 7/Nov/2019 06:04 5h14m early not calculated
+Spring 20 Autumn 20 1/Mar/2020 25.14% 20/Mar/2020 03:50 25.39% 4/Feb/2020 16:04 22h35m late 24.88%
+Summer 20 Winter 20 1/Jun/2020 25.14% 20/Jun/2020 21:43 25.64% 5/May/2020 12:46 5h26m late 25.52%
+Autumn 20 Spring 20 1/Sep/2020 24.86% 22/Sep/2020 13:21 24.60% 6/Aug/2020 17:32 22h44m early 25.12%
+Winter 20/21 Summer 20/21 1/Dec/2020 24.66% 21/Dec/2020 10:03 24.36% 6/Nov/2020 11:42 5h17m early 24.48%
+Spring 21 Autumn 21 1/Mar/2021 25.21% 20/Mar/2021 09:37 25.39% 3/Feb/2021 11:42 22h35m late 24.88%
+Summer 21 Winter 21 1/Jun/2021 25.21% 21/Jun/2021 03:32 25.64% 5/May/2021 18:34 5h28m late 25.52%
+Autumn 21 Spring 21 1/Sep/2021 24.93% 22/Sep/2021 19:21 24.60% 6/Aug/2021 23:26 22h47m early 25.12%
+Winter 21/22 Summer 21/22 1/Dec/2021 24.66% 21/Dec/2021 15:59 not calc. 6/Nov/2021 23:26 5h16m early 24.48%
+This covers two entire years (leap and non-leap). It assigns (northern) winter to whatever year it most lies within, for percentile purposes, as indicated by shared background. The 'astride' seasons start at the calculated mid-point between astronomical 'quarter-points', which is probably not how it's based IRL, and I give the mid-point difference from the quarter-point that should be their mid-point. Times are UTC, bare dates can be assumed midnight to midnight. Any leap-seconds I may have ignored are well below my level of precision. Also note E&OE, with plenty of possible transfer errors in plugging the raw details into the spreadsheet then re-transfering the spreadsheet into a wikitable format (across various screens/machines, because I'm an idiot). Also does not take into account actual demographic distribution across the solar year, which probably is what really is at work here. But I too thought it'd be interesting to look at it this way. Enjoy! 141.101.98.52 15:42, 2 November 2020 (UTC)
+Obama earthquake probability[edit]
+I'm was thinking about the second-to-last probability. This should be Pr[call Obama] * Pr[Magnitude 8 earthquake "just" occured in CA] = 5e-18.
+From the phrasing we assume 10-digit numbers are dialed randomly, giving Pr[call Obama] = 1e-10
+From the previous quake we know Pr[CA quake/year] = 2e-3
+The time period for "just occurred" is not defined.
+SDSpivey points out there is some ambiguity with the number of phones Obama has and whether to include the probability of him answering personally
+If we assume Obama answers a single phone number than the time period would be 5e-18/(1e-10 * 2e-3) = 2.5e-5 years = 13 minutes.
+It seems likely that a 15 min period was considered for "just occurred", which would be within rounding error of the quake probability. --Quantum7 (talk) 09:59, 2 November 2020 (UTC)
+Free Throw meaning[edit]
+Hi! Would it be possible to add an explanation as to what a free throw is, for the benefit of those of us who know nothing about basketball? Thanks! 162.158.158.183 13:03, 2 November 2020 (UTC) Sure: when one of a number of transgressions of the rules occurs (a "foul"), depending on about 17 other variables, the player who was fouled is allowed to stand at a special line called the "Free-throw line" and take either one, two or three shots at the basket without anyone guarding him. Free throws only count one point, as opposed to baskets made during play which are 2 points (or 3 points outside yet another circular arc some distance from the goal).
+Thanks. Would it be possible to include that in the main explanation text, or at least include a wikilink to an explanation? Not everyone who reads xkcd will know what one is. 162.158.159.46 12:36, 9 November 2020 (UTC)
+Share a birthday with two US Senators[edit]
+Fairly certain this calculation is wrong. It assumes that births are divided evenly across the dates of the year, but some birth dates are more common than others. 162.158.134.84 20:59, 2 November 2020 (UTC)
+Are you referring to the fact that Feb 29 is far less common than other birthdays? Or the fact that December 25th is noticeably less common (with a similar albeit smaller uptick on Dec. 26) https://www.panix.com/~murphy/bday.html (a study of ~400,000 birth dates) and my own personal investigation using a dataset of a half million college applicants show that the distribution of birthdates is very close to the expected value that statistics would predict, with the glaring exception of Dec. 25 and 26. For the single-digit accuracy that Randal is using (rounding 2/3 to be 67% for example) the distribution of birthdays is close enough to flat for the computed value to be valid.162.158.79.87 05:15, 4 November 2020 (UTC)
+Categories: All comicsComics from 2020Comics from OctoberFriday comicsPages using the "citation needed" templateStatisticsComics featuring real peopleComics featuring politiciansComics featuring Nate SilverBasketballChristmasFood

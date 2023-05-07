@@ -1,0 +1,74 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2235: Group Chat Rules
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2235)
+|<< PrevComic #2235 (November 29, 2019)Next >>|
+Group Chat Rules
+
+Title text: There's no group chat member more enigmatic than the cool person who you all assume has the chat on mute, but who then instantly chimes in with no delay the moment something relevant to them is mentioned.
+Explanation[edit]
+In this comic Randall is outlining the rules of a group chat, such as Internet Relay Chat (IRC), Slack, Discord, WeChat, Discourse, and the like.
+1. Once you've sent a typing notification, you have to say something, c'mon.
+Typing notification, often called a "typing awareness indicator," is a feature of some instant messaging systems, showing a message such as "Typing..." with the typer's name to the other participants, causing them in many cases to wait to receive the message before typing something of their own. When the typer stops without sending anything, this can seem anticlimactic and potentially disruptive if it recurs. Randall's rule is that you must say something once you've started typing, to avoid the awkwardness of awaiting a person's reply. See also 1886: Typing Notifications.
+2. Show you care by trimming the tracking junk off links you paste.
+Some URL links may have tracking information attached to the end of them, to show the origin of the URL and other information. UTM parameters are an example of URL parameters (the part of a URL starting with a question mark) which are used to track utilization of the URL from one user to another. Many news and marketing-related websites include such tracking codes with any visit to one of their web pages in an attempt to see the source of the URL for subsequent visits. Many people consider this a violation of privacy as well as a source of clutter, and make an effort to remove the parameters from URLs when they are not necessary for obtaining the requested content. For example, this url has a lot of tracking information to show that it was originally accessed from Slickdeals, which can be removed to produce a much shorter URL for the same web page. Randall asks the users of group chat to politely remove the tracking code, though other parameters may be involved in an important non-tracking way (such as the lat, lon and zoom level giving the focus of a Google Map link) and it isn't always obvious which parts are which - or both tied together!
+3. Do not talk about Fight Club (1999).
+This is a reference to the 1999 film Fight Club, where the main character forms an eponymous "Fight Club," an underground club for men to fight recreationally. In the rules for Fight Club the first and second "rules" are "You do not talk about FIGHT CLUB.", which Randall parodies in this comic, by making a rule to not talk about the film Fight Club and placing this rule third in the list. See also 922: Fight Club and 109: Spoiler Alert.
+4. There are two types of chats: those with a relevant group name, and those where the name is random nonsense that changes regularly. Only the second kind are good.
+Some group chats frequently change the name of their title or the names of their channels, for example to reference upcoming events or inside jokes, or to reflect the topic of the current conversation. Often, these names do not get changed back until someone decides to change it to a new inside joke/etc. Randall claims that those are the only good kind, compared to those that never change group names, perhaps implying a singular focus is less interesting than a dynamic chat that often changes names.
+5. When mentioning it elsewhere, always just refer to it as "the group chat" to create an aura of exclusive mystery.
+Many people have to deal with several kinds of group chat in the same organization, so referring to "the group chat" within such an organization may be confusingly ambiguous. Also, calling a chat "the group chat" can serve to exclude those who don't already know about it.
+6. Robert's Rules of Order are optional but encouraged.
+Robert's Rules of Order are one of the authoritative codifications of parliamentary procedure used to formalize decision-making in organizations required to document their activities such as governments and sometimes civic organizations and corporations. While people required to use Robert's Rules might use group chat to plan their agenda — even going so far as to prepare a pro forma script for a meeting in accordance with parliamentary procedure which represents their positions and deliberations in advance — and to compose, revise, and approve their minutes, it is unlikely that group chat participants would follow Robert's Rules prior to their formal meeting.
+7. Periodically part of the group will split off to form a new chat with everyone minus one person. This is how group chats reproduce; don't draw attention to it.
+Some people who use group chat too frequently or for unimportant messages or both will cause their colleagues to attempt to achieve greater productivity by excluding them from an alternate chat, from which notifications, for example, are less annoying and more useful. Alternatively, a person could be excluded from a chat to hide things from them, such as to plan a surprise for them, or because that one person has been disruptive or annoying to the point that everyone else wants to continue the conversation without their continued input. It appears that the chat is a honey bee hive reproducing by swarming. When purposely excluding someone by creating a new group, you would probably not want them to know you have done so as they might otherwise attempt to re-join in the new chat; that's likely the real reason one should not talk about or draw attention to the fact that it happened.
+8. Since there's no algorithmic feed, the responsibility for injecting lots of garbage no one asked for falls on you.
+Tools such as IFTTT and IRC bots (or "bots" in this context) are used to provide group chat channels with information automatically taken from external sources of various sorts, such as emails to a support address or commits to source code control systems. Randall suggests that when such algorithmically-provided information is not available, it is incumbent upon chat participants to provide sufficiently verbose replacements. The "algorithmic feed" may also refer to the newsfeed type of systems that Facebook or other social networking sites use, to order posts for a user to view.
+9. The enumeration, in these rules, of certain rights, shall not be construed to deny or disparage others retained by the people.
+This is a reference to the Ninth Amendment to the United States Constitution, which reserves the various natural rights not specifically mentioned in the Constitution. Per Wikipedia, this right was included because "future generations might argue that, because a certain right was not listed in the Bill of Rights, it did not exist." The Ninth Amendment was also referenced in 1998: GDPR.
+10. Sorry about all the notifications.
+Here, Randall apologizes for all the notifications for the messages sent in group chat. Group chat features often result in more notifications than designers of notification systems anticipated or intended. If each of these ten rules were sent as a separate message in group chat, they might likely end with such an apology.
+The title text expresses appreciation (and perhaps amazement) for group chat participants who remain silent except for promptly replying on topics pertinent to them.
+Transcript[edit]
+[Title at the top of the comic]:
+Rules for this group chat
+[A numbered list of 10 rules]:
+Once you've sent a typing notification, you have to say something, c'mon.
+Show you care by trimming the tracking junk off links you paste.
+Do not talk about Fight Club (1999).
+There are two types of chats: those with a relevant group name, and those where the name is random nonsense that changes regularly. Only the second kind are good.
+When mentioning it elsewhere, always just refer to it as "the group chat" to create an aura of exclusive mystery.
+Robert's Rules of Order are optional but encouraged.
+Periodically part of the group will split off to form a new chat with everyone minus one person. This is how group chats reproduce; don't draw attention to it.
+Since there's no algorithmic feed, the responsibility for injecting lots of garbage no one asked for falls on you.
+The enumeration, in these rules, of certain rights, shall not be construed to deny or disparage others retained by the people.
+Sorry about all the notifications.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+5884 × 9286 pixel image??[edit]
+When I open this page (https://xkcd.com/2235, in case there's any confusion), I get an enormous image that bleeds far past the right and bottom of the page. Turns out that the image is 5884 × 9286 pixels. Has this been seen before? -- Dtgriscom (talk) 19:05, 29 November 2019 (UTC)
+Looks like Randall must have uploaded the wrong image size. I assume he'll fix the comic shortly. 172.68.211.52 19:32, 29 November 2019 (UTC)
+11) I don't care if any generalised 'group chat' software does newest-first or oldest-first as default (and if you can resort to the other order, most-upticked, or whatever) but if it allows inclusion of prior comments, please DO NOT ENCOURAGE TOP-POSTING, particularly when reply-pyramids can carelessly form with recless abandon, and often beyond the "this post is too long, click here to expand" point you often get. - Honestly, I just think a dose of more widespread peer-directed Usenet Netiquette (pre-Eternal September, definitely pre-Outlook Express) could do a lot of people good as well. Randomly split people up into 1990-ish sized cohorts for a 'training period' of socialisation until they can safely 'graduate' to the globally undelineated cohort. 162.158.155.110 20:12, 29 November 2019 (UTC)
+Ok boomer, I'll be off your lawn in a moment. In the mean time I think there's a cloud up there which can't hear you. 172.69.22.122 20:25, 29 November 2019 (UTC)
+Hey, as long as IP_ADDRESS started an ancient flamewar (top vs bottom posting), how about using vi vs emacs when editing your chat stream? Also should we have a Designated Hitter or not? Cellocgw (talk) 13:57, 2 December 2019 (UTC)
+Eugh, Godwin's Law manifest. Oh, hang on, HitTer? Sorry, as you were.
+Anyone got any ideas about (4)? The only group chat I know of which constantly changes their group names to different random nonsense is the Chapo Trap House Discord. 172.69.22.122 20:32, 29 November 2019 (UTC)
+This might just be something that he has experienced personally. All of the large group chats of which I've been a member have exhibited this behavior. In fact, I thought it was pretty weird that no one on here had heard of this before. I related to it immediately. Moosenonny10 (talk) 23:10, 29 November 2019 (UTC)
+If there is a public example please add it. 172.68.132.155 23:13, 29 November 2019 (UTC)
+I think the sort of group chats that he's talking about don't have public examples. At least for us younger people, group chats via SMS are the second most common form of peer communication (behind Snapchat). -neverdroptop In my experience, constantly changing irrelevant chat names is a behaviour of chats with large numbers of messages and nothing ever being important or relevant - the kind where noone needs a bot because the posters are already spamming enough irrelevant stuff. So for me, it fits well with the rest of the list.
+
+Does anyone think that (10) means that all of the rules were sent as separate messages and the last one's just an apology for doing that? 172.69.63.83 22:17, 29 November 2019 (UTC)
+Good call. 162.158.255.244 22:48, 29 November 2019 (UTC)
+The initial explanation for 8 doesn’t seem right - the given examples of email notifications and source code commits are by definition not “junk that nobody asked for” (since such integrations require intentional setup) and are “algorithmically generated” only in a strictly literal sense. To me this is clearly a reference to social media platforms. 188.114.111.151 08:21, 30 November 2019 (UTC)
+Absolutely agree that it is talking about Facebook/Twitter and the "newsfeed" style random crap you might find interesting 172.68.242.16 12:23, 1 December 2019 (UTC)
+Occasionally I can see that my typing indicator has triggered without me actually typing anything, which is disconcerting, as I then feel obliged to type something... --162.158.158.93 10:48, 30 November 2019 (UTC)
+I was amused by “Alternatively, a person could be excluded from a chat to hide things from them, such as to plan a surprise for them.” By my estimation, one person is suddenly excluded from a group chat “to plan a surprise for them” approximately .2% of the time. The other 99.8% of the time, it is to gossip about that person. Miamiclay (talk) 18:21, 1 December 2019 (UTC)
+I am strongly opposed to the implication that the Ninth Amendment does not reasonably apply to any list of rules. 172.69.22.68 05:23, 3 December 2019 (UTC)
+Community reference?[edit]
+I think number 5 may refer to the TV show commmunity, since in the series, the main characters participated in a "study group", same generic name. 108.162.212.173 15:54, 30 November 2019 (UTC)
+Why do we think the title text refers to Kibo? I don't see any evidence supporting that. 162.158.79.167 20:56, 3 December 2019 (UTC)
+An obvious reference by omission. (non-obvious)[edit]
+I can't help but notice there's no rule that says a dog can't play basketball.
+Categories: All comicsComics from 2019Comics from NovemberFriday comicsSocial interactionsSocial networkingFictionFight Club

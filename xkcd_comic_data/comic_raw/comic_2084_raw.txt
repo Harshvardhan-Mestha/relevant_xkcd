@@ -1,0 +1,62 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2084: FDR
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2084)
+|<< PrevComic #2084 (December 12, 2018)Next >>|
+FDR
+
+Title text: June 21st, 365, the date of the big Mediterranean earthquake and tsunami, lived in infamy for a few centuries before fading. Maybe the trick is a catchy rhyme; the '5th of November' thing is still going strong over 400 years later.
+Explanation[edit]
+The United States Naval base at Pearl Harbor, Hawaii was attacked in 1941, and is credited with starting the United States' involvement in World War II. The then US president, Franklin D. Roosevelt (FDR), issued a speech to the American people which begins with the line "Yesterday, December 7th, 1941, a date which will live in infamy...". Whenever Randall writes "December" he feels compelled to complete the line, a mistake which is visible in this comic.
+This may be a parody of a more common type of error in which people writing dates during January (particularly early in the month) accidentally write the previous year instead of the current one because the previous year number is an established pattern while the new one is a recent change.
+The title text confuses the date of the northern hemisphere summer solstice (June 21st) with the date of the 365 Crete earthquake that happened on July 21st 365AD. The earthquake had a magnitude of at least 8.0 which caused widespread destruction across the Eastern Mediterranean. Then it mentions Guy Fawkes Night, the anniversary of the famous failed attempt to bomb Parliament on the night of November 5th, 1605. The latter event is immortalized in the rhyme "remember remember, the fifth of November, the gunpowder, treason, and plot", the former event less so.
+Randall also may be suggesting that Roosevelt implied the degree of "infamy" of an event can be measured by how long its date is remembered. Pearl Harbor resulted in 2,458 deaths and obviously extensive damage to a military base and fleet. It has been remembered 77 years, thus far. The earth quake of 365AD resulted in an estimated 230,000 killed and numerous cities severely damaged or destroyed. Randall states it was remembered for a few centuries. The Gunpowder Plot resulted in the death of a couple of conspirators and no notable damage. It has been remembered, at least in song, for "over 400 years".
+Transcript[edit]
+[Close-up of a form. Each field has a label (the first is assumed) and a handwritten entry. The name and country are each half visible. The numeral "4" has been only partially written before being scratched out.]
+[name]
+Randall Munroe
+date
+Dec 7, 194 12, 2018
+country
+United States
+[Caption below the frame:]
+FDR was so good at speeches that I spend a whole month each year writing the date wrong.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I didn't know about the Guy Fawkes date. I thought the title text might have been referring to the song Try to Remember, but it refers to September and December, but not November. Barmar (talk) 16:02, 12 December 2018 (UTC)
+You clearly aren't from the UK, still a pretty big thing here. Known as Bonfire Night or Fireworks Night and is a part of everyone's primary (elementary?) education
+Zbrown (talk) 16:50, 12 December 2018 (UTC)
+I'm not from UK and I know about that from english lessons in primary school, but I didn't know about the Pearl Harbor date. --188.114.102.220 16:55, 12 December 2018 (UTC)
+The movie V for Vendetta which prompted the anonymous movement iconic white masks celebrates the Nov 5 rhyme, and is international. That's how I know of it. And I know from the movie and wikipedia that it's Guy Fawkes day in the nonfictional universe.108.162.246.161 02:06, 14 December 2018 (UTC)
+Then you're probably not from the US 172.68.143.174 17:19, 12 December 2018 (UTC)
+I'm from the US, but I couldn't tell you right now without scrolling up what date Pearl Harbor day was. Then again, I have trouble remembering the dates of anything but Christmas, New Year's, & 4th of July. Measurements of time are really weird & arbitrary perceptual artifacts, for me. ProphetZarquon (talk) 21:08, 12 December 2018 (UTC)
+I always found it weird that they celebrate the 4th of July on the 7th of April. --162.158.111.145 13:17, 13 December 2018 (UTC)
+I feel like a genius after getting this. (It refers to date writing systems) “That Guy from the Netherlands” (talk) 16:59, 4 April 2019 (UTC)
+The Crete earthquake raise the island by 3 to 9 meters. You go out on a beach in Crete, it is obvious, especially if there are ruins of an ancient city nearby where the docks are well inland 172.68.143.174 17:32, 12 December 2018 (UTC)
+Incidental, this month I made the weird mistake of writing a date as "2016" ... I really have no idea why that happened, or that I didn't catch it to correct it in time. 162.158.74.135 17:52, 12 December 2018 (UTC) Sam
+Me too! For some reason I've recently written the date as a couple years ago a few times over the last month or so, and I normally never do! Also in response to the above discussion, I've never heard of Guy Fawkes day, and don't particularly remember the date of Pearl Harbor other than by comic 821 PotatoGod (talk) 07:09, 13 December 2018 (UTC)
+FYI, the hovertext appears to be wrong. The Med quake was July 21, AD365 -- not June 21. 173.245.54.13 20:25, 12 December 2018 (UTC)Andrew K173.245.54.13 20:25, 12 December 2018 (UTC)
+I don't think it's deliberate; he didn't get the other date in the title-text / alt-text wrong. I think the alt-text contains an unintentional error. ProphetZarquon (talk) 22:00, 12 December 2018 (UTC)
+So he's not using THE date format: https://xkcd.com/1179/
+True, he's not using "the date format", but the standard applies to "numeric representations of dates and times". Randall has used a non-numeric format, so ISO 8601 isn't relevant. Roguetech (talk) 13:26, 14 December 2018 (UTC)
+Thank you. Writing it the correct way (yyyy-mm-dd) would probably confuse most people though, & I think ISO-8601 does allow provision for dates written long-hand (MMM d, yyyy). I'm just glad someone else remembers that the proper way to numerically specify a date is year first, then two-digit month (01 thru 12, not 1 thru 12), & then day. This keeps the numbers in correct left-to-right sequence & will sort alphabetically too. m-d-yy is just wrong on so many levels. ProphetZarquon (talk) 22:00, 12 December 2018 (UTC)
+Don't worry, month, day then year is pretty much only found in one country, like spelling colour without the u. It should die out eventually. 162.158.165.238 22:32, 12 December 2018 (UTC)
+Personally, when it's not for archival purposes I write dates d/m-yy. I don't care if it's wrong, it's how I say them in daily speech. The slash should make it clear which one is day and which one is month and the dash should make it clear that the last part is the year. I don't see myself signing any contracts that last longer than the average human lifespan, so including the century and millennia feels unnecessary. Kapten-N (talk) 12:03, 13 December 2018 (UTC)
+I don't see any explanation for the "19" in the comic. Could that be a reference to 7:19 (the time of the Mexico City earthquake and the name of the movie about it)? Madfrog768 (talk) 21:26, 12 December 2018 (UTC)
+It's the year, 1941. Time would not appear in a Date: field. In the comic, Randall got all the way to writing the 4 before he realized he was putting the wrong date in. ProphetZarquon (talk) 22:00, 12 December 2018 (UTC)
+I work for a bus company and work on the schedules for the next service change which usually takes place in december. Since I have this job, from the end of summer on I regularly miswrite dates a year ahead. 162.158.111.55 21:31, 12 December 2018 (UTC)
+Any Hardcore History fans with Dan Carlin? Capncanuck (talk) 07:28, 13 December 2018 (UTC)
+As for catchy date mnemonics, you can't beat "the eleventh hour of the eleventh day of the eleventh month" for the armistice of The Great War. Note it wasn't called World War 1 until there was a second world war 35 years later. Rtanenbaum (talk) 14:29, 13 December 2018 (UTC)
+I'm trying to work out where you got the 35 for your 35 years later. WW2 started 20(-ish) years after WW1 ended, WW2 ended 31 years after WW1 started. Not sure... 162.158.111.145 14:49, 13 December 2018 (UTC)
+Well it began in 1914 and the other ended in 1945 that is 35 years... --Kynde (talk) 08:24, 14 December 2018 (UTC)
+Actually, it was referred to as 'The First World War' or 'The First Great War' before it even ended. I wish I could recall who; but some general or politician, when asked what he thought it should be called, rejected 'the great war' (as there might be greater wars in future), and similar; he proposed 'The First World War', as he expected it wouldn't be the last. He wasn't wrong. 172.69.135.124 00:36, 14 December 2018 (UTC)
+I'm still writing "1987" on my checks. JamesCurran (talk) 16:25, 13 December 2018 (UTC)
+You still use cheques? I think I probably last used on in 1994 and even my dad in his 60s is slowly giving them up. --108.162.250.41 23:50, 13 December 2018 (UTC)
+I just did, last week. The previous one however was almost a year ago. 10 years ago I'd write like 10 to 30 cheques a month; I really miss how they made me take like 20 seconds ensuring that I really want to spend that much money on that. Tapping a credit card is way, way too convenient for my wallet's health. Ekevoo (talk) 20:29, 14 December 2018 (UTC)
+It was actually called "the first World War" in 1914. However it wasn't called "The First World War", as the name was to show that it was a world war, not to point out that another would happen in 20 years. And the name "Great War" referred to the Napoleonic War, not the First World War. And now to leave a message beginning with four tildes. 162.158.34.172 18:46, 13 December 2018 (UTC)
+I do not see how the comic confuses Guy Fawkes Night as the explanation claims. The comic says it occurred November 5th, 1605 and that is also when it actually occurred, if I understand correctly.
+It isn't the date of Guy Fawkes Night that's incorrect, it's the date of the earthquake in Crete - the text says June 21st but it was actually July 21st. The 5th of November is correct.108.162.245.166 05:18, 15 December 2018 (UTC)
+
+Categories: All comicsComics from 2018Comics from DecemberWednesday comics

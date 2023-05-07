@@ -1,0 +1,46 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2389: Unread
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2389)
+|<< PrevComic #2389 (November 23, 2020)Next >>|
+Unread
+
+Title text: I'll never install a smart home smoke detector. It's not that I don't trust the software--it's that all software eventually becomes email, and I know how I am with email.
+Explanation[edit]
+Cueball has an unspecified communication application on his phone. As the chart displays, the longer he has the app, the more unread messages he has on it (likely due to a combination of more people trying to contact him over it and him checking it less diligently). Eventually, he gives up reading every message, and he notices apathetically when it reaches 10,000 notifications. The joke comes in the caption, which states that all communication services have this problem and implies that this problem is the key problem with email.
+The caption, "Another way every system eventually becomes email" (emphasis added) is a reference to Zawinski's law of software envelopment: "Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can." In this case, it's not that every program will eventually become capable of sending and receiving emails, but rather that Cueball/Randall will treat every program that provides notifications the same way he treats his email inbox.
+In the title text, Randall uses this reasoning to explain why he'll never install a smart smoke detector. A smart detector would send a notification to his phone when the smoke level is high enough to trigger it, or perhaps when it is running low on battery; following the same trend, Randall believes he will eventually stop reading the alerts from the smoke detector. Ignoring a smoke detector is dangerous.[citation needed] Traditional (non-smart) smoke detectors typically use sound to denote status, with very loud piercing sounds used to indicate events requiring immediate notice (i.e. an active fire producing large amounts of smoke) and quieter chirps to indicate other conditions, such as low battery levels. While some people can and do tune out the low battery warnings, it tends to be difficult to ignore the active fire types of alerts. However, a person would need to be within hearing range for those alerts, versus allowing people to ignore alerts from around the world with a smart smoke detector.
+Randall has previously covered his trouble keeping up with email, for example in 1783: Emails.
+Transcript[edit]
+[A graph with the x-axis and y-axis labeled]
+[The graph has a line that starts near the bottom of the x-axis, fluctuates a little, then steadily increases until it is approaching the maximum of the y-axis, whereby it begins to level out]
+Percentage of received messages in the service that are marked unread
+Time --->
+[Three Cueballs standing at different points on the graph. The first two are shown directly above the line at the beginning and middle areas, and the third is shown below it near the end of the graph. All three are holding phones.]
+[The first Cueball looks at his phone, which displays two notifications on an app]
+Oh hey, two new messages!
+[The next Cueball again looks at his phone, this time with 45 notifications on the app]
+Ugh, gotta take some time to go through these.
+[The last Cueball's phone app shows 10129 notifications]
+Wow, it hit five digits.
+[Caption below the panel]
+Another way every system eventually becomes email
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I have 27,333 unread emails. On the level of "Your email is important to me. Please wait and it'll get read eventually." Mikemk (talk) 00:25, 24 November 2020 (UTC)
+Oh hai! https://i.imgur.com/FXt1AYq.png lol 172.68.142.195 10:17, 24 November 2020 (UTC)
+You are all wusses - about 2 weeks ago when I looked, my ex-wife had over 750,000 unread emails. She wouldn't let me take a screenshot :P 172.68.86.112 00:05, 26 November 2020 (UTC)
+I'm guessing communication was a problem in your relationship? ;) --162.158.187.247 17:48, 30 November 2020 (UTC)
+This graph seems way off to me. It says 'percentage of messages', so the highest point should be at the far left. At some point, you will have a single message saying "Welcome to WhateverMessagingService", which will initially be unread, therefore 100%. When he's standing at the beginning looking at the icon that says 2 messages, that's probably 2 out of 3, or 2 out of 4. It could be back up at 100% depending on the service (does it auto-delete read notifications?), but it's likely lower than at the start. But for the first few weeks, I'd expect to see a series of tall peaks, gradually getting lower as the number of old read messages slowly increases, with flat valleys inbetween where everything is read. Then as you get into the habit of putting off reading them, the valleys start getting shallower until they swallow the peaks, and you get a slowly rising curve that eventually levels off pretty high. This graph seems to rise forever at the end, which makes sense for a graph of the number of messages, but not for a percentage. Angel (talk) 11:34, 24 November 2020 (UTC)
+It says 'percentage **marked** unread' Torzsmokus (talk) 13:58, 24 November 2020 (UTC)
+Perhaps a better axis label would be: "Messages marked unread 24 hours after receipt" or similar? OhFFS (talk) 18:22, 24 November 2020 (UTC)
+The graph would also be quite rough. I imagine it's been smoothed to make sense, and (especially if the time axis is very long) these irregularities would all but disappear over time. As indicated by the 'eventually' in "Every system eventually becomes email", Randall/Cueball has probably used this service for a while. BlackHat (talk) 16:00, 25 November 2020 (UTC)
+Which is why everyone needs filters for sub-mailboxes. Of those 27,333 , 27 000 go into the "IgnoreThisCrap" mailbox, 300 go into "Respond by the end of the next Sprint," and 33 remain as candidates for reading maybe after lunch. Cellocgw (talk) 11:36, 24 November 2020 (UTC)
+Should the incomplete tag be deleted? This seems complete to me. 141.101.98.124 11:43, 24 November 2020 (UTC)
+Should we link xkcd 1783? 172.69.34.208 18:24, 24 November 2020 (UTC)
+Good idea. Added. Orion205 (talk) 03:54, 25 November 2020 (UTC)
+There's one error in this comic. The curve at the right edge of the graph implies that the number of unread emails grows logistically on large enough timescales. In my experience, it's linear at best and exponential at worst. GreatWyrmGold (talk) 15:16, 25 November 2020 (UTC)
+While the number might better follow an exponential graph, the axis refers to the percent of unread messages. Since this can't be higher than 1, or 100%, the graph has to be logistic in order to cap at the maximum limit. Unless, of course, your inbox grows so quickly that you have more unread emails than emails, and for all we know that might happen. BlackHat (talk) 16:00, 25 November 2020 (UTC)
+Categories: All comicsComics from 2020Comics from NovemberMonday comicsPages using the "citation needed" templateLine graphsProgrammingComics featuring CueballSmartphonesEmail

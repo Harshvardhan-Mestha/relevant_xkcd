@@ -1,0 +1,58 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2493: Dual USB-C
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2493)
+|<< PrevComic #2493 (July 23, 2021)Next >>|
+Dual USB-C
+
+Title text: Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground.
+Explanation[edit]
+This comic was the first in what became a new series of Cursed Connectors and presents Cursed Connector #187: Dual USB-C. The series continued two comics later with 2495: Universal Seat Belt (#65) and was followed three weeks after that by 2503: Memo Spike Connector (#102).
+Starting roughly around 2016, the word "cursed" has become slang for something that makes the user feel uncomfortable (unlike the classic definition, nothing supernatural needs to cause the discomfort).
+USB-C connectors are the newest version of the USB standard, and Randall showcases a new type of connector which would see two USB-C plugs side-by-side able to be inserted simultaneously by housing them inside a NEMA 1-15P plug, more commonly known as a Type A plug, that is usually used in some countries to connect electrical devices to AC current. This does not seem to offer any advantages over the current implementation.
+Further, the plug introduces several disadvantages, including, but not limited to
+The plug creates the risk of accidentally plugging a USB-C device into a power outlet, which is likely to damage the device as the voltage of a NEMA 1 circuit is about six times as large as the maximum for USB-C. Additionally, mains power outlets typically supply alternating current, whilst USB devices operate on direct current, which is also likely to result in damage to the device.
+The outer metal casings of the plugs are usually connected to the device's ground plane, so the casings likely have a low-resistance path between them. Plugging such a device into a power outlet would form a short circuit.
+The plug likely won't fit a power outlet (NEMA plug pins have a 6.4×1.5 mm cross-section and the USB-C is 8.4×2.6 mm.). This is probably good, as it reduces the risk of either of the two hazardous situations described above.
+Any device meant to be connected to the full plug would need vertical ports, making any theoretical device quite thick.
+The plug could occupy 6+ ports of a USB-C hub with vertical ports, taking up the space to charge 2-6 phones with a single device.
+The plug being mimicked is typically not found in a double male configuration implying that the cord is attached to a device at the other end in a non removable way (Typically, the other end of detachable power cords for appliances is one of the plugs specified in the IEC 60320 standard, so presumably for Randall's connector application would substitute USB-C sockets in a C9 or similar configuration.)
+The connector therefore is considered cursed.
+Notably, there's an existing dual USB-C plug in use for Macbook-compatible high-performance dongles, among other things, which is remarkably similar but avoids all the above disadvantages. It instead invites confusion with the NEMA 6-15 connectors.
+The title text indicates that an equivalent for the 3-pronged NEMA 5-15P plug (a.k.a the Type B plug) for AC current could be created easily by incorporating a USB-B plug, which are small and square-shaped and could therefore function as the ground prong. There appears to be no reason to do this other than because both names contain the letter 'B'.
+Unconventional uses for electric plugs are a recurring topic in xkcd (see 1293: Job Interview and 1395: Power Cord). Combining them with USB was previously explored in 1406: Universal Converter Box among other combinations.
+Transcript[edit]
+[A power cord like plug with two prongs is shown, but each prong is in the shape of USB-C connectors. Above is a title and below is a label.]
+Cursed Connectors #187
+Dual USB-C
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Is "USB-AC" in the title text a reference to the fact that this looks like an AC power plug, or is that a legitimate variant of USB-C? 172.68.55.65 18:09, 27 July 2021 (UTC)
+I think it refers to the polarized version of the 1-15 plug, where one blade is bigger than the other. A USB version of that could have one blade as a USB-A and the other a USB-C. This then also invites the AC pun that you mention. ----PF
+I guess this is how connector vendors maintain backwards compatibility for USB-C. ----DaveK
+I would have thought it was cursed more from what would happen if you plugged it into a standard ac outlet. 162.158.74.107 04:49, 24 July 2021 (UTC)
+Does USB C actually fit inside an outlet? (As I live in europe, I really have no clue...) 141.101.105.7 07:42, 26 July 2021 (UTC)
+i'm pretty sure it doesn't (should be wasy to test for any american who owns a USB-C plug), and the third point in the list mentions that currently, which actually renders the first two points immaterial. 162.158.88.188 14:41, 26 July 2021 (UTC)
+This does not fit into a standard AC outlet. However, I have seen plenty of outlets, especially on extension cords, which might allow one of the USB-C plugs to touch the live contact.Geek Prophet (talk) 18:16, 26 July 2021 (UTC)
+Looks good. But I'll obviously need a BS 1363/Type-G converter! 141.101.99.211 09:14, 24 July 2021 (UTC)
+It's worth noting, Dell already does this with the WD19DCS... 141.101.99.211 09:23, 24 July 2021 (UTC) Gargravarr
+Is it worth pointing out that "cursed X" is a meme, c.f. /r/cursedimages? I think this is the first time xkcd has referenced it. --Esogalt (talk) 14:59, 24 July 2021 (UTC)
+No I do not think so. That something is cursed is not special to a meme. This reminds more of the bad map projections series. Wonder if more will follow. Have added this similarity in title to the explanation. Starting with a very high number just like that series. In that series number 4 comic just came out, so interesting to see if he has planned more of these. --Kynde (talk) 14:32, 25 July 2021 (UTC)
+
+This comic yet has no categories. And I cannot think of any suitable? Something with electronics that is not a category yet? I mean it can be used with smart phones and computers, but is not only used for one of these? --Kynde (talk) 14:32, 25 July 2021 (UTC)
+I was thinking something like 'Spurious Series(es?)'. It could encompass My Hobby and Map Projections as child-categories (they're self-categorised, I'm fairly sure without checking) but any lone "Something-Or-Other #xyz" like this is added as a direct example. And then if "Something-Or-Other #pqr" ever happens and is so categorised it highlights the need to create a Something-Or-Other category and reassign membership to this instead. If it never gets any direct companions, it can stand out as a spurious to the extent of never being partnered by up to xyz-1 other later examples.
+Non-spurious serieses (xkcdphone, e.g.) that start with example #1 (or even un-numbered, but clearly item 1 in hindsight) might be better to be dealt with as is. But anything pretending to be just one of dozens/hundreds of as-yet-untold examples, especially out of index order (#1 is unlikely to be referenced, for reasons of refusing to establish a truly comprehensive catalogue that doesn't even exist, but would not necessarily disqualify such a leap-frogging/randomly-sampled series if it appeared anyway, after the original asynchro ous+gappy impressions) is probably an intentional Spurious Series.
+Or find an even better term. Or supercategorise Series with subcats of Storytelling/Chronicalling/Chronological (Journal), Upgrades/Revisiting (xkcdphone, also Internet Map?) and Spurious/Ad Hoc (as above), allowing room for future additions to revisit the true nature of the series concerned.
+Would need a proper editorial policy discussion, of course, especially to find better terminology (of whatever form of grouping(s) the final conclusion recommended). But perhaps you can see some glimmer of (a different?) solution in what I have just suggested. Putting it out there so at least it's there to be ignored or dismissed as overthinking the matter. 141.101.99.183 16:43, 25 July 2021 (UTC)
+>This comic yet has no categories. And I cannot think of any suitable? Something with electronics that is not a category yet?
+Maybe we can create a (joke) category, "Category: Pages Not Belonging to Any Categories" :) Also, "List of pages that does not include itself as a list item"... Russell’s paradox is rather xkcd-ish. — Yosei (talk) 01:12, 27 August 2021 (UTC)
+I seem to recall at least one other xkcd strip that was "Cursed". I think it was cursed office chairs. That would make at least two comics in the "Cursed" category. Rtanenbaum (talk) 14:45, 26 July 2021 (UTC)
+There is also the cursed store that beret guy gets all his stuff from, only to find out later that the item is cursed but when he goes back to the store it's gone. Maybe this is one of the items he recently purchased and couldn't return? 127.0.0.1 21:51, 25 July 2021 (UTC)
+Not sure if you mean 2332: Cursed Chair or 2144: Adjusting a Chair.
+--FrankHightower (talk) 19:05, 28 July 2021 (UTC)
+The need of dual plugs could also be a result of the increasing power consumption of some devices, as suggested with the Macbook-compatible high-performance dongles in the explanation. USB-C is limited to 100 W, what is not bad for this tiny pins - Wiki USB-C power issues. So crude soft- and hardware design, e.g of high performance laptops, leads to dual plugs or an additional power plug next to the dock connector. 162.158.134.94 11:47, 27 July 2021 (UTC)
+"Cursed Connectors #187" - Section 187 of the California Penal Code covers murder. ProfDigory (talk) 23:53, 28 July 2021 (UTC)
+well https://twitter.com/NanoRaptor/status/1519341815773552641 172.70.222.17 05:41, 28 April 2022 (UTC)
+Categories: All comicsComics from 2021Comics from JulyFriday comicsCursed Connectors

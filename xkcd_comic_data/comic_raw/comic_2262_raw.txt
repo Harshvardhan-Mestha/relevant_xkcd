@@ -1,0 +1,57 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2262: Parker Solar Probe
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2262)
+|<< PrevComic #2262 (January 31, 2020)Next >>|
+Parker Solar Probe
+
+Title text: It will get within 9 or 10 Sun-diameters of the "bottom" (the Sun's surface) which seems pretty far when you put it that way, but from up here on Earth it's practically all the way down.
+Explanation[edit]
+This is an informative comic meant to represent the relative distances of astronomical objects relative to the Parker Solar Probe. It also shows where the probe will be in 2025 if its mission continues going according to plan. As explained by the caption at the top of the image, the distances between entities on the chart is drawn to scale; the sizes of said entities, however, are not, which is humorously showcased front-and-center by Cueball and Megan being shown as Earth-sized.
+The Parker Solar Probe is a robotic spacecraft launched by NASA in 2018 with the mission of repeatedly probing and making observations of the outer corona of the Sun. It travels in an elongated orbit that passes close to the Sun and sometimes passes near Venus, arranged such that Venus nudges the orbit slightly in each pass to bring the probe's perihelion (the lower end of its orbit) closer and closer to the Sun. Two days before this comic was published the probe again passed through perihelion, establishing new records for closeness to the Sun (0.12 AU) and speed (244,225 mph).[1] By the end of the probe's planned lifetime in 2025, it will pass within 0.046 AU (6.9 million km), or about 5 solar diameters, of the Sun's center, at a speed of 430,000 mph (690,000 km/h). The title text incorrectly states this distance to be 9 or 10 solar diameters measured from the Sun's surface.
+Helios 2 was a solar probe launched in the 1976 that formerly held the records for closest man-made object to the Sun and fastest man-made object. Both records were surpassed by the Parker probe in 2018.
+Animation of Parker Solar Probe's trajectory from August 7, 2018 to August 29, 2025
+Parker Solar Probe • Earth • Venus • Mercury • Sun
+Cueball and Megan are standing on Earth. The way this diagram is drawn, they look like they could fall off Earth toward the Sun -- hence the comment "Careful!" -- though the joke is that in real life they would fall toward the center of the Earth, not toward the Sun. Also the surprise for many people is that it is much harder to reach the sun than Pluto. Because we already travel so fast here on Earth, and to reach the sun this speed has to be reduced, which is a larger speed difference than the one needed to escape the Sun's gravity well. If you could "fall" off Earth, you would just keep the approximately same distance to the Sun, but drifting slowly away from Earth.
+The title text says the probe will get within 9 or 10 Sun-diameters of the Sun's surface. This is a bit of a mistake: it will actually get within that many Sun-radii (only 4½ or 5 Sun-diameters) of the center of the Sun, which corresponds to 4 or 4½ Sun-diameters above its surface. All the same, the title text makes the point that "Sun-diameters" (or "Sun-radii", for that matter) sounds like an astronomical distance, until you use the same scale for other distances. The distance from the Earth to the Sun is approximately 106 Sun-diameters; by that scale, 4 Sun-diameters is indeed "practically all the way down". Below is a table showing these and other distances using more common units of measurement.
+Object Perihelion [km] Perihelion [AU]
+Earth 147,095,000 km 0.98 AU
+Venus 107,477,000 km 0.72 AU
+Mercury 46,001,200 km 0.31 AU
+Helios 2 43,432,000 km 0.29 AU
+PSP (now) 18,600,000 km 0.124 AU
+PSP (2025) 6,900,000 km 0.046 AU
+Sun Radius 696,342 km 0.0047 AU
+Transcript[edit]
+[A tall, but very narrow box with Earth at the top, with Cueball and Megan standing precariously "on top" of Earth on each side of the center, trying to keep their balance. At the very bottom is shown a slice of the Sun. Between Earth and the Sun the two inner planets and two spacecraft are depicted with relation to their distance from the Sun. The spacecraft closest to the Sun is shown two times at different times, as it moves closer and closer to the sun. All 7 objects have labels close to them. The largest distance is between Venus and Mercury, with the Earth-Venus distance the second longest. The distances between the objects below Mercury are much shorter. There is a caption above the slim panel:]
+Looking down toward the Sun
+and the Parker Solar Probe
+(Distances are to scale, sizes are not to scale)
+Earth
+Cueball: Careful!
+Venus
+Mercury
+Helios 2 (1976)
+Parker Solar Probe (today)
+Parker Solar Probe (2025)
+Sun
+(Not to scale)
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I thought "down" meant towards the center of the Earth. Apparently I was wrong. 162.158.214.148 23:17, 31 January 2020 (UTC)
+Our usual understanding of "down" means "towards the center of the Earth", here Randall is using it as "towards the center of the Sun". If you think about it, down means "towards the pull of gravity", Randall is just changing the gravity source he's referencing. :) NiceGuy1 (talk) 05:16, 1 February 2020 (UTC)
+I think the reference frame used here is a reference to "the enemy's gate is down" from Ender's Game, which is a book that the comic references often. 172.69.69.238 23:57, 31 January 2020 (UTC)
+No, see my above comment. :) NiceGuy1 (talk) 05:16, 1 February 2020 (UTC)
+Considering Sagittarius A* is not in picture, I think we can't rule out Ender's Game completely. -- Hkmaly (talk) 23:07, 2 February 2020 (UTC)
+This is common in space travel. When entering a new system, down is towards the main star.SDSpivey (talk) 04:53, 4 February 2020 (UTC)
+To be fair, Ender's Game only applies in a zero-G environment. signed, Mr. Buzzkill. Cellocgw (talk) 14:48, 6 February 2020 (UTC)
+Cueball and Megan standing on Earth remind me of the illustrations from The Little Prince. Barmar (talk) 00:16, 1 February 2020 (UTC)
+Whether or not the use is 'official', I can't help feeling that describing it as a "robotic" probe gives a different impression to some other term such as "(semi-?)autonomous". At the moment it makes me think of VINCENT from The Black Hole (*surely it can't be too long before the Disney trend to re-release "Live Action" remakes of its old features starts to include this, The Computer Wore Tennis Shoes, Blackbeard's Ghost and Herbie Goes Bananas - jus' sayin' in passin'...) or Huey/Louie/Dewey from The Valley Forge. But I must check to see how much actuator use it has, other than for once-only 'deployment' like unfolding of solar panels/shielding. 162.158.154.241 16:44, 1 February 2020 (UTC)
+The orbit GIF moves a little too quickly to see clearly (and might not be fully accurate), but there seem to be some close calls between PSP and Venus, and PSP and Mercury. These Are Not The Comments You Are Looking For (talk) 00:24, 2 February 2020 (UTC)
+That is correct and intentional. The probe is using Gravity Assists to slow down. As a result, the close flyby with Mercury and Venus are all essential parts of going to the Sun. 172.68.141.148 01:39, 2 February 2020 (UTC)
+Note the resolution of the picture: what looks as close calls is not THAT close. -- Hkmaly (talk) 23:07, 2 February 2020 (UTC)
+Who put an extra explanation? We don't need two of the same thing. Could we get that copy cleared, except for the table chart? That can go with the first one.108.162.241.226 14:32, 3 February 2020 (UTC)
+Randall was doubly sloppy on the title text. It should be 9-10 radii form the center, not 9-10 diameters from the surface. Clarified this in both explanations on this page, I agree that someone should delete one of them.108.162.229.98 12:50, 5 February 2020 (UTC)
+Categories: All comicsComics from 2020Comics from JanuaryFriday comicsComics featuring PonytailComics featuring CueballAstronomySpace probes

@@ -1,0 +1,436 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2445: Checkbox
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2445)
+|<< PrevComic #2445 (April 1, 2021)Next >>|
+Checkbox
+
+Title text: Check check check ... chhecck chhecck chhecck ... check check check
+Contents [hide] 
+1 Explanation
+1.1 Unique header text
+2 Special Responses
+2.1 Controls
+2.2 Q codes and radio shorthand
+2.3 FORTUNE
+2.4 ENCABULATOR
+2.5 MAZE
+2.6 CROSSWORD
+2.7 Rover Scene
+3 Special Console Commands
+4 Transcript
+5 Discussion
+5.1 Scripts
+5.2 Escape Station game
+
+To experience the interactivity of this game, visit the original comic.
+Explanation[edit]
+This was the 11th April fools' comic released by Randall. The previous fools comic was 2288: Collector's Edition, which was delayed two days and released on Friday April 3, 2020. The next became 2601: Instructions released on Friday April 1, 2022 (a regular release day).
+The comic looks similar to a loading screen. The actual comic (this “loading screen”) consists of an animated gif of a checkbox (hence the name).
+The frame is replaced with an interactive panel. In the center is a check box, which clears itself immediately when checked. In the bottom right is a mute button, which begins muted. By unmuting, and changing it to a loudspeaker, sounds are played when the check box is checked. This was the second comic with audio on xkcd. The very similar April Fool's comic from the next year, 2601: Instructions, used audio, too. It also had only one element in the center, but not a check box, but a radio button.
+Under the checkbox is a scrolling visual representation of the timing and duration of clicks in the check box, which also produce matching beeping sounds when unmuted. The representation consists of a dot for a short press, or a bar for a longer press. All long presses are represented by a bar of a pre-determined length; in other words, a longer press does not result in a longer bar.
+By varying between brief and long presses, and brief and long intervals between presses, it is possible to enter characters in Morse Code.
+The check box then begins operating by itself, producing sounds which can be decoded as Morse Code. These responses are also printed in the browser's JavaScript console in both plain text and a textual representation of Morse code. If left without any initial input for 30 seconds it would send the message CQ (meaning "Seek You").
+The title text hints at the use of Morse Code in the comic; interpreting the "check" as a Morse Code dot and the "chhecck" (a long check) as a Morse Code dash gives ...---..., which is the Morse Code for "SOS", the international distress signal. Incidentally, inputting the SOS signal gives "YOU TOO?".
+For the majority of inputs, the check box responds with a random selection from the following list:
+COME AGAIN
+HUH
+NOT FOLLOWING
+SAY AGAIN
+TRY THAT AGAIN
+WHAT
+Some keywords, however, have special responses.
+Unique header text[edit]
+This comic has a unique header text, see the details here. The header is:
+"This comic was put together by Max Goodhart, Patrick, Amber, Benjamin Staffin, Kevin Cotrone, and Michael Leuchtenburg."
+Read Max's blog post on development of the comic.
+Special Responses[edit]
+[. represents a short signal, - represents a long signal, and / represents pauses between words. Sojourner is a Mars rover which has been referenced by Randall in the past and is the entity operating the morse code device.]
+Message & response Morse Code Explanation
+XKCD -> FILE NOT FOUND [-..- -.- -.-. -..] -> [..-. .. .-.. . / -. --- - / ..-. --- ..- -. -..]
+XKCD -> A CROSS THREE LETTERS [-..- -.- -.-. -..] -> [.- / -.-. .-. --- ... ... / - .... .-. . . / .-.. . - - . .-. ...] A pun on "across three letters", how clues are sometimes given in crossword puzzles. Instead, the word "xkcd" is literally a cross (x), followed by three letters (kcd).
+HI -> HELLO! ANYBODY OUT THERE? [.... ..] -> [.... . .-.. .-.. --- -.-.-- / .- -. -.-- -... --- -.. -.-- / --- ..- - / - .... . .-. . ..--..]
+HELLO -> HELLO TO YOU TOO! [.... . .-.. .-.. ---] -> [.... . .-.. .-.. --- / - --- / -.-- --- ..- / - --- --- -.-.--]
+HELP -> ENTER IMAGE NUMBER [.... . .-.. .--.] -> [. -. - . .-. / .. -- .- --. . / -. ..- -- -... . .-.] See below; if you enter any number ≤ 2445 you will be linked to the corresponding xkcd comic.
+HELP -> YES PLEASE [.... . .-.. .--.] -> [-.-- . ... / .--. .-.. . .- ... .] Sojourner mistakes the person inputting the morse code as offering help instead of asking for it.
+ES -> QUE [. ...] -> [--.- ..- .] "Es" means "is" in Spanish, and "Qué" is "what".
+WHAT -> ECHO [.-- .... .- -] -> [. -.-. .... ---]
+ECHO -> ECHO [. -.-. .... ---] -> [. -.-. .... ---]
+CHECK -> MATE [-.-. .... . -.-. -.-] -> [-- .- - .] Checkmate is the winning move in chess.
+CHECKBOX -> RADIO BUTTON [-.-. .... . -.-. -.- -... --- -..-] -> [.-. .- -.. .. --- / -... ..- - - --- -.] This also works the other way around.
+E (repeat n times) -> E (repeat n times) [.] This only applies for n < 7. Also, n=6 returns 'AAAAAA' instead.
+T (repeat n times) -> T (repeat n times) [-] This only applies for n < 7.
+E -> E pause I -> EIEIO [.] -> [.] pause [..] -> [. .. . .. ---]
+I (repeat n times) -> I (repeat n times) [..] -> [..] or [.. ...-] (IV) or [...-] (V) This only applies for n < 4. n=4 returns 'IV' and n=5 returns 'V', the Roman numerals for 4 and 5, respectively.
+FLIPCOIN -> HEADS or TAILS [..-. .-.. .. .--. -.-. --- .. -.] -> [.... . .- -.. ...] or [- .- .. .-.. ...]
+LOOK AROUND -> NOT ENOUGH POWER [.-.. --- --- -.- / .- .-. --- ..- -. -..] -> [-. --- - / . -. --- ..- --. .... / .--. --- .-- . .-.] Indicates that Sojourner doesn't have enough battery to swivel its camera head.
+SEE -> RED SOIL [... . .] -> [.-. . -.. / ... --- .. .-..] References that Sojourner is on Mars. Mars is covered in red soil.
+WHO ARE YOU or WHAT IS YOUR NAME -> SOJOURNER [.-- .... --- / .- .-. . / -.-- --- ..-] or [.-- .... .- - / .. ... / -.-- --- ..- .-. / -. .- -- .] -> [... --- .--- --- ..- .-. -. . .-.] Indicates that Sojourner is the operator of the morse code device.
+SOJOURNER -> CFM [... --- .--- --- ..- .-. -. . .-.] -> [-.-. ..-. --] CFM is short for confirm. Sojourner is confirming that its' in control of the morse code device.
+ET -> PHONE HOME [. -] -> [.--. .... --- -. . / .... --- -- .] This is a reference to the movie ET.
+LS -> DID YOU MEAN DIR [.-.. ...] -> [-.. .. -.. / -.-- --- ..- / -- . .- -. / -.. .. .-.] These are both commands for viewing the files in a directory. LS is the traditional method in UNIX, whereas DIR is more associated with MS-DOS/Windows (although it also exists in UNIX).
+DIR -> ENTER IMAGE NUMBER [-.. .. .-.] -> [. -. - . .-. / .. -- .- --. . / -. ..- -- -... . .-.] This references to the next input. DIR stands for directory.
+(any number ≤ 2445) -> (loads xkcd comic in new tab) Pulls up the xkcd comic corresponding to the number entered. Only works for comics published before this one.
+MAKE ME A SANDWICH -> NOT A CHANCE [-- .- -.- . / -- . / .- / ... .- -. -.. .-- .. -.-. ....] -> [-. --- - / .- / -.-. .... .- -. -.-. .] A reference to this comic
+SUDO MAKE ME A SANDWICH -> NOT POSSIBLE HERE [... ..- -.. --- / -- .- -.- . / -- . / .- / ... .- -. -.. .-- .. -.-. ....] -> [-. --- - / .--. --- ... ... .. -... .-.. . / .... . .-. .] Another reference to this comic
+I LOVE YOU -> LESS THAN THREE [.. / .-.. --- ...- . / -.-- --- ..-] -> [.-.. . ... ... / - .... .- -. / - .... .-. . .] "Less than three" represents the less than (<) symbol followed by the number three (3), which together form <3. This is commonly used to represent a heart.
+:) -> :D [---... -.--.-] -> [---... -..] This gives a bigger version of a smile than the one entered.
+:( -> :C [---... -.--.] -> [---... -.-.] Following the pattern from the above entry, this converts the sad face entered to a bigger frown.
+;) -> :O [-.-.-. -.--.-] -> [---... ---]
+:O -> :X [---... ---] -> [---... -..-]
+UWU -> OWO [..- .-- ..-] -> [--- .-- ---]
+OWO -> UWU [--- .-- ---] -> [..- .-- ..-]
+POG -> YEET [.--. --- --.] -> [-.-- . . -] Pog and yeet are both common interjections used on the Internet.
+UNIX -> (Opens uni.xkcd.com) [..- -. .. -..-] April Fools' Day in 2010
+GET YE FLASK -> YE WISH! IF THERE WAS A FLASK IN THIS GAME, WE'D KNOW ABOUT IT. [--. . - / -.-- . / ..-. .-.. .- ... -.-] -> [-.-- . / .-- .. ... .... -.-.-- / .. ..-. / - .... . .-. . / .-- .- ... / .- / ..-. .-.. .- ... -.- / .. -. / - .... .. ... / --. .- -- . --..-- / .-- . .----. -.. / -.- -. --- .-- / .- -... --- ..- - / .. - .-.-.-]
+GET YE FLASK -> YOU CANNOT GET YE FLASK [--. . - / -.-- . / ..-. .-.. .- ... -.-] -> [-.-- --- ..- / -.-. .- -. -. --- - / --. . - / -.-- . / ..-. .-.. .- ... -.-] This response, as well as the previous one, are references to a recurring joke from Homestar Runner.
+YO -> YO [-.-- ---] -> [-.-- ---]
+DROP TABLE -> HAHA NO [.... .- .... .- / -. ---] -> [.... .- .... .- / -. ---] reference to this comic
+WHY -> TO STUDY THE RED PLANET [.-- .... -.--] -> [- --- / ... - ..- -.. -.-- / - .... . / .-. . -.. / .--. .-.. .- -. . -] Refers to Sojourners' misson on Mars.
+EAT -> I PHOTOSYNTHESIZE [. .- -] -> [.. / .--. .... --- - --- ... -.-- -. - .... . ... .. --.. .] Sojourner is a rover, and therefore does not require food. For that matter, Sojourner also does not photosynthesize. It does, however, generate energy from light in a superficially similar manner using its solar panels.
+BATTLE or FIGHT -> THROW [-... .- - - .-.. .] or [..-. .. --. .... -] -> [- .... .-. --- .--]
+START -> DID YOU MEAN START GAME? [... - .- .-. -] -> [-.. .. -.. / -.-- --- ..- / -- . .- -. / ... - .- .-. - / --. .- -- . ..--..] References the below input.
+STARTGAME -> CHECK BACK LATER [... - .- .-. - --. .- -- .] -> [-.-. .... . -.-. -.- / -... .- -.-. -.- / .-.. .- - . .-.]
+Controls[edit]
+Message & response Morse Code Explanation
+QUIET -> (turns the volume off) [--.- ..- .. . -]
+MUTE -> (turns the volume off) [-- ..- - .]
+BEEP -> (turns the volume on) [-... . . .--.]
+See also QRS and QRQ.
+Q codes and radio shorthand[edit]
+An explanation of Q codes can be found here.
+Message & response Morse Code Explanation
+CQ -> CQD DE SOJ [-.-. --.-] -> [-.-. --.- -.. / -.. . / ... --- .---]
+SOS -> YOU TOO? [... --- ...] -> [-.-- --- ..- / - --- --- ..--..] Implies that Sojourner is also in need of help.
+SOS -> OH NO [... --- ...] -> [--- .... / -. ---]
+QRS -> (reduces playback speed) [--.- .-. ...]
+QRQ -> (increases playback speed) [--.- .-. --.-]
+QRA -> QRA SOJOURNER [--.- .-. .-] -> [--.- .-. .- / ... --- .--- --- ..- .-. -. . .-.]
+QRB -> QRB 264 MILLION KM [--.- .-. -...] -> [--.- .-. -... /..--- -.... ....- / -- .. .-.. .-.. .. --- -. / -.- --]
+QRH -> QRH 0.652 METERS [--.- .-. ....] -> [--.- .-. .... / ----- .-.-.- -.... ..... ..--- / -- . - . .-. ...]
+QRG -> QRG PATHFINDER [--.- .-. --.] -> [--.- .-. --. / .--. .- - .... ..-. .. -. -.. . .-.]
+QRZ -> QRZ SOJOURNER [--.- .-. --..] -> [--.- .-. --.. / ... --- .--- --- ..- .-. -. . .-.]
+QRT -> PLEASE DON'T GO [--.- .-. -] -> [.--. .-.. . .- ... . / -.. --- -. .----. - / --. ---]
+QTH -> QTH ARES VALLIS [--.- - ....] -> [--.- - .... / .- .-. . ... / ...- .- .-.. .-.. .. ...]
+QSL -> QSL [--.- ... .-..] -> [--.- ... .-..]
+73 -> 73 KN [--... ...--] -> [--... ...-- / -.- -.]
+CL -> BYE [-.-. .-..] -> [-... -.-- .]
+FORTUNE[edit]
+Message & response Morse Code Explanation
+F -> DID YOU MEAN FORTUNE [..-.] -> [-.. .. -.. / -.-- --- ..- / -- . .- -. / ..-. --- .-. - ..- -. .]
+FORTUNE -> OPEN ME [..-. --- .-. - ..- -. .]
+OPEN -> returns one of the following fortunes
+1. A BEAUTIFUL SMART AND LOVING PERSON WILL BE COMING INTO YOUR LIFE
+2. CHANGE IS HAPPENING IN YOUR LIFE SO GO WITH THE FLOW
+3. COURTESY BEGINS IN THE HOME
+4. DILIGENCE AND MODESTY CAN RAISE YOUR SOCIAL STATUS
+5. EVERYWHERE YOU CHOOSE TO GO FRIENDLY FACES WILL GREET YOU
+6. FOLLOW THE MIDDLE PATH NEITHER EXTREME WILL MAKE YOU HAPPY
+7. FOR THE THINGS WE HAVE TO LEARN BEFORE WE CAN DO THEM WE LEARN BY DOING THEM
+8. HELP IM BEING HELD PRISONER IN A CHINESE BAKERY
+9. LIKE THE RIVER FLOW INTO THE SEA SOMETHING ARE JUST MEANT TO BE
+10. MANS MIND ONCE STRETCHED BY A NEW IDEA NEVER REGAINS ITS ORIGINAL DIMENSIONS
+11. MEDITATION WITH AN OLD ENEMY IS ADVISED
+12. NEVER FEAR THE END OF SOMETHING MARKS THE START OF SOMETHING NEW
+13. PERHAPS YOUVE BEEN FOCUSING TOO MUCH ON SAVING
+14. SAVOR YOUR FREEDOM IT IS PRECIOUS
+15. STAYING CLOSE TO HOME IS GOING TO BE BEST FOR YOUR MORALE TODAY
+16. YOU ARE GENEROUS TO AN EXTREME AND ALWAYS THINK OF THE OTHER FELLOW
+17. YOU HAVE AN UNUSUAL EQUIPMENT FOR SUCCESS USE IT PROPERLY
+18. YOU SHOULD PAY FOR THIS CHECK BE GENEROUS
+19. YOU WILL BE A GREAT SUCCESS BOTH IN THE BUSINESS WORLD AND SOCIETY
+20. YOUR DREAMS ARE NEVER SILLY DEPEND ON THEM TO GUIDE YOU
+21. YOUR INFINITE CAPACITY FOR PATIENCE WILL BE REWARDED SOONER OR LATER
+22. YOUR MENTALITY IS ALERT PRACTICAL AND ANALYTICAL
+23. YOUR MOODS SIGNAL A PERIOD OF CHANGE
+24. FIRST THINK OF WHAT YOU WANT TO DO THEN DO WHAT YOU HAVE TO DO
+25. ADVENTURE CAN BE REAL HAPPINESS
+26. SUCCESS IS GOING FROM FAILURE TO FAILURE WITHOUT LOSS OF ENTHUSIASM
+[--- .--. . -.]
+1. [.- / -... . .- ..- - .. ..-. ..- .-.. / ... -- .- .-. - / .- -. -.. / .-.. --- ...- .. -. --. / .--. . .-. ... --- -. / .-- .. .-.. .-.. / -... . / -.-. --- -- .. -. --. / .. -. - --- / -.-- --- ..- .-. / .-.. .. ..-. .]
+2. [-.-. .... .- -. --. . / .. ... / .... .- .--. .--. . -. .. -. --. / .. -. / -.-- --- ..- .-. / .-.. .. ..-. . / ... --- / --. --- / .-- .. - .... / - .... . / ..-. .-.. --- .--]
+3. [-.-. --- ..- .-. - . ... -.-- / -... . --. .. -. ... / .. -. / - .... . / .... --- -- .]
+4. [-.. .. .-.. .. --. . -. -.-. . / .- -. -.. / -- --- -.. . ... - -.-- / -.-. .- -. / .-. .- .. ... . / -.-- --- ..- .-. / ... --- -.-. .. .- .-.. / ... - .- - ..- ...]
+5. [. ...- . .-. -.-- .-- .... . .-. . / -.-- --- ..- / -.-. .... --- --- ... . / - --- / --. --- / ..-. .-. .. . -. -.. .-.. -.-- / ..-. .- -.-. . ... / .-- .. .-.. .-.. / --. .-. . . - / -.-- --- ..-]
+6. [. ...- . .-. -.-- .-- .... . .-. . / -.-- --- ..- / -.-. .... --- --- ... . / - --- / --. --- / ..-. .-. .. . -. -.. .-.. -.-- / ..-. .- -.-. . ... / .-- .. .-.. .-.. / --. .-. . . - / -.-- --- ..-]
+7. [..-. --- .-. / - .... . / - .... .. -. --. ... / .-- . / .... .- ...- . / - --- / .-.. . .- .-. -. / -... . ..-. --- .-. . / .-- . / -.-. .- -. / -.. --- / - .... . -- / .-- . / .-.. . .- .-. -. / -... -.-- / -.. --- .. -. --. / - .... . --]
+8. [.... . .-.. .--. / .. -- / -... . .. -. --. / .... . .-.. -.. / .--. .-. .. ... --- -. . .-. / .. -. / .- / -.-. .... .. -. . ... . / -... .- -.- . .-. -.--]
+9. [.-.. .. -.- . / - .... . / .-. .. ...- . .-. / ..-. .-.. --- .-- / .. -. - --- / - .... . / ... . .- / ... --- -- . - .... .. -. --. / .- .-. . / .--- ..- ... - / -- . .- -. - / - --- / -... .]
+10. [-- .- -. ... / -- .. -. -.. / --- -. -.-. . / ... - .-. . - -.-. .... . -.. / -... -.-- / .- / -. . .-- / .. -.. . .- / -. . ...- . .-. / .-. . --. .- .. -. ... / .. - ... / --- .-. .. --. .. -. .- .-.. / -.. .. -- . -. ... .. --- -. ...]
+11. [-- . -.. .. - .- - .. --- -. / .-- .. - .... / .- -. / --- .-.. -.. / . -. . -- -.-- / .. ... / .- -.. ...- .. ... . -..]
+12. [-. . ...- . .-. / ..-. . .- .-. / - .... . / . -. -.. / --- ..-. / ... --- -- . - .... .. -. --. / -- .- .-. -.- ... / - .... . / ... - .- .-. - / --- ..-. / ... --- -- . - .... .. -. --. / -. . .--]
+13. [.--. . .-. .... .- .--. ... / -.-- --- ..- ...- . / -... . . -. / ..-. --- -.-. ..- ... .. -. --. / - --- --- / -- ..- -.-. .... / --- -. / ... .- ...- .. -. --.]
+14. [... .- ...- --- .-. / -.-- --- ..- .-. / ..-. .-. . . -.. --- -- / .. - / .. ... / .--. .-. . -.-. .. --- ..- ...]
+15. [... - .- -.-- .. -. --. / -.-. .-.. --- ... . / - --- / .... --- -- . / .. ... / --. --- .. -. --. / - --- / -... . / -... . ... - / ..-. --- .-. / -.-- --- ..- .-. / -- --- .-. .- .-.. . / - --- -.. .- -.--]
+16. [-.-- --- ..- / .- .-. . / --. . -. . .-. --- ..- ... / - --- / .- -. / . -..- - .-. . -- . / .- -. -.. / .- .-.. .-- .- -.-- ... / - .... .. -. -.- / --- ..-. / - .... . / --- - .... . .-. / ..-. . .-.. .-.. --- .--]
+17. [-.-- --- ..- / .... .- ...- . / .- -. / ..- -. ..- ... ..- .- .-.. / . --.- ..- .. .--. -- . -. - / ..-. --- .-. / ... ..- -.-. -.-. . ... ... / ..- ... . / .. - / .--. .-. --- .--. . .-. .-.. -.--]
+18. [-.-- --- ..- / ... .... --- ..- .-.. -.. / .--. .- -.-- / ..-. --- .-. / - .... .. ... / -.-. .... . -.-. -.- / -... . / --. . -. . .-. --- ..- ...]
+19. [-.-- --- ..- / .-- .. .-.. .-.. / -... . / .- / --. .-. . .- - / ... ..- -.-. -.-. . ... ... / -... --- - .... / .. -. / - .... . / -... ..- ... .. -. . ... ... / .-- --- .-. .-.. -.. / .- -. -.. / ... --- -.-. .. . - -.--]
+20. [-.-- --- ..- .-. / -.. .-. . .- -- ... / .- .-. . / -. . ...- . .-. / ... .. .-.. .-.. -.-- / -.. . .--. . -. -.. / --- -. / - .... . -- / - --- / --. ..- .. -.. . / -.-- --- ..-]
+21. [-.-- --- ..- .-. / .. -. ..-. .. -. .. - . / -.-. .- .--. .- -.-. .. - -.-- / ..-. --- .-. / .--. .- - .. . -. -.-. . / .-- .. .-.. .-.. / -... . / .-. . .-- .- .-. -.. . -.. / ... --- --- -. . .-. / --- .-. / .-.. .- - . .-.]
+22. [-.-- --- ..- .-. / -- . -. - .- .-.. .. - -.-- / .. ... / .- .-.. . .-. - / .--. .-. .- -.-. - .. -.-. .- .-.. / .- -. -.. / .- -. .- .-.. -.-- - .. -.-. .- .-..]
+23. [-.-- --- ..- .-. / -- --- --- -.. ... / ... .. --. -. .- .-.. / .- / .--. . .-. .. --- -.. / --- ..-. / -.-. .... .- -. --. .]
+24. [..-. .. .-. ... - / - .... .. -. -.- / --- ..-. / .-- .... .- - / -.-- --- ..- / .-- .- -. - / - --- / -.. --- / - .... . -. / -.. --- / .-- .... .- - / -.-- --- ..- / .... .- ...- . / - --- / -.. ---]
+25. [.- -.. ...- . -. - ..- .-. . / -.-. .- -. / -... . / .-. . .- .-.. / .... .- .--. .--. .. -. . ... ...]
+26. [... ..- -.-. -.-. . ... ... / .. ... / --. --- .. -. --. / ..-. .-. --- -- / ..-. .- .. .-.. ..- .-. . / - --- / ..-. .- .. .-.. ..- .-. . / .-- .. - .... --- ..- - / .-.. --- ... ... / --- ..-. / . -. - .... ..- ... .. .- ... --]
+OPEN -> HUH (if after something other than "FORTUNE") [--- .--. . -.] -> [.... ..- ....]
+ENCABULATOR[edit]
+Message & response Morse Code Explanation
+STATUS -> RADIO ONLINE, MOTOR ONLINE, UNILATERAL PHASE DETRACTOR UNPOWERED, CARDINAL GRAMMETER UNSYNCHRONIZED [... - .- - ..- ...] -> [.-. .- -.. .. --- / --- -. .-.. .. -. . --..-- / -- --- - --- .-. / --- -. .-.. .. -. . --..-- / ..- -. .. .-.. .- - . .-. .- .-.. / .--. .... .- ... . / -.. . - .-. .- -.-. - --- .-. / ..- -. .--. --- .-- . .-. . -.. --..-- / -.-. .- .-. -.. .. -. .- .-.. / --. .-. .- -- -- . - . .-. / ..- -. ... -.-- -. -.-. .... .-. --- -. .. --.. . -..]
+YOUTUBE -> RXJKDH1KZ0W [-.-- --- ..- - ..- -... .] This represents the video ID for Rockwell Retro Encabulator
+REPAIR or ENCABULATOR or FIX or SYSTEM -> ENTERING ENCABULATOR RECOVERY SYSTEM. OPTIONS 1 INITIATE SIDE FUMBLING 2 ALIGN SPURVING BEARINGS 3 REVERSE TREMIE PIPE
+1 -> SIDE FUMBLING DETECTED. MODIAL INTERACTION UNSTABLE. RECOVERY TERMINATED.
+2 -> MODIAL INTERACTION INITIATED. OPTIONS 1 UNWIND LOTUS O DELTOID 2 INCREASE DEPLENERATION 3 CONNECT GIRDLESPRING ON DOWN END OF GRAMMETER 4 CONNECT SEVENTH CONDUCTOR TO GIRDLESPRING
+1 -> SIDE FUMBLING DETECTED. MODIAL INTERACTION UNSTABLE. RECOVERY TERMINATED.
+2 -> DEPLENERATION PREVENTED BY DINGLE ARM
+3 -> SIDE FUMBLING DETECTED. MODIAL INTERACTION UNSTABLE. RECOVERY TERMINATED.
+4 -> PANAMETRIC FAN ACTIVATED. MODIAL INTERACTION STABLE. DEFAULT CONFIGURATION MISSING. MANUALLY ENTER MARZELVANE TYPE TO COMPLETE RECOVERY
+HYDROCOPTIC -> RECOVERY SUCCESSFUL. REBOOT Y N?
+Y -> (Opens sojourner_repaired.png)
+3 -> ERROR TREMIE PIPE NONREVERSIBLE
+[.-. . .--. .- .. .-.] or [. -. -.-. .- -... ..- .-.. .- - --- .-.] or [..-. .. -..-] or [... -.-- ... - . --] -> [. -. - . .-. .. -. --. / . -. -.-. .- -... ..- .-.. .- - --- .-. / .-. . -.-. --- ...- . .-. -.-- / ... -.-- ... - . -- .-.-.- / --- .--. - .. --- -. ... / .---- / .. -. .. - .. .- - . / ... .. -.. . / ..-. ..- -- -... .-.. .. -. --. / ..--- / .- .-.. .. --. -. / ... .--. ..- .-. ...- .. -. --. / -... . .- .-. .. -. --. ... / ...-- / .-. . ...- . .-. ... . / - .-. . -- .. . / .--. .. .--. .]
+[.----] -> [... .. -.. . / ..-. ..- -- -... .-.. .. -. --. / -.. . - . -.-. - . -.. .-.-.- / -- --- -.. .. .- .-.. / .. -. - . .-. .- -.-. - .. --- -. / ..- -. ... - .- -... .-.. . .-.-.- / .-. . -.-. --- ...- . .-. -.-- / - . .-. -- .. -. .- - . -.. .-.-.-]
+[..---] -> [-- --- -.. .. .- .-.. / .. -. - . .-. .- -.-. - .. --- -. / .. -. .. - .. .- - . -.. .-.-.- / --- .--. - .. --- -. ... / .---- / ..- -. .-- .. -. -.. / .-.. --- - ..- ... / --- / -.. . .-.. - --- .. -.. / ..--- / .. -. -.-. .-. . .- ... . / -.. . .--. .-.. . -. . .-. .- - .. --- -. / ...-- / -.-. --- -. -. . -.-. - / --. .. .-. -.. .-.. . ... .--. .-. .. -. --. / --- -. / -.. --- .-- -. / . -. -.. / --- ..-. / --. .-. .- -- -- . - . .-. / ....- / -.-. --- -. -. . -.-. - / ... . ...- . -. - .... / -.-. --- -. -.. ..- -.-. - --- .-. / - --- / --. .. .-. -.. .-.. . ... .--. .-. .. -. --.]
+[.----] -> [... .. -.. . / ..-. ..- -- -... .-.. .. -. --. / -.. . - . -.-. - . -.. .-.-.- / -- --- -.. .. .- .-.. / .. -. - . .-. .- -.-. - .. --- -. / ..- -. ... - .- -... .-.. . .-.-.- / .-. . -.-. --- ...- . .-. -.-- / - . .-. -- .. -. .- - . -.. .-.-.-]
+[..---] -> [-.. . .--. .-.. . -. . .-. .- - .. --- -. / .--. .-. . ...- . -. - . -.. / -... -.-- / -.. .. -. --. .-.. . / .- .-. --]
+[...--] -> [... .. -.. . / ..-. ..- -- -... .-.. .. -. --. / -.. . - . -.-. - . -.. .-.-.- / -- --- -.. .. .- .-.. / .. -. - . .-. .- -.-. - .. --- -. / ..- -. ... - .- -... .-.. . .-.-.- / .-. . -.-. --- ...- . .-. -.-- / - . .-. -- .. -. .- - . -.. .-.-.-]
+[....-] -> [.--. .- -. .- -- . - .-. .. -.-. / ..-. .- -. / .- -.-. - .. ...- .- - . -.. .-.-.- / -- --- -.. .. .- .-.. / .. -. - . .-. .- -.-. - .. --- -. / ... - .- -... .-.. . .-.-.- / -.. . ..-. .- ..- .-.. - / -.-. --- -. ..-. .. --. ..- .-. .- - .. --- -. / -- .. ... ... .. -. --. .-.-.- / -- .- -. ..- .- .-.. .-.. -.-- / . -. - . .-. / -- .- .-. --.. . .-.. ...- .- -. . / - -.-- .--. . / - --- / -.-. --- -- .--. .-.. . - . / .-. . -.-. --- ...- . .-. -.--]
+[.... -.-- -.. .-. --- -.-. --- .--. - .. -.-.] -> [.-. . -.-. --- ...- . .-. -.-- / ... ..- -.-. -.-. . ... ... ..-. ..- .-.. .-.-.- / .-. . -... --- --- - / -.-- / -. ..--..]
+[-.--]
+[...--] -> [. .-. .-. --- .-. / - .-. . -- .. . / .--. .. .--. . / -. --- -. .-. . ...- . .-. ... .. -... .-.. .]
+MAZE[edit]
+Message & response Morse Code Explanation
+RETURN -> DID YOU MEAN ENTER [.-. . - ..- .-. -.]
+ENTER -> DID YOU MEAN ENTER MAZE [. -. - . .-.]
+ENTER MAZE -> AN EMPTY ROOM
+LOOK -> AN EMPTY ROOM
+HELP -> NORTH EAST SOUTH WEST GET
+EXIT -> CFM (Exits the maze)
+[. -. - . .-. / -- .- --.. .] -> [.- -. / . -- .--. - -.-- / .-. --- --- --]
+[.-.. --- --- -.-] -> [.- -. / . -- .--. - -.-- / .-. --- --- --]
+[.... . .-.. .--.] -> [-. --- .-. - .... / . .- ... - / ... --- ..- - .... / .-- . ... - / --. . -]
+[. -..- .. -] -> [-.-. ..-. --]
+Maze
+an open flame a candle on a table
+an empty room (start)
+a hanging bell an open book on a table (locked door)
+Steps to complete (directions can be abbreviated as their first letter):
+NORTH
+GET CANDLE -> TAKEN
+WEST
+LIGHT CANDLE
+EAST
+SOUTH
+SOUTH
+RING BELL -> A DOOR OPENS
+EAST
+CLOSE BOOK -> CONGRATULATIONS YOU ESCAPE
+CROSSWORD[edit]
+Message & response Morse Code Explanation
+CROSSWORD -> NUMBER AND DIRECTION [-.-. .-. --- ... ... .-- --- .-. -..] -> [-. ..- -- -... . .-. / .- -. -.. / -.. .. .-. . -.-. - .. --- -.] This starts a crossword. You can ask for hints like "1 down" or "2 across". It appears to be the New York Times Crossword from the day this comic was written (2021-04-01).
+Solved Crossword
+m y g o d d e v e l f
+b u o n o e y e s s l u r
+a m o c o c r a p l m a o
+v e r y r e l i g i o u s
+s e e m u y r a m
+h a r h a r s c a r e d o f
+e s s e n t i a l l y a r i
+b t e n m m i t v a d
+o l a b a d m o u t h i n g
+p a s s e d b y n o o d g e
+o a r s u n l e t
+b l e n d e d f a m i l y
+b o r g p e l t g e n r e
+q u i z s p a y h i c k s
+s t e p b r t a h o e
+Words [Expand]
+Rover Scene[edit]
+After successfully repairing and rebooting Sojourner, a comic is opened which depicts it seeking out and finding its friends, Spirit, Opportunity, Curiosity, Perseverance, and Ingenuity. Curiosity and Perseverance are locked in a swordfight, and either Spirit or Opportunity is carried off by Ingenuity while the other speeds off a small mound of dirt. Ingenuity carrying a rover is a reference to the previous comic.
+Special Console Commands[edit]
+The page's JavaScript creates a global object morse with encode and decode methods. From the developer console, it is possible to write morse.encode("A PHRASE"), which will print the Morse code corresponding to the text provided, or morse.decode("... --- ...") which will translate the Morse code to text.
+BeepComic.hurryUp() to get the reply immediately in the console. BeepComic.send(...) to send directly to SOJOURNER.
+Transcript[edit]
+[A small box is in the middle of a large white frame. The box can have a check-mark, but it is alternating between being checked or unchecked. At the bottom right there is a muted speaker (which can be unmuted). If the user press the checkbox gray dots or lines will appear below depending on the length of the press. These will move from right to left and then disappear.]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+If left alone, the morse code produced spells "WHAT" (.-- .... .- -) Ezist (talk) 22:50, 1 April 2021 (UTC)
+I'm early enough that there isn't a summary yet, and I'm not confident enough to start one, so I'll just drop my thoughts. If you click the checkbox repeatedly, at some point it starts playing Morse code. Presumably, there are a whole lot of different sequences. So far, I've gotten .- - .-- .... (which translates to ATWS; no idea what that means) and ..... (just 5, I think). Meanwhile, the mouseover text is ... --- ..., which is SOS. Any thoughts? What other sequences are there? Or am I totally missing something? (Edit conflict. Looks like Ezist has another one.) Aerin (talk) 22:56, 1 April 2021 (UTC)
+I got something like ATWS at first, but that's just cause I misheard one of the letters, and misinterpreted where the word started/ended. Ezist (talk) 23:03, 1 April 2021 (UTC)
+Oh yes, you're right - what I was hearing was just WHAT. When I put it into a translator, I must have mistyped .... (H) as ... (S). Aerin (talk) 23:58, 1 April 2021 (UTC)
+Wait, sorry, I'm back. It apparently has to do with user input. No idea what I pressed to get those results lol. Aerin (talk) 22:57, 1 April 2021 (UTC)
+Just a note, but a Morse code legend as well as translations of your input and the website's output are available in the console in browser DevTools. Helpful for those that don't know Morse. Toadtoad (talk)
+It looks like Samuel Morse died on April 2, 1872, so that might be why this comic appears today. 162.158.212.218 23:07, 1 April 2021 (UTC)
+"Hi" returns [.... . .-.. .-.. --- -.-.-- / .- -. -.-- -... --- -.. -.-- / --- ..- - / - .... . .-. . ..--..] "HELLO! ANYBODY OUT THERE?" Piano (talk) 23:09, 1 April 2021 (UTC)
+a sequence of repeating "T", or at least more than one "E" [ - - - ] or [ . . . ] will respond back the same sequence, just one "E" will give "WHAT" 172.68.25.253 23:18, 1 April 2021 (UTC)
+"QTH" gives "QTH ARES VALLIS". "QTH" is a code used to ask for position, and Ares Vallis is a place on Mars. Ezist (talk) 23:27, 1 April 2021 (UTC)
+"CHECK" replies "MATE." "CHECKMATE" and "MATE" each reply "WHAT." 162.158.126.146 23:34, 1 April 2021 (UTC)
+
+The js: has anyone tried viewing the JS? There seems to be a file that is just filled with undecipherable Morse. Can anyone interpret this? Just press f12 and look for comic.js or morse.js 162.158.62.161 23:35, 1 April 2021 (UTC)
+I tried decoding it. Certainly looks like something binary encoded into text. 162.158.183.153 23:36, 1 April 2021 (UTC)
+Adding onto that, what does the ';D' in .split(';D') (at the very end of morse.js) do? AFAIK it's not a special character in JS
+morse.js decodes comic.js into the following script: [1] (Also, pretty sure the .split(';D') is just an emoji - it results only in an array of 1 element, so no splitting really occurred.) 108.162.219.78 23:52, 1 April 2021 (UTC)
+running window.BeepComic.hurryUp() in console gives you immediate response in logs, without waiting for all the beeping to cease
+Ah so that's where that script comes from 162.158.183.153 23:40, 1 April 2021 (UTC)
+`BeepComic.send(morse.encode('sudo make me a sandwich'))` <-- convenience, in addition to the hurryUp --rcombs
+Does someone else get this uuid DB334AAB-92A1-11EB-8001-8C16454FB02A? 162.158.238.228 23:42, 1 April 2021 (UTC)
+Yep, that's what I get too. 172.68.132.239 00:29, 2 April 2021 (UTC)
+What did you enter to get a UUID? I tried decoding what you posted at this link, then tried looking up the MAC address that was encoded in it. I'm not sure what to make of the result, but perhaps it has something to do with a chip on the Sojourner. Kjmitch (talk) 04:48, 2 April 2021 (UTC)
+
+Audio does not work on Safari as of right now - however, inputting `const AudioContext = webkitAudioContext;` into the browser console before unmuting will allow audio to work on Safari. May want to note this as a 'fix' for the experience? --162.158.63.6 23:44, 1 April 2021 (UTC)
+In addition to muting/unmuting, BEEP and MUTE reply CQM (I can't find a reference to what that means). 162.158.126.146 23:51, 1 April 2021 (UTC)
+The statements at line 458 of the gist mentioned earlier seem interesting.
+   handleAction(text) {
+       if (text.startsWith('//')) {
+           this.client.open(text.substr(2));
+       }
+   }
+Nevermind, it was just how the response to "dir" opened links) 172.68.189.101 23:52, 1 April 2021 (UTC)
+
+Parsed the JS (morse obfuscation, weird) and cut this small bit out:
+e = await fetch(`/2445/morse/.../${morse.encode('pog')}`);
+f = await e.text();
+[state, ...respMorse] = f.split('/');
+morse.decode(respMorse.join('/'));
+Use this if you'd like to play around with inputs. (replace pog, obviously) :) Ezist (talk) 23:53, 1 April 2021 (UTC)
+No need to document UniXKCD here, there's already a page for that. --rcombs
+Here's all the two character inputs: https://pastebin.com/5JhsVwM1 162.158.238.244 00:16, 2 April 2021 (UTC)
+I got a different response for FORTUNE, it just tells me "OPEN ME" maybe Fortune gives multiple possible answers depending on luck, IP or something else, like a fortune cookie can have different answers inside it? 141.101.104.81 00:19, 2 April 2021 (UTC)
+For me FORTUNE responds with "OPEN ME", then I send OPEN, it responds with "YOUR DREAMS ARE NEVER SILLY DEPEND ON THEM TO GUIDE YOU" 141.101.96.40 00:31, 2 April 2021 (UTC)
+For me CHECKBOX responds with RADIO BUTTON and vice versa. Also, putting in a number doesn't seem to redirect me, but 11 does respond with "HUH"--Yodofrna (talk) 00:46, 2 April 2021 (UTC)
+For me YOUTUBE provides what appears to be a URL, but it's so long I'm having a hard time transcribing it Dextrous Fred (talk) 00:49, 2 April 2021 (UTC)
+YOUTUBE -> RXJKDH1KZ0W = https://www.youtube.com/watch?v=RXJKdh1KZ0w 162.158.238. 245 00:51, 2 April 2021 (UTC)
+FORTUNE is a reference to the Unix 'fortune' program, but responses seem to be consistent for each user and not randomized like the Unix version. Use of a VPN confirms that responses are randomized by IP address. Sending OPEN only returns a fortune if it is sent immediately following FORTUNE. LordPants (talk) 00:53, 2 April 2021 (UTC)
+
+One possible ending: HYDROCOPTIC -> Y -> https://imgs.xkcd.com/comics/sojourner_repaired.png 162.158.238.244 00:54, 2 April 2021 (UTC)
+It appears that unknown inputs produce WHAT, NOT FOLLOWING, SAY AGAIN, TRY THAT AGAIN, COME AGAIN, HUH depending on some properties of the input text. 141.101.96.40 00:57, 2 April 2021 (UTC)
+FORTUNE gave me "DO NOT LET AMBITIONS OVERSHADOW SMALL SUCCESS". Should we add something on the page to list all the fortunes we've found?
+XKCD now returns "A CROSS THREE LETTERS". What could that mean? 172.68.132.239 01:22, 2 April 2021 (UTC)
+SOS returns OH NO now as well 172.68.189.107 01:27, 2 April 2021 (UTC)
+I got this too, can't seem to get it again. Strange. Ezist (talk) 01:28, 2 April 2021 (UTC)
+"A CROSS THREE LETTERS" could be 'mix'? (Or 'cut' but that seems less likely... Has anyone tried responding MIX when it gives the crossword clue.
+ProphetZarquon (talk) 18:31, 3 April 2021 (UTC)
+Note that "A CROSS THREE LETTERS" describes "xkcd" perfectly: a cross, followed by three letters... John.Adriaan (talk) 00:39, 6 April 2021 (UTC)
+This isn't as convenient as the other in-browser console solutions, but I had fun quickly whipping up a script for NodeJS to query the Morse server and quickly get a response. https://github.com/realToadtoad/xkcd-checkbox-query Toadtoad (talk)
+In the png you get when you succeed in repairing Sojourner, there's a typo 108.162.219.50 02:43, 2 April 2021 (UTC)
+I wonder what happens if you try to send it AT-style modem commands? Seems like it might do something, but I don't have the time/patience to experiment with that. 108.162.215.248 02:55, 2 April 2021 (UTC)
+A blog post on creating the code for this comic: https://chromakode.com/post/checkbox Ad1217 (talk) 05:25, 2 April 2021 (UTC)
+It doesn't work as described, fo be. Does it depend on the browser? I'm using Chrome.
+[I don't see 'Loading...' or any other text, or a mute button; I do see dots and dashes, but get no sound(s).]
+[[Special:Contributions] 06:57, 2 April 2021 (UTC)
+To activate the sound, you must click the unmute button on the bottom right corner.
+Note that those with a keyboard may press space as well to send the code. May be easier to control than a touchy laptop trackpad 162.158.187.75 10:31, 2 April 2021 (UTC)
+Scripts[edit]
+If your clicking abilities have dwindled since the invention of the vocal telephone, you may use this roughly written script in the webconsole as an aid --- self edit: now that others pointed out BeepComic, I simplified it a bit. ---
+ (async ()=>{
+  let delay
+  const asleep = async (dur) => new Promise(res=>setTimeout(res,dur))
+  const send = async (...msgs) => {
+    for await (const msg of msgs) {
+      await BeepComic.send(morse.encode(msg))
+      await asleep(delay)
+    }
+  }
+  // Break the immersion
+  BeepComic.hurryUp();
+  // How long to wait for server to reply, in ms. increase for laggy networks
+  delay = 300
+  // Say things, in order
+  await send('fortune','open')
+ })()
+Feel free to fix/clean/shorten/move the script. I put it in a topic to encourage keeping it at the bottom of discussion. 108.162.237.46 10:17, 2 April 2021 (UTC)
+
+JavaScript to be pasted in the browser console. Adds a text box below the comic, in which you can write text and press enter to send it. Responses can be read from the JS console. Ad1217 (talk) 14:53, 2 April 2021 (UTC)
+BeepComic.hurryUp();
+
+var input = comic.parentNode.insertBefore(document.createElement('input'), comic.nextSibling);
+input.addEventListener("keydown", e => {
+  if (e.keyCode == 13) {
+    BeepComic.send(morse.encode(e.target.value));
+    e.target.value = '';
+  }
+}, false);
+import requests
+
+URL = r"https://xkcd.com/2445/morse/...%s/%s"
+enc_map = {"0":"-----","1":".----","2":"..---","3":"...--","4":"....-","5":".....","6":"-....","7":"--...","8":"---..","9":"----.","A":".-","B":"-...","C":"-.-.","D":"-..","E":".","F":"..-.","G":"--.","H":"....","I":"..","J":".---","K":"-.-","L":".-..","M":"--","N":"-.","O":"---","P":".--.","Q":"--.-","R":".-.","S":"...","T":"-","U":"..-","V":"...-","W":".--","X":"-..-","Y":"-.--","Z":"--..",".":".-.-.-",",":"--..--","?":"..--..","'":".----.","!":"-.-.--","/":"-..-.","(":"-.--.",")":"-.--.-","&":".-...",":":"---...",";":"-.-.-.","=":"-...-","+":".-.-.","-":"-....-","_":"..--.-",'"':".-..-.","$":"...-..-","@":".--.-."," ": "/"}
+dec_map = dict([(y,x) for x,y in enc_map.items()])
+
+to_morse = lambda text: " ".join(enc_map[i] for i in text if i in enc_map)
+from_morse = lambda text:  "".join(dec_map[i] for i in text if i in dec_map)
+
+def get_resp(text, key):
+    url = URL%(("/" if len(key) else "") + to_morse(key), to_morse(text))
+    c = requests.get(url).content.decode('utf-8')
+    c = from_morse(c.split(' '))
+    return c[:36], c[37:]
+
+k = ""
+while True:
+    k,r = get_resp(input("YOU      : "), k)
+    print("SOJOURNER:", r)
+Python script to interact directly with SOJOURNER
+If you try to read the book in the maze, it says "Your eyes swim". Sarah the Pie(yes, the food) (talk) 16:13, 2 April 2021 (UTC)
+What’s the proper way to add an alternate mobile version of this comic? Not sure about phones, but I read this on my tablet and had a completely different version of the comic than appeared here. Dystopianist (talk) 03:00, 3 April 2021 (UTC)
+"Sudo make me a sandwich" works in the linked Unix console and gets "Okay" as a response. 172.69.22.48 08:06, 4 April 2021 (UTC)
+The frame is replaced with an interactive panel.
+No, it isn't. Other than loading the page, what else do I have to do to make this work? Latest Chrome on OSX/ Big Sur and Windows 10. --Misterstick (talk) 10:35, 4 April 2021 (UTC)
+To answer my question, not load the mobile version of the page. Duh. --Misterstick (talk) 10:37, 4 April 2021 (UTC)
+Edit: Deleted comment. Sorry for the accidental spam. {)|(}Quill{)|(} 18:17, 6 April 2021 (UTC)
+Escape Station game[edit]
+Entering "START GAME" starts the game and gets the prompt "PLAY ESCAPE STATION? Y / N / OR ENTER CODE". From this point on the normal commands don't work. and the unkown command response is replaced by "INVALID COMMAND". Entering "N" cancel the game start ("ANOTHER TIME THEN"), I don't know what code(s) to enter. And entering "Y" starts the game ("YOU WAKE IN A WHITE BED IN A WHITE ROOM EXITS ARE OUT").
+During the game it seems there are three game actions before the player drifts back to sleep and the station explodes, I haven't found commands that prevent station explosion, change the player status, prevent yawning or change the game score. The response on all game actions is followed by a yawming message and the text "EXITS ARE OUT"
+Here are the commands I found so far :
+"HELP" -> "COMMON COMMANDS ARE LOOK INVENTORY OUT EXAMINE SOMETHING PRESS BUTTON GET SOMETHING FIRE SOMETHING QUIT" (does not count as a game action)
+"LOOK" -> "YOU ARE IN A WHITE BED IN A WHITE ROOM [..]"
+"LOOK" -> "YOU ARE IN A WHITE BED IN A WHITE ROOM [..]"
+"EXAMINE BED" -> "IT IS WHITE WARM AND COMFY YOU YAWN [..]"
+"OUT" -> "THE DOOR IS TOO FAR AWAY [..]"
+"GET UP" -> "YOU DO NOT SEE THAT HERE YOU ARE IN A WHITE BED IN A WHITE ROOM [..]"
+(at first game action) -> YOU ARE YAWNING
+(at second game action) -> YOU YAWN DEEPLY
+(at third game action)-> "YOU DRIFT BACK TO SLEEP A METEOR DESTROYS THE STATION YOU DIE WITH A SCORE OF 0 PLAY AGAIN Y / N"
+
+List of interesting commands that didn't work : "LOOK [directions]", "INVENTORY", "INVENTORY OUT", "EXAMINE ROOM", "EXAMINE WALL", "PRESS BUTTON", "FIRE", "FIRE GUN".
+
+Book (talk) 00:25, 29 April 2021 (UTC)
+It looks like the the command SIT UP will progress you in the game with the response "YOU KICK THE BLANKETS AWAY AND CLAIM AN UNDESIRED VICTORY OVER SLEEP EXITS ARE OUT"--172.68.57.179 13:52, 7 May 2021 (UTC)
+
+My current progress:
+I pasted these helper scripts from the Scripts section above into the web console to make it easier to input stuff, this creates a text box below the comic:
+BeepComic.hurryUp();
+var input = comic.parentNode.insertBefore(document.createElement('input'), comic.nextSibling);
+input.addEventListener("keydown", e => {
+  if (e.keyCode == 13) {
+    BeepComic.send(morse.encode(e.target.value));
+    e.target.value = '';
+  }
+}, false);
+SIT UP to get out of bed.
+You can use LOOK to look around in places, EXAMINE <something> to take a closer look at stuff, GET <something> to take items, INVENTORY to check what you are carrying, HELP lists common commands. The LOOK command also lists you your exits, these are the places you can go to from your current position, just type in the place to go there (for example, OUT).
+The game is a bit buggy, sometimes you get a save point with a password, if the game glitches out type QUIT and START GAME and enter that password. So far I've gotten "WAFFLEHOUSEFRIES", "GARBAGERAMAN" and "KRAFTDINNER".
+Go OUT and enter the LIFT.
+Go to the lab (PRESS YELLOW BUTTON in lift), GET the bottle from the table, OPEN BOX to receive a goo cannon, don't take the book as that will kill you as soon as you exit the lab.
+Get back to the lift, go to the shuttle bay (brown button in lift), GET SONIC PULSER and LARGE BLUE LASER from the workbench, don't go in to the RIGHT lifepod as that kills you. You can enter the SHUTTLE, SIT COUCH to sit in the pilot's couch, EXAMINE DISPLAY, couldn't figure out anything else to do inside. Supposedly the shuttle's computer "accepts verbal commands", couldn't figure out any.
+Get back to the lift, go to the cantina floor (purple button), immediately FIRE SONIC PULSER (or you die), enter CANTINA, FIRE SONIC PULSER again (or you die, probably), GET RUBBER BALL, EXAMINE TABLE, EXAMINE BODIES, GET BADGE. At this point you'll get the save point KRAFTDINNER (with a score of 35) upon exiting OUT of the cantina, and your INVENTORY should contain these items: A SONIC PULSER A LARGE BLUE LASER A RUBBER BALL A BADGE A BOTTLE AND A GOO CANNON.
+Now you can access the red floor, but there's a deadly alien there, you can escape back into the LIFT, couldn't figure out what else you can do.
+Firing the GOO CANNON or LARGE BLUE LASER insta-kills you everywhere I tried so far, including on the red floor with the alien (albeit with a different message). Maybe there's a way to read the book in the lab to learn how to use the goo cannon without dying?
+You can OPEN BOTTLE to take the space pills in the inventory, but so far the game said that "this is not the time or place for space drugs" anywhere I tried.
+The BLUE floor seems to be impassable, you can only get back into the lift.
+The ORANGE floor kills you.
+From here on I'm guessing you're supposed to either find a way to deal with the alien on the bridge on red floor, figure out how to open the blast doors of the left lifepod in the bay (brown floor), or figure out how to work the shuttle. Please post if you make more progress.
+-162.158.92.96 11:30, 20 May 2021 (UTC)
+On the BLUE floor you can OPEN BOTTLE and you will see a message "YOU SWALLOW THE SPACE PILLS AND DISCARD THE BOTTLE YOUR EYES SWIM AND EARS POP" then you can progress into engineering and access a terminal.
+On the terminal is a MICROPHONE and a note that says "AT TOGGLE POKER CANNON WITH COMMANDER TO BACK CHANGE SOON MODES" which I assume has something to do with the cantina. If you PRESS BUTTON, you will be prompted to "DISPENSE?", but entering a command will cancel the prompt. I don't know how to progress from here, if anyone has made further progress please post further information --BrightBlackHole (talk) 21:22, 8 February 2022 (UTC)
+The page doesn't seem to work any longer due to some certificate error with the back-end CDN serving up the javascript files. --Tustin2121 (talk) 17:29, 2 August 2021 (UTC)
+
+I'm fairly sure that the maze is a reference to Nethack, a roguelike dungeon crawler. The Invocation Ritual, a step of proceeding towards the endgame, involves a bell, a candle, and a book, so this seems like a pretty deliberate reference. https://nethackwiki.com/wiki/Invocation_ritual 162.158.89.156 13:25, 28 September 2021 (UTC)
+After you PRESS BUTTON, if you respond "YES" it will dispense an item which you will find is an EVA suit, now in your inventory. After you exit you'll get the code "GRILLEDCHEESEWITHBACON". Afterwards you can return to the lift, wear the EVA suit and go to the orange floor. There you find a corridor with a tear in it, can't figure out yet what to do there... Boefjim (talk) 09:45, 17 February 2022 (UTC)
+Done some further investigation, the note says to switch the goo cannon, so after WEAR EVA SUIT in the lift and going to the orange floor, you should TOGGLE GOO CANNON and FIRE GOO CANNON which fixes the tear. You can then continue to SYSTEM DEFENSE where you PUSH SKELETON with a note called "THE OMEGA CODE", reading it seems to kill you in most situations so far. You can then PRESS BUTTON to active point defense. Leaving the orange floor will give you the code "KAREAGEDON" you can then safely go up to the red floor and FIRE GOO CANNON to kill the alien, which will give you the save code "PEIKINGRAVIOLI ". On the red floor you can SIT ON COUCH and PRESS BUTTON to toggle shields, seems to have no influence as long as the system defense is also on. EXAMINE COUCH however says that the couch is lumpy and uncomfortable. I am suspecting there is some way to get an item from the couch but no idea what command to send to do so. Boefjim (talk) 10:39, 17 February 2022 (UTC)
+Huh, you can SEARCH COUCH and you find a metal cube! It is "A DULL METAL CUBE WITH MARKINGS THAT READ STAYALIVE IFF TRANSPONDER MODEL 3235 DASH B". IFF here is presumably https://en.wikipedia.org/wiki/Identify_friend_or_foe ... so it will probably stop something else from attempting to kill you? Schoen (talk) 04:33, 5 April 2022 (UTC)
+Speculation: if you turn off the shields while the system defense is on, it will eventually be safe(r) to leave the station in the shuttle, if you have the IFF transponder (because you won't bump into the shields, and the transponder will stop the system defense from shooting you). Maybe. Some current remaining mysteries: (1) Could you do anything else in engineering apart from getting the EVA suit? Is there a way to break the safety glass? Is there a way to speak into the microphone? Once you've left engineering, you can't come back again (because you get dizzy but no longer have any pills). (2) If you go back to your room (green level), it says that it's so white that you can't see anything. Is there a way to make it less white so that you potentially could see some object? (3) Still wondering about the left escape pod door and/or the voice control for the shuttle on the brown level. (4) What's the deal with finding an intact envelope? (5) What's the deal with the pool of water in the laboratory and the laboratory notebook? (6) Where can we usefully use the omega code, large blue laser, or rubber ball? They all seem pretty destructive in most contexts... Schoen (talk) 05:12, 5 April 2022 (UTC)
+OK, I got something else (which may constitute victory!). From PEIKINGRAVIOLI, you can SIT ON COUCH, SEARCH COUCH, PRESS BUTTON (disabling the shields). If you then go back to your room (green level), you can GET WHITE ENVELOPE (you have to guess that it is there, since you can't see it). Then you can go to the shuttle bay (brown level), get in the shuttle, and READ ENVELOPE to the computer. You can then PRESS BUTTON and it then attempts to take you back through space to return your rented movie, and you escape from the station. (The cube from the couch on the red level is necessary in order not to be viewed as hostile while making your escape.) As we haven't apparently used the laser, omega code, rubber ball, or puddle, I wonder if there's more game content or subplots still to be found. Schoen (talk) 01:53, 9 April 2022 (UTC)
+It seems that the comic is no longer interactive. It's been replaced by a GIF that simply alternates between checked and unchecked. The comic.js and morse.js files are still requested by the comic page, but return 404 errors. 172.69.68.20 16:23, 3 October 2022 (UTC)
+Categories: All comicsComics from 2021Comics from AprilThursday comicsLinks to xkcd.comApril fools' comicsInteractive comicsComics with animationDynamic comicsComics with audio

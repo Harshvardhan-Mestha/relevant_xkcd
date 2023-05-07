@@ -1,0 +1,78 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2305: Coronavirus Polling
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2305)
+|<< PrevComic #2305 (May 11, 2020)Next >>|
+Coronavirus Polling
+
+Title text: If you want to see the polling questions we agree on MOST, you can check out Chapter 24 of my book How To, where I got the Roper Center on Public Opinion Research to help me design the world's least electable political campaign platform.
+Explanation[edit]
+This comic is another comic in a series of comics related to the COVID-19 pandemic.
+The comic compares opinion polling of COVID-19 related topics to polling of other, mostly unrelated topics. The American public often tends to be sharply divided about major political and social issues, but polling shows that the country is remarkably united about the dangers posed by the COVID-19 and the measures necessary to prevent its spread. This is notable, because responses to this pandemic have significant political and economic implications, which usually results in major division and distrust. The poll results also contradict the extensive news coverage of notable anti-lockdown protests prominent in many major cities; by implication, this comic is arguing that such protests are unrepresentative and disproportionately covered. Or else that this vocal and demonstrative minority is almost the only group making their opinion public in such a newsworthy manner.
+To put these majority opinions in perspective, polls on other topics are shown with similar but slightly smaller high percentages of likemindedness but on extremely uncontroversial questions[citation needed] such as liking apple pie or Tom Hanks, or the importance of elections to democracy.
+The title text refers to the chapter "How To Win an Election" in Munroe's book How To: Absurd Scientific Advice for Common Real-World Problems, in which a similar set of near-unanimous survey questions are shown for prospecting candidates to support, or, alternately, oppose, thus guaranteeing their popularity or lack thereof. To see what this politician's speeches might have looked like, we can look at FiveThirtyEight's "perfect stump speeches" that espouse only opinions held by a majority of Republicans or Democrats.
+The polls cited in this comic are all linked at http://xkcd.com/2305/sources.
+
+Polls
+Percentage Poll question Explanation
+COVID-19 related polls
+86% "Stay-at-home orders are responsible government policies that are saving lives" rather than "an over-reaction" Due to the easy spread of COVID-19, many US states enacted "stay-at-home orders", which require residents to stay at home, except for "essential" tasks or working in "essential" businesses. The specifics of these orders, and how they are enforced, vary from state to state. Some Americans have protested these orders as being "an over-reaction" (e.g. believing that the adverse effects of business closures are worse than they believe COVID-19 to be), and some of their protests have received lots of media attention, but according to this poll, they are in the minority, and the general concept that the stay-at-home orders are necessary appears to have broad support.
+85% Opposition to reopening schools Most primary and secondary schools have been closed due to the pandemic, with some of them instead using online/virtual instruction. Many universities have also had limited in-person instruction, and some have closed dormitories and other facilities. This poll indicates that most Americans agree with the school closures for the sake of public health, and are concerned about reopening schools too early.
+91% Opposition to resuming big sporting events Sporting events have been largely cancelled, with only a few sporting leagues remaining open. Some have attempted to transition into online or virtual leagues.
+85% Trust in local health officials and health care workers Health officials have been providing guidelines for how to "reopen" the United States. Most Americans seem to trust their local health officials to understand the situation in their area and make good decisions, although according to the same poll, they do not trust the federal government nearly as much (66% of Republicans, 28% of Democrats). Meanwhile, health care workers have been lauded as heroes for their work to save people affected by COVID-19, often at their own risk of infection.
+93% Trying to maintain 6-foot distances while in public A six-foot distance between people has been recommended by the CDC, as a way to prevent the spread of the virus. The "social distance zone" has also been referenced in 2286: 6-Foot Zone.
+81% Americans should continue to social distance even if it means continued damage to the economy Due to various factors, the world economy has entered a global economic recession. This poll question indicates that many Americans are more concerned with defeating the virus, even at the expense of the American economy.
+Other polls
+81% Enjoy apple pie Apple pie is an unofficial symbol of the United States and is considered one of America's favorite desserts.
+76% Feel positively about kittens Kittens are almost universally considered to be adorable. 76% approval is actually lower than most of these possibly due to the responsibility involved in caring for kittens, and the fact that they grow into adult cats (which some people don't like).
+84% Have a favorable impression of Tom Hanks Tom Hanks is an American actor, widely regarded as being both talented and highly likeable. He is famous for his many starring film roles over a long career, including in Forrest Gump, Apollo 13, and Saving Private Ryan. xkcd has referred to Mr. Hanks' near universal popularity in 2003: Presidential Succession. In March 2020, Hanks announced that he and his wife had tested positive for COVID-19, making them among the first public figures to acknowledge being infected (they have since recovered).
+89% Fair elections are important to democracy Public elections are one of America's foundational values. (Though there is disagreement about whether the American system should be termed a "democracy" or a "republic"). Agreeing that elections should be fair is fundamental enough to the American mindset that few people would openly disagree with.
+86% Feel positively toward Betty White Betty White is an American comedic actress who was 98 years old at the time of publishing. She has been a fixture in American television since the 1950's, and continues to act, well into her 90's. Her career has included primary roles multiple well-regarded series, including The Mary Tyler Moore Show, The Golden Girls, and many others. The combination of her very long career and appealing personality has made her widely beloved in the US, and very few people have a negative opinion of her.
+86% Do not trust Kim Jong-Un to do the right thing Kim Jong-Un is the dictator of North Korea at the time of publishing. North Korea is known as an exceptionally repressive society with little respect for human rights, scoring at or near the bottom of most indices for human rights and freedom. Kim, like his predecessors, is considered to be both unpredictable and brutal in his leadership. Additionally, North Korea tends to be a wily political operator, and the United States, in particular, tends to view Kim's actions with a great deal of suspicion.
+64% Concerned about "murder hornets" The Asian giant hornet, nicknamed the "murder hornet", is a large hornet native to Asia. It was found in the Pacific Northwest region of the United States in late 2019, but its discovery was widely publicized May 2020. The murder hornet was given its nickname due to its painful sting, and its predation of honey bees. Some have criticized the media coverage as excessive and possibly harmful to the native hornets and other pollinators in other parts of the US, so maybe Randall is including this poll to show that the population generally has its concerns correctly prioritized (i.e. less concerned about "murder hornets" than they are concerned about COVID-19 or endeared towards kittens).
+Transcript[edit]
+[A panel only with text. At the top there is three paragraphs of explanatory text. Below that is a paragraph in smaller gray font with link to sources. Below that there are two columns of poll results, each with a heading. There are six polls in the left and seven polls in the right column. Instead of a bulleted list, each poll has its percent that agrees given to the left of the statement, which is thus aligned to the right of this percentage. At the end of each statement there is a reference in brackets in gray font.]
+It's hard to get people to agree on anything in polls.
+But we agree about the coronavirus.
+Here's how Americans feel about COVID-19, along with other topics that get similar levels of agreement for comparison.
+Compiled with help from HuffPost polling editor Ariel Edwards-Levy. Sources: xkcd.com/2305/sources
+[Left column:]
+Recent coronavirus polls
+86% say "stay-at-home orders are responsible government policies that are saving lives" rather than "an over-reaction" (ABC/Ipsos)
+85% oppose reopening schools (NPR/Marist)
+91% oppose resuming big sporting events (NPR/M.)
+85% trust local health officials and health care workers (Axios/Ipsos)
+93% are trying to maintain 6-foot distances while in public (Axios/Ipsos)
+81% say Americans should continue to social distance for as long as is needed to stop the Coronavirus even if it means continued damage to the economy (Politico/Morning Consult)
+[Right column:]
+Other polls
+81% enjoy apple pie (HuffPost/YouGov)
+76% feel positively about kittens (HuffPost/YouGov)
+84% have a favorable impression of Tom Hanks (Ipsos 2018)
+89% say fair elections are important to democracy (Pew)
+86% feel positively toward Betty White (Ipsos 2011)
+86% do not trust Kim Jong-Un to do the right thing (Pew 2019)
+64% are concerned about the emergence of "murder hornets" (YouGov)
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Wow am I first? If you want to get the public disunited, wait till you start to try to lift lockdown. Everyone has a different opinion of what to do first and when to do it! From Wales (Dis-UK) RIIW - Ponder it (talk) 20:14, 11 May 2020 (UTC)
+Worth mentioning is the the last COVID poll referenced [1] is actually a month old as of the publication of this comic ("The poll was conducted April 10-12" - whereas the comic is dated May 11.) I suspect the 81% number has shifted in the time since that poll data was current.172.69.68.157 20:28, 11 May 2020 (UTC)MeZimm
+Ummm... "...is remarkably unanimous...", etc, in the description. Isn't that like "very unique" when there it isn't the only example? ("A large proportion are unanimous, with very few others who demur" or something?) 162.158.159.142 22:13, 11 May 2020 (UTC)
+2011? Why would so many people felt positive about Betty White in 2011? -- Hkmaly (talk) 22:38, 11 May 2020 (UTC)
+Beats me, I had to come to explainxkcd to find out who Betty White was.
+I'd just like to point out that this means 24% of people do not feel positively toward kittens, 11% of people think fair elections are unimportant for democracy, and 14% of people think Kim Jong-Un can be trusted to do the right thing. 108.162.215.216 22:52, 11 May 2020 (UTC)
+That isn't quite right: all those polls included a neutral option. --172.69.135.210 05:00, 12 May 2020 (UTC)
+And there could also have been and a I don't know option. Many people are allergic to cats, so I'm sure some of those would not like kittens even if they seem adorable in Facebook posts. --Kynde (talk) 07:01, 12 May 2020 (UTC)
+One can also believe in fair elections being important for democracy, but think certain issues are too important to risk 'the people' deciding them, so there's no need for a fair election (and maybe you ought to actively avoid the risk). But only 'the other side' does that, of course. If your side does something that looks like it, it's just a righteous measure to make it fair again and stop Them cheating. 162.158.155.62 07:14, 12 May 2020 (UTC)
+I removed the connection between Tom Hanks and COVID-19. While it is true that he was tested positive this had no influence on the poll cited which was in 2018. Therefore it's not relevant. Elektrizikekswerk (talk) 08:11, 12 May 2020 (UTC)
+I disagree about removing it. You are correct that the poll has nothing to do with COVID but that Randall include a poll on Tom Hanks one of the first famous people who came forth telling he had the disease may have been the reason he was included. I will reinsert it, and change to make it clear that this is why it is mentioned. --Kynde (talk) 08:16, 12 May 2020 (UTC)
+It might as well be a coincidence. And with these additions it's imho not only not needed for the explanation but needlessy convulted, too. Randall did randomly choose Tom Hanks before (see 2003 or 1948). Elektrizikekswerk (talk) 09:56, 12 May 2020 (UTC)
+Yeah, but **whatabout** vi vs. emacs? Sunny Side Up vs. Over Easy? Laurel&Hardy vs. Abbott&Costello? Cellocgw (talk) 11:40, 13 May 2020 (UTC)
+This is now the 25th comic about COVID-19 since the first comic in March. Wonder if he will continue to come back to this as long as there is a lock down in some parts of the US? --Kynde (talk) 14:34, 13 May 2020 (UTC)
+
+Removed trolling unsigned posts containing people's opinions (and the responses). This is NOT a place to vent; it is a place to discuss whether the attached "explain xkcd" page is fully informative. ToolmakerSteve (talk) 23:30, 6 December 2020 (UTC)
+
+The sentence "Or else that this vocal and demonstrative minority is almost the only group making their opinion public in such a newsworthy manner." seems unnecessary. Author has a history of using statistics to poke at ill-informed perceptions/beliefs; the previous sentence (... unrepresentative ...) is certainly what is going on. ToolmakerSteve (talk) 23:24, 6 December 2020 (UTC)
+Categories: All comicsComics from 2020Comics from MayMonday comicsPages using the "citation needed" templateCOVID-19Comics featuring real peopleComics featuring politiciansFoodAnimalsHow To

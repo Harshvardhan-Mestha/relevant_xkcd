@@ -1,0 +1,76 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2242: Ground vs Air
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2242)
+|<< PrevComic #2242 (December 16, 2019)Next >>|
+Ground vs Air
+
+Title text: Water is thinner than both, and fire is *definitely* thicker.
+Explanation[edit]
+This comic depicts a map of the world using the Winkel tripel projection, comparing the thickness of the ground, which is defined as the lithosphere, to the "thickness" (or height) of the air above it, which refers to the atmosphere.
+In an inserted figure, Randall defines the thickness using three boundaries. At the top is space, defined by the Kármán line at an altitude of 100 km (≈ 62 mi). (See the Trivia section below for a discussion of this definition of the beginning of space.) Below that is the atmosphere which goes down to the ground, where Cueball is standing, or the water. Beneath the surface is the lithosphere, comprised of the Earth's crust along with the rigid upper part of the mantle, and beneath this is the asthenosphere, the partially melted, highly viscous region of the upper mantle just below the lithosphere. The lithosphere is variable in thickness, averaging about 100 km, but the oceanic lithosphere is much thinner than the continental lithosphere (oceanic crust is thinner and denser than continental crust). The diagram also shows oceanic cross-section to the left-hand side and, though the diagram does not make it explicit, presumably the two measurements used are of the atmosphere down from 'space' to the surface of the ground, if dry, or to the surface of the water covering the ground (which is essentially sea level in the oceans, fluctuating slightly with the tides, but covers a broader range for inland water, from the Dead Sea, at 0.4 km below sea level, to Lake Titicaca, almost 4 km above sea level) and of rock descending from the solid interface down to the asthenosphere, as the sliver of liquid that can intervene between the two spans is referred to as a separate measurement elsewhere.
+The map shades in the parts where the thickness of the ground is thicker than the thickness of the air. This almost only occurs directly over continents, and certainly only where the continental crust is located (which can stretch into the near-coast parts of oceans). Oceanic crust is much thinner than continental crust. It is also made of a different material; it is denser. Because it is denser, it floats lower in the liquid asthenosphere, causing it to be below sea level. Some parts of continental crust are also under sea level (the continental shelf). These are the areas on the map that are marked as having thicker ground that appear to be over the ocean (such as Northern Canada, or the Caribbean) - they are actually still continental crust. (There are still some exceptions, such as the Sea of Japan and the Philippines).
+Randall has mainly used a work by Conrad and Lithgow-Bertelloni from 2006 to estimate the thickness of the "ground", and he gives the reference to the paper DOI.1029/2005GL025621. Basically, Randall has taken their map and shaded the green and blue areas. It is the second comic in a row with a citation, after the footnote in 2241: Brussels Sprouts Mandela Effect.
+The title text refers to the ancient four classical elements: earth, water, air, fire. The lithosphere, or ground, is earth, the oceans is water, the atmosphere is air, and fire would thus be the hot, plastic rock of the Earth's mantle, see 913: Core. The mantle is not "on fire", but it is hot enough that it would ignite almost anything on the surface. The water layer on Earth is never more than 11 km deep, even at the deepest part of the ocean, the Mariana Trench, and thus cannot compare to the thickness of the atmosphere or the lithosphere. An expansive definition of "fire" to include the rest of the Earth below the lithosphere puts the fire layer at 6,000 km thick, the radius of the Earth, much thicker than the other layers, hence the and fire is *definitely* thicker comment at the end of the title text. Space or vacuum would in the classical element terminology have been called the Aether.
+In 977: Map Projections the Winkel-Tripel projection is the fifth projection which is linked to the hipster subculture.
+Transcript[edit]
+[Caption above the drawing]:
+Which is thicker—the ground or the air?
+[The drawing shows a Winkel tripel projection of the Earth. The features of the main map is unlabeled, with only the outlines of the landmasses present. Various parts of the map are labeled with "Air" (four times) or "Ground" (5 times). Areas marked as "Ground" are differentiated with gray shading. These are always over large landmasses or close to them. They cover most of North America (labeled), the northern part of South America (labeled), Northern Europe and most of Asia (labeled), Japan, most of Australia and part of the Indonesia, Western Africa, sub-equatorial Africa (labeled), and finally the central parts of Antarctica (labeled). Air is written on the West Coast of the United States, in the Atlantic Ocean, over the central part of Africa and in the Pacific Ocean, near the Philippines.]
+[Over West Coast of the United States]: Air
+[Over North America]: Ground
+[Over Atlantic Ocean]: Air
+[Over South America]: Ground
+[Over the central part of Africa]: Air
+[Over the southern part of Africa]: Ground
+[Over Asia]: Ground
+[Over Pacific Ocean]: Air
+[Over Antarctica ]: Ground
+[A small diagram is present in the Pacific Ocean left of South America. The diagram depicts several labeled layers of Earth and its atmosphere, listed below. Cueball, a body of water, and several mountains are shown on the flat surface part of the diagram, with the ocean floor lower than where Cueball stands. Above is a line representing the border to space. The line beneath the surface is much more curved going both up and down. Two double arrows representing the thickness of the atmosphere and the lithosphere are drawn between the surface and the layers above and below. Another curved double arrow is pointing to each of these distances and it is marked with a question mark in the middle of the line.]
+Space
+Atmosphere
+Lithosphere
+Asthenosphere
+?
+[In the bottom right corner of the comic with gray text is a reference:]
+Based mostly on Conrad and Lithgow-Bertelloni (2006) DOI.1029/2005GL025621
+Trivia[edit]
+Randall always uses the Kármán line as the boundary between Earth's atmosphere and space.
+He has previously mocked the alternative definition of the atmosphere boundary (at 80 km ≈ 50 mi) used by US Air Force and NASA in the title text of 1375: Astronaut Vandalism.
+That definition would, of course, have resulted in a significantly different picture where the air is thicker than the ground only inside small areas around mid-ocean ridges. Mid-ocean ridges are where new crust is created and the plates are spreading apart; because the crust is new, it is hot and relatively less dense, causing it to float higher up than the surrounding crust. However, the lithosphere thickens over time as the crust cools, these areas have the thinnest "ground."
+Because the lithosphere is comprised only in part of the crust, and in part of a cool, solid layer of mantle, an alternate definition of "ground" including only the crust (and not the mantle lithosphere) could have led to an alternate version of this map where air was thicker in all locations. The crust is rarely more than 70 km thick, still less than even the 80 km Air Force definition of the atmosphere.
+Although most authorities use the FAI definition of the Kármán line since it is the international organization of record for aeronautics, there are good scientific reasons for the U.S. Air Force definition.[citation needed]
+The Kármán line is named for Theodore von Kármán, who originally calculated the height at which a vehicle would have to travel faster than orbital velocity to generate lift from wings (therefore making the vehicle a spacecraft in orbit rather an "air"craft using aerodynamics for flight).
+Von Kármán originally calculated this height as 51.9 miles (83.6 km) - closer to the Air Force definition.
+Additionally, the boundary between the Mesosphere and the Thermosphere is traditionally taken to be 52.7 miles (85 km), also close to the Air Force definition.
+On the other hand, some newer research suggests the mesopause (the line between the mesosphere and thermosphere) may have peaks between 53 and 62 miles (85-100 km).
+Also the turbopause - the line where gas molecules cease mixing atmospherically and begin stratifying by molecular weight as if they are in orbit - is generally taken to be about 100 kilometers (62 miles), and as such, closer to the FAI definition.
+Regardless of which definition is used, the reality is that the transition from atmosphere to space takes place gradually over tens of kilometers.
+But the idea behind this comic is only funny if an atmosphere of 100 km thickness is used.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Wow; it took longer than I care to admit to realize 'thick' wasn't 'viscosity'...but 'altitude'. (i.e., height/thickness re: Kynde's comment) Elvenivle (talk) 01:08, 17 December 2019 (UTC)
+Ohhhhhhhh! Sdkb (talk) 02:38, 17 December 2019 (UTC)
+Not altitude, but height or thickness... --Kynde (talk) 11:03, 17 December 2019 (UTC)
+^ Yes, that. Correction added; I meekly blame word choice on keyboard dead zones. Elvenivle (talk) 20:22, 17 December 2019 (UTC)
+A link to the article is here: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2005GL025621. 162.158.186.192 01:12, 17 December 2019 (UTC)
+It's probably worth mentioning in the explanation which map projection Randall chose to use for this comic from those listed in a previous comic about map projections. Ianrbibtitlht (talk) 02:22, 17 December 2019 (UTC)
+And by these metrics, blood is even thinner than water... Template:unsignedip
+But everything changed when the fire nation attacked 108.162.229.250 10:47, 17 December 2019 (UTC)
+I assume ocean ridges have a very thin crust, meaning they get the ratio more towards air? I am not at all a geologist, so I ask this question, because ridges would intiutively appear to have a bigger crust, as they stand out from the ground. "That definition would, of course, have resulted in a significantly different picture where the air is thicker than the ground only inside small areas around mid-ocean ridges" should be explained by someone who knows why it is the case. --Lupo (talk) 14:26, 17 December 2019 (UTC)
+Mid-ocean ridges can even be raised above the ocean surface--Iceland is actually the high point on one of them. In other places they're trenches, though. Since seafloor crust is spreading at those points, it's at its thinnest there on average. Nitpicking (talk) 02:08, 18 December 2019 (UTC)
+Would you feel confident, adding that in a concise way to the explanation? I do not... But I am glad I learned something by that. That might also explain why these ocean ridges tend to be equipped with volcanoes. I thought the reasoning was the other way round: They are ridges due to their geothermal activity. --Lupo (talk) 07:27, 18 December 2019 (UTC)
+I have done this! And added a bit more earth science knowledge besides. And while Iceland is the highest point on the ridge, I'm not sure I'd say it's actually because of the ridge - Iceland is a hot spot the same way Hawaii (which is not on a ridge) is.108.162.219.62 21:29, 30 January 2020 (UTC)
+The current explanation seems to include water-thickness in with (either) air or ground thickness in discussing it in the initial transition from air to ground. Depends how you read it, which, but it easily reads as either. Maybe edit that aside out from that bit, then make sure that sliver of water is gone into later (...end of that para? ...footnote mention?) that sometimes the air ends at sea-level and ground starts after the depth of sea? 162.158.34.46 12:28, 18 December 2019 (UTC)
+Just done what I think you asked for, as luck would have it. (And then redid it slightly to avoid adjectival and verb forms of "separate" appearing so close together.) 162.158.154.91 19:46, 18 December 2019 (UTC)
+The current explanations refers to fire as being 12000km, I would rather go with the radius of 6000km. Makes more sense to me since we are on a sphere and not counting the crust thickness twice.108.162.216.52 17:52, 18 December 2019 (UTC)
+Should we make a Comics with Citations category? Seems like it's warranted 141.101.69.53 19:21, 18 December 2019 (UTC)
+XKCD is he only webcomic where mentioning the type of map projection in an explanation would not be needless pedantism. —Kazvorpal (talk) 18:52, 22 January 2020 (UTC)
+"Pedantry" 172.70.85.177 08:52, 14 June 2022 (UTC)
+((Following unsigned comment moved away from the top, before making my reply, to where it's more chronological...))
+Isn't this just a map of elevation? 172.70.114.71 (talk) 04:16, 14 June 2022 (please sign your comments with ~~~~)
+Clearly not, as it covers areas of sea/ocean where elevation is a consistent zero (or possibly negative, according to your convention).
+As illustrated, it's a balance of the amount of 'solid' rock vs the air above, with ground-level elevation (or sea-bed depression?) affecting the air-thickness above more reliably (given the fluidity of air as it gathers and spreads and heats and cools and thus generally evens out) than the span of the rock below which relies upon geological time-scales of shifting that are overwhelmed by the consistency of what the current bit of buoyant rock is (density, strength, etc) and whether tectonics is locally clumping it up or thinning it out beneath a given bit of continent or ocean. 172.70.85.177 08:52, 14 June 2022 (UTC)
+Categories: All comicsComics from 2019Comics from DecemberMonday comicsPages using the "citation needed" templateComics featuring CueballMapsGeologySpace

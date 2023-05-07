@@ -1,0 +1,54 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2138: Wanna See the Code?
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2138)
+|<< PrevComic #2138 (April 17, 2019)Next >>|
+Wanna See the Code?
+
+Title text: And because if you just leave it there, it's going to start contaminating things downstream even if no one touches it directly.
+Explanation[edit]
+This comic is the fifth and latest comic in the Code Quality series:
+1513: Code Quality
+1695: Code Quality 2
+1833: Code Quality 3
+1926: Bad Code
+2138: Wanna See the Code?
+Cueball declares that he has written a script to automate some (presumably time-consuming or tedious) task, which pleases Ponytail at first... until she remembers how messy Cueball's code tends to be, and gets worried.
+Cueball offers to show her his code, but Ponytail remarks that it sounds like he's creepily inviting her to see a dead body. Magnanimously, Cueball accepts the comparison, noting that his code does have at least one similarity to a deceased corpse: although unpleasant, if Ponytail allows it to go unchecked, it causes problems which will get increasingly worse over time. In the "dead body" analogy, a recently-deceased corpse is easier to deal with than one that has been left for a few weeks, which will be decayed, unpleasantly smelly, and will likely have attracted disease-spreading vermin.
+Ponytail then makes a near threatening comment where she says that he is lucky that people understand both that his code causes more problems than it solves and that dead bodies create more problems than they solve. Most likely this means that they understand that killing him would cause more problems than it solves (the problem solved would no doubt be his code).
+This may be a reference to the concept of technical debt in software development: the idea that an initially poor implementation accrues a sort of "compound interest" over time, becoming increasingly difficult to repair the longer it is left unfixed. This happens because any future development might have to take unorthodox or unrecommended measures to work around the problems that are already there, making the system increasingly complex and fragile the more that is added to it.
+In the title text, "downstream" has a double meaning, as it is a term that applies to a situation where a dead body would decompose in or near some river, and as well to a software engineering concept: In the river situation, the dead body will contaminate the water or groundwater that it feeds from and have consequences for organisms that come in contact with that water. In the software engineering analogue, "downstream" refers to software derived from, or depending on, "upstream" software like the cadaver that Cueball devised. The causality with flowing water and software is reasonably comparable: both can be seen as a stream of atoms that are (almost) endlessly divisible and recombinable.
+Transcript[edit]
+[Cueball is walking, talking to Ponytail, who is offscreen.]
+Cueball: I wrote a script to automate that thing.
+Ponytail: Oh cool!
+Ponytail: ...wait, you wrote it?
+Ponytail: Oh no.
+[Cueball and Ponytail are standing next to each other and talking.]
+Cueball: Wanna see the code?
+Ponytail: I would, if you hadn't said that in the tone of voice of "Wanna see a dead body?"
+[Same scene as before, except Cueball has his hand on his chin.]
+Cueball: My code is sort of similar to a dead body, in that you can either come look at it now, or wait a few weeks until it becomes a problem.
+Ponytail: And because you're lucky that the people around you understand that they create more problems than they solve.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I'm puzzled by the "they" in this: " And because you're lucky that the people around you understand that they create more problems than they solve." I take the "they"s to be the people around him, but it almost makes some sense if it was " And because you're lucky that the people around you understand that it[code,dead body] create[s] more problems than they solve." but that's not right either. Afbach (talk)
+I think "they" is meant to refer back to [code,dead body], but it is either a deliberate ambiguity or a rather poorly constructed sentence. I suppose it's in speech, so we shouldn't be too hard on Ponytail. 162.158.111.169 11:47, 19 April 2019 (UTC)
+I'm puzzled by the "And because". What's that doing there? What is the 'and' connecting? 162.158.111.169 18:37, 17 April 2019 (UTC)
+Pony tail is saying "[Cueball] is lucky that the people around [cueball] understand that [dead bodies] create more problems than they solve" insinuating that otherwise cueballs fate for writing such bad code would be dire. 162.158.107.25 18:52, 17 April 2019 (UTC)
+I'm glad I'm not the only one struggling with the dialogue in this comic. I'm certain Randall's made a mistake. Hawthorn (talk) 20:17, 17 April 2019 (UTC)
+Another take on Ponytails final comment - Queball: "My code is sort of similar to a dead body, [...]" Pontytail: "and [it is also similar to a dead body] because" everyone knows Queball writing code causes more problems than the code solves, just like creating dead bodies cause more problems than what it solves. With the title text referring to what happens with either Queballs code or dead bodies if left ignored. He is lucky, in that people realize they can't ignore his code, and have to deal with it for him before things go sideways. 162.158.106.102 20:29, 17 April 2019 (UTC)
+I'm also unsure that it is so clear what Ponytail means as now explained in the explanation. It could be both this above and the current with Cueball being the dead body that would cause new sort of problems. Agree that Randall has made a poor word composition here. --Kynde (talk) 13:23, 18 April 2019 (UTC)
+This is saying that he is lucky that his coworkers understand that a dead body causes more trouble down the line than it's worth otherwise they would have killed him over how bad his code is.
+Title text
+I tried to come up with an explanation for the title text, but honestly, that has me a bit stumped too. I'm really not sure what Randall was going for in this comic. My understanding of "downstream" is from source control software like Git; a developer who pulls code from a repository is said to be "downstream" of it - ie. they're receiving code. When they push their changes back, they push it "upstream".
+Well, "downstream" and "upstream" in git terminology rather refers to the concept of forking. A forked repository generated by github has per default the remote named "upstream" set to the original repository. This term extends beyond simple git inheritance of repositories. But already with git repositories, it is obvious: put Cueballs hack into a submodule of an aspiring and fast-moving project. Someone burning the midnight oil gets tired and wants to get home, and the third corner case of Cueballs brainchild does not let him. Instead of biting the bullet, they just make more hacks, access some internal attribute or whatnot. The next guy comes along, and just copy-pastes that dirty code. That said, software proliferates across distributions, across operating systems, across programming languages (if there is for example an interface involved that is (kinda) language agnostic. Take REST apis for example). The reason is, a software construct always defines (an) interface(s) to which hopefully docs with preconditions, postconditions, and a reasonable correspondence to common sense are established. Well, for ad hoc software like Cueballs script, that would of course not be the case, and this goes in weaker form for e.g. many packages in official debian repositories, and their specializations (Realtime gentoo, Media Ubuntu or whathaveya). They re-package software, and where it comes from, that's upstream. Developers in that environment get accustomed to a good interface that works 90% of the times, and make software that caters to specific quirks, workarounds, etc. these workarounds will inform other interfaces in related packages, implementations. This is of course just technical debt all over again, but distributed, not in one company or something.--162.158.88.14 22:37, 17 April 2019 (UTC)
+
+I think what this means in context is that Cueball pushes his bad code to a repository, and other developers pull it downstream, thus "contaminating" their local environments. But honestly, this interpretation doesn't really feel satisfying to me, so I'm not sure. Hawthorn (talk) 21:25, 17 April 2019 (UTC)
+The 2nd interpretation of "downstream" is downstream of a river - a dead body will contaminate the river even if it is not "touched". I think downstream for software development could just mean work for people in the future. 108.162.215.160 21:41, 17 April 2019 (UTC)
+I interpreted this as an output issue. If he wrote code to automate, for example, data entry, the results could be flawed "contaminating" the output stream. This would fit with the literal dead body in a river parallel in that the otherwise good water which passes the body is fouled.OhFFS (talk) 21:08, 18 April 2019 (UTC)
+This is one weird page. When you put "https://www.explainxkcd.com/wiki/index.php/2138:_Wanna_See_the_Code%3F" in site-name text-box it is plain "No input file specified" page. (Noticed this via link on "https://www.explainxkcd.com/wiki/index.php/Category:Code_Quality"). However when put "https://www.explainxkcd.com/wiki/index.php/2138": It replaces itself with "https://www.explainxkcd.com/wiki/index.php/2138:_Wanna_See_the_Code%3F" and works normally. 141.101.68.6 09:10, 9 October 2020 (UTC)
+I'm fairly certain adding a ? after the URL in normal circumstances is making a request/query for additional info, but because nothing comes after the ? in this case, the site gets confused and responds with no output. Consequently, it's possible to access the page from a search engine results page, but not from inside the wiki (of which I imagine most attempted connections will come as a result) and not as a direct URL input. For anybody coming hereafter, it's been mentioned here, so you can use that thread for ease of discussion. I'm actually not sure whether this comment will save or not because I'm almost certain when I hit 'save' it's going to tell me no input file specified. Contextually and incidentally hilarious, though. 162.158.159.24 10:55, 9 November 2020 (UTC)
+Categories: All comicsComics from 2019Comics from AprilWednesday comicsComics featuring CueballComics featuring PonytailCode QualityProgrammingCueball Computer Problems

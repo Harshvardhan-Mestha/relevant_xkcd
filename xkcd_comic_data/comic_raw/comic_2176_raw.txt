@@ -1,0 +1,53 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2176: How Hacking Works
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2176)
+|<< PrevComic #2176 (July 15, 2019)Next >>|
+How Hacking Works
+
+Title text: If only somebody had warned them that the world would roll them like this.
+Explanation[edit]
+In similar spirit to 538: Security, this comic deals with how many people perceive hacking and security best practices, and how it differs from the actual reality. Specifically, the comic points out the flaw in the argument of some security-minded people that writing passwords down on a sheet of paper is a massive operational security vulnerability, not accounting for the threat model of the general public: reused passwords being leaked from seemingly benign places.
+The first panel shows a group of masked men, who have apparently flown to the US from a different country and broken into someone's house. They find a book labeled "Passwords" that contains all the passwords of their target, and one reports this using a walkie-talkie, while another remarks that the target is a fool for writing down their passwords. While it is true that storing passwords on paper is generally a bad idea, one has to keep in mind the alternatives—password reuse or unencrypted password documents on a computer—that non-technical people might otherwise engage in. These are far easier to exploit for a casual attacker that goes for quantity over quality. In addition, given the larger group of potential attackers are the remote attackers, storing passwords on a piece of paper, while horrible for security from a local "in person" attacker, is actually pretty effective against a remote attacker being able to gather up your passwords.
+The second panel goes into detail how such an attack is usually executed: First, a database containing usernames/emails and associated passwords or insufficiently salted password hashes is stolen from an improperly secured website. Randall's example uses a fictional breach of a small forum dedicated to the band Smash Mouth, but even large companies are not immune to leaks. Assuming the passwords were not hashed, the crooks then go on and automatically try to log in to a popular payment service, Venmo, with the harvested credentials. Even though the success rate might be just fractions of a percent, due to the scale and cheapness of the attack (which can be automated, requiring no sustained effort from the crooks), it is likely still profitable. Such an attack has previously been discussed in 792: Password Reuse.
+Although writing passwords on paper can allow users to create unique complex passwords without being limited by human memory, and therefore protect themselves from these sorts of mass-breach attacks, their passwords are now more vulnerable to insider attacks by e.g. family members, close friends, or co-workers.
+The way recommended by most security experts to prevent these kinds of attacks is to use a password manager - a secure application that stores all of your passwords in an encrypted vault that only you can access. This way, you only need to remember one password - the master password to your vault - and all of your other passwords can be as long, different, and random as you like. This means that even if a crook manages to get one of your passwords, they won't be able to use it to access any other sites, and so the attack shown in the comic would fail. Websites can also support two-factor authentication, where the user must supply a randomly changing code from a second device, such as a cell phone application or standalone keyfob, to log in.
+The title text is referring to Smash Mouth's song "All Star," where the first line of the lyrics is "Somebody once told me the world is gonna roll me." The singer subsequently admits that he is not "the sharpest tool in the shed," which would be consistent with re-using simple passwords across multiple accounts (including financial accounts).
+Transcript[edit]
+[Two panels with a caption below each panel:]
+[Three masked characters standing near a desk with a computer inside a home. One of the masked characters is holding a notebook.]
+Masked Character 1 [holding a walkie-talkie]: Control, we have flown to the USA and breached the target's house.
+Masked Character 2: They wrote all their passwords in a book labeled "Passwords"!
+Masked Character 3: The fool!
+[Caption below the panel:]
+How people think hacking works
+[Two Cueball-like characters, each sitting on opposite sides of a single desk with laptops in front of them]
+Cueball 1: Hey look, someone leaked the emails and passwords from the Smash Mouth message boards.
+Cueball 2: Cool, let's try them all on Venmo.
+[Caption below the panel:]
+How it actually works
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+any idea what the title text is referring to? some smash mouth lyrics, maybe? -- //gir.st/ (talk) 13:48, 15 July 2019 (UTC)
+The first line of their most popular song, All Star, is "Somebody once told me the world is gonna roll me". 162.158.123.97 13:55, 15 July 2019 (UTC)
+welp, i could have figured that out! to my defense, ducking "roll them like this" only brought up the comic itself. Thanks! -- //gir.st/ (talk) 14:06, 15 July 2019 (UTC)
+I think Randall is referring to this https://xkcd.com/792/ with himself is the "someone" who warned them. 172.68.142.239 14:20, 15 July 2019 (UTC)
+I doubt that the title text was a reference to this comic, but I've linked to it in the section about the second panel. Thanks! -- //gir.st/ (talk) 14:28, 15 July 2019 (UTC)
+I always (not really) thought hacking was more like "My latest scan of the internet found a computer that hasn't updated it's OS or it's antivirus in two months!" "Score! Hack in and steal their money!" 172.68.90.76 14:56, 15 July 2019 (UTC)SiliconWolf
+Usually, the scan immediately installs some virus. Noone is going to manually hacks thousands of machines. -- Hkmaly (talk) 22:43, 15 July 2019 (UTC)
+Note that you can sort of get the best of both words if, instead of using just common password or just password written on paper, you use password combined from those two. Online hackers wouldn't be able to hack your other accounts because all accounts have different password, while family members wouldn't be able to hack anything because they wouldn't know the common prefix to those passwords written on paper. -- Hkmaly (talk) 22:43, 15 July 2019 (UTC)
+Nah... I just need to 1) obtain a list of leaked passwords, 2) break into your pad/cubicle to obtain your dead-tree-list of partial passwords, 3) successfully identify the fully expanded one in the former that is the superset of the appropriate partial in the latter, 4) thusly derive the likely transformation you used, 5) apply that to all the other partials to easily h4ck 4ll ov UR 07|-|3|2 |_°9!|\|5 !!!111!!11oneoneone ...6) Profit? 162.158.34.172 00:09, 16 July 2019 (UTC)
+Or just drug you and beat you with a wrench until you give up the passwords 172.68.255.14 13:59, 20 July 2019 (UTC)
+I'm disappointed that the template at the top want authored by "The Sharpest Tool in the Shed." Mootstrap (talk) 02:39, 16 July 2019 (UTC)
+Anyone has idea why Randall keeps ignoring existence of password managers? 162.158.103.147 07:31, 16 July 2019 (UTC)
+Because some people don’t use them? 172.69.33.251 07:31, 27 July 2019 (UTC)
+I have to say, I'm not aware of anyone who thinks hacking is as Randall describes. I would have thought that most people would mistakenly think hacking is about typing complex green code onto a screen until a message pops up saying "ACCESS GRANTED". Hawthorn (talk) 12:23, 16 July 2019 (UTC)
+Well, some people put a lot of emphasis of never to write a password down, to prevent insider attacks. This leads to people reusing passwords, which leads to the much bigger risk as displayed here. So this comic is in line with 936: Password Strength to keep superstition out of password policies and the attached mindsets of users. (Especially the combination of using long complex passwords, as in 936, and to never write them down would lead people to reuse them a lot.). Randall here mocks, that insider threats are only a threat with insiders (family, friends, coworkers, etc. unless you work (or use your device) in a public place, while the much bigger threat for everyone is anonymous hackers going for quantity. --Lupo (talk) 13:43, 16 July 2019 (UTC)
+I have removed the claim that "Most crimes are committed by people known to their victims, [...]". This might be true for crimes committed in the real world, but I doubt that's true for "cybercrimes" (Urgh. That term!). Please do re-add it if you have a credible source for it! ;-) 172.68.50.36 16:15, 16 July 2019 (UTC)
+
+There are Smash Mouth message boards? Youforgotthisthing (talk) 16:28, 16 July 2019 (UTC)
+First panel: Where's the fourth Teenage Mutant Ninja Turtle??162.158.214.82 11:09, 17 July 2019 (UTC)
+He's picking up pizza for the crew! Ianrbibtitlht (talk) 12:25, 17 July 2019 (UTC)
+Categories: All comicsComics from 2019Comics from JulyMonday comicsComics featuring CueballMultiple CueballsComputer security

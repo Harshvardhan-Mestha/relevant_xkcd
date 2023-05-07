@@ -1,0 +1,59 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2007: Brookhaven RHIC
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2007)
+|<< PrevComic #2007 (June 15, 2018)Next >>|
+Brookhaven RHIC
+
+Title text: "Buddy, you trying to pull something? I can't buy this gold--all the electrons are missing. I could face serious charges!"
+Explanation[edit]
+The Relativistic Heavy Ion Collider is a particle accelerator designed to collide gold ions, sourced from gold foil, together at incredibly high speeds. This is normally done to study particle physics - the high-energy collisions allow us to learn more about how subatomic particles behave.
+Randall proposes that, instead of using the beam of gold ions for particle collisions, it should be diverted and sold at cash-for-gold stores to make money. In effect, the particle accelerator would be reconfigured to become an extremely complicated and expensive method to transport gold ions from the foil to the cash-for-gold stores.
+Randall proposed modifying part of the circular particle accelerator to add a diverter, so he can direct the gold ion beam to the three stores. It is unclear, however, how he would manage to transport the gold to the stores, as once it leaves the circular particle accelerator, parts of the beam are not in an enclosed space, and would likely collide with something. It would also cause problems once it reached the stores, as the gold ions travel at relativistic speeds.
+Part of the joke may be that because they are traveling at relativistic speeds, the mass of the particles being sold will be much more than the mass of the ions being supplied to the collider's input. However, it would be very difficult to sell a beam of charged particles[citation needed], and the amount of gold involved is below microscopic scales. That, and the fact that he is trying to misuse the particle accelerator for his own profit, is the reason why Brookhaven rejected Randall's proposal. Also, the energy used by the particle accelerator would cost more than the revenue from selling the gold.
+Randall has done many comics describing impractical research proposals in the past.
+The title text imagines the owner of the stores complaining about the sale, not because of impracticality, but because Randall tries to sell gold ions with the entire positively-charged nucleus of the gold atom with all 79 electrons stripped from it instead of normal, electrically neutral gold atoms. This is also a pun on the word "charges", which could refer to electric charge or to criminal charges.
+This is an actual map of the area around Brookhaven National Laboratory, with east at the top. The cash for gold stores depicted in the comic are, from left to right:
+New York Gold Center, 451 Glen Dr Ste D, Shirley NY 11967-1100
+Cash for Gold, 969 Montauk Hwy, Shirley NY 11967-2111
+Gold Traders Inc, 450 William Floyd Pkwy, Shirley, NY 11967-3480
+Transcript[edit]
+[A single panel contains a simplified overhead map view of the Brookhaven Relativistic Heavy Ion Collider and some of the surrounding area. The map is rotated 90°; north is to the left. The collider is located on the left hand side of the image as a yellow beam (representing the Gold ions) outlined in black. Parts of the collider are are labeled and there are light gray arrows indicating the direction of travel for the ions. At the bottom of the main accelerator ring there is a diverter that splits the ion beam and directs it towards a set of three Cash for Gold stores, passing through a more diverters along the way. Each Cash for Gold store is represented with a yellow burst and is marked with a Google maps style "store" locator pin. The following labels are written on the map.]
+Brookhaven Relativistic Heavy Ion Collider
+Gold Ion Source
+Accelerator Ring
+Diverter
+Gold Ion Beam
+[There are arrows coming from this label pointing at each store]
+Cash for Gold Stores
+[Caption below the panel:]
+Sadly, Brookhaven rejected my proposed experiment
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I think the correct explanation has to do with relativistic mass. Accelerated gold ions will have an increased (relativistic) mass. Therefore, the gold coming out of the accelerator will have a higher value than the input. You just have to sell by mass. --172.68.78.22 16:14, 15 June 2018 (UTC)
+The relativistic mass angle and calculation is interesting and amusing, but my impression of the intention is simply that--from a certain point of view--the entire accelerator is nothing but an extremely expensive and convoluted way to transport gold from Point A to Point B. An extremely small quantity of gold, yes--but that is part of the point.
+By adding the gold shop into the loop, he is simply pointing up the "gold delivery" aspect of the accelerator. Again, this isn't a really efficient gold delivery scheme but the very ridiculousness of it is the point. 172.68.150.52 01:37, 24 June 2018 (UTC)
+Yeah, we need to calculate the increase of mass at 99.99, 99,999, 99,9999 percent of the speed of light. I didn't check but I'm curious how many 9s we need to reach the mass of the Earth for a single gold nuclei. Nevertheless the speed is zero again when you collect them, or you have to move at the same speed, but than you can't measure that increase because you're in the same reference -- and back on Earth your own mass would have grown out far beyond the mass of our Milky Way. --Dgbrt (talk) 18:11, 15 June 2018 (UTC)
+Mass is an invariant quantity. What is increased is the total energy, E=sqrt(p^2+m^2). As previously mentioned, when they are delivered they would have to be measured in a comoving frame in which case no increase in "mass" would be noticed.-- 162.158.146.70 20:46, 15 June 2018 (UTC)
+Sorry, you know what invariant means in physics? And you can't sum p and m (simply squared both) by using the Einstein conventions c=1, it's in fact E2=m4+p2 -- I fear most people still don't understand. --Dgbrt (talk) 22:02, 15 June 2018 (UTC)
+Comes across a bit condescending considering m^2c^4=(mc^2)^2, not (mc)^4. The mass is the rest mass, which is always the same, considering it is measured at rest. It is a misnomer to call the total energy the mass. The physics you're describing is correct, I just take issue with the wording. I'm sorry if I didn't make myself clear enough. --162.158.146.70 22:29, 15 June 2018 (UTC)
+I don't think the relativistic mass is at all relevant. Presumably the gold would have to be brought to rest to be sold anyway, and I see nothing in the comic indicating that the gold would be sold based on this higher mass value. Also, these days physicists typically use "mass" to refer to what has historically been referred to as "rest mass", and have largely abandoned the idea that the mass of a particle increases with speed. Redbelly98 (talk) 02:02, 21 July 2018 (UTC)
+Isn't a typical cash-for-gold store where you would take your gold and walk out with cash for your gold? It sounds like Randall's proposal is gold-for-cash stores instead. Ianrbibtitlht (talk) 19:03, 15 June 2018 (UTC)
+It makes sense if his proposal is to sell the gold to the stores, where he would just need the stores to agree to buy the high speed particles. I thought he was suggesting consumers would buy the excess gold particles in the stores, but that's probably not what he meant. Ianrbibtitlht (talk) 19:14, 15 June 2018 (UTC)
+My first thought here was that he was proposing a gold-ion particle beam weapon. 162.158.106.240 20:10, 15 June 2018 (UTC)
+The destination in the middle appears to be the actual location of a cash for gold shop according to google maps. The other ones don't seem to exist though. 162.158.88.176 01:43, 16 June 2018 (UTC)
+Actually all three locations exists in real life. From left to right (north to south): New York Gold Center, Cash for Gold, and Gold Traders Inc. --162.158.134.142 07:03, 16 June 2018 (UTC)
+If anyone wants to calculate the revenue of the project: particles move at 0.99995c and according to one source they use less than 1/1000000 Gramm of gold in 20years(idk they could probably use more if they wanted). Current gold price is about 1280€ per kg 19:22, 16 June 2018 (UTC)some dude that forgot highschool physics19:22, 16 June 2018 (UTC)~21.10:16 June 2018 (UTC) 172.68.51.202 (talk) (please sign your comments with ~~~~)
+I suppose that RHIC will generate gold nuclei only, not providing electrons to build-up complete atoms. Thus the objection is "I won't buy gold without electrons, because I will find highly positive electric charges from protons-only projectiles". 172.68.10.184 (talk) (please sign your comments with ~~~~)
+My thought was, that Randall proposes to use existing gold particles in shops for the collision, instead of using gold provided by the research program. Thus potentially saving miniscule amounts of gold. - MN (anonymous) 141.101.76.82 (talk) (please sign your comments with ~~~~)
+When I read this, it felt possible to me, but then I realized: calling that spot "Diverter" indicates the flow is the other way. Then I noticed the grey arrows ALSO indicating the flow is the other way. NiceGuy1 (talk) 04:16, 19 June 2018 (UTC)
+The comic proper was pushing the envelope of weirdness, but the pun in the title text is golden. 172.68.246.158 12:29, 18 June 2018 (UTC)
+
+Ok im gonna atempt to calculate the revenue. At the start of the RHIC is EBIS Electron Beem Ion Scource. Acourding to to (https://de.wikipedia.org/wiki/Electron_Beam_Ion_Trap) it can contain anything from a few thousands to many millions of Particles. Im goingt to assume 1 Million particles at the time for gold. The paricles in Ebis are charged for 30 milliseconds (https://www.bnl.gov/rhic/video.php?v=156).Im therefore going to assume a possible firerate of 50 milliseconds = 0,05s. This amounts to 630720000 poosible fireings per year. and therfore roughtly 630720000*10^6=63072*10^10 paricles per year. This is around 1.05*10^(-9)Mol. Sice one Mol of gold is 197 gramm this is about 2*10^(-7)gramm= 20 mikrogramms. The paricles travel at 0.99995c. I'm affaid of the last step of the calc so im gonna let someone else do it. The Current gold price is at 36493€ per Kg (Source Google).13:24, 18 June 2018 (UTC)me mathstudent13:24, 18 June 2018 (UTC) 172.68.51.166 (talk) (please sign your comments with ~~~~)
+Ok I overcame my fear asked Wolfram alpha and it said that at 0.99995c 20 mikorgramm equal around 600kg,ok 600*36493=21835800€13:50, 18 June 2018 (UTC)~me a mathsstudent13:50, 18 June 2018 (UTC)~ 172.68.51.64 (talk) (please sign your comments with ~~~~)
+All of this is just fine - so long as the gold stores don't stop the gold moving in order to weigh it. Honestly, I think he'd be better off using Heisenburg's uncertainty principle - if they try to weigh the gold very accurately, then because they won't be able to determine its precise position, he can sell it to all three stores at once. 172.69.69.34 (talk) (please sign your comments with ~~~~)
+Somehow, coming here and finding out this is a real map, and those are real stores, makes this like 1,000 times funnier to me, LOL! Maybe Randall noticed the alignment, how these three stores are roughly in a line, and he got inspired. NiceGuy1 (talk) 04:16, 19 June 2018 (UTC)
+I'm removing the incomplete tag because I don't think it's necessary to calculate the revenue from the project and put the results in the explanation. If anyone wants to, they can add it in an additional trivia section. Herobrine (talk) 10:53, 20 August 2018 (UTC)
+Categories: All comicsComics from 2018Comics from JuneFriday comicsPages using the "citation needed" templatePhysicsScienceComics with colorPuns

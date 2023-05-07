@@ -1,0 +1,45 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2082: Mercator Projection
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2082)
+|<< PrevComic #2082 (December 7, 2018)Next >>|
+Mercator Projection
+
+Title text: The other great lakes are just water on the far side of Canada Island. If you drive north from the Pacific northwest you actually cross directly into Alaska, although a few officials--confused by the Mercator distortion--have put up border signs.
+Explanation[edit]
+The Mercator projection is a map projection (a way to present the spherical Earth surface into a flat 2-D map) presented by Flemish cartographer Gerardus Mercator in 1569. It was the standard map projection for some time, because it does preserve all angles in their true shape (i.e. it is a conformal map projection). This means that if you measure an angle on the map you get the right direction in the real world - a very useful feature if you're using the map for navigating. However, preserving the angle leads to severe distortions of the surface area, especially in the higher latitudes where countries appear much larger than they actually are. For example on the Mercator Projection, Greenland (the largest non-continent island in the world) is shown to be much larger than Australia (the smallest continent), although the latter in reality is nearly 4 times as big. Other examples of regions having distorted sizes and shapes due to the Mercator Projection can be explored in this link.
+Cueball uses White Hat's mistrust of the Mercator projection to convince him of ridiculous facts about Canada, namely that it is simply a small island in Lake Ontario. Map projections are generally continuous functions, meaning that they never map a disconnected space onto a connected one and therefore can never give the false impression that two areas that don't border each other do.
+The title text continues on these falsehoods, claiming that the Great Lakes are simply "water on the far side of Canada Island", and that it is possible to drive directly into Alaska from the Pacific Northwest region of the US (it's not, Canada is in the way). Cueball can possibly make these statements as Canada is a country in the northern regions, where the Mercator Projection would show it larger than it actually is. However, Canada is the second largest country in the world by total area (land and water), after Russia.
+The Mercator Projection was previously mentioned in 977: Map Projections of "what your favorite map projection says about you". People who preferred the Mercator Projection was listed as "You're not really into maps." It is also the second comic in a row that relates somehow to latitudes. Bad Map Projections is a series in xkcd, showing that it is really something on Randall's mind.
+It is not the first time Cueball (or Randall) tries to spread misinformation, for instance it also has White Hat as the target in 1677: Contrails, but it can also be other people that are fooled like in 1405: Meteor.
+Transcript[edit]
+[Cueball is holding a hand up as he talks to White Hat.]
+Cueball: Did you know Canada is actually a smallish island in Lake Ontario?
+White Hat: What?
+Cueball: Yeah, it only appears to have a land border with the U.S. due to the Mercator Projection.
+White Hat: Wow! I had no idea.
+[Caption below the frame:]
+At this point people feel so misled by the Mercator Projection that you can use it to convince them of basically any map fact.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The choice of characters in this comic is...interesting. I never got the impression that White Hat was gullible. GreatWyrmGold (talk) 21:27, 7 December 2018 (UTC)
+White Hat is just a fill in character as Cueball so he can both be one way or the opposite. Definitely not like Black Hat or Beret Guy. I have added an example of Cueball spreading misinformation in the explanation, and also here it is White Hat that is the victim, just to show that your statement is not generally valid for White Hat. --Kynde (talk) 12:35, 10 December 2018 (UTC)
+I can convince people that all of Randal's maps are real? Linker (talk) 00:53, 8 December 2018 (UTC)
+But wait, how does driving north reach Alaska? I thought it was an island near Hawaii to the southwest. More seriously, should we mention that the Mercator does have useful properties such as preserving angles or is that too much for explaining the comic? 162.158.186.108 06:12, 8 December 2018 (UTC)
+People putting a joke in the incomplete tag but completely ignoring the “Please mention here why this explanation isn't complete.” part is really annoying DrMeepster (talk) 07:38, 8 December 2018 (UTC)
+Good Dr. It is an autobot that fills in the first page of the explanation, and here it is always clearly incomplete. Others may later delete that it is a bot that has made the explanation, but not knowing if it is complete, but also now knowing if it is not. And then there is the large text stating do not delete too soon. So I agree that reasons should be given for old comics that are suddenly listed as incomplete, but that the newest comic is listed as incomplete is just basic info ;-) --Kynde (talk) 18:29, 9 December 2018 (UTC)
+Why doesn’t the autobot explicitly say that it is incomplete by virtue of being a new comic? Saklad5 (talk) 19:54, 9 December 2018 (UTC)
+Perhaps it should elaborate on "ridiculous" i.e. Cueball claims that the Mercator projection changes the topology of land and water masses, not just their relative size and (oh it's a long time since I did maths, so I'll call it) squishiness. ColinHogben (talk) 10:19, 8 December 2018 (UTC)
+Mercator map projection has the advantage that shortest line between two points on Earth (on globe) is straight line in this projection. --JakubNarebski (talk) 11:17, 8 December 2018 (UTC)
+I'm afraid you are mistaken. A straight line on Mercator translates to a rhumb line, not a great circle. Rhumb lines are useful for navigation, more so than great circles if all you have is a compass, but they are not (necessarily) the shortest distance between two points. Jaalenja (talk) 08:17, 10 December 2018 (UTC)
+The largest islands in Lake Ontario are either the western parts of the Thousand Islands or the southern-most part of the City of Toronto. Neither would be considered "in the middle" of the lake. While Lake Erie has some islands in the middle, like Middle Island, Lake Ontario does not have similar navigation targets/hazards. Nutster (talk) 17:11, 8 December 2018 (UTC)
+Both the XKCD comic (in its caption) and the explanation (in its current form) misuse the word "fact." The point that Randall is trying to make is that you can convince people of lies or anyway mistaken ideas by referring to the Mercator projection. Facts are by definition correct. 162.158.63.166 13:53, 9 December 2018 (UTC)
+Facts can also be anything presented as objectively real. Under that definition, this is proper usage. Saklad5 (talk) 20:02, 9 December 2018 (UTC)
+Falsehoods presented as fact are facts only in the mind of someone like Trump. For the rest of us, Canada as an island is not a fact. Does still count as a factoid though; they by definition may only look like facts, and may or may not be true. 162.158.38.106 17:01, 15 April 2020 (UTC)
+I wonder if it is possible to make a map projection stupid enough to support this at first glance. Saklad5 (talk) 20:05, 9 December 2018 (UTC)
+You could probably do it with a janky Peirce quincuncial that's not centered on the North Pole. 172.68.59.108 15:05, 10 December 2018 (UTC)
+The trivia should be merged with the main explanation. The fact that a projection can't erase a border, such as the land border between the US and Canada, is an important part of the joke. -108.162.238.161 06:33, 10 December 2018 (UTC)
+Agree, Done --Kynde (talk) 12:35, 10 December 2018 (UTC)
+Categories: All comicsComics from 2018Comics from DecemberFriday comicsMapsComics featuring CueballComics featuring White Hat

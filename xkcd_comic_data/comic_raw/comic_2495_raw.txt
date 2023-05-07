@@ -1,0 +1,39 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2495: Universal Seat Belt
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2495)
+|<< PrevComic #2495 (July 28, 2021)Next >>|
+Universal Seat Belt
+
+Title text: The plug fits really snugly, so it should be safe in a crash.
+Explanation[edit]
+This became the second installment in the series of Cursed Connectors and presents Cursed Connectors #65: The Universal Seat Belt. The series began two comics earlier with 2493: Dual USB-C (#187) and was followed three weeks later by 2503: Memo Spike Connector (#102).
+The comic shows another of Randall's "Cursed Connectors", the "Universal Seat Belt" — a pun on the Universal Serial Bus (USB) connector — which would have the same abbreviation of USB.
+USB connectors are mostly designed for free and unrestricted insertion and removal. There may be a slight use of the internal and external bumps and dimples to provide a tactile indication of being engaged or disengaged, but there are usually no facilities to prevent a connector being easily pulled out of even a port being actively used - the OS can do no more than complain that a device has been removed without first ensuring proper logical unmapping of the resource (which in turn may have to await a current session of data transfer being completed or aborted) or warn that a "delayed write" has failed. Anyone who has used USB in a frequently-jostled environment knows the connectors can't withstand much jerking around without their connection to their mainboard permanently failing.
+Car seat-buckles, on the other hand, have very definite requirements to not come loose unless intentionally and mechanically released, in order to keep the passenger safely anchored to the seat.
+The title text claims that the seat belt is secure in the case of a crash. This is another pun, as seat belts protect passengers in a car crash while USB standard is designed to protect the computer in the event of a device hardware malfunction.
+Another similarity between seat-belts (especially on back seats) and USB-plugs is that they can be a bit fiddly to insert. A seat-belt lock with the asymmetric design of a USB-A plug would be even more fiddly and thus "cursed".
+One possible use for the USB data connector might be to give a certain degree of 'proof' that the belt is plugged in, although that functionality is fairly well covered by current anchor-point sensors that (combined with seat-occupancy sensors that may respond to the weight of a seated person) can trigger dashboard lights and possibly warning sounds in vehicles as necessary to prompt correct usage of restraining belts. That system does not usually need an electronic data connection between anchor and belt, an anchor-side switch should suffice, and it would still require a mechanical gripping/hooking method to make it of any use to be engaged in the first place.
+The USB specification is designed such that USB connectors fit snugly from pressure. This means they usually need no button, like seatbelts have, to lock them in place. If one hacks a USB connection to increase the tightness, so that it can withstand more force applied to it and still hold its function, it becomes much harder, or even impossible, to insert and remove. Randall has removed the button, such that the connectors are a "cursed" misleading and dangerous use of similar form.
+Transcript[edit]
+[The two ends of a seatbelt are shown next to each other, but the seatbelt connectors are replaced with a USB-A plug and port. Above is a title and below is a label.]
+Cursed Connectors #65
+the Universal Seat Belt
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Looks like Randall has started a new series: Cursed Connectors. 172.69.34.171 01:51, 29 July 2021 (UTC)
+I now await the 10Base2 connector with actual bayonet blade attached... 141.101.99.183 03:27, 29 July 2021 (UTC)
+I have now created the series category: Category:Cursed Connectors. Looking forward to see how many and for how long he will continue this series. The Bad Map Projection series continued recently after a long break. --Kynde (talk) 08:05, 29 July 2021 (UTC)
+Dangit! Its the wrong way around... Wait, it doesn't fit this way either... 172.70.51.134 01:56, 29 July 2021 (UTC)
+Oh noes. "iLB" (talk) 03:50, 29 July 2021 (UTC)
+Yeah, this is a nightmare. If you forget (or ignore) your seatbelt, it'll take 3 tries (with flipping) to get it to connect. You'll either have crashed or be ticketed by then. 162.158.126.147 04:58, 29 July 2021 (UTC)
+It teaches you to buckle up _before_ starting the engine. I don't see a problem with that. Elektrizikekswerk (talk) 08:23, 29 July 2021 (UTC)
+If you insert the belt before starting up, it gets detected (or not) but without fuss. Only if you insert after you're running do you get "Device inserted", "Device not recognised" or occasionally that sickening mid-point between the two where you get neither because it recognises as a drive, but the drive bit behind it is now RAW instead of FAT/whatever. 141.101.99.29 09:10, 29 July 2021 (UTC)
+Or, possibly, a BSOD. Dansiman (talk) 20:50, 29 July 2021 (UTC)
+And creates a new market for "bypass chips". I'll sell you one for the low, low price of $100 :-) 172.68.133.156 02:22, 30 July 2021 (UTC)
+Fortunately it's much easier to remove: instead of fumbling with the button, just right-click and go to "Safely remove seat-belt"... Only problem is it won't let you do that while you're using it... --162.158.159.131 09:25, 30 July 2021 (UTC)
+The joke here, is, that it's tough enough to remember which way the connector goes, in, both, the seat belt and the USB receptacle. -- [[User:{{{1}}}|{{{1}}}]] ([[User talk:{{{1}}}|talk]]) (please sign your comments with ~~~~)
+Hey, mister "The joke here, is..."! How are you? You're new to this and seem to be making strange formatting or editing errors. Be careful what you're doing. And it hels if you 'sign' with ~~~~ (four tildes) when you edit the Talk bits. Just to make it easier to understand who (even if anonymous) wrote what and when. HTH, HAND! 172.70.91.84 19:49, 14 December 2021 (UTC)
+Categories: All comicsComics from 2021Comics from JulyWednesday comicsCursed Connectors

@@ -1,0 +1,106 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2450: Post Vaccine Social Scheduling
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2450)
+|<< PrevComic #2450 (April 14, 2021)Next >>|
+Post Vaccine Social Scheduling
+
+Title text: As if these problems weren't NP-hard enough.
+Explanation[edit]
+This comic is another in a series of comics related to the COVID-19 pandemic, specifically regarding the COVID-19 vaccine.
+The comic shows a timeline of a multitude of (presumably) friends and acquaintances getting two doses of the SARS-CoV-2 vaccine. Due to the recommended delay between shots, as well as the few weeks needed to build antibodies after the second shot, planning get-togethers becomes complicated by who is free to meet, or not yet.
+The diagram is some form of Scheduling Diagram, maybe akin to a Gantt chart, which helps to coordinate the status of several individual 'processes' (personal vaccination schedules) and demonstrate where dependent activities (meet-ups) are mutually possible.
+Eventually, everyone can start getting together, but during the time where some people have only received one, neither, or only got the second recently, the scheduling is complicated. The complication is increased by the fact that people who have received one or two doses of vaccine, but haven't gone through the whole waiting period, can be expected to have some protection, but possibly not full protection (as represented by the dashed line). In that case, there's the added question of how important it is that the person is at an event, and how much risk the people involved are willing to tolerate. This may be the reason for the "movie" set, in which all participants will have received both doses, but one will not have completed the final waiting period.
+The title text references NP-hardness, a theme that has come up in past comics. NP-hardness describes a particular level of computational difficulty. Scheduling problems are normally NP-hard. But when extra challenges such as having to deal with whether or not people are vaccinated they become even more difficult.
+In this case though, Critical Path dependencies seem trivial enough. Events (vertical lozenges across the dot-marked timelines of those included) are as trivial to validate as possible for those selected to attend. Fixed events in time can be scanned to show all those allowed to participate at that moment. Movable events can be rescheduled until (enough of) those hoped to be included are 'valid'. Complications may arise for those whose presence relies upon the status of others potentially attending, or the need to maintain time between two events (in either order) with part-shared attendees as a precautionary 'cool-down' isolation. It is not obvious that either of these issues factor in, any more than basic scheduling conflicts would.
+The third person is scheduled for a movie before being fully vaccinated may be a direct reference to 2441: IMDb Vaccines, discussing the number of people that needs to be vaccinated to record a particular scene. Other than each line's identifying portrait (which are not of the Throne Room characters) no explicit age/vulnerability information is given to justify this, presumably the chart's users are aware of the specifics.
+The third person in the table is included in a movie viewing (for which masks could be worn) shortly after their second immunization, but not included in the dinner group until the full benefit of the vaccine takes hold. CDC guidelines permit vaccinated individuals to visit inside a home or private setting without a mask with one household of unvaccinated people who are not at risk for severe illness. Therefore the movie gathering conforms to CDC recommendations provided that the single unvaccinated person is not at increased risk of severe illness and the movie is in a home or private setting.
+The third person in the table appears to have received the second shot twice. This is possibly a reference to 2422: Vaccine Ordering. Another interpretation is that she lied about her first dose being her second dose to be invited to the movie.
+Transcript[edit]
+[From top to bottom, eleven people are standing on the left side of the image: Danish, Cueball #1, Hairbun, Black Hat, Ponytail, Science Girl, White Hat, Hairy, Blondie, Cueball #2, and Megan, with even-numbered characters standing slightly further to the left. Each character’s first and second doses of the vaccine are labeled ① and ②, respectively. The time before each character’s first dose is drawn with a grey solid line; the time between their first dose and after they are fully vaccinated (two weeks after their second dose) is drawn with a grey dashed line; the time after they are fully vaccinated is drawn with a black solid line. Black Hat, Science Girl, Blondie, Cueball #2, and Megan have all received their first doses before the comic’s time frame. Social activities are drawn with an ellipse around the top and bottom members, and each participating character is identified with a large filled-in circle on their timeline. The ellipses are labeled :]
+DINNER GAMES MOVIE BIRTHDAY DINNER CABIN
+[The events that happen, in chronological order (from left to right), are:
+Cueball #1 receives his first dose;
+Blondie receives her second dose;
+Ponytail receives her first dose;
+Hairy receives his first dose;
+White Hat receives his first dose;
+Danish receives her first dose;
+Black Hat receives his second dose;
+Blondie is fully vaccinated;
+Science Girl receives her second dose;
+Cueball #2 receives his second dose;
+Megan receives her second dose;
+Hairbun receives her first dose (erroneously labeled as ②);
+Ponytail receives her second dose;
+Black Hat is fully vaccinated;
+Black Hat and Blondie go to dinner;
+Danish receives her second dose;
+Cueball #1 receives his second dose;
+Science Girl is fully vaccinated;
+Cueball #2 is fully vaccinated;
+Megan is fully vaccinated;
+Hairy receives his second dose;
+White Hat receives his second dose;
+Science Girl, Blondie, Cueball #2, and Megan play games;
+Ponytail is fully vaccinated;
+Hairbun receives her second dose;
+Hairbun, Black Hat, and Ponytail go to the movies or make a movie (the label is just "Movie");
+Danish is fully vaccinated;
+Cueball #1 is fully vaccinated;
+Hairy is fully vaccinated;
+White Hat is fully vaccinated;
+Danish, Cueball #1, Ponytail, White Hat, and Hairy attend a birthday party;
+Hairbun is fully vaccinated;
+Hairbun and Blondie go to dinner;
+Black Hat, Science Girl, White Hat, Hairy, and Cueball #2 go to a cabin.
+[Caption below the panel:]
+Post-Vaccine Social Scheduling
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+That third line down in the cartoon, shouldn't the first 2 be a 1? 198.41.238.116 02:56, 15 April 2021 (UTC)
+Plus, should they really be going to a movie during their two weeks? NixillUmbreon (talk) 03:20, 15 April 2021 (UTC)
+Third line down may have gotten a spoiled batch on their second shot (or could be lying, thereby creating errors the schedule), but it does look to me like a typo. NixellUmbreon correctly notes that Third Line also does not wait the requisite period after 2nd dose before going to a movie!
+ProphetZarquon (talk) 03:50, 15 April 2021 (UTC)
+Or perhaps they think that as soon as they've had their second shot, they're Good To Go? Not lying deliberately, but just plain old misinformed 162.158.165.66 04:19, 15 April 2021 (UTC)
+I think the idea is because the other 2 people are vaccinated, assuming person 3 isn't at high risk, per CDC guidelines I think they're ok to socialize with vaccinated people (but that assumes there isn't anyone else at the movies) 162.158.62.199 14:51, 15 April 2021 (UTC)
+Perhaps they are seeing a movie at a private residence? Thisfox (talk) 21:25, 16 April 2021 (UTC)
+It seems unfair to attend any birthdays this year, considering how many could not be attended. Bobby gets a party but Susie doesn't? Hmm... Time is cruel.
+Also, unrelated, but it's entirely possible that Lines 1, 2, 5, 7 & 8 are scheduling to gather on Line 3's birthday, while 3 isn't vaccinated yet.
+Line 3 doesn't attend the birthday. She's going to the movie with 4 & 5 just after the 2nd shot. Every one at the bday has had the 2nd shot for 2+ weeks. 141.101.77.160 08:40, 15 April 2021 (UTC)
+That's my point! It is entirely possible to schedule a birthday party for someone who cannot yet attend. Case in point: Family & friends on Earth gathering to celebrate the birthday of an astronaut in space, who can only view the goings-on via a bandwidth-limited single-feed video chat. With CoViD '19 happening, who knows how many people have tried to schedule a surprise party only to discover that the birthday person won't be vaccinated in time? Mind you, I'm not saying it's the most likely scenario (far from it), I'm merely pointing out that with so many still unable to attend, it's entirely possible to schedule a party for the birthday of someone who can't attend.
+ProphetZarquon (talk) 17:50, 15 April 2021 (UTC)
+Edit: Also, also, what is a chungus? (I don't come to explainxkcd because I want to search random words on DuckDuckGo...) ProphetZarquon (talk) 03:50, 15 April 2021 (UTC)
+according to dictionary.com, “Chungus is a meme featuring a chunky version of the cartoon character Bugs Bunny, typically captioned Big Chungus. It began as gaming joke that spread online as a slang term for anything ‘(adorably) chunky,’ similar to chonky.“ (which begs the question, what does that have to do with the explanation of this comic being written by a “big chungus”)162.158.62.233 04:18, 15 April 2021 (UTC)
+Just wondering, how is Big Chungus related to this? Confuuusion Eelitee (talk) 04:29, 15 April 2021 (UTC)
+Sooo... "Chungus" seems unrelated to anything in the comic, & was replaced in the bot tag so it no longer appears on the explanation page. Maybe it was just some idle defacement by an early visitor to the comic's explanation? It's a weird term: I don't see any use of it except in reference to this single appearance of a fattened Bugs Bunny, the phrase is not spoken in the cartoon & as a portmanteau "chunky" seems a clear contributor, but the latter half is less clear. (Misspelling of "ous" from "humongous"? Does not seem to get applied to humongous things, as often as small things that are fat, though... "bulbous"?)
+ProphetZarquon (talk) 18:09, 15 April 2021 (UTC)
+Question as a European: Don't Americans use the Johnson & Johnson vaccine which just needs 1 shot (in addition to those that need 2 shots)? Everyone in this chart gets a "2" shot (and in the case of the 3rd person even two "2" shots.) --Lupo (talk) 05:03, 15 April 2021 (UTC)
+When scheduled for an immunisation an American may find that they are being administered Moderna, Pfizer, or until recently the J&J vaccine (currently that rollout is paused until an investigation into blood clot incidence can be concluded). The second shot if it exists needs to be the same as the first, but otherwise there is little local favouring of one manufacturer over the others. 172.69.33.77 06:36, 15 April 2021 (UTC)
+Thanks for the information, but my question was about how J&J is applied (if it is applied at all), as to my knowledge it doesn't need a 2nd shot, but is fully functional few weeks after the first shot. But noone in this graph is getting only 1 shot. So it looks like this graph already ignores J&J/depicts a group of people in which noone got J&J. --Lupo (talk) 06:39, 15 April 2021 (UTC)
+J&J makes up < 5% of administered vaccines in the US even prior to the CDC freeze, so its not surprising that in a group of 11 people they all received either Moderna or Pfizer 162.158.62.199 14:51, 15 April 2021 (UTC)
+The people I know who've received the J&J vaccine were still advised to get a second dose (not that it's available).
+ProphetZarquon (talk) 17:58, 15 April 2021 (UTC)
+I thought this comic was also about the CDC guidance even after getting vaccinated to stay in small groups, this, there is no group of > 4 people or so. 172.69.35.143 05:17, 15 April 2021 (UTC)
+Cabin and birthday are 5 people each. --Lupo (talk) 05:20, 15 April 2021 (UTC)
+Hmm, but by "Cabin" everyone has already been vaccinated. So should've they all be able to attend? 172.69.33.19 05:31, 15 April 2021 (UTC)
+Everyone still doesn't want to go everywere. If I'd schedule a Transformers movie night I'd only got most of my brothers to join and maybe two of our significant others. Also some may be unavailable for other reasons to which the alt-text seems to refer. 162.158.238.244 07:55, 15 April 2021 (UTC)
+Might this also a take on the transistor 'NPN hole' diagram? The title text states 'NP-hard' which is something different, but the diagram does look a little like transistor holes and electrons! Emitter's and Collector's? Fan2012 (talk) 06:21, 15 April 2021 (UTC)
+Hm, is this possibly the Boolean satisfiability problem (as in whether or not someone can come is TRUE or FALSE)? This is a NP-hard problem: https://en.wikipedia.org/wiki/Boolean_satisfiability_problem 172.68.132.195
+Could somebody send this recent book by a whistleblower to Randall? He could make so many jokes: https://books.google.com/books/about/Mindf_ck.html?id=8AqmDwAAQBAJ 162.158.62.13 12:18, 15 April 2021 (UTC)
+Judging by the size of the gaps, 2, 7 & 8 presumably receive Moderna, while the rest receive Pfizer (for the pedants: yes, there are other possible explanations for the discrepancy in gaps, but this is the simplest). Does someone have a way of checking whether this roughly mirrors the prevalence of the two vaccines in the US up to mid-April?
+From https://covid.cdc.gov/covid-data-tracker/#vaccinations as of April 16 6:00AM EST fully vaccinated numbers were Pfizer 39.440M, Moderna 33.333M, J&J 7.798M. For 11 people the best fit would be 5:5:1.
+We do not know if the sample is representative of the US population, but if it is we can use todays 24% fully vaccinated (actually 2 doses without the further 2 week wait) place April 16 in the first quarter, near the time the bottom person gets their 2nd dose.162.158.78.160 20:01, 16 April 2021 (UTC)
+
+Anyone concerned for the four people that Black Hat is taking to a cabin? 141.101.98.16 17:56, 15 April 2021 (UTC)
+I'm more concerned that I'm not going. Danish (talk) 17:58, 15 April 2021 (UTC)
+There are really 5 people plus Black Hat since the person sponsoring the event is not on the chart and will also be there. I am assuming that the person doing the arranging is doing it for personal benefit and will be attending all the events. Rtanenbaum (talk) 02:24, 16 April 2021 (UTC)
+Not an obvious conclusion. In organising one's own line (Danish from the top line, or perhaps the Danish+Cueball couple, centred entirely on hosting/attending the Birthday event?), you're drawn into accounting for everyone else who might be there and their other potential commitments. Possibly extending to friends-of-friends (Blondie, other Cueball and Meghan? ...justifiable as not even pass-through members of Birthday?) who wouldn't be expected to be birthday guests but need to be figured in as potential confounding factors.
+Alternatively, as typical author+partner avatars, Cueball+Meghan at the bottom are arranging a couple of part-shared meet-ups and it has been extended upwards to account for proxy-associationz (including the Birthday, which isn't on their own radar). Though I find the connective topology of the (definite) links slightly less convincing in support of this version.
+(i.e. bottom-up and its subsequent accumulation of activities/people is less convincing, when compared to the top-down interpretation of Hairbun unfortunately being shown necessary to skip the main Birthday bash; Black Hat and Science Girl maybe only included high up as known linked persons, via their intended involvement in the Movie/Cabin/etc...)
+There are other possible starting assumptions (positionally, it could have 'started' with any single character's line, extended up and down as deemed necessary when more linked events and individuals were discovered) but none appear to be quite as logically satisfying. YMMV. 141.101.107.80 08:15, 16 April 2021 (UTC)
+Sorry, but this looks for me not only like a Sorting network, but it would also give the NP-problem reference more sense. Enkidu (talk) 11:47, 16 April 2021 (UTC)
+Beyond Scheduling: There may still be transmission after vaccination, particularly of VoC ( Variants of Concern ) https://youtu.be/JtseAUamHqI
+Categories: All comicsComics from 2021Comics from AprilWednesday comicsCOVID-19COVID-19 vaccineTimelinesProgrammingComics featuring CueballComics featuring MeganComics featuring HairyComics featuring PonytailComics featuring HairbunComics featuring BlondieComics featuring Science GirlComics featuring White HatComics featuring DanishComics featuring Black Hat

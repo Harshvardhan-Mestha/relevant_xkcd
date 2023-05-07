@@ -1,0 +1,76 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2141: UI vs UX
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2141)
+|<< PrevComic #2141 (April 24, 2019)Next >>|
+UI vs UX
+
+Title text: U[unprintable glyph]: The elements a higher power uses to bend that moral arc. U[even more unprintable glyph]: The higher power's overall experience bending that moral arc.
+Explanation[edit]
+UI vs UX is a discussion in software engineering of the differences between user interface design (UI) and user experience design (UX). As explained in the comic, UI design is typically concerned with the elements of the interface that a user encounters, while UX design is more concerned about the user's overall experience in using such interface. UX design can be seen as more holistic & abstract than UI. This comic extends the idea, adding increasingly all-encompassing, abstract & fanciful design perspectives.
+
+To start, the two real categories are:
+UI - Elements of the interface that the user encounters
+This standard software engineering practice involves trying to come up with a user interface - icons, colors, placement or text and elements, etc. that works well together, that isn't confusing, and that hopefully makes it easy for the user to view the information they need to digest, as well as make whatever choices the user is expected to make. They also look at things like how long it takes to move from one screen or task to another, etc.
+UX - The user's experience of using the interface to achieve goals
+Sometimes a UI designer makes choices that they think are easy for the user, but it turns out not to be as easy as expected when it comes to real users and practical situations. So the UX designer focuses on observing how a user uses a product, both how they use the user interface as well as other less technical aspects of their experience such as how they come to find out about the product, what they tell others about the product, etc.
+The comic takes this to absurd levels by adding these additional categories:
+UZ - The psychological roots of the user's motivation for seeking out the interaction
+The comic says that UZ is the investigation of the psychological roots of why the user even wants to use the interface. This is not normally something that computer programmers do[citation needed], and is usually best left in the hands of psychologists [citation needed].
+"The psychological roots of motivation" is a buzzword phrase from management theory which may not have a particularly well-defined meaning. Motivation is itself the psychological root of behavior. While motivations certainly have causes, they are usually not clear enough to meaningfully treat in formal or clinical contexts.
+Uα - The user's self-actualization
+"Self actualization" is the most abstract, immaterial form of motivation, meaning the need to find comfort in one's own goals and achievements. Available only when more material needs such as those for food, shelter, warmth, security, and a sense of belonging are met, it forms the pinnacle of Maslow's hierarchy of needs.
+α is alpha, the first letter of the Greek alphabet. It's often used to show the "beginning" or "first" of something (including in philosophical contexts). And as the first Greek letter, it can be thought of "beyond Z" in a sense; the Atlantic hurricane name list uses the Greek alphabet this way, for example (as 944: Hurricane Names alludes to).
+UΩ - The arc of the user's life
+"The arc of one's life," means the overall thematic elements present in a person's existence. It occurs in the philosophical humor novel The World According to Garp, which remarks on how easily the arc of any human life can turn on a single sexual relationship.
+Continuing the philosophical theme, Ω is omega, the last letter of the Greek alphabet. As such, it's often used to show the "last", "end", or "ultimate" of something.
+U∞ - Life's experience of time
+"Life's experience of time" is a very rare phrase which does not seem to have a coherent meaning across the handful of times it occurs.
+∞ (U+221E) is the mathematical symbol for infinity, again furthering the philosophical abstraction.
+U⬤ - The arc of the moral universe
+"The arc of the moral universe is long, but it bends toward justice," is a famous line from a speech by Martin Luther King, referring to the slow pace at which social progress is often achieved, and paraphrasing parts of a 1853 sermon by abolitionist minister Theodore Parker: "I do not pretend to understand the moral universe. The arc is a long one. My eye reaches but little ways. I cannot calculate the curve and complete the figure by experience of sight. I can divine it by conscience. And from what I see I am sure it bends toward justice." President Obama had the sentence from King's speech woven into a rug in the Oval Office.
+The ⬤ is a filled-in circle the size of the letters around it, represented here by the Unicode "black large circle" character (U+2B24). Continuing the philosophical abstraction, it comes well after the Greek alphabet and most mathematical symbols in Unicode, and is especially unlikely to be used as a text character in its own right like this.[citation needed]
+The title text refers to a higher power bending the moral arc, but mirrors the UI and UX categories, with the implication that the list continues in a spiral through ever more rarefied levels of higher powers, with even less likely symbols denoting them.
+U[unprintable glyph] - The elements a higher power uses to bend that moral arc
+Essentially UI for the higher power's moral arc bending utility.
+U[even more unprintable glyph] - The higher power's overall experience bending that moral arc
+Essentially UX for the higher power's moral arc bending utility.
+Transcript[edit]
+[Two underlined headings are above two columns of text with seven lines. The left "symbol" (labelled "Designer") is explained by the text to the right (labelled "What they are responsible for").]
+UI: Elements of the interface that the user encounters
+UX: The user's experience of using the interface to achieve goals
+UZ: The psychological roots of the user's motivation for seeking out the interaction
+Uα: The user's self-actualization
+UΩ: The arc of the user's life
+U∞: Life's experience of time
+U⬤: The arc of the moral universe
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The comic as a whole is making fun of how meta software developers get about the user experience, seeking to name all the different types of interactions a user can have with an app or webpage. This comic is massive for me on my desktop (chrome); I wonder if this is a joke about bad UX or if it is a genuine error? Fwacer (talk) 18:50, 24 April 2019 (UTC)
+It's not this big on xkcd.com. Did it start this big and got fixed on the original site? Update: replaced with the image from xkcd.com which was much smaller. Cgrimes85 (talk) 18:55, 24 April 2019 (UTC)
+Looks like it is fixed now, but yes it was also that big on xkcd.com initially. Fwacer (talk) 19:19, 24 April 2019 (UTC)
+It's bad U[even more unprintable glyph]. 172.68.226.114 08:27, 30 April 2019 (UTC)
+To me, it comes across as a hyperbolic play on the common confusion between the meaning of UI and UX. [1] Ahiijny (talk) 19:06, 24 April 2019 (UTC)
+It makes sense that it would be alpha and omega, but I originally thought it was the "proportional" symbol. I only ask because alpha is lowercase and omega is uppercase, although perhaps this was to avoid confusion with the Latin "A". Cgrimes85 (talk) 19:13, 24 April 2019 (UTC)
+Concerning the lowercase/uppercase difference, since alpha is the beginning and omega is the end, then consider that in the beginning we are born little and then grow up - we start out as lowercase and end up as uppercase. Ianrbibtitlht (talk) 19:30, 24 April 2019 (UTC)
+This is a joke on integration, yes?172.69.68.129 19:33, 24 April 2019 (UTC)
+"The arc of the moral universe is long, but it bends toward justice" -- I guess the big in the comic being about the arc of the moral universe can reference the fight against segregation and thus for integration...
+I meant mathematical integration...
+I'm happy with the explanations I just added for everything but "Life's experience of time" -- does anyone know what that phrase is from? 172.68.133.54 05:48, 25 April 2019 (UTC)
+I thought it was made by a U[unprintable glyph] designer. 172.68.226.64 07:40, 25 April 2019 (UTC)
+No UK - well that is about par 141.101.107.240 20:45, 25 April 2019 (UTC)
+On what level are those idiots who say "user doesn't need this setting, it would only confuse him"? -- Hkmaly (talk) 22:20, 25 April 2019 (UTC)
+UG2 - user second-guessing. 172.68.142.197 06:27, 26 April 2019 (UTC)
+Why has Randall chosen this particular set of characters? Why Z? Why alpha and omega - the first and last letters of the Greek alphabet, used in the bible quote "i am the alpha and omega" i.e. the beginning and the end, but what link with the subject? Or is it just a sequence of increasingly improbable characters from latin through Greek, then glyphs then unprintable glyphs..? 108.162.229.82 07:34, 26 April 2019 (UTC) Dancergraham
+UX comes after UI in the alphabet, and so Randall first extended that to the last letter of the Latin alphabet, then Greek. Infinity then also makes sense, but I don't know about the bullet. Oliphaunt (talk) 09:08, 26 April 2019 (UTC)
+Other than being the last letter of the Latin alphabet, I can't come up with any other meaning for "Z" to represent something in psychology. As for the remaining symbols, I think alpha might represent the "a" in actualization or the beginning of the user's awareness or life because alpha represents beginning. Since Omega means the end, this likely represents the end of the user's life, which determines the length of the arc of their life. I believe the infinity symbol is a reference to how time looks to the typical life of a user, since it extends well before and after a user's life. Lastly, I think the black circle might represent a view of morality as either a black hole or a dark subject. This is just my impressions. Ianrbibtitlht (talk) 13:31, 26 April 2019 (UTC)
+I did think about "Z" representing Zen, but I'm not sure how that connects with psychology. Ianrbibtitlht (talk) 13:57, 26 April 2019 (UTC)
+Zychology...162.158.91.95 14:29, 29 April 2019 (UTC)
+
+My initial thought was that the black circle represents the "black point message" that crashed apps like whatsapp a while ago. I never saw it personally but Tom Scott did a video on it last year. It might be a commentary on how understanding of the universe's moral arc could be considered untouchable/unobtainable. Blik (talk) 14:30, 26 April 2019 (UTC)
+I took the black circle as a Black Hole - that changes the arc of everything in the Universe! John.Adriaan (talk) 02:14, 29 April 2019 (UTC)
+Hmm. It looks like UY got skipped. The study of the user's motivation and goals. Like UI and UX, it's a real thing. But that's really the job of concept or marketing.
+Could the last glyph be referencing a Monad? As in the totality of all things/beings. As time is infinite, yet still contained within the totality of the arc of the moral universe. And then the title text further extending the concept into exploration of what elements were used to shape the totality of things. And further to what was the experience of that shaping. In vein with Leibniz related concepts. - https://www.iep.utm.edu/leib-met/#H5
+Categories: All comicsComics from 2019Comics from AprilWednesday comicsPages using the "citation needed" templateProgramming

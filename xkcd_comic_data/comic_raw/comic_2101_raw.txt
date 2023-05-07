@@ -1,0 +1,117 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2101: Technical Analysis
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2101)
+|<< PrevComic #2101 (January 21, 2019)Next >>|
+Technical Analysis
+
+Title text: "I [suspect] that we are throwing more and more of our resources, including the cream of our youth, into financial activities remote from the production of goods and services, into activities that generate high private rewards disproportionate to their social productivity. I suspect that the immense power of the computer is being harnessed to this 'paper economy', not to do the same transactions more economically but to balloon the quantity and variety of financial exchanges." --James Tobin, July 1984
+Explanation[edit]
+There are two recognized methods to attempt to predict the stock market, each with its own pros and cons:
+Technical analysis is more appropriate for traders seeking to benefit off short-term fluctuations in stock prices, by attempting to look for trends, momentum, patterns etc. in the stock prices.
+Fundamental analysis is more appropriate for investors seeking to benefit off long-term fluctuations in stock prices, by attempting to guess future earnings based on some fundamental factor about the companies whose stock is traded. Investors can choose to look for good Price/Earnings ratio, the potential of a company to disrupt markets or open new markets, or other indications that a stock may be a solid investment.
+Random Walk theory suggests that neither of these methods are particularly useful at predicting the future of the stock market.
+The theoretical value of a stock is its net present value, which is the sum of all its future earnings, with earnings in the future discounted appropriately to account for the time value of money. Because these earnings are never fully predictable, traders may have different ideas about the true value of a stock, and buy the stock if they believe the currently offered prices are particularly low, or sell it when the prices are high.
+Technical analysis, however, does not even attempt to understand the earnings of the stock, instead focusing on the shapes and patterns that result from traders making their moves. While there is a human behavioral component to stock trading, it is not clear that one can extract much information from the shapes of stock charts. To the extent it does work, a substantial part of its success may be simply an artifact of the herd behavior of traders who engage in technical analysis, a zero-sum game.
+The comic displays a stock price chart, annotated with labels which purport to be technical analysis. These labels are nonsense from the perspective of technical analysis, but do accurately describe the graph itself: "allegro" (a musical term used to set the tempo at the beginning of a score), "prologue" (an introductory section of a play, book, or similar), "lumbar support" (the thing in a chair shaped to better support your back), "bathtub" (possibly a reference to the so-called "Bathtub curve"), "uptalk" (a speech pattern). One label celebrates that "these two points define a line! Promising signal." (In geometry, any two points define a line.)
+The shape of the chart is similar to the exponential behavior of cryptocurrencies when they are successful, where price (positional height on the chart) roughly increases while volatility (height of the bars or candles themselves, and of the peaks and troughs, on the chart) does the same. Technical analysis used to be an esoteric domain held by well-paid stock analysts, but as cryptocurrency has spread, and as financial companies have made it easier for members of the public ("retail investors", as opposed to "institutional investors") to engage in investment trading, people from all walks of life have begun staring at charts like this.
+Graph labels and possible meanings
+Allegro Tempo notation in music: played quickly and brightly (translation from Italian: cheerful, lively) - a series of very small changes in this region of the graph might suggest notes played quickly
+Prologue A prologue is an introduction to a book or other work; this presumably refers to the initial period of minimal growth which is moving toward a much more active period
+Decline Describes a negative trend
+Doldrums A stagnant section of the graph with little movement
+Spline A spline is a mathematical means of generating a smooth curve, referring to the smoothed curve shown here
+Lumbar Support A cushion or other device that provides support to the lower part of the spine, a play on the preceding spline. "Support" is also used as a term in technical analysis to refer to a value that the stock price frequently approaches from above but does not pass through (until it does, which is taken as a sign that the price will fall further until it reaches the next support level).
+Renewal Strong upward trend; also might suggest the growth of green bars, like greening up in the spring
+Hmm! The three circles this label points to mark periods of growth that immediately preceded a decline. Ideally for someone performing a technical analysis, if such occurrences can be foreseen accurately it would be a major boon for the stockholder, as they could be tipped to sell it right away before the price drops and net a cash profit.
+Hark! The cliffs! A long bar suggesting a steep cliff
+Declination A term which sounds similar to decline, but actually refers to the angular distance of a point from one of the poles. The declination of magnetic north is used to correct the difference between true and magnetic north.
+Inflection A point at which the slope of a graph changes from an increasing slope (getting steeper) to a decreasing slope (getting less steep).
+Uptalk A pattern of speech in which each sentence ends with rising inflection? like a question? A play on "uptick", and also on the second meaning of "inflection"
+Bathtub possibly a reference to the so-called "Bathtub curve", also, the shape is similar to that of a bathtub, and is drawn containing water.
+These two points define a line! Promising signal. In geometry, any two points define a line; also looks somewhat like a communication line between two towers. It is tempting when looking at market charts to draw imaginary lines that connect the extrema and hope it means something about the future. The drawn line in this case also just so happens to ignore the many periods of decline marked under "Declination" -- in this case it did eventually recover, but later labels (such as "likely to continue forever" at the end) suggest that this is more likely a case where blind optimism just so happens to have been right for those two particular points (as opposed to the many more possible pairs of points where the line wouldn't be so positive).
+Yikes This section of the chart refers to the actual use of a candlestick chart, which is to document the difference between the opening and closing value of a stock. A long red bar shows that a stock closed at a much lower value than it opened at, which would be disastrous for someone trading that stock. The section shows a bearish engulfing
+Wrong! The circled pair of bars are the only pair in the whole graph where two red bars (negative growth) that large are next to each other -- larger red bars exist, but not next to another one of similar magnitude. Labeling it "wrong" suggests the analyst is choosing to ignore reality by throwing out actual past data rather than revise the theory being held.
+If I add some lines here I can convince myself I'm doing something more than just seeing patterns in the graph of a random walk A random walk is a mathematical object that describes a path that consists of a succession of random steps. Randall is trying to convince himself that the patterns in the stock chart are more meaningful than just random data. The random walk hypothesis is a financial theory that states that stock prices evolve according to a random walk, thus short-term price changes are random and cannot be predicted from past history.
+At this particular point, Randall has drawn a couple of lines that appear to act as an "envelope" around the stock price, converging towards the point where the price turns around and rises in the "Slope!" section. A technical analyst might say that such a convergence indicates that the price will turn around, but this annotation was added retroactively with the benefit of hindsight, like all of the annotations on this chart. If Randall had tried to make a similar envelope around the earlier sections ("Yikes" and "Wrong!"), before the "Slope!" had happened, he would have created a diverging (and descending) pattern, which he might have taken as a sign to sell and would have then missed the later rally of the stock price. More broadly, any two lines drawn over or around some part of the price chart must necessarily converge or diverge (the price would have to be perfectly periodic to produce parallel lines), so this "signal" is no better than a coin flip.
+Slope! The slope of a graph is the ratio of the "vertical change" to the "horizontal change". A measure of slope on a financial chart can be used to predict possible specific returns or losses, or to analyze those from the past, but Randall simply prints the word in his chart annotation, with an exclamation point possibly indicating how exciting its value is, rather than labeling the actual numeric slope. This could also be a play on a second meaning of slope, meaning a rising or falling surface in general.
+Could be an omen? This again makes reference to the financial meaning of the candlestick chart. The top of the small grey tick represents the highest value that the stock sold at over that day. The joke is that even though the stock did not grow appreciably, and actually sold at some point in the day for much lower, that it "could be an omen" that the value was rising.
+Red + Green = Christmas Red and green are traditional colors for the Christmas holiday in the U.S. This could be a "sign" that the stock price is about to rise, as in a sort of Christmas present or bonus, or the widely-held belief in the cryptocurrency community that prices fall during Chinese New Year as Chinese holders of cryptocurrency sell off in preparation for their holiday expenses.
+Likely to continue forever This is a mistaken opinion often held by buyers in a rising market. It's been rising so much, surely it's the best time to buy! We could make millions! Such times are generally followed by a sharp downturn resulting in significant losses, as can be seen historically farther back on the chart. Cryptocurrency communities have significant members who call themselves "holders" -- these people always trust that the price will eventually go up even higher, because it has recovered so many times in the past.
+The title text is a quote from James Tobin (from his 1984 paper On the efficiency of the financial system) that raises a question of very talented people building systems to make themselves a lot of money without actually accomplishing anything worth money. The quote was about the stock market and high speed traders in particular. It comments on the 'financialization' of the economy, where activities like speculation and abstracted financial products have become an increasingly large part of the economy, as opposed to investment in productive industry.
+Interestingly, this comic appeared the day after Oxfam reported that the world's 2,200 billionaires had added 12% to their wealth in 2018, while the 3.8 billion people comprising the poorest half of the world's population had lost 11%. Perhaps this prompted what appears to be Randall's jab at those whose business is merely making money.
+Transcript[edit]
+[A series of red and green box-and-whisker plots form a line that starts in the bottom left corner of the image and wiggles up to the top right corner, with a series of peaks and troughs that resemble a typical stock market diagram. The diagram is annotated with lines, arrows and text.]
+[Title in top left corner]
+The basics of technical analysis
+[A roughly horizontal section with mostly green boxes:]
+Allegro
+[A horizontal bracket encompasses the next three sections]
+Prologue
+[Slope becomes slightly negative. Mostly red boxes, bordered with a black line above and below:]
+Decline
+[A roughly horizontal section with mostly green boxes, bordered with a black line above and below:]
+Doldrums
+[Line curves upwards with mostly green boxes, with a dashed black line below:]
+Spline
+[Three green boxes at minor peaks in the line are circled and indicated with arrows:]
+[Hmm!]
+[A section with slight positive slope and a mixture of red and green boxes, with a solid black line below:]
+Lumbar support
+[Slope increases. All green boxes, with a black line through the centre:]
+Renewal
+[A sharp upwards incline, with two large green boxes:]
+Hark! The cliffs!
+[Two black dots and a dashed black line connect two major peaks:]
+These two points define a line! Promising signal
+[Inside trough between two major peaks is a roughly drawn black triangle:]
+Bathtub
+[Slope becomes negative, mostly red boxes with a black line through the centre:]
+Declination
+[At the lowest point of the trough:]
+Inflection
+[Slope becomes positive, mostly green boxes with a black line through the centre:]
+Uptalk
+[Slight negative slope, with large error bars. Mixture of red and green boxes. One red box is marked with an arrow:]
+Yikes!
+[Negative slope, all red boxes. Gap between two central boxes is circled:]
+Wrong!
+[Line rises then falls. Mixture of red and green boxes with non-parallel dashed black lines above and below:]
+If I add some lines here I can convince myself I'm doing something more than just seeing patterns in a graph of a random walk.
+[Positive slope, all green boxes with a black line through the centre:]
+Slope!
+[One error bar on a green box is circled:]
+Could be an omen?
+[Arrow indicating peak:]
+Red + Green = Christmas!
+[Positive slope, all green boxes with a wiggly black arrow through the centre. A separate arrow points off the edge of the page:]
+Likely to continue forever
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The Tobin citation comes from James Tobin's Fred Hirsch Memorial Lecture "On the Efficiency of the Financial System" in 1984 [1].
+The explanation says “allego” and “prologue“ are “musical terms such as may be used in the introduction of a performed piece”. That may be true of “prologue” but “allegro”, according to Wikipedia, is “a tempo marking indicate to play fast, quickly and bright”. 108.162.219.58 11:40, 21 January 2019 (UTC)
+And, derived from this, a movement of a piece that is performed quickly may be referred to as an allegro. It can also be used to refer to an entire piece, such as this piece by Mozart: [2] Kazzie (talk) 12:00, 21 January 2019 (UTC)
+But based on the placement of the allego and the way it is written it is most likely a tempo. Tempo goes just above the music and in this case it is the only word on the page that is italicized. 162.158.186.108 14:09, 21 January 2019 (UTC)
+How would this compare with “candlestick patterns” - the bathtub one looks like a funny name for a pattern *meant* to signal that prices could rise https://www.investopedia.com/articles/trading/06/advcandlesticks.asp. 172.68.144.145 13:55, 21 January 2019 (UTC)
+Random Walk might refer to https://en.wikipedia.org/wiki/Random_walk Curtobi4 (talk) 14:00, 21 January 2019 (UTC)
+https://en.wikipedia.org/wiki/Random_walk_hypothesis 108.162.241.202 16:33, 21 January 2019 (UTC)
+This is correct, also called Brownian Motion. The shape of these graphs is incredibly similar to that of the motion of a speck of dust floating in coffee. 172.68.65.228 03:26, 22 January 2019 (UTC)
+Should we make a table for each term like there is for other comics? 162.158.63.232 18:01, 21 January 2019 (UTC)
+Yes please. Also, the individual jokes could be explained better. For instance, I'm pretty sure "lumbar support" is there as a joke on the word "spline" looking & sounding a lot like "spine". I'm 90% certain it's a pun, but that's not mentioned yet.
+ProphetZarquon (talk) 19:30, 21 January 2019 (UTC)
+XKCD lessons with Randall: Today I learned that the word "Allegro" actually has a meaning, and isn't just a random website name. 162.158.92.160 19:27, 21 January 2019 (UTC)
+The fundamental problem is that price movements are NOT a random walk. It is safe to assume that people who know a market well will study it, and make purchases/sells based on the underlying market drivers. And in doing so, they will leave "tells" in the pricing data. It becomes possible to look at markets, and see what the people in-the-know are doing, and follow along after them. That is the fundamental basis of technical analysis, and it works -- it works unbelievably well.
+If there is a problem, it is that computers can do this pattern recognition so fast that there is longer any room for people to do this.
+In other words, computerized arbitrage has gotten so good that people need not apply, and a few high-end groups with high speed electronic trading can get in before any person can.
+Keybounce (talk) 00:31, 22 January 2019 (UTC)
+Keybounce, do you have any thoughts on how to share some of that with the layperson? The cryptocurrency markets are highly volatile and worth many billions of dollars. People with little resources are getting involved and either going bust or becoming millionaires. The trading history makes it clear there is a lot of automated trading for a long time, but I'm not sure many people really know what they are doing, and the publically available code appears pretty weak. There is a lot of opportunity here to make huge impacts on major economic and social groups in ways that could really help problems in the world. 172.68.65.228 03:32, 22 January 2019 (UTC)
+True that computerized arbitrage/high frequency trading occurs at speeds which leave zero room for human reaction times (see the $$$ made by shaving only 3 milliseconds’ [!!] from the transmission delay, when Jim Barksdale built a new straight-path fiber optic line from Chicago Mercantile to NASDAQ in NJ in 2010, and by McKay and Tradeworx using microwave tower relays since then), but computerized arbitrage is, broadly, not the same as technical analysis of markets. Arbitrage takes immediate advantage of brief pricing trends and inefficiencies, while analysis seeks to predict pricing. Of course, technical analysis is also computerized at inhuman speeds, and its algorithms are used in arbitrage, but seems to me the comic isn’t about arbitrage, as such.Miamiclay (talk) 20:03, 22 January 2019 (UTC)
+I'm disappointed that there wasn't a "WOW!" entry John.Adriaan (talk) 01:38, 24 January 2019 (UTC)
+I fixed your link, hope that's okay. 172.68.51.178 13:29, 24 January 2019 (UTC)
+I always cringe when I see some trader (who probably don't have an economy degree) try to show with technical analysis that he could predict X happening over a year in advance. Just this day I saw it in my daily economy news. No, sorry to tell you this... if you couldn't predict X happening the day before you sure as hell couldn't predict it a year in advance. Conversely it doesn't make sense to apply fundamental analysis to stocks that you don't plan to keep for more than a year. That's not to say these methods are useless, they are useful for making educated guesses but all should be aware of their limitations. 162.158.89.61 19:30, 24 January 2019 (UTC)
+Despite the comment on the social usefulness of global trading, I'd argue that it has largely replaced outright wars. So we now have a lot more people than the world needs. Though implying that global trade is inherently evil is at best just not very well informed. The market can to some degree fix global inequalities, but it also concentrates money on a few hands, which is the inevitable outcome if it is not regulated somehow. The problem here is you can't really regulate capitalism unless you do it globally. 162.158.92.34 20:23, 24 January 2019 (UTC)
+I'd argue that global trading has increased, not decreased, wars: roughly by creating the concentrated disparities of resources and power that you describe. 162.158.78.220 23:34, 24 January 2019 (UTC)
+I think the Doldrums may refer to Norton Juster's novel, The Phantom Tollbooth. Early in the protagonist's adventure, he enters an area of the map called The Doldrums.
+Categories: All comicsComics from 2019Comics from JanuaryMonday comicsComics with colorChartsChristmasMusicComics featuring real peopleStock Market

@@ -1,0 +1,52 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2264: Satellite
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2264)
+|<< PrevComic #2264 (February 5, 2020)Next >>|
+Satellite
+
+Title text: If you're going to let it burn up, make sure it happens over the deep end of the bathtub and not any populated parts of the house!
+Explanation[edit]
+This comic humorously compares the relationship between humans and satellites to the relationship between humans and pets. "He followed me home, can we keep him?" is a stock phrase said by children pleading with their parents to keep a "found" animal as a pet. The stock response is to admonish the child to look after the pet's needs, especially the less fun ones, like cleaning up after the pet. In this comic, Science Girl wishes to adopt an "abandoned" satellite, but rather than being asked to clean up after the satellite's waste, she is lectured by her parents on how to properly discard it once it stops working. This would be like saying "you have to promise to bury the dog in the backyard when it dies, not leave its corpse to decompose in the dining room like the last one," which is not how most pet-adoption conversations go.[citation needed]
+A graveyard orbit is an orbit far away from operational satellites. Graveyard orbits are used when a satellite is far enough away from the Earth that de-orbiting it into Earth's atmosphere is too expensive to be practical. The most widely-used graveyard orbit is approximately 300 km above geostationary orbit; a satellite at the end of its life will briefly accelerate to move further away from Earth, so Science Girl's parents refer to "boosting" the satellite into a graveyard orbit.
+Kessler syndrome is a proposed scenario in which satellite collision(s) produce many pieces of orbiting space junk, which then hit other satellites and create even more pieces of junk, which hit more satellites, and so on. In this scenario Earth becomes surrounded by so much man-made debris that the risk of a collision makes space activities difficult. Apparently Science Girl has recreated this scenario before in her parents' home, requiring extensive cleanup of the dining room and making it unusable for weeks. Kessler syndrome was the premise of the movie Gravity, where the collision of two satellites produces pieces of shrapnel that go on to tear apart other satellites including the International Space Station and a Space Shuttle. A variation of Kessler syndrome was the focus of the first part of the Neal Stephenson novel Seveneves, where cascading collisions of fragments of the moon led to natural and artificial debris fields around the Earth.
+The title text is more advice from Science Girl's parents. They tell her that if she is going to let her satellite reenter the atmosphere and burn up, she should do it above the deep end of the bathtub. This echoes how satellites in orbit can be purposefully de-orbited, and are usually planned so that any debris that isn't fully destroyed lands in the ocean and does not pose a safety risk. When it is possible, satellites are generally directed towards the South Pacific Ocean Uninhabited Area, commonly known as the "spacecraft graveyard", to land over a thousand miles away from any populated landmass.
+Abandoned satellites were in the news recently, as two defunct satellites had a near miss on January 29, 2020, the week before this comic strip was published. This is becoming more of an issue, especially in Low Earth Orbit, as more and more satellites are built, and old satellites go defunct.
+Humans orbited by satellites were previously featured in 1300: Galilean Moons; here, of course, the satellites were natural satellites, i.e. moons.
+An alternative reading is that the characters are actually planet-sized creatures around which the discarded debris of primitive lifeforms, carelessly sent into space, orbits. Saturn happens to have a density less than that of water, so it could conceivably float in a suitably-sized bathtub.
+Transcript[edit]
+[Science Girl is facing Cueball and Megan. A small satellite orbits her, indicated by a tilted circle around her at about neck height. The satellite is between her and her parents.]
+Science Girl: Hey, look, I found a satellite! Can I keep it? Please?
+Cueball: Sweetie, no.
+Megan: Put it back where you found it.
+[Zoom in on Science Girl who looks straight out of the panel, the satellite is passing by her ear with the circle going behind her. The satellite is detailed in this zoom in. There is a central main part of the satellite, almost square, with a small protrusion at the "top" and two small lines (antennae) at the "bottom." Two solar panels extend on either side, each longer than the central part.]
+Science Girl: But I think it was abandoned!
+Science Girl: And it's so cute!
+Science Girl: Please?
+Science Girl: Pleeeease?
+[Back to all three again, Science Girl has her arms raised above her head. The satellite is beneath her head.]
+Megan: Fine. But you have to promise to boost it to a graveyard orbit when it stops working. Don't just leave it drifting around.
+Science Girl: Yaaaay!
+[Same setting as in the first panel, so Science Girl has lowered her arms.]
+Cueball: We're serious. I am not cleaning up after Kessler syndrome again.
+Megan: We couldn't use the dining room for weeks!
+Science Girl: I promise, I promise.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I don't care what tech hasn't been invented yet. I want one. --Blacksilver (talk) 02:28, 6 February 2020 (UTC)
+Ok, then, Blacksilver: first calculate the orbital period , assuming no external gravitational sources and no atmosphere. And while you're at it, the maximum mass of the satellite before it causes the epicenter to be outside your body. But you have to take the shape of the human body into account: any deviation from equatorial orbit will probably lead to trouble.Cellocgw (talk) 14:43, 6 February 2020 (UTC)
+But if we kept them around, that's less material we have to lift into orbit during Dyson sphere construction. *There are too many stars. It's been freaking me out.* (#975) 108.162.216.148 03:25, 6 February 2020 (UTC)
+Am I the only one who just assumed that the characters were planet sized beings? --WhiteDragon (talk) 15:03, 6 February 2020 (UTC)
+Yes ;) Elektrizikekswerk (talk) 16:39, 6 February 2020 (UTC)
+I thought the same, because the sattelite was orbiting science girl. I think this is actually the first time I thought of the alternate solution first. 162.158.74.157 13:22, 10 February 2020 (UTC)
+
+Reads ok to me. Should we take off the the header? Kev (talk) 16:31, 6 February 2020 (UTC)
+Agree Elektrizikekswerk (talk) 16:39, 6 February 2020 (UTC)
+What's the worst that could happen? 162.158.74.229 19:30, 6 February 2020 (UTC)
+Aaand... it's gone. Elektrizikekswerk (talk) 12:44, 7 February 2020 (UTC)
+I ran some preliminary calculations assuming this uses orbital mechanics that somehow ignore earth instead of some aerodynamic effects (like the flinks used in Seveneves)... first, acting out the comic I figure that the time between the beginning of the first panel and the beginning of the last panel to be about 20 seconds. Assuming the location of the satellite hasn't moved more than one orbit between each panel, our orbital period is about 20 seconds. I then measured the characters and - assuming Cueball is about 6 feet tall, the little girl is about 4 feet tall. Transposing that onto the second panel, I figure the orbit radius to be about 1.5 feet (0.4572 meters). Here I switch into metric units entirely: the orbital circumference is then 2.87 meters giving us an orbital velocity of 0.1436 m/s. Assuming the girl is an average 7 year old weighing 22.4 KG (as per This Source, and assuming that my use of the orbital equation is correct... the satellite would have a mass of 141 256 782.239 KG. Calvinrempel (talk) 00:36, 7 February 2020 (UTC)
+Nah, you're doing something wrong. The orbit is independent of satellite mass ... 162.158.154.151 13:21, 7 February 2020 (UTC) <--- This is only true when the satellite's mass is insignificant relative to the planet's mass. Otherwise the epicenter ends up outside the planet's radius and we end up with either two bodies of roughly equal mass orbiting a common center or, as in this calculation, the satellite becomes the planet and the poor little girl starts orbiting the satellite Cellocgw (talk) 13:12, 10 February 2020 (UTC)
+They also talk about "boosting the sattelite into a graveyeard orbit" in panel 3 which i think is the sattelite boosts from planets which would also make sense or a planet family. 162.158.214.136 21:14, 13 February 2020 (UTC)
+Categories: All comicsComics from 2020Comics from FebruaryWednesday comicsPages using the "citation needed" templateComics featuring CueballComics featuring Science GirlComics featuring MeganSpace probes

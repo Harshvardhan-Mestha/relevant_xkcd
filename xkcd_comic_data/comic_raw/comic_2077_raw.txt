@@ -1,0 +1,38 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2077: Heist
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2077)
+|<< PrevComic #2077 (November 26, 2018)Next >>|
+Heist
+
+Title text: But he has a hat AND a toolbox! Where could someone planning a heist get THOSE?
+Explanation[edit]
+In heist films, a heist or other crime is carried out, sometimes involving the criminal(s) posing as some type of repairman or similar. The criminal then gains access to their target through the disguise, as humans do not normally critically assess someone if their appearance fit expectations. Due to the prevalence of this trope, Cueball is concerned whenever somebody comes by to ask for access as he believes the person may be planning a crime, and his inadvertent assistance will make him a "minor character" in the wider heist story. In such movies, minor characters are sometimes held hostage or even killed in the course of the crime being committed, particularly if the heist goes wrong. The risk of being a minor character could also perhaps include the risk of being harmed. In general people would probably prefer to be the main character in a film, rather than a bystander.
+In this case, he is asked to open the server room - ostensibly to allow the fire alarm to be checked. However, gaining physical access to the server allows the criminal to bypass most security features that should prevent unauthorized access to the data (a scenario known as an evil maid attack). If the hard disks are not encrypted it is trivial to copy all files or even remove and abscond with the disk drives - allowing the theft of sensitive information stored on the network. Even if the files are encrypted physical access to the server will allow the attacker to corrupt the system either by installing malware or adding malicious hardware components, which will then allow them to retrieve passwords and/or encryption keys.
+Being aware of these dangers Cueball immediately assumes that he (or his employers) are the target of a heist.
+The title text seems to be Cueball's internal monologue trying to calm himself down. He points out to himself that the repairman has both a hat (possibly with a company logo) and a toolbox full of tools, then sarcastically asks himself how a thief could possibly get their hands on such a disguise.
+This is the second comic in a row to reference a specific movie genre, this one heist movies the previous one, 2076: Horror Movies 2, horror movies.
+Transcript[edit]
+[A man in a cap with a toolbox approaches Cueball, who is shown to be thinking with a cloud like bubble above his head with his thoughts.]
+Man: Do you have the key to the server room? I'm from the building and I'm here to check the fire alarm.
+Cueball [thinking]: Oh no oh no
+[Caption below the panel:]
+Thanks to movies, whenever anyone asks me to open any door, I immediately assume I'm a minor character in a heist.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+You know, this isn't just a movie trope, this is an actual technique that is used ALL the time: https://youtu.be/rnmcRTnTNC8?t=2000 Is this worth mentioning in the explanation? Cgrimes85 (talk) 16:42, 26 November 2018 (UTC)
+Probably because it works, and it probably works because real service people are really this bad authenticated. It's even worse in emergency: there is rarely time for proper authentication during emergency ... which is why the criminals would create or fake an emergency to get in. -- Hkmaly (talk) 00:22, 27 November 2018 (UTC)
+Last place I worked letting a guy in without a current visitor's pass *and* an escort was a termination offense, and they ran drills regularly, and everyone knew someone who knew someone who'd gotten canned for it, or said they knew someone anyway. -- Resuna (talk) 20:36, 28 November 2018 (UTC)
+The movie Dope does a reverse cryptocurrency heist. That counts, right? http://en.wikipedia.org/wiki/Dope_%282015_film%29
+There are no movies about cryptocurrency heists yet (to the best of my knowledge), but this is probably how one would look like.
+Tweaked the grammar in the early, short explanation. Didn't fundamentally change the text, but I'm not sure that worrying about being "a minor character" is quite correct as the text of the comic quantifies that as being _in a heist_. Cueball's worries may not just be about his life being nothing more than a minor character in a movie, but possibly also of potential legal / professional liability as an accessory or accomplice. By knowing or supposing that the one asking for access is a criminal and/or should not have access -- and granting it anyway -- that may be enough to charge him with facilitation of the crime as it is (in some jurisdictions) a crime to "provide" a person with "means or opportunity" to commit a crime, "believing it probable that he is rendering aid to a person who intends to commit a crime."
+But he has a white hat! We don't have to worry if they wear a white hat, right? On the other hand, he's "from the building"? What the heck does that mean? Cueball best knock the white hat off to eliminate any cognitive dissonance and then call his supervisor. 172.68.90.112 19:28, 26 November 2018 (UTC) SiliconWolf
+I interpreted “from the building” as meaning that (he claims) he’s with the people who own the building, while the people who Cueball’s affiliated with (presumably some corporation) just rent it from them. The building owners stand to lose a lot more than the renters if the building burns down, so they presumably want to deal with smoke detectors themselves.
+From |"The Building" might _also_ refer to the TV series about people trapped in skyscaper which is actually an alternate reality. .. But I seriously doubt it. ..or do I? Iggynelix (talk) 21:40, 26 November 2018 (UTC)
+I thought "from the building" was a clue, like a badly worded phishing msg. I also thought the mouse-over was the typical clueless/naive, not sarcastic Afbach (talk)
+Minor characters in movies like this tend to suffer unpleasant consequences ... I figured Cueball was worried about being gunned down, or fed into a wood chipper. Cosmogoblin (talk) 13:01, 29 November 2018 (UTC)
+Is it just me or is that cap really nicely drawn? 162.158.114.40 14:46, 27 November 2018 (UTC)
+I was thinking the exact same thing! Randall has really been upping his game over the years! 108.162.245.244 15:17, 27 November 2018 (UTC)
+Categories: All comicsComics from 2018Comics from NovemberMonday comicsComics featuring CueballCharacters with hatsFiction

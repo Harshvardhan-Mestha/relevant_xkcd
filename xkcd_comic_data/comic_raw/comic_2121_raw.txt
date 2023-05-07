@@ -1,0 +1,77 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2121: Light Pollution
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2121)
+|<< PrevComic #2121 (March 8, 2019)Next >>|
+Light Pollution
+
+Title text: It's so sad how almost no one alive today can remember seeing the galactic rainbow, the insanity nebula, or the skull and glowing eyes of the Destroyer of Sagittarius.
+Explanation[edit]
+This comic shows how light pollution in cities affects what you can see from the night sky. The first three panels show realistic examples of what you could see from the sky inside a large city, in the suburbs and far away from light pollution. These panels roughly correlate on the Bortle Scale to 8-9 (city), 5-6 (suburbs) and 2-3 (remote area).
+The last panel contrasts these for comedic effect with fake things that are not actually present in the night sky.[citation needed] The "Ships of the Sky King" may be a reference to an elven legend in J. R. R. Tolkien's works, in which several elven ships sail tangentially off the planet of Middle Earth and into the sky. This story was previously mentioned in 1255: Columbus. "Crystal spheres" is an ancient theory about the heavens and what it was that held up the stars, before it was commonly accepted that space could be made of hard vacuum and celestial bodies held there by laws of inertia and gravity and vast distances. The spheres are nested inside each other concentrically. Randall proposes they are held by latticework like that which supports the Eiffel Tower, and that the lattice structure could be seen long ago when the sky was much darker. It is also a possible reference to the science fiction short-story "The Crystal Spheres" by David Brin, where the solar system is surrounded by hard crystal spheres that have to be broken before leaving as an explanation of the Fermi Paradox. Furthermore, in the lore of Dungeons & Dragons, the solar system is also enclosed in a massive crystal sphere, with other solar systems in similar solar systems, separated by "the flow".
+Although all crystals do have a crystal lattice, as in the meaning 3 of the word "crystal" in Merriam-Webster (a body that [...] has a regularly repeating internal arrangement of its atoms and often external plane faces), these lattices are sub-microscopic and would be invisible in the sky. Additionally, crystal structure was not yet known at the time that the celestial spheres theory was popular.
+In consensus reality, the sky does contain many invisible objects that can observe us and/or provide major structures of our society, such as satellites, nearcraft, and drones, but these are usually invisible due to size and distance more than brightness.
+The title text starts off sounding like a legitimate statement about light pollution. It is common to remark that the vast majority of people never see things in the night sky that were commonly seen by our ancestors every night prior to industrialization, such as the Milky Way or now-obscure phenomena such as Zodiacal light, Airglow or Gegenschein. The title text then further adds to the humor of the last panel by describing non-existent features, which could be references to H. P. Lovecraft as he often refers to beasts the possible size that “The Destroyer of Sagittarius” would have to be (Sagittarius is one of the constellations of the zodiac and Sagittarius A* a black hole at the center of the Milky Way inside of that constellation.). He also often speaks of insanity and color, connecting the two.
+Transcript[edit]
+[Four views of the night sky are shown in separate panels. They look more like photographs than drawn comics. A caption at the top reads:]
+Light Pollution and the Disappearing Night Sky
+[The first view shows only a few bright stars visible on a fairly light gray-brownish background. The inline text on the left top is:]
+High Light Pollution
+(Cities)
+[In the second view more stars, and hints of a few galactic clouds, are visible against a dark-gray background.]
+Moderate Light Pollution
+(Suburbs)
+[A lot of stars in the third image, some partly colored, and a clear view of the Milky Way.]
+Low Light Pollution
+(Very remote areas)
+[The fourth and last image shows even more stars and brighter colors. A slightly fuzzy illuminated triangular grid overlays the entire sky. Embedded within it are three ghostly silhouettes of celestial sailing ships. The text on the top left reads:]
+No Light Pollution
+(How the sky should look)
+[Four arrows are pointing to some triangles:]
+Lattice of the crystal spheres
+[Three arrows are indicating the sailing ships:]
+Ships of the Sky King
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Small error in this comic. It's not possible to tile a sphere with just hexagons. https://stackoverflow.com/questions/749264/covering-earth-with-hexagonal-map-tiles AlanKilian (talk) 16:03, 8 March 2019 (UTC)
+Six triangles form a hexagon - just an explanation for people with less mathematical or geometric knowledge. --Dgbrt (talk) 16:17, 8 March 2019 (UTC)
+Sorry for thread necro, but isn't this obvious? Is there a deleted post here? 172.69.214.20 01:54, 24 September 2020 (UTC)
+but a indefinite large group of triangles doesn't automatically transform to hexagons, since it could be overlapping hexagons, or hexagons with their interim spaces filled up by triangles?--Lupo (talk) 16:29, 8 March 2019 (UTC)
+Look at that hexagons (consisting of six triangles), each fitting to the next, and you will understand that this is only possible in a plane but not in a sphere. --Dgbrt (talk) 16:37, 8 March 2019 (UTC)
+Yes, but if the triangles are not actually equilateral then they could form a sphere. And if the sphere is big enough (I think solar-system-surrouding or bigger counts) then you probably wouldn't be able to see it with the naked eye. Shamino (talk) 17:08, 8 March 2019 (UTC)
+But can it form a basketball? Netherin5 (talk) 17:24, 8 March 2019 (UTC)
+Your eyes are making the hexagons up. Some triangles would be left over if you tried to make every group of 6 triangles a hexagon. Triangle arrays like this are commonly used in computer graphics, as they are the closest approximation to a sphere: https://mft-dev.dk/wp-content/uploads/2014/05/icosahedron_frame_sub3.gif 162.158.79.185 17:25, 8 March 2019 (UTC)
+Not really. On a plane, there are only three tesselations made only of identical regular polygons: triangular tiling, square tiling or hexagonal tiling. But since a regular hexagon can be divided into six equilateral triangles, the tiling in the picture can be seen as both triangular and hexagonal. The leaving out you write about may have come from another tesselation which uses hexagons and triangles, the trihexagonal tiling. On a sphere, there's a completely different discussion as there's no tesselations, only approximations of them. -- Malgond (talk) (please sign your comments with ~~~~)
+Rather than a tessellation of hexagons, I see a web of triangles. Mirror Spock (talk) 02:32, 13 March 2019 (UTC)
+There is no way to know that the triangles shown are equilateral (in fact, as drawn here they're quite uneven). All 3D renderings are in fact assembled from uneven-sided triangles, including renderings attempting to approximate rounded surfaces. And yes, you can buy a ball tiled only with triangles; they're not even-sided, but you can't tell with the naked eye. Also, there is one roughly spherical shape tiled only with equilateral triangles: It's the shape found on a 20-sided die. Skyboxes intended to minimize viewing angle distortions use triangles that are very nearly, but not quite equilateral. In fact, all shapes that use flat planes to tile a sphere can be broken down into triangles of one degree of asymmetry or another. Your argument is invalid. ProphetZarquon (talk) 22:51, 8 March 2019 (UTC)
+Y'all need to stop arguing about the geometry and look at this picture of a (approximation of a) sphere made out of triangular pyramids: http://blog.zacharyabel.com/tag/spheres/&psig=AOvVaw2-zrroG1RBFI-t2GHyHt-9&ust=1552193238617042 Tplaza64 (talk) 04:50, 9 March 2019 (UTC)
+Also note that we see just small part of sky there, so it's fully possible the few deformed/missing triangles are outside of what we see. -- Hkmaly (talk) 23:49, 8 March 2019 (UTC)
+An interactive sphere divided into hexagonals - where is the trick? Hexagonal tiling of the two-dimensional sphere Sebastian --172.68.110.64 16:11, 12 March 2019 (UTC)
+The "trick" is that you are making the unwarranted assumption that every hexagon in the matrix is composed from six identical equilateral triangles. Which can't possible be the case for it to form a non-flat surface. A hexagon composed of six equilateral triangles will have each vertex at exactly 120 degrees. Three of them joined at a corner must add up to 360 degrees and therefore must lie flat and therefore can't curve into 3-space. The fact that the surface does curve means that the sum of the angles at those vertices adds up to something less than 360 degrees, which means at least some of the hexagons have vertices that are less than 120 degrees (and they are therefore not composed of equilateral triangles, but isosceles triangles instead, since the hexagons appear to be uniform). Once you realize that the angles on the hexagons' vertices are less than 120 degrees, the solution to the problem is figuring out exactly what angles are needed to form a sphere of a given size. This may be a hard problem to solve, but definitely not impossible. Shamino (talk) 16:37, 12 March 2019 (UTC)
+Oh man where are the conspiracy nuts from a few weeks ago ;-) Cgrimes85 (talk) 17:03, 8 March 2019 (UTC)
+Hey, I think this works like Beetlejuice. Shush. Don’t jinx it. Netherin5 (talk) 17:24, 8 March 2019 (UTC)
+Ok, I know most of the discussion is focused on the lattice, but are the ships a reference to something? LOTR maybe? Also there’s nothing about the title text at all, and the (more probable than LOTR) Lovecraft reference, considering the mentions of insanity, cosmic horror, and color. (I believe the book was Cool Air?) Netherin5 (talk) 17:24, 8 March 2019 (UTC)
+I think it's notable that the world actually works this way. The sky is full of drones, satellites, nearcraft, and we basically can't see them, but they can freely observe us, transmit things to us, and drop things on us. 162.158.79.185 17:34, 8 March 2019 (UTC)
+While there are drones, satellites and various tools astronauts dropped all around the sky, the reason we can't see them is simply size (they are too small), not light pollution. The features mentioned in strip are gigantic. -- Hkmaly (talk) 23:49, 8 March 2019 (UTC)
+I may be too nerdy, but my mind went to Spelljammer on this. 172.69.62.160 18:44, 8 March 2019 (UTC)
+My thoughts exactly! it perfectly fits Spelljammer crystal spheres. I think it should be included in the explanation (and if not, then at least the source of the whole concept- https://en.wikipedia.org/wiki/The_Crystal_Spheres) 162.158.92.34 00:13, 9 March 2019 (UTC)
+
+I went to the sky at the end of Thirteenth Floor. But the one image I can find suggests that was rectangular. Jordan Brown (talk) 21:47, 8 March 2019 (UTC)
+Anybody understands relationship between singular lattice and plural spheres? Is there any lattice that holds the spheres in ancient astronomy?
+Suddenly penny dropped: it is crystal lattice!!!!!11
+By the way, the way the lattice really works is that it's a geodesic sphere - sometimes, five triangles meet in a vertex to ensure that the surface closes on itself to form a sphere. It's actually impossible to get a sphere with only 6 triangles in a vertex, aka a "hexagonal tiling": http://www.alaricstephen.com/main-featured/2016/8/15/eulers-gem-applied-to-geodesic-domes. 173.245.48.63 21:28, 10 March 2019 (UTC)
+Only if you restrict yourself to using equilateral triangles. If you're allowed to vary the lengths of the edges, then the sum of angles at the center of each "hexagon" will be less than 360 degrees, causing the "hexagon" to flex into a non-planar shape. If you're using these to construct cosmic structures, the difference needed would be minuscule and undetectable to the naked eye. Shamino (talk) 13:03, 12 March 2019 (UTC)
+Note that you *would* see regular patterns in the cosmic Big Bang remnant radiation in some cosmological models (think of Arcade scrollers, just in 3D). Citation needed no longer: https://arxiv.org/abs/astro-ph/0310253 198.41.242.46 10:29, 11 March 2019 (UTC)
+
+Earth Temperature Timeline in the foot of the page
+Has anyone noticed that the Earth Temperature Timeline is in the list of the classic comics at the bottom? I looked on the wayback machine and it looks like it appeared on March 1, but i didnt see anybody mention it on the other talk pages since. Maybe I just missed it though. Choochoobob123 (talk) 13:59, 11 March 2019 (UTC)
+Misleading illustrations
+Anyone else feel the illustrations (aside from the first and last one) are misleading? I rarely see the Milky Way in the suburbs, or even in the country. When I've been to very remote places where you can easily see the Milky Way, it looks about like the second illustration. I have never seen the Milky Way as depicted in the third illustration, especially the red coloration. I've been to remote north-eastern PA circa 1986, the desert in Canyon Lands, Utah circa 1990, Jericoacoara in Brazil, circa 2006, and Sifnos island circa 2012. Even if you argue those places aren't the most remote, my point still stands that it was in those places that the sky looked like illustration number two, "Suburbs", and those are not suburbs! And in actual suburbs, the sky does not look like that! (Has anyone ever really seen the sky look like illustration number three from the Earth?) 162.158.63.244 23:59, 14 March 2019 (UTC)larK
+Kinda.... in a ski resort in the alps... But I guess which image looks which way then also is dependent on you screen brightness. On my laptop (right now) I do not notice a lot of red coloring on picture 3, and hardly see the milky way in picture 2. --Lupo (talk) 14:22, 15 March 2019 (UTC)
+I once spent the night alongside a country road in central Pennsylvania USA (Numidia). The sky looked much closer to picture 3 than picture 2. As a lifetime city-boy, I'm still awestruck by the memory. These Are Not The Comments You Are Looking For (talk) 05:13, 23 March 2019 (UTC)
+I see the sky as #3 from atop Mauna Kea, and during a rare clear night on Adak, Alaska. Also, you can tile nonEuclidean 3D spheres with regular hexagons. [Comet] 20:01, 23 May 2019 (UTC)
+
+This looks super similar to a Stanislaw Lem story, I wonder if Randal read it? story
+Categories: All comicsComics from 2019Comics from MarchFriday comicsPages using the "citation needed" templateComics with colorComics with inverted brightnessAstronomy

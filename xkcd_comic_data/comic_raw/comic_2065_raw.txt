@@ -1,0 +1,47 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2065: Who Sends the First Text?
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2065)
+|<< PrevComic #2065 (October 29, 2018)Next >>|
+Who Sends the First Text?
+
+Title text: I sort of wish my texting app showed the percentage next to each person, but also sort of don't want to know.
+Explanation[edit]
+Text messaging is a back-and-forth communication via SMS between two users. In this comic, Randall shows a line graph of "who sends the first text more often?" This is meant to show who Randall initiates conversations with, and who initiates conversations with him.
+Maintaining a friendship or relationship (whether intimate, friendship, casual, or business) typically requires communication; often that communication takes place when two individuals are not in the same location by means of an exchange of text messages. A normal balanced relationship typically involves both parties involved to have an approximately equal interest in making conversations happen, as measured in this case by "who sends the first text". The person who desires that a particular communication take place typically will send a text message, and once the other person responds the conversation happens, and the relationship progresses. If neither person initiates, the relationship will likely suffer.
+While the majority of this graph shows relationships which involve friends whereby both sides are prone to initiating conversations, the graph also shows some groups that are a little more at the extremes, some where Randall texts a lot but they typically don't initiate text conversations to him, and some where others text him a lot but he rarely initiates text conversations with them.
+On the left side of the graph are people with whom Randall initiates conversations with "100% of the time". On the right side of the graph are those who initiate conversations with Randall.
+The chart is separated into 5 blocks. The two blocks on the left are those who may be, or definitely are, "just politely putting up with [Randall]". This is implied that they may not be close friends with Randall, but Randall still wants to be friends with them. Their reluctance to initiate conversation with Randall is shown by the fact that Randall usually sends the first text to them.
+The largest block, in the middle, is "friends". These friends range from Randall initiating a lot, to them initiating a lot. There is a healthy range of who initiates first.
+The next block to the right is for "that really nice friend who keeps inviting me to things even though I flake constantly". This means that Randall promises to go to events that this friend invites him to, but does not always follow through. This friend is still persistent in inviting Randall. Additionally, Randall could be less close to this person, based on him not categorizing this person under "friends".
+The final block is "automated alerts and political campaigns". Randall would certainly not be likely to initiate "conversation" with automated systems, and would be very unlikely to initiate conversations with political campaigns. The fact that the bar is not purely 100% suggests that he has on rare occasion sent the first text to such recipients, perhaps for a campaign he believes in, or to request to be added to an automated alert system (i.e. opt-in). The fact that it includes political campaigns is a reference to the incessant texts being sent to Americans about the upcoming midterms.
+In the title text, Randall wishes that he would know the percentage of "who sends the first text more often", for each person that he texts. But he is also wary of the potential implications of finding out this information. (Many old school messenger like pidgin offer such statistics through plugins though)
+Transcript[edit]
+Who sends the first text more often?
+[A line graph with a segmented bar underneath shows a 50/50 marker in the middle while the left end is labeled "I text first 100% of the time" whereas the right end is labeled "They text first 100% of the time".]
+[The bar below is divided into five sections:]
+[A small part at the left, and a next, slightly larger part. The text below points to the second part:]
+People who I think of as friends but secretly worry that they're just politely putting up with me
+[Below this a text is shown for the first part:]
+...definitely just politely putting up with me
+[In the middle is a big part:]
+Friends
+[To the right the parts are symmetric, the first is larger:]
+That really nice friend who keeps inviting me to things even though I flake constantly
+[The last small bar at the right:]
+Automated alerts and political campaigns
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This one hits home with me as I always try to balance this (I think I was taught this by my mom, consciously or not) and when the balancing fails the friendship fails too - usually painfully. --162.158.88.44 15:49, 29 October 2018 (UTC)
+I couldn't help but notice that the far-right category (automated alerts and political campaigns) has a non-zero width, occupying the approximate range of 96~100%. Could this vaguely suggest that, for some automated alerts and political campaigns, Randall sends the first text as much as 4% of the time? Manabender (talk) 16:17, 29 October 2018 (UTC)
+Maybe for political campaigns for causes he believes in, he has been known to initiate a call. I'd be inclined to believe the automated alerts are at the 100% end. -boB (talk) 17:16, 29 October 2018 (UTC)
+And he might "opt in" to an automated alert system for something he considers beneficial, like weather alerts. -boB (talk) 17:53, 29 October 2018 (UTC)
+during the Google Summer of Code 2006 one developer wrote a Contact Availability Prediction plugin for Pidgin that solve a similar problem. --valepert (talk) 19:31, 29 October 2018 (UTC)
+I find it relevant that "People I politely put up with" is not actually present on the graph, and could be a reference to how we are often more critical of how we think we're being perceived by others than we actually are, and highlights that the far left of the graph is largely imagined. 108.162.215.58 15:08, 30 October 2018 (UTC)
+The transcript lists the category labels left to right, but in the comic the leftmost category is labeled _after_ the second leftmost category. Especially because the leftmost category builds upon the label of the second leftmost, I think these two should be rearranged. 108.162.216.250 15:27, 30 October 2018 (UTC)
+I've added a phrase that it's below (not after) the second. Since I read a bar chart based on the graph I didn't change the order (meaning: I always read this "second" text first, but also recognizing that it's not the first text). If you have a better solution, feel free to change it. --Dgbrt (talk) 20:17, 30 October 2018 (UTC)
+OK, I think I've found a proper solution to change the order like probaly most people do read. Please check it. --Dgbrt (talk) 20:45, 30 October 2018 (UTC)
+"this graph shows the majority of his relationships involve friends whereby both sides are prone to initiating conversations" Where does it show this? 172.69.210.52 21:26, 14 November 2018 (UTC)
+Categories: All comicsComics from 2018Comics from OctoberMonday comicsCharts

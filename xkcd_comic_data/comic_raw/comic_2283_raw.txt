@@ -1,0 +1,87 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2283: Exa-Exabyte
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2283)
+|<< PrevComic #2283 (March 20, 2020)Next >>|
+Exa-Exabyte
+
+Title text: To picture 10^18, just picture 10^13, but then imagine you connect the left side of the 3 to close off the little bays.
+Explanation[edit]
+This comic is arguably the ninth comic in a series of comics related to the COVID-19 pandemic. This comic does not mention the disease but it does mention biology.
+This is a comic about the difficulty of picturing or understanding large numbers. As mentioned in the comic, an exabyte is 1018 bytes, while an "exa-exabyte"—not a common word, but one that abuses the principles of metric prefixes—would be 1036 bytes. 1036 is properly given the name undecillion (in short scale, and sextillion in long scale). According to a 2015 article by The New York Times, researchers estimate that there are about 5 * 1037 DNA base pairs on Earth (50 trillion trillion trillion). So Miss Lenhart's claim of 10 exa-exabytes—1 * 1037 bytes is a reasonable approximation (Fermi estimation). (The estimate was 5 plus or minus 4 * 1037. There are 4 possible base pairs, or 2 bits per pair, a byte is 8 bits.)
+These numbers are larger than most people can imagine. Even much smaller numbers such as a billion (109) or a trillion (1012) are hard to imagine. For instance:
+1 billion seconds is equal to 31.7 years; 1 trillion seconds is equal to 31,688.74 years.
+1 billion grains of rice weigh approximately 34,447 lb (15,625 kg).
+Wikipedia has an article on the exabyte and one on large numbers which describes various things close to 1018.
+TOI 700 d, a potentially habitable Earth-like exoplanet is 100 light years away, which is about 1018 meters.
+Cueball expresses his difficulty in visualizing a number even as large as one exabyte (1018 bytes).
+Megan trivializes the problem away by describing an exabyte as 10 apples, with "18 smaller apples, floating next to them and a little above", representing the notation 1018 using apples for digits. This is entirely unhelpful, as using apples in a base-1 enumeration offers no obvious advantages over base-10 in understanding exponents; Megan's bad advice and Cueball's seemingly ready acceptance of it causes Miss Lenhart to yell out "No!" in frustration.
+The title text further trivializes the problem of visualizing large numbers by suggesting that you can visualize 1018 as a number by simply visualizing the similar-looking number of 1013 with some extra lines drawn to turn the 3 into an 8. Changes in exponents can cause huge changes in the value shown, and this is no exception: Changing that 3 into an 8 changes the value by a factor of 100,000.
+Randall has previously discussed the difficulty of large numbers in 2091: Million, Billion, Trillion, 1894: Real Estate, and 558: 1000 Times.
+1605: DNA also discusses how "hard" biology is.
+Transcript[edit]
+[Miss Lenhart is holding a pointer, and is pointing it towards a blackboard behind her, while she addresses her student Cueball who is sitting on a chair at a desk to the left of her, holding his hands on his knees.]
+Miss Lenhart: Biology is hard because there's so much of it. Earth hosts about 10 exa-exabytes worth of DNA.
+[In a frame-less panel, the panel has panned to the left and is now showing Miss Lenhart holding the pointer to her side, but without the blackboard. In front of her is now both Cueball and Megan sitting at their desks. Cueball has taken one hand on to the table. Megan has both hands folded on the table in front of her.]
+Cueball: What's an exa-exabyte?
+Miss Lenhart: It's 1036 bytes.
+Cueball: How do I picture that?
+Miss Lenhart: Imagine you had an exabyte of data, but each byte contained an exabyte of data.
+[Zoom in on Cueball's head. A starburst to the right indicates Miss Lenhart's voice from off-panel.]
+Cueball: I can't even picture what an exabyte is.
+Miss Lenhart (off-panel): It's 1018 bytes.
+Cueball: But how do I picture 1018?
+[Zoomed out to showing Megan, Cueball, and Miss Lenhart along with the blackboard. Megan has raised a hand palm up. Cueball is looking back at her over his shoulders. Miss Lenhart is forming a closed first with her empty hand, the one without the pointer.]
+Megan: Imagine you had 10 apples.
+Megan: Now imagine 18 smaller apples, floating next to them and a little above.
+Cueball: Cool, got it.
+Miss Lenhart: No!
+Trivia[edit]
+In 1519: Venus, release date May 1, 2015, Miss Lenhart indicated that she was retiring as a primary or secondary school teacher in a month. Here we see Megan and Cueball, both adults, sitting in a classroom setting with Miss Lenhart providing instruction. A reasonable assumption is that Miss Lenhart has taken some form of adult education job during her retirement. For example, in the United States it is common for community colleges to use low paid adjunct professors who either have a day job or another source of income such as a teacher's pension.
+There is also a hint of irony in her having to now put up with the same type of blatantly incorrect explanations that she herself was freely giving out just prior to her retirement.
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Is this the first non-coronavirus related comic after eight in a row? -- brad
+My personal suspicion is that this one came out so late in the day because Randall was trying to think up another coronavirus-related comic so as not to break his streak :) 108.162.242.5 20:05, 20 March 2020 (UTC)
+We sure this is not covid-19 related? A comic revolving around how hard biology is doesn't seem to me like a definite chain breaker for a biology related topic. Though I'll admit its a bit of a stretch 172.69.198.58 21:14, 20 March 2020 (UTC)
+I'm pretty sure the comic is SARS-CoV-2 related. The virus genome can be found all over the internet lately, it is even used for spamming. Condor70 (talk) 21:32, 20 March 2020 (UTC)
+Did someone already modified SARS-CoV-2 to be able to infect computers as well? -- Hkmaly (talk) 23:35, 20 March 2020 (UTC)
+Hm, not that I can find... This looks like a job for xkcd readers! Somebody get right on this, please. ProphetZarquon (talk) 06:12, 21 March 2020 (UTC)
+I also immediately thought of COVID19 when he started on biology. Of course is can be dabated if this comic has nothing to do with the vira, but it is still about how much life there is and big numbers. And he amount of vira in the world is a big number... Hard to imagine, just like exponential growth is hard for humans to understand. I'd say that if the next comic on Monday is again clearly on COVID19 then the strak did not end here, just took a detour around some aspect of biology related to the problems at hand. --Kynde (talk) 16:54, 21 March 2020 (UTC)
+(...a job for xkcd readers...) I have a different idea: Rewrite the EICAR test file as an equivalently functional (R|D)NA package. Nothing can go wrong! 162.158.92.98 19:35, 21 March 2020 (UTC)
+The funny thing about the exa-exabyte calculation is that it vastly underestimates the actual information entropy of DNA. For example, it doesn't take into account epigenetic modifications (e.g. histone acetylation and DNA methylation) in eukaryotes. Interestingly, one reason why biologists can't get cloning to work is because simply copying the genome leaves behind epigenetic modifications (the "epigenome") that are critical to proper development and normally passed down through inheritance. In addition, most of the human genome doesn't even code for proteins (which is what people usually think of in terms of the information DNA encodes). Some of the genome encodes RNAs like piwi-interacting RNA, which function in RNA silencing and epigenetic effects and probably other things biologists don't even know about yet. Even weirder are transposons, which are mobile DNA sequences that jump around in the genome and can cause mutations and such. Biology is full of feedback loops, so stuff like epigenetic modification will affect the 3D structure of DNA, which can affect gene expression, which can affect epigenetic modification, and it's turtles all the way down. This is the messy schistocyte you get when evolution programs an organism's code. Simply counting DNA bases only hints at the true complexity of biology. BTW, HCoV-19 (human coronavirus 2019, another name for SARS-CoV-2 that I prefer because it avoids confusion with the 2003 SARS pandemic) happens to use RNA instead of DNA for its genome, for some reason. ¯\_(ツ)_/¯ --In vivo veritas (talk) 05:15, 22 March 2020 (UTC)
+So, is she counting all of humanity as one string of DNA data, or does each human count separately, or each cell in a human's body, or what? 162.158.74.215 21:48, 20 March 2020 (UTC)
+According to the NYT article, it was calculating "number of cells contained in each organism and multiplied that by the amount of DNA contained in each cell". 172.69.33.161 22:46, 20 March 2020 (UTC)
+So, very small part of it would be each human cell counted separately. -- Hkmaly (talk) 23:35, 20 March 2020 (UTC)
+Good lord, that's got to be 92% or more redundant data; somebody teach these folk about the wonders of compression & differential versioning databases.  ;S ProphetZarquon (talk) 06:15, 21 March 2020 (UTC)
+'This is a comic about the difficulty of picturing or understanding large numbers. As mentioned in the comic, an exabyte is 10^18 bytes, while an "exa-exabyte" -- not a real word but one that makes sense if you apply the principles of metric prefixes' One of the principles of metric prefixes (which can be found in the linked page) is 'Prefixes may not be used in combination.' So "exa-exa" does not make sense in the metric world. It only makes "sense" in the messed up world were you lbf/lbm has the value 1 instead of g.172.68.65.138 01:54, 21 March 2020 (UTC)
+I've heard the term "gigakilogram(me)" used before. Probably due to the kilo being the base SI unit, rather than the prefixless gram/gramme. Just makes that Fermiation of derived compound units easier to work with, like the Newtons arising from a 'Gkg'x'Mm'/'das'² calculation being (?check?... 9+6-(2*1)=13, IIRC) of the final order of ~10TN. That said, I'd rather have liked to have seen the units instead being double-prefixed as "Terayotta-", because it sounds like a funny version of "terracotta". Or, as yotta- is essentially teratera-, go one stage further and use terateratera-... (Or picoyottayotta-?) 162.158.92.98 19:58, 21 March 2020 (UTC)
+Most the data is redundant though. Compressed, and it definitely should be, it would take only about 2% as much space to store. Mikemk (talk) 05:32, 21 March 2020 (UTC)
+Glad somebody else already noted that.
+I think this should be noted in the explanation.
+ProphetZarquon (talk) 06:18, 21 March 2020 (UTC)
+Good point -- 10000000000000000000000000000000000000 bytes is obviously much more than 200000000000000000000000000000000000 bytes. 162.158.91.101 11:39, 23 March 2020 (UTC)
+It is worth mentioning that Randall is also mocking the education system for its lack of ability of explaining complex stuff to pupils. The teacher here is supposed to be able to provide different analogies from real life so that there is a chance of getting a feeling of the magnitude of the underlying number. Instead, she just repeats the explanation in the same mathematical terms as the original concept. That clearly doesn't help. Even worse, it prompts another student to attempt to explain it in even simpler terms but miss the point completely. The irony here is that incorrect but easy to understand explanation is accepted and not the correct one. Here it's also possible to mention similarities regarding climate change information not getting through to the general public but that would be a stretch. Also, what's the whole point of understanding these numbers if they are just a funny statistical fact? -- SomethingLike (talk) 06:15, 21 March 2020 (UTC)
+"if(`Can you picture 36?`){return `Picture a number with 36 digits.`;} 172.68.154.70 09:25, 21 March 2020 (UTC) 172.68.154.70 09:30, 21 March 2020 (UTC)
+Suppose there are 4e37 base pairs. There are four possible bases, although the pair has to match, so each pair still only encodes two bits, for a total of 8e37 bits, or 1e37 bytes. --162.158.38.66 11:07, 21 March 2020 (UTC)
+If every human that has ever lived had a life span equal to the age of the universe, and every second of every day of their lives they created a one gigabyte storage device, there would still not be enough storage space to store 10 exa-exabytes. HisHighestMinion (talk) 22:07, 21 March 2020 (UTC)
+By my calculations, if each of those 10 exa-exabytes is represented by 1 molecule of water... Then we are talking about a body of water the size of the Wachusett Reservoir. --Divad27182 (talk) 00:29, 22 March 2020 (UTC)
+Or almost exactly the amount of molecules of ammonia in the atmosphere.
+Or when stored on potential future 10 TB microSD cards, all necessary microSD cards together would require about the same volume as earth.
+It might be interesting to try and picture this number in terms of video bandwidth. HDMI requires about 128 Gbit/s for 8K video at 120 fps with 10-bit HDR [1]. That translates to 16 GB/s. 1036 bytes would therefore translate to 6.25x1026 seconds or 2x1019 years or 20,000,000 trillion years (or about 4.4 billion times the age of the earth[2]) of 8K 120 Hz HDR video. Or enough so that the entire population of the Earth (7.7 billion people[3]) could all watch separate streams at this resolution for 2.5 billion years. Still mind-bogglingly huge, but maybe something approaching comprehensibility? Shamino (talk) 03:28, 22 March 2020 (UTC)
+But that 128 gigabit per second figure is for uncompressed video, which doesn't occur in home usage. Whether by streaming, BluRay, or even imported straight from a camera head, all the video handled after export from "RAW" format is compressed, even if losslessly. The transport formats most commonly used with HDMI are compressed too, though not much. Streaming services in particular use a lot of compression (not even lossless); it could be much better compression for the same visual quality, if hardware x265 codec support were more common. A .ts stream is compressed... The list goes on. Figures given for video data rates are massively overstated in an ongoing campaign to misrepresent symptoms of error correction losses & multiple-access delays as stemming from fictitiously large payload size instead. Most users never come near the "max speeds" of any of their various connections for more than a few minutes a day, yet ISPs & hardware makers would rather upsell "faster top speed" connections than offer sane top speeds & warranty a minimum data rate. Massively overstating throughput by substituting theoretical lab peak calculations is a long standing practice spanning almost all digital industries & those absurd data rates purported from one end of the video industry to another are no exception.
+ProphetZarquon (talk) 20:24, 22 March 2020 (UTC)
+I'm going to call shenanigans on this "apples can't be exponents" in the explanation, that's inaccurate. 108.162.216.188 16:06, 24 March 2020 (UTC)
+🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏^🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏 = 1,000,000,000,000,000,000 apples. Obviously the "apples can't be exponents" statement is disproven with trivial ease. Just one problem: They're those nasty green Granny Smith apples, & those don't count. While they can be exponents they can't possibly be considered rational.
+Also, I'm very disappointed that it's been three days & no one has made a joke about the number of "base pears".
+ProphetZarquon (talk) 05:18, 25 March 2020 (UTC)
+Granny Smiths are not nasty; they're pie apples. I love apple pie. Granted, that's not a scientific judgement; pie is irrational. --Pi one (talk) 16:39, 25 March 2020 (UTC)
+Granny Smith are definitely pie apples. (Insert Family Guy - s18e01 - Yacht Rocky reference here.) Based on xkcd.com/388 Randall might disagree with us... but I'm prepared to apple fight him to the sauce over this one.
+ProphetZarquon (talk) 20:16, 17 April 2020 (UTC)
+You can picture 10^18 as a cube a million on a side
+MATHHACKED2829: Shouldn’t it be a giga-quettabyte if you’re a nerd? 172.71.254.94 18:42, 15 January 2023 (UTC)
+↑ wikipedia:HDMI#Refresh frequency limits for HDR10 video
+↑ wikipedia:Age of the Earth
+↑ wikipedia:World population
+Categories: All comicsComics from 2020Comics from MarchFriday comicsCOVID-19Comics featuring Miss LenhartComics featuring CueballComics featuring MeganBiology

@@ -1,0 +1,69 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2038: Hazard Symbol
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2038)
+"2038", this comic's number, redirects here. For the comic named "2038", see 607: 2038.
+|<< PrevComic #2038 (August 27, 2018)Next >>|
+Hazard Symbol
+
+Title text: The warning diamond on the Materials Safety Data Sheet for this stuff just has the "😰" emoji in all four fields.
+Explanation[edit]
+Hazard symbols are often required to indicate certain threats to human health. These symbols are typically black symbols on yellow backgrounds, a contrast typically associated with danger even in nature, a phenomenon known as aposematism. However, these symbols also need to be easy to interpret. Therefore, they have simple, recognizable shapes that are internationally uniform and intended to be well-understood.
+This comic inverts this latter expectation, by combining multiple hazard symbols into one, creating something that is unique, and very hard to understand. In practice, if such an object were to be labelled, the five hazard symbols would be separated, each in their own triangle.
+The hazard symbols are biohazard ☣, radiation ☢, slip and fall hazard symbol, laser hazard, and high voltage symbol ⚡︎.
+Another ridiculous aspect of this comic is how these hazards interact with each other, and their attendant risks. Radioactive waste is usually a show-stopper on its own, but bio hazards, lasers, and high-voltage situations usually scare people more than slippery floors. This is probably a joke on how some hazard symbols are worse than others. Some of these would also cancel each other out: both high voltage and lasers have a tendency to harm microorganisms that might be bio-hazards. Most radioactive substances are solid, thus they are hard to slip on. While they do form compounds which could potentially be liquid and therefore slippery, many of these would kill the pathogens. For example, Uranium hexafluoride is a powerful oxidizer that would destroy most germs.
+Biohazard and radioactivity could be combined as radioactive isotopes of Hydrogen, Carbon and Oxygen can be substituted for their stable counterparts, and high voltage electricity can be applied to anything. However laser hazard and slipping hazard seem to be mutually exclusive as the former applies to devices and the latter to substances. One possibly "solution" could be a room sized gas discharge tube filled with a radioactive biohazard that partly condenses and makes the floor slippery.
+The title text refers to another unsafe subversion of expectations, in this case, against the NFPA 704 "fire diamond". These are the colorful diamond-shaped symbols often found on the back of tankers, but they are also necessary inclusions on materials safety datasheets. These symbols give numeric indication of the hazardous nature of the material, in three different respects (flammability, health, and reactivity), in addition to providing space for an extra warning on the bottom, typically in the form of one or more letters. Using an emoji instead of numbers and letters would defeat the purpose of the fire diamond, as it would only give a qualitative indication of the danger ("very dangerous"), and additionally, could be very easily mistaken for a 0 (meaning safe).
+Note, Material Safety Data Sheets have been deprecated in favor of SDS (Safety Data Sheets) in order to come into compliance with the GHS (Globally Harmonized System).
+😰 is described by Emojipedia as "Anxious Face With Sweat". As an additional joke, using this symbol in the fire diamond could be an expression of how awful this mysterious substance is.
+Transcript[edit]
+[The comic shows symbols, drawn in black on top of a yellow background.]
+[One large symbol embeds four others and it's composed of the outline of three overlapping and outwards narrowing rings arranged by 120 degrees.]
+[The symbol at the center shows at the same orientation three blades with a small stepped circle in the middle.]
+[Inside the ring on top is a symbol of a backwards falling human with a small line depicting the ground.]
+[The ring on the right below the center contains a circle with radiant alternating smaller and longer lines around. One more longer line points toward the center of the image.]
+[Embedded into the left lower ring is a bolt with an arrow pointing left downwards.]
+[Caption below:]
+It's important to know the international warning symbol for radioactive high-voltage laser-emitting biohazards that coat the floor and make it slippery.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+When on xkcd, the emoji only shows up as an empty square. On this site, it shows up as a sigma, caputal Y with umlauts, tilde, and decree symbol. What is it actually supposed to be? Kestrel (talk) 12:46, 27 August 2018 (UTC)
+It's https://emojipedia.org/face-with-open-mouth-and-cold-sweat/ this emoji. Shows up correctly for me on the actual site on android but not on the wiki 141.101.98.28 13:04, 27 August 2018 (UTC)
+It shows up OK (Albeit small) on Mac OSX BSchildt (talk) 13:21, 27 August 2018 (UTC)
+For me (Windows, most fonts replaced with Arial) it's ok on the wiki, but on the page it's just ▯. But that might also be my font replacer messing up again, it often does that. I wonder why it doesn't happen here. Fabian42 (talk) 08:08, 28 August 2018 (UTC)
+It's showing the correct emoji on my iPad. Herobrine (talk) 10:44, 28 August 2018 (UTC)
+Ditto on my iPad, a sweating frowny face with a blue forehead (WHY blue?), funny since on an iPad I can't mouse-over on the comic site, I can only see title texts here. :) NiceGuy1 (talk) 05:16, 2 September 2018 (UTC)
+Does anyone know the source of the slippery symbol? The other symbols seem to be common to most standards, but the slippery symbol seems to have various designs. ☠☢☣⚡︎? 162.158.62.57 13:52, 27 August 2018 (UTC)
+https://www.amazon.com/NMC-FS1-Double-Sided-CAUTION/dp/B009RVF1DY <-- This one on Amazon.com seems pretty close. 172.68.58.245 14:13, 27 August 2018 (UTC)
+ISO 7010 - W011 Sebastian --172.68.110.70 14:59, 27 August 2018 (UTC)
+It's meant to represent a "wet floor" or "slippery when wet" sign. There are many versions of it, but that is the most common use of the image (at least, to my knowledge) --JayRulesXKCD what's up? 15:21, 27 August 2018 (UTC)
+I'm thinking a slimy electric eel with nuclear-powered cybernetic laser eyes...and a post-op staph infection. 172.68.90.64 17:26, 27 August 2018 (UTC) SiliconWolf
+I'm thinking Godzilla saliva. (Wikipedia: "Godzilla's signature weapon is its "atomic breath," a nuclear blast that it generates inside of its body and unleashes from its jaws in the form of a blue or red radioactive heat ray. [...] Various films, television shows, comics and games have depicted Godzilla with additional powers such as an atomic pulse, magnetism, precognition, fireballs, an electric bite, superhuman speed,[52] eye beams[53] and even flight.")--162.158.90.66 13:03, 28 August 2018 (UTC)
+The yellow colour, danger of sliping and radioactivity (previously mendtioned on xkcd) are all consistent with a banana. Could this be the secret message? I can stretch it to say that a banana left unattended might eventualy grow some biohazardous fungus. Is there anythng electrical or laser emitting about this fruit? 141.101.77.116 11:12, 28 August 2018 (UTC)
+He forgot flammable and inflammable. 108.162.216.196 20:38, 27 August 2018 (UTC)
+There is a legitimate hazard sign that combines 3 symbols. The new supplementary ionizing radiation warning symbol launched on 15 February 2007 by the International Atomic Energy Agency (IAEA) and the International Organization for Standardization (ISO). Contains radiating waves, a skull and crossbones and a running person. [1] Rtanenbaum (talk) 14:30, 28 August 2018 (UTC)
+Note: Will only replace the standard yellow radiation trefoil symbol in certain specific limited circumstances. --Dgbrt (talk) 16:45, 28 August 2018 (UTC)
+I need this on a t-shirt... 108.162.249.16 00:00, 30 August 2018 (UTC)
+Transcript
+Please just describe the image. What it is or does mean belongs to the explanation. --Dgbrt (talk) 20:24, 27 August 2018 (UTC)
+I actully preferred previous version of transcript. It did include some of explanation, but it was also more clear in describing the images. --JakubNarebski (talk) 01:55, 28 August 2018 (UTC)
+A transcript is just that. No interpretation or explanation, only the description of what is shown/written/said. Elektrizikekswerk (talk) 06:44, 28 August 2018 (UTC)
+TBH, if I were to explain the comic to someone else who hasn't seen it (in the words of the Editor FAQ), I would probably tell that there is a biohazard symbol, radioactivity symbol etc. But at least in this case, the caption below the frame clarifies the image a bit. Asdf (talk) 11:11, 28 August 2018 (UTC)
+No, just describe the content. Only mentioning that there is a biohazard symbol wouldn't be helpful because many people just don't know how it looks like. And when the image gives no hint what it is everything further belongs to the explanation. Of course common items like cars or houses can be noted but identifying those symbols here is part of the comic and shouldn't be revealed in the transcript. --Dgbrt (talk) 16:45, 28 August 2018 (UTC)
+Fair enough. I meant by my earlier comment that I wouldn't have only mentioned the names of the symbols, but their shapes as well like in the current transcript. But it's true these symbols aren't universally known. The transcript should just explain what the image contains and not what is meant by those symbols. Asdf (talk) 18:54, 28 August 2018 (UTC)
+It came to my attention 1 or 2,000 comics ago that there are blind people who follow XKCD by using this site. When I think about it, the transcript is pretty much useless for the rest of us, anybody who can see can simply look at the comic. As such, it seems like the transcript should be written directly to them, which in this case includes considering that they might not have ever SEEN a radioactive symbol or biohazard symbol or the others (like I've never seen the laser one and would certainly not know what it meant if I saw it). Though to me that also means the transcript should name them as well as describe them. NiceGuy1 (talk) 05:16, 2 September 2018 (UTC)
+The laser figure is a modified starburst. Lysdexia (talk) 21:21, 26 January 2019 (UTC)
+The NFPA or fire diamond is not required or mentioned in the MSDS files. They are used almost exclusively on buildings that store the chemical and alert firefighters to potential dangers on entry. The MSDS has its own set of hazards that I believe he is referring to in the description/title. Piza (talk) 19:36, 28 August 2018 (UTC)
+Every SDS I've seen does include the NFPA numbers, though not always arranged in the diamond graphic. Also, regarding the description: the diamonds on trucks and train cars are not NFPA diamonds; that's a completely different system used by the DOT. 108.162.212.137 01:04, 13 September 2018 (UTC)
+
+WARNING: Radioactive when wet162.158.90.66 13:47, 28 August 2018 (UTC)
+One Symbol to rule them all-- 162.158.91.221 12:15, 29 August 2018 (UTC)
+Some people on the Stack Exchange subsite Worldbuilding got curious about this and attempting to make an organism that fit this criteria. [2] The two top answers were based on a frog and a radiotroph similar to those living in Chernobyl. 162.158.63.226 20:40, 1 September 2018 (UTC)
+LOVING this concept. LOL! With the laser part my first thought goes to the Austin Powers Dr. Evil's "Sharks With Freaking Laser Beams Attached", so maybe using that as a starting point. :) NiceGuy1 (talk) 05:16, 2 September 2018 (UTC)
+these criteria Lysdexia (talk) 21:21, 26 January 2019 (UTC)
+Jokes aside, I feel like this might be a useful symbol to share around, to familiarize people with the 5 symbols. For example, this is my introduction to the laser part, and I hadn't realized what the biohazard one meant, somehow from context I had taken it for a variance on the radioactive symbol (also a warning to keep your distance, also three pronged). :) NiceGuy1 (talk) 05:16, 2 September 2018 (UTC)
+six-pronged Lysdexia (talk) 21:21, 26 January 2019 (UTC)
+Phazon from the Metroid Prime games fits everything but the "wet and slippery" part. At least, I don't remember any occurance of Phazon or Phazon entities that could be described as "damp." --172.71.151.39 08:06, 31 December 2022 (UTC)
+Categories: All comicsComics from 2018Comics from AugustMonday comicsComics with colorEmojiScience

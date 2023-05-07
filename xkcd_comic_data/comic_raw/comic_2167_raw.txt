@@ -1,0 +1,62 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2167: Motivated Reasoning Olympics
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2167)
+|<< PrevComic #2167 (June 24, 2019)Next >>|
+Motivated Reasoning Olympics
+
+Title text: [later] I can't believe how bad corruption has become, especially given that our league split off from the statewide one a month ago SPECIFICALLY to protest this kind of flagrantly biased judging.
+Explanation[edit]
+Cueball is talking to Ponytail about the trophy he won for winning the “Motivated Reasoning Olympics” (hence the title). Ponytail rightly points out that the trophy says he only got second place. Cueball then displays the "motivated reasoning" skills that won him the trophy, by claiming that the athlete who beat him cheated in an earlier round and that the judges were “certain” to disqualify him after reviewing. Here, the cognitive dissonance that should result from believing that he won first place but having a trophy that says second place is reduced by Cueball's motivated reasoning. He has developed a narrative that explains away the inconsistent fact of the label on the trophy, and thus, convinces himself that there couldn't have been any shortcoming in his own performance. These are all characteristics of motivated reasoning.
+The title text is a continuation where Cueball suggests the judges are biased in favor of the original winner, whom they approve of. He further states that this is evidence of corruption and is the reason why his league split off from the official state-sponsored league just prior to the Motivated Reasoning Olympics. Of course, motivated reasoning is an emotion-biased decision-making phenomenon, by definition, so he should expect the judging to be biased.
+Transcript[edit]
+[Cueball is holding a trophy with a 2 engraved on it, showing it off to Ponytail]
+Cueball: Check it out, I won first place at the Motivated Reasoning Olympics!
+Ponytail: That trophy says "second."
+Cueball: Well, the guy who won was caught cheating in an earlier round, so the board is almost certain to strip him of his win once they review the...
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Reminds me of the Monty Python Argument Clinic :) Hawthorn (talk) 16:50, 24 June 2019 (UTC)
+It certainly DOESN'T remind you of the Monty Python Argument Clinic, you gormless git! 162.158.214.28 17:46, 24 June 2019 (UTC)
+Yes it DOES!141.101.105.192 17:57, 24 June 2019 (UTC)
+No it doesn’t.
+You're just being contrary. 162.158.214.136 20:14, 24 June 2019 (UTC)
+No I'm not. 172.69.54.141 08:25, 25 June 2019 (UTC)
+Dinggggg...Your 5 minutes is up! Ianrbibtitlht (talk) 13:26, 25 June 2019 (UTC)
+That was never 5 minutes! -boB (talk) 13:59, 25 June 2019 (UTC)
+Quite ironic, I see...162.158.74.139 16:24, 20 November 2019 (UTC)
+16
+“Rationalizations are more important than sex. When’s the last time you went a week without a rationalization?” - Woody Allen Miamiclay (talk) 05:06, 27 June 2019 (UTC)
+... wait. that was Monty Python? I thought that was a BBC documentary... Brettpeirce (talk) 14:11, 19 December 2019 (UTC)
+Missed opportunity to refer to it as "mental gymnastics". 172.68.206.92 15:55, 2 September 2020 (UTC)
+Explain "Motivated Reasoning"?[edit]
+Shouldn't the explanation include some contextual explanation of "Motivated Reasoning" as pertaining to Cueball's behavior shown in the comic? https://en.wikipedia.org/wiki/Motivated_reasoning ProphetZarquon (talk) 20:37, 24 June 2019 (UTC)
+I added a Wikipedia link to Motivated Reasoning in the title text explanation earlier, but I'm wondering if some of that detail should be moved earlier in the explanation. Ianrbibtitlht (talk) 23:10, 24 June 2019 (UTC)
+Yeah, I'd never heard of "Motivated Reasoning" before, so came here expecting the explanation to begin "Motivated reasoning is ...", before going into the details of the comic. A lot of the text at the moment feels more like an extended transcript than an explanation (e.g. "Ponytail rightly points out that the trophy says he only got second place."). It would be great if someone who's familiar with the term could add a better summary. - (too lazy to create an account right now) 141.101.105.192 10:32, 25 June 2019 (UTC)
+Better quality images?[edit]
+This probably isn't the right place but I figured this would get the most visibility. I noticed that the image here made it really hard for me to see the "2" engraved on the trophy, but the image on xkcd.com was much clearer. Yada yada yada, turns out there's much higher quality images on xkcd.com for all comics starting with 1084, for example for this comic:
+https://imgs.xkcd.com/comics/motivated_reasoning_olympics.png is the normal image,
+https://imgs.xkcd.com/comics/motivated_reasoning_olympics_2x.png is the higher resolution image.
+Shouldn't the wiki start using the higher quality images?
+--NeatNit (talk) 17:53, 24 June 2019 (UTC)
+While there is a higher quality image available on the XKCD site, it's not the one displayed on the comic on xkcd.com. The same lower-quality image is displayed on both sites by default. Ianrbibtitlht (talk) 18:44, 24 June 2019 (UTC)
+I am seeing the higher-quality image on xkcd.com. I guess it has to do with screen DPI. The HTML on xkcd.com is:
+<img src="//imgs.xkcd.com/comics/motivated_reasoning_olympics.png" title="..." srcset="//imgs.xkcd.com/comics/motivated_reasoning_olympics_2x.png 2x"/>
+So it probably selects it automatically only when it'd be useful. This wiki doesn't, obviously, since it doesn't have the higher-quality image and, best I can tell, there doesn't seem to be a way to make a template do this.
+I'm trying to figure this out right now on User:NeatNit/Template/comic but I can't find a way to make it display an image at half of its resolution, without me knowing its resolution in advance. I also can't find any parser function that returns an image's dimensions. So annoying. --NeatNit (talk) 18:52, 24 June 2019 (UTC)
+I would expect this can't work correctly without support for srcset in mediawiki itself. -- Hkmaly (talk) 22:13, 24 June 2019 (UTC)
+Turns out MediaWiki supports srcset natively but only when an image is embedded at a smaller size, i.e. you have to upload the 2x image and embed it at half size, and let the wiki take care of everything else.
+If we want to do this we'll have to teach the bot some new tricks. I'll talk about this in User talk:DgbrtBOT. --NeatNit (talk) 13:54, 25 June 2019 (UTC)
+I have also noticed that this wiki displays lower resolution images than the official xkcd site, when viewing at high DPI. I had previously assumed it was just a moderate resolution copy chosen to conserve explainxkcd server resources. I would love to see a higher resolution when available. ProphetZarquon (talk) 20:18, 24 June 2019 (UTC)
+Olympics vs Splinter League[edit]
+I removed the newly added paragraph suggesting the competition was being held by the splinter league. The Olympics should include representation from all leagues and likely includes the best from the state-sponsored league in addition to Cueball's splinter league. Ianrbibtitlht (talk) 13:18, 25 June 2019 (UTC)
+"I mean technically it's not actually the Olympics, but when you consider..." 162.158.58.227 21:02, 25 June 2019 (UTC)
+Is this more motivated reasoning? I mean Olympics is right there in the name! How much more technical can you get than the name? However, I think what you're saying is it's not the actual Olympics, as in the one held every 4 years in the summer. Oh, and the other one held every 4 years in the winter. There's another one for physically-challenged people (like my wife) too, the Paralympics. So, I don't see any problem with treating this Olympics like all of the others. Ianrbibtitlht (talk) 06:13, 26 June 2019 (UTC)
+We only have his word for it that Olympics is in he name; that carries as much weight as his claim that his trophy is for 1st place... 172.68.46.227 17:43, 26 June 2019 (UTC)
+I definitely read this as being his splinter league's "Olympics" because he says he's surprised by the corruption. If it were held by the statewide league (or a larger one) then I'd expect the motivated reasoner to conclude that this is a case of the general corruption his splinter league was protesting. 162.158.118.80 (talk) 06:37, 26 June 2019 (UTC) (please sign your comments with ~~~~)
+(Moved unsigned comment to end of thread per suggested practice and added unsigned wikitext markup) I think he's surprised by the corruption because he expected his splinter league's protest action to improve the corruption, but he thinks the corruption has instead gotten worse rather than better. Ianrbibtitlht (talk) 14:05, 26 June 2019 (UTC)
+I also read it as being the splinter "Olympics", with the implication that similar splits had happened several times previously and are the reason why the previous league was only statewide in the first place.
+(For what it's worth, I'm used to that kind of competition being known as the such-and-such Olympiad rather than the such-and-such Olympics, as in the assorted branches of the International Science Olympiad, but I think that's just a dialectal difference.) 172.68.182.46 16:34, 26 June 2019 (UTC)
+Categories: All comicsComics from 2019Comics from JuneMonday comicsComics featuring CueballComics featuring Ponytail

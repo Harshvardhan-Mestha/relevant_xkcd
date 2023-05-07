@@ -1,0 +1,360 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2198: Throw
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2198)
+|<< PrevComic #2198 (September 3, 2019)Next >>|
+Throw
+
+Title text: The keys to successfully throwing a party are location, planning, and one of those aircraft carrier steam catapults.
+Contents [hide] 
+1 Explanation
+2 Safety Considerations
+3 Throwers and throw items
+3.1 Table of throw distances
+3.2 Table of distance units
+3.3 Data from xkcd code
+3.4 Formulas
+4 Extra pages
+5 Transcript
+6 Trivia
+6.1 Examples of distances
+7 Discussion
+7.1 Formulae incorrect ?
+7.2 Negative and malformed inputs
+7.3 Completion?
+To experience the interactivity of this game, visit the original comic.
+Explanation[edit]
+This is an interactive comic made to celebrate the release of Randall's new book, How To. The comic is based on a chapter in the book.
+As the comic celebrates the book, which was released on Tuesday, September 3rd, 2019, the comic was thus also released on a Tuesday to coincide with the release day, replacing that week's normal Wednesday release. This was the same timing used for another of Randall's book releases, when 1608: Hoverboard came out on the Tuesday when Thing Explainer came out. Although the Hoverboard comic is much more complex than this one, they are both dynamic and interactive, and include animations. Also, the xkcd Header text changed to promote the release creating a large combined promotion of the book during the three full days the comic was on the front page (see more here).
+In this comic the viewer can select a thrower and an object to be thrown, see this table, and get an animation of how the selected throw would work out, along with an estimated distance of the throw (both in the SI unit meter (m) and in other very arbitrary units; see this table below) if the throw was possible. Impossible throws include those where the thrower is not strong enough to throw the object, or when the thrower tries to throw themselves, which is possible as four "objects" are also listed as throwers, most prominently George Washington. As the picture above cannot show all the possible selections in the two windows, pictures of all possible selections can be found here
+The formula/guideline is apparently based on chapter 10 from the new How to book, see more under Formulas.
+It seemed though, that there was a special case to the calculations with Thor's hammer (Mjolnir). Because this comic obviously refers to the Thor from the Marvel universe, played by another possible thrower, Chris Hemsworth in the Marvel Cinematic Universe, and his hammer, which is enchanted such that only those deemed "worthy" are able to lift it. As such, despite its mass in principle being liftable by many of the characters, only Thor, God of Thunder (who is canonically worthy), is able to throw it. Thor is also the only one who uses furlongs to measure his distances among the standard throwers. However, it is not a canonical part of this comic that only he can throw it, and its mass is not realistic, see more below.
+Originally, when the comic was just released, there where only 7 throwers and 15 things to throw, giving a total of 105 different combinations; see the table below. But only Thor can throw all 15, with three of the objects (George Washington, Thor's hammer, and the car) unthrowable by any of the other throwers. The smaller critters can throw only a few things, so the total number of throws is much less than 105. Still, there is an animation for all 105 combinations, but with no throw distance for many of these.
+But already on day one the comic was out, a new thrower was added with the standard name "You", and this person, Knit Cap, was also added to the objects that can be thrown increasing the number of throwers to 8 and objects to be thrown to 16. However, it would not be true to say that the number of options now would be 8 x 16 = 128, since the "You" can be customized when selecting it in the throwers menu (but not when selecting You in the object menu). When doing so a new window called Custom thrower will open up over the comic. The "You" option can then be customized by changing the name (from the default "You"), and defining the height (default 5.8 ft = 1.77 m) and weight (default 160 lb = 72.57 kg), where ft (feet) can be changed to m (meter) and lb (pound) can be changed to kg (kilograms). But when doing so the window will not correct the number from feet to meter etc. but stay the same.
+Below the above options there is line with four persons above it, defining a scale of athleticism, the default second option being the drawing of "you" which represents Decent form (i.e. a normal person). The first on the scale is Black Hat, who thinks moving things is for suckers, thus representing minimal athleticism. "You" in second position is in decent shape and pretty good form, representing decent athleticism. George Washington in third position represents extremely high athleticism, and as he states he threw so well they made him President. Finally the fourth position, representing a champion athlete, shows a person with a helmet with chin strap and goggles who states that he trains 36 hours a day by using a time machine. It is thus indicated that such athletes can only be so good by training more than is possible; for instance, if he travels 24 hours back every day, he could use 12 more of these to practice, making it 36 hours on that "normal day" and he would then still have 12 hours to eat and sleep/restitution before his next 36 hours training pass.
+Changing away from the decent "You" to one of the other three characters on the athleticism scale does not, however, change the character used for the animation, which stays the same. But still this gives a very large number of different "yous" to both throw and be thrown.
+A self-created character, unrealistically tall and heavy well over the human records for height (272 cm) and/or weight (635 kg), can actually be able to throw Thor's hammer (For instance 4m and 1000 kg, see more here. So it is not because it is magically inclined to only be thrown by Thor, it is just that the weight is set to 2000 kg, and only Thor of the standard characters have the strength (1000 times normal human strength) to throw such a heavy object. But if the "You" is big enough, the athletic difference with Thor will be compensated by sheer weight and height. See this table of data from the comic for the above numbers.
+Interestingly, Thor can throw a squirrel 257 meters. If a Custom Thrower is created, and they are 200 meters tall and 150 KG, they can throw the squirrel 256 meters (1 meter less than Thor). Thor can throw an acorn 136 meters, and the Custom Thrower will throw it 133 meters. Now, Thor can throw Thor's Hammer 19 meters. The Custom Thrower can throw it 44 meters! Apparently there is more to the enchantment of Thor's Hammer than meets the eye, as it would have been expected that if Thor can throw a squirrel and an acorn farther than an extraordinary human, then certainly he could throw his own enchanted Hammer a longer distance. This is, of course, because the Custom Thrower now throws from much higher than Thor. As to why the height doesn't affect the acorn or squirrel throwing distance in the same way it does Thor's Hammer, we'll leave that to you, the reader.
+The title text refers to throwing a party (a colloquial synonym of hosting a party) and first makes the assumption of actually giving hints for giving a party, and then switches to suggest a mechanism to literally throw a huge object, such as a house with a party going on inside. An aircraft steam catapult is a mechanism to launch aircraft from ships, typically used on aircraft carriers.
+Safety Considerations[edit]
+Many of the items, even if technically possible to throw, may not be able to be thrown safely.
+For example:
+Depending on how the microwave oven is damaged when it hits the ground, it may still be able to appear to function, but no longer seal properly, and therefore leak dangerously high amounts of microwave radiation.
+Blenders have blades and glass. Even if no one is struck by the flying blender, the broken pieces would be hazardous later if they are not properly disposed of.
+Cars have gasoline and battery acid which may spill if one is thrown.
+A squirrel might bite the person attempting to throw it, which is dangerous as some squirrels have rabies.
+Pikachu could shock (possibly fatally) someone trying to throw it.
+If a person is thrown, that person may be badly injured. If you throw people without consent they might punch you.
+Throwers and throw items[edit]
+Here is a table with first the throwers and then the objects to be thrown.
+George Washington, Pikachu, and the squirrel are both throwers and throwable objects, as are the costumed option "You".
+For these four this is noted in the explanation. The "You" is also the first object, Washington and Pikachu is no. 11-12 and the Squirrel is also the last object (no. 16) in the object list.
+Image Name Explanation
+You Can also be thrown. The viewer may also choose to create a custom thrower, for instance, themself, inputting a name, height, weight, and general level of athleticism, as measured on a scale from "Black Hat" to "championship athlete" (a swimmer is pictured). The custom thrower is also selectable as a throwing item, presumably to provide more variety compared to the fixed values of George Washington.
+George Washington Can also be thrown. The first president of the United States of America. There is a myth that a young George Washington threw a silver dollar across the Potomac River, which is more than a mile wide for much of its length; or alternatively that he would throw rocks across the Rappahannock River, which was about 300 feet wide near George's boyhood home. http://kenmore.org/education/kidstuff/legends.html. He is also used as a throwing item to represent the likelihood of a thrower distance with an average human as the projectile. George Washington is shown as a very powerful thrower; the comic makes fun of the flagrant embellishment of Washington's life.
+An NFL quarterback A quarterback in the National Football League is a highly athletic individual. Gridiron football is a full-contact sport that requires durability, speed, and precision. One of the primary skills required of quarterbacks is to be able to throw the football far with precise accuracy.
+Pikachu Can also be thrown. Pikachu is a species of Pokémon and the mascot of the Pokémon franchise as a whole. Although Pikachu are not normally shown to throw things, the Super Smash Bros series shows they are perfectly capable of picking things up that do not significantly out-size them. That said, Pikachu is capable of throwing a wide variety of objects through the move Fling, which allows the user to deal damage by throwing its held item (and, incidentally, a Fling TM). Its presence as a throwing item appears to reference the most recently released Pokémon games as of the comic's release, Pokémon Let's Go Pikachu and Pokémon Let's Go Eevee, where the partner Pokémon of the respective title is not kept in a Poké Ball but thrown into battle when deployed.
+According to Pokédex entries throughout the series, the average Pikachu is 1'04" (0.4m) tall and weighs 13.2 lbs (6kg). Randall appears to have done his research, as a custom thrower with these stats and default athleticism will have near-identical results to Pikachu for both thrower and thrown item.
+Carly Rae Jepsen A Canadian music artist with marginal throwing ability.
+Thor Thor is the god of thunder in Norse mythology, wielding a hammer that returns to its wielder when thrown. He is also featured in Marvel comics and is portrayed by Chris Hemsworth (listed below) in the Marvel Cinematic Universe series of films. Thor was previously referenced in 2097: Thor Tools.
+Chris Hemsworth An Australian film actor, best known for his role as Thor in the Marvel Cinematic Universe.
+A squirrel Can also be thrown. A small mammal of the family Sciuradae, known for hoarding acorns. Squirrels have been a recurring topic on xkcd and have been used in What if? in lieu of a subject that Randall really doesn't want to draw. Due to their small size, a squirrel is also selectable as a throwing item.
+A microwave oven A common household appliance in most American homes, used to heat or reheat food for consumption.
+A basketball An inflated sphere used as a projectile in the sport of the same name.
+A blender A common household appliance in most American homes, used to shred food or ingredients into slush for consumption or baking.
+A gold bar The form in which gold is cast for storage.
+A wedding cake Traditionally a layer cake used for wedding receptions with copious amounts of frosting and figurines of the bride and groom standing upon the top layer. The figurines appear to have been removed before the cake is thrown, as they are before the cake is cut and served.
+A ping pong ball A small plastic sphere designed to bounce, used as a projectile in the sport of table tennis or "ping pong". Notably the ball is much more difficult to throw than the acorn, as its larger size yet much lighter weight causes it to lose more momentum due to air resistance.
+An acorn A small nut which grows on oak trees and often serves as a squirrel's primary form of nourishment.
+Thor's hammer Mjolnir, an enchanted hammer in the Marvel universe which belongs to Thor from Marvels comics and can only be lifted by those deemed worthy. It is based on Mjölnir the hammer of Norse God Thor, God of Thunder. In this comic, though, it appears that Mjolnir is just incredibly heavy, and Thor is able to throw it because he is very strong. The custom thrower is also able to throw it if their size and strength are set high enough. Setting aside this customization, Thor is the only standard thrower to be able to throw Thor's hammer. In the movies based on the Marvel universe, Thor is played by Chris Hemsworth, who is also one of the throwers, but in real life, he would of course not be able to throw such a weighty hammer.
+A javelin An aerodynamic item like a spear thrown in Olympic sport.
+A silver dollar spinning A silver coin representing one (1) US dollar in value, as would have been common when George Washington was president. The coin is given two trajectories to choose from when thrown; Here spinning, as one would properly throw a discus.
+A silver dollar tumbling The coin's other possible trajectory, tumbling, as might result from flipping a coin to make a decision. The spinning coin always goes farther than the tumbling one, since facing the air edge-on leads to a smaller area facing the wind and therefore less air resistance.
+A car The most common form of long-distance transport in several well-developed countries.
+Table of throw distances[edit]
+Item / Thrower NFL Quarterback George Washington Pikachu Carly Rae Jepsen Thor Chris Hemsworth Squirrel
+Microwave oven 10.32 m 7.76 m N/A 3.67 m 181.57 m 6.15 m N/A
+33.85 feet 25.46 feet N/A 82.65 rack units 1.99 football fields 138.40 rack units N/A
+Basketball 40.18 m 33.22 m 2.34 m 19.11 m 113.67 m 27.99 m N/A
+16.74 horses 19.54 smoots 75.90 attoparsecs 11.24 smoots 1.42 Manhattan blocks 16.46 smoots N/A
+Blender 16.58 m 12.45 m N/A 5.89 m 333.25 m 9.86 m N/A
+9.75 smoots 40.85 feet N/A 132.51 rack units 1.66 furlongs 32.34 feet N/A
+Gold bar 9.73 m 7.23 m N/A 3.36 m 549.28 m 5.69 m N/A
+31.93 feet 23.73 feet N/A 75.65 rack units 2.73 furlongs 128.11 rack units N/A
+Wedding cake 8.96 m 6.75 m N/A 3.2 m 146.25 m 5.35 m N/A
+29.40 feet 22.14 feet N/A 72.00 rack units 1.60 football fields 120.45 rack units N/A
+Ping-pong ball 11.8 m 11.63 m 9.28 m 11.25 m 12.53 m 11.41 m 4.95 m
+38.72 feet 38.17 feet 30.46 feet 36.92 feet 41.10 feet 37.44 feet 111.37 rack units
+Acorn 83.00 m 75.84 m 28.16 m 62.85 m 135.98 m 67.91 m 6.53 m
+1.04 Manhattan blocks 0.95 Manhattan blocks 16.57 smoots 26.19 horses 1.49 football fields 28.30 horses 146.85 rack units
+Thor's Hammer N/A N/A N/A N/A 19.32 m N/A N/A
+N/A N/A N/A N/A 11.36 smoots N/A N/A
+Javelin 56.10 m 42.04 m N/A 20.12 m 3028.75 m 33.09 m N/A
+23.37 horses 17.51 horses N/A 11.84 smoots 15.06 furlongs 19.46 smoots N/A
+George Washington N/A N/A N/A N/A 136.65 m N/A N/A
+N/A N/A N/A N/A 1.49 football fields N/A N/A
+Pikachu 15.22 m 11.41 N/A 5.39 m 332.52 m 9.03 m N/A
+49.94 feet 37.45 feet N/A 121.18 rack units 1.65 furlongs 29.63 feet N/A
+Car N/A N/A N/A N/A 27.22 m N/A N/A
+N/A N/A N/A N/A 16.01 smoots N/A N/A
+Spinning dollar 177.09 m 143.96 m 16.91 92.63 m 1331.21 m 115.89 m 2.20 m
+1.94 football fields 1.57 football fields 9.95 smoots 1.16 Manhattan blocks 6.53 furlongs 1.45 Manhattan blocks 71.41 attoparsecs
+Tumbling dollar 58.17 m 53.77 m 13.92 m 44.08 m 84.82 m 49.03 m 2.14 m
+24.24 horses 22.41 horses 45.67 feet 18.37 horses 1.06 Manhattan blocks 20.43 horses 69.42 attoparsecs
+Squirrel 58.64 m 46.92 m 2.92 m 25.44 m 256.54 m 38.50 m N/A
+24.43 horses 19.55 horses 65.71 rack units 14.97 smoots 1.28 furlongs 16.04 horses N/A
+Table of distance units[edit]
+This is a table of the alternative distance units shown and their lengths in meters.
+Three of the units shown here are listed in the Wikipedia articles List of humorous units of measurement
+Five the units shown here are listed in the Wikipedia article List of unusual units of measurement.
+Only furlong and foot/feet are not in any of the lists (although a different type of feet is in the last list).
+There are ten alternative units in the source code for the comic. However, the wiffle unit cannot be used, and the light-nanosecond unit is inaccessible except by customization.
+Two of the units are off by an order of magnitude.
+Unit name Length in comic
+in meters Explanation
+Wiffles 0.0089 A Wiffle, also referred to as a WAM for Wiffle (ball) Assisted Measurement, is equal to a sphere 0.089 m (3.5 inches) in diameter – the size of a Wiffle ball, a perforated, light-weight plastic ball frequently used by marine biologists as a size reference in photos to measure corals and other objects. Randall is thus a factor 10 off. While wiffles should be the next unit after rack-units and before feet, the unit conversion typo seems to prevent it from being accessible by any thrower-object combination, as it is now even smaller than the wrong measure for light-nanoseconds. Wiffles have thus only been discovered in the data of the comic, as it seems to be impossible to get it displayed in the comic itself.
+Light-nanoseconds 0.0299 The light-nanosecond was popularized by Grace Hopper, referring to the length light could travel in a nanosecond. The actual length of a light-nanosecond is 0.299 m, about a foot long, but it seems that Randall was off by an order of magnitude. This measurement is used for lengths from 1 to 1.06 m, but none of the standard throwers or objects can be thrown for this short a distance, so it is not included in the table above. But with the custom user it is possible to get down to 1 m where it will then be used, but of course, since it says 33 light-nanoseconds instead of 3 it is wrong. See some examples here.
+Attoparsecs 0.03086 The parsec is a unit of length used to measure large distances to astronomical objects outside the Solar System. A parsec is defined as the distance at which one astronomical unit subtends an angle of one arcsecond. One parsec is equal to about 3.26 light-years or 31 trillion kilometers (31×1012 km) or 19 trillion miles (19×1012 mi). Atto- is a unit prefix in the metric system denoting a factor of 10−18 or 0.000000000000000001. Together the two-unit exponents will almost cancel out, as 31 trillion kilometers can be written as 3.1×1018cm, meaning that an attoparsec is 3.1 cm. The unit is only used three times in non-customized settings: once for Pikachu and twice for the squirrel. This measurement is used for lengths from 1.06 to 2.69 meters. See example here.
+Rack units 0.0445 A Rack unit (abbreviated U or RU) is a unit of measure defined as 1 3⁄4 inches (44.45 mm). Mainly used to measure the overall height of the likes of 19-inch rack frames or the equipment put in there. It is used for lengths from 2.69 to 6.67 meters.
+Feet 0.3048 One foot is defined as 0.3048 meters. In customary and imperial units, the foot comprises 12 inches and three feet compose a yard. This measurement is used for lengths from 6.67 to 16 meters.
+Smoots 1.7000 The Smoot is a nonstandard, humorous unit of length created as part of an MIT fraternity prank. One smoot is equal to Oliver Smoot's height at the time of the prank, 5 feet 7 inches (1.70 m). Mr. Smoot was used to measure the length of the Harvard Bridge (connecting Boston and Cambridge) by being repeatedly laid down along the length of the bridge; the markings indicating distances in smoots along the bridge have been maintained by the fraternity. This measurement is used for lengths from 16 to 36 meters. While the smoot is a nonstandard unit of length, Oliver Smoot has been chairman of the American National Standards Institute (ANSI) and President of the International Organization for Standardization (ISO). ANSI and ISO are among the world's main standardizing bodies, so Randall may indirectly be making the pun that while Smoot's body isn't a standard measure, Smoot has been in charge of bodies that standardize measurements.
+Horses 2.4 The length of a horse varies a lot with the horse type, breed, age, and genes. In the Wikipedia article on horses, the length of a horse is not even mentioned, only the height and weight. But Randall has used horses for measurements before. A horse length is approximately 8 feet (2.4 m). This measurement is used for lengths from 36 to 75 meters.
+Manhattan blocks 80.0 The numbered streets in Manhattan run east-west and are generally 60 feet (18 m) wide, with about 200 feet (61 m) between each pair of streets. With each combined street and block adding up to about 260 feet (79 m), there are almost exactly 20 blocks per mile. The typical block in Manhattan is 250 by 600 feet (76 by 183 m). When driving in a grid-like city, the Manhattan distance between two points is a concept, although it is also called Taxicab geometry. It seems like it is indeed the combined street and block distance. This measurement is used for lengths from 75 to 131 meters.
+Football fields 91.44/109.728 A football field in the comic is 100 yards or 91.44 m long. An American football field is 100 yards between the end zone although by including those it is actually 120 yards or 109.728 m. Although it is an American comic, it doesn't state that it is an American Football field. A Football pitch in Association football (Soccer) is also often used, and although the length of those varies the usual size for champions league matches is 105 m. This measurement is used for lengths from 131 to 201 meters.
+Furlongs 201.168 A furlong is a measure of distance in imperial units and U.S. customary units equal to one-eighth of a mile. It is part of the FFF_units of the FFF system for furlong/firkin/fortnight, length, mass and time. One furlong should therefore be 201.168 meters, though the United States does not uniformly use this conversion ratio. Older ratios are in use for surveying purposes in some states. Only Thor's distances are given in furlongs. This measurement is used for lengths of 201 meters (1 furlong) and up. For the standard throwers and items only Thor can throw over 200 m, thus only he uses Furlongs to measure his throws. Given that this is an old unit, and Thor is based on ancient Nordic Mythology, this may seem appropriate.
+
+Data from xkcd code[edit]
+A user got this data from the code (and added it to the comments).
+But it makes sense to include here:
+From this it can be seen that:
+Thor's Hammer is not special, just very heavy, 2000 kg despite being rather small.
+Thor has the same stats as Chris, except he has 1000 times more Throw power (10,000 vs 10).
+The customizable You can have Throw power of 5, 10, 15 and 20, and weight and height can be set along with the name.
+The diameter is calculated from the formula given, so in the standard setting it is about 0.5 m.
+id name canThrow canBeThrown length (m) diameter (m) mass (kg) dragC throwPower
+microwave A microwave oven false true 0.406 0.406 10.591 0.8
+basketball a basketball false true 0.243 0.243 0.624 0.3
+blender a blender false true 0.203 0.203 5.216 0.8
+gold_bar a gold bar false true 0.0535 0.0535 12.4 0.8
+cake a wedding cake false true 0.51 0.51 13 0.8
+pingpong a ping pong ball false true 0.04 0.04 0.003 0.5
+quarterback an NFL quarterback true false 1.905 0.584 102.058 0.6 20
+acorn an acorn false true 0.0191 0.0191 0.0045 0.3
+hammer thor's hammer false true 0.5 0.15 2000 0.4
+javelin a javelin false true 1.8 0.0254 0.8 0.1
+george George Washington true true 1.829 0.562 90.718 0.6 15
+pikachu Pikachu true true 0.4 0.3 5.9874 0.4 10
+car A car false true 4.5 2.134 1179.34 0.25
+silver_spin a silver dollar (spinning) false true 0.04 0.011 0.027 0.5
+silver_tumble a silver dollar (tumbling) false true 0.04 0.04 0.027 0.66
+carly Carly Rae Jepsen true false 1.575 0.46 49.895 0.6 10
+thor thor, god of thunder true false 1.91 0.59 91 0.6 10000
+chris hemsworth chris hemsworth true false 1.91 0.59 91 0.6 10
+squirrel A squirrel true true 0.203 0.096 0.454 0.6 10
+you (can change) You true true 1.77 (mass^(1/3))/8 72.5 0.6 10
+Formulas[edit]
+Constants and Units:
+g is the gravitational acceleration (on earth)
+1.2041 kg/m³ is the density of air at sea level
+A (in m/s) is the calculated throw speed regardless of direction, if you assume constant throw power over time in Watts and the body length as acceleration distance (arm has half the body length and goes from back to front) from 0 m/s to the final speed
+B is the possible throw speed, which still does not air brake the object too much. If the object is thrown at that speed, i.e. A = B, the distance is reduced to 58,7%. B is only dependent on the object. If B was set to infinite, the air resistance would be removed from the formulas.
+throwPower is in m²/s³, or equivalently W/kg (Watts per body mass)
+dragC is without unit and signifies the air resistance of the object and is dependent on the shape
+Extra pages[edit]
+As this comic is very complicated several screen shots and tables are needed for the full explanation. In order to keep this main page easy to use, these pictures and possibly some of the tables will be placed on some extra pages, as has also been done with other complex comics in the past:
+2198: Throw/Screen-shots
+Transcript[edit]
+[As this is an interactive comic, not all possible text should be given in this transcript. Also, it is not possible to see all the different throwers or objects in one image. This transcript here includes the text that can be found when loading the page, without changing the thrower or object (the default), but also includes the text that can be found by scrolling in the two select "windows" as that would be similar to a long comic where you need to scroll as well as customization options. For further differences that occur by changing the objects refer to a table of all combinations.]
+[A heading with a subheading is above a line, beneath which are a sentence, that is generated by the selections in the two windows beneath this sentence:]
+Throw Calculator
+This calculator implements the approximate throwing distance estimation model from How To Chapter 10: How to throw things.
+How far could George Washington throw a Microwave oven?
+[Beneath this sentence are two "windows" with a frame around them, one to the left and one to the right, each with a heading breaking the top frame. Each also has a scroll bar to the right, which allows one to scroll down through 8 different possible selections in the left window and 16 in the right window. There are, depending on the browser zoom level, one or two selections on each line. Each window's content is given here under their respective headings. Each possible selection is a drawing with a caption beneath it.]
+Select a thrower
+You
+An NFL Quarterback
+George Washington
+Pikachu
+Carly Rae Jepsen
+Thor, God of Thunder
+Chris Hemsworth
+A squirrel
+Select an object to be thrown
+You
+A microwave oven
+A basketball
+A blender
+A gold bar
+A wedding cake
+A ping-pong ball
+An acorn
+Thor's Hammer
+A javelin
+George Washington
+Pikachu
+A car
+A silver dollar (spinning)
+A silver dollar (tumbling)
+A squirrel
+[Below the two windows is the result of the animation that will happen when a selection has been made. An animation of the selected thrower throwing (or failing to throw) the selected object is shown, and the object's traveling distance is measured out both in meters (SI units) and in some other unit in brackets below. If the distance is not too long compared to the size of the object and thrower, then both can be seen, and in case the object is soft it may break from the throw.]
+[In the pre-selected version, George Washington throws a microwave oven, which ends up several meters from him lying on a corner broken with its wire lying beneath it. The distance is given under the ruler along which the throw has occurred, with markings for approximately every meter. In this case, there are seven steps even though the distance is above 7 meters:]
+7.76 meters
+(25.46 feet)
+[Clicking on "You" in the thrower box opens a new window over the above described comic parts. some of the comic can still be seen including the thrower and his item, and a new throw occurs every time something is changed in this new window. It is a customization box with several options shown below.]
+Your Name
+____You_____ [can be changed]
+Height
+5.8 ft [number can be changed; ft can be changed to m]
+Mass
+160 lb [number can be changed; lb can be changed to kg]
+Athleticism
+[Below is a scale showing Black Hat, Knit Cap depicting You , George Washington, and a person with goggles and a helmet. A marker is set at You, but can be changed. Below the characters are descriptions.]
+Black Hat: Moving objects around is for suckers.
+Minimal
+You: I'm in decent shape and have pretty good form.
+Decent
+George Washington: I'm so good at throwing they made me president.
+Extremely High
+Goggles: I use a time machine to train for 36 hours a day.
+Champion Athlete
+[Once done the box can be clicking on a cross at the top right or just clicking outside the window on the comic behind it. Now the thrower you (and the object you) will have the weight, length and strength chosen and will be able to throw (or be thrown) with these stats. ]
+Trivia[edit]
+The comic refers to Thor as the character from the Marvel comics and movies (and other media), who is himself a reference to the ancient Norse god. In Marvel Cinematic Universe movies, Thor is played by Chris Hemsworth.
+Thor's hammer, Mjölnir, bears an enchantment that prevents any living being from lifting it unless they are "worthy." This is reflected in the simulation by giving Mjölnir a mass of 2,000 kg.
+In-universe, Thor's hammer weighs 42.3 pounds.
+The option to customize your own character was added to the comic later.
+Due to a bug, the calculations for the customized person ('you') are incorrect when the mass is specified in pounds
+When the comic came out there was a mistake so the item to be thrown was named the same as the thrower, except for the coins and for when Pikachu and George Washington tried to throw themselves in which case it for instance said:
+How far could George Washington throw himself?
+But if he picked another object it would write:
+How far could George Washington throw George Washington?
+See more examples here
+Examples of distances[edit]
+The maximum distance of any throw is 743079 m, which Thor's Hammer can be thrown by a customized you that is high enough. If the height is large enough the mass can be the minimum 1 kg.
+See details here.
+However the comic asks the user to not use height over 100 m and mass over 1000 kg.
+See details here.
+A one foot tall Champion Athlete You with a mass of over 524,644.3 pounds can throw the car 44 feet. In fact, the mass can be defined to 70 or more decimal places, with each incremental change allowing You to throw the car 44 feet, as long as the addition is sufficient
+Tester used trial and error and became bored after inputting the mass below:
+524,664.3134471218218095600605010996328125000000000000000000000000000000000001
+A one pound Champion Athlete You with a height of 480,651 feet, 1 and 9/64th inches can also throw the car 44 feet
+Subtracting 1/64th of an inch prevents the Champion Athlete You from throwing the car
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I created this page as it seem DgbrtBOT fails because it is interactive. So far it still won't shown on the front page or with a button to it from the previous comic or the "newest" comic button. Maybe it just takes some time? It is now in the List_of_all_comics but still no luck getting it to work... --Kynde (talk) 07:58, 3 September 2019 (UTC)
+Maybe it is because it was published on a tuesday? --Lupo (talk) 08:16, 3 September 2019 (UTC)
+No it is not unusual that a comic does not come out on MWF. For instance the Sunday comic recently. Here is the list of Tuesday comics: Category:Tuesday_comics--Kynde (talk) 13:29, 3 September 2019 (UTC)
+Also it doesn't display my comment below the explanation. Something is very broken here...--Lupo (talk) 08:25, 3 September 2019 (UTC)
+It appears now. PkmnQ (talk) 08:53, 3 September 2019 (UTC)
+How did he get an estimate for Carly Rae Jepson, anyway? 162.158.255.34 09:52, 3 September 2019 (UTC)
+https://www.youtube.com/watch?v=AgwAywJlo1M 172.68.142.221 09:55, 3 September 2019 (UTC)
+Alternatively he could have worked together with her, as with Serena Williams. I will look it up in the afternoon, when I have my preordered book :) --Lupo (talk) 10:22, 3 September 2019 (UTC)
+By the transitive property of Worthiness, if Capt America can throw Thor's Hammer, surely George Washington is Worthy! 172.69.68.141 (talk) (please sign your comments with ~~~~)
+I got this data from the code:
+id name canThrow canBeThrown length diameter mass dragC throwPower
+microwave A microwave oven false true 0.406 0.406 10.591 0.8
+basketball a basketball false true 0.243 0.243 0.624 0.3
+blender a blender false true 0.203 0.203 5.216 0.8
+gold_bar a gold bar false true 0.0535 0.0535 12.4 0.8
+cake a wedding cake false true 0.51 0.51 13 0.8
+pingpong a ping pong ball false true 0.04 0.04 0.003 0.5
+quarterback an NFL quarterback true false 1.905 0.584 102.058 0.6 20
+acorn an acorn false true 0.0191 0.0191 0.0045 0.3
+hammer thor's hammer false true 0.5 0.15 2000 0.4
+javelin a javelin false true 1.8 0.0254 0.8 0.1
+george George Washington true true 1.829 0.562 90.718 0.6 15
+pikachu Pikachu true true 0.4 0.3 5.9874 0.4 10
+car A car false true 4.5 2.134 1179.34 0.25
+silver_spin a silver dollar (spinning) false true 0.04 0.011 0.027 0.5
+silver_tumble a silver dollar (tumbling) false true 0.04 0.04 0.027 0.66
+carly Carly Rae Jepsen true false 1.575 0.46 49.895 0.6 10
+thor thor, god of thunder true false 1.91 0.59 91 0.6 10000
+chris hemsworth chris hemsworth true false 1.91 0.59 91 0.6 10
+squirrel A squirrel true true 0.203 0.096 0.454 0.6 10
+(Sorry if this table messes the talk page.)162.158.78.136 13:51, 3 September 2019 (UTC)
+Nah its great. Not sure how to use it in the explanation yet, but guess it will go in there somehow later.--Kynde (talk) 14:28, 3 September 2019 (UTC)
+id name canThrow canBeThrown length diameter mass dragC throwPower
+you (mass^(1/3))/8 0.6 5/10/15/20
+Sebastian --172.68.110.64 09:17, 4 September 2019 (UTC)
+The comic looks different on my screen, not displaying multiple possible selections next to each other, but all below each other. Quite dynamic... --Lupo (talk) 14:26, 3 September 2019 (UTC)
+If I zoom out I can make it shown only one item each line, but if I zoom in two is maximum. But it should go in the explanation when we get there.--Kynde (talk) 14:28, 3 September 2019 (UTC)
+The suggestion to litteraly throw a party in the air could be a reference to The Hitchhiker's Guide To The Galaxy in which there is a flying building with a party in it, and there's even Thor partying in it when the protagonists are coming there. --Roger 15:12, 3 September 2019 (UTC)
+Any reason why George Washington has 50% more throw power than Christ Hemsworth? Some reference? ~TK
+Interesting, there appears to be additional units of measurement in the source code that were not used in the comic: "wiffles" and "light-nanoseconds" 108.162.241.52 16:52, 3 September 2019 (UTC)
+I'm going to try to add those to the table; I know where nano-light seconds are, but could you give an example length that's converted to wiffles? --Account (talk) 16:41, 4 September 2019 (UTC)
+Pulled unit data from the code:
+id plural name conversion
+meter meters meters:1
+foot feet meters:.3048
+furlong furlongs meters:201.168
+attoparsec attoparsecs meters:.03086
+smoot smoots meters:1.7
+wiffle wiffles meters:.0089
+football_field football fields meters:91.44
+rack_unit rack units meters:.04445
+horse horses meters:2.4
+manhattan_block manhattan blocks meters:80
+light_nanosecond light-nanoseconds meters:.03
+kilogram kilograms kg:1
+pound pounds kg:.453592
+N.B. Conversion for "wiffles" is off by a factor of ten (i.e. should be .089 rather than .0089). While wiffles should be the next unit above rack-units and below feet, the unit conversion typo prevents it from being accessible by any thrower-object combination, as far as I can tell. OneHunted (talk) 02:57, 5 September 2019 (UTC)
+Does it seem... excessive to anyone else that the NFL quarterback can throw a silver dollar almost two football fields?172.68.142.161 17:08, 3 September 2019 (UTC)
+The explanation for Manhattan block conversion appears to be wrong. They mention that their calculation for how large one block is was made with 4 numbers ignoring George Washington as an outlier. However there are 6 total examples of Manhattan block to use and George Washington's is not an outlier. I calculated the mean with all of the data to be 79.9142 meters.--Szeth (talk) 17:12, 3 September 2019 (UTC)
+We need a table with a brief description of each thrower. DKMell (talk) 17:14, 3 September 2019 (UTC)
+How do we know how old George Washington was when he throws a squirrel? Speaking of age, this format kind of reminds me of the Magnus comic: https://www.explainxkcd.com/wiki/index.php/1628:_Magnus 108.162.241.52 17:41, 3 September 2019 (UTC)
+I think we need to add something about the myth that George Washington threw a silver dollar across the Potomac River 108.162.241.40 19:42, 3 September 2019 (UTC)
+I agree it adds to the appreciation of the humor and have added that myth to the explanation. I have also added the fact that football quarterbacks are specialists at throwing the ball. Rtanenbaum (talk) 13:55, 4 September 2019 (UTC)
+might be worth noting that, as this incident susposedly occured when Washington was a young man, he would not have thrown a US silver dollar. The coin would have been a Mexican Peso (a Spanish 8 Reales coin, aka "piece of eight").
+Pretty sure that the ping-pong ball distances are severely overestimated due to air resistance slowing them very rapidly. Someone with lab facilities might want to check... --Marcus Rowland (talk) 19:49, 3 September 2019 (UTC)
+Sorry, never mind, I think I saw a very early version of the actual page that had the distances much greater - seems reasonable now. --Marcus Rowland (talk) 19:53, 3 September 2019 (UTC)
+The buttons look to be failing simply because Template:LATESTCOMIC hasn't been updated with the lastest comic number - the page is protected so needs someone with higher powers than I. Dresken (talk) 19:59, 3 September 2019 (UTC) 'Worthiness' was only a thing in the comics. In the myths Thor had a belt of strength and a couple other things. --172.69.33.125 21:35, 3 September 2019 (UTC)
+Unless I am missing something there is a unit conversion error for pound and kilogram. For instance if you enter 1.83m and 90.7kg for "YOU" the throw distance by Thor is 137m. However, if you enter the equivalent weight of 200lb you get a throw distance of 183m.172.68.206.28 23:20, 3 September 2019 (UTC)
+That is correct! The mass gets converted twice from pounds to kg. The intermediate mass (after one conversion, i.e. the correct mass) is used for deducing the diameter - so the same results cannot be easily obtained. Clearly a bug! Sebastian --172.68.110.82 13:47, 4 September 2019 (UTC)
+"An American football field (where Randall comes from) is 100 yards or 91.44 m long" Please rewrite. I don't think (and I humbly reserve the right to be wrong) that Randall did not come from a football field. OtterlyAmazin (talk) 23:24, 3 September 2019 (UTC)
+I attempted a rewrite per your request - hopefully I have addressed the issue without making things worse. Ianrbibtitlht (talk) 01:37, 4 September 2019 (UTC)
+I've substituted another explanation - American Football (the game with the field implied to be measured here) is not only played in North America, and Canadioan Football fields, in North America, have different measurements. No doubt someone else will replace my edit in turn.108.162.210.238 03:02, 4 September 2019 (UTC)
+Should images of the throwers and objects be included? As the comic image is not interactive as the full comic, one cannot see what Randall's version of e.g. Thor or Chris H. looks like, without of visiting the actual comic and using it. Similar things have been done with other interactive comics (IIRC). --Lupo (talk) 06:13, 4 September 2019 (UTC)
+I tried to do just that. However, apparently, only special users are allowed to upload files: "Upload error - You do not have permission to create new pages." An uploaded image file seems to count as a "page" for MediaWiki. I prepared a 7zip file with all of this comic's thrower/item images from xkcd, already properly renamed. It's available for download here. In case some mighty editor comes along and would want to upload the images and insert them on this page, please feel free to do so. --Passerby (talk) 20:20, 4 September 2019 (UTC)
+Great work with the files, I used them and included a table with the images instead of a list of throwers and objects. --Kynde (talk) 14:44, 5 September 2019 (UTC)
+Thank you, Kynde! Turned out even better than what I had in mind for the images. :) --Passerby (talk) 17:52, 5 September 2019 (UTC)
+Thanks a lot Passerby, that means a lot. And you made my job much easier. Have used your formatting for the names of other images I have added. --Kynde (talk) 13:50, 6 September 2019 (UTC)
+Could somebody figure out the equation he's using from the book and post it in the explanation? --Account (talk) 14:57, 4 September 2019 (UTC)
+Instead of Carly Rae Jepsen, he should have used Kelsey Plum who throws t-shirts like a cannon! [1] Rtanenbaum (talk) 15:16, 4 September 2019 (UTC)
+Used Formulas:
+g = 9.805;
+A = (3 * thrower_length * thrower_throwPower * thrower_mass / (object_mass + thrower_mass / 1000))^(1 / 3);
+B = sqrt(2 * object_mass * g / (PI * (object_diameter / 2)^2 * 1.2041 * object_dragC));
+Result = A^2 * sqrt(2) / (g * sqrt(A^4 / B^4 * 0.8 + A^2 / B^2 * 3 + 2));
+Sebastian --172.68.110.64 15:39, 4 September 2019 (UTC), slightly corrected on --172.68.110.64 21:37, 4 September 2019 (UTC)
+1,2041 is in units of kg/m³ and is the density of air at sea level; both A and B are in units of speed m/s; throwPower is in m²/s³, or equivalently in m/s * N/kg. Sebastian --172.68.110.82 21:22, 4 September 2019 (UTC)
+Or equivalently W/kg Sebastian --172.68.110.82 10:49, 6 September 2019 (UTC)
+
+I posted this yesterday but it didn't "take." The alternative distance-units used are entirely a function of the distance thrown in meters: light-nanoseconds (1.00-1.06m), atto-parsecs (1.07-2.69m), rack units (2.70-6.67m), feet (6.68-16m), smoots (16-36m), horses (36-75m), manhattan blocks (75-131m), football fields (132-201m), furlongs (201m+). It's not true that only Thor uses furlongs; a sufficiently large and athletic custom thrower can throw a javelin 206 furlongs. To get light-nanometers, trying having a minimally-athletic "You" 0.2m tall and 129kg throw a gold brick. -Jojo (talk) 18:44, 4 September 2019 (UTC)
+Er, I meant "to get light-nanoseconds." (It's my first post. Obviously I had to make a mistake.) --Jojo (talk) 18:48, 4 September 2019 (UTC)
+Should the hotlinking/embedding image at https://imgs.xkcd.com/comics/throw.png be referencd somehow? Kyuuhachi (talk) 20:17, 4 September 2019 (UTC)
+Re: Mjolnir, an enchanted hammer in Marvel comics? Does this reference take priority over the Norse myths: https://en.wikipedia.org/wiki/Mj%C3%B6lnir
+I think the current explanation allows the interpretation, that Mjölnir is a marvel invention. That is of course wrong. However, if you look at the drawing style of Thor and Mjölnir, and the fact that Chris H. is also available for selection, we can agree, that this hammer in fact represents the hammer inside the Marvel universe, which is merely based upon the orginial nordic god. --Lupo (talk) 10:36, 5 September 2019 (UTC)
+September 5 2019 9:05 Pacific time --- I found that while it seems that thor is the only one capable of throwing thor's hammer, with the customized "you" at 30 feet tall and 1000 pounds, and a super trainer, you can throw thor's hammer 1.5 meters. Conclusion - Giants are inherently worthy. And George Washington is not.
+I'm surprised Randall didn't add a "worthiness" variable into the formula somehow. 172.69.69.34 16:50, 5 September 2019 (UTC) Sam
+It seems that different items can be thrown different minimum distances. The microwave oven can be thrown a minimum of 1.22 meters, the cake a minimum of 1.53 meters, the hammer a minimum of 1.50 meters, the javelin a minimum of 5.40 meters, George Washington a minimum of 5.49 meters, Pikachu a minimum of 1.20 meters, the car 14 meters, and the basketball, blender, gold bar, ping-pong ball, acorn, both coins, and the squirrel a minimum of 1.00 meters. Include in article? --Account (talk) 18:53, 5 September 2019 (UTC)
+The reason you can never see the wiffle measurement is it would require a distance range below that of light nanoseconds, but light nanoseconds only appears at distances very slightly above 1 meter, and any distance below 1 meter always says they can't throw it.--172.68.59.226 10:22, 6 September 2019 (UTC)
+I found with further testing that if you put absurd numbers for a custom thrower with many digits for height and weight, there is a maximum possible distance which doesn't change if you change the values somewhat. Presumably due to its density, in such a condition thor's hammer returns the highest throw distances instead of the lowest (743,079 meters), second place is javelin, 3rd is gold bar, and you can't throw a ping pong ball more than 13 meters no matter what. Some other choice change from whether they are usually near the high or low end of the distances this way. For ping pong ball and tumbling coin, Thor gives the same values as these maximums, but for most others he does lower.--172.68.59.226 10:39, 6 September 2019 (UTC)
+I have now added images showing this maximum distance. The other examples can be put here: 2198:_Throw/Screen-shots#Maximum_distance.
+I also found that the comic asks us to keep the height up to 100 m and mass up to 1000 kg. It does so in my local language which is not English. I have uploaded two images here. It would be great if someone who has these messages in English could update these two images so they are with english test instead of Danish. I have translated it in the explanation. But please improve. --Kynde (talk) 12:50, 9 September 2019 (UTC)
+Formulae incorrect ?[edit]
+I don't think the formulae above are correct. I tried them in a spreadsheet and the answers varied wildly for the pro football quarterback [didn't check other throwers] relative to the answers provided in the comic :
+item answer provided calculated variance
+microwave oven 10 117.1 1171%
+blender 17 155.4 914%
+gold bar 9.73 219.3 2254%
+ping-pong ball 12 11.8 98%
+acorn 83 83.9 101%
+javelin 56 237 423%
+are you sure there isn't something missing in one of the above formulae ?
+Negative and malformed inputs[edit]
+"You" can accept negative numbers as input pasted in from elsewhere. With bizarre results like the animation freezing or a throw running forever without an answer.
+Completion?[edit]
+All complaints in the incomplete tag have been dealt with. Shall the Incomplete tag now be deleted? --Account (talk) 16:38, 14 November 2019 (UTC)
+Categories: All comicsComics from 2019Comics from SeptemberTuesday comicsLinks to xkcd.comComics with animationDynamic comicsInteractive comicsPhysicsAmerican footballComics featuring politiciansPokémonComics featuring real peopleReligionSquirrelsFoodBasketballSportBook promotionHow To

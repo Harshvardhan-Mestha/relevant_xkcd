@@ -1,0 +1,35 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2219: Earthquake Early Warnings
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2219)
+|<< PrevComic #2219 (October 23, 2019)Next >>|
+Earthquake Early Warnings
+
+Title text: I was fired by the National Weather Service five minutes after they hired me for going into their code base and renaming all the tornado warnings to "tornado spoiler alerts."
+Explanation[edit]
+A week before this comic, on October 17th, California introduced an earthquake warning system in the form of an app for smartphones called MyShake. The system works through a network of sensors across the state that can detect P-waves from an earthquake, which move faster than the S-waves, which cause most of the damage. In addition, the sensors send the warning electronically - at a significant fraction of the speed of light - much faster than either P-waves or S-waves. Because of these differences in speed, the network can send warnings through the app about 5-20 seconds before major shaking occurs, enough time for people to take cover under tables, run outside, etc. The farther you are away from the epicenter, the more warning time you have.
+In the comic Megan talks about the app, suggesting how cool it is, but Cueball is upset. He seems to think that prediction of the earthquake coming is like a spoiler that ruins the experience of how an earthquake should be experienced. Apparently he prefers to simply be taken by surprise like most people are when an earthquake large enough to feel hits.
+He also personifies the tectonic plates (whose shifting positions causes the quake), saying that we should all feel the shaking the way the tectonic plate intended. The statement is usually one regarding to arts, such as a music lover might prefer to listen to older music from vinyl (including cracking sounds, etc.) instead of a remastered digital version, as it is, as the artist intended.
+In the title text Cueball mentions that he was fired from the National Weather Service five minutes after they hired him because the first thing he did was to rename tornado warnings as tornado spoiler alerts. A spoiler alert is something used, for instance, when talking about a plot twist of a new movie, so that people who haven't seen the movie can avoid learning important details that would spoil the experience of seeing the movie. Cueball seems to genuinely wish to be surprised by these potentially lethal phenomena for which just minutes of warning may make the difference between life and death.
+Earthquake warnings, on a smartphone but not as an app, were the topic of 723: Seismic Waves, and shortly before that a protip for an alternative seismograph was mentioned in 711: Seismograph. An app for warning about tornadoes was the topic of 937: TornadoGuard. Warnings in general by the NWS were the subject in 2179: NWS Warnings, which mentioned tornadoes, volcanoes, tsunamis, and many other hazards. Tsunamis are often caused by earthquakes, though earthquakes were not specifically mentioned.
+Transcript[edit]
+[Megan is looking at her phone while standing next to Cueball]
+Megan: Ooh, California has a new earthquake early warning app.
+Cueball: Yeah, I'm so mad about it.
+[Megan puts her phone down and looks at Cueball who throws his arms up in the air.]
+Megan: What, why?
+Cueball: It ruins the experience of trying to recognize the p-waves before the obvious main waves hit.
+[Megan still looks at Cueball who has taken his arms down.]
+Megan: So you're mad about earthquake spoilers?
+Cueball: I just want to experience the shaking the way the tectonic plate intended!
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Earthquake early warning works mostly because the sensors are closer to the epicenter than the victims. The warning is transmitted at the speed of light (radio in this case) which is much faster than the earthquake waves. So the warning arrives first at a distant victim. The difference in speed of the various earthquake waves has little to do with it. The interpretation of cueballs remarks is over reaching.162.158.62.135 20:53, 23 October 2019 (UTC)
+Wikipedia disagree with you saying that you might get a warning from a few seconds to more than a minute just based on P-waves which move faster than S-waves. Have added this link to the description. --Kynde (talk) 21:26, 23 October 2019 (UTC)
+Anyone else think this drawing is weirdly grey compared to other recent ones? - Anonymous (how edgy!) 22:21 23 October 2019 (UTC)
+That's why I don't use the bun spoiler app. --172.68.245.193 23:16, 23 October 2019 (UTC)
+(Dark humo(u)r...) Would a Mass Shooting alert app involve a "trigger warning"? (/Dark whatever). 162.158.158.127 18:21, 25 October 2019 (UTC)
+Surface waves cause nearly all of the damage of an earthquake, not s-waves (shear waves). This should be updated. P-waves, or primary waves, arrive first and are compression waves which can also be used to determine the alignment and type of earthquake, such as a normal or reverse fault. S-waves, or secondary waves, follow the p-waves and are shear waves which do cause more damage than p-waves, but they cause far less damage than surface waves, such as Rayleigh and Love waves. Surface waves arrive last, but cause by far the most damage. Randall talks about "p-waves before the obvious main wave", which is likely a reference to p-waves vs. surface waves.
+Categories: All comicsComics from 2019Comics from OctoberWednesday comicsComics featuring MeganComics featuring CueballTornadoesSmartphonesGeology

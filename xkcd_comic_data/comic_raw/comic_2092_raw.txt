@@ -1,0 +1,93 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2092: Consensus New Year
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2092)
+|<< PrevComic #2092 (December 31, 2018)Next >>|
+Consensus New Year
+
+Title text: The biggest jump is at 11:00am EST (4:00pm UTC) when midnight reaches the UTC+8 time zone. That time zone, which includes China, is home to a quarter of the world's population. India and Sri Lanka (UTC+5:30) put us over the 50% mark soon after.
+Explanation[edit]
+In this New Year comic, Randall is proposing a compromise for when to celebrate, or recognize, New Year's Day. These celebrations traditionally take place at the stroke of midnight between Dec. 31st and Jan. 1st, at the local time of the event's location. With "Consensus New Year", these celebrations would happen at the same time, world over, and would be at exactly 1:30 pm EST (6:30 pm UTC). At this time, about half the world's population would be in 2018 local time and the other half would be in 2019. This is due to the various time zones throughout the world, and the graph is based on the proportion of the population in these zones.
+This is based on the assumption that the entire world uses the same calendar system. Randall's graph shows the year starting on the same day for the entire world. While the Gregorian calendar is used as the civil calendar in most countries of the world, the Eastern Orthodox churches uses the Julian calendar, on which the year will begin 13 days later, and the year (as of December 2018-January 2019) is 1440 on the Muslim calendar and 5779 on the Hebrew calendar. Other countries have the same New Year as the Gregorian calendar but count years differently; for example, 2019 is the year 108 in Taiwan and 2562 in Thailand.
+The Wiktionary entry for "consensus" includes multiple definitions, including these two meanings:
+(attributive) Average projected value
+General agreement among the members of a given group or community
+In an attributive grammar structure, a noun is placed before another noun to assign an attribute to it. When "consensus" is used this way, it's a statistical term which means the average projected value of the modified noun.
+Randall properly uses this first definition for both the title of the comic and the graph itself, where the graph represents the average projected value of the percentage of the world population reaching the new year at any given time.
+Randall may be purposefully misusing the second definition of the word "consensus" to reflect the common misuse of the term consensus for the practice of majority vote.
+In scenarios involving group decision-making, consensus means that all or almost all members of the group will accept the decision. Depending on how it is done, this generally results in a slower decision-making process due to discussion, but decisions that many more people are happy with. Consensus can scale to large groups of people using approaches such as the spokescouncil model to speed dialogue. By this definition, Consensus New Year happens at one of the last four time zones as the last to "agree" enter 2019, so (nearly full consensus definition) 4:00 am, 5:00 am, 6:00 am, or (full consensus definition) 7:00 am EST on January 1, 2019.
+Consensus lies in contrast to majority vote, where a decision passes when over 50% of the people desire it. Majority vote is used in most current large democracies and is what most people are familiar with. It is quick to describe and implement, but can result in polarized political parties and a stark lack of minority rights, unless enough people develop concern for the issues that they are tempered with constitutions and logrolling.
+The leftmost horizontal axis label (10am EST Dec 31st) was an error. The point marked as 0% should be 5am EST (see table below).
+Additionally, some of the lines are shown with a slope, which is inaccurate. Since sun time is not used anywhere, a correct graph line would only consist of horizontal and vertical lines.
+Time zones[edit]
+Time EST Time UTC  %Population in 2019 Regions entering 2019
+5:00 AM 10:00 0 Pacific Islands
+6:00 AM 11:00 0 Pacific Islands, New Zealand (NZDT)
+7:00 AM 12:00 0 Kamchatka (Russia), Fiji
+8:00 AM 13:00 0 Magadan (Russia), Pacific Islands, Eastern Australia (Excluding Queensland)
+8:30 AM 13:30 0 South Australia
+9:00 AM 14:00 0 Vladivostok (Russia), Queensland (Australia)
+9:30 AM 14:30 0 Northern Territory (Australia)
+10:00 AM 15:00 5 Yakutsk (Russia), Japan, Korea, Eastern Indonesia
+11:00 AM 16:00 25 China, Irkutsk (Russia), Taiwan, Western Australia, Malaysia, Central Indonesia
+12:00 PM 17:00 30 Krasnoyarsk (Russia), Vietnam, Thailand, Western Indonesia
+1:00 PM 18:00 35 Omsk (Russia), Kazakhstan, Bangladesh
+1:30 PM 18:30 55 India, Sri Lanka
+2:00 PM 19:00 60 Yekaterinburg (Russia), Pakistan
+3:00 PM 20:00 60 Samara (Russia), Georgia, Oman, UAE
+4:00 PM 21:00 70 Moscow (Russia), Turkey, Saudi Arabia, East Africa
+5:00 PM 22:00 75 Eastern Europe, Egypt, Central & Southern Africa
+6:00 PM 23:00 85 Central Europe, Africa
+7:00 PM 00:00 90 (GMT) UK, Portugal, Ireland, Western Africa
+8:00 PM 01:00 90 Azores (Portugal), parts of Greenland
+9:00 PM 02:00 90 Parts of Greenland, Southern Brazil
+10:00 PM 03:00 90 Northeastern and Central Brazil, Argentina, Chile
+11:00 PM 04:00 90 Atlantic Canada, Venezuela
+12:00 AM 05:00 95 (EST) Eastern USA, Peru
+1:00 AM 06:00 100 (CT) Central USA, Mexico, Central America
+2:00 AM 07:00 100 (MT) Central USA, Western Mexico
+3:00 AM 08:00 100 (PST) Western USA
+4:00 AM 09:00 100 Alaska
+5:00 AM 10:00 100 Pacific Islands
+6:00 AM 11:00 100 Pacific Islands
+7:00 AM 12:00 100 Pacific Islands
+Transcript[edit]
+[A graph labeled “Percentage of the world's population living in 2019” with Y-axis markers at 0%, 50%, and 100%, and X-axis markers at 10:00 AM EST Dec 31st, 1:30 PM EST, 7:00 PM EST, Midnight EST, 3:00 AM EST Jan 1st, and 7:00 AM EST.]
+[The line graph shows the percentage increasing from 0 to 100% in several steps, with 50% reached at 1:30 PM EST.]
+[Caption below the panel:]
+Consensus New Year: as of 1:30PM Eastern Time (6:30PM UTC) a majority of the world's population will be living in 2019.
+Trivia[edit]
+Randall has mislabeled the leftmost point of the graph: the Earth's earliest time zone (UTC+14:00) should have the midnight at 5:00 AM EST rather than 10:00 AM EST. The number of one-hour increments on the x-axis does not match Randall's label.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Sorry for the server downtime, it should be fixed now. --Dgbrt (talk) 17:24, 31 December 2018 (UTC)
+So what was it? Hardware issue, failed software update, reconfiguration boo-boo, external attack, frozen process, Y2K+19 bug? Ianrbibtitlht (talk) 18:30, 31 December 2018 (UTC)
+To be honest: I don't know. But probably a mixture of "external attack" and "frozen process" AND my laziness to check the health of the Wiki by 24/7. I figured it out when the BOT couldn't do the proper updates and some refreshing restarts to some processes did the job. --Dgbrt (talk) 18:54, 31 December 2018 (UTC)
+The leftmost label says "10:00 AM EST", but I'm 95% sure that it should be "5:00 AM EST". That makes sense both in terms of time zones / date lines, and also in terms of the number of hash marks (the 9th hash mark before 1:30 PM: 2 PM - 9 = 5 AM). --Brandon 172.69.22.224 19:35, 31 December 2018 (UTC)
+Agreed. The minor scale tick marks appear to be at 1 hr increments past the "1:30 PM" denoted time. However that doesn't follow for before 1:00 pm to reach the labeled "10:00 AM" mark. 172.68.34.88 20:59, 31 December 2018 (UTC)
+I suspect he failed to translate the label correctly to EST, since it would be 10:00 AM UST. I'm going to add some content into the explanation on the word "Consensus" from Wiktionary. It has multiple definitions that include both "agreement among the members of a given group" as in a common time to celebrate the New Year, as well as "Average projected value" that might also be applicable here. Ianrbibtitlht (talk) 22:35, 31 December 2018 (UTC)
+I'm watching the xkcd page to see if Randall updates the comic image to correct this error. Ianrbibtitlht (talk) 00:50, 1 January 2019 (UTC)
+It's been long enough now that I suspect Randall is not going to correct the error in the chart label. Ianrbibtitlht (talk) 17:31, 2 January 2019 (UTC)
+I'm actually not certain Randall suggests a time for universal celebration of New Year. Apart from the word "Consensus", there's nothing to suggest it. Rather, I read it as a stated time where a majority will agree to the statement that it's now 2019. 141.101.96.187 22:38, 31 December 2018 (UTC)Wilhelm
+I agree that he's probably not suggesting everyone should celebrate at some common time - see my recent edit on the meaning of consensus in the explanation. Ianrbibtitlht (talk) 23:27, 31 December 2018 (UTC)
+Happy NEW YEAR!!!
+While Randall has to wait... in central Europe it just happened when I'm posting this. And in Germany we don't have only the "Autobahn" with no speed limit, every eighteen year old or older child plays with fireworks...
+Nonetheless not only in California there are some people giving more attention to a much more unique event: New Horizons is passing Ultima Thule, six light hours away from Earth. Let's see if Randall does cover this event. --Dgbrt (talk) 23:49, 31 December 2018 (UTC)
+On the topic of Orthodox churches using shifted Julian calendar: I can't speak for the entire world, but here in Russia it's not really relevant, since the church calendar is limited to religious matters, and New Year is a secular holiday. (But Orthodox Christmas will in fact be observed on Jan 7th.) There is an obscure holiday called Old New Year that is New Year shifted to 14th, but hardly anyone celebrates it and it certainly doesn't replace the regular one. 141.101.77.236 16:58, 1 January 2019 (UTC)
+I note that 3:00PM (UTC-3) lists only "Northern" Brazil. That's kinda correct (should be actually "Northeastern" Brazil), but the South/Southwest, which is actually where the largest part of Brazilian population lives, is nowhere to be found. Due to DST, it should be in the 2:00PM line (UTC-2), but that line is blank. Unfortunately, I don't have the population numbers on hand to fix the entry, much less to fix the world population percentages on the table.--MCBastos (talk) 17:04, 1 January 2019 (UTC)
+Consensus Definition
+IP Address user 173.245.54.13 edited the explanation and replaced the Wikipedia definition references with an interpretation of how Randall incorrectly used the term "consensus" in place of majority vote - I don't agree that Randall has made any error, as I don't believe he intended consensus to represent majority vote. I'd like other opinions about restoring my original definitions in place of this new content, as I think it detracts from an understanding of the comic. Ianrbibtitlht (talk) 22:35, 1 January 2019 (UTC)
+I eventually decided that "consensus New Year" meant "Agreement it is New Years," more or less. As midnight marches past people, more people concede that it's the new year. To me, Mr M is just giving an interesting graph.
+(BTW, you failed to sign your comment.) I like to think Randall is smarter than just using a word without understanding every nuance of it - after all, writing these comics is his full-time job instead of just a pastime. The fact that consensus is sometimes understood that way is the very reason why I thought the definition that states otherwise was useful and informative. The definitions included "average projected value" that seemed to match exactly how it was used in the title (by grammatical structure) and in the graph (by definition), so I'm of the opinion that Randall knew this as well and would not have misused the word outside of it's correct definition. I believe he created the graph to represent the "average projected value" of the metric at each point in time, very explicitly and meaningfully; to think otherwise seems to me to be an insult to his intelligence. Ianrbibtitlht (talk) 01:08, 2 January 2019 (UTC)
+I agree w/ you, and thinks it's an interesting graph from which one can't conclude much about RM https://xkcd.com/688/ . 172.68.58.83 03:23, 2 January 2019 (UTC)
+I reinserted the definition info ahead of the explanation on concensus vs majority vote, which I appreciate the original editor adding. I think this better explains Randall's intentions, Ianrbibtitlht (talk) 15:56, 2 January 2019 (UTC)
+Hey, I made the change to reference consensus decision-making. I'm sorry for stepping on your toes and I appreciate you bringing the change up. Consensus is not a widely known process, but can really help communities work together, and in my opinion would fix some problems with current government, so I valued including it. I figured that Randall had simply never heard of it, and I didn't want misinformation to spread. I don't feel it's good to assume that Randall's misuse was purposeful, because it could spread the view that speaking unclearly in unobvious ways is funny, when in reality this spreads misinformation as most people don't have the knowledge to get the joke. Randall and his audience's expertise is STEM, not meeting facilitation and community organization. There have been some edits since my slightly-rude replacement; how do you feel about the article as it stands? 162.158.78.172 17:28, 2 January 2019 (UTC)
+No problem here. I did my best to work with what you had added before, and I am good with the additional changes you made. Great teamwork, huh! Ianrbibtitlht (talk) 20:48, 2 January 2019 (UTC)
+I think the table is wrong[edit]
+I don't see how 100% can be reached before "western Mexico", "MST", and "PST". California alone has a population of about 40 million, so it would seem as though at least 1% of world population would have to be "western Mexico", "MST", and "PST".
+Additionally, some :30 and :45 timezones are missing (not sure whether they are missing from the xkcd graph itself) Thisisnotatest (talk) 03:35, 2 January 2019 (UTC)
+Saddly, I don't think that the Chinese population would consent in being "again" in 2019, nor that their New Year would be at 1st of January. --162.158.123.97 00:42, 3 January 2019 (UTC) Maladr
+You'd have to tell that to Mao Zedong in 1949, when he decreed that the People's Republic of China would use the Gregorian calendar with AD year numbering. Arcorann (talk) 11:05, 9 February 2023 (UTC)
+Categories: All comicsComics from 2018Comics from DecemberMonday comicsNew YearTime

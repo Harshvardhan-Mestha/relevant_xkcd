@@ -1,0 +1,52 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2436: Circles
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2436)
+|<< PrevComic #2436 (March 12, 2021)Next >>|
+Circles
+
+Title text: ( MSTE ( AR ) CD )
+Explanation[edit]
+The comic depicts five overlapping circles, themselves encircled by circles of various sizes which enclose two, four, or all five of the smaller overlapping circles, as in an Euler diagram. Several well-known logos consist of overlapping circles, and the larger circles reference these logos. These are: Mastercard, which consists of two side-by-side overlapping circles (technically, disks, since they're filled in); Audi, which is four side-by-side overlapping circles, and the Olympic rings, which are five topologically linked rings in a "W" shaped pattern.
+Mastercard logo
+Audi logo
+Olympic rings
+To indicate that the Mastercard logo comprises two overlapping circles, the diagram draws a larger circle around the first two circles, inscribed with a label. Other than its size and the label, this new circle is identical to the five smaller circles.
+Similarly, to indicate that the Audi logo comprises four overlapping circles, the diagram again provides a larger circle, this time encompassing the first four smaller circles, inscribed with a label. The "Audi" circle completely encloses the "Mastercard" circle, indicating that the four circles of the "Audi" logo include the two circles of the "Mastercard" logo.
+Finally, an even larger circle, enclosing all of the other circles, indicates that the Olympic Rings use all five original circles.
+The comic was released only about four months before the postponed 2020 Summer Olympics was scheduled to start on 23 July 2021. It was postponed because of the COVID-19 pandemic, which has spawned a series of comics on xkcd.
+The title text is a textual representation of the Mastercard name as a Venn diagram containing the letters in the words "master" and "card" — A and R are shared by both, while MSTE and CD are unique to their respective elements.
+Transcript[edit]
+[Five small circles, looped together in the style of the Olympics logo is drawn in the center. On the left, a larger circle surrounds two of the prior ones, incidentally overlapping a third circle. A larger circle surrounds four of the small circles, thus also the previous mentioned circle, cutting over the last of the five circles. Finally a very large circle fully contains all the other circles. The three larger circles have labels, with the small ones label above, and with a small clarifying line from the label towards the top of this circle. The middle sized circle has the label standing on a break in the circle at it's bottom, and the largest circle has the label just beneath it. From smallest to largest of the circles the labels are:]
+Mastercard
+Audi
+Olympics
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+AS for the overlapping edits, it is because this just showed up in my RSS reader. I was surprised to see that there wasn't anything written yet. 172.68.206.92 18:56, 12 March 2021 (UTC)
+If Randall was willing to realign the Audi logo, I think he could have stretched the model to accommodate Disney at the 3-ring slot! jameslucas (" " / +) 18:58, 12 March 2021 (UTC)
+Audi's logo has the four circles in a straight line, not staggered (</pedant>) 108.162.237.58 19:09, 12 March 2021 (UTC)
+If we are being pedantic it was originally the Auto Union logo and Audi was one of the four rings - along with Horch, DKW and Wanderer. Augustus Horch founded Horch and Audi (horch means hark or listen so translates into Latin as Audi). 141.101.98.6 18:42, 13 March 2021 (UTC)
+The same is true for MasterCard - the two circles are not staggered, but "in a straight line" (horizontal, that is) Mathmannix (talk) 20:15, 12 March 2021 (UTC)
+Well, being even more pedantic, two circles are always in a straight line, just not necessarily parallel to the reader...162.158.158.98 18:54, 14 March 2021 (UTC)
+I have added to the explanation that only the olympic is true logo, but MC is just oriented wrong. But Audi's is not like that. It is relevant. --Kynde (talk) 11:22, 15 March 2021 (UTC)
+ER are shared by both halves of the MC logo. Not AR. Anyone have another explanation? 172.68.132.41
+I was thinking about this too! Maybe Randall made a mistake, or is it something unexplained? We'll have to wait for an explanation. My bad, I saw wrong. I thought it was between all the logos.Hiihaveanaccount (talk) 20:26, 12 March 2021 (UTC)
+(Why are we (y'all) bullet-indenting?) Though the circles of the "(MAST(ER)CARD)" might well co-share the "ER", assuming that's correct, here the set {M A S T E R} and the set {C A R D} have clearly been put through an (unordered) set-union to highlight the {A R} that are not solely members of either original set. Don't know why that, in particular. Maybe it just worked better, and mixed things up better than the "(MAST(ER)CARD)" interpretation which doesn't really parody anything in the process... 162.158.158.97 20:53, 12 March 2021 (UTC)
+I have removed the bullet editing. --Kynde (talk) 11:22, 15 March 2021 (UTC)
+Ok, just checked, and the word(s) "MASTERCARD" do(es) not appear on Mastercard logos any more, anyway, having vanished/been relocated below the circles in various stages of cosmetic rebranding between 2006 and 2016. So "(ER)" enclosure wouldn't be strictly true for a number of years. 162.158.158.97 21:00, 12 March 2021 (UTC)
+Well, the AR completes both the MSTE and the CD (ie, MasteR CarD)... as I expect one of the previous commenters was getting at. Perhaps it is a riff on picture in as much as AR completes MASTERCARD just as MASTERCARD's circles Complete Audi's circles... 162.158.75.41 05:03, 13 March 2021 (UTC)
+Oh no Randall, please don't turn me into an oversimplified logo! Noooooooo! 141.101.99.109 (talk) (please sign your comments with ~~~~)
+I checked the overlap of the circles with the official olympian logo. It's correct. --162.158.111.125 12:47, 15 March 2021 (UTC)
+This bugs me more than any other xkcd comic, I could see the mastercard circles being tilted and still in a straight line, but then the Audi logo should be the same: straight line, but they line up to form the actual Olympic ring configuration giving preference to that logo... then there's the color, it would make me happy if the colors lined up with the actual Mastercard colors but they don't... so I don't know why I'm complaining here, probably because Randall doesn't have an actual comment system, so, sorry.... carry on with your day! 162.158.75.40 15:11, 13 March 2021 (UTC) Sam
+It is because it is only the number of overlapping circles the diagram takes into account not their geometry. Just as the title text only takes the letters into account, not the words they are forming. --Kynde (talk) 11:22, 15 March 2021 (UTC)
+Should the current Audi logo box be a totally empty square? Reloaded several times, there's nothing in there. The other boxes all have pictures in them. 108.162.250.105 09:02, 14 March 2021 (UTC)
+Looks OK here. And should be far simpler SVG than the historic logo's shading/etc. But maybe it's slightly newer SVG doctype (would need to read its source, to be sure, and this browser has recently removed its original view-source: method so I'd have to switch machines) or inadvertently use a fancier dialect that your browser refuses to render. (If 'current logo' is not actually just five flat, black rings, then maybe my browser is lagging, too, but differently. ...but then, do you have a 'dark' theme? Black rings on black (through transparency) background, thus apparently blank? A possibility, perhaps... 141.101.99.207 17:37, 14 March 2021 (UTC)
+OK, have checked, and current logo is absurdly simple (in one 'element' it moves focus and draws four rings! in black!) while the prior logo's SVG actually failed to load (rendering in full-screen, the gradient-shaded components appear with much lag) for reasons not understood if it wasn't file-size issues (doubt it). I'm still leaning towards dark-theme confusion, then. If it aint that, I'm stumped. But its the only obvious thing to me right now, so I'll leave further resolution to when future details can be given. 141.101.98.22 18:04, 14 March 2021 (UTC)
+I've seen the images fail to load occasionally (not just the Audi one; I think I saw the old mastercard logo do it too). Purging the page cache fixed it for me. I'm not entirely sure what causes it though. --Pokechu22 (talk) 18:06, 14 March 2021 (UTC)
+I've never seen images (on-site, or those WikiCommons logos) fail to load. Except when the whole page failed to load, or the site .css failed to load and 'flavour' images (presumably) featured as a style element may have been absent due to this, as well as all the normal layout of elements. Interestingly the Current Audi has a handful of lines in its source, while I actually manually crashed my browser when I looked at the Old Audi one in source-mode ('original file', rather than the downsized one that the Gallery probably loads) and it got past thirty-eight thousand lines of polygon/etc with no close-SVG tag in sight. So much for vector-graphics for simplification and portability. (Mind you, it seemed to be auto-generated by a conversion utility. I could probably have hand-coded a near-identical output with actual intelligent thought put into optimising it.) That said 'web standards' is still a bit of an oxymoron at times, almost as much as it was during the era of "Netscape Unfriendly" pages, despite everything. 141.101.98.108 01:08, 15 March 2021 (UTC)
+The missing item in the progression[edit]
+There's an absolutely obvious configuration of three circles that is very recognisable as one of the logos of a popular American media company, as the three overlapping circles are a stylised representation of probably the most famous animated character in the media company's output. Could there be trademark issues why Randall did not use it? Come to think of it, the AT&T 'Death Star'/Konica Minolta logo could be the first element of the series... 162.158.134.84 20:54, 16 March 2021 (UTC)
+Categories: All comicsComics from 2021Comics from MarchFriday comicsEuler diagramsSport

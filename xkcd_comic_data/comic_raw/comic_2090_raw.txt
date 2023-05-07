@@ -1,0 +1,44 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2090: Feathered Dinosaur Venn Diagram
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2090)
+|<< PrevComic #2090 (December 26, 2018)Next >>|
+Feathered Dinosaur Venn Diagram
+
+Title text: My pet theory is that in real life, the kid at the beginning of Jurassic Park who made fun of the 'six-foot turkey' never got a talking-to from Dr. Grant, and grew up to produce several of the movie's sequels.
+Explanation[edit]
+Translated plainly, this comic reads "People who don't think feathered dinosaurs sound scary have never tried to fight an ostrich."
+This comic is a jab at people who dismiss the idea feathered dinosaurs sound scary. Adding feathers to a reptile can trigger a cognitive dissonance; people today see feathers and think of harmless birds. However, the ostrich and a few other avian species, which are feathered dinosaurs (1211: Birds and Dinosaurs) are in fact deadly. The diagram points out that anyone who has tried to fight an ostrich would be scared of a dinosaur with feathers, and anyone who thinks a feathered dinosaur doesn't sound scary has never tried to fight one. The two groups of people are exclusive because the two circles do not overlap.
+Ostriches are not typically considered scary or dangerous because its appearance is comical or awkward to most people; they are also herbivorous and not typically aggressive, choosing to use its great speed to outrun predators rather than fight them. In reality, however, ostriches are much larger than a human and will attack when cornered or when their family is threatened; their powerful legs can kick hard enough to kill lions and other predators, and their feet are equipped with large claws which can disembowel a human. Thus, the actual experience of fighting an ostrich would quickly convince any human that survives the experience that ostriches (and by extension other feathered dinosaurs) are, in fact, scary.
+The title text refers to "Volunteer Boy", a kid in the beginning of Jurassic Park who dismisses a raptor fossil as a "six-foot turkey". Dr. Grant uses a fossil of a raptor talon to imply that a raptor would slice open his belly and eat him while he's still alive. This scares the kid into respecting the raptor. The title text theorizes that if he didn't get that pep talk, and continued to think of dinosaurs as "six-foot turkeys", then he would grow up to make some of the contested sequels in the franchise. Raptors play a central role throughout the series of movies, with some even being trained by a raptor handler like dogs.
+Technically, the diagram is an Euler diagram, rather than a Venn diagram. A Venn diagram shows all possible combinations of two or more sets, including those with no elements, and so all of the regions must intersect in all possible combinations. An Euler diagram only depicts the non-empty combinations, and therefore does not have this constraint. However, this is a technicality, and many people use the words interchangeably.
+Transcript[edit]
+[The comic shows a rectangular panel containing two circles, side by side and not intersecting. A caption is underneath each circle.]
+[Left circle caption:]
+People Who Don't Think Feathered Dinosaurs Sound Scary
+[Right circle caption:]
+People Who Have Tried To Fight An Ostrich
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Or is a losing veteran of the Emu wars 172.69.55.70 14:59, 26 December 2018 (UTC) Or tried to pet a swan and had to fight said Swan over your dismembered finger172.69.55.70 15:02, 26 December 2018 (UTC) Or never had an argument with a magpie. Or a Kookaburra, for that matter. 162.158.118.46 04:10, 27 December 2018 (UTC)
+or kept chickens, flew falcons etc.
+Just remember. The term raptor applies to both birds and dinosaurs. Rtanenbaum (talk) 21:51, 30 December 2018 (UTC)
+I hate to be that guy, but isn't this a Euler diagram? Cyclic3 (talk) 15:30, 26 December 2018 (UTC)
+Yes it is. 172.68.58.83 17:07, 26 December 2018 (UTC)
+Yep! For anyone who's curious, a Venn diagram shows intersections between sets that don't actually exist while sets in an Euler diagram intersect only when they overlap in the real world. Moosenonny10 (talk) 17:32, 26 December 2018 (UTC)
+I have added a description of the difference between the two into the article. Please feel free to cut it down if it's too long, or remove it if it is unnecessary! Cyclic3 (talk) 18:00, 26 December 2018 (UTC)
+Both this and 1180 have been mislabled as Venn Diagrams. Literally unreadable. Cyclic3 (talk) 18:17, 26 December 2018 (UTC)
+Seems like Randall has previously called Euler diagrams Venn diagrams, see Category:Euler diagrams. Strange because he usually do not make these mistakes (twice). Has he ever made a Venn diagram then? --Kynde (talk) 14:43, 28 December 2018 (UTC)
+
+The comic has nothing to do with whether or not dinosaurs with feathers existed, but whether or not dinosaurs with feathers would be scary. Rtanenbaum (talk) 18:56, 26 December 2018 (UTC)
+For those of us unfamiliar with Jurassic Park, could somebody comment on the relevance of the new movies being "controversial"? (and add any other missing information that would be relevant?) One of the questions this comic leaves me with, is whether or not new Jurassic Park movies contain feathered dinosaurs, which could be a draw to see them. 162.158.93.201 02:25, 27 December 2018 (UTC)
+Yes, for anyone who only watched one or two of the movies once or twice, the title text doesn't make sense. The explanation is about who that kid is, but not what it means. Are the sequel-raptors less scary? feathery? or does it just not make any sense?--Lupo (talk) 08:21, 27 December 2018 (UTC)
+The sequels added some small-ish crests to the raptors that sortof look like feathers, but ultimately the makers of the movie didn't want to stray too far from the look of the dinos in the first movie. In Jurassic World (4th movie) they actually address it with a throwaway line claiming none of the dinos are "natural"(part of the plot surrounds the creation of a genetic hybrid dinosaur, rather than a natural species) and would look very different if they were made with pure DNA. My assumption is this line is meant to explain the lack of feathers Defaultdotxbe (talk) 15:18, 27 December 2018 (UTC)
+I always through the "6 foot turkey" comment was an off-handed acknowledgement that the velociraptors in the movie were much larger than actual velociraptors, and actually closer in size to utahraptor (real velociraptors were about the size of a turkey, but have a cooler name than "utahraptor") Defaultdotxbe (talk) 15:20, 27 December 2018 (UTC)
+I remember seeing that apparently Florida governor Rick Scott used a Venn diagram that was wrong. Might be associated with this 172.68.133.84 18:27, 27 December 2018 (UTC)
+I did a search and couldn't find anything like this about Rick Scott - I believe you're referring to the outgoing Wisconsin Governor Scott Walker. He recently displayed a Venn diagram where the areas inside two circles but outside the intersecting area contained the exact same contents, instead of the content being shown within the overlapping region where it would have been correct. Ianrbibtitlht (talk) 22:11, 27 December 2018 (UTC)
+Furthermore, I don't see any way it could be related to this comic! Ianrbibtitlht (talk) 22:13, 27 December 2018 (UTC)
+Venn diagram incorrect: there should be an intersection containing Chuck Norris :) 162.158.155.176 08:10, 12 March 2019 (UTC)
+Categories: All comicsComics from 2018Comics from DecemberWednesday comicsDinosaursJurassic ParkChartsEuler diagramsVenn diagrams

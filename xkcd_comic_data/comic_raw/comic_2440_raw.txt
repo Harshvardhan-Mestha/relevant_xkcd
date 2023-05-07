@@ -1,0 +1,60 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2440: Epistemic Uncertainty
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2440)
+|<< PrevComic #2440 (March 22, 2021)Next >>|
+Epistemic Uncertainty
+
+Title text: Luckily, unlike in our previous study, we have no reason to believe Evangeline the Adulterator gained access to our stored doses.
+Explanation[edit]
+This comic is a comparison of two different research studies. One of these studies shows "regular uncertainty". One of these studies shows "epistemic uncertainty." In both panels, the core data is the same. The drug in question is 74% effective. However, the uncertainty qualities are different. The first is straightforward. The confidence interval (the error bars on the chart) is from 63 to 81%. The second panel includes the additional wrinkle of "George the Data Tamperer, whose whims are unpredictable."
+In statistics, a confidence interval is an estimate which provides a range of values. These values are based on the statistical probability that the data collected represents a certain result. The confidence interval is a reflection on the uncertainty imposed by the limits of study sample sizes. No study will ever have an infinite data set.[citation needed] As a result, it is possible for different studies to give slightly different results. Averaging the results of multiple studies can give a result that is probably more accurate. The result given may still be skewed. A small skew is more probable than a large one, though. For example, if a drug was 80% effective it would be possible for several small studies to show a spread of different results with an average of 74% effectiveness. If the drug was 99% effective it would still be possible to randomly end up with the same data. However, this would be highly unlikely. This gives us a spread of "likely" predictions. Predictions outside a certain interval are considered too unlikely to be realistic.
+George the Tamperer and Evangeline the Adulterator (from the title text) are analogous to the characters from Alice and Bob cryptography thought experiments. In the most basic examples, Alice and Bob are communicating. A third party, Eve the Eavesdropper, is spying on them. Both George and Evangeline have the ability to alter the study's results. George and Evangeline add uncertainty to the final data product. Specifically, they add epistemic uncertainty.
+Epistemology – unlike epidemiology – is the branch of philosophy related to knowledge. Thus epistemic uncertainty is the ultimate impossibility to be sure that what we know is accurate. We are not unsure what is accurate because of failures in measurement. We are unsure what is accurate because of the intrinsic limits of knowledge. It seems that the "epistemic uncertainty" data has a 25% chance of data tampering by George. In the previous study, the data is known but its reflection of the general case is uncertain to an extent. In contrast, in this study even the knowledge of whether any single data point is correct is uncertain. Thus, their data has a 25% chance of being incorrect. There is no possible statement about how incorrect it may be.
+The title text mentions an individual called "Evangeline the Adulterator." She adulterates their drug doses. If this happened, the researchers would not even be sure the patients received the dosages (or exacting medicines/placebos) as prescribed. The study methodology itself would be in doubt.
+Transcript[edit]
+[Two panels are shown with labels above them.]
+Regular Uncertainty
+Epistemic Uncertainty
+[In both panels Megan stands in front of a data presentation on a slide behind her. She is pointing at the slide with a stick.]
+[In the left panel titled 'Regular Uncertainty'. Megan standing in front of a presentation of a graph showing, from top to bottom, the number 74%, a horizontal line with a small black diamond near the middle representing an average with error bars, and a line of dots representing data in a horizontal scatter plot.]
+Megan: Our study found the drug was 74% effective, with a confidence interval from 63% to 81%.
+74%
+[In the right panel titled 'Epistemic Uncertainty'. Megan stands in front of a presentation of data with a silhouette of a man with a hat labelled with a white question mark. Above this are three guesses of the "real" result and its relation to the study result.]
+Megan: Our study found the drug to be 74% effective.
+Megan: However, there is a 1 in 4 chance that our study was modified by George the Data Tamperer, whose whims are unpredictable.
+73 -> 74??
+47 -> 74??
+0 -> 74??
+?
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I definitely thought "adulterer" referred to someone who commits adultery, as in cheating on one's spouse. I thought it was a secondary joke, introducing another person referred to as "[name] the [undesirable action]er". 172.69.170.56 02:03, 23 March 2021 (UTC)
+"Adulterer" and "adulterator" have different definitions - to "adulterate" a substance is to mix it with an unintended additive. 172.69.135.234 06:46, 23 March 2021 (UTC)
+Is the "George" referred to here possibly the name of black hat?
+I doubt it. The hat silhouette is not the same pork pie hat as Black Hat 172.68.86.20 04:34, 23 March 2021 (UTC)
+The name "Evangeline" could be a reference to how "Eve" is usually the name of a hypothetical hacker used when teaching people about computer science. You know, that whole "Alice sends Bob a private message but Eve wants to read it" thing. 108.162.245.122 05:22, 23 March 2021 (UTC)
+I second this explanation 162.158.63.164 21:47, 23 March 2021 (UTC)
+I wrote a long explanation of confidence intervals but realised that the study type depicted on the graphs is probably meta-analysis (hence the horizontal scatter plot) rather than single RCT as in my explanation. Got to go, will come back and amend it later if nobody else has. 162.158.165.52 06:55, 23 March 2021 (UTC)
+
+I have a feeling that George the Data Tamperer might be a reference to the classic Spiders Georg, since it's about statistical error brought about by a guy named Georg(e). LemmaEOF (talk) 09:07, 23 March 2021 (UTC)
+It may be no coincidence that this was posted very shortly after the US/Americas study that announced that the AstraZeneca/Oxford vaccine was 79% effective against symptomatic Covid. Although maybe adapted to 74% to not inadvertently suggest (for some) an actual equivalence to George, etc. Yes, 74% could come from a lot of places (and it also looks intrinsically more funny, in a 42-ish way, whilst remaining credible as a faux-result to be proud of), but I think its well within the bounds of statistical probability. Or George. 141.101.98.218 14:31, 23 March 2021 (UTC)
+I agree that this comic is likely inspired by all the data on vaccines given at the time. However since it states drug, it is too vague to call this a covid-19 comic, but for sure it is inspired by all the fuzz about the vaccines. --Kynde (talk) 15:05, 23 March 2021 (UTC)
+The AstraZenica story includes the 74% figure too:
+https://www.washingtonpost.com/world/astrazeneca-oxford-vaccine-concerns/2021/03/23/2f931d34-8bc3-11eb-a33e-da28941cb9ac_story.html?_gl=1*1p0bmh7*_ga*YmYzbjBEamV0bVhHYk5heUJVYm5KV3k5ZDdEQlhoSlQzUmZyRmFzMHM3dVMxVXUzTUFOUTZLSmVUSk5jbV9UVg..
+“The letter goes on to explain that while the company announced its vaccine was 79 percent effective on Monday, the panel had been meeting with the company through February and March and had seen data showing the vaccine may be 69 to 74 percent effective, and had ‘strongly recommended’ that information should be included in the news release.”
+Honorknight (talk)
+Why does the article say that George and Evangeline are analogous to the cryptography Alice and Bob? There’s little there to suggest it and it even if it’s so it hardly makes the joke funnier. More likely they’re just random names that Randall made up. Requiscant (talk)
+The analogy is that those are not names of real specific persons or random names, but deliberate placeholder names. And it definitely looks that way, although those are not standard so they also are random names that Randall made up. -- Hkmaly (talk) 03:16, 24 March 2021 (UTC)
+Well, 'appropriated', as George and Evangeline are both names out there in the wild. Or 'mashed together' if you mean you're including their "the ..." qualifier. ;) 141.101.99.207 13:51, 24 March 2021 (UTC)
+The acronyms made of their names come to mind? ETA and GTDT. At least ETA ... Seems to connect to a known data adulterator, the Estimated Time of Arrival... 141.101.99.207 07:37, 25 March 2021 (UTC)
+I'm waiting for the Evangeline the Adulterator fan art. (Oh my, that just made me think... is there such a thing as XKCD fan art??) 172.68.26.134 17:18, 24 March 2021 (UTC)
+Yes, check out www.deviantart.com/tag/xkcd - [1] Rtanenbaum (talk) 18:28, 24 March 2021 (UTC)
+Seems worth remarking that in the epistemic evaluation, it is implied the 4 options are equally likely and the data being correct is not even included as an option. The 4 (apparently known to occur) errors are inaccuracies/rounding errors, sloppiness or dyscalculia, fabricated results, or George. I'd argue this field of study addresses real issues in the scientific community (the value of peer review), would not be without merit and could be complementary to the "regular uncertainty" :-). 141.101.105.126 10:27, 27 March 2021 (UTC)
+Data depiction goof[edit]
+Not sure if this is worth noting in the article. Real drug efficacy data would not be depicted with a horizontal scatter plot graph as in the first graph - neither for a single randomised controlled trial, nor for a meta-analysis. A single randomised controlled trial gives a percent efficacy which can be depicted as a diamond with error bars - as shown under the number 74% - but the raw data would not look like a scatter plot: for each patient the drug is either "effective according to X criteria" or "not effective" so there's no point graphing it, and there are additional notes on side effects. (For drugs treating conditions which go into remission and may recur rather than being cured, such as cancer, other more complex graphs are used - but in those cases there is no one measure of "effectiveness".) A meta-analysis is commonly shown as a forest plot - a set of several horizontal bar graphs each with its own diamond and error bars. 162.158.166.75 13:08, 25 March 2021 (UTC)
+Regarding the George Name[edit]
+To me the name seemed an obvious reference to "Spiders Georg", a meme started in 2013 and still used to refer to statistics and errors caused by outliers. Thoughts? 172.70.178.199 15:35, 12 April 2022 (UTC)
+Categories: All comicsComics from 2021Comics from MarchMonday comicsPages using the "citation needed" templateComics featuring MeganStatisticsScientific researchBiology

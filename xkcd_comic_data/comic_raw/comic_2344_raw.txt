@@ -1,0 +1,64 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2344: 26-Second Pulse
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2344)
+|<< PrevComic #2344 (August 10, 2020)Next >>|
+26-Second Pulse
+
+Title text: There are some papers arguing that there's a volcanic component, but I personally think they're just feeling guilty and trying to cover the trail.
+Explanation[edit]
+In this comic strip, Science Girl is presenting her project on geology to her class mates, and is explaining some of the non-earthquake signals that seismometers detect. She describes a mysterious signal that repeats with a 26-second period. Scientists have exploited this signal to correct for clock drift in historic seismic records.
+Science Girl initially provides a plausible explanation (some kind of natural wave pattern on the coastline of the Gulf of Guinea, which is in fact the most common theory about this signal). However, she quickly takes a turn for the dramatic when she claims that it might be a giant, murdered by seismologists, whose heart still beats. This is a reference to Edgar Allan Poe's short story The Tell-Tale Heart, in which the main character murders a man and hides his corpse beneath the floorboards, and then hears (or believes he hears) his victim's heart continuing to beat; the noise eventually drives him to confess his guilt to visiting police officers. (The narrator of The Tell-Tale Heart never uses that phrase in the story; he calls it a hideous heart.) "The Tell-Tale Heart" was previously referenced in 740: The Tell-Tale Beat.
+Normal human hearts beat much more rapidly than once every 26 seconds, but large animals and hibernating animals may have much slower heart rates (which would include a giant at the bottom of the ocean[citation needed]).
+The title text gives an alternate explanation for the seismic activity: volcanic activity, but Science Girl continues to believe in the giant story. In the last panel she references the common science meme that further research is needed, which has been mentioned several times in previous strips, including 2268: Further Research is Needed.
+A seismometer is a device for measuring vibrations in the earth's crust, and one is likely in the collection of Cueball from 2060: Hygrometer.
+Transcript[edit]
+[Science Girl is standing in the front of a whiteboard holding a pointer up towards the board. Ponytail, Hairy, and Megan are sitting at desks facing Science Girl.]
+Science Girl: When everything is still, seismometers pick up faint tremors we call seismic noise.
+Science Girl: Most of it is from ocean waves, cars, etc. But there's also a mysterious 26-second pulse.
+[Close up on Science Girl. She is holding a hand palm up towards the board behind her, showing a map with Africa in the center and some other continents at the edges of the view. A star is drawn within the country of Ghana, near the coastline.]
+Science Girl: We've triangulated the source to somewhere in the Gulf of Guinea.
+Science Girl: It comes and goes with the seasons, but it's been there since at least the 1980s. It's so regular we use it to sync up seismometers.
+[In a frame-less panel only Science Girl is shown, once again in profile. She has the board behind her and points the pointer towards the board.]
+Off-panel voice: What causes it?
+Science Girl: Not sure. The most popular theory is that storm-driven waves set up some kind of resonance with the coast.
+[Science Girl has leaned her stick on the board's tray. She has raised her clenched fists.]
+Science Girl: Another theory is that long ago, seismologists murdered a giant and buried the body at sea.
+Science Girl: Now we are haunted by the beating of its telltale heart!
+Science Girl: Could be either.
+Science Girl: Further research is needed.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The transcript is calling the character "Hairbun," and while apparently Hairbun has several different renditions, one thing common to them all is that she has a single bun. This character has two buns, as can be seen in the second panel. Probably should not be conflated with a character that has a single bun. 108.162.237.172 01:13, 11 August 2020 (UTC)
+I think it's Science Girl? Definitely not Hairbun. 172.69.35.31 01:20, 11 August 2020 (UTC)
+It's Science Girl except she's an adult. We really need to resolve whether all appearances of this hairstyle are Science Girl or if we need different character pages for the child and adult versions. And reassign all of the Hairbun appearances that have the darker hair and ponytail to be SG instead. LtPowers (talk) 12:24, 11 August 2020 (UTC)
+I don't think there's anything that definitely implies she's an adult. I mean, the comic would certainly make sense if she were an adult, but she could also be a school kid doing some science project. 162.158.238.6 15:20, 11 August 2020 (UTC)
+She is certainly including herself in the ranks of "seismologists", most clearly so in the final panel. LtPowers (talk) 18:11, 11 August 2020 (UTC)
+The “we” in the final panel could easily mean people in general are haunted by it. The first panel shows kids in school, at a blackboard and school desks. 172.69.35.27 23:44, 11 August 2020 (UTC)
+I also see it as a girl that is presenting her school project in class, rather than a teacher pulling her students legs (that would then have been Miss Lenhart that would have taught that class, like in 1519: Venus.) But even if it is a teacher, then Science Girl can grow up, and she was also adult in at least two other comics as mentioned in her description. Like in 1520: Degree-Off. Also I think if you are doing a project on Seismology you can use We about you and the seismologist, without actually having such an education. So for sure it is Science Girl, with the hair hanging down like that. --Kynde (talk) 10:56, 12 August 2020 (UTC)
+
+Is this pulse a real phenomenon? A cursory google search turned up nil.
+Future me: Yes it's real I was just using poor google-fu. https://phys.org/pdf214488694.pdf
+(Could future future you learn to properly indent and sign comments? Just as courtesy.) 162.158.159.18 01:47, 11 August 2020 (UTC)
+(And, while you’re at it, don’t forget to point out the Easter egg in your link. The photographer credited. Coincidence? I think not.) Dhugot (talk) 07:50, 11 August 2020 (UTC)
+Fixed the wrong type of indent... --Kynde (talk) 10:56, 12 August 2020 (UTC)
+XKCD seems to be posted later and later. I mean, it was always somewhat Tuesdayish (I'm in Australia) but now I don't seem to see it until Tuesday afternoons... Am I imagining this, or are the posts getting to be much later than they used to be? 172.69.134.139 03:10, 11 August 2020 (UTC)
+Back in the olden days, it would update at midnight Eastern time sharp, but those days are long gone. Some comics have come out a day late even in Randall's timezone. --188.114.103.205 04:29, 11 August 2020 (UTC)
+My notification script has to check for new comics a lot more often because of how inconsistent the post times are; however, because of the relatively short check interval I know that new comics are posted mostly between 8pm-midnight (UTC) but many as wide as 4pm and 1am the next day.
+...actually, I think I'm going to go plot the post times I have and find out what my data says. Vaedez (talk) 05:38, 11 August 2020 (UTC)
+I have wondered... deep down... if the post time variations contain a stenographic message that could be decrypted to say "Drink your Ovaltine" greenup (talk) 14:45, 11 August 2020 (UTC)
+Please do post the graphic of your data.... With auto update script.. Preferably with an obtuse scale on one or more axes. 😀 Iggynelix (talk) 20:36, 11 August 2020 (UTC)
+Ah, sorry; I started a new project and forgot to complete this one :P Obtuse scale, coming right up; unfortunately I couldn't implement an auto-update script into a PNG file, so I just threw it on imgur. If you're interested in a somewhat more meaningful graph, I uploaded that too. Incidentally, it looks like my rough estimate of post-time may have been somewhat accurate? Vaedez (talk) 05:50, 18 August 2020 (UTC)
+Maybe the message will be "Drink your Ovalqwik", as an acknowledgment of the end of the 20-year run of the Schlock Mercenary webcomic
+Something similar happened in Oklahoma last year and until the real explanation was found the pulse was a mystery: National Geographic’s Article -- Areche (talk) (please sign your comments with ~~~~)
+The location was probably just not determined exactly. The giant was actually buried at 0° 0° for convenience. Fabian42 (talk) 08:28, 11 August 2020 (UTC)
+It would have been even more funny if Randal would have "zoomed the map out a bit" so his star-marker would have overlapped a bit with 0° 0° greenup (talk) 14:45, 11 August 2020 (UTC)
+As well as Poe's poem, I wonder if Randall is also thinking of HP Lovecraft's story "The Call of Cthulhu", and of the great old one Cthulhu, unawake beneath the oceans at R'lyeh. https://en.wikipedia.org/wiki/Cthulhu Paul Seed 09:43, 11 August 2020 (UTC) <-- this. I was going to post Cthulhu but ya ninja'd me. So I did some RESEARCH (aka Making Shit Up) and discovered that this pulse is coming from Красный Oктябрь , which accidentally ran aground there and is trying to drive free. Cellocgw (talk) 10:55, 11 August 2020 (UTC)
+Isn't it obviously some human source, like an oil drilling rig or so. --162.158.159.18 09:49, 11 August 2020 (UTC)
+It is a Wakandan vibranium powered cloaking sheild generator. Prove that it's not. ;-) Iggynelix (talk) 20:51, 11 August 2020 (UTC)
+
+On the subject of heartbeats, while it's true that larger animals can have slower heartrates than humans, I think a dead giant would have one pretty close to 0 beats per ever. The supernatural component of the still-beating heart of a murdered giant can't be discounted as part of the reason why it's that slow. --173.245.54.71 15:16, 11 August 2020 (UTC)
+The deadness is why I've been uncomfortable with "(which would include..."). But it seems petty to change to 'should' (not really), 'could' (ummmm...), 'may' (more like it?). 141.101.98.96 08:11, 12 August 2020 (UTC)
+Categories: All comicsComics from 2020Comics from AugustMonday comicsPages using the "citation needed" templateComics featuring Science GirlComics featuring PonytailComics featuring HairyComics featuring MeganGeologyVolcanoesFiction

@@ -1,0 +1,49 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2248: New Year's Eve
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2248)
+|<< PrevComic #2248 (December 30, 2019)Next >>|
+New Year's Eve
+
+Title text: "Off-by-one errors" isn't the easiest theme to build a party around, but I've seen worse.
+Explanation[edit]
+This was the first of two New Year comics around the 2019-2020 New Year, the second being 2249: I Love the 20s.
+An easy way to determine someone's age is to subtract their birth year from the current year. However, if their birthday has not happened yet that year, this calculation will predict them to be a year older than they actually are. By New Year's Eve, everybody's birthday has happened that year (or is happening, but legitimately tallied up), so this error will not occur. Cueball is excited by this, whereas most people would be more excited by the parties that typically occur around New Year's.
+"Off-by-one" errors are commonly made in computer programming, especially by novices, when looping over sets of objects. They can also appear in everyday life. If one is given a range of numbers, such as {10, 11, 12, ..., 99, 100}, a common error is to assume that the number of numbers in the range is the first number minus the last number: 100-10 = 90. However, the correct answer is 91 since both endpoints are included in the set. This specific type of "off-by-one" error is called a fencepost error.
+In the title text, Cueball suggests a New Year's Eve party with the theme of "off-by-one errors", saying it's challenging to build off of but that he's heard of worse. No information is given as to what such a party theme would entail, nor what could possibly be a worse party theme. (On the other hand, the parties depicted in 51: Malaria and 829: Arsenic-Based Life, based on themes of disease and poison, respectively, look much worse than an "off-by-one errors" party would likely be.)
+The idea of off-by-one errors for a New Year's Eve party is inspired by the numerous discussions about the time when the next decade starts, whether 2020 or 2021. 2249: I Love the 20s also treats the subject directly.
+Transcript[edit]
+[Cueball, with his hands raised, is talking to Megan and White Hat.]
+Cueball: Tomorrow is New Year's Eve, and you know what that means:
+Cueball: It's the one day of the year when you can convert between ages and birth years by subtraction without worrying about off-by-one errors!
+Cueball: Also there are probably parties.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+What about people born on New Year's HelloWorld (talk) 16:28, 30 December 2019 (UTC)
+This method works for them too. For instance, someone born 1/1/2000 will still be 19 on 12/31/2019 (2019 - 2000 = 19) but turn 20 the following day. Why do you think there's a problem for them? Ianrbibtitlht (talk) 16:47, 30 December 2019 (UTC)
+For people born late at night on New Year's Eve it could still present an issue theoretically, but it would at least be the day of their birthday so you're not getting their age wrong so much as observing their birthday!
+ProphetZarquon (talk) 18:31, 30 December 2019 (UTC)
+I believe what you're suggesting is that someone is not one year older until the exact time of their birth on the date of their birth. I don't think anyone gets that pedantic about their age unless they're really vain!  ;-) Ianrbibtitlht (talk) 18:45, 30 December 2019 (UTC)
+Think we should mention Randall's past "terrible party themes"? The not-that-fun malaria party and the one to celebrate arsenic-based life spring to mind. Enfield (talk) 21:13, 30 December 2019 (UTC)
+Since some readers will not know what "off by one errors" are, that should probably be explained. MAP (talk) 14:19, 31 December 2019 (UTC)
+To all you xkcd fans: HAPPY NEAR YOU!!162.158.214.148 13:15, 1 January 2020 (UTC)
+Off-by-One Party Theme[edit]
+Anyone have any good tips for an "Off-By-One" party? My birthday is this January & I'm thinking that's as good a theme as any. Of course the invites will feature a "2 guests ±1" RSVP option, but I haven't thought much beyond that yet. Ideas? ProphetZarquon (talk) 18:31, 30 December 2019 (UTC)
+This partly depends on whether it's up to the host or the guests to honor the theme of the party. You've given an example for guests. As the host, you could hold the party the day before or after your birthday, all food could be purchased as baker's dozens (13 items instead of 12), the age on the cake could be off by one, or you could hold the party at your neighbor's house with their agreement (address of house off by one?). Ianrbibtitlht (talk) 18:55, 30 December 2019 (UTC)
+Time: You could leave the start/end time flexible (+/- 1) . Or give the incorrect start time. Maybe go with the pun "everyone must be off (leave the party) by one" (am/pm) depending on the party. Iggynelix (talk) 19:42, 30 December 2019 (UTC)
+Decor: you could remove a light bulb from each fixture/room. Be short by one for glasses, plates, chairs, etc. Maybe each time a guests as for "a slice/serving/whatever" they get none or 2. (Roll for it? And encourage sharing?) An extra cake with a different number of candles. Iggynelix (talk) 19:42, 30 December 2019 (UTC)
+possible "off-by-1" themed decorations for a party of programmers:
+Write a message that reads: “The last one of the 4 boxes is obviously box 4.” Below the message, draw four boxes, and write 0-indexed numbers on them as 0, 1, 2, 3.
+Get 6 party balloons or similar colorful items, write P, A, R, T, Y cheerfully on the first 5 of them, one letter on each. On the last one, write with smaller letters, darkly: “Not null-terminated (not allocated)” If desired add a cartoon character *p++ running left-to-right happily in the cheerful section, not knowing what is going to happen. Yosei (talk) 03:42, 31 December 2019 (UTC)
+Games or activities:
+Musical chairs (given there is always one fewer chair than people) Bermudadad (talk) 17:11, 31 December 2019 (UTC)
+Off-by-one parties tend to suffer from buffet overflows. (It also strikes me that invitations for 1 guest ±1 are actually the standard, even if not phrased that way.) Kate Rose Morley 19:35, 31 December 2019 (UTC)
+How about having a "Ring in the New Decade" party on 1 Jan 2020 instead of when it happens on 1 Jan 2021? 162.158.214.136 13:26, 1 January 2020 (UTC)
+When you were born, it was obviously your birthday. How old are you at a 21st birthday party? Yosei (talk) 09:20, 2 January 2020 (UTC)
+That depends on a lot of things. Recently I was at the party of the 21st birthday of my cousain. I was 29 years old. Also I had no parties for some of my birthdays, so at my 21st birthday party I was way over 21 years old :) --Lupo (talk) 09:32, 2 January 2020 (UTC)
+Specific calculations[edit]
+So, how old's Jesus? Two-thousand and nineteen? Two-thousand and eighteen? Two-thousand and twenty-(three...seven)? Well into this decade, some churches round here still had the ubiquitous cross-denominational "It is Christ's 2000th birthday!" plaques up from the false-millenium (I might have a look now to see if any still do!) but of all the things they get wrong I don't think that's particularly the biggest thing, so... ;) 162.158.154.91 18:49, 30 December 2019 (UTC)
+I'm going to remove the second paragraph about it not working for New Year's Day, as Cueball explicitly states that New Year's Eve is the ONE day of the year when it works. The extra paragraph is just confusing at a minimum. Ianrbibtitlht (talk) 19:37, 30 December 2019 (UTC)
+Categories: All comicsComics from 2019Comics from DecemberMonday comicsNew YearComics featuring CueballComics featuring MeganComics featuring White Hat

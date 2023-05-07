@@ -1,0 +1,78 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2010: Update Notes
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2010)
+|<< PrevComic #2010 (June 22, 2018)Next >>|
+Update Notes
+
+Title text: v3.0.2: Hey, if anyone still using this app is headed to the beach, can you stop at 4th and River St and grab the sunscreen from my car? Trunk should be unlocked. Thanks!
+Explanation[edit]
+Update notes or release notes are notes (or documents) released when software has been updated, to inform the user of any important changes to the software.
+In this comic, Randall and his friend are using release notes of their apps as a form of chat service, instead of actual software change information. He says this is possible because the two apps are no longer being maintained, so theoretically, there are not many people using the app who would read the update / change notes. Incidentally, one can still argue that the chat is still technically update notes, only instead of updating users on what has changed about an app, it is now giving Randall and his friend status "updates".
+This comic has a similar theme as 1305: Undocumented Feature both use old software forums as a chat application.
+This "chat service" would not be in real time, so presumably, Randall and his friend would have to be constantly checking each other's apps to see if there are updates.
+On the "stars" app, the last "actual" notes says "Introduced bugs and degraded performance". This is a very common change when new features are added, however, developers will normally describe what the new features are rather than just state the negative consequences. It goes in contrast with the typical change note "fixed bugs and improved performance" that usually follows.
+The comic also refers to a meteor shower occurring in August, most likely the Perseid meteor shower.
+The title text says that Randall, who is at the beach, has left his sunscreen in his car, but that the trunk (a pun with the name of the main software development branch in SVN) is unlocked, for whoever is still reading the updates for this app. This may invite the attention of thieves, who are now informed that Randall's trunk is unlocked. However they may not know what city Randall lives in, and conversely readers of the release notes could be anywhere in the world so most are probably not in a position to physically make contact with Randall's car.
+This comic could be seen as a subtle reference to how plain sight communication such as gang codes and steganography are used by people, possibly out of coerced necessity, to communicate information both deniably and publicly. It is likely that this often happens in real app update messages in real life. This kind of communication would more realistically allow a criminal worker to communicate with a contact point without endangering their anonymity by associating with them directly.
+This comic could also be poking fun at the non-descriptive updates many popular apps post in the "What's new" or change log. One example of this would be the Uber app stating "We update the app as often as possible" as a "new" feature every update. Apple recently changed AppStore guidelines[1] to require clear descriptions of new features and product changes, effectively putting an end to the problem Randall is highlighting.
+Realistically, even if it were permitted, this would be a rather slow form of communication, especially on platforms such as Apple’s App Store, where Randall and his friend would need to wait from a few hours to a few days for their app to be manually reviewed for each “update”.
+Transcript[edit]
+[There are two panels that show smartphone-esque screens with two different apps with different update notes, showing a conversation between two people. New updates are added to the top, so to follow the conversation flow one would start from the bottom and alternate between the second app and the first one.]
+[At the top, the status bars between the two panels are slightly different: telephone reception, WiFi strength, battery, GPS...]
+["Updates" is written in uppercase at the top. The first app's icon is an "A" symbol. Next to it, there is the following information:]
+[The app name is a scribble]
+Version 3.0.1
+June 22, 2018
+Update Notes:
+v3.0.1
+I'm actually off work Monday so that's perfect.
+v3.0
+Oh, that sounds fun! What night?
+v2.8.31
+Are you around this weekend? We're heading to the beach.
+v2.8.3
+Hey Mike, you there?
+["Updates" is written in uppercase at the top. The second app's icon consists of three stars arranged in a triangle. Next to it, there is:]
+[The app name is a scribble followed by two stars in parentheses]
+Version 7.0
+June 22, 2018
+Update Notes:
+v7.0
+It peaks August 12-13th.
+v6.8.16
+Sorry, no, going to a wedding. But do you want to camp out for the meteor shower in August?
+v6.8.15
+Yeah, what's up?
+v6.8.14
+Introduced bugs and degraded performance[.]
+[At the bottom of each panel, there are menu icons: a star, a stack of rectangles, a bullet list, a magnifying glass and an arrow pointing down to a square]
+[Caption below the panels:]
+My friend and I both have apps we've stopped maintaining, so we just use the updates to chat.
+
+[For convenience, here are the update notes in order of release (note that the first is not part of the conversation with Mike):]
+"A" app (v6.8.14): Introduced bugs and degraded performance[.]
+"3-star" app (v2.8.3): Hey Mike, you there?
+A (v6.8.15): Yeah, what's up?
+3-star (v.2.8.31): Are you around this weekend? We're heading to the beach.
+A (v6.8.16): Sorry, no, going to a wedding. But do you want to camp out for the meteor shower in August?
+3-star (v3.0): Oh, that sounds fun! What night?
+A (v7.0): It peaks August 12-13th.
+3-star (v3.0.1): I'm actually off work Monday so that's perfect.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+108.162.216.46 16:42, 22 June 2018 (UTC)
+I feel like this might be aimed at Google Hangouts. We started using it for our business several years ago, and every year it gets HARDER to use. 172.68.90.22 16:43, 22 June 2018 (UTC) SiliconWolf
+I wonder if this was inspired by recent allegations about Paul Manafort using "foldering" for under-the-radar communication. 173.245.52.97 18:21, 22 June 2018 (UTC)
+Thank goodness they have lots of battery, because if they were low I wouldn't be able to concentrate on the comic. 108.162.215.70 02:20, 23 June 2018 (UTC)
+Mouseover
+"Trunk should be unlocked" is a software development reference.
+https://en.wikipedia.org/wiki/Trunk_(software) -- 162.158.134.214 (talk) (please sign your comments with ~~~~)
+I'm not so sure. That is an entirely different sense of the word Trunk (car trunk vs tree trunk), and it doesn't have any real connection to the topic of the comic. It's most likely just a coincidence. HisHighestMinion (talk) 20:52, 22 June 2018 (UTC)
+On the contrary, if the trunk is unlocked, whoever picks up his sunscreen is able to reply on the app notes. 172.68.98.34 (talk) (please sign your comments with ~~~~)
+This makes me think of bad git commit names. As if they're updating the app and not bothering to actually describe what the update is, the modern git complaint.(Similar to https://xkcd.com/1296/). 162.158.93.111 00:18, 23 June 2018 (UTC)
+Haaaaaaaaaaaands Zmatt (talk) 10:35, 25 June 2018 (UTC)
+A stands for Apple while the 3 stars stand for Samsung. Samsung means "3 stars" in Korean. Just a bit of fun fact. -- Otterman (talk) (please sign your comments with ~~~~)
+Categories: All comicsComics from 2018Comics from JuneFriday comicsSmartphones

@@ -1,0 +1,44 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2226: Recombination And Reionization
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2226)
+|<< PrevComic #2226 (November 8, 2019)Next >>|
+Recombination And Reionization
+
+Title text: These signals seem to be pre-star-formation but post-Malone.
+Explanation[edit]
+The hydrogen line is a spectral line of neutral (un-ionized) hydrogen atoms. The electrons in an atom have a property called spin, equal to either 1/2 or -1/2, and one "spin state" of the electron in neutral hydrogen has slightly more energy than the other spin state. This means that when the electron in a hydrogen atom spontaneously switches its spin state, it releases a photon at a certain frequency called the hydrogen line. This line falls in the microwave region of the electromagnetic spectrum, with a frequency of ~1.42 gigahertz (GHz). The wavelength corresponding to this frequency is about 21.1 centimeters, giving it the common name of the 21-centimeter line. In this comic, Ponytail is attempting to detect the signal of this emission line from the ancient universe, although due to redshift, the line's frequency has decreased from 1.4 GHz to only ~100 megahertz (MHz), putting it in the current FM broadcast band. In most parts of the world, FM radio makes use of frequencies from 87.5 to 108 MHz.
+The problem that FM radio and the signal for which Ponytail is searching overlap in frequency quickly becomes apparent when tuning to the frequency detects a local radio station rather than the desired signal. The radio station is called Hot 92.7: The Vibe; this indicates that Ponytail is searching for a signal at 92.7 MHz, but there is a radio station interfering with it. She demonstrates this to Cueball by playing the live signal for him, but says that once the radio DJ stops talking, their research will result in a Nobel Prize. This is unlikely, as most radio stations broadcast 24 hours a day without ever stopping (except in cases of power failure, which may also affect Ponytail's radio telescope). An unstated joke is that Ponytail's observational setup receives the FM radio signal at all; any actual radio telescope would have incorporated methods from its inception to exclude local sources of radio signals such as FM radio.
+Cueball points out that perhaps the signal is what the supposed primordial hydrogen line actually sounds like during the phase of universe formation called reionization. Ponytail jokes back that the primordial universe must enjoy playing popular singer Selena Gomez. Although it is theoretically possible that a naturally occurring radio transmission might sound like music to humans, it would not contain clearly understandable coherent sentences in a language that did not exist when the transmission was created.[citation needed]
+The title text refers to the signal Ponytail is detecting, claiming that it originates from before the formation of the first stars in the universe (which took place approximately 150 to 200 million years after the Big Bang), but is additionally post-Malone. "Post Malone" is the stage name of a popular hip hop musician and singer, so this is a play on words, as the "Post" in his stage name isn't referring to "after" something, but is simply his (real) last name, and perhaps a play on the expression "a star is born" for an artist becoming a famous celebrity.
+Transcript[edit]
+[Panel showing Ponytail sitting working at some type of console, possibly in her laboratory. Cueball is standing on the other side of the console, facing her.]
+Ponytail: Our lab is trying to pick up the spin line of neutral hydrogen. It's the only radiation from the era before the first stars formed.
+[Panel showing Ponytail and Cueball. Ponytail has paused working, with one hand raised off the console.]
+Ponytail: It was 1.4 GHz at first, but by now it's redshifted to the 100-MHz range.
+Cueball: Isn't that also where FM radio broadcasts?
+[Frameless panel showing Ponytail and Cueball. Ponytail is pressing a key on the console to enable and disable a live signal from her lab's equipment.]
+Ponytail: Yeah. That's the problem. Listen:
+Sound of switch on console: *Click*
+Audio signal from console: You're tuned to Hot 92.7: the Vibe! Coming up next...
+Sound of switch on console: *Click*
+[Panel showing Ponytail and Cueball. Ponytail has resumed working at the console, and Cueball has raised a hand to his chin.]
+Ponytail: But once this guy stops talking, that Nobel Prize will be ours.
+Cueball: Maybe that's not a station – maybe that's just what reionization sounds like.
+Ponytail: Reionization plays a lot of Selena Gomez.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I'm pretty sure the joke in the title text is the juxtaposition of the name of the musician Post Malone with the term pre-star-formation, I can't find any info suggesting he's in any way associated with Selena Gomez. Does anyone see anything more to it than a pre- and post- thing? Ianrbibtitlht (talk) 05:11, 9 November 2019 (UTC)
+I feel absolutely certain that the title text is ONLY because "Post" is a ridiculous first name, it isn't a name, so Randall is having fun with it. LOL! I could believe this entire comic was constructed around Randall's desire to make fun of the name. It also serves as another artist to add to the crossover jokes, and is actually the ultimate crossover joke as being a connection between the two concepts of radio station and wave monitoring. NiceGuy1 (talk) 05:31, 10 November 2019 (UTC)
+I disagree with this interpretation of the title text. I think a more appropriate understanding to the link of star formation with Malone is from basketball. There is such a thing as a star formation or star passing drill that positions the players like points on a star and passes the ball from point to point [1]. Karl Malone played 19 seasons (18 with the Utah Jazz, 1 with the LA Lakers) with the NBA from 1985 to 2004 [2]. His impact on basketball was substantial and one could easily talk of pre-Malone and post-Malone basketball (my opinion). Rtanenbaum (talk) 15:55, 12 November 2019 (UTC)
+Because it's a convenient number with our unit system, wouldn't millions of devices emit 100MHz noise? I feel that should be added, but I don't know how.
+The comic might also be tangentially referencing the 5G network roll out, which like this radio station will also preclude (specifically weather) science from happening. In the case of the 5G networks, the FCC auctioned off the 24ghz band to telecom companies, where water vapor in our atmosphere actually emits a faint signal around 23.8ghz. Any bleed from the 24ghz band into the 23.8 band can and will (according to NOAA) interrupt weather prediction. [3]
+I suspect that "Hot" and "The Vibe" from the radio station are both references to the science behind this, too. Bobson (talk) 23:17, 9 November 2019 (UTC)
+Possibly, but 92.7 The Vibe appears to be an actual radio station in Miami. 172.68.58.113 21:37, 11 November 2019 (UTC)
+I'm sure I'm not the only non-science reader to have read that first sentence with the word derived from "union" rather than "un-ionized". I laughed with its juxtaposition to the word "neutral"... Can we break with convention and hyphenate the word please? John.Adriaan (talk) 23:44, 10 November 2019 (UTC)
+Actually, inserting a hyphen after a prefix IS the convention when the meaning of a word might be ambiguous, per online writing style guides. I inserted the hyphen to make the word un-ionized, as chemists are likely in the minority on this site. Ianrbibtitlht (talk) 16:27, 11 November 2019 (UTC)
+There's definitely a pun here about scientists being attracted to (or repelled from?) coming together - unionized and un-ionized :) --OliReading (talk) 19:07, 12 November 2019 (UTC)
+there is 3 "clicks" in the comic, but only 2 in the transcript, but my brain is currently not processing how it could be put into the transcript properly and different then the other 2 times. --Lupo (talk) 13:10, 9 January 2020 (UTC)
+Categories: All comicsComics from 2019Comics from NovemberFriday comicsPages using the "citation needed" templateComics featuring CueballComics featuring PonytailCosmologyComics featuring real peopleNobel Prize

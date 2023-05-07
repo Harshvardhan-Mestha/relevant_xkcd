@@ -1,0 +1,68 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2446: Spike Proteins
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2446)
+|<< PrevComic #2446 (April 5, 2021)Next >>|
+Spike Proteins
+
+Title text: Ugh, it's stuck to my laptop. It must have bound to the ACER-2 receptor.
+Explanation[edit]
+This is another comic in the COVID-19 series related to the COVID-19 pandemic.
+This is also another comic about the current vaccine against COVID-19. A vaccine is designed to provoke an immune response from the body of the recipient, which "trains" the immune system to attack actual viruses (or bacteria). For COVID-19, the spike protein, necessary for the virus to bind a receptor on human cells and invade them, is the key protein for an immune response. Almost all vaccines approved for human use pre-COVID actually contain either inactivated pathogen (e.g., flu vaccine), live but safe pathogen variants (e.g., measles), or some protein from the pathogen that the immune system can respond to (e.g., pertussis). The four COVID-19 vaccines approved in the United States or the European Union as of the date of this comic, however, are all a relatively new type of vaccine that instead cause human cells to temporarily produce spike proteins, which the immune system then "learns" to attack. The Oxford-AstraZeneca and Johnson & Johnson’s Janssen vaccines use a technique first approved for the July 2020 Ebola vaccine, in which a genetically modified adenovirus is used to deliver DNA to the nuclei of the vaccine recipients' cells, which convert the DNA to Messenger RNA (mRNA). The recipients' cells then use the mRNA as instructions to produce spike proteins. The Pfizer BioNTech and Moderna vaccines are of an even newer type: mRNA vaccines, which directly inject the mRNA into the body for the cells to use, and never have to enter the cell nuclei.
+Beret Guy, in his usual fashion, misunderstands how reality works, then reality alters to fit his view of it.
+After receiving the vaccine, as he informs Cueball and Megan, he claims he will now go away to make spike proteins. For him, this literally means that he (not his cells) will build them, by unexplained means. When he returns he is carrying his constructed protein, which is roughly 8 orders of magnitude larger than the normal version, and also appears to be dripping. He then drops it on the desk, where a laptop is being used. Cueball part-closes his screen to try to prevent the mass from landing on it - though he's only partially successful.
+When a normal living body is coerced into making a spike protein, they are microscopic particles that distribute internally around the body to provoke an immune response. Beret Guy's macroscopic version provokes an understandable response of both disgust and confusion from both Cueball and Megan, who choose to ask why it is so wet. Proteins are highly hydrated molecules where water — through the moderation of its presence and absence in specific locations — plays a central role in shaping the structure and function of the protein (although it is not clear how Beret Guy knows that the spike protein should be hydrated since this is his first try). Though, of the many questions that might have been asked, it is not an entirely unreasonable snap reaction.
+Beret Guy remains typically oblivious to the fuss he causes. His enthusiastic intention, apparently, is to leave his first proud creation there as he departs to construct further examples. They will likely be no less unwelcome.
+Anything damp and squidgy (as this creation seems to be) would not be welcome around a laptop, for a number of reasons, and Beret Guy seems to have made a particularly messy contact with the part of the case where most such devices are likely to have clusters of heat vents or unruggedized ports/connections that may not react well to the ingress of liquids.
+The title text is a pun on Acer, ACER2, and ACE2. Acer is a brand of computers including laptops. The ACE2 receptor, is an entry point on a cell to which the SARS-COV-2 virus attaches during the process of entering the cell. ACER2 is a real enzyme in humans which, although unrelated to ACE2 or SARS-COV-2, may also help bind the pun together.
+Transcript[edit]
+[Cueball is sitting in an office chair at a desk with an open laptop in front of him. Megan stands behind him looking over his shoulder. Beret Guy is in front of the desk, walking away and looking back at the two while holding a hand to his shoulder, where he got the vaccine shot.]
+Beret Guy: Got the vaccine!
+Megan: Congrats!
+Beret Guy: Time to go make spike proteins.
+[Cueball continues to work on his laptop while Megan is looking on.]
+[In a frameless, narrow panel, Beret Guy walks back carrying a large object in his arms that looks like a spike protein. But it is about half as long as he is tall, fluffy, and dripping wet, flexing slightly along its length, with the Y-shaped head pointed forwards, away from Beret Guy]
+Beret Guy: OK!
+Beret Guy: Here's my first try.
+[Beret Guy drops the spike protein onto Cueball's desk with the Y-shaped end on the desk up against the back of Cueball's laptop. The movement is shown with several lines and a sound follows when it hits the desk. The head of it takes up the entire desk area not covered by the laptop, while the tail overhangs the desk. Cueball is grabbing the lid and base of his laptop with both hands, pulling it partially closed and away from the spike protein, and Megan reflexively leans away.]
+Spike Protein: Plop
+[Beret Guy turns to leave, with an outstretched finger pointing skyward. The overhanging part of the spike protein has sagged, and it is dripping some wet material over both the floor and desk. Cueball is sitting with his hands on the partially closed laptop, Megan stands normally again.]
+Beret Guy: More!
+Cueball: Ewww.
+Megan: Why is it so wet??
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I got my 1st dose today. My apartment is swarming with spike proteins. Barmar (talk) 01:17, 6 April 2021 (UTC)
+My Dad got his second dose on Thursday & got allll the usual symptoms. He's not on antibiotics, but his breath smells like the taste of antibiotics to me. I swear, dogs aren't the only ones that can smell a body's reaction to coronavirus (and also, for reference, cancer stinks).
+ProphetZarquon (talk) 16:39, 6 April 2021 (UTC)
+Can someone here create a "COVID-19 vaccine" category (as a subcategory of COVID-19)? Randall has been posting a lot of vaccine-related comics recently. 172.69.35.113 02:11, 6 April 2021 (UTC)
+Done Category:COVID-19 vaccine. Please add more if I missed some earlier ones. --Kynde (talk) 14:23, 7 April 2021 (UTC)
+
+I don't think the description as it is right now is very accurate. It seems to be stating that the spike protein is a normal protein normally produced by humans, rather than a protein used by SARS-CoV-2 (and likely other similar viruses (virii?) to aid in their infection. In this case, beret guy has gotten an MRNA vaccine (either Moderna or Pfizer), so has given his cells the recipe to make this spike protein for themselves, until the immune system realizes it shouldn't be there. PotatoGod (talk) 07:08, 6 April 2021 (UTC)
+PotatoGod, The J&J vaccine also would've given his cells the recipe to make the spike protein. It just uses an adenovirus to deliver DNA into your cells, where the cells convert it into mRNA and then use that to make the spike proteins. Ahecht (talk) 19:29, 7 April 2021 (UTC)
+I'm a bit suprised there was no Ever Given comic... 162.158.111.161 13:45, 6 April 2021 (UTC)
+It's been delayed by two weeks, by having been sent round Africa...
+(Srsly, though, if the sufficient dose of inspiration hasn't happened - and it's not his usual geek-out topic - then it's no more likely to be mentioned than (say) Brexit issues seriously messing with exports, especially of foodstuffs. And I think the US is largely proof from Suez (or Channel) cargo movements, so may not be on the radar. Chip shortages, etc, are likely from C19 disruptions, not from the otherwise unaffected trans-Pacific shipping.) 162.158.159.108 22:28, 6 April 2021 (UTC)
+Just thought that the event itself is big and interesting enough to warrant a comic, even if it doesn't influence US as much as Europe. (Good joke, though!) 141.101.104.81 10:48, 7 April 2021 (UTC)
+I don't think XKCD is that kind of strip. Randall plays a longer game. Jkshapiro (talk) 15:57, 13 March 2022 (UTC)
+
+As a new 'image' of the Corona virus has recently been used in a scientific publication (as discussed in https://www.snopes.com/fact-check/moist-coronavirus-image/ ), showing a 'moist' Corona virus, I got the impression that the "Why is it so wet?" part of the comic refers to this. (Otherwise it seems like a remark coming out of nowhere.) Of course, at the normal scale of a virus, 'wet' and 'dry' don't really mean anything, but as 'images' of the virus are mostly artistic representations anyway, there's no reason not to show them as 'moist'. (Unsigned addition by 162.158.92.102)
+That article has the odd assertion that "it’s important to remember that art is objective." I think they mean "subjective". BunsenH (talk) 17:25, 6 April 2021 (UTC)
+I subject to such a misuse of terms! 141.101.98.218 22:31, 6 April 2021 (UTC)
+
+EDIT: Removed annoying tag. Sorry! {)|(}Quill{)|(} 18:15, 6 April 2021 (UTC)
+It's marked as "incomplete" because it's new and still under active revision. I don't know if there's a formal criterion set down anywhere, but I don't think it would be appropriate to remove that tag from any page that's been repeatedly edited in the previous ten days or so. BunsenH (talk) 18:33, 6 April 2021 (UTC) EDIT: I find it especially eyebrow-raising when someone edits a page and removes that tag at the same time. If I edit a page, I want at least one more pair of eyeballs to check what I've done. As opposed to the implied "Now that I have made my changes, the page is in its final form."
+Agree with the above user. This text is always placed when a comic is new and is not usually removed for a few days (or even longer). Also, although you say that "this is not spamming", it feels like spamming if you place this exact same text on multiple comics, without even having a real discussion on why a comic is incomplete. 172.69.33.249 22:59, 6 April 2021 (UTC)
+Yes please do not use that template you have made! It is a very bad idea! --Kynde (talk) 08:04, 7 April 2021 (UTC)
+Sorry. I will delete the template and topics. {)|(}Quill{)|(} RE-SIGNED 14:02, 29 April 2021 (UTC)
+Apologies, I somehow managed to add this to the category of pages marked for deletion via my obsolete Date template, which I signed that comment with. My bad! {)|(}Quill{)|(} 14:02, 29 April 2021 (UTC)
+
+Beret Guy superpowers?
+Sorry, I don't know if this is the right format for this, but it seems that not only does Beret Guy often misunderstand, he also has superpowers. Making a life-sized spike protein would classify as that to me. Djbrasier (talk) 01:28, 7 April 2021 (UTC)
+Yes I have added this already. I made this category long time ago: Category:Strange powers of Beret Guy. --Kynde (talk) 07:53, 7 April 2021 (UTC)
+Can't help but wonder if this is a masturbation joke
+Not any more than any other random statement.Jkshapiro (talk) 15:59, 13 March 2022 (UTC)
+It all depends upon how you try to pull it off. 172.70.162.155 20:21, 13 March 2022 (UTC)
+Categories: All comicsComics from 2021Comics from AprilMonday comicsCOVID-19COVID-19 vaccineComics featuring Beret GuyComics featuring CueballComics featuring MeganStrange powers of Beret GuyPuns

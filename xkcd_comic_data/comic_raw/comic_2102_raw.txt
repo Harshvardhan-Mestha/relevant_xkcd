@@ -1,0 +1,46 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2102: Internet Archive
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2102)
+|<< PrevComic #2102 (January 23, 2019)Next >>|
+Internet Archive
+
+Title text: The fact that things like the npm left-pad incident are so rare is oddly reassuring.
+Explanation[edit]
+The Internet Archive is a project that is invaluable for internet research. It is a public archive of information, including public domain books and music. It also runs the Wayback Machine, an archive of backups of web pages all over the Web at various times that can be used to see past versions of a page, even if that site has since shut down. The Internet Archive accepts submissions of any type of information, including new backups of web pages and newly-made public domain content.
+Ponytail and Cueball first remark upon how weird the concept of the Internet Archive is, commenting that it would seem like an implausible concept if not for the fact that it already existed.
+This revisits a point that Randall made in 2085: arXiv: in the title text for that comic, he wrote,
+Both arXiv and archive.org are invaluable projects which, if they didn't exist, we would dismiss as obviously ridiculous and unworkable.
+Our culture has an overarching theme of equating profit with success, so when efforts succeed due to inherent public benefit, this can often yield surprise.
+They then become more philosophical, and wonder about invaluable systems that are maintained by a just a few individuals, meaning that they could disappear if any of those people stopped doing what they were doing. They relate this to the function of the human body, which does contain many systems whose function and inner workings are unknown to the average person.
+Again, as in 2085: arXiv, the two try not to "jinx things" by drawing attention to the improbability of this system working perfectly. In arXiv, when Megan exclaims that being able to post research papers as free PDFs on arXiv "makes no sense at all", Ponytail responds, "Shhh, you'll jinx it!" Here, Cueball tells Ponytail, "Probably best not to think about it." This is ironic as the inclusion of this information in a popular comic like xkcd is drawing attention to it.
+As an example of "invaluable systems maintained by just a few individuals", the title text refers to the "npm left-pad incident", a 2016 incident where a package for the npm package manager was removed from the software library by its author. As this particular package was used by many projects, both directly and indirectly, this caused a severe disruption in the software world. Randall is relieved that cases like this do not occur more frequently. This topic appears to stay on his mind for a while, since 2347: Dependency covers a similar theme.
+Transcript[edit]
+[Ponytail and Cueball are walking to the right.]
+Ponytail: The Internet Archive is so weird. If it didn't exist, it would sound totally implausible.
+Cueball: Seriously.
+[Ponytail and Cueball continue walking to the right.]
+Cueball: Do you ever worry about how reliant we are on systems that someone happens to maintain for some reason but which could disappear at any time?
+[Ponytail and Cueball are seen in silhouette from a distance.]
+Ponytail: Yeah - the same thing freaks me out about having a body.
+Cueball: I know, right?? I don't even know what half these parts do!
+Ponytail: And yet if they stop, we die!
+Cueball: Probably best not to think about it.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The title text refers to: https://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm --162.158.255.142 21:09, 23 January 2019 (UTC)
+the part where they're afraid to jinx it, reminds me of deciding where to sit - it becomes much more challenging when you let yourself realise what a hard problem it is--172.68.141.148 21:43, 27 January 2019 (UTC)
+
+This comic, especially the first line, seems like a natural extension of #2085's title text https://www.explainxkcd.com/wiki/index.php/2085:_arXiv --108.162.219.58 21:22, 23 January 2019 (UTC)
+Of course I've instantly saved this comic to web.archive.org… Fabian42 (talk) 22:48, 23 January 2019 (UTC)
+The second panel makes me think of the current US Gov shutdown. A lot of systems turned off that people rely on. disclaimer: I'm not from the US, nor am I an expert on politics or shutdowns 172.68.144.163 01:45, 24 January 2019 (UTC)
+@172.68.144.163 (There are so many formatting rules I don't know, please excuse this mess) The main problem with the government shutdown isn't so much that ordinary people are dependent on those services, but that the government has effectively temporarily fired a LOT of innocent government employees, and many of them are expected to work without pay until the shutdown ends. (Source: Senior in a US high school contemporary issues class. I'm not an expert on politics either but this is something we talk about a lot). [[User:Some guy named Ethan]] ([[User talk:Don't have one]]) 5:50 am, January 24th, 2019 (PST)
+There are ordinary people dependent on many of those services: Income tax refunds are being delayed. People on food stamps are receiving their disbursements for February now because there is no more funding coming in: Funding that only extends through February also includes CSNC food for senior citizens, & child nutrition programs. March is a big question mark: How long will this take? Some highways that pass through our national parks are not getting plowed; it's not just park visitors who are affected, it's anyone who lives along those corridors (here in Colorado, a lot of people use those roads). Speaking of our parks, even though they're ostensibly closed, the trash is already overflowing at some of our more scenic locations. (Unfortunately a lot of people live there these days, even though they're really not supposed to.) Timber sales are halted, as is wildfire fuel removal, & forest rangers are not on duty. The USDA hasn't been issuing weekly & monthly market reports, which farmers typically use when determining their crop rotations & fiscal planning. A lot of loan services are being told to keep working, but there's no new funding coming in for their programs. Many are not processing new applications until further funding is secured. Oversight functions shut down within some of these agencies include civil rights, human resources, financial management, audit, investigative, legal & IT. At the FDA, food safety inspections are reduced by 69%. Less than one third of DHS’s staff in the Countering Weapons of Mass Destruction Office are still on duty. The FAA's aircraft inspections (already woefully understaffed) are barely happening at all right now. Some disaster relief programs are already reaching the end of their funding. There's about 400,000 government employees affected by the shutdown, but there's another >260,000 workers in federal contractor positions who are out of work with roughly zero possibility of being compensated later. A Colorado tech firm developing tools to help private companies comply with the Endangered Species Act is just one example of non civil-service jobs that aren't getting any money right now. The shutdown is negatively affecting over half a million people directly, & endangering the safety & welfare of countless more.
+ProphetZarquon (talk) 07:29, 25 January 2019 (UTC)
+
+It'll be interesting to see the outcome of lawsuits based on the 13th Amendment ("Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.") claiming that those working without pay are experiencing involuntary servitude, since technically, they are guaranteed to eventually get their pay by law whenever the government opens. Is it possible that the states have any recourse if the federal government is found to be violating the state laws regarding timely paychecks? This whole situation is madness. 162.158.78.220 15:13, 24 January 2019 (UTC)
+@162.158.78.220 it doesn't trigger the 13th amendment because they are allowed to quit. Also, there is no guarantee that government employees will get backpay, congress has to pass a resolution to make that happen. They always have in the past, but it's not automatic. Additionally, all the furloughed government contractors (approx. 1/5 the total government workforce) won't get any back pay. It's a pretty unhappy circumstance all around. (Source: Anon gov contractor) 172.69.62.10 15:42, 24 January 2019 (UTC)
+Congress already has passed such a resolution and President Trump signed it on 16 January. 162.158.79.245 20:59, 24 January 2019 (UTC)
+Categories: All comicsComics from 2019Comics from JanuaryWednesday comicsBiologyComics featuring CueballComics featuring PonytailInternet

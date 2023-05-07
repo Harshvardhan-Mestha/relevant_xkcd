@@ -1,0 +1,46 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2085: arXiv
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2085)
+|<< PrevComic #2085 (December 14, 2018)Next >>|
+arXiv
+
+Title text: Both arXiv and archive.org are invaluable projects which, if they didn't exist, we would dismiss as obviously ridiculous and unworkable.
+Explanation[edit]
+arXiv is a free online repository of electronic preprints of scientific papers in various fields, particularly in physics, math, and computer science. Scientists typically publish "preprint" versions of journal articles to arXiv, which are free to publish to and read. In this comic Megan remarks that academic journals must have a hard time getting by since their primary revenue is from researchers who pay to publish articles and readers who pay for subscriptions. Her remark seems to assume that arXiv must be a recent development, perhaps similar to the Sci-Hub project which began in 2011. However, Ponytail informs her that the arXiv project has been around since the 1990s (1991 to be exact).
+After a panel of Megan looking contemplative, she remarks that that does not make sense at all. After all, why would publishing companies be able to make money from something that is free online? Ponytail tries to stop her from freaking out, so that her outrage does not inform others about the current arrangement and thus ruin the system. She uses the term "jinx", which in common usage means to affect negatively by speaking about, to imply that this system is one that could break down if discussed.
+Ponytail expressing confusion about the continued existence of scientific journals previously happened in 2025: Peer Review.
+The title text refers to another project that is invaluable for internet research, the Internet Archive (link to it here). Internet Archive is a public archive of information, including public domain books and music. Internet Archive runs the Wayback Machine, an archive of backups of web pages all over the Web at various times that can be used to see past versions of a page, even if that site has since shut down. Internet Archive accepts submissions of any type of information, including new backups of web pages and newly-made public domain content. The title text argues that these two projects are so useful, yet make so little economic sense, that, if they did not exist, we would dismiss them as ideas that would never be viable. In addition, as "arXiv" is intended to be pronounced the same as "archive", both sites have URLs with a common pronunciation.
+Transcript[edit]
+[Megan and Ponytail are standing together. Megan is talking to Ponytail.]
+Megan: Wait, all the papers in your field are posted as free PDFs on arXiv? That must be killing big science journals, since they charge such huge subscription/publication fees.
+[Ponytail responds with her arms wide, palms up.]
+Ponytail: Nah, we’ve been doing it since the 90s and nobody seems to care.
+[Megan contemplates, speechless.]
+[Megan slightly raises her arms and Ponytail puts up a hand to shush her.]
+Megan: That makes no sense at all!!
+Ponytail: Shhh, you’ll jinx it!
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+To be fair, the UI is so bad that that alone is barrier enough for downloading the pdf. :D Also, people might now fight me, because it's really easy if you know what to do. Fabian42 (talk) 19:03, 14 December 2018 (UTC)
+
+It appears this comic may be referencing current events where academics are pushing for more open access publishing and publishers are balking. In particular, see this article in the December 13th issue of Inside Higher Ed. Some key quotes from the article:
+The California system wants to fundamentally alter how it pays for journal content from publishers like Elsevier and to accelerate open-access publishing in the process. The UC system wants to do more to make publicly funded research freely accessible to the public.
+If an agreement is not reached before the deadline, then as soon as Jan. 1, 2019, the 69,000 faculty members and 238,000 students in the UC system may no longer have access to new articles published in over a thousand Elsevier journals, including Lancet and biology journals published through Cell Press.
+It’s certainly the case that major publishers have not embraced these types of agreements,” said MacKie-Mason. “Springer Nature has been more agreeable to contracts of this sort, but many are moving slowly, or actively opposing.”
+162.158.106.96 20:43, 14 December 2018 (UTC)
+A group of publishing companies are currently taking legal action against websites that share published papers unofficially [1]. I don't know if this applies to the ones mentioned in the comic, but it partly comes down to whether the article is in it's final 'published' format which is copyright of the journal, or an earlier pre-print version not using the publisher's template where the copyright may still be owned by the authors. On the other hand, some publishers have embraced the pre-print model and created their own servers [2]. 162.158.34.178 21:13, 14 December 2018 (UTC)
+Propably also interesting https://www.projekt-deal.de/about-deal 162.158.202.52 04:54, 15 December 2018 (UTC)
+Here is information on how preprints are different than peer-reviewed publications http://holly.witteman.ca/index.php/2017/12/11/getting-access-to-paywalled-papers/
+Link rot detected, corrected link found https://holly.witteman.ca/getting-access-to-paywalled-papers/
+Can someone deduce the field Ponytail is working on?
+What fields are they taking about? Which have been most open to sites like arXiv and which have been most reluctant? 108.162.246.161 19:46, 14 December 2018 (UTC)
+I know that pretty much every astronomy paper is on arXiv.
+arXiv is definitely an astronomer's haven. I don't think even physicists use it as much. And actually, quite hilariously, apparently arXiv recently stopped accepting research notes, and that made AAS Journal that publish these research notes most disappointed [3].
+Everything in atomic physics is there too. I can't remember any recent paper I searched that was not on arXiv.
+Everything math related is there as well.
+Just a bit late, but four years later Nature Podcast answers: https://www.nature.com/articles/d41586-022-01985-5
+It's biology and medicine that were largely not using the preprint servers until the COVID-19 pandemic. Nitpicking (talk)
+Categories: All comicsComics from 2018Comics from DecemberFriday comicsComics featuring MeganComics featuring PonytailScienceScientific research

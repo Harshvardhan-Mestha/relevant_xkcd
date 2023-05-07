@@ -1,0 +1,75 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2057: Internal Monologues
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2057)
+|<< PrevComic #2057 (October 10, 2018)Next >>|
+Internal Monologues
+
+Title text: Haha, just kidding, everyone's already been hacked. I wonder if today's the day we find out about it.
+Explanation[edit]
+This comic explores some seemingly strange perspectives that academics or professionals might have due to their deeper knowledge and understanding of the fields that they study.
+Many seemingly mundane phenomena can actually be quite weird or counterintuitive if you understand how they really work. The five people featured in this comic, all from different disciplines, are all aware of certain facts about reality that seem so strange even they have trouble believing they are true; yet, undeniably, they are.
+Megan, a botanist, is struck by the fact that trees are made in large part from air, as in the carbon dioxide they consume.
+Cueball, a physicist, finds it weird that he can feel the gravity between an object in his hand (his phone) and the Earth.
+Blondie, a computer security researcher, knows of the inherent insecurity of computer systems and wonders if today is the day everyone will get hacked, collapsing our society.
+Hairy, a graphic designer, wonders what sequence of events drove a store's decision to use a particular recognizable font for their signage.
+Ponytail, studying medicine, wonders how humans manage to seem so normal on the outside, given that most of their bodies are made up of things usually unmentionable.
+Four of the five people are pondering things that they happen to find very interesting but that aren't too concerning to an everyday person, whereas what Blondie is pondering could have widespread or even global effects on our way of life. In the title text, Blondie amends her thought, since she actually knows an even more concerning truth: we've already all been hacked, and we just don't know it yet.
+Below, the people's thoughts are explained in detail.
+Botany
+Much of the mass of trees is extracted from the air. An Australian ABC program explains that "Trees are made from air". More precisely: The bulk of the mass of a tree is composed of cellulose and water.
+Cellulose is a polysaccharide, a large molecule consisting of many glucose molecules (C6H12O6) bonded together. Plants make those glucose molecules through photosynthesis: they make them by combining water (H2O) and carbon dioxide molecules (CO2) using the energy from sunlight, releasing oxygen in the process (O2). Plants get the carbon dioxide from the atmosphere, and arguably the water also as it usually comes from rain which is condensed water vapor.
+The main photosynthesis balance is given by the formula :
+6 CO2 + 6 H2O -> C6H12O6 + 6 O2
+Physics
+Gravity is the weakest of the four fundamental forces in physics but also to humans the most preeminent one. In everyday experience, most people tend to think of gravity merely as a pervasive downward force, but as a physicist, Cueball is more aware that in fact, all gravitational forces are mutual; any pair of objects will exert a gravitational force on each other, regardless of how big they are. Therefore, he is correct in saying that his phone and the Earth are being "pulled together", and finds it remarkable that he is able to sense this interaction between two objects of such an disparate size even when the gravitational pull of the phone is hard to detect.
+Computer Security
+Anyone well versed in computer security understands just how insecure the systems that we depend on actually are.
+In the title text it is noted that possibly all our systems are already hacked, and we just haven't found out yet. Since malicious hackers do their work covertly, a successful hack often isn't discovered until days, weeks, or even years later if at all. By that time they may have successfully hacked many other systems using the same techniques and/or exploiting the same widely unknown or un-patched security flaws. Some high profile hacks recently discovered at the time of this posting include a 50-million user hack of Facebook and Google+ announcing they are shutting down the consumer side of Google+, in part due to a security flaw that was discovered and patched months ago.
+Graphic Design
+Graphic designers recognize fonts and design elements, and see how they come together. In this comic, the graphic designer wonders how the Law & Order font was chosen for a particular storefront's sign. Law & Order is a police procedural TV series created by Dick Wolf in 1990, which has had various spinoffs. The font used for the title sequence of Law & Order is called Friz Quadrata, and is also the font used for the signage of the New York Police Department headquarters.
+Medicine
+Doctors are well versed in human anatomy, and are likely to think about what is inside of people more than the average person would. And most people would actually like not to think about all the blood and bones we are all carrying around with us. Not to mention the poop or the contents of our stomach that could be considered vomit or the pee etc.
+Most people do not think about that the person next to them is actually a skeleton packed in meat and animated by electricity... But Ponytail does, because she is being exposed to this fact all the time through her study of medicine.
+Transcript[edit]
+[Beneath a two line caption are five characters shown, with their thoughts inside thought bubbles. Below them are labels giving their respective fields of science.]
+Internal Monologues
+from various fields
+Botany
+Megan: I can't get over the fact that trees are made of air.
+Physics
+Cueball [looking at a phone in his hand]: It's so weird that I can feel the Earth and my phone being pulled together.
+Computer security
+Blondie: I wonder if today will be the day everyone gets hacked and it all finally collapses.
+Graphic design
+Hairy: I wonder how that store ended up with the Law & Order font for their sign.
+Medicine
+Ponytail: We're all acting normal even though we're full of blood and bones and poop.
+Trivia[edit]
+913: Core shows what a geologist might have thought about had they been in this comic.
+A similar expression of a mundane phenomenon that's really weird when you think about it can be seen in 203: Hallucinations.
+This comic has a similar setup to some other kinds of thoughts between such scientific fields presented in 435: Purity.
+On computer security, Randall gave a similar message about voting software security in 2030: Voting Software.
+On medicine, Doctor Ponytail offers similar thoughts in this comic and in 1839: Doctor Visit.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+No maths? Too bad...
+141.101.77.116 14:39, 10 October 2018 (UTC)Some Nerd
+Mathematicians don't need to wonder why, they can show their working. 141.101.77.140 15:17, 10 October 2018 (UTC)
+If we're going to mention other places the font is used at, I figured it may be worth leaving this here: https://en.wikipedia.org/wiki/Friz_Quadrata#Usage (not necessarily worth adding to the explanation, but people may be interested in the trivia.) 162.158.126.88 22:42, 10 October 2018 (UTC)
+WHAT? They are shutting down Google+? What will I be not-really-using now? -- Hkmaly (talk) 23:40, 10 October 2018 (UTC)
+I interpreted the observation that trees are mostly made of air as referring to the fact that much of the internal structure is composed of hollow tubes filled with air. This also makes sense because wood floats in water due to the amount of air inside the wood fibers. Ianrbibtitlht (talk) 14:01, 11 October 2018 (UTC)
+A link between this comic and 1839 is needed (both directions), as the doctor is having the same issues. Would do it myself, but I am at work and do not have the time for proper writing, and will forget about this by the time I am home.--Lupo (talk) 06:41, 12 October 2018 (UTC)
+Maybe, but it's only trivia because it doesn't explain this comic. And we have categories shown at the bottom. --Dgbrt (talk) 19:24, 12 October 2018 (UTC)
+Yes, you are right, it fits better in trivia. Thanks for moving it there. Categories do not show the similarity in doctor ponytails statements. --Lupo (talk) 21:50, 12 October 2018 (UTC)
+Honestly, I thought my explanation of the Physics one was much better. The current explanation doesn't seem to address what Cueball is actually thinking. Hawthorn (talk) 10:33, 22 October 2018 (UTC)
+Cueball mentions the feeling how a phone is pulled together. That is electromagnetism and NOT gravity. And also touching it with your hands involves electromagnetism rather than gravity. AND gravity is pulling you to the center of the Earth, but you are stopped by electromagnetism between the Earth surface and you. --Dgbrt (talk) 18:42, 22 October 2018 (UTC)
+I'm almost certain that you're misreading or misunderstanding what Cueball is saying. He isn't describing his phone being "pulled together" in the sense of intermolecular forces between atoms. Read the sentence again: he's describing the Earth and his phone being pulled to each other. And while yes, it is true to say that Cueball's "feeling" is electromagnetic in nature (ie. he "feels" the atomic bonds, not the gravitational attraction), I don't think that's the intention behind his words. He's not marveling at the electromagnetics of the situation; he's describing two objects that differ only in their masses, and his place in that interaction. Hawthorn (talk) 12:44, 23 October 2018 (UTC)
+Since the other "scientists" also do simple statements about a single fact you have convinced me. A real physicist never would forget that objects like phones are pulled together by electromagnetism, but Cueball does. I've reverted my edit with a small addition to the former text. --Dgbrt (talk) 19:51, 23 October 2018 (UTC)
+Thanks! :) Hawthorn (talk) 12:28, 24 October 2018 (UTC)
+"Botany - Megan: I can't get over the fact that trees are made of air"
+The converse of this is that, if you are on a diet, you lose mass through your lungs. The carbon in the molecules is lost in the form of CO2. The hydrogen and oxygen are lost in the form of water, part of which is also lost as water vapor in the lungs. Rps (talk) 11:34, 16 August 2021 (UTC)
+Other major components of plants (and all life) are proteins, which are also composed of carbon, hydrogen, and oxygen (derived from air and water), as well as nitrogen. Nitrogen is also extracted from the air, but not directly by plants. Instead, they largely get it from bacteria, either in soils or colonizing the plants themselves, as in legumes. Woody plants have a large component of lignins ... which also derive from atmospheric CHO. Nitpicking (talk) 00:03, 9 August 2022 (UTC)
+Categories: All comicsComics from 2018Comics from OctoberWednesday comicsComics featuring MeganComics featuring CueballComics featuring BlondieComics featuring HairyComics featuring PonytailSciencePhysicsComputer securityBiologyMedicine

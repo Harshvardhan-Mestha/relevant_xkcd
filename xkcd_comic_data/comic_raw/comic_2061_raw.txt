@@ -1,0 +1,101 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2061: Tectonics Game
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2061)
+|<< PrevComic #2061 (October 19, 2018)Next >>|
+Tectonics Game
+
+Title text: They're limiting the playtesters to type A3 V stars, so the games will all end before the Sun consumes the Earth.
+Explanation[edit]
+This comic is to show similarity to many simulation games, which have various niche popularity. Similar to Maxis' Spore, the game in question allows you to terraform entire worlds. However, in a typical Randall twist, unlike most simulation games, you could not speed up the progress of time to make world-changing endeavours occur in a matter of seconds. The game operates in real time, which means most of the user time-frame will be spent idly watching nearly non-moving continents, drifting at the real speed of continental drift, a couple of inches a year, which makes for very slow gameplay. Thus several hundred millennia of play time is needed to reach a game achievement of forming a kilometre high mountain.
+Many computer games simulate to one degree or another real items and tasks, but often simplify them to fit into a game format -- to make them more exciting, to make them quicker, to advance a particular plot line or quest, etc. For example, a game about farming might allow you to grow corn, but whereas in real life corn takes about 90 days to germinate from seed and grow to maturity, in a game the growth might be instantaneous or measured by minutes, rather than by days/weeks/months. The comic may thus be a jab at how our lives already are real time MMORPG.
+In this game, especially, one would expect such shortcuts, given the extreme time frames required for geological events to be manifested. The joke is that this game is so realistic that it's played in "real-time", which means for every second or hour or eon something would take in real life, in the game it would take the same second or hour or eon to happen. Playing such a game where the events take longer than the person would be alive would likely be unsatisfying.[citation needed] A mildly less extreme example of a simulation game being played in real-time would be the Desert Bus video game where you have to drive a bus from Tucson, Arizona, to Las Vegas, Nevada, in real time at a maximum speed of 45 MPH. The trip requires eight hours of continuous play to complete, at which point you score one point with the option to continue playing for additional points at the rate of one point per successful eight hour trip. The action consists almost entirely of just keeping the bus from veering off the road. It cannot be paused or sped up, and failure requires a tow back to the starting point at the same 45 MPH speed.
+The frames show some elements of gameplay. The first frame shows a destructive plate margin in which an oceanic plate (grey) is being subducted under a continental plate (brown with a person standing on it) while sediments between the plates are compressed to form mountains. Clockwise from top left, the second frame shows a cross section through the planet and various statistics about the planet (CO2 levels of 840 ppm, solar irradiation of 1184 W/m2 and heat-flow through the crust of 91 mW/m2). Solar irradiation and heat-flow are similar to the Earth, but CO2 levels are raised. Bottom right displays several stats titled LT, LM, LA and LL, and bottom left is a view of the planet showing the proportion covered by ice (3%), land (31%) and water (66%). It seems that the raised CO2 levels have reduced the amount of ice compared to the Earth. The final panel shows some of the achievements that can be unlocked, the first is 1 km mountain and the last achievement of the first row is 10 km mountain. Below that seem to be achievements in the formation of an atoll.
+Large igneous provinces are suspected to be related to extinction level events and rapid climate changes in real life. Thus, they 'are the worst' in this game.
+In the title text type A3 V stars are mentioned which are white main sequence stars at mass from 1.4 to 2.1 times the mass of the Sun. Thus they have a shorter lifespan than the Sun, hundreds of millions of years, compared to the 10 billion years lifespan of the Sun. By starting the game now with an A3 V star, there would be plenty of time to complete the game before the real Sun would go to a Red Giant destroying the Earth.
+Transcript[edit]
+[Cueball is standing behind Ponytail, who is sitting on the floor playing a video game on a TV which displays a diagram of tectonic plates.]
+Cueball: What game is that?
+Ponytail: Tectonics!
+Ponytail: You steer chunks of crust around, rifting, subducting, and building and eroding mountains.
+[A view of the game screen is shown. It includes a large cross-section of the Earth with smaller charts around it.]
+Ponytail (narrating): You try to keep your climate stable and your biosphere rich.
+Ponytail (narrating): Avoid making large igneous provinces! They're the worst.
+[Cueball holds his hand out in a frameless panel.]
+Cueball: Cool!
+Cueball: Can I try?
+Ponytail (off-panel): Sure!
+[Cueball plays the game while Ponytail watches.]
+Cueball: ...How do I unpause?
+Ponytail: It's not paused.
+Cueball: ...
+Ponytail: Continents can only move a few inches per year.
+[Cueball has stopped playing and holds the controller in one hand. Ponytail points at the screen that shows an achievement page with no completed achievements, but a progress bar halfway done for an achievement with the number 1 and a mountain.]
+Cueball: It's real-time?
+Ponytail: Just 400 millennia to go until your first mountain achievement!
+Trivia[edit]
+This comic's number and content regarding simulations in real time may also be a reference to Arthur C. Clarke's 2061: Odyssey Three, the third book in the Space Odyssey series, in which monoliths are left throughout the solar system, manipulating environments to encourage the evolution of intelligent life.
+During the time that this comic was on the front page of xkcd, the Header text changed to help people on how to vote in the upcoming election. See this trivia from the 2068: Election Night comic.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Please never move discussions to other sections; the chronological order has to be respected. --Dgbrt (talk) 19:51, 20 October 2018 (UTC)
+Wrote my first transcript. Hopefully it isn't terrible, haha. IYN (talk) 17:13, 19 October 2018 (UTC)
+Not bad, but please do not remove the incomplete tag too soon. Even my smaller changes don't convince me right now that it's complete. --Dgbrt (talk) 17:34, 19 October 2018 (UTC)
+There's no explanation OR transcript for the Title-text, yet. Sooo...
+ProphetZarquon (talk) 18:41, 19 October 2018 (UTC)
+I know very little about stars. Can anyone explain what the type in the title text is? 162.158.63.70 18:23, 19 October 2018 (UTC)
+The nice thing about this game is you could represent the Earth by a 1000-pixel wide map, and it would take over a decade before anyone could tell whether you'd actually implemented anything. -- Dtgriscom (talk) 20:53, 19 October 2018 (UTC)
+In Panel 2, there is a box with the following information
+      Single    Multi
+LT    80 GT     440 T
+LM    15 GT       3 GT
+LA     2 MT       0 T
+LL   580 GT       0 T
+What does this mean? The measurements seem to be in gigatonnes, hence a measure of mass. CO2 releases are often measured in Gigatonnes. The geochemical carbon cycle is a significant long term negative feedback loop, so I guess these relate to CO2, but I can't guess the specifics. Zeimusu (talk) 15:00, 20 October 2018 (UTC)
+Just a guess, but I think it could be the amount of life, as a goal is to "keep your biosphere rich". Single and multi then mean single- and multicelled, and the terms on the left could be "Life-Terrestrial", "-Marine", "Aerial" and "Littoral" Emil (talk) 11:29, 21 October 2018 (UTC)
+And if you look at the high-DPI image you can see that the second row of achievements in the last panel, underneath the stages of mountain, is not "achievements in the formation of an atoll" but evolutionary stages of life: (1) non-cellular (or cellular but prokaryotic?), (2) cellular with a nucleus (eukaryotic), (3) multicellular, and (4) what looks like a side-view of a mammalian eye. 162.158.155.158 17:22, 22 October 2018 (UTC)
+An Actual Game
+Here is a section for people who are looking into actually developing a game. (With time warp obviously.)
+Seriously though, this could actually be a fun (and educational) simulator, similar to KSP. --172.69.142.10 02:31, 20 October 2018 (UTC)
+My wife is trying to physically restrain me from immediately starting to write this game...int main ( int arggggg...ow...get off SteveBaker (talk) 16:52, 19 October 2018 (UTC)
+If the comment section of this comic is anything to go by, you could sell it for a buck a pop and get...I dunno...$12 at least? GreatWyrmGold (talk) 19:01, 19 October 2018 (UTC)
+Who wants to help me make this? Blacksilver (talk) 17:24, 19 October 2018 (UTC)
+With a sufficiently large time warp, this actually sounds like it would be pretty fun. Ahiijny (talk) 18:20, 19 October 2018 (UTC)
+Hey, guys reading your comments I can see several people, including myself, might be interested in making a game like this. Perhaps we should coordinate efforts to make one? 162.158.246.100 23:15, 19 October 2018 (UTC)
+I can’t make a game if I could I would. I really want to see some xkcd fan group release this as a game.
+I came here specifically to see if this game existed and I'm irritated it doesn't yet. People with better coding and geological skills than me, you have an interested party. 108.162.221.83 (talk) (please sign your comments with ~~~~)
+I'm fully on board. If and when this thing hypothetically gets popular, I'll be like, "Hey, I was there!" 172.68.46.5 04:12, 20 October 2018 (UTC)
+I have a feeling that making this game would be an awful like No Man's Sky, all the physics would be extremely difficult to manage and take years to iron out fully. 162.158.246.88 15:03, 20 October 2018 (UTC)
+I would love to help. I'm thinking something like https://en.wikipedia.org/wiki/Reus_(video_game). But just with planetary modification abilities. 108.162.237.58 (talk) (please sign your comments with ~~~~)
+If anyone's interested I made a discord server where we can talk about making this: https://discord.gg/4MGZT7n MutedAjar (talk) 05:18, 21 October 2018 (UTC)
+I'm surprised no one's brought up SimEarth, which you start out by terraforming a barren planet, making sure life forms, evolves to sentience, and watch it leave for the stars 172.69.22.140 00:30, 23 October 2018 (UTC)
+It's going to happen! Working title is "Tectonica" (yeah - in the cartoon it's "Tectonics!" but you can't have a '!' in a URL and we liked "tectonica" better). Nothing to see YET but we have tectonica.fun registered and active technical discussion and the promise of some minimal "getting started" code. Plan is to have it run in-browser for portability and to be written in C++/wasm and WebGL for speed. And, yes, we'll add an "accelerated realtime" button for those more impatient players <sight>. SteveBaker (talk) 19:04, 28 October 2018 (UTC)
+This doesn't explain the comic, I've moved it to the trivia section. And if the provided link there will be not much more than a single picture it's even NOT valid for the trivia section. --Dgbrt (talk) 18:42, 29 October 2018 (UTC)
+Oh good god no! It shouldn't even be in the trivia section at all until something is actually running and looking somewhat like a playable game. I didn't intend this to be something to go into the "explain" at all. Just that anyone else who thinks this might make a pretty decent game MIGHT come here - see this in the Talk and head over to make it happen. SteveBaker (talk) 01:53, 30 October 2018 (UTC)
+Thanks for your reply, it's removed from the trivia section. You could have done this too. --Dgbrt (talk) 20:27, 30 October 2018 (UTC)
+Unity version!
+A (currently) small splinter group has formed that would rather use Unity to create the game. While I respect the decision to build the game in C++/wasm, I feel that the barrier to entry is slightly too high for most people to begin contribution. In contrast, Unity is well-documented and there are many tutorials available online already for those who wish to contribute. We have a discord server available here: https://discord.gg/4QP6d6q 172.69.42.40 22:07, 15 November 2018 (UTC)
+Other Real Time Games
+This is for discussion of other real time games. (I.E. Desert Bus) --172.69.142.10 02:34, 20 October 2018 (UTC)
+I have this horrible urge to find the Desert Bus source code and mod it to make "Desert Bus 2: Walt Disney Land to Walt Disney World" 172.68.90.88 21:53, 19 October 2018 (UTC)SiliconWolf
+From what I gather, part of the "magic" of Desert Bus is the whole lotta hours of repetitive nothing, and I seriously doubt the trip between Disneys is filled with nothing to see. :) Otheriwse I find this to be an awesome idea, LOL! NiceGuy1 (talk) 05:45, 5 November 2018 (UTC)
+It's like playing Desert Bus for the rest of your life...  :) 162.158.63.154 18:23, 19 October 2018 (UTC) Scott
+As soon as I saw the headline that this was about other real time games, first and only thought was Desert Bus, LOL! Which I've only heard of (primarily from Angry Video Game Nerd). :) NiceGuy1 (talk) 05:45, 5 November 2018 (UTC)
+I thought it appropriate to add Desert Bus to the main description as a real world example of a tedious real-time game that goes to a ridiculous extreme... though much less extreme and ridiculous than the one in the comic. -boB (talk) 21:17, 19 October 2018 (UTC)
+Does anyone else remember the old DOS game: 688 Attack Sub? Where it felt like you were waiting forever for your torpedo to hit? I liked that they told you that, in the real world, it's much slower than it is in the game.172.68.65.6 18:46, 19 October 2018 (UTC)
+Back then I had a demo (I believe I recall it was on 1 disk and ran off the disk, so I could play on any computer I encountered). Been a while, but I believe it was one specific scenario with a bit of randomness thrown in (like the decisions other ships made), and I played it many, many times. Since it was the demo either the part about not-real-time torpedoes wasn't in there or I always jumped straight to the gameplay, LOL! NiceGuy1 (talk) 05:45, 5 November 2018 (UTC)
+Not really sure where to put this, so posting it here: Too bad the comic wasn't a bit longer. Could have had Ponytail respond to "It's real time" with "Of course not. It's a million times faster." "Whew." "Yeah, just 400 more years until your first mountain achievement." -- Trlkly (talk) (please sign your comments with ~~~~)
+Actually, at 1 million times faster, it would only take 0.4 years, or about 5 months. 141.101.88.196 (talk) (please sign your comments with ~~~~)
+Are you sure the second row of achievements is about atolls? It looked more like evolution of life to me (single celled, multicellular, something, fish). -- 162.158.62.33 11:35, 21 October 2018 (UTC)
+I was immediately reminded of Wobbler's (or Pratchett's, depending on which side of the 4th wall you look from) "Journey to Alpha Centauri" - and it turns out it was actually made into a "real" game too. 162.158.210.22 09:03, 22 October 2018 (UTC)
+Didn't / doesn't have the MS Flight Simulator a real time mode? I think I somewhere read something about that some time ago. Dunno if true, wikipedia doesn't say anything about that. Elektrizikekswerk (talk) 10:23, 22 October 2018 (UTC)
+@Elektrizikekswerk: yes, it did. I recall one of the challenges on Message Boards at the time was to complete Sydney-LAX in real time (~12 hours continuous flying) in poor weather. I'm searching for evidence of this and will update once I can link it together. 162.158.63.88 14:03, 22 October 2018 (UTC)
+Some facts: MS Flight Simulator (MSFS) is dead since 2009, MS closed it and they sold something to someone but not much happened since than. AND it wasn't really a game, it was a realistic simulator you couldn't use it without some general knowledge about aviation. Fifteen years ago I've flown many legs about two up to four hours, in real-time. Besides the starting and landing phase it was boring, just because the autopilot does nearly everything - the only important thing was interacting with ATC (Air Traffic Control) and following their instructions along your flight path. Four hours monitoring the radio, adjusting your flight level slightly, drinking coffee or getting a meal - just as the real thing is for a professional pilot (assisted by the autopilot). --Dgbrt (talk) 19:37, 22 October 2018 (UTC)
+I think it's important to note that the 10k final achievement requires the player to "Out do" Everest (8,848m) which might not be possible under Earths gravity. Unless the achievement for mountains isn't measured from Sea-Level (in which case, Hawaii's Mauna Kea would've JUST made this achievemnt at 10,203M) or if it doesn't take place on Earth. 108.162.237.238 18:05, 24 October 2018 (UTC)
+Other than the aforementioned Desert Bus, the only real-time thing I can think of is part of the The Simpsons Freemium game Tapped Out. Cletus has a farm that can grow various crops which are generally silly and many related to the show, but one is titled "Corn. Actual corn", which takes 90 days to complete (most of the longest things are 24 hours, with only a handful of items being longer), the gag being that in real life corn apparently takes 90 days to grow. NiceGuy1 (talk) 05:45, 5 November 2018 (UTC)
+It already exists as software!!![edit]
+This kind of program already (sort of) exists and is used by professional geologists. In general it's called section balancing (Wikipedia calls it section restoration). The objective of the programs is normally to move backwards through time to see how the earth looked in the distant past, but they can either animate starting from the past up to the present day or could move into the future. Some examples are 3D Kinematic from Midland Valley, KronosFlow from Beicip-FranLab or their older product LOCACE, Kine3D from Paradigm, and Dynel3D from iGeoss (now Schlumberger). Jlhollin (talk) 17:24, 28 November 2018 (UTC)
+I wondered about this! I'm a geologist, and as far as I know our modeling software for the mantle is not that fantastic, but it would be a place to start for anyone looking to make the game irl. I love my field but it constantly astounds me how much we still don't know. I remember my Igneous and Metamorphic Petrology profs getting into a heated debate over what mechanism drives plate tectonics: slab-pull or ridge-push, with no resolution either way. And LiDAR, so important for the surveying we do, wasn't available until the 80s or later. Even our foundational theory of plate tectonics has only been accepted since the 50s. Anyway this is my favorite xkcd comic because if this was a real game geologists would probably be using it for research, and I would play it nonstop even though petrology isn't my specialty. Curiouscat (talk) 05:02, 9 August 2021 (UTC)
+Categories: All comicsComics from 2018Comics from OctoberFriday comicsPages using the "citation needed" templateComics with colorComics featuring CueballComics featuring PonytailScienceVideo gamesGames

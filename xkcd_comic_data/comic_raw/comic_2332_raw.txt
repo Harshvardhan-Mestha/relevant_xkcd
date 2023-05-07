@@ -1,0 +1,58 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2332: Cursed Chair
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2332)
+|<< PrevComic #2332 (July 13, 2020)Next >>|
+Cursed Chair
+
+Title text: The Wirecutter staff called the Herman Miller Siege Perilous "the most cursed product we've ever had to fight" and "nearly as immortal as it boasts."
+Explanation[edit]
+This comic is another in a series of comics related to the COVID-19 pandemic.
+Beret Guy informs Cueball that he purchased a cursed office chair from a mysterious shop. Cueball isn't sure if he remembers this happening, which is possibly because Beret Guy has previously stated that he makes a habit of purchasing daily necessities from such stores. Beret Guy then exclaims that the store he bought the chair from was gone when he went to return it, though given his buying preferences, he should perhaps not be so surprised. Cueball suggests that maybe the shop was simply closed due to the COVID-19 pandemic, as is the case for wide variety of non-cursed businesses.[citation needed] Beret Guy takes this as proof that the chair somehow caused the pandemic, a claim Cueball meets incredulously. In the final panel, Beret Guy is doing battle with the chair, which taunts him and claims to be immortal (“I can not die”). In fact, most chairs cannot die, because they are not alive.[citation needed] Cueball remarks that it would be simpler to shop at IKEA, a store famous for its minimalist flat-pack furniture, and which usually does not sell cursed items[citation needed] (although they do sell “miniature Dyson spheres”).
+The cursed chair and the boarded-up store are references to the stores that sell cursed items mentioned in 1772: Startup Opportunity. In that comic, the stores vanished without a trace. But the fact the door was boarded is much more likely due to the pandemic or other causes than the store mysteriously disappearing.
+Buying an item from a shop you never noticed before, bringing it home, discovering it is cursed, and trying to return it only to discover the shop isn’t there anymore is a popular trope. See The Little Shop That Wasn't There Yesterday.
+In the title text, the Siege Perilous is the empty seat at the Round Table in Arthurian legend, reserved by Merlin for the knight who would find the Holy Grail (who turns out to be Sir Galahad) and fatal to anyone else who sits in it. Herman Miller is an American office furniture company that produced the Aeron chair, which is the basis for an artwork by Glenn Kaino called The Siege Perilous. Wirecutter is a website that evaluates and recommends consumer products. From the title text, it sounds like (in the xkcd universe) Wirecutter is used to encountering cursed products,[citation needed] so they didn’t even bother trying to sit in it to test the Siege Perilous’s perilousness (er, peril) before they started fighting it—and emerged victorious, if it’s only nearly as immortal as it boasts.
+Transcript[edit]
+[Beret Guy and Cueball are talking.]
+Beret Guy: Remember how I bought my desk chair from that mysterious shop?
+Cueball: I think so?
+Beret Guy: Turns out the chair was cursed.
+[Beret Guy and Cueball are still talking. Beret Guy has his palms out.]
+Beret Guy: So I went back to return it, but the shop was gone! The door was boarded up!
+Cueball: I think most of the shops are closed because of coronavirus.
+[Beret Guy has his hands over his mouth in shock.]
+Beret Guy: Oh no!
+Beret Guy: The curse must have caused the pandemic!
+Cueball (off-panel): What.
+[Beret Guy starts running with a raised sword in a frameless panel. Cueball is next to him.]
+Beret Guy: If I destroy the chair, we can stop the virus!
+Cueball: What.
+[Beret Guy is chasing a floating desk chair. Cueball is watching. The desk chair speaks with white-on-black text.]
+Beret Guy: Die, plague-bringer!
+Desk chair: Hee hee I can not die
+Cueball: Maybe you should just shop at IKEA.
+Trivia[edit]
+The hotlink image for the comic was initially extremely pixelated, but the image displayed on the page was a different URL and looked fine. This was soon fixed.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+why so pixelated? 162.158.34.206 23:06, 13 July 2020 (UTC) xkcd addict #40571
+It is very pixelated, isn't it?
+ProphetZarquon (talk) 00:15, 14 July 2020 (UTC)
+I was hoping there was some kind of extra joke there, but I can't find it. --Draco18s (talk) 01:18, 14 July 2020 (UTC)
+I'm glad someone put the 'pixelated' image as a postscript, since my last visit here, as the first time I read the above about it, it seems it was already fixed.
+And, though I'd need to check on a desktop, it looks like the unaliased image might have been saved in two-tone (1-bit) colourspace pallette in that version, perhaps in a misclick error when intending to save as greyscale... 141.101.98.222 17:36, 14 July 2020 (UTC)
+I'm pretty sure if he shops at IKEA he'd try to read one of the names and accidentally summon a demon. DanielLC (talk) 23:41, 13 July 2020 (UTC)
+I'm not sure whether he's summoned a BLECKBERGET, or a HATTEFJÄLL.
+ProphetZarquon (talk) 00:15, 14 July 2020 (UTC)
+I don't think I'd feel safe talking to White Hat without social distancing or face masks. Orion205 (talk) 01:32, 14 July 2020 (UTC)
+I'm not sure that'd ever be sufficient. Yet more evidence that mundane things become what Beret Guy (not White Hat, at least I think canonically not the same) thinks they should become. I bet the chair was normal, and the shop it came from was normal, 'normally' closed for the duration. Now the chair is cursed and the shop's owner now finds they are in charge of an establishment that is doomed (or free?) to wander time and space... 141.101.98.222 17:36, 14 July 2020 (UTC)
+This comic's alt-text wins "The Deepest Indirect References" award for sure. Cellocgw (talk) 10:38, 14 July 2020 (UTC)
+---
+"extremely very pixelated with no aliasing" should be "extremely very pixelated with no anti-aliasing"
+In the original pic, I can see the aliasing effect and the ziggurat steps it creates just fine. Anti-aliasing is the thing that removes the aliasing ("pixelation") effect.
+Kurkosdr (talk) 17:23, 14 July 2020 (UTC)
+You just snuck that in, while I was pondering my guess about that whole issue in (two more levels of) reply to the top Talk comment. I wouldn't consider it pixelisation if the pixels were the same size all over (for a given resolution) and also not deliberately averaged out so blocks of n*n were obfuscated the same as the best available mean of that block. Randall doubtlessly downscales from his original art (at least from the x2 version of the image - if not a huger, normally unplublished, original) but normally the greyscale in 1*1 blocks makes it not 'look pixelated'. This time it was perhaps monochrome in the first conversion which 'aliased' it compared to how it should be.
+(Most of the xkcd .png files, last time I checked, are greyscale. There are the occasional RGB, on at least one occasion with an (unused?) Alpha channel, and I've seen an Indexed pallette (blogofractal, IIRC, so maybe similar ones that have minimal but not monochrome/monoshaded colour spaces are that too). If reduced to a single bitplane or wrongly Indexed to black+white instead of all the basic-greys, I think that was the easy to explain blunder...) ((There are also .gifs, etc, but those usually for good reason, such as animation frames.)) 141.101.98.96 18:12, 14 July 2020 (UTC)
+Categories: All comicsComics from 2020Comics from JulyMonday comicsPages using the "citation needed" templateComics featuring CueballComics featuring Beret GuyCOVID-19Comics featuring cursed items

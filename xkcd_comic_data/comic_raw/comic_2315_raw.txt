@@ -1,0 +1,56 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2315: Eventual Consistency
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2315)
+|<< PrevComic #2315 (June 3, 2020)Next >>|
+Eventual Consistency
+
+Title text: Later I'm going to get a head start on the heat bath.
+Explanation[edit]
+Cueball's employer wants him to continue his work, possibly as a home-based remote worker as encouraged by the common current advice during the 2020 COVID-19 pandemic.
+The stated task is to "test the database" and "guarantee eventual consistency". Trying to avoid work, Cueball points out that the second law of thermodynamics itself "guarantees eventual consistency", as the universe is guaranteed to eventually die a heat death, at maximum entropy and perfect consistency. His boss responds that in a system that has reached maximum entropy, no work can be performed (as this requires a difference in energy states between two sources). Cueball claims that he's simply getting a head start on this.
+Eventual consistency has a double meaning here. In computing, many systems are distributed (spread out) across multiple servers, sometimes in very different parts of the world. When data changes -- like the number of views on a video or the likes on a social media post -- updating it across every server can be a challenge, and it's often not necessary to keep the data perfectly in sync everywhere. So the system will use eventual consistency instead. Each individual server will record changes, and after a certain amount of time or a certain amount of change, the results will be synced across the whole network. At any given moment, an individual server's data will be a little off -- but eventually everything will get recorded correctly.
+The title text constitutes another play on the words "heat bath", which can refer to the thermally uniform state of the universe at heat death. However, in this context, we can assume Cueball instead plans to prepare a literal warm bath for his own relaxation and enjoyment after or during (or instead of) his work.
+Transcript[edit]
+[Cueball sits at a home desk.]
+Laptop: I know it's hard to focus right now, but we should try to finish testing the DB.
+Cueball: Ughhhh.
+Cueball: Okay.
+[A frameless panel. Cueball still sitting at his desk. He has his hand on his chin.]
+Laptop: The system needs to guarantee eventual consistency.
+Cueball: I mean, it does.
+[Closeup of Cueball.]
+Cueball: Eventual consistency is guaranteed by the 2nd law of thermodynamics.
+Cueball: Sooner or later this will all be a uniform heat bath.
+Cueball: Maximum entropy.
+[Back to Cueball and desk. Cueball is leaning back in his chair.]
+Laptop: Maximum entropy means no useful work can be done!
+Cueball: I'm getting a head start by doing no useful work now.
+Trivia[edit]
+Randall has previously invoked the second law of thermodynamics (indirectly) to provide a "big picture" solution to the halting problem in 1266: Halting Problem, concluding that (in the real world, rather than the case of the ideal infinite Turing machine) all programs do halt...eventually.
+In 2282: Coronavirus Worries, Randall asserted that worrying about "whether you're getting enough work done" is common but not very healthy. Evidently Cueball has taken his advice to heart, but Cueball's boss has not.
+A new header text (Black Lives Matter) appeared earlier on the day that this comic debuted.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The current explanation says that "Cueball's employer wants him to continue his work in the COVID-19 pandemic," but that's a "citation needed" sort of statement. Even if the comic is taken to be literally occurring on the day it is published (which is not always the case as comics have taken place in the past, the future, alternate presents, and even spanning large periods of time), there are perhaps multiple things adding up together to make it "hard to focus right now." In the USA, there's hot temperatures, civil unrest, economic woes springing from or accelerated by the pandemic, and even political considerations that may make it hard to focus (governmental responses to current events potentially being out of proportion with the events, etc). If Cueball is elsewhere in the world, there may be other local conditions that might make things hard to focus. There's stuff going on in Hong Kong, the Middle East, Brazil, Somalia, and all over the world that could be making it hard for someone in those locales to concentrate on their work even if the pandemic weren't a possible contributing factor.
+Is it me, or is "continue his work *in* the COVID-19 pandemic" also incorrect? It's a database, not (necessarily) anything to do with COVID-19. Perhaps "in" should be "during" (leaving aside the other arguments)? John.Adriaan (talk) 01:37, 4 June 2020 (UTC)
+Hi, this is the "makes an edit before checking if anyone already thought to comment about it" contributor. Same again, with added complication of an edit-conflict (someone posted whilst I was trying to identify bicycles, fire-hydrants and traffic lights in the CAPTCHA). Reworded the thing to identify the situation as being popularised (not the right word!) by the pandemic. Though if Cueball were an existing home-based worker, I'm surprised they didn't fire him at the first hint of an excuse to do so. Anyway, moved the Citation Needed that the conflicter edited into the midst of my chosen edit, hopefully a mutually agreeable spot. 141.101.98.194 02:02, 4 June 2020 (UTC)
+Converted "probably" to "possibly". Jkshapiro (talk) 02:19, 14 December 2020 (UTC)
+I agree, Randall has clearly taken a break from the COVID-19 comics in the last weeks, and there no obvious clue that this is a new one. If the "hard to focus right now" has to refer to something current as of June 3rd 2020, it's more likely to be the civil unrest related to George Floyd's death, but that's just another guess.
+Agrees especially with the new header in the xkcd about BLM which came up before this comic, but after the last. --Kynde (talk) 13:24, 4 June 2020 (UTC)
+Just shows that the database needs more testing - as the page is obviously not reaching consistancy. I must admit that I have not looked at this for a dozen years, but I thought it was an unsolved problem in the general case as there was no way of resolving conflicts like these. Arachrah (talk) 08:47, 4 June 2020 (UTC)
+Then, of course, since the comic doesn't specify what is causing it to be hard to concentrate, it's a bit deictic, and the comic can be linked as a response to multiple future situations (not all of them bad -- having a baby, for instance, can make it hard to concentrate on work.) 108.162.216.52 20:58, 3 June 2020 (UTC)
+Side note: YouTuber Tom Scott explained eventual consistency in one of his The Basics videos: "Why Computers Can't Count Sometimes". --Aaron of Mpls (talk) 21:30, 3 June 2020 (UTC)
+The current explanation says "His boss retorts that in a heat death, nobody can work" which is completely missing what I assume is intended by "maximum entropy means no useful work can be done!" This statement is likely a reference to the relationship between entropy and the useful work that can be extracted from a thermodynamic system. --172.68.206.40 04:13, 4 June 2020 (UTC)
+Purely coincidental, but The Infinite Monkey Cage podcast just had an episode on the end of the universe: https://www.bbc.co.uk/programmes/p08dy6ym. ...and I'd like to add, in that regard, that I predict it'll be Death-By-CAPTCHA (more hydrants, more bicycles, then motorcylcles, when I made a comment above. Let's see what it thinks I need to pursuasively do this time, eh?) 141.101.98.96 02:10, 4 June 2020 (UTC)
+Can we agree that this is one of the most Dilbert-like of all xkcds? 141.101.69.91Eric <-- @Eric Exactly my thought when I read itCellocgw (talk) 10:56, 4 June 2020 (UTC)
+Protest! After the heat death of the universe, suppose there is still a database left (let's skip the fact that alone the existence of a computer means maximum entropy hasn't been reached yet - a local order bubble after heat death is normal anyway). User 1 (also miraculously surviving) checks the files to find data "random1". User 2 "random2". How could that be termed consistent (unless consistent random)? 162.158.158.223 08:48, 4 June 2020 (UTC)
+Quoting Asimov quoting Emerson, "A foolish consistency is the hobgoblin of little minds." So there's that :-) Cellocgw (talk) 10:56, 4 June 2020 (UTC)
+
+Why assume it is his boss he is talking too. Could just be one of his colleagues since the speaker talks about us getting the work done. Also more likely to be a Megan type he talks to, who knows about the Heath death and entropy, which his boss probably do not, as he is not so geeky ;-) --Kynde (talk) 13:24, 4 June 2020 (UTC)
+
+Given the "Black Lives Matter" banner at the top of the site and the link Campaign Zero, I would guess that the "hard to focus" refers to the George Floyd protests rather than Covid. Snowblinded (talk) 20:36, 4 June 2020 (UTC)
+Uh. I doubt that. The 'black lives matter' tag is not specific to this comic. And if the inability to focus was due either to The Floyd murder or to Covid, taking the approach that it's best to just wait for the heat death of the universe (and even to get a head start by doing nothing) would be really inappropriate! Much more likely, in my opinion, is that his lethargy is caused by the fact that he is trying to test or debug code. The computer is telling you that you need to do more tests, and you just don't wanna. Even if it's normally your passion, debugging code can just be totally enervating if it's a project that you don't feel invested in, or it's someone else's code, or you don't believe the project is going anywhere. Then you do feel like getting a head start on maximal entropy. Today I feel so much that way, that I am reading Explain Xkcd. 17:29, 11 August 2020 (UTC)
+Categories: All comicsComics from 2020Comics from JuneWednesday comicsComics featuring CueballProgrammingPhysics

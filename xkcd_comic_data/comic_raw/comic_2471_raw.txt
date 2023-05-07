@@ -1,0 +1,48 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2471: Hippo Attacks
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2471)
+|<< PrevComic #2471 (June 2, 2021)Next >>|
+Hippo Attacks
+
+Title text: It's cool how, when there's a number lots of people are curious about, but which isn't easy to measure, some random guess will get cited everywhere and become the universally quoted value. Unrelatedly, did you know there are 850 trillion waves in the ocean?
+Explanation[edit]
+The first part of this comic deals with unreliable sources on the internet. Neither "viral posts" nor "random listicles" are usually very reliable sources of information. They rarely cite their sources,[citation needed] and they are often published without much fact-checking, as published volume and impressive-sounding numbers are far more important for ad-revenue than actual facts.
+The viral post appears to be this Facebook post. The relevant source is unknown (and may very well be made up, since the source is ClickHole, a satirical website formerly owned by The Onion). There are a number of listicles Cueball may be referring to, but they all appear to be citing the Bill & Melinda Gates Foundation, however, even they do not seem to provide source for the number of fatalities caused by hippopotamus.
+The Health Insurance Portability and Accountability Act (HIPAA, pronounced HIP-uh) is an American healthcare law enacted in 1996. One of the most commonly cited provisions from HIPAA is the HIPAA Privacy Rule, which regulates the use and disclosure of protected health information.
+In this comic, Cueball and Megan are discussing the number of hippopotamus attacks, which is unverified. Megan proposes an alternative explanation as to why this particular number is hard to come by: it would be violating the patients' privacy to create statistics of a very specific and unusual cause of death. The punchline comes with the pun on "hippo violation" ("HIPAA violation").
+The title text amplifies the criticism of listicles. They sometimes provide factoids with regards to ill-defined, hard-to-measure numbers, and these factoids might end up in common circulation between such articles. One extreme example would be the number of waves in the ocean. Some problems with this definition would be:
+In which ocean/oceans?
+What is the smallest ripple that counts as a wave?
+When does one count two interacting waves as separate, and when does one count them as one?
+Are counted waves limited to water waves, or can EM waves be considered?
+Should sub-surface waves be evaluated, too?
+How deep is the ocean, how high is the sky?
+With different replies to these questions, wildly different answers could be reached. But, counting every body of water on the planet, 850 trillion waves works out as around 2.354 (unique) waves per square meter.
+Transcript[edit]
+[Cueball is sitting in an office chair at his desk. He has lifted both arms with palm up towards the screen of his laptop in front of him. Megan stands behind him to the right, looking over his shoulder at the screen.]
+Cueball: I hate unsourced statistics.
+Cueball: This viral post says hippos kill 2,900 people a year, but this random listicle says 500.
+Megan: Makes sense.
+Megan: Publishing the real number would be a HIPPO violation.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+'Hippo violation' refers to Health Insurance Portability and Accountability Act of 1996 (HIPAA or the Kennedy–Kassebaum Act) - probably ;) 172.69.35.95 22:08, 2 June 2021 (UTC)
+I've worked with demographic data and experienced the removal of datapoints with only a couple people in them, because the statistics would reveal the details of the people. 172.70.114.48 22:26, 2 June 2021 (UTC)
+Strictly speaking, wouldn't this be a HIPOO violation? 172.68.142.171 22:47, 2 June 2021 (UTC)
+Alternatively, it may refer to violation of Hippocratic Oath which include provision to respect patients' privacy Aufa (talk)
+"But, counting every body of water on the planet, this works out as around 400 (unique) waves per square meter" - Can we get a source for this information? 108.162.221.20 11:59, 3 June 2021 (UTC)
+The Wikipedia article "Earth", in the section "Surface", says that the area of the oceans is 361.13 million sq km (their source: CIA's World Factbook). If so, then 850 trillion waves would average out to 2.354 million waves per sq km, or 2.354 waves per square meter.--172.70.110.172 12:30, 3 June 2021 (UTC)
+But… is “area“ referring to the actual surface area of the world’s oceans, which are three-dimensional, or are they assuming a flat surface within the perimeter? Not only that, is this value determined based on the mean value between tides? Finally, of course, if we are looking at the true surface area, including the undulations, that would be a remarkably much larger number then that calculated by merely looking at a flat surface within a perimeter. I’ll hang up and listen for the answer.Dhugot (talk) 21:19, 3 June 2021 (UTC)
+even my cup of water?
+I inserted the '(unique)' to the edit, among other things (I thought presuming stormy waters was overkill), taking on trust the number-per had been worked out accurately ahead of time. Maybe the original author of that had accounted for how many square metres a wave might cover (and thus combine with other waves nominally belonging to other ²m units).
+Assuming the 2ish waves value is correct (for one thing, assuming it's a US Trillion, which is likely; but the alternative can't account for the factor of ~175, regardless) then do change it, but any significant wave does exist in a greater area than 1m² both in width and between pairs of troughs, so two waves or ripples assigned to one area (prob. crossing paths) will probably also be mixed up with 'other square's waves'.
+Naturally, I presume the actual figure given is a ridiculously made-up one, but if we're justifying/highlighting this belief then these are the considerations I'd give to the matter. Even if the maths isn't perfect. 141.101.99.161 13:56, 3 June 2021 (UTC)
+From the title-text: "Some random guess will get cited everywhere and become the universally quoted value." This might be a reference to Citogenesis? 172.68.132.147 15:40, 3 June 2021 (UTC)
+Side note: the title text talks about waves *in* the ocean, not *on* the ocean. This means that localized, sub-surface waves should also be considered as well as any waves caused by even small seismic events. Cwallenpoole (talk) 18:12, 3 June 2021 (UTC)
+If one counts whale song, sonar pings, https://inshorts.com/m/en/news/herring-fish-communicate-through-farts-1490104994916 maybe mr munroe's number is still a wag. Dunno.108.162.216.104 00:28, 5 June 2021 (UTC)
+This random listicle "VERIFY: Are mosquitoes really the deadliest animals on earth?" seems to have done a pretty good job at finding the actual sources for the numbers in the Bill & Melinda Gates Foundation blog post about the deadliest animals. Interestingly it says "there are no official studies on Hippopotamus attacks and fatalities. This number could not be verified." Might it really be that they are no studies available? If yes, we should probably mention it in the explanation. CryptoNut1269 (talk) 16:17, 5 June 2021 (UTC)
+HIPAA wouldn't apply under any circumstance - at even the cause of death for 500 people that's a sufficient amount to be able to talk about the data without any PHI (protected heath information like their name or SSN) On top of that HIPAA only covers Hospitals, Clinics, and providers, any random person that isn't acting as one of those roles can release any medical information they want. 162.158.74.13 16:55, 7 June 2021 (UTC)
+Categories: All comicsComics from 2021Comics from JuneWednesday comicsPages using the "citation needed" templateComics featuring CueballComics featuring MeganAnimalsStatisticsPuns

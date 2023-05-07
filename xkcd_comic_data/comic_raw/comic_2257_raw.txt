@@ -1,0 +1,55 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2257: Unsubscribe Message
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2257)
+|<< PrevComic #2257 (January 20, 2020)Next >>|
+Unsubscribe Message
+
+Title text: A mix of the two is even worse: 'Thanks for unsubscribing and helping us pare this list down to reliable supporters.'
+Explanation[edit]
+When a website offers a subscription service (e.g., an email newsletter), they will offer the opportunity to unsubscribe from the service in the event that the subscriber is no longer interested in the service, or discovers that the service is not what they thought it was. As with any online process, subscribing and unsubscribing require messages to inform the viewer that the process has completed as intended. Some sites also request confirmation when unsubscribing, to prevent accidentally unsubscribing due to a mistyped URL or a misclicked link.
+This comment explores the different "moods" that unsubscribe messages can carry, taking standard examples and pushing them further than is normally seen. It also pokes fun at the trend for websites to guilt users when they unsubscribe (or try to guilt them out of it before they complete the process), which is widespread among new-age website design and some examples of which can be seen at /r/Clickshaming/. The first example appears to be a message in the confirmation phase, while the others are messages that the unsubscription is complete.
+The first message is of a "very negative" mood, where the "confirmation" message begs to know why the user dared to unsubscribe to the service, sounding either very angry or alarmingly desperate, as if the service is endangered by the user's unsubscribing. This can be very off-putting and would be very likely to confirm to the user that they made the right choice; hearing such an aggressively needy tone when they leave could make them feel like they escaped something instead, and thus it is given three red X marks and ranked "Very Bad".
+The second message is of a more controlled "negative" mood; the "process complete" message tells the viewer that they will be missed with a sad emoticon accompanying it. Although not quite so bad as the forceful clinginess of the "very negative" message, this one can still come across as an attempt to guilt the user into re-subscribing; thus it is rated with one red X and the label "Not Great".
+The third message is of a fully "neutral" mood; the "process complete" message is simply a matter-of-fact statement that the user has been successfully unsubscribed from the service. Randall seems to consider this the optimal mood for an unsubscribe message to carry; thus it is rated with a green check mark and the label "Perfect".
+The fourth message is of a "positive" mood; the "process complete" message cheerfully proclaims that the attempt to unsubscribe has been completed. This is the most common mood for many services that attempt to avoid emotionless, robotic messages; however, in this particular instance, it can come across as somewhat unnerving, since no service should seem happy to see a user leave. The tone also comes across like a proclamation of the sort you would see in a video game text box, making the action feel like an achievement, which wouldn't make sense for a company to do. This mood is rated with a green check mark, but also with the label "A Little Weird".
+The fifth message is "very positive", where the "process complete" message expresses relief that the user has chosen to unsubscribe from their service, as though their subscription in the first place had been some sort of burden upon the service, and indeed, their leaving is stated to be the best thing to happen to the service. Like the "very negative" message, this response is likely to assure the user never returns, since they have been indirectly insulted and told "good riddance".
+The title text expands on the joke by combining the positive reaction to unsubscribing with a more negative tone, which supports the user's choice to unsubscribe because they were unwanted. This references the 1% rule, which states that for users of an online service only approximately 1% will be significantly active.
+Transcript[edit]
+Caption: Choosing the right emotional tone for your unsubscribe message
+[A window labelled "Very Negative"]
+Website: You want to unsubscribe?!?! How could you do this to us?! We need you!!!
+✗✗✗
+Very Bad
+[A window labelled "Negative"]
+Website: We're sad to see you go :(
+✗
+Not Great
+[A window labelled "Neutral"]
+Website: You have been unsubscribed.
+✓
+Perfect
+[A window labelled "Positive"]
+Website: Success! You have been unsubscribed!!
+✓
+A little weird
+[A window labelled "Very Positive"]
+Website: You have been unsubscribed. This is the best gift you could have given us. Thank you.
+✗✗✗
+Very Bad
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+>>>YOU HAVE BEEN UNSUBSCRIBED<<<162.158.214.148 12:57, 20 January 2020 (UTC)
+If I ever make an unsubscribe message, it'll just be this comic. Blacksilver (talk) 13:28, 20 January 2020 (UTC)
+Already done. PoolloverNathan[stalk the blue seas] 23:06, 13 March 2021 (UTC)
+You have been SO unsubscribed that it isn't even funny! 162.158.214.148 15:44, 20 January 2020 (UTC)
+>>> You Have Been SuperScribed >>> Cellocgw (talk) 16:02, 20 January 2020 (UTC)
+"You are unsubscribing. We can retain your details in case you wish to revert this change in the future. Do you wish us to retain your stored preferences?" (NO) "Do you wish us to retain your external contact details?" (NO) "Do you wish us to hibernate your core profile and reserve your username?" (NO) "Data fully removed from our server" ... ... "I don't know who you are. I don't know what you want. If you are looking for ransom, I can tell you I don't have money. But what I do have are a very particular set of skills, skills I have acquired over a very long career." 141.101.99.53 17:26, 20 January 2020 (UTC)
+Then there are the unsubscribe pages that you have to uncheck your subscription and then clicking an Update button. And the ones that give you several alternatives to unsubscribing and obscure the unsubscribe link by not using the word "unsubscribe" in the unsubscribe link and you have to figure out that that's the link. Thisisnotatest (talk) 18:58, 20 January 2020 (UTC)
+If the site offers multiple different subscriptions, giving you option to unsubscribe one, more or all of them makes sense. If you unsubscribe just one, users will complain they need to unsubscribe multiple times very angrily. -- Hkmaly (talk) 00:02, 21 January 2020 (UTC)
+I actually think the "very negative" message could work for a joking confirmation message. Unpopular Opinions (talk) 21:26, 21 January 2020 (UTC)
+On the subject of marketing preference for as many subscribers as possible or a few high value subscribers, there are basically two scenarios: Algorithmic and non-Algorithmic environments. In a non-Algorithmic environment, like an E-mail list, you almost always want as many subscribers as possible. You'll have the high-value subscribers in there regardless, and if there's even the smallest chance of interaction from the other subscribers, the Marginal cost of sending an email is so low that there's no reason not to send it to them, and every person subscribed is more data for the Marketer. In an Algorithmic environment, like Youtube or Facebook, there may be scenarios where you want to increase the average interactivity of your subscribers, as the Algorithm may suggest your content to non-subscribers more based on the high interactivity of your core audience, this is still rare, however, as the same low marginal cost and data still factor into the calculation, and more people seeing your video more often is almost always good, and more valuable than intentionally cutting your subscriber base to increase the engagement of your subscribers so that more people will see your video just so that you can gain more subscribers, and start the whole process over again.Argis13 (talk) 23:47, 24 January 2020 (UTC)
+I just got a message from Just Eat which ends: "Want to unsubscribe? It’ll hurt our feelings, and you’ll miss out on some tasty Just Eat deals, but you can do that here. *starts to cry*." I think they may have seen this comic and taken the wrong message from it. 162.158.34.46 14:38, 30 March 2020 (UTC)
+Categories: All comicsComics from 2020Comics from JanuaryMonday comicsInternetComics with color

@@ -1,0 +1,143 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2425: mRNA Vaccine
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2425)
+|<< PrevComic #2425 (February 15, 2021)Next >>|
+mRNA Vaccine
+↓ Skip to explanation ↓
+
+Title text: To ensure lasting immunity, doctors recommend destroying a second Death Star some time after the first.
+Explanation[edit]
+This comic is another in a series of comics related to the COVID-19 pandemic, specifically regarding the COVID-19 vaccine.
+This one is another analogy to how mRNA vaccines work, by creating inactive fragments of the virus to prime the immune system to be prepared to stave off the real thing. This is done in response to Cueball's question to the person vaccinating him, "Why would my body attack something it made itself?", using elements of the film Star Wars: Episode IV as an analogy.
+The analogy starts in the second panel, where the Rebel Alliance has retrieved the Death Star plans, conveyed by Princess Leia to General Jan Dodonna (in Star Wars, via R2-D2 and some adventures, but shown as a simple handoff here). The Death Star is a space station the size of a small moon that has the power to destroy planets. In the film, the plans are analyzed to find a weakness in the enemy Death Star and destroy it; however, in this panel, the "Death Star plans" are passed down a line of people until they are interpreted as a construction assignment and are used to build a Death Star. In the analogy, the mRNA in the vaccine corresponds to the plans for the Death Star, the spike proteins (inactive COVID-19 virus fragments) correspond to the benign Death Star itself, and the cellular processes that build spike proteins correspond to the builders of the benign Death Star. Just as merely having the plans on hand led to the Death Star being built, the mere presence of the mRNA in the cellular environment leads to it being translated, producing the viral protein. Amusingly, as the plans are handed off to the construction crew leader, he replies "Copy that," which both acknowledges the handoff in conversation and presages his actions.
+After Leia's Death Star has been built, it is positioned near a planet/moon. This Death Star is benign: it only looks dangerous and isn't about to actually hurt anyone; the Death Star crew are Rebels, after all, and state that they don't have the laser wired up. The Rebels mobilize to destroy this benign Death Star because it looks like an enemy battle station, evidently not listening to the construction crew's transmissions. Analogously, immune cells cannot think [citation needed] or directly communicate, basing their determination of friend from foe entirely on external chemical signatures. However, the Death Star operators are confused, because they believe Leia (a member of the Rebels) had ordered its construction. The Rebels initially attack the surface of the benign Death Star, without much effect; Leia orders the factories to continue developing torpedoes and ships as they run out, presumably putting an extra workload on the factory workers and tiring them out, or at least diverting resources away from other projects. In the analogy, the Rebels correspond to the immune system's B cells and T cells, which mobilize to attack the spike proteins (the benign Death Star) made as a result of the vaccine, but are often ineffective at first. The body keeps producing these immune cells, trying many variants (many ways of attacking the benign Death Star) in an attempt to find one that works well against the spike proteins. This results in Cueball experiencing side effects from the vaccine, including soreness and tiredness, and he lies down and rests.
+After much effort on the Rebels' part, they find a weakness in the benign Death Star, a "thermal exhaust port" vulnerable to "proton torpedoes" that can destroy the Death Star. Firing a proton torpedo down the exhaust port destroys a Death Star very rapidly, compared to the initial, ineffective frontal assault on the surface. After this benign Death Star is destroyed, Princess Leia allows the fleet to stand down.
+Up to this point, the entire thing seems like a comedy of errors, with huge expenditures being made for no apparent reason, due to a simple lack of communication. But during this process, the Rebel Alliance has both built a huge fleet and figured out how to target the Death Star's weakness and destroy it. Later on, when a real, dangerous Death Star approaches the planet (with the apparent intent of destroying it), the Rebels immediately deploy their fleet, target the weakness, and destroy it almost immediately, much to the shock of the Imperial troops, who had believed they were on an invulnerable ship and are surprised by the Rebels' immediate response and overwhelmed by it.
+The analogy is that the immune system (the Rebel Alliance) figures out a way to attach to the spike proteins (attack the benign Death Star) made by the mRNA vaccine; the immune system's antibodies (Rebel planners) now "know" how to recognize and destroy things that have these spike proteins — including SARS-CoV-2 virus particles (real, dangerous Death Stars). Hence, when the vaccinated Cueball approaches White Hat, who is maskless, coughing, and presumably sick with COVID-19, Cueball's immune system is able to destroy dangerous SARS-CoV-2 virus particles because it knows about the virus's spike proteins. This is represented by Cueball not experiencing any suffering from COVID-19, and he goes on his way whistling merrily, perhaps to the tune of The Throne Room/End Title (from the ceremony celebrating the destruction of the Death Star).
+It's notable that Cueball continues to wear a mask after being vaccinated. This is in accordance with CDC guidelines, which recommend continuing to wear a mask, practicing social distancing, etc. after getting the vaccine; doctors at CDC "don’t yet know whether getting a COVID-19 vaccine will prevent you from spreading the virus that causes COVID-19 to other people, even if you don’t get sick yourself."[1] None of the vaccines available as of when the comic was posted are 100% effective at preventing infection, with the best ones about 94% effective at preventing symptomatic cases, but all vaccines that are approved or submitted for approval are completely (100.00%) effective at preventing death from COVID-19.
+The title text references the fact that the two COVID-19 vaccines authorized for use in the United States as of the date of publication (the Pfizer-BioNTech one and the Moderna one) require two doses of vaccine to be fully effective, as do many others in use worldwide (AstraZeneca, Gameleya Institute, Sinovac, etc.). The second dose strengthens the body's immune response to the spike proteins and causes it to "remember", via antibodies, how to attack those proteins for a long time — hopefully years or even decades. Likewise, the Rebels in the movies destroy two Death Stars, the second one in Return of the Jedi. Incidentally, that second Death Star was destroyed while it was apparently incomplete, much like the Death Star here was destroyed before it could destroy Cueball; however, in the film, the Emperor had deliberately left it with an incomplete outer structure to lure the Rebellion into attacking it, only for the Rebels to find that its superlaser was fully operational.
+Vaccination was also explained, xkcd-style, in 2406: Viral Vector Immunity.
+References to the Star Wars franchise are a recurring theme on xkcd.
+Transcript[edit]
+[Cueball seated in a doctor's office getting a dose of a COVID-19 vaccine. Both he and the doctor are wearing masks; the doctor is also wearing a scrub cap.]
+Doctor: The vaccine contains mRNA instructions for making the virus spike protein.
+Cueball: Weird, so the vaccine is just blueprints?
+Doctor: Yup! Your body reads the mRNA, makes the proteins, and then has an immune reaction to them.
+Cueball: Why would my body attack something it made itself?
+Doctor: Well...
+[Princess Leia and General Dodonna in frame.]
+Leia: Here are the Death Star plans.
+Dodonna: Thank you, Princess.
+[Dodonna, Ponytail, and White Hat in frame.]
+Dodonna: These blueprints are from Princess Leia.
+Ponytail: Ugh, she's always giving us projects.
+[Ponytail and Cueball in frame.]
+Ponytail: Here, take these blueprints to your construction crew.
+Cueball: Affirmative. What is it?
+Ponytail: No idea. Something the Princess wants.
+Cueball: Copy that.
+Panel heading: Soon...
+[A view from outside of the Death Star.]
+Voice from Death Star: Hi, Commander? Construction crew B here.
+[A view from inside the Death Star, with a planet visible through two adjacent windows. Cueball is standing at some kind of control/communications panel.]
+Cueball: We finished building the Princess's big metal orb thing.
+[A view from outside the Death Star again, with the curve of the planet in the foreground.]
+Voice from Death Star: Do you know if she wants us to park it somewhere, or—
+Voices from the planet: AAAAAA!!!
+[A view from the planet's surface with the Death Star in the sky. 3 Cueballs, a Megan-like character, and Ponytail are on the planet's surface.]
+Voice from Death Star: ...Is everything ok?
+Cueball 1: AAAAAAA!
+Cueball 2: Imperial battle station!!!
+Ponytail & Cueball 3: AAAAAAAAAA
+Offscreen voice: Red Alert Red Alert
+[Another view from the planet's surface. There is some type of military encampment surrounded by an open field, with trees and mountains in the background. People are running around on the field, which also contains several currently grounded craft and several flying craft streaming toward the Death Star.]
+Death Star voice: Hello?
+Generic field voices: Get the fighters in the air!
+Red Alert
+Blow it up! Blow it up!
+AAAAA
+Generic tree voices: AAAAAaa
+Generic spacecraft voices: Kill it kill it kill it kill it kill it kill it
+[A zoomed-in view of the outside of the Death Star, which is accumulating light damage. Numerous spacecraft are shooting at it; various explosions occur on the Death Star's surface and in space nearby.]
+Death Star voice: Hello?
+Generic spacecraft voices: Shoot it! Shoot it! Shoot it!
+That armor's too strong! We're not getting through!
+Keep firing!
+[A view from inside the Death Star again with Cueball at the control panel and the planet in the background windows; various projectiles and explosions can be seen through the window.]
+Cueball: Can everybody please just chill? We don't even have the laser thing wired up. We—
+BOOM
+Hey!! I said, we...
+[Ponytail enters from the left, and points to her left. Princess Leia points at her.]
+Ponytail: We can't get through! We're running out of proton torpedoes!
+Leia: Send every crew to build more torpedoes!
+Ponytail: There aren't enough ships to—
+Leia: Build more ships!!
+[Ponytail is standing still and Princess Leia is walking to the right with her fists raised.]
+Ponytail: That thing is just sitting there. Are you sure we—
+Leia: Keep building ships! Build ships forever! Destroy the orb!
+[A view of the Death Star in space and the curvature of the planet off to the side. An enormous torrent of (barely visible) ships is seen streaming from the planet's surface to the Death Star. The damage to the Death Star is slightly worse.]
+Generic ship voices: aaaaAAAAAAAAaaaaa
+Death Star voice: What is wrong with you people?
+[Back in the real world, Cueball is standing with arms hunched and a cartoon helix above his head. Megan stands next to him.]
+Cueball: Definitely feeling a little sore.
+Megan: Yeah, they said you might have some side effects.
+Megan: You lie down—I'll get you some hot tea and a blanket.
+[An outside view of the damaged Death Star with ships swarming it.]
+Generic voices: Die die die die! Die!
+[An inside view; Cueball appears injured, and the control panel is damaged with a fire on the ground nearby.]
+Cueball: I hate you all so much.
+[The outside of the Death Star again.]
+Ship 1: What's that?!
+Ship 2: Looks like a thermal exhaust port.
+Ship 3: I'm going in!
+[The outside of the Death Star.]
+pew pew pew pew pew pew
+[Beat panel.]
+[The Death Star explodes.]
+[A disheveled Dodonna, Princess Leia, and Ponytail in frame.]
+[The same frame.]
+Leia: Good work.
+[In the real world, Cueball sits on top of a bed with a blanket draped over his lap. Megan stands next to the bed.]
+Cueball: I'm feeling better today.
+Megan: That's great!
+Panel heading: A few months later...
+[Cueball and White Hat walking past each other. Cueball is wearing a face mask; White Hat isn't but coughs into his elbow.]
+White Hat: Cough cough
+[The real Death Star drifts toward the planet.]
+Death Star voice: We have reached the rebel system, Lord Vader.
+[View from inside the real Death Star.]
+Vader: Now they shall witness the firepower of this fully armed and oper—
+[Leia, Ponytail, and Cueball in frame.]
+Leia: Thermal exhaust port!!
+Ponytail: Aaa
+Cueball: Aaa
+[An equally large torrent of ships stream from the planet to the real Death Star.]
+Death Star voice: What.
+Various ships: aA AAAAAAA aaa aAAAAAAA aaa
+AAAAAA aaa aAAAAA
+[The Death Star explodes, leaving debris trailing away.]
+[In the real world, White Hat and Cueball continue to walk past each other.]
+Cueball: ♫ ♫
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Well, RIP Cueball-on-Leia's-fake-Death-Star. bubblegum-talk|contribs 22:11, 15 February 2021 (UTC)
+Is the "Hairy" guy with a beard [2]? Or I guess it could just be a generic person. 172.69.34.148 23:13, 15 February 2021 (UTC)
+Bail Organa (Leias 'father')? This could be an alternate Ep4 in which various unseen prior events went smoother than unfolded in the sky-scrawled start. (i.e. What the vaccine did was somehow bypass the whole Rogue One job on Scarif, with a much earlier copy of data being obtained). Alderaan thus gets a heads-up? 172.69.55.104 01:12, 16 February 2021 (UTC)
+Dodonna was my first guess, before I scrolled down and saw 172.69.34.148's comment. In the films, Bail sent Leia to take the plans to the Rebellion (where Dodonna presented the battle plan to the pilots); he was didn't need them himself. --NotaBene (talk) 02:43, 16 February 2021 (UTC)
+Looks like Yavin (or similar generic base), on the ground, could be Alderaan (or many other planets) from space. Without the whole Tantive IV capture, neither place would actually be obvious initial targets for the Empire so it's a total guess where this lot of rebels are, perhaps where Leia always intended to go (and stay?) before first being captured. 141.101.105.98 03:22, 16 February 2021 (UTC)
+I have a weird feeling when Princess Leia provided the Death Star plan to the beard guy, I think there's (jokingly) a misunderstanding - Princess Leia simply gives the beard guy the Death Star plan, without actually ordering to build one - But eventually they built a Death Star and triggered the earth's defense system, that's why the Death Star constructor team member is so confused.
+Yeah I think it's a misunderstanding, not Leia ordering a target practice Death Star.
+I definitely agree. Comic-wise, it makes no sense for a Leia who knew about the order to construct a Death Star to panic; the events of the metaphor only make sense if she wasn’t aware of it. Metaphorically, it’s not so bad either; the plans are the mRNA, and the delivery mechanism (Leia) isn’t specifically “trying” to produce viral Death Stars, it’s just passing along the information. 108.162.215.244 18:18, 16 February 2021 (UTC)
+It works fine (Ponytail was about to give up, but Leia pressured her to continue learning a Death Star's ins and outs). bubblegum-talk|contribs 05:52, 17 February 2021 (UTC)
+It's no misunderstanding. They are all just doing "their job", so to speak. Elektrizikekswerk (talk) 10:42, 16 February 2021 (UTC)
+Leia is the 'nanolipid' courier capsule in her first role, liasing with the cell (both senses!) and handing over to whoever (not actually sure the beard is Dodonna-enough, but meh...) represents the start of the cellular machinery that will be beneficially 'fooled' into creating the training matter (here, apparently, the full capsid, which strays as an analogy) by casually handing the instruction into the constructor bits along with all instructions normally handed outwards from the nucleus.
+Then she is actually part of the cellular machinery (perhaps "more torpedos! more ships!" is normal nucleus-sourced building plans, or whatever is needed to increasingly bud initially naive antibodies/antigens)
+By the end, probably we can say she is a Helper T-cell (Luke - or his voiced equivalent if he's been left unDroided at Uncle Lars's place because there was clearly no Escape Capsule event, etc - acted as Killer T-cell) reacting to the exhaust-port Antigen handwaviness. 172.69.54.92 12:37, 16 February 2021 (UTC)
+Personally I fall into the total misunderstanding camp, as there's no way for cells to remember the reason why they built something. But since there's dispute, I've edited it so that the article is silent on the issue of whether or not Leia knew it was a benign station. I guess it really depends on what Leia is in this analogy, but it seems like she's playing a few different roles.172.69.42.93 17:56, 18 February 2021 (UTC)
+Construction Crew B strikes me as a reference to the Golgafrincham "B" Ark from the Hitchhiker's Guide to the Galaxy series, to justify the crew being treated as expendable. AnotherOnymous (talk) 14:47, 17 February 2021 (UTC)
+Anyone who thinks that immune cells can't think or directly communicate hasn't watched enough Star Trek. :-) BunsenH (talk) 06:05, 21 February 2021 (UTC)
+It isn't scientifically correct to say the current vaccines are 100% effective against death (unless you are "rounding off" to 100, which is not how people will read it). To know that exact number, we would have to observe every single person now and in the future and note that no one ever dies after being vaccinated. This would need to include extremely thorough and precise testing for deaths that are most likely currently unrecognized as being due to COVID, since one missed case in a million changes your number. I think the current statistics would support "well over 99% effective in preventing death," perhaps over 99.9%. 172.69.42.134 23:04, 20 March 2021 (UTC)
+Categories: All comicsComics from 2021Comics from FebruaryMonday comicsPages using the "citation needed" templateCOVID-19COVID-19 vaccineComics featuring face masksComics featuring CueballComics featuring MeganComics featuring White HatMultiple CueballsStar WarsBiology

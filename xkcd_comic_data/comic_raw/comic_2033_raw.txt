@@ -1,0 +1,49 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2033: Repair or Replace
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2033)
+|<< PrevComic #2033 (August 15, 2018)Next >>|
+Repair or Replace
+
+Title text: Just make sure all your friends and family are out of the car, or that you've made backup friends and family at home.
+Explanation[edit]
+This comic compares the repair of cars with that of computers or other similar electronic devices. The question Repair or Replace? comes up more frequently with electronics than with cars, hence the title of the comic, and the humor derived.
+Cueball is in his car. He says that there is a weird sound and asks if the car mechanic Hairy will take a look. Hairy asks him to open the car's hood, exposing the engine, to further identify the cause of the problem. Cueball then says that his hood latch, the lever used to open the hood, is also broken. The solution, according to Hairy, is then to discard the car, and "replace" it with a new car.
+In reality, fixing the latch on the hood is a simple task for a skilled mechanic and would not justify writing-off the car. When a car is malfunctioning, the usual response is to attempt to repair it. A car is designed so that many of the parts can be replaced or adjusted. Even in the case of a product recall where the manufacturer recalls the vehicles, it is usually only a single malfunctioning part that needs to be replaced and the rest of the car is left alone to return to the customer. It would be extremely inefficient for a car dealership or mechanic to simply "replace" the entire car when there is a problem with it (although many insurers will provide a temporary replacement "courtesy car" while the car is being repaired). However, right around the time this comic was published, Subaru just instituted a recall of a few hundred vehicles that it says it will replace the entire car (rather than a single malfunctioning part), as seen here, and this could be the inspiration for this comic.
+By contrast, when a computer or electronic device is malfunctioning, it is often judged to be more expensive to repair than to replace, and the usual action is to purchase a new device. It is generally possible to replace each part of a desktop or laptop computer, but harder to do so for more integrated devices such as tablets, and almost impossible to repair individual components with faulty or damaged integrated circuits.
+Even where replacing a component is relatively easy (needing little more than a set of screwdrivers), the cost of replacement parts and labor can be a significant proportion of the cost of a completely new device, particularly where a user is not technically confident and pays a repair shop to fit new components. Also, the length of the technology "upgrade cycle" - typically around 3-5 years - is roughly the mean failure time of a device's components. Thus, users may already be considering a new purchase when their device breaks. Thus, Randall notes in this comic that while it does make sense for electronic devices, the "solution" of replacing an object instead of attempting to repair seems absurd for any other object.
+The title text refers to data stored on a computer or electronic device. Before replacing the device, it is recommended backup all your personal files, so that you have future access to them, and to remove them for security. Randall likens this to having your friends and family exit the vehicle, or making backup friends and family before the vehicle is thrown away.
+The economics
+Cars are much more expensive than computers or other electronic devices, and become obsolete less quickly. The point at which it becomes cheaper to purchase a new computer or phone rather than repair an old one comes much more quickly.
+Cars are mostly valuable for their macroscopic features and functions, whereas electronics deliver value mostly with microscopic circuitry. While we can mass produce integrated circuit devices efficiently, the equipment is massively complex and expensive, so it's only practical on an industrial scale. Repairing an individual switch or data line in an individual chip might take a team of experts and a state of the art lab with electron microscopes etc. - millions of times the per unit cost once assembly lines are running
+
+Also, although the comic implies that replaced electronics are discarded (like a car pushed into a pit), sometimes they are sent off to be repaired or refurbished elsewhere. This provides a better experience for the customer (they get a working device right away instead of waiting for repair) and is more efficient for the company (a consolidated repair facility can have the experience and equipment to repair a device much more quickly than at a retail location). This assumes that the customer asked the manufacturer for a replacement, and did not throw it away themselves before purchasing a new one.
+Electronics Repair
+Although most corporations find it more profitable to have consumers replace their electronics, there are many resources that are more geared towards repair. Free Geek offers free technology to volunteers in exchange for their work in repairing broken items. More locations across the world are listed near the bottom of their resources page. Alternatively, hackerspaces are present in many large cities, and often at the larger ones there are people who would be happy to assist somebody trying to learn to repair their electronics. On one's own, most problems with electronics can be fixed with some persistence, googling, purchasing of a few tools, and carefully watching youtube videos.
+Transcript[edit]
+[Cueball is sitting in a car parked to the left of Hairy, who thus stands in front of it while pointing behind him towards a big black hole.]
+Cueball: My engine's making a weird noise. Can you take a look?
+Hairy: Sure, just pop the hood.
+Cueball: Oh, the hood latch is also broken.
+Hairy: OK, just pull up to that big pit and push the car in. We'll go get a new one.
+[Caption below the frame:]
+I'm sure the economics make sense, but it still freaks me out how quick companies are to replace computing devices instead of trying to fix them.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Do I have to make a backup of ALL my friends and family? 162.158.122.66 16:33, 15 August 2018 (UTC)
+Yes, in the cloud... --Dgbrt (talk) 16:41, 15 August 2018 (UTC)
+Which reminds me on: http://tardis.wikia.com/wiki/Nethersphere Elektrizikekswerk (talk) 08:28, 16 August 2018 (UTC)
+I’ll just “forget” to backup ms sister, hehehe 162.158.74.225 16:35, 15 August 2018 (UTC)
+I think you should consider replacing your MS Sister with open source variant. 172.68.246.56 (talk) (please sign your comments with ~~~~)
+Given the number of stories on TFTS about users who don't actually know what "backup" means, this is either a really bad idea or a really good idea. 162.158.75.46 17:21, 15 August 2018 (UTC)
+It's rather nonsensical when you're talking about things from the same generation, but James May, in his book The Reassembler, made a good argument against fixing old things - old things made for a time when things were expensive and had to be built to last, which meant making them easy to repair when they broke down (which happened frequently) - new things are more reliable and require repair far less often than the products of old, and attempting to repair old things diverts energy away from new innovations, thus holding humanity back. No sense trying to repair an old Nokia 5110 when even the cheapest smartphone from Wish will run rings around it and last longer anyway. 108.162.250.11 00:29, 16 August 2018 (UTC)
+Well, the old Nokias are indestructible anyways, so you wouldn't even be able to open the case and repair it. 162.158.91.59 09:14, 16 August 2018 (UTC)
+Depends. The Nokia 5110 has a stand-by-time of 150h – show me a smartphone that has something like this ;-). --DaB. (talk) 13:54, 16 August 2018 (UTC)
+I remember trying to break my old Nokia 1611 so I could get a new one on "insurance". Used it to play fetch with the dog, threw it against a brick wall, jumped up and down on it wearing army boots. The damned thing would not break. Compare that to a modern smartphone that bricks if you look at it wrong. 162.158.155.170 14:14, 16 August 2018 (UTC)
+Thank goodness, when I get rid of an old car the next owner can't log into it and review every single place I drove and every conversation I had while driving it... that's coming, though. :( MaineGrammy (talk) 09:19, 16 August 2018 (UTC)
+I feel like he's ignoring that it's kind of absurd how easily we replace cars too. A couple years ago my car was caught in a hail storm. The roof was dented, but nothing was damaged. You can barely even see the dents unless the light is from the correct angle. But it would still cost more to "fix" the car, than the salvage value, and it was therefore "totaled". The car has worked absolutely fine with no problem for two years since then, but it's insane to think that if my 100% functional car was hit by a meteor right now it would not decrease in value. --172.68.34.94 19:09, 16 August 2018 (UTC)
+Friendly reminder to all the nerds out there, help your actual friends/family make backups BEFORE the phone is broken. - sincerely, the bearer of bad news 162.158.75.238 13:14, 18 August 2018 (UTC)
+"(Perhaps, it would be smart to have ones enemies in the car so that they are thrown away with it.)" That's called "murder" and is in fact frowned upon in most societies. 172.69.210.34 15:01, 19 August 2018 (UTC)
+Categories: All comicsComics from 2018Comics from AugustWednesday comicsComics featuring CueballComics featuring HairyComputers

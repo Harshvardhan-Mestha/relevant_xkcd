@@ -1,0 +1,56 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2422: Vaccine Ordering
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2422)
+|<< PrevComic #2422 (February 8, 2021)Next >>|
+Vaccine Ordering
+
+Title text: You know what they say: mRNA-1273 before tozinameran, you'll have to slay a banshee in a catamaran.
+Explanation[edit]
+This comic is another in a series of comics related to the COVID-19 pandemic, specifically regarding the COVID-19 vaccine.
+Two COVID-19 vaccines have been approved in the United States (one from Moderna, the other from a joint venture between Pfizer and BioNTech). Each of these vaccines require 2 doses, taken 3-4 weeks apart.
+Megan is reading an article on her phone to Cueball. A report from the CDC says that it's possible to get effective immunity against COVID-19 when mixing mRNA vaccine doses from Pfizer and Moderna, but that this practice should not be the norm. The report in question can be viewed here; it stresses that mixing the vaccines is acceptable only in exceptional circumstances, such as "when the first-dose vaccine product cannot be determined."
+Cueball wonders whether the order in which you receive the vaccines matters. Megan then attempts to create mnemonic devices to help them remember which mix-and-match strategy is best for the mRNA vaccines (e.g., "Beer before wine and you'll feel fine; wine before beer and you'll feel queer"). She "concludes" that receiving the Pfizer vaccine after the Moderna one will be just as effective as having two doses of either, but that having the Moderna vaccine after Pfizer's will lead to the patient becoming the ruler of an ancient city. Megan might mean that the patient will be literally transported back in time, as she and Cueball (and Black Hat) were in 2321: Low-Background Metal. The apparent truthiness of these mnemonics might be attributed to the rhyme-as-reason effect, a cognitive bias that is often misleading - very much so in this case. Megan succeeds by rhyming "Pfizer" and "wiser," but struggles with finding a rhyme for "Moderna," settling for Smyrna, an ancient city located in what is now Izmir, Turkey.
+A side effect of a drug is an effect incidental to the intended purpose of the drug. Side effects can be positive or negative, though in vaccine trials the greater concern is usually about negative side effects. Becoming ruler of an ancient city that is now only a historical ruin would certainly be an unexpected side effect.[citation needed]
+The title text continues the theme of difficult rhymes, using the full names of both the Moderna vaccine drug (mRNA-1273, rhymed with banshee) and the Pfizer one (tozinameran, rhymed with catamaran).
+Transcript[edit]
+[Megan and Cueball are talking. Megan is looking down and reading a news story on her phone.]
+Megan: The CDC says it's okay to mix and match the mRNA vaccines for doses 1 and 2, but only in "exceptional situations".
+Cueball: I wonder which order works better, if either.
+[A slimmer panel. Megan has her finger raised and her phone to her side]
+Megan: Well you know what they say.
+Megan: Moderna before Pfizer, you'll be none the wiser.
+[A regular panel, Megan and Cueball still standing next to each other.]
+Megan: Pfizer before Moderna then you'll... rule ancient Smyrna.
+Cueball: Weird side effect.
+Megan: A lot of hard-to-rhyme drugs have those.
+Trivia[edit]
+This comic image was originally published with no anti-aliasing. All of its pixels were either fully black or fully white, with no shades of gray, giving the smooth lines a jagged appearance. This was fixed later in the day.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Another question this suggests is whether you should wait 28 days (Moderna) or 21 days (Pfizer) between doses... JohnHawkinson (talk) 02:50, 9 February 2021 (UTC)
+Average and get 24.5 days? bubblegum-talk|contribs 18:50, 10 February 2021 (UTC)
+Can someone clarify if I, the banshee, or both need to be in the catamaran? Cwallenpoole (talk) 04:34, 9 February 2021 (UTC)
+I'd say at least the banshee needs to be in the catamaran. If only you were in it, but the banshee wasn't, you'd be slaying it from (or with, if you use the catamaran as a weapon), rather than in a catamaran. Bischoff (talk) 11:18, 9 February 2021 (UTC)
+Isn't that like the Groucho Marx joke? "I once shot an elephant in my pajamas. How it got into my pajamas, I don't know." Barmar (talk) 23:56, 9 February 2021 (UTC)
+yes -- Brettpeirce (talk) 22:34, 25 February 2021 (UTC)
+quality[edit]
+For those that read XKCD here first - yes, the original comic really is that low quality. I suspect Randall's going to replace it with a cleaner one at some point. 108.162.237.134 23:10, 8 February 2021 (UTC)
+Unless the low quality is intentional, some way-over-my-head joke about vaccines and mRNA, maybe? -- or the low-quality of the image as an analogy for the low-quality of the rhymes? 172.69.234.138 (talk) (please sign your comments with ~~~~)
+Looks like he's uploaded a better version now. I don't know how to replace the image, though. Argis13 (talk) 23:40, 8 February 2021 (UTC)
+It's still low quality at xkcd.com. Troy0 (talk) 00:14, 9 February 2021 (UTC)
+You can't (I just tried it). The image shown is scaled up by 2×, and the non-scaled version (the one displayed) is anti-aliased. bubblegum-talk|contribs 00:20, 9 February 2021 (UTC)
+Looks like Randall fixed it now.172.68.174.86 00:39, 9 February 2021 (UTC)
+I believe that the proper file should be vaccine_ordering_2x.png Bubblegum is correct. Icil34 (talk) 01:00, 9 February 2021 (UTC)Icil34
+That was a typo (it should be "is not anti-aliased"). The 2x one is displayed on xkcd, while the non-2x one is displayed on explainxkcd. The non-2x version was not anti-aliased when I made that comment, but it is now. bubblegum-talk|contribs 01:17, 9 February 2021 (UTC)
+Just uploaded the new version.DKMell (talk) 01:05, 9 February 2021 (UTC)
+I'd like to upload the original aliased files but I don't have permission to create new pages.[edit]
+The original 1x version is here and the 2x version, still aliased but with 4 pixels of #f7f7f7, is here Landfillbaby (talk) 01:21, 9 February 2021 (UTC)
+I see the right one now162.158.187.161 15:03, 9 February 2021 (UTC)
+
+"Pfizer before moderna, that'll learn ya" - Alex Booker on Last Leg (UK channel 4) 5th Feb. 162.158.2.226 17:37, 9 February 2021 (UTC)
+EDIT: Comment was deleted due to spamming-ish-ness.
+Probably fine to remove I'd say. Might need some misc cleanup Danish (talk) 17:11, 25 March 2021 (UTC)
+Categories: All comicsComics from 2021Comics from FebruaryMonday comicsPages using the "citation needed" templateCOVID-19COVID-19 vaccineLanguageComics featuring CueballComics featuring Megan

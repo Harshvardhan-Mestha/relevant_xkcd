@@ -1,0 +1,97 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2100: Models of the Atom
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2100)
+|<< PrevComic #2100 (January 18, 2019)Next >>|
+Models of the Atom
+
+Title text: J.J. Thompson won a Nobel Prize for his work in electricity in gases, but was unfairly passed over for his "An atom is plum pudding, and plum pudding is MADE of atoms! Duuuuude." theory.
+Explanation[edit]
+This comic humorously describes the changing view of what an atom is. This has happened so much it seems that we never really knew what we are looking at, and there have been many competing theories aside from the mainstream ones we are taught in school. He lists major depictions in the history of our understanding of an atom, and adds a few humorous ones in to poke fun at how diverse, contentious, and in retrospect often foolhardy, this history has been.
+Small hard ball model
+The first model shown, in 1810, is said to be a "small hard ball model." Around this time, John Dalton published his textbook A New System of Chemical Philosophy which linked existing ideas of atomic theory and chemical reactivity to produce a combined law of multiple proportions which proposed that each chemical element is comprised of a single unique type of atom, and introduced the concept of molecular weight. Dalton's theories form the basis of what is known today as stoichiometry, which underpins chemical reactivity. As atoms were considered at this time to be the smallest possible division of matter the scientific community thought of them as "hard round balls" of different sizes; thus the name described here. The "small hard ball" model is still commonly used when teaching and discussing chemical molecules which do not require the level of detail provided by more advanced models, with atoms represented as small, hard, round balls connected by sticks representing chemical bonds.
+Plum pudding model
+In the late 19th and early 20th centuries, the study of these "atom" things faced a crisis: where would the newly discovered "electrons" go? In 1904, physicist J. J. Thomson, who discovered electrons, had an idea: maybe the electrons were small point charges moving around in a big mass of positive charge. This was the "plum pudding model", the second model on the comic, called this because people imagined the positively charged mass as a "plum pudding". (The title text references Thomson (although misspelled as "J.J. Thompson") as well, along with the humorous observation that plum puddings themselves are made of atoms.) The problem with this approach is that same charges generally repel, resulting in the more mobile or unbalanced charges forming a surface shell around the others, attempting to escape, rather than being content to being randomly distributed among them.
+Tiny bird model
+There were many competing ideas in the formative years of what-are-atoms-made-of-ology; Randall makes up a 1907 "tiny bird model," which he suggests might have fit well in the relative chaos of the period. In this model, four birds surround the small hard ball at equal distances to one another. Two of them are singing and the other two are not and all birds are opposite to their identical bird. The non-singing birds balance the singing birds like electrons and protons. This model might be mocking the strange and sometimes illogical models that were presented for the shape of an atom.
+Rutherford model
+The tentative winner in the battle was the model of Thomson's student Ernest Rutherford, who discovered from electrostatic scattering experiments that the positive charge seemed to be concentrated in the center of the atom, and proposed his Rutherford model, or "planetary model", in 1911, where electrons orbit a very concentrated positive charge. This model has often been compared to the orbit of the planets around the sun, with the electrostatic attraction of the electrons and protons shaping the orbits, rather than gravity. This is the fourth model in the comic.
+Bohr model
+The Rutherford model could not explain the discrete spectral lines in absorption and emission spectra. It also did not explain why electrons did not spiral in to the nucleus. Niels Bohr patched the model up by proposing that electrons could only exist in distinct "energy levels" at discrete distances from the nucleus. The 1913 "Bohr model", the fifth model shown here, was part of beginning quantum mechanics. Physics behaves differently at the small scale of atoms than the large scales we are more familiar with.
+Nunchuck model
+Randall facetiously suggests a "nunchuck model", the sixth model shown, of a packet of protons swinging a packet of electrons around. One can imagine a handle filled with electrons bonded by the strong nuclear force to a chain made of neutrons, bonded again by the strong nuclear force to a handle made of protons. The heavier protonic handle acts loosely as an orbital center as the electron-filled opposite handle swings wildly around it, attempting to resolve its electrostatic attraction within the restraints of its chain.
+Chadwick model
+The next refinement was in the structure of the nucleus. Note that at this time, nobody thought of splitting up the nucleus into protons and neutrons. But pretty soon people noticed that protons and neutrons existed; James Chadwick, who discovered the neutron, figured that the atom had a nucleus of neutrons and protons, along with a bunch of electrons orbiting around it in a Bohrish manner. This is what the layman today often thinks of as an atom, and is the seventh model shown here.
+538 model
+The eighth model shown is a made up "538 model," in 2008. FiveThirtyEight is a statistical analysis website that gained fame in 2008 for predicting every race but 2 correctly in the US presidential election and predicting every state and Obama's win in the 2012 election. Unlike most other media and polling institutes it saw a rather high probability of 29% for Trump to win the 2016 election by summing up the uncertainties in all the battle states. It has since been known for making mathematical models for everything; the model jokingly suggests that 538 has modeled and presumably made predictions about the atom. The pie chart shows the statistical composition of neutrons, protons and electrons, 38%, 31%, and 31% respectively. This could either be the average of a massive body with several isotopes or represent gallium-69, the most abundant isotope of gallium, with 31 protons, 31 electrons and 38 neutrons. FiveThirtyEight has previously been mentioned in several xkcd comics, including in 477: Typewriter, 500: Election, 635: Locke and Demosthenes, 1130: Poll Watching, 1779: 2017, and 2002: LeBron James and Stephen Curry. It's appropriate to list the 538 model as a precursor to the quantum model, as it is a step towards considering the likelihood of different quantities of subatomic particles to be in different volumes of space, rather than considering them as strictly kinematic particles. The comic moves this development into 2008 in support of this joke, when it was actually made much earlier.
+Quantum model
+But the Chadwick model is not what scientists endorse today. The theory of electromagnetism says that accelerated charges, like the electrons circling, would lose energy emitted as electromagnetic waves and would quickly orbit into the nucleus. Bohr only postulated that this would not happen, but his model could not explain why. Another problem[citation needed] is that atoms, even the hydrogen atom, are not flat - which they would be, if a single electron orbited in a circular or elliptical trajectory (the circular motion of charge results in a magnetic moment; Otto Stern and Walter Gerlach showed that independent from the direction of the measurement the angular momentum - for certain elements - always has the maximum positive or negative value, i.e. not only the radius, but also the angular momentum is quantized - and never zero. You cannot 'look at' the atom from above and 'see' the orbital circle. It always 'seems', as if you 'looked' from the side and would measure the full magnetic dipole. Stern and Gerlach actually saw the spin of an electron of the silver atom instead of the angular momentum, which is according to quantum mechanics 0). Today (i.e. actually since 1926, 29 years after the discovery of the electron) physicists subscribe to a quantum model, which is the ninth model shown here. Instead of electrons with definite location and momentum (~speed), the parts of the atom are described by probability fields of possible locations and momentums. The changes in momentum probability normally cancel each other out, so there is no electromagnetic radiation.
+“Small hard ball surrounded by math” model
+Although the "quantum model" of today is already very abstract, the next model is postulated to get so abstract that it is just a "small hard ball surrounded by math". The last model shown is thus remarkably similar to the model we started out from, the "small hard ball model" (without the math). The picture for the "small ball surrounded by math" depicts a circle with several numbers around it. While the numbers seem to symbolize the "surrounding math" in a general sense, some of them suggest constants used in actual mathematical equations or other numbers related to the quantum model. The shapes and densities of the atomic orbitals are calculated with the Schrödinger equation, which is complex and difficult to solve. For this reason atoms are generally precisely considered in only very simple simulations, and the details of interactions of many atoms at large scales that form our daily lives are incredibly hard to precisely understand and predict on an atomic level. It comes down to "these roundish things we call atoms are moving around in these approximate ways obeying this complex equation with too many numbers involved in most situations to accurately model, so let's use a different, empirically derived formula that describes the behavior of the system in general."
+This model is probably a reference to the mathematical universe hypothesis and, as a striking case of prescience, may be seen as a prediction of April 2020’s Wolfram Physics Project.
+Transcript[edit]
+[Heading:]
+Models of the Atom
+over time
+[What follows is a progression of depictions of atoms.]
+[A ball.]
+1810
+Small hard ball model
+[A 'pudding' inside of which there are electrons.]
+1904
+Plum pudding model
+[A ball, with four birds perched on it and two of them singing.]
+1907
+Tiny bird model
+[A ball with electrons orbiting chaotically, in all directions, around it.]
+1911
+Rutherford model
+[A ball with electrons circling around it.]
+1913
+Bohr model
+[A nunchuck swinging, with the left stick filled with protons and the right stick filled with electrons.]
+1928
+Nunchuck model
+[A nucleus with protons and neutrons, with electrons circling around it like the Bohr model.]
+1932
+Chadwick model
+[A pie chart. 38% is allocated to neutrons, 31% to protons, and 31% to electrons.]
+2008
+538 model
+[A nucleus with clover-like orbitals around it and surrounded by two outer partly dashed circles.]
+Today
+Quantum model
+[A ball surrounded with numbers.]
+Future
+"Small hard ball surrounded by math" model
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+No mention of the Platonic solid model? DanielLC (talk) 05:56, 18 January 2019 (UTC)
+   Not yet. My favorite of those 5 is the double cube, AKA the Octahedron. Haph (talk) 06:35, 18 January 2019 (UTC)
+My good sir DanielLC: I presume that Randall neglected to mention it because the first evidence-based atom theory didn't come until 1810 and John Dalton. The atom theories of the ancient Greeks were mostly philosophical posturing, in my opinion.
+We seem to be missing the Acorn Atom as well. Kazzie (talk) 10:16, 18 January 2019 (UTC)
+And the Ariel Atom These Are Not The Comments You Are Looking For (talk) 08:43, 20 January 2019 (UTC)
+According to cosmology lecture notes by the astronomer Neil Trentham, mass in the universe ist 75% H (mostly 1p+0n=1) and 25% He (mostly 2p+2n=4). As He is 4 times as heavy and 3 times as seldom, there is 12 times more H than He => The ratio n/p is 1/7. We can assume that in the 538 model the statistics was done on atoms comprising few Hydrogene, e.g. only the earth's mantle. In heavier elements the ratio n/p > 1. Sebastian --172.68.110.70 07:39, 18 January 2019 (UTC)
+What are the numbers? Is 173 an error for 137, the fine structure constant? Sabik (talk) 10:36, 18 January 2019 (UTC)
+It reminds me of the mass of the top quark (even though the current best value is 172.44 GeV, 173, as measured at the time at Tevatron, was used as a good approximation for a long time. The latest Particle Data Group review also gives something rounding to 173) 141.101.107.174 13:55, 18 January 2019 (UTC)
+Do they really need a table for explanation? wouldn't a simple list be much easier to read? in my POV (which AFAIK is shared by many here) a table with just 2 columns is not useful at all --Lupo (talk) 14:17, 18 January 2019 (UTC)
+I strongly disagree: When any column except the last contains phrases of differing lengths, using a table (instead of a list presented in proportional width unformatted text) greatly increases legibility. Lists are fine for conveying a series of single items, but tables are superior for matrices with two dimensions or more.
+ProphetZarquon (talk) 20:23, 18 January 2019 (UTC)
+I also think that the table looks slightly out of place. At the very least it needs some additional text to link it to the explanation above, as it is not immediately obvious where the numbers come from without referring back to the comic. AlChemist (talk) 11:20, 19 January 2019 (UTC)
+173 could also be referencing the fact that Z=173 is theoretically the point where the 1s orbital goes all weird. The Wikipedia article gives a good explanation. 172.68.2.76 05:46, 19 January 2019 (UTC)
+The tiny bird model puzzles me completely. Is it a reference to any interim (even if obscure) scientific model or is it a completely facetious Randall's invention? Or is it a reference to something unrelated? Any ideas? -- 162.158.92.34 12:55, 18 January 2019 (UTC)
+When cartoon characters are dizzy, they are often depicted with stars or birds circling their head. Since xkcd is a comic & thus shares the hand-drawn aesthetic, I presume that Randall is referencing the "Circling Birds" trope.
+ProphetZarquon (talk) 20:23, 18 January 2019 (UTC)
+This seems to me a joke about how the early models of the atom were incredibly uninformed regarding science that we take for granted nowadays. It's just surprising and humorous. I googled it! I so wanted it to be real! 173.245.54.25 01:47, 19 January 2019 (UTC)
+The absolute scale of physical constants seldom has specific meaning. See h vs ħ (h bar). Neither is right or wrong and they can be used interchangeably (when putting the 2*pi in or removing it at the same time). The same is true for dimensionless constants. E.g. 4*pi *(h bar) = 2 *(h). So the 4*pi as dimensionless constant is as correct as 2 or any other dimensionless number, as you can rescale other constants. If you redefine some natural constants, the value 137 also changes. Most dimensionless constants can be deduced from mathematics with a known or yet unknown underlying physical theory. For example all chemical properties of elements (=chemical constants) can be calculated from the underlying physics by very complex mathematical terms. For an excursion that also mathematical constants are open for debate, see the Pi vs Tau debate. Both are correct. Sebastian --172.68.110.46 15:16, 18 January 2019 (UTC)
+Any chance the 4i is a Four-eye Joke? Seems a little low brow amongst all the numbers with meaning, but maybe? Also, the square root of 2 goes back a long way in mathematical theory like the first proof that not all numbers are rational. Pevinsghost (talk) 15:30, 18 January 2019 (UTC)
+Of course, in the more distant "future", we know that subatomic particles are actually science fiction tropes suspended in an amorphic field of negatively biased reviews, known as the "universally unsatisfactory" model. Nobody's entirely happy about the implications that the fundamental laws governing the nature of our reality were written largely by unpaid interns & compiled by a committee, but almost everyone agrees that it's the only explanation which matches our observational data. ProphetZarquon (talk) 20:23, 18 January 2019 (UTC)
+Will merkle trees help us find reality or are they a false flag? 173.245.54.25 01:44, 19 January 2019 (UTC)
+Underline error, also Tiny Bird Model[edit]
+I just wanted to point out that Randall forgot to underline 1913 above the Bohr model - I'm assuming it's a mistake and has no significance to the meaning of the comic, but.
+Also, regarding the tiny bird model, I think it's largely a combination of the idea that scientists really had no clue what was going on inside the atom, combined with finding tiny birds humorous. The nunchuck model does have a feasible explanation, as proposed in the article itself, but it's really no more sensible than the tiny bird model. I doubt there was any further intended meaning to it.
+Avesmx (talk) 21:03, 18 February 2019 (UTC)
+Could we use a chart, as in the recent comic on cells? 162.158.166.231 08:08, 22 March 2023 (UTC)
+Categories: All comicsComics from 2019Comics from JanuaryFriday comicsPages using the "citation needed" templateChartsComics featuring real peoplePhysicsAnimalsNobel Prize

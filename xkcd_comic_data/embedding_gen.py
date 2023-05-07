@@ -66,7 +66,7 @@ def generate_embedding():
 #generate_embedding()
 
 def extract_all_exp():
-    for i in range(1639,total_sites+1):
+    for i in range(2225,total_sites+1):
         extract_explanation(i+1)
 
 extract_all_exp()

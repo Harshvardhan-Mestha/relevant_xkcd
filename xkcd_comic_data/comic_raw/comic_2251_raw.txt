@@ -1,0 +1,147 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2251: Alignment Chart Alignment Chart
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2251)
+|<< PrevComic #2251 (January 6, 2020)Next >>|
+Alignment Chart Alignment Chart
+
+Title text: I would describe my personal alignment as "lawful heterozygous silty liquid."
+Explanation[edit]
+"Alignment" and "alignment charts" come from tabletop roleplaying games, most prominently Dungeons & Dragons. Every character has an alignment, which very roughly identifies their tendencies. The most widely used alignment system was introduced in the Dungeons & Dragons Basic Set in 1977 and has been reused in many (but not all) subsequent editions of the game. This system uses two perpendicular axes, each divided into three levels (for a total of nine categories). The two axes are:
+Lawful/neutral/chaotic: this axis says whether a character is strongly devoted to, indifferent about, or categorically opposed to following established rules.
+Good/neutral/evil: this axis says whether a character is generally inclined to commit good deeds or evil deeds.
+In this system, the "lawful" attribute is independent from the "good" attribute. Lawful alignment means that a character is committed to a set of rules, which can refer to actual established laws, or to something like a rigid personal code, a set of traditions, or a chain of command, while a chaotic alignment means that a character has no interest in those, and may actively oppose them. The good vs evil scale is generally based on a character's concern for the lives and well-being of others; a good character will actively seek to help others and prevent harm, while an evil character will have no such concern and may actively harm others. Being 'good' is assumed to be independent of being 'lawful'. For example, a character who actively breaks laws to help those who are unjustly imprisoned or oppressed would be considered to be "chaotic good". In both cases, a neutral alignment can indicate a character's indifference to a concept, or that their commitment is conditional, or that they consciously seek to balance both sides. A character with the "neutral neutral" alignment is called a true neutral.
+An alignment chart is a grid that divides the alignments, usually for the purpose of putting descriptions or particular characters on it. Alignment charts are frequently used as a meme template, where humorous or absurdist things are organized into different alignments. In addition to the "classic" Dungeons and Dragons alignment chart, there are a number of variant alignment charts in use as meme templates. Many keep the three-by-three grid structure but replace the lawful-neutral-chaotic and good-neutral-evil axes with descriptions.
+This comic claims to be a meta-alignment chart, where nine "alignment charts" are themselves sorted into the nine Dungeons and Dragons alignments, following the use of alignment charts to humorously classify abstract concepts. However, these "alignment charts" are mostly diagrams used in academic classifications, which are being treated as if they were blank meme templates. There are two levels of absurdity here: first, the idea of using these diagrams to classify things they were never intended for, and second, the conflation of chaos as a physics concept and an assigned moral weight as it applies to each of these classification systems.
+The title text describes Randall's alignment as "lawful heterozygous silty liquid" which references the true neutral, neutral good, lawful good, and lawful neutral charts in the Alignment Chart Alignment Chart. Lawful is the left side of an alignment chart, heterozygous is the top right or bottom left of a Punnet Square, silty is the bottom right of a soil chart, and liquid is the top right of a phase diagram. As such, the title text describes Randall's alignment as between Lawful Neutral and Neutral Good on this chart.
+Alignment Chart Explanation
+Lawful Good Soil chart This chart shows the USDA classification of soil types by their relative proportions of sand, clay and silt. The chart is a ternary diagram (very common in geology), so soils with more clay plot towards the upper corner, soils with more sand to the bottom left, and soils with more silt to the bottom right. This chart has been used humorously as an alignment chart (for example) and may have been the inspiration for Randall to use scientific diagrams as alignment charts. In addition to being Lawful Good, this grid cell is also the upper left cell of the chart and will be read first, making it a good place to put this chart as a "jumping off point". What If 83 "Star Sand" cites Randall as "...very satisfied with this chart, it's like the erosion geology edition of the electromagnetic spectrum chart..."
+Neutral Good Punnett square Punnet squares are a visual method of determining what traits an organism might have based on the traits of the organism's parents. It relies on the principle that a trait is either dominant (indicated with capital letters) or recessive (indicated with lowercase letters). The exact combination of dominant or recessive genes that a child organism receives from their parents determines their traits. Heterozygous and homozygous refers to the pairs of alleles in an organism’s genotype, indicating mixed or same alleles, respectively. Randall later uses "heterozygous" in the title text. Note that it is possible for a phenotype to be expressed the same between some heterozygotes and homozygotes, e.g., persons with genotypes heterozygous "Aa" and homozygous "AA" will both express blood type A.
+Therefore, the Punnett Square is a good chart because it is both a simple and true geometric predictor of inheritance, but it tends to be neutral because of complicating factors such as polygenic inheritance; these and other factors will cause genotypic frequency to deviate from expected 1:2:1 patterns.
+Chaotic Good IPA vowel chart This chart shows the relationship between different vowels according to the International Phonetic Alphabet. The position of the vowel on the chart serves roughly as an indicator of the position of the tongue in the mouth of the speaker. As different vowel sounds are created by changes in different parts of the mouth, including lip roundness which is expressed in the chart implicitly as an invisible third dimension, vowel identification is qualitative and often up to interpretation, and vowel expression can change dramatically from region to region or even person to person within the same language, the categories described by the chart might be considered chaotic. The chart is missing the near-open central vowel [ɐ] and the open central vowel [ä] (often written as /a/).
+Lawful Neutral Phase diagram A phase diagram shows the equilibrium phases of matter present for a particular temperature, pressure, and composition. The diagram included is a unary phase diagram of a typical material that has a solid, liquid, and gas phase depending on the temperature and pressure for a fixed composition. Phase diagrams are useful for understanding how a material may change as its conditions change. For example, the air pressure of Mars is such that there is no temperature at which liquid water can exist in equilibrium on its surface. Water exists as ice until the temperature reaches a point where it sublimates directly into steam.
+This phase diagram does not specify what material is depicted, but it is certainly not the phase diagram of water. On this diagram, compressing the liquid phase will transform the material into a solid, which is how most materials behave, but the solid/liquid phase line for water tilts the opposite direction. This is why water ice floats on liquid water, for example.
+Phase diagrams follow the laws of thermodynamics and concern themselves with the order in which things should be, so they are inherently lawful.
+True Neutral Alignment chart All alignment charts are neutral unless humans contaminate them. The chart in this cell has the same overall shape as the Alignment Chart Alignment Chart in the comic. It's important to note that this is called the Alignment Chart Alignment Chart alignment chart. However, that may be doing 'doing "doing it wrong" wrong' wrong.
+Chaotic Neutral CIE chromaticity diagram The chromaticity diagram is a chart of colors. Visible colors form a shape like a triangle with two bulging sides in the diagram. The curved line within the diagram shows the chromaticities of black bodies over a range of color temperatures. The chromaticity diagram shows colors independent of luminance.
+The chart is not a simple geometric shape, so it is labeled as chaotic. Points on the diagram can be specified as combinations of three underlying illuminants (the colors of which may not all be visible). It can also be described in polar form with angle and radial distance from some central point, where the maximum radial distance depends on the angle. The fact that the colors may not show properly on a screen, making the diagram incorrect, may also contribute to its chaotic aspect, as well as the fact that the official standard is behind a paywall.
+Lawful Evil Political compass Political Compass separates ideas about governance into economic and social political thought. For example, Gandhi and Stalin supposedly both had similar economic perspectives (collectivist) but radically different social perspectives (libertarian vs authoritarian).
+As politics is how laws are made, this is inherently lawful. Representing all politics in terms of two very general axes is not only a gross oversimplification, it is often used to put one's favored ideology as far away from Hitler or Stalin. This common use of a fallacy similar to the straw man makes this chart evil.
+Like the USDA soil chart, the political compass has actually been used as an alignment chart, largely to mock the original political compass chart.
+Neutral Evil QAPF rock diagram This diagram is used to classify coarse-grained felsic (low magnesium and iron) igneous rocks by the relative volumes of the minerals quartz, alkali feldspars, plagioclase feldspars, and feldspathoids in the rock. It consists of two ternary diagrams - quartz and feldspathoid minerals cannot coexist (they will react to form feldspars) so only three of these components will be in any given rock. Rocks in the upper triangle of the diagram contain quartz, with rocks with more quartz plotting closer to the top, while rocks in the lower triangle contain feldspathoids, with rocks with more feldspathoids plotting lower. Rocks closer to the left corner of the diagram contain more alkali feldspar and rocks closer to the right corner contain more plagioclase feldspar. The field on the diagram for granite is labeled in the comic, but each area outlined on the diagram has its own rock name (monzonite, syenite, granodiorite, etc.). All the rocks that the QAPF diagram is used to classify look superficially like granite, but their chemistry, mineralogy, and origin differ.
+The QAPF diagram and the names of the more obscure rock types on it can be somewhat arcane, which may be why it is considered evil here.
+Chaotic Evil Omnispace classifier The other eight diagrams shown in this comic, squished together into one, with the shapes of the diagrams corresponding to those of the originals. The diagram is labeled chaotic, since it does not have a simple geometrical shape. Probably self-referential humor, in that the diagram created for this comic is considered to be chaotically evil.
+An alignment chart was also featured in 2408: Egg Strategies, which was published exactly one year later.
+Transcript[edit]
+This transcript is incomplete. Please help editing it! Thanks.
+[A 3×3 grid of squares. Each square contains a label at the top and a drawing of a chart, and each square has a caption below it. From left to right, a row at a time:]
+Soil Chart
+[describe this chart here]
+Clay
+Silty Clay
+[…]
+Lawful Good
+Punnett Square
+[describe this chart here]
+Neutral Good
+IPA Vowel Chart
+[describe this chart here]
+Chaotic Good
+Phase Diagram
+[describe this chart here]
+Lawful Neutral
+Alignment Chart
+[A 3×3 grid of nine empty squares, each with an unreadable label below it.]
+True Neutral
+CIE Chromaticity Diagram
+[describe this chart here]
+Green
+Yellow
+…
+Chaotic Neutral
+Political Compass
+[describe this chart here]
+Lawful Evil
+QAPF Rock Diagram
+[The diagram is a rhombus with each corner labeled: ‘Q’ at the top, ‘A’ at the left, ‘P’ at the right, and ‘F’ at the bottom. The diagram is divided into trapezoids and triangles, each with labels. The writing in most subdivisions are unreadable. The readable subdivisions:]
+Granite (around the top left)
+Basalt (just below the right corner)
+Foidolite (at the bottom)
+Neutral Evil
+Omnispace Classifier
+Chaotic Evil
+[describe this chart here]
+
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+OK, hope someone will now explain it after I created this page. I'm lost on this one ;-) --Kynde (talk) 10:49, 6 January 2020 (UTC)
+Arrgh, edit conflict! Kev (talk) 11:55, 6 January 2020 (UTC)
+I'm pretty sure the Punnet Square is also a meme template...162.158.154.229 15:59, 7 January 2020 (UTC)
+I vaguely remember Randall to refer to the clay-sand diagram (or whatever it is called) as his all time favorite diagram on what-if somewhere. --Lupo (talk) 12:35, 6 January 2020 (UTC)
+You vaguely remember "Starsand" from https://what-if.xkcd.com/83/ with the quote "Fortunately, there's a wonderful chart by the US Geologic Survey that answers all these questions and more. For some reason, I find this chart very satisfying—it's like the erosion geology edition of the electromagnetic spectrum chart." directly applicabe to this chartTier666 (talk) 17:57, 6 January 2020 (UTC)
+I fear any attempt to "explain" the CIE chromaticity diagram will devolve into arguments about why Randall chose it. I have found that folks outside the world of optics or neurooptical studies have a hard time understanding why the raw colors available in single wavelengths comprise that short curvy line inside the full colorspace. The way our brain processes the relative signal strengths from the different types of retinal cones is quite amazing. Cellocgw (talk) 12:57, 6 January 2020 (UTC)
+CGW I'm shocked! Surely you know that single-wavelengths are the curvy outer boundary while the inner curvy line shows the response to blackbody spectra. ;-) -Fred 173.245.52.61 19:55, 6 January 2020 (UTC)
+Thanks for that; I was about to question the statement myself. All in all, I feel the current explanation of the chromaticity diagram doesn't really explain much, and seems unnecessarily biased to boot. I know just enough about chromaticity to think it's wrong but not enough to correct it. LtPowers (talk) 19:58, 6 January 2020 (UTC)
+I agree that explanation isn't great, if it's not improved when I have free time tonight I'll take a stab at it. Or maybe CelloCGW will, since he IS an optics guru (which is why I had to raz him).173.245.52.61 20:13, 6 January 2020 (UTC)
+@Fred - mea culpa. I should think before writing. Fortunately :-), the ratio of the colorspace to any 1-dimensional line's area is still infinite! Cellocgw (talk) 20:33, 6 January 2020 (UTC) .... now that someone did post some explanation of CIE, more comments. The current CIE spec may be paywalled, but it has changed little if at all over the last 40 or 50 years, so it's not all that hard to get the values. There are several sites (naturally I've lost the URLs) which provide algos to convert HSM to RGB to HSV and so on. See Wikipedia, https://law.resource.org/pub/us/cfr/ibr/003/cie.15.2004.tables.xls , and similar repositories Cellocgw (talk) 20:44, 6 January 2020 (UTC)
+I redid the CIE explanation - focusing on describing the diagram, rather than one thing it might get used for (e.g. black body). I think the diagrams on the right are labeled chaotic because they are not some neat geometric shape over-all. I didn't really follow much of what was there, so feel free to revive some of it if it seems useful. (My background in color theory comes from computer science and graphics, rather than from physics or hardware design.) 162.158.107.201 00:57, 7 January 2020 (UTC)
+It's better! Though it might be nice to explain what the x and y coordinates on the CIE diagram represent. (I personally have no clue, even after perusing Wikipedia.) As for chaoticness and shape, really CN and CE are the one two that aren't simple geometric shapes; even CG is a trapezoid. LtPowers (talk) 15:04, 8 January 2020 (UTC)
+I'm only familiar with 4th and 5th edition, but should the "Good/neutral/evil:" axis eplanation be changed to "selfless deeds or selfish deeds"? Good and evil are highly subjective ("One person's 'freedom fighter' is another person's 'terrorist'.") but at least in 5e the axis is explained as risking/sacrificing yourself for the benefit of others (Good) vs. sacrificing others for your own benefit (Evil). Also, the explanation of the CN character may benefit from dividing which parts of the explanation are "chatoic" vs "neutral". Finally the "lacking rhyme or reason" part of chaotic is highly debated within D&D circles. There are certainly people who play that way, but there are also others who feel that chaotic characters have just as much motivation and goals as a lawful or neutral character just that part of their motivation is to act contrarily to Tradition/Authority. 162.158.186.54 14:37, 6 January 2020 (UTC)
+It seems from this page that even nerds tend to interpret the alignment system by the ‘common sense’ meaning of the names instead of the detailed explanation. I once simply went through the Wikipedia article, which cited the second edition IIRC: ‘lawful’ means sticking to some code of conduct, whereas ‘chaotic’ is a pure opportunist or behaves randomly. ‘Good’ and ‘evil’ indeed mean selfless vs selfish deeds, but afaik in one of the official explanations ‘evil’ meant exercising authority over others—so all managers would be ‘evil’ automatically. Aasasd (talk) 16:42, 6 January 2020 (UTC)
+I am not sure the phase diagram is for Water - that has nine solid phases. Surely it is merely a simple example. Arachrah (talk) 16:52, 6 January 2020 (UTC)
+As an interesting note, this comic's alt-text also ends with a period inside of a quote. This was discussed at length in the previous comic. Agrasin (talk) 16:52, 6 January 2020 (UTC)
+I'm just upset that both a soil diagram and the QAPF were included, but not the TAS. Where's the love for extrusive igneous rocks? Mergelong (talk) 18:22, 6 January 2020 (UTC)
+BTW, I offer my condolences and wish luck to the person who's going to make a transcript of this comic. Aasasd (talk) 22:28, 6 January 2020 (UTC)
+"lawful heterozygous silty liquid" Is this not him being Lawfull, having inherited different forms of a particular gene from each parent, and basically a bag full of salt water? Nappy (talk) 07:51, 7 January 2020 (UTC)
+A phase diagram was also used in https://what-if.xkcd.com/138/ 162.158.89.7 08:23, 7 January 2020 (UTC)
+The phase diagrams for oxygen and radon look similar to the Lawful Neutral one here. 172.68.34.166 23:06, 8 January 2020 (UTC)
+Is it coincidence that the evil chaotic diagram looks a bit like a brain? --162.158.158.9 10:52, 9 January 2020 (UTC)
+Made a "real" one using actual picts from the internet based on this comic ... but ALSO using his comic. Meta, meta, meta, maybe? https://imgur.com/gallery/CagOh8s
+I'm fairly certain that Randall is classifying himself using the Omnispace classifier, rather than referencing "the true neutral, neutral good, lawful good, and lawful neutral charts in the Alignment Chart Alignment Chart." as the current description suggests. If you look at the Omnispace classifier, Silt, Liquid, Heterozygous, and Lawful Good all share a common point on the chart. 172.69.68.207 17:55, 27 January 2020 (UTC)
+Omnispace Classifier[edit]
+I think the Omnispace Classifier is meant to be a horrific Frankenstein amalgamation of the other 8 kinds of chart. Theoretically it can "classify anything" since it can classify anything the other 8 can, but practically it would obviously be totally useless, or at least a lot less useful than just using the specific chart that works for the situation. Pureawes0me (talk) 12:09, 6 January 2020 (UTC)
+In the description of the Omnispace Classifier, saying "the diagram created for this comic is considered to be chaotically evil." is wrong. The diagram created for this comic is not an Omnispace Classifier, it is an alignment chart. It's even in the title "Alignment Chart Alignment Chart". Pureawes0me (talk) 14:11, 8 January 2020 (UTC)
+I concur. LtPowers (talk) 15:04, 8 January 2020 (UTC)
+I feel the "Omnispace Classifier" is actually chaotic evil due to its mishmash of axes, which change randomly in topic and direction depending where you look on the graph. --GoldNinja (talk) 17:43, 8 January 2020 (UTC)
+Chart Position Rationale[edit]
+The page currently tries to explain each chart's position based on the content of the chart, e.g. the political compass chart is lawful because politics relates to laws. I think this is wrong: the charts are arranged based on their properties as charts. It's not based on whatever it is they represent. This feels more in character with how Randall tends to do things. It also avoids making a bunch of value judgments about various topics. Khaim (talk) 23:05, 8 January 2020 (UTC)
+Possible explanations for each chart:
+Soil chart: Information-dense, continuous, triangular
+Punnett square: Simple, square
+IPA vowel chart: Irregular shape
+Phase diagram: Square, continuous
+Alignment chart: "A is A"
+CIE chromaticity diagram: Irregular shape, curved, nonlinear
+Political compass: Square (lawful), highly subjective, not very useful
+QAPF rock diagram: Diamond shape is misleading since it's actually two ternary charts stuck together, not very useful (unless you're a geologist?)
+Omnispace classifier: Totally made up, irregular, completely useless
+Khaim (talk) 23:31, 8 January 2020 (UTC)
+I agree with this, and it's how I first interpreted the comic.--GoldNinja (talk) 23:40, 8 January 2020 (UTC)
+Well, the point is to make any connection to both axis of the chart. Your explanations do not do that properly either. e.g. for IPA vowel chart "Irregular shape" does not explain why it would be considered "good", while it is one of maybe more possible reasons for being considered chaotic. --Lupo (talk) 07:39, 9 January 2020 (UTC)
+XKCD Alignment Chart[edit]
+A while back, I was searching for an XKCD alignment chart, with no success, so I made one. It is not perfect, so I'm wondering what other opinions on the alignment of the characters are.
+Lawful Good- Beret
+Neutral Good- Ponytail
+Chaotic Good- Mrs. Roberts
+
+Lawful Neutral-Cueball
+Neutral Neutral- Megan
+Chaotic Neutral- White hat
+
+Lawful Evil- Hairy
+Neutral Evil- Danish
+Chaotic Evil- Black Hat
+--Fallencrow305 (talk) 22:10, 28 July 2016 (UTC)
+What about Help I'm trapped in a drivers license factory Elaine Roberts? --JayRulesXKCD (talk) 15:48, 29 September 2016 (UTC)
+Or Hairbun? Or Science Girl? Here are my predictions: Elaine - Chaotic Good, Hairbun - Lawful Good, Science Girl - Lawful Neutral --JayRulesXKCD (talk) 16:00, 29 September 2016 (UTC)
+What? How can Beret Guy be anything other than chaotic?— -- [[User:|]] ([[User talk:|talk]]) (please sign your comments with ~~~~)
+You did:
+Lawful Neutral Chaotic
+Good Beret Ponytail Mrs. Roberts
+Neutral Cueball Megan White Hat
+Evil Hairy Danish Black Hat
+While False (speak | museum) 18:10, 17 October 2022 (UTC)
+...while I see the slight logic of moving the above section away from the Main Page "Talk", it is only associated with this Explanation by having a common subject. Perhaps should have been re-asserted under a suitable bit of the Community Portal, or the (Talk of the) umbrella page for all characters? 172.70.86.147 15:54, 17 February 2023 (UTC)
+Categories: All comicsComics from 2020Comics from JanuaryMonday comicsIncomplete transcriptsChartsBiologyChemistryPhysicsGeologyLanguageFictionPoliticsRecursion

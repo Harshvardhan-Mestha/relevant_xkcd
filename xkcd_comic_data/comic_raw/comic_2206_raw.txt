@@ -1,0 +1,99 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2206: Mavis Beacon
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2206)
+|<< PrevComic #2206 (September 23, 2019)Next >>|
+Mavis Beacon
+
+Title text: There are actually lowercase-like 'oldstyle' forms of normal numbers with more pronounced ascenders and descenders, which is why some numbers like '5' in books sometimes dangle below the line. But the true capital numbers remain the domain of number maven Mavis Beacon.
+Explanation[edit]
+Cueball is being congratulated by the game he plays, Mavis Beacon, on his computer, because he has beaten the end boss and unlocked a new ability - the ability to type capital numbers...
+Mavis Beacon Teaches Typing is a computer game first released in 1987, with the goal of teaching touch-typing and improving typing speed on a computer keyboard. Unlike many video games, Mavis Beacon contains no combat and therefore does not feature any "end boss" (a very powerful enemy encountered as the final challenge of the game). In many video games, defeating major opponents "unlocks" special features, such as improved weapons. Also, playing Mavis Beacon, although it may improve typing skill, has no effect on how typing works on one's computer.
+In the caption, however, Randall asserts that after 30 years of playing Mavis Beacon, he encountered and defeated such a boss. Playing the same game for 30 years is rare[citation needed]. Regardless, Randall claims that defeating this "end boss" unlocked an ability to type esoteric "capital numbers," which Randall depicts as more extravagant versions of the familiar numerals. Although modern Latin letters have different letter case (i.e. capital or upper case and small or lower-case), Arabic numerals - the conventional numerals 0-9 used in the Western world - do not.
+Stating that the game is old enough that it could have been played for 30 years, could be another attempt at making people, who actually did play the game in the early days, feel old (or an appeal to nostalgia). But this doesn't seem to be the main point of the comic.
+Typing such numerals is said to require pressing the Alt, tilde (~), Scroll Lock, and numeral keys at the same time. Some keyboard layouts do not have a scroll lock key or a separate tilde key (such that pressing ~ actually requires pressing a shift/modifier key along with the ~ key), and in any event pressing four or five keys at once would be quite difficult. Needless to say, pressing all those keys simultaneously does not, in fact, do anything like what the comics describes in any known computer system, though some smaller subset of those keys together (i.e. "Alt ~" or "Alt numeral-key") might activate other operating system or user-defined shortcuts.
+Keyboards vary in how many simultaneous key presses they can process (rollover). Computer keyboards for English may be limited to as few as 3 simultaneous keys, whereas other languages or higher quality keyboards may be able to handle an unlimited number of keys at once. (A musical keyboard might need to handle 10 or more simultaneous keys, likewise gaming or braille keyboards may need to handle many simultaneous keys.)
+In the title text, Randall notes that certain typefaces feature text figures, numerals that have ascenders and descenders, much as lower-case letters do, rather than all standing at the full X-height like capital letters. He then goes on to joke that, conversely, there are true "capital numerals," but they are a guarded secret of Mavis Beacon. Mavis Beacon was the character created as the typing instructor for the Mavis Beacon game, and is fictional, not a real person. Additionally, as a typing instructor, this person (even if she actually existed) would not be able to change typographical standards. Randall's description of Mavis Beacon as a "number maven" (that is, expert or connoisseur) contrasts with her supposed field of expertise in typing, which involves letters and punctuation more than numbers.
+The comic itself hotlinks to this article: Oldstyle Figures. It is about typographic oldstyle digits. The article assert that oldstyle digits are also called "lowercase" digits.
+Transcript[edit]
+[Cueball is sitting in an office chair at his desk in front of his computer reading a message that is shown coming from the screen with a zigzag line, going to the text above him. The two upper lines (of five) are separated from the lines below, but connected with a small zigzag line. The computer short cut is written in three boxes. The last line is the numbers from 1 to 9 and 0, in a highly stylized format but recognizable in this context. The digits are shown below in their standard appearance since the stylized versions cannot be reproduced in this transcript.]
+Congratulations.
+Use this power wisely.
+Key Code (secret!!):
+Alt + Tilde + Scroll Lock + Number
+1234567890
+[Caption below the panel:]
+After 30 years, I finally beat the end boss of Mavis Beacon and unlocked the ability to type capital numbers.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+So the # key, then?
+Shifted or not? The implication is that it is, since that's where ‘~’ is. 141.101.99.41 18:44, 23 September 2019 (UTC)
+On a typical German QWERTZ layout keyboard, the tilde key '~' can/must be entered via AltGr++; alternatively, Ctrl+Alt++ should work when there is no AltGr key. On certain "dead key" keyboard layouts, there even is no single and direct '~' key: To type a tilde, one would have to press AltGr++ followed directly by a space or to double-tap + while holding AltGr. This would mean even more complicated or pretty much impossible key combinations that would be needed to be pressed at the same time. However, holding AltGr or Ctrl+Alt to try and type a tilde would probably cancel out the "single" Alt key necessary for the comic's secret key code. So, once you've managed to type a tilde, it likely wouldn't count any more for the key combo, making it impossible to type this key combination on such keyboard. --Passerby (talk) 19:26, 23 September 2019 (UTC)
+I've seen many programs provide hotkey instructions calling the grave key the tilde key due to the difficulty of differentiating between the grave key and the apostrophe key. So I'd assume no shifting is required. CJB42 (talk) 01:51, 24 September 2019 (UTC)
+I don't know if Mavis Beacon was ever internationalized, but it was presumably originally designed for full-sized (non-laptop) U.S. QWERTY 101-key keyboards, where the ~ (tilde) is on the same key as the ` (back-tick) character, and which requires the use of the Shift key to activate. If Mavis Beacon was internationalized, and if this boss reward really existed and was unlocked by a particular key combination, one would hope the key combination would take into account different keyboard layouts. I would also assume that it would not require the shift (or other modifier) key, otherwise they would include that particular modifier key among the list of keys in the combination. So, like CJB42 pointed out, while they would say ~ since that's clearly labeled on the keyboard and easier to display, they really mean ` which might otherwise just look like a smudge. -boB (talk) 19:49, 24 September 2019 (UTC)
+The link from Friday's comic to this new one is missing. -boB (talk) 19:21, 23 September 2019 (UTC)
+This page was created by the bot only a short while ago. I may be wrong, but I think those links will be set automagically by such bot at some point after the creation of this page. --Passerby (talk) 19:31, 23 September 2019 (UTC)
+Currently, the button on Comic #2205 to go to this comic is missing - someone with more technical expertise than me, please fix this 172.69.22.134 21:07, 23 September 2019 (UTC)
+Fixed it - to do it, go to https://www.explainxkcd.com/wiki/index.php?title=2205:_Types_of_Approximation&action=Purge , this works for any page if you change "2205:_Types_of_Approximation" to what it should be. 172.68.174.88 (talk) (please sign your comments with ~~~~)
+
+Here on a touchscreen the comic hotlinks to https://www.fonts.com/content/learning/fontology/level-3/numbers/oldstyle-figures 172.68.38.64 19:12, 24 September 2019 (UTC)
+It is also a link on a PC. It has been added to the explanation. --Kynde (talk) 08:27, 25 September 2019 (UTC)
+Unicode
+Presumably a lot of this could be achieved with Unicode; any advances on 𝟙𝟚𝟛𝟜𝟝𝟞𝟟𝟠𝟡𝟘? Sabik (talk) 05:07, 24 September 2019 (UTC)
+Simple means of checking:
+>>> import unicodedata as ucd
+>>> for i in range(0x110000):
+...     c = chr(i)
+...     if ucd.normalize("NFKD", c)[0] in "0123456789":
+...         print(c, end=", ")
+It actually spits out
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9, ², ³, ¹, ¼, ½, ¾, ⁰, ⁴, ⁵, ⁶, ⁷, ⁸, ⁹, ₀, ₁, ₂, ₃, ₄, ₅, ₆, ₇, ₈, ₉, ⅐, ⅑, ⅒, ⅓, ⅔, ⅕, ⅖, ⅗, ⅘, ⅙, ⅚, ⅛, ⅜, ⅝, ⅞, ⅟, ↉, ①, ②, ③, ④, ⑤, ⑥, ⑦, ⑧, ⑨, ⑩, ⑪, ⑫, ⑬, ⑭, ⑮, ⑯, ⑰, ⑱, ⑲, ⑳, ⒈, ⒉, ⒊, ⒋, ⒌, ⒍, ⒎, ⒏, ⒐, ⒑, ⒒, ⒓, ⒔, ⒕, ⒖, ⒗, ⒘, ⒙, ⒚, ⒛, ⓪, ㉑, ㉒, ㉓, ㉔, ㉕, ㉖, ㉗, ㉘, ㉙, ㉚, ㉛, ㉜, ㉝, ㉞, ㉟, ㊱, ㊲, ㊳, ㊴, ㊵, ㊶, ㊷, ㊸, ㊹, ㊺, ㊻, ㊼, ㊽, ㊾, ㊿, ㋀, ㋁, ㋂, ㋃, ㋄, ㋅, ㋆, ㋇, ㋈, ㋉, ㋊, ㋋, ㍘, ㍙, ㍚, ㍛, ㍜, ㍝, ㍞, ㍟, ㍠, ㍡, ㍢, ㍣, ㍤, ㍥, ㍦, ㍧, ㍨, ㍩, ㍪, ㍫, ㍬, ㍭, ㍮, ㍯, ㍰, ㏠, ㏡, ㏢, ㏣, ㏤, ㏥, ㏦, ㏧, ㏨, ㏩, ㏪, ㏫, ㏬, ㏭, ㏮, ㏯, ㏰, ㏱, ㏲, ㏳, ㏴, ㏵, ㏶, ㏷, ㏸, ㏹, ㏺, ㏻, ㏼, ㏽, ㏾, ０, １, ２, ３, ４, ５, ６, ７, ８, ９, 𝟎, 𝟏, 𝟐, 𝟑, 𝟒, 𝟓, 𝟔, 𝟕, 𝟖, 𝟗, 𝟘, 𝟙, 𝟚, 𝟛, 𝟜, 𝟝, 𝟞, 𝟟, 𝟠, 𝟡, 𝟢, 𝟣, 𝟤, 𝟥, 𝟦, 𝟧, 𝟨, 𝟩, 𝟪, 𝟫, 𝟬, 𝟭, 𝟮, 𝟯, 𝟰, 𝟱, 𝟲, 𝟳, 𝟴, 𝟵, 𝟶, 𝟷, 𝟸, 𝟹, 𝟺, 𝟻, 𝟼, 𝟽, 𝟾, 𝟿, 🄀, 🄁, 🄂, 🄃, 🄄, 🄅, 🄆, 🄇, 🄈, 🄉, 🄊
+So unless you're mis-using characters which are not supposed to be numbers (which would change the screenreader experience from annoying in this case to actually unintelligible and is therefore ill-advisable), that's probably the closest you'd get. --141.101.104.139 09:35, 24 September 2019 (UTC)
+reductio ad absurdum (or HHOS)
+This article, as written, made me laugh out loud even louder than the original cartoon which also made me laugh out loud.
+It seems to me that the joke of this strip originated with the idea that there really ARE lowercase numbers (also called oldstyle) which, like glyphs for lowercase letters go below and above the usual line of type. The joke also forces a meta-level of thinking by overlapping the idea of a type-font or type-face and the idea of a character being unique because of its meaning more than because of its appearance. Unicode matches integers to characters - but only in the context of a font does that have to do with the character's glyph - other aspects of characters are things like upper-case v. lower-case, phonetic value, what constitutes proper sort order, which character are digits and which are letters, which are punctuation, etc. etc. etc. A character's appearance, or glyph, (bitmap or set of analog drawing instructions) is only a small part of what makes a character a character. Godel Escher Bach deals with these meta-levels as does Russel's paradox and non-trivial concepts in math, geometry, and science, as well as other fields. As such the joke is a kind of conceptual pun. However. The joke could be taken one level further by actually making a TrueType font which really does have uppercase and lowercase numbers - like a dingbat font, but where the uppercase-ness and lowercase-ness of the characters are kept, but the glyphs of a thru j are lowercase (oldstyle) numbers and the glyphs of Z thru J are uppercase (taken from the cartoon) numbers - 0 thru 9 could be Lining Figures digits. If the font was designed using SVG (and a SVG to TrueType converter) the entire SVG file could be created with the keyboard, using only 7-bit ascii (which is a subset of UTF-8, Codepage 437, Codepage 850, Codepage 1252 and many others) and XML character entities.
+I am also surprised that no one has mentioned the old DOS/Windows ALT+Numeric-Keyboard trick for entering any one-byte character - which really worked with real keyboards (and I think is still supported in MS Word). There was a time when a clever hacker could use this and the DOS prompt to create a executable by COPY CON FOO.COM - which would fit nicely with the text "use this power wisely". But maybe I am reading too much into it.
+Citations:
+https://www.techsupportalert.com/content/how-easily-insert-special-symbols-and-characters-windows-part-i.htm
+https://www.techsupportalert.com/content/how-easily-insert-special-symbols-and-characters-windows-part-ii.htm
+EnableHexNumpad
+
+https://www.minitool.com/news/alt-codes-not-working-on-windows-10.html
+
+https://en.wikipedia.org/wiki/Code_page_437
+https://en.wikipedia.org/wiki/Code_page_850
+https://en.wikipedia.org/wiki/Windows-1252
+https://en.wikipedia.org/wiki/UTF-8
+https://en.wikipedia.org/wiki/Byte_order_mark
+
+https://www.computerhope.com/jargon/c/copycon.htm
+https://stackoverflow.com/questions/2354560/creating-an-executable-file-without-a-compiler
+https://colinord.blogspot.com/2015/02/extreme-programming-hand-coded.html
+
+https://onlineconvertfree.com/convert-format/svg-to-ttf/
+https://www.w3schools.com/graphics/svg_intro.asp
+https://www.tutorialspoint.com/xml/xml_character_entities.htm
+
+http://unicode.org/faq/casemap_charprop.html
+
+Insert the ANSI character
+https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-word-95ef89dd-7142-4b50-afb2-f762f663ceb2#PickTab=Windows
+BrianFennell (talk) 19:11, 7 February 2021 (UTC)
+
+Trochees
+To tie this to a recurring theme in Mr. Munroe's comics... "Mavis Beacon Teaches Typing - Heroes on the half shell." Ryanker (talk) 20:14, 23 September 2019 (UTC)
+"Number Maven Mavis Beacon" also fits such a pattern. Enfield (talk) 17:56, 25 September 2019 (UTC)
+
+Is it worth mentioning "Typing of the Dead" and its sequel?--162.158.34.210 14:53, 24 September 2019 (UTC)
+It appears you have. So perhaps the former but not the latter? ;-) 172.68.47.66 (talk) (please sign your comments with ~~~~)
+I just wish to say hello to all others here who first experienced Mavis Beacon Typing Tutor back in the day. It was one of the few 'games' with graphics (that weren't CGA!) that was on that early PC of mine, albeit in monochrome (green on black) because of the limitations of that Hercules graphics card/chip/whatever-it-was. That and a 'Digger' game (a clone/ripoff of DigDug, it seems). Ah, nostalgia. I wonder if I can still use my old Psion Xchange suit? Time to dig up a working 5¼” drive and fit it to whatever ATAPI-enabled Mobos I can find... 162.158.154.61 17:32, 25 September 2019 (UTC)
+Playing the same game for 30 years is rare [citation needed]
+Windows Solitaire was introduced on 22 May 1990. So we are less than a year from having a game that many people could have been playing for 30 years. These Are Not The Comments You Are Looking For (talk) 03:52, 29 September 2019 (UTC)
+
+I like this one! I've often been irritated by the lack of a concept of capital numbers, and this is a great design. Get on it, Unicode consortium! 😜 (oh, and don't forget the arbitrary-length snakes!) PotatoGod (talk) 08:54, 30 September 2019 (UTC)
+The capital numbers remind me of transdecimal numerals
+These were invented by Michael De Vlieger to represent digits in bases higher than ten. That three-holed-eight looks a lot like the numeral for 256... http://www.vincico.com/arqam/digits/argam-current.html
+Does the zero look like a very simply drawn Death Star to anyone else? No? Just me then? Okay, just checking. NiceGuy1 (talk) 05:02, 18 October 2019 (UTC)
+Categories: All comicsComics from 2019Comics from SeptemberMonday comicsPages using the "citation needed" templateComics featuring CueballComputers

@@ -1,0 +1,114 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2179: NWS Warnings
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2179)
+|<< PrevComic #2179 (July 22, 2019)Next >>|
+NWS Warnings
+
+Title text: Kind of rude of them to simultaneously issue an EVACUATION - IMMEDIATE alert, a SHELTER IN PLACE alert, and a 911 TELEPHONE OUTAGE alert.
+Explanation[edit]
+The National Weather Service (NWS) is a United States federal agency that is tasked with issuing national weather forecasts and extreme weather alerts.
+This comic portrays the NWS as a person that needs breaks, which is absurd, as it is an important service and would probably always have staff active, even on holidays. For example, the NWS continued to work during federal government shutdowns, as it was considered an essential service for the protection of life and property. Even if one of the NWS's 122 local weather offices were to be incapacitated, contingency plans are in place to ensure that nearby offices act as emergency cover; as happened in March 2019 with flooding in Nebraska forcing the NWS office in Valley to evacuate.
+Regardless, in this comic the NWS has decided to take a break, and so has opted to issue every extreme weather alert possible for the entire contiguous portion of the United States (including DC, but not Alaska or Hawaii) to make sure no one is caught by surprise by extreme weather, since the NWS will not be able to issue warnings. As the NWS could not be sure which areas will need to get warned of severe incidents, the NWS has decided to issue warning polygons that cover the entire United States (ostensibly except Alaska and Hawaii). A layer of humor is that this would necessitate warnings where they would be highly unlikely to occur in real life; examples include issuing blizzard warnings for Florida, where any amount of snow is rare, and tsunami warnings for areas very far from any ocean coastline.
+Each of the text warnings within the map are coloured, which matches the NWS color coding used for a given warning event.
+The title text mentions how some of the warnings that have been issued require action to get to safety that contradicts the other warnings, for example, an evacuation warning and a shelter in place order, since doing one would mean failing to do the other. This confusing scenario would likely prompt many concerned citizens to call emergency services for clarification, but the 911 outage alert would advise against this, adding another layer to the absurdity of the occurrence of the NWS taking a break.
+This comic was likely inspired by the heat wave that impacted two-thirds of the US for more than a week.
+NWS and tornado warnings was later mentioned in the title text of 2219: Earthquake Early Warnings.
+Table of warnings[edit]
+Assumptions about text outside of the frame are given in square brackets. This page from the NWS lists all the warnings and colors, including all the hex codes for them which we stole referenced.
+Warning Color Explanation
+Gale warning Plum In the United States, the National Weather Service issues gale warnings for marine areas (oceans, sounds, estuaries, and the Great Lakes) experiencing, or about to experience, winds within the range of 34 knots (63 km/h; 39 mph) to 47 knots (87 km/h; 54 mph). Listed twice.
+Tornado Warning Red A tornado warning is issued for an area if a tornado is radar indicated, radar confirmed, or members of the public confirm the existence of a funnel cloud or a tornado. As tornadoes are more apt to form in different parts of the country at different times a country-wide tornado warning would be highly unlikely. There is, however, one past instance of a statewide tornado warning according to the Farmers' Almanac – during the 1974 Super Outbreak, forecasters were supposedly so overwhelmed by the sheer number of tornadic storms that they issued a single tornado warning covering the entire state of Indiana.
+Flash Flood warning Dark red Flash flooding is occurring, imminent, or highly likely. A flash flood is a flood that occurs within six hours of excessive rainfall and that poses a threat to life and/or property. Ice jams and dam failures can also cause flash floods.
+Air Quality [Alert] Gray An air quality alert informs the public about pollution levels in the air and advises vulnerable groups such as children and people with lung disease to take precautions.
+Frost Advisory Cornflower blue Minimum sheltered temperatures are forecast to be 33 to 36 °F (1 to 2 °C) during the locally defined growing season on nights with good radiational cooling conditions (e.g., light winds and clear skies). Widespread frost can be expected. Listed twice.
+Severe Thunderstorm Warning Orange A severe thunderstorm is indicated by Doppler weather radar or sighted by Skywarn spotters or other persons, such as local law enforcement. A severe thunderstorm contains large damaging hail of 1 inch (2.5 cm) in diameter or larger, and/or damaging winds of 58 mph (93 km/h) or greater. These warnings are currently issued on a polygonal basis.
+Dense Fog Advisory Slate gray Widespread or localized fog reducing visibilities to 1⁄4 mi (0.4 km) or less.
+[Hurricane Force W]ind Watch Western red A hurricane force wind watch is issued by the National Weather Service of the United States when the risk of sustained winds or frequent gusts of 64 knots (118 km/h, 74 mph) or greater are predicted to occur. The winds must not be directly associated with a tropical cyclone, or a hurricane warning will be issued.
+Tropical Storm Warning Firebrick A warning that sustained winds within the range of 34 to 63 kn (39 to 73 mph or 63 to 117 km/h) associated with a tropical cyclone are expected in a specified area within 36 hours or less.
+Ice Stor[m Warning] Dark Magenta Heavy ice accumulations are imminent. The criteria for amounts vary over different county warning areas. Accumulations range from 1⁄4 to 1⁄2 inch (6.4 to 12.7 mm) or more of freezing rain. Listed twice.
+[Extreme Cold] Warning Blue The NWS does not issue cold warnings. As the text is cut off, Randall probably means Extreme Cold Warning, which the NWS offices in Alaska issue. This implies that the entire U.S. will get colder. This does not make sense, partly because in the time this comic was released, it was summer in the U.S., but also because Alaska, the one state that does receive this type of warning, is not shown.
+Heat A[dvisory] Coral High Heat Index (HI) values are forecast to meet or exceed locally defined warning criteria for one or two days. Typical HI values are maximum daytime temperatures above 100 to 105 °F (38 to 41 °C) and minimum nighttime temperatures above 75 °F (24 °C).
+[Flood] Advisory Spring green For nuisance type flooding meeting one of the following criteria: <3 feet of standing water, enough to cause minor flooding of roads, especially in poor drainage locations; <6 inches of fast flowing water across roads; or Arroyos/streams/creeks nearing bankfull, or briefly overtopping banks, producing < 6 inches of fast flowing water.
+Snow [Squall Warning] Medium violet red Snow squall warning is a bulletin issued by he National Weather Service in the United States to warn population of two types of snow events reducing visibility in blowing snow: Lake effect snow squalls and Frontal snow squalls. Criteria for the National Weather Service to issue a Snow squall warning: Visibility of less than one quarter of a mile, sub-freezing temperatures on the ground, expected to last in one area less than 60 minutes, and may cause dangerous and life-threatening conditions.
+(Storm Surge) Warning SSWarning Localized heavy flooding due to storm surge caused by a tropical cyclone is occurring or is imminent in the next 12 hours, which poses a threat to life and/or property.
+Brisk W[ind Advisory] Thistle A Small Craft Advisory issued by the National Weather Service for ice-covered waters.
+[Lake Effect Snow] Watch Light sky blue Significant amounts of lake-effect snow (generally 6 inches within 12 hours or 8 inches within 24 hours) are possible in the next 12 to 48 hours.
+Coastal Fl[ood Advisory] Lawn green Minor coastal flooding is occurring or is imminent in the next 12 hours, which poses a threat to life and/or property.
+Dense Smo[ke Advisory] Khaki Widespread or localized smoke reducing visibilities to 1⁄4 mi (0.4 km) or less.
+[Severe Weather Sta]tement Aqua A National Weather Service product which provides follow up information on severe weather conditions (severe thunderstorm or tornadoes) which have occurred or are currently occurring.
+[Lakeshore Flood] Advisory Lawn green Minor lakeshore flooding is occurring or is imminent in the next 12 hours, which poses a threat to life and/or property.
+Wind Chill Ad[visory] Pale turquoise Dangerous wind chills making it feel very cold are imminent or occurring; the criteria varies significantly over different county warning areas.
+Blizzard Warn[ing] Orange red Sustained winds or frequent gusts of 35 miles per hour (56 km/h) or greater, considerable falling, and/or blowing snow reducing visibility frequently to 1⁄4 mile (0.40 km) or less for a period of three hours or more. There are no temperature criteria in the definition of a blizzard, but freezing temperatures of at least 0 °C (32 °F) and 35 miles per hour (56 km/h) winds will create wind chills of at least −8.5 °C (16.7 °F).
+Hurricane Warning Crimson A warning that sustained winds 64 kn (74 mph or 118 km/h) or higher associated with a hurricane are expected, and tropical storm conditions are expected within 36 hours in a specified area. A hurricane warning can remain in effect when dangerously high water or a combination of dangerously high water and exceptionally high waves continue, even though winds may be less than hurricane force (also automatically indicates a Tropical Storm Warning).
+Extreme Fire [Danger] Dark salmon Fires start quickly, spread furiously, and burn intensely. All fires are potentially serious.
+[Freezing Fog Adv]isory Teal Widespread dense fog reducing visibility to less than 1⁄4 mile (400 m) that occurs in a sub-zero environment, leaving a thin glazing of ice.
+Tsunami Warning Tomato Warnings are issued due to the imminent threat of a tsunami from a large undersea earthquake or following confirmation that a potentially destructive tsunami is underway. They may initially be based only on seismic information as a means of providing the earliest possible alert.
+Avalanche W[arning] Dodger blue A warning of current or imminent avalanche activity when avalanche danger is considered high or extreme. Authorized officials may recommend or order protective actions according to state law or local ordinance when natural or human-triggered avalanches are likely to affect roadways, structures, or backcountry activities.
+Fire Warning Sienna A fire is currently burning in the area and evacuation is recommended.
+Volcano Warn[ing] Dark slate gray A warning of current or imminent volcanic activity. Authorized officials may recommend or order protective actions according to state law or local ordinance.
+Ashfall Advisory Dim gray Airborne ash plume resulting in an ongoing deposition at the surface. Ashfall may originate directly from a volcanic eruption or from the re-suspension (by wind) of a significant amount of relic ash.
+Red Flag Warning Deep pink A red flag warning means that conditions are favorable for the rapid spread of wildfires. While there are very few areas immune to wildfires, one that encompasses the entire country would be unlikely unless a conflagration of epic magnitude swept through the country.
+Radiological hazard warning Indigo A radiological hazard warning is a non-weather event that is transmitted by the NWS. This means that a radiological source was lost, discovered, or released accidentally or maliciously. If the entire country were under such a warning, the outlook for the citizens would be pretty grim.
+Evacuation - Immediate Chartreuse Evacuation Immediate is a warning issued through the Emergency Alert System (EAS) in the United States to notify the public of a mandatory evacuation due to a wildfire, approaching hurricane, or an imminent explosion due to a gas leak.
+Shelter In Place Warning Salmon Shelter In-Place Warning is to seek safety within the building one already occupies, rather than to evacuate the area or seek a community emergency shelter. The American Red Cross says the warning is issued when "chemical, biological, or radiological contaminants may be released accidentally or intentionally into the environment" and residents should "select a small, interior room, with no or few windows, taking refuge there."
+911 Telephone Outage Silver An emergency message that defines a local or state 911 telephone network outage by geographic area or telephone exchange. Authorized officials may provide alternative phone numbers in which to reach 911 or dispatch personnel.
+Transcript[edit]
+[Heading on top of frame:]
+Alert: Everyone Just Keep An Eye Out In General
+[A map of the 48 contiguous states of the United States, surrounded by several warning polygons that cover most or all of the area, along with parts of neighboring countries or the sea.]
+[The following warning headers are printed in different colors around the map of the United States, some of which are cut off by the frame. Assumptions about text outside of the frame are given in square brackets.]
+Gale Warning, Tornado Warning, Flash Flood Warning, Air Quality [Alert]
+Frost Advisory, Severe Thunderstorm Warning, Dense Fog Advisory
+[Hurricane Force W]ind Watch, Tropical Storm Warning, Ice Stor[m Warning]
+[Extreme Cold] Warning, Heat A[dvisory]
+[Flood] Advisory, Snow [Squall Warning]
+[Storm Surge] Warning, Brisk W[ind Advisory]
+[Lake Effect Snow] Watch, Coastal Fl[ood Advisory]
+Dense Smo[ke Advisory]
+[Severe Weather Sta]tement, Gale War[ning]
+[Lakeshore Flood] Advisory, Wind Chill Ad[visory]
+[Extreme] Cold Warning, Blizzard Warn[ing]
+Hurricane Warning, Extreme Fire [Danger]
+[Freezing Fog Adv]isory, Tsunami Warning, Avalanche W[arning]
+[Ice S]torm Warning, Frost Advisory, Fire Warning, Volcano Warn[ing]
+Ashfall Advisory, Red Flag Warning, Radiological Hazard Warning
+[Text below frame:]
+When the National Weather Service needs to take a day off, they just issue warnings for everything so no one is caught by surprise.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Transcript[edit]
+I tried to start one, but it's going to be hard to do the list of warnings right.--108.162.215.190 00:33, 23 July 2019 (UTC)
+
+Well I've gone ahead and added all the warnings that I could. The only way to know the ones that are just "Advisory", "Watch", or "Warning" on the left hand side is if we talk to Randall himself. --172.68.46.113 00:50, 23 July 2019 (UTC)
+
+All NWS statements are color coded and the few that I know off the top of my head (Severe T-Storm, Hurricane) seem to match with Randall's coloring. Idk who filled out the transcript of warnings and if they already did this, but if everything thing else we know marches, we could use that to determine the remaining one.
+Also on a separate note, Gale Warning is listed twice. Once in the top left in full and again along the right side where it's cut off as "Gale War". 162.158.126.76 01:57, 23 July 2019 (UTC)
+Went through the NWS List of Warnings and updated all the cut off warnings as accurately as I could, I'm not sure about the Severe Weather Statement, the color is rather close to Rip Current Statement too. Multiverse (talk) 03:05, 23 July 2019 (UTC)
+OT: When I first read the Blizzard Warning in the south-east, I thought it was a Buzzard Warning; I think that is not on the NWS list of warnings, alerts and advisories. It seems like pretty much everything is there except an Amber Alert, but that is handled by other agencies. Nutster (talk) 03:26, 23 July 2019 (UTC)
+Maybe we should add colors of the warnings to the transcript, but there seems to be so many colors and shades and my command of English color adjectives is not adequate. -- Malgond (talk) 07:38, 23 July 2019 (UTC)
+All those parantheses in the transcript have to go. Making (even well guessed) assumptions about what is meant is not what a transcript is for. Elektrizikekswerk (talk) 14:54, 24 July 2019 (UTC)
+Gale War[edit]
+Ok, so it's possibly Gale Warning; but a war between the North Wind and Dorothy in Oz would be something worth warning about surely? Kev (talk) 01:11, 23 July 2019 (UTC)
+I hadn't noticed the Gale War, but I came here to see if anyone mentioned the Buzzard Warn(ing) — but it turns out it's BLIzzard rather than BUzzard. Oh well. Would've been fun. (Is "buzzard" a euphemism for "winged monkey"? Or maybe the other way around?) 172.68.46.113 17:20, 23 July 2019 (UTC)
+Weather for the past week[edit]
+~~There was a flash flood watch near maryland, would that relate?~~
+A massive heat wave affected a large portion of the USA this past weekend. I'm willing to bet that was the inspiration for this comic. https://twitter.com/NWS/status/1152708819291688960
+108.162.241.124 11:57, 23 July 2019 (UTC)
+Bet how much?
+What's the pun?[edit]
+I don't think the real (or the only) pun is in NWS having to go on vacation sometimes. I feel (but I am not a U.S. resident) that the comic refers to NWS or any other agency issuing too many or too broad warnings, making them somewhat useless and annoying. That's my impression regarding my own country's alerting system at least. The comic, in usual Randall's style, just takes it to the extreme, vacation being only an excuse. Any comments from U.S. residents regarding real-life alerts? -- Malgond (talk) 07:49, 23 July 2019 (UTC)
+I think the cartoon is illustrating that too many warnings is a bad thing. You have similar problems with computers and airlines (where once the pilots removed wiring to stop the constant unnecessary warnings). Warnings tend to be additive through mission creep and contradictory, meaning too much noise and not enough signal getting through to the end user who lacks the cognitive load to make appropriate actions. Kev (talk) 09:37, 23 July 2019 (UTC)
+I agree, the cartoon probably is playing off of the extreme number of weather warnings issued these days. I think I've gotten "extreme heat" warnings for the past week straight, and I can't remember the last time I went a week without some kind of extreme weather warning, like a thunderstorm, fog, heat, cold, ... you know, normal things.162.158.126.34 11:23, 23 July 2019 (UTC)
+What a good day to live in East North Carolina. And pleasant weather for anyone who happens to be searching for the Red October!
+Did anyone else notice that one of the polygons clips the bottom corner of Texas (and therefore doesn't cover the entire US)?172.69.160.148 14:26, 23 July 2019 (UTC)
+This reminds me of California’s ubiquitous proposition 65 warnings, which demonstrate nicely how even good intentioned warnings completely lose their power when used too often. PotatoGod (talk) 00:34, 3 August 2019 (UTC)
+Table[edit]
+Started table, I'll gradually fill it in this weekend. If someone thinks of a way to rearrange it so it looks better, please do so. Also, what color is "Storm Surge Warning"? Searched for it on Google, didn't find anything. Herobrine (talk) 12:06, 26 July 2019 (UTC)
+Ashfall Warning is either real (e.g. from the Hawaii volcano eruptions last year) or from the Mystborn series of books. 108.162.241.214 (talk) (please sign your comments with ~~~~)
+It's real, see this page listing all the warnings and colors. The link given in the explanation was created by NWS in Texas, so some of them are missing. I'll add the link to the explanation as well. Herobrine (talk) 12:38, 26 July 2019 (UTC)
+Added colour.[edit]
+Makes it pop out a bit more. Made it bold to make it easier to read, and intentionally didn't bold the characters in brackets. I think that is a nice touch. Let me know what you think. — The 𝗦𝗾𝗿𝘁-𝟭 talk stalk 04:10, 9 October 2020 (UTC)
+Categories: All comicsComics from 2019Comics from JulyMonday comicsComics with colorUS mapsWeatherTornadoesGeologyVolcanoes

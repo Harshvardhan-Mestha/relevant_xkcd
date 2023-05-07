@@ -1,0 +1,51 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2046: Trum-
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2046)
+|<< PrevComic #2046 (September 14, 2018)Next >>|
+Trum-
+
+Title text: Excited to vote for future presidents Bill Eisenhamper, Amy Forb, Ethan Obample, and Abigail Washingtoast.
+Explanation[edit]
+The President of the United States, at the time when this comic was published, was Donald Trump and he shares the first letters of his surname with Harry S. Truman, who was US President between 1945 and 1953. Megan notes that both of these presidents' last names start with "T-R-U-M", but she also states that they are not related.
+There were several presidents of the US who even have the exact same last name. For example, John Adams and his son John Quincy Adams, and the more recent father and son George H. W. Bush and George W. Bush. Similarly Theodore Roosevelt and Franklin Delano Roosevelt are 5th cousins. Grandfather and grandson William Henry Harrison and Benjamin Harrison also share a last name. And there are the two most distantly related presidents with the same surname, both Andrew Johnson and Lyndon B. Johnson have the last name of Johnson (7 letters), although the shared last name is coincidental, given they do not share any relatives with the name Johnson.
+Besides T-R-U-M- and the cases of identical names, the longest common surname prefix is H-A-R (3 letters), shared by William Henry (or Benjamin) H-A-R-rison and Warren Gamaliel H-A-R-ding. (The next longest common surname prefixes are B-U-, shared by James B-U-chanan and George (H.) W. Bush; and C-L-, shared by Grover Cleveland and Bill Clinton.)
+The longest common suffix (not counting identical names) is also 4 for I-S-O-N for James Madison and the two Harrison presidents. (It is an interesting fact that the name HARRISON contains both the second-longest common prefix and the longest common suffix among non-identical president surnames.)
+The joke is that the matching of those few letters is the least weird thing. Trump's presidency is commonly considered weird in ways too varied to concisely list in this article, and both Megan and Cueball seem to agree on this.
+The title text lists "absurd" last names that could start with the same letters as other presidents: Bill Eisenhamper, Amy Forb, Ethan Obample, and Abigail Washingtoast. These would refer to Dwight D. Eisenhower, Gerald Ford, Barack Obama, and George Washington.
+Transcript[edit]
+[Cueball and Megan walking together while talking.]
+Megan: It's pretty weird that we've had two totally unrelated presidents whose last names start with "T-R-U-M-".
+Cueball: Oh, sure, that's definitely the weirdest thing about the presidency right now.
+Megan: It's less weird than every other fact. But still weird.
+Cueball: True.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This is not that weird. If names were random then it would be a 1 in 26^4 = 456976 chance of a particular president matching another for the first 4, but this is a "Birthday Problem" with 44 presidents, so the probability of any two presidents sharing the first 4 characters is 1-(456976!/(456976^44 (456976 - 44)!)), which wolfram alpha is giving as 0.206% 141.101.99.185 (talk) (please sign your comments with ~~~~)
+Yes, but we already "fulfilled our obligation" after the sixth president :) Zachweix (talk) 15:59, 14 September 2018 (UTC)
+That would be the lower boundary, because you assume all letters are equally likely to occur. Some n-grams will have a higher probability than others. E.g. it is far less likely for the second letter to be a Q than to be a U,so a better estimate would involve Markov chains including the probability of all letters on a certain position, given the previous letters etc.141.101.76.58 05:46, 15 September 2018 (UTC)
+Q doesn't work because he's related to his father John Adams. The criteria that they be totally unrelated is to restore it to the realm of pure chance. -boB (talk) 17:24, 14 September 2018 (UTC)
+An approximation to the correct probability would be to do 44^2/(2 x 26^4) which would give about 0.2% chance of this happening. So fairly weird, but as the comic suggests, many things about this presidency are weirder than 0.2%. 162.158.155.194 (talk) (please sign your comments with ~~~~)
+I love that we are now having a mathematical discussion about how weird things are in the presidency. Zachweix (talk) 15:58, 14 September 2018 (UTC)
+Should we mention Andrew Johnson and LBJ, perhaps in a "Trivia" section? Obviously Johnson is a very common surname, but they're still unrelated presidents that share the first (and only) 7 characters of their last name. (Are there other pairs of presidents that share at least the 3 first letters of their surnames besides AJ/LBJ and HST/DJT?) 172.69.62.160 16:25, 14 September 2018 (UTC)
+They ARE related, distantly. https://www.geni.com/path/Lyndon-B-Johnson-36th-President-of-the-United-States+is+related+to+Andrew-Johnson-17th-President-of-the-USA?from=6000000002045454764&to=361204095530004567 SDSpivey (talk) 19:18, 14 September 2018 (UTC)
+I think 28 degrees of separation is distant enough to consider them unrelated. -boB (talk) 20:01, 14 September 2018 (UTC)
+No, they are not related. It says "Andrew Johnson, 17th President of the USA is Lyndon B. Johnson, 36th President of the United States' fifth cousin 10 times removed's 6th great nephew!" In other words, Andrew Johnson and Lyndon Johnson are both related to Lyndon Johnson's fifth cousin 10 times removed, but they are not related to each other. They do not share a common ancestor. Saying that Andrew Johnson and Lyndon Johnson are related is like saying that your parents are related to each other because both of them are related to you (your mother is your father's child's mother).173.245.48.171 05:33, 18 September 2018 (UTC)
+...And, upon reflection, I just realized Harding shares the first 3 letters with the Presidents Harrison, so that's one(?) more example. 162.158.186.246 (talk) (please sign your comments with ~~~~)
+So we discount Presidents Adams, Bush, Cleveland, Harrison and Rosevelt as being related, or being the same person. We have the following common starts: Bu (3 names), Cl, Ha (3 names), Ta, Har, Trum and Johnson. Also A, B, C, F, G, H, J, M, P, R, T and W. 162.158.154.241 16:49, 14 September 2018 (UTC)
+If you count Buren as opposed to Van Buren then you have 4 starting Bu and 2 starting Bur 162.158.155.146 16:52, 14 September 2018 (UTC)
+Tyler and Taylor is weirdly close, in a "look elsewhere effect" kind of way. Although the fact that you elected a president whose name means "fart" in British English has got to be weirder. 162.158.155.158 (talk) (please sign your comments with ~~~~)
+What about Benjamin FrankClinton? VanityCase
+Shouting about Trump
+I'm really with you... But an explanation has to be done politely. This Wiki focuses on explaining the comic, any personal opinions should be considered carefully. And I admit that I also cannot easily withstand. --Dgbrt (talk) 20:25, 14 September 2018 (UTC)
+Only 39 unique names for 45 presidencies (44 presidents). Over a third (14/39) of the names end with the letter N. Patmiller (talk) 20:36, 14 September 2018 (UTC)
+Is this factoid worth adding to the trivia section? Trump is the only president whose entire last name is needed for disambiguation. In other words, except for identical last names, every other president can be identified with just some of the first letters of the last name (some needing only the single first letter, and even Truman, the next “worst” case, needing only Truma to disambiguate from Trump.108.162.219.214 03:49, 16 September 2018 (UTC)
+Interestingly, both TRUM* presidents were fond of the phrase "son-of-a-b****" (Truman used it to describe Oppenheimer). 172.68.189.19 (talk) (please sign your comments with ~~~~)
+Nonsense! And please sign your comments. --Dgbrt (talk) 19:56, 18 September 2018 (UTC)
+I hope you don't mind, I don't feel like "Mr Trump has some scandals" really explains why he's unusual. Lots of politicians have scandals and I don't think listing that fact really captures what makes him weird as a president so I added a couple of facts that help better explain what makes him weird. 108.162.238.161 (talk) (please sign your comments with ~~~~)
+Your feelings are irrelevant. And how weird he really is we can't judge... --Dgbrt (talk) 21:45, 19 November 2018 (UTC)
+But you're missing my argument. Scandals aren't what makes him weird. He's weird for lots of reasons but not that. We can improve upon the explanation using neutral facts that better explain why he's unusual. You're being obstructionist.
+When Cueball says "True" at the end, this also begins with three of the same letters, and sounds like the beginning of the name "Truman". I feel that this adds to the humour and was probably done on purpose by the creator. Whyohwhyohwhy (talk) 14:09, 23 October 2022 (UTC)
+Categories: All comicsComics from 2018Comics from SeptemberFriday comicsComics featuring CueballComics featuring MeganPolitics

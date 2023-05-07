@@ -1,0 +1,66 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2116: .NORM Normal File Format
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2116)
+|<< PrevComic #2116 (February 25, 2019)Next >>|
+.NORM Normal File Format
+
+Title text: At some point, compression becomes an aesthetic design choice. Luckily, SVG is a really flexible format, so there's no reason it can't support vector JPEG artifacts.
+Explanation[edit]
+An example of what Cueball might have seen, but presumably with numbers or other data rather than words.
+Cueball's friend seems to have sent him a rather unusual datafile passed off as a new "normal" standard.
+People who work with data, and need data sent to them electronically, typically need it sent in a way that they can easily use it – either in a text format that can be copy-pasted, or as a spreadsheet or CSV file that can be imported into a spreadsheet program, or such. Information sent by Cueball's friend in this fashion – a photograph of a spreadsheet embedded into a word processing file – is not only aesthetically unpleasing, but essentially useless for any purpose beyond being looked at. The recipient has no choice but to retype the entire data set, or attempt to use optical character recognition (OCR) and hope that no mistakes are made in the process.
+Any functional relationships between data (such as formulas used to compute data values) have been lost. Further, the size of the data is bloated by being converted first from numbers and formulas into text, then from text into graphics, and then from graphics to embedded graphics in a word processing document. This adds nothing to the content, and only adds steps to the process of retrieving the data.
+However useless this kind of data manipulation might be, it is becoming more and more common, especially as more computer-illiterate people find "creative" ways to exchange information. Usually, their job is getting the data together in a Word file, and the only file they have is a screenshot of the spreadsheet, not the original file, so they just put the screenshot in the Word file. Cueball's friend suggests that this is now a normal way to send files, and that Cueball should update his system to support this new type of file, represented by a ".norm" suffix. In 2341: Scientist Tech Help a .norm like file is referenced.
+The caption acknowledges that this has become a de facto standard and that we should just accept and formalize it.
+The comic image links to a tweet by OpenElections that displays an Excel file produced by the City of Detroit that contains a lookup table for the city's absentee precincts in 2016. The data had been input as clip art (images) of the values, instead of being entered in the spreadsheet cells.
+This comic is reminiscent of the comic 763: Workaround, which also describes convoluted formats.
+The title text suggests that eventually compression (or at least compression with data/quality loss) will be unnecessary as technology improves in the future. SVG (Scalable Vector Graphics) is a vector graphic format that is fundamentally a lossless format, representing images using geometric figures. JPEG is a lossy format, representing images as an array of rectangles approximating the original image. Randall suggests that some people in the future may choose to include JPEG artifacts to SVG vector graphics for its "aesthetics", perhaps as a throwback to when lower quality JPEG images were commonplace, or as a form of glitch art. It is possible that some in the future will view JPEG artifacts as giving their images a quaint/retro feel, much the way that some people today use sepia-tone filters on their images. (And much like some people today use JPEG artifacts to give their images an intentionally low-quality appearance.)
+This is made even more reasonable by the fact that the SVG specification employs a lot of filters and already can embed regular pixel-based JPEG files. Furthermore, it allows JavaScript to be used to manipulate objects, meaning such an effect may be implementable in the current SVG 2.0 specification.
+Transcript[edit]
+[Cueball is at a computer. Someone is talking to him from off-panel.]
+Voice: I sent you the data.
+Cueball: Thanks!
+Cueball: …this is a Word document containing an embedded photo you took of your screen with the spreadsheet open.
+Voice: Yeah? Does your computer not support .NORM files? Maybe you need to update.
+[Caption below the panel:]
+Since everyone sends stuff this way anyway, we should just formalize it as a standard.
+Trivia[edit]
+Several days after this comic release Microsoft announced support for loading pictures into Excel. A photo of a printed data table shall be converted it into a fully editable table. See: Microsoft Excel will now let you snap a picture of a spreadsheet and import it (theverge.com)
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Oh man, I don’t know whether to laugh or passive aggressively link people this comic. Netherin5 (talk) 16:55, 25 February 2019 (UTC)
+Mumbles about special places in hell for people that deserve links of this comic 162.158.90.90 08:11, 26 February 2019 (UTC)
+link it to them? send it in a weird data format, including notification bar of a phone, etc.--Lupo (talk) 08:34, 26 February 2019 (UTC)
+I think this needs to be here. Netherin5 (talk) 12:52, 26 February 2019 (UTC)
+I will take a photo of the comic on my screen with my phone, send that to my PC, print it out onto paper, take a photo of that (on a wooden table), embed THAT photo into an Excel sheet comment, take a photo of THAT and embed into a Word Document, and send to my customers. They would find nothing untoward about this, based on how they send me error reports...162.158.89.61 14:54, 27 February 2019 (UTC)
+At the moment I'm seeing " https://twitter.com/openelex/status/853977391747801088 " as the title text 108.162.216.82 17:36, 25 February 2019 (UTC)
+That’s because the comic is a link, and clicking on it will take you there. The title text is correct, though. Netherin5 (talk) 17:40, 25 February 2019 (UTC)
+You prankster Randall. On mobile, we can only see the link **in text** as the title text. Am I to believe this, as another example of human mangling of information into an unreadable form, is an accident? Kev (talk) 19:01, 26 February 2019 (UTC)
+
+Reminds me of Web 0.1 at TheDailyWTF.162.158.79.113 19:01, 25 February 2019 (UTC)
+Why the bloody hell is everyone censoring me???108.162.245.202 21:47, 25 February 2019 (UTC)
+From the revision history, the only things that look like they could be interpreted as being censored are the "JEWISH SHILL" thing from the (no longer present) "incomplete" tag, which is hate speech, and the "SOON THE TRUTH WILL BE REVEALED" thing that briefly replaced all of the actual content, which is vandalism. Both are considered unacceptable. See also xkcd #1357 162.158.214.22 03:53, 26 February 2019 (UTC)
+This person seems to have trouble posting their edits (probably unfamiliar with the simultaneous revision merging features which appear when two people edit at the same time) & hence isn't properly submitting their edits in the first place. I too see no evidence of anything but the instances you listed. I think they are ignorant of the proper steps & paranoid enough to believe there's a conspiracy to remove their comments, going on. (Note to user at 108.162.245.202 : Any edits or censorship show up in each page's edit history (just like Wikipedia). It's pretty easy to see everything that's been written or removed. Aside from the incidents noted by 162.158.214.22, you haven't had anything removed; You're not completing the edit process to begin with.)
+ProphetZarquon (talk) 22:54, 27 February 2019 (UTC)
+I'm on my phone but can someone please work this link into the explanation: https://en.m.wikipedia.org/wiki/Glitch_art thanks
+Done. 108.162.246.173 01:20, 26 February 2019 (UTC)
+The "share" functionality on mobile systems may serve as a rather catch-all protocol. On PC not many apps have this in mind. 172.68.141.148 02:43, 26 February 2019 (UTC)
+Could someone do a short explanation of what absentee precincts are? A (quick) google search could not answer that question to me, and I think for many who do not deal with the topic whichever absentee precincts refer to will have the same question... --Lupo (talk) 08:07, 26 February 2019 (UTC)
+I love .NORM files, they compress so well: https://explainxkcd.com/wiki/index.php/1683:_Digital_Data 162.158.78.178 17:42, 26 February 2019 (UTC)
+Is this really all that common? Am I the only one who came to explainxkcd because I only half got the joke? Sure, a photo of a screen with data is useless and stupid, but why make a comic about it? This has never happened to me. Jqavins (talk) 13:54, 27 February 2019 (UTC)
+It is really all that common. So common, in fact, that the original XKCD comic links to this. That is on a government scale. Yes, it’s annoying. Netherin5 (talk) 14:13, 27 February 2019 (UTC)
+One possible legitimate use of this is when you don't trust the recipient from taking your hard work and not giving you credit for it. For an example when one of my previous employers laid me off because of 'financial reasons', there was a possibility that he might continue to send me projects as an independent contractor because he was under staffed. If he had sent me any projects, I was seriously considering sending him a screenshot of the Excel documents showing the work I completed for him to review and only after I get paid, I would submit the work to the web server because I did not trust him taking my work and uploading it himself without paying me for it.162.158.122.162 21:18, 27 February 2019 (UTC)
+The title text is not proposing vector JPEG, but vector JPEG *artifacts*; that is to say, converting the artifacts inherent in JPEG into vector form to be included in the SVG.
+Yep, quite agree. The last paragraph misses the point IMHO. Using the terminology of the first half of the paragraph as it currently stands, Randall is proposing a filter that takes a line, caculates that it would run through X, Y and Z at low resolution, then expands the vector definition to include square blocks at those intervals (possibly with half-coloured squares surrounding it). Utterly pointless but it would satisfy both the needs of data users (since the underlying vector information is still there) and the aesthetic sensibilities of screenshot-posters (who expect to see blocky glitches). 141.101.88.10 09:30, 28 February 2019 (UTC)
+I just want to say, in the linked tweet from less then two years ago, there's a guy with a blue check mark whose running for Detroit city clerk to fix stuff like this and wanting to get with the data wonks who posted it to see what else there was. I thought that was hella cool and went to see if he won. The man is now Lt. Governor of Michigan. That's a hell of a two year run for anyone. Well done. -172.68.174.64 03:52, 1 March 2019 (UTC)
+So, 3 days after this went up, Microsoft posted this blog Add Data to Excel Directly from a Photo. Thaledison (talk) 20:16, 1 March 2019 (UTC)
+I seem to recall, back in the old-old-old days, when it was common practice to include a copy of the program itself when sending data created by that program. Also, it is still common to find text displayed entirely within images on some web pages.These Are Not The Comments You Are Looking For (talk) 20:26, 3 March 2019 (UTC)
+Anyone know why there might be an extra space before "aesthetic" in the title/mouseover text? It doesn't show up in this wiki cause mediawiki likes to strip extra whitespace, but it's there on xkcd.com and in the source of this page. 172.68.206.40 18:32, 5 March 2019 (UTC)
+Microsoft announces an AI service to further enable this...sigh
+Now in Excel for Android... https://www.engadget.com/amp/2019/03/01/microsoft-excel-import-data-from-picture-android/ 108.162.219.112 (talk) (please sign your comments with ~~~~)
+It's at the trivia section because Randall isn't a clairvoyant and the explanation has to belong to the date of the release of the comic. --Dgbrt (talk) 19:52, 6 March 2019 (UTC)
+
+Categories: All comicsComics from 2019Comics from FebruaryMonday comicsComics featuring CueballComputersSpreadsheets

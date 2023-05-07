@@ -1,0 +1,106 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2492: Commonly Mispronounced Equations
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2492)
+|<< PrevComic #2492 (July 21, 2021)Next >>|
+Commonly Mispronounced Equations
+
+Title text: "Epsihootamoo doopsiquorps" --the Schrödinger equation for the hydrogen atom
+Explanation[edit]
+This comic is a collection of very commonly used physics and mathematical equations, along with their "correct" pronunciations. Equations are normally voiced out loud either by their names ("mass-energy equivalence") or by saying the parts out loud using normal linguistic rules ("E equals m c squared"). This comic instead asserts that equations are meant to be said out loud like words, using their own set of phonic rules.
+Though the premise may initially seem absurd, some nerds have both the trait of using equations as commonly as others might chat and that of finding it entertaining to coin amusing new words ("input", "pwn"). Saying the equations more rapidly can speed up work or make work seem more enjoyable. This phenomenon is called clipping.
+Using clipped or verbalized forms of equations is sometimes standard practice within a given field. The equation for continuously compounding interest A=Pert is commonly taught and discussed as the "pert" equation, while the definitions of the main trigonometric functions is similarly taught and discussed as SOH-CAH-TOA: sine = opposite/hypotenuse, cosine = adjacent/hypotenuse, and tangent = opposite/adjacent. These particular "corrections" are all nonstandard, however, occasionally conflicting with more normal readings like "pivnert" for the ideal gas law. The "corrections" are also internally inconsistent, with equal signs and exponents sometimes omitted and sometimes included and intermediate vowels.
+Equations[edit]
+Name Representation Pronounciation Explanation
+Newton's law of universal gravitation F = G(m₁m₂/r²) Fuh-JAM-er ⟨F⟩, gravitational force, is pronounced /f/. ⟨G⟩, the gravitational constant, is pronounced like the soft G /dʒ/ despite the following /æ/, recalling the .gif controversy. The ⟨m⟩s, mass 1 and 2, are elided into a single /m/, and ⟨r⟩, the distance between the masses, is pronounced /ɹ/. The subscripts and exponent are silent.
+Mass–energy equivalence E = mc² EM-cah-too ⟨E⟩, energy, is pronounced like the short E /ɛ/. ⟨m⟩, mass, is pronounced /m/. ⟨c⟩, the speed of light, is pronounced like the hard C /k/ and its exponent ⟨²⟩ is read as the numeral two /tu/.
+Pythagorean theorem a² + b² = c² at-BOOT-coot ⟨a⟩, the length of the base, is pronounced like the short A /æ/. ⟨b⟩, the length of the height, is pronounced /b/. ⟨c⟩, the length of the hypotenuse, is pronounced like the hard C /k/. Each exponent ⟨²⟩ is pronounced /t/ as a clipping of "two".
+Area of a circle A = πr² APP-er-too ⟨A⟩, area, is pronounced like the short A /æ/. ⟨π⟩ is pronounced /p/ after the sound represented by pi in the Greek alphabet. ⟨r⟩, the length of the radius, is pronounced /ɹ/ and its exponent ⟨²⟩ is read as the numeral two /tu/. The resulting pronunciation is similar to the word "aperture", the diameter of optical equipment such as telescopes and cameras.
+Shannon entropy H = −∑pᵢlog(pᵢ) Ha-SPLOG-pee ⟨H⟩, entropy, is pronounced /h/. The negative sign is omitted. ⟨∑⟩, the summation sign, is pronounced /s/ after the sound represented by sigma ⟨Σ⟩ in the Greek alphabet. The first ⟨pᵢ⟩ is pronounced /p/ with its subscript elided or left silent. ⟨㏒⟩, the usual mathematical notation for logarithm, is read in full as /lɔɡ/ or /lɑɡ/. The second ⟨pᵢ⟩ is read in full as /pi/ in the usual English manner of handling terminal ⟨i⟩s.
+Ideal gas law PV = nrt PAV-nurt A variation on the correct formatting PV = nRT and its more common byname "pivnert". ⟨P⟩, pressure, is pronounced /p/. ⟨V⟩, volume, is pronounced /v/. ⟨n⟩, the amount of substance, is pronounced /n/. ⟨r⟩, the ideal gas constant, is pronounced /ɹ/. ⟨t⟩, temperature, is pronounced /t/.
+Euler's identity eiπ = −1 EYE-pin ⟨i⟩, the imaginary unit, or ⟨ei⟩, Euler's number raised to the i power, is pronounced as the long I /aɪ/. ⟨π⟩ is pronounced /p/ after the sound represented by pi in the Greek alphabet. ⟨−1⟩ is pronounced /n/, presumably as a severe clipping of "negative one". The silence or elision of the initial e mirrors the usual reading of Euler's formula eix = cos x + i sin x as "cis x".
+Newton's 2nd law of motion F = ma FEE-mah ⟨F⟩, the force of motion, is pronounced /f/. ⟨=⟩, the equals sign, is read as the long E /i/. ⟨m⟩, mass, is pronounced /m/. ⟨a⟩, acceleration, is pronounced like the short A /ɑː/. The resulting pronunciation is similar to FEMA, the United States' Federal Emergency Management Agency.
+Wave equation (1D) ∂²u/(∂t²) = c(∂²u/(∂x²)) DOOT cah-DOOX A mistake for the correct equation ∂²u/∂*t² = c²(∂²u/∂*x²). In the notation marking the second partial derivatives, each ⟨∂²⟩ is pronounced /d/ and each fraction bar and ⟨∂⟩ is silent. Each ⟨u⟩, amplitude, is pronounced /u/. ⟨t⟩, time, is pronounced /t/. ⟨c⟩, speed, is pronounced like the hard C /k/. ⟨x⟩, the distance along the measured dimension, is pronounced /ks/. The exponents are all silent.
+Derivative f′(x) = limh→0 (f(x+h)−f(x))/h FAX-lim-oh FAX-uh-fox ⟨f′(x)⟩, the first derivative of a function with respect to an independent variable, is pronounced /fæks/ like the machine. ⟨limh→0⟩, the limit as h approaches zero, is pronounced /lɪmoʊ/ like the vehicle. ⟨f(x+h)⟩, the function with respect to the independent variable and another value an infinitessimally small distance away, is pronounced as /fæksə/ and ⟨f(x)⟩, the function with respect to the independent variable by itself, as /fɑks/ so that together they sound like "fax a fox". The ⟨h⟩ divisor is silent, like most terminal Hs in English.
+Quadratic formula x = (−b±√(b²−4ac))/(2a) za-BO-ba fak-TOH-ah ⟨x⟩, the independent variable, is pronounced /z/ similar to the initial X in the names Xerxes and Xavier. The negative sign is omitted. Each ⟨a⟩, ⟨b⟩, and ⟨c⟩, the coefficients of the equation, is pronounced /ɑ/, /b/, and /k/ respectively. The ⟨4⟩ is read as /f/ and the ⟨2⟩ as /t/, with an /oʊ/ added to keep the resulting word closer to "sohcahtoa".
+Schrödinger equation (3D) Eψ = (−ℏ²/2*m)∇²ψ + (q²/r)ψ "Epsihootamoo doopsiquorps" An application of the general equation Eψ = Ĥψ when applied to 3 dimensions without regard to time or relativistic effects. The missing 4πε₀ from the divisor in the second (potential energy) term can be handwaved by assuming that the other terms are using units customized for quantum mechanics, rather than standard metric ones. ⟨E⟩, energy, is pronounced /ɛ/. ⟨ψ⟩, the wave function, is read out in full as /psi/, /psaɪ/, or /psə/ the first 2 times and then the last time as /ps/, the sound represented by psi in the Greek alphabet. The negative sign is omitted. ⟨ℏ⟩, Planck's constant, is pronounced /h/. ⟨2⟩ is read as /t/. ⟨m⟩, mass, is pronounced /m/. ⟨∇⟩, the Laplace operator, is pronounced /d/ after the sound represented by delta in the Greek alphabet. ⟨q⟩ and ⟨r⟩, the charge and distance, are pronounced /kw/ and /ɹ/ following their standard use in English words. The exponents are silent.
+Transcript[edit]
+[Each equation is bordered, with a pronunciation guide beneath.]
+Commonly Mispronounced Equations
+Row 1
+F = G m₁m₂/r²
+FUH-JAM-ER
+E = mc²
+EM-CAH-TOO
+a² + b² = c²
+AT-BOOT-COOT
+
+Row 2
+A = πr²
+APP-ER-TOO
+H = −Σpᵢlog pᵢ
+HA-SPLOG-PEE
+PV = nrt
+PAV-NURT
+
+Row 3
+eiπ = −1
+EYE-PIN
+F = ma
+FEE-MAH
+∂²u/(∂t²) = c ∂²u/(∂x²)
+DOOT CAH-DOOX
+
+Row 4
+f'(x) = limh→0 f(x+h) − f(x) / h
+FAX-LIM-OH FAX-UH-FOX
+x = −b ± √(b² − 4ac) / (2a)
+ZA-BO-BA FAK-TOH-AH
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This comic is obviously a take on the generation Z style of writing words without vowels so that they fit on T-Shirts, text messages or to avoid censorship, like "BRLN", "O RLY", "PIX PLZ". Some of the people from that generation are now established scientist, leading their respective fields forward. Obviously this is how they refer to common equations. 162.158.92.29 13:10, 22 July 2021 (UTC)
+I think the wave equation is wrong based on units, but it's been a while. The wave speed ought to be squared. Of course, c could be a squared speed, but it's usually not. 172.70.34.164 01:22, 22 July 2021 (UTC)
+I agree, normally it's written as C squared... The equations in order are 1: Gravitational Attraction, 2: Einstein's Mass / Energy Conversion, 3: Pythagorean Theorem (triangle side relations), 4: Area of a Circle, 5: Entropy equation, 6: Ideal Gas Law, 7: Euler's Identity, 8: Newtons Second law, 9: Wave equation, 10: The derivative of a function f, and, 11: The Quadratic Equation... I don't understand the linguistic rules being applied to the names, but they seem to be visual as much as anything 108.162.237.66 02:04, 22 July 2021 (UTC)
+You should turn that into a table in the explanation. We can have a column where we try to come up with the pronunciation rule. Barmar (talk) 04:10, 22 July 2021 (UTC)
+The equation for the thing I have as what it was made by is 𝓛 = i(ѱ-macron)γᵘ(∂ᵤ)ѱ-e(ѱ-macron)γᵘ(Aᵤ + Bᵤ)ѱ - m(ѱ-macron)ѱ - (FᵤᵥFᵘᵛ)/4 here is the link: These are both the links. For archival, this is the thing: LAGRONJ EYSIBARYMOODMOOSIOYLERSIBRYMOOAMOOBAMOOSIMASIBRSIQORTFAHMOOVYFAHMOOVY. 4D4850 (talk) 02:22, 22 July 2021 (UTC)
+My friends and I actually pretty often say "PəV-nert" for the ideal gas law. First syllable is kind of vowel-less, sort of a schwa if anything. But also stressed? Didn't know you could stress a schwa but, guess I did. 172.70.130.160 02:36, 22 July 2021 (UTC)
+My teachers always pronounced it PIV-nert. 172.69.62.20 18:38, 22 July 2021 (UTC)
+I think this is the XKCD that has made me laugh the most, out of all 2492.
+I'd say it might be the one that made me laugh the most, out of all 2772. I won't, because it didn't, but I could. --4D4850 (talk) 03:23, 22 July 2021 (UTC)
+"Doot-ca-doox" is so funny. I'm imagining Pingu saying that.  !!!!
+I tried to transcribe these pronunciations into IPA, because reading them like this is kind of ambiguous. I probably got a bunch of stuff wrong though. fəˈdʒæmɚ | ˈɛmkɑˌtu | ætˈbutkut | ˈæpɚˌtu | həˈsplɒgpi | ˈpævnɚt | ˈaɪpɪn | ˈfimɑ | dut kəˈduks | ˈfækslɪmˌoʊ ˈfæksəˌfɒx | zəˈbɔbə fækˈtoʊɑ | ˌɛpsɪˈhutəˌmu ˈdupsɪˌkwɔrps
+Why is it a soft G in the gravity equation? Barmar (talk) 04:10, 22 July 2021 (UTC)
+I believe it's a reference to the "gif" pronunciation debate. "Fuh-gam-er" is the obvious pronunciation, Randal is facetiously asserting "Fuh-jam-er" is correct.--108.162.250.130 05:00, 22 July 2021 (UTC)
+I think it might be because the English letter "G" is pronounced "Gee" (i.e. "Jee"), which made its way into the pronunciation here.BenjaminTheBenevolent (talk) 10:27, 22 July 2021 (UTC)
+How would you pronounce the word 'give'? !!!!
+(The English letter pronunciation is "Jee". It's also pronounced as an "F" in "Enough" and "" in "Gnome", etc.) 162.158.158.197 19:37, 28 July 2021 (UTC)
+The most similar time when equations are actually 'pronounced' a bit like this is the "soh cah toa" mnemonic for the trigonometric identities - should this be in the explanation? (the comic made at least me think that might be the original inspiration) 141.101.99.204 06:42, 22 July 2021 (UTC)
+How is "soh cah toa" a mnemonic?? It's just a bunch of random letters. Normally you memorize random letters by coming up with words that fit together, not vice versa. I think this is much harder to remember than the thing it is supposedly a mnemonic for. If anyone actually finds it useful, can you explain how it works for you? I've seen this before so I suppose it's a real thing, but I find it baffling. 108.162.221.220 04:15, 23 July 2021 (UTC)
+You ask how it's a mnemonic, yet you say you've seen it before. Think about that for a sec.
+Klo876 (talk) 01:58, 24 July 2021 (UTC)
+Not sure it's a mnemonic, no, but I was taught SOHCAHTOA by a very good (but strict) maths teacher as in "... (like?) that volcanic eruption". Given we were 10, 11 years old, I don't think we even knew about Krakatoa at that point (despite having also a very good Geography teacher who readily identified lumps of 'Gneissian schist' that I may have brought back from holiday - he also had a much better sense of humour...) so whether I (or the teacher?) was mistaken in understanding "Sohcahtoa" to be purported to be a (now ironically memorable) volcano rather than it was a "it rhymes with..." mnemonic, I don't now know. But since then I have always used SOHCAHTOA to confirm in my mind which trigonometric identity I should use. And, later, I learnt and never forgot that Krakatoa is/was west of Java! 141.101.98.230 08:20, 23 July 2021 (UTC)
+(PS - If I ever have to use the "Many Very Elderly Men Just..." mnemonic (or whatever it is, I was sure it had had Earthenware Vases, but maybe only in a reversed version!), I tend to have to backform it from my unclear recollection of the mnemonic(s) I've been told plus just knowing that it's "Mercury, Venus, Earth, Mars, **, Jupiter, Saturn, Uranus, Neptune*, Pluto-if-we're-counting-it*" (* - except between 1979 and 1999 when it was "...Pluto-definity-counted-at-this-time, Neptune") (** - and then there's possibly an A, B or C here for Asteroid, Belt or Ceres; nobody I know has ever added Kuiper and/or Oort into the string of words to need remembering, though) using very non-mnemonical direct or indirect knowledge about the solar-system, like Clarke's written version of 2001 aiming at Saturn but Kubrik's film 'only' going as far as Jupiter. So I "(Sometimes?) Might Very Earnestly Make And Join Something Unprecedented Never Known Originally" on the spur of the moment.)
+The point of soh-cah-toa is that you learn to say it aloud as one word (which is therefore memorable), and then can expand it out as an acronym for sin(x) = o/h, cos(x) = a/h, tan(x) = o/a, which wouldn't be memorable. Much like BIDMAS/PEDMAS is pronounced as one word to learn an acronym. 162.158.158.176 18:32, 26 July 2021 (UTC)
+BIDMAS/PEDMAS is/are the acronym (a string of initials pronouncible/pronounced as a word), used as a mnemonic to recall and learn the maths.
+The circle area might be meant to read out like "upper two", referencing the square. I can't see the same for any of the others though. / 162.158.183.157 06:52, 22 July 2021 (UTC)
+Mneumonics are supposed to make it easier to remember the equations; this collection would actually make it more challenging to remember these. Mind you, as a math tutor, my first thought was that these were attempts at mnemonics that missed the mark, badly. Nutster (talk) 15:04, 22 July 2021 (UTC)
+I see nobody has attempted the Transcript yet. (Also I'm wondering how to 'properly' pronounce P-One V-One Over T-One Equals P-Two V-Two Over T-Two.) 162.158.155.157 10:41, 22 July 2021 (UTC)
+I started a transcript. --4D4850 (talk) 16:54, 22 July 2021 (UTC)
+Sorry to come in as an amateur, but I think the equation pronounced Ha-SPLOG-pee is actually the equation for Shannon diversity. 162.158.126.134 11:58, 22 July 2021 (UTC)
+In my opinion, most of the contributions here are from people pretending to know more than they do. Edit away. Be bold. 172.70.114.172 21:04, 22 July 2021 (UTC)
+The Pythagorean Theorem one made me think of the AT-AT debate for Star Wars
+The wave equation reminded me of Jimmy Durante's Ink A Dinka Doo: https://www.youtube.com/watch?v=EWqi9eWwXvk I think I'm dating myself (no one else will). Barmar (talk) 16:55, 22 July 2021 (UTC)
+I don't think it's clear if the provided pronunciations are the Correct ones or the common mispronunciations
+It's worth noting that the majority of these equations are especially likely to be elided, and that the way they're routinely elided is generally incorrect - and more than that, the stressed syllable in particular is likely wrong. Especially notably "Fu-Jam-Er" should be "Fu-Gam-Er" and "Pav-Nert" should be "Piv-Nert". The joke works on the level of equation pronunciation being pretty intrinsically funny if you're not familiar with the specific equation, but also on the level of the specific equations having a standard pronunciation that pointedly isn't the one in the comic.
+
+It would be interesting to try and reverse-engineer the original equations behind, for example, "Fus ro dah", or "Avada Kedavra". Cavaler (talk) 12:53, 23 July 2021 (UTC)
+What is the pronounciation notation this comic is using?? I can't even find them in Oxford/Cambridge/Merriam-Webster/Collins dictionary, though I think I occasionally see them somewhere else. --Lamty101 (talk) 08:43, 24 July 2021 (UTC)
+It's probably not actually right to consider it a notation, per se. It's a trivial method that anyone can use (no need to use funny stuff like ɛ, ʑ or ɖʐ in IPA notation - or remember what they mean!), but it's also liable to inconsistency as you can be inconsistent in both production (some might consider "DOO" or "DU" an acceptible rendering for the same thing) or understanding (if "BAI" is written used, was that as in "goodbye" (see also "BIE") or "eBay" (also could have been "BAE"), etc?). How would you indicate syllable boundaries, "IN-DUH-KAYT" or "IND-UCK-ATE" or ? A Cockney or a Kiwi or a Cajun might each produce and voice notations completely differently. But it's better than nothing. And with either bolding (as in here), italicising or uppercase-contrasting-with-the-rest-in-lowercase you can indicate the stressed syllable(s). Maybe look at Pronunciation respelling for English (I didn't see a further link to qualify any 'standards' for this non-phonomic system, and doubt that there are any that travel well beyond any actual particular narrow dialectical territory).
+I actually think it's part of the joke that it's an imprecise 'pronunciation guide', rather than a technically advanced one like /aɪ pʰiː eɪ/ itself is, further confusing the deliberately confused issue. 141.101.99.29 19:45, 24 July 2021 (UTC)
+We teach the impulse-momentum equation f*(delta)t = m*deltaV as FAT MAV. And you're far more likely to hear a mentor remind a student to use 'FAT MAV' than 'the impulse-momentum equation' this comic seemed an obvious evolution that idea. Sraben (talk) 20:54, 25 July 2021 (UTC)
+Something similar does indeed happen in reality, when you have to read things like tan y = sinh x, cot y = csch x. Many people read sinh like sin-ch, while some others read it as shine, etc. Yosei (talk) 23:22, 17 August 2021 (UTC)
+Just undone an apparent mistakenly placed comment... Nearly moved it here, but I'm hoping the author sees this and understands. (Might explain why I just found (and edited for over-commaing!) comments on a File:(image) page. Hope the new editor isn't going to do this a lot...) 162.158.159.19 19:42, 14 December 2021 (UTC)
+At a quick glance, and then a longer one, I just don't get this 'correction' as it looks like it does nothing to formulae with an already sufficient precedence (e.g. (whatever)/2a is already functionally (whatever)/(2a)... you aren't confusing with the completely different and necessarily explicitly written ((whatever)/2).a are you?). And the transcript change is more wrong than spelling it out in description as it adds parens not present in the comic if you assume it gets interpreted to anything meaningful that mentions them by any screen-readers. 172.70.91.116 16:14, 4 February 2022 (UTC)
+Categories: All comicsComics from 2021Comics from JulyWednesday comicsPhysicsMathLanguage

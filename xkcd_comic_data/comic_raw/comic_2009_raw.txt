@@ -1,0 +1,149 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2009: Hertzsprung-Russell Diagram
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2009)
+|<< PrevComic #2009 (June 20, 2018)Next >>|
+Hertzsprung-Russell Diagram
+
+Title text: The Hertzsprung-Russell diagram is located in its own lower right corner, unless you're viewing it on an unusually big screen.
+Explanation[edit]
+The Hertzsprung–Russell diagram is a scatterplot showing absolute luminosities of stars against its effective temperature or color. It's generally used to understand a star's age.
+The axes are labeled in Kelvin (degrees Celsius above absolute zero) for effective temperature and, unlike many Hertzsprung–Russell diagrams, Watts for luminosity. While most Hertzsprung–Russell diagrams are labelled in units of solar luminosity or absolute magnitude, all three are perfectly valid measures of luminosity, which refers to the total power emitted by the star (or other body). Effective temperature refers to temperature of a blackbody with the same surface area and luminosity. This is meant to provide an estimate of the surface temperature of the object.
+Roughly speaking, the luminosity (i.e. total power radiated) by an object is proportional to (1) the total surface area of the object, multiplied by (2) the (absolute) temperature raised to the fourth power. So a high luminosity generally results from either a very hot or a very large object, or a combination of the two. The surface-area dependence explains why the whale and the cruise ship are more luminous than the hotter campfire.
+Regular Hertzsprung–Russell diagrams cover ranges of about 1,000K to 30,000K, and what is labeled on this diagram as 1021 to 1033 watts—i.e. the upper-left corner. Extended diagrams increase the luminosity range only to include the "Brown Dwarfs". This diagram has been extended to much lower magnitudes on both axes. The joke comes from the absurdity of a diagram meant for stars including much smaller objects, such as planets ... and astronomers.
+Though not included in the diagram, the title text notes that the diagram itself would probably be plotted somewhere in the lower right corner due to its (relatively) low power output and temperature. On its face this is nonsensical - the diagram itself, being mere information, possesses neither power output nor temperature - but one can read this as the power output and temperature of a typical screen displaying the diagram. Bigger screens have a higher total output (in terms of luminosity) and are thus positioned further towards the diagram's top. An "unusually big screen" would have to be something like a JumboTron or a projector for its luminosity or temperature to put it outside of the lower right corner.
+Table[edit]
+Item Effective Temperature Luminosity Explanation
+Main sequence 2500 K-45,000 K 6.1 × 1021 W-8.4 × 1031 W Most stars lie along the main sequence, one of several labelled regions in a typical Hertzsprung-Russell (HR) diagram, and are thus classified as main sequence stars. Progressing from the lower-right toward the upper-left end of the main sequence, stars become more massive, hotter, and more luminous. The HR diagram in this comic includes three main sequence stars.
+Giants 2700 K-6000 K 1.6 × 1031 W A giant star is larger and more luminous than a main sequence star of the same temperature. The HR diagram in this comic does not specifically include any giant stars.
+Supergiants 3450-20,000 K 2.2 × 1029 W+ Supergiant stars are among the largest and most luminous stars that exist. The HR diagram in this comic includes the supergiant star Betelgeuse.
+White dwarfs 10,000K 5.0 × 1022 W In a white dwarf star, nuclear fusion has ceased. A white dwarf still radiates energy due to stored heat that was generated from fusion earlier in the star's life, but white dwarfs are much less luminous than stars that are still undergoing fusion. The HR diagram in this comic does not specifically include any white dwarf stars.
+Brown dwarfs 2200 K 5.4 × 1022 W Brown dwarfs are too small to be classified as stars, but are larger than planets. The HR diagram in this comic does not specifically include any brown dwarfs.
+Betelgeuse 3200 K 1.6 × 1031 W Betelgeuse is a red supergiant star. At 3200 K, it is cooler than the sun but has a higher luminosity owing to its larger size.
+Vega 10,000 K 1.8 × 1028 W Vega is a main sequence star that is both hotter and more luminous than the sun.
+Sun 5800 K 3.6 × 1026 W The sun is a main sequence star. On a typical HR diagram, the luminosity of the sun is usually the basis of the luminosity scale, i.e. the sun is at "1" or 100 on the diagram's vertical scale.
+Proxima Centauri 2700 K 2.0 × 1023 W Proxima Centauri, the closest star to the sun, is a main sequence star that is both cooler and less luminous than the sun.
+HD 189733 b 2100 K 4.8 × 1021 W This is an exoplanet discovered in 2005. It is comparable in size to Jupiter, but hotter and more luminous owing to its close proximity to its own sun.
+Interior of a hydrogen bomb during detonation ~108 K ~1020 W This is the area where the fusion of hydrogen started and where the bomb is hottest and brightest.
+Jupiter 285 K 1.2 × 1018 W Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a giant planet with a mass one-thousandth that of the Sun, but two-and-a-half times that of all the other planets in the Solar System combined.
+Venus 330 K 5.0 × 1017 W Venus is the second planet from the Sun, orbiting it every 224.7 Earth days. It has the longest rotation period (243 days) of any planet in the Solar System and rotates in the opposite direction to most other planets (meaning the Sun would rise in the west and set in the east).
+Earth 300 K 3.0 × 1017 W Non-luminous objects on Earth are typically the same temperature as Earth, around 300 K. As shown in the diagram, Earth-based objects like France, the cruise ship, the blue whale, and the astronomer all have temperatures in the vicinity of 300 K.
+Mars 255 K 2.0 × 1016 W Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System after Mercury.
+Moon 300 K 1.2 × 1016 W The Moon is an astronomical body that orbits planet Earth and is Earth's only permanent natural satellite.
+Nuclear Fireball 8000 K 2.0 × 1014 W The glowing, rising mass of air that appears just after a nuclear bomb is detonated.
+France 300 K 2.0 × 1014 W This is part of Earth (and more precisely a part of Europe), the same temperature as Earth, but less luminous in proportion to its surface area. Including this may be a joke referencing the two possible meanings of ‘Europa’ (see the next entry). France emits less light at night than neighbouring countries, perhaps due to lower population density.
+Europa 90 K 3.5 × 1014 W While this term could refer to Europe (a part of Earth, of which France (the previous entry) is a further part), the temperature and luminosity are both too small for that, so it must refer to the moon of Jupiter instead.
+Lightning Bolt 30,000 K 30 GW The area where the bolt strikes, both with or without connection to time travel apparatus.
+Ivanpah Solar Plant Salt Tank 1200 K 1.2 GW The Ivanpah Solar Power Facility is a large solar power generator in the Californian Mojave desert. It concentrates sunlight from 173,500 reflectors onto three water-boiler towers. Randall appears to have mistakenly confused this power plant with the nearby Crescent Dunes Solar Energy Project, which uses tanks of molten salt to store energy. https://insideclimatenews.org/news/16012018/csp-concentrated-solar-molten-salt-storage-24-hour-renewable-energy-crescent-dunes-nevada
+Medium-sized Lava Lake 800 K 32 MW Lava lakes are large volumes of molten lava, usually basaltic, contained in a volcanic vent, crater, or broad depression.
+Cruise Ship 325 K 30 MW A cruise ship is a passenger ship used for pleasure voyages, when the voyage itself, the ship's amenities, and sometimes the different destinations along the way (i.e., ports of call), are part of the experience.
+Campfire 870 K 7.0 kW A campfire is a fire at a campsite that provides light and warmth, and heat for cooking.
+Blue whale 280 K 78 kW This must be average surface temperature as whales are warm-blooded at 37 °C internally, interestingly this and the cruise ship may be the only entries where a significant amount of power produced is conducted away rather than radiated. The power seems to be higher than reality. These images suggest a surface temperature around 295K - 300K for a Humpback whale when surfacing.
+Arc lamp 6500 K 150 W A light source that passes an electrical current through a gas (as in a mercury or sodium vapor lamp) rather than a solid filament (as in a standard incandescent lightbulb) or a semiconductor (as in an LED).
+Lightbulb 4800 K 75 W The temperature value here refers to color temperature, which for an incandescent bulb is the same as the filament temperature. However tungsten filament lights, commonly referred to as "bulbs", have a color temperature of between 2400 and 3600 K, and tungsten melts at 3695 K.
+LED Bulb 5800 K 8 W The temperature value here refers to color temperature, not physical temperature. Color temperature is a better match to effective temperature than physical temperature. As typical semiconductors might be rated for a maximum of 150 °C or about 420 K, the physical temperature of an LED Bulb is considerably lower than its color temperature.
+Astronomer 310 K 100 W The body temperature of a human (astronomer or otherwise) is about 310 K (37 °C). Skin surface temperature (which would fit the meaning of effective temperature better) is typically 31–35 °C. An astronomer standing outside in a thick coat on a cold night would have a much lower surface temperature.
+A human being generating 100 W for 24 hours needs 2065 kcal or 8.64 MJ. According to the UN FAO this is e.g. the typical daily energy output of women with weight 55 kg between 18 and 59 years having a light activity lifestyle of 1.55 times the BMR (basic metabolic rate).
+Hertzsprung–Russell diagram 293 K 20 W Described in the title text, a diagram by itself doesn't have luminance or energy. To observe it on a computer monitor, there's a certain amount of energy used however it's rare for a modern computer monitor to go above room temperature. These numbers are indicative of a home user, rather than the setup of an evil genius or massive screens at a music festival.
+Transcript[edit]
+Expanded Hertzsprung-Russell Diagram
+[A scatter plot is shown, with the x-axis labeled Effective Temperature (in kelvins), and the y-axis Luminosity (watts).]
+[Circled items in the top left (high temperature and high luminosity):]
+Supergiants
+Giants
+Main sequence
+White dwarfs
+Brown dwarfs
+[Items shown as points and their values:]
+Betelgeuse: 3200 K, 1.6 × 1031 W
+Vega: 10,000 K, 1.8 × 1028 W
+Sun: 5800 K, 3.6 × 1026 W
+Proxima Centauri: 2700 K, 2.0 × 1023 W
+HD 189733 b: 2100 K, 4.8 × 1021 W
+Interior of a hydrogen bomb during detonation: ~108 K, ~1020 W
+Jupiter: 285 K, 1.2 × 1018 W
+Venus: 330 K, 5.0 × 1017 W
+Earth: 300 K, 3.0 × 1017 W
+Mars: 255 K, 2.0 × 1016 W
+Moon: 300 K, 1.2 × 1016 W
+Nuclear Fireball: 8000 K, 2.0 × 1014 W
+France: 300 K, 2.0 × 1014 W
+Europa: 90 K, 3.5 × 1014 W
+Lightning Bolt: 30,000 K, 30 GW
+Ivanpah Solar Plant Salt Tank: 1200 K, 1.2 GW
+Medium-sized Lava Lake: 800 K, 32 MW
+Cruise Ship: 325 K, 30 MW
+Campfire: 870 K, 7.0 kW
+Blue whale: 280 K, 78 kW
+Arc lamp: 6500 K, 150 W
+Lightbulb: 4800 K, 75 W
+LED Bulb: 5800 K, 8 W
+Astronomer: 310 K, 100 W
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+How the heck is a lava cake more luminous than a campfire? 108.162.219.28 (talk) (please sign your comments with ~~~~)
+It's Lava Lake, as in a large puddle of lava.Cgrimes85 (talk) 15:45, 20 June 2018 (UTC)
+Now the real question is, Why isn't lava cake included on the diagram?!?! Veleek (talk) 23:54, 20 June 2018 (UTC)
+It would be to the left and below the astronomer. While it is hotter (at least when it comes out of the oven), the cake is a better insulator than the human, so doesn't dump as much heat, even though it is hotter. Nutster (talk) 13:15, 22 June 2018 (UTC)
+I can't decide what icing/frosting to put on my lava cake Kev (talk) 15:28, 31 July 2022 (UTC)
+Continuing the chain of humorous misreadings, I initially read your post as saying that lava cake is “hotter (at least when it comes out of the ocean)”, which brought to mind a rather funny picture of a random chocolate cake just rising out of the ocean among waves, freshly warm (and violently steaming) from some bizarre chemical reaction with the seawater! PotatoGod (talk) 17:45, 18 October 2018 (UTC)
+This is the best misreading that I've seen in a while! Quantum7 (talk) 07:56, 21 June 2018 (UTC)
+As it's a logarithmic scale, is it more correct to say the plot been expanded to 1 on both axes? Cgrimes85 (talk) 15:47, 20 June 2018 (UTC)
+It seems Randall thinks an astronomer is about as bright as a light bulb, probably due to the Hertzsprung-Russell diagram itself! Ianrbibtitlht (talk) 15:52, 20 June 2018 (UTC)
+A daily food consumption of average human is about 100W when spread out over 24 hours 172.68.245.169 (talk) (please sign your comments with ~~~~)
+It might actually be about that bright, but in the infrared spectrum. http://elte.prompt.hu/sites/default/files/tananyagok/InfraredAstronomy/ch01s04.html 108.162.246.89 20:54, 20 June 2018 (UTC)
+But they are no where near as hot!
+172.69.198.10 20:57, 20 June 2018 (UTC)
+You seem to overestimate the attractiveness of most lightbulbs. I've only seen a few that I would consider really hot. 162.158.107.37 (talk) (please sign your comments with ~~~~)
+And size; Remember that this type of chart is for comparing total luminosity to surface temperature, & although light bulbs get hot, they're usually nowhere near the surface area of an astronomer.ProphetZarquon (talk) 14:25, 21 June 2018 (UTC)
+While wattage is used as an informal proxy for bulb brightness, there is not a 1-to-1 relationship between power consumption and light output. Incandescent bulbs in the United States were commonly labeled with both watts consumed and lumens output to aid consumers in choosing efficient bulbs. 172.69.90.40 (talk) (please sign your comments with ~~~~)
+"Were"? When? These days the lamp itself usually only states volts & watts, & you're lucky if even the box states lumens. My personal least-favorite is "60w equivalent" with no color temperature & no luminosity listed.ProphetZarquon (talk) 14:25, 21 June 2018 (UTC)
+Ivanpah doesn't have a salt tank. Presumably he meant the boiler, and/or was confusing it with Crescent Dunes. Wwoods (talk) 17:29, 20 June 2018 (UTC)
+Thank you! That had me scratching my head. I bet he was thinking of Crescent Dunes. Should this be noted in the Explanation?ProphetZarquon (talk) 14:25, 21 June 2018 (UTC)
+I understand the explanation, but what's the joke? 198.41.230.124 (talk) (please sign your comments with ~~~~)
+The title text says "The Hertzsprung-Russell diagram is located in its own lower right corner, unless you're viewing it on an unusually big screen." But it's clearly on the top left corner... Am I missing something? 108.162.219.106 18:47, 20 June 2018 (UTC)
+Why would it be at the top left...? The diagram itself is not particularly luminous, so would not be at the top, and its apparent temperature is quite low, so it would not be on the left. 108.162.212.89 (talk) (please sign your comments with ~~~~)
+The joke is that while these type of graphs are typically used for illustrating the output of stars in relation to their age; Randall has extended its range to apply it to planets, boats, whales, & astronomers. Most items in the lower right are neither very luminous (compared to the total luminosity of a star) nor very hot (as compared to a star) & certainly their output on either scale does not bear a reliable correlation to their age. Randall is once again weighing things with the wrong measuring stick, so to speak.ProphetZarquon (talk) 14:25, 21 June 2018 (UTC)
+Adding to this, the title text is joking that if you were to measure the diagram's luminosity and effective temperature, then place a point representing that on a copy of the diagram, the resulting point would be in the copy's lower right corner. This type of joke is similar to the one in 688: Self-Description. 172.68.34.28 05:07, 23 June 2018 (UTC)
+
+Why is a blue whale considered more luminous than a campfire? Blue whales don't generate any light. 108.162.212.89 (talk) (please sign your comments with ~~~~)
+It would if your took it out of the water (to reduce convective losses), but it would emit in the infrared. The 78 kW cited here would equate to 588 million kcal of krill per year. That's in the ballpark of other estimates I found (e.g. 490 million[1]). I agree that this is one of the more surprising facts to find on this chart. --Quantum7 (talk) 08:10, 21 June 2018 (UTC)
+Size counts for a lot of that. By ounce, a campfire would be hotter, but these graphs go by total, not per-ton of mass.ProphetZarquon (talk) 14:25, 21 June 2018 (UTC)
+In one of the interesting parts of this diagram not that many mundane objects (or at least smaller than earth objects) are much hotter than most stars (surface temperature)... Not mentioned now.--Kynde (talk) 20:33, 20 June 2018 (UTC)
+I'm beginning to think the Explanation should highlight the fact that these graphs go by total output, not output per kilogram or anything relative like that. Body temperature of a blue-whale is almost certainly higher than the average temperature of a cruise ship, but a cruise ship is *much* bigger, thereby almost certainly outputting more heat. That said, I'm pretty sure these charts are only supposed to go by surface thermal output, which could throw a lot of these listings way off. Anyone know what the surface temperature of a blue-whale is? I've never seen one shown in infrared.ProphetZarquon (talk) 14:25, 21 June 2018 (UTC)
+I think the current explanation is still taking some of the graph too literally, thereby missing some of the jokes. After all, Randall creates comics, sometimes using innuendo or subtlety to make a point. I still think some of the items on the graph are plotted using luminosity as a measure of "brightness" in the sense of smartness. No offense intended, but he must have had a reason for including France below the planets and the blue whale above the astronomer. Furthermore, the title text is likely talking about the actual HR diagram not being very "bright" in the same way the astronomer is in the lower-right corner of the graph, except when it is displayed on a jumbotron. If you're an astronomer, you might not like hearing this, but the meaning of the HR diagram is difficult to grasp correctly. To leave out any mention of smartness is likely missing the most significant jokes in the comic. Please feel free to disagree, but remember it's still just a comic! Ianrbibtitlht (talk) 00:37, 21 June 2018 (UTC)
+More specifically to my point, this part of the explanation
+"the title text notes that the screen displaying the diagram would probably be plotted..."
+is not correct. The title text states the diagram itself would probably be plotted in the lower-right corner, not the screen displaying it - the screen was only related to the second part of the title text! This IS the primary joke in the comic and likely why Randall is making fun of it in the first place. This is also likely the reason for the astronomer to ALSO be plotted in this corner - I doubt that is just a coincidence. Maybe Randall was too subtle for his point to get through to readers! Ianrbibtitlht (talk) 04:37, 21 June 2018 (UTC)
+I noticed that too. I've added it to the explanation. The diagram itself doesn't have either of the properties measured in the diagram, though a screen displaying the diagram would. As that is an easy misreading to make, and the literal reading makes no sense, one can assume that technical misreading is what was meant.WingedCat (talk) 21:12, 27 June 2018 (UTC)
+Just in case I'm also being too subtle, I think Randall is saying that the HR diagram is neat to look at (as in really cool) but also stupid (as in not very bright), putting it in the lower-right corner of itself (cool and dim)! There, I said it! Ianrbibtitlht (talk) 04:45, 21 June 2018 (UTC)
+I believe it is definitely about total luminosity & thermal output, not "brightness" as a measure of intelligence. France is below the planets because it has much less total surface area & thereby less luminosity than the planet itself. If the graph listed by average luminosity per square inch, France would be higher than Earth. There is no joke about intelligence here, only that total luminosity & total heat output are not reliably linked to the age of non-stellar scale objects.ProphetZarquon (talk) 14:25, 21 June 2018 (UTC)
+I will concede on the question of intelligence related to objects on the diagram, as various comments have clarified each such object. Note that the detail on Venus needs to be fixed per another comment here suggesting it's not an error, and I'm pretty sure Randall meant Europa rather than mistyping Europe, so that should be removed from the explanation too. However, the title text explanation is still wrong - it is not about the display of the diagram but the diagram itself. This needs to be addressed! Ianrbibtitlht (talk) 01:44, 22 June 2018 (UTC)
+I'd favor removing any speculation that Randall could have meant Europe, rather than Europa, from the explanation. Though maybe include a note clarifying that he did NOT mean Europe? I understand people might have confused the two upon a first reading, but surely the sub-100K temperature leaves no doubt here? Redbelly98 (talk) 02:42, 16 July 2018 (UTC)
+How come this diagram says an LED bulb is hotter than a lightbulb, and both are hotter than a campfire? That doesn't seem right. YM Industries (talk) 01:49, 21 June 2018 (UTC)
+The confusion is coming from the fact that the arrow at the top is pointing toward lower temperatures. I'm not sure if this is intentional, or if it is a mistake, but seems to be confusing a lot of people (including myself until I read the actual numbers)Probably not Douglas Hofstadter (talk) 03:09, 21 June 2018 (UTC)
+I noticed that the arrow was pointing in a confusing direction, but LED bulb is to the left of the campfire. The diagram clearly says it's hotter. I'm very confused by this comic. YM Industries (talk) 05:22, 21 June 2018 (UTC)
+The location of the LED and Lightbulb temperatures may be related to the actual light source points of these objects (diode junction and wire filament) rather than the outer shells that we can touch. I don't know enough about their internal temperatures to say for sure, but that might explain their positions. Ianrbibtitlht (talk) 05:05, 21 June 2018 (UTC)
+Worked it out, it's referring to the colour temperature. YM Industries (talk) 05:24, 21 June 2018 (UTC)
+Right. The color temperature of an LED bulb can be much higher than a blackbody of the same power and area because it emits in only a small spectral region.108.162.238.47 05:32, 21 June 2018 (UTC)
+A pun! That's another joke; Should definitely be noted in the transcript. Also, if he were referring to internal temperatures, not surface temperatures, it would be the only place in this chart he seems to have done so. The other listings are consistent with surface temperatures, not average internal temps.ProphetZarquon (talk) 14:25, 21 June 2018 (UTC)
+I'm pretty sure there shouldn't be a table in the transcript? I've moved it, but now the table needs to be filled and the transcript needs some work. Herobrine (talk) 03:10, 21 June 2018 (UTC)
+Venus' temperature is correct. Randall is using planetary equilibrium temperature https://en.wikipedia.org/wiki/Planetary_equilibrium_temperature Astronorn (talk) 04:56, 21 June 2018 (UTC)
+Seriously, can we get a mention that this graph relates to total output by surface area, not relative output by mass or anything like that? Obviously per square inch, a campfire is much more luminous than a whale, but the whale gives off more radiation in total due to its greater surface area. The distinction seems to be a source of confusion to a lot of people. -- ProphetZarquon (talk) (please sign your comments with ~~~~)
+The France entry might relate to the fact that our commune here in France (Pessac, 33) now turns off its streetlights between 0100-0500; and there are many communes that do the same or use more sophisticated schemes, like motion sensors or partial extinction, and turning off lighted signage for shops, etc.. BeeVee (talk) 14:48, 21 June 2018 (UTC)
+If so, that might be another joke: If the graph went by lumens per area of surface, any marginally developed country would be shown higher (with more light output per area) than the Earth as a whole (yes, even countries turning off most of their lights at night), because oceans. On the other hand, with the graph the way it is shown, even comparing France to another region of roughly equal area & average reported surface temperature it would be difficult to discern whether its placement on this graph is any higher or lower due to switching the streetlights off at night; Most populous regions of comparable area are probably well within one order of magnitude in terms of light output (citation needed?), so any two comparable regions would be within about one pixel of each other. Listing France next to a comparable region doesn't help, but not listing anywhere else actually hints at the issue in question (turning off lights)! -- ProphetZarquon (talk) (please sign your comments with ~~~~)
+Missing Next and Last buttons?
+As I type this, an entry for comic 2010 exists, but the Next and Last buttons on 2009 don't exist. I've refreshed a bunch and also confirmed in Incognito and a different browser. So not a cache issue on my end. davidgro (talk) 23:07, 22 June 2018 (UTC)
+Must be a cache issue; maybe on the server. I can't reproduce this. --Dgbrt (talk) 10:51, 23 June 2018 (UTC)
+It's possible that the title text refers to the overall temperature of the chart, in which case if you had a big enough screen, the chart would show temperatures lower than the chart itself is at.173.245.52.133 19
+00, 26 June 2018 (UTC)
+I added some info on the four stars to the table. When I have time I'll try adding something on the main sequence and other star designations, but can't promise when I'll get to it. -- Redbelly98 (talk) 00:44, 21 July 2018 (UTC)
+1. FYI, the star descriptions I added earlier are primarily comparisons to our sun.
+2. Added description of HD 189733 b, primarily a comparison to Jupiter.
+3. Added entries for the different star classifications (plus brown dwarfs) that appear in the chart. I put these descriptions AFTER the named stars -- not sure if that's the best place for them though.
+Redbelly98 (talk) 21:41, 21 July 2018 (UTC)
+Among other edits, I added a description for the nuclear fireball: "The glowing, rising mass of air that appears just after a nuclear bomb is detonated." Not sure how strictly accurate that is, so feel free to edit. Redbelly98 (talk) 23:02, 27 July 2018 (UTC)
+Coming in late, but I notice that exactly one of these items has its core temperature listed, the hydrogen bomb explosion. The core of a supergiant star is as hot as anything can get while still being normal matter. Nitpicking (talk) 03:36, 17 July 2022 (UTC)
+Categories: All comicsComics from 2018Comics from JuneWednesday comicsScatter plotsAstronomy

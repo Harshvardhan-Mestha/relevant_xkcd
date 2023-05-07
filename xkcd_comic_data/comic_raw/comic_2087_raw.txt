@@ -1,0 +1,87 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2087: Rocket Launch
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2087)
+|<< PrevComic #2087 (December 19, 2018)Next >>|
+Rocket Launch
+
+Title text: NASA tries to coordinate launch timing with the Care Bears' cloud castle, but unfortunately sometimes collisions with stray Care Bears are unavoidable, so they just try to make the fairings sturdy and hope for a glancing impact.
+Explanation[edit]
+This comic was posted on a week with a notably high number of rocket launches. Originally, there were to be four orbital rocket launches from the United States on December 19, 2018 (the publish date for the comic), which would have tied with the prior record for number of orbital rocket launches in one day. While these launches were ultimately delayed, breaking the event, the comic was doubtless under production by then.
+Only some of the steps listed are actually typical.
+Liftoff
+The traditional start of a launch, when the rocket leaves the ground. The engines will typically have been ignited a short time before, often one-by-one in a specifically engineered sequence to reduce shock stress on the rocket, but need to throttle up to produce enough thrust to overcome the rocket's weight. Some launch pad configurations physically restrain the rocket (at least to some degree) until the engines are known to produce the required thrust then the rocket is released (e.g. by pyrotechnically crushing restraining bolts such as in NASA Space Shuttle configuration, or by hydraulic actuators opening a sturdy "clamp", such as in SpaceX Falcon 9 configuration). "Liftoff" refers to the moment this happens, making the rocket lift off the ground.
+Max-Q: Peak aerodynamic stress.
+A rocket accelerates from the moment it leaves the ground. The faster a rocket goes, the bigger volume of air it pushes through per second - but the higher a rocket goes, the thinner the air. (Before liftoff, the rocket is not moving, and thus is not pushing through air. Once in orbit, there is essentially no air to push through, so the rocket is not pushing through air. Between those two times, the rocket is pushing through some amount of air, the exact amount increasing before Max Q and decreasing after Max Q.) "Max Q" is the moment where these two factors produce a maximum, and is the point where the rocket's structure must withstand the most air pushing back against it.
+Booster separation
+Rockets are designed in stages, so they do not have to carry the empty fuel tanks all the way to orbit. (Carrying any mass to orbit is expensive, so the more that can be dropped off earlier, the better.) Two or three stages are typical. "Booster separation" marks the point where the first of these stages (the "booster"), its fuel expended, is typically ejected.
+Max-CB: Highest chance of collision with Care Bears.
+This is entirely fictitious. Care Bears are fictitious characters, which have a toy line, television series, and movies. The existence of a basketball sneaker named the "Nike Air Force Max CB" may or may not be relevant.
+Main stage separation
+See "booster separation" above. This marks the point where the second stage (the "main stage") is ejected.
+GPS silenced so it will stop saying "Make a U-turn"
+Again, this is fictional. While some rockets do make use of signals from the Global Positioning System ("GPS"), no rockets are known to use the navigational devices that incorporate GPS readers and street maps, providing directions - often with optional text-to-speech - along the Earth's surface. Some such devices are notorious for getting confused when the processed signals become less reliable; constantly uttering "make a U-turn" would be one such confusion, and any device in such a confused state might well be silenced for being more annoying than helpful. Navigation of this nature is neither necessary nor useful on a rocket, which will have its entire route from ground to orbit computed before launch, and piloting typically left entirely to computers given the precise timing required and typically alternate inertial tracking and/or radio-triangulation signals providing feedback as to how true the track up to, then in, orbit has been. Altitude uncertainty tends to be greater than 'horizontal' position, and this sensitivity would degrade significantly as a receiver approaches the altitude of the particular satellites being listened to.
+In civil GPS receivers, it may also be a direct result of the CoCom restrictions baked into the firmware/hardware to prevent their use in high-speed/long-range weaponry (such as rockets) by hostile regimes. If space-launch equipment integrates GPS navigation at all, it would generally not be a retail device such as that bundled with a spoken prompt for road directions.
+Reunification (of boosters)
+Another fictional step. Discarded stages fall back into the Earth's atmosphere, either hitting the ground (or, more often, water) or burning up because of the heat-up resulting from high compression of air in front of them while re-entering thick layers of atmosphere at extreme speed. The booster and main stage would not be on a course to come anywhere near each other, and would not have enough fuel to change their course (running out of fuel being why they were discarded in the first place). Even if they did, landing for reuse (as SpaceX has attempted, often successfully) would be far more likely than a mid-air reunion.
+Pilot panics, copilot takes command after struggle
+Another fictional step. Astronauts are not the sort of people who panic easily, nor struggle with their crewmates. More importantly, in any modern rocket the "pilot" is not a human being, but a computer incapable of panic[citation needed] (as in the human emotion). It is possible that part of the flight computer could fail, causing redundant failsafes to take over, but the process could not correctly be described as a "struggle", and in any case this sort of failure is uncommon enough that it is not part of a "typical" rocket launch.
+Pursuit phase
+Fictional. This assumes the (nonexistent) reunified booster would have enough fuel to pursue the top stage of the rocket, and a reason to do so. See "Reunification". This might be a reference to Pursuit guidance. The comic indicates that a fight ensues with only one of the pair continuing to orbit.
+Inter-stage dogfight
+Fictional. See "Pursuit phase". A dogfight is an aerial battle between fighter aircraft, conducted at close range. This step claims that the rocket booster and the top stage of the rocket engage in a battle.
+Winner proceeds to space
+Fictional. As noted above, in a real rocket launch there is no dogfight of which there can be a "winner". A careful reading would note that the bottom stage "wins" by default; in contrast, in a real (orbital) rocket launch, the top stage typically proceeds to space.
+The title text refers once again to the Care Bears franchise. The Care Bears live in a castle made of clouds, called Care-a-Lot Castle, so the comic claims that NASA aims to avoid launching into their castle, but sometimes cannot avoid hitting "stray" Care Bears. That being said, the point about the strike has a basis in truth; at the speeds a rocket moves, impact with something roughly the size and weight of a human (or a Care Bear) has the potential to be catastrophic. If something should threaten to connect with the rocket, the best that the humans involved can do is hope for a glancing blow with a part of the rocket sturdy enough to endure the impact.
+Transcript[edit]
+[The major stages of a rocket launch are shown, with the rocket trajectory indicated by dotted lines. Each stage is annotated with a description and an arrow. A title above the image reads 'Outline of a typical rocket launch'.]
+[A rocket with two boosters is shown at the bottom left hand corner of the image taking off from a launch pad on the ground, surrounded by clouds of smoke.]
+Liftoff
+[The rocket ascends vertically]
+Max-Q: Peak aerodynamic stress
+[Separation of the two external booster rockets is shown, with the main rocket continuing to ascend vertically with a slight rightward tilt and the two boosters curving off to the right.]
+Booster separation
+[The main rocket stage starts to curve over to the right.]
+Max-CB: Highest chance of collision with care bears
+[Separation of the second rocket stage. Main rocket heads right, whilst second booster stage curves downward to meet trajectory of first booster stages.]
+Main stage separation
+[Main rocket continues towards the right.]
+GPS silenced so it will stop saying "make a U-turn"
+[First and second stage booster rocket trajectories meet and become a single trajectory heading upwards and right.]
+Reunification
+[Trajectory of main rocket wobbles slightly.]
+Pilot panics, copilot takes command after struggle
+[Booster stage rockets continue to head upwards and right towards the main rocket trajectory.]
+Pursuit phase
+[Main rocket and booster stage trajectories meet and cross three times.]
+Inter-stage dogfight
+[The trajectory for one of the stages ends in an explosion.]
+[The remaining trajectory, indicated with dashed-lines and question marks, continues towards the right and off the edge of the page.]
+Winner proceeds to space
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I had to fight the urge to type Care Bare Arachrah (talk)
+This was published during the Arianespace launch livestream, between launch and satellite deployment: https://www.youtube.com/watch?v=mpHJoo0h8GQ Fabian42 (talk) 17:11, 19 December 2018 (UTC)
+Looks like it could be an Ariane5 in the comic, it is a 3 stage. Anyone know if Max-CB is a real thing (and before I get any wisecracks, I know there aren't any Care Bears in the clouds) 162.158.63.214 20:27, 19 December 2018 (UTC)
+A search for rocketry terminology reveals that Cb stands for Ballistic Coefficient, which is a measure of the ability to coast. It is related to both velocity and air density, which vary throughout a rocket launch, so it makes sense that there might be some point of maximum ballistic coefficient. (Note: I am not a rocket scientist, and this is clearly rocket science, so take this with a grain of salt!) Ianrbibtitlht (talk) 21:13, 19 December 2018 (UTC)
+That point is called "Max-Q". Source: I've seen a lot of rocket launches recently and they always mention it, because it's the second most likely moment to have a failure (first is the launch, of course). Fabian42 (talk) 07:28, 20 December 2018 (UTC)
+Pontificating further, it is reasonable to conjecture that as a rocket accelerates to higher speeds, the drag from the atmosphere increases with increasing speed, but past a certain point the drag begins to decrease as the air gets thinner. This suggests there is some point somewhere during the launch sequence where aerodynamic drag reaches a maximum value - aka Max Cb. Ianrbibtitlht (talk) 21:26, 19 December 2018 (UTC)
+Finally one I can help with! Okay, I don't think this is ballistic coefficient for several reasons: 1. Ballistic Coefficient is typically noted by the greek letter Beta, not Cb. 2. Ballistic coefficient is mass divided by drag area (drag coefficient times reference area). Basically a shape parameter. So while the mass does change over the course of the flight (burning fuel), the drag area does not. Making this a somewhat useless parameter for a launch vehicle 3. Ballistic Coefficient is typically reported as a static parameter rather than a time-varying parameter, so "Max ballistic coefficient" is a rather unusual metric (and would occur on the launch pad in any case, when mass is highest). Finally, as an aside, objects with high ballistic coefficients tend to fly through the air easily and are not influenced very much by wind (such as rocks or bullets), whereas low-beta objects can by pushed and slowed down a lot by the wind (such as balloons). Tyanderson91 (talk) 03:17, 20 December 2018 (UTC)
+For rockets with side boosters, as the one shown, drag will potentially change dramatically at each staging event; when the side boosters are jettisoned they are no longer dragging on the rocket, and it's possible that the stage will have a higher ballistic coefficient because there's less surface area and not significantly less mass. Chad172.68.47.84 10:30, 20 December 2018 (UTC)
+r/shittyspacexideas --173.245.52.139 19:53, 19 December 2018 (UTC)
+If you trace the dotted lines, it seems that the Boosters are the winnersCCCVVVA (talk) 03:02, 20 December 2018 (UTC)
+When I did it, I noticed that the boosters lost. After reading your comment, I traced it again and noticed that the last time they meet, when I saw them not crossing, could actually be interpreted as crossing (though it still seems to me that not crossing is more likely). Wonder if thst's purposeful confusion. 162.158.89.223 01:26, 21 December 2018 (UTC)
+This was posted on the day SpaceX was supposed to launch the GPS-III-2 satellite, which may be the reason for the mention of GPS Tyanderson91 (talk)
+The max CB is clearly meant to spoof the real problem of rockets hitting birds. Since birds can't fly in the he upper part of the atmosphere, the point of highest likelihood of hitting a bird would presumably be below max-Q and not above it as in the comic. It is worth noting that there are no clouds at the altitude where max CB is shown in the comic, so it seems unlikely that any hypothetical cloud castle would be that high.
+EDIT: ok, after checking the numbers it seems like it is technically possible to encounter birds and clouds at heights above max-Q for some rockets, but the position shown in the comic still seems too high. Probably not Douglas Hofstadter (talk) 04:23, 20 December 2018 (UTC)
+I suspect "pursuit phase" refers either to predation or to some aspect of air warfare (either involving missiles chasing craft or craft vs. craft). Magic9mushroom (talk) 08:08, 20 December 2018 (UTC)
+I believe "pursuit phase" refers to the Domestic Violence Cycle. There are just too many correlations. iraytrace (talk) (02:38 21 December 2018 (UTC)
+I see no reason what so ever that Randall was thinking of domestic violence, just because he called a pursuit of one rocket of another a "pursuit phase". Guess someone has this on their mind and see it everywhere. I would delete it but I don't have the time. --Kynde (talk) 14:01, 21 December 2018 (UTC)
+Pursuit phase or pursuit guidance is something that crops up in missile guidance and ICBM interception a lot, which I think is probably more relevant here. --108.162.246.203 18:24, 21 December 2018 (UTC)
+I feel a reference to 1133: Up Goer Five and 'will not go to space today' is needed, but not sure where - after dogfight? Possibly Kerbal (Care Bear?) Space Program too. 162.158.34.178 15:09, 21 December 2018 (UTC)
+I think there's some kind of a theme going on with the reunified stages & a traditional narrative arc of rise, fall & redemption (or something like that..). Like it's rising from its fall to try to regain a throne or something? I'm not sure where to put it but edit it in if you agree. Also not changing it, but linking Wikipedia's article on 'pursuit guidance' as a 'possible reference' is a helluva stretch, don't you think? Cool article, but I don't think it's referenced any more than 'CB Radio' or 'Q-tips' would be ¯\_(ツ)_/¯ --172.69.22.224 18:46, 24 December 2018 (UTC)
+The GPS disabled may also be a reference to the COCOM altitude/speed limits placed on commercial GPS units. 162.158.63.232 16:22, 25 December 2018 (UTC)
+This comic can be solved by simply deleting a white space and replacing "a typical" with "atypical" 162.158.91.125 10:04, 4 January 2019 (UTC)
+Categories: All comicsComics from 2018Comics from DecemberWednesday comicsPages using the "citation needed" templateSpaceFiction

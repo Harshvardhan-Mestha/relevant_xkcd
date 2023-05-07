@@ -1,0 +1,44 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2029: Disaster Movie
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2029)
+|<< PrevComic #2029 (August 6, 2018)Next >>|
+Disaster Movie
+
+Title text: Really, they'd be rushing around collecting revisions to go into the next scheduled quarterly public data update, not publishing them immediately, but you have to embellish things a little for Hollywood.
+Explanation[edit]
+Disaster movies are a sub-genre of movies, which resolve around a disaster, such as a natural disaster, worldwide disease pandemic or an attack. Typically, the plot of a disaster movie is how the main characters escape the disaster, avert its climax or deal with the aftermath of the disaster. Here, Randall has subverted this plot device by showing Ponytail call for a GIS survey team to map out the result of the disaster. Instead of panicking for survival, the scientists are rushing to update their data sets.
+"Lava entering the sea, and new rifts opening to the north" may be a reference to the 2018 lower Puna eruption, a volcanic event on the island of Hawaii. Due to this eruption event, lava did enter the Pacific Ocean. As of the time of publishing, this event was still occurring.
+GIS ("geographic information system") is a computer system that stores and analyses spatial and geographic data, and by extension, the profession of experts who use computers to make maps and perform spatial analysis.
+Presumably, a "GIS survey team" would go above the affected area in a helicopter, mapping the coastline changes caused by the natural disaster. A "GIS survey team" presumably means a team of geographic surveyors. However, surveying is usually carried out on the ground, and surveying is not usually considered part of GIS. Also, these days, satellite imagery is usually used for this purpose, as there are several companies that can provide imagery refreshed as often as every day. Finally, a "GIS survey team" would most likely be one of many companies that provides these kinds of services, not "scientists", as suggested in the caption. An example of this is an ArcGIS map of the mentioned 2018 lower Puna eruption.
+A Shapefile is a proprietary data format for spatial data which remains in widespread use, despite being created in the early 90s, and based on an even older database format. Amongst non-GIS people "shapefile" is often used synonymously with "geographic data", regardless of the actual file format. "Our coastline shapefiles" then means "our geographic data for the coastlines", although such data would most likely be stored in a database, not a Shapefile.
+The situation described (scrambling to update geographical datasets in the advent of natural disaster) is actually a common occurrence these days. The Humanitarian OpenStreetMap Team's Disaster Response unit does almost exactly this: When there is a natural disaster in a location that lacks high quality GIS data (common in much of the developing world), a team of volunteers across the world mobilizes to update and improve OpenStreetMap. They use the latest available satellite imagery, usually donated free for the purpose. Disaster response teams then use the GIS data in OpenStreetMap to create maps and plan their response.
+The title text refers to the fact that most GIS datasets are not published in "real time", but, rather in updates every 3 months or less often. This is due to the many manual steps still present in many GIS publishing and consuming workflows, which preclude more frequent schedules. Thus, there is not as much of a rush to do their updates, and the need is not as urgent as the proposed film would show. Randall claims the urgency was exaggerated for dramatic effect, humorously disregarding the fact that neither version of this scene would be dramatic to a typical moviegoer.
+Transcript[edit]
+[A fraction of an office with two desks is shown. On the right Cueball sits behind a computer while in the middle Ponytail talks into a radio device with a small antenna. On the left Megan runs into the scene holding something like a tablet computer in her hand.]
+Megan: The lava is entering the sea, and new rifts are opening to the north!
+Ponytail: Get a GIS survey team in the air! We need to revise our coastline shapefiles!
+[Caption below the frame:]
+I want to make a disaster movie that just shows scientists rushing to update all their data sets.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+DATASETS is one word. 172.68.59.24 (talk) (please sign your comments with ~~~~)
+And data sets are two ;) (BTW: Please sign your posts) --Dgbrt (talk) 20:52, 6 August 2018 (UTC)
+oxford says it's data set(s) --Gusser93 (talk) 21:36, 6 August 2018 (UTC)
+Sorry for my sarcasm, both is possible as can be seen here at Wikipedia: A data set (or dataset) is a collection of data.... Oxford doesn't cover the US. And on the other hand shapefile is really a single valid term belonging to the geographical information system (GIS). --Dgbrt (talk) 22:08, 6 August 2018 (UTC)
+On a modem, there is a pin signal called "DSR" for "Data Set Ready," which would suggest that IBM (I think the terminology started with them) thought it should be two words (sometime back in the 1960's). (Side note: The "data set" in this case was the modem itself; "set" being used in the context of "a bunch of components in a box", as in "TV set") (side note, part II: Grammerly is marking all the "data set"s here and suggesting they be written as "dataset") JamesCurran (talk) 18:30, 7 August 2018 (UTC)
+Not by any means an expert, so I don't want to remove it without commenting, but I don't think the section on why "GIS survey team" is unrealistic holds up - I know the ShoreZone project (http://www.shorezone.org/) on the US and Canadian west coast uses almost exactly that kind of scientists-in-helicopters methodology. 172.68.174.100 01:54, 7 August 2018 (UTC)
+That project sounds like it's collecting much more fine-grained data than simply coastal geometry - especially high resolution imagery, which does need to be taken from an aircraft. Stevage (talk) 02:54, 7 August 2018 (UTC)
+Cowboy Bebop, episode 24: "Hard Luck Woman." This is exactly what Radical Edward's father did. 162.158.63.100 02:27, 7 August 2018 (UTC)
+I looked up that episode. Its a significant moment in Ed's dramatic arc. These Are Not The Comments You Are Looking For (talk) 02:42, 12 August 2018 (UTC)
+Shapefiles are an actual format: .shp It is defined, released to the public and is the format that is used to share vector files in GIS 172.68.189.49 21:42, 7 August 2018 (UTC)
+Yes, hence this sentence: "A Shapefile is a proprietary data format for spatial data which remains in widespread use, despite being created in the early 90s, and based on an even older database format." Is there something you feel is missing from that? Stevage (talk) 23:27, 7 August 2018 (UTC)
+We usually share data with teh public, inlcuding coastlines, in shapefile format, rather than geospatial database. To share in geospatial database is to make a database public, and that is generally not safe.
+Similar take on Hollywood tropes can be found in 734: Outbreak (medical / zombie thrillers), and 633: Blockbuster Mining (adapting stories, action movies). --JakubNarebski (talk) 08:28, 8 August 2018 (UTC)
+The Title Text notes that this would not be as urgent as the proposed movie would portray, since updates are made quarterly. I think the embellishment is similar to many Hollywood procedural shows, where test results (e.g., DNA matching) that take quite a bit of time in reality are available practically on demand. 108.162.241.160 15:37, 8 August 2018 (UTC)
+Just for the record (from a HI volcanalogist (?) I know), they do actually publish new maps several times a week during events like this, with updated coastlines. Afbach (talk)
+How did @Afbach's comment get posted without a date, I wonder? Nitpicking (talk) 12:02, 23 April 2023 (UTC)
+They could have posted without the ~~~~ added, but explicitly placed the User/Talk links. But also see what happens when I use just ~~~s (as an IP address) by accident or design... 141.101.99.137
+Categories: All comicsComics from 2018Comics from AugustMonday comicsComics featuring CueballComics featuring MeganComics featuring PonytailScience

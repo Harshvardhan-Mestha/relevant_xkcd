@@ -1,0 +1,73 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2447: Hammer Incident
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2447)
+|<< PrevComic #2447 (April 7, 2021)Next >>|
+Hammer Incident
+
+Title text: I still think the Cold Stone Creamery partnership was a good idea, but I should have asked before doing the first market trials during the cryogenic mirror tests.
+Explanation[edit]
+The James Webb Space Telescope (JWST) is a space telescope created to be the successor of the Hubble Space Telescope under construction at time of publishing and launched December 25, 2021, though in 2014: JWST Delays, xkcd predicted its launch would actually occur during late 2026.
+It's implied that Cueball dropped a hammer on the mirror of the JWST and broke it. In superstition, breaking a mirror causes seven years of bad luck. The cost estimate for the JWST is currently US$10 billion, and Cueball is at a NASA official hearing for breaking this very expensive piece of equipment, no doubt costing NASA (and thus the nation) hundreds of millions of dollars more for repair work. However, Cueball is more concerned about personally experiencing seven years of bad luck.
+In actuality the mirror panel is not made of glass, so it's likely that a dropped hammer would dent and distort the panel rather than shattering it. Presumably Cueball's hammer drop would damage or destroy only one mirror panel out of the JWST's eighteen panels. (If he had destroyed the entire telescope, he may have been facing 7×18=126 years of bad luck, and the damage costs would be much, much higher. Then again, this depends on the altitude that the destruction happened.) Even breaking a single panel would likely be very expensive because it would require extremely accurate machinery and extensive calibration tests to make and install a replacement panel, especially because the back of JWST's mirrors are made of beryllium. Beryllium is expensive to purchase, since it is relatively scarce, and is very hard and abrasive, so making things out of it is difficult (and expensive due to the specialized machinery required and the precautions necessary to prevent inhalation). Breaking a beryllium mirror would lead to dust formation; single exposures to beryllium dust can cause acute beryllium poisoning and massively increase the risk of lung cancer, which is very bad luck on behalf of Cueball. In addition to the property damage, Cueball is probably liable for injuring his coworkers, which is probably the main reason why the NASA workers are so angry at him because human lives are more valuable than mere money.[citation needed]
+The title text refers to the Cold Stone Creamery, a chain that mixes ice cream with various other ingredients, such as fruit or candy, in front of the customer before serving it. The usual surface for mixing is a piece of granite which is kept cold (about -10°C). It's implied that Cueball had tried mixing his ice cream and flavorings in the style of Cold Stone Creamery on the JWST mirror, which is also kept cold -- in fact much colder, as it's cooled to as low as 7 K (-266°C, or -447°F). If Cueball had mixed ice cream this way on the JWST, he would likely have scratched and/or stained the surfaces on the telescope and perhaps have gotten gunk into the instrumentation, and possibly, due to the localized temperature differential from ice cream hundreds of degrees warmer than the material, promoted damaging distortions or fractures -- hardly the 'good idea' mentioned in the title text. (It also would not have worked: at sufficiently low temperatures, ice cream hardens and cannot be mixed.)
+The bad luck from breaking a mirror is also referenced in 1136: Broken Mirror.
+Transcript[edit]
+[Cueball, holding a palm up in front of him, stands before a long desk, behind which is a seated panel of four people, consisting of Ponytail, Hairy, a Cueball-like guy and Hairbun. Hairy is the only one to have one arm on the desk, all other arms are held down with hands below the desk.]
+Cueball: Yes, I know you're mad that I dropped that hammer.
+Cueball: But think about me—
+Cueball: Seven years of bad luck!
+[Caption below the panel]:
+Man, NASA is really on my case about the James Webb Space Telescope.
+Trivia[edit]
+The JWST has previously been mentioned in 2014: JWST Delays, 1730: Starshade, and 1461: Payloads.
+For some reason, the original version of this comic was very large (4332×4838px), well overflowing the boundaries of the page. This was probably a mistake, as the current version is significantly smaller at 289 × 323px.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+big --162.158.187.153 02:04, 8 April 2021 (UTC)
+I added a basic explanation. 162.158.212.224 02:28, 8 April 2021 (UTC)
+Do we really need a huge paragraph explaining all the reasons why any damage to a space telescope is a big, expensive deal? And I'm not sure this is a trial, it's probably more like an administrative panel hearing (like the hearings after the Challenger disaster). Barmar (talk) 14:26, 8 April 2021 (UTC)
+I agree. A hearing fits the lighthearted tone better, the drawing which doesn't look at all like a courtroom, and...well, realism, as irrelevant as that may be for this scenario :) Since nobody has objected to the idea since you posted this, I'll go ahead and change it. - jerodast (talk) 07:06, 4 December 2021 (UTC)
+Is it meant to be that size? Does the bad luck apply to trying to upload comics at reasonable sizes?
+It's fixed now
+172.69.33.19 02:09, 8 April 2021 (UTC)
+Oooh boy, indeed... "Error creating thumbnail: File with dimensions greater than 12.5 MP" is the Wiki's assessment of the auto-uploaded image. I haven't checked the resolution, but the https://imgs.xkcd.com/comics/hammer_incident.png one is apparently 4332x4838 (scales to 8% on my device), and I don't care to test the _2x version right now. I'm not sure that was the native res of it on creation, looks to be an accidental up-scaling prior to posting to xkcd itself. 141.101.98.6 02:20, 8 April 2021 (UTC)
+The _2x version is actually the proper size for a normal comic - 578x645 pixels. Noëlle (talk) 02:21, 8 April 2021 (UTC)
+Still seems larger than normal to me, even the 2x seems larger than I would expect. 172.69.34.78 04:02, 8 April 2021 (UTC)
+Maybe the extra-large image is what the original looks like using the James Webb telescope? Maybe over-thinking. 172.68.132.145 04:19, 8 April 2021 (UTC)
+Or perhaps its an resolution/aspect ratio/zoom factor difference between it and the old telescope. Implying all other comics have secretly been placed in front of the other telescope 172.69.170.50 04:56, 8 April 2021 (UTC)
+Perhaps overthinking, if the main reflecting mirror was actually destroyed, the light entering the telescope would never be focused into the secondary mirror and the image would be "light size" so you would only be able to see a small portion of what you expect
+It looks to me that, while most of the text is rendered smoothly in full resolution, the caption below the panel ("Man, NASA is really on my case about the James Webb Space Telescope.") is very jaggy on a pixel level, but only on the Y-axis. There could be quite a bit of information in there. No idea what it means, though. 141.101.77.36 07:29, 8 April 2021 (UTC)
+It could be floating-point errors that indicate the code flow of the renderer Randall used. Or it could mean anything else. Curious to compare it to a correct rendering of that text with the same font, but wouldn't know what to do with the vector of edge differences myself. 162.158.63.140 09:03, 8 April 2021 (UTC)
+
+It seems to be fixed now so I am sure it was an accident
+Randall has now uploaded an even smaller resolution image of 289 × 323 ([1]), and I have added it to this comic explanation. Natg19 (talk) 17:15, 8 April 2021 (UTC)
+Perhaps this should be referred to as the Thumbnail Incident. 172.68.174.26 00:06, 9 April 2021 (UTC)
+
+When I read this comic I was worried it might have been inspired by recent news of something breaking during the final assembly process. Fortunately this seems not to be the case. Among the many delays of the telescope, were any of them caused by mirror and/or cryo failures that might have inspired this comic? Quantum7 (talk) 05:53, 8 April 2021 (UTC)
+What caused the most recent delay? It seems it's been pushed forward more as Randall predicted in the other comic. 162.158.63.140 09:03, 8 April 2021 (UTC)
+I'm guessing that it was the recent announcement of the planned science for the first year of operation. 162.158.74.21 16:48, 8 April 2021 (UTC)
+I was also worried and figured explainxkcd would tell if there had been any real issues. Mikemk (talk) 17:26, 8 April 2021 (UTC)
+Cryogenic?
+I get the sense that the title text is inspired by liquid nitrogen ice cream. -- 108.162.237.252 13:14, 8 April 2021 (UTC)
+The tern Cryogenic is often used to refer to Cryonics. A method of preserving human bodies in glass for future generations 108.162.237.46 20:18, 8 April 2021 (UTC)
+Vitrification is not cryonics/cryogenics in itself, just one method of crystal-aversion during freezing (and, it seems, could be just as damaging to the fine biology it tries to preserve), and the cryonic meaning is a subset of a whole range of "making an amorphous solid" processes that are also vitrification, such as in nuclear-waste processing.
+Cryogenics is 'the creation/use of extreme coldness' (<120°K) and Cryonics is just one of a subset (via more general cryopreservation) of applications of such technology and processes.
+While interesting general knowledge remains interesting, I'm not sure either term is worth having been given such a contextless mention, above, not at all hinted at being deliberately referenced by the comic. 141.101.98.6 18:29, 9 April 2021 (UTC)
+As Quantum7, I was worried too and googled "JWST hammer" only to find this actual contributor to the project… The Hammers Company, Inc. Greenbelt, MD in this list:
+https://www.jwst.nasa.gov/content/meetTheTeam/team.html
+Not all JWST-engineering seams to be that delicate – should we be worried? -- 162.158.203.15 (talk) (please sign your comments with ~~~~)
+
+The James Webb Telescope only has <$2000 of gold. [[2]] -- 172.68.189.191 (talk) (please sign your comments with ~~~~)
+Yeah, I'm going to remove the gold thing. It's a complete red herring. The materials represent such a tiny fraction of the cost of coating a mirror that it's not even worth mentioning. Coating a mirror with aluminum or protected silver costs virtually the same as coating it in gold. The fact that the mirrors are made from beryllium is a much larger factor in the cost. Ahecht (talk) 16:37, 8 April 2021 (UTC)
+Incidentally, given some of the folk-head-canon for vampiric non-reflections in mirrors is due to the more mystical properties of silver (which crosses over with werewolf-lore, etc, and these days carries over to an inability to be captured on photographic film), imma gonna assume vampires would actually have an image if they looked in the JWST mirror(s). 141.101.98.108 18:58, 8 April 2021 (UTC)
+I wouldn't describe the past of using photographic films as "these days". I suppose vampires can be filmed by digital cameras just fine. -- Hkmaly (talk) 22:43, 8 April 2021 (UTC)
+Depends. A DigitalSLR might still give various problems. Though unless the Metal Oxide in the MOS element or any of the colour-filtering involved is part silver, as would affect even 'live-view' viewfinding, it wouldn't stop recording of silver-inhibited imagery.
+(It makes you wonder if a part-silvered USB connector would be enough to make files of successfully recorded vampire activity to be automagically refiltered to show an 'empty' scene. In fact, if such a connector is rare enough, but can be invoked, it suggests a form of steganography in which you send 'innocent' images of a cooperative vampire directly standing in front of the secret information, in a suitably social context as to raise no suspicions. Only if you save the public image from Facebook (or OnlyFan(g)s??) then transfer it through your specially-silvered silver USB cable, the copy now shows you the mystically-'unobscured' pixels of the secret info. Right? Because magic can get around trivial stuff like bitplane (re)compression, smooth out any copy-verification/hashing mismatches, and otherwise prevent mugglishly-mundane issues from arising, obviously!) 141.101.98.6 18:29, 9 April 2021 (UTC)
+Would it count as bad luck if he has to pay for all the repairs to his damage of the space telescope? Nutster (talk) 03:10, 9 April 2021 (UTC)
+Would have been funnier if it was 126 years of bad luck. DrBob (talk) 12:56, 9 April 2021 (UTC)
+There probably should be a category for "review boards" or something, since there's now this comic strip, 2349: Rabbit Introduction, and 2148: Cubesat Launch (at least). --NotaBene (talk) 15:15, 9 April 2021 (UTC)
+I just want to congratulate whomever added that [citation needed] after the comment about human lives. That is easily the funniest use of it that I've seen in a very long time if not ever. Cwallenpoole (talk) 14:24, 15 April 2021 (UTC)
+Categories: All comicsComics from 2021Comics from AprilWednesday comicsPages using the "citation needed" templateComics featuring CueballComics featuring PonytailComics featuring HairyComics featuring HairbunMultiple CueballsTelescopesSpace probes

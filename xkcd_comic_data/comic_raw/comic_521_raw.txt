@@ -1,0 +1,107 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+521: 2008 Christmas Special
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 521)
+|<< PrevComic #521 (December 24, 2008)Next >>|
+2008 Christmas Special
+
+Title text: 'How could you possibly think typing 'import skynet' was a good idea?'
+Explanation[edit]
+This comic is the xkcd Christmas Special from the year 2008. The prologue states that due to the 2008 financial crisis, only very few images of the strip could be produced, leaving the others to be blacked out. It is therefore left to the reader to reconstruct the whole story based on the given images. While it is claimed that the reconstruction should be rather easy, the complicated and abstruse plot-line makes it nearly impossible to fill the gaps. Any attempt at inferring the missing images would therefore be largely guesswork. The comic features the well-known xkcd characters getting involved in a strange fight with cyborgs and raptors on Christmas Eve.
+The line "We apologize for the inconvenience." is possibly a reference to the famous book series The Hitchhikers Guide To The Galaxy by Douglas Adams. It appears there as God's Final Message to His Creation, written in letters of fire on the side of the Quentulus Quazgar Mountains.
+Panel 2: Megan strives to outdo some Christmas lights she has seen on YouTube.
+Panel 3: Dissatisfied with her work, Megan is thinking about alternative ways improve her light arrangement. The idea of firing Sodium pellets into snow is probably a bad one, as Sodium reacts exothermically with water and may, in large amounts, induce explosions.
+Panel 5: Probably still obsessed with the idea of creating a large and impressive light display, Megan has constructed an electronic device with an Arduino processor, perhaps to make the light chain show patterns. However, the amount of energy she used was apparently too high, causing one of the control boards to sublimate- go directly from a solid to a gaseous state without an intermediate liquid phase. She then wishes she could make the system self-repairing.
+Panel 7: Megan's device has developed artificial intelligence, allowing it to feel. This is presumably a result of Megan attempting to make the device self-repairing. This common trope in science-fiction works usually leads to the system's attempting to eradicate its creator. Cueball attributes the emergence of a personality to awesome ease and power of programming in Python.
+Panel 11: Out of context, this panel introduces the idea of Santa Claus being a Muslim. This may be a reference to the persistent Internet rumors that Barack Obama is a Muslim, though he declares himself to be a Christian. However, the statement could also relate to the fact the Santa Claus is usually displayed with a large beard, which is sometimes also sported by conservative Muslims. Or it could just be non-sensical.
+Panel 13: At this point the self-aware Christmas light control systems has apparently released cyborgs that tried to kill Megan and Cueball. In order to repel the cyborgs, they have cloned Velociraptors. Cueball expresses doubt whether that was really a good idea. Velociraptors appear frequently in xkcd, as seen in these comics
+Panel 17: As predicted, the raptors have gone wild, but Megan, Cueball and the two smaller characters (perhaps their children) managed to cage the dinosaurs. They believe themselves safe unless the raptors learn how to build lightsabers. This is a reference to a line in Jurassic Park where the main characters believe themselves safe, unless the raptors can learn how to open doors.
+Panel 19: The raptors have indeed succeeded with constructing lightsabers and must now be fought. The "Clever girl" is a reference to a line from Jurassic Park where the raptors outflank (and kill) one of the human characters wearing a similar hat.
+Panel 23: IT billionaire Bill Gates has mistakenly killed Santa Claus, possibly in a sword fight. He claims to have mistaken him for Richard Stallman, a prominent free software activist. (Gates strongly opposes the idea of free software and is therefore considered an antagonist by many of its supporters.) The most striking resemblance between Stallman and Santa Claus is probably the long and untamed beard. Comic 225 is one of the most famous xkcd comics and features Stallman involved in a sword fight.
+Panel 29: Megan, possibly Danish, asks Black Hat where he obtained the enormously large christmas tree that can be seen on the right side of the picture. It is implied that he logged Yggdrasil, a giant ash tree in Norse mythology. According to tradition, Yggdrasil is the world tree representing the whole of creation and holding together the cosmological structure.
+Panel 31: Randall wishes Merry Christmas to all xkcd readers.
+The title text refers to panel 7. In Python, modules are imported using the "import module" syntax. Skynet is a self-aware artificial intelligence system featured in the Terminator film series as the main antagonist. Importing the skynet module might therefore account for Megan's system's developing an evil personality.
+Note that this comic was first published in another version that had panel 29 as panel 27 and the "Merry Christmas from xkcd" message at the bottom. As 27 is not a prime number, the current version was published in lieu of the erroneous one.
+It has been observed that the top left nine panels form a Glider in Conway's Game of Life. The glider is sometimes used as an emblem representing hacker subculture, although rotated by 90 degrees. It remains however unclear whether the occurrence in the comic is intentional or owed to the prime number pattern.
+Transcript[edit]
+The 2008 XKCD Christmas Special
+Due to the slowing economy, we could only afford to produce the prime-numbered panels.
+You should be able to infer the missing parts of the story easily enough.
+We apologize for the inconvenience.
+[The first panel is blank.]
+[Megan carrying Christmas lights and Cueball watching.]
+Megan: I'm going to one-up those Christmas light displays on YouTube.
+[Megan thinking.]
+Megan: Hmm. Needs more flair. Do you know what happens when you fire sodium pellets into a snowbank?
+Cueball: No.
+Megan: Me neither.
+[The next panel is blank.]
+[Megan sitting in front of a console.]
+Megan: Whoops, one of the Arduino control boards sublimated.
+Megan: If only I could make it self-repairing...
+[The next panel is blank.]
+Megan: Shit. The system has become sentient.
+Cueball: Friggin' Python.
+System: GRAAARR!
+[The next three panels are blank.]
+[Megan showing laptop to Cueball.]
+Megan: But according to this email forward, Santa is secretly a Muslim!
+Cueball: It explains everything!
+[The next panel is blank.]
+Megan: Okay, the cloned raptors are hunting the last of the cyborgs. We're safe.
+Cueball: Are you sure you thought this through?
+[The next three panels are blank.]
+[Two couples appear in this next panel.]
+Cueball: Are the raptors contained?
+Ponytail: Sure. Unless they figure out how to build lightsabers.
+[The next panel is blank.]
+[Guy with hat fighting with a raptor using lightsabers.]
+Cueball: It's all right. I've got her.
+[Lightsaber appears from behind.]
+Snap-hiss!
+Cueball: ...Clever girl.
+[The next three panels are blank.]
+[Bill Gates is holding a weapon over Santa's body. The two girls are watching.]
+Megan: Great. Bill Gates kills Santa.
+Bill Gates: I thought it was Stallman with a dyed beard.
+[The next five panels are blank.]
+[Danish and Black Hat are looking at a tree.]
+Danish: Where did you get this Christmas tree?
+Black Hat: Nowhere.
+Danish: Did you cut down the Yggdrasil?
+Black Hat: ...Maybe.
+[The next panel is blank.]
+[Megan and Cueball holding hands and looking at reader.]
+Merry Christmas from XKCD <3
+[The last panel is blank.]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Santa actually really is Muslim. Saint Nicholas was from Turkey, although his remains have been somewhere in Italy for the past millennium. 121.222.232.156 (talk) (please sign your comments with ~~~~)
+Yeah, right. Living in what was later to be Turkey makes him a muslim. Islam was not even invented yet. Undee (talk) 11:44, 5 November 2013 (UTC)
+Oh snap! xD --JayRulesXKCD (talk) 17:03, 27 September 2016 (UTC)
+Yeah, right. How could anyone doubt that St. Nicholas and Santa Clause are in fact the same person? I mean, they have similar names, outfits and skin colours. Furthermore both aggressively promote annual shopping frenzies in the richest countries and have advertising partnerships with Coca Cola(r). 141.101.76.58 (talk) (please sign your comments with ~~~~)
+Of course you have to explain how St Nick who died in 343 CE could have been following a religion whose founder was born in 570 CE. But you knew that. I also think we can do somewhat better than "somewhere in Italy". His tomb is at Basilica di San Nicola in Bari, Italy. 108.162.237.11 (talk) (please sign your comments with ~~~~)
+And also, equating Santa with St Nicholas is problematic at best. Santa came about as an amalgamation of many different figures from folklore, so even if St Nick were Muslim, at best you could call Santa part-Muslim.108.162.216.171 18:31, 8 November 2014 (UTC)
+Since in muslim view Islam was not 'invented' but reintroduced, Adam and Eve were muslims, as are all newborns. They only stop being by accepting (a.k.a. growing up in) another faith. So yes, Santa might be a muslim (we don't see him running around with crucifixes as we'd expect from St. Nicholas). 162.158.90.212
+I always thought Black Hat was talking to Danish. The hair's longer and it makes a modicum more sense that way (at least to me) Anonymous 03:34, 4 December 2013 (UTC) 173.245.54.91 (talk) (please sign your comments with ~~~~)
+I see what you are saying (although I couldn't comment on whether the hair is longer) but the question sounds like something Megan would ask. Danish would have built the laser chainsaw. 108.162.219.223 19:20, 10 January 2014 (UTC)
+True... Anonymous 20:14, 13 February 2014 (UTC)
+I don't see Black Hat in any of the panels... 173.245.55.83 14:50, 22 May 2014 (UTC)
+He is at the bottom line, first panel from left. --Dgbrt (talk) 20:48, 23 May 2014 (UTC)
+Just checked this image for any data in the black frames (like in SOPA). There is nothing; all pixels read #000000. 108.162.216.53 20:52, 5 March 2014 (UTC)
+I'm don't think "sublimate" means vaporize... And neither would vaporize fit with the rest the story... 141.101.89.208 14:08, 14 May 2014 (UTC)
+Sublimation is a specific type of vaporization. I don't think the exact nature of the board's destruction is important to the comic.108.162.216.171 18:31, 8 November 2014 (UTC)
+I think it's relevant because it's a secondary joke - the arduino boards could possibly have melted, but not sublimated: Sublimation_(phase_transition) L-Space Traveler (talk) 23:54, 2 September 2022 (UTC)
+Of all the black panels, i'm most curious about the contents of number 32. It would have made more sense if panel 31 read something like "From all of us to all of you, we wish you..."Mumiemonstret (talk) 09:37, 12 August 2014 (UTC)
+In the final panel, they get eaten by raptors. L-Space Traveler (talk) 23:54, 2 September 2022 (UTC)
+(This is a joke!) L-Space Traveler (talk) 23:54, 2 September 2022 (UTC)
+Clones (cloned raptors) vs droids (cyborgs), and then victorious clones turning against their masters... Well, this raptors seem to be more independent then altered clones of Jango Fett but may be lightsabers aren't the only SW quote here. 141.101.92.202 16:53, 24 October 2014 (UTC)
+I changed "self-conscious" in the explanations for panel 13 and the title text to "self-aware". The former is generally understood to mean something along the lines of "nervous, especially in social situations" which doesn't describe the behavior of computers trying to wipe out humanity. 108.162.214.77 (talk) (please sign your comments with ~~~~)
+I feel like there should be some sort of way to view them probably via Easter egg 141.101.104.154
+"Import skynet" may be a reference to Lorenz (or referenced in Lorenz), where the computer automatically types it. 199.27.128.108 14:06, 28 August 2016 (UTC)
+Is "we apologize for the inconvenience" really trying to reference to Hitchhiker's Guide? The quote certainly appears in it, but it's a pretty common statement. RamenChef (talk) 18:08, 14 March 2017 (UTC)
+There are many guesses like this here but it says "possibly a reference". Nevertheless I'm sure it's easy to find hundreds of other possibilities...--Dgbrt (talk) 19:13, 14 March 2017 (UTC)
+You can also substitute Richard Stallman and Bill Gates with Linus Torvalds and Bjarne Stroustrup, respectively, if you like. :P 172.69.42.92 19:05, 29 August 2020 (UTC) Has anyone filled in the rest of the panels? Anonymouscript (talk) 22:14, 6 June 2022 (UTC)
+Categories: All comicsComics from 2008Comics from DecemberWednesday comicsComics featuring CueballComics featuring MeganComics featuring PonytailComics featuring Black HatComics featuring Richard StallmanComics featuring real peopleChristmasProgrammingStar WarsVelociraptorsTerminatorComics featuring Danish

@@ -1,0 +1,52 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+865: Nanobots
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 865)
+|<< PrevComic #865 (February 25, 2011)Next >>|
+Nanobots
+
+Title text: I think the IETF hit the right balance with the 128 bits thing. We can fit MAC addresses in a /64 subnet, and the nanobots will only be able to devour half the planet.
+Explanation[edit]
+Megan and Ponytail are in orbit while nanobots are devouring the earth in a swarm. The nanobots stop after devouring 40% of the planet. This is a take on the "Grey goo" scenario in which self-replicating nanobots destroy the earth while creating more and more of themselves non-stop.
+However, the nanobots are only able to destroy 40% of the planet because (40% of the earth's mass) = (# of IPv6 addresses) x (A few cubic microns) x (density of nanobots). Without more IP addresses, the nanobots cannot continue to replicate (assuming that each nanobot must be individually addressable).
+IPv6 supports approximately 3.4×1038 addresses, while the Earth's mass is around 5.972×1024 kg. Assuming "a few cubic microns" is the minimum of 2 µm3 (according to 1070: Words for Small Sets), the nanobots would have a density of 4 g/cm3, a bit less dense than the earth.
+This is a joke on the shortage of IPv4 addresses. The only difference is that we are on IPv4 and the nanobots are on IPv6.
+1998 is when the IPv6 Specification (RFC 2460) was published and IETF is the Internet Engineering Task Force.
+Note that an April fools’ joke for IPV9 exists and would have guaranteed Earth's doom in this comic's scenario.
+Transcript[edit]
+[Megan and commander are on a space station.]
+Megan: Commander! Come quick! It's the nanobots—they've STOPPED!
+Megan: They devoured 40% of the Earth, and then just... quit! They're just sitting there! Why?!
+Ponytail: It's a mystery. ...unless... What's the volume of each nanobot?
+Megan: A few cubic microns. Why?
+Ponytail: I think the year 1998 just bought us some time.
+[Earth's surface, covered in mountains of nanobots.]
+In the swarm:
+Nanobot: What do you mean, "Run out of addresses?"
+Other Nanobot: Look, we should've migrated away from IPv6 AGES ago...
+Trivia[edit]
+On the website, the space above the comic says "xkcd.com now has IPv6 connectivity. If you can't reach it, you or your ISP have misconfigured equipment. Sadly, I now have no way to tell you."
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+So IPv6 gives us enough addresses to cover 40% of the earth in nanobots? I'm sold. IPv6 addresses for everyone! Davidy²²[talk] 10:01, 9 March 2013 (UTC)
+The top header on this page is different from the others. It advertises that xkcd is IPv6 enabled: "xkcd.com now has IPv6 connectivity. If you can't reach it, you or your ISP have misconfigured equipment. Sadly, I now have no way to tell you." 141.101.70.163 22:13, 24 July 2014 (UTC)
+The xkcd page doesn't have an IPv6 address. Has this changed since 2014? -- 162.158.91.219 14:29, 23 January 2016 (UTC)
+I'm pretty sure it's a joke. 625571b7-aa66-4f98-ac5c-92464cfb4ed8 (talk) 02:22, 9 March 2017 (UTC)
+It's not a joke and the top header page is still there. The website supports IPv6 since this comic was published like the header says. And my ISP (Deutsche Telekom) still doesn't support this in 2017. The current addresses are:
+dig @8.8.8.8 A xkcd.com AAAA xkcd.com +short
+2a04:4e42::67
+2a04:4e42:200::67
+2a04:4e42:400::67
+2a04:4e42:600::67
+23.235.37.67
+104.156.81.67
+104.156.85.67
+23.235.33.67
+But this was registered in 2014 -- 2011 must have been different.--Dgbrt (talk) 20:09, 9 March 2017 (UTC)
+I think this maybe be a reference to the scifi book "plague year" it's a good book, and it fits this comic perfectly. 108.162.219.220 10:01, 25 October 2014 (UTC)
+Oh no! I think I got a multicast/link-local/unique local/other reserved address! 173.245.55.67 06:43, 6 August 2016 (UTC)
+I did the math, it worked out. https://www.wolframalpha.com/input/?i=%28earth+volume+in+cubic+micrometers%29%2F2.5 162.158.78.212 03:29, 3 June 2020 (UTC)
+I can't get over that surely different local networks could be established for these nanobots to organise themselves, right? 172.70.147.131 17:04, 26 August 2022 (UTC)
+Categories: All comicsComics from 2011Comics from FebruaryFriday comicsComics with inverted brightnessComics featuring MeganComics featuring PonytailArtificial IntelligenceSingularity

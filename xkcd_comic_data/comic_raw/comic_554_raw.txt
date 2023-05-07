@@ -1,0 +1,73 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+554: Not Enough Work
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 554)
+|<< PrevComic #554 (March 11, 2009)Next >>|
+Not Enough Work
+
+Title text: It's even harder if you're an asshole who pronounces <> brackets.
+Explanation[edit]
+In some companies, programmers can find themselves under-employed. This may be because these companies have little programming work until something breaks or needs upgrading, or perhaps they are between projects, or simply waiting for a go-ahead. Coders still need to make themselves available to perform emergency fixes, but they may have no other assigned work. This requires them to find constructive ways to spend their time. Or unconstructive, if that is more fun.
+Dvorak is a keyboard layout that was proposed in 1936 as an alternative to the existing, entrenched QWERTY layout, developed in the 1870s. The QWERTY keyboard is the standard in the US, but some features in its layout are based on mechanical considerations rather than the optimum placement for typing speed. For example, common letter combinations such as 'st' and 'th' had to be arranged so that their operating levers were separated from each other, lest they cause jams and slow down the typist. More than sixty years later, such mechanical considerations could be overcome, and the DVORAK keyboard layout was made with typing efficiency in mind.
+The Dvorak keyboard was ultimately unsuccessful. It still persists today, but has never threatened the dominance of the QWERTY keyboard. Even if the Dvorak layout is more efficient (which is still a matter of debate, see the uncomfortable truth in 561: Well), QWERTY was and is the standard. This means that every keyboard user has to learn QWERTY anyway, and there is insufficient benefit in spending the time to learn a new layout, especially when you would have to switch back and forth between Dvorak and QWERTY as the situation demands.
+Therefore, even seriously considering the switch is a sign that you really have nothing better to do. Another joke is that even though the coder has plenty of spare time on his hands to practice on Dvorak, he has only been able to 'almost' match his old typing speed.
+This was the first comic to refer to Dvorak, but since then it has become a recurrent theme on xkcd. A later comic, 1445: Efficiency, mentions, in the title text, how you could waste lots of time testing to see if Dvorak is faster.
+Gopher is a defunct internet protocol, which has been completely superseded by HTTP. It's a perfect example of the kind of thing a programmer might implement in the absence of other, more useful work. (As an aside, the protocol is named for the mascot of the University of Minnesota, where it was developed.)
+HTML and XHTML are markup languages used to describe web documents. XHTML-strict is a more restricted version of HTML that excludes certain redundant tags like <center>, which is theoretically no longer necessary now that <div> and <span> exist. Haiku, on the other hand, is a kind of Japanese poetry. Rather than having a rhyming meter like Western poetry, Japanese poetry has restrictions on syllable count; a haiku must contain three lines, containing 5, 7, and 5 syllables, respectively. The section of code given is HTML markup, and would be read by a web developer like this:
+Div class equals Main
+Span ID equals Marquee
+Blog! end span end div (or alternatively slash span slash div)
+Which can be divided in syllables like this:
+Div - class - e - quals - Main
+Span - I - D - e - quals - Mar - quee
+Blog! - end - span - end - div
+This meets the syllable requirements. Restricting yourself to writing markup in this form would be extremely challenging and time-consuming and pointless, so it, too, is a good sign that coders need more real work to do. The title text notes that if you are one of those assholes that are actually pronouncing the angle-brackets, then it would be even harder to write HTML in Haiku format. "Left angle bracket" and "right angle bracket" take up five syllables each on their own. (The asshole part is Randall's opinion about those who do pronounce <>). Haiku was mentioned later in 622: Haiku Proof.
+Finally, the last panel mentions the biggest timesink of them all: webcomics! [This is probably self referential.] (Or, even worse, wikis devoted to explaining the jokes in CERTAIN webcomics.)
+Trivia[edit]
+A haiku-compliant programming language does in fact exist: David Morgan-Mar (a creator of many esoteric and parodic languages) invented Haifu, a language that will only compile if it is arranged into subsets of 5 + 7 + 5 syllables. Unlike the HTML example in the comic, Haifu derives its functions and syntax from concepts in Eastern philosophy (such as naming its variable types after the five elements, replacing true and false with yin and yang, and defining arithmetic in terms of creation and destruction).
+The webcomic referred to in the last panel is most likely Xkcd (setting up a Deadpool-like scenario?)
+Transcript[edit]
+[Above the first two panels there is a caption:]
+Signs your coders don't have enough work to do:
+[Cueball sitting in an office chair at his workstation, with Ponytail standing behind him.]
+Cueball: I'm almost up to my old typing speed in Dvorak
+[Cueball is standing next to a server rack pointing at it while looking the other way at a Cueball-like guy. There are three sections filled with servers, two of them together, and space for several more above and below and between those two and the one at the bottom. Behind the rack wires comes down tot he floor from all three servers together and the wires then exits the panel to he right along the floor.]
+Cueball: Our servers now support Gopher.
+Cueball: Just in case.
+[In a frame-less panel Megan is standing near her workstation to the right speaking to Cueball to the left.]
+Megan: Our pages are now HTML, XHTML-Strict, and Haiku-compliant.
+Cueball: Haiku?
+Megan:
+<div class="Main">
+<span ID="Marquee">
+Blog!</span></div>
+[Ponytail sitting in an office chair at her workstation.]
+Ponytail: Hey!
+Ponytail: Have you guys seen this webcomic?
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I always pronounce tags like < / span > as "slash span." 107.204.46.198 (talk) (please sign your comments with ~~~~)
+Same -Donthaveusernametalk
+
+I thought the keys jamming thing was a myth... 184.66.160.91 04:27, 22 October 2013 (UTC)
+You're thinking of the "slow typers down" qualification to that. QWERTY was designed to speed them up by stopping jams. Anonymous 06:14, 13 December 2013 (UTC)
+
+An interesting note; Haiku is also the name of a free and open source operating system! The Alpha release was 6 months after this comic was written though, so this is likely a coincidence.108.162.219.195 21:11, 26 November 2013 (UTC)
+"Gopher" is also a pun on "go for". For this reason it's used to mean a general unqualified helper person, sent to fetch various items for the more senior people. For example, "He started on the racing team as a gopher". 108.162.246.5 21:33, 31 January 2014 (UTC)
+
+There is no explanation on the title text... 173.245.51.97 (talk) (please sign your comments with ~~~~)
+There is now, though not by me. It is written together with the explanation of the third panel before the last panel, since it refers to that panel --Kynde (talk) 11:51, 17 June 2015 (UTC)
+
+There is a community portal discussion of what to call Cueball and what to do in case with more than one Cueball. I have added this comic to the new Category:Multiple Cueballs. Since only one of the two Cueballs in panel two speaks in this comic, he is still listed as Cueball. Just made a note that the other guy also looks like Cueball. --Kynde (talk) 11:53, 17 June 2015 (UTC)
+Couldn't haiku refer to the alternative OS Randall has mentioned several times before? That seems more likely than putting the web tags into an actual haiku... 108.162.216.36 03:39, 19 November 2015 (UTC)
+See above:
+> An interesting note; Haiku is also the name of a free and open source operating system! The Alpha release was 6 months after this comic was written though, so this is likely a coincidence.108.162.219.195 21:11, 26 November 2013 (UTC)
+173.245.54.28 04:55, 19 November 2015 (UTC)
+Hey, guys ,have you seen that webcomic? I think XKCD is referring to itself. 162.158.49.6 15:42, 29 August 2016 (UTC)
+This comic made me want to learn dvorak (this was typed in dvorak) -Donthaveusernametalk
+Has it helped? Beanie (talk) 13:57, 31 March 2021 (UTC)
+Just in case the editor of this 'grammar' change reads this... Either "a matter for debate" or "a matter of debate" are correct, both grammatically and factually, but with subtly different emphasis. It might be more correct to say that the debate is ongoing (somewhere in the world of such discussions) rather than to be had later (though it will doubtless be a still outstanding future issue for as long as there are no seismic shifts in keyboard layouts or alternatives), but I don't think grammar really comes into it. (But, in checking the edit, the double-space between "is" and "more" is something that almost annoys me enough to want to change it.) 172.69.79.203 20:16, 13 May 2022 (UTC)
+"Either A or B" is considered singular, so "Either A or B is correct.", not "... are correct".172.71.166.68 03:28, 9 January 2023 (UTC)
+Categories: All comicsComics from 2009Comics from MarchWednesday comicsComics featuring CueballComics featuring MeganComics featuring PonytailMultiple CueballsProgrammingDvorak

@@ -1,0 +1,47 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+838: Incident
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 838)
+|<< PrevComic #838 (December 24, 2010)Next >>|
+Incident
+
+Title text: He sees you when you're sleeping, he knows when you're awake, he's copied on /var/spool/mail/root, so be good for goodness' sake.
+Explanation[edit]
+This comic was posted on Christmas Eve. While Christmas is principally a Christian holiday, celebrating the birth of Jesus on December 25, there are many traditions around it, among them a tradition that on Christmas Eve Santa Claus will make his round delivering gifts to good children.
+Rob sits behind a UNIX computer and tried to change his user account from his normal access to the access of a super user by using the command "sudo su". Sudo is a famous phrase in xkcd lore, made famous by comic 149: Sandwich. Before allowing administrator access (as root user), it asks for a password. The field is blank because, in most UNIX systems, the characters of the password are not shown. Even though the password is correct, Rob's account is not in the list of accounts that can use sudo (the sudoers file). The error message says that the incident "will be reported" (usually to the system administrator, so they can see if someone is making repeated attempts at accessing administrator privileges).
+In the comic, however, sudo and the system report the incidents to Santa Claus, who, in Christmas lore, makes a list of who is naughty and who is nice. If you are nice then you get presents, while if you are naughty, you get a lump of coal. When sudo reports to Santa that Rob's account is not authorized, he puts Rob on the naughty list.
+The message "… is not in the sudoers file. This incident will be reported." is a real message that the sudo program used to output in this situation. It was changed in 2022 to "This incident has been reported to the administrator", citing this comic: [1][2].
+In the title text, which is a parody of the famous Christmas song, "Santa Claus Is Coming To Town", /var/spool/mail/root is the root (superuser) mailbox on a Linux system, where the incident described in the comic would commonly be reported to.
+Transcript[edit]
+[Rob is sitting at a computer. The computer's prompt is shown.]
+robm@homebox~$ sudo su
+Password:
+robm is not in the sudoers file. This incident will be reported.
+robm@homebox~$ █
+[Megan approaches.]
+Rob: Hey — who does sudo report these "incidents" to?
+Megan: You know, I've never checked.
+[Santa Claus is sitting at a desk supported by candy canes, with a red monitor. On the wall are two lists labeled 'naughty' and 'nice'. He is in the process of adding a line to the 'naughty' list.]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+And so the entire list of naughty and nice children fits into a single A1 poster by Santa's computer. Davidy²²[talk] 09:59, 9 March 2013 (UTC)
+Presumably it's a delta encoding; he writes down changes to the lists and then later writes them into his records and gets a new poster. 130.160.145.224 16:19, 10 March 2013 (UTC)
+---
+Seeing as the username is robm, should this be attributed to Rob and not Cueball? Mark Hurd (talk) 16:27, 18 April 2013 (UTC)
+Yup, changed that. Xyz (talk) 14:32, 14 May 2013 (UTC)
+---
+Real Linux does say "this incident will be reported," but does *NOT* report it to Santa Claus. Xyz (talk) 14:49, 14 May 2013 (UTC)
+Actually the title text kind of explains this! The incident is reported to root, by email (by default, anyway). So if Santa is somehow "copied" there, he will see the message. Durka42 (talk) 08:11, 17 November 2013 (UTC)
+This is like asking is a tree falls in the forest and it is not heard by anyone does it make a sound. Just because an email is sent to an email mailbox doesn't meant that the message is ever read. Saying that Santa will see this message if it is sent to a mailbox which is supposedly his, does not mean that anyone ever sees it. --108.162.212.161 17:50, 25 December 2019 (UTC)
+---
+So all we need now is an Ubuntu distro that reports failed sudo attempts to Santa Claus. Santabuntu anyone?
+Zyxuvius (talk) 05:37, 16 October 2013 (UTC)
+Sources of inspiration
+Perhaps this could be cited as a possible source of inspiration? http://toblender.com/this-incident-will-be-reported/ 108.162.219.143 13:09, 22 May 2015 (UTC)
+---
+“While Christmas is principally a Christian reimagining of a Pagan holiday”– this is an entirely irrelevant detour. I’m not even convinced the tradition of delivering gifts is necessary to explain (all the comic requires to understand is the nice/naughty list), certainly not as the first part of the explanation. --162.158.114.40 10:19, 3 January 2018 (UTC)
+---
+Technically, Rob’s computer could be running any Unix-like system, not necessarily Linux, right? The current maintainer of sudo is an OpenBSD developer. --162.158.114.40 10:19, 3 January 2018 (UTC)
+Categories: All comicsComics from 2010Comics from DecemberFriday comicsComics featuring RobComics featuring MeganComics with colorLinuxChristmas

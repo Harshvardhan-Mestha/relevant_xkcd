@@ -1,0 +1,56 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+955: Neutrinos
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 955)
+|<< PrevComic #955 (September 23, 2011)Next >>|
+Neutrinos
+
+Title text: I can't speak to the paper's scientific merits, but it's really cool how on page 10 you can see that their reference GPS beacon is sensitive enough to pick up continential drift under the detector (interrupted halfway through by an earthquake).
+Explanation[edit]
+The "Neutrino speed of light thing" mentioned in this comic was an actual story from the day before the comic was posted. An experiment at CERN caused a stream of neutrinos to be passed from CERN in Switzerland to a receiving station at the INFN laboratories of Gran Sasso in Italy (LNGS). The initial findings from the experiment were that the neutrinos arrived at the detector in less time than a beam of light would have taken. The neutrinos had apparently exceeded the speed of light.
+Albert Einstein famously posited that the speed of light in a vacuum is both constant and absolutely the fastest possible speed for any object in the universe. Nothing can accelerate to any faster speed. Therefore, a report that neutrinos have been found travelling faster than light challenges a fundamental law of physics and turns all of physics, or at least special relativity, on its head.
+Prior experience has shown Cueball that in such cases, arguing with people and preaching caution is futile and will lead to "pointless arguments about Galileo". Galileo Galilei was famously convicted of heresy for his defending the heliocentric system, and is often used as an example of revolutionary ideas being suppressed by the powerful. Believers in the new findings would thus accuse Cueball and the scientific community of being as stubborn and oppressive as the Inquisition in Galileo's time, and even compare them to the Thought Police from George Orwell's 1984, another popular archetype of oppressive measures.
+Cueball realizes that it is more satisfying and profitable to place bets with them instead. His reasoning is that almost invariably, these supposedly world-changing discoveries end up falling apart after further investigation, and that if it doesn't, then the discovery itself will satisfy his scientific curiosity enough to outweigh his monetary loss. This is similar to Stephen Hawking's scientific wagers, where Hawking set bets such that, if he was wrong, he would be paid, and if he was right, he'd have to pay and wouldn't mind because he'd just have been proven right.
+The title text is a reference to a graph published similar to, if not the same as, the one found here. The continental drift can be seen, as well as the clearly marked jump showing the earthquake in question.
+Postscript: Cueball (that is, Randall) was correct. The experiment was found to be flawed. Neutrinos are not faster than light, the data was probably wrong due to a faulty connection on an optical fiber.
+Transcript[edit]
+[Megan and Cueball are talking.]
+Megan: Did you see the neutrino speed of light thing?
+Cueball: Yup! Good news; I need the cash.
+Megan: Huh? Cash?
+[Text above half-sized panel.]
+Yeah. When there's a news story about a study overturning all of physics, I used to urge caution, remind people that experts aren't all stupid, and end up in pointless arguments about Galileo.
+[Half-height panel.]
+[Cueball sitting on chair, looking down at laptop in his lap. Books and things are on a desk in front of him.]
+Cueball: No, this isn't about whether relativity exists. If it didn't, your GPS wouldn't work.
+Cueball: What do you mean, "science thought police"? Have you seen our budget? We couldn't begin to afford our own thought police.
+[Megan and Cueball talking again.]
+Megan: That sounds miserable and unfulfilling.
+Cueball: Yup. So I gave up, and now I just find excited believers and bet them $200 each that the new result won't pan out.
+[Same as last panel.]
+Megan: That's mean.
+Cueball: It provides a good income, and if I'm ever wrong, I'll be too excited about the new physics to notice the loss.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+When the news about the neutrino speed thing first came out, all these people I knew were asking if everything they knew was wrong because of the new discovery, and panning me for not believing the word of god that is the scientific journal. I don't know how these people get through life blindly believing everything that they're told. Davidy²²[talk]
+It actually isn't too hard to live like that. Fortunately for me, though, I didn't have all these people I know asking if everything they knew was wrong. Inversion? --Quicksilver (talk) 18:34, 17 August 2013 (UTC)
+"...arguing with people and preaching caution is futile. Cueball realizes that it is more satisfying and profitable to place bets with them instead." Does anyone else notice the similarity between this sentiment and mortgage security? Instead of preaching caution in lending and trying to convince people that they shouldn't be taking on loans, hedge funds were created - much more satisfying and profitable. Sorry if this has nothing to do with the comic, it was just an observation that struck me. -naginalf108.162.216.40 19:58, 11 March 2014 (UTC) 108.162.216.40 (talk) (please sign your comments with ~~~~)
+The discussion on this page is incorrect. Relativity does not say that nothing can travel faster than the speed of light, it says that objects with mass cannot travel at the speed of light. Massive objects can either travel below or above the speed of light. 108.162.237.183 (talk) (please sign your comments with ~~~~)
+Not as I read the wiki page on this: Upper limit on speeds. Maybe if you could have negative mass could you travel faster than c. But according to the page, nothing with zero mass or any finite (positive) mass can move faster than c. And yes if it has mass, then the speed will have to be sharply smaller than c. (But can get as close to c as you like by pouring in more energy).--Kynde (talk) 14:15, 30 September 2015 (UTC)
+It is actually that you can't accelerate to the speed of light if you're already going faster you won't automatically have a immeasurable speed that is almost C you will keep going at that speed theoretically. 108.162.246.72 07:38, 22 September 2016 (UTC)
+Cueball mentions Galileo. Is it because he went against the then-consensus on scientific knowledge and was punished, and others are accusing Cueball (and other "thought police") of attempting to do the same thing? 108.162.210.196 11:35, 12 November 2016 (UTC)
+
+Could someone explain to me why a GPS wouldn’t work if relativity didn’t exist? 162.158.186.156 (talk) (please sign your comments with ~~~~)
+This is a good read. 172.69.210.28 06:43, 13 September 2018 (UTC)
+It is a good read. To summarize the main points of that article:
+GPS satellites contain atomic clocks to keep time, and they broadcast their current time. A GPS receiver measures the amount of time it took for the signals to arrive from the satellites' known positions, using trilateration to determine the receiver's position. (This is different from triangulation, which determines position by measuring angles.)
+GPS satellites orbit at a speed of 14,000 km/h relative to Earth's surface. One effect of this is velocity time dilation: time passes slower for GPS satellites than it does near Earth's surface, drifting 7 microseconds behind, every day.
+GPS satellites orbit at an altitude of 20,000 km, which is far enough away from Earth's mass that spacetime curvature is different there. One effect of this is gravitational time dilation: time passes faster for GPS satellites than it does near Earth's surface, drifting 45 microseconds ahead, every day.
+Combining those, time passes faster for GPS satellites, by a net 38 microseconds (10-6) every day, relative to near Earth's surface.
+But GPS precision depends on nanosecond-range accuracy (10-9), so 38,000 nanoseconds drift would cause GPS precision to accumulate an additional 10 km of error every day. GPS would still function – the satellites would still transmit, and the receivers would still calculate a position – but that position could be out by miles and miles; so if the purpose of GPS is to provide a reasonably precise position, then by that standard, GPS wouldn't work.
+Albert Einstein's theories of special relativity and general relativity enable GPS to predict velocity time dilation and gravitational time dilation (respectively), and thereby compensate for the error so that GPS can work!
+Yfmcpxpj (talk) 21:58, 5 September 2020 (UTC)
+I'm sorry, but to me, your summary seems to make it sound like relativity is a problem that we are correcting for, rather than enabling anything. If relativity didn't exist, we wouldn't need to correct for velocity and gravitational time dilation. Mind you, that's only what I get from your summary, haven't actually read the article.--172.68.94.150 22:35, 24 March 2023 (UTC)
+Categories: All comicsComics from 2011Comics from SeptemberFriday comicsComics featuring CueballComics featuring Megan

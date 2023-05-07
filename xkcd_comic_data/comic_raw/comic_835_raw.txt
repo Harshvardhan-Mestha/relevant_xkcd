@@ -1,0 +1,38 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+835: Tree
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 835)
+|<< PrevComic #835 (December 17, 2010)Next >>|
+Tree
+
+Title text: Not only is that terrible in general, but you just KNOW Billy's going to open the root present first, and then everyone will have to wait while the heap is rebuilt.
+Explanation[edit]
+Cueball turns his family's living room Christmas tree into a cringingly-awful programming pun. His parents, Hairbun and a father-Cueball, are so unamused, he's not welcome back next year.
+Trees are data structures in computer science, based on two simple rules:
+A tree starts at a single node, called its root.
+Each node in a tree has two or more spaces for its children, each of which may be empty or occupied by another node. Of course, that node may have its own children, and so forth. Each node except the root has exactly one parent. As a bit of trivia, a node with no children is called a "leaf node."
+A binary tree is a tree where each node has spaces for exactly 2 children.
+The "Christmas tree" is a basic representation of a binary tree - the star at the top is the root node, and the lights running down indicate the connections between parent and child. Contrary to what the terms "root" and "leaf" might imply, trees in computer science are typically represented upside-down, with the root on top and the leaves fanning out below.
+The Christmas tree is constructed based on no apparent rules, but the main power of binary trees comes in organizing them according to specific rules. Because code that runs later can assume the data is organized in this specific way, it can use different algorithms that make things run faster. One way of doing this is with a heap. A heap is a special kind of tree (usually a binary tree, but in this case a quaternary tree), subject to one additional rule:
+For every node in the tree, everything beneath that node - both or all of its children, all of its children's children, all of their children, and so on - are "less than" the node itself.
+"Less than" in this case can refer to any comparison that can be made between two nodes - in this case, it's based on the size of the presents. Of course, there's a cost to all this; the heap must first be placed in that order. Not only that, but if a node gets removed from the heap, the heap has to be "rebuilt" to put it back in the right order. This is referenced in the title text - if Billy opens the root present, several comparisons must be done to shift other presents in its place to preserve the heap rule.
+In 1308: Christmas Lights a similar strange Christmas tree has been constructed using the electromagnetic spectrum.
+Transcript[edit]
+[There is a binary Christmas tree, with each node a ball, and lights strung between parent and child nodes. Beneath it is a heap of presents - sorted with the largest on top, smaller presents connected to it with string. Next to the tree is Cueball and his parents, Hairbun and another Cueball.]
+Cueball: It's a Christmas tree with a heap of presents underneath!
+Mother: ...We're not inviting you home next year.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I didn't really look too closely, but it seems to be based on Red-Black trees (Red Green in the case of Christmas): http://en.wikipedia.org/wiki/Red_black_tree
+Nope. For a Red-Black tree, all the leaves have to be the same color as the root, and no red nodes can have a red parent. The root here is a yellow star, the leaves are mixed colors, and both colors have instances of a node with a color that matches it's parent, so nether red nor green can be the "Red" for the algorithm. 108.162.221.58 (talk) (please sign your comments with ~~~~)
+Then again it could just be a color scheme. 132.3.25.79 12:35, 23 April 2013 (UTC)Tyler
+I am forced to conclude, by this and the problem with the heaps, that Randall has forgotten his data structures. Putting a red-black tree on the wall would be so extremely xkcd-typical that missing it suggests having forgotten they are a thing. Singlelinelabyrinth (talk) 05:32, 25 July 2020 (UTC)
+
+The title text doesn't really make sense - removing the root of a heap is a very common practice for a variety of applications. In fact, you almost always want to process heaps by removing the root. Ciotog (talk) 14:05, 2 March 2014 (UTC)
+It is common, ok. And, in fact, Billy WILL process the heap by removing the root. It makes however sense, since all heaps must be "refreshed" after you remove the root. While it takes small time for a computer, it can be lengthy for a human. And it would be probably better an unsorted array of presents, so Billy can open any present without effecting any effect (see Comic 326) --108.162.229.42 14:10, 17 June 2014 (UTC)
+Hmmm... The heap seems sketchy. Note the second and third levels. Not a heap by C++ standards. 108.162.245.218 22:08, 18 June 2014 (UTC)
+The heap doesnt look like a heap to me (or at least not a common binary heap): the root has 4 children for a start, and it is not balanced, for seconds. 108.162.250.163 (talk) (please sign your comments with ~~~~)
+As a matter of fact, there's a structure that is a combination of a tree and a heap: it's called a "Treap".
+Categories: All comicsComics from 2010Comics from DecemberFriday comicsComics with colorChristmasComics featuring CueballComics featuring HairbunMultiple CueballsPuns

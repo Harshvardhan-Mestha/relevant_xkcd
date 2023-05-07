@@ -1,0 +1,30 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+892: Null Hypothesis
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 892)
+|<< PrevComic #892 (April 29, 2011)Next >>|
+Null Hypothesis
+
+Title text: Hell, my eighth grade science class managed to conclusively reject it just based on a classroom experiment. It's pretty sad to hear about million-dollar research teams who can't even manage that.
+Explanation[edit]
+This comic (and the title text) is based on a misunderstanding. The null hypothesis is the hypothesis in a statistical analysis that indicates that the effect investigated by the analysis does not occur, i.e. 'null' as in zero effect. For example, the null hypothesis for a study about cell phones and cancer risk might be "Cell phones have no effect on cancer risk." The alternative hypothesis, by contrast, is the one under investigation - in this case, probably "Cell phones affect the risk of cancer."
+After conducting a study, we can then make a judgment based on our data. There are statistical models for measuring the probability that a certain result occurred by random chance, even though in reality there is no correlation. If this probability is low enough (usually meaning it's below a certain threshold we set when we design the experiment, such as 5% or 1%), we reject the null hypothesis, in this case saying that cell phones do increase cancer risk. Otherwise, we fail to reject the null hypothesis, as we have insufficient evidence to conclusively state that cell phones increase cancer risk. This is how almost all scientific experiments, from high school biology classes to CERN, draw their conclusions.
+It is very important to note that a null hypothesis is a specific statement relative to the current study. In mathematics, we often see terms such as "the Riemann hypothesis" or "the continuum hypothesis" that refer to universal statements, but a null hypothesis depends on context. There is no one "the null hypothesis." It refers to a method of statistical analysis (and falsifiability, not a specific hypothesis). Given that, Megan's response would probably be to facepalm.
+Transcript[edit]
+[A student works at a desk, and Cueball is talking to Megan.]
+Cueball: I can't believe schools are still teaching kids about the null hypothesis.
+Cueball: I remember reading a big study that conclusively disproved it years ago.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+If you get a 50% discount at two shops and buy stuff from both of them, you have a 100% discount. Math. That's how it works, bitches. Davidy²²[talk] 10:05, 9 March 2013 (UTC)
+I would feel entirely justified punching someone who said that unironically. Pennpenn 108.162.249.205 00:59, 27 January 2015 (UTC)
+I mean, if the two items cost the same, then you would technically get a 100% discount on one. Beanie (talk) 13:31, 30 April 2021 (UTC)
+That's a misleading thing about percentages. Like this: Prices of coffee increase by 2% this year, then by 3% next year. That's a 1% increase between years, or a 50% increase between years (from 2 to 3). So which is it? 1 or 50? 141.101.98.240 08:26, 18 December 2013 (UTC)
+It's a 50% increase and an increase of 1 percentage point. There's a difference between the two. 162.158.158.235 16:37, 23 April 2020 (UTC)
+That's why they've invented the "base points" in financials, to denote the percentages of percentages. It's 1% absolute but 50bpp (base point percentage). 108.162.246.11 18:35, 20 January 2014 (UTC)
+Oh really. If you say it increased by 2% this year, then by 3% next year. It increased 3%. Unless you mean it will increase by 3% from LAST YEAR to NEXT YEAR. Then it really increased by 2% then .97%. But for this purpose let's throw that out and make it simple. It increased by 2% this year, and will increase by 3% next year. 50% isn't how much it increased, but how much the increase increased. That's called acceleration. The rate of increase per year is always 2 or 3%. So, 1% doesn't factor into this equation at all no matter how you do the math. The answer is 1.02*1.03. It increased by 5.06% over the last two years. 108.162.216.114 14:59, 18 August 2014 (UTC)
+Don't these discussion points belong in a different comic? Or perhaps the garbage? Except (1), he lol'd me. 108.162.219.58 21:23, 5 February 2014 (UTC)
+They should be on 985: Percentage Points or 1102: Fastest-Growing --Pudder (talk) 11:35, 23 October 2014 (UTC)
+Categories: All comicsComics from 2011Comics from AprilFriday comicsComics featuring CueballComics featuring MeganStatisticsScientific researchKids

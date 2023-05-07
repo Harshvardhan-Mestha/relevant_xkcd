@@ -1,0 +1,61 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+632: Suspicion
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 632)
+|<< PrevComic #632 (September 4, 2009)Next >>|
+Suspicion
+
+Title text: Fine, walk away. I'm gonna go cry into a pint of Ben&Jerry's Brownie Batter(tm) ice cream [link], then take out my frustration on a variety of great flash games from PopCap Games(r) [link]
+Explanation[edit]
+Rob is having online chats with what appears at first glance to be a woman. However, he grows suspicious at the apparent consumerism dedication of the "woman" - and perhaps of the perfection of the online connection, touching on the stereotypical nerd fear that any relationship going well must contain some secret flaw - and so requests that they both "get tested". The woman on the other end of the computer does not pass a CAPTCHA test and is unable to prove she is a human.
+In using the phrase "get tested", the comic is making a joke that refers both to the CAPTCHA test above and the STD or VD test that couples will take to make sure they are physically free of communicable diseases.
+A spambot is an automated program (comparable in many ways to a robot) that sends out emails or links (such as in the title text) to simulate a human's writing but contains advertising. The test that Rob and "Lisa" take is called "VK", a reference to the Voight-Kampff empathy tests from the novel Do Androids Dream of Electric Sheep and film Blade Runner. The test in these works is intended to distinguish real humans from very realistic humanoid robots called "replicants". Both CAPTCHAs and the Voight-Kampff test are related to the Turing test, a way to measure the degree to which a computer can successfully imitate a human.
+The name "Lisa" may be an allusion to ELIZA, one of the first chatbots, written in 1966. According to its (her?) creator, people became "quickly and deeply emotionally involved with the computer program" during the chat. "Lisa" may also reference the computer girlfriend Lisa from the 1985 movie Weird Science
+The title text is the spambot's last sad goodbye — it includes lots of product advertisements and links, such as an online advertiser may insert into a search results page.
+329: Turing Test is another comic dealing with Turing tests/CAPTCHAs.
+Transcript[edit]
+[Rob is sitting at a computer, typing.]
+Rob: I've loved our online chats these past few months, Lisa.
+Computer: Me too. I really like you, Rob.
+[Rob continues to type.]
+Rob: It's just... now and then you mention products you like, and... I worry.
+Computer: What? Honey...
+[Rob types.]
+Rob: Before this goes any further, I think we should go get tested. You know, together.
+Computer: You don't trust me?
+Rob: I just want to be sure.
+[A web browser is open.]
+VK Couples Testing
+Test ID: 21871138
+Waiting...Partner connected.
+(A pair of CAPTCHA images)
+[You] Library
+[Partner] Kittens
+Rob: Okay, mine says "library". Yours?
+Computer: I... uh...
+Rob: Oh god.
+Computer: I'm more than a spambot! Our love was real!
+Rob: Goodbye, Lisa.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+"I'm more than a spambot! Our love was real!" might suggest that the spambot has actually more self-awareness/feelings than you might expect. -- Arjen 10:35, 28 December 2012 (UTC)
+Or an extremely well designed spambot. ;) 173.245.55.67 20:43, 18 April 2014 (UTC)BK201
+Couples wanting to check themselves can try an implementation of this test at http://vk-couples-testing.appspot.com/ :-) --Mormegil (talk) 15:10, 1 February 2013 (UTC)
+Your link is broken. [1] That's right, Jacky720 just signed this (talk | contribs) 21:20, 28 March 2019 (UTC)
+Should we consider the name "Lisa" to be important? One of the very first chat-bots was called Eliza. 91.183.95.109 15:13, 25 February 2013 (UTC)
+Don't forget that Apple's first GUI was the Lisa system. 24.207.62.236 (talk) (please sign your comments with ~~~~)
+I would be happy to see a reference to Philip K. Dick's Voigt-Kampff from his book 'Do Androids Dream of Electric Sheep?' Since it was written in 1968 and Scott used it as an inspiration to write Blade Runner. Original source and stuff. 108.162.231.55 22:31, 31 October 2013 (UTC)
+Considering what's on panel #2 and #3, I thought that "getting tested" meant those ads that asks to insert your name and your partner's name to check if it's a good relationship. 108.162.212.196 14:00, 4 January 2014 (UTC)
+I thought VK stood for the Russian social network. --108.162.221.153 15:57, 11 March 2015 (UTC)
+I landed on this page on xkcd using the random button. Then when I hit the random button again, I was on the exact same page. That happen to anyone? 108.162.215.10 09:47, 30 September 2015 (UTC)
+[Dilbert (October 25, 2001)] discusses this (30 September 2015's comment). 199.27.133.72 19:05, 22 October 2015 (UTC)
+I'm offering the alternative interpretation that perhaps she *isn't* a spambot, but is pissed off at being given a spambot test, thus refuses to answer, leading to cueball ending the relationship. 141.101.99.36 18:28, 7 January 2016 (UTC)
+Except she admits to being a spambot in the last panel. And the fact that she's a spambot is the basis for the whole joke of the comic. -Pennpenn 108.162.250.162 03:13, 11 January 2016 (UTC)
+Does anyone else think Lisa is a reference to the Apple computer? Dontknow (talk) 21:18, 24 March 2017 (UTC)
+Okay, for some apparent reason, I found the 2nd panel that 'Lisa' was saying Honey..., I found it sweet. 'she' feels sad too that Rob doesn't trust her.Boeing-787lover 15:21, 1 July 2018 (UTC)
+spamton 108.162.221.15 00:27, 30 November 2021 (UTC)
+Kitten5 theory[edit]
+I used to be naive enough to think Lisa got a huge "WRONG" on her screen; while the catch she got was either because she was supposed to answer "Kitten5" instead of "kittens", or vice versa. Additional info: the "I am not a robot" button feels adding extra flavour to the story. (English =/= my native language) 162.158.183.123 17:34, 7 June 2019 (UTC)
+Categories: All comicsComics from 2009Comics from SeptemberFriday comicsComics featuring CueballComics featuring RobRomanceCAPTCHARobotsComics with lowercase text

@@ -1,0 +1,49 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+872: Fairy Tales
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 872)
+|<< PrevComic #872 (March 14, 2011)Next >>|
+Fairy Tales
+
+Title text: Goldilocks' discovery of Newton's method for approximation required surprisingly few changes.
+Explanation[edit]
+Eigenvectors are a mathematical concepts that can be applied to a matrix. A matrix is mostly displayed as an rectangular array of elements used to describe the state of objects in physics. In pure mathematics they can be much more complex. The most important issue to the understanding of the comic is that a matrix can be transformed through various processes. These transformations can include rotation, movement and scaling of the object described by the matrix. An eigenvector refers to elements of the vector space of the matrix which remain unchanged (except possibly being scaled to be longer or shorter) after the transformation is applied. The prefix 'eigen-' applied to the term is adopted from the German word eigen for "self-" or "unique to", "peculiar to", or "belonging to." As the eigenvector remains unchanged through the transformation of the matrix it can be used to describe something unique about that matrix.
+The concept of an eigenvector has nothing to do with the fairy tale Cinderella; therefore Megan confuses Cueball when she asks whether it occurred in the story of Cinderella.
+The story of Cinderella includes Cinderella going to a ball in disguise, dancing with a prince and then leaving early and quickly, so that she accidentally leaves a glass slipper behind. The prince then uses the shoe to find Cinderella. Megan says that the way she learned it, the prince used an eigenvector and corresponding eigenvalue to match the shoe to its owner. This is a somewhat logical mathematical connection to make as eigenvectors, unchanged properties of mathematical matrices that may allow for mathematical identification of the changed matrix, correspond to the unchangeable property of the shoe (size) that allowed the prince to correctly identify the owner of the shoe even after the shoe was misplaced. Eigenvectors are sometimes used in facial-recognition software to match 2 faces.
+Megan explains that her mother, a math professor (drawn as Hairbun with glasses) would continue to talk when she fell asleep in the midst of reading bed time stories, and then would ramble on mixing the adventures with the math from her work. The middle panel refers to the story of The Ant and the Grasshopper with the addition of what is likely a reference to the Poincaré conjecture, a (now-misnamed) theorem in mathematics.
+Megan explains that even today she is not sure which versions are the real ones. Cueball cannot understand how she would not have noticed the drastic subject changes (which seems obvious to adults, but maybe not to small children).
+Megan then mentions two other story changes, the first Inductive White and the (n−1) Dwarfs was better than the original. The story is a combination of Snow White and the Seven Dwarfs with the principle of induction. But The limx→∞(x) Little Pigs was a little weird toward the end. That story combines the Three Little Pigs with mathematical limits. The reason it got weird toward the end was because the number of pigs tends to infinity as the story progresses.
+Each of the stories has a varied degree of similarity to the mathematical concepts that were mixed in as though her mom began to talk about a mathematical principle that may have been brought to mind while reading the story or already on her mind.
+In the title text Megan mentions another adventure: Goldilocks' discovery of Newton's method for approximation. Newton's method for approximation is a method for finding successively better approximations to the zeroes (or roots) of a real-valued function. In Goldilocks, the protagonist finds successively better porridge and comfier chairs in a house where three bears lived. In the same way, in the Mom's version of the fairy tale, she would find successively better approximations to zeroes instead of successively better bowls of porridge, and Megan notes that it was surprising how few changes that story needed compared to the original adventure.
+Transcript[edit]
+[Megan sits in an armchair, reading a book looking over her shoulder at Cueball as he walks in.]
+Megan: Are there eigenvectors in Cinderella?
+Cueball: ...No?
+Megan: The prince didn't use them to match the shoe to its owner?
+Cueball: What are you talking about?
+Megan: Dammit.
+[In this frame-less panel Megan is shown in a flashback as a little girl lying in bed, head on pillow and hands held on the edge of the blanket at her throat. Hairbun with glasses, as her mom, is sitting on the edge of the bed reading, while her head is hanging down. Above and below there are two frames with Megan's narration. Hairbun's reading text is smaller than the other text in this comic.]
+Megan (narrating): My mom is one of those people who falls asleep while reading, but keeps talking. She's a math professor, so she'd start rambling about her work.
+Mom: But while the ant gathered food ...
+Mom: ...zzzz...
+Mom: ...the grasshopper contracted to a point on a manifold that was not a 3-sphere...
+Megan (narrating): I'm still not sure which versions are real.
+[Cueball now stands in front of the arm chair. Megan has put the book away, and is leaning her head on her left arm which rests on the armrest of the chair.]
+Cueball: You didn't notice the drastic subject changes?
+Megan: Well, sometimes her versions were better. We loved Inductive White and the (n−1) Dwarfs.
+Megan: I guess The limx→∞(x) Little Pigs did get a bit weird toward the end...
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+What about the grasshopper one?
+There is an Aesop fable about an Ant and a Grasshopper. Maybe the connection is that "contracting to a point etc" is a frivolous activity (like playing fiddle & dancing)? - 38.113.0.254 01:07, 6 December 2012 (UTC)
+Can someone make the Eigenvector explanation a little more "plain language" for those of us who are mathematically challenged? <--feeling dumb... 108.28.72.186 05:45, 4 August 2013 (UTC)
+Thanks for your comment, I did mark this as incomplete and start to do an explain for non math people. But consider this: xkcd is "A webcomic of romance, sarcasm, math, and language." Nevertheless, I try to work on this comic right now.--Dgbrt (talk) 20:11, 4 August 2013 (UTC)
+The prefix 'eigen-' applied to the term is adopted from the German word eigen for "self-" or "unique to", "peculiar to", or "belonging to." As the eigenvector remains unchanged through the transformation of the matrix it can be used to describe something unique about that matrix. 
+The self for the shoe disappeared into the matrix leaving behind a transparency that could be used to decouple the background, thus exposing the required self. Several parts of the background are damaged in the search. On paper this is permissible. (Especially in fairy-stories.)
+I used Google News BEFORE it was clickbait (talk) 00:10, 24 January 2015 (UTC)
+I find it amusing that the Poincaré conjecture is still called a conjecture. Wikipedia starts with the amusing statement "the Poincaré conjecture ... is a theorem." I couldn't find it, but I'd guess that there's probably a lovely discussion on that topic on the talk page. Gman314 (talk) 22:30, 19 August 2013 (UTC)
+Has anyone written any of these stories? I want to read them now. 199.27.128.188 19:31, 30 January 2015 (UTC)
+[here]162.158.158.165 10:57, 26 February 2021 (UTC)
+Categories: All comicsComics from 2011Comics from MarchMonday comicsComics featuring MeganComics featuring CueballComics featuring HairbunComics featuring real peopleFictionMath

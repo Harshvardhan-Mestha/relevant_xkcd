@@ -1,0 +1,36 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+795: Conditional Risk
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 795)
+|<< PrevComic #795 (September 20, 2010)Next >>|
+Conditional Risk
+
+Title text: 'Dude, wait -- I'm not American! So my risk is basically zero!'
+Explanation[edit]
+The comic deals with the difference between the general probability of a certain event based on history and the probability of the same event in particular circumstances. The chance of any American selected randomly from the general population to be killed by lightning is very low, but part of the reason for this is that an average American would seek shelter and safety when caught in a lightning storm. The joke is that someone armed with this particular statistical knowledge would not take the normal precautions and therefore leave themselves far more vulnerable.
+In the title text, since the statistic provided talks only about Americans, the other character wrongly assumes that lightning strikes only happen to Americans, rather than the data for lightning strikes for other nationalities being simply not included in the discussion. Because of this, as a non-American, he believes his chance of being struck by lightning is nonexistent - which underlines the difference between knowing a certain event can't or didn't happen and not having any data about the event.
+The "one in six" statistic is probably invented by the author - which also illuminates the danger of dealing with "statistical data" provided by random sources without any attribution to actual statistical surveys or hard data. And of course, now a lot of xkcd readers know the statistic, likely bringing down the death rate.
+A similar situation is referred to in the what if? on hailstones [1].
+Transcript[edit]
+[Lightning strikes the ground, illuminating trees with a bright white light. Two people are standing near it. One has a walking stick.]
+CRACK
+BOOM
+First person: Whoa! We should get inside!
+Second person: It's okay! Lightning only kills about 45 Americans a year, so the chances of dying are only one in 7,000,000. Let's go on!
+[Caption below the panel:]
+The annual death rate among people who know that statistic is one in six.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+"I'm not American! So my risk is basically zero!"
+Is the risk to Americans so low because lightning concentrates on non-Americans?
+I used Google News BEFORE it was clickbait (talk) 15:42, 26 January 2015 (UTC)
+
+The line 'The annual death rate among people who know that statistic is one in six' clearly points out that the people who know the statistic tend to be dismissive about the danger of the lightning strikes and put themselves in danger. Even though the statistic is probably invented by the author, shouldn't it go in the explanation?
+I did not want to change the explanation without a discussion. (PS: I am a newbie here)
+A2658742 (talk) 10:44, 10 April 2015 (UTC)a2658742
+I'd like to point out that the "invented one in six statistic" is a roll of the dice. 162.158.90.161 (talk) (please sign your comments with ~~~~)
+1 in 6 is also the probability of shooting yourself in (classic) russian roulette. Siv3nIvy (talk) 11:41, 8 September 2016 (UTC)
+This comic has been cited to illustrate the confusion of base vs conditional probability in Steven Pinker's new book [“Rationality: What It Is, Why It Seems Scarce, Why It Matters.”] --Agovita (talk) 11:17, 19 October 2021 (UTC)
+Categories: All comicsComics from 2010Comics from SeptemberMonday comicsComics featuring CueballComics with inverted brightnessStatisticsMultiple Cueballs

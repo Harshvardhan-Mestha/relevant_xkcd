@@ -1,0 +1,27 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+644: Surgery
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 644)
+|<< PrevComic #644 (October 2, 2009)Next >>|
+Surgery
+
+Title text: Damn. Not only did he not install it, he sutured a 'Vista-Ready' sticker onto my arm.
+Explanation[edit]
+Cueball is lying down, waiting to undergo surgery, when he asks the surgeon to insert and wire up a USB port to nerves. The surgeon assumes that Cueball wants to control USB devices, but Cueball assures him that he just wants the hardware. It is revealed that he is waiting for the software update that will allow him to do as he pleases.
+Linux is an open source kernel for an operating system. Linux is notorious for its less-than-perfect support for hardware, although support for most hardware is eventually patched into the official kernel release. Cueball is here under the impression that support for a USB port can be patched into his arm in a similar fashion to how hardware support can be added to the Linux kernel.
+The "Vista-Ready" sticker in the title text is a humorous indication from the doctor that the patient is "advanced enough" to have Windows Vista installed. The irony is multilayered. There was a lawsuit against Microsoft about promoting not-so-capable computers as "Windows Vista Capable"; they could neither run Vista fully nor smoothly. On top of that, the typical Linux user would not be very enthusiastic about Windows at all; someone who runs Linux has actively chosen an alternative operating system.
+Transcript[edit]
+[A surgeon is standing over a patient on a gurney.]
+Patient: While you're doing the surgery, can you also implant this in my arm?
+Surgeon: A USB port?
+Patient: Just wire it up to some nerves.
+Surgeon: ...This won't let your brain control USB devices, you know.
+Patient: Sure – I just want the hardware.
+Patient: The rest is software; I'm sure there will be a project to patch together support eventually.
+Surgeon: Ah – you're a Linux user, I see.
+Patient: Yeah, how'd you know?
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Anyone who wants to see more about this kind of implant technology would be advised to have a look at the works of Kevin Warwick of Reading University in the UK (There must be others as well). 141.101.98.228 (talk) (please sign your comments with ~~~~)
+Categories: All comicsComics from 2009Comics from OctoberFriday comicsComics featuring CueballComics with colorMedicineComputersLinux

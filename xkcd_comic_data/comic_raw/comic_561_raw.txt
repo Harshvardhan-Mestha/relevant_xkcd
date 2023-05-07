@@ -1,0 +1,51 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+561: Well
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 561)
+|<< PrevComic #561 (March 27, 2009)Next >>|
+Well
+
+Title text: I'll concede ergonomics anecdotally, but none of the studies of Dvorak were at all rigorous (the most-cited Navy study was overseen by Dvorak himself). And the 'slow typists down' thing is a myth. Also EMACS RULES VI DROOLS WOOOOOOO!
+Explanation[edit]
+This is the first comic in the Well series. It was followed by 568: Well 2.
+Uncomfortable truths are truths that exist, but no one wants to have to think about them.
+The first is about Firefly, the TV series created by Joss Whedon and canceled by FOX, due to poor ratings performance, after airing the first 13 episodes out-of-order. In Firefly, the main languages spoken are English and Chinese (supposedly in equal measure), because China was the only other world power besides America to go to space (Joss Whedon's own explanation on the DVDs). However, there are very few actual Asians on-screen.
+The second is about two different keyboard layouts, QWERTY and Dvorak. Early typewriters used to jam easily if two nearby keys were struck at about the same time. To work around this, the QWERTY layout, named after the first six letters on its keys, scattered common letter combinations around the keyboard, thus greatly avoiding the problem. (A common myth states that this was done to slow typists down; it was the opposite.) Later typewriter mechanisms were less prone to jamming, which prompted a few people to try to create alternative layouts, such as Blickensderfer's DHIATENSOR layout in 1892, or the Dvorak Simplified Keyboard in 1932. Such layouts never really caught on; by then, typists were all very used to the QWERTY layout, and were unwilling to take the time and effort to learn a new one.
+In the Dvorak layout, August Dvorak placed the most frequently used keys at the most easily accessible places; Dvorak's advocates claim this reduces typing effort and repetitive strain (as mentioned in the title text) while increasing typing speed and accuracy. However, rigorous, unbiased studies have yet to clearly show significant superiority. (As the title text mentions, the most commonly cited study in Dvorak's favor was overseen by Dvorak himself during his US Navy service in World War II.)
+This was the second comic to refer to Dvorak after 554: Not Enough Work, and since then it has become a recurrent theme on xkcd.
+The third and fourth truths are connected: they involve the two people receiving them and (presumably) their relationship with each other. Every time Cueball said "I love you" he never really meant it; whereas Megan meant it every time she said "I love you". This is very uncomfortable for both! This could also be intentional, since in 568: Well 2, a person called Mike (who happens to be a friend of Megan), is actually hiding inside the well and tells these uncomfortable "truths", he would have intentionally broken Cueball and Megan up to be able to manipulate Megan in the next installment.
+The title text perpetuates the Emacs vs. vi debate. Both Emacs and Vim are text editors that are frequently used as general-language editors of source code. The issue is that, while Emacs is more user-friendly and customizable, vim is more lightweight while needing few keystrokes in text editing. Because of this balance, fans of Emacs and fans of vim end up fighting each other.
+Transcript[edit]
+[A sign sits by a well.]
+The Uncomfortable Truths Well
+[A Cueball-like guy and Ponytail are lined up for the well; the guy throws a coin in.]
+Well: For a universe that's supposed to be half Chinese, Firefly sure doesn't have any Asians.
+[The guy is gone, Cueball and Megsn arrives as a couple lining up behind Ponytail; Ponytail throws a coin in.]
+Well: There's no solid evidence DVORAK's better than QWERTY. The standard histories are urban legends.
+[Just the couple remain; Cueball throws another coin in.]
+Well: You've never said "I love you" and meant it. It was always just words.
+[Megan has presumably also thrown a coin in the well. This is not shown as for the first three. Cueball waits for her on the other side of the well.]
+Well: You meant it every time.
+Trivia[edit]
+In the comic game 1608: Hoverboard there is also a well in the left part of the world. This well has the same type of covered top and at the bottom (it is very deep) there is a girl and above her a coin, like the one thrown into a wishing well. On these links, to images on xkcd ; used in the game, the top and the bottom of the well can be seen.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+s[he] be[lie]ve[d]141.101.98.124 14:40, 4 April 2019 (UTC)
+Shouldn't we elaborate on the questioned superiority of DVORAK? --129.206.196.49 20:45, 11 October 2013 (UTC)
+Actually, QUERTY was not designed to avoid jamming keys. It actually seems to be based on morse code mappings - to suit the majority of early users who were morse code operators. http://www.smithsonianmag.com/arts-culture/fact-of-fiction-the-legend-of-the-qwerty-keyboard-49863249/?no-ist 103.22.201.159 (talk) (please sign your comments with ~~~~)
+The final two frames appear to be foreshadowed by the title text within Connected (http://xkcd.com/807/) Lakeside (talk) 19:02, 4 November 2013 (UTC)
+I like how the 'uncomfortable truth' for the man is that he never meant it when he said 'I love you', but for the woman, it's that she always did! 108.162.219.223 23:47, 23 December 2013 (UTC)
+What is ironic is that I am setting up a keyboard based on Michael Dicken's optimizer. Also, while I prefer vim (light weight!), I also have Xemacs out of my own choice. Greyson (talk) 20:37, 24 December 2013 (UTC)
+The uncomfortable truth is that both emacs and vi are quite difficult to learn, just in different ways.
+Emacs, after you learn it, allows you to write the highly flexible macros for the text processing but requires to type some very long command names to do most things. Being largely written is Lisp, historically Emacs had also been very slow and memory-hungry but with the modern computers it doesn't matter any more. Oh, and Emacs messes up the proper Tab characters, replacing them with spaces.
+Vi doesn't have this flexibility but has a built-in set of commands extremely well suited to editing the programs. Vi is well-suited for the remote administration because it works well even over the very slow and high-latency connections and allows to do everything with just the alphanumeric keys, thus working even when the handling of the function keys (including arrows ans such) was not set up correctly. One of the newer versions of vi, vim, allows to do some very extensive programmable text manipulation, getting closer to Emacs in this respect; and vim can be set up to mess up the Tab characters just like Emacs. 108.162.246.5 21:58, 31 January 2014 (UTC)
+vi is the hell, my keyboard doesn't have a META key... Maybe it's ALT, or ALT+CTRL,... ALT+SHIFT, or ALT+SHIFT+CTRL+ESC+...A hell. But you can rely on vi, it's available on every UNIX based system. So, if you just have a simple Telnet or SSH login you have to figure out how vi does work. --Dgbrt (talk) 23:30, 31 January 2014 (UTC)
+Meta means alt. So M-E would be Alt-E.
+The Firefly explanation is too much, especially with the point about airing out of order. I think with the inclusion of Randall's personal preference for Firefly, and its frequent reference by Randall, it would make a lot more sense. flewk (talk) 08:07, 5 January 2016 (UTC)
+The voice in the last panel is clearly coming out of the well, as is the case in Well 2. It's not Megan saying "I love you" unlike the current explanation. 141.101.107.228 21:06, 13 June 2017 (UTC)
+"A common myth states that this was done to slow typists down; this was not the case." Is that really a common myth? I've never heard about it. I've only ever heard about the jamming thing which, as pointed out in the explanation, seems to check out. Bischoff (talk) 08:05, 3 February 2020 (UTC)
+LOL Emacs is anything but "user friendly" 162.158.79.113 14:20, 29 September 2020 (UTC)
+Yeah, I've used VI since day one, and I've never used Emacs. It's user friendly, it just takes practi... wait. NanoMan2000 (talk) 14:56, 22 December 2021 (UTC)
+Categories: All comicsComics from 2009Comics from MarchFriday comicsLinks to xkcd.comWellComics sharing nameComics featuring CueballComics featuring MeganComics featuring PonytailMultiple CueballsDvorakSarcasmRomanceFireflyEmacs

@@ -1,0 +1,59 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+893: 65 Years
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 893)
+|<< PrevComic #893 (May 2, 2011)Next >>|
+65 Years
+
+Title text: The universe is probably littered with the one-planet graves of cultures which made the sensible economic decision that there's no good reason to go into space--each discovered, studied, and remembered by the ones who made the irrational decision.
+Explanation[edit]
+Randall is showing the number of still living humans who have walked on another world for the 65-year period that begins in 1969 (when a human first walked on the moon). Up to 2011 (when the comic was drawn), he has drawn a single line for the actual figures.
+For the subsequent years, he has drawn three lines using actuarial tables or life tables (such tables show, for each age, the probability that a certain person will die within the next year).
+The line marked "5th Percentile" indicates that there is a 95% probability that the number alive in a given year will be above that line and a 5% probability that the number alive will be below that line. For example, this line indicates a 5% chance that all Apollo moon walkers will be dead by 2023, and a 95% chance that at least one will still be alive by that year.
+The line marked "95th Percentile" indicates that there is a 5% probability that the number alive in a given year will be above that line and a 95% probability that the number alive will be below that line. For example, this line indicates a 95% chance that all Apollo moon walkers will be dead by 2035, and a 5% chance that at least one will still be alive by that year.
+The middle line is not identified, but is probably the "50th Percentile" (see these tables). If so, it indicates that there is a 50% probability that the number alive in a given year will be above that line and a 50% probability that the number alive will be below that line. For example, this line indicates a 50% chance that all Apollo moon walkers will be dead by 2028 (see previous link), and a 50% chance that at least one will still be alive by that year.
+Although the term other world would include all other worlds on which humans have walked, there is currently only one other world on which humans have walked, which is the moon. The humans that have walked there are the 12 Apollo astronauts who landed on the Moon between 1969 and 1972.
+In particular, Neil Armstrong and Buzz Aldrin landed in July 1969. Pete Conrad and Alan Bean landed in November. Alan Shepard and Edgar Mitchell: February 1971. David Scott and James Irwin: July 1971. John Young and Charles Duke: April 1972. Eugene Cernan and Harrison Schmitt: December 1972.
+Irwin died in 1991. Shepard and Conrad died in 1998 and 1999 respectively, making the total 9 as of the date this comic was published. Since then Armstrong died in 2012, Mitchell in 2016, Cernan in 2017, Young on January 6, 2018, and Bean on May 26, 2018. The current (as of September 2022) number is 4, which lies close to the middle line (the supposed 50th Percentile). The oldest living person to have landed on the moon is Aldrin at 91. Also living are Scott at 88, Schmitt at 85, and Duke at 85.
+The chart assumes that no other humans will go to walk on another world within the time-frame plotted and the title text implies that this is primarily an economically determined decision. While noting that not exploring space is a justifiable and sensible decision which may also be made by many hypothetical cultures on other worlds, the text implies a grandness to a civilization that would be given the opportunity to discover, study and memorialize the 'one-world graves' of other civilizations by choosing to explore space despite the economic difficulty. This also implies that the likely consequence of not exploring space is that a civilization which chooses to do this is doomed to go extinct eventually while those which do explore and colonize may last long enough to be safely established on multiple worlds and discover the remains of civilizations which acted on a purely economic basis and hence ensured their own collapse. High five for exoplanet archaeology.
+Transcript[edit]
+[A graph titled 'Number of Living Humans Who Have Walked on Another World' - its y-axis is numbered 5, 10, 15, its x-axis increments every ten years from 1960-2040. The line of the graph has a bracket above it that says '65 Years', starting at 1969, ending in 2034.
+The line starts at 1969 and increases steeply to 12 by 1972. It then plateaus until the early nineties, declines gradually to 9 between 1991-1999, and then plateaus again.
+From 2011-2035, which is labeled 'Projected Actuarial Tables', the line branches into three and begins to decline more steeply to zero. The area between the first and second branch is shaded and labeled '5th percentile' and the area between the second and third branch is shaded and labeled '95th percentile.']
+Trivia[edit]
+The theme of actuarial projections was explored earlier in 493: Actuarial; Randall's morbid python script for both was given in the blag.
+Table of men who walked the moon
+Name Born Died Age at
+first step Age at death Mission Lunar dates Service Alma Mater
+1. Neil Armstrong 1930-08-05 2012-08-25 38y 11m 15d 82y 0m 20d Apollo 11 July 21, 1969 NASA Purdue University, University of Southern California
+2. Buzz Aldrin 1930-01-20 39y 6m 0d Air Force United States Military Academy, MIT
+3. Pete Conrad 1930-06-02 1999-07-08 39y 5m 17d 69y 1m 6d Apollo 12 November 19–20, 1969 Navy Princeton University
+4. Alan Bean 1932-03-15 2018-05-26 37y 8m 4d 86y 2m 11d Navy University of Texas, Austin
+5. Alan Shepard 1923-11-18 1998-07-21 47y 2m 18d 74y 8m 3d Apollo 14 February 5–6, 1971 Navy United States Naval Academy
+6. Edgar Mitchell 1930-09-07 2016-02-04 40y 4m 19d 85y 4m 28d Navy Carnegie Mellon University, Naval Postgraduate School, MIT
+7. David Scott 1932-06-06 39y 1m 25d Apollo 15 July 31 - August 2, 1971 Air Force University of Michigan (freshman year, and later, an honorary doctorate), United States Military Academy, MIT
+8. James Irwin 1930-03-17 1991-08-08 41y 4m 14d 61y 4m 22d Air Force United States Naval Academy, University of Michigan
+9. John W. Young 1930-09-24 2018-01-06 41y 6m 28d 87y 3m 13d Apollo 16 April 21–23, 1972 Navy Georgia Institute of Technology
+10. Charles Duke 1935-10-03 36y 6m 18d Air Force United States Naval Academy, MIT
+11. Eugene Cernan 1934-03-14 2017-01-16 38y 9m 7d 82y 10m 2d Apollo 17 December 11–14, 1972 Navy Purdue University, Naval Postgraduate School
+12. Harrison Schmitt 1935-07-03 37y 5m 8d NASA Caltech, University of Oslo (exchange), Harvard University
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I wonder if it would be possible to identify individual people who are behind those vertical jumps in the graph (in the not projected part)... --JakubNarebski (talk) 19:18, 14 December 2012 (UTC)
+Glad you asked! </Information Hen> Neil Armstrong and Buzz Aldrin landed in July 1969; that's two. Pete Conrad and Alan Bean joined the group that November; that's four. Alan Shepard and Edgar Mitchell in February '71; that's six. David Scott and James Irwin in July '71; that's eight. John W. Young and Charles Duke in April '72; that's ten. Eugene Cernan and Harrison Schmitt in December '72; that's twelve. Irwin died in '91, dropping it to 11. Shepard and Conrad died in '98 and '99 respectively, making it 9 as of the date this comic was published. Armstrong died in '12, so our current number is 8. The oldest living person to have landed on the moon is Aldrin, 83. There are two 82-year-olds, two 80s, one 78 and two 77s. Ekedolphin (talk) 13:28, 27 January 2013 (UTC)
+Almost prophetic and very, very sad. RIP Neil Armstrong ------
+
+Can we add the 5% and 95% columns to the table? Spongebog (talk)
+i dont feel like this would add to the explanation of the comic and would require us to know a great deal about the author's calculations. rather than attempt to redo the actuarial calculations performed to make the chart and assign this to the individuals in the table we should rather explain the concepts behind the 5% and 95% and preserve the intention of actuarial information as applying to demographic groups. 5% of people in the demographic the author selected live to _ age 95% of those people live to _ age and how this affects our subject population. Mrarch (talk) 21:43, 6 December 2013 (UTC)
+Why is this explanation incomplete? The second paragraph does a good job explaining what the 5th percentile and 95th percentile are referring to. String userName = new String(); (talk) 23:35, 19 June 2015 (UTC)
+I prefer to think of the inhabitable planets as extensions to earth reserved for when we have learned not to kill all the inhabitants of the only inhabited planet in the universe.
+I used Google News BEFORE it was clickbait (talk) 22:39, 23 January 2015 (UTC)
+I see no reason this is marked as incomplete; I've tidied up the percentile explanations, but haven't really added much more. I think it's fine, and will remove the incomplete tag in a few days if nobody objects. Cosmogoblin (talk) 13:53, 24 June 2015 (UTC)
+UPDATED GRAPH: I've updated the image with a red line showing actual moon walker deaths. View here: [1]. Sadly, it's right on track. 172.68.58.59 22:19, 9 August 2018 (UTC)
+As of mid April, 2020, this prediction is still accurate, but I'm really scared of what it'll be by the end of 2020 or 2021. Stay healthy everyone, astronaut or not! PotatoGod (talk) 07:04, 22 April 2020 (UTC)
+Interesting that 6/12 of all the people who walked on the moon were born in 1930, and all bar Alan Shepard was born 1930-1935. Reminds me of some of the ideas in Malcolm Gladwell's *Outliers* about there being especially good birth years to succeed at high levels in given fields. It seems you want to have been mid-30s to early-40s (Shephard the outlier at 47) in the late 60s/early 70s. This also makes the comic more dramatic - if there had been a wider spread of ages, then the "death curve" would be a lot more gradual. -Honeypuppy (talk) 01:15, 30 September 2020 (UTC) What? No. That's a false correlation. The moon program took place over a very short span of time, and was looking for very specific qualification. Including age.
+Honorary mention: Michael Collins (1930-2021), RIP this date. 162.158.158.104 17:44, 28 April 2021 (UTC)
+IMO the saddest part isn't astronauts dying - it's lack of any new people getting to walk on another planet. 162.158.90.157 14:04, 5 October 2021 (UTC)
+Categories: All comicsComics from 2011Comics from MayMonday comicsLine graphsMathStatisticsScienceSpaceComics to make one feel old

@@ -1,0 +1,38 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+607: 2038
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 607)
+This page refers to the comic named "2038". For comic #2038, see 2038: Hazard Symbol.
+|<< PrevComic #607 (July 8, 2009)Next >>|
+2038
+
+Title text: If only we'd chosen 1944-12-02 08:45:52 as the Unix epoch, we could've combined two doomsday scenarios into one and added a really boring scene to that Roland Emmerich movie.
+Explanation[edit]
+The 2038 problem is a well-known problem with 32-bit Unix-based operating systems. Unix time is stored as a 32-bit signed integer on these systems, counting the number of seconds since 1970. In 2038, we overflow the highest number we can store in signed 32-bit integers, leading to unexpected behavior. The switch to 64-bit operating systems will most likely be complete by the year 2038, which is why Randall is relieved. The reference to Y2K is a throwback to the year 2000 problem, in which people were concerned that computers storing years as two digits (e.g.: 99 to represent 1999) would cause problems when the year 2000 began because 00 could have been interpreted as 1900 by error. That Y2K issue was covered widely — with only some small mishaps — but calculating dates beyond 2038 is still not solved on many 32-bit UNIX based systems today. The "even WORSE" is possibly referring to how our increased reliance on computers means the bug could affect many more vital systems, but with Y2K passing by relatively uneventfully especially in light of the hype that preceded it caused people to take this sort of problem less seriously.
+The title text is a reference to the film 2012 which is about the world ending in December of 2012, at the end of the Mayan calendar. If the designers of the UNIX operating system had used 1944 as their epoch instead of 1970, then the UNIX crash due to a variable overflow would coincide with the end of the Mayan calendar. Thus, the implication is that there could have been a boring scene in the movie where the UNIX time rolls over and nothing happens and no one cares — because the world doesn't exist any more.
+Transcript[edit]
+[Text above the panel:]
+I'm glad we're switching to 64-bit, because I wasn't looking forward to convincing people to care about the Unix 2038 problem.
+[Cueball's Cueball-like friends asks him a question. Cueball raises his arm above his head while answering.]
+Friend: What's that?
+Cueball: Remember Y2K? This could be even worse!
+Trivia[edit]
+This is probably the first numbered comic whose title contains no letters.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Can anyone explain the mouse-over text? Saibot84 (talk) 23:02, 7 May 2013 (UTC)
+Good thing it's explained now, because I was relating 1944 and apocalypse with WW2. 108.162.212.196 21:57, 3 January 2014 (UTC)
+"calculating dates beyond 2032 is still not solved on many 32-bit UNIX based systems today". Is the year 2032 a typo, should be 2038? If not, what is the relevance of 2032, should be explained. --Pudder (talk) 07:30, 12 September 2014 (UTC)
+Woah, I learned about the 2038 problem yesterday, and I clicked "Random page" today and got this comic! Anyone remember what that phenomenon is called? LuigiBrick (talk) 13:57, 6 January 2017 (UTC)
+It's the Baader-Meinhoff Phenomenon 162.158.78.22 14:39, 28 August 2018 (UTC)
+The phenomenon is called "coincidence." -- Davidh (talk) (please sign your comments with ~~~~)
+This wiki will have it's own 2038 problem, as when we get the 2038th comic (assuming both explain xkcd and the comic itself are still ongoing), http://www.explainxkcd.com/wiki/index.php/2038 will have to be shared by two pages (currently, this link redirects to this comic, as does this one) 172.68.54.10 17:03, 1 September 2017 (UTC)
+Writing to you from the day of comic no. 2038, I can reassure you that our admins solved the problem. --172.68.150.64 19:55, 27 August 2018 (UTC)
+Thanks. --Dgbrt (talk) 22:36, 27 August 2018 (UTC)
+Maybe the "even WORSE" part was a pun because things will roll over 136 years instead of 100 as Y2K did. I don't want to add it without discussion first 162.158.75.136 16:32, 25 March 2019 (UTC)
+it's possible, but I think it's mostly in reference to how much more we use computers now than we did then.--Twisted Code (talk) 15:59, 24 November 2022 (UTC)
+I never really understood why people were worried about the Y2K bug. At worst, surely it would just interpret it as 1900 instead of 2000? Beanie (talk) 13:58, 19 April 2021 (UTC)
+despite its simplicity, don't think you want to have a bill that the computer system thinks is overdue by 100 years. Same problem here.--Twisted Code (talk) 15:59, 24 November 2022 (UTC)
+Categories: All comicsComics from 2009Comics from JulyWednesday comicsComics featuring CueballMultiple CueballsComputersCalendar

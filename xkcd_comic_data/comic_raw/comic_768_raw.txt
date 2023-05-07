@@ -1,0 +1,53 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+768: 1996
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 768)
+This page refers to the comic named "1996". For comic #1996, see 1996: Morning News.
+|<< PrevComic #768 (July 19, 2010)Next >>|
+1996
+
+Title text: College Board issues aside, I have fond memories of TI-BASIC, writing in it a 3D graphing engine and a stock market analyzer. With enough patience, I could make anything... but friends. (Although with my chatterbot experiments, I certainly tried.)
+Explanation[edit]
+There has been a stunning amount of progress in pretty much any measurable dimension of technology since 1996. We laugh at our prior naivete, pointing out that what would be a non-functionally awful computer now was considered state of the art at that time. Likewise with a Palm Pilot, arguably a precursor to today's omnipresent smartphones. Texas Instrument (TI) calculators, however, appear to have been left behind, not having made any significant advances (or price drops) since the newly discovered issues of the US computer magazine Computer Shopper were published. Thus, while we groan at how awful our state of the art technologies truly were in 1996, we are reminded that some technologies have remained in relative stasis over the years.
+The title text, after alluding to the fact that academia's practice of only allowing (or requiring) specific models is at the root of how TI can charge high prices for stagnant technology, reminds us that when they were new, TI calculators were relatively powerful tools if you knew how to use them. TI-Basic was a fairly versatile programming language that could be used to make anything from games to reference files to computational programs.
+The second half of the title text is a reminder to those of us who felt like gods for knowing how to program that power comes at a price—in this case, the power to program a calculator costs friends. Since, as of this comic's publication date, no program yet devised had truly passed a Turing test, even the most sophisticated Chatterbot (program designed to mimic conversation) couldn't quite qualify as a friend. As of June 2014, however, a computer convinced 33% of the people who spoke to it that it was a human, qualifying it to pass the Turing Test. Though some skepticism on this point is needed, as it only passed the University's contest, not the actual Turing test.
+Being unable to "make" friends was also later mentioned in 866: Compass and Straightedge.
+While many people aren't aware of them, TI does make more modern calculators in their TI-Nspire series, although they were introduced after this comic was published. The newest versions have color screens and (finally!) non-BASIC programming support through Lua and Python.
+Transcript[edit]
+[Cueball is going through a cardboard box marked "MISC", and finds a catalog. Megan looks on.]
+Cueball: Check it out - old Computer Shoppers! Wow - in 1996, $3,000 would get you a 100 MHz Pentium system with a parallel port, two serial ports, a 2MB video card, and "MS-Windows"
+Megan: Nice!
+[The two are face-to-face, and they each have a separate copy of Computer Shopper.]
+Megan: And $299 would get you a Palm Pilot 100- - 16MHz, 128Kb storage, and a memo pad, calendar, and state-of-the-art address book that can store over 100 names!
+Cueball: Oooh!
+[Cueball continues to read from his.]
+Cueball: And $110 would get you a bulky TI graphing calculator with around 10MHz CPU, 24Kb RAM, and a 96x64-pixel B/W display!
+Megan: Times sure have... ...have... uh.
+[They both put down their catalogs.]
+Cueball: Okay, what the hell, T.I.?
+Megan: Maybe they cost so much now because there's only one engineer left who remembers how to make displays that crappy.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The only problem with the N-Spire series is that you have to boot it up. Another problem (ok, the nspires are riddled with problems) is that they are still terribly underpowered compared to the modern mobile device. The last is that they are still objects of mass blunt-force trauma, meaning they are still unwieldy bricks, you now have to wait for 2 minutes while your calculator boots up (!!), it's still a low resolution screen, and the processor is still clocked somewhere under 500 MHz.
+Hey, I like the nspire, it does calculus and 3d graphing (even without the case model you can do definite calculus), displays up to 12 digits (which is plenty for most purposes), can be interfaced directly to some scientific instruments (more if you can find the software), can do lots of linear algebra, spreadsheets, companion software for easy download of apps if you can find them, can do way more with graphs than I even know how to ask it for, a filesystem for storing projects if you are that organized or need to refute back to things, and some models even have a touchscreen. It also has tons of constants and functions preloaded, copy/paste functionality, and can do unit conversions. I think it might even be able to do dimensional analysis, but I'm not certain. The battery on a first-gen nspire cx can last for days, and it only takes a couple of seconds to boot up, not two minutes. Plus, despite the fact that it is the premiere calculator for ti (and has been around for years) I've not encountered a lot of places where it is banned on tests, although that might be just me. Also, it doesn't need to have a fast processor, most, if not all, of what it is intended for is quite easy for a computer, it's not like you're running a 3d game Stardragon (talk) 00:20, 8 April 2022 (UTC)
+Now, if T.I. made an android app that offered the entirety of their graphing and CAS functionality they could easily charge $70 and everyone I know (I go to an engineering university) would buy it with no regrets.
+--lcarsos_a (talk) 23:04, 30 November 2012 (UTC)
+They'll never do that - profs (not to mention high school teachers) would freak out! If that's not yet the only reason dedicated-hardware graphing calculators still exist, it soon will be. 24.218.167.129 (talk) (please sign your comments with ~~~~)
+Why? Why they would freak out? 173.245.48.107 22:18, 8 July 2014 (UTC)
+I can think of a couple reasons: I can't imagine many teachers or professors allowing students to use their smartphones in an exam scenario. (Honest sir, I'm only using my calculator app!). A large proportion of profs I've dealt with tend to be creatures of habit, with a certain resistance to change. Rightly or wrongly they know the existing calculators work, so why change. --Pudder (talk) 09:53, 13 October 2014 (UTC)
+Wait. Are you telling me I can get a college degree for the price of a calculator case and someone to fit a phone in it?
+On 'allowable calculators', I went into exams (GCSEs) in the UK with a Casio FX-702P. I always showed the teacher/invigilator that it had no programs pre-stored in it (not that they'd have known if I'd written P0 to display the 'fact' that I hadn't any programs currently stored).
+TI didn't seem to be as big a name over here, at the time (or not yet won the equivalent contest to the VHS/Betamax Wars, in which our family allegience was firmly allied with the technically superior Video 2000 format!) and, though still low-powered when compared to the BBC Acorn computer (as ubiquitous in schools as budgets allowed, i.e. one of them for a Primary School moved between classes on a trolley, while the Secondary School had maybe a half-dozen in one room, shared between 30+ kids at a time), it was a true miracle in the pocket.
+But that was when having a digital watch with a 'driving game' on it (oversized buttons for left and right lane-switching, and LCD elements to simplistically show the road ahead and any 'cars' you had to avoid driving into at ever increasing refresh rates!) was the easiest way to become popular with the class. Never had one myself. Or the calculator watch, that someone else had. I think I had one that showed the temperature, but that was never as impressive as it might have seemed when I first got it from Argos... Oh, crazy days! 172.70.162.77 00:09, 3 January 2022 (UTC)
+I used Google News BEFORE it was clickbait (talk) 21:22, 26 January 2015 (UTC)
+TI has, in fact, already made a TI-Nspire iPad app (but there's nothing official for Android). --Qwach (talk) 19:21, 31 August 2013 (UTC)
+If we're talking about apps, then Maxima for Android is all you need. 108.162.212.196 23:45, 12 January 2014 (UTC)
+This explanation misses an important point of the comic's punchline: back in the mid-'90s, you would spend lots of cash for something that, by today's standards, is underpowered. While the observation about the state of changing technology between then and now is valid, the punchline to the comic is that in the case of TI calculators, not only has the *technology* not moved forward, but the *price* hasn't changed either! Nobody would nowadays pay 3000 dollars for the 100MHz Pentium machine mentioned in the comic, but people still spend 100 dollars on a 10MHz calculator. Madness. This is why the characters stumble over the "Times sure have changed" sentiment because, in the TI case, nothing has changed at all. 141.101.81.216 09:18, 24 February 2014 (UTC)
+My TI-84 Plus is 95 x 63 pixels, rather than 96 x 64. 108.162.246.209 02:21, 5 October 2014 (UTC)
+Did you look under the battery holder? Perhaps a pixel broke loose and slipped under there. 199.27.133.123 (talk) (please sign your comments with ~~~~)
+The operating system hides the last row and column of pixels from you, particularly on the graph screen, giving the appearance that it's 95x63, but it really is 96x64. Also, the original version of this comic had the dimensions at 96x62, but Randall later fixed it to the correct 96x64. 108.162.237.216 20:33, 5 April 2016 (UTC)
+It is worth noting that it takes exactly 768 bytes to store an image of the screen, and there are several 768 byte buffers used by the OS for saving the screen. I don't know the comic number is on purpose, but it's certainly quite appropriate. --73.176.149.27 03:16, 4 October 2017 (UTC)
+reminds me of the SMBC comic proposing that the price of graphing calculators is so stable they could be used as a backup currency --172.70.230.197 07:55, 3 February 2023 (UTC)
+Categories: All comicsComics from 2010Comics from JulyMonday comicsComics featuring CueballComics featuring MeganComputersEngineering

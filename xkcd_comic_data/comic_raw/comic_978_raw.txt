@@ -1,0 +1,60 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+978: Citogenesis
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 978)
+|<< PrevComic #978 (November 16, 2011)Next >>|
+Citogenesis
+
+Title text: I just read a pop-science book by a respected author. One chapter, and much of the thesis, was based around wildly inaccurate data which traced back to... Wikipedia. To encourage people to be on their toes, I'm not going to say what book or author.
+Explanation[edit]
+This comic is calling into question the reliability of Wikipedia. This is a favorite pastime of librarians, teachers, and professional researchers, and not usually one of Randall's. Wikipedia is a free and freely editable encyclopedia that aims to become a comprehensive, neutral compilation of verifiable and established facts. Wikipedia aims to provide only facts backed by reliable sources. However, this comic strip details a process in which Wikipedia can not only spread misinformation but make said misinformation seem reliable through a process of "circular reporting".
+The title of the comic is similar to the word cytogenesis. Cytogenesis is the formation of cells and their development. Citogenesis, on the other hand, is a portmanteau of 'Citation' and 'Genesis'. A Citation is a reference to a source, used to back up a specific claim, and genesis means the origin or creation of something. By extension, citogenesis is the creation of text in a reliable source that can be cited to back up a claim.
+In the process described here, someone adds an untrue, but plausible-sounding claim to an article in Wikipedia. A writer for some publication sees the information on Wikipedia and adds it to an article, without bothering to check the sources. The strip describes the writer as "rushed", and in this example, the information likely seems of small enough consequence that she may not have considered that someone might have made it up. Eventually, someone notices the claim in the published source and cites it in the Wikipedia article. The citation now gives the claim credence, as readers don't realize that the official source was based on the Wikipedia article. Thanks to this citation, other reporters, slightly more cautious than the first, consider this bit of information to be reliable and then cite it in articles of their own. Those articles then get cited in Wikipedia, making the claim seem more reliable, encouraging even more reporters (and possibly reporters from more reputable outlets) to believe it and repeat the claim. Eventually, a long list of citations is available, giving an impression of consensus, even though all of it originated with a single article, which was based on an uncited Wikipedia edit.
+Four years before, Randall commented on Wikipedia about that process happening to him (on a minor detail), which probably indicates the inception of this comic:
+I've never referred to the boy in the barrel as "Barrel Lad" -- that seems to have started in this [Wikipedia] article. I've called him "Barrel boy" or "The boy in the barrel". Minor detail, but it's funny how sometimes something can appear on Wikipedia, get referenced in other places, and then Wikipedia cites those other places as supporting references. Hooray Wikiality! — Randall Munroe as user "xkcd", en.wikipedia.org/wiki/Talk:Xkcd#Notes_from_the_author, 3 October 2007
+In turn, Randall originated the untrue assertion in this comic that Steven Chu, a physicist, and at the time of the strip the U.S. Secretary of Energy, invented the Scroll lock key, a common button on computer keyboards. Since most people are aware of the scroll lock key but know little about its function or origins, this false information would make for an interesting piece of trivia that would likely spread very quickly.
+Following this comic, the actual Scroll Lock and Steven Chu articles were both vandalized by "helpful" editors trying to project Randall's reality on Wikipedia. As of May 2022, the Wikipedia article on Citogenesis redirects to the "Circular reporting on Wikipedia" section on the article "Circular reporting". The section credits the term "citogenesis" to Randall Munroe, with a citation linking to this comic. To make matters even more surreal, a Wikipedia editor once flagged the link to this xkcd comic as "Dubious - The material near this tag is possibly inaccurate or non-factual."!
+We haven't seen a book like the one Randall describes in the title text. But one example of the misuse of Wikipedia by "reliable sources" concerns the former German minister Karl-Theodor zu Guttenberg. His complete name contains fifteen names/words and reads: Karl-Theodor Maria Nikolaus Johann Jacob Philipp Franz Joseph Sylvester Freiherr von und zu Guttenberg. An anonymous user added one more ("Wilhelm") to the German Wikipedia, just the evening before Karl-Theodor zu Guttenberg was presented as the new Federal Minister of Economics and Technology on February 10, 2009. The next day many major German newspapers published this wrong name (translation of bildblog.de).
+Transcript[edit]
+Where Citations Come From:
+Citogenesis Step #1
+Through a convoluted process, a user's brain generates facts. These are typed into Wikipedia.
+[Hairy sits at a desk, typing on a laptop.]
+Hairy: (typing) The "scroll lock" key was was designed by future Energy Secretary Steven Chu in a college project.
+Step #2
+A rushed writer checks Wikipedia for a summary of their subject.
+[Ponytail sits at a desk, typing on a desktop.]
+Ponytail: (typing) US Energy Secretary Steven Chu, (Nobel Prizewinner and creator of the ubiquitous "scroll lock" key) testified before Congress today...
+Step #3
+Surprised readers check Wikipedia, see the claim, and flag it for review. A passing editor finds the piece and adds it as a citation.
+[Cueball sits on a couch with a laptop in his lap, typing.]
+Cueball: Google is your friend, people. (typing) <ref>{{cite web|url=
+Step #4
+Now that other writers have a real source, they repeat the fact.
+[A flow chart, with "Wikipedia citation" in the center. The word "Wikipedia" is in black, the word "citations" is white with a red background.
+[A black arrow leads from "brain" to "Wikipedia."]
+[A black arrow labeled "words" leads from "Wikipedia" to "careless writers," and a red arrow labeled "citations" leads back to "Wikipedia citations."]
+[A black & red arrow leads from "Wikipedia" to "cited facts" which leads to "slightly more careful writers," which leads to "more citations," which leads back to :"Wikipedia" (all black & red arrows).]
+References proliferate, completing the citogenesis process.
+Trivia[edit]
+The word "was" occurs twice consecutively in the first panel.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Bonus points if the editor citing the work is also the person who created the fake source!Davidy22[talk] 06:59, 2 February 2013 (UTC)
+The title text is not addressed in the explanation. I've read some popular science books, but they do not seem to suffer the problem cited there. Maybe there's a particular brand of pop science that is very susceptible to that sort of problem? --Quicksilver (talk) 17:48, 17 August 2013 (UTC)
+We probably never will know, but as the comic itself says: Google is your friend! I found a nice story at the xkcd forum belonging to the German minister Karl-Theodor zu Guttenberg. I have added this to the trivia section.--Dgbrt (talk) 12:00, 18 August 2013 (UTC)
+On a more amusing note, it is impossible to actually verify half of the obscure references on Wikipedia, as they are often magazines or books unlikely to be kept by typical libraries. One could easily fake an obscure reference if you know of a book with a title that seemingly pertains to the subject matter, but you know that the book had a printing run of less then 10,000 copies. 108.162.215.63 18:09, 14 May 2014 (UTC)
+Note however, that this would only work if the information is so obscure that there are no conflicting sources. Benjaminikuta (talk) 21:26, 10 February 2017 (UTC)
+On a less amusing note it costs 30 dollars/pounds/euros to get a copy of a scientific article that may or may not be useful for journalists that may or may not have free access to said data. Or you could get a pirated copy of it from a suicidal source and have the FBI come after you instead. I used Google News BEFORE it was clickbait (talk) 13:24, 22 January 2015 (UTC)
+This article doesn't actually explain the self-sustaining cycle that is the point of the article. It references citogenesis and where the word was derived, and references wikipedia. None of that explains the "fake article" -> "news writer references article" -> "wiki editor adds citation of news writer" -> "fake article referenced in other news". Cflare (talk) 18:56, 9 September 2014 (UTC)
+Actually in the comic, citogenesis looks very similar to cyclogenesis. I used Google News BEFORE it was clickbait (talk) 13:24, 22 January 2015 (UTC)
+What happened to the "portmanteau" in paragraph 2? SilverMagpie (talk) 22:41, 3 January 2017 (UTC)
+Never mind, I fixed it. SilverMagpie (talk) 22:42, 3 January 2017 (UTC)
+I'm curious if the doubled "was" in the first panel was an intentional "easter egg" of the kind of carelessness that may be typical of somebody vandalizing Wikipedia with fake information, or if it was unintentional on Randall's part. Perhaps we'll never know. 172.69.63.123 19:47, 12 October 2020 (UTC)
+I had that exact same thought when I read it. I believe it's highly possile it was intended. -- The Cat Lady (talk) 21:56, 23 August 2021 (UTC)
+An example I once encountered of a much sloppier attempt at citogenesis: the article for a small, unincorporated community, near where I grew up claimed that [place] "is home to the art of cheddar winking." It cited a book that did not exist, whose ISBN number was for the Book of Mormon. 172.69.48.150 13:40, 26 February 2021 (UTC)
+Another, slightly more prominent example was that a German politician Karl-Theodor zu Guttenberg who carries 10 given names. An unknown editor managed to slip an 11th given name into the list: Wilhelm. At first it was reverted, because there was no source. The unknown editor reverted it back. A slightly careful writer checked Wikipedia just in time to see the "Wilhelm" and took it at face value. Many other careless writers followed, some even claimed that Guttenberg would give his full name in interviews and include Wilhelm in the list (obviously those interviews never happened and were just fabricted). Which in turn then was used as a reference ("Google is your friend, people!") for the Wikipedia article. Took some time to get the false name out of the article. 162.158.203.15 10:11, 4 June 2021 (UTC)
+Related and interesting... 172.70.86.12 14:04, 19 November 2022 (UTC)
+Categories: All comicsComics from 2011Comics from NovemberWednesday comicsComics featuring CueballComics featuring PonytailFlowchartsWikipediaComics with color

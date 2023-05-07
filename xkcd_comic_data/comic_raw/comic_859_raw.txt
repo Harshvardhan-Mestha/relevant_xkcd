@@ -1,0 +1,87 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+859: (
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 859)
+|<< PrevComic #859 (February 11, 2011)Next >>|
+(
+
+Title text: Brains aside, I wonder how many poorly-written xkcd.com-parsing scripts will break on this title (or ;;"''{<<[' this mouseover text."
+Explanation[edit]
+In programming, punctuation is often used to mark sections of code. Paired punctuation marks must always be matched up with a corresponding closing mark, otherwise a so-called syntax error occurs. The programming language Lisp (also featured in 224: Lisp is known for large numbers of nested/paired parentheses. Even in literary works intended only for human consumption, the absence of a matching closing parenthesis as appears in this sentence or other "balanced" punctuation sets creates a mental expectation of eventual closure and completion that remains unfulfilled even long after the unmatched mark is encountered.
+There is also reference to 312: With Apologies to Robert Frost which could contain the missing parentheses.
+It can also be interpreted as a metaphor, which compares the reader with a Lisp interpreter. The interpreter looks for the parenthesis until the end of the file, where it eventually halts, and prints out the error. The comic claims that if you read an unmatched parenthesis, you will look for it for the rest of the day too.
+It also refers to an awkward feeling when you see something out of place in a piece of literary text (like unmatched parentheses, spellying error or a randomly-plac,ed comma..
+Finally, some countries (Russia in particular) use just parentheses instead of text smileys so that :) turns into ) and :( becomes (. Hence those readers can magically resist the unresolved tension of the comic but may feel a bit sad instead as a side effect.
+The title text refers to the same issue as already highlighted in 327: Exploits of a Mom: if your scripts trust external input, you sometimes will be surprised. At the time of this comic, there were quite a few websites that would grab the xkcd comic three times a week and publish them on their own site. This comic likely broke at least some of the websites because of either the unmatched paren or the extra unmatched markup that is in the title text.
+Transcript[edit]
+[Caption inside an oblong panel:]
+(An unmatched left parenthesis creates an unresolved tension that will stay with you all day.
+Trivia[edit]
+There are other comics with unpaired parentheses (not counting emoticons): 19, 850, 1079 (in "Colorado"), 1960 This list is incomplete. Please expand it.
+The well-known "helper website" CyberChef has a text on its loading page that is a reference to this comic, probably as a joke.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+) Here you go, you're free now. --199.27.128.150 01:55, 3 January 2014 (UTC)
+Thanks but I will need some more: ))))) ooohh! ))))))) aaahh!!
+In saying: "The programming language Lisp (also featured in 224: Lisp is known for large numbers...", a closing parenthesis was omitted. Was this intentional?
+Maybe. >.> <.< lcarsos (talk) 03:21, 9 October 2012 (UTC)
+You would need to check the source to be sure... --B. P. (talk) 19:08, 9 October 2012 (UTC)
+(Muahahahahahahahaha! 108.162.245.8 02:04, 7 May 2014 (UTC)
+)162.158.255.148 22:24, 16 December 2019 (UTC)
+If this comic bothers you, #312 can help. Joey (talk) 03:07, 20 December 2012 (UTC)
+I do not think it's productive to explain the joke using the joke itself without clearly indicating that such is happening. So, It also refers to this awkward feeling when you see something (like an unmatched parentheses, speling error or a randomly-placed, comma. does not explicitly indicate the reflexive usage of the joke. I hope I'm not being overly pedantic, but my first instinct was to correct the spelling error. An an example the passage is fine, but it should be made to stand apart from the "real explanation" in some way, maybe in a callout or italicized as I have it here --Smartin (talk) 03:36, 4 January 2013 (UTC)
+"I hope I'm not being overly pedantic [...] An an example the passage is..." Perhaps you meant "As". 108.162.237.161 04:41, 24 May 2015 (UTC)
+wikipedia:Muphry's law 172.68.65.240 02:00, 15 March 2018 (UTC)
+This reminds me of when I used to program the TI-83. It would automatically close any parentheses at the end of a line, and all the programming guides told me not to close them, since it would save a tiny bit of memory. I must have annoyed my teachers a lot when this bled over into my homework. I know I've gotten graded down for it. 70.102.89.181 04:17, 28 June 2013 (UTC)
+This happens to me too!! Sometimes when I'm writing something, I don't put the closing ), though, I think this happens to most people sometimes. anyway, here's some TI-BASIC code:
+-1→Xmin:1→Xmax
+-1→Ymin:1→Ymax
+AxesOff
+Degrees
+While 1
+For(X,0,359,5
+sin(X-120→A
+sin(X→B
+sin(X+120→C
+Line(0,1,A,.3
+Line(0,1,B,.3
+Line(0,1,C,.3
+Line(0,-1,-A,-.3
+Line(0,-1,-B,-.3
+Line(0,-1,-C,-.3
+Line(.3,A,-.3,-B
+Line(.3,A,-.3,-C
+Line(.3,B,-.3,-A
+Line(.3,B,-.3,-C
+Line(.3,C,-.3,-A
+Line(.3,C,-.3,-B
+End
+End
+('s: 16
+)'s: 0
+(However, technically there are no ('s, because they are actually part of the For(, sin(, and Line( tokens, not the separate symbol.
+I still get syntax errors when programming in other languages! 173.245.56.180 (talk) (please sign your comments with ~~~~)
+
+))))))))) aaaahhhh Plm-qaz snr (talk) 12:39, 27 August 2014 (UTC)
+My hobby is (not really an hobby but a life's work (or calling)) (is explaining in detail (especially detail allowing me to indulge my hobby (not really an hobby but a life's work (or calling) where did this come from>)?
+Damn!
+I used Google News BEFORE it was clickbait (talk) 14:44, 24 January 2015 (UTC)
+I know lisp and see the connection, but where in the comic does it actually mention programming? Parentheses are used in ordinary English too, and they also have to be paired with each other. I think this comic is actually about lack of closure in a much more general way. Only the title text brings up programming, but only in the context of parsing strings. 108.162.219.180 23:12, 3 May 2015 (UTC)
+Parsing strings is part of programming. The title text is part of the comic. What is the problem? \173.245.54.58 16:53, 29 July 2015 (UTC)
+I'd like to mention that Google's result page shows the title of this comic differently from the other xkcd comics. I think Randall broke it. 108.162.237.161 04:41, 24 May 2015 (UTC)
+You know what's evil? Combining this comic with the substitution list comics! That is, changing an empty character to the place of the ')'. Zorlax the Mighty'); DROP TABLE users;-- (talk) 11:48, 2 August 2016 (UTC)
+Only just need ')' to complete, there you go! Boeing-787lover 13:46, 16 January 2018 (UTC)
+I just made an edit for you to suffer! aoijgpisbHtejsykl7ekderhtsjk6r64os4kys\\\[]jsrtjgdrghtvgwrhtejyku5dli6;78t7l6rk5j4h|||||#Rty-----WWWWWWfflfllfllfllfeogk0q9wwwwwwwwwwwwwwwwww4-cv;c;;c;c[;]z\]d;v[\]????????OH GOD IT'S CRASIHNG MY PC����������������������������������������������� (talk) 13:43, 3 November 2020 (UTC)
+<{((((( PoolloverNathan[stalk the blue seas]
+U•T•S•c
+14:16, 20 September 2022 (UTC)
+Here ya go. This closes all parentheses/brackets/quotation marks in the comic, comic title, mouseover text, explanation, and ones added by other commenters. (It would be way more but most canceled each other out.)))}> Danish (talk) 18:01, 21 December 2020 (UTC)
+)) Beanie (talk) 10:01, 29 April 2021 (UTC)
+AAUGHH THIS IS KILLING MEEEEEE ⟨Winter is coming⟩ Marethyu (talk) 21:57, 5 May 2022 (UTC)
+I accidentally placed an unpaired parenthesis in the trivia section. You may fix it if you like. ColorfulGalaxy (talk) 14:04, 6 August 2022 (UTC)
+(((<span>{[[[({( PoolloverNathan[stalk the blue seas]
+U•T•S•c
+11:31, 2 May 2023 (UTC)
+Categories: All comicsComics from 2011Comics from FebruaryFriday comicsProgramming

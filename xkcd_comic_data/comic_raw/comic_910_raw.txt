@@ -1,0 +1,45 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+910: Permanence
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 910)
+|<< PrevComic #910 (June 10, 2011)Next >>|
+Permanence
+
+Title text: This hostname is going in dozens of remote config files. Changing a kid's name is comparatively easy!
+Explanation[edit]
+On the top panel is the sketch of a Debian Installer showing a hostname dialog for its menu-driven frontend. Cueball wants to make sure that he chooses a great permanent name that he can give to the server he is running.
+Choosing a name for a server is an important task. It is non-trivial enough that there are official communications on how to choose a good name and why many ideas are bad, for example RFC 1178 Name Your Computer. It is important to pick a good name because changing it is costly once references to the existing name are widespread. For example, RFC 1178 states:
+if you later decide to change a name (to something sensible like you should have chosen in the first place), you are going to be amazed at the amount of pain awaiting you. No matter how easy the manuals suggest it is to change a name, you will find that lots of obscure software has rapidly accumulated which refers to that computer using that now-ugly name. It all has to be found and changed. (...)
+When Megan quips about how quickly, in comparison, Cueball named their daughter Caroline (a living being - that is, the type of entity that would give the server purpose), Cueball retorts that he was under pressure at the time: Megan tried to name said daughter "Epidural" in honor of the painkiller drugs that were being injected into her spine at the time. Megan tries to justify this by explaining that those were very good drugs, but thus also confirms Cueball's point, in that she was drugged, not in her right mind, and thus not making good decisions. Epidurals work by stopping nerves in the spinal cord from transmitting signals, and would not have an effect on the brain similar to those seen in someone given an opiate or narcotic. She may, however, have been motivated purely by the fact that the drug stopped the pain of labor or a cesarean section; alternatively, she may have been on entirely different drugs at the same time.
+In the title text Cueball mentions that he thinks that it is easier to change a person's name than to change the hostname of a server because of the number of changes that would need to be made to each of the machines that would have saved the old name of the server. It seems that Cueball hasn't realised that a child's name will get logged in government records, school records, and pretty much anything they sign up for and anything they buy or sign. (Of course, many of those documents will be changed by other organizations, making them somebody else's problem. Depending on the exact set of documents which Cueball needs to personally update, changing a name might be easier for him). Also, you typically have to wait in line at the Social Security Administration office or at the Department of Motor Vehicles, both of which take excruciatingly long amounts of time.
+Transcript[edit]
+[A large panel the combined width of the four panels below it.]
+[A blue Linux terminal installer screen with a grey box that is labeled "[!]CONFIGURE THE NETWORK" in red. Below, in black, it reads "Please enter the hostname for the system." Below is an empty blue entry box with a cursor and dashed underscore, and below this it says "<GO BACK>".]
+[Cueball sits at his computer, Megan stands behind him.]
+Megan: You've been staring at that screen a while.
+Cueball: Picking a good server name is important.
+[Megan stares at him.]
+[She continues to stare.]
+[Cueball pushes his chair back, puts one elbow on the back of the chair and points with his other hand at the screen.]
+Megan: And yet you settled on "Caroline" for our daughter in like 15 seconds.
+Cueball: But this is a server!
+Cueball: Besides, I had to—you were trying to name her "Epidural."
+Megan: Those were good drugs.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I would marry a girl called epidural. Davidy²²[talk] 01:40, 17 April 2013 (UTC)
+Thank you, David, for your words of wisdom. You are the kind of people needed in this world. Like Batman. Netherin5 (talk) 17:17, 8 March 2019 (UTC)
+Server or not, I know myself the feeling of wanting a super-duper high-school-level name. At least I have a system of naming my computers, gaming devices, and (future?) servers.Greyson (talk) 17:49, 13 February 2014 (UTC)
+I usually use some kind of encoded date (related to when the computer was acquired or setup) in the name, probably prefixed by something signify the model or vendor of the computer. Permanency of relevance is guaranteed and it is easier than try to think what the name will means years from now. Arifsaha (talk) 20:13, 30 October 2014 (UTC)
+This appears to be the Debian installer. It's also missing the "<Continue>" button.108.162.216.119 02:38, 1 March 2015 (UTC)
+I assume it only shows up once you have entered a valid hostname. --162.158.22.71 01:36, 18 October 2016 (UTC)
+Use a name that reminds you which computer it is. In a network this can be very important. It should be descriptive but not silly or generic. Trust me on this. Jakee308 (talk) 03:21, 15 June 2015 (UTC)
+I've still called my servers planet names. Even 'Pluto', my build server, works just fine without Pluto being a real planet. -162.158.91.190 23:06, 23 October 2015 (UTC)
+Epidural anesthetics don't make one feel or act "drugged" in the sense of stoned. They can cause hypotension (low blood pressure), which can cause lightheadedness, but that would rarely produce a similar effect to, say, marijuana or LSD. Other side effects can include nausea, backache, and headache (http://www.nhs.uk/Conditions/Epidural-anaesthesia/Pages/Sideeffects.aspx), none of which would make one want to name one's baby after their cause. -- Npsych (talk) (please sign your comments with ~~~~)
+No, it'll be in many memory files of people! SilverMagpie (talk) 22:59, 29 November 2016 (UTC)
+And this is why my D&D characters have no names 4 sessions in. SilverMagpie (talk) 05:10, 16 February 2018 (UTC)
+The use of 'Caroline' may be a reference to the Portal 2 character, especially given Caroline's assumed fate. petern3 (talk) 06:51, 22 July 2018 (UTC)
+Is it just me, or is there no period after "Epidural"? 172.70.130.125 23:25, 7 December 2021 (UTC)
+Categories: All comicsComics from 2011Comics from JuneFriday comicsComics featuring MeganComics featuring CueballComics with colorLinuxKids

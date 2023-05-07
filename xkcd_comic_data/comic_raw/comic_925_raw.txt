@@ -1,0 +1,54 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+925: Cell Phones
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 925)
+|<< PrevComic #925 (July 15, 2011)Next >>|
+Cell Phones
+
+Title text: He holds the laptop like that on purpose, to make you cringe.
+Explanation[edit]
+This comic is a good explanation of the correlation/causation fallacy, where one party states two unrelated events and posits that they must have influenced each other.
+After hearing about the "Cell Phones Don't Cause Cancer" study, which refutes a claim made by the World Health Organization (just Google the debate or check out Wikipedia's article on it, the comic doesn't focus much on it), Black Hat plots "Total Cancer Incidence" per 100,000 and "Cell Phone Users" per 100 on the same graph. The graph in frame 3 shows an exponential rise in cancer in the 70's and 80's, followed by an exponential rise in cell phone usage in the 2000's. Black Hat reverses the correlation/causation fallacy, and comically comes to the conclusion that cancer causes cell phones.
+The comic highlights a well-known fallacy known as post hoc ergo propter hoc, often shortened to simply post hoc. The Latin translates to "after this, therefore because of this,” (or simply “because of this”) referring to the common mistake that because two events happen in chronological order, the former event must have caused the latter event. The fallacy is often the root cause of many superstitions (e.g., a person noticing they wore a special bracelet before getting a good test score thinking the bracelet was the source of their good fortune), but it often crosses into more serious areas of thinking. In this case, the scientific research community, which often prides itself on its intellectual aptitude, is gently mocked for being nonetheless prone to such poor reasoning all too often. The different possibilities are generally known as causation, when one thing is proven to cause another, or correlation, when changes in one thing are aligned with changes in another, but there is no proof that they are directly related.
+The title text refers to the way Black Hat holds the laptop in panel 2. Being that Cueball (and Randall, for that matter) are quite into computers, the potential damage to a laptop screen either from the weight of its lower body or the pressure of the user's fingers on the LCD screen is enough to make him squirm in discomfort. The risk of dropping the computer is also present.
+Transcript[edit]
+[Cueball holds a cellphone. Black Hat is sitting at a desk with a laptop.]
+Cueball: Another huge study found no evidence that cell phones cause cancer. What was the W.H.O. thinking?
+Black Hat: I think they just got it backward.
+[Black Hat turns towards Cueball in an unframed panel, holding the laptop with one hand by the upper edge of the screen. Cueball is not visible.]
+Cueball: Huh?
+Black Hat: Well, take a look.
+[There is a plot of total cancer incidence and cell phone users. Cancer rises from 1970 to 1990, then stays relatively steady. Cell phone use rises from roughly 1984, and steeply after 1990, to the present.]
+Cueball: You're not... There are so many problems with that.
+Black Hat: Just to be safe, until I see more data I'm going to assume cancer causes cell phones.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+On first read I thought the joke is that the cell phone graph shape (somewhat) closely mimics the shape of the cancer graph, including the part where it begins to level off - implying that one linearly correlates with the other, with a 20 year delay (a typical time it takes for cancer to manifest, except in this case it's backwards). ultramage 14:17, 22 December 2012 (UTC)
+
+That and the fact the graph is out by a scale factor of 1000 is always a fun way to screw over how the statistics look. 82.16.27.115 (talk) (please sign your comments with ~~~~)
+Nah b', it's 2000. 76.67.97.246 (talk) (please sign your comments with ~~~~)
+The real problem with the graph is that it makes it look like cancer rates have increased from near-zero levels to way higher since 1970, until you actually read the Y axis and see that it's gone from about 400 (per 100,000) to about 475. This is an increase of only 18.75%, as opposed to the visual appearance of a 300% increase. Hats off to Black Hat!! 108.28.72.186 01:18, 7 August 2013 (UTC)
+Among the many things wrong with the graph is the lack of context. Much of the increase in cancer incidence in the 80s was the availability of pre-clinical testing for prostate cancer[1]. The other is the improvements in control of infectious disease, and more recently heart disease, resulting in an enlarged elderly population who are more at risk of cancer. 141.101.98.99 (talk) (please sign your comments with ~~~~)
+No, it is 10000. The graph says "cancer incidences per 100,000 people" and "cell phones per 100 people", which is 1000. Maybe you got confused by comparing the y-axis? (They both increase by 25 per bar FYI.) Beanie (talk) 11:18, 5 May 2021 (UTC)
+Not to mention that the 1970s and 1980s was when tobacco usage reached its apex, radiation from atmospheric nuclear weapons testing in the 1950s started metastasizing in survivors' bodies, industrial pollution reached such a high level that the Federal government created the Superfund scheme, and nobody even knew about the hole in the ozone layer. 162.158.167.58 00:46, 25 February 2021 (UTC)
+I thought the laptop joke was that some people believe not to put it on your lap because it messes with your reproductive organs! ~JFreund
+But you know now you are wrong, correct? 108.162.219.223 06:59, 21 January 2014 (UTC)
+If your laptop starts messing with your reproductive organs, you may want to either tell an adult, or stop taking drugs (or possibly take more drugs). 108.162.237.218 06:45, 3 May 2014 (UTC)
+I originally thought that the graph was supposed to show that an increase in cellphone use caused a decrease in cancer. I'm not sure why Randell didn't go with that conclusion, as it seems way more obvious to make when you look at tha graph, and it's humorously the opposite of what people are saying. Still very silly, of course :p Maplestrip (talk) 08:37, 31 October 2014 (UTC)
+For all the fun publicity this gets, I agree -- the graph doesn't really make it look like cancer causes cell phones, but rather that the leveling off in the growth in cancer rates causes an increase in cell phone use. Not as funny stated that way, for sure, so I get why XKCD didn't go that way. 173.245.54.133 13:27, 24 July 2015 (UTC)
+
+Why does the title text explanation refer to panel 2? From what I can see the title text either refers to a) you should not hold your laptop by its screen as it may damage it (in panel 2) or b) you should not not rest your laptop on your lap as it may overheat and damage you (in panel 4). I think a) makes more sense since the comic refers to how black hat "holds" the laptop, but I can also see that b) references the subject of the comic. 141.101.98.177 10:19, 22 November 2014 (UTC)
+Seconded. I'm changing it. --141.101.104.17 19:05, 16 December 2014 (UTC)
+When brash well educated young men from good homes start using dolls as good luck fetishes the sergeants in charge of their ground crew should have a word with their squadron leaders about such people suffering stress.
+Unfortunately there was a shortage of pilots and there was no medical help for anyone who Lacked Moral Fibre. Plus the Air Ministry was, in a large measure, responsible for the aggressive attack of the disease initially.
+OTOH of course, it was all a long time ago and most of them are dead by now.
+(Might have stopped some using IFF over enemy territory though. (Pity, that.))
+I used Google News BEFORE it was clickbait (talk) 17:10, 23 January 2015 (UTC)
+
+Whoever included the socks comment in the explanation, I just laughed harder at that than at the actual comment. Props Bbruzzo (talk) 00:30, 15 August 2015 (UTC)
+I think it's worth noting that Black Hat says "Just to be safe, until I see more data, I'm going to assume cancer causes cell phones." When I first read the strip, I thought it was a play on how empirically, one wants to assume that there is zero correlation whatsoever. Instead of being safe by assuming there is no correlation, Black Hat assumes that the correlation is there (albeit backwards compared to the norm). However, in retrospect, Black Hat may consider cell phones to be an ailment and wishes to prevent or avoid them, just as someone who believed cell phones cause cancer might stay away from cell phones, "Just to be safe". Makes sense to anyone? Viperzer0 (talk) 07:41, 18 March 2017 (UTC)
+The incomplete notice was incorrect; it is completely fine to have a second y-axis too show a second trend. --OriginalName (talk) 04:30, 16 May 2017 (UTC)
+Does this really fit the Cancer category? It doesn't mention Randall's wife's cancer. RamenChef (talk) 03:10, 8 November 2017 (UTC)
+Categories: All comicsComics from 2011Comics from JulyFriday comicsComics featuring CueballComics featuring Black HatComics with colorLine graphsMathStatisticsCancerScientific researchPhones

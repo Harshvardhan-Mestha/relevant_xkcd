@@ -1,0 +1,33 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+816: Applied Math
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 816)
+|<< PrevComic #816 (November 8, 2010)Next >>|
+Applied Math
+
+Title text: Dear Reader: Enclosed is a check for ninety-eight cents. Using your work, I have proven that this equals the amount you requested.
+Explanation[edit]
+Donald Knuth is a computer scientist who has written several computer science textbooks and he offers monetary rewards for anyone finding errors in his publications. The first error found in each book is worth US$2.56 (256=28 is a very important number in the IT domain). Other suggestions are worth less than $2.56, but a check is still sent out if Dr. Knuth finds them to be reasonable.
+Megan uses a proof to invalidate logic itself. (Of course, this means that her proof paradoxically renders itself meaningless. If logic has been disproven, her proof has no value.) According to the logic symbols at the bottom of the proof, she has proved that "the proposition (statement) is true and the proposition is false," i.e. "something is both true and false." (Specifically, ∴ means "therefore", P represents that a proposition is true, ∧ stands for "and", and an overbar negates a proposition (so P represents that a proposition is false) The negate symbol, ¬, is also used for this purpose when placed in front of a symbol). If someone were to prove this, it would indeed derail the very foundation of logic and result in the principle of explosion, which was referenced in a previous comic.
+Since most of the content of computer science textbooks is fundamentally based on logic, Megan's proof obviously spells doom for Dr. Knuth's, as each instance of logic can now be considered an error. After Megan's friend confirms the validity of her proof, Megan writes a letter to Dr. Knuth to collect her money for the 1,317,408 errors in The Art of Computer Programming at $2.56 each. According to the amount Megan demands as a reward, she apparently considers this textbook to have an average of more than 400 instances of logic per page (if she has the latest edition of each volume).
+The title text is the reply from Dr. Knuth, in which he uses Megan's logic-disproving proof against her by claiming — with no logical explanation — that the amount of money she is in fact due as a reward is only 98 cents. In logic, from a contradiction (such as "P∧P") can be inferred any statement, including that $3,372,564.48 = $0.98. He does this presumably to a) get out of paying her over three million dollars, b) demonstrate his contempt for or disbelief in her proof, and/or c) to show her, rather passive-aggressively, that she herself is not exempt from any ill effects resulting from her proof. If logic is proved to be false, then all mathematics are proved false and 3,372,564.48 = 0.98. Dr. Knuth could have also given her nothing, as 0 would equal 0.98 which would equal 3,372,564.48.
+The title of the comic, "Applied Math," is a play on Applied mathematics, "mathematical methods that are typically used in science, engineering, business, and industry," as opposed to pure math, which focuses exclusively on abstract concepts. Instead of using math to calculate something like the speed of a falling object, Megan uses it for an ostensibly more frivolous reason: to gain a huge reward via a proof of dubious validity.
+Transcript[edit]
+[Ponytail is standing at a whiteboard considering a logical proof. The proof assumes P and deduces P ∧ P.]
+Ponytail: Wow. I can't find fault with your proof.
+[Ponytail is still looking at the white board, the frame expands to show Megan walking away, rubbing her hands together in an evil manner.]
+Ponytail: You've shown the inconsistency — and thus the invalidity — of basic logic itself.
+Megan: Excellent. On to step two...
+[Megan sits down at a desk and begins to write.]
+Dear Dr. Knuth,
+[She continues to write.]
+I am writing to collect from you the $3,372,564.48 I am owed for discovering 1,317,408 errors in The Art of Computer Programming...
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Where IS the indication that she got the address from Black Hat ?Guru-45 (talk) 10:45, 17 May 2013 (UTC)
+She must have derived it via the principle of explosion. 108.162.221.90 19:58, 12 May 2014 (UTC)
+Which is a reference to xkcd #704. 108.162.254.56 11:45, 8 June 2015 (UTC)
+If you look in the top-right corner, you can see what looks like "ZFC," (Zermelo-Fraenkel Set Theory with the Axiom of Choice), which is a a dozen or so axioms that all of mathematics is built upon. Because of Godel's Incompleteness Theorems, it is impossible to prove that ZFC contains no contradictions (unless it actually does contain contradictions). If Megan proved the inconsistency of logic, she certainly could show as a corrollary the inconsistency of ZFC, and therefore all of mathematics. Even statements like 2+2=4 could be proven false. String userName = new String(); (talk) 20:20, 7 May 2015 (UTC)
+Categories: All comicsComics from 2010Comics from NovemberMonday comicsComics featuring MeganComics featuring PonytailComics featuring Donald KnuthLogic

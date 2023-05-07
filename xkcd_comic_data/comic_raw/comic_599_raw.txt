@@ -1,0 +1,70 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+599: Apocalypse
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 599)
+|<< PrevComic #599 (June 19, 2009)Next >>|
+Apocalypse
+
+Title text: I wonder if I still have time to go shoot a short film with Kevin Bacon.
+Explanation[edit]
+This comic begins with the beginning of the Apocalypse, hence the title. It is depicted, properly, with a very dystopian color picture with several yellow burning meteors striking down from the blood red sky, towards a black, red, orange and yellow ground. The way the panels are drawn below makes a transition from this dark image to a normal comic, with the first normal panel being superimposed on the dark image.
+In this image Beret Guy shouts out The apocalypse! And then he continues to explain what this will mean: The skies burn, the seas turn to blood, and the dead walk the earth!
+All three sentences are attributed to the apocalypse, but it seems that the first one about the sky burning, actually comes from a translation of one of the Nostradamus predictions which has, amongst others, been used to "predict 9/11". In Revelation 16 from the Bible about the Seven bowls, which are a set of seven plagues of God's wrath poured over the wicked towards the Apocalypse, the second bowl describes that The Sea Turns to Blood. The resurrection of the dead is from the biblical version of the Apocalypse, the Last Judgment.
+After Beret Guy has announced this, he runs into Cueball who has heard part of this, but he is only interested in the last part and asks to check if he understood correctly that the dead will walk the earth. When this is confirmed Cueball becomes very busy.
+He runs to his office and quickly writes a scientific math paper, then runs as fast as he can to the math department and get his colleagues to sign it. Then he runs to a cemetery where the dead are rising, finds the one he searched for, and asks the resurrected zombie if he is Erdős. When confirmed that he is indeed Erdős, Cueball asks him to sign the math paper.
+Paul Erdős (26 March 1913 – 20 September 1996) was a Hungarian mathematician who (according to Wikipedia) published more papers than any other mathematician in history, working with hundreds of collaborators. His grave is in the Kozma Street Cemetery in Budapest.
+There is an in-joke developed among mathematicians called the Erdős number (similar to a Bacon number for film actors, referenced in the title text, see below). By definition, Erdős has an Erdős number of 0. Everyone who has co-written a mathematical paper with Erdős has an Erdős number of 1. Everyone who collaborated with them (but not Erdős himself) is assigned an Erdős number of 2. In general, if k is the minimal Erdős number of all the people you've written papers with, your Erdős number is k + 1. The Erdős number is the length of the shortest "chain" from you to Erdős.
+Thanks to collaboration between mathematicians and other researchers, many people in science and medical research now have Erdős numbers. Not everyone has an Erdős number, though; people without any chain linking them to Erdős have an undefined Erdős number. For example, most people who are not mathematicians or scientists do not have Erdős numbers. Nor do mathematicians and scientists whose publications were written by themselves only with no collaborators.
+By this trick Cueball thinks that he and his colleagues will now all have an Erdős number of 1. The joke is that he would be using his last few hours in this life to write a math paper just to improve his and his friends' Erdős numbers.
+There are, however, many problems with his idea, even assuming the dead will walk the earth on that day. First of all, just having your name on a piece of paper with Erdős's signature does nothing for your Erdős number. It needs to be a scientifically valid paper, published in a peer reviewed scientific journal. And given that the apocalypse is happening, there seems no time, chance or reason to publish any more math papers.
+Even if there were time, it would not count for much to have someone sign a math paper they haven't even read, let alone had anything to do with the actual writing and research. The same would be true for the other five mathematicians who signed it. But of course many papers have coauthors who did not do much more than work in the same department as the person who actually wrote the paper (a sad but true fact). Presumably Cueball's friends assume that nobody will investigate whether they, or Erdős, truly participated in the writing and research of Cueball's paper.
+Furthermore, even if it did count, they will not be able to take the paper with them into the afterlife (although since nobody has ever returned from the afterlife[citation needed] we can't be certain of this), and thus since no one would have had time to read the paper, no one would know they had an Erdős number of 1. In the afterlife they could all say that they had such a number, but then again everyone else with such an interest could do the same, since no one could prove otherwise. Of course if you end up in the same part (Heaven or Hell) of the afterlife as Erdős he could confirm or deny the claim, but that would probably not help Cueball and his friends, since he could tell the truth about their paper. (Erdős was known for using an idiosyncratic set of slang terms, in which he described people who had stopped doing mathematics as having "died", whereas people who had died had "left".)
+That the whole comic is about the Erdős number, and not just Erdős signature, is made clear in the title text which refers to a similar (and less esoteric) meme called "Six Degrees of Kevin Bacon", or simply Bacon numbers. This time, the chain's center is actor Kevin Bacon, and the links are formed by two people appearing in the same movie. Unlike Erdős, Kevin Bacon is not dead yet, so those of you wishing to get a Bacon number of 1 still have a chance.
+In the title text Cueball thus wonders if there is still time for him to make a short film with Kevin Bacon, now he has used so much time on improving his Erdős number. Again, if the film hasn't been shown to the public it would not count for anything...
+One of the mathematical scribbles appearing in panel 5 shows the square root of 163, which may be a reference to Ramanujan's constant.
+403: Convincing Pickup Line has a parody of the Erdős collaboration graph.
+Zombies are a recurring theme in xkcd, particularly zombie scientists, which has also occurred both before with Richard Feynman in 397: Unscientific and after with Marie Curie in 896: Marie Curie.
+Transcript[edit]
+[The first panel is very large and shows a dark scene with one large meteor in front and four smaller in the background showering the darkened earth. They are all five black with yellow fire around them and a fire trail behind them, and all are flying from the top left corner and down towards right. The sky at the top is pitch black, but then the sky turns blood red under dark clouds. Two large mountain peaks, one almost pyramid shaped, are shown to the left and to the right there are two smaller peaks towards the distant horizon. The mountains and the ground around them are mainly black, but with red, orange and yellow streaks spread all over the black area beneath the mountain peaks, maybe indicating fire or lava, or reflections in water or blood. At the bottom right corner a normal white panel is superimposed on this apocalyptic image.]
+[The smaller panel at the bottom of the first is halfway over the first panel, haflway below, and only to the right of the middle of the first panel. Beret Guy is running towards left, with his arms raised in the air.]
+Beret Guy: The apocalypse! The skies burn, the seas turn to blood, and the dead walk the earth!
+[From here a normal sequence of panels in three rows begin beneath the second panel. This leaves a gap between the apocalyptic panel and the first row of regular panels, on the left side where the 2nd panel did not reach over. In this panel Beret Guy (coming from the right) finds Cueball.]
+Cueball: The dead what?
+Beret Guy: Walk the earth!
+[Cueball running right in a thin panel.]
+Cueball: I have to go.
+[Cueball sitting on a chair at a table scribbling vigorously and noisily with a pen on a paper. Mathematical symbols appear above Cueball's head, including a summation from i=0 to n, a logarithm of n and the square root of a number.]
+∑ni=0ik1/i log(n)
+√163
+Scribble
+Scribble
+[Cueball running right again, in a thin panel, pen and paper in hand.]
+[Cueball opening door with label:]
+Math Dept
+Cueball: The dead return!
+Cueball: Everyone, quick, get your names on here!
+[Cueball stand on the left side of a table looking left over his shoulder. Five people are lining up to sign the paper lying on the right side of the table. The first who signs with a pen is Blondie, then in line follows Megan, a Cueball-like guy, Ponytail and another Cueball-like guy who stand with one hand to his chin looking right, away from the other.]
+Blondie: At last!
+Guy looking right: I hope there's time!
+[Cueball running right in yet a thin panel, with pen and the paper flowing behind him.]
+[Cueball walks right with the paper and pen in his hand as he arrives at at a cemetery as revealed by an old worn sign. Scary sounds appear off-panel right.]
+Sign: Cemetery
+Rising dead (off-panel): Hurrghhh
+[Cueball, still going right, arrives at a grave, pen in hand and the other hand almost outside the panel, but with a corner of the paper just visible. The grave has a large gravestone to the right and in front of it there is a Cueball-like guy rising up from the ground using his arms to push up on the base of the stone and the small pile of earth towards Cueball. The guy looks very worn, with dirt on his head and scratches on his cheek.]
+[Cueball bends a little down and offers pen and paper to the raised dead man who looks up at him when he is addressed.]
+Cueball: Paul Erdős?
+Erdős: Yes?
+Cueball: We need you to sign this.
+Trivia[edit]
+This version of Blondie seems to be employed at a mathematical department on a university. It could thus also be Miss Lenhart, but there is no proof that she is a teacher...
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Imagine the result if the ressurected Erdős also appears in that proposed short film with Bacon. They'd both immediately get Erdős–Bacon numbers of 1, for themselves, and then every traditionally Erdős-numbered person and every single Bacon-numbered person would be guaranteed to end up with an Erdős–Bacon number of no more than their existing (Erdős|Bacon) number plus one! It would make a mockery of the entire system!!! ...and that's why the end of the world is a Bad ThingTM 178.105.100.250 18:42, 23 May 2013 (UTC)
+(Because there are pedants out there, I wish to immediately acknowledge the intrinsic error in such a statement... Anyone who hasn't acted XOR hasn't co-authored a paper can't get a finite Bacon||Erdős number to add to their finite Erdős||Bacon number, and someone who co-authored a paper with someone who acted with a second Baconised person cannot count that particular link as part of either chain, unless otherwise qualified, and therefore would count for both... Although the intermediary person might get a chance to connect to both if the original guy gets Erdős-connected by a different route. But way to ruin my own joke.)
+((Oh, and my Bacon number is no more than 3, by way of an uncredited film appearance alongside Ian McKellan. I haven't checked to see if anyone else that's relevent has less than his presumed value of 2, but I'm not Erdőlised at all yet. Maybe that's my next goal in life. I know someone with an E-number of <=3, but obviously that's not enough to be worthy of geting an EB# of 7 or less for myself. 178.105.100.250 19:15, 23 May 2013 (UTC) ))
+Without the title text it could be seen as a reference to Erdös' signature. Erdős used to sign things pgom (poor great old man) then ld (living dead) then ad (archaeological discovery) then ld again (legally dead) then cd (counts dead) so it could be them trying to see if he'd sign living dead. FlyingPiggy -- FlyingPiggy (talk) (please sign your comments with ~~~~)
+Because this website does not usually take a position regarding religion or the lack of religion, it may be that the moderator has failed to realize that the explanation section pertaining to the biblical concept of Apocalypse is not universally accepted. Not even close to being universally accepted. There are a number of other theological views from those who believe in the authenticity of the Bible's message which would disagree with this "explanation." 162.158.122.120 17:40, 11 December 2019 (UTC)
+I got nerd sniped trying to figure out what the summation in panel 5 (∑ni=0ik1/i) is supposed to be. It turns out the first term (where i = 0) comes out to 0k/0, which is undefined for all k. It follows that the sum itself is only defined when n < 0, i.e. when it's an empty sum. However, if we cancel the 1/i with a factor of i, we get ∑ni=0ik-1, which is defined when n < 0 or k ≥ 1. Here's an interactive version I made in Desmos. Hhhguir (talk) 23:47, 3 March 2022 (UTC)
+Categories: All comicsComics from 2009Comics from JuneFriday comicsPages using the "citation needed" templateComics with colorComics featuring Beret GuyComics featuring CueballComics featuring BlondieComics featuring MeganComics featuring PonytailMultiple CueballsComics featuring real peopleMathZombiesComics with bloodScientific research

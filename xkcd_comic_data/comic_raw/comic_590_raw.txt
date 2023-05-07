@@ -1,0 +1,41 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+590: Papyrus
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 590)
+|<< PrevComic #590 (May 29, 2009)Next >>|
+Papyrus
+
+Title text: I secretly, deep in my guilty heart, like Papyrus and don't care if it's overused. [Cue hate mail in beautifully-kerned Helvetica.]
+Explanation[edit]
+One of the comics in the "My Hobby" series, this one touches on the fact that the font Papyrus is considered to be overused by many typography geeks, including the font's own creator. Pretending that he doesn't know that, Cueball gives Ponytail a heartfelt card written in that font just to see her twitch.
+The title text says that Randall actually likes Papyrus, even if it is overused, and refers to the fact that he will soon be receiving hate-mail from people who dislike Papyrus. Those mails will be written in Helvetica, another commonly-used sans-serif font that is highly esteemed by typography geeks, designers, and often hipsters. It suggests that the designers would also take the time to check the "kerning", editing the spacing between individual letters to be visually pleasing - a time-consuming activity that, it can be suggested, would only be noticed by other designers. See also 1015: Kerning.
+Transcript[edit]
+[Caption above the panel:]
+My Hobby:
+Getting typography geeks heartfelt cards printed in "Papyrus" and watching them struggle to act grateful.
+[Ponytail is holding a card, with lines of indiscernible text, open and looking down, specifically neither on the card nor on Cueball, who is watching her instead. An angry tic is flicking on her forehead.]
+Ponytail: Thank you for the *twitch* ... lovely... *twitch* birthday card!
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+For reasons that should be obvious, I've put the whole page in a certain much-hated font. *Cackles maniacally.* PinkAmpersand (talk) 11:15, 14 May 2013 (UTC)
+I rather doubt whether this is really helpful. In my opinion, the purpose of this wiki is to deliver background information about the comics, not to ruminate its jokes. Besides, the page uses some Serif font for me (as I do not have Papyrus installed) which is stylistically inconsistent. If we should reach consent that this page MUST absolutely be in Papyrus, we should at least provide some appropriate fallback font. LotharW (talk) 12:46, 14 May 2013 (UTC)
+1167: Star Trek into Darkness Davidy²²[talk] 13:04, 14 May 2013 (UTC)
+I must say I do not particularly like that page either. I think it looks childish and nonserious. Also, a second example does not necessarily justify the first. But as you see, I did not revert or change anything. If it be so, we should at least do it correctly. In the current state, the page looks simply strange to anyone who does not have the font. (As far as I know, it was included only in some versions of Microsoft Office.) Does anybody know whether the license allows web embedding? LotharW (talk) 13:54, 14 May 2013 (UTC)
+Over the years I have grown a hatred towards Papyrus because it's so overused, so this comic resonated with me well. But then this week I watched Firefly and Serenity which are now both my favorite TV show and movie, and they use Papyrus. I know Randall also loves them. But now I have no idea how I should feel about the font, as I would be rather hypocritical to hate the font used so heavily in my favorite show and movie. Keavon (talk) 01:48, 1 December 2014 (UTC)
+I feel the same way about the "Algerian" font. The most over used business sign font ever. 173.245.54.195 (talk) (please sign your comments with ~~~~)
+NYEH HEH HEH! -Pennpenn 108.162.250.162 04:06, 4 December 2015 (UTC)
+This was expected, and it is great (incidental music from sans), though this comic came before Undertale. 108.162.237.215 15:46, 15 June 2016 (UTC)
+My Favorite font is Comic Sans :) 173.245.54.8 (talk) (please sign your comments with ~~~~)
+I have zero respect for any typeface whose capital I is nothing more than a rectangle. I resent Helvetica in particular for making precisely that mistake while being so overly popular. 172.68.142.221 01:26, 8 October 2019 (UTC)
+Have a "joke" version of this page that's all in Papyrus?[edit]
+Provide a link to it right at the top of the explanation? Many of us would like to see this just for funzies (since it seems poetically appropriate), but I understand the desire to keep things readable for people who actually do need the explanation. Hopefully it would result in less temptation for people to make edits that mods keep having to revert. Idk, thoughts? MeZimm172.69.170.56 22:39, 18 March 2021 (UTC)
+Copy the whole page, paste in into word or google docs, then change the font to papyrus. It won't be perfect, but it will give some approximation. Beanie (talk) 13:20, 19 April 2021 (UTC)
+what fun hating person removed the font--162.158.187.130 16:37, 15 December 2021 (UTC)
+Probably no-one. I don't have Papyrus on this device, and certainly it doesn't show, though I have seen it working on a desktop. Maybe you are currently reading from a similar one.
+And if you're the one that added the extra span-tags (two opening ones, but no extra closing ones) then you clearly didn't see the span-tags (open+close) within the first paragraph. I undid you. Do it properly if you do it again (but I don't think you should). Take ccare and use Preview to check before submitting.
+(Also I'm deleting a rogue signature-insertion here in Talk, clearly a misclick... Check the diffs to see what I mean.) 172.70.85.79 19:32, 15 December 2021 (UTC)
+How do I add closing tags? I just looked in revision history when the font was up and copied whatever made the font papyrus--162.158.187.208 13:54, 16 December 2021 (UTC)
+Standard XML/HTML... for every <tag>, end with a </tag> (or have it be <tag /> if it's not a container of anything, but it is in this case...). See the actual start and end span-tags that were there mid-paragraph anyway meaning you were nesting <yourtag> <existingtag> </existingtag> <yournexttag> leaving the browser only able to assume you meant to have </yournexttag> </yourtag> right after everything else (or at the point some other pre-existing tag, that existed before all this stuff, gets officially untagged). 172.70.90.91 23:30, 16 December 2021 (UTC)
+Categories: All comicsComics from 2009Comics from MayFriday comicsComics featuring CueballComics featuring PonytailMy Hobby

@@ -1,0 +1,45 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+694: Retro Virus
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 694)
+|<< PrevComic #694 (January 27, 2010)Next >>|
+Retro Virus
+
+Title text: He says this is the year of Linux on the desktop! The world of Windows will fade any moment now!
+Explanation[edit]
+This comic uses the word "retro" as a reference to retro style and "virus" as a reference to computer viruses. This portmanteau is also a double entendre for a retrovirus, which is a type of biological virus.
+Cueball finds himself needing to clean a virus off his Windows machine. Unfortunately, the registry editor (regedit), a key tool in manipulating Windows, is affected. A coworker comes over and mentions that it has been a while since he has worried about cleaning viruses in the Win32 API.
+Cueball responds that Windows XP operating system is still the most popular (which it was in 2010, and remained until mid-2012), but is drowned out by another coworker (Ponytail) who exclaims that it is as if they are back in 2003. Back then, Windows XP machines were the standard in many places, and were far more often targeted by viruses than other systems, e.g. Linux, Mac OS X, etc.
+In the final panel, Cueball's coworkers continue to make fun of him by referencing things that were important back in 2003 like Howard Dean, Friendster or Kazaa. Such things have since fallen largely out of prominence.
+The title text is a reference to the year of Linux on the desktop, which is an expectation that in an upcoming year, Linux will make a large breakthrough and be widely adopted by businesses and personal users. The expectation has been around since about 2000, however, and has not exactly happened (although non-desktop devices running Android, a Linux-based OS, are now very common). If it were to happen, the large market share enjoyed by Windows OSes would fade away.
+Transcript[edit]
+[Cueball is using a computer.]
+Cueball: Argh, this is frustrating.
+Friend (off-panel): What?
+Cueball: This Windows box has a virus and I can't get RegEdit to-
+Friend (off-panel): Haha, cleaning viruses? Man, what a blast from the past!
+Friend: Check it out! Dude's cleaning Win32 viruses! Remember that?
+Ponytail (off-panel): It's like we're back in 2003!
+Cueball (small): Hey, XP's still the most-
+Friend: Did you get the virus from Kazaa?
+Ponytail (with laptop): Guess what I just read on Howard Dean's Friendster!?
+Cueball (head in hands): Guys...
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Edited to reflect that at the time referenced in the comic (2003), Windows XP machines were not necessarily "more susceptible" to viruses, but rather due to their ubiquity (especially at large corporations or other organizations) were more likely to be targeted by viruses. I'm certainly not an expert, so please if anyone has a better understanding, update or revert the explanation, as appropriate. Orazor (talk) 08:52, 11 June 2014 (UTC)
+"Cleaning viruses in the Win32 API" is such a stupid statement... Gonna edit it later. 141.101.89.217 13:28, 9 October 2014 (UTC)
+When, exactly, is "later"?Elektrizikekswerk (talk) 10:47, 11 December 2014 (UTC)
+When the prophets realise there is more to keeping Windows afloat than a cartel making hardware. Or do you imagine that moving to Adobe is a brilliant move on the part of US Intelligence.
+Ah... Let me rephrase that...
+There is no way on god's earth that Microsoft could have survived Vista without a lot of very well placed software makers shitting semicolons. Imagine the wave of panic that must have darkened the doorstep of every computer seller and manufacturer of Windows games and other software when it occurred to them it was Vista or Linux.
+If going back to school would have sucked for Windows users, think how the schools were reacting to the news.
+I used Google News BEFORE it was clickbait (talk)
+I predict the Linux Event date to be sometime in 2016. That's because I, a confirmed disbeliever in the usability of Linux (due to many attempts and no successes), have decided that the Linux community has matured enough and grown large enough to have created a distro that I can get working. I will be attempting this major breakthrough in the next 6 months or so. Please stand by. Jakee308 (talk) 19:08, 8 June 2015 (UTC)
+Didn't happen. Linux just totally sucks. All the commands make no sense (If I hear 'sudo' one more time I will barf)
+. Also Android is shit. 173.245.54.35 (talk) (please sign your comments with ~~~~)
+IMO the commands make so much more sense than their Windows counterparts. And sudo (I don't care about your barf) is really simple, it's just "run this as admin". 162.158.2.60 12:41, 8 December 2016 (UTC)
+You should try Fedora. Fedora is probably the best Linux distribution for GNOME. It's also the most up to date (while stable) distro. :) 108.162.238.90 (talk) (please sign your comments with ~~~~)
+As much as I'd like that too, it's 2020 and that ist still very far from happening. Any new guesses, when it will happen? --Zehka (talk) 10:31, 3 May 2020 (UTC)
+Categories: All comicsComics from 2010Comics from JanuaryWednesday comicsComics featuring CueballComics featuring PonytailPunsMultiple Cueballs

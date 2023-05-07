@@ -1,0 +1,37 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+974: The General Problem
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 974)
+|<< PrevComic #974 (November 07, 2011)Next >>|
+The General Problem
+
+Title text: I find that when someone's taking time to do something right in the present, they're a perfectionist with no ability to prioritize, whereas when someone took time to do something right in the past, they're a master artisan of great foresight.
+Explanation[edit]
+In this comic, Cueball asks a friend or relative to pass him the salt, a common request when dining with others. Usually it is expected that the person will simply pass the salt immediately; however, the offscreen person doesn't get back to him until 20 minutes later, when Cueball repeats his request. The friend explains that they're attempting to solve the general problem of passing any table condiment (which salt is not; in culinary terms, it is a seasoning. Condiments are liquid-based complements, such as ketchups, mustards, relishes & chutneys), not just salt.
+This is a common mistake made in software development, wherein an developer tries to solve a problem far more general than the specific one they have been tasked to solve[citation needed]. Sometimes, this foresight can be useful, if the developer has predicted use cases that later turn out to be needed; other times, it can lead to wasted time, or worse, overengineering, where a system is made more complex and fragile than it needed to be, instead of robustly solving a single, well-defined problem.
+It isn't clear what exactly the offscreen friend is doing (or even what they could do) to solve the general condiment-passing problem; most likely they are still in the design stage of their solution and have not even started implementing it, much to Cueball's chagrin. Nonetheless they are convinced that it is worth taking the time to do this now due to the potential time-saving in the long run. In doing so, they are overlooking the more salient and saline facts of the situation; namely, that passing condiments is not something that requires a solution or takes up any significant amount of time, and that Cueball would probably prefer to have the salt while his meal is still warm.
+In the title text, Randall notes a social paradox: that people tend to be disparaging of such inefficient time-wasting while it's not producing any results, but will heap praise on it when they're able to reap the benefits of that foresight.
+See also 137: Dreams, 1205: Is It Worth the Time?, 1319: Automation, 1691: Optimization, 2752: Salt Dome and the Time management category.
+Transcript[edit]
+[Cueball sits at a table, eating a meal.]
+Cueball: Can you pass the salt?
+[Cueball pauses, a bite of food on his fork, silently.]
+[Cueball still has fork in mid-air.]
+Cueball: I said-
+Off-screen person: I know! I'm developing a system to pass you arbitrary condiments.
+Cueball: It's been 20 minutes!
+Off-screen person: It'll save time in the long run!
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+He should have waited until after the meal to start organizing the condiments. --Jimmy C (talk) 18:47, 14 November 2012 (UTC)
+There is a later comic that deals with how much time can be spent developing a system to deal with recurring time-taking chores (if that sentence made sense). I may find the number and enter it in, but I may spend time doing this generally first. --Quicksilver (talk) 18:09, 17 August 2013 (UTC)
+Title text could be augmented with "Hindsight is 20/20." Krishnanp (talk) 18:46, 7 March 2015 (UTC)
+This looks suspiciously like nerd sniping to me..... Dontknow (talk) 04:58, 7 May 2017 (UTC)
+Edit Summary, Apr 2015
+system ≠ machine; the OSP is not making a machine 108.162.221.248 05:18, 3 April 2015 (UTC)
+I think the Title Text gives the real meaning of the comic - if nobody ever TOOK the TIME to think a problem through and create a new, better solution then nothing would have ever come of our civilization - we'd still be picking up stones to crack a nut. Yet somebody took a time to sculpt a piece of rock and kept it with him, then added a stick as a handle, dug and melted swamp iron to create metallic tool etc. Yet the most instant and obvious solution in the moment would be to keep using any rock you seen near by. Every sys.admin knows how often it seems easier to do stuff instantly, by hand, and get it over with, one often has to force the thought that this situation keeps coming up so I should probably take the time and automate it, hence creating technological advancement. That's how anything gets thought out and built. 141.101.81.80 11:22, 4 December 2015 (UTC)
+By far my favorite part of this is the fork not moving between panels, implying that he sat perfectly still for a full twenty minutes.
+and, he only asked for the salt again after 20 minutes! 172.69.71.10 14:05, 23 November 2021 (UTC)BUmpf
+Categories: All comicsComics from 2011Comics from NovemberMonday comicsPages using the "citation needed" templateComics featuring CueballTime managementFood

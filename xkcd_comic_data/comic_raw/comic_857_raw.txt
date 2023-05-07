@@ -1,0 +1,38 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+857: Archimedes
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 857)
+|<< PrevComic #857 (February 7, 2011)Next >>|
+Archimedes
+
+Title text: Give a man a fish, or he will destroy the only existing vial of antidote.
+Explanation[edit]
+This comic references a famous quote made by Archimedes: δῶς μοι πᾶ στῶ καὶ τὰν γᾶν κινάσω, which could translate as "Give me a long enough lever and a place to rest it, and I will move the Earth". Archimedes was illustrating the power of force multiplication by stating that, in theory, even a mass as immense as the entire planet Earth could be moved by a single human being using a simple lever.
+While Archimedes is theoretically correct, in practice the lever would need to be millions of light years long, and the person operating it would need to push it by several light years to move the Earth even a microscopic amount. In fact, a much simpler way to move the Earth, which achieves similar distances, is to jump in the air - by Newton's third law, the same amount of force that is applied to you will also be applied to the Earth.
+Here, Cueball begins as if he is quoting Archimedes, but then produces a gun and threatens to execute hostages if he does not receive the lever, indicating that he is, for some reason, actually trying to enact Archimedes' thought experiment for real.
+The title text references another famous proverb, "Give a man a fish, and you feed him for a day. Teach a man to fish, and you feed him for a lifetime." The quote starts out the same, but again ends with a sentence that is more fitting for an action movie.
+Transcript[edit]
+[Cueball is standing normally.]
+Cueball: In the words of Archimedes,
+[Cueball extends his left arm slightly.]
+Cueball: Give me a long enough lever and a place to rest it
+[Cueball is now holding a gun in his right hand.]
+Cueball: Or I will kill one hostage every hour.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+What's Cueball trying to lift here that he needs a massive lever and fulcrum? Davidy²²[talk] 07:05, 17 April 2013 (UTC)
+I think Cueball is just trying to gain leverage. -Justin- 131.111.141.12 20:39, 5 June 2013 (UTC)
+Cueball wants to move the earth with a lever. But how this should work in space? The hostage is the entire population of the earth. I will add an incomplete tag.--Dgbrt (talk) 21:34, 5 June 2013 (UTC)
+He is not saying he wants to move the Earth with a lever. He's either demanding the lever and a place to stand, threatening to kill hostages, or he's using a gun as a prop in a joke. Either way, the explanation is perfectly fine as it is, no "incomplete" needed. 108.28.72.186 02:44, 4 August 2013 (UTC)
+Hey, the title text was wrong, the Archimedes cite was wrong, it was just INCOMPLETE. I did not undo your edit but I did some enhancements, hoping this is more correct now.--Dgbrt (talk) 19:43, 4 August 2013 (UTC)
+How do you know his hostages are the entire population of earth? ~JFreund
+Hey, I'm new here. I was thinking it would be more helpful if someone could give an example of a thriller movie with that quote. Thanks! 162.158.75.148 22:58, 24 March 2017 (UTC)
+The comic and the title text seem to have a supervillain theme with planning to destroy/move the world and threatening to destroy the only antidote (to a presumably self-created plague/poison); the explanation doesn't really go into this apart from mentioning "action thrillers". 162.158.75.178 20:27, 26 February 2018 (UTC)
+Could someone get into the Earth-moving math a bit more? The figures given sound wrong, but I'm not sure what kinds of assumptions we'd need to make before we could start calculating. -- GreatWyrmGold (talk) 01:51, 7 September 2022 (please sign your comments with ~~~~)
+Not about to do the sums, but for the earth-end fraction of Earth-fulcrum-person lever to move a distance, the person-end fraction must move distance*ratio(PEF,EEF). For fulcrum-Earth-person length=PEF, rather than length=(PEF+LEF), for a shorter lever due to re-using the fulcrum-Earth length, so that's perhaps the more economical setup.
+You need to swing a lever more than 60° (±30° from a given tangent) around its pivot to get the contact-point travel to go further than the length from pivot to CP (straight-line difference, or length*pi/3 tracing the radius), but at decreasing returns (you could never lever by more than twice the length (straight) or pi times it (semicircumferentially) from the pivot, at ±90° travel), so we might assume we set it up to do no more (though we could also calculate for the maximum).
+This sets us the distance from fulcrum to Earth, and then the force-multiplication needed for an average human's applicable strength is also the length-multipliple needed for fulcrum to person, allowing us to choose (according to setup, but in both cases overwhelmingly the fulcrum-person distance, so barely different) the appropriate full lever-length. And, having constrained the travel-angle, the person's travel-length (radially?) is directly calcuable.
+Or, to reverse, perhaps we can discover what assumptions that the Earth-moving figures might have arisen from. The simplest might be what angle of pivot it is, though not knowing if it's radial or direct displacement they give introduces us a small uncertainty, as does the order of contact-points. Less so than the force-multiplier demanded, though, given variations of human physiology. 172.70.86.4 09:02, 7 September 2022 (UTC)
+Categories: All comicsComics from 2011Comics from FebruaryMonday comicsComics featuring CueballPhysics

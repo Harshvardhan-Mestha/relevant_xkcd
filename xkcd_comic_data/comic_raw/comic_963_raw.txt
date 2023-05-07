@@ -1,0 +1,51 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+963: X11
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 963)
+|<< PrevComic #963 (October 12, 2011)Next >>|
+X11
+
+Title text: Thomas Jefferson thought that every law and every constitution should be torn down and rewritten from scratch every nineteen years--which means X is overdue.
+Explanation[edit]
+X11 is the X window system (commonly X Window System or X11, based on its current major version being 11). It is a computer software system and network protocol that provides a basis for graphical user interfaces (GUIs) and rich input device capability for networked computers.
+The X11 stacks are usually implemented using a display server. The reason that it is called a display server is that the actual viewer and the server do not need to be on the same system; X11 frequently runs over a network connection. This adds considerably to the complexity of the mechanism.
+Most UNIX-based operating systems, including Linux and the BSDs use X11 as their base graphical subsystem and thus always use a display server and a display client. macOS has built-in support for X11, but does not use it for normal applications. For Windows, commercial and free solutions implementing an X11 display client exist.
+Until 2004, for Linux the default display server was XFree86. This project required a variation of the config file that Randall mentions. It was forked into Xorg due to disagreements over the development model.
+Xorg is nowadays the default display server: X.Org Server (commonly abbreviated to Xorg Server, XServer or just X) refers to the X server release packages stewarded by the X.Org Foundation, which is hosted by freedesktop.org, and provides an interface to the standard X Window releases for the use of the free and open source software community.
+Every aspect of XFree86 and Xorg can be modified in numerous ways, all the way down to tiny behaviors such as the default window size, window-border snapping, mouse button maps or how a touchpad is used. All of these settings can be found in the xorg.conf file, a massive file with hundreds upon thousands of individual settings that have accumulated over the lifetime of the Xorg project. The full documentation for xorg.conf contains all the settings contained within the file. When a problem arises in the graphical portion of a desktop using the X server, the solution may be to edit the xorg.conf file. The soul-crushing prospect of having to open and look up the correct parameter out of thousands that is causing issues is enough to destroy a person's satisfaction with their life.
+Editing xorg.conf (especially manually) is much less necessary than it used to be. In fact, some distributions do not even come with an xorg.conf file, because everything necessary can be auto-detected and/or configured elsewhere.
+The Wayland project aims to replace some of X11 and not include any of the cruft that built up over the decades. It was started in 2008, way more than 19 years after the aforementioned config file turned into a hell.
+The title text references a letter Thomas Jefferson wrote to James Madison on the popular basis of political authority. There are a few quotes that can be pulled to sum up his ideas.
+To keep our ideas clear when applying them to a multitude, let us suppose a whole generation of men to be born on the same day, to attain mature age on the same day, and to die on the same day, leaving a succeeding generation in the moment of attaining their mature age all together. Let the ripe age be supposed of 21. years, and their period of life 34. years more, that being the average term given by the bills of mortality to persons who have already attained 21. years of age.
+In his day most people lived only to age 55, so he supposes that a person reaches maturity at 21, and will live until 55 and then die. For the purposes of the other arguments he makes in the letter, he also supposes that all the people of a generation are born on the same day, and that they will all die on the same day: the day they turn 56.
+Then I say the earth belongs to each of these generations, during its course, fully, and in their own right.
+Since only one generation is alive in his example, his model allows for that generation to do as they please for their time on earth, elsewhere in the letter he describes that each generation should not be able to leave the next generation in a worse position, so the debts accrued by one generation must be paid off by that generation. This has built us up to the quote that everyone attaches onto.
+Every constitution then, and every law, naturally expires at the end of 19 years. If it be enforced longer, it is an act of force, and not of right. -It may be said that the succeeding generation exercising in fact the power of repeal, this leaves them as free as if the constitution or law has been expressly limited to 19 years only.
+Because a generation reaches maturity at 21, and at that point the previous generation dies off, and this generation has 19 productive years until they are 40 and have 15 years of senility until their own death they have full reign of the earth as they please. Continuing on under the laws (and debts) of the previous generation is "an act of force, and not of right".
+Jefferson picked 19 years because that was the length of time a generation spent in power, not that every 19 years all laws should be abolished, but that every generation, each new generation should tear down all the systems put in place, re-evaluate, and build better laws, systems, and constitutions.
+Transcript[edit]
+[The comic is a graph with a curve starting at (0,0) that snakes toward the upper right of the graph. The axes are labelled:]
+x axis: Time since I last had to open Xorg.conf
+y axis: General satisfaction with how my life is going
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Come on Randall, it's not that hard, it's only 273 flags that you have to memorize. A child could do that. Davidy²²[talk] 09:00, 9 March 2013 (UTC)
+I think the comics might be about the fact that modern-day X.Org doesn't need xorg.conf at all... well, usually (i.e. almost always you can get with autodetection and without xorg.conf at all) --JakubNarebski (talk) 20:57, 27 June 2013 (UTC)
+Oh, xorg.conf was fun for me the last twenty years. I miss it...LOL--Dgbrt (talk) 21:23, 27 June 2013 (UTC)
+Oh wait this is NOT sarcasm. Sorry. PoolloverNathan[stalk the blue seas]
+U•T•S•c
+01:01, 2 April 2021 (UTC)
+Good grief finding the actual Jefferson quote was hard. So many people saying things about the quotation without actually linking to the quotation. It took a bit of digging, Wikiquote has a link to what I think would have been the full text of the letter, but UVa must have switched CMS' so now all their links are different and you just get redirected to the front page of University of Virginia's Library. So much for permalinks. With a little bit more digging I found the full text published online by the University of Chicago. The text is thick, as should be expected of 18th century writing, but if you squint hard enough at a particular paragraph and twist the words a little you can come up with the sentiment that Randall refers to in the title text. lcarsos_a (talk) 20:17, 7 January 2014 (UTC)
+Did you not think of using the Wayback Machine? The UVa page you were looking for is here. NealCruco (talk) 02:44, 10 August 2014 (UTC)
+Personally I like having the options 173.245.54.158 00:38, 25 November 2014 (UTC)
+I think the explanation about how X works is wrong. But because of the unfortunate choices of the original X designers, I do not think it can become more accurate without also becoming more confusing. In particular, when dealing with X, server and client always mean the opposite of what you would expect. Pesthouse (talk) 21:09, 5 June 2015 (UTC)
+Time IS on the x axis. Why does it claim it not to be? 108.162.221.50 (talk) (please sign your comments with ~~~~)
+Quite probably my favorite part of the xorg.conf manpage:
+VIDEOADAPTOR SECTION
+       Nobody wants to say how this works.  Maybe nobody knows ...
+Zmatt (talk) 04:27, 12 September 2016 (UTC)
+How what? I still don't get it. Is it because I use Mac? StillNotOriginal 01:51, 21 May 2018 (UTC)
+It's been over 7 years since this comic was posted. I did my first xorg.conf edit this week - and now I get the joke... 108.162.219.16 13:24, 17 January 2019 (UTC)
+Categories: All comicsComics from 2011Comics from OctoberWednesday comicsLine graphsComputersComics featuring real peopleComics featuring politicians

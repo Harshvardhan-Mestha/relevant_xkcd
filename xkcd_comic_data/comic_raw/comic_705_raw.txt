@@ -1,0 +1,38 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+705: Devotion to Duty
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 705)
+|<< PrevComic #705 (February 22, 2010)Next >>|
+Devotion to Duty
+
+Title text: The weird sense of duty really good sysadmins have can border on the sociopathic, but it's nice to know that it stands between the forces of darkness and your cat blog's servers.
+Explanation[edit]
+In this comic, we see a man talking on a phone. We are unsure of his aims (terrorism, robbery, etc.) but he has taken hostages and cut all links to the outside world, in order to control the situation and prevent the police from observing the interior of the building (as popularly depicted in film and television). Initially, the villains seem to have everything under their control, but then the hostage-taker explains on the phone that someone has entered the building, climbed the air vents to bypass their cordon, effortlessly killing other hostage-takers (who are likely hardened killers with weaponry) on his way to the server room and then ignored the hostages, preferring instead to reconnect the servers to the outside world. The hostage-taker is evidently puzzled by this and explains it to the person on the other end of the phone, who immediately recognizes the reason: the man that entered the building is a sysadmin (short for system administrator), and he is concerned that his servers are losing uptime (time spent running or connected to the internet). This evidently concerns the man on the phone, who knows that a good sysadmin is an unstoppable force once started!
+This comic is a reference to one of two things (or both): the Hollywood depiction of heroes able to perform superhuman feats in tricky situations (such as John McClane in Die Hard, which the first two panels are a deliberate reference to), or the duty that people impose upon themselves to go above and beyond the call of duty to ensure that they carry out their work (in this case a dutiful sysadmin, concerned for those trying to use his server).
+The title text is a simple joke about the fact that the sysadmin will crawl through broken glass and defeat criminals/terrorists (forces of darkness) just so a cat blog (where owners write about their cats) can stay up. This creates a humorous contrast between the seriousness with which large websites treat issues like uptime and business continuity and the often mundane and banal uses people actually have for them.
+A sysadmin is also mentioned in the title text of 309: Shopping Teams and in 1305: Undocumented Feature.
+Transcript[edit]
+[Bearded criminal is holding a pistol and talking on a mobile phone.]
+Criminal: We took the hostages, secured the building and cut the communication lines like you said.
+Phone: Excellent.
+[Still talking on the phone, waving gun around in the air animatedly.]
+Criminal: But then this guy climbed up the ventilation ducts and walked across broken glass, killing anyone we sent to stop him.
+Phone: And he rescued the hostages?
+[Criminal looking confused and defeated, shoulders hunched and pistol hanging limply at his side.]
+Criminal: No, he ignored them. He just reconnected the cables we cut, muttering something about "uptime".
+Phone: Shit, we're dealing with a sysadmin.
+Trivia[edit]
+This comic was made into a shirt in the xkcd store, which includes a new illustration on the back.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This is very clearly a Die Hard parody. -- 70.12.4.193 (talk) (please sign your comments with ~~~~) Indubitably --JSekula71 (talk) 23:36, 9 June 2013 (UTC)
+Oh man. This needs some reworking. --Quicksilver (talk) 03:10, 20 August 2013 (UTC)
+This entire entry has to be a troll... We may need an ExplainExplainxkcd for those who don't get it. 108.162.249.155 05:15, 9 March 2016 (UTC)
+108.162.250.203 10:33, 26 April 2014 (UTC) In Die Hard, the terrorists used a chainsaw to cut the telephone trunk cables. Try repairing that damage.
+Never underestimate the dedication of a truly devoted sysadmin! -Pennpenn 108.162.250.162 04:57, 23 June 2015 (UTC)
+The title text is highlighting the absurdity of the sysadmin's devotion to duty by contrasting the forces of darkness (very serious) against a blog describing the daily activities of your cat (trivial). ---BD (talk) 07:36, 17 November 2014 (UTC)
+Why are there so many parentheses in the explanation? I think that needs to get fixed. Vince7778 (talk) 23:09, 17 January 2017 (UTC)
+Yeah, it's kind of ridiculous. 625571b7-aa66-4f98-ac5c-92464cfb4ed8 (talk) 05:15, 20 March 2017 (UTC)
+Categories: All comicsComics from 2010Comics from FebruaryMonday comicsComputersComics with xkcd store products

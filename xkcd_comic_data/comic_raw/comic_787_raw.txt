@@ -1,0 +1,39 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+787: Orbiter
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 787)
+|<< PrevComic #787 (September 1, 2010)Next >>|
+Orbiter
+
+Title text: Normally, the Shuttle can't quite safely reach the orbital inclination required to pass over both those points from a Canaveral launch, but this is an alternate history in which either it launches from Vandenberg or everyone hates the Outer Banks.
+Explanation[edit]
+This comic is about disputed territories and low Earth orbits.
+In the early days of manned spaceflight and also the Space Shuttle the communication to the mission control center in Houston required many ground stations all around the Earth. Each station could provide a link for only a few minutes and there were still gaps between them. After 1989/90, when the geostationary TDRS system became fully operational, these ground stations became obsolete.
+In this comic Cueball, the main controller at mission control, is planning the next check-in with the Space Shuttle (also called orbiter), which is set to occur at 32.0N 35.5E, approx 20 miles north-east of Jerusalem, over the hotly contested Israeli-Palestinian territories. Two off-screen characters start to dispute the ownership of this geographical location and, rather than becoming involved in an argument, Cueball decides to change the check-in location to 35.2N 96.6W, approximately 50 miles east of Oklahoma City, Oklahoma, which he considers to be a neutral, non-disputed location. Unfortunately, another off-screen character, Frank, is being a dick, and he then starts to make the claim that part of Oklahoma in fact should belong to Texas.
+In the title text Randall incorrectly states that the orbiter would require a different orbit to reach both Palestine and Oklahoma, which cannot be achieved from a launch at Cape Canaveral. Thus, Randall proposes that the comic exists in an alternate history in which the Space Shuttles launch from Vandenberg. This is a reference to the plans to launch shuttles from there before the Challenger accident occurred. After Challenger was lost, the Vandenberg missions were scrapped and Cape Canaveral became the sole launch site for the Space Shuttle. Another possibility in this alternate history is that the rules forbidding orbital launches from Cape Canaveral to a northern direction don't exist, because nobody likes the Outer Banks (which would be in the flight path) and thus don't care about space debris falling on them.
+Randall's incorrectness was discussed in many forums and probably based on the wrong assumption that the inclination cannot be higher than the latitude of the launch site (28° at Cape Canaveral). But this is only the optimal inclination, actually all shuttle launches to the Mir station and the International Space Station did reach an inclination of 51.6°, with the cost of some payload mass. And following the ISS at Heavens above when it moves over Israel to the south it will pass over Texas approximately an hour later. Nevertheless this orbit is not possible at the first orbit after a launch in Cape Canaveral.
+The title text doesn't mention the region south of Iceland from the beginning of the comic. This is roughly at 64° North or less (if more south) and the distance from the highest possible orbital inclination of 57° from the Cape is 780 km. But even 1,000 km south of Iceland is only the Atlantic Ocean and the nearest landmass is still Iceland, which could explain this vague location.
+Transcript[edit]
+Cueball: Okay, people. The orbiter is passing south of Iceland. The next scheduled check-in will be at 32.0N 35.5E, over the Palestinian territories.
+Off-screen character (left): You mean over the state of Palestine?
+Off-screen character (right): You mean over Israel?
+[Frameless beat panel.]
+Cueball: I've rescheduled the check-in for 35.2N 96.6W, over Oklahoma.
+Frank (off-screen, right): You mean occupied North Texas?
+Cueball: Dammit, Frank.
+Trivia[edit]
+There was also a typo in the title text: It was written Vandenburg instead of Vandenberg. This was later fixed.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+So, I suppose a flight to the Diaoyu islands is out of the question then. Davidy²²[talk] 02:25, 24 April 2013 (UTC)
+did you mean: Senkaku Islands? --Quicksilver (talk) 01:11, 20 August 2013 (UTC)
+I feel like this explanation page is completely neglecting to explain the joke, which is situational humor in which Cueball, to avoid a workplace conflict between two people who feel strongly about the Palestinian-Israeli conflict, eliminates the discussion before it happens by rescheduling the check-in to what he thinks is a place which has no territorial disputes. Frank then decides to be a butt and bring up the old Texas dispute. 108.162.238.203 16:56, 1 May 2014 (UTC)
+May be a deeper joke here. When the space shuttle Columbia crashed, it was over Palestine, Texas. 108.162.246.207 02:37, 15 September 2014 (UTC)
+The given lat-long for Oklahoma doesn't appear to actually relate to Greer County. I have very little knowledge of Texas vs Oklahoma turf wars, do some Texans believe all/most of Oklahoma should be within Texas? --Pudder (talk) 10:33, 16 October 2014 (UTC)
+For what it's worth, the coordinates fall within Seminole Nation territory. I wanted to make a joke about "occupied Muscogee Nation" in reference to McGirt v. Oklahoma, but 96.6W is a few miles too far west. If only it was 96.4W... --172.68.182.116 00:51, 28 November 2020 (UTC)
+This comic aged like honey. Honey is naturally antimicrobial. 172.69.42.50 01:56, 22 May 2021 (UTC)
+I don't think it is "probably based on the wrong assumption that the inclination cannot be higher than the latitude of the launch site;" Randall should know better than that. It's probably based on drawing a great circle through Israel and Oklahoma and noting that the inclination of that plane is greater than 57 degrees, and forgetting to account for the 12 degrees or so of rotation the earth will experience while the orbiter in en-route. That seems an easier mistake for someone who knows a bit about orbital mechanics to make, and it's more consistent with the alt-text mentioning the Outer Banks, which is where the shuttle would be dropping rocket bits on an ascent to a ~60 degree orbit.172.69.79.173 01:43, 21 September 2022 (UTC)
+While the page is highlighted by the above edit, I've neutralised the undue assumption that Frank originally piped up in favour of Israel. Very probably "Israel person" is just over in the same direction (limited options for showing separate voices in a crowded room, very slightly different elevation of emination) and doesn't themself have any strong concern over Texan(ish) territory like Frank does. 141.101.99.6 05:36, 21 September 2022 (UTC)
+Categories: All comicsComics from 2010Comics from SeptemberWednesday comicsComics featuring CueballSpace

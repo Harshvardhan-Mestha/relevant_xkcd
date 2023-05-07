@@ -1,0 +1,59 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+785: Open Mic Night
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 785)
+|<< PrevComic #785 (August 27, 2010)Next >>|
+Open Mic Night
+
+Title text: Ever notice how the more successful observational comics become, the more their jokes focus on flying and hotels?
+Explanation[edit]
+The comic depicts four acts at an open mic night, where performances typically include comedy, poetry, music and other similar performance arts.
+Panel 1[edit]
+Megan confidently introduces herself as M.C. Aphasia, and starts to talk to the audience. Midway through her sentence however, she appears unable to continue to talk, ending with a sheepish "Hi?". Aphasia is a language disorder, symptomized by disturbance in formulation and comprehension of language. This class of language disorder ranges from having difficulty remembering words to being completely unable to speak, read, or write. M. C. stands for Master of Ceremonies - in the context of hip-hop performance, it means a rapper. Because a rapper's delivery depends on the ability to deliver lyrics fluently at high speed, aphasia would render an MC unable to perform.
+Panel 2[edit]
+The second panel shows Black Hat on the stage, just after a heckler in the audience fired a 'Yo Mama' joke at Black Hat (probably "when yo mama sits around the house, she sits around the house"). A heckler's aim is usually to put the performer off of their routine, and appear funny themselves. Responses from the performer vary from simply ignoring the heckler to replying with a witty put down to get the audience back on the comedian's side and dissuade the heckler from continuing. Rather than a short witty over-the-top reply in the typical style of Yo Mama jokes, Black Hat's response is a dark, detailed, realistic insult, implying that the heckler's mother is a failure and isn't proud of the heckler.
+Panel 3[edit]
+The third panel is a reference to the Quine paradox, whereby a sentence repeated twice in succession proves to be paradoxical. For example:
+"Yields falsehood when preceded by its quotation" yields falsehood when preceded by its quotation.
+The sentence is another way of saying "this statement is false" but without the explicit self-reference. Named after the paradox, a quine is also a computer program which outputs its own source code.
+The first sentence uses the word "say" in the normal way, as a transitive verb, with the second sentence in quotation marks as its object. The second sentence has the same words as the first, but now the word "say" is used as an intransitive verb: a non-standard usage approximately meaning "speak impressively".
+Panel 4[edit]
+In the fourth panel, Beret Guy's speech begins as if with the common observation, "Ever notice how men go to the restroom alone, while women go in groups", but somehow gets derailed through the use of the word hordes instead of groups, and a confusion between women and orcs. When an audience member (or heckler) points this out, Beret Guy's response shows that his observations weren't intended as comedy in the first place.
+The title text continues the riff on different kinds of stand-up comedians, commonly referred to as comics. Observational humor is a joke that presents a typical real-life situation humorously, often with a touch of exaggeration. The title text is likely referring to stand-up comedians, like Jerry Seinfeld, who use observational humor. When an observational comic becomes more successful, they will probably "go on tour" resulting in a great deal of travel. This gives them lots of experience with airplanes and hotels, and more jokes about them will show up in the routine. Furthermore, the title text is itself an observational joke.
+Transcript[edit]
+[Megan on stage, holding microphone, hip-hop stance.]
+Megan: Yo, I'm M.C. Aphasia and I'm here to say that, I... Uh...
+Megan: ...Um...
+Megan: ...Hi?
+[Black Hat on stage, holding microphone.]
+Black Hat: So I... oh? Does she? Well, when yo mama sits around the house, she finds herself wishing she'd finished her degree instead of having kids right away, maybe started that business. Then she might have created something she's proud of.
+[Cueball on stage, holding microphone, fist pumping toward audience.]
+Cueball:
+Yo, I'm M.C. Quine
+and I'm here to say,
+"Yo, I'm M.C. Quine
+and I'm here to say!"
+[Beret Guy on stage, holding microphone.]
+Beret Guy: Ever notice how men go to the restroom alone, while women go in hordes ten thousand strong, clad all in sable armor and bristling with swords and spears?
+Audience member (off-screen): Those are orcs.
+Beret Guy: Oh.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Any clue about panel 4? Alpha (talk) 22:25, 22 February 2013 (UTC)
+It's a WoW/LoR reference. 99.14.216.36 16:09, 29 March 2013 (UTC)
+It begins like common notice "Ever notice how men go to the restroom alone, while women go ..." and you would expect it continued with "in pairs" / "in groups", perhaps "in hordes"... and then you get description of "hordes of Orcs" (tongue-in-cheek explanation) --JakubNarebski (talk) 16:34, 4 June 2013 (UTC)
+I think it's much more likely that, in the title text, "observational comic" refers to a stand-up comedian who uses observational humor, like Jerry Seinfeld. Comedians are often called comics, and a stand-up comic often travels to different cities in the course of his or her job. More so if the comic in question is successful. I also note that the text refers to "their jokes" rather than "its jokes." -- Greenbandit (talk) (please sign your comments with ~~~~)
+I think M.C. Quine is not about Quine paradox, but Quine (computing) --JakubNarebski (talk) 22:45, 23 April 2014 (UTC)
+What does the 'M.C.' bit mean? 141.101.98.222 11:43, 15 March 2015 (UTC)
+It's short for Master of Ceremonies, the official host of a staged event or similar performance. 141.101.98.207 12:40, 29 July 2015 (UTC)twilight
+I removed the Video Games category tag. It was probably used in relation to the fourth panel (WOW or similar), however hordes of orcs are featured in books, movies, TV and other formats, not just video games. I believe the link is too tenuous, if anyone wants to re-add it, please explain the reasoning. --Pudder (talk) 13:39, 29 July 2015 (UTC)
+The last paragraph of the Panel 3 section seems to refer to something that is no longer there.--162.158.134.40 13:27, 17 January 2018 (UTC)
+It's referring to the text in that panel of the comic (though it erroneously refers to it as two sentences, where it's actually a single sentence that it's referring to the first and second halves of.141.101.76.16 14:21, 17 January 2018 (UTC)
+I think Cueball means "I'm MC. Quine and I'm here to say '$1'" --172.68.57.249 01:55, 7 June 2021 (UTC)
+Python:
+file=open('quine.py').read()
+print(file)
+--198.41.238.106 02:22, 28 July 2021 (UTC)
+Categories: All comicsComics from 2010Comics from AugustFriday comicsComics featuring MeganComics featuring CueballComics featuring Black HatComics featuring Beret GuyYour Mom

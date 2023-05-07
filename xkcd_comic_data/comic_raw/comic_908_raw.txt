@@ -1,0 +1,46 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+908: The Cloud
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 908)
+|<< PrevComic #908 (June 6, 2011)Next >>|
+The Cloud
+
+Title text: There's planned downtime every night when we turn on the Roomba and it runs over the cord.
+Explanation[edit]
+This comic is a reference to all of the companies that rolled out "cloud" services like Google's and Amazon's music service and Apple's aptly named iCloud online backup service around the time that the comic was released. Despite the mental image people using cloud services have of their data being placed literally in the sky, the reality is that all the data in the cloud has to be stored somewhere, sometimes being merely a server. Black Hat claims that the various cloud services are all ultimately provided by his server.
+When Cueball expresses skepticism that Black Hat has enough bandwidth to make that possible, he explains that it's done by Caching. Caching is an arrangement whereby some data is stored locally in order to reduce the need to retrieve it from more distant storage. However, it would require an unrealistically efficient level of caching to reduce the overhead requirements of the world's cloud storage networks to a level that could be accommodated by Black Hat's non-Enterprise class cable modem -- and if it could be done, it would simply transfer the load to other servers (i.e. Cueball's description of "the cloud" as it exists in the real world). However, it does make a bottleneck at Black Hat's server.
+The title text refers to the Roomba, which is a small round battery-powered vacuum cleaner that runs automatically around the house. The Roomba begins to learn the dimensions of rooms, however, apparently it has never learned to avoid running over the cord, pulling it free of the socket and cutting power to the server.
+The regular nightly downtime is a reference to an urban legend in which some critical piece of equipment (often a server) is unplugged regularly so that a vacuum cleaner or similar janitorial tool can be temporarily plugged in. Although the Roomba vacuum does not require this computer's outlet, "running over the cord" apparently causes similar interruption in service, probably unplugging the cord, requiring it to be plugged in again.
+This comic is reminiscent of a scene in the British sitcom The IT Crowd in which the IT department pranks their non-tech-savvy manager by presenting a single small box and claiming that it contains the entire Internet.
+The last panel showcases both Black Hat's stereotypical sadism and callousness. When Cueball asks about the hazard (namely, tripping) implicit in a cord stretching across a room, Black Hat responds by implying no one would want to do that, because it's unpleasant. Cueball responds with the fact that some people do things by accident, to which Black Hat says he doesn't know anyone like that. The only way Cueball can disprove this (at least quickly) is by admitting he's one of those people, opening him up to Black Hat's ridicule. Alternatively, this could be a hint towards how Black Hat, being the sadist he is, would "accidentally trip over" the cord, purposefully causing downtime and subsequent unpleasantness to those who rely on the cloud, a proposition supported by the title text.
+There are some connections with both 1117: My Sky and the title text of 1444: Cloud and especially the April Fools' Day comic 1506: xkcloud.
+Transcript[edit]
+[Cueball finds a computer tower with a wire leading away from it.]
+Cueball: What's this?
+Off-screen: The Cloud.
+[Cueball looks behind him. The wire leads to an outlet in the wall next to where Black Hat sits at a desk with a computer. Another wire leads from that outlet to Black Hat's computer.]
+Cueball: Huh? I always thought "The Cloud" was a huge, amorphous network of servers somewhere.
+Black Hat: Yeah, but everyone buys server time from everyone else. In the end, they're all getting it here.
+[A close-up of Black Hat.]
+Cueball: How? You're on a cable modem.
+Black Hat: There's a lot of caching.
+[A close-up of Cueball, looking down at the tower at his feet.]
+Cueball: Should the cord be stretched across the room like this?
+Black Hat: Of course. It has to reach the server, and the server is over there.
+[Cueball turns back to the Black Hat, still sitting at the computer.]
+Cueball: What if someone trips on it?
+Black Hat: Who would want to do that? It sounds unpleasant.
+Cueball: Uh. Sometimes people do stuff by accident.
+Black Hat: I don't think I know anybody like that.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+iCloud is not a music service. It was released (around?) the same time as iTunes Match, which is Apple's online music service. iCloud replaced MobileMe as Apple's online data storage and email service (and Calendar, Notes, Contacts, and Reminders). Also, it provides access to Find My iPhone. 75.69.96.225 21:41, 4 March 2013 (UTC)
+And just by the way, it was the original name of cloudme.com before Apple evidently acquired the rights from them. --79.222.27.115 22:57, 31 August 2013 (UTC)
+Could this also be a reference to rose petals? (#1183)--Mralext20 (talk) 01:00, 8 December 2013 (UTC)
+I doubt it considering that's 1183, and this is 908.108.162.221.45 00:15, 20 March 2014 (UTC)
+I think BlackHat is being logical (Spock-like, if you will) - he really doesn't consider the "trip hazard" (to passersby or to the cloud services or their users). Also I don't think cable modem is meant to have an italicised 'cable' - that emphasis is wrong. 141.101.98.46 00:39, 14 February 2014 (UTC)randomstranger
+Also, the server is far, far too small to fit all of the cloud. 108.162.250.161 08:53, 26 April 2016 (UTC)
+I don't think BlackHat is being sadistic. I think this is meant to show the blithe ignorance or unfailing optimism of users' faith in "the Cloud", which takes on almost mythic proportions of invincibility/data integrity in many conversations. 162.158.22.172 03:31, 4 November 2016 (UTC)CodeCharming
+Categories: All comicsComics from 2011Comics from JuneMonday comicsComics featuring Black HatComics featuring CueballRoomba

@@ -1,0 +1,47 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+810: Constructive
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 810)
+|<< PrevComic #810 (October 25, 2010)Next >>|
+Constructive
+
+Title text: And what about all the people who won't be able to join the community because they're terrible at making helpful and constructive co-- ...oh.
+Explanation[edit]
+Most online communities, including explainxkcd, face the problem of dissuading spammers from joining and participating. A common solution to this problem is the use of various systems to prevent automated bots' use of the community, while still allowing legitimate users to join. This has resulted in an arms race of sorts between spammers and communities, in which the spammers try to bypass increasingly difficult spam-prevention methods.
+This captcha and spamming prevention also has a downside, in that the time it takes to "prove you're human" is sometimes so long as to drive users away because their time is being wasted.
+This comic explores the culmination of that arms race, in which an advanced spam-prevention system, built by Cueball, is able to defeat the concept of spamming itself by forcing spammers to contribute constructively to a community.
+Captcha is one of the methods used to prevent lots of automated registering of fake user names used by bots and spammers. It consists of asking a person to prove that they are human before registering them as user and allowing them to post on sites or forum topics. That is done by using pictures of words and letters that humans may recognize, but bots and OCR software have trouble with.
+Now, artificial intelligence (AI) of bots have advanced so far, that Cueball has invented a new system. It asks the users to rate a slate of comments as constructive or not, then asks them to reply with comments of their own. Megan asks what will happen when spammers find a way around his system, such as making bots that make constructive and helpful comments? Well, it turns out that is what he is trying to accomplish in first place, a thriving community of bots and humans helping its members with constructive and helpful comments, as well as coming one step closer to the singularity. There is, however, one potential workaround to Cueball's system that defeats the whole point of having the conversation be constructive if spammer bots are numerous enough. Spammers may choose to mark unhelpful comments as helpful (something that can be done purely by analyzing the comment itself), thus making it an uphill battle for constructive comments to be seen as such, making this a potentially worse solution than simply letting the spammers in.
+The title text investigates the consequences of such system further by thinking of people unable to give constructive and helpful comments, which are a sort of people you don't want in your online community anyway.[citation needed] Or it could mean that in order to join said community, they would have to learn to post helpful and constructive comments, and would then be eligible to join, thus accomplishing Cueball's goal.
+CAPTCHAs are a recurring theme on xkcd.
+Transcript[edit]
+[Cueball is talking to Megan.]
+Cueball: Spammers are breaking traditional Captchas with AI, so I've built a new system. It asks users to rate a slate of comments as "Constructive" or "Not constructive."
+[Close up of Cueball.]
+Cueball: Then it has them reply with comments of their own, which are later rated by other users.
+[Megan standing next to Cueball again.]
+Megan: But what will you do when spammers train their bots to make automated constructive and helpful comments?
+[Close up of Cueball again.]
+Cueball: Mission. Fucking. Accomplished.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I know just the guy to create this system. I'm going to PM him now :D 184.11.73.88 (talk) (please sign your comments with ~~~~)
+Any updates on the progress of this? 172.69.90.67 17:34, 8 November 2021 (UTC)
+No guys, if spammers invent a bot which can give constructive comments, that will be an ***AI***, i.e. a major breakthrough in itself. 173.245.53.200 (talk) (please sign your comments with ~~~~)
+Mission. A-Fucking. Complished. 108.162.238.7 (talk) (please sign your comments with ~~~~)
+One problem: trolls who rate everything as non-constructive. 108.162.218.11 01:32, 1 March 2014 (UTC)
+But Trolls like that are also unable to make constructive comments, so they won't get counted anyway (at least, if the system is designed with any sense) Anonymous 15:02, 20 March 2014 (UTC)
+Guys, isn't this how Slashdot works? 173.245.49.64 19:04, 4 June 2014 (UTC)
+
+Okay, I came here to get a better explanation of how the system would actually work. Assuming it operates at sign-up, the bots would go through and rate comments, which would have no effect if the system didn't already know whether they were good or not, then it makes it own comments that need time to be rated; so you would have to give it time to start 'contributing' to the community while waiting for others to rate it, or else users would basically be on a community-approval waiting list. So in short, I feel like the system is flawed; presumably because I'm understanding it wrong. (Bonus: Captcha while posting this) - Zergling_man 162.158.2.231 12:41, 6 July 2016 (UTC)
+Wouldn't work. People could rate anything they disagree with as'nonconstructive'. 141.101.98.158 13:31, 13 November 2016 (UTC)
+This sounds exactly like Civil Comments: https://medium.com/@aja_15265/saying-goodbye-to-civil-comments-41859d3a2b1d Enervation (talk) 10:56, 20 February 2019 (UTC)
+Unfortunately, it's a lot easier to make something that looks constructive than to actually be constructive. A lot of spambots these days are like "Wow, this was super interesting! I found another article that seems relevant: [link to spam site]," which is enough to fool a simple spam filter. --162.158.186.250 15:49, 18 February 2021 (UTC)
+That's... the point of having users rate it. PoolloverNathan[stalk the blue seas]
+U•T•S•c
+17:02, 24 September 2021 (UTC)
+You see news stories online now that are compiled by some alleged AI from other sources, summarised. Initially it looks okay, but after a minute, you realise that it has no actual sense of what it's saying or how it feels to read it. It wouldn't pass a Turing test, but it could beat it. And meanwhile... I kind of have a question-answering habit with "Quora" - and sometimes its automatic filter thinks that my answers are not "intelligent" enough. Do androids dream of electric sheep... is a question I haven't tried to answer.  ;-) Robert Carnegie rja.carnegie@gmail.com 141.101.99.20 23:03, 22 February 2022 (UTC)
+Sooooo... does this exist yet? ⟨Winter is coming⟩ Marethyu (talk) 19:28, 5 May 2022 (UTC)
+Categories: All comicsComics from 2010Comics from OctoberMonday comicsPages using the "citation needed" templateComics featuring CueballComics featuring MeganCAPTCHA

@@ -1,0 +1,137 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+850: World According to Americans
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 850)
+|<< PrevComic #850 (January 21, 2011)Next >>|
+World According to Americans
+
+Title text: It's not our fault we caught a group on their way home from a geography bee. And they taught us that Uzbekistan is one of the world's two doubly-landlocked countries!
+A larger version of this image can be found by clicking the image at xkcd.com - the comic's page can also be accessed by clicking on the comic number above.
+Explanation[edit]
+This article may contain something offensive to non-Americans.
+An edit war has occurred
+If you are in doubt, please do not read further.
+There's a somewhat well-circulated image on the internet entitled "The World According to Americans" which plays on the stereotype of the ignorant American. In it, the entirety of Eastern Europe and most of Asia are entitled "commies" and the Middle-East as "evil-doers," and so on. Later, other people created similar maps to re-do the concept. It later spread to other cultures.
+This comic is an anti-joke playing on that idea. You expect to see something which plays on the stereotypes that exist in American culture of various parts of the world. However, instead, the map is remarkably well-informed, and shows how sampling bias can be used to conflate results. See below the table of items in the map.
+The title text jokes that in fact the only reason that the map is fairly well annotated is that the group of people labeling it were actually on the way back from a geography bee. This could add weight to the 'Ignorant American' stereotype as these individuals should know more than the common person, implying that if even apparent geography buffs use vague labels such as "rest of South America" and "various former Soviet states" instead of using more detailed labels, the average American must be even less geographically knowledgeable (Although, as the illustrators wrote below Cape Horn, the reason they did not draw Antarctica or many South American, Middle Eastern and British countries and the lack of detail may be because the people who asked them to draw this map were beginning to 'look impatient' since they did not get the expected ignorant result.)
+A landlocked country is a country that does not border any major bodies of water. Furthering the concept, a doubly-landlocked country is a country that not only has no connection to water, but is only bordered by other landlocked countries. As the title text states, there are only two such countries in the world as of 2012: Uzbekistan and Liechtenstein. This is the type of fact that may be stereotypically expected of a geography bee competitor.
+Table of items in the map[edit]
+Annotation Further details
+Hey so what projection should we use? I’ll aim for "Robinson". Any flat map projection of a sphere must have inaccuracies. Mercator projection displays shapes well at the expense of size. For example, Mercator's Greenland appears larger than South America, but is actually one eighth the size. Gall-Peters projection does the opposite, showing accurate surface area with distorted ("awful") shapes. Robinson projection compromises between shape & size for aesthetics; hence Greenland is "still too big".
+Did you know Maine is actually the US state closest to Africa? The distance is about 5076 km (~3754 mi). Measurement points are Sail Rock (Maine), the most eastern point of the USA, and a point which seems to be the most southern (and as such western) point of el-Beddouza Beach, Morocco. It's not the most western point of Morocco (or Africa), though.
+Do we have to label all the Virgin Islands? Which are 9 larger and about 100 smaller islands - surely a lot of labels.
+French, and I think Dutch and English The three separated areas are (from west to east) Guyana (former British colony), Suriname (former Dutch colony) and French Guiana (still officially part of France). The former two often switched between French, Dutch and British colonial rule. The latter was French most times except for a short Portuguese episode.
+Brazil (Portugese-speaking)
+Rest of South America (Spanish-speaking)
+In green is Portuguese-speaking (misspelled) Brazil, and in blue are the Spanish speaking Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile, Paraguay, Uruguay and Argentina.
+Greenland (Still too big!)
+Yeah, but the Peters map is awful
+Relating back to the choice of map projection, the apparent size of Greenland is one of the most commonly known projection based inaccuracies. The Gall-Peters projection shows accurate surface area, but with distorted ("awful") shapes.
+Scandanavia A typo of Scandinavia. The area shown includes Norway, Finland, Sweden, and Denmark, but the actual area of Scandinavia excludes Finland. The Scandinavian peninsula countries include Norway, Finland, and Sweden, and those can be collectively (and nerdily) referred to as "Fennoscandia."
+Western Europe
+Eastern Europe
+The line here approximately follows that of the Iron Curtain that separated the Warsaw Pact states (the Soviet Union and other Communist allies) from the NATO (US-allied) and neutral states. However, all of Germany is included in Western Europe (when during the Cold War it was divided into East and West Germany) while Austria (which was officially neutral in the Cold War but closely tied to the West and therefore blocked off from its Communist neighbors) is marked as Eastern Europe. Here, Eastern Europe also includes the Balkans (the southern peninsula east of Italy), which are usually considered separate. During the Cold War, the Balkans were divided between Soviet-allied Albania (which later left the Pact) and Bulgaria, NATO-allied Greece and Turkey, and Yugoslavia, which was a neutral Communist state. It's also worth noting that there should be a blob of Russian red in the middle of Eastern Europe, representing the Russian exclave of Kaliningrad oblast.
+British Isles
+Ireland
+Although Ireland belongs to the British Isles geographically, it does not belong to the British Islands politically. That may be the reason why Ireland is labeled additionally - to show it's known that Ireland does not belong to the United Kingdom. Northern Ireland does, though.
+Rainforest DRC The area shown is actually not completely the Democratic Republic of the Congo (DRC), but since one of the persons who made this map says they don't know the African map very well (see statement below), it's fairly accurate. Also the area called rainforest is somewhat larger than the area depicted as tropical rainforest on Wikipedia.
+So this is one of those things where you point out our ignorance and stereotypes?
+Yeah – I mean I freely admit I don’t know the African map very well, which speaks volumes in itself.
+Here two of the persons involved in drawing this map discusses what their lack of knowledge about Africa says about them. The African portion of the map is for sure the most poorly labeled, which lends weight to the stereotype of the 'Ignorant American'. Although it has to be mentioned, that the geography of Africa is in general not well known - at least within the Western world. So that's not really an American thing, here. The few countries which are labeled here mostly are well known because of their unstable political situation or because of their remarkable location. The labeled locations (and the presumably reasons of their "publicity") are west to east, north to south: Morocco (Arab Spring, location), Algeria (Arab Spring, Civil War), Sahara Desert (largest hot desert of the world), Sudan (Civil war, Arab Spring), West Africa (Lots of Civil wars and thus bad humanitarian situation, Blood diamonds), Somalia (Civil war, pirates), Lake Victoria (largest lake of Africa, quite remarkable even at large scale maps (as here)), Mozambique (Civil war), Angola (Civil War) and Madagascar (one of the worlds large island at the east coast - quite remarkable).
+Cape Horn Cape Horn is the southern tip of South America, not Africa. The southern tip of Africa is called Cape Agulhas.
+Should we include Antarctica?
+Let’s not – these guys are looking impatient
+Here it is made clear that those who came with this assignment are getting impatient since their project of proving how little Americans know about the world has failed miserably. It also shows that if some labels or parts are missing, then it could be because of this and not for lack of knowledge. This is also a joke on the lack of labels that would be required for the map of Antarctica. Drawing Antarctica and labeling it would probably take less time than having the discussion about whether to include it, and then writing that discussion on the map.
+Aral Sea (Gone) Formerly one of the largest fresh-water lakes of the world, now actually not completely gone, but almost.
+Various former Soviet states Which are (west to east) Kazakhstan, Turkmenistan, Uzbekistan, Tajikistan and Kyrgyzstan. The former Union of Soviet Socialist Republics was dissolved in 1991 and thus the Cold War ended.
+Middle East Drawn here to include Egypt and Turkey. Whether these should be included depends on whether you mean the phrase Middle East politically or geographically. They are both Muslim countries, but geographically Egypt is in Africa and Turkey is usually not included because of its close affiliation with Europe.
+Boxing Day quake
+Wait, "Boxing Day"? There’s no way you’re American.
+I read BBC News, OK?
+On December 26, 2004, a huge earthquake struck off the coast of Indonesia, causing severe tsunamis. December 26, the day after Christmas Day, is celebrated as Boxing Day in the UK, Canada, Australia, and some other English-speaking countries, but not the US. As such, the earthquake became known as the Boxing Day Quake.
+One of the people who came asked these people to draw this map picks up on the use of 'Boxing Day' as something no American would say and questions if this person is, in fact, American. But an American reader of BBC News (part of the British Broadcasting Corporation) may start to use the phrase "Boxing Day" about the Tsunami.
+India -> Mostly Muslim
+India -> Mostly Hindu
+In general India is separated in two religious groups. Muslims in the north-west, Hindus in the rest. As visible on the map in Wikimedia Commons, the area with a predominant Muslim population is far smaller (and mostly concentrated to Kashmir) than depicted in the comic.
+Tibet (contested) The area was annexed by the People's Republic of China in the 1950s. Since then there are moves to gain some degree or other of independence. The marked area is fairly inaccurate, though. Today's Tibet Autonomous Region (former Kingdom of Tibet) is roughly the southern half of the marked area extended a bit to the south-east.
+Kamchatka Peninsula, but I admit I only know this one from Risk Risk is a board game played on a map of the world, where players own territories and battle each other for world domination. The person in the comic admits to knowing Kamchatka Peninsula only from the territory "Kamchatka" in the game. Kamchatka is notable among the territories in the game because it and Alaska are connected, despite being on opposite sides of the board- a fact that can easily be overlooked.
+Koreas The two Koreas are the "Democratic People's Republic of Korea" (North Korea) and the "Republic of Korea" (South Korea).
+Japan, duh. Well...Japan.
+Taiwan (actually called "The Republic of China" – it's complicated). This is a reference to the complicated political history of Taiwan. After the Chinese Civil War, the Nationalists fled mainland China for the island of Taiwan and set up a martial law there, vowing to return. In the intervening 70 years or so, Taiwan eventually began to transform into a democracy, being a self-governing state in its own right, but hasn't shed the name, or the animosity with the new rulers of mainland China. According to Americans, China and Taiwan are separate countries, but many other nations do not feel able to treat with the latter to that degree, given the political pressures from the former. The government of China claims de jure sovereignty of Taiwan, even though there is de facto separation of governance, and the island is not represented as a sovereign territory by the United Nations …hence the "it's complicated" tag. There is also a missing end-paren here, which is either a typo or a reference to 859. The tag "it's complicated" is one of the options for relationship statuses on Facebook, and denotes two people whose relationship defies the usual labels. In this case, it is the relationship between the "countries" which is complicated.
+Sulawesi As a running gag, the island of Sulawesi (formerly known as Celebes) is depicted in several map-like drawings and charts (see 256: Online Communities, 273: Electromagnetic Spectrum, 802: Online Communities 2, and 1555: Exoplanet Names 2). Of course, there are good reasons to show it on an actual world map like the one here.
+Paupa New Guinea A spelling mistake of Papua New Guinea.
+Phillipines A spelling mistake of the Philippines.
+Southeast Asia Southeast Asia is a region in Asia, which includes Buddhist-majority countries of Myanmar, Thailand, Cambodia, Laos and Vietnam, Muslim-majority countries of Malaysia, Indonesia and Brunei, and Christian-majority countries of the Philippines and Timor-Leste. However, in this map, Indonesia is depicted separately from the rest of SE Asia.
+Malaysia Malaysia is a country in Southeast Asia (it is not known why it was excluded on the map)
+Indonesia Indonesia is another country in Southeast Asia (it is not known why it was excluded on the map).
+Sri Lanka Sri Lanka is a small island country near India.
+Tasmania Tasmania is an Australian state.
+Transcript[edit]
+THE WORLD
+According to a Group of
+AMERICANS
+who turned out to be unexpectedly good at geography, derailing our attempt to illustrate their country's attitude toward the rest of the world.
+[Left to right, up to down.]
+[North of Canada.] Hey so what projection should we use?
+I'll aim for "Robinson."
+[North America.] Alaska; Canada; Hudson Bay; Québec; United States
+Did you know Maine is actually the US state closest to Africa?; Bermuda (British!)
+[Central America.] Baja California (Mexico); Mexico; Central America; Panama Canal; Gulf of Mexico; Cuba; Hispañola; POR.; Jamaica
+Do we have to label all the Virgin Islands?
+[South America.] Rest of South America (spanish-speaking); Brazil (portugese-speaking); French, and I think Dutch and English; Tierra del Fuego
+[Greenland.] Greenland (still too big!); Yeah but the Peters map is awful; Iceland
+[Europe.] British Isles; Ireland; Gibralter; Scandanavia; Western Europe; Eastern Europe; Black sea; Middle East
+[Africa.] Morocco; Algera; Sahara Desert; West Africa; Sudan; Rainforest DRC; Lake Victoria; Somalia; Angola; Mozambique; South Africa; Cape Horn; Madagascar
+[West of DRC.] So this is one of those things where you point out our ignorance and stereotypes?
+Yeah – I mean, I freely admit I don't know the African map very well, which speaks volumes in itself.
+[West Asia.] Russia; Aral sea (Gone); Various former Soviet states; Afghanistan & Pakistan; India; Mostly Muslim; Mostly Hindu
+[Indian Ocea.] Sri Lanka; Boxing Day Quake
+Wait, "Boxing day"? There's no way you're American.
+I read BBC News, OK?
+[East Asia.] Mongolia; Tibet (contested); China; Southeast Asia
+[Pacific Ocean.] Kamchatka Pennisula, but I admit I only know this one from Risk.
+Koreas; Japan, duh.; Taiwan (actually called "The Republic of China." – it's complicated.); Phillipines; Malaysia; Indonesia; Sulawesi; Paupa New Guinea; Australia; Tasmania; New Zealand
+[South of Africa.] Should we include Antarctica?
+Let's not – these guys are looking impatient.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+NB: Paupa (sic!) New Guinea Leob (talk) 20:10, 26 November 2012 (UTC)
+You're right, there's a typo in the comic! Good catch ;) --Waldir (talk) 17:10, 27 November 2012 (UTC)
+The group did come from the geography bee, not the spelling bee. --Tepples (talk) 15:22, 9 September 2017 (UTC)
+98% of American's would only be able to locate about 4 countries so this is way too generous ~JFreund
+"American's" Beanie (talk) 12:12, 28 April 2021 (UTC)
+Made a typo with Phillipines. It's Philippines. @JFreund No stereotyping, please. I can list 51 or 52 countries and I'm not even in middle school. Add a bit more thinking and I've got to 58.Randomperson4000 (talk) 01:59, 26 August 2014 (UTC)
+@JFreund: That's not true... I'm a seventh grader who can't stand geography for the life of me, yet I can name a good twenty or so. And as a very very simplified example, most fifth graders can easily name America (duh), Mexico, Canada, Russia, and England. That is rather, for lack of a better term, racist of you. ~jazz14456
+@jazz14456 Well for comparison I'm an seventh grader from europe(We call it year eight there) and I can name 64 off the top of my head, that's 320% more. Therefore the point of the comic and @JFreund 's point still stand. ~Samarthwiz
+Your brand of negativism, as well as the additional above, does nothing to advance any sort of constructive dialogue. Please check your misconceptions, generalizations, and inaccuracies about entire populations at the door. They're not welcome in communities of thinking people. Orazor (talk) 12:25, 21 July 2014 (UTC)
+While the petty point scoring is of no value, it is worth noting that Europeans have an advantage when it comes to the trite 'How many countries can you name' or 'How many countries have you visited' competitions. You can quite easily spend a day driving through Europe and visit (drive through) 5 countries. As an example: England, France, Belgium, Holland, Germany. The fact that an American can do this across different states, or may be able to name all 50 states in addition to however many countries, or have travelled far and wide within the states doesn't seem to carry any weight. --Pudder (talk) 14:03, 18 November 2014 (UTC)
+I wholeheartedly agree. They are regions with their own flags and laws and geography too only one slight criticism is that most of them call it America. So they want to be classed as an whole continent or two, a country that is more correctly called the USA and they want credit for knowing where Delaware or Rhode Island is. I used Google News BEFORE it was clickbait (talk) 18:48, 24 January 2015 (UTC)
+I think it's sad that I'm an American in eighth grade and the only reason that I can name 87 (88 if you count Vatican City as its own country) is because I play Call of War and Conflict of Nations--173.245.52.73 20:54, 18 February 2018 (UTC)
+There really is no need to be smug just cause you're European. Only 64? I had known at least 80 when I was in eighth grade, as well as the climates, geography, religions, capitals, international organizations they were in, and a little bit of the economy of said country. And you're being smug just because you can name more countries than others? And let's not forget the individual states, many of which could pass as a country on their own... so add 50 to that total. You think you're so smart? Try me. Herobrine (talk) 13:27, 11 March 2018 (UTC)
+BTW, the Robinson drawing in the comic is much too accurate to be pure freehand. He probably used tracing or grid point marks. -- Frankie (talk) 21:46, 25 March 2014 (UTC)
+Randall considers this to be 'good at geography'?! They only named, like, 30 or so countries... There's 197!* 173.245.56.184
+It's probably sarcasm too that "Tibet" is incorrectly labelled on Xinjiang. 108.162.223.47 01:20, 26 March 2014 (UTC)
+"Aral sea (??Toane" is probably "Aral sea (gone)" 173.245.55.60 (talk) (please sign your comments with ~~~~)
+This is a wiki. Edit it in yourself next time (done it for you this time).141.101.104.11 05:32, 1 August 2014 (UTC)
+I added some comments/explanations. The distance between Afrcia and USA was measured by google maps. I tried out several spots. If someone finds a shorter distance, fell free to correct :) Elektrizikekswerk (talk) 08:01, 18 November 2014 (UTC)
+The annotation regarding the poor labelling of Africa needs more/better explaining, especially what it means by it 'speaking volumes'. Although I've put that it lends weight to the 'Ignorant American' viewpoint, my feeling is that there is actually a more widespread ignorance amongst the rest of the world towards Africa (in general, not just geographically). While I could probably name a few more countries in Africa, I wouldn't be able to place them within the continent. I have an average knowledge of world geography, but the big hole in my knowledge would definately be Africa, and I suspect that the majority of people I know would say the same. I could come up with all sorts of theories as to why it is Africa I know so little about, but this comment is already too long! --Pudder (talk) 13:49, 18 November 2014 (UTC)
+Done, I think. Elektrizikekswerk (talk) 17:47, 18 November 2014 (UTC)
+I'm not sure if it's necessary to include all the other not yet mentioned/explained areas, such as Western/Eastern Europe and others. We could make lists of which countries belong to that regions similar to the "Various former soviet states"-area, but that would simply result in a list of all nations of the world. If you agree, we could remove the incomplete-tag, I think. If not... well... there are a lot of countries ;) On the other hand, I'm not quite sure, if the colors may have a special meaning... But I think most likely not. Elektrizikekswerk (talk) 17:47, 18 November 2014 (UTC)
+I've added a bit more detail on the title text. Personally I don't think we need to add all the labels, unless there is something specific on this comic which can be explained about that label. Like you say, it would turn into a list of countries with no relevant additional information. As far as colours go, I can't see any obvious pattern behind their assignment. I vote we remove the incomplete tag, in my view any other additions serve to enhance the article rather than to complete it. --Pudder (talk) 09:23, 19 November 2014 (UTC)
+The opening paragraph is inaccurate; the comic satirises portrayals of American geographical ignorance (X% of Americans can't locate Y on a map!) rather than jokey maps about cultural stereotypes.141.101.99.84 09:56, 13 October 2015 (UTC)
+Please improve the explanation for India. It is not clear, and the mostly Hindu/Muslim regions seem to be referring to the countries India and Pakistan. I tried editing, but someone reverted it claiming that it was not Pakistan. {{162.158.154.229 08:48, 19 April 2017 (UTC)}}
+That was me. Pakistan is obviously included in the part labeled as "Afghanistan & Pakistan". If you compare the red area of India in the comic's map with an actual map of India (e.g. this one https://en.wikipedia.org/wiki/File:Political_map_of_India_EN.svg) you'll see that the red area actually _is_ India. Ofc, the border drawn in this comic is not 100% accurate, but that is true for almost all borders. Elektrizikekswerk (talk) 12:18, 14 July 2017 (UTC)
+Well, as a neutral outsider I can point out that people from the USA are consistently showing their ignorance here of the difference between a continent and a country. "America" is a continent, the USA is a country. Same goes for Africa, it's not a country, it's a continent. The only continent that is also a country is Australia.
+I wonder if the people who make comments like the one above also insist on referring to the UK as the UKGBNI(United Kingdom of Great Britain and Northern Ireland). While the de facto name of the country established in 1776 is the Unite States of America, Its people are known as Americans. This is distinguished from other people of the 1 (or 2) continents called The Americas or North and South America.(North Americans, and South Americans) While referring to the USA as the USA, the US or the States is one way you distinguish the country from its neighbors, it's not the only way. 172.70.178.76 17:06, 1 March 2023 (UTC)
+The biggest problem with UK(oGB&NI) is that various terms (Britain, Great Britain, England, British Isles; and grammatically derivative versions) often get used in situations where they are actually a subset, superset or misaligned set against the intended scope. And often the more precise you try to be, the more likely you are to accidentally get the real coverage wrong. (Compare the statuses of Gibaltareans, the Manx, Channel Islanders, Falklanders, etc, etc... Some of those are British Isles, some of those are British, some are part of the realm of the UK... and others are not, but in different combinations).
+Plus I might consider myself (geographically) a european, still, even if not (politically) a European.
+And the List of countries that include United States in their name reveals some possible contemporary (as well as historical) confusions, when untied from a certain set of anglocentric (or 'USA'-centric!) assumptions. 172.71.178.64 18:02, 1 March 2023 (UTC)
+The edit here seems to be accurate about the edit-war, but isn't correct about the non-Americans part (speaking as a non-American). The issue seems mostly to be with specifically China-slanted rephrasing being snuck in (in contradiction with the wikipedia page being linked). Also, if Taiwan does ever get actually ruled by China, the current explanation is still correct as of the time of publishing. Perhaps better to just add more to the reasons why it is complicated, but don't flip the reality (or else add more when the next time comes to flip it away from the CCP-skewed perspective). 172.70.91.152 15:53, 12 March 2023 (UTC)
+China had banned Wikipedia, probably due to the "Taiwan" issue. ConlangGuide is probably trying to keep the Explain xkcd website from "going the way of Wikipedia". 172.69.22.123 22:52, 12 March 2023 (UTC)
+ConlangGuide only did one edit. Most of the edit-warring was known spammers (in China friendly ways) and general unidentifiable IPs (both directions). Unless you're saying that it is definitely CG who has been using multiple logins, some of whom have been a clear nuisance..?
+And I don't see any reason to reject facts just because one corner of the world is being snarky about them. Not at the behest of random users with motives that are at best unknown.
+I suggest a discussion on the Admin Portal is the best next step, if you want it. 162.158.34.204 00:10, 13 March 2023 (UTC)
+We already had a lot of "Chinese" IP addresses active here. If Explain xkcd got banned, we would lose a lot of helpers. 172.69.134.73 00:52, 13 March 2023 (UTC)
+Categories: All comicsComics from 2011Comics from JanuaryFriday comicsComics with colorGeographyMapsBoard games

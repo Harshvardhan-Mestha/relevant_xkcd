@@ -1,0 +1,25 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+742: Campfire
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 742)
+|<< PrevComic #742 (May 19, 2010)Next >>|
+Campfire
+
+Title text: 100 years later, this story remains terrifying--not because it's the local network block, but because the killer is on IPv4.
+Explanation[edit]
+Cueball is telling a scary story to kids by the campfire about a killer. It seems as if the main character was able to trace the killer's computer to a local address (most likely one in her own house). 192.168/16 refers to the subnet the computer is on. The 192.168/16 subnet is reserved for private networks and traffic to or from addresses on that subnet and will not be routed by most internet-facing routers. Most home networks that are behind a router usually have addresses such as 192.168.0.xx or 192.168.1.xx and use NAT to present different addresses to the rest of the internet. Thus, the killer must have been extremely close, likely inside the house, using the victim's own computer network.
+This is a modern update of a similar actual scary story, where the victim attempts to find the source of threatening phone calls only to find that they are coming from inside the house. Variations of this story made its way into several movies, including When a Stranger Calls (released in 1979, and re-made in 2006) or another version of the legend the movie was based on. All have a similar basic plot: the killer calls the victim at home; when traced, the call is coming from a phone inside the victim's home.
+The title text claims that this story will still be scary in 100 years, as the killer is on IPv4. Currently the number of available IPv4 addresses are dwindling. There are plans to replace the addresses with IPv6, which will largely increase the number of available addresses. In 100 years it would be very (technologically) scary for someone to still be using IPv4. This would be analogous to receiving a message by telegram today, rather than as an email or text.
+Transcript[edit]
+[Cueball and three children are around a campfire at night. Cueball is standing up, with a flashlight under his face.]
+Cueball: But when she traced the killer's IP address... it was in the 192.168/16 block!
+Children: Gasp!
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+"100 years later, this story remains terrifying--not because it's the local network block, but because the killer is on IPv4."
+It already is.
+172.69.69.28 13:20, 27 October 2018 (UTC)
+Says a person signing with IPv4 address. 162.158.88.105 14:19, 6 October 2021 (UTC)
+Categories: All comicsComics from 2010Comics from MayWednesday comicsComics featuring CueballComics with inverted brightnessKids

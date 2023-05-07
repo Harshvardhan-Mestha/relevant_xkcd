@@ -1,0 +1,36 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+686: Admin Mourning
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 686)
+|<< PrevComic #686 (January 8, 2010)Next >>|
+Admin Mourning
+
+Title text: And every day it gets harder to fight the urge to su to the user and freak people out.
+Explanation[edit]
+The background images show the output from the ps command of Unix-like computer systems, which lists all running processes including all interactive users logged in to the server. If a user did not log out, their processes would continue to run until stopped by a reboot. If some specific user dies while logged in, the running sessions still appear in the ps output and be a reminder to other users. This comic depicts an administrator unwilling to reboot a machine that has still running processes from a deceased user named "sam".
+When a session is closed its descendent processes sent the HUP (Hang-up) signal, which normally causes them to terminate. However, the popular utility screen enables a user to detach and reattach that output, thus surviving over sessions.
+The final joke refers to the command line interface being called a shell, and to a particular type of shell called zshell (/bin/zsh in the final panel), making a pun with the expression "Ghost in the Shell", which is the title of a popular manga series, originally derived from the expression "ghost in the machine", used by philosopher Gilbert Ryle to describe Descartes' theory of mind-body dualism.
+The phrase "su to the user" refers to the ability of a system administrator — i.e. the superuser, aka root — to switch to another user account (using the su command, which stands for substitute user) without needing the target user's password, as would normally be necessary, which in this case would give the impression that sam's ghost were using the account.
+Transcript[edit]
+[The text is over a white-on-black terminal showing a bit of output from ps -el | grep sam, with processes running from root and sam.]
+When a user dies, their connections time out,
+but their screen sessions linger.
+[The end of the command line is a |grep sam.]
+The server's uptime grows
+because you can't bring yourself to reboot
+and wipe out
+their last earthly presence
+[The processes listed are screen, zsh, irssi, and grep sam.]
+the ghost in zshell.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This reminds me of the philosophical thought that "...a person dies three times. The day he dies. The day the last person who knew him dies. The day his name is spoken for the last time." Makes you think, eh? 31.111.35.144 20:15, 15 May 2013 (UTC)
+By "their screen sessions linger," does it mean litteral GNU Screen sessions? Ad1217 (talk) 04:00, 29 January 2014 (UTC)
+Yes. SCREEN is in the greped output of ps in the comic 108.162.219.37 17:16, 31 January 2014 (UTC)
+irssi (Internet Relay Chat client software) process running in SCREEN session possibly means that Sam is logged on to the IRC and appears as a live person on some talk channels. 141.101.97.202 (talk) (please sign your comments with ~~~~)
+
+I'm not sure "old fashioned" is a correct description here. Modern Unix systems do this, too. 108.162.238.114 00:02, 8 August 2014 (UTC)
+In my opinion this comic might contain a reference to the more or less popular movie "Ghost" (http://en.wikipedia.org/wiki/Ghost_(1990_film) ) as well, since the main character in this movie is called "Sam", too. --141.101.104.98 09:42, 21 October 2014 (UTC)
+Categories: All comicsComics from 2010Comics from JanuaryFriday comicsComics with inverted brightnessComputersPuns

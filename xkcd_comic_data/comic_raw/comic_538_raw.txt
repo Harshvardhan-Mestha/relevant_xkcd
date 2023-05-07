@@ -1,0 +1,43 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+538: Security
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 538)
+|<< PrevComic #538 (February 2, 2009)Next >>|
+Security
+
+Title text: Actual actual reality: nobody cares about his secrets. (Also, I would be hard-pressed to find that wrench for $5.)
+Explanation[edit]
+The "crypto nerd" (short for cryptography in this case, not cryptocurrency, which was only invented a few months before this comic) would be concerned with strongly encrypting data on their personal machine. This would conceivably come in handy when "villains" attempt to steal information on his computer. The crypto nerd imagines that due to his advanced encryption, the crackers will be ultimately defeated. Randall suggests that in the real world, people with the desire to access this information would simply use torture to coerce the nerd to give them the password. Both panels also reference the amount of money used to access the data. In the first the villain is willing to use millions of dollars to construct a super computer which may still not fulfill their aim, while in the second, he simply uses a $5 wrench and 'the personal touch'. The comic effectively states, completely accurately, that the weakest part of computer security is usually not the computer, but the user.
+RSA is a commonly used public key encryption method. Current standards typically use 1024, 2048, and (more recently) 4096 bit keys. These encryption methods are not yet (feasibly) breakable. A 4096-bit key will remain unbreakable for the foreseeable future.
+To be resilient against this sort of "attack", cryptographers have devised schemes of deniable encryption, where attackers either cannot prove that encrypted information exists at all, or that allows the user to provide a password that reveals one (innocuous, or embarrassing but not illegal) secret without giving any indication that there is a second password that reveals the more important secret.
+The title text pokes fun at typical users, who do not have data that would be worth anything to anyone but themselves. Therefore, it is unlikely that the above situation would ever occur. Additionally, the wrench used in the second panel is large, and presumably more than the $5 referenced by the thug.
+Transcript[edit]
+[Cueball is holding a laptop up in two hands, showing it to his Cueball-like friend who is examining it while holding a hand up to his head. Above the top of the panels frame, there is a box with a caption:]
+A Crypto nerd's imagination:
+Cueball: His laptop's encrypted. Let's build a million-dollar cluster to crack it.
+Friend: No good! It's 4096-bit RSA!
+Cueball: Blast! Our evil plan is foiled!
+[Cueball is holding a closed laptop down in one hand while giving his Cueball-like friend a wrench with the other. The friend reaches out for it. Above the top of the panels frame, there is a box with a caption:]
+What would actually happen:
+Cueball: His laptop's encrypted. Drug him and hit him with this $5 wrench until he tells us the password.
+Friend : Got it.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I was in a flea market one time when I saw a booth who sold wrenches. They were priced starting at $2. There were even $5 wrenches! Yes; I did this in response to this comic strip. No; I did not buy one. (I have no need to "crack" a computer. I just wanted to prove that there is a $5 wrench.) Greyson (talk) 02:15, 3 November 2012 (UTC) (Oops... I forgot to log on... I feel... scared.) Greyson (talk) 02:15, 3 November 2012 (UTC)
+Remember the other comic, talking about how much does your time spent to pick up a penny cost? This applies here too! It's not just $5 for the wrench, there is also the time of the guy who will be hitting with it! Although of course the wrench is amortizable over multiple secret extraction sessions, unless it gets bent too much out of shape. 108.162.246.5 20:57, 31 January 2014 (UTC)
+I went to the flea market and bought a $5 wrench, then used it to beat the password out of 2^5 nerds. I just wanted to prove that there is a $5 wrench and that it's reasonable to amortize it over multiple extraction sessions. The wrench is still in good shape, even to use as a wrench. 108.162.215.115 18:26, 28 January 2015 (UTC)
+Why does everyone imagine that the "crypto nerd" will be a "him"? This gendered language is simply reinforcing the sexist stereotypes that serve as the cultural foundation for rape and other symptoms of this sexist worldview. I'm changing this to "him or her"... -- Vctr (talk) (please sign your comments with ~~~~)
+The text of the comic refers to the cryptonerd being a him. Please check yourself before you wreck yourself. 108.162.221.99 18:07, 1 May 2015 (UTC)
+It says in the comic that the 'crypto nerd' is a 'him': "His laptop is encrypted". --108.162.216.118 15:45, 5 July 2020 (UTC)
+Same concept as 416: Zealous Autoconfig. Shanek (talk) 12:31, 1 May 2015 (UTC)
+What would happen if the owner of the computer used deniable cryptography with some decoy message? -- 173.245.48.141 08:35, 15 July 2015 (UTC)
+As pointed out by the wikipedia article, deniable cryptography might either fool the attackers, or make them keep beating you even after you give them the real password. 198.41.235.179 22:48, 13 October 2015 (UTC)
+Surely if he's encrypting his PC, he should be using something like 256-bit AES/Rijndael, as it's more secure? Walale12 (talk) 10:11, 24 July 2015 (UTC)
+I doubt the crypto "nerd"'s nerdiness. RSA is not generally used for disk encryption. It relies on the computation of large primes, a task infeasible for data of such size. Instead, AES is used. 108.162.250.163 13:54, 15 January 2016 (UTC)
+Quite often, disk encryption is done in two steps: Instead of generating key directly from passphrase, random symmetrical key is generated and used for actual encryption of whole disk, then encrypted by key generated from passphrase and stored ON the disk. That allows to change the passphrase without reencrypting whole disk. While the algorithm used for encrypting disk could be and often is AES, it's possible to use RSA for the second step. And breaking 4096bit RSA would still be quicker than breaking 256bit AES. -- Hkmaly (talk) 22:35, 15 July 2019 (UTC)
+Lol. The spelling "wench"
+My game is up! Drat! ;)
+Please sign your comments. - Also this article has been vandalized few times, to change wrench->wench. I now notice that the title text here also says so. On the original page it says wrench. --Lupo (talk) 06:15, 14 August 2019 (UTC)
+Categories: All comicsComics from 2009Comics from FebruaryMonday comicsComics featuring CueballMultiple CueballsCryptography

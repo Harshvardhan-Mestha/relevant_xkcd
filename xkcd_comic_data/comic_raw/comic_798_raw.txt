@@ -1,0 +1,68 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+798: Adjectives
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 798)
+|<< PrevComic #798 (September 27, 2010)Next >>|
+Adjectives
+
+Title text: 'Fucking ineffable' sounds like someone remembering how to do self-censorship halfway through a phrase.
+Explanation[edit]
+This comic is a plot graph comparing how often certain adjectives are used alone versus in the phrases "fucking [adjective]" and "[adjective] as shit". Plot data is based on Google search engine result count, or hits. The graph's formula uses the natural logarithm of the hits for the obscene phrase divided by the hits for the adjective alone.
+It's a social observation of linguistics pointing out that the use of swear words as intensifiers is more common with everyday words (eg. annoying, pissed, stupid) than it is with more arcane words (eg. piquant, fungible). Two words are used as examples in a sentence shown to the right. These sentences are not something you would be likely to overhear. In the case of fucking fungible it is also a way to justify its relatively high occurrence online. Of course given the log scale, it is still very rarely used like this.
+The only word included in the graph that's never found in either obscene phrase is peristeronic. Its definition ("Of or pertaining to pigeons") is included due to its extreme obscurity. (The words was used again later as a difficult word in the survey part of comic 1572: xkcd Survey.
+The title text mocks the use of the word fucking in combination with ineffable since the colloquialism effing or F-ing is a way of censoring "the F-word", fuck. The two used together resembles someone partially self-censoring the phrase "fucking unfuckable."
+Meanings of lesser known words[edit]
+Prosaic - lacking originality/creativity
+Ambivalent - having mixed feelings or contradictory ideas about something or someone
+Evanescent - which disappears very quickly, transient/ephemeral
+Piquant - which has a tangy, appetizing taste
+Jejune - naive, simplistic
+Kafkaesque - nightmarishly bizarre and surreal, read more about it here
+Stochastic - random and unpredictable, most often used in a technical sense
+Fungible - things that are interchangeable and equivalent substitutes for each other - e.g. different cans of diet coke are fungible with each other
+Transcript[edit]
+Frequency with which various adjectives are intensified with obscenities (based on Google hits)
+[The legend above the plot reads:]
+Red marker: "fucking ____"
+Blue marker: "____ as shit"
+[Mathematical formula for scale next to the legend:]
+Scale: ln(hits for intensified phrase/hits for adjective alone)
+[The plot itself lists a series of adjectives in approximately descending order. Each has a red and a blue marker corresponding to the scale described.]
+[Horizontal axis starts with none, then has a vertical dashed line, then 'rarely' at -17, increasing to 'often' at -5.]
+[Each adjective is listed with approximate red and blue values, in that order.]
+Annoying -5 -4.5
+Pissed -5 -6
+Stupid -5 -8
+Bored -6 -6
+Sexy -5.5 -6.5
+Adorable -6.5 -9.5
+Disgusting -6.5 -12.5
+Calm -7 -10
+Delicious -8 -13
+Obscene -6 -14
+Prosaic -10 -13.5
+Bemused -8.5 -14
+Apropos -10.5 -16
+Ambivalent -12 -17
+Improper -12.5 -18
+Evanescent -14 -14.5
+Piquant -9.5 never
+Jejune -9 never
+Kafkaesque -10 never
+Stochastic -14 never
+Fungible -12 never
+Peristeronic ("Of or pertaining to pigeons") never never
+[There are two small scenes in the bottom right of the plot. The first shows a pair of women holding wine glasses.]
+Megan: Yes, the Cabernet is piquant as shit this year.
+[The second shows Cueball sitting at a computer desk.]
+Cueball: Whoa — these commodities are fucking fungible!
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The continued validity of some of these results is stochastic as shit, but to believe that they won't eventually change is just jejune as shit. (2 down, 4 more to go) --68.97.21.122 06:20, 15 July 2013 (UTC)
+You would think that "improper as shit" would actually have more hits than that. 173.245.54.87 09:30, 25 November 2013 (UTC)
+I think a better comparison would be substituting "as fuck" for "as shit." I found more results for "'improper as fuck'" than for "'improper as shit' -xkcd". I added the -xkcd because otherwise many of the results would be xkcd references. --108.162.216.36 00:11, 19 January 2014 (UTC)
+And the day after xkcd published this comic, results for "f***ing peristeronic" jumped off the charts (as was the case with other xkcd comics :-) ). 108.162.221.150 00:11, 19 August 2015 (UTC)
+Boy, Randall predicting the future with fungible there... 172.70.162.5 13:23, 22 January 2022 (UTC)
+Categories: All comicsComics from 2010Comics from SeptemberMonday comicsComics featuring CueballComics featuring PonytailComics featuring MeganChartsComics with colorLanguage

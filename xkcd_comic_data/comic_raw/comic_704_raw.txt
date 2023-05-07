@@ -1,0 +1,51 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+704: Principle of Explosion
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 704)
+|<< PrevComic #704 (February 19, 2010)Next >>|
+Principle of Explosion
+
+Title text: You want me to pick up waffle cones? Oh, right, for the wine. One sec, let me just derive your son's credit card number and I'll be on my way.
+Explanation[edit]
+Cueball's friend (who also looks like Cueball) explains the principle of explosion, a classical theorem of logic, which shows that if within a system of logic you can use the axioms and rules of deduction to derive (prove) a contradiction, it then becomes possible to derive any statement at all within that system (whether it’s actually true or not). In particular, if you start by assuming a self-contradictory statement, you can derive anything.
+Cueball then proceeds to misinterpret (perhaps intentionally) that you can derive any fact about the physical world. His formula of propositional logic in the third panel reads "P and not P", where ∧ is the formal logic symbol for "and" and ¬ is the symbol for "not". P stands for a proposition. As "P and not P" is shorthand for "P is both true and false", this forms a contradiction from which the principle of explosion can begin. Humorously and to his friend's bewilderment he then successfully manages to 'derive' the phone number for his friend's mom.
+An example from math: If you assume that √2 is a rational number, you can 'prove' things that are obviously false, such as the fact that some numbers must be both even and odd. Consequently, you can draw the conclusion that √2 must be an irrational number (provided such a thing exists at all! - luckily, it does and obeys the same calculation rules as for rational numbers; this is how proof by contradiction works.)
+This can be seen in a Truth Table:
+P ¬P P ∧ ¬P P ∧ ¬P ⇒ Q
+T F F T
+F T F T
+The formula P ∧ ¬P ⇒ Q is true in every possible interpretation. No matter what propositions are substituted for P and Q the implication is true. So if a single example of a contradiction were found, then every proposition would be true, (and simultaneously false).
+After deriving the phone number Cueball instantly calls his friend's mom, who turns out to be Mrs. Lenhart. She asks Cueball out, without any preamble, to his friend's vexation. It does not get better when it is obvious that she wishes to drink "cheap" boxed wine with him, and Cueball is free tonight! There is definitely a hint of Mrs. Robinson over Mrs. Lenhart here.
+In the title text we hear more of Cueball's (one-sided) conversation with Mrs. Lenhart. She asks him to pick up waffle cones, a variety of ice cream cone. And when he sounds bewildered by this she explains that it is for drinking the wine. This is probably not a very good idea, since waffles are typically not water proof and would also dissolve into the wine. The rest of the title text is just more of the main comic's derivation joke, since Cueball will use a second to derive her son's credit card number, so he can buy the cones at his expense.
+In reality, Cueball really could start with the principle of explosion and "prove" a statement such as "Mrs. Lenhart's phone number is 867-5309", but the same could be said of any conceivable phone number, most of which don't actually belong to Mrs. Lenhart, and because his axiom system is inconsistent, he has no way of knowing which is correct. Likewise for his friend's credit card number. Much like The Library of Babel, an axiom system which can prove any statement might as well prove nothing. Perhaps Cueball already knows these phone and credit card numbers, and is just talking about the principle of explosion to mess with his friend.
+Transcript[edit]
+[Cueball's Cueball-like friend is talking to him.]
+Friend: If you assume contradictory axioms, you can derive anything. It's called the principle of explosion.
+Cueball: Anything? Lemme try.
+[Cueball is writing on a piece of paper on a desk.]
+[Cueball is holding up a piece of paper to his friend, while holding a phone.]
+Cueball: Hey, you're right! I started with P∧¬P and derived your mom's phone number!
+Friend: That's not how that works.
+[The friend is looking at the piece of paper, while Cueball is talking to someone on a phone. The desk from before can be seen to the right.]
+Cueball: Mrs. Lenhart?
+Friend: Wait, this is her number! How—
+Cueball: Hi, I'm a friend of— Why, yes, I am free tonight!
+Friend: Mom!
+Cueball: No, box wine sounds lovely!
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Could Mrs Lenhart be Miss Lenhart's mother, perhaps? This makes Cueball-1 Miss Lenhart's brother (and thus possibly "Cueball Lenhart", unless he's a half-brother or step-brother or the like). Of course with provably two Cueballs in this situation (and assuming they aren't twins, unless #2... no, we won't go there) we can't therefore assume that any particular lone Cueball is related. However, if "Cueball is a Lenhart AND Cueball is not a Lenhart" then.... well, lock up your mothers... <smirk> 31.111.50.225 22:01, 7 May 2013 (UTC)
+^ genealogy makes my head durt. 103.9.42.158 20:22, 19 October 2013 (UTC)
+
+Hey, what do waffle cones and box wine have to do with each other? Wouldn't the cones just get soggy? Just wondering. Anonymous 18:30, 9 December 2014 (UTC)
+This is what I came here to figure out. "Oh, right, for the wine" makes it sound like it's supposed to be obvious. 108.162.210.177 00:51, 28 March 2015 (UTC)
+Logically the waffle cones are unrelated to the wine, it's a separate item. -Pennpenn 108.162.250.162 00:55, 18 May 2015 (UTC)
+I thought the joke was that Cueball's mother was cheap and tasteless because she enjoys drinking boxed wine out of waffle cones. 108.162.238.172 17:24, 28 September 2015 (UTC)
+Using the principle of explosion, boxed wine and waffle cones are very much related, and are essentially the same thing. 108.162.229.210 01:29, 7 August 2015 (UTC)
+Gah, unpaired parentheses... 108.162.221.150 05:48, 17 August 2015 (UTC)
+I added the end parenthesis, just for you. Although, now I'm wondering if double parentheses are really the best alternative... --Hammy2211 (talk) 17:09, 8 October 2015 (UTC)
+There was a community portal discussion of what to call Cueball and what to do in case with more than one Cueball. I have added this comic to the Category:Multiple Cueballs. Since here it is clearly the Cueball that calls the mom who is the protagonist and do the important "talking" of this comic he should be listed as Cueball (if any of them). So have rephrased the explanation to take this into account and also noted that the "friend" also looks like Cueball... --Kynde (talk) 15:44, 24 November 2015 (UTC)
+Beret Guy lost his hat? I hope he finds it! 172.70.175.146 02:50, 22 February 2022 (UTC)
+Categories: All comicsComics from 2010Comics from FebruaryFriday comicsComics featuring CueballComics featuring Miss LenhartMultiple CueballsLogicYour Mom

@@ -1,0 +1,48 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+754: Dependencies
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 754)
+|<< PrevComic #754 (June 16, 2010)Next >>|
+Dependencies
+
+Title text: The prereqs for CPSC 357, the class on package management, are CPSC 432, CPSC 357, and glibc2.5 or later.
+Explanation[edit]
+A compiler is a program that converts code written in a high-level programming language into an executable program. A section of code is said to be dependent on a second segment of code if the second segment is required for the first segment to work. Dependency resolution is part of compiler design, and is the study of determining and correcting dependencies which result in an unwanted, ambiguous, or impossible definition of the dependent section. Requiring that an action occurs if and only if the action has already occurred, like the prerequisite in this comic, is one type of potentially unwanted dependency.
+The comic envisions a college computer science course (CPSC432) focusing on "compiler design with dependency resolution" which has itself as a prerequisite. The joke is that the prerequisite is an unresolved dependency, as you must complete this course before you can enroll in it, a phenomenon called Catch-22.
+This dependency would send a poorly designed compiler into an infinite loop. In real life, the problem is solved by allowing an object to satisfy itself as a prerequisite. This stops the compiler's infinite loop, but may not produce the desired functionality in the program. Another layer of the joke may be that any student who successfully enrolls in the class already knows this solution because they must have employed it in order to get past the apparent infinite recursion in the class prerequisites.
+Managing dependencies is useful in other areas of computer science, e.g. package management. Collections of files are known as "packages". A software package might require that a particular operating system patch (a type of package) be installed first. That package might in turn require other packages be installed, and so on. Therefore, a package installer must know the dependencies of a package, and be able to figure out whether any required packages are missing before continuing with the installation.
+The title text envisions a course on package management which has itself as a prerequisite, as well as the compiler design course with the impossible prerequisite presented in the main comic (CPSC 432), and glibc2.5 or greater. By looking at the course number it can be observed that CPSC 432 is a fourth year course, and this package management course (CPSC 357) is a third year course. Glibc is a commonly used package on Unix systems, and therefore should be taught in the course. This continues the joke since this course has the following unresolved dependencies:
+Requiring that the course be a prerequisite to itself (CPSC 357).
+Requiring that a course with an unresolved dependency (CPSC 432) be a prerequisite, as CPSC 432 can not be taken.
+Requiring that a fourth year course (CPSC 432) be a prerequisite to a third year course (CPSC 357), as the student should be in their fourth year while taking CPSC 432, and should be in their third year while taking CPSC 357. This is analogous to a lower-numbered package requiring a higher-numbered package.
+Requiring that the student knows part or all of the course material (glibc2.5 or greater) before taking the course, as the student is supposed to learn this information from the course.
+Transcript[edit]
+[A portion of a page from an imaginary course catalog.]
+Page 3
+[A table with four columns]
+Department
+Computer Science
+Course
+CPSC 432
+Description
+Intermediate compiler design, with a focus on dependency resolution.
+Prereqs
+CPSC 432
+[The very top of the text for the next course in the table is visible but unreadable.]
+Trivia[edit]
+The letter code "CPSC" is the letter code Christopher Newport University, Randall's alma mater, uses for Computer Science.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Concurrent enrollment FTW 75.60.27.102 03:11, 29 March 2013 (UTC)
+I'm a programmer so I'm ok with the explanation, but it seems too technical for non programmers. 108.162.212.196 02:22, 12 January 2014 (UTC)
+In response to the programmer at 108.162.212.196: yes, it's probably too technical for non-programmers. But then again, so is the comic. It's a programming (or logic) joke. Unfortunately the level of knowledge required to 'get' some of Randall's humour can't always be reduced down to a simplistic lowest common denominator. 141.101.81.216 06:36, 24 February 2014 (UTC)
+"Yes, Microsoft CRT 9.0 or later is acceptable. But you should probably think about getting MinGW, Cygwin, or just switch to Linux." (groan) 108.162.221.9 01:00, 17 April 2014 (UTC)
+CPSC 432 lists itself as a prereq, not a coreq. A coreq can be satisfied by enrolling in the original course and the coreq course at the same time; however, prior completion of the course is required in the case of a prereq. So the dependency problem here cannot be solved by allowing a course to satisfy itself, and as a result, no one will be able to enroll in this course. The joke here is thus that the instructor of a course on dependency resolution created a dependency problem himself. --Troy0 (talk) 07:04, 17 August 2014 (UTC)
+Added to the talk as it was removed from the main content:
+Alternately, the title text could be a meta joke where course prerequisites are confused with system requirements. System requirements tell the user what other hardware or software are requied in order for a piece of software to run properly, such as a minimum amount of RAM or a particular operating system. The inclusion of glibc2.5 in the prerequisites might mean that the student needs to have this package loaded rather than be familiar with it. --Smperron (talk)
+This does not fit with the context of the joke (which is about dependencies) also clearly all other items in the title text are dependency related, therefore this is very unlikely. However the current description may be incorrect and the glibc2.5 or later comment may just be the author intentionally confusing prerequisite and package management dependencies. 108.162.216.209 20:32, 5 December 2014 (UTC)
+About the third/fourth year things: I don't know how it works at all U.S. schools, but at mine just because a class starts with a 3 or a 4 doesn't mean it HAS to be taken in that year. Because of the way the pre-reqs (for my major, at my school) work, I can take a 2000-level class, then a 3000-level, then a 4000 and some more 3000s... so a "fourth year" class can be taken before a "third year", just in general. 173.245.56.71 12:46, 1 July 2016 (UTC)
+I was trying to read the next course, and here's what I saw: "Computer" | CPSC 433 | Advanced compiler design | DHTL 101
+Categories: All comicsComics from 2010Comics from JuneWednesday comicsProgrammingRecursion

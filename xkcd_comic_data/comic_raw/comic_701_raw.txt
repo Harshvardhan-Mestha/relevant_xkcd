@@ -1,0 +1,54 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+701: Science Valentine
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 701)
+|<< PrevComic #701 (February 12, 2010)Next >>|
+Science Valentine
+
+Title text: You don't use science to show that you're right, you use science to become right.
+Explanation[edit]
+Cueball is taking a scientific approach to creating a valentine card. Based on the first chart, the recipient is his fiancée since he noted major events (first meeting and engaged, thus they are not married yet, or it should have been noted on the graph). The labels of a heart and smiley represent Cueball's feelings for her and happiness accordingly. This implies that Cueball had love and feelings for someone else before he first met the love he is breaking up with. While they were dating, the feelings and happiness levels were very unstable, as is expected for any new relationship. That later dropped to current levels, probably due to Cueball's lack of love towards her.
+In the second panel, there are variables r0, r1, r2, each value at 0.20, -0.61, -0.83 accordingly. Given their names and values between -1 and 1, these are probably correlation coefficients. If they are based on the data in the graph in the preceding frame, they could compare how well one of the variables correlates with time passed since the relationship. For example, if they are based on the heart line, they could measure the correlation between heart (Cueball's feelings for his fiancée) and time, being a weak positive correlation for the first period (0.20), a moderate negative correlation for the second period (-0.61), and a strong negative correlation for the third period (-0.83). Alternatively, they could be comparing the correlation for the accumulated periods, 0.20 for the first, -0.61 for the first and second, -0.83 for all three. Either way, it looks like there becomes a strong negative association between times passed and Cueball's love. The same reasoning would apply if the values are based on the smiley (Cueball's happiness) line.
+The text in the space between 2nd and 3rd panels show that Randall Munroe is against scientific misconduct. It also shows that Cueball's rigorous approach makes him realize that the happiness he derives from the relationship is declining, which presents him with a choice. Will he be a true scientist by accepting data that he doesn't like, or will he be romantic and just make a cute card?
+The last panel is a parody of a broken(torn) heart, a common symbol used to represent people falling out of love. The line could be interpreted as a graph of the amount of love between the two or a literal tearing of the heart in two.
+He decides that he is a scientist and so presents his significant other with a breakup valentine even though he originally intended it as a confirmation of their love.
+The comic may be intended as a cautionary tale to new scientists; while the graph in the leftmost panel shows an apparent correlation between Cueball's love and his happiness, and it shows his happiness is lower than it might be expected to be without his partner, it fails to show that the falling love effects falling happiness-- it may be the case that falling happiness effects falling love, or that both happiness and love are affected by an unidentified factor. For example, temporary external crises may be weighing on Cueball's relationship as well as his happiness.
+The title text seems to be him trying to console himself that he did the right thing. You should not use science to prove that your theory is right, but to find out which theory is the right one!
+Transcript[edit]
+I wanted to make you a science valentine
+with charts and graphs of my feelings for you.
+[A graph shows romance and happiness. Romance cuts off, indicating a breakup before the meeting of Cueball and his current significant other, and happiness dips accordingly.
+A line indicates where the couple first met; romance is jagged thereafter, initially upwards but later down.
+Happiness climbs slightly more steadily and then dips again.
+More lines indicate a period of dating and then one of engagement.]
+and the happiness you've brought me.
+But the more I analyzed
+[Cueball works at a computer.]
+r0 = 0.20
+r1 = -0.61
+r2 = -0.83
+the harder it became to defend my hypothesis.
+In science, you can't publish results you know are wrong
+and you can't withhold them because they're not the ones you wanted.
+So I was left with a question: do I make graphs because they're cute and funny,
+[Cueball sits, looking at a sheet of paper.]
+or am I a scientist?
+Enclosed are my results.
+I hope you can find somebody else
+[A jagged, declining graph is superimposed over a red heart.]
+to be your valentine.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+If he really did figure out, by sitting down and thinking his life and their relation through, that he doesn't really love her, then he did the right thing. Of course he may not have been scientific enough, if the reasons his feelings and happiness decreases is caused by some outside agency... --Kynde (talk) 11:56, 29 April 2015 (UTC)
+
+I think the r0, r1, r2 are correlation coefficients. They are all between -1 and 1, and all called r, which is a common name for a correlation coefficient. Also, this would mean r2 shows a strong negative correlation between two things. --108.162.215.39 06:57, 11 May 2015 (UTC)
+I agree with the above comment, great explanation for this statistical variable which shows that his love becomes negatively correlated with time, complementing the first panel's graph. Barrtender (talk) 14:26, 16 September 2015 (UTC)
+I also think that the correlation coefficient interpretation is right. Moreover, it looks like r0 refers to the time just after the first meeting (slightly positive trend), r1 to the time when they were dating (negative trend) and r2 to the time after engagement (with even stronger negative trend). --198.41.242.245 18:26, 3 December 2015 (UTC)
+You are conflating correlation with slope. While they share the same sign, a gentle slope and steep slope can have the same correlation coefficient. It might be better to look at the correlation probability, which for the three values are 4.0%, 37.21%, and 64.0%. All other things being equal, these are the probabilities that the two variables are actually correlated. Thus, only the last measurements should be considered significant. It does not imply A strong negative trend. --Rhmcoff (talk) 04:59, 26 May 2017 (UTC)
+Maybe 833: Convincing would be worth mentioning in the explanation, where Megan draws a relationship themed graph (and Cueball complains about missing axis lables) -- Ruffy314 (talk) 02:35, 3 November 2015 (UTC)
+This reminds me of Ted Chiang's short story, Division By Zero, where a character looks for proof of love and finds none, deciding he doesn't love them... Though I interpreted the end as positive, if a little ambiguous. Ted Chiang is a great author for XKCD fans, I think. 172.69.68.147 18:14, 25 November 2019 (UTC)
+I am pretty damn sure (and am surprised it was not corrected before) that correlation is not of v1 or v2 to t, but v1 to v2 (over t). 162.158.238.9M-ree
+The phrase "Charts and Graphs" could be a reference to the song Nothing Better by The Postal Service, which would be fitting as it's a song about a similar scenario. "I've made charts and graphs that should finally make it clear / I've prepared a lecture on why I have to leave" The album was released in 2003 so the timing works.172.70.114.159 19:02, 30 November 2021 (UTC)
+Categories: All comicsComics from 2010Comics from FebruaryFriday comicsComics with colorComics featuring CueballValentinesMathStatisticsScienceLine graphs

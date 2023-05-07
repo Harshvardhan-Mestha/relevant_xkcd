@@ -1,0 +1,55 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+620: Wings
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 620)
+|<< PrevComic #620 (August 7, 2009)Next >>|
+Wings
+
+Title text: Please do not try any of this and die or get arrested.
+Explanation[edit]
+Cueball explains to Megan that on Saturn's moon Titan, the combination of lower gravity and a denser atmosphere make the act of flying simpler. Wings that are only capable of generating 9% of the necessary lift on Earth would allow one to fly if used on Titan.
+Cueball now stands in front of an apparatus to do so; he is standing in a valley with a metal arch above him, and two pulleys that have a rope going from Cueball to one pulley to the other and to the pile of bricks that weigh 91% of his weight, so if he generates enough lift to cancel out 9% of his weight, then he will be able to lift himself and fly.
+The experiment is a success. However, as Megan points out, his experiment has some problems. One, he used hot glue for the wing joints and two, he has friends into Greek mythology.
+Icarus is a character in Greek mythology who is known for his own self-powered flight, which ended when the wax holding his wings together melted and he fell to his death. This supposedly occurred because he ignored instructions not to fly too close to the Sun, a tragic example of hubris — extreme arrogance. Here, Black Hat is bringing an artificial "sun" to "Icarus" to recreate the tragedy.
+Black Hat is standing on top of the arch with a powerful heat source, a heat lamp. The hot glue melts, then the wings fall apart, then Cueball falls.
+In the title text, Randall asks that xkcd readers do not attempt to reproduce this. The reason for this is explained here. It could also simply be a media-standard "Don't try this at home" warning, as there are legitimate dangers to flying around unprotected. Sufficient height and a sudden loss of one's wings could indeed result in death (and deliberately causing someone to lose their wings and die or be injured would indeed get one arrested).
+One thing to note about this comic is that Cueball is still attached via pulley to the bricks. These bricks, weighing down on the other side, should (obviously) slow his fall considerably. Of course, Black Hat could also cut the rope...[citation needed]
+Physics[edit]
+The calculated figure of 9% is only correct if the temperature on Titan has been raised to be the same as Earth — which, for human-powered flight, would probably be necessary anyway. At Titan's normal temperature, you would only have to generate about 3% of your Earth body weight in lift, as the atmosphere is much denser.
+The friction in normal ball-bearing pulleys when loaded with 182 % of a persons weight would likely be greater than 9 % of that weight. Cueball must be using futuristic super-low-friction pulleys.
+When the wings come off, Cueball is going to fall with an acceleration of about 0.047 g, or 21 times slower than a free fall (neglecting friction). The net downward force is 9 % of his weight, while the total inertia is 191 % of his body mass. So a fall from 21 meters (63 ft) will feel like a fall from one meter (3 ft), equivalent to the fall of someone who has hopped off a table. If he lands on his feet, he will not sustain injuries.
+Transcript[edit]
+Cueball: Titan's gravity is 14% of Earth's, and its atmosphere 50% denser.
+Cueball: So if you can generate 9% of your body weight in lift, you can fly on Titan.
+Cueball: With wings, a stage harness, a cable, and 91% of my weight in bricks, I want to test this.
+[There is a heap of materials on the ground. Cueball is holding a stage harness.]
+[Large diagram of a bridge, seemingly metal. A rope leads through pulleys tied to the bridge. One end goes to Cueball, one end to a pile of bricks.]
+[Cueball is standing with wings attached to his arms.]
+[Cueball flaps the wings, and appears to be floating.]
+[Cueball glides.]
+Cueball: It works!
+Megan: Except you have two problems.
+Cueball: What?
+Megan: You used hot glue on your wing joints and you have friends into Greek mythology.
+Cueball: Huh?
+[Black Hat is standing on the bridge, with a large lamp labeled "heat lamp" attached to a battery.]
+[The wing segments fall off Cueball and he tumbles downward.]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Cueball's physics has a mistake on this one (or at least assumes we've managed to heat the atmosphere of Titan to Earth's temperature). The temperature of Titan is roughly 1/3 the temperature of Earth on an absolute scale. Starting with the Ideal Gas Law, PV = NkT (k is Boltzmann's constant, N is # of molecules, P is pressure, V is volume, T is temperature), its easy to define the density of a gas, ρ as:
+ρ = m/V = (m P)/(N k T) = P (m/N) / (k T)
+Titan's atmosphere is 98.4% molecular nitrogen (N2) and on Earth only 78.1% molecular nitrogen (by volume), but for simplicity we'll assume 100% for both. The weight of one molecule of Nitrogen is (m/N) ~ 2 × 14 × 1.67x10-27 (kg/molecule) (there are 28 nucleons per molecule with a mass of about 1.67x10^-27 kg.
+The pressure on Titan is PTitan=146.7 kPa, and TTitan = 93.7 K, while on Earth PEarth=101.3 kPa and TEarth = 287 K.
+Plugging in numbers, we get ρTitan = 5.3 kg/m3 and ρEarth = 1.2 kg/m3 (note the measured surface density of air on Earth is 1.2 kg/m3 at Earth's mean temperature even without the simplifying assumption of 100% N2).
+Hence Titan's atmosphere is 4.4 = (5.3/1.2) times denser than Earth's (or 340% denser); not 50% denser as stated in the comic.
+You will get the 50% denser if you assume the same planetary temperature on Titan as on Earth. Titan at 287 K would have a density of ρTitan at 287K ~ 1.73 kg/m3 which is about 50% greater than Earth's.
+For the second calculation (panel 2), note lift is proportional to the density of air. If your action on Earth creates a lift of L0 and you weigh W0, on Titan you'd have a lift of 4.4 L0 (Cueball calculated 1.5 L0) due to the greater air density. Your weight would only be 0.14 W0, due to Titan's lower surface gravity. If lift balances weight, you would be able to fly on Titan, that is if 4.4 L0 = 0.14 W0. That means to fly on Titan you need a lift on Earth of L0 = 0.03 W0, that is 3% of your Earth weight. Substituting Cueball's Titan density you would get the critical value from the comic: L0 = 0.14 W0/(1.5) = 9% W0.
+PS: I largely adapted this my writeup on xkcd forums from 2009 when the comic was made. Jimbob (talk) 05:44, 8 June 2013 (UTC)
+That was the whole point of Blackhat's presence. He was there to make sure Rob (AKA Cueball) wasn't hurt.
+Fortunately, Blackhat couldn't care less about the outcome. So he's got that going for him, which is nice.
+I used Google News BEFORE it was clickbait (talk) 01:21, 29 January 2015 (UTC)
+Why is this not a thing you can do in amusement parks or places like that?141.101.104.44 17:00, 8 September 2016 (UTC)
+I think that the bridge to which Cueball attached his wings is inspiration for the bridge in Click and Drag.--Obscure xkcd reference (talk) 13:47, 13 November 2021 (UTC)
+Categories: All comicsComics from 2009Comics from AugustFriday comicsPages using the "citation needed" templateComics featuring CueballComics featuring MeganComics featuring Black HatPhysicsWingsuit

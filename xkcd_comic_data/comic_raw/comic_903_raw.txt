@@ -1,0 +1,120 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+903: Extended Mind
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 903)
+|<< PrevComic #903 (May 25, 2011)Next >>|
+Extended Mind
+
+Title text: Wikipedia trivia: if you take any article, click on the first link in the article text not in parentheses or italics, and then repeat, you will eventually end up at "Philosophy".
+Explanation[edit]
+This comic refers to the fact that the narrator has become so dependent on Wikipedia as a source of information that although it gives him the great advantage that he appears learned on any topic with a remarkable degree of specificity, the downside is that whenever Wikipedia goes offline, the limitations of his actual knowledge are revealed.
+The title, "Extended Mind", refers to a theory proposed by philosophers Andy Clark and David Chalmers, which postulates that the mind not only includes what can be found in the skull, but also incorporates external things, like Wikipedia. Others have connected this sort of thing to the innate biological intelligence, or knowledge, but still consider it a different phenomenon under a label such as "extelligence".
+The title text refers to an observed phenomenon that many of Wikipedia's page links eventually lead to the Philosophy page. This may be due to the fact that the first few links in any article tend to reference more general or abstract ideas, which eventually gravitate towards philosophy. This is only true for around 95% of Wikipedia pages: the rest end up in infinite loops, missing pages, or pages without links.
+More info on this bizarre characteristic of the encyclopedia can be found on their page about it or on this blog.
+Transcript[edit]
+[An IM window is open over a Chrome window with tabs for Spark Plug, Feeler Gauge, and Wikipedia.]
+Message with Mike1979
+Mike1979: I replaced my spark plugs and now my car is running weird.
+Me: The spark gap might be off.
+Me: You can check with a feeler gauge.
+Mike1979: What should the gap be?
+Me: Usually between 0.035" and 0.070".
+Me: But it depends on the engine.
+[An IM window is open over a Chrome window with a single Wikipedia tab, marked ERROR. The page says: "Wikipedia has a problem. Try waiting a few minutes and reloading (can't contact the database server: unknown error (10.0.0.242))]
+Message with Mike1979
+Mike1979: I replaced my spark plugs and now my car is running weird.
+Me: What is a spark plug??
+Me: Help
+Me: What is a car??
+When Wikipedia has a server outage, my apparent IQ drops by 30 points.
+Trivia[edit]
+The error code shown in the right panel (10.0.0.242) caused a bit of a discussion from the wiki techs. Randall replied with:
+Randall: "I drew it based on an older error message where the IP was 10.0.0.243. I changed it to 242 (a) because I try not to get too specific with those things, and didn't want people poking the actual machine at .243 (if it was still there) - I actually considered putting .276 and seeing how many people noticed, but figured they'd just think I made a dumb mistake. and (b) as part of this ancient inside joke involving the number 242 ..."
+For a few weeks after this comic came out, following the links as explained in the title text would actually lead only to the Science page, due to someone/someones altering the links. The alterations could have been coincidental, good-faith edits, but were much more likely to be vandalism to break this trick. The edits were eventually reverted, and, as of July 2016, all first links lead to the ocean. Er, Philosophy. At least, when they're not stuck in endless loops.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Title text is true - unless you happen to stumble upon any one of: Fact, Proof (truth), Evidence, or Truth. Then you'll be stranded in an eternal loop.
+What do you mean? Fact works fine, you get there in 7 steps. Proof gets you there in 6 - you go to Necessity and Sufficiency not Evidence. Same for Evidence. Truth leads you to Fact. So all of your examples actually work.
+--T0IVI (talk) 09:27, 28 December 2012 (UTC)
+Also, I add another rule to my wikiwalks: No purple links. 108.162.218.101 21:05, 28 March 2014 (UTC)
+Logic leads you to reason, which leads you to consciousness, which leads you to quality, which leads you to propery, which takes you back to logic.
+Really? I got Logic -> Logical form -> Philosophy. 172.68.65.114 16:22, 26 May 2019 (UTC)
+Mulan15262 (talk) 23:33, 22 May 2014 (UTC)Mulan15262
+Yeah, I hit a loop on the page Community. Went right from National community to Community again. -- 69.91.105.111 (talk) (please sign your comments with ~~~~)
+These infinite loops seem to be 'fixed', I went through fact and other stuff right to philosophy. -- 141.35.48.11 (talk) (please sign your comments with ~~~~)
+Another loop is "England". It goes right to "Countries of the United Kingdom" which returns immediately to England.
+Found one! Logic now seems to go to arguments and right back. 6/3/2016 in case it changes. 108.162.219.70 (talk) (please sign your comments with ~~~~)
+Changed arguments goes to philosophy 162.158.63.58 19:33, 12 April 2017 (UTC)
+Finally we all end up in Reality. 85.178.28.173 21:16, 29 May 2013 (UTC)
+I do have to say that the best loop that doesn't feed to Philosophy is Sand Fence and Snow Fence. The first sentence of each article is identical except for switching the instances of sand and snow. --68.97.21.122 05:17, 6 July 2013 (UTC)
+actually sand fence leads to fence, which leads eventually to fortification, military, lethal force, human being, and that obviously that leads up to philosophy. what made you think that a fence would let you escape this trap that is philosophy.TheJonyMyster (talk) 03:07, 20 February 2015 (UTC)
+The Sand Fence <--> Snow Fence loop used to exist, but the articles have now been substantially updated. Like you've noted, Sand Fence now reaches Philosophy, and thus so does Snow Fence (which still links to Sand Fence). --Pudder (talk) 08:45, 20 February 2015 (UTC)
+I get stuck in the Sand Fence <--> Snow Fence loop! Except you hit the cleanup link in the cleanup-banner. But how did you get to Sand Fence in the first place ? 108.162.253.144 00:22, 30 May 2015 (UTC)
+Saying that everything ends up in "philosophy" is simply choosing from a long list of possible entries to suit an argument. I found it much more interesting, having gotten to philosophy, to keep going through the loop, then to see where certain pages drop you into said loop. The loop currenty is reality, existence, world, human, hominini, tribe, biology, natural science, sciences, knowledge, fact, proof, necessity and sufficiency, logic, reason, consciousness, quality (philosophy), property (philosophy), modern philosophy, then finally philosophy. It's as if we've stumbled upon a new classification of knowledge. If only we could look recursively at ALL the things that lead into a certain topic in the loop. For example, goat drops you into the loop at biology, which makes perfect sense, but Volvo drops you in at natural sciences from a very convoluted path which includes physics, time, dimension, list of time periods, and scandinavia. In other words, it's the journey not the destination that I find interesting. - naginalf 108.162.216.40 15:39, 12 March 2014 (UTC)
+I got Philosophy, Existence, Reality, Object of the mind, Intentionality, Anslem of Canterbury, Aosta, Aosta Valley, Regions of Italy, Administrative division, Sovereign state, Polity, Politics, Sovereignty, Noun, Word, Linguistics, Language, Communication, Self, Consciousness, Sentience, Emotion., Mental state, World, Reality, Object of the mind, Object (philosophy), Philosophy. GcGYSF(asterisk)P(vertical line)e (talk) 21:22, 22 February 2022 (UTC)
+Randall is either mistaken or intentionally misinformative (or rather, politically correct) in his IQ estimates. What's a car hyperbole aside, the cluelessness, sentence length, and spelling of the outage-messages remind of a person in their low 90s-high 80s, if not lower, and Randall is clearly more than 120, (conservative) average for physics majors as it might be. 178.42.101.38 20:08, 13 July 2013 (UTC)
+He said himself that he tries not to get too specific with those things. And besides, the exact IQ drop doesn't matter, it's just there to make a point. But anyway, a quick check shows it is incorrect, the average IQ for a physics major is about 130, while average IQ is about 90~110, which means dropping 30 points would not reduce his intelligence to the point where he doesn't know what a car is. Herobrine (talk) 09:10, 5 April 2018 (UTC)
+What can we learn?
+I've learned that memorizing facts is so yesteryear. Over next few years facts will be even easier to find, understand, use, reference and forget. When in school we should concentrate not on memorizing facts we can look up later, but rather new methods to think outside the box full of facts others placed inside it. (Thank you Mr. XKCD) - E-inspired (talk) 13:42, 28 February 2013 (UTC)
+That is true, but the overhead for looking something up versus remembering it is usually great enough that memorizing some things (multiplication tables come to mind) can increase the speed we can arrive at conclusions, or can give us other options (correlation between spark plug gapping and engine performance) that might not have come to mind otherwise. Outside of that, even though we forget much of it, having a vague sense of things (dates, locations/countries, etc) allow us to start out knowing at least something (order of things that occurred, Egypt being in Africa, Pythagorean theorem). This is just my opinion, and I may be biased, since I like facts. Tryc (talk) 13:19, 25 July 2013 (UTC)
+
+You can't teach everyone to think outside the box, that would spoil my advantage over the common man. 184.66.160.91 03:03, 26 August 2013 (UTC)
+Wikiloop: (noun) A loop that results in wikipedia articles from clicking the first link not in brackets or italics over and over again. Here is the most commonly encountered wikiloop. (Reality is also the first link in Philosophy) --ParadoX (talk) 09:03, 13 December 2013 (UTC) Reality Existence World Human Primate Mammal Clade Tree of life (biology) Metaphor Figure of speech Word Linguistics Science Knowledge Fact Reality
+...
+I just tried and today the article Humans have been changed so the first word is no longer primate but Hominini. And from there you can get back to Philosophy. So you still enter a loop (of 24 steps) from when you start from Philosophy, but you end up back at Philosophy, so the rule now also applies to Philosophy. Kynde (talk) 11:35, 1 July 2014 (UTC)
+...
+Another one is Coffee. It goes Coffee-Coffee Preparation - Coffee. 108.162.218.185 (talk) (please sign your comments with ~~~~)
+The route is:
+Starting point:
+Philosophy
+Reality
+Existence
+World
+Human
+Hominini
+Tribe (biology)
+Biology
+Natural science
+Science
+Knowledge
+Fact
+Experience
+Experiment
+Hypothesis
+Explanation
+Set (mathematics)
+Mathematics
+Quantity
+Property (philosophy)
+Logic
+Reason
+Consciousness
+Quality (philosophy)
+Philosophy
+Just tried the philosophy test from The Lion King movie, (20 years anniversary - it makes you feel old) and it of course also worked from there ;-) Kynde (talk) 11:35, 1 July 2014 (UTC)
+
+wikipedia outages
+There was a major outage in 2005 when a power failure hit their database servers http://cyberbrahma.com/power-corrupts-power-failure-corrupts-absolutely/. I also remember countless minor outages over the years (though not recently). -- plugwash
+And just after I wrote the above wikipedia went down....... -- plugwash -- [[User:{{{1}}}|{{{1}}}]] ([[User talk:{{{1}}}|talk]]) (please sign your comments with ~~~~)
+Yeah, a link like Sand Fence should be work like Sand fence, but it doesn't right now. So some outages for the "Extended Mind"... --Dgbrt (talk) 00:10, 14 February 2014 (UTC)
+...
+I found another loop - start with any President of the United States, and it'll end up looping between "United States Constitution" and "Supremacy Clause." 173.245.54.70 14:08, 20 June 2016 (UTC)
+
+Doesn't work for my favorite sport for the time. There is a loop between "Decathlon" and "Combined track and field events"... 108.162.219.63 (talk) (please sign your comments with ~~~~)
+A loop exists at mathematics. Mathematics -> Quantity -> Counting -> Finite Set -> Mathematics. 173.245.50.240 19:25, 4 August 2017 (UTC)
+I tried Higgs Boson, Masiakasaurus, and Minecraft. They go to Philosophy. I did find a loop on linguistics however. I started on a. 172.68.189.217 02:26, 6 December 2017 (UTC)
+I hit the "random" button 10 times and got stuck in a loop with Knowledge, Facts, Semiotics, and Mathematics. 173.245.48.99 22:47, 23 February 2018 (UTC)
+"Existence currently has a "please improve it" banner. It could be improved by making the first link lead to "philosophy". ;) Fabian42 (talk) 09:28, 8 June 2018 (UTC)
+Hm, the template for the sidebar already comes first in the source code. So if you define "first link" to be the first one in order of source code, then the first link to an article is already "philosophy". But before that, there's "series", which links to Category:Philosophy, that to Category:Branches_of_philosophy (in the table of contents), that to Category:Aesthetics, then Aesthetics, then actually "philosophy"! Fabian42 (talk) 09:33, 8 June 2018 (UTC)
+Searched wikipedia for deinotherium, ended up in an eternal loop from “Mathematics” did not encounter “Philosophy”. Why, title text?!? --172.69.210.22 20:53, 25 June 2018 (UTC)
+Fun fact: on Wikipedia, if you end up on either "Fact" or "Truth", you end up in an infinite loop with "Reality" and "Imaginary" in between. 162.158.234.10 (talk) (please sign your comments with ~~~~)
+Starting at 'High Kings of Ireland', you run into an infinite loop between 'reality' and 'existence' after 16 links. (Technically though, the Existence article is part of a series on philosophy... so again, it ends up to philosophy) Any one up for writing a program that searches for wiki articles and marks ones that go into infinite loops to be 'fixed' so that they go to psychology? 03:56, 12 October 2018 (UTC)-☃ 172.68.58.233 (talk) (please sign your comments with ~~~~)
+"Most instances of this not working are because of endless loops" -- actually, since Wikipedia has a finite number of pages, there are literally only three possibilities -- getting to Philosophy, an endless loop (without Philosophy), or ending up on a page with no (valid) links at all. And such pages are rarely used as another page's first link, although an example must exist somewhere. 162.158.88.254 12:38, 3 December 2018 (UTC)
+The title text is wrong. I started this and ended up on Wiktionary between two different capitalizations of "nep". 172.68.143.82 21:06, 14 July 2020 (UTC)
+Update on the looping situation: As of now, every link I tried leads to "Philosophy" except those that wind up at "Fact" or "Truth", both those pages now refer to each other in their first link. For those curious as to *why* the title text is (usually) true but can't be bothered to check: Most articles start by stating the more generic form of the topic, like "Car is a kind of <vehicle>". It tends to get more and more generic until you hit a field of science, at which point you inevitably get led to the page on "Science", which eventually leads to "Philosophy" --141.101.99.32 10:30, 28 January 2022 (UTC)
+I also found Photosynthesis, which leads to Plant, which leads to Photosynthesis, ect. (9:58/12/9/2022)
+I started on Cars, then I ended up in a big loop. I got close to Philosophy, though.
+I updated the text and linked to the Wikipedia article describing this phenomenon: https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy
+Categories: All comicsComics from 2011Comics from MayWednesday comicsInternetWikipedia

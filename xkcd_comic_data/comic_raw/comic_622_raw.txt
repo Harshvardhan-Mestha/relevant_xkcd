@@ -1,0 +1,48 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+622: Haiku Proof
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 622)
+|<< PrevComic #622 (August 12, 2009)Next >>|
+Haiku Proof
+
+Title text: After somewhere around 40 hours, there's no academic reason to go to the class. Only go for the hallucinations.
+Explanation[edit]
+In this comic Cueball attends a math class after having been awake for two full days (48 hours). After that he begins to hallucinate and dreams that the teacher Miss Lenhart (a professor in this comic) answers Megan's question, about a proof that there are an infinite number of prime numbers, in haiku. After the first line she floats up and during the third and final line she flies over the students heads. Note also that when Cueball looks up at the flying teacher when she takes off, Megan never moves her head because it's not happening in her world, and Cueball only hallucinates the teachers flies.
+Euclid's theorem states that there are an infinite number of primes, prime numbers being numbers that are only divisible by themselves and 1. The most notable proof of this theorem, and the one presented in this comic, was first given by Euclid himself in his Elements. A more traditional form of this proof follows:
+If we suppose that there are a finite number of primes, then they must have a product, i.e. p1p2...pn = q. Now consider q + 1. If this number is prime itself, then we have discovered a new prime number, contrary to the assumption that we had listed them all. If it is not prime, it must have a prime divisor. Since all of the pk are a factor of q, they cannot be a divisor of q + 1. So q + 1 is divisible by a prime not on the list, which again is a contradiction. Therefore, there must be infinitely many primes.
+At the last line of the haiku, Miss Lenhart says "Q.E.D., bitches!", Q.E.D. stands for "Quod Erat Demonstrandum", which means "Thus, it has been demonstrated." This is a Latin phrase which is used to show a proof is over. Ironically, the proof is not complete.
+The comic essentially takes this proof and states it in the form of a haiku, which is a traditional form of Japanese poetry, which is in Japanese broken up into patterns of morae (or syllables), a unit that measures the length of sound. A Japanese haiku consists of three lines with 5, 7 and 5 morae respectively per line. An English Haiku has 5, 7 and 5 syllables per line. The proof poem goes like this:
+Top prime's divisors'
+Product (plus one)'s factors are...?
+Q.E.D., bitches!
+Which can be divided in syllables like this:
+Top - prime's - di - vi - sors'
+Pro - duct - (plus - one)'s - fac - tors - are...?
+Q. - E.- D., - bit - ches!
+The haiku proof given is slightly off, as the first line talks about the "top prime's divisors," which makes no sense because the top prime doesn't have any divisors besides itself and one. You need to take the product of all primes, not just one. But, hey, it's a hallucination. The haiku could be made to more closely resemble the actual argument while retaining haiku structure by replacing the first line with "Assume primes finite."
+Haiku was also referred to before in 554: Not Enough Work.
+The comic and title text conclude that going to class while sleep-deprived is an interesting, but entirely noneducational, experience. So, go for the sake of the hallucinations.
+Transcript[edit]
+[Miss Lenhart teaching a class gestures with both hands up as Megan, sitting at the first desk on a stool, raises a hand and asks a question. Cueball sits at the desks behind her supporting his head in both hands with the elbows on the desk.]
+Megan: How do you know there are an infinite number of primes?
+Miss Lenhart: I'll answer in haiku!
+[In a frame-less panel, Miss Lenhart lifts a hand up while answering. Both students sit upright on their stools.]
+Miss Lenhart: Top prime's divisors'
+[Miss Lenhart floats into the air with three lines beneath her legs. Cueball looks up. Megan does not change position.]
+Miss Lenhart: Product (plus one)'s factors are...?
+[Miss Lenhart flies over the students heads with a curved line behind her. Neither student look up. The bottom frame of the panel is a curving thought/dream bobble that goes through the middle of the panel at a height just below the desk tops. Two thought circles goes from Cueball's head down to this frame, and Cueball's thoughts are shown below outside of the panel - without any frame around.]
+Miss Lenhart: Q.E.D., bitches!
+Cueball (thinking): Wow, after the 48-hour sleep-dep mark, lectures get really interesting.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+A prime number must also be a natural number greater that one. -- 204.8.8.13 (talk) (please sign your comments with ~~~~)
+I removed the paragraph about the haiku being off, as it is not "top prime's divisors," but "top prime's divisors' " (notice the second apostrophe). So the question is actually what the (prime) factors of the product of all prime divisors plus one are. KillaBilla (talk) 21:57, 12 June 2014 (UTC)
+I've put it back, since the paragraph is correct - the proof is incorrect. That second apostrophe just means it is the product belonging to the top prime's divisors. The product of the top prime's divisors is just the top prime. --141.101.98.234 14:40, 5 April 2015 (UTC)
+"All primes' divisors'" would've been correct (although the "divisors" is still unnecessary). --108.162.254.185 10:16, 16 July 2015 (UTC)
+I made a new poem: The product of all- Primes, plus one, divisors are?- Q.E.D., ******s! 108.162.216.148 23:56, 10 January 2017 (UTC)
+I want a t-shirt with that last line on it.Aronurr (talk) 21:01, 3 March 2020 (UTC)
+How about this: Product of all primes/plus one. Either we missed some/or this is prime too. Hhhguir (talk) 08:45, 4 March 2022 (UTC)
+Longest I've ever stayed up is 24-26 hours. Also, this is my first comment. IJustWantToEditStuff (talk) 03:58, 23 August 2022 (UTC)
+Categories: All comicsComics from 2009Comics from AugustWednesday comicsComics featuring Miss LenhartComics featuring MeganComics featuring CueballAnalysisDreams

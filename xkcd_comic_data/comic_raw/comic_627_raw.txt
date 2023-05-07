@@ -1,0 +1,56 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+627: Tech Support Cheat Sheet
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 627)
+|<< PrevComic #627 (August 24, 2009)Next >>|
+Tech Support Cheat Sheet
+
+Title text: 'Hey Megan, it's your father. How do I print out a flowchart?'
+Explanation[edit]
+The main point of this comic is that many tech-savvy people may not know much about computers (and certainly don’t automatically know how to do everything someone may want help with). They just have developed an intuition which works in many situations. This intuition is shown here in the form of a diagram. In particular, the chart exposes the computer expert's secret ingredient: trial and error.
+A flowchart is an organizational tool for showing process flow. A box is an instruction, a diamond indicates a question, and the arrows control the flow from one symbol to another. Other flowchart comics can be found here.
+The title text is a sad admission that even knowing the procedure for how to fix the problem, many people will not follow it and still call their presumably more tech-savvy children. (In a minority of cases, it may be that the person did try to follow it, and still ended up at the "Ask someone for help or give up" step.) In this case the father of Megan calls her to help print the flowchart to put near his computer so he can be the computer wiz...
+This is one of the cases where the name Megan is used, without the character Megan being drawn in the comic.
+Transcript[edit]
+Dear various parents, grandparents, co-workers, and other "not computer people."
+We don't magically know how to do everything in every program. When we help you, we're usually just doing this:
+[There is a flowchart there. Numbers are included to improve clarity, and do not appear in the original.]
+Rectangle: Start.
+[Go to 1.]
+[1. Diamond] Find a menu item or button which looks related to what you want to do.
+[I can't find one - go to 2.]
+[Ok - go to 3.]
+[2. Diamond] Pick one at random.
+[I've tried them all - go to 4.]
+[Ok - go to 3.]
+[3. Rectangle] Click it.
+[Go to 5.]
+[4. Rectangle] Google the name of the program plus a few words related to what you want to do. Follow any instructions.
+[Go to 5.]
+[5. Diamond] Did it work?
+[Yes - go to 8.]
+[No - go to 6.]
+[6. Diamond] Have you been trying this for over half an hour?
+[Yes - go to 7.]
+[No - go to 1.]
+[7. Rectangle] Ask someone for help or give up.
+[End of flowchart.]
+[8. Rectangle] You're done!
+[End of flowchart.]
+Please print this flowchart out and tape it near your screen. Congratulations; you're now the local computer expert!
+Trivia[edit]
+A T-shirt based on this comic is available in the xkcd store.
+This comic is available as a signed print in the xkcd store.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I think he forgot one: "Use the built-in help, it's magic!" Zilti (talk) 19:48, 29 April 2013 (UTC)
+Most people I know that have to ask for computer help couldn't read a flowchart in the first place. This may be the problem. 173.245.52.103 23:01, 17 November 2014 (UTC)
+This comic is so true, I just printed it out for my mom (though I doubt it will help much). She always asks questions like “how do I change the language?”, “where did my song/book/website/photo/document/tab/window go?”, or “how do I log in?”, providing no context whatsoever. I tell her to show me her screen (often AirPlayed to the TV (which she forgets how to do every other time)), and often immediately see a button doing exactly what she wants (or she closed her browser window, thinking it was a tab again 😑).
+A slight complaint with the explanation, it states that tech-savvy people don’t know much about computers, which isn’t necessarily true, I could tell you how your computer works from the UI level, down to the components, and logic gates in the CPU. What I don’t necessarily know is how the designers of every single program in the universe laid out their user interface, which is when I use the method depicted in the comic. PotatoGod (talk) 17:10, 17 December 2017 (UTC)
+This issue doesn't apply to me since my parents and I are quite tech-savvy, meaning we don't need any help.Boeing-787lover 14:59, 1 July 2018 (UTC)
+who asked Beanie (talk) 11:02, 20 April 2021 (UTC)
+me :^] 172.70.42.109 14:19, 28 August 2021 (UTC)Bumpf
+I suspect that in a few cases, the person might have tried to follow the flowchart, but still ended up at the "Ask someone else for help or give up" step. Make of such a result as you will, but I suspect if that happens for printing out that flowchart, it doesn't speak well for one's ability to become more tech-savvy. 162.158.75.130 14:22, 3 August 2018 (UTC)
+Categories: All comicsComics from 2009Comics from AugustMonday comicsFlowchartsComics featuring MeganGoogle SearchComics with xkcd store products

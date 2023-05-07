@@ -1,0 +1,64 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+602: Overstimulated
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 602)
+|<< PrevComic #602 (June 26, 2009)Next >>|
+Overstimulated
+
+Title text: My favorite thing to do at parties is to talk judgmentally about people who aren't there.
+Explanation[edit]
+After being cooped up working on papers, Cueball goes to a party, only to find himself tuning out the gossip of his friends in order to work on math problems in his head. He writes down the prime numbers on cards, and then stretches them out such that the area of the card is the same (say, 1), but one of the sides has been elongated to a length equal to the number on the card. This reduces the length on the other dimension to the reciprocal of the number on the card (i.e. 1/n, with n being the number on the card), according to the area formula for rectangles.
+Stacking these reciprocals all up will eventually diverge, meaning the sum will be infinite without ever leveling off. This is referred to as the divergence of the sum of the reciprocals of the primes, and was proven by Euler in 1737.
+The Cambridge Aspergers Test includes questions on preferences for, and ability to cope with, social situations. It also asks the person taking the test if they have an affinity for numbers and see patterns in every day objects. Cueball could possibly score high on the Asperger's scale — or he could just be introverted, or find math more interesting than criticizing others which is generally considered in science circles a dull thing to do considering the vast variety of other topics and activities available. Introversion is an idea from psychology. Thinking about things on one's own is often relaxing for an introvert, while hanging out with other people is not. Hence the irony of the comment in the last panel. Cueball's friends fail to realize that hanging out with them is actually more stressful for him than doing math - especially when people are doing nothing but talking negatively about those not present.
+The title text mentions people that talk negatively about people that aren't there. A much later comic; 1176: Those Not Present, is about just that.
+Transcript[edit]
+[There is a group of people. Three women and four men. They are standing around a table with a drink on it.]
+Man #3: Have you seen John lately?
+Woman #3: He and Claire blew off this party to see Jeff.
+Man #4: They do that a lot.
+Man #1: Yeah; I don't know what his problem is with hanging out lately.
+Man #3: He's like Katie—ever noticed how she only goes somewhere if Jeff's there?
+[Cueball is cringing away from all the text; none of the text is attributed to specific people.]
+Somebody: It's so lame how she hangs around him even when he's not single:
+Somebody: He likes it.
+Somebody: Someone seriously needs to date her.
+Somebody: Totally.
+Somebody: And honestly I feel like a jerk but I wouldn't mind if she hung around with us a little less. She needs other friends, you know!
+[Cueball peels a hole in the panel. The numbers '1', '2', and '3' are visible through the gap.]
+Somebody: Have you noticed how every dude she dates is a total druggie?
+Somebody: Nope
+Somebody: I'm glad I'm not the only one who thought that was weird.
+Somebody: Michelle dates potheads like Elaine but at least they both have real jobs.
+Somebody: Michelle does? She designs those book covers, right?
+Somebody: And it's not like she smokes a lot.
+Somebody: Elaine is one of those girls who
+[The previous panel's text appears again, but peeled back even further. Cueball looks up.]
+1 2 3 4 5 6 7 8 9 10 11 12
+Somebody: -noticed how -
+Somebody: Nope
+Somebody: -es is a tota-
+Somebody: -t th- -ought
+[Cueball starts taking down the prime numbers.]
+1 4 6 8 9 10 12 14 15
+2 3 5 7 11 13
+[Cueball grabs and squeezes the 2, so it is half as wide and twice as tall.]
+[A formula: Sum with i from 1 to infinity of 1/Pi = h - ie. the sum from 1 to infinity of the inverse of each prime.]
+[The panel shows a 2 that is 2 units tall and 1/2 wide, a 3 that is 3 units tall and 1/3 wide, and so on. Cueball is moving the 7.]
+[Cueball writes h = ∞. The numbers are piled on their side next to a scale.]
+Voice: Don't you agree?
+Voice: Hey, wake up.
+Man #1: You zoned out or something.
+Cueball: Sorry; I must be... tired.
+Man #1: I don't blame you. All day cooped up working on papers.
+Man #3: Must be nice to get out and relax, huh?
+Cueball: Yeah.
+[Girl #3 reaches for the glass on the table.]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The explanation needs to mention the irony of Man 3's line in the last panel. 108.162.216.45 12:39, 13 November 2013 (UTC)
+The Onion actually ran an article on March 19th 2014 titled "Report: Strongest Human Relationships Emerge From Bashing Friend Who Couldn't Make It Out." 108.162.220.23 21:47, 21 April 2014 (UTC)
+I'm surprised that there hasn't been a discussion here about the use of the name "Elaine". The protagonist of the "1337" series of comics is named Elaine. Should that possible connection be stated in this article, or in the article for Elaine herself? Ijpete98 (talk) 23:14, 13 September 2021 (UTC)
+Shouldn't the explanation say something about the sarcasm in the title text? 172.70.91.128 20:29, 19 August 2022 (UTC)
+Categories: All comicsComics from 2009Comics from JuneFriday comicsComics featuring CueballComics featuring MeganComics featuring PonytailAnalysisNumber theory

@@ -1,0 +1,45 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+833: Convincing
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 833)
+|<< PrevComic #833 (December 13, 2010)Next >>|
+Convincing
+
+Title text: And if you labeled your axes, I could tell you exactly how MUCH better.
+Explanation[edit]
+This comic is a typical xkcd compilation. Relationships, math, graphs and of course, the twist. At 523: Decline Cueball's fascination with graphs seems to have retaliated against him. Cueball wants to get back together with Megan, but she declines and shows him a graph showing why. She thinks that the downward trend of the graph will convince him that their relationship is also in decline. But, Cueball takes that as this is a woman who does not follow proper protocol, since she does not label the axes (plural for axis) on her graph. We do not even know the unit of measure on the graph, let alone what each axis corresponds to. For all we know, the horizontal axis could be labeled "Time" and the vertical axis could be labeled "Crappiness of Relationship" or "Unawesomeness of Relationship". In that case, a downward trend would be a positive thing.
+In the twist, Cueball sees that he can do better than this woman and switches his position and decides he is going to break up with her.
+Cueball has already broken up with people over graphs before (see 539: Boyfriend). Ironically, he or a different Cueball gave a similar graph with vaguely-labelled axes in 523: Decline.
+The title text points out the irony that if the axes had been labelled, then Cueball would be able to use it to determine exactly how much better a relationship he could get, since he could read how crappy the present one is. Yet he would lose the twist at the end, so that the graph data would have to convince him and not the lack of labels.
+"Someone who doesn't label her axes" sounds like an inversion of "someone who labels her exes", which is an accusation sometimes levelled in break-up situations.
+Transcript[edit]
+[Cueball and Megan are talking. Megan has a board.]
+Cueball: I think we should give it another shot.
+Megan: We should break up, and I can prove it.
+[The second panel is the graph. A series of points moves steadily downward.]
+Our Relationship.
+[Cueball looks at the graph.]
+Cueball: Huh.
+Cueball: Maybe you're right.
+Megan: I knew data would convince you.
+Cueball: No, I just think I can do better than someone who doesn't label her axes.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+My IP address got logged when I was editing this page, since I got accidentally loged out in the proccess. May someone fix this? I feel nervous. Greyson (talk) 18:04, 12 December 2012 (UTC)
+Preumably you wanted to sign your work and think you were prevented by the record.
+Just hit the back button and finish what you started then sign out.
+I leave two paragraph spaces before I sign out to put the awkward sig on its own line.
+I used Google News BEFORE it was clickbait (talk) 21:03, 24 January 2015 (UTC)
+There is no way, short of going to a MySQL prompt and manually editing values, to change the logs that MediaWiki records. However, your IP address is not private information, nor does it personally identify you. It is merely a number in a block of IPs that your ISP pays money to use. An IP address is a temporarily assigned name that your computer uses to communicate with the Internet. Even if you were using a secure connection to a website, your IP address is still transmitted in the clear, otherwise the server could not reply to you. I know there's a lot of scare campaigns that make it sound like you need to protect your IP address like your Social Security Number (or other similar "unique" identifier your government uses to make sure you pay your taxes). If you really are scared that your IP is now "out in public" (which it always has been) unplug your modem long enough for the capacitors to drain (milliseconds probably) then plug it back in. It'll send out a DHCP request to your ISP and they'll give you a new number from their pool. But keep in mind, if you were really scared about someone finding your IP address you'd be using Tor in the first place and you'd simply change your exit node.
+Links for your edification:
+https://www.eff.org/deeplinks/2011/08/why-ip-addresses-alone-dont-identify-criminals
+https://www.eff.org/pages/tor-and-https
+--lcarsos_a (talk) 18:26, 12 December 2012 (UTC)
+However, now that you have voluntarily associated your user name with the IP address in the edit history... - Frankie (talk) 16:25, 4 January 2013 (UTC)
+That is an i n c r e d i b l y annoying thing to do, and someone has already asked you to stop doing this on your user page, so at least acknowledge him (and preferably edit your comments to fix the issue). Beanie (talk) 14:16, 26 April 2021 (UTC)
+I'm pretty sure that the x axis is "Local Armadillo Population Density." Any ideas what the y axis is?173.245.48.97 09:31, 18 May 2015 (UTC)
+
+Maybe 701: Science Valentine would be worth mentioning, where Cueball draws a relationship themed graph (ironically without properly labeled axes / any axes at all) Ruffy314 (talk) 02:26, 3 November 2015 (UTC)
+Categories: All comicsComics from 2010Comics from DecemberMonday comicsComics featuring CueballComics featuring MeganLine graphsMathRomance

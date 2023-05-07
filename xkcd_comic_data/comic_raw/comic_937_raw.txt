@@ -1,0 +1,55 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+937: TornadoGuard
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 937)
+|<< PrevComic #937 (August 12, 2011)Next >>|
+TornadoGuard
+
+Title text: The bug report was marked 'could not reproduce'.
+Explanation[edit]
+This is a comic with a take on an application store - the most common app stores are for iPhones and Android devices. App stores take all the reviews and average the ratings for the overall star rating.
+In this comic, we see why this is sometimes a bad idea, especially with something as important as an app called TornadoGuard that should alert the user if there is a tornado warning for an area, an announcement indicating that a tornado is approaching. In this case, there are three 5 star reviews about the stability and user interface features of the app, left by users who actually never experienced its core functionality (simply because they never used it in a place where there was a tornado since they got it); however, the only review related to whether the app really works is given the same weight as the others, and sadly for that user, the TornadoGuard app failed in alerting the user to an upcoming tornado. Tornadoes are a recurring subject on xkcd. Also see future comic 1098: Star Ratings, 1754: Tornado Safety Tips.
+In 2615: Welcome Back Cueball returns to the app after almost 11 years to find that he has to walk through all kinds of info before getting to know if the visible tornado is likely to head his way...
+The title text is software-developer humor, the same as used in 583: CNR which contains further explanation. It is a note from the developer's bug report, which said they could not reproduce the error. Of course, they could only reproduce such a failure if there were a tornado coming towards their area, and if a tornado warning was issued. This is a fairly rare situation, especially in certain areas of the world. This lack of suitable testing conditions explains why the actual alert portion of their code appears to be faulty.
+This is a common problem with code that cannot be easily tested -- that when finally needed, it does not actually work. This is the reason for emergency drills.
+In 2219: Earthquake Early Warnings an app for warning of Earthquakes was the main topic, but tornado warnings was mentioned in the title text.
+In 2236: Is it Christmas? being right most of the time, except when it matters was the topic.
+Transcript[edit]
+[The comic is a single panel which resembles a reviews page for a mobile phone application. Next to the app title is a pictogram of a tornado touching the ground]
+----App store----
+TornadoGuard
+From DroidCoder2187
+-----------------
+Plays a loud alert sound
+when there is a tornado
+warning for your area.
+-----------------
+Rating:
+★★★★☆
+Based on 4 reviews
+-----------------
+User Reviews:
+[The first three reviews show five black stars. The last review shows one black and four white stars.]
+Reviewer 1 (Dark silhouette): ★★★★★ Good UI! Many alert choices.
+Reviewer 2 (Helicopter without rotors): ★★★★★ Running great, no crashes
+Reviewer 3 (White square with black triangles at the top left and bottom right corner): ★★★★★ I like how you can set multiple locations
+Reviewer 4 (White car): ★☆☆☆☆ App did not warn me about tornado.
+[Caption below the comic:]
+The problem with averaging star ratings
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The image text is also a reference to another comic: http://xkcd.com/583/ In this comic, the bug was that the speech recognition fails on a young child's voice. So the team attempts to reproduce a child in order to fix the bug and get the test subject. The bug report is closed as cannot fixed with the reason being 'could not reproduce'. 128.237.217.152 (talk) 19:40, 22 August 2012 (UTC) (please sign your comments with ~~~~)
+And it's happened. See https://twitter.com/andymangold/status/341327603451441152/photo/1. Four-star rated "Tornado by American Red Cross" app, current top review reads "I did not find this app useful at all. There was a tornado watch for eight hours in my town, a tornado warning for 30 minutes, and there were no warnings or alerts visible on this app." 192.91.191.162 16:58, 3 June 2013 (UTC)
+ROFL ;) If this picture is real it should be added to this explain. Check the Customer Review here: itunes, I am sure it's just a reaction on this comic.--Dgbrt (talk) 19:06, 3 June 2013 (UTC)
+According to 1098, it's still an OK app. 22:57, 22 July 2013 (UTC)
+'could not reproduce'
+https://groups.google.com/forum/#!topic/sci.geo.earthquakes/kTDkMMbC_mw
+I used Google News BEFORE it was clickbait (talk) 13:19, 23 January 2015 (UTC)
+This is why looking at both the positive and negative reviews is good practice. --173.245.54.44 17:57, 31 August 2015 (UTC)
+It struck me when I read it that it was also suggesting that there are probably other people out there who COULDN'T leave a negative review, because the app failed them and they were killed in the tornado. If the program not working means you're likely to die, then only people with positive reviews will survive to leave reviews, giving the wrong impression: look, the are 3 times as many positive reviews as negative ones! I'll take it!" It seems like there must be some reason he chose something so deadly as a tornado; it could have been anything, and the other reasons would still have worked.108.162.218.118 00:42, 12 May 2016 (UTC)
+True to life if you've ever checked a travel insurance policy review site. Everything is rated five stars because of idiots leaving reviews that went "I didn't need it, thank God, but the feeling of security is invaluable."108.162.222.35 09:08, 14 May 2016 (UTC)
+Neither the explanation nor the comment seem to realize that the app does not claim to warn of approaching tornadoes. The description actually indicates it notifies of "tornado warnings", which are PSA (public service announcements) broadcasted on TV or over-the-air radio when there's an official tornado detected in a certain area. So technically even the 1-star comment is either wrong or incomplete -- we don't know whether a tornado warning was issued in this particular case. Furthermore, one of positive comments indicates one can setup geofencing locations in the app, and in the case of the 1-star comment we don't know whether this was setup properly or not by the user. Far from blaming the victim, this is actually a real issue on the receiving end of bug reports. Software developers often have to deal with laconic explanations of what went wrong, lacking proper context and details that would make the bug reports actually meaningful. A proper bug report is supposed to give as much context as possible, which a single short sentence in a feedback/rating screen does not allow for. Ralfoide (talk) 16:05, 3 November 2016 (UTC)
+My favorite bug report I recieved (replaced some terms in this quote): "You need to adapt ASAP so we can adapt spec. <basic feature name> on the <term similar to the tools name> and form thereby a nice looking <type of expected output>" - sent in by a user via email, with no context, greetings, etc. When I asked to please specify the issue, I did not get an answer. --Lupo (talk) 06:31, 6 June 2019 (UTC)
+Categories: All comicsComics from 2011Comics from AugustFriday comicsComputersProgrammingTornadoesOnline reviews

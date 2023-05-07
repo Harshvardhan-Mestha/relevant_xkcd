@@ -1,0 +1,28 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+676: Abstraction
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 676)
+|<< PrevComic #676 (December 16, 2009)Next >>|
+Abstraction
+
+Title text: If I'm such a god, why isn't Maru *my* cat?
+Explanation[edit]
+The comics points out the large number of levels of abstraction working together at any given time in today's computers.
+Programs on current computers do not run "directly on hardware". Instead, the hardware (in this case, a processor of the x86-64 architecture) is controlled by the operating system kernel (in this specific case, XNU is the kernel used in Apple-branded devices). Many operating systems offer a standardized interface called POSIX, which wraps the services offered by the different operating systems so that applications do not need to cope with the differences between the operating systems. Darwin is the name of the core set of components on which the Apple's OS X operating system runs. And using this operating system, the user runs the Firefox web browser. However, the browser itself contains further abstraction layers: Gecko is the engine handling the display of web pages on the screen, but in this case, it only allows a separate software, Adobe Flash Player, to render a video requested by the user.
+And all of this work is, in this case, done only because the user wanted to watch a funny cat Flash video on the Internet; which makes the user feel like he is a god.
+The title text refers to Maru the cat, a cat who became very popular on YouTube for, among other things, jumping into a box. Cueball questions his god-like capabilities by wondering why can't he own Maru.
+Flash was discontinued at the very beginning of 2021. Flash was a video player that was used to make videos play without having a dedicated website for it. It was used in games and videos, as demonstrated by Cueball watching a Flash video of a cat jumping into a box.
+Transcript[edit]
+[Cueball is sitting at a computer.]
+An x64 processor is screaming along at billions of cycles per second to run the XNU kernel, which is frantically working through all the POSIX-specified abstraction to create the Darwin system underlying OS X, which in turn is straining itself to run Firefox and its Gecko renderer, which creates a Flash object which renders dozens of video frames every second
+because I wanted to see a cat jump into a box and fall over.
+I am a god.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Seriously what is the minimum Linux OS that I need for an oldish box (that has applications.) Most of the miniature OSs I have tried are ludicrously skank. I need it for a modernish office that can convert stuff to Word, for a publisher who has never heard of Linux.
+I used Google News BEFORE it was clickbait (talk) 21:32, 27 January 2015 (UTC)
+It's not the most minimal, but have you tried xubuntu? It's working for me so far. 108.162.245.118 19:23, 15 April 2016 (UTC)
+When even Adobe stops supporting Flash in the next 3 years, this will need an incomplete tag put back to explain what Flash is. Hell some now may not know as is it not as heavily used as it was just a few years ago. 108.162.216.166 11:52, 2 August 2017 (UTC)
+Categories: All comicsComics from 2009Comics from DecemberWednesday comicsComics featuring CueballComputers

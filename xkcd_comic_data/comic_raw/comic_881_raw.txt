@@ -1,0 +1,38 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+881: Probability
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 881)
+|<< PrevComic #881 (April 4, 2011)Next >>|
+Probability
+
+Title text: My normal approach is useless here, too.
+Explanation[edit]
+Cueball and Megan are sitting on a hospital bed, reading a piece of paper with the statistics for breast cancer survival. It looks like Megan has just been diagnosed with breast cancer. The thick line represents the survival rate distribution (probability to be alive after X years, unconditioned): 81% are alive at 5 years, while 77% survive to 10 years. The dashed line represents the hazard function (the negative derivative of the thick line divided by the value of the thick line at each point, i.e. how fast the thick line falls with respect to the current value, or the risk of failing/dying at time t+Δt after having survived until time t as Δt approaches zero), which is the rate between the density of the failure distribution and the survival function. Cueball expresses how he used to find probability enjoyable because of its applicability to the real world, but now sees things differently facing a painful situation involving it.
+Randall wrote this comic after his fiancee was diagnosed with breast cancer. Two months after posting this strip, he posted this blog post explaining the cancer comics.
+The title text is a reference to 55: Useless, where his normal approach also fails him regarding love. Cueball's (and Randall's) normal approach — math — isn't much help in dealing with these types of emotional situations.
+Transcript[edit]
+[A plot of percent vs. years, with a solid and a dashed line. The solid line starts at 100%, and drops constantly. The dashed line starts around 85%, rises to 95% after 5 years, then drops.]
+[A simple table.]
+5 years
+81%
+10 years
+77%
+[Cueball and Megan are sitting on a bench, next to an Intravenous drip hanging from a rack. Cueball is holding a paper.]
+Cueball: You know, probability used to be my favorite branch of math
+Cueball: Because it had so many real-life applications.
+[They embrace, faces together.]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I've been through this, even though it was a little over a year ago, this strip brings me back to how I tried to rationalise the probabilities to deal with the news, and the only thing I could think of was "I want a better number, god, noodle-monster, anybody, please, give me a better number".
+John 60.225.31.6 00:40, 28 September 2013 (UTC)
+Can anyone please provide an update to this page on Randall's fiance's health? Apologies if this is common knowledge. I agree with John's reaction. I wanted a better number for my wife back in the spring of 2008, and got it. She survived 3 years instead of the (then) predicted average of six months for inflammatory breast cancer. We could have been just an outlier on the low probability end of the curve, but I like to think the medical community is continually improving their curves, and I am very grateful for the extra time. She passed away four days after this strip was posted - which explains why I haven't seen this strip until now.
+108.162.216.228 21:26, 28 November 2013 (UTC)Grant
+So, how is this incomplete? Can we remove the incompleteness mark? --173.245.53.196 13:02, 19 January 2014 (UTC)
+I think the linking to the blog post is more sensitive than explaining it here. Remove tag? --141.101.98.207 14:19, 19 January 2014 (UTC)
+
+What is the dashed line? It kind of looks like it might be the derivative of the solid line.108.162.214.53 00:39, 20 January 2014 (UTC)
+I think I explained the dashed line, it's a hazard function or at least it would be a plausible hazard function for that kind of survival function. Feel free to improve the formatting or remove the incomplete tag. --Artod (talk) 07:06, 20 January 2014 (UTC)
+TEN YEARS 172.69.33.179 17:38, 17 November 2020 (UTC)
+Categories: All comicsComics from 2011Comics from AprilMonday comicsComics featuring CueballComics featuring MeganRomanceCancerChartsLine graphsMathStatistics

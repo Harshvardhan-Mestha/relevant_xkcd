@@ -1,0 +1,31 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+534: Genetic Algorithms
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 534)
+|<< PrevComic #534 (January 23, 2009)Next >>|
+Genetic Algorithms
+
+Title text: Just make sure you don't have it maximize instead of minimize.
+Explanation[edit]
+In the computer science field of artificial intelligence, a genetic algorithm is a search heuristic that mimics the process of natural evolution. This heuristic is routinely used to generate useful solutions to optimization and search problems. Genetic algorithms belong to the larger class of evolutionary algorithms, which generate solutions to optimization problems using techniques inspired by natural evolution, such as inheritance, mutation, selection, and crossover.
+In particular, genetic algorithms are designed to evolve, with various mechanisms being used to mimic natural selection. One such mechanism is to assign "costs" to various aspects of the program, and to select for programs which assess a fitness function such as calculating the least sum of all these costs (thus mimicking organisms in an environment where they have to compete for limited resources) versus any measurable benefits.
+The line indicated by an arrow is a reference to the Terminator series, in which the main antagonist is an artificial intelligence known as Skynet that seeks to destroy all humans. By setting an absurdly high cost for an algorithm transforming into Skynet, the coder makes a preventive measure against the algorithm achieving such sentience.
+The line about water crossing is a possible reference to the old computer game The Oregon Trail, in which crossing water was hazardous. This video game was referenced again in 623: Oregon.
+The title text refers to the method by which the program select the desired option, with minimizing being where the program seeks the lowest possible number, and maximizing where the program seeks the highest possible number. When dealing with cases such as generating profit, maximization would obviously be preferred over minimization; but selecting maximization here would be disastrous as it would always chose the BecomingSkynet option before any other due to its massive cost.
+Transcript[edit]
+[Code displayed, presumably from an IDE.]
+def getSolutionCosts(navigationCode):
+fuelStopCost = 15
+extraComputationCost = 8
+[There is a giant arrow pointing to the next line.]
+thisAlgorithmBecomingSkynetCost = 999999999
+waterCrossingCost = 45
+Genetic algorithms tip:
+Always include this in your fitness function.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This solves the problem until you reach a situation where destroying all humans is outvalued by 22222 bridge crossings. Nafedalbi (talk) 15:53, 18 April 2022 (UTC)Nafedalbi
+Could that be what Google Maps was trying to accomplish back when it had that "500 consecutive U-turns" bug?172.70.131.106 21:00, 18 April 2022 (UTC)
+Categories: All comicsComics from 2009Comics from JanuaryFriday comicsProgrammingComics with colorArtificial IntelligenceTerminator

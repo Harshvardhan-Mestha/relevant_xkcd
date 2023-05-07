@@ -1,0 +1,36 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+584: Unsatisfied
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 584)
+|<< PrevComic #584 (May 15, 2009)Next >>|
+Unsatisfied
+
+Title text: Forever comparing, never evaluating on any external scale. If you were a sort function, you'd never break the nlogn barrier.
+Explanation[edit]
+Cueball is trying to decide if he wants to stay with Ponytail who he is currently dating or leave her and have a relationship with Megan. The comic suggests that no matter which one he chooses he will never truly achieve happiness because of his longing for the option he chose not to take. In a sense this is a no-win situation. No matter what he does of interesting stuff (sex or otherwise) with Ponytail he will be thinking forever of Megan, and vice versa. This even goes on after he dies, where he lies next to one of them and thinks he would rather have been buried next to the other girl.
+The title text is referring to a concept in computer science. All comparison based sorting algorithms are incapable of sorting an arbitrary set of n values faster than an order of n*log(n). On the other hand, non-comparison sorting algorithms (e.g. bucket sort) with external knowledge of the distribution of the values can sort them with order n. If Cueball was capable of establishing an external scale he could use a non-comparison sort, but as he does not know what the best thing for him is he is stuck with comparisons and thus he can't achieve better performance.
+This comic is possibly a sequel to 310: Commitment.
+Transcript[edit]
+[Cueball is holding hands with Ponytail, while he is looking at Megan to the far right.]
+[Below this first central panel there are two arrows that direct the comic into a pair of different paths. Beneath each of the next three double panels there is a small arrow pointing straight down.]
+(Left path) [Cueball has turned away from Megan (off-screen) and is now kissing Ponytail, but he is thinking about Megan.]
+(Right path) [Cueball walks away from Ponytail (off-screen) and reaches out to Megan, but he is thinking about Ponytail.]
+(Left path) [Cueball is performing cunnilingus on Ponytail, he is still thinking about Megan.]
+(Right path) [Cueball and Megan have sex on the arm of a chair, he is still thinking about Ponytail.]
+(Left path) [Cueball and Ponytail are drawing something together, and he is still thinking about Megan.]
+(Right path) [Cueball and Megan are hiking together, and he is still thinking about Ponytail.]
+(Left path) [Cueball and Ponytail are holding hands looking at each other, and he continues to think of Megan.]
+(Right path) [Cueball and Megan are holding hands looking at each other, and he continues to think of Ponytail.]
+[Below the previous two panels two longer arrows again reunite into one central panel.]
+[Two gravestones are next to each other. One of them (Cueball's) is thinking about a third gravestone (for the girl he did not choose).]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I interpreted the right-most column as Megan fantasising about being with Cueball, but finding her fantasy dissatisfactory as she imagines Cueball will continue to long for Ponytail. -- 139.222.236.222 (talk) (please sign your comments with ~~~~)
+
+I think the title text points to Cueball going through both hypothetical lives. Yuriy206
+Last panel
+What happens in the last panel? I understand that at least two of the three are dead, and I assume that it's Cueball who continues to dream post mortem, but who is in the other tomb? Is it whatever girl he didn't choose? And the corresponding dream is that the girl he chose didn't even exist (only one tomb in the dream)? (talk) 12:59, 3 September 2014 (UTC)
+I think it means that it doesn't matter which girl he chooses, because in both cases he will still be thinking about the other one - even after death. So one tomb is his and one is the girl's he chose, but he's still thinking about the other one(even thougth she's dead).--141.101.96.217 13:01, 9 April 2015 (UTC)
+Categories: All comicsComics from 2009Comics from MayFriday comicsComics featuring PonytailComics featuring CueballComics featuring MeganRomanceSex

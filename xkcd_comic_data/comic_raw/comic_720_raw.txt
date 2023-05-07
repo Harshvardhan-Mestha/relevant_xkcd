@@ -1,0 +1,38 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+720: Recipes
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 720)
+|<< PrevComic #720 (March 29, 2010)Next >>|
+Recipes
+
+Title text: To be fair, the braised and confused newt on a bed of crushed Doritos turned out to be delicious.
+Explanation[edit]
+A genetic algorithm starts with a set of candidates and evaluates them. The best candidates are combined and randomly mutated to form the candidates for the next generation. After being allowed to proceed for an extended period, a genetic algorithm can often produce remarkable results. If the initial candidates are randomly-generated (as appears to be the case here), the initial generations are usually horrible.
+In the comic, the computer science (CS) department is the host of a dinner party. They choose to create a genetic algorithm to generate their recipes. Based on the remarks of the second diner, this is probably not the first generation, and the results are still horrible. Vermouth is a type of fortified wine, usually served alone or in cocktails. It seems unlikely that cheerios would complement the flavor of it.[citation needed] Quail eggs are a delicacy in many countries, as opposed to whipped cream, which is usually served on desserts. It was topped off with MSG, or Monosodium Glutamate, which is a non-essential amino acid used to enhance the flavor of savory foods. The last person has skittles, a brand of candy with a hard outer shell and a inside composed of corn syrup and hydrogenated palm kernel oil. Deep-frying is usually done to savory starches and meats, not sweet confectioneries. The host of the party is so enamored of the promise of the genetic algorithm that he fails to take into account that it will be several years before the recipes become remotely good.
+The title text could make reference to the fact that genetic algorithms will sometimes return results which are highly abnormal and vastly deviate from what we would think to be "selected for," but nonetheless can be quite successful, albeit unorthodox. Braising is a cooking practice involving both searing on an open pan and boiling in a pot with liquid; newts are small lizard-resembling amphibians that are not commonly eaten in America, and Doritos are a cheese-flavored tortilla chip. None of these are elements that a sane chef would use together when preparing dinner, but the title text concedes that it did taste good despite the abnormality. It also showcases that the algorithm has stumbled upon a recipe that engages in wordplay with the movie and common phrase "Dazed and Confused".
+Transcript[edit]
+[Three people sit along a table with dishes and drinks in front of them. Cueball is walking in, a plate with food on it in one hand, a laptop in the other.]
+[Blondie looks down at her bowl. She has a cup with what appears to be a lump of coal in it.]
+Blondie: I've got... Cheerios with a shot of vermouth.
+[Cueball 1 has a plate with some kind of cubic food on it. He has a cup of what appears to be two lovebirds in it.]
+Cueball 1: At least it's better than the quail eggs in whipped cream and MSG from last time.
+[Cueball 2 has a plate with a several lumps of some form of white stuff on it. They have a cup of what appears to be some kind of superfluid flowing out of it.]
+Cueball 2: Are these Skittles deep-fried?
+Cueball 3: C'mon, guys, be patient. In a few hundred more meals, the genetic algorithm should catch up to existing recipes and start to optimize.
+We've decided to drop the CS department from our weekly dinner party hosting rotation.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+are you sure it's mepls? looks like the A and the L just overlap a bit... 98.201.111.246 17:59, 3 February 2013 (UTC)mr
+The title text seems to be a reference to "dazed and confused," which must mean something more significant than most simple conjunctions. I'll figure it out at some point. --Quicksilver (talk) 02:48, 20 August 2013 (UTC)
+Also, I believe the laptop (notice how he holds it by the top of the screen) may be a reference to comic 925's (Cell Phones) title text "He (Black hat guy) holds the laptop like that on purpose, to make you cringe"...this is an unlikely reference though. - androidtribbles 173.245.54.50 (talk) (please sign your comments with ~~~~)
+He's not holding it by the screen, it's being held by the keyboard right at the trackpad. It's still really cringe-inducing, but not quite as... fragile. 108.162.216.76 08:49, 20 February 2014 (UTC)
+It could also be a rugged laptop, those are a lot tougher and have a handle on them right below the keyboard; it could be the rectangle is not a trackpad, but the hole for the handle. While it's still not advisable to carry the laptop with the screen open like that, it's not nearly as cringe-worthy as the case and monitor hinges are made of thick metal. 108.162.219.9 17:12, 27 February 2014 (UTC)
+Made an edit to the explanation. It seemed no one picked up on the possible meaning of the title text... But it could just as easily have been Randall's typical pedanticism... 173.245.56.204 (talk) (please sign your comments with ~~~~)
+Dazed and Confused is also a song by Led Zeppelin. We know Randall listens to Zeppelin from comic 339: classic. By the way, the glasses also seem to contain very weird liquids...162.158.91.246 07:38, 14 September 2015 (UTC)
+Weird liquids indeed! From left to right, I think they are: a lump of coal, a pair of lovebirds (very small ones) and a superfluid, probably liquid helium, doing its fountain thing. 108.162.218.83 (talk) (please sign your comments with ~~~~)
+By the way, the e-number of monosodium glutamate is e621. Y'know, like the Furry site? Good one, Randall. --162.158.62.75 00:27, 17 February 2017 (UTC)
+Cueball appears to be holding a plate of the braised and confused newt. Or at least, something lizard-like with a cherry on its head. --172.68.34.70 16:58, 31 July 2018 (UTC)
+"Deep-frying is usually done to savory starches and meats, not sweet confectioneries." - Have you never been to a county or state fair? I love deep-fried Oreos and deep-fried Snickers bars. I've heard of deep-fried jellybeans. Deep-fried Skittles are probably a real thing. Mathmannix (talk) 10:47, 2 April 2023 (UTC)
+Categories: All comicsComics from 2010Comics from MarchMonday comicsPages using the "citation needed" templateComics featuring CueballMultiple CueballsProgrammingFoodComics featuring Blondie

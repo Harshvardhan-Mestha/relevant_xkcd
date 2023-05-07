@@ -1,0 +1,186 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+832: Tic-Tac-Toe
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 832)
+|<< PrevComic #832 (December 10, 2010)Next >>|
+Tic-Tac-Toe
+
+Title text: The only winning move is to play, perfectly, waiting for your opponent to make a mistake.
+A much larger version is available at http://xkcd.com/832_large/.
+Explanation[edit]
+In what follows we will use numpad notation for tic-tac-toe, i.e.:
+7|8|9
+-+-+- 
+4|5|6
+-+-+- 
+1|2|3
+Each map shows every possible combination of moves which will result in that side winning or tying. It assumes that X moves first, and its optimal move is X7. Any corner would do, so X1, X3 and X9 are also optimal moves. The map for X has a big red X7 (650×650 pixels), and the 8 remaining grids have a smaller (210×210) black X7.
+The map for O has more combinations, because in this case X is not assumed to be optimal. All 9 subgrids have one big (210×210) black X and one big red O.
+Note that only optimal moves are shown. For example, you can't find a grid beginning with X2 in Map of X, because X2 is not an optimal move.
+In map for O you can find a 660×660 grid beginning with X2. Since the optimal answer is O5, you won't find X2, O8, for example.
+Example 1
+The largest red X in Map for X is X7. This means that O must go to cell 7 in Map for O. The largest red O in this subgrid is the center cell O5. Therefore X must magnify cell 5 in the map for X and look for a big red X, which is X3, i.e. in the cell (6, 4) in a 9×9 grid. This can be repeated until one of the players wins or there is a tie.
+Example 2
+Download http://xkcd.com/832_large/ and edit it. Delete the upper part. Now you have a picture sized 2040×2150 pixels, with title MAP FOR O.
+Assume X used the center cell, X5. You as O must magnify the center cell in the 3×3 map for O. Better still, select that cell and delete everything else. Now you have a picture sized 670×670 pixels, with a big red O7 and a big black X5. You must move O7 this time.
+O| |
+-+-+-
+ |X| 
+-+-+-
+ | |
+Assume X moves X9.
+O| |X
+-+-+-
+ |X| 
+-+-+-
+ | |
+In your drawing program you select cell 9, which is 220×220 pixels. Look for the biggest red O, which is O1. You can see you blocked a winning move.
+O| |X
+-+-+-
+ |X| 
+-+-+-
+O| |
+Now X, naively, plays X3
+O| |X
+-+-+-
+ |X| 
+-+-+-
+O| |X
+You select cell 3 in your drawing program, which is 73×73 pixels and looks like this
+O| |X
+-+-+-
+O|X| 
+-+-+-
+O| |X
+The O in cell 4 is red, which is your winning move.
+Title text
+The title text is a reference to the 1983 movie WarGames. In that movie, by playing Tic-Tac-Toe the AI realizes that some games cannot be won when all the players play flawlessly, and subsequently concludes that the only way to win at the nuclear warfare "game" is not to play.
+Errors[edit]
+1) In Map for X, the grid for X7, O9, X1, O4, X3 (i.e. go to Map for X, select cell 9, and then select cell 4) shows the same picture for O5 and O6. Those pictures belong to O6.
+The correct pictures should be:
+X| |O    X| |O
+-+-+-    -+-+-
+O|O|     O| |O
+-+-+-    -+-+-
+X|X|X    X|X|X
+2) In Map for X, the grid for X7, O1, X9, O8, X3 (i.e. go to Map for X, select cell 1, and then select cell 8) shows the same picture for O2 and O5. Those pictures belong to O2. The correct pictures should be:
+X|O|X
+-+-+-
+ |O|X
+-+-+-
+O| |X
+=====
+X|O|X
+-+-+-
+ | |X
+-+-+-
+O|O|X
+3) In Map for O, the grid for X8, O5, X2, O6 (i.e. go to Map for O, select cell 8, and then select cell 2) shows the same picture for X1 and X3. Those pictures belong to X3. The correct pictures should be:
+ |X|    \   /    |X| 
+-+-+-    \ /    -+-+-
+O|O|O     X     O|O|O
+-+-+-    / \    -+-+-
+X| |X   /   \    |X|X
+4) In Map for O, the grid for X2, O5, X8, O4 (i.e. go to Map for O, select cell 2, and then select cell 8) shows the same picture for X7 and X9. Those pictures belong to X7. The correct pictures should be:
+X|X|    \   /    |X|X 
+-+-+-    \ /    -+-+-
+O|O|O     X     O|O|O
+-+-+-    / \    -+-+-
+ |X|    /   \    |X|
+5) In Map for O, the grid for X6, O5, X4, O2 (i.e. go to Map for O, select cell 6, and then select cell 4) shows the same picture for X1 and X7. Those pictures belong to X1.
+The correct pictures should be:
+X|O|
+-+-+-
+X|O|X
+-+-+-
+ |O|
+=====
+\   /
+ \ / 
+  X  
+ / \ 
+/   \
+=====
+ |O|
+-+-+-
+X|O|X
+-+-+-
+X|O|
+6) Typography coloring issue: in Map for O, X5, O7, X3, O1, X4, O6, the O6 should be red to show that it's the latest move, instead of black.
+7) Another typography coloring issue: in Map for O, X1, O5, X4, O7, X3, O2, X6, O9, X8, the X8 is red, but in Map for O all X should be black.
+8) In Map for O, there are eight "strategy" mistakes, when the O player could have won the game but doesn't. These can be found on:
+X3, O5, X4, O7, X6, O9, X1 (winning move would be O8, but Map says O2);
+X3, O5, X8, O7, X2, O1, X9 (winning move would be O4, Map says O6);
+The same on six other symmetrical games to the above.
+9) In Map for O, there are four further "strategy" mistakes, when the O player could have won the game but doesn't. These can be found on:
+X7, O5, X8, O9, X1, O4: the small squares for X6 and X2 are identical, but only the one for X6 is correct. In case of either X2 or X3, O has the winning move O6.
+The squares for X2 and X3 should be:
+X|X|O
+-+-+-
+O|O|O
+-+-+-
+X|X|
+and
+X|X|O
+-+-+-
+O|O|O
+-+-+-
+X| |X
+respectively. The same on three other symmetrical games to the above.
+10)  In the map for O, center panel (first move X5), in the third level nested panel for X5, O7, X2, O8, X9, O1, move X2 from the second level "parent" panel is missing. The panel is depicted as:
+ O|O|X
+ -+-+-
+[]|X|[]
+ -+-+-
+ O| |[]
+where [] are the fourth-level nested panels, but should be:
+ O|O|X
+ -+-+-
+[]|X|[]
+ -+-+-
+ O|X|[]
+Same for the symmetrical game X5, O7, X6, O4, X1, O9, where X6 is missing.
+See also[edit]
+http://xkcd.com/832_large/
+Transcript[edit]
+[The comic comprises two large square maps, each divided into nine sections, some of which are further subdivided in the same way. The subdivisions continue down for up to five levels, and the lower map has more tiny diagrams than the upper. The smallest divisions at every scale are completed tic-tac-toe games. At the smallest divisions some of the moves are too small to see.]
+Complete map of optimal Tic-Tac-Toe moves
+Your move is given by the position of the largest red symbol on the grid. When your opponent picks a move, zoom in on the region of the grid where they went. Repeat.
+Map for X:
+[The first square map.]
+Map for O:
+[The second square map.]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This is all wrong. The second move for X, unless O blocked it already, or started off in the centre should be the lower right corner. That way, O will use the centre to block, and then X goes in a third corner, thus sealing the game.76.29.225.28 04:59, 23 July 2013 (UTC)
+Can you tell which situation you mean? If X starts at 7 and O does not go to 5, then X s a win with the described tactic. There might be other ways to win, but I don't think that matters. --Chtz (talk) 09:11, 23 July 2013 (UTC)
+Playing as X, you start in the upper left corner. O plays in any square other than the lower right corner (They might be able to block if they play the centre, depending on whether they anticipate this move). Then, when O blocks the centre, you play the upper right or lower left corner, depending on where O has played before, thus making it impossible to block because they only get one move. The only time this ever fails is when O knows what X is doing after the first move.76.29.225.28 19:57, 23 July 2013 (UTC)
+If it goes X7, O5, X3, then O must play anywhere but in a corner next (result is symmetric) X has to block and O can hold a draw. Just see the Map for O part. --Chtz (talk) 21:40, 23 July 2013 (UTC)
+I don't know the numbers for the squares. There are only nine of them. Could we just refer to them by their positions relative to the rest of the board?76.29.225.28 21:44, 23 July 2013 (UTC)
+There is more than one way to win. Although X3 does win, as you say, the comic shows an alternative which also has a 100% chance of success. That's right, Jacky720 just signed this (talk | contribs) 00:34, 12 February 2019 (UTC)
+There is an error in the drawing when starting with (numpad coordinates) X7, O9, X1, O4, X3: Both O5 and O6 have the same picture. --Chtz (talk) 09:11, 23 July 2013 (UTC)
+There is also an error in X7-O1-X9-O8-X3, in which O2 and O5 have the same picture. 108.162.216.63 02:46, 7 January 2016 (UTC) (And yes, I am reviving a thread from three ago. Happy 2016.)
+Tic-Tac-Toe is just a stupid simple game, Randall jokes about that. As the title text says "...waiting for your opponent to make a mistake". And the picture is just a part of this joke.--Dgbrt (talk) 22:04, 23 July 2013 (UTC)
+I just don't want to analyze both maps, but I had a college assignment that made me look into Tic Tac Toe strategy, and I think that the explanation should start with "Each map shows every possible combination of moves which will result in that side not losing.". 108.162.212.206 23:40, 14 January 2014 (UTC)
+The quote from War Games is "The only way to win is not to play", and it refers to the game Thermonuclear War, not Tic-Tac-Toe (although that was played earlier in the movie). I don't think the title text was based on this quote, but is only coincidentally similar. 108.162.249.215 (talk) (please sign your comments with ~~~~)
+With all due respect, I think the probability that the title text does not reference the movie War Games is so low as to be effectively zero. BTW the whole premise of the resolution of the movie (spoiler alert) is that by playing Tic-Tac-Toe the AI learns the futility of unwinnable 'games'. It then applies this learning to the very real scenarios of thermonuclear war and, realising the futility, stops. Plm-qaz snr (talk) 08:20, 16 August 2014 (UTC)
+I think both of you are right in some way, so I fix the text that it do refer to the movie WarGames but to the AI's opinion on the nuclear warfare "game" after learn the concept of unwinnable through Tic-Tac-Toe. Arifsaha (talk) 15:58, 12 September 2014 (UTC)
+Those diagrams don't depict every possible situation (e.g. "X2, O8" is missing) 162.158.90.222 (talk) (please sign your comments with ~~~~)
+Know any good (but not perfect) tictactoe sims? SilverMagpie (talk) 03:26, 18 April 2017 (UTC)
+Could someone please explain how to read the comic?[edit]
+I feel like I should get it, but I don't know how you're supposed to read this, and the explanation doesn't help. Like, if you want to put down an X somewhere, what do you look at to see what happens in that situation? Mynotoar (talk) 13:35, 6 April 2016 (UTC)
+I hope you understand what I added. Demro (talk) 17:38, 6 April 2016 (UTC)
+You do what the comic tells you. The comic isn't designed for you to disobey it. That's right, Jacky720 just signed this (talk | contribs) 00:36, 12 February 2019 (UTC)
+What would happen if BOTH players used the chart?[edit]
+I can't do this myself because I'm bad at keeping track of stuff 172.68.142.167 17:06, 10 December 2019 (UTC)
+Every game would end in a tie. 162.158.193.144 14:30, 11 May 2020 (UTC)
+Every game would go like this: (it makes sense in edit)
+X—-  X—-  X—-  X—-  XX-  XXO  XXO  XXO. XXO
+——-  -O-  -O-  -O-  -O-  -O-  -O-  OO-  OOX
+——-  ——-  —-X  -OX  -OX  -OX  XOX  XOX  XOX
+I added monospace, whitespace-preserving formatting using
+<pre>...</pre>
+Sollyucko (talk) 12:18, 24 March 2022 (UTC)
+Categories: All comicsComics from 2010Comics from DecemberFriday comicsLogicComics with color

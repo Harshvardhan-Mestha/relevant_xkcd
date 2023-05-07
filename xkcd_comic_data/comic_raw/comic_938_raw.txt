@@ -1,0 +1,50 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+938: T-Cells
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 938)
+|<< PrevComic #938 (August 15, 2011)Next >>|
+T-Cells
+
+Title text: 'We're not sure how to wipe out the chimeral T-cells after they've destroyed the cancer. Though I do have this vial of smallpox ...'
+Explanation[edit]
+This is a cancer- and leukemia-related comic. Two characters are having a discussion about a new trial (Porter et al. NEJM 2011) in cancer treatment. A trial is done to test a proposed treatment on a select group of patients before approval for the wider patient group.
+In this case, the two characters are talking about a trial in which immune cells are taken out of the patient's body and genetically modified. The modified cells are able to both attack the cancer cells and replicate very quickly. However, to make these genetic changes inside the cells, they used HIV as the vehicle to introduce these new genes as it is specialized in invading and modifying immune cells. HIV is good for this because HIV attacks your T-cells and slowly kills off your immune system. If HIV was used as a vector to introduce a trait into your T-cells it could express a trait to hunt tumors and since it is already good at changing your T-cells it would be well-suited to this task.
+Basically, this treatment seems to replace one terrible disease with another terrible disease. As the title text says, they don't know how to get rid of the modified T-cells after they remove the cancer. And the last part of the title text is a joke, in which the doctor suggests yet another disease, smallpox, to inject into the patient's body. This is similar to the song There Was an Old Lady Who Swallowed a Fly in which a little old lady who swallowed a fly where each time she puts some other animal in her body to get rid of the last one and eventually she dies. This is akin to that as you have cancer so you put super-strong T-cells modified by HIV to get rid of them but then you have Leukocytosis so you get smallpox to kill those, and so on.
+Cueball possibly could have guessed this because he is familiar with biology according to this comic and one of the most common diseases that attacks T-cells would be HIV.
+Although highly expensive (because it currently requires customized set of alterations for each individual cancer), over the next few years subsequent clinical trials revealed the power of these super-strong T-cells (called Chimeric Antigen Receptor T-cells, or CAR T-cells for short) to cure previously uncurable cancers. For example, in 75 children with previously untreatable leukemia, 4 in 5 had no detectable cancer three months after treatment with CAR T-cells (Maude et al. NEJM 2013). More and more different kinds of CAR T-cells are becoming FDA approved to treat a growing number of cancers. Seven years after this cartoon, the American Society of Clinical Oncology chose CAR T-cells as the 2018 Advance of the Year.
+Transcript[edit]
+[Two people are standing facing each other, having a conversation. One is holding a laptop.]
+Cueball (with laptop): What's the deal with this leukemia trial? {{Citation: Nejm, Aug 10, 2011}}
+Friend: Gotta wait and see.
+Friend: Helping the immune system attack tumors has been a longtime research target.
+Friend: Lots of promising leads. Often they don't pan out.
+Cueball: What'd these guys do?
+Friend: They took some of the patient's T-cells and patched their genes so they'd attack the cancer. That hasn't been enough in the past but their patch also added code to get the T-cells to replicate wildly and persist in the body.
+Cueball: Which worked, but created its own set of problems?
+Friend: How'd you guess? But I think the craziest part is the way they insert the patched genes.
+Cueball: How?
+Friend: Well, think - What specializes in invading and modifying T-cells?
+Cueball: Seriously?
+Friend: Yup. Must've been a fun conversation.
+[The last panel is set in a doctors office. A patient is sitting on the observation bed talking to their doctor.]
+Patient: Ok, so I have blood cells growing out of control, so you're going to give me different blood cells that also grow out of control?
+Doctor: Yes, but it's ok, because we've treated this blood with HIV!
+Patient: Are you sure you're a doctor?
+Doctor: Almost definitely.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Does anyone have a link to the actual article? Or possibly a proper citation? 192.17.144.82 (talk) (please sign your comments with ~~~~)
+I have added such a link in the explanation. Unfortunately, you have to subscribe to the magazine asterisked in the comic, so the link goes to another one. It also helps to Google "nejm aug 10 2011". Anonymous 04:51, 13 December 2013 (UTC)
+Trial appears to have been a success, although the patient now has no B-cells and thus a compromised immune system (will need regular gamma globulin transfusions and the like). 75.103.23.206 16:54, 13 December 2012 (UTC)
+Looks to be this article here [1] and [2]. I'll stick with chemo, thanks. 173.245.54.87 16:36, 24 November 2013 (UTC)
+I know it's a joke, but just in case people are taking this seriously, this is worth a read. [3] The key word should have been "lentivirus", not "HIV". The T cells were modified using a heavily altered lentivirus derived from HIV. The virus shouldn't be referred to as HIV, though it makes for some great headlines. 199.27.128.167 20:40, 2 December 2013 (UTC)
+Before WWII there was an succesful method of curing syphilis with malaria (malariotherapy). Maybe a reference141.101.96.217 11:32, 27 March 2014 (UTC)
+Interesting. I had heard a "story" some time ago that disease brought to higher latitudes from newly discovered tropical countries laid waste to myriads due to the fact that the climate was cooler. Maybe it was related to the lack of suitable pathogens in the communities.
+I used Google News BEFORE it was clickbait (talk) 13:09, 23 January 2015 (UTC)
+Isn't "HIV virus" redundant? 108.162.245.42 02:24, 28 September 2014 (UTC)
+Yes, yes it is. Anonymous 20:25, 9 December 2014 (UTC)
+Removed the incomplete thingy because I fixed the explanation. Put it back if there are more questionsXFez (talk) 13:32, 21 February 2017 (UTC)
+I don't think it's a reference to the little old lady who swallowed a fly - I think it's a reference to the use of introducing invasive species as pest control (like cane toads) and how you might try to control that invasive species by introducing their natural predator 141.101.99.150 06:49, 23 September 2021 (UTC)
+Categories: All comicsComics from 2011Comics from AugustMonday comicsComics featuring CueballCancerBiologyMultiple CueballsMedicineScientific research

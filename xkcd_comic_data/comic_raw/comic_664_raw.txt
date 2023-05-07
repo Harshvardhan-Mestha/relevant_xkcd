@@ -1,0 +1,47 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+664: Academia vs. Business
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 664)
+|<< PrevComic #664 (November 18, 2009)Next >>|
+Academia vs. Business
+
+Title text: Some engineer out there has solved P=NP and it's locked up in an electric eggbeater calibration routine. For every 0x5f375a86 we learn about, there are thousands we never see.
+Explanation[edit]
+Cueball has solved some tricky and very important problem in computer science, related to queueing theory.
+The comic splits into two timelines. In the first he is showing the brilliant solution he'd developed to somebody who can appreciate its elegance, in this case that being an academic who can see the programmer's true brilliance and get him much-earned plaudits from the academic community.
+In the alternate timeline, the boss does not possess the knowledge required to comprehend its import, and he simply sees the results without caring about the means Cueball used to attain them. He then gives Cueball another assignment, that may be vastly more workaday in nature. This, sadly, is the usual course of events in bureaucracy, which only seems to care about your results, not how you came about them. To drive in the point, the boss asks Cueball to do something as simple as setting up email on the office phones, a stark contrast to the skill and creativity Cueball would have needed to write his code in the first panel. It may even be imagined to be a "reward in itself" to casually hand over this new problem, however unsatisfying (or unsatisfiable) the new technical issue truly is.
+The references in the title text are to the P versus NP problem, a famous unsolved problem in computer science, and the "magical constant" (0x5f375a86) used in finding the fast inverse square root, i.e. solving y=1/√x as fast as possible through a program – no-one knows quite who came up with this very useful bit of code (Now believed to be devised by Greg Walsh at Ardent Computer in consultation with Cleve Moler, the creator of MATLAB. see wikipedia), but it was discovered hiding in the graphics code of the video game Quake III Arena. Note that the actual constant used in the Quake III source code is 0x5f3759df, but the constant in the title text works also, and is actually slightly more accurate as shown in this paper: Fast inverse square root by CHRIS LOMONT (Purdue university, 2003).
+The title text may be a reference to Stephen Jay Gould's quotation: “I am, somehow, less interested in the weight and convolutions of Einstein’s brain than in the near certainty that people of equal talent have lived and died in cotton fields and sweatshops.” originally about how great minds are suppressed due to racism and their genius go unknown, but could be interpreted as general exploitation by the commercial world.
+Transcript[edit]
+[Cueball sits at a desk in front of a computer, leaning back in his chair with both hands down to his side. There are cans on the desk and more crushed ones on the floor.]
+Cueball: I just wrote the most beautiful code of my life.
+[Zoom in on Cueball and top half of desk.]
+Cueball: They casually handed me an impossible problem. In 48 hours and 200 lines, I solved it.
+[Curved lines with arrows divide the comic into two possible end panels, labeled "Academia" and "Business."]
+Academia:
+Professor: My god... this will mean a half-dozen papers, a thesis or two, and a paragraph in every textbook on queuing theory!
+Business:
+Boss: You got the program to stop jamming up? Great. While you're fixing stuff, can you get Outlook to sync with our new phones?
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I'm not convinced the problem solved in the comic panels is the fast inverse square root in the title text, as the academia panel implies that it impacts queuing theory, and I'm not sure what fast inv sqrt has to do with queuing theory. -- 204.89.186.1 (talk) (please sign your comments with ~~~~)
+Agreed. Fast inv sqrt is clearly referenced in the title text, but the problem in the comic is something else. Alpha (talk) 01:18, 2 March 2013 (UTC)
+I think the example of fast inverse square is more about the bizarrely elegant simplicity of the solution, rather than something related to the solved problem in the comic. (If the above comments are about text that has since been changed, my apologies.)Tryc (talk) 20:57, 3 July 2013 (UTC)
+Actually 0x5f3759df is the mnagic number used in the fast inverse square root. Ref Wikipedia edokan 15:54, 23.08.2013 GMT+2
+If this ever happened to me, I would quietly release the solution under the GNU license. My getting fired (possibly) is totally worth the public technological progress highly into the future. Greyson (talk) 13:29, 14 March 2013 (UTC)
+The explanation is an interesting contrast to my interpretation. The meaning I got was that in academia, this discovery, like any new discovery, is interesting; but in business, this discovery has little practical application (apart from finishing what he was doing) so his boss didn't think twice about it. Maybe I'm too cynical.--18.215.1.155 01:23, 13 May 2013 (UTC)
+Weird, my interpretation was different from both the one in the explanation and this one: Academia is too focused on authoring papers and making a name for oneself and therefore makes a much bigger deal about problem-solving than business, where solving difficult problems is just a regular part of the job. Which interpretation is correct? It likely depends on one's viewpoint! Ianrbibtitlht (talk) 03:00, 18 June 2019 (UTC)
+Seeing the presence of cans... possibly alcoholic. Might it be possible that the Ballmer Peak was successfully invoked to reach his solution? 108.162.219.96 15:46, 1 December 2016 (UTC)
+They look too small: this, plus the 48-hour time-frame, suggests to me that they're energy drinks. L-Space Traveler (talk) 19:37, 23 October 2022 (UTC)
+Derailing the topic entirely, the old woman in the "Academia" panel seems to be a somewhat recurring character, complete with a semi-consistent personality. I propose "Bunhead" for future references. Anonymous17:39, 4 December 2013 (UTC)
+I counter-propose 'MsBun'. 108.162.219.223 00:49, 7 January 2014 (UTC)
+Oh, my goodness, "TruthInTelevision"? This isn't TvTropes!108.162.237.120 20:53, 19 January 2014 (UTC)
+Can anyone remember an episode of Click (or any BBC computer programme) ever giving such in depth explanation of the graphics problem? I recall one showing the difference in game presentations then and "now" from around about the time the article claims information hit the mainstream but it was no more than 'advertising without naming names' a la Beeb.Weatherlawyer (talk) 07:59, 4 January 2015 (UTC)
+There was a recent paper claiming to have solved P!=NP
+I believe that the title text refers to a famous quote by Stephen Jay Gould: “I am, somehow, less interested in the weight and convolutions of Einstein’s brain than in the near certainty that people of equal talent have lived and died in cotton fields and sweatshops.” — it's not a 100% match but I think that was what he was going for. It certainly fits the concept that capitalism and business eat up the intellect of great people and leave nothing to show for it, in contract to the purity of science/academia. I will edit in a comment to that effect. AmbroseChapel (talk) 01:28, 21 September 2017 (UTC)
+The big difference is, that the people from your quote were truly wasted talents, as they were doing mere manual labor. Meanwhile the title text talks about talents that are used, but never became popular.--Lupo (talk) 14:35, 17 October 2018 (UTC)
+How is that difference meaningful? The point is that if some talent wasn't brought out to shine at its brightest, it was lost. What else exactly was done with it doesn't matter.172.70.250.67 23:01, 29 July 2022 (UTC)
+Where does Gould specify that originally in that quote he was referring to racism and not capitalism? 172.70.250.67 23:01, 29 July 2022 (UTC)
+Categories: All comicsComics from 2009Comics from NovemberWednesday comicsComics featuring CueballProgrammingMultiple Cueballs

@@ -1,0 +1,67 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+851: Na
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 851)
+|<< PrevComic #851 (January 24, 2011)Next >>|
+Na
+
+Title text: I hear that there are actual lyrics later on in Land of 1,000 Dances, but other than the occasional 'I said,' I've never listened long enough to hear any of them.
+The picture is a link to a better version of this comic, see Trivia.
+Explanation[edit]
+The repetition of the syllable "na" is often used to sing a tune without using any of the actual words. While this is normally done to practice or demonstrate a tune, repeated "na"s are also a part of some songs' lyrics, as shown in this comic. Following the various paths of the diagram forms the words of several well-known tunes, with each song branching off after the appropriate number of "na"s.
+The top entry refers to the song "Na Na Hey Hey Kiss Him Goodbye," originally recorded by Steam. The tune is often sung by the home fans of American sporting events at the end of a victory as a means of taunting the away team.
+The left bottom entry refers to the theme song of the '60s TV show Batman.
+The middle bottom entry refers to the theme song of the video game Katamari Damacy, which was also the cause of the Accident in comic 161.
+The right bottom entry refers to the song "Land of a Thousand Dances," originally recorded by Chris Kenner. The title text jokes that the tune's incessant repetition of "na" has annoyed Randall to the point that he does not have the patience to listen to the whole song.
+There are likely countless other songs that uses "Na Na Na" as part of the lyrics. Some will be more popular than others. A very popular song that goes: Naaa Naaa Naaa Na Na Na Naaa, Na Na Na Naaaa, Hey Jude was left out. Hey Jude must have been brought to Randall's attention after this comic was released, as he made a comment about it in the comic header the day after this comic was released, see Trivia below.
+This is one of many flowchart comics. A full list can be found here.
+Transcript[edit]
+[A flowchart with 11 similar boxes on a line connected with arrows. After 8 there is two branches, one up (with three boxes above the rest of the 11 boxes) and one down to one box. After 10 there is one branch down to a larger box with two lines, and after that the last arrow is longer before reaching the last and 11th box. From this box there is an arrow that loops around to the last box again. This arrow is labeled.]
+Na → Na → Na → Na → Na → Na → Na → Na → Na → Na → Na
+Up 8 branch:→ Hey → Hey → Goodbye
+Down 8 branch:→ Batman!
+Down 10 branch:→ Katamari Damacy!
+Loop: Land of 1,000 Dances
+Trivia[edit]
+The day after after this comic was published, 2011-01-25, the following message was posted by Randall at the header of xkcd:
+I can't believe I forgot Hey Jude.
+I don't get do-overs, but I couldn't resist making a fixed version.
+This text was only on the front page until the next comic came out 2011-01-26. After that it stayed only as a unique header for this comic.
+At that time the standard header was:
+Protip: m.xkcd.com is a clean, mobile-friendly version of xkcd.com.
+Protip: Scripts can fetch comics and metadata automatically.
+The addition to the diagram refers to the song "Hey Jude," originally recorded by The Beatles.
+In this fixed version an extra Na has been inserted between the last two Na's, making the new Na the 11th, now out of 12. From this new 11th Na, there is another down branch that goes → Hey → Jude.
+Then the last line to the now 12 Na is no longer much longer than the previously, and the loop arrow is now above instead of below to make space for Jude, and also the text has been moved to the end of the chart instead of below the loop.
+The updated comic's URL, "https://xkcd.com/851_make_it_better/" is a reference to part of "Hey Jude"'s lyrics: "Take a sad song / And make it better."
+In the original comic picture "Hey Jude" is still missing, but the original comic has been made into a link to the "make it better" version.
+Songs containing "Na Na Na" in various languages: (This list is incomplete)
+Ay y es que me duele mucho Decir adiós, oh na-na-na-na-na Havana, ooh na-na (Havana by Camila Cabello) (Spanish version)
+あなた 侵光系！ ナナナーナナナーナナナー (太陽系デスコ) (Japanese version)
+내 맘대로 내 뜻대로 좋아 좋아 NU ABO 나나나나 나나 나나나나 나나나나나 나나나나 (NU ABO by f x) (Korean version)
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Randall actually explains at the top: "I can't believe I forgot Hey Jude. I don't get do-overs, but I couldn't resist making a fixed version." Mark Hurd (talk) 16:29, 6 April 2013 (UTC)
+The "make it better" portion of the URL of the revised comic is probably a reference to additional lyrics from Hey Jude. In light of the fact that that particular joke wouldn't have been available unless he had omitted it from the initial one, it's possible he 'forgot' Hey Jude on purpose.
+173.21.244.39 22:40, 10 April 2013 (UTC)
+Doesn't Katamari Damacy have nine "na"s, not ten? This is the number I can hear in the song on youtube, and the number in his earlier comic Accident. Am I missing something? --152.78.168.175 13:22, 12 May 2013 (UTC)
+Nope. It has 9. "Hey, Jude" wasn't the only thing he missed. 108.162.217.41 04:14, 8 June 2014 (UTC)
+Actually it depends. In some arrangements there's a leading "Na" at a lower pitch before going into the main sequence, providing the tenth. 108.162.216.13 20:01, 24 September 2014 (UTC)
+Doesn't Batman have 16 na's? I'm pretty sure Im right about that ~JFreund
+Usually, yeah. But if you replace "nana nana nana nana nana nana nana nana" with just "na na na na na na na na" then you get what is seen here. 108.162.217.41 04:14, 8 June 2014 (UTC)
+This is described here as a "flowchart", but I suspect Randall was going for a finite state machine. --Dfeuer (talk) 08:04, 16 January 2014 (UTC)
+Um, I'm not a math person, but this reminds me of Markov Chain a bit?141.101.105.190 14:14, 21 February 2015 (UTC)
+Doesn't it go "hey hey hey goodbye" instead of "hey hey goodbye" as well? 141.101.99.5 18:28, 11 March 2015 (UTC) Yeah, I Think I'm Signing Right
+This explanation is incomplete and not very good. I'm not American and only by reading through comments here I get to understand that "Na na na ... <x>" are like lyrics extracts from different TV-Show-Songs in the USA? 162.158.93.128 (talk) (please sign your comments with ~~~~)
+I added the mention of the title text to the explanation so it's not incomplete anymore. -- JayRulesXKCD (talk) 1:28, 9 September 2016 (EDT)
+What about Na Na Na by My Chemical Romance? Na count of 7 Nas, repeated 6 times in each of 3 choruses, and 11 extra, which adds up to 137 Nas! Or Na Na Na Na Naa by Kaiser Chiefs? Counting Naa as Na, there are 5 Nas, repeated 47 times, for a total of 235 Nas! 162.158.34.82 11:59, 16 December 2016 (UTC)NaNaNa162.158.34.82 11:59, 16 December 2016 (UTC)
+Journey's "Lovin' Touchin' Squeezin'" ends with 7 sets of 22 for a total of 154 Nas. Ryanker (talk) 19:33, 24 March 2017 (UTC)
+Ini Kamoze does 20 of them in "Here comes the hot stepper" 162.158.59.94 16:56, 23 May 2018 (UTC)
+Searching any fulltext-searchable lyrics site gives NA songs in the order of 50000. Probably won't fit on a xkcd comic... 108.162.229.226 15:43, 11 May 2020 (UTC)
+My favourite omission is "Shes got the Look" from Roxette. 30xNa+"Shes got the look". 198.41.238.51 23:32, 15 March 2021 (UTC)
+I'm still wondering why he "doesn't get do-overs". Randall can change his site to add a custom header just for one day, but he can't update a comic to fix it? What? 162.158.159.105 12:42, 1 February 2022 (UTC)
+He sometimes does fix a comic image. Can't think of a specific example, but a bad 'written typo' might get a fix and reupload, or an arrow/decision-split going the wrong way/being missing in a flowchart (you might not have to check so many comics for an example if you concentrate on just the Flowchart-tagged ones). When this happens, this wiki tends to keep the original image and reinclude it in Trivia/wherever, while changing the header-image to the new current one.
+I think it's just how he feels given a possible update (this one was an edge condition, not ripe for replacing but egregious enough to make it known an update exists). Or, possibly, if it's actually wrong he might correct it; but in this instance it was just missing something that he could have added. If he wanted to retrospectively add new things whenever he thought up something new then every comic could be potentially revised at any time, any number of times. No no, no no no no, no no no no, no no there's no limit! 172.70.90.173 13:13, 1 February 2022 (UTC)
+Categories: All comicsComics from 2011Comics from JanuaryMonday comicsFlowchartsMusicKatamari DamacyVideo games

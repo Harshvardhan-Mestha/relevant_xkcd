@@ -1,0 +1,63 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+688: Self-Description
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 688)
+|<< PrevComic #688 (January 13, 2010)Next >>|
+Self-Description
+
+Title text: The contents of any one panel are dependent on the contents of every panel including itself. The graph of panel dependencies is complete and bidirectional, and each node has a loop. The mouseover text has two hundred and forty-two characters.
+Explanation[edit]
+This comic is self-referential, because every graph is dependent on the whole comic. If you were to change anything in the comic, you would change the ink distribution, and would therefore have to update all three graphs. This would result in further changes that would have to be considered.
+In the first panel's pie chart, "this image" refers to the entire comic image, the one that can be downloaded from xkcd (and the entire comic as displayed here above). This is a little confusing as it would be easy to misunderstand this meaning, and believe that the first panel only refers to itself. The title text though makes it clear that it is the entire comic that is called image here. The image size is 740x180 or 133200 pixels. Out of those, 14228 pixels are black (gray pixels are accounted based on their brightness). The ratio of black pixels to the size of the image is 0.1068, so the pie chart segment describing black part should be about 38.5 degrees wide, which is indeed true for the pie chart in the image.
+In the second panel the amount of black used in each panel is displayed in a bar chart. This actually makes this panel the one that uses most black. The first panel (including the border) has 4944 black pixels, the second 6180 and the third 3103. The first bar is about 70 pixels high, the second about 87 and the third about 43, which roughly checks out. It is hard to measure the exact height of the bars as the axis and bars themselves are not straight.
+The third panel features a scatter plot labeled "Location of black ink in this image." It is the first quadrant of a cartesian plane with the zeroes marked. The graph is the whole comic scaled proportionally to fit the axes, so the last panel also has to contain an image of itself having an image of itself ad infinitum thus displaying the Droste effect, a type of visual recursion.
+The title text refers to the comic's own self-reference, but it is also self-referencing because of the character count in it. It would be difficult to write this sentence, as just one more character would not be solved by writing 243, as "three" has two more characters than "two", and "four" has only one more character...
+"The graph of panel dependencies is complete and bidirectional, and every node has a loop." This means that if we draw a dot corresponding to each panel, and then we draw arrows connecting the dots to indicate dependencies, the resulting graph is complete (meaning that all the points are connected to one another) and bidirectional (meaning that if point A has an arrow to point B, then point B also has an arrow to point A). "Every node has a loop" means that each point also has an arrow connecting to itself.
+This is an observation of the interdependent relationship between description and creation that pertains to all things perceived by humans, including the concept of "Self".
+Self-reference was used very early for instance in 33: Self-reference, but never so famously as here. See other self-references here.
+Transcript[edit]
+[A pie chart which is mainly white with a black slice of about 30 degree towards the bottom left. The two sections are labeled with a line going from the label to the sections. The line going into the black section turns white in in this last part.]
+Fraction of this image which is white
+Fraction of this image which is black
+[A bar graph labeled with a label over the Y-axis. There are three black bars with a label below each bar. Bar 1 is of medium height, bar 2 highest and bar 3 the lowest.]
+Amount of black ink by panel:
+1 2 3
+[A scatter-plot with a label over the Y-axis. In the bottom left corner of the graph, the two axis has a tick just away from the origo, and these are labeled with zeros. The graph shows the whole comic scaled proportionally to fit the axes. The scale is too small to actually read any of the text in this representation, which would of course be the same as that noted here for the two previous panel and for this panel here below:]
+Location of black ink in this image:
+0
+0
+Trivia[edit]
+This comic has seen interest from several computer programmers who have taken up on the challenge to recreate this comic. Jon McLoone of the Wolfram blog seems to have done it quite well.
+The Mathematical Association of America interviewed Randall Munroe about this topic.
+This is one of the six footer comics linked at the bottom part of the xkcd website.
+This is one of the comics available as signed prints at the xkcd store.
+A T-shirt based on this comic is available in the xkcd store.
+The comic might be inspired by SMBC.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This is one of the comics with a direct link at the bottom of xkcd. 173.26.186.224 04:18, 29 December 2012 (UTC)
+I do wish they said 'comic' rather than 'image' as for the longest time, I assumed 'image' only referred to the individual box, which doesn't make each one necessarily linked.24.70.188.179 06:52, 27 January 2013 (UTC)
+Anyone know what language Randall may have used to create this image? Perhaps Python? and how do you prevent it from entering an infinite feedback loop? Saibot84 (talk) 23:02, 12 May 2013 (UTC)
+I'd do it in Perl, but that's because I'm a bit partial to Perl. I don't think it matters too much. It could even be a semi-manual process.
+However, whatever way it's done, if there was a loop (or a flip-flop state, i.e. more black pixels overall means less black pixels on a graph, which means less black pixels overall, without a point of stability) then I'd detect for that and work out which "immutable" parts (e.g. lengths of drawn axes) could be altered by an appropriate number of pixels to have another go at looking for stability. In Perl, that'd be detected by something like a simple "$coverage{$no_of_black_pixels}++" for every state visited, with an "if (exists $coverage{$no_of_black_pixels}) { reject_and_renew() }"-style check before that, probably "die"ing the program to let me read the log of rejections that led there and let me choose a basic change (or other mutable element) that could lead us in the right direction.
+In an interview, Randall Munroe explains that he did it completely by hand, counting the black pixels with Photoshop and iterating manually. Notice that, once you chose the radius of the disc, the width and scale for the rectangles of the second panel, and the text, decorations and legend, it is fairly easy to write the equations satisfied by the amount of black ink each panel. It turns out to be a set of linear equations, easily solved. This is for the continuous problem (say, if the comic strip were drawn with Bezier curves and a vector image). For the discrete problem, you have to iterate a little bit from this first insight, but not that much. 138.96.199.247 10:15, 16 September 2013 (UTC)
+As a more simple example, if the original title-text hadn't turned out to be one where a certain stated number of characters made the text that same number of characters, I'd add, remove or change a word (or item of punctiation!) towards something that worked. As a dumb example of the way I'd do it: "This sentence has <foo> characters." has 35, there, including the five of "<foo>", so "thirty-five" would be six too many, "forty-one" would be 39-long, "thirty-nine" makes it "forty-one", and we know that loops back. I could be more intelligent and choose a number where own_length==(what it depicts, minus thirty), where the easy answer is "32" in digits. But there's no obvious set of number words that obet that rule, so let's change the sentence to "There are <foo> characters in this sentence.", and see where that leads us. Quick answer? 39+length of added number words. If I'm right, that's "forty-nine".
+Of course, there are multiple loop-backs with a self-referential image. But while it would be 'obvious' if extra spaces were inserted (or some removed!) to make a line of text fit itself in a self-referential way, an image has more "neutral space" (or 'fill') that can be changed with no effect on itself but (in a non-linear way and deminishing returns, especially with the multiple levels of recursion in the third panel) can shuffle values in the rest, perhaps to hit upon a self-consistent result overall. Narrowing or widening the panes (thus making more/less white space, and only slightly different black space) could change the ratio enough to hit a solution. Or altering the radius of the pie-chart by a pixel or three (while obviously also updating the angle filled in) could help. And if it didn't work with a pie-chart, for some reason, a big block of text saying "x% black vs y% white", or similar, could have possibly set up a result. The problem is not finding a method of solving the problem, but that there are way too many ways. But once you hit one that doesn't look forced, that'd be good enough and you could roll with it.
+Still, I'm rather in awe of the concept of the comic. I know I could repeat it (or something very like it), but to think of the idea in the first place is, I think, the most amazing thing about what we have here...
+Too wordy? Meh... There are three-hundred and twenty-one 'e's in this entry. 31.111.35.144 19:39, 15 May 2013 (UTC)
+(Post-script: of course "three-hundred and twenty" would also have worked, there, assuming I counted correctly in the first place! 31.111.35.144 19:39, 15 May 2013 (UTC))
+This could be another reference to the mysterious 242 inside joke which is mentioned in another comic's title text (forgot which one)141.101.98.253 14:43, 22 January 2014 (UTC)
+903:Extended Mind 172.68.78.82 01:49, 14 January 2017 (UTC)
+Should I make a picture of the mentioned dependency graph and put it in the article? Basically it would be like a less ugly version of this. Fabian42 (talk) (please sign your comments with ~~~~)
+I don't think this would explain anything from the comic and I can't find a "dependency graph" mentioned.--Dgbrt (talk) 14:23, 25 August 2017 (UTC)
+In the mouseover text: "The graph of panel dependencies" Also this wiki explains everything in every possible detail, so I think it would be ok to include. The page is short for the amount of complexity in this comic anyway. Fabian42 (talk) 14:36, 25 August 2017 (UTC)
+Yup, I should have read everything before answering. Maybe some wiki articles should be mentioned too: Dependency graph, Circular dependency, and of course Dependency hell. The paragraph here definitively needs an enhancement. Your edits are welcome and a nice picture I can upload for you. And when necessary you also can set the incomplete tag.--Dgbrt (talk) 15:06, 25 August 2017 (UTC)
+I created a composite image showing the original comic, then the scatterplot enlarged to the size of the original, then iterate a couple more times. Is there a way to upload and link images here, and would that be a useful addition to the explanation? Matchups (talk) 16:00, 21 February 2018 (UTC)
+The time used to draw something like this out on paper must have been mind-boggling. Klyxm (talk) 4:05, 5 May 2018 (UTC)
+SMBC did it first.
+Dammit, my gimmick didn't work. 10:46 - ADST -- No Idea If There's A Character Limit LMAO (talk) 23:46, 6 February 2023 (please sign your comments with ~~~~)
+I see what you tried to do. If I didn't think it was overkill, I might have done it in a more 'workingy' way for you. But I appreciated the effort, and I definitely smiled a bit at the obvious intent.
+But perhaps try the sandbox page and/or using the Preview button, next time, to not go through several iterations and then decide to revert. It (the latter, particularly) saves on edit-history entries that document your not-quite-right baby steps progress as you learn the fine details of markup/templates/etc, and can then even be abandoned without leaving such a trail of experimentation. 172.71.178.64 07:05, 7 February 2023 (UTC)
+Categories: All comicsComics from 2010Comics from JanuaryWednesday comicsLinks to xkcd.comPie chartsBar chartsScatter plotsLogicFooter comicsSelf-referenceComics with xkcd store productsRecursion

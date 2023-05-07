@@ -1,0 +1,38 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+619: Supported Features
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 619)
+|<< PrevComic #619 (August 5, 2009)Next >>|
+Supported Features
+
+Title text: I hear many of you finally have smooth Flash support, but me and my Intel card are still waiting on a kernel patch somewhere in the pipeline before we can watch Jon Stewart smoothly.
+Explanation[edit]
+This comic references how Linux builds overly focus on adding support and features that will not appeal to the majority of desktop computer and Linux users, and the general dismissive attitude of those who point this out. Cueball has created a patch that allows support for processors with 4,096 cores, even though most computers have only 8 cores or fewer. He considers this to be more worthwhile an endeavor than full-featured Flash support, and attempts to claim that coding for the latter is unnecessary, even though Flash was the most common way to present videos or animations on websites at the time when this comic was published.
+Ironically though, in the years since, there exist computer systems that have well over 4,096 cores, while Flash usage has dwindled to practically zero with even the company dropping official support by 2020, having been superseded by HTML5; therefore, with many of the world's datacenters - particularly supercomputers - running Linux, this means that arguably (and technically), Cueball is now more factually correct.
+The title text mentions the "American political satirist, writer, director, television host, actor, media critic, and stand-up comedian" Jon Stewart which further refers to his famous American late night satirical television program The Daily Show. The show is also available on the internet (www.thedailyshow.com), presented in Flash video.
+Transcript[edit]
+[Cueball and a friend holding a laptop standing together.]
+Cueball: It took a lot of work, but this latest linux patch enables support for machines with 4,096 CPUs, up from the old limit of 1,024.
+Friend: Do you have support for smooth full-screen Flash video yet?
+Cueball: No, but who uses that?
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Note that the major reason why is easier for Linux to supports 4096 CPUs than smooth flash playback is that flash is proprietary format and without cooperation from Adobe very little can be done with it. For example, most of Adobe products, flash player included (since version 11), are now compiled with SSE2 support in a way which makes them not work at all on CPUs which don't have such capability. Noone except Adobe can do anything with it, and Adobe apparently don't consider it problem. -- Hkmaly (talk) 00:05, 27 September 2013 (UTC)
+
+Who is this we that he refers to in the title-text. Is it him and his Intel card, him and his fiance, is he royalty, or does he simply have a tapeworm with good taste in political comedy? 66.249.85.193 21:50, 23 October 2013 (UTC)
+http://asset.soup.io/asset/0453/8747_0991_800.png (Changelog for xorg; "Fixes XKCD #619") Sudofox (I haven't made an account. 108.162.216.31 19:13, 29 December 2013 (UTC)
+please use archive.org links, it causes deadlinks http://web.archive.org/web/20150326223351/http://asset.soup.io/asset/0453/8747_0991_800.png --172.69.35.59 18:03, 22 September 2020 (UTC)
+The commit that added 4096 CPUs support was 1184dc2 by Mike Travis from SGI (which sells systems with that many CPUs); see also this presentation by him. However, that commit was soon reverted in d25e26b because it caused too many problems (big CPU mask → some huge stack frames), with a comment that “Some day we'll have allocation helpers that allocate large CPU masks dynamically, but in the meantime we simply cannot allow cpumasks this large.” Today, up to 8192 CPUs are supported, so presumably they do have these helpers now :) --108.162.230.95 09:03, 28 September 2014 (UTC)
+I put some paragraph spacing in your comment because it is difficult to follow on the edit page.
+The problems of computer engineering mirror the difficulties faced by producers of machinery everywhere: https://en.wikipedia.org/wiki/Pascal%27s_calculator
+It doesn't matter what level of technical genius their builders attain nor in which field they exert their energy, Linux machines will be cold-shouldered because Microsoft's is the only code that allows users to work with a cludge like Flash.
+This sort of thing will continue as long as vested interests allow such indecencies to exist. Blaise Pascal never had the luxury of working in tens. It took a famine, an egregious tax system (rather similar to that of the USA's) and a revolution to improve things. Perhaps we can learn something from history?
+In 2009, when this comic was published, most computers being sold were 4 cores. The problem was the dissipation of heat and incidental costs of electricity used. Manufactures could see the wall presented by frequency oscillations. Having 4000 CPUs/cores/threads/whatever just meant you had a hotter frying pan.
+I used Google News BEFORE it was clickbait (talk) 08:18, 29 January 2015 (UTC)
+So when is Linux going to follow the others AGAIN, had to wait til the rest did flash, before they discontinue flash support like MS and Mozilla, and all. This is why there never be a year of the linux desktop as they do not care about desktop users. 108.162.216.166 13:33, 28 July 2017 (UTC)
+Hey look, this was fixed here! 172.68.174.82 21:55, 12 October 2017 (UTC)
+Flash[edit]
+RIP flash ;-; Beanie (talk) 10:43, 20 April 2021 (UTC)
+Categories: All comicsComics from 2009Comics from AugustWednesday comicsComics featuring CueballMultiple CueballsLinux

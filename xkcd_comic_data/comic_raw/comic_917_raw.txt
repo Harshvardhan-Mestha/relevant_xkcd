@@ -1,0 +1,42 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+917: Hofstadter
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 917)
+|<< PrevComic #917 (June 27, 2011)Next >>|
+Hofstadter
+
+Title text: "This is the reference implementation of the self-referential joke."
+Explanation[edit]
+Douglas Hofstadter is an American author who has written several books about philosophy, mathematics, and science. He is perhaps most famous for his book Gödel, Escher, Bach which explores "strange loops," or self-referential systems. "Meta-" is a Greek prefix meaning "outside" or "beyond." As an adjective, "meta" informally refers to anything self-referential, like the last phrase of this sentence. An example of the use of such a term can be found in 1313: Regex Golf.
+At first reading, the six word autobiography in the second panel, "I'm So Meta, Even This Acronym", may seem unfinished, however the clue is in the final word. An acronym is an abbreviation formed by the initial letters of a series of words, and reading the first letter of each of the six words in order yields "ISMETA", completing the sentence and setting up the self-reference. Hofstadter himself did something similar in Gödel, Escher, Bach in the chapter "Contracrostipunctus", where the first letter of each line spells out the phrase "Hofstadter's Contracrostipunctus Acrostically Backwards Spells J.S.Bach" - and taking the first letters of each word in that sentence backwards does indeed spell "J.S. BACH".
+This comic is probably a reference to Six-Word Memoirs, a project launched in 2006 in which people "tell their life story in just six-words". This comic may additionally be a reference to the meme "explain <whatever> in six words", which was making the rounds at the time.
+In the title text, a reference implementation is, broadly, an example of how to implement some feature during the software development process. In this case the feature is a self-referential joke, and the sentence itself is, correctly, self-referential.
+Hofstadter has been referenced before, in the title text of 555: Two Mirrors and 608: Form. Furthermore, his famous book has been directly spoofed in the title of 24: Godel, Escher, Kurt Halsey. Finally, the self-reference reference ("IS META") is also a typical concept used most famously in 688: Self-Description but also in several other comics.
+Transcript[edit]
+[Cueball sits at a desk, working on a laptop. Megan approaches the desk and picks up a tiny book.]
+Megan: What's this?
+Cueball: Douglas Hofstadter's six-word autobiography. After all those 700-page tomes, I guess he wanted to try for brevity.
+Megan: Huh. Let's see...
+[Close up of Megan, reading the tiny book.]
+Book: I'm So Meta, Even This Acronym
+[Full shot of Cueball and Megan again. Megan looks down at the tiny book in her hand.]
+Megan: ...whoa.
+Cueball: I think he nailed it.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I bet Randall felt so clever when he came up with that acronym. Davidy²²[talk] 01:24, 17 April 2013 (UTC)
+IMO he had every right to. 79.114.62.187 (talk) (please sign your comments with ~~~~)
+Is it worth mentioning that Is Meta is an acronym for "I'm," the first word of the acronym? That seems like it would be in the spirit of Hofstadter and "meta," especially since Hofstadter talks a lot about the meaning of "I" in his books. --108.162.237.117 04:28, 4 November 2013 (UTC)
+I would think so. I came here to see about making that edit, including noting that the final "I'm" is both "I AM" (the ultimate autobio!) and also provides self-reference back to the start of the original phrase. Ardaglash (talk) 19:02, 29 September 2020 (UTC)
+Would "this acronym" imply that the sentence itself is an acronym for something much larger? A biography, perhaps? 108.162.237.218 14:48, 28 May 2014 (UTC)
+The acronym of the title text is "tit riots (r)j". I'm fairly sure this doesn't really mean anything, but "tit riots" just made me giggle. 141.101.70.21 11:41, 18 June 2014 (UTC)
+Should it read “I'm so meta, even this acrostic”? Or did Randall eschew correctness in favor of more readers knowing what the comic's words meant? YatharthROCK (talk) 22:25, 27 November 2015 (UTC)
+The explanation is factually incorrect... the prefix "meta" comes from the () Greek preposition "meta" which doesn't mean "beyond" or "out of" but merely "after". It came to mean, as a prefix, "beyond" or "reflexive", in modern european languages, via the latin neologism "metaphysica", supposed to be a translitteration of the title of Aristotle's collection of essays. This mysterious title was given by their first editor, living centuries after Aristotle, and was "ta meta ta physica", that is to say something like : "those [the books] after those regarding nature". As those mysteriously titled books concerned the general principles of reality, (including famously the "god", the divine principle of nature"), the title came wrongly to be understood as meaning "beyond nature". Eventually, the "metaphysics" of something came to be understood as dealing with the principles "beyond" a given domain, hence "meta-studies" or "meta-psychology", etc. It is, however, a mistake made since centuries... --Antinomiste (talk) 19:31, 3 March 2016 (UTC)
+The last panel's boustrophedon acronym. "Woah I Think He / Nailed It" is an acronym for "Within", if you read in boustrophedon. 141.101.104.221
+This is even cleverer than I think it is. Koro Neil (talk) 01:44, 28 December 2018 (UTC)
+So what were to happen if Hofstadter observed himself in his autobiography? 127.0.0.1
+For Sale: Hofstadter's Old Baby Shoes
+Shoes that wore Hofstadter. Kev (talk) 17:37, 13 May 2022 (UTC)
+Categories: All comicsComics from 2011Comics from JuneMonday comicsComics featuring CueballComics featuring MeganLanguageSelf-reference

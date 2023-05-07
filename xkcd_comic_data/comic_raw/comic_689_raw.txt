@@ -1,0 +1,58 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+689: FIRST Design
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 689)
+|<< PrevComic #689 (January 15, 2010)Next >>|
+FIRST Design
+
+Title text: Pool on the roof must've sprung a leak.
+Explanation[edit]
+Two members of a team are designing a robot for the 2010 FIRST Robotics Competition, in which teams design robots to push soccer balls into their team's goals. The final design for this team's robot is a trailer with a matchbox on a telescoping pole and the actual robot, a mobile platform with an umbrella on top and pusher in front.
+This is an underhanded design, exploiting the presence of a heat-activated sprinkler system at the venue and lack of water resistance in the opposing team's equipment.
+When the event starts, the robot moves off and deploys its umbrella. The trailer extends its arm, causing a lit match to set off the sprinkler, which causes the opposing robots to short out and malfunction. This allows the umbrella-protected robot to score goals without opposition.
+This may also be referencing how FIRST is famous for its bending of the rules, as loopholes are not only not against the rules, they are encouraged. This would be shown best by how Team 67 designed a robot that utilized a loophole, which allowed them to control a robot using an Xbox Kinect during the time where the robot is supposed to be autonomous. (This loophole has been removed in the rules for more recent competitions.) Note, however, that this would be simply illegal based of the 2010 FRC Breakaway rules, as rule S01 under section 7.3.1 Safety prevents dangerous robots from competing and R02 points E and F under section 8.3.1 Safety & Damage Prevention prevent "Flammable gases" and "Any devices intended to produce flames or pyrotechnics.". This rule could be bypassed if the sprinkler could also be triggered by smoke, which is the case in at least some venues, in which case a few capacitors in a circuit designed to destroy them could trigger the sprinkler system.
+In addition, this comic may be a reference to the water game meme in FRC, where most students really want a game to involve water, even though this is unlikely to ever happen due to the safety concerns about using electronics near water.
+The title text is an excuse presented by the umbrella robot team, presumably because they won but are facing disqualification. This excuse seems weak because none of the venues have a rooftop pool.[citation needed] The comment "the pool on the roof must've sprung a leak" is a quote from the 1995 movie "Hackers".
+Transcript[edit]
+Team Member 1 (out of panel): Wow, this is a much better design.
+Team Member 2 (out of panel): Let's build it.
+[A blueprint depicting a robot design for the FIRST competition. It consists of a standard mobile platform, with a pusher blade at the front. Additional parts include an umbrella on top and a trailer unit consisting a telescoping pole with a matchbox and match on top.]
+Referee (out of panel): Go!
+CLICK
+[A FIRST competition field, with teams at opposite ends. Various robots appear on the field, and the team whose design appears above activates their robot.]
+[The robot's trailer unit detaches as the telescoping pole begins to extend, and the mobile platform with umbrella rolls forward.]
+VRRR
+CLICK
+[Telescoping pole extends further.]
+VRRRR
+[Telescoping pole extends further.]
+VRRRR
+[Telescoping pole extends further, approaching a sprinkler head fixture.]
+VRRR
+[Telescoping pole stops extending, placing the matchbox and match very near the sprinkler head fixture.]
+[The mobile platform stops moving.]
+[The umbrella deploys, extending beyond the dimensions of the mobile platform.]
+FWOOMP
+[The match box and match are lit beneath the sprinkler head.]
+FWOOSH
+[The heat from the match triggers the sprinkler's valve, and water sprays out of the sprinkler into the room below.]
+PSSSSHH
+[Water pours from the sprinkler onto the competition field, causing the electrical components of the opposing team's robotics platform to short and malfunction. The opposing team appears distressed and confused.]
+FZZZT
+BWooooooo!!!
+[The initial robot, still protected by its umbrella, pushes along the balls toward the goal zone without any difficulty.]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Should I mention there is an Umbrella Corporation? 71.166.47.84 15:00, 29 September 2013 (UTC)
+As a former student in FRC, the little plow thingy in the front is also a thing. but nobody is going to read this so whatever. 21:03, 18 January 2014 (UTC)~ 173.245.54.254 (talk) (please sign your comments with ~~~~)
+I read this. I appreciate your contribution. Benjaminikuta (talk) 11:52, 18 August 2015 (UTC)
+I had nothing to do with the original point, but your comment made me happy and I wanted to share that. Thank you.--162.158.74.203 21:00, 6 June 2020 (UTC)
+It wouldn't work in Dallas--the Dallas Memorial Arena is too high, and doesn't have a proper sprinkler system. It's just too old. -R, another former US FIRST member (#3392). 108.162.221.8 02:47, 21 February 2014 (UTC)
+You would lose ranking points if the opposing alliance doesn't score anything. Also you will have destroyed your alliance partnr's robot. I'd try it with VEX first... 108.162.236.43 (talk) (please sign your comments with ~~~~)
+you could always score a token goal for your opponent?
+Should we mention the fact of how much against the rules this is? I mean they are breaking at least three rules off the top of my head. 108.162.215.199 17:26, 11 October 2016 (UTC)
+huh, nine years on and i read this. i understand we nerds don't do sport, and you americans don't do soccer. just a heads up, then. you say "soccer balls into their team's goals" which really isn't how soccer works, and would lose you the match. it goes against common usage, at least in the uk. is that a joke? a playful and wilful misunderstanding of the double meaning of "goal" as both "objective" and "opponents' scoring area"? it may be my goal/objective to score, but i will do so in my opponents' goal/net. too late now, though, and the high schooler who wrote this text has now left university. oh well. --162.158.155.236 09:27, 16 July 2019 (UTC)
+They're not playing soccer - it's a robotics competition. There are balls placed on the field, and your team is scored by how many balls you manage to get into your goal - essentially the robot that can retrieve the most balls is the winner. So this article is exactly correct.--172.68.255.8 00:38, 23 July 2019 (UTC)
+Categories: All comicsComics from 2010Comics from JanuaryFriday comicsPages using the "citation needed" templateComics with colorComics with inverted brightnessComics featuring CueballComics featuring MeganComics featuring PonytailMultiple CueballsRobotsSoccer

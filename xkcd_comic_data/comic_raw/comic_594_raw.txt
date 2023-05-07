@@ -1,0 +1,46 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+594: Period
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 594)
+|<< PrevComic #594 (June 8, 2009)Next >>|
+Period
+
+Title text: 413 nanohertz, by the way.
+Explanation[edit]
+A period, also called a menstrual cycle, is a process marked by (among other things) a few days of abdominal cramps occurring roughly once a month for women in the reproductive age.
+"Period" (T) is also the term in mathematics for a measure of the rate at which something happens. It measures the length of time between occurrences. For example, a full moon happens about once every 29.5 days, so its period is 29.5 days. By taking the inverse of this, we can get a different measurement, its frequency (f) - the number of times an event happens within a given length of time. This is usually measured in hertz (pronounced the same as "hurts"), which is the number of times something happens in a second. Hertz is abbreviated as Hz, and since f = 1/T, with T measured in seconds (s), it follows that 1 Hz = 1 s−1.
+The woman has her period every 28 days. Since we can calculate the frequency based on the period, we can, indeed, calculate her "uterus-hertz" but she already knew that her "uterus hurts". Yes, this has all been a setup to a terrible pun to make your head hertz. And if she had not been in such terrible pains that she cannot even get up, she would have smacked Cueball for it, which would really hertz. This makes it even more hertzfull by Cueball, to make fun of his girlfriend in such a state.
+The woman off screen is probably Megan given that she is most often depicted as Cueball's girlfriend, and the fact that he is in her home with her on the couch is a good indicator that they are intimate. (This is not enough to include this comic as one with Megan).
+The title text gives the other answer that can be calculated from Cueball's musings, the actual frequency of the womans period which have a period T = 28 days. 413 nanohertz is the correct frequency as shown here by Google Calculator.
+It can also easily be shown here:
+f = 1/28 days = 1/(28 days × 24 hours/day × 60 minutes/hour × 60 seconds/minute)
+= 1/(2,419,200 s) = 4.1336 × 10−7 s−1
+= 413 × 10−9 Hz = 413 nHz.
+Transcript[edit]
+[Cueball is standing with a hand to his chin looking towards a woman off-panel right. In all panels the woman answers off-panel with a small starburst close to the right panels border indicating from where her speak emanates.]
+Woman's voice (off-panel): Ugh. Stupid uterus.
+Cueball: Hey, your period is every 28 days, right?
+[Cueball is standing hands down.]
+Woman's voice (off-panel): Yes, why?
+Cueball: Well, period = T = 1/f.
+Woman's voice (off-panel): So?
+[Cueball holds up a finger in front of him.]
+Cueball: Using this, we can calculate something you already know.
+Woman's voice (off-panel): What?
+[Cueball is standing hands down.]
+Cueball: Your uterus-hertz.
+Woman's voice (off-panel): If I could get up I'd smack you.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+...And angular velocity: 1.97 mHz 108.162.231.30 23:29, 14 December 2014 (UTC) This just makes me sad for Homestuck. ----
+One must wonder whether Randall noticed the Homestuck connection at the time of making this comic. He is, apparently, a fan, as Homestuck is linked on the main xkcd site, but this comic was made within only a few months of the comic's start, so he mightn't have heard of it yet.--173.245.52.151 03:36, 13 February 2020 (UTC)
+This is about 16 cents away from a very, very, *very* low A, for what it's worth. 162.158.75.180 22:18, 1 July 2020 (UTC)
+Sorry, I don't speak... uh... I have no idea what language you're speaking. This comment is incomprehensible to me. 172.69.33.173 18:49, 10 November 2020 (UTC)
+Apparently cents is a musical term that has a correlation to frequency. The A is a musical note. [1] 162.158.187.129 02:35, 30 November 2020 (UTC)
+Okay, that makes absolutely no cents whatsoever. 172.69.34.78 18:30, 13 April 2021 (UTC)
+A cent is a frequency ratio of 21/1200 to 1. Just as there are 20 decibels in a 10-fold increase in sound amplitude, there are 100 cents in a semitone and 12 semitones in an octave. --Tepples (talk) 03:29, 2 September 2021 (UTC)
+A(-27), to be exact, though I don't believe there's actually any standard notation for notes lower than C0. 172.70.130.161 23:30, 6 May 2022 (UTC)
+@TheSmartestNoob - This 'correction' of grammer seems not to have fixed anything, and actually broken it. I undid it, and I would have explained this on your own Talk page, but you don't have one and I wouldn't be able to create it. Did you mean to rewrite it as "A period is also called a menstrual cycle. It is a process marked by (etc...)"? But still, I can't see a problem with the current (again, as of now) version. 172.69.79.203 18:44, 12 March 2022 (UTC)
+Categories: All comicsComics from 2009Comics from JuneMonday comicsComics featuring CueballPhysicsPuns

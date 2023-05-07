@@ -1,0 +1,81 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+878: Model Rail
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 878)
+|<< PrevComic #878 (March 28, 2011)Next >>|
+Model Rail
+
+Title text: I don't know what's more telling--the number of pages in the Wikipedia talk page argument over whether the 1/87.0857143 scale is called "HO" or "H0", or the fact that within minutes of first hearing of it I had developed an extremely strong opinion on the issue.
+Explanation[edit]
+In model rail construction, the HO scale refers to the most popular scale for modeling railroads, in which 3.5 millimeters in the model corresponds to 1 real-world Imperial foot. As the comic suggests, it works out to a ratio of about 1:87.1 (or 3048:35 exactly, which equals 1:87.08̄5̄7̄1̄4̄2̄8). In Europe, the scale is defined as exactly 1:87 instead, to avoid references to non-metric measurements.
+This comic features two Cueballs conversing; we'll refer to them as Lefty and Righty to avoid confusion. The conversation takes place in Lefty's basement. Lefty is apparently a less-experienced train modeler, and he tells Righty that he wants to make an HO model layout of his town. However, the more-experienced Righty points out that this is a bad idea, due to nesting. To make it a perfectly accurate model, Lefty would have to include a model of his house, which includes his basement, which includes the model. So, he would have to make a model of the model, which will include a smaller model of the model, and so forth. This is illustrated in the comic.
+At the end of these six nested models The Matryoshka limit is stated: "It is impossible to nest more than six HO layouts". Matryoshka dolls are toys of Russian origin that can be stacked inside one another. Here, the "Matryoshka limit" is the hard barrier that follows as a result of the nesting. Matter is not infinitely divisible; once one gets to the level of atoms, it is impossibly difficult to go any smaller. The unit shown in the last diagram is the ångström, a very small unit of measurement (1/10000th of a micrometre, 1/10 of a nanometre, 100 picometres or 10−10 m) which was created when humans started discovering objects on an atomic scale, such as crystal structures or wavelengths. The last nested model looks like the atoms on a surface as seen using a scanning tunneling microscope (STM).
+The rules of model train layouts reference the 1999 cult classic Fight Club, where the first rule of Fight Club is "do not talk about Fight Club." However, while the club instituted the rule because their activities were morally and legally questionable, the rule in the comic was instituted by friends and family members who were apparently sick of hearing the train enthusiasts talk about model train layouts all the time. The second rule of Fight Club is "you do not talk about Fight Club", repeated for emphasis, but evidently Cueball and his friend are good enough at following the first rule of model train layouts that they only had to be told once.
+The "Philistines" comment is not referring to citizens of ancient Philistia (at least not directly), but rather the philosophy of Philistinism. Friedrich Nietzsche defined a Philistine as someone who is purely negative in how they define style, i.e. they know exactly what they hate and don't really have anything they like. A common stereotype for artists is to refer to anyone who dislikes their work as "Philistines," thus dismissing their criticism as being part of a larger personality defect on the critic's part rather than any particular failing of the artwork in question.
+The title text references HO scale and, more specifically, whether it should be spelled with the letter "O" or the number zero (0). Such debates often seem petty to the "layman", yet the people involved in the debates can form very strong feelings for their side. Randall recognizes "nerdy tendencies" almost immediately when he gets the urge to take a side.
+Transcript[edit]
+[Cueball to the left and his friend, who also looks like Cueball, are standing in the friend's rather large basement, where the celling is held up by six thin columns, and the walls are shown angling in towards a point of perspective, to display how big the room is.]
+Friend: I want to build a perfect HO-scale (~1/87) model train layout of my town.
+Cueball: In your basement? Bad idea. Never make a layout of the area you're in.
+[Zoom in on the two friends without the basement visualized.]
+Friend: Why not?
+Cueball: Because it'd include a little 10" replica of your house.
+[Zoom in Cueball's friend who takes his hand to his chin.]
+Friend: So? That's be cool! I'd make tiny replicas of my rooms, my furniture—
+Cueball (off-screen)l: —And your train layout?
+[Beneath this first row of the comic is the zoom-out of how the full model would look in the basement. The town lies beneath some small mountains. There is some water with a bridge over it continuing to the roads going through the city. There is no frame around this section, but instead there follows five zoom-outs, each one going from the friend's house, that proceeds to a circular frame. Within each of these is shown a nested model. Starting to the right of the main model, and then moving down, then left, and then down and right. Each layer has a broken arrow above the model between two vertical lines to indicate the scale, the length being written between the two parts of the arrow. Some foreign objects are also labeled to help understand the scale.]
+[Layer 1, the model with the two friends standing to the left of it.]
+18 m
+[Layer 2, looks exactly as the model, but without the friends.]
+21 cm
+[Layer 3, with a mosquito shown for comparison. It stands over half the model covering the mountains.]
+2.4 mm
+[Layer 4, with a strand of spider silk (labeled) shown for comparison. The silk is much thicker than the roads, almost as thick as the mountains and much longer than the model. But the model still looks fairly much like the original one.]
+28 μm
+Spider web
+[Layer 5, with a cold virus (labeled) shown for comparison. It covers roughly a quarter of the model, taking up the water part of the model. At this level the whole model becomes notably "fuzzy" as individual atoms are discernible, and most of the features apart from the mountain is indiscernible. There may be two viruses. The other would then be to the right of the one in the water but above the model. The label stands between them.]
+320 nm
+Cold virus
+[Layer 6, is simply spheres (atoms) at this point. The mountain near the back is the only noticeable feature, consisting of five atoms jutting out from the surface of atoms, which is by no mean flat.]
+37 Å
+[Beneath these six versions of the model is a caption:]
+The Matryoshka limit:
+It is impossible to nest
+more than six HO layouts
+[Back to the two friends in the basement, still not showing the basement.]
+Friend: My God.
+Cueball: Yeah. It's the second rule of model train layouts: No nesting.
+[Zoom in on the heads of the two friends.]
+Friend: ...What's the first rule?
+Cueball: "Do not talk about model train layouts." That rule was actually voted in by our friends and families.
+Friend: Philistines.
+Trivia[edit]
+The city of Bourton-on-the-Water, Gloucestershire, England actually contains such a model. Although, it only has 4 nestings, and is built at a larger scale.
+The Miniatur Wunderland in Hamburg (Germany), the biggest model rail construction in the world, contains a 1:7500 version of the Miniatur Wunderland with movable vehicles.
+It should be noted that the day this comic went up, it was then repeatedly referenced in the HO talk page by several people commenting on the arguable triviality of the edit war.
+The comic 1167: Star Trek into Darkness is about a similar debate on Wikipedia.
+Randall later created a series discussing scale-model worlds more generally: 2411: 1/10,000th Scale World, 2412: 1/100,000th Scale World, and 2417: 1/1,000th Scale World.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+It IS possible to go smaller than one atom, but it tends to make a really bright flash and loud noise. The original atomic bomb was the second guy's reading of a train modeler's notes, miraculously preserved in a refrigerator. --68.200.188.141 03:37, 29 January 2013 (UTC)
+
+Corrected HO to H0 --70.169.90.254 22:25, 10 April 2013 (UTC)
+I hate it when my model train layout gets crushed by a cold virus. 199.27.128.150 23:38, 28 December 2013 (UTC)
+You mean your model model model model model train layout.. 141.101.99.195 20:39, 20 January 2014 (UTC)
+3.5mm per foot? What kind of half-assed system is that?? It's an embarrassment. 108.162.219.58 21:13, 5 February 2014 (UTC)
+3.5 millimeters is due to the origins of HO scale. It literally means "Half O", and "O" scale, now 1/4 inch per foot in the US, was 7 mm/foot in Britain, where the scales originated. The debate over "HO" and "H0" comes from the same source, as "O" scale was originally labeled "0", following the larger scales of 1, 2, 3, etc, used for toy trains in the early 20th century. As for the name today, it's pronounced "Aitch-Oh" in most, if not all, of the world. 173.245.50.92 (talk) (please sign your comments with ~~~~)
+In Germany this scale is called "H-Null" (H for halb=half; Null=zero). So H0 is definitly correct there while HO is completly illogical. The HO can be used in english only because it is common to use O instead of saying zero, while this is uncommon in most other languages. 141.101.104.101 09:49, 2 August 2016 (UTC)
+How is half of zero logical but half of O isn't? 108.162.212.59 06:04, 10 June 2017 (UTC)
+The "this discussion" link doesn't lead to the discussion in question. Please fix? Anonymous 17:32, 13 February 2014 (UTC)
+I can't see this. But a former add here is fixed, maybe this helps.--Dgbrt (talk) 23:14, 13 February 2014 (UTC)
+The {{w}} does interpret the link target as the page name. So when linking to "Page?bar=foo" will not interpret the bar parameter. Additionally because there was a = in one parameter it treated everything before as the parameter name and everything after it as the parameter value. If the first problem wouldn't be a problem at least the first parameter would need to be defined as 1=…. I reverted that part to the old working version. 108.162.254.109 13:49, 3 June 2014 (UTC)
+There is a community portal discussion of what to call Cueball and what to do in case with more than one Cueball. I have added this comic to the Category:Multiple Cueballs. Since the one who knows the rule to me seems like the best candidate for a Cueball here, I have changed the transcript to make him Cueball. He has the interesting comments of this comic, so maybe it is OK to let him be listed as Cueball? On the other hand someone has previously done the opposite, proving that it is not possible to say that Cueball is any particular guy. But it is just easier to explain the transcript (and the comic) when calling one of them Cueball rather than guy 1 and 2 (left of right etc.)--Kynde (talk) 14:11, 29 July 2015 (UTC)--
+The original width of the section of real world being modeled (18m * 87) works out to 1 mile. Johanna-Hypatia (talk) 21:15, 26 September 2016 (UTC)
+Is this really a sensible interpretation of the "philistines" comment? It seems to hinge on more obscure, original use of the word, and slightly far-fetched. In particular, considering Munroe's other comments on that movie, I had assumed they were considered philistines simply for cluttering the rulebook with needless pop-culture references, as per the more common definition given on the wikipedia page of "[A person with a] lack of and an indifference to cultural and æsthetic values".Thomson's Gazelle (talk) 11:50, 6 March 2017 (UTC)
+Fight Club has also been referred to (at least) in 922: Fight Club. I think this should be mentioned, but I'm not sure how to work that into the current text. 162.158.238.113 20:53, 9 December 2017 (UTC)
+This idea can be used to prove Brouwer's Fixed Point Theorem in 2 dimensions. See https://en.wikipedia.org/wiki/Brouwer_fixed-point_theorem#Illustrations --Cosmia Nebula 01:54, 19 January 2019 (UTC)
+Why not just put a little note in the scale model of his basement to refer to the zoomed in version of the model? user:Claire Kholin
+Cueball's problems with nesting would be solved if he made the replica of the town at a specific moment of time - making a replica of the town before he made the replica would avoid nesting entirely since that moment of time would not include the replica itself.
+Categories: All comicsComics from 2011Comics from MarchMonday comicsIllustrations of scaleComics featuring CueballMultiple CueballsRecursionFight ClubWikipedia

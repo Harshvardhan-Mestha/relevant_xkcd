@@ -1,0 +1,37 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+723: Seismic Waves
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 723)
+|<< PrevComic #723 (April 5, 2010)Next >>|
+Seismic Waves
+
+Title text: The USGS operates a really neat email/SMS earthquake notification service (earthquake.usgs.gov/ens/) that allows fine-grained control of notifications.
+Explanation[edit]
+One stereotype surrounding Twitter users is that they are more concerned with broadcasting their current status than they are with addressing it. Earthquakes are natural disasters caused by the movement of the Earth's tectonic plates, known for the destruction that they leave in their wake. The comic outlines the potential that technology can have in warning people about earthquakes, which is unfortunately negated by the tendency of the typical users of the technology to care more about sharing the warning message than they are to preserve their own lives.
+The title text is a geology pun, as "fine-grained" is a common term used by geologists to describe rocks.
+Real scientists are trying to turn this speed difference into a practical tool. Go figure.
+
+Nine years later they succeeded, as covered in 2219: Earthquake Early Warnings.
+Transcript[edit]
+When an earthquake hits, people flood the internet with posts about it-some within 20 or 30 seconds.
+[A room with a desk, chair, and computer are shaking. The person in it is on his phone, using Twitter.]
+RobM163 Huge earthquake here!
+Damaging seismic waves travel at 3-5km/s. Fiber signals move at ~200,000km/s.
+(minus network lag)
+This means when the seismic waves are about 100km out, they begin to be overtaken by the waves of posts ABOUT them.
+[There is a geographical border on a map; the front edge of the wave of the quake is shown, with the front edge of the wave of tweets surpassing it.]
+People outside this radius may get word of the quake via Twitter, IRC, or SMS before the shaking hits.
+[Megan and Cueball are standing, holding cell phones. Megan is looking at hers.]
+Megan: Whoa! Earthquake!
+Sadly, a Twitterer's first instinct is not to find shelter.
+Megan and Cueball (on phones): RT @RobM163 Huge earthquake here!
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Twitter user RobM163 exists and was created along with this comic (presumably by Randall). He tweeted a few times about various disasters on April 5th, 2010, and later on the 22nd about Iceland's not being a great tourist destination (due to Eyjafjallajökull). [Whoa, I care about stuff 3 years old! Ah well.] --Quicksilver (talk) 02:43, 20 August 2013 (UTC)
+RobM163's first post was the day before the xkcd comic. Z (talk) 17:14, 7 June 2014 (UTC)
+But, if the earthquake damages the area's communications infrastructures... 108.162.250.210 (talk) (please sign your comments with ~~~~)
+All the way here in 2016 it seems worth mentioning: the ubiquity of smartphones means peer-to-peer chat is positioned to survive this type of service disruption. It seems only a matter of time that getting online from a disaster zone will mostly depend on there being a smartphone chain leading to the closest public AP outside the blackout zone. Elvenivle (talk) 06:57, 9 February 2016 (UTC)
+What about twitterer? Twitter user and tweeter are better alternatives for OCs. Might be a reference to (this:)). Well, Twitter user is too long when tweeting during an earthquake (and the tweet may exceed the 140), and tweeter might be in reference to this: Tweeter 172.68.144.109 (talk) (please sign your comments with ~~~~)
+Categories: All comicsComics from 2010Comics from AprilMonday comicsComics featuring MeganComics featuring CueballComics featuring RobSocial networkingGeology

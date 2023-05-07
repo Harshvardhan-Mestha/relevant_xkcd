@@ -1,0 +1,34 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+944: Hurricane Names
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 944)
+|<< PrevComic #944 (August 29, 2011)Next >>|
+Hurricane Names
+
+Title text: After exhausting the OED, we started numbering them. When overlapping hurricanes formed at all points on the Earth's surface, and our scheme was foiled by Cantor diagonalization, we just decided to name them all "Steve". Your local forecast tomorrow is "Steve". Good luck.
+Explanation[edit]
+The World Meteorological Organization (WMO) maintains lists of potential names for tropical cyclones in each tropical cyclone basin; Regional Specialized Meteorological Centres (RSMCs) and Tropical Cyclone Warning Centres (TCWCs) are responsible for assigning those names to tropical cyclones within their respective areas of responsibility. In the North Atlantic Ocean (including the Gulf of Mexico and Caribbean Sea as pictured), the NOAA's National Hurricane Center (NHC/RSMC Miami) gives names to tropical cyclones (of which hurricanes are a subset), going through the alphabet (excluding Q, U, X, Y, and Z) and resetting at "A" at the beginning of the year. For example, the North Atlantic storms in 2012 were named "Alberto", "Beryl", "Chris", "Debby", and so on. There are six lists of names for the North Atlantic Ocean, which rotate every six years. Storms that are extremely catastrophic are removed from the lists.
+If there were more than 21 hurricanes in a season before 2021, the 21-letter alphabet becomes exhausted and the hurricanes are named with Greek letters. This has happened only twice: in the 2005 Atlantic hurricane season, see 1126: Epsilon and Zeta, and in the 2020 Atlantic hurricane season. In 2021, the World Meteorological Organization ended the use of the Greek alphabet and unveiled a supplementary list of names to be used in event of exhaustion.
+There have never been enough cyclones in one season to exhaust both the English and Greek alphabet (which would require more than 45 cyclones in a season; the most so far has been 30), and Randall is hypothesizing what the names would be if this happened. In the comic, the NHC has named the hurricanes using random words out of the Oxford English Dictionary (OED). The humor here is intrinsic: "Hurricane Eggbeater" is a bizarre and hilarious name (and may also refer to how an eggbeater spins and 'destroys' an egg in a similar manner to how a hurricane might affect the surrounding area). The place in the image shown is the Gulf of Mexico and its surroundings, with the land being white, and the ocean, black.
+The title text takes this already surreal twist to an even more ridiculous extreme, where an impossibly long hurricane season exceeds 300,000+ storms and exhausts the OED completely. Even when the NHC starts referring to them using counting numbers, which will be sufficient to cover an infinite number of hurricanes, they are foiled by a theorem in set theory. In mathematics, the set of all counting numbers is a countable set (as are the set of all integers or all fractions) whereas the set of all points on a surface is an uncountable set (as is the set of all real numbers). Cantor diagonalization is a famous proof that it is impossible to map objects from an uncountable set one-to-one with objects from a countable set. Applying this theorem to hurricanes, if there were to be one hurricane for every possible point on Earth's surface, it would be impossible to assign a distinct counting number to each one. This of course defeats NHC's last-resort naming scheme, but more pertinently, human civilization would be in a lot of trouble.
+At this point, the meteorologists give up and decide to name all the hurricanes "Steve", which is popular on the internet as an arbitrary, generic name. Ironically, this makes "Steve" no longer arbitrary. The reporter then goes on to tell people that their forecast is "Steve" meaning that the hurricanes are everywhere. He says "good luck", which is probably because there are currently hurricanes on all points of the earth's surface at the time of his speaking.
+Transcript[edit]
+[A weather reporter sits behind a desk with an image of the Gulf of Mexico and surrounding land masses displayed to his left. 9 hurricane symbols are scattered across the map, primarily over the Greater and Lesser Antilles.]
+Reporter: After the latest wave of hurricanes, not only have we run through the year's list of 21 names, but we've also used up the backup list of Greek letters. All subsequent storms will be named using random dictionary words.
+Reporter: The newly-formed system in the gulf has been designated "Hurricane Eggbeater", and we once again pray this is the final storm of this horrible, horrible season.
+Trivia[edit]
+There actually was once a Cyclone Steve in the Australian Basin.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Actually, "Abel and Steve" is a play on the phrase "Adam and Steve"[1]
+Also, a hurricane spins around destructively like an eggbeater. 24.41.66.114 04:52, 15 July 2013 (UTC)
+Marik Ishtar's Millenium Rod can control men and women named "Steve" I wonder if it can control storms named "steve"?99.102.154.28 01:47, 6 August 2013 (UTC)
+There's only a matter of time when this happens and a there's a "Hurricane Hurricane". Malamanteau314 (talk) 04:39, 12 December 2015 (UTC)
+Why not name them after the polar coordinates that they formed at? Wwei23 (talk) 02:35, 17 December 2016 (UTC)
+Interesting Fact: You cannot have hurricanes all over the surface of the earth, as there has to be two points with no wind. For a mathematical proff you can check the Hairy Ball theorem. [2] 188.114.111.35 11:05, 28 July 2017 (UTC) Julio 13:00 28 Jul 2017
+Dammit, Steve... PotatoGod (talk) 21:10, 6 May 2018 (UTC)
+I think Steve may not be very good at his job. L-Space Traveler (talk) 12:18, 15 November 2022 (UTC)
+"Your forecast for tomorrow is Steve. Good luck." sounds really ominous to me. Kind of along the lines of "May the odds be ever in your favour". 172.69.234.132 01:38, 24 July 2019 (UTC) Cye
+Categories: All comicsComics from 2011Comics from AugustMonday comicsComics featuring CueballNews anchorHurricanes

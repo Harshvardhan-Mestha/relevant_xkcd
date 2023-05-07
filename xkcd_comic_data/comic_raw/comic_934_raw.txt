@@ -1,0 +1,31 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+934: Mac/PC
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 934)
+|<< PrevComic #934 (August 5, 2011)Next >>|
+Mac/PC
+
+Title text: It's fun to watch browsers fumblingly recapitulate the history of window management. Someday we'll have xmonad as a Firefox extension.
+Explanation[edit]
+This comic is a parody of the "Get a Mac" (also known as "I'm a Mac" or "Mac vs. PC") ad campaign for the Mac brand of computers. The ads personified the Mac and their competitors, the PC. The ads poked fun at the PC's terrible function while paying attention to the Mac's unique features. Each ad started with the duo introducing themselves as "I'm a Mac..." "...and I'm a PC."
+The comic, however, presents the differences between them as no longer of much importance, since most everything nowadays is done through browsers. In essence, using the same browser to visit the same website among different operating systems would give you an experience that is very much the same. Additionally, there is some self-referential humor here; both the Mac and PC are simple stick figures due to xkcd's style. Therefore, they are literally identical as far as appearance goes. The apotheosis of computing via a browser is probably the Chromebook, a range of laptops whose operating system is based upon the browser Google Chrome, and which first became commercially available a few weeks before this comic appeared.
+The title text refers to window management, which is software that controls windows on computers, and is in many ways similar to the more recent development of tabbed browsers. xmonad is one such program, and Randall says that eventually it will be an extension usable with the browser Firefox. What makes it somewhat unusual (and thus worth mentioning) is that it is a tiling window manager, meaning it automatically arranges and resizes newly opened program windows to fit a grid. This is especially useful on large screens.
+Transcript[edit]
+[Two Cueballs stand facing out of the screen.]
+Cueball #1: I'm a Mac
+Cueball #2: And I'm a PC.
+Cueballs: And since you do everything through a browser now, we're pretty indistinguishable.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I don't code in a browser. Linux, bitches. Davidy²²[talk] 09:12, 9 March 2013 (UTC)
+Should there be some added discussion of the fact that a Mac (or a Linux machine, or other OS) is a "personal computer", and by definition a PC? 72.45.165.98 (talk) (please sign your comments with ~~~~)
+It's sad that kids today don't remember the fact that PC was, for ages, a branded term for a Microsoft computer specifically to distinguish them from filthy Macs. We fought this battle for years, and you remember nothing. 108.162.221.33 16:23, 11 November 2013 (UTC)
+The term Personal computer (PC) became popular after IBM introduced its IBM Personal Computer in 1981, even when the name was used also before. Microsoft never did brand that name but they bought some software licences to create MS-DOS. Apple, together with others, did sell graphical user interfaces long before Microsoft did. The big success of Microsoft only belongs to the decision by IBM allowing other companies to build IBM compatible computers. The success is only caused by cheaper hardware. And I am running only Linux on this cheap computer because its free.--Dgbrt (talk) 20:28, 11 November 2013 (UTC)
+I kind of agree with this, except for the use of the word "only". As if opening up for competition in a market is a small issue. Mumiemonstret (talk) 13:26, 15 December 2014 (UTC)
+I would question whether "since most everything nowadays is done through browsers due to the proliferation of cloud computing" is true. While I would suspect that the first half of the sentence is largely true, is cloud computing specifically really that prevalent? My take on the comic was that using a browser to access the web is such a major part of the everyday use, that the 'other' use is minimal (and hence PC vs Mac is of limited relevance). --Pudder (talk) 11:24, 12 September 2014 (UTC)
+And why is web browsing such a major part? Well, at least partly because fewer and fewer installs software for e.g. e-mail handling, picture and movie organizing, document creation... Instead we have Gmail, Flickr, Youtube, Google Docs, and so on. Cloud services, that is. Mumiemonstret (talk) 13:26, 15 December 2014 (UTC)
+Just FYI: Mac is a subset of PC. And the more I observe the fight of Linux vs. Windows the more I think Linux users aren't very smart. I love programming but I dislike Linux and stuff. 162.158.83.144 (talk) (please sign your comments with ~~~~)
+I don't think "cloud computing" is relevant or even accurate in the description. When a regular user uses an online service, it isn't "cloud computing" just because it's online. Cloud computing implies abstracting away the details of where and on what device your data is stored. That's always true for users of these services. It's not your business where Gmail stores your data. The fact that your data is online is enough to explain the joke, without bringing the C-word into it. AmbroseChapel (talk) 23:29, 12 September 2017 (UTC)
+Categories: All comicsComics from 2011Comics from AugustFriday comicsComics featuring CueballComputersMultiple Cueballs

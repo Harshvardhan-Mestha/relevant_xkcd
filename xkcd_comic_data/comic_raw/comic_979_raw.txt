@@ -1,0 +1,55 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+979: Wisdom of the Ancients
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 979)
+|<< PrevComic #979 (November 18, 2011)Next >>|
+Wisdom of the Ancients
+
+Title text: All long help threads should have a sticky globally-editable post at the top saying 'DEAR PEOPLE FROM THE FUTURE: Here's what we've figured out so far ...'
+Explanation[edit]
+This comic refers to a common experience that those trying to solve tech problems have. Typically, people search on Google to try to find solutions to the problem. Sometimes the solution can be found on a software program's website, but the most helpful solutions frequently come from discussions on message boards, particularly for more obscure problems. This is because the odds are rather high that someone else, years ago, had the same problem you're having and resolved it.
+However, in this comic, Cueball is unable to find any mention of the problem he's currently facing except for one forum post about it that did not include the problem's solution. This is akin to finding an FAQ with questions but no answers.
+The title is a satirical reference to the notion that the "ancients," i.e. from thousands of years ago, possessed knowledge that has been lost to the centuries (such as exactly how Stonehenge was built), and that artifacts from those times do not fully divulge such knowledge. The fact that the "ancient" referred to in the comic is from 2003 (only 8 years before the comic was published) is an exaggeration of the feeling that the forum poster is lost to the sands of time, but in some sense this feeling is nonetheless true, since Cueball is unlikely to be able to contact them.
+The title text is a suggestion to forums to be aware of the fact that people are likely going to come across such posts in the future and therefore to provide handy summaries of the most helpful conclusions of long threads for them, since combing through several false starts and failed attempts to resolve a problem can be quite tedious. Some forums do indeed follow this practice, pinning the solution or the most helpful approximation to one to the top under the original question.
+In 1722: Debugging the title text also mentions googling an error message, explaining what it means if you get zero results. Sort of.
+See also[edit]
+http://www.mirrorsoferis.com/forum/thread05232003a.html
+Transcript[edit]
+[A poem is written outside and right justified along the left edge of the panel to the right.]
+Never have I felt so close to another soul
+And yet so helplessly alone
+As when I Google an error
+And there's one result
+A thread by someone with the same problem
+And no answer
+Last posted to in 2003
+[Cueball stands in front of his desk, having risen so the chair has moved away behind him. He is holding on to his computer's screen, looking at it while visibly shaking the screen and shouting at it.]
+Cueball: Who were you, DenverCoder9?
+Cueball: What did you see?!
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+"There was uh, a thing called a segfault that made my computer like, all blurry and stuff." Davidy22[talk] 06:58, 2 February 2013 (UTC)
+That was one reason why StackOverflow came to life: main authors fed up with (mis)using forums for query & answer site --JakubNarebski (talk) 23:03, 15 June 2013 (UTC)
+Just two googling steps brought me here: http://www.mirrorsoferis.com/forum/thread05232003a.html Relevant for "Trivia"? Even the year fits! 108.162.230.89 11:28, 12 September 2014 (UTC)
+From the HTML source:
+<!-- Well, you got me. -->
+<!-- This is a spoof; a reaction to xkcd.com/979/ -->
+<!-- Okay? -->
+<!-- Apologies. -->
+Cute theory, though. -108.162.254.126 12:23, 10 December 2014 (UTC)
+Even better, looking at other stuff in that source:
+<td><input class="button" value="Log in" tabindex="104" title="Enter your username and password in the boxes provided to login, spin round three times, vomit, click your heels together and TA-DA!" accesskey="s" type="submit"></td>
+Will this actually enter properly, or will those formatted tags not be input scrubbed? Tables ... Keybounce (talk) 08:34, 4 August 2017 (UTC)
+Also, someone in 2003 couldn't have asked about a webcomic that was only launched in 2005. 173.245.52.109 18:29, 3 October 2017 (UTC)
+The link above seems to be dead now. DNS failed. 162.158.167.15 09:03, 22 August 2016 (UTC)
+Working now --Keybounce (talk) 08:34, 4 August 2017 (UTC)
+2nd paragraph of the explanation is nonsense! A forum post is nothing like a FAQ entry. The problem didn't get solved and was probably put away and forgotten. Happens all the time. 162.158.83.144 (talk) (please sign your comments with ~~~~)
+"The title text is a suggestion to forums to be aware of the fact that people are likely going to come across such posts in the future" My pet peeve is when I Google an error and get led to a post like in the comic, and one of the last comments is a person necro-bumping with new information on the same issue, but then a moderator locks the post because its X years old and needs to be left alone. This is the fucking Internet; data doesn't rot. 108.162.212.83 13:52, 15 July 2017 (UTC)
+From my experience the top search result on google usually is a locked post with no answer (other than the polite suggestion to google it yourself). 162.158.203.16 04:16, 3 September 2021 (UTC)
+data does rot, though? :P 141.101.103.40 18:19, 8 September 2021 (UTC)
+Try having a problem that Google has never heared of. My hard drive died last March, and in the process of learning that was what had happened, I had tried reinstalling the OS and got an error that yielded literally zero search results (it was Error 0xb9f3c820, by the way) --172.71.146.65 02:46, 28 July 2022 (UTC)
+Nice try. 172.70.147.129 05:07, 2 September 2022 (UTC)
+Well, now there's a search result, but it's this very discussion. 172.71.150.173
+Categories: All comicsComics from 2011Comics from NovemberFriday comicsComics featuring CueballInternetGoogle Search

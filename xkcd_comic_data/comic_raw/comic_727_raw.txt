@@ -1,0 +1,47 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+727: Trade Expert
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 727)
+|<< PrevComic #727 (April 14, 2010)Next >>|
+Trade Expert
+
+Title text: I mean, it's been almost twenty years. Now, it's possible you're simply embedding Windows directory paths in your URIs, but in that case you need more than just a short lecture.
+Explanation[edit]
+Cueball as a news anchor has another Cueball-like character as guest in the studio, a doctor who is also a trade expert. However, Steven Berlee turns out to be a fraud. In reality he is a frustrated programmer willing to lie his way on to news show to share his message with any newscasters willing to listen:
+Every time you say "backslash" as part of a web address on air, I die a little.
+The slash character (/), also known as forward slash, is the correct way to separate distinct parts of a web address; for example in the address "http://en.wikipedia.org/wiki/Slash_(punctuation)", a slash follows the "org" and the "wiki". However, some newscasters are unfamiliar with the distinction between the different types of slashes, thus confusing the normal slash with the backslash (\), the wrong character. They may also be somewhat overzealous by trying to specify forward- or backslash since just saying "slash" would be sufficient. Also as mentioned in the title text the backslash is used in addresses on a windows PC.
+Steven Berlee claims that he suffers every time this mistake is made in a news program, explaining his reason for cheating his way on the air. Steven's name is most likely made up, as it seems to be taken from two or three of the inventors of the Internet:
+Dr. Steve Crocker who has worked in the Internet community since its inception. He was part of the team that developed the protocols for the ARPANET which were the foundation for today's Internet and for this work, he was awarded the 2002 IEEE Internet Award. His real name is Stephen D. Crocker.
+Dr. Stephen Wolff, spelled differently than Steve, but the same as the real name of Steve Crocker. He is one of the many fathers of the Internet, mainly credited with turning the Internet from a government project into something that proved to have scholarly and commercial interest for the rest of the world. At one point he managed a research group that participated in the development of ARPANET.
+Sir Tim Berners-Lee's last name can made into the portmanteau Berlee. He is an English computer scientist, best known as the inventor of the World Wide Web. Berners-Lee is the director of the World Wide Web Consortium, which oversees the continued development of the Web.
+Searching the internet lists no one called Steven Berlee, and the only references point back to this comic.
+The title text refers to how in the Windows operating system, the backslash is actually used instead of the slash as a separator (in contrast to Unix-based systems, which use the forward slash). Thus, the path to any Windows file encoded in a URI (Uniform Resource Identifier — which may sometimes also be a called a Uniform Resource Locator) would correctly contain the backslash character. It is possible to pass parameters, including strings, in an internet URI and so you could have an identifier that directly embedded the path of a windows file on a windows server - this would be such a weird and terrible thing to do.[actual citation needed]
+In the title text Steven complains that after having had the modern version of the Internet for 20 years (since early 90s and this comic was released in 2010) they should have learned the difference by now. He also continues to claim that if they do not understand the difference between an internet URI and Windows directory paths, and thus embedding these into their URIs, then he cannot help them with just a short lecture while he cons his way to time on the air.
+Transcript[edit]
+[Cueball as a news anchor is sitting behind a desk with his hand on the desk, leaning towards his off-panel guest to the right.]
+Cueball: And for more on the summit, we turn to trade expert Dr. Steven Berlee.
+Cueball: Steven?
+[Zoom out to include Dr. Steven Berlee, also drawn like Cueball, with his hands below he desk, sitting behind the desk to the right of Cueball facing towards him, still with his hands on the desk.]
+Steven Berlee: I'm not actually a doctor or a trade expert. I'm just a programmer who lies to get on news shows.
+[Close-up on Steven Berlee.]
+Cueball (off-panel): What? Why?
+Steven Berlee: To share a message with newscasters.
+[Zoom back out to show both men, the news anchor now also with his hands below the desk.]
+Cueball: Which is?
+Steven Berlee: Every time you say "backslash" as part of a web address on air, I die a little.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Most modern browsers will convert backslashes in a URL into forward-slashes on submit anyway. And typing a file path into Windows Explorer's address bar using forward-slashes will usually work as well. Not to say that I also despise people incorrectly referring to web addresses as much as the next programmer (probably more), mixing slashes doesn't really break anything. bungeshea (talk) 10:25, 4 March 2013 (UTC)
+Correct me if I am wrong, but I believe that the explanation is incorrect, and should rather say something like: The forward slash (/) is the correct way to separate distinct parts of a web address (for example, the web address 'en.wikipedia.org/wiki/Slash_(punctuation)'). However, Dr. Steven Berlee has apparently heard newscasters say 'backslash' instead of 'slash' or 'forward slash'. Therefore, this annoys him. As referenced in the title text, the backslash serves as a separator in file paths on the Windows operating system. Thus a Windows file path embedded in a URI would contain the backslash character. However, Dr. Steven Berlee thinks that if you embed a Windows file path in a lecture, then 'in that case you need more than just a short lecture' because this is not a good practice. 01:48, 22 May 2013 (UTC)
+I can't believe nobody has pointed this out: Steven Berlee? Steven (Crocker|Wolff) and Tim Berners-Lee... Steven Berlee! Founders of the internet (ARPANET and whatnot). 141.101.81.216 13:36, 21 February 2014 (UTC)
+What I cannot believe is why you did not add it to the explanation your self this being a wiki ;-) But at last after more than two years I got around to doing it for you. But great catch, and true that it would have been a shame not to have that in the explanation so thanks for sharing :-) --Kynde (talk) 10:45, 29 June 2016 (UTC)
+This issue doesn't seem to crop up as much now--it's easier to irritate programmers by calling the # symbol (by itself) a "hashtag."
+Note for those who may not know: Acceptable names for # include hash, mesh, number sign, pound sign, octothorpe, grid, crosshatch, hex, sharp, or even "tictactoe" or "waffle iron" if you're feeling silly. "Hashtag" refers to a post tag which uses the octothorpe as a delimiter. 108.162.216.209 03:24, 2 March 2015 (UTC)
+I don't really think that this explain is incomplete; yes, it IS called "Trade Expert" because the 'trade expert' was mentioned in the first panel. I didn't remove it cuz i'm very new and not sure if I'm correct in doing so.. :p halfyou 19:46, 9 July 2016 (UTC)
+Additionally I think this is a wordplay: The guy obviously is an expert in his trade. His trade just isn't trading stuff. ;-) --162.158.85.111 14:04, 11 July 2016 (UTC)
+November, 2016 - The Red Cross automated telephone message reminding me of my blood donation appointment specified a web site and used the word "backslash" in the spoken URL. 172.68.54.136 (talk) (please sign your comments with ~~~~)
+https://www.backslashbackslash.com Tobit (talk) 15:25, 25 March 2021 (UTC)
+That's incredible. I'm glad that exists. 172.70.189.175 16:27, 21 January 2023 (UTC)
+Categories: All comicsComics from 2010Comics from AprilWednesday comicsComics featuring CueballMultiple CueballsNews anchorComputersInternetLanguage

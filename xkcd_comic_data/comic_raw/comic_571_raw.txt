@@ -1,0 +1,40 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+571: Can't Sleep
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 571)
+|<< PrevComic #571 (April 20, 2009)Next >>|
+Can't Sleep
+
+Title text: If androids someday DO dream of electric sheep, don't forget to declare sheepCount as a long int.
+Explanation[edit]
+Cueball is in bed and is having trouble sleeping. He tries the old standby of counting sheep as they jump over a fence, but upon reaching 32,767 sheep, 65535 sheep jump back over the fence and start counting up again from -32,768. This is a reference to an integer overflow, when an increasing amount (sheep in this case) suddenly overflows and shows up as a negative value. This is because when a whole number or integer is represented in a digital form, such as on a computer, the number's range is limited by the amount of space used to store it. When the greatest possible number given the storage space is exceeded, an arithmetic overflow occurs, which may result (depending on the used language among other things) in starting over at the least possible number given the storage space, similar to a car's odometer. Imagine an odometer with six digits reaching 999999. Upon driving one more mile or km, the digits will roll back over to 000000. Causing or failing to prevent integer overflow is a common mistake by programmers that may have software security consequences. Some languages like C/C++ even leaves the signed integer overflow undefined behavior, it may or may not wrap to the beginning, the instruction can be ignored or may cause the software to crash.
+In this case, the least and greatest possible numbers are -32,768 and 32,767, which implies that the storage space used would be 16 bits. In addition, it's clear that the number is designated as a signed number, meaning that it can be either positive or negative.
+However, even if Cueball had this limitation, it would never actually pose a problem. By 32,767 sheep, at a rate of one sheep per second, Cueball has been counting for 9.101 hours (or about 9 hours 6 minutes). This would signify that he has extreme insomnia and probably needs treatment, and also that he has spent the entire night counting, and therefore would just get up and start the day rather than count sheep all over again from -32,768.
+The title text refers to the 1968 Philip K. Dick science fiction novel Do Androids Dream of Electric Sheep?, which was adapted into the perhaps more widely known Ridley Scott directed 1982 film Blade Runner. The implication is that if we ever do create androids that dream of electric sheep, we should make sure to give them sufficient storage space to store numbers large enough such that an arithmetic overflow will be far less likely to occur, even if they count for a long time. A "long int" typically consists of four bytes rather than two, so instead of being limited to a range from -32,768 to 32,767 the number will be capable of storing numbers from -2,147,483,648 to 2,147,483,647, which would take 68.1 years to exhaust. "sheepCount" is a possible name for a variable to be used in a computer program. Declaring a variable tells the computer that it should allocate a portion of memory to be associated with the variable name given. For those who might be unfamiliar with common programming practices, "sheepCount" is named using what is commonly referred to as lowerCamelCase, meaning that all words in the name ("sheep" and "count") are pushed together and the first letter of every word after the first is capitalized. This is one of several common approaches to naming variables in computer programming. This is because you can only have capital and lowercase letters, numbers, and underscores in variable names in most languages, and the names cannot start with a number. An alternative is snake_case, where the spaces are replaced with underscores and the names are lowercase.
+Transcript[edit]
+[Cueball is in bed, presumably trying to sleep. The top of each panel is a thought bubble showing sheep leaping over a fence and Cueball's counting and the sheeps baaing is written above the sheeps. Two sheep are jumping from left to right in the first panel.]
+1... 2...
+Sheep: Baaa
+[Two sheep are jumping from left to right. Cueball is holding his pillow.]
+... 1,306... 1,307...
+Sheep: Baaa
+[A whole flock of sheep (nine visible) is jumping over the fence from right to left; the first and last sheep is cut off at the edge of the frame. Cueball is now sitting up looking up at his thought bubble.]
+... 32,767 ...-32,768...
+Sheep: Baaa baaa baaaa baaa ba
+Cueball: ?
+[Two sheep are again jumping from left to right. Cueball is holding his pillow over his head.]
+...-32,767... -32,766...
+Sheep: Baaa
+
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The odometer analogy needs more explanation because of the difference between signed vs. unsigned integers. This assumes the analogy should stay here. --Smartin (talk) 05:02, 4 January 2013 (UTC)
+I replaced the phrase "integral number" with "integer", because "integral" is an overloaded term in math, while "integer" always means a signed whole number, and is introduced in grade school arithmetic. --MisterSpike (talk) 15:39, 19 August 2013 (UTC)
+While semi relevent, I don't think it is necessary to have an explanation of variable naming convention in the title text explanation. Definately note that sheepCount is a variable, but to go into detail on naming convention I think it just bloats the paragraph.. --Pudder (talk) 08:09, 29 September 2014 (UTC)
+Since I did not know about it I found it relevant - else I might have questioned the funny capitalisation. --Kynde (talk) 18:12, 14 October 2014 (UTC)
+I agree with Kynde... the purpose of explainxkcd is to explain things in the comic that seem obvious/everyday to people with particular knowledge in the areas covered by Randall's joke, but which are not obvious to those whose areas of knowledge do not overlap with Randall in that particular way, so this is exactly the sort of thing that may need an explanation. One of the hardest things in pedagogy seems to be getting an understanding of what it is that other people aren't going to understand. 108.162.249.155 01:42, 9 March 2016 (UTC)
+If androids indeed are going to dream of electric sheep, please declare sheepCount as long long unsigned. Signed overflow is undefined and value isn't going to be negative either way. 162.158.203.25 18:00, 20 December 2020 (UTC)
+The original comic had it that way. Though cool trivia.
+Categories: All comicsComics from 2009Comics from AprilMonday comicsComics featuring CueballAnimalsDreams

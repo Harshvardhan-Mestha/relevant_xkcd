@@ -1,0 +1,54 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+563: Fermirotica
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 563)
+|<< PrevComic #563 (April 1, 2009)Next >>|
+Fermirotica
+
+Title text: I love how Google handles dimensional analysis. Stats are ballpark and vary wildly based on time of day and whether your mom is in town.
+Explanation[edit]
+The Fermi paradox describes the contradiction between the high probability of extraterrestrial life and the lack of empirical evidence thereof. Age and size of the universe suggest that intelligent life should have occurred somewhere, and that some alien civilizations should have developed technology for interstellar travel. Therefore, one might expect the universe full of life. However, no evidence for any lifeforms on other planets has yet been found by humans. This inconsistency was first noted by Enrico Fermi in 1950 when he posed the question "Where is everybody?". The phenomenon, often called The Great Silence, was later examined more thoroughly in a paper by Michael H. Hart.
+A decade after Fermi's observation, Frank Drake formulated the Drake equation, which aims at estimating the number of active, communicative extraterrestrial civilizations in the Milky Way galaxy. The formula presents itself as the product of several probabilistic factors which would be required for such a civilization to exist. Several parameters are unknown and the equation assumes that all factors are weighed equally, therefore the equation is not useful for computing any actual result.
+The comic presents a somewhat related equation which computes the average distance from the observer wherein a couple can be found copulating. (The example parameters given in the comic yield 139 metres.) The implication of the equation is that we are surrounded by sex in our everyday lives. Nevertheless, we rarely encounter couples during the act itself.[citation needed] Borrowing from the Fermi paradox, the Fermirotica paradox poses the question: "Where is everybody having sex?". Of course, the lack of empirical evidence of couples having sex can easily be explained by the fact that most couples only have intercourse in privacy. A similar approach might also offer an explanation to the original problem: Alien species might conceal themselves from our observations, e.g. in order to avoid interfering in the development of civilizations. This answer to the Fermi Paradox is commonly called zoo hypothesis.
+The second panel has Cueball sexually aroused by the statistical probability of a couple practising intercourse. This fantasy of his is termed statistical voyeurism by an off-frame speaker, and is evidently upset by it. Possible reasons for being upset are that he considers it an inappropriate use of statistics, or finds voyeurism inappropriate in general, or because it accurately predicts an actual copulation he is aware of and would rather keep private (e.g. the off-frame speaker is actually about to have sex).
+The title text refers to the Google calculator and praises its capabilities of dimensional analysis, and more specifically unit conversion. Randall assumes that most readers will enter the equation with the example parameters into the Google search engine. The built-in calculator will output the result in the correct SI unit metre, although the population density was given as people per square mile. The second part of the title text states that the examples are nothing more than an educated guess, and that the equation is simplified. In reality, more parameters must be taken into account, e.g. the time of day, since most people will have sex in the evening or night. The insulting suggestion that the probability of sex rises when the reader's (supposedly promiscuous) mother is in town represents a Yo Mama joke.
+Note that this comic was released on April 1st without being an April Fools' Day comic. But Randall made another April Fool on his reader, see the trivia section.
+Transcript[edit]
+[A formula is shown with the variables explained above:]
+Pd Regional population density (e.g. 18,600/mi²)
+Xf Average person's frequency of sex (e.g. 80/year)
+Xd Average duration of sex (e.g. 30 minutes)
+r=sqrt(2/(π*Pd*Xf*Xd))
+On average, someone within distance r of you is having sex.
+[Cueball standing in front of an easel.]
+Cueball: Mmm, That probable couple 150 meters away is so hot. Oh yeah, theoretically work it, baby.
+From out of frame: Hey! No statistical voyeurism!
+Trivia[edit]
+This comic was released on April 1 with no obvious ties to April Fools' Day and is thus not one of Randall's, April fools' comics.
+But on that day Randall, Jeph Jacques and Ryan North altered their DNS records to point to each others websites. So xkcd.com showed the Questionable content website, questionablecontent.net the Dinosaur comics website, and www.qwantz.com led to the xkcd website.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Explanation marked as incorrect. I would do some editing, but I do not have the time or explanation-writing skill to do so effectively.
+Issues:
+1. The explanation's listed April Fools' joke seems to have no proof; it has no mention in the comic.
+2. The title text seems to just be a complaint against Google's methods for statistics (i.e. "I love" is sarcasm). All it says is that Google just wildly guesses, based on unrelated, random events, and calls it statistics. Zweisteine (talk) 04:26, 12 January 2014 (UTC)
+
+I doubt that the title text was complaining or sarcastic at all. If I recall correctly, the ability to plug calculations with units into Google was pretty new in 2009, and especially useful, given as he switched his time units from minutes to years. 108.162.231.234 17:04, 12 January 2014 (UTC)
+
+Except that it specifically states that Google guesses (stats are ballpark) and change based un unrelated occurrences (time of day and your mother's presence). That sounds like either sarcasm, or him actually loving how google doesn't (or didn't at the time) do a very good job with stats. Zweisteine (talk) 23:08, 17 January 2014 (UTC)
+I agree with Zweisteine - it is obvious a sarcastic comment, because the results from Google is so random that it will change during the day - and of course there is the your mom joke. Is there a category for these comics? (Like with the velociraptor comics etc.) Kynde (talk) 11:20, 21 January 2014 (UTC)
+The two sentences of the title text are unrelated. The first is not sarcasm, but is straightforward praise of Google's "dimensional analysis". Searching on "sqrt( 2 / (pi * (18600 / mile^2) * (80 / year) * 30 minutes) )" yields an answer of "139.379395 meters" with Google correctly doing all of the unit conversion for you. Wow, that really is cool! It should be noted when Google gained this capability, if we can find a source for that. The second sentence is a straightforward discussion of the limitations of the model, as the probability of having sex is not uniformly distributed throughout the day. The mom part is a joke because it applies to a specific individual, not simultaneously to the general population around you (unless it is "Moms Visit Campus Day"). There is no April Fool's joke here. Where does the 18,600 persons / square mile population density come from? Is it for a specific metropolitan area? Finally, what Randall is calling "dimensional analysis" is more commonly referred to as unit conversion. For physicists, at least, dimensional analysis refers to a more subtle and powerful tool where equations for phenomena can often be deduced (to within a scaling factor) purely by analyzing the units involved. Wikipedia's articles on "Dimensional analysis", "Units conversion by factor-label", "Drake equation", and "Fermi paradox" should all be linked. -- 108.162.212.217 12:26, 21 January 2014 (UTC)
+Ah! I agree that the ... and (b) whether "your mom" was in town (she is exceptionally slutty) "your mom" joke is a better interpretation than my earlier thought that people have sex less often when their out-of-town mom is visiting them. Good job! - 108.162.212.217 02:28, 22 January 2014 (UTC)
+April's fool seems to refer to the date of the comic being April 1st 2009. -- Eric957 (talk) (please sign your comments with ~~~~)
+Understood, but there is no meta-"joke within a joke" or joke on the reader which would serve as a kind of April Fool's joke. This is just a regular comic which happened to be published on 1 April. -- 108.162.212.217 18:38, 21 January 2014 (UTC)
+I think this represents a "Fermi Estimation" - it may give a number to a problem by taking "best guesses" for something that is not easily calculated exactly. See also http://whatif.xkcd.com/84/ Tier666 (talk) 17:58, 14 July 2014 (UTC)
+I agree; I think it has little if anything to do with the Fermi Paradox. --173.245.52.123 03:21, 26 November 2016 (UTC)
+Also agree! Pretty positive this has to do with “Fermi Problems” (aka “Fermi estimates”).
+Uh, I got 10cm. Interpret that however you'd like. 162.158.49.66 05:52, 31 December 2015 (UTC)
+I take it as you were off by an order of magnitude at least in one of your parameters or you made a mistake in the calculation. The only way you can get that without X_f and X_d being inconsistent is if you put the population density high enough that people are literally overlapping. --173.245.52.123 03:21, 26 November 2016 (UTC)
+Yeah, make sure to convert your years or minutes so they are both in the same units of time. I came up with 4 meters on my first calculation, realized there was a mistake, corrected the units and got 7.1 kilometers. Now, if your units are correct and you got 10cm, then you might want to move to a quieter neighborhood. 108.162.237.154 01:24, 29 December 2016 (UTC)
+This equation is not perfect (besides several environment factors, thus "on average"), because the times when people have sex are not independent: Usually two people have sex at the same time. 162.158.89.61 23:56, 20 November 2018 (UTC)
+Wait, that's what the 2 is for. I should learn the circle equations... 162.158.89.61 00:01, 21 November 2018 (UTC)
+Categories: All comicsComics from 2009Comics from AprilWednesday comicsPages using the "citation needed" templateComics featuring CueballSexMathYour MomStatisticsAliens

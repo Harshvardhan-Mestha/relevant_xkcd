@@ -1,0 +1,33 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+982: Set Theory
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 982)
+|<< PrevComic #982 (November 25, 2011)Next >>|
+Set Theory
+
+Title text: Proof of Zermelo's well-ordering theorem given the Axiom of Choice: 1: Take S to be any set. 2: When I reach step three, if S hasn't managed to find a well-ordering relation for itself, I'll feed it into this wood chipper. 3: Hey, look, S is well-ordered.
+Explanation[edit]
+This comic is a pun on the phrase "Proof by Intimidation" which normally is a jocular term used mainly in mathematics. It refers to a style of presenting a purported mathematical proof by giving an argument loaded with jargon and appeals to obscure results, so that the audience is simply obliged to accept it, lest they have to admit to their ignorance and lack of understanding.
+However, in this comic, "Proof by Intimidation" is taken to mean that by intimidating the elements within a set, they will conform to the proof (or, as the title text says, they will become "well-ordered"). This is accomplished by believing that the elements can be anthropomorphized such that they feel fear. The idea of executing as an example was discussed by Sun Tzu in the ancient book The Art Of War.
+This interpretation of the term "Proof by Intimidation" bears great resemblance to argument from the stick, which is a fallacious form of reasoning of the form
+1. If not P, I will do you harm.
+2. Therefore, P.
+This form of fallacy has the distinction, if properly applied, of never being called out as fallacious. Ponytail, however, is threatening the proposition itself, rather than her audience, bringing a level of absurdity to the situation.
+The axiom of choice (which has been referenced previously in 804: Pumpkin Carving) says that given any collection of bins, each containing at least one object, it is possible to make a selection of exactly one object from each bin. It was later referenced in the title text of 1724: Proofs, another comic about a math class with a similar theme on how teachers teach their student mathematical proofs.
+In the title text, the well-ordering theorem states that every set can be well-ordered. A set X is well-ordered by a strict total order if every non-empty subset of X has a least element under the ordering. This is also known as Zermelo's theorem and is equivalent to the Axiom of Choice. The woodchipper is a reference to the 1996 film Fargo, where a character uses one to dispose of a body.
+Transcript[edit]
+[Ponytail stands at a blackboard, facing away from it. She has a pointer in her hand, and written on the blackboard is some set theory math, although one of the set elements is being pointed into a guillotine.]
+Ponytail: The axiom of choice allows you to select one element from each set in a collection
+Ponytail: and have it executed as an example to the others.
+[Caption below the panel:]
+My math teacher was a big believer in Proof by Intimidation.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+If your math paper isn't working out, rip it up to show it who's boss! Davidy22[talk] 06:57, 2 February 2013 (UTC)
+Actually the "making an example by execution" is indeed in the Art of War, but AFAIK was not performed by Sun Tzu, it was done by one of his predecessors, who was challenged to make an army of the Emperor's concubines.--141.101.89.203 14:48, 7 April 2014 (UTC)
+   :My math teacher was a big believer in Proof by Intimidation. 
+Sums up the English Educational system and popular western culture until the Hippy era broke that particular example of sharia law. (Lest we forget!) I used Google News BEFORE it was clickbait (talk) 08:34, 22 January 2015 (UTC)
+Surprised that the teacher was not Miss Lenhart. Herobrine (talk) 12:08, 24 February 2018 (UTC)
+Categories: All comicsComics from 2011Comics from NovemberFriday comicsComics featuring PonytailMathLogicPuns

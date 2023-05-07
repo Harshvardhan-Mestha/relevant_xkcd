@@ -1,0 +1,33 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+508: Drapes
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 508)
+|<< PrevComic #508 (November 24, 2008)Next >>|
+Drapes
+
+Title text: Wait, what?
+Explanation[edit]
+This comic plays on the classic question "does the carpet match the drapes," where the 'drapes' are the hair on someone's head, and the 'carpet' is their pubic hair. The assumption is that some people artificially dye their head hair, but typically would not dye other body hair, essentially asking "Are you a 'natural' red-head/blonde/etc.?" The classic question doesn't mention upholstery, hence Cueball's confusion. There is some speculation about other body/arm/leg/arm-pit hair interpretations for upholstery.
+This comic could also be a self-referential joke where the furniture is a double entendre to the art of the comic itself. The "carpet" is the white background of the comic, which matches the black "drapes" of Cueball, the woman, and the words. The "upholstery," in this case, is the woman's hair, which is colored and heavily bordered to create a 3D effect, which does not at all match the rest of this comic. The fact that Cueball seems confused (as per the last panel and title text) suggests that the fourth wall may have been broken.
+Alternatively, it could be that the woman is wearing a wig, and the "upholstery" is her natural hair or something similar.
+Or the woman is talking literally about her home's decoration.
+Transcript[edit]
+[Cueball stands facing a woman with orange-ish hair.]
+Cueball: So, does the carpet match the drapes?
+Woman: Yeah. But not the upholstery.
+[Woman walks away.]
+[Cueball scratches his head, confused.]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Or it turns out she is Beret Guys sister and thought Cueball meant the interior design of her apartment.99.102.154.28 21:08, 13 August 2013 (UTC)
+From my own image development work, the 3D effect of the hair in the comic can be achieved one of two ways. A layer consisting of the hair must exist on its own and then be duplicated on a new layer. The coloured layer must be in front of the noncoloured (original) layer:
+Simple method: desaturate (and darken as necessary) the original layer (its Z order causes it to be behind the coloured layer), offsetting it as desired. Then merge.
+Emboss method: desaturate and emboss the old layer (it should be behind the coloured layer as in the Simple method), and set the opacity of the new layer to 50%. Merge both layers together - as the desaturation and 50% opacity results in a 50% desaturation of the merged layer, adjust the saturation to restore the colour. Thokling (talk) 08:56, 25 September 2013 (UTC)
+"[T]he woman's hair [...] is orange[.]" Seems blonde to me. --Troy0 (talk) 04:47, 25 July 2014 (UTC)
+/!\WARNING/!\ The fourth wall may have been broken!!! 173.245.56.180 (talk) (please sign your comments with ~~~~)
+And then, it turns out that the woman in the comic is a werewolf and was talking about her fur during the full moon (no I don't think it is, I'm just being silly). -Pennpenn 108.162.250.162 01:59, 30 June 2015 (UTC)
+I think she's slapping him down by talking about interior decorating instead of hair color. Whether her drapes, carpet and upholstery match doesn't actually matter. Jelsemium (talk) Jelsemium
+I agree with this: I think she's deliberately side-stepping his crass question. L-Space Traveler (talk) 13:19, 2 September 2022 (UTC)
+Categories: All comicsComics from 2008Comics from NovemberMonday comicsComics featuring CueballComics with colorLanguage

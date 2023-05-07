@@ -1,0 +1,107 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+761: DFS
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 761)
+|<< PrevComic #761 (July 2, 2010)Next >>|
+DFS
+
+Title text: A breadth-first search makes a lot of sense for dating in general, actually; it suggests dating a bunch of people casually before getting serious, rather than having a series of five-year relationships one after the other.
+Explanation[edit]
+In this comic Hairy is preparing for his date with Ponytail, and has just finished with a shower, as seen from the fact that he is wearing a towel around his waist.
+He is also preparing mentally by thinking about which situations he might encounter during the date. Since he cannot know for sure he is performing a "blind search" in his head. When doing a blind search in computing, there are two main tactics—depth-first search (DFS), and breadth-first search (BFS).
+Hairy uses the DFS technique, as indicated in the comic title, which means going as far as you possibly can down one path before looking at other possibilities. This turns out to be a bad idea, as Hairy's searches takes him out on a tangent. Instead of preparing for his date, Hairy instead spent the whole time doing research on snake venom, to the exclusion of even getting dressed in time for the arrival of his date. The way the last panel is the only panel and at the far right in the second row vs. four panels in the top row, indicates all the time he has used on DFS. And although he may realize his mistake, throwing up his arms, he has to tell Ponytail the fact he has found out that the inland taipan's has the deadliest venom of any snake (see more below).
+By contrast, a breadth-first search will look only minimally into a topic before moving on to another; any new depth exposed by this minimal check will be added to a list of stuff to do later. This would have allowed Hairy to briefly check many more things within the time allotted, and probably still have been able to get dressed if, in dealing breadth-first in the first layer of concerns, he quickly identified (and prioritized/satisfied) the need to be properly dressed and ready to go out.
+The relationship advice given in the title text on using breadth-first search may not be meant too seriously. However, one might be more sure about what kind of person one is looking for after already having dated a few people. But then the right one, might have slipped by. It is by no means certain that you can return to one of the first persons you dated after having dated another dozen.
+It is, however, not very useful, if you wish to have a stable family life, to "only" be with a person for five years. So DFS is for sure a bad way to find out who you wish to spend you life with. One might conclude that blind search is not a good way to find your significant other. But for most people, there is no other way to search.
+DFS and BFS make another appearance in 2407: Depth and Breadth, together with variations based on them.
+Situations[edit]
+Hairy begins to think of several situations to prepares for.
+First step[edit]
+In the first panel there are four situations:
+Medical emergency
+This is the situation he continues with in the second step.
+Dancing
+He probably doesn't think he is good enough at dancing, or simply doesn’t like it.
+It could also be because he is uncertain what she expects, of if she wishes to dance with him at all.
+Food too expensive
+It probably means that he is expected to pay (at least for himself, but probably also for his date)
+This is a simple problem, if he does his search first. He just has to choose a restaurant he can afford.
+Bee eating contest (?)
+This situation is cut off, so it is hard to be certain what it says.
+The above is the best guess so far.
+It could be a joke on Spelling bee contests and "normal" eating contest.
+Second step[edit]
+In the second panel there are also four situations continuing the first option from the first panel:
+Medical emergency
+Snakebite
+This is the situation he continues with in the third step.
+Lightning strike
+Very unlikely event to happen on any given date.
+Fall from chair
+This could happen, especially if he is clumsy when holding the chair for her...
+Tracheal bowling (?)
+This situation is cut off very much. The above is just a good guess.
+Third step[edit]
+In the third panel there are four types of snakes with questions marks as to whether they are dangerous. This is a continuation of the first option from the second panel:
+Medical emergency
+Snakebite
+Corn snake
+Garter snake
+Copperhead
+Coral snake (?)
+This situation is cut off very much. The above is just a good guess.
+This third step takes him to his computer in the fourth panel where he does lots of research on snake venom.
+Snake venom[edit]
+LD50, or median lethal dose, is the dose of a toxin required to kill 50% of the population studied, usually expressed in milligrams of toxin per kilogram of body mass, and most often for rats or another type of guinea pig.
+The inland taipan's venom does, indeed, have the lowest median lethal dose among snake venoms. Fortunately, it is extremely shy in temperament, and will always escape danger rather than bite if it can, which is why it isn't considered to be a particularly dangerous snake. It also resides only in inland Australia, unlike any of the snakes that Hairy enumerated as potential risks. (If he does happen to live in Australia, he should be more concerned about the much deadlier eastern brown snake and coastal taipan.)
+Incidentally, corn snakes and garter snakes are not even remotely dangerous to humans (in fact they're the most popular pet snakes), and of the four different species commonly known as "copperheads," the only dangerously venomous one is deinagkistrodon acutus or sharp-nosed viper that only lives in Southeast Asia. In the US, the snake going by the name of copperhead is the agkistrodon contortrix.
+The item that is almost entirely cut off by the thought bubble seems to be "coral snake". Coral snakes are in a similar position as the inland taipan: they are extremely venomous, but also extremely reclusive.
+Transcript[edit]
+[In a caption that breaks the top of the first panels frame:]
+Preparing for a date:
+[Hairy with wet hair and a towel around his waist thinks with his hand to his chin. There are four situations, but it is not possible to read the fourth line.]
+Hairy: What situations might I prepare for?
+1) Medical emergency
+2) Dancing
+3) Food too expensive
+[Close-up on Hairy's face, who is still thinking. There are again four situations, but again it is not possible to read the fourth line.]
+Hairy: Okay, what kind of emergencies can happen?
+1)   A) Snakebite
+B) Lightning strike
+C) Fall from chair
+[Zoooming out again to full figure of Hairy. He is still thinking... There are four snakes mentioned, but again it is not possible to read the fourth line. The word Danger stands beneath the three dots above the "?" after each snake.]
+Hairy: Hmm. Which snakes are dangerous? Let's see...
+Danger
+1)A)a) Corn snake ?
+b) Garter snake ?
+c) Copperhead ?
+[Hairy is sitting down in a chair with a laptop in his lap, while still wearing the towel.]
+Hairy: The research comparing snake venoms is scattered and inconsistent. I'll make a spreadsheet to organize it.
+[Bottom panel is larger than top four, and aligned to right. Ponytail meets Hairy on his front stoop. She is carrying a purse, and looks down at the towel he is still wearing. Hairy holds his arms in the air.]
+Ponytail: I'm here to pick you up. You're not dressed?
+Hairy: By LD50, the inland taipan has the deadliest venom of any snake!
+[Below this last panel is the following caption:]
+I really need to stop using depth-first searches.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I'm curious about the half-cut-off options in each panel. The first looks like '[something] eating contest,' the second looks like 'tracheal [something],' and the third looks like 'coral snake.' Alanbbent (talk) 23:49, 22 November 2013 (UTC)
+I think you may be right about the snake, but the others I am not so sure. However, I can't help out with better suggestions... 108.162.219.58 23:53, 23 January 2014 (UTC)
+I think the eating contest one says "bee eating contest".141.101.98.185 07:43, 17 November 2014 (UTC)
+For what it's worth, I was reading "bee dating contest". 141.101.103.210 21:19, 10 September 2015 (UTC)
+I saw "bee dating context" 173.245.54.20 02:23, 7 November 2015 (UTC)
+Inland Taipan, also known as the Fierce Snake. Dude, wikipedia might tell you this one is shy, but its still a taipan - don't be going and getting relaxed around taipans. If its in Australia and its a snake, its a fair bet you don't want touch it. Plm-qaz snr (talk) 12:43, 13 August 2014 (UTC) [Australia]
+Ironically, I've never seen any xkcd character quite as dressed as Hairy in this strip... Mumiemonstret (talk) 14:09, 3 November 2014 (UTC)
+Megan isn't "wearing nothing at all"! She is wearing a purse, which in fashion is also accessory. And that is practical for a date. 162.158.91.219 (talk) (please sign your comments with ~~~~)
+Simple addition: first frame says 'BFF dating control'? 172.68.34.22 (talk) (please sign your comments with ~~~~)
+I don't think so.--Dgbrt (talk) 16:16, 16 June 2017 (UTC)
+Several suggestions for the last entry visible:
+BFF Rating Contest
+Off Dating Content
+Off Dating Context
+Chemikerhero --198.41.242.11 18:30, 30 August 2017 (UTC)
+To me it said "BFF Dating Contest". It kind of sounds like it makes sense - a contest each person dates the BFF(s) of the other person? Lol. Numbermaniac (talk) 04:16, 15 January 2020 (UTC)
+I wonder if the 'lightning strike' possibility was meant as a reference to a couple who made the news a few years ago when they survived a lightning strike by holding hands... 172.69.34.148 20:58, 5 January 2021 (UTC)
+For those with a mind to this problem of dating, the dating strategy advised by (some?) mathematicians is to no-strings date 37% (or 1/eth) of your theoretical total possible partners and then to commit immediately to the next new date who is 'better' than any of these that you already passed over. How you implement this in practice is not defined exactly. ;) 162.158.159.85 21:07, 25 January 2022 (UTC)
+Categories: All comicsComics from 2010Comics from JulyFriday comicsComics featuring HairyComics featuring PonytailRomanceProgrammingAnimals

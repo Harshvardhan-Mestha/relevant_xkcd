@@ -1,0 +1,102 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+541: TED Talk
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 541)
+|<< PrevComic #541 (February 9, 2009)Next >>|
+TED Talk
+
+Title text: The IAU ban came after the 'redefinition of the 'planet' to include the IAU president's mom' incident.
+Explanation[edit]
+The comics shows Randall as a presenter at the highly prestigious TED conference, a symposium about technology, entertainment and design. The illustrious list of former presenters includes amongst others Bill Clinton, Al Gore, Larry Page, Richard Dawkins and Gordon Brown. The conference is regarded as a forum for digerati. Every talk has a length of at most 20 minutes and is supposed to be as captivating as possible.
+Randall's presentation, however, reduces the purpose of the conference to absurdity: The topic he wishes to point out to his listeners, is that of how to put an emoticon at the end of a parenthetical statement. This question is of little practical consequence, although it received a lot of attention after publication of the comic. In the last panel, the TED conference is another item to add to his list of conferences from which he has been banned. On the list are other conferences from all sorts of fields, including every American furry convention.
+The title text about Randall's ban from the IAU conference is a reference to the popular maternal insults called "yo momma" jokes. A common representative of the genre runs "Yo mama so fat, scientists have declared her the 10th planet." Those kind of jokes are a recurring theme on xkcd.
+It can be inferred from 629: Skins, that Randall was banned from North American furry conventions due to being a "Skin", which is a furry whose fursona prefers going around disguised as a human. Depending on Randall's behavior, such an action could generate a lot of drama and, presumably, lead to convention bans.
+Getting banned from attending a conference is a recurring theme on xkcd, and even in real life, Randall sometimes has bad ideas for conference topics, such as presumably not speaking for the entire conference. This was so far the sixth of eight comics to directly mention conference bans. The first to do so was 153: Cryptography.
+The PyCon organizers made a response to this comic - see below under PyCon response.
+Conferences where Randall is banned from[edit]
+Here is a list of the conferences from which Randall has been banned according to this comic.
+Conference Description Website
+Siggraph Special Interest Group on Graphics and Interactive Techniques http://www.siggraph.org
+Eurocrypt Annual International Conference on the Theory and Applications of Cryptographic Techniques http://www.iacr.org/meetings/eurocrypt/
+Defcon DEF CON® Hacking Conference https://www.defcon.org/
+Pycon Python Conference http://www.pycon.org/
+International Astronomical Union The IAU's mission is to promote and safeguard the science of astronomy in all its aspects through international cooperation https://www.iau.org/science/meetings/
+Canadian Paleontology Conference The main goal of the CPC and its predecessors has been to provide a relatively small, informal forum for presentation and discussion of current paleontological research http://www.gacpaleodivision.com/pd-meetings.html
+Every American Furry Convention There are many Furry Conventions in America (see the Wikipedia page for more details), but to be banned from all of them would probably require action by the Furry Convention Leadership Roundtable, the coordinating body for furry conventions.
+American Baking Society
+(American Bakers Association)
+ABA represents the interests of bakers before the U.S. Congress, federal agencies, and international regulatory authorities http://www.americanbakers.org/meetings/
+Asian Dolphin-Training Conference International Marine Animal Trainers' Association https://www.imata.org/
+TED Technology, Entertainment, Design. https://ted.com
+Transcript[edit]
+[Randall, drawn as Cueball, on stage.]
+Randall: Hi. I'm Randall. Welcome to my TED talk.
+Randall: It's an honor to speak to you, some of the brightest innovators from so many fields, about a problem in desperate need of your attention:
+Randall: How DO you end parenthetical statements with emoticons? I can't figure out a good way.
+[Screen next to him shows two statements, both crossed out in red.]
+"Linux (or BSD :) would..." looks mismatched
+"Linux (or BSD :)) would..." looks mismatched and weird
+[Randall writing on a desk.]
+[Randall's List] Conferences I'm banned from:
+Siggraph
+Eurocrypt
+Defcon
+Pycon
+International Astronomical Union
+Canadian Paleontology Conference
+Every American Furry Convention
+American Baking Society
+Asian Dolphin-Training Conference
+TED
+PyCon response[edit]
+In response to this comic, PyCon organizers jokingly announced that Randall Munroe was banned from PyCon 2009 due to "last year's disgraceful keynote, 'Web Spiders vs. Red Spiders'." They also said they instructed their volunteers to refuse admission to him and "any stick figures who may attempt to register, particularly if they are wearing hats."
+Messages on the PyCon-Organizers mailing list show that this joke was intended to get Randall to come to PyCon: (The links will only work if you're subscribed to the mailing list.)
+PyCon mentioned briefly in today's xkcd:
+http://xkcd.com/541/
+We've still never gotten Randall Munroe to actually attend, have we? Anybody want to take charge of twisting his arm this time? I think we can still offer him a "press pass" (free registration). [...] [1]
+An invite would seem most appropriate given the cartoon. :-)
+We could also have an official PyCon blog post confirming his ban... [2]
+How about a public blog post LIFTING the ban and inviting him? [3]
+Confirming the ban is far funnier... He's definitely a disturbing influence on programmers. [4]
+Agreed, especially if we invite him concurrently with confirming the ban. [5]
+(a few posts later)
+I'm happy to participate in actually throwing some thin guy out of the conference, and then get some graphics savvy person to animate a stick figure over that. :) [...][6]
+here's a rough idea of what would show up if you invited him to actually do any speaking...
+http://www.youtube.com/watch?v=zJOS0sV2a24
+it's fairly long. he shows up in the beginning around 3:25. [7]
+For the record, I did try to convince him to come when got the art for the tshirt last year. He didn't seem super psyched, but then again emotions are hard to read via IRC.
+I love the idea of "officially" banning him, however. ;-) [8]
+(a few posts later)
+OK - posted to the PyCon blog, by the power vested in me as publicity chair. With Michael Foord's excellent sentence added.
+Now let him know that since he's banned, he HAS to come. [9]
+Trivia[edit]
+Randall has since this comic given a TED talk in March 2014. Randall Munroe Comics that ask "what if?".
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+It's not the first time Randall gets banned from conventions, see 153: Cryptography. Xylon (talk) 13:10, 9 April 2013 (UTC)
+There are enough of these that it should probably be a category. (Anon) 12 August 2013 24.142.134.100 (talk) (please sign your comments with ~~~~)
+How about "Linux(or BSD (: )"? Actually, that looks just as weird. Oh well. Alcatraz ii (talk) 05:10, 6 November 2013 (UTC)
+What about "Linux (or BSD :D)"? That looks great! 05:54, 1 December 2013 (UTC) 199.27.128.120 (talk) (please sign your comments with ~~~~)
+Or "(Linux (or BSD ( :) )))"...nope! Squirreltape (talk) 18:19, 21 January 2014 (UTC)
+Suggestion: Linux (or BSD (: ) {)|(}Quill{)|(} 14:59, 16 April 2021 (UTC)
+
+"Every talk has a length of 18 minutes and is supposed to be as captivating as possible." this is just wrong(first part of the statement). someone should edit it out. 108.162.219.24 (talk) (please sign your comments with ~~~~)
+Use an asian smiley. So you'd write Linux (or BSD ^_^) instead. 108.162.216.101 04:25, 2 November 2014 (UTC)
+... LINUX (OR BSD 😀 ) WOULD ... 162.158.255.187 19:16, 14 September 2015 (UTC)
+LInux (: or BSD :) would...? 108.162.217.179 22:51, 27 March 2016 (UTC) I got it! Linux [ or bsd :) ]
+... Linux (or BSD ͜ ¨ ) would ... KangaroOS 16:15, 10 September 2016 Linux (or BSD ☺) would ....162.158.75.190 22:59, 7 October 2018 (UTC)
+Smileys in parentheses look wrong, :)) looks mismatched and wrong, and :) ) is just weird. WHAT SHALL WE DO?! --JayRulesXKCD (talk) 12:03, 5 January 2017 (UTC)
+I have found a solution! As it turns out, There are people who make Unicode emojis that you can use in web browsers. Go figure. 😄 --JayRulesXKCD (talk) 12:11, 5 January 2017 (UTC)
+Emojis are not emoticons though 162.158.214.58 19:38, 27 July 2017 (UTC)
+Except they are, and they're better than emoticons --JayRulesXKCD what's up? 10:20, 8 October 2018 (UTC)
+How about using square brackets? Linux [or BSD :)] would... --172.68.245.241 23:20, 20 July 2019 (UTC)
+Alternatively: Linux (or BSD :]) would... --Lupo (talk) 08:59, 18 October 2019 (UTC)
+Yes. Beanie (talk) 13:41, 31 March 2021 (UTC)
+Linux (or BSD (:)? {)|(}Quill{)|(} 20:35, 31 May 2021 (UTC)
+Linux (or BSD :) ) would... Just put a space. -- The Cat Lady (talk) 12:43, 16 August 2021 (UTC) linux [ or bsd : ) ] is awesome[and the best way : ) ]
+Would a U with diaresis (ü) work? -- PoolloverNathan[stalk the blue seas]
+U•T•S•c
+15:49, 26 April 2023 (UTC)
+Categories: All comicsComics from 2009Comics from FebruaryMonday comicsComics featuring Randall MunroeComics with colorFurriesBanned from conferencesPublic speakingYour Mom

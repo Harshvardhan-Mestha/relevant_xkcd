@@ -1,0 +1,43 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+553: Pirate Bay
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 553)
+|<< PrevComic #553 (March 9, 2009)Next >>|
+Pirate Bay
+
+Title text: We find you guilty of closing your torrents as soon as they finish. Your sentence is unremovable Hungarian subtitles on everything.
+Explanation[edit]
+The Pirate Bay is a website dedicated to facilitating BitTorrent downloads of popular media. The site's servers were taken down, briefly, and the operators were taken to court in Sweden, back in 2009.
+Unlike normal downloads, files downloaded via Bittorrent are not stored on any web server, but instead transferred in small pieces by other people torrenting the same file; these other people are called "peers." Bittorrent allows websites to provide downloads without using up disk space or bandwidth serving up the entire file; instead, they can host smaller torrent files, which simply describe what the finished file should look like and a few "tracker" servers where lists of other peers can be found, and the peers themselves handle all of the bandwidth issues. This approach is used by a number of websites for completely legal downloads (it's popular among smaller game companies providing digital downloads, for instance), but it's mainly associated with piracy.
+However, Bittorrent depends on peers actually having the file blocks that you need. People who have already downloaded the entire file, but continue to connect to the network solely to provide that file to others, are called "seeds," and they are an essential part of a healthy torrent. General etiquette demands that people should continue to seed a file until the ratio of data uploaded to data downloaded exceeds 1, although many people feel that one's ratio should be much higher. In any case, closing your torrents as soon as they finish, as mentioned in the title-text, is extremely bad etiquette, so it is punished with nuisance subtitles. This punishment was likely chosen because finding correct and well timed subtitles, in whatever language, for a pirated show tends to be quite hard sometimes.
+This comic is essentially a pun on this second meaning of the word "peer" - in the US court system, a "jury of your peers" means a jury composed of everyday people like you, while the Pirate Bay operators interpret it to mean a jury composed of people who they've shared files with in the past. The Cueball that does the talking, and thus is the protagonist of the comic, feels that his approach would give him lenience in the trial, since he has always seeded well, thus ensured those peers had a good downloading experience.
+The title text shows what punishment this kind of peer group would make if they find you guilty - unremovable subtitles in Hungarian. Many pirated videos originate from countries where no dubbed version is available in the regional language, so the only way to understand what's being said is by applying subtitles. These videos are then uploaded with subtitles still included, causing consternation among downloaders who can understand the spoken words but not the subtitles. Annoying Hungarian subtitles are just an example for a language most people don't understand. Finnish, Czech, or Polish wouldn't be better.
+Transcript[edit]
+[Caption above the frame:]
+Awaiting the judges' ruling at the Pirate Bay trial.
+[4 Cueball-like guys in a cell: 3 sitting down on a bench and one is standing, presumably looking at the fence.]
+Cueball: I wish this were in America.
+Cueball-like guy: Why?
+Cueball: I hear we'd go before a jury of our peers, and I've always seeded generously.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+"Just some stats..."... here are some reasons why TPB is down sometimes - and how long it usually takes to fix: "Tiamo gets *very* drunk and then something crashes: 4 days "Anakata gets a really bad cold and noone is around: 7 days "The US and Swedish gov. forces the police to steal our servers: 3 days".. yawn." 
+The piratebay IS...
+I would consider unremovable Hungarian subtitles to be an Unishment; even if I can not ignore the subtitles, I would end up learning Hungarian! I like learning languages! Greyson (talk) 17:20, 1 July 2014 (UTC)
+The transcript says that Cueball is the one standing, staring at the fence. However, it also lists Cueball as talking. Error or do I just have bad eyesight? 199.27.133.128 (talk) (please sign your comments with ~~~~)
+It says that one of the Cueballs is standing, it doesn't specify which one is talking. Also logically it's not a fence, it's cell bars. -Pennpenn 108.162.250.162 01:22, 19 August 2015 (UTC)
+Someone translate every sentence in the Explain to Hungarian and put it after every English sentence. It must be checked frequently to make sure nobody removes the Hungarian.International Space Station (talk) 21:11, 12 January 2016 (UTC)
+See, this would probably get you banned, but I think it would be hilarious. Should I just use Google Translate, or do we have a Hungarian we can use? Hppavilion1 (talk) 15:45, 29 March 2017 (UTC)
+There you go 172.68.226.100 18:41, 20 June 2017 (UTC) Bálint
+I've removed that translation because this wiki tries to explain in English the content of the comics. And Hungarian is just an example, an example for a language the vast majority doesn't understand. Finnish, Czech, or Polish would be the same. So I've added this meaning to the end of the explanation. --Dgbrt (talk) 12:32, 21 June 2017 (UTC)
+
+Could it be that "seeded generously" is supposed to be a pun about sexual promiscuity? 108.162.237.250 13:24, 24 May 2016 (UTC)
+That was my first impression. 162.158.75.39 (talk) (please sign your comments with ~~~~)
+It was most definitely not. Hppavilion1 (talk) 15:45, 29 March 2017 (UTC)
+If you put a colon between "unremovable" and "Hungarian" in the title text, then it sounds like the sentence is unremovable and it is Hungarian subtitles. It is possible that Randall left a colon out (however, unlikely) 625571b7-aa66-4f98-ac5c-92464cfb4ed8 (talk) 15:20, 7 March 2017 (UTC)
+Thanks for bringing this up. I've set the incomplete tag. The real pun focuses on other portals (back in 2009 when the comic was released) and their bad quality. And that's not only about subtitles nobody understands.--Dgbrt (talk) 20:18, 7 March 2017 (UTC)
+The Cueball that does the talking, and thus is the prodigy of the comic
+i don't think prodigy means what you think it means. do you mean "protagonist"? --162.158.158.87 12:52, 27 January 2020 (UTC)
+Categories: All comicsComics from 2009Comics from MarchMonday comicsComics featuring CueballMultiple CueballsInternetPuns

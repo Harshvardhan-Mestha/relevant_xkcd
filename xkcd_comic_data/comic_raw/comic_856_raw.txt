@@ -1,0 +1,70 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+856: Trochee Fixation
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 856)
+|<< PrevComic #856 (February 4, 2011)Next >>|
+Trochee Fixation
+
+Title text: If you Huffman-coded all the 'random' things everyone on the internet has said over the years, you'd wind up with, like, 30 or 40 bytes *tops*.
+Explanation[edit]
+A trochee is a type of poetic foot. A foot is a measure in poetry; it consists of stressed beats and unstressed beats. A trochee is a foot that consists of one stressed beat followed by an unstressed beat. "Trochee" itself is an example of this as you stress the first syllable and don't stress the second syllable ("TROH-kee".)
+Trochee fixation is supposedly caused by people experiencing rushes of dopamine when they hear or speak trochees during their youth. Due to the rush of dopamine, they become more fixated on trochees. In the endless quest for dopamine, they continue to search for trochees (typically on the internet) while also producing more places to encounter trochees meaning more fixation for others with the disorder. Megan proposes a "radical trocheeotomy" which appears to be a type of psychosurgery due to the erasing of memory. Cueball misinterprets Megan's intent as a "tracheotomy", which he mistakenly believes to be a removal of the girl's vocal cords, of which he is in favor.
+Megan proceeds with the trocheeotomy, but luckily it does not have the intended effect. Though the previous trochees have been forcefully and unkindly removed, the girl immediately generates new ones: "BAN-jo," "TUR-tle," "JET-pack," "FER-ret," and so on. The correct way of removing the fixation would be to alter mesolimbic pathway. Megan, not realizing this, succumbs to attempting to removing the girl's trochee fixation via cranially-applied brick. Depending on how hard the girl is hit with the brick she may have memory loss and potentially forget all the trochees she knows, but if this method is carried out she will have significant brain damage and will likely start fixating on trochees that she hears.
+There are references to Teenage Mutant Ninja Turtles and Mighty Morphin' Power Rangers, both of which are examples of actual, trochaic TV show titles. Additionally, there is a reference to sci/fi author Neal Stephenson who has written Snow Crash, Anathem and many other books.
+"Jetpack ferret" could be a reference to 20: Ferret, although the ferret in question only had wings.
+Huffman coding is a lossless data compression algorithm that works by organizing characters into a tree structure (called a Huffman tree) with the most used characters in a string closer to the top. The characters in the string are then replaced by the sequence of bits representing their place in the tree, allowing for characters that are used very often to be represented with only a handful of bits compared to the 16 or 32 bits usually needed (depending on the character set used). In highly repetitive data this can cut down the file size immensely, which is what Randall is implying by saying you would only end up with 30–40 bytes. Most of the "random" stuff said on the Internet has been said before, and isn’t particularly random either, following predictable patterns.
+Trochee and other types of poetry "feet" is the subject of 1383: Magic Words, and the trochaic form is explored further in 1412: Teenage Mutant Ninja Turtles.
+On the blag, Randall published statistics about the occurrence number of certain combinations (now obviously inaccurate).
+Transcript[edit]
+Girl: Robot ninja! Pirate doctor laser monkey! Narwhal zombie badger hobo bacon kitty captain penguin raptor Jesus!
+Megan: We'd been seeing this brain damage for years, but only recently did our linguists identify the pattern behind it.
+Megan: The patients fixate on animals and types of people whose names are trochees (two syllables, with the accent on the first).
+The malfunction causes a rush of dopamine whenever these trochees are heard or spoken.
+[Chart shows "internet" and "brain," with arrows marked "trochees" traveling both ways between them. An arrow marked "dopamine" loops from the brain back to the brain.]
+The warning signs appear in childhood:
+[Child sits in front of TV.]
+Child: Yeah! Mighty teenage morphin' ninja power mutant turtle rangers!
+Social reinforcement focuses the fixation on a few dozen words.
+Cueball (off-panel): Is there a cure?
+[Girl is reclining under a big machine pointed at her face.]
+Megan: We're about to try a radical trocheeotomy.
+Cueball: Rip out her vocal chords? I'm in favor.
+Megan: No, we're modifying her vocabulary* to erase the words she's fixated on.
+*Digitoneurolinguistic hacking! It's totally real! Ask Neal Stephenson.
+Megan: Either the gap will be filled by normal words, or she'll just generate a new set of trochees.
+Megan: Here goes.
+[She pulls the lever on a large panel.]
+kachunk bzzzZZZZZZ
+[Girl is waking up.]
+Girl: ...GzZhRmPh ...
+Girl ...banjo turtle!
+Girl: Jetpack ferret pizza lawyer! Dentist hamster wombat plumber turkey jester hindu cowboy hooker bobcat scrapple!
+Megan (off-panel): Sigh.
+Megan: Time for plan B.
+Cueball: Someone get a brick.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Bad advice mallard would like a word with you. Davidy²²[talk] 07:08, 17 April 2013 (UTC)
+"Cowboy" but no "Bebop"? (Also a real cartoon show, albeit an adult anime -- NOT FOR KIDS.) I'm disappointed. --BigMal27 // 173.245.55.88 11:55, 18 June 2014 (UTC)
+Why... why does the little girl say "hooker" at the end of the comic? 13:16, 18 June 2014 (UTC)
+Why not? Perhaps she's seen some television cop shows which use the term. Or perhaps she likes rugby (it's the name of one of the playing positions). Grutness (talk) 01:56, 26 July 2015 (UTC)
+In particular I think the Neil Stephenson reference is to Snowcrash, where hackers are able to transmit a linguistic virus that disrupts speech patterns into what appears to be intense aphasia or glossolalia. According to the science* of the book, a similair technique could be used to manipulate the brain in a variety of ways, including a 'trocheeotomy.' 199.27.133.57 (talk) (please sign your comments with ~~~~)
+And Snow Crash is a trochee. Nitpicking (talk) 17:57, 7 September 2021 (UTC)
+The current explanation mentions a reversal of the stress pattern at the end, but that doesn't happen. As discussed in the comic, the girl has simply come up with a new list of trochees. 108.162.246.203 22:54, 18 June 2014 (UTC)
+Trochee is autological. 8.8.8.8 11:22, 30 May 2015 (UTC)
+
+I feel like the two words "raptor Jesus" could be a reference to the meme. 02:05, 4 November 2015 (UTC)
+"cranially-applied brick" 108.162.249.112 02:39, 10 November 2017 (UTC)
+But what if you're fixated on three-syllable words? --162.158.2.222 23:01, 28 November 2015 (UTC)
+So trochees make her happy. So what? Why do we care SO MUCH that she stop saying those words and stop being happy? She likes it, why can't we deal with it? Would you want someone to surgically remove whatever makes you happy from YOUR brain? Leave her alone! 08.162.219.56 (talk) (please sign your comments with ~~~~)
+True: "hooker" but no "bismuth"? 172.68.215.77 14:51, 12 January 2018 (UTC)
+We owe a major classic of American literature to the scourge of TF. It started in 19th-century Finland when Elias Lönnrot compiled the Kalevala, whose trochaic meter is a very good fit for Finnish prosody, because of the consistent stress on the first syllable in every Finnish word, e.g. "Sukuvirttä suoltamahan, lajivirttä laulamahan." Next Henry Wadsworth Longfellow read that and caught the trochee bug. Longfellow couldn't stop scratching that itch until he'd written the epic Song of Hiawatha in the same trochaic meter from the Kalevala. I guess TF really is a thing, if Longfellow is any indication. Johanna-Hypatia (talk) 02:14, 30 July 2016 (UTC)
+No Viking either... this little girl is in serious need of cultural recalibration. 172.69.22.224 22:09, 11 January 2019 (UTC)
+I actually thought Randall had autism himself for a while, but replace trochee fixation with stimming and "digitoneurolinguistic hacking" with physical restraint and the implications aren't too nice (the line "we'd been seeing this brain damage for years" doesn't help). --Youforgotthisthing (talk) 21:42, 8 November 2020 (UTC)
+Someone pointed out recently that the trochee-fixated girl looks a lot like Gretchen McCulloch from 2421 and 2381. Could it be her? --162.158.183.203 22:18, 6 February 2021 (UTC)
+I read 'someone get me a rock' as a suggestion that they perform tracheoectonomy. {)|(}Quill{)|(} 19:58, 31 July 2021 (UTC)
+The letters "ABCDEFKLOPTVWXYZ" in the NATO phonetic Alphabet are all trochees. This obviously includes the letters from "XKCD". Can these letters form a meaningful sentence? --ColorfulGalaxy (talk) 02:27, 15 December 2022 (UTC)
+"Fox-'t-rot"? (2.5 syllables, arguably; may depend much on subtleties of dialect.) Yet you miss "Hotel" which can be "HO-tel" or "ho-TEL". Whether or not you even fully enunciate the "'aich". 172.70.86.105 13:50, 15 December 2022 (UTC)
+Categories: All comicsComics from 2011Comics from FebruaryFriday comicsComics featuring CueballComics featuring MeganLanguageKidsMultiple Cueballs

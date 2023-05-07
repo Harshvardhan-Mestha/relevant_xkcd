@@ -1,0 +1,39 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+583: CNR
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 583)
+|<< PrevComic #583 (May 13, 2009)Next >>|
+CNR
+
+Title text: Can't and shouldn't.
+Explanation[edit]
+"Could not reproduce" (CNR as per the title) is used here as a double entendre. Because the reported bug is that speech recognition failed on a young child's voice, the programmers attempt to reproduce (biologically) in order to have a child to use as a test subject to understand and fix the bug, starting by reproducing it (the bug). However the attempt fails, as shown by the negative pregnancy test, and therefore the bug report is closed with the reason being "could not reproduce": they could not reproduce the bug because they could not reproduce biologically.
+Nowadays, developers of software usually have a centralized repository of bugs which generally uses one of a handful of standard interfaces for tracking problems and desired features in software. There is usually a quick way of removing pending items from this system by changing the status to closed and selecting a reason from perhaps a dropdown list. "Could not reproduce" is a standard reason provided in almost all of these systems, so the novel pun provides extra humor to software developers. This reason also shows up in comic 937: TornadoGuard.
+The secondary joke is that Megan has chosen a ridiculous method of obtaining a child for the relatively simple task of testing the software. The obvious solution is to find a pre-existing child to use; [citation needed] giving birth to (and, presumably, raising) a child would burden the programmers with serious expenses, health concerns, and responsibilities; and it would take years before the child would be able to speak clearly enough to use the program.
+The title-text "Can't and shouldn't" qualifies the bug report, meaning that the programmers not only could not reproduce, they also should not reproduce, as their reasons for doing so shows they have exceedingly bad judgment. (They also have poor child-rearing skills, as demonstrated in comic 674: Natural Parenting.)
+Transcript[edit]
+[Megan is sitting at a computer.]
+Computer: Speech2Text Commander
+Computer: Bug #167801
+Computer: Speech recognition fails on young child voices.
+Megan: Hmm.
+[The view enlarges to show a man sitting at another desk.]
+Megan: Hey, can you do me without a condom? We need a young child for something.
+Cueball: Okay.
+[A pregnancy test is displayed. The label indicates not pregnant.]
+Pregnant
+Not pregnant
+[Megan is typing on the computer.]
+Megan typing: Bug #167801
+Megan typing: Status: Closed
+Megan typing: Reason: Could not reproduce.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+It's kind of silly that they'd need to make a new kid. There are plenty of them for free in any given shopping mall on any day!
+(No, I do not condone abducting children, even for science.)Pennpenn (talk) 03:57, 14 February 2014 (UTC)
+@Pennpenn: For $847.63 you can buy a child in the supermarket. Or could, in 1989. The Simpsons already did it! 173.245.53.147 (talk) (please sign your comments with ~~~~)
+
+The title text may also be a reference to the Ig Nobel Prize, which is awarded to research that "cannot or should not be reproduced." Enter your username (talk) 13:19, 6 November 2020 (UTC)
+Categories: All comicsComics from 2009Comics from MayWednesday comicsPages using the "citation needed" templateComics featuring MeganComics featuring CueballSexProgrammingPuns

@@ -1,0 +1,38 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1367: Installing
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1367)
+|<< PrevComic #1367 (May 12, 2014)Next >>|
+Installing
+
+Title text: But still, my scheme for creating and saving user config files and data locally to preserve them across reinstalls might be useful for--wait, that's cookies.
+Explanation[edit]
+This comic refers to the kind of "inventions" which seem new from the point of view of a smartphone user, but have already been around for a long time on desktop or laptop/notebook computers.
+Cueball has a clever idea to skip the installing of applications on mobile phones: he would host the applications online instead, and provide links to the servers. The apps wouldn't stay on the phone all the time; instead the phone would download each app again every time the user wanted to run it.
+However, web pages and web applications already work like this. Clicking a link will make the browser download a web page and render HTML code and JavaScript that it links to.
+The page usually isn't saved long-term on the user's computer; instead the browser downloads it again when needed. HTML5 does however offer the option of caching web application files locally so it can remain operational when there is no network connection.
+In the title text, Cueball's idea for local application storage already exists in the HTTP protocol as cookies. The more flexible web storage was originally part of the HTML5 specification, but it's now in a separate specification.
+Native phone applications and web applications are not completely interchangeable. Web applications may not allow access to more advanced or platform-specific resources. Projects like Apache Cordova make these resources available to web applications by creating a native application wrapper for the web application.
+Transcript[edit]
+[Cueball and Megan are standing next to each other.]
+Cueball: Installing things has gotten so fast and painless.
+Cueball: Why not skip it entirely, and make a phone that has every app "installed" already and just downloads and runs them on the fly?
+[Caption below the panel:]
+I felt pretty clever until I realized I'd invented webpages.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+explainxkcd has it pretty easy with this one since the comic explains a lot of itself. Maybe explain what a smartphone is and how apps work? 108.162.237.218 05:28, 12 May 2014 (UTC)
+For some reason, this reminded me of the old Snaptu app. (https://en.wikipedia.org/wiki/Snaptu) 108.162.225.147 07:02, 12 May 2014 (UTC)
+Maybe it should be mentioned that sometimes you DON'T want to auto-install every application and give it access to all your phone resources. Because, you know, malware. -- Hkmaly (talk) 09:47, 12 May 2014 (UTC)
+I wonder why he chose cookies over localStorage... seems like localStorage does a better job of storing configs. greptalk12:06, 12 May 2014 (UTC)
+document.cookies was invented before localStorage. --108.162.246.4 22:19, 12 May 2014 (UTC)
+Firefox OS can technically do this, and technically does this. greptalk12:07, 12 May 2014 (UTC)
+Web pages and native apps still has a few essential differences that prevent us to interchange them practically, at least for now. The latter can be compiled and optimized into binaries that executes performantly on the specific device/platform. Current web standards don't make pages/sites/apps this way, the web browser needs to load the text codes then interpret and run them on the fly, which is much slower. 199.27.128.79 08:33, 16 May 2014 (UTC)
+Native apps on PCs? Sure. But on phones? Apps on phones rarely contains any native code and in fact often ARE written in web-compatible languages. I mean in java or javascript. Also, in many situations, combination of extremely optimized Java virtual machine and poorly optimized native code results in interpreted code running FASTER that compiled one. Not speaking about fact that not many applications NEEDS to run so fast - they spend most time waiting for disk, net, user input or screen refresh anyway. -- Hkmaly (talk) 10:22, 16 May 2014 (UTC)
+On windows/Mac most programs are distributed as binaries - already compiled to support a wide variety of platforms, very rarely do they contain control-paths for specific hardware implementations. Java on the other hand: It gets compiled at runtime and can get hardware specific optimisations (and if the JRE detects critical sections it will dedicate more time and resources on optimizing that part making it even faster). Javascript also can get compiled, depending on the webpage this can also be done on the server-side as to make it harder to manipulate the js. 10:20, 31 July 2019 (UTC)
+The phrase "[...] a phone that has every app "installed" [...]" from Cueball's dialogue seems to conflict with the explanation. I understood it as the phone would have all the apps installed, but with only the "header" data. In the Android context, I suppose that would be the AndroidManifest.xml. In the Windows context, I suppose that would be the registry entries. 188.114.99.189 00:30, 11 November 2015 (UTC)
+progressive web apps[edit]
+seem similar to this
+Categories: All comicsComics from 2014Comics from MayMonday comicsComics featuring CueballComics featuring MeganComputersSmartphones

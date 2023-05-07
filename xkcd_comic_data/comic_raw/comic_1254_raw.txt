@@ -1,0 +1,58 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1254: Preferred Chat System
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1254)
+|<< PrevComic #1254 (August 21, 2013)Next >>|
+Preferred Chat System
+
+Title text: If you call my regular number, it just goes to my pager.
+Explanation[edit]
+As more options become available for communication, it becomes more difficult to determine the social etiquette of communicating with others. It is customary (or at least rarely incorrect) to return a communication from someone using the same medium as the initial contact. For example, a voicemail is generally returned with a phone call (perhaps resulting in another voicemail), and an email with an email, etc. However, sometimes people respond through a different channel, such as texting a response to a voicemail or emailing a reply to a text. This can create confusion that Randall is pointing out, because the recipient may be unsure whether to go back to their original communication method, or if the response was a signal that the recipient prefers the new method. Similarly, it becomes important for people to know what type of communication is preferred by a recipient, or most likely to reach the recipient quickly and generate the most useful response.
+Randall portrays the difficulty Cueball is facing when communicating with a seemingly irrational recipient. Today's multitude of social networks and communication systems amplifies the problem. After several misses, Cueball is leaving a voicemail for his intended recipient to clarify the best way to reach them. He initially tried texting the recipient, to which they made one reply on the instant-messaging service Google Talk (commonly called GChat). This is unusual because instant messaging services are usually used to engage in longer conversations than one message. Cueball further is confused because the recipient, although silent on Google Talk, continues responding on IRC. Cueball then attempted to communicate by email, but the response came on Skype, another instant messaging service that features voice and video chat along with text. The recipient mentions that the email "woke [them] up", implying that they have e-mail configured to make an audible alert, possibly by being forwarded to a cell phone.
+Cueball clarifies that he appreciates that the recipient is very quick to respond, but his confusion stems from his inability to determine the proper medium to use. As he finishes his voicemail, an owl flies towards him carrying a written message. This appears to be a reference to owl post, which is a form of communication in the Harry Potter lore which itself is presumably based on the real-world usage of carrier pigeons. The owl post message indicates that the voicemail was received, and suggests using Google Voice next time, which is yet another form of voice and text communication, one that bypasses the standard telecom companies and gives the user a range of controls such as which device is called depending on who is calling or what time of day it is, or to simply ignore the call altogether.
+Randall seems to have an interest in bird-related communications; RFC 1149 - IP over Avian Carriers has been mentioned in previous comics.
+The title text mentions a pager, a low-tech, low-cost wireless telecommunications device that beeps or vibrates when it receives a message. Simpler pagers can display numbers, usually the caller's phone number plus a couple of additional digits, while more sophisticated ones can receives text messages. The usual intent of a pager is for the recipient to call the number back or, today, to tell you that your table is ready. Pager use peaked in the 1980s and 1990s, but declined thereafter as cellular phones became ubiquitous. There can be absolutely no need for this hyper-connected individual to use a pager, and having your own cellphone forward messages to your pager makes almost no sense. The question in the beginning of the owl-message further suggests, that the reciever did not actually recieve the voicemail, but just had Cueball's phone number displayed on his pager.
+A possible suggestion is that they are intentionally using such an abundance of communications options to, perversely, make it harder to have a conversation with them. So far, it seems to be working. If this is true, the person Cueball is trying to contact may very well be Black Hat.
+Another suggestion is that Cueball is attempting to contact Beret Guy, as Beret Guy is known for doing odd things such as this.
+This comic is closely related to a later comic, 1789: Phone Numbers.
+Transcript[edit]
+[Cueball stands, talking on his cell phone.]
+Cueball: Sorry for the voicemail, but I'm confused about how to reach you.
+Cueball: When I text you, you reply once on GChat, then go quiet, yet answer IRC right away. I emailed you, and you replied on Skype and mentioned that the email "woke you up".
+Cueball: You're very responsive - I just have no sense of how you use technology.
+[An owl flies into the panel.]
+Cueball: ?!?
+[The owl perches on Cueballs's head. It has delivered a note to Cueball.]
+Note: did you try to call me? use my google voice number next time.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+It seems like an owl to me, a Harry Potter reference maybe. 186.56.198.178 (talk) (please sign your comments with ~~~~)
+Please sign your posts with ~~~~. But you are right, it's an owl.--Dgbrt (talk) 11:12, 21 August 2013 (UTC)
+I'd like to suggest this could also be a reference to IP over Avian Carriers: http://tools.ietf.org/html/rfc1149 --Erkurita (talk) 08:24, 23 August 2013 (UTC)
+I don't know, the person might just be Black Hat. This seems like something he would do. [[Special:Contributions/{{{1}}}|{{{1}}}]] ([[User talk:{{{1}}}|talk]]) (please sign your comments with ~~~~)
+Clearly that owl is a reference to the owl who carries written messages in the Harry Potter series.
+Google voice bills itself as a number that is "tied to you [the user]" instead of a device [like a phone]. Cueball is operating under the assumption that like begets like; that is, if I phone you, you are on a phone. Google voice negates this because it allows the user to control how messages reach the receipient. The comic takes this a step further and applies it to any method of communication Zim (talk) 12:32, 21 August 2013 (UTC)zim
+24.91.233.200 12:01, 21 August 2013 (UTC)
+Can I coin the term "e-synaesthesia"? 178.104.103.140 13:50, 21 August 2013 (UTC)
+If that were a Facebook post, I would *like* it. 138.162.8.57 14:11, 22 August 2013 (UTC)
+Should we have a chat or instant messaging category? --Purah126 (talk) 22:52, 4 March 2023 (UTC)
+Pricing
+Cueball's friend might just be avoiding expensive mediums. Because of how cellular carriers price their services in some countries, some plans charge far more for voice or SMS than for low-bandwidth data such as IRC or VoIP. Wired ISPs in many countries even offered unmetered data or close to it (Comcast's quarter TB per month). --Tepples (talk) 14:43, 21 August 2013 (UTC)
+
+It is quite common that my mobile phone is off and reloading in another room, while I am actively engaged on my PC and receiving email immediately. So I kind of relate to the comic. With today's notification possibilities (SMS, Email, ...) and interconnected services (e.g. receive Facebook chat messages with a personalized facebook email address and be notified to another email of yours), this gets kind of confusing what is the individual's preferred way of communication. Sebastian --178.26.45.117 17:19, 21 August 2013 (UTC)
+
+When he said the email woke him up it reminded me emails from an a**hole maybe he is a reader. Prussell84 (talk) 20:04, 21 August 2013 (UTC)
+Frame 4, amazing future tech: They know where cue ball is, then remote control the owl's brain to deliver the message. Indistinguishable from magic indeed. MarcoLinux (talk) 21:17, 21 August 2013 (UTC)MarcoLinux
+Nah, they simply trained the owl to go to this place. It's not like their time was limited, they already send the owl in a way it appeared just after the voicemail was sent, which suggest they send it BEFORE the voicemail started as owls are not really able to move at speed comparable to wireless signal. -- Hkmaly (talk) 07:51, 22 August 2013 (UTC)
+Audible email
+On the contrary, standard unix behaviour is to make a noise when email arrives. Only it's a single short beep of ctrl+G and computer must be running for it to be played, so it's not really probable it would wake up someone ... at least not if they are sleeping at bed. It may wake up someone dozing off while sitting at the computer. -- Hkmaly (talk) 07:55, 22 August 2013 (UTC)
+The iPhone (and I imagine any smartphone) sounds an audible tone when an email comes in, and many of us sleep with the phone very near the bed. Gardnertoo (talk) 16:02, 22 August 2013 (UTC)
+Yeah, most Android phones do that, too, by default, so unless you change the settings or put your phone silent in the night, getting woken up by email is actually not that unusual. (Luckily we have good spam filters today, otherwise sleeping near a smartphone would be a real problem.) -- 79.235.250.118 09:23, 24 August 2013 (UTC)
+Communication
+The single biggest problem in communication is the illusion that it has taken place. George Bernard Shaw 200.70.22.74 12:47, 23 August 2013 (UTC)
+
+I removed the incomplete tag, as the explanation was more thorough than many complete ones. The only thing it needs is a link to the (3-5?) other comics that mentioned RFC. --Quicksilver (talk) 21:38, 25 August 2013 (UTC)
+Yes, it's 9+ years later, but ... did nobody wince? Cueball has an owl gripping his scalp with its powerful talons! Nitpicking (talk) 13:23, 21 November 2022 (UTC)
+Categories: All comicsComics from 2013Comics from AugustWednesday comicsComics featuring CueballHarry PotterAnimalsPhones

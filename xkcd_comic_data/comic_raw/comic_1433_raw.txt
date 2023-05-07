@@ -1,0 +1,53 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1433: Lightsaber
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1433)
+|<< PrevComic #1433 (October 13, 2014)Next >>|
+Lightsaber
+
+Title text: A long time in the future, in a galaxy far, far, away, astronomers in the year 2008 sight an unusual gamma-ray burst originating from somewhere far across the universe.
+Explanation[edit]
+This comic references a scene from the third theatrically-released Star Wars movie, Return of the Jedi, wherein Darth Vader confronts his son, Luke Skywalker, who had recently surrendered to Imperial soldiers. In the movie, Vader notes that Luke has constructed a new lightsaber following the loss of his original during their duel on Cloud City (Luke Skywalker's original lightsaber actually having been Anakin Skywalker's second).
+Lightsabers are often jokingly referred to as "laser swords" by fans (note that the official French-language translation of Star Wars actually calls them "laser sabers"), and this comic points out that a real laser would not have any way of stopping and would therefore continue forever, making this particular interpretation silly. (The Star Wars writers cleverly fail to state what exactly a lightsaber's blade is made out of, although this point makes it unlikely to be a laser.) Once Darth Vader turns on the light saber, it goes offscreen and presumably continues in that direction forever, causing much mayhem as it blazes through the stars. Hull breaches are a popular trope in science-fiction, despite curiously being almost entirely absent from the Star Wars films.
+The title text refers to GRB 080319B, an unusual gamma ray burst in 2008, the afterglow of which was briefly visible to the human eye. It implies that the source of this burst was a light saber in the Star Wars story, which took place "a long time ago in a galaxy far, far away" according to the Star Wars opening crawl.
+Luke Skywalker and Darth Vader have had a similar conversation before in 1397: Luke. In that version Luke wishes for Vader not to turn it on, as stated in the title text. He should probably have said this here in this comic!
+Trivia[edit]
+In the comic, Vader's subordinates exclaim they are suffering a hull breach, implying they are on a spaceship (a Star Destroyer) or space station (the second Death Star). In the original movie, the conversation actually took place on the surface of Endor.
+Transcript[edit]
+[Luke Skywalker and Darth Vader are talking. Vader holds the handle of a powered-off lightsaber.]
+Vader: I see you have constructed a new lightsaber.
+[Vader turns it on. The beam of the lightsaber continues upward out of the frame.]
+Lightsaber: Snap-Hisss
+[Vader looks up toward where the beam is pointing.]
+[Vader looks back at Luke.]
+Vader: Where does it end?
+Luke: Doesn't.
+Intercom (out of view): Hull breach all along sector five!!
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I seem to remember seeing somewhere that lightsabers are actually not lasers but rather plasma held in that shape by some sort of force field. I think it should be in the explanation if it is true. Athang (talk) 06:11, 13 October 2014 (UTC)
+I'd just like to know what "real laser"s have to do with lightsabers. (Other than little kids using the wrong name.) 103.22.201.120 11:55, 13 October 2014 (UTC)
+Most of "scientific" explanations of lightsaber (and blaster bolts) says about plasma contained in magnetic field. For example check this SE http://scifi.stackexchange.com/questions/6478. Endless "laser sword" pun was also used in http://www.collegehumor.com/video/6704463/troopers-laser-sword, without Luke but with massive hull breach. 108.162.231.214 06:38, 13 October 2014 (UTC)PTwr
+One joking "explanation" of the light sabre conjured long ago on a newsgroup I was on had used the Fourier analysis. It proposed that the "handle" emits multiple beams of light with very well defined frequencies and amplitudes, corresponding to a Fourier series for a pulse wave with a low duty cycle - so the waveforms emitted cancel themselves after a short distance. The joke went on, saying that since the sum of the Fourier series is periodic, someone practicing the sabre on the Earth can accidentally chop off the head of someone walking on the Moon. 108.162.254.29 07:26, 13 October 2014 (UTC)
+I don't think this has anything to do with the Hull Breach card game. The sentence "Hull breach all along sector five" does however sound like something from Star Trek and not like Star Wars.Condor70 (talk) 12:07, 13 October 2014 (UTC)
+There is a XKCD What If discussion on infinite lasers at http://what-if.xkcd.com/109/ 141.101.99.113 12:17, 13 October 2014 (UTC)
+"Because Vader slightly tilts the active lightsaber, the beam ends up slicing straight through the hull of a large section of the Death Star. " Wouldn't it would cause a breach the moment he turned it on, not waiting until he tilts it? Lomky (talk) 15:07, 13 October 2014 (UTC)
+Yes, but the breach would be highly localized (the same diameter as the blade) until he tilts it. If he does so in the center of the sphere, leverage means that a slight angle change in the emitter means a huge change at the other end of the beam.Seebert (talk) 15:34, 13 October 2014 (UTC)
+Darth Vader may be more machine than man, but don't you think you're overestimating his ability to hold his hand steady? You seem to be suggesting his hand wouldn't tremor enough to cause even the tiniest perturbations in the angle.Diszy (talk) 19:29, 13 October 2014 (UTC)
+How far are they from the hull? The original breach would still be relatively localized (on the order of 1-2% of their distance from the hull), so if they're within a few hundred meters from the boundary it shouldn't be particularly large. (That's even assuming they're on the Death Star in the first place, as the IP below me helpfully points out; could be that the original vector simply didn't intersect the Death Star at all.)
+Or of course it could be the original - it's only been several seconds or so, maybe they only noticed it that moment anyway.
+A cool calculation I don't have time to do right now: assuming the blade covered a plane sector of, say, 15 degrees (I'm ignoring the twitches for a moment, though it's easy to see that they don't change the answer much), and assuming it didn't hit any nearby planets such as Endor, approximately how many planets it would've hit on its way from the galaxy? Same question for stars (though I suppose a lightsaber blade won't do much to a star). 141.101.64.23 06:51, 14 October 2014 (UTC)
+They're on Endor (in the movie, at least). https://www.youtube.com/watch?v=WDnoczxzQyg If the beam intersects the Death Star, it would be many hundreds of KM away. Any perturbations would be HUGE at that distance. Also, the XKCD What If book actually addresses the question of the likelihood that a beam hits anything. Diszy (talk) 12:03, 15 October 2014 (UTC)
+I was basically saying that the beam didn't intersect the Death Star until being moved in panel four.
+As for the book, if you're referring to What If #109, it involves a stationary (or single-burst) laser; numbers for a moving laser (that sweeps through a section of a plane) would be different. I'm also ignoring the speed of light (which is kind of important when we're talking about interstellar distances).
+Estimating based on 1276: Angular Size, seems that the chance of hitting a star would be roughly (laptop size/Earth size)*(galaxy size/Proxima distance)*15/360, which comes out to one in several thousand. Which is less than I expected, actually. 141.101.64.23 15:16, 15 October 2014 (UTC)
+The scene referred to in Return of the Jedi, actually takes place on the surface of Endors moon. There are trees in the background: https://www.youtube.com/watch?v=WDnoczxzQyg 141.101.81.222 15:20, 13 October 2014 (UTC)
+Actually, the title text says "A long time in the future, in a galaxy...", not "ago". 108.162.216.26 12:25, 13 October 2014 (UTC)
+Who said otherwise? "The Star Wars opening crawl starts with the text "A long time ago..." 199.27.128.117 (talk) (please sign your comments with ~~~~)
+When I first read this, I took it as a game of one-up-manship. I build something, you build something better, I build something even better, you build something cooler, etc in an ever escalating spiral of coolness. So, here, Luke has built a long sabre as a way of one-upping his father, who then asks "where does [this competition] end?" Luke's response is taht the competition, like his laser sword, never ends. That also seems to fit in neatly with Randall's penchant for puns. OTOH, I could just be making up stuff inside my head :D JonS
+<GASP> We now have one of the two variables needed to find the Death Star! We have direction, now all we need is distance! 108.162.217.137 (talk) (please sign your comments with ~~~~)
+"an unusual gamma ray burst in 2008, visible to the human eye" - I know what is meant, but perhaps a rewording? 141.101.99.118 12:56, 15 October 2014 (UTC)
+Done.Iggynelix (talk) 13:43, 18 October 2014 (UTC)
+Categories: All comicsComics from 2014Comics from OctoberMonday comicsStar WarsPhysics

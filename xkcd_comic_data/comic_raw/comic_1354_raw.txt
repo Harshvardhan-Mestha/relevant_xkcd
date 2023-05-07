@@ -1,0 +1,78 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1354: Heartbleed Explanation
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1354)
+|<< PrevComic #1354 (April 11, 2014)Next >>|
+Heartbleed Explanation
+
+Title text: Are you still there, server? It's me, Margaret.
+Explanation[edit]
+The Heartbleed bug has received a lot of news coverage recently and was also the topic of the previous comic 1353: Heartbleed. This comic explains how the bug may have been discovered and can be exploited to reveal a server's memory contents.
+A Megan-like character named Margaret (or "Meg") sends heartbeat requests to the server, the server responds to the heartbeat request by returning the contents of the body of the request up to the number of letters requested. The first two requests are well formed, requesting exactly the number of characters in the request body. The server's memory is showing Meg's request with many other requests going on at the same time.
+Meg then ponders this and tries to submit another request asking for "HAT" but requests that it be 500 letters long instead of only 3; the server —not checking it or simply unaware that 500 letters is larger than the request body— returns "HAT" plus 497 letters that happened to be next to the word "HAT" in its memory (more will follow than are shown in the server's speech bubble as there are only 251 letters/symbols in the shown reply). Included are many sensitive bits of information, including a master key and user passwords. One of the passwords shown is "CoHoBaSt", a reference to 936: Password Strength, which suggests using "correct horse battery staple" as a password.
+Often popular explanations of security bugs require the issue to be simplified a lot and to leave out a lot of details. In this case Randall didn't have to do much simplifying; the bug is actually that simple. Also, any client that can connect to the server can typically exploit this bug in the underlying OpenSSL software — the use of the term "User Meg" does not imply that Meg had to authenticate first.
+Although Randall shows Meg recording the data by hand, on paper, it is more likely that a person exploiting the bug would have a computer record the data, perhaps on its hard drive or on a flash drive. However one could argue that such a person would not communicate to the server by speaking out loud either.
+The title text is a reference to Are You There God? It's Me, Margaret., a novel by Judy Blume, and plays off of the "server, are you still there?" line in every panel where she did start a request. The novel is the theme of another comic 1544: Margaret too. Meg can be a nickname for Margaret as well as Megan who Margaret resembles.
+Transcript[edit]
+[Caption above the panels:]
+How the Heartbleed Bug works:
+[Meg, a girl with more curly hair than Megan, stands to the left in a panel. At the center of the panel is a black and gray server with red and green diode lights showing. During all six panels the server stays the same. Meg is standing with her arms down in four panels. It will be noted when she does not. Meg talks to the server. The server "thinks" all the time, i.e. we see its memory in all panels. The top and bottom line is breaking the edge of the thought bubble making it difficult to discern. In every second panel it replies to Meg. In these panels the number of letters requested by Meg is highlighted with yellow color.]
+[Meg speaks, server thinks:]
+Meg: Server, are you still there? If so, reply "POTATO" (6 letters).
+Server thinking: wants pages about "boats". User Erica requests secure connection using key "4538538374224" User Meg wants these 6 letters: POTATO. User Ada wants pages about "irl games". Unlocking secure records with master key 5130985733435. Maggie (chrome user) sends this message: "Hi
+[Server thinks, the same as above, although cut a little different at the edges, with POTATO highlighted in yellow and it replies the highlighted part in a rectangular speak bubble.]
+Server thinking: wants pages about "boats". User Erica requests secure connection using key "4538538374224" User Meg wants these 6 letters: POTATO. User Ada wants pages about "irl games". Unlocking secure records with master key 5130985733435. Maggie (chrome user) sends this message: "Hi
+Server: POTATO
+[Meg speaks, server thinks:]
+Meg: Server, are you still there? If so, reply "BIRD" (4 letters).
+Server thinking: User Olivia from London wants pages about "man bees in car why". Note: Files for IP 375.381.283.17 are in /tmp/files-3843. User Meg wants these 4 letters: BIRD. There are currently 348 connections open. User Brendan uploaded the file selfie.jpg (contents: 834ba962e2ceb9ff89bd3bff8c...
+[Server thinks, the same as above, although cut a little different at the edges, with BIRD highlighted in yellow and it replies the highlighted part in a rectangular speak bubble. Meg has taken her hand to her chin thinking:]
+Server thinking: User Olivia from London wants pages about "man bees in car why". Note: Files for IP 375.381.283.17 are in /tmp/files-3843. User Meg wants these 4 letters: BIRD. There are currently 348 connections open. User Brendan uploaded the file selfie.jpg (contents: 834ba962e2ceb9ff89bd3bff8c...
+Server: BIRD
+Meg: Hmm...
+[Meg has taken her hand down again and speaks, server thinks, now with her line at the top:]
+Meg: Server, are you still there? If so, reply "HAT" (500 letters).
+Server memory: a connection. Jake requested pictures of deer. User Meg wants these 500 letters: HAT. Lucas requests the "missed connections" page. Eve (administrator) wants to set server's master key to "14835038534". Isabel wants pages about "snakes but not too long". User Karen wants to change account password to "CoHoBaSt". User
+[Server thinks, the same as above, although cut a little different at the edges, with everything from (and including) "HAT" highlighted in yellow and it replies the highlighted part and even more in a rectangular speech bubble. Meg has taken a notepad and a pen and is writing something.:]
+Server memory: a connection. Jake requested pictures of deer. User Meg wants these 500 letters: HAT. Lucas requests the "missed connections" page. Eve (administrator) wants to set server's master key to "14835038534". Isabel wants pages about "snakes but not too long". User Karen wants to change account password to "CoHoBaSt". User
+Server: HAT. Lucas requests the "missed connections" page. Eve (administrator) wants to set server's key to "14835038534". Isabel wants pages about "snakes but not too long". User Karen wants to change account password to "CoHoBaSt". User Amber requests pages
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I assume everybody got the (truncated) reference to the password "CorrectHorseBatteryStaple"... 141.101.89.210 06:51, 11 April 2014 (UTC)
+Until I read this wiki, I did not get that. 108.162.216.50 10:09, 11 April 2014 (UTC)BK201
+There are also references to (if I recall correctly): Missed Connections, "snakes but not too long" from Umwelt, there's boats (of which many comics exist), "bees in car why" may be slightly related to Parody Week: TFD and Natalie Dee... that's all I see. Also the ip (375.381.283.17) doesn't seem to represent anything, but you never know. greptalk11:04, 11 April 2014 (UTC)
+The IP most certainly does not represent anything because it is invalid. Three of the octets are >255. Dan 21:19, 14 April 2014 (UTC)
+It does not refer to anything as an IP address. It can still represent something that is not a real IP address - fake IP addresses with four random non-octet numbers are far from unheard of in Hollywood products (e.g, Iron Man 3: 936.345.643.21) Amadan (talk) 03:45, 15 April 2014 (UTC)
+While the bug is explained very good, there is one point missing: The word "user" seems to imply that Meg is known to server. But the bug doesn't require that - ANYONE can ask the server. -- Hkmaly (talk) 11:03, 11 April 2014 (UTC)
+Nope, the word "user" does not indicate a logged in user. It's just a reference to anybody who happens to "use" (actually: connect to) the server at the moment. In fact, it is a particular network connection (TCP or else), on which other end there is a "user" Meg. -- 108.162.210.111 12:07, 11 April 2014 (UTC)
+I would ague that the fact that the server associates her with the name 'Meg' rather than an IP address does indeed imply that she is known to the server. 172.70.117.38 21:58, 18 July 2021 (UTC)
+The transcript should include all the text in the servers memory, not just the highlighted text. Kynde (talk) 15:04, 11 April 2014 (UTC)
+Nope, it can only do 64k per request. 108.162.216.91 16:04, 11 April 2014 (UTC)
+I meant that the transcript here above the talk page should include all text. When I wrote my comment, only the highlighted text in the computers thoghts where transcripted. Now that I visit the page again, it seems to be complete. The text in the servers last speech is only half the 500 charachters long (251) but that is explained by OnePointEight in the comment below. Kynde (talk) 21:20, 11 April 2014 (UTC)
+The speech bubble is formatted as truncated, but if it were complete it would be 500 characters which is what was requested by Megan and within the 64k max.OnePointEight (talk) 19:39, 11 April 2014 (UTC)
+Heartbleed Explanation Explanation. Lovely. Also, I see that Eve is an administrator. Eavesdropper? 108.162.237.218 15:24, 11 April 2014 (UTC)
+Also the attacker is Meg, which can be thought of as an alternate to Mallory/Trudy 108.162.221.65 16:45, 11 April 2014 (UTC)
+This is absurd. Meg is a common nickname for Margaret. 173.245.50.84 20:38, 11 April 2014 (UTC)
+As my main language is not English I'm not familiar with nicknames, but if Meg is a common nickname for Margaret then that is important and should be included in the explanation of the title text. I did not understand why Margaret suddenly turned up... Kynde (talk) 21:28, 11 April 2014 (UTC)
+The explanation of the title text has presumably been expanded since you visited it. It's a reference to a book. --V2Blast (talk) 03:34, 12 April 2014 (UTC)
+"Snakes but not too long"... great! --108.162.210.241 15:49, 11 April 2014 (UTC)
+It looks like the "server key" is a phone number: 1-483-503-8534 199.27.130.228 (talk) (please sign your comments with ~~~~)
+I was thinking the same thing. 483 is not a valid area code however. 173.245.48.60 (talk) (please sign your comments with ~~~~)
+The User Ada is a reference to Ingress, in which Ada is the head of the blue team. Ingress, being an ARG, would be an IRL game. 108.162.219.10 (talk) (please sign your comments with ~~~~)
+Why has everyone here missed the reference to Portal 2? It almost seems so obvious :). YetAnotherGeek (talk) 09:23, 12 April 2014 (UTC)
+"Are you still there?" could also be a reference to the turrets in Portal / Portal 2 173.245.62.126 09:42, 30 June 2015 (UTC)
+Are we sure that the hacker in the comic is Megan? She has long, curly hair as opposed to short straight hair. Considering she has long hair and has malicious intent, she might be Danish. 108.162.216.71 (talk) (please sign your comments with ~~~~)
+The server refers to her as "Meg", and if she were spoofing the source address, the packets wouldn't go back to her. That would be an amplification DoS attack. --108.162.246.4 22:42, 13 April 2014 (UTC)
+What's to say that Danish's real name isn't Margaret? Last I checked, Margaret and Megan are not the same name. That and I'm pretty sure Megan doesn't have curly hair. --XndrK (talk) 19:56, 28 December 2014 (UTC)
+Has anybody figured out what the selfie.jpg contents reaaly are? It isn't a valid JPG because the magic numbers don't match, and it isn't ASCII text because multiple bytes have the most significant bit set. 108.162.215.45 07:52, 13 April 2014 (UTC)
+I put 834ba962e2ceb9ff89bd3bff8c into a file and sent it to VirusTotal. The magic literal seems to match "DBase 3 data file with memo(s)", so I'd say that it's just random data. --108.162.246.4 22:51, 13 April 2014 (UTC)
+Has anyone figured out if the words "potato", "bird", and "hat" are supposed to mean something in particular? --Dfeuer (talk) 07:43, 14 April 2014 (UTC)
+I don't know about "potato" and "bird", but "hat" could possibly be a reference to Black Hat Guy, who often creates havoc to prove a point. Also, completely separately from Black Hat Guy, in security discussions, attackers are broken up between black hat ("bad") and white hat ("good") hackers. So "hat" could be a sort of generic reference for a hacker. 199.27.128.116 (talk) (please sign your comments with ~~~~)
+Black Hat Guy is not completely separate. He wears a black hat because he is a black hat hacker. 173.245.55.65 23:48, 17 April 2014 (UTC) TooMuchBlue
+I think that "potato" and "bird" are a reference to portal 2, (possibly) how the computer cores constantly malfunction. mailmindlin
+
+To understand better how far this goes, A taxonomy of Heartbleed attacks contains a very interesting list of attack cases. --MGitsfullofsheep (talk) 12:53, 9 September 2014 (UTC)
+Not gonna edit-war this revert, but a "note book" is the less standard version (and makes me think more of a "scrapbook", or even where I might secrete a secret stash of (bank)notes interleved with the pages of the most boring novel on my bookshelf, than a "writing pad"), of what is monatomically a "notebook" in standard English (and even American...). Even after considering notepad (or writing pad, reporter's pad or even "pad" in its own, amongst others) the pen-not-stylus mentioned should be enough, more so than notepad (with confusion with "tablet", both ancient and modern), to read better and unambiguously. But clearly my whole internal monalogue prior to/during editing (which was much too long/boring to inflict in whole in the summary) isn't as conclusively apparent as I thought. ;) But I feel more strongly about it than I realised, so just making this little note (not upon a pad...) to get it out of my system. Finis. 172.70.91.78 09:47, 18 August 2022 (UTC)
+Categories: All comicsComics from 2014Comics from AprilFriday comicsComics with colorComputer security

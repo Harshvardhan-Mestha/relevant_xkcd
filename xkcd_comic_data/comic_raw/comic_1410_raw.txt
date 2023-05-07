@@ -1,0 +1,55 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1410: California
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1410)
+|<< PrevComic #1410 (August 20, 2014)Next >>|
+California
+
+Title text: 58% of the state has gone into plaid.
+Explanation[edit]
+This graph shows the levels of drought over time in the state of California using years on the horizontal axis and distance along a 45 degrees rotated north-south-axis of California on the vertical axis. The image illustrates the use of the distance measure on the vertical axis by visually rotating and stacking multiple maps of California next to each other.
+The geography of California lends itself well to this kind of graphical interpretation because the state is much taller than it is wide, hence, large-scale phenomena like weather patterns are likely to cover much of the "width" of the state but only part of the "height". Because the variation in the west-east direction will be small, a side-on view of the state can be used as the vertical axis in a graph, so that the indicated values are either the average or extreme value across the width of California.
+Randall compiled the data in this graph from data from the US Drought Monitor, which is authored by Richard Tinker from NOAA. The colors Randall uses correspond to drought intensity levels D0-D4 defined on the Drought Monitor site.
+The darkest, most severe level of drought is labelled "ludicrous" (causing laughter because of absurdity), but a parenthetical remark indicates that the official term is "exceptional.". Of course, with half or more of the state in this condition, it can hardly be called "exceptional" any longer.
+The graph shows that in 2000, 2005, and 2010, there were very little or no drought conditions in California, but that the intervening periods have seen increasingly severe droughts. According to the most recent data, the state is entirely in a condition of "severe" or worse drought, with "ludicrous" conditions across approximately half its area. The graph also reveals that 2014 is the first year (since 2000) where the "ludicrous" level has been seen. Indeed, a comic about drought is rather topical: California is in the middle of one of its worst droughts in recorded history.
+The title text is a reference from the movie Spaceballs, a parody of various Sci-Fi movies. Lone Starr and Barf in their Winnebago space ship traveling at lightspeed are passed by Spaceball One, which is traveling at "ludicrous" speed. The path of Spaceball One is shown as a plaid pattern and Barf remarks "They've gone to plaid!" (YouTube clip).
+Transcript[edit]
+[Caption above frame:]
+I like how long and skinny California is because it means you can use it as a graph axis:
+[Title at top of frame:]
+California Droughts
+Based on map data from US Drought Monitor/NOAA/Richard Tinker
+[A legend explains the colors which won't show in this transcript anyway:]
+Dry
+[Yellow]
+Drought
+[Beige] Moderate
+[Orange] Severe
+[Red] Extreme
+[Brown] Ludicrous ("exceptional")
+[A colored contour plot with Time on the X axis and California on the Y axis, and depth of drought as the dependent variable indicated by color. At the left edge, an outline of the state of California, rotated clockwise so as to be mostly vertical, with a label on the "X axis" of Jan 4, 2000, and a yellow patch indicating Dry conditions through the center of the state. To the right of that, four progressively-skinnier versions of the same image, showing more or less the same area of dryness, with the state outline shrunk along the Y axis until the fourth one is basically just a vertical line. This then merges into the main body of the graph, the true contour plot, in which the Y axis is just south-to-north distance along the state, as the X or Time axis runs from 2000 to 2014. Extreme droughts can be seen in Northern California in 2001, Southern California in 2002, and Southern California again in 2007. Moderate-to-severe drought is prevalent across most of the state in 2008-09, and then again starting in 2012, progressing to extreme and "ludicrous" in the northern 2/3 of the state by 2014. At the right-hand edge of the graph are five progressively-wider outlines of the state, reversing the pattern at the left edge, starting with a "line" and widening to a proper 2-D image of the state again, with an X-axis label of Aug 14, 2014, showing the true extent of the drought, with all areas of the state experiencing severe, extreme, or "ludicrous" levels.]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+and remark that "They've gone plaid!" I heard them say: "They've gone Plait!" I think it was "They've gone to plaid!" Chrullrich (talk) 08:16, 20 August 2014 (UTC)
+Correct, the script contains: They've gone to plaid. Condor70 (talk) 08:36, 20 August 2014 (UTC)
+Spaceballs was parodying the use of surreal colours and patterns and the like when travelling at high speeds (ludicrous speed in the movie, hence its use in the legend of the graph) in older science fiction movies like 2001 a space odyssey. Plaid refers to the common textile pattern see:http://en.wikipedia.org/wiki/Plaid_(pattern). Also see: https://www.youtube.com/watch?v=ygE01sOhzz0. 141.101.99.186 09:30, 20 August 2014 (UTC)
+Spaceballs is really full of movie references! I originally saw the movie on BBC1, so I was surprised to see the Alien reference in the restaurant when I bought the DVD, because the BBC decided to cut the sequence for being distasteful! Condor70 (talk) 11:36, 20 August 2014 (UTC)
+Another thing to note with regards to the Spaceballs reference which is itself referencing 2001 relates to the actual mechanical process by which Kubrick created the famous 'beyond' light-tunnel sequence. The technique called slit-scan photography was adapted to motion pictures from its then-traditional still photography roots by Douglas Trumbull while he worked with Kubrick on this iconic sequence. The technique involved a process of exposing the film to an abstract image being lit/seen through a thin vertical slit. The means by which we see California squeezed down to a slit-like slice to produce this graph over time actually resembles greatly this process we see employed by Kubrick and Trumbull. See: http://vimeo.com/41747091 as well as http://en.wikipedia.org/wiki/Slit-scan_photography for a little more in-depth information. 108.162.219.211 (talk) (please sign your comments with ~~~~)
+And here we have evidence of global warming. 173.245.54.190 12:54, 20 August 2014 (UTC)
+Or at least climate change. 108.162.216.41 12:06, 25 August 2014 (UTC)
+Looking at the color key reminds me of an aviator's scale of turbulence: nil, mild, moderate, severe, extreme. Extreme is when the rotating air overwhelms any possible control input (elevator, rudder, and aileron) so the plane's attitude is at the mercy of the wind, without recourse. AFAIK, plaid turbulence has not been reported by any surviving pilot. 173.245.54.153 13:20, 20 August 2014 (UTC)
+@108.162.238.144: While I agree that "ludicrous" is a normal English word, it isn't used very often. A Google search for "ludicrous" only turns up 2 dictionary references before linking to the wiki page for Spaceballs. So I think it's plausible that Randall thought of Spaceballs when using ludicrous instead of exceptional. Condor70 (talk) 14:14, 20 August 2014 (UTC)
+Plausible? Pretty much certain, given that he backs it up with the plaid reference. Jim E (talk) 16:12, 20 August 2014 (UTC)
+It is also a play on the fact that plaid and warp are both terms in weaving. --I'll Get It In A Moment (talk) 12:38, 21 August 2014 (UTC)
+Unclear how the morphing of California works to compress horizontally and provide a point for the vertical axis of graph
+The top of California goes east-west, and the bottom actually slopes a bit north as it goes east, and of course the the initial image is rotated a bit clockwise. The way the bottom of california morphs, it looks clear that drought values are being averaged across horizontal parallels that are not straight east west. But the top of california seems to be treated differently - rotating quickly back to east-west. Does anyone know where the detailed data is? Is it only available as the images from NOAA, or are there data values? Can anyone reproduce this graph? Nealmcb (talk) 21:07, 20 August 2014 (UTC)
+I disagree that the use of "ludicrous" is not in reference to Spaceballs. Yes, it might not be; but the other reference to Spaceballs in the title text suggests that it is. Context, people. Smperron (talk) 13:26, 21 August 2014 (UTC)
+The data can be found here
+http://droughtmonitor.unl.edu/MapsAndData/DataTables.aspx?CA 173.245.52.99 02:54, 22 August 2014 (UTC)
+The map has been streched, but I fail to see how it should be rotated, much less by 45°, which is quite a lot. ANB, 108.162.229.208 10:17, 30 August 2014 (UTC)
+This graph synthesizes a series of static Drought Monitor maps into an intuitive time-by-latitude drought history. At times, a series of maps with an east-west drought severity gradient (let's use 'worse in west CA as an example) will be stacked horizontally. Uncompresses, you would see drought to no drought, then drought to no drought again where the ensuing map starts, then drought to no drought again, etc., until conditions change. The "crushing" of the longitude lines, however, results in a chart that shows what the most prevalent condition is along the latitude in question, changing with time as conditions change.
+Expanding the longitude lines back to scale at the start and end of the chart effectively demonstrates how the graph was created without needing a lot of words.
+ONE POINT MUST BE CLARIFIED: While I'm flattered, I shouldn't get sole credit for producing all the original maps. "Rich Tinker" just happened to author the last map used. The weekly Drought Monitor has 9 authors who take turns authoring for 2-week stints. And we get a lot of feedback from regional and local experts (with an array of specialties) which helps us fine tune the depictions, sometimes to the sub-county level. I expect that doesn't matter much when your crushing the large state of California down to a line of infinitely small width. DryAndDrier (talk) 02:53, 31 August 2014 (UTC)
+Categories: All comicsComics from 2014Comics from AugustWednesday comicsComics with colorCharts

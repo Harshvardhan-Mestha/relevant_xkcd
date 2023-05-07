@@ -1,0 +1,61 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1495: Hard Reboot
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1495)
+|<< PrevComic #1495 (March 6, 2015)Next >>|
+Hard Reboot
+
+Title text: Googling inevitably reveals that my problem is caused by a known bug triggered by doing [the exact combination of things I want to do]. I can fix it, or wait a few years until I don't want that combination of things anymore, using the kitchen timer until then.
+Explanation[edit]
+This comic is about using a simple and unrelated trick to work around a problem, instead of spending a long time solving the cause of the problem.
+Swap space is an area of a computer's hard drive reserved for use when the computer runs out of RAM. Ideally, RAM + SWAP >= MAX, where MAX is the amount of memory the computer will ever try to use at the same time. However, some (broken) programs may keep requesting memory from the system until computer runs out of resources (a memory leak), or the system may be misconfigured to run more and more programs simultaneously. Rebooting the computer will empty the RAM and swap space so resources can be reallocated, but this only temporarily alleviates the underlying issue. Determining the root cause of the problem is often nontrivial.
+It would take Randall anywhere between 1 and 10 hours to figure out why the server is running out of swap space, and possibly more to actually fix the problem. Alternatively, Randall could just take 5 minutes and plug the server into a light timer. This attitude to problem solving is in contrast to the attitude shown in 974: The General Problem.
+Timers like the one in the comic typically have four switches or notches per hour, so using the timer would replace an unpredictable and indefinite loss of service with a regular 15 minute downtime event once a day. Also, it can be scheduled during, say, the middle of the night when most users are sleeping to minimize disruption.
+The correct method of scheduling a regular reboot would be using a cron task, but perhaps the server is "crashing" in such a dramatic manner that cron, or shutdown, or init stops working. The comic title alludes to this, in that a "hard" reboot scheduled with an analog timer is more guaranteed to work than a "soft" one scheduled with cron.
+If a memory leak is not present, the problem might be fixable by simply increasing swap space; however, if there is a more complex underlying issue, this is the first step along the path of 10 hours of troubleshooting. As a general stereotype, the type of person who has a home server is probably also the kind of person who would start by 'just' increasing the swap size, and before they know it has spent 10 hours completely engrossed in the challenge of fixing the problem. (See 349: Success)
+The subtitle reads "Why everything I have is broken". This indicates that Randall frequently finds himself doing non-standard workarounds that temporarily solve a problem but may ultimately damage the system to the point of becoming nonfunctional. Indeed, a kitchen/light timer used to cut power to a server overnight may affect the server's performance if it is in the middle of a process when the reboot happens. Alternatively, this can be interpreted to mean that everything Randall has is broken and held together by metaphorical duct tape.
+The title text's first sentence reveals that Randall is aware that looking further for a fix is futile: The problem is caused by a bug which has already been analyzed and is known to be triggered by using the system in the very way Randall is using it. He may get around the bug by changing what the system does, but then it would not provide the services he needs anymore. It may also refer to bug trackers, where someone found out and posted what causes the issue, but the bug is marked as "Unresolved," "Waiting," or "Will not fix."
+It is not clear why the title text refers to a kitchen timer while the comic itself refers to a light timer. It might be a small error, or it might be that Randall just considers these to be two synonymous terms. Typically, however, a kitchen timer refers to an alarm that will go off, rather than a timer that cuts power to a device like a light timer.
+The title text's second sentence refers to the fact that operating system bugs take a long time to be solved, hence the solution of "wait[ing] a few years until I don't want that combination of things anymore." Humor in that sentence is found in the fact that readers will anticipate "wait a few years until..." would be followed by "the bug is fixed", however, Randall is indicating that usually his needs change before the bugs get fixed, or that he has very low confidence in that the bug will be fixed in time, if ever. This play on expectations is a common comedic trope.
+Transcript[edit]
+[Inside a frame there are two pictures. To the left there is a section of a computer screen with white text on a black background. The screen is covered in lines of illegible text.]
+[Above the screen it says:]
+Figuring out why my home server keeps running out of swap space and crashing:
+[Below the screen it says:]
+1-10 hours
+[To the right there is a frame with a drawing of a timer plugged into a power port with cable running off to the side.]
+[Above the frame it says:]
+Plugging it into a light timer so it reboots every 24 hours:
+[Below the frame it says:]
+5 minutes
+[Below the main frame.]
+Why everything I have is broken
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+My interpretation is that the 1-10 hours is how long it would take to troubleshoot the problem and the 5 minutes is how long it would take to get kitchen timer and put into socket. So slides are showing the two solutions (one techy and liable to take up to 10 hours vs. the hacky but fast solution). 108.162.225.118 (talk) (please sign your comments with ~~~~)
+At first I thought the ten hours was troubleshooting, but 5 minutes sounds about right for the granularity of the timer. Mikemk (talk) 06:51, 6 March 2015 (UTC)
+Of course, the problem could be solved without a reboot simply by increasing the swap size., my understanding is that the SWAP is overflowing and not just 'too little'. So no, simply increasing the swap size wouldn't solve the problem. 173.245.53.214 07:36, 6 March 2015 (UTC)
+I agree, and have removed that sentence, because there is no way to be sure that increasing the swap size will help. In fact increasing the swap size is the first step down the '1-10 hours to troubleshoot' path. --Pudder (talk) 08:52, 6 March 2015 (UTC)
+I think it deserves mention. Mikemk (talk) 09:37, 6 March 2015 (UTC)
+"Also, it can be scheduled during, say, the middle of the night when most users are sleeping to minimize disruption." That would be so annoying in my case. I'm glad Randall has a better discipline of schedule than me, with my Windows NT machine which these days definitely needs its manual weekly reboot and really needs to be functionally replaced except for all the additional fuss it'd require. (Also, I'm not sure about the "first sentence of the title text" bit, as currently stated, but doubtless it'll all be adjusted slightly.) 141.101.98.181 12:02, 6 March 2015 (UTC)
+I would recommend 5:00 (am). It's nowhere near the middle of the night, but it's the time when it's most probable everyone is sleeping. Alternatively, considering it's just HIS router, he should know his sleeping patterns ... -- Hkmaly (talk) 12:11, 6 March 2015 (UTC)
+When a reboot is least disruptive also depends on whether the machine is being used by users in other time zones. It really annonys me when I'm presented with "Server is down for scheduled maintenance", and the powers that be have decided that the best time to do that is in the middle of the day (for me). --RenniePet (talk) 12:42, 6 March 2015 (UTC)
+Of course, if you tend to observe a 28-Hour Day it gets tricky to schedule (on a daily basis, at least). Yes, I used to do somthing like that, a couple of decades ago. (And my mind/body still wants to do it! Hence why even 5:00am would be awkward for me. More often than is convenient, anyway.) 141.101.98.188 11:27, 9 March 2015 (UTC)
+My reaction to the solution (instead of using cron) was similar to when I see somebody emailing a photo by embedding it in a word document. I guess Randall did that on purpose! 141.101.98.195
+Re: "Why everything I have is broken" - I think better explanation would be that by applying soem workarounds you can use broken things without actually fixing them. E.g. you can use server with memory leak without spending 10+ hours fixing the problem. Using this approach you can end up with a buch of broken things that are still useful. -- Jkotek (talk) (please sign your comments with ~~~~)
+This was my understanding of the statement as well. 108.162.216.192 16:25, 6 March 2015 (UTC)
+I think the "Why everything I have is broken" text refers to the fact that he has spent 10 hours troubleshooting the problem, then implements a hacky fix in 5 minutes which just makes the problem worse - hard rebooting a server every day is not likely to fix the problem and will probably make it worse, and the server will ultimately break. 141.101.99.87 14:37, 6 March 2015 (UTC)
+"The title text's first sentence refers to situations where the given solution to a problem is just the original problem rephrased to sound like a solution." I don't think that's right... it makes it sound like the solution to the problem is to not have the problem, but the first sentence of the title text doesn't reference a solution at all. It's just noting that there's no point in the user looking around for other posts because this is exactly what he's getting, so if there's no solution for this problem then the problem can't be solved. 108.162.219.105 14:05, 6 March 2015 (UTC)
+Thank you for the description! I was reading the 1-10 hours as the time it took for the system to crash, and the 5 minutes as the on-off time -- which obviously conflicted with the 24 hours text in the comic. This makes so much more sense now. =8o) Jarod997 (talk) 14:42, 6 March 2015 (UTC)
+Should one of us ask Randall if he can tell us which bug this is (assuming it exists), or do the square brackets purposely ask that we should stifle our curiosity? Assuming it's an open-source project, this is an opportunity for readers to make a difference, rather than just humor (cf. "Randallism"). Chrstphrchvz (talk) 22:21, 6 March 2015 (UTC)
+I don't think it's a specific bug. It's just humour. Mikemk (talk) 01:26, 7 March 2015 (UTC)
+It might not only be humour. I can say we use the latter technique for a router. Mark Hurd (talk) 01:49, 7 March 2015 (UTC)
+It's xkcd, is never just humor. :P
+By way, more than hackish, this is just a plain sloppy duck-tape solution.(I mean, at least use a cron job!) 173.245.48.133 18:31, 7 March 2015 (UTC)
+
+In the title text, it's THE kitchen timer, not A kitchen timer, so it may mean "the (light) timer from the kitchen"...188.114.110.47 12:03, 8 March 2015 (UTC)
+The way the letters are squished together and its general untidiness make the cartoon look rather old. I wondered if it was one Randall dug out that he had drawn a while ago. 108.162.249.182 22:22, 8 March 2015 (UTC)
+Why is there a description of 3-pronged plugs in the explanation? It seems to have no context. Djbrasier (talk) 13:38, 9 March 2015 (UTC)
+Categories: All comicsComics from 2015Comics from MarchFriday comicsComputers

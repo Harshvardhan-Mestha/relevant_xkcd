@@ -1,0 +1,221 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1389: Surface Area
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1389)
+|<< PrevComic #1389 (July 2, 2014)Next >>|
+Surface Area
+
+Title text: This isn't an informational illustration; this is a thing I think we should do. First, we'll need a gigantic spool of thread. Next, we'll need some kind of... hmm, time to head to Seattle.
+A larger version of this image can be found by clicking the image at xkcd - which can be reached easily from here as always, by clicking on the comic number above.
+Contents [hide] 
+1 Explanation
+1.1 Solid Surfaces Present in Comic
+1.1.1 Earth
+1.1.2 The Moon
+1.1.3 Other Moons, Asteroids, and Dwarf Planets
+1.1.4 Not Included Dwarf Planets
+1.1.5 Very Small Objects
+1.2 Non-Solar Bodies
+1.3 Title Text
+1.3.1 Skinning Planets and Surface Areas
+1.4 Gas Giants
+1.5 Other Comics
+1.6 Data table
+2 Transcript
+3 Discussion
+
+Explanation[edit]
+This map shows the total surface areas of all terrestrial planets, dwarf planets, moons, asteroids and minor planets that are larger than 100 m in the Solar System. They have all been represented as regions of a single massive landmass - a supercontinent like Pangaea - which is clearly surrounded by some kind of ocean.
+Solid Surfaces Present in Comic[edit]
+Earth[edit]
+On the area that signifies Earth the continents are drawn using a map projection that keeps the scale of the continents correct. (This is something that Randall cares about as can be seen in 977: Map Projections). The parts of the surface of the Earth that are covered by oceans are also included in the surface area of the Earth (i.e. the map shows the Earth's crust). An extra layer of 3–4 km of water seems rather insignificant when comparing to the Earth's radius of 6,370 km.
+The Moon[edit]
+The Moon has been inlaid in this map next to Antarctica which thus makes a great comparison of how small the Moon is compared to the Earth (there is room for more than 13 lunar surfaces on the Earth). Similarly, it is clear that the planet Venus is almost as big as the Earth.
+This is also the general idea of the map - to give an idea about how big the Earth is and how small many of the other known planets etc. are; both compared to Earth and to each other. The map drawn on the Earth is probably there mainly as a guide to size, because none of the features that are known on some of the other objects, especially The Moon (i.e. craters and "seas") and on Mars (i.e. Olympus Mons), are included.
+Other Moons, Asteroids, and Dwarf Planets[edit]
+The objects mentioned by name on the map are all but one amongst those that have reached hydrostatic equilibrium and these are all included on this List of gravitationally rounded objects of the Solar System.
+The one named object that is not on the above list is the asteroid Vesta, which is included because it is the second largest object in the Asteroid belt. It is placed right next to the largest object in this belt, the dwarf planet Ceres, which is no longer considered an asteroid. And next to these two are the rest of the asteroids in two areas (see below), which thus groups all asteroids together.
+The only object from the above list, (that qualifies for having a solid surface in hydrostatic equilibrium), which is not included is the Saturn moon Mimas, which is also clearly the smallest object on the list.
+This moon should have been located amongst the other five smaller moons of Saturn between the Earth and Titan (the largest of Saturn's moons). Mimas has a surface area of 490,000 km2 which is somewhat smaller than the smallest included Saturn moon Enceladus with a surface area of 799,000 km2.
+Generally the moons that belong to a given planet (for those with more than one moon large enough to be included), have been clustered together. Apart from the six (not seven...) moons of Saturn to the right of Earth, the four Galilean moons moons of Jupiter are located above the Earth, the five included moons from Uranus is located at the top to the far right.
+The last planet to have many moons is Neptune, but only Triton is included. This is a fairly large moon, and the only of the 14 known moons of Neptune to be on the above list. However, there is one other moon, Proteus which is notable for being as large as a body of its density can be without being pulled into a spherical shape by its own gravity. It has a length of 424 km in the longest direction, and a mean radius of 210 km. A rough calculation of its surface area from this mean radius gives an area of 550,000 km2, making the surface area slightly larger than Mimas. As there is an unlabeled area located right next to the other Neptune moon Triton, it is most likely that this small area should represent Proteus, and that it is an error that it was not labeled.
+As this is the smallest area, the cut-off of objects could have been at 500,000 km2, as Vesta is also larger than this, which would make room for Proteus, but explain the missing Mimas.
+Two of the included objects also have moons that are large enough to be included: Earth, of course, and the dwarf planet Pluto with its moon Charon. In both cases these moons have been inlaid in the area of their mother planet.
+Whereas the moons of the gas giants and the asteroids have been located above and to the right of the Earth, the planets and dwarf planets have been included below earth (along with the two moons mentioned above). Mercury, Mars and Venus all touching Earth, and then below them the four Trans-Neptunian dwarf planets - the Plutoids.
+Not Included Dwarf Planets[edit]
+On the list from above there are, however, also these 10 objects which have not been included with name on the map. These object are, however, only likely candidates for being dwarf planets (depending on whether they have reached hydrostatic equilibrium or not), and on the map they have thus been relegated to the sections without individual names. These object are thus probably grouped together (along with other relatively small objects like comets and smaller moons) in the area labeled Various small moons, comets, etc, which is located at the bottom of the map between Mercury and Mars. The surface area for all of these object, when the surface area have been estimated, are larger than 1 million square kilometer, and thus larger than several of the named objects. So it is not the size that is the reason why such objects as Sedna and Quaoar are not included with name, but probably the fact they are not investigated enough yet.
+The remaining objects in the Solar System with a solid surface are the minor planets, which on the map has been labeled as asteroids even though these objects are grouped together in several other "belts" than the Asteroid belt. Here they have been assigned to two regions at the top of the map. Above the right part of the Earth area is the area Asteroids (1 km+) which include any object not already included larger than 1 km. (As these objects are no longer round it is the largest dimension, the length, that should be at least 1 km long). And finally the area Asteroids (100 m+) thus include any object not already included larger than 100 m.
+Most of the rest of the objects that have been included in these three sections can likely be found on this List of Solar System objects by size.
+Very Small Objects[edit]
+Tiny objects smaller than 100 m down to space dust are excluded altogether as explained in the note below the headings. This is probably because their total surface area is impossible to estimate accurately, and also because any estimate would likely be too large to fit easily into the map.
+Non-Solar Bodies[edit]
+Between Earth and Titan is a tiny speck noted all human skin, which is an interesting sort of solid surface. A rough estimate of the average body surface area and thus of the average area of all humans skin can be made from these average values and from population pyramids as this pyramid for 2015. Average adults have a skin area of around 1.7-1.8 m2, but as a large part of the human population are children (with skin area down to about 0.25 m2 for infants) the total average will be smaller. By extrapolating the given values an average area of about 1.6 m2 can be found. This would make the area 7.2 billion × 1.6 m2 ≈ 11,500 km2. This is 60 times smaller than the smallest of the labeled moons Miranda (of Uranus) with a surface area of 700,000 km2.
+Title Text[edit]
+The title text jokingly claims that this comic is not actually for information, but rather is something Randall thinks we should really do – that is, to stitch all the solar system's solid surfaces together, as the sub-sub heading says. To do this, we would need a giant spool of thread and then something he has to go get in Seattle… which presumably must be the Space Needle, a needle-like tower in Seattle, which should then be used in this grand project.
+This could also have been a reference to the Seattle seamstresses if it weren't for the fact that it's not.
+Skinning Planets and Surface Areas[edit]
+Since the land areas are on the surfaces of spheres, this would seem impossible as it would involve lots of deformation and be particularly challenging. It will also be very gruesome when he comes to the part of collecting (and stitching) all human skin together. The inclusion of this speck on the map is, however, also there to make it clear what the real intention is with the planets. Their surface is to be "skinned" of them, as you would have to do with the humans! Then it is all these "planet skins" that should be stitched together using the space needle. This also explains the ragged edges, and why the continents keep their correct size. It would make Randall into a planetary version of The Silence of the Lambs movies character Buffalo Bill, a serial killer who tried to make a suit out of the skin from the women he killed.
+Randall would also need quite a lot of space for the very large ocean. However, the whole supercontinent is just somewhere between 3-4 times larger than the area of the Earth. And the area of the entire image is less than 9 times the area of the earth. As the formula for calculation surface areas for spheres (4*π*r2) goes with the radius (r) squared, the diameter of the planet needed for the experiment do not need to be larger than 3 times that of the earth. Although there are no objects in the Solar System with this particular size, it is still smaller than the gas giants, the smallest of these have a radius of almost 4 times that of the earth. Exoplanets with this range of diameters have certainly been found, however, already at 1.7 times the earth radius most planets size to be of the Super-Earth type and turns in to the gas dwarf type of planets. So an ocean of the size needed are not easy to come by.
+As has been explained above the earth's surface is included disregarding surface water (oceans) and the same is valid for other objects with surface water, as the Saturn moon Titan which has great lakes (or even oceans) of liquid methane on the surface or the Jupiter moon Europa which is covered in a deep ocean with a thick cap of ice. (Interestingly this moon is placed on the map very near to the continent of Europe - maybe for easy comparison of these two areas).
+Gas Giants[edit]
+The gas giants Jupiter, Saturn, Uranus, and Neptune have, however, not been included because they do not have any "solid surfaces"; even if they had a solid core (which is itself not clear), this would not comprise any "surface". The gas giants are believed to lack any well-defined surface at all, with the gases that make them up simply becoming thinner and thinner with increasing distance from the planets' centers, eventually becoming indistinguishable from the interplanetary medium. But if they were included via some sort of surface definition, the map of this comic would become a tiny speck amongst the map of the gas giants. Similarly, the surface of the Sun is also not considered a solid surface but hot plasma; if it were included it would reduce even a map of the gas giants to a tiny speck.
+Other Comics[edit]
+The map is drawn in a similar style to the two maps of the Internet that Randall has created in the past:
+256: Online Communities
+802: Online Communities 2
+Data table[edit]
+Below is a table listing the object roughly in the order they would be read of the map (the same order as in the transcript.) But they can be sorted by each of the columns.
+The data is taken when possible from the following table: List of gravitationally rounded objects of the Solar System, and surface area is given with three significant digits.
+For Vesta and Proteus (the most likely candidate for the unlabeled area next to Triton) the area is calculated from their mean radius (i.e. they are not spherical). See also above in the explanation, also for calculating the area of all human skin.
+The surface for a given object is also given as a Fraction of Earth's surface, and from this the number of times the object could be placed on the Earth's surface is given as one divided by this fraction. For instance it can be seen that The Moon's surface can be placed more than 13 times on top of that of the Earth.
+Surface area of mentioned objects
+Object Type Surface area (km2) Fraction of Earth's 1/Fraction
+Io Moon of Jupiter 4.19×107 0.082 12.2
+Callisto Moon of Jupiter 7.30×107 0.143 7.00
+Europa Moon of Jupiter 3.09×107 0.061 16.4
+Ganymede Moon of Jupiter 8.70×107 0.171 5.80
+Ceres Dwarf planet 2.80×106 0.0055 180
+Vesta Asteroid 8.70×105 0.0017 590
+Asteroids (1 km+) Asteroid N/A N/A N/A
+Proteus (not labeled) Moon of Neptune 5.50×105 0.00011 910
+Triton Moon of Neptune 2.30×107 0.045 22.2
+Asteroids (100 m+) Asteroid N/A N/A N/A
+Oberon Moon of Uranus 7.29×106 0.014 71.4
+Miranda Moon of Uranus 7.00×105 0.0014 714
+Ariel Moon of Uranus 4.21×106 0.008 125
+Umbriel Moon of Uranus 4.30×106 0.008 125
+Titania Moon of Uranus 7.82×106 0.015 66.7
+Earth Planet 5.10×108 1 1
+Tethys Moon of Saturn 3.574×106 0.007 143
+Enceladus Moon of Saturn 7.99×105 0.0016 625
+Dione Moon of Saturn 3.97×106 0.0078 128
+Iapetus Moon of Saturn 6.70×106 0.0132 75.8
+All humans skin Human organ 1.15×104 0.000023 43400
+Rhea Moon of Saturn 7.34×106 0.0144 69.4
+Titan Moon of Saturn 8.30×107 0.163 6.14
+Mercury Planet 7.50×107 0.147 6.80
+The Moon Moon of Earth 3.79×107 0.074 13.5
+Various small moons, comets, etc. N/A N/A N/A N/A
+Mars Planet 1.40×108 0.2745 3.64
+Makemake Dwarf planet 6.40×106 0.013 76.8
+Haumea Dwarf planet 6.80×106 0.0133 75.2
+Eris Dwarf planet 1.80×107 0.0353 28.3
+Pluto Dwarf planet 1.70×107 0.0333 30.0
+Charon Moon of Pluto 4.58×106 0.009 111
+Venus Planet 4.60×108 0.901 1.10
+Transcript[edit]
+[At the top of a map is a heading, with two sub headings and a note in brackets:]
+Space
+Without the space
+The Solar System's solid surfaces stitched together
+(Excluding dust and small rocks)
+[Below the headings there is a map with several distinct areas. Each area is labelled with a name or a description. This label is noted inside the area, except for areas that are too small; here the label is written outside and a line indicates which area the label belongs to. Only exception is the largest area, on which the contours of the Earth's continents are drawn. Surrounding the map is wavy lines to indicate that this is either an island or one big super-continent placed in an even larger ocean.]
+[Here below are the labels given as they appear in "normal" reading order in as read from left to right in the three main rows as will be indicated:]
+[Row one, above the line defined by the general top of the Earth area:]
+Io
+Callisto
+Europa
+Ganymede
+Ceres
+Vesta
+Asteroids (1 km+)
+[Here – above the Asteroids area before the Triton area - is a small unlabelled area (the only other except Earth)]
+Triton
+Asteroids (100 m+)
+Oberon
+Miranda
+Ariel
+Umbriel
+Titania
+[Row two, the unlabelled Earth area's row, but here only given those that are directly written to the right of this area:]
+Tethys
+Enceladus
+Dione
+Iapetus
+All human skin
+Rhea
+Titan
+[Row three, all the remaining items that are mainly below the Earth area:]
+Mercury
+The Moon
+Various small moons, comets, etc
+Mars
+Makemake
+Haumea
+Eris
+Pluto
+Charon
+Venus
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+FYI to whoever writes this: the Seattle reference is the Space Needle. 108.162.221.65 05:03, 2 July 2014 (UTC) Or maybe the GPS that is stuck trying to go to seattle in #1837?172.68.141.166 03:57, 2 December 2017 (UTC)
+Uranus is larger than all of these combined. Of course, it isn't on this map because it is full of gas. 173.245.62.62 05:50, 2 July 2014 (UTC)
+Just wondering... Does that mean, a spaceship could just fly trough Uranus? (No pun intended.) --141.101.75.20 07:16, 2 July 2014 (UTC)
+It'd probably hurt. As an ice-giant, the interior of Uranus is mainly composed of ices and rock. Jupiter and Saturn have cores of liquid metallic hydrogen. Also, the rock/ice isn't considered the surface of Uranus, because most of the planet's mass lies outside the solid inner layers.) 103.22.201.239 09:28, 2 July 2014 (UTC) P.S. Even if it was only gas, a spaceship would probably find it hard to handle the temperature and pressure at the center of Uranus.
+As the gas giants contain a solid core, why is it the surface of those cores not included in the drawing? Just like Earth, Mars and Venus, they are still just solid with a (very thick) atmosphere. GadgetViking (talk) 23:55, 2 July 2014 (UTC)
+Because it is a core and not a surface. On Earth, for example, most of the planet's total mass lies below solid ground, which can be considered the surface of the planet. In gas giants, most of the planet's mass is gas and lies outside the solid layers. How can it be the surface of the planet when it doesn't include most of the planet's mass within it? Suggested reading:[1]103.22.201.239 11:03, 3 July 2014 (UTC)
+If the spaceship has not braked enough down it would burn up in the atmosphere. If it has it would get stuck in the core of the planet, where it would eventually get crushed, as the pressure would be brutal way before reaching any rock or metallic hydrogen. Although I did like the first comment :-p Kynde (talk) 21:00, 2 July 2014 (UTC)
+Well, the cores are only non-gas because they are under so much pressure. If we tried to stitch them together, we would first have to dig away some of the gas on top... which would create more gas, because of less pressure. Take away all of the gas, and there is nothing left.RedHatGuy68 (talk) 03:30, 20 April 2016 (UTC)
+And of course the earth is not correctly displayed: we have water which - in most cases - is not solid. -- jesterchen 141.101.75.19 07:23, 2 July 2014 (UTC)
+Water still has surface area. Edit: oh, I see what you mean now, from the title in the comic. I guess you have a point, but it's mainly there for comparison so it's not necessarily a mistake. --NeatNit (talk) 06:14, 2 July 2014 (UTC)
+Under the water there is solid bottom --JakubNarebski (talk) 07:01, 2 July 2014 (UTC)
+Anyone else notice the alliteration in the title? It doesn't really matter but I like it. 108.162.216.77 (talk) (please sign your comments with ~~~~)
+But then it is not "surface" anymore... but you two have a point. I focused mainly on the title, not the image text... So forget my comment :) -- jesterchen 141.101.75.19 09:12, 2 July 2014 (UTC)
+Water indeed has a surface, while gas doesn't. 141.101.104.47 11:13, 2 July 2014 (UTC)Martin
+See the current explain - just remove the water from earth, and the earth's surface area would still be almost as big. It is only 3-4 km (on both sides) out of 12,000 km in the diameter. There are also fluids on some of the rocky moons (Ice and then water beneath on Europe, Methane lakes on Titan etc.)Kynde (talk) 21:00, 2 July 2014 (UTC)
+There is also small section named "All human skin" (between Earth and Titan)... if you think about thread and needle... ugh... --JakubNarebski (talk) 07:01, 2 July 2014 (UTC)
+This is exactly the same as seen from the planets perspective. Kynde (talk) 21:00, 2 July 2014 (UTC)
+This seems to be an island floating on something, maybe it's floating on the sun's plasma? --BelgianAtheist (talk) 08:24, 2 July 2014 (UTC)
+Or a supercontinent with an ocean around (so not floating). As the whole thing is just 3-4 times larger than earth, it would not need a very big planet to support it - a surface area 9 times as big as the earth would be plenty of big enough to contain the entire map (including all the ocean in the square). So the radius would only need to be like 3 times as big as the Earth's. No need to use the Sun for this... ;-) Kynde (talk) 21:00, 2 July 2014 (UTC)
+So, what's the area surrounding Earth's landmass? It's not named, or am I blind? 141.101.99.218 09:46, 2 July 2014 (UTC)
+It is the rest of the Earth - that part which is covered by the Ocean Kynde (talk) 21:00, 2 July 2014 (UTC)
+Don't think it is strictly accurate to say that earth is included 'for scale' -- surely it is included because it qualifies to be on the map. Otherwise it's a bit like saying that Belgium is included in maps of Europe 'for scale' (as 'the size of Belgium' is a well-known unit of land area as in 'Amazonian rainforest the size of Belgium is cut down every week') -- Devonian Earache
+The size of Belium is also famous for its reference in the Doctor Who mini-episode "Time Crash" (see http://www.chakoteya.net/doctorwho/CIN2007.htm) -- Esp666 (talk) (please sign your comments with ~~~~)
+Agree completely with the earth not included for scale. Although maybe the continents are - as there is no features on the other well known surfaces like the moon. Kynde (talk) 20:13, 3 July 2014 (UTC)
+The map of Earth doesn't look like the Waterman Butterfly projection. If it did, the continents would be angled in toward each other, and Australia would be up in the corner. The only thing that is even similar is that Antarctica is shown in "normal" proportions rather than stretched across the bottom. Prometheusmmiv (talk) 11:41, 2 July 2014 (UTC)
+But the map projection reference is very relevant as it is indeed as the Waterman keeping the relative sizes of the continents. And Randall is very in to this obvious from the comic. Thus included again Kynde (talk) 21:00, 2 July 2014 (UTC)
+What's the area on the coast between Asteroids (1km+) and Triton? 108.162.222.50 11:44, 2 July 2014 (UTC)
+Good question. Did he forget it or...? It is way to big to be his own asteroid Asteroid 4942 Munroe ;) And much smaller even than Vesta Kynde (talk) 21:00, 2 July 2014 (UTC)
+I believe I have solved the puzzle - it must be the second largest moon of Neptune (next to the only other very large Neptune moon) and it fits with the size. See explain. Kynde (talk) 20:13, 3 July 2014 (UTC)
+(My first contribution here!) About the Earth/water surface issue, I think Randall is talking about planets' surface, and then it counts both earth and water (like if it were a sphere) 173.245.52.173 12:31, 2 July 2014 (UTC)
+I changed the explanation of the title text. The previous explanation, "all the matter in the solar system converted to a string" cannot be correct. First, he said "first we'll need a gigantic spool of thread". The title text obviously refers back to the title itself, about "stitching" the solar system's solid surfaces together. 108.162.221.79 13:17, 2 July 2014 (UTC)
+Regarding the table, perhaps it would be better to make a separate "Surface area relative to Earth" column? Or may be just a numeric order according to size? The scientific notation of areas does not sort by ascending/descending order very well. 173.245.62.62 14:09, 2 July 2014 (UTC) Also, the average adult skin is around 1.73 square meters. For a newborn, it is 0.25.[2]. Very roughly estimating 1 sq. meter as the mean BSA, we get 7 billion sq. meters, or 7000 sq. km of human skin. That would be slightly larger than the area of either Palestine or Delaware. 173.245.62.62 (talk) (please sign your comments with ~~~~)
+The first has been done - the second has been included in explain.Kynde (talk) 20:13, 3 July 2014 (UTC)
+Should there not be a pixel (or perhaps a slightly grey pixel) for Asteroid 4942 Monroe - area of about 1-3×102 Km2?? Esp666 (talk) 16:34, 2 July 2014 (UTC)
+It would be included in the asteroids larger than 1 km as it is about 6-10 km according to Randall. Kynde (talk) 21:00, 2 July 2014 (UTC)
+Sedna and Quaoar
+Why are Sedna and Quaoar not included? I mean, Sedna is so fantastically far away that I can sort of understand not including it. But Quaoar is only 10% further from the sun than Pluto or Haumea, and it's actualy closer than Makemake! 108.162.238.165 13:33, 2 July 2014 (UTC)
+Probably because we do not yet know if they have a stable surface. They would thus be included in the Various or asteroids sections. Kynde (talk) 21:00, 2 July 2014 (UTC)
+This has now been explained in details - as the why is due to the fact that they have yet to be proven to be rounded by their own gravitational pull... Kynde (talk) 20:13, 3 July 2014 (UTC)
+Sorting
+The numerical column needs to be rewritten (preferably as two columns) in order for sorting to be useful. - Frankie (talk) 14:27, 2 July 2014 (UTC)
+Done Kynde (talk) 20:13, 3 July 2014 (UTC)
+Well the "blank" spot around the earth continents is obviously all the other "solid" stuff we know earth is made up of, the continents are all above sea level are displayed as we see them from space - the rest of the "blank" area is solid mass under the ocean we don't see from up above but know is there through the sciences! 173.245.52.181 (talk) (please sign your comments with ~~~~)
+Perhaps this is the Earth's surface after all the bodies of water vanish? http://what-if.xkcd.com/103/
+Wwoods (talk) 21:07, 2 July 2014 (UTC)
+The water is a so insignificant layer on top of the earths surface (crust) so as not to be included. The continents are just drawn for the scale. Kynde (talk) 20:07, 3 July 2014 (UTC)
+Hannibal Lecter
+I think that should be Buffalo Bill. Hannibal ate his victims, Bill sewed their skins into "clothing". --173.245.52.153 01:41, 3 July 2014 (UTC)
+Corrected, thanks Kynde (talk) 20:07, 3 July 2014 (UTC)
+Coastline paradox
+Doesn't this thing suffer from the Coastline paradox? If that paradox applies to suface areas of 3D objects, then the surface areas of planets and other objects would be infinite or very large. Even if that is not the case, I don't think the 4*pi*r formula would work properly. Theme (talk) 09:40, 3 July 2014 (UTC)
+The difficulty would lie in stretching every mountain and basin into a completely flat surface, which Randall has ignored--You'd need a space iron[3] to do that, besides the space needle. Even the map of our continents would be rather different if the folded surface of every geographic relief was accounted for. Also, that is why very small objects (including tiny asteroids and dust) have been ignored. 103.22.201.239 11:17, 3 July 2014 (UTC)
+If you do as suggested in the explain - skin the planets (ie. for the earth cut of the crust above the mantle) then you would probably be able to flex this around a lot, even before mountains moved much (earth quakes fur sure, but not something that would alter the shape of the continents on the scale of this map). On a scale of the crust (which can be 70 km wide under continents) the mountains are generally not very high. If you leave the highest parts in the middle of the "skin" as in the earth area, then they would not need to be hammered out, for two surfaces to be stitched at the edges. In the end the map is maybe just shown for reference. How the continents looked afterwards is not important to Randall (as for Buffalo Bill in Silence of the Lambs and the original women). The surface area is stretched and cut up in order for them to fit each other. Kynde (talk) 20:07, 3 July 2014 (UTC)
+On the scale of this map, there would be no coastline paradox. This only occurs of you wish to go into details. You just overlap the edges of each surface and sew them together. If there are a few million square meters lost here and there is is of no consequence, except for at the human skin area - but this can probably be stretched quite a bit to make it fit ;) Kynde (talk) 20:07, 3 July 2014 (UTC)
+Checking the size of the areas
+I have been trying to check if Randall has drawn the areas in the correct relative size (to Earth). For instance I could find that the area of The Moon fit more than 13 but less than 14 times on top of the area of Earth (as it should do 13.5 - see new column in the table with these numbers.) Similarly I have checked that there are room for just a little more than 6 Titans on Earth, and that Earth is slightly larger than the Venus area. Also Mars have been checked against earth. It do not have to be checked against earth. For instance if Titan checks out, this can be used to check other object. In this way I have use Titan to see if the area of the moons of Jupiter and Mercury fits. Ganymede, Titan, Mercury and Callisto come in that order. And the other three fit well with Titan, as do Europa. However, I find that Io is not only half the size of Titan (as it should be, but it can be rather difficult to measure.) It would be cool if someone could check on the other areas.
+So far I have checked (to my satisfaction) that the following fits with the area of Earth:
+Venus
+Mars
+Ganymede
+Titan
+Mercury
+Callisto
+The Moon
+Europa
+And only found that I'm uncertain with
+Io
+Kynde (talk) 22:10, 3 July 2014 (UTC)
+Categories: All comicsComics from 2014Comics from JulyWednesday comicsComics with colorLarge drawingsMapsIllustrations of scaleSpaceAstronomy

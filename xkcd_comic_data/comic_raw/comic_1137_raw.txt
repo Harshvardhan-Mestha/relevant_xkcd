@@ -1,0 +1,71 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1137: RTL
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1137)
+The correct title of this page is 1137: &#8238;LTR. It appears incorrectly here because of technical restrictions.
+|<< PrevComic #1137 (November 21, 2012)Next >>|
+‮LTR‬
+
+Title text: Collaborative editing can quickly become a textual rap battle fought with increasingly convoluted invocations of U+202a to U+202e
+‮‪
+Explanation[edit]
+U+202e is a unicode control character that changes all subsequent text to right-to-left (RTL, as the title references). In the comic, Black Hat tires of Cueball's complaining and inserts a U+202e character in the middle of Cueball's speech, turning his complaints into gibberish - sentences that must be read from right-to-left.
+The title of the comic builds on this theme, with the title of the webpage it is hosted on being LTR in some browsers (see trivia), the reverse of the comic name.
+What Cueball actually tries to say after Black Hat's change is:
+— They didn't even...
+...What the hell?
+How did you...
+...Asshole.
+When multiple writers work on the same text, arguments can often arise with some writers resorting to vandalizing the works of other writers. The title text takes this up a level, suggesting the use of U+202e and other direction control characters in editor wars to disrupt other people's work.
+If you ever get involved in such a war, note that U+202c returns text back to its normal direction.
+Transcript[edit]
+[Cueball is standing behind Black Hat who is sitting down with a laptop on his lap.]
+Cueball: And that's not even the worst part! The worst part is that—
+Black Hat types a command on the PC: U+202e
+Cueball: ‮—They didn't even...
+Cueball: ‮...What the hell?
+Cueball: ‮How did you...
+Cueball: ‮...Asshole.
+Trivia[edit]
+In the version originally published there was a typo in the reverse text ("ETH" instead of "EHT" for "THE"). This mistake was corrected within a couple of hours.
+The title given in the web browser, (for instance seen on the icon for the browser bar at the bottom of the screen), for the comic on the xkcd website actually has a U+202e character preceding it;
+The page title is "xkcd: [U+202e]LTR", which for instance causes Firefox to write the page title as "xkcd: xoferiF allizoM - RTL" as the window title. So xkcd and the comics title is correct (The LTR turns to RTL). But the browsers name is reversed.
+It is known to also occur in Internet Explorer, Microsoft Edge, anything based on Chromium, Opera and Maxthon.
+In some browsers (for instance Internet Explorer), this page's title damages the appearance of all older entries in the archive page on xkcd.
+This is the second comic in a row with Cueball and Black Hat discussing. Both with Black Hat with his back turned to Cueball.
+In the previous comic Black Hat broke a mirror, and in this comic he then reverses Cueballs speak
+Not exactly a mirroring of his speak, but still related.
+In the broken archive mentioned above, 1136: Broken Mirror is the first (or last) entry to be broken!
+Unicode Control Characters[edit]
+Unicode number Name Meaning
+U+202a LEFT-TO-RIGHT EMBEDDING The following text will be left-to-right. This will not change directionality of characters, so for example Arabic letters will stay right-to-left. This character alone does nothing in an English text, since the text direction is left-to-right by default.
+U+202b RIGHT-TO-LEFT EMBEDDING The following text will be right-to-left. This will not change directionality of characters, so Latin letters will stay left-to-right. Full stops, which don't have a directionality on their own, will be left of the sentence. Use this character for some little misplacings that cause big confusion.
+U+202c POP DIRECTIONAL FORMATTING The following text is formatted like the text before the last U+202a, U+202b, U+202d or U+202e character.
+U+202d LEFT-TO-RIGHT OVERRIDE The following text will be left-to-right. Additionally, the directionality of characters is changed to left-to-right. Used alone in an English text, this will only affect characters that are right-to-left by default, like Arabic letters.
+U+202e RIGHT-TO-LEFT OVERRIDE The following text will be right-to-left. Additionally, the directionality of characters is changed to right-to-left. Use this character to completely screw up an English text.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+There's a typo in the comic - hte should be eht for "the" spelled backwards -jars99
+Unless you consider "th" a single character, which by the way makes a lot of sense as it is derived from old-english "eth". -- 62.245.198.190 (talk) (please sign your comments with ~~~~)
+Unless you further consider that "they" doesn't share that in the comic, making it internally inconsistent. 76.122.5.96 11:40, 21 November 2012 (UTC)
+It should be noted that at some point, "the" was corrected. Rawmustard (talk) 16:42, 22 November 2012 (UTC)
+Acutally, unicode 202e doesn't "flip proceeding text back-to-front", it overrides the direction, setting it to "right-to-left" for the following text. It's back-to-front for most of us like "left-to-right" is to other writing systems. I know it's nitpicking, but xkcd readers should appreciate the symmetry. BKA (talk) 07:23, 21 November 2012 (UTC)
+I don't see the reversed title. My window manager is not UTF-8 compatible, so when a window title is set to string containing UTF-8 characters, it doesn't change. This brings the question if it really is a browser problem or if the browsers behave as expected and the window manager is at fault. -- 89.177.52.2 09:17, 21 November 2012 (UTC)
+It's not a problem per sec. Browsers that get the reversed title are processing the UTF symbol correctly, there's no bug there. And the window manager has no bearing on the title text except for maybe font. Davidy22(talk) 09:32, 21 November 2012 (UTC)
+Well its the window manager that renders the window title, but it is composed by the Browser. I think that the browser should insert an appropriate number of U+202c characters, in this case it should be "xkcd: [U+202e]LTR[U+202c] - Mozilla Firefox". That would render as xkcd: RTL - Mozilla Firefox". By the way, the tab caption in Firefox is "xkcd: LTR". In Chromium and Opera it is shown correctly as "xkcd: RTL". Joha.ma (talk) 09:47, 21 November 2012 (UTC)
+Another way to see this in effect is to try to type in this test page: http://www.fileformat.info/info/unicode/char/202e/browsertest.htm - and this also works in etherpad, as suggested in the caption.--Anarcat (talk) 00:09, 22 November 2012 (UTC)
+Black Hat seems to have used U+202b, not e. The individual characters are left-to-right. Check the D, E, L, N, S, and ? 24.193.153.138 02:46, 22 November 2012 (UTC)
+No, U+202e does not actually mirror the characters themselves, just the displayed order. U+202b only changes the order for characters that don't have embedded direction, such as the period, which can be used with multiple languages. Bugefun (talk) 05:00, 22 November 2012 (UTC)
+Actually, it does mirror some characters, namely those that have the mirrored property. For example, the parentheses or mathematical relations like the less-than sign. Here is a list of them. --Ulm (talk) 12:34, 22 November 2012 (UTC)
+‮The text is not always mirrored - some browsers and font-sets do not 'understand' U+202E, so the text here might be displayed with a box before it. 173.49.135.77 15:24, 27 December 2012 (UTC)
+The title of this comic has an embedded RTL in the title, as has been noted somewhere. Because of this, Randall's Archive page is now screwed up, with all titles before this comic (listed after this comic on the Archive page in descending order) now being reversed. Ha, ha! He hacked himself! 70.111.5.179 01:59, 14 January 2013 (UTC)larK
+
+just randomly came across this comic today, and not only is the title LTR, but also preceeded by some gibberish characters: "â€®LTR" using firefox, don't know how - i don't think it has always been like that on my machine... 162.158.89.187
+Same here (as in on Firefox). Kinda messed up my 'looking stuff up on explainxkcd' workflow... It also shows up like that on InternetExplorer.108.162.229.110 15:21, 2 December 2019 (UTC)
+It's working for me right now; title shows as RTL, and Firefox's title bar shows "xkcd: xoferiF allizoM - RTL". As for those gibberish characters, that's U+202e in the wrong encoding -- probably Windows-1252 instead of UTF-8. Check your browser's encoding if it's still happening. --Aaron of Mpls (talk) 23:54, 16 June 2020 (UTC)
+For me it is xkcd:emhorC eglooG - RTL --Lupo (talk) 05:28, 17 June 2020 (UTC)
+I can't remember which key to hold down while doing the 202e bit. So far, Ctrl, left-Alt, right-Alt, and Ctrl-Alt don't work. 198.41.238.107 05:21, 7 December 2021 (UTC)
+Funnily enough, LTR also redirects to RTL on Explain XKCD. ‮ClassicalGames (talk) 04:04, 2 May 2023 (UTC)
+Categories: All comicsComics from 2012Comics from NovemberWednesday comicsComics featuring CueballComics featuring Black HatComputersUnicode

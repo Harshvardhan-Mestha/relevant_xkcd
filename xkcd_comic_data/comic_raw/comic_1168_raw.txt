@@ -1,0 +1,101 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1168: tar
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1168)
+|<< PrevComic #1168 (February 1, 2013)Next >>|
+tar
+
+Title text: I don't know what's worse--the fact that after 15 years of using tar I still can't keep the flags straight, or that after 15 years of technological advancement I'm still mucking with tar flags that were 15 years old when I started.
+Explanation[edit]
+tar ("tape archive") is a Unix application that creates (and extracts) archives in the ".tar" format. It is typically used through the text-based terminal, using cryptic single-letter arguments such as "tar -cvf archive.tar *". Many Unix executables are distributed via tar archives; as a result tar files would be encountered by Unix users as commonly as Windows users encounter EXE files. Depending on the flavor of Unix, the order of the flags, or the exclusion of the hyphen, could render the command incorrect, which would either throw up an error or worse, cause one to accidentally overwrite or delete important files.
+The comic alludes to the fact that, despite years of use of the command, it is incredibly hard to remember what the letters stand for without looking them up, such as with Google. The joke here is that a "tar" command with perfect syntax on the first try without outside help is such a daunting task that even Rob can't overcome it with confidence, and apologizes for not being able to prevent their imminent death.
+The title text points out that while much of computing changes very quickly, the tar program, which is very old (originating ca. 1975), is still around and heavily used. Randall points out the paradox that after 15 years he is still unable to write out a proper tar command from memory, yet at the same time he feels that he shouldn't have to and a newer, better tool really should have come along already.
+There is probably also a pun on "tarbomb," a poorly created tar archive that, when extracted, dumps a load of files into the current directory that the user has to clean up. And although the bomb looks more like Fat Man, the type of bomb that was used over Nagasaki, at least size-wise, it may also be a pun on the name of the largest ever hydrogen bomb which was called the Tsar Bomba (translation: "emperor bomb").
+In 208: Regular Expressions Cueball saves the day by knowing regular expressions, although in the title text it is alluded to how easy these may also miss a character.
+Rob may refer to Rob Pike, who was a member of the team at AT&T who created Unix.
+Transcript[edit]
+[Megan and White Hat stand next to a nuclear bomb. The bomb has a hatch open on top, and a small blinking screen. The two people are shouting off-screen.]
+Megan: Rob!
+Megan: You use Unix!
+White Hat: Come quick!
+[Megan, White Hat, and Rob look at the screen on the bomb. Rob peers closely. The screen is on the bomb, but is shown at the top of the panel in black with white letters, except "tar" and the last underscore which is in gray and "ten" which is black but written in a white box. The text reads:]
+To disarm the bomb,
+simply enter a valid
+tar command on your
+first try. No Googling.
+You have ten seconds.
+~# _
+[They all stand in the same position, but without the text displayed. Beat panel.]
+[Still in the same position but White Hat becomes impatient.]
+White Hat: ...Rob?
+Rob: I'm so sorry.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I thought the title text would be "tar --help" 123.202.19.132 06:59, 1 February 2013 (UTC)
+Is it good that I could have disarmed the bomb, and I have only used tar (or for that matter, Linux) sparsely? NSDCars5 (talk) 12:16, 9 May 2014 (UTC)NSDCars5
+The comic is about the difficulty of the tar program options.
+Even if his life depended on it and after years of usage, Bob/Randall could not come up with the right parameters without looking them up. So a situation is shown, where Bob's life depends on coming up with the right parameters:
+It shows an atomic warhead
+It has a user interface, which requests any valid tar command
+If it is not entered on the first try within 10s, the bomb is not disarmed and potentially explodes on the spot
+Randall has come up with a situation, where the unix guy Bob can be the hero by knowing tar parameters. This is a pipe dream of a geek; nobody cares IRL, if you know tar parameters on the first try.
+It is hilarious, that
+the bomb says in full detail the rules including that you should not cheat and it probably has no means to check whether you cheated. This is no game, but feels like one. In war and love every means is allowed - even cheating; it would also be self-defense for disarming the bomb; Bob and his colleagues are not even considering to cheat.
+the user has root access to the bomb, shown by the bomb as ~#, the tilde is the home directory, the # signifies super-user rights; even if the available programs prevent the bomb from being shutdown or disabled by a nonintended way, normally no root access is given for users of linux devices during normal usage; and disarming the bomb with official rules is normal usage of a bomb; a root prompt should not be necessary, if the bomb software is designed and configured well; possibly the unix prompt is a simulation for entering an answer
+Bob shurely needs more than 10s to come. So the bomb will have announced that questions, which require unix knowledge will follow - or has already asked other Unix questions; perhaps after 10s without entering anything a new question comes up
+this bomb can be disarmed with "common knowledge"
+Small notes:
+The screen looks to be really grayscale (esp. the inverted "TEN") - not just because of the comic; it has at least 3 colors (black, white, tar gray); it could be that the "TEN" is updated dynamically and is thus inverted
+The comic is quite black: The screen and the bomb; Randall seldomly uses solid black areas; the bomb is a gloomy topic so it is black like "tar" (pun)
+Sebastian --178.26.121.97 07:24, 1 February 2013 (UTC)
+I think there is a visual double pun in this strip: the bomb disarmed by a tar command is a reference to the tarbombs, but it also looks like the Tsar Bomb(a). --Koveras (talk) 08:24, 1 February 2013 (UTC)
+I don’t think it looks like Tsar Bomba. If anything, it is much more similar to Fat Man. --Mormegil (talk) 08:38, 1 February 2013 (UTC)
+Yeah, but "Fat Man" doesn't sound like "tarbomb". --Koveras (talk) 10:48, 1 February 2013 (UTC)
+Furthermore, the Tsar bomb was much bigger; I think I've read somewhere that it had the size of a bus. --95.34.7.179 11:11, 3 February 2013 (UTC)
+I think another joke is in the fact that you don't know which Unix is running on the bomb so you don't actually know which parameter layout is supported. tar --help for example may or may not be valid since -- is a GNU extension.
+tar -bvzx for a tar.bzip2 .... wait... no... argh... I've always just trusted my fingers.. --59.167.191.93 10:14, 1 February 2013 (UTC)
+Will tar -? be valid everywhere?. Arifsaha (talk) 19:32, 1 February 2013 (UTC)
+No, in very old implementations of tar (pre-POSIX), the hyphen is not permitted before flags. I believe that tar ? will be though. 172.68.54.166 19:55, 14 April 2020 (UTC)
+It's worse than that, neither of those are safe. tar ? is particularly bad, because if you have a single-character filename in your directory, like c, then this will be the equivalent of tar c after shell expansion, i.e. to create a file. It's a lot less like that you'll have a file named -c (and you'd probably have to refer to it as ./-c most of the time), but the problem remains. So instead, at the shell command-line, you must quote the question-mark, i.e. tar -\? or tar \?. Still, I think it could be fairly argued that anything that causes tar to print the usage text would not qualify as a "valid" command for purposes of the bomb. JohnHawkinson (talk) 19:29, 7 April 2022 (UTC)
+tar -lvvb archive.tar.bz File not found. Sorry, you're dead. ~# 74.82.68.68 12:35, 1 February 2013 (UTC)
+Googling tar commands would definitely take more than 10 seconds, especially considering that Rob did not take his computer. (A smartphone is an option, but...) Then again, why would "ten" be written in letters instead of numerals? Greyson (talk) 13:28, 1 February 2013 (UTC)
+I think the clock is already counting down. So probably they've discovered the bomb with still some minutes on the display. They call Bob when there is a minute left, He arrives with 25 sec's on the display and 15s later the screendump is made... 86.82.116.63 22:33, 1 February 2013 (UTC)
+This makes sense. --Shine (talk) 22:41, 1 February 2013 (UTC)
+I think the current explantion is missing an important point: the tar commands are not that much difficult. What makes tar complicated is that there are many different implementations. The linux guy knows only gnu tar, but some unices have much different implementations and different commands. "tar --help" is certainly not available on an old hpux, for example. That make is difficult to type a valid tar command – even more if you don't know the implementation. 212.222.53.78 10:26, 1 February 2013 (UTC)
+Will tar -? be valid everywhere?. Arifsaha (talk) 19:32, 1 February 2013 (UTC)
+I'm a Windows user, so bear with me. Couldn't he type something like "man tar" to get the proper usage of the "tar" command on this particular system? It's a "man" command, so it shouldn't count as a try towards typing a "tar" command. Of course, maybe the bomb would explode if he entered anything else. 70.31.159.230 13:46, 1 February 2013 (UTC)
+Yeah, all standard Unix installations should have man installed. But many mini installations don't, so these days Google is the standard backup.CityZen (talk) 14:58, 1 February 2013 (UTC)
+Fixed comment/wasn't reading. Only thing I can say here is that I've used embedded distros without 'man'; you could probably 'strings' the binary though. Elvenivle (talk)
+Randall's joke is spot on, as usual. I've been using UNIX for nearly 30 years. Windows User's solution is elegant. Before Google there was the man command. In all seriousness, productivity on a UNIX box can be greatly enhanced simply by keeping good notes. I keep patterns of all sorts of UNIX commands handy so I don't have to look them up. As Wikipedia implies, tar -tf (I prefer -tvf) should be memorized because one quickly learns that one should always inspect tarballs before unpacking them. – tbc (talk) 14:11, 1 February 2013 (UTC)
+One of the reasons that tar is so useful is that it can often do exactly what you want when other, more obvious commands cannot. For instance, recursively copying a directory from one place to another (using "cp") can be tricky when symbolic links are involved, and thus people memorize incantations like "tar cf - . | (cd dest; tar xf -)". As well, it's a standard tool that's guaranteed to be found on every Unix installation (unlike zip/unzip).CityZen (talk) 14:58, 1 February 2013 (UTC)
+tar --help. Problem solved. Davidy22[talk] 15:21, 1 February 2013 (UTC)
+Maybe tar -? is better?. Arifsaha (talk) 19:32, 1 February 2013 (UTC)
+What about "tar xf foo.tar"? I always assume options without dash work everywhere because options they are the original scheme. Of course, foot.tar might be absent, but in my view, the command itself remains valid. As to the time limit: I imagine a countdown starts when the first key is hit - that leaves little time for "man tar". 46.142.35.251 16:49, 1 February 2013 (UTC) madd
+It feels like a partial reference to comic xkcd 208--108.162.157.176 04:31, 2 February 2013 (UTC)
+I don't find tar all that tricky. The situation I'm always trumped with is when copying data, using cp, scp or rsync -r, then chmod -R /data 555. Why is '-R' capitalized? --98.253.217.12 19:54, 2 February 2013 (UTC)
+Because -r is 'substract the "read" right'. More interresting question is, why ssh -p but scp -P? -- Hkmaly (talk) 00:03, 7 February 2013 (UTC)
+First thing that struck me here was the Jurassic Park allusion. Surprised no-one else has mentioned it.--58.6.184.37 07:01, 3 February 2013 (UTC)
+No one mentioned "What are four lowercase letters that are not legal flag arguments to the Berkeley UNIX version of `ls'?" question either ... -- Hkmaly (talk) 00:07, 7 February 2013 (UTC)
+Does this mean we should start retroactively rename cueball to "rob"?
+Rob is a Cueball, not every Cueball, so no. JET73L (talk) 14:05, 8 February 2013 (UTC)
+By that logic, Megan is a Cutie, not every Cutie. We should only name Megan in comics where her name appears. Djbrasier (talk) 17:07, 12 March 2015 (UTC)
+There is something morbid in the subtext here.... I have a feeling that Randall is going to kill off Megan, Rob, and "White Hat"... Greyson (talk) 01:47, 4 February 2013 (UTC)
+Randall, I am disappoint! I haven't used tar for more than a year and I don't err anymore: tar -xvzf file (.gz) or tar -xvjf file (.bz2), and I still consider myself quite the newb. Works on all flavors of linux I tried (I like trying linuxes on VMs, dunno about other unixes, but everytime I need it, I get it right, so I wouldn't even consider this in my list of hardest programs to get right first time). For those interested: -x extract -v verbose (I like it) -z uncompress (for some compression types, in some flavors this works with bz2, IIRC) -j uncompress (for bz2, maybe others). 189.123.132.123 20:51, 4 February 2013 (UTC)
+Your "z" Is wrong for .bz2 (or .z or uncompressed); it's only for ".gz". The reason it works for you is that your distro is using BSD tar, which silently ignores compression-related flags on the t and x commands and figures it out automatically. Which means you're better off using "-xvf" than "-
+More importantly, "works on all flavors of linux I've tried" is a far cry from "portable". The majority of desktop Unix systems are not linux, but OS X. There are plenty of servers running other BSD flavors. And lots of old machines running commercial *nixes or OpenSolaris. Not to mention Cygwin, and native/MinGW ports to Windows. People checking in code because "it works on Fedora and Ubuntu, so it must be portable" is becoming as big a problem as when people used to test on three different BSD derivatives but no SysV. So you should feel bad. :P 199.27.130.180 01:54, 19 September 2015 (UTC)
+Originally bzip used -y. Not speaking about fact that bzip is pretty new - and some unixes don't have ANY compression support in their tar. -- Hkmaly (talk) 00:03, 7 February 2013 (UTC)
+The quickest tar command with valid syntax would be "tar t". Every switch after the first command letter is optional. Even the initial dash is optional. 85.24.234.35 11:03, 19 February 2013 (UTC)
+(That would also be a command that is valid in every known tar version throughout the universe.)
+Doesn't appear to work; console redirection is used as the input stream, terminated by Ctrl-D, at which point (on Android, and assuming you don't know the format) tar returns with "invalid tar magic" and then $? is non-zero (fail). If however you redirect 2>/dev/null, then $? returns 0 (success). I think the redirection is what's succeeding so any valid prestidigitation ought to work. Elvenivle (talk)
+The tar command actually has a unique syntax in unix. Classicly, it's first parameter is a subcommand (letter) followed by zero or more option letters. (And I think the subcommand had to be first.) Parameters for the options follow in sequence after that, in the same order the options where listed. Then, for the 'c' subcommand, an input filename list follows. This syntax was rather painful when you had perhaps 5 different option letters each with parameters, but this was a normal enough occurance when you specified the tape drive, tape block size, tape length, and a few others I can't even remember. Early implementations would have a file listing tape configurations so you could pick one and all its parameters with a single digit. In any case, it should be noted that a dash ('-') was actually NOT ALLOWED on the parameters. More recent versions of tar have attempted to add the more common unix option parsing, but still support the dash-less form. Having said all that, I tend to prefer "tar xvzf filename.tar.gz" and "tar tvzf filename.tar.gz". Divad27182 (talk) 20:18, 23 February 2013 (UTC)
+I'm not sure about it, so I'll not add to the explanation: doesn't "tarbomb" also refers to a malicious tarball that releases a ridiculously big file filled with blank/random data? 108.162.212.18 01:26, 17 February 2014 (UTC)
+Um... the prompt is "~# "... That's a root prompt. Shouldn't Rob just "~# kill -9 1
+Kernel panic – not syncing: Attempted to kill init!"? 173.245.56.105 03:50, 14 July 2015 (UTC)
+The user is root (indicated by the ~#). So, rm -rf / 162.158.45.48 17:13, 29 November 2015 (UTC)
+Linux/OSX will limp along. Root's also probably preserved and the necessary reboot begs the question if you'd be better off rebooting (with power down) in the first place. Assuming it finishes in seconds (OSX is 12 minutes, about), that multiple commands were allowed, or that 'tar' doesn't have to appear first, I'd assume the verifier could be in ROM. Elvenivle (talk)
+I think the fact that there's a page and a half of comments arguing about what would be an 'obvious' solution shows how difficult a question this is... --108.162.237.226 08:44, 24 January 2017 (UTC)
+It would be cool if someone made this (without the bomb) in real life. 172.68.133.30 02:57, 30 July 2017 (UTC)
+I laughed so hard at this comic I woke up the whole house! -- The Cat Lady (talk) 23:18, 22 September 2021 (UTC)
+Categories: All comicsComics from 2013Comics from FebruaryFriday comicsComics featuring White HatComics featuring MeganComics featuring RobComputersProgrammingLinuxNuclear weapons

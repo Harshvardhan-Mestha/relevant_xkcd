@@ -1,0 +1,42 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1359: Phone Alarm
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1359)
+|<< PrevComic #1359 (April 23, 2014)Next >>|
+Phone Alarm
+
+Title text: Who's calling me?? WHY IS THE WORST PERSON IN THE WORLD CALLING ME!?
+Explanation[edit]
+The flowchart shows a problem Randall has with using alarms built into phones. Notably, that the sound is similar to a normal ring tone (probably related to 479: Tones), making it sound like someone is calling him, and not waking him up. This results in him having a false awakening, where he dreams about answering the phone, talking, and eventually hanging up. Of course this doesn't stop the actual phone from ringing, and he ends up answering the phone again. The looping arrow around the "beep beep" box implies that the phone keeps ringing only until he attempts to answer it, which would be quite a coincidence. This is an example of an endless loop, where there is no given way for the flowchart to end, just as in 1195: Flowchart. Now, smartphones typically support customization of tones for different apps so that your alarm doesn't have to sound like your ringtone and many apps load their own distinctive tone now by default.
+The title text, consisting of Randall shouting at the phone in his dream, enforces the fact that he can't tell between his ringtone and his alarm. In doing so he believes that a prank caller is harassing him which infuriates him. Alternatively, "the worst person in the world" could just refer to the confused logic in dreams, where a caller could, inexplicably yet unquestionably, be the worst person in the world.
+A list of all the flowchart comics can be found here.
+Transcript[edit]
+[A flowchart:]
+[Alarm goes off]
+→ [Beep beep beep beep!]
+↺ One line with an arrow goes back to: [Beep beep beep beep!]
+→ Another line goes to: ["???"]
+→ Then: [Answer phone in dream] → [Talk] → [Hang up]
+→ Finally a line goes back to: [Beep beep beep beep!]
+My problem with phone alarms
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+See also 479: Tones. B jonas (talk) 06:06, 23 April 2014 (UTC)
+I was just about to go hunt that one down for the explanation. Thanks B Jonas! Mrmakeit (talk) 06:13, 23 April 2014 (UTC)
+I think it's safe to say that alarms give you some really weird dreams when you're too tired for them to actually wake you up. 108.162.237.218 06:24, 23 April 2014 (UTC)
+How do I keep screwing up his name. I guess that's what I get for writing an explanation at 2 in the morning. I'll get it right next time. Mrmakeit (talk) 07:03, 23 April 2014 (UTC)
+I think I understand the title text -- the "worst person in the world" is a reference to the fact that when he picks up the phone to talk to whoever's "calling", all he gets is beeping in his ear, which makes for an awful "conversation".
+I red it as the caller being the wpitw because they called while Randall was trying to sleep. — tbc (talk)
+However, I don't understand the "???" box or the reason why one of the arrows keeps looping in on itself, unless it's to show an eventuality where Randall doesn't wake up or ignores the phone?
+Sometimes I think Randall likes to mess with us with obscure, trippy comics just so he can see us scramble to explain them using logical thought progressions. Enchantedsleeper (talk) 10:32, 23 April 2014 (UTC)
+I feel confident the "???" is referring to the initial confusion of any dream world (the first time around), followed by continued confusion of things "not working like they're supposed to" (which often happens in a dream world), especially when you hang up the phone and it keeps ringing but nobody's on the other side - Brettpeirce (talk) 12:20, 23 April 2014 (UTC)
+I can't remember the comic number, but I feel like the title text might be a reference to the comic where he talks about pretending to be an expert in someone else's field and sees how long it takes them to notice. Talking to sociologists (I think) he says his latest work is in ranking people from best to worst. Athang (talk) 21:57, 23 April 2014 (UTC)
+The comic you are thinking of is #451 http://www.xkcd.com/451/ Taibhse (talk) 22:34, 23 April 2014 (UTC)
+Hi, I always though that the comic transcriptions were for the visually impaired, so the arrows on the left of this comic's transcript feels a bit off to me. Can we possibly replace them with textual explanations? Kind regards. 141.101.92.231 12:37, 24 April 2014 (UTC)
+I am the original transcriber of this comic. My first attempt has, for reasons I don't understand, been reverted (strictly speaking, undented (flattened), thus making it ambiguous, which my version wasn't).
+I didn't and won't re-revert it, but I have come up with another layout, tabular this time (and unambiguous again, with one cell per field-arrow node, and with fields distinguished from arrows via HTML table headers vs. cells). Feel free to revert this one, too. 141.101.88.211 (talk) (please sign your comments with ~~~~)
+The transcript is also, but not only, for visually impaired people. The arrows are standard HTML-code which applications for impaired people should understand. The table was bad so I did revert it back to an enhanced version from 141.101.88.211. So IP, please avoid multiple indents and try this to show by text.--Dgbrt (talk) 18:40, 25 April 2014 (UTC)
+My interpretation of the WPITW comment is not that it's thought to be a prank call, but that the poor soul who answers the phone while dreaming may dream that they are receiving a phone call from, say, the Giraffe King, Future Morgan Freeman, the Worst Person in the World, etc. Alanbbent (talk) 23:55, 24 April 2014 (UTC)
+Categories: All comicsComics from 2014Comics from AprilWednesday comicsFlowchartsPhones

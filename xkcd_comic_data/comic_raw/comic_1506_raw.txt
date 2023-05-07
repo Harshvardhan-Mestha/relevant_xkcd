@@ -1,0 +1,285 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1506: xkcloud
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1506)
+|<< PrevComic #1506 (April 1, 2015)Next >>|
+xkcloud
+Contents [hide] 
+1 Explanation
+2 Detailed explanation
+2.1 Functionality
+2.2 News feed
+2.3 Permalink
+2.4 Our policy regarding your personal data
+2.5 Don't contact us
+3 Changes and bugs
+3.1 Changes in the comic
+3.2 Bugs
+4 Transcript
+5 Trivia
+6 Discussion
+NOTE: The above is the first panel of an interactive comic.
+To actually experience the interactive content you need to go to this comic on xkcd (click on the date above the comic, which, as always, takes you to the xkcd comic).
+A page with pictures representing the other three main types of pages can be seen here: Pictures of other pages.
+Similarly here is a page with some of the pictures of the comic created by users: Pictures posted by users.
+There is also a transcript of these other pages. Here are also a list and explanations for the Reason for data loss and the other features like user names and like buttons etc.
+Explanation[edit]
+This was the sixth April fools' comic released by Randall. The previous fools comic was 1350: Lorenz from Tuesday April 1st 2014. The next was 1663: Garden scheduled for release Friday April 1st 2016, but in the end released on Monday April 4th 2016.
+In this interactive April Fools' Day comic Cueball, presumably representing Randall, admits to the readers he built a flimsy cloud services company using spare computers and parts. Included in the cloud hardware are (from left to right) a Macintosh, several old laptops, an Alienware tower, a Nintendo VirtualBoy, an old desktop with the cover off, and an Atari Pong Console.
+He named the company after xkcd, xkcloud being a portmanteau of "xkcd" and "cloud", here pronounced XK-cloud. The portmanteau incidentally still contains all four xkcd letters in the correct order: xkcLOUd. This was later reused for the xkcd keyboard in 2150: XKeyboarCD, where the word Keyboard, has an X before the word and a C before the D with the xkcd letters capitalized.
+After providing his services to various (very big) companies (Facebook, Twitter and Tumblr), that are very concerned with securing the users data, his setup failed (some portions may even have caught fire? He is not sure). This has caused him to lose the data he was required to preserve as part of his service. He thus requests the readers help to make up and re-imagine the lost data by pressing the large red button at the bottom of the comic. Preferably before Facebook & Co notice we lost it.
+If you take him up on his request and push the button, you will be taken to a "survey" where you will get the chance to help by either trying to combine a posted picture with its lost text or, vice versa, by trying to combine a posted text with its lost picture. In either case you get a selection of texts/pictures to choose from but can also choose to write your own text or even draw the picture. After doing this you get to see this combination in the news feed together with several other posts (which other people have helped combine from other lost data). And then you can continue helping as long as you like.
+The content of the "surveys" appear to come from reader submissions, and are different upon every click. This is thus both an interactive and a dynamic comic with only the first picture shown on top of this page. By inviting the xkcd readers to add content that will be displayed in the comic later, the result of all the interactions leads to the generation of crowd-sourced content.
+It was not immediately clear if the reader-created drawings or captions are, in fact, being cycled into the surveys and feeds, or if the displayed items were all created by Randall and the reader-created content is simply discarded. With the huge amount of different comments and drawings that already appeared on the first day, and since especially the drawings look like they are created in the simple Paint app (i.e. not by Randall), there can be no doubt that most of the content is created by the users. However he must have made some pictures to get it all started, and at least one of these can be seen here.
+This comic resembles last years April Fools' comic 1350: Lorenz where user input also generated a very complex crowd-sourced comic. In both comics it was possible to create a permalink to save a given version of the comic to share with others.
+An earlier comic was also related to problems with cloud computing: 908: The Cloud.
+Due to the very complex nature of this comic, there are lots of details that may need an explanation. This can be found in the sections below.
+Detailed explanation[edit]
+Note that there have been some changes and bugs regarding this comic after it was first released.
+Some of the pictures that are referenced below was saved before these changes took place. So consult these changes if the pictures do not match the expectations.
+Functionality[edit]
+Pressing the red button at the front page (shown here above) links to one of two interactive survey pages (see the pictures of all types of pages.).
+All these pages have a news feed below the top post. This will be described here below.
+The Lost picture page (see several pictures here) asks the reader to indicate which of eight line-drawings (see several examples here) best matches a given caption, or the reader can create their own drawing.
+This can be done on the Draw one your self sub-page (see several pictures here) in a simple web-based "paint"-style app.
+Note that someone found a way to copy a picture into the comic. See at least one example of this here.
+The Lost text page (see several pictures here) asks the reader to indicate which of eight captions best matches the given drawing, or the reader can create their own caption and submit this instead.
+These captions are user generated. See transcribed examples of these post from users here.
+In either case, at the top of the pages, we are given the Reason for the data loss. And there are many different reasons (all by account of Randall).
+A list of transcribed reasons (with explanations included) can be found here.
+After completing the "survey" you go to a new page appears:
+The Help us recover more data page (see several pictures here) has yet another red button like the front page, but on this page it is at the top of the page, saying exactly Help us recover more data.
+By pushing this button you go to one of the two "Lost" pages mentioned above.
+It is possible to go back to the front page at any time by clicking the picture of Cueball sitting behind his desk in the same way as he does in the first picture on the front page.
+Cueball is always present to the left on all pages after the front page.
+But if you go back to the front page like this, then if you again click on the "original" red button to return to help with the recovery, you will always go back to the same page you came from (with the same posts in the news feed and if it is one of the lost data pages also with the same post to fix.)
+You can thus only get to a new survey page by finishing the current task (or pressing a permalink as discussed below).
+News feed[edit]
+Below the "survey" or the post you just recovered (to begin with), you will be presented with a listing similar to a Facebook news feed, listing six posts of the line-drawings apparently tagged with the captions as paired up by other users survey results.
+The posts are made by apparently fictional randomly-named readers (see transcribed examples of names here).
+But there are only 20 user pictures. See these (and why it is known that there are only 20) as well as a description of these pictures here.
+The posts are accompanied by a button similar to Facebook's "Like button" but here the button is labeled with different words which are all synonyms for want (see transcribed list of words here). So not "to like" but "to want" is the new thing in this version of Facebook.
+After the first time you recovered a post, there will thus be seven posts on the Help us recover more data page, six new posts below the one you just helped complete.
+The only difference when you click this pages red button (rather than when you start for the first time at the front page) is that there will now be seven posts below the one you need to fix.
+These seven posts are the same as those you had on the previous page, including your own at the top.
+Permalink[edit]
+Next to each post there is a text Link above the "Want" button above the picture. (This goes for all three types of pages mentioned above.)
+The "Link" is an actual link of the type that is called a "permalink", a portmanteau of "permanent-link".
+If you wish to "save" any given post for future reference (for instance one with your own drawing) you can do so by copying down this link.
+Last year's April Fools comic, 1350: Lorenz, was the first time the concept of a permalink was used on xkcd.
+The permalink option did not appear in the comic until very late in the afternoon on April 1. The "Link" was thus not present on the pictures refereed above. (See these pictures instead).
+Pressing the "Link" next to any given post takes you to the page of the permalink:
+This page will show a version of the Help us recover more data page with the chosen post as the top post.
+When you click the permalink it takes you to this "new" page and this page will not show all the posts from the page where you chose it.
+Only the post you saved via the "Link" next to it.
+All the other post will again just be chosen at random, and these will change again every time you reload this page via the saved permalink.
+Even the text on the "want" buttons also continues to change.
+The user name and user picture stay the same though.
+As an example of a permalink this is a post saying: We told Iran that atomic energy is unsafe for a picture of a black devil and two Cueballs next to a road.
+Originally the user name was Mark Zuckerberg but this has since changed to Destiny1983 next to a user picture of a stick figure with black hair on a skateboard.
+See Changes in the comic below for a possible reason.
+Also please make a note here, if the user name and picture is no longer the same.
+A huge collection of permalinks with link to the pictures have been amassed here:
+Table with permalinks contains all known images and captions at least once. (2179 feed entries, featuring 1481 different pictures and 1935 different captions, as of 2015-04-24)
+List of Permalinks contains all known permalinks (25585 links, as of 2015-04-24)
+Details on the permalink[edit]
+Since the post from the page where you choose the first permalink is reloaded... Can you then only save one post at a time?
+The answer is "no" - you can save all posts on any given page.
+For each "Link" text on a given page, there has already been generated a unique permalink URL.
+Thus you can copy any permalink via the "Link", without actually pressing the "Link" to obtain the permalink for a given post.
+Furthermore, since this may be the only comic where you can copy the text, you can simple mark the entire page and copy paste it into a document that contains formating. If you do this then you will have all the text, pictures and most importantly the permalinks for all the posts.
+If you click the Link and go to the permalink page there will be seven posts, six new and the one you just saved.
+The behavior of the posts is very strange from here if you press more permalinks on this first permalink page
+Also it will not be the same again after this first time as compared to if you continue to help recover more data and use the permalink later.
+On this first permalink page, where your chosen post is at the top, if you click on another post's permalink the following will happen:
+The post you originally choose disappears from the page, as the new chosen post is moved to the top.
+The other five post remains in the same order, so there are not only 6 posts.
+If you continue to choose the other posts one at a time, they will simply exchange place with the one at the top, with all six posts remaining.
+Once you have been through all of them, then the order of the post has been determined.
+So if you click on a "Link" that you have already once activated, then this page will just reload, and the post will have the same order as last time.
+This is only until you choose to reload, or when you load such a permalink later. Then again it will just be the chosen post, and then always six other new posts.
+If you then at some point move on via the red button you kind of stay in the permalink page, now just with new options to choose from.
+If you then create a new post, six new posts will be loaded below.
+When you click on a permalink at this point, there will not be any reloading of the post (because it is not the first time).
+Any post you click will move to the top, but all the other (six this time) will stay, the top post just moving down to another position.
+It is not always a direct exchange. Sometimes the top post moves to another position and then pushes the others down until they reach the now calculated position of the post now at the top.
+Our policy regarding your personal data[edit]
+On every of the pages after the front page Cueball sits at his desk labeled XKCD.COM
+Below him are xkcloud's policy:
+Our policy regarding your personal data:
+Please stop sending us your personal data
+We are running out of places to put it
+Is this even yours?
+Does anyone recognize whose data this is?
+Oh jeez never mind here comes more data
+Why are you doing this
+Please stop
+Help
+As can be seen he is getting desperate because people keep sending them more data.
+He has no place to store it.
+And he do not even know who the data belongs to.
+So now he hopes someone else recognize the data (what you are doing if you choose to help).
+In the end he simply pleads for people to stop and then shouts Help.
+If you click on the desk you are sent back to the front page of the comic.
+But below Help is their real contact detail Don't contact us:
+Don't contact us[edit]
+At the same time that the permalink appeared, there was also suddenly a new link on all other pages than the front page:
+The link is written in a very weak gray font; it can even be hard to see on some screens. However, it can be found using a simple ctrl-f.
+It has possibly changed color since it first appeared, as it was fairly easy to see then.
+This is certainly intentionally done so by Randall, as it is a reference to another comic (see below).
+It is located right beneath help at the bottom of the list of problems written under our policy regarding your personal data right beneath Cueball at his desk to the left (see picture here).
+In some cases tilting the screen will help to make it visible.
+If you cannot see it, you can still find it with the cursor, or you can also highlight the text below Cueball all the way down and copy-paste it into a text editor to see what it says.
+The link text reads Don't contact us and links to a chatroom at euphoria.io.
+Clicking the link opens the xkcd chatroom at Euphoria. (See a picture here).
+Several xkcd users began posting there at around 18:00 Eastern time (Randall's timezone).
+After picking a username, you can chat in real time with the other users.
+When you return later, the site will remember your user name.
+You can change your username by clicking on it near the bottom of the screen, and entering a new one.
+We are open for anyone to chat here. Hey you! Come right over and say hello to us! ~euphoria.io/room/xkcd
+Undocumented Feature[edit]
+This chat room is reminiscent to the one in comic 1305: Undocumented Feature.
+As mentioned above Randall has linked to a chat room, that is:
+Hard to access! You need to know that there is a hidden link on the pages you get to by pressing a red button in xkcd 1506.
+Only those who entered the page at the right time, would have a chance to learn about this themselves (else they have to come to a page like this).
+It is not easy to even find the "euphoria.io" home-page.
+You do get to choose your user name (this is not the case in Undocumented Feature) but you could change it. Or others could use the same.
+At the moment it came out, many users began using the chatroom.
+Maybe Randall timed these extra features for when people came back from work all over the US.
+Changes and bugs[edit]
+During the first day there occurred several changes to the comic, and also some bugs very present.
+Changes in the comic[edit]
+All the changes mentioned here occurred during April 1 on the release day:
+Since being originally posted the words "Click here" were relatively quickly added in large text to the top of the red button followed by the word "to" being added to the beginning of the existing text.
+The text changed from
+Help us recover user data before Facebook & Co notice we lost it. to
+Click here to help us recover user data before Facebook & Co notice we lost it.
+The reason for this is most likely that too few users understood that they could enter a second part of the comic by clicking on the red button.
+Late in the afternoon on April 1 (around 18:00 ET) several changes occurred to the pages that can be reached from the front page:
+The permalink option appeared
+The link that says Don't contact us appeared under the text beneath Cueball's desk with a link to an xkcd chat room.
+Though only for the text font to fade out to being almost invisible again later on April 1.
+The alignment of the text right beneath Cueball's desk changed. (Compare this before picture with this picture after 18:00 ET).
+The number of posts increased from 3 or 4 to 6 or 7. (See the pictures above — scroll down to see the relevant after picture).
+Also the number of pictures and text to choose from increased from five to eight (as can also be seen by comparing the pictures found here for before — for text and for picture — with the pictures after (scroll down as mentioned before)).
+The reason he increased the number of posts (both to see and to choose from) could simply be because there where now is so many possible posts that the risk of seeing the same is smaller even with 6 posts.
+Sometime on April 2, Randall made an update to the names list.
+That this happened could be seen since the names shown in permalinks did change. And since then they have stayed constant.
+For instance, this permalink, to an atomic bomb explosion with the caption that's one nasty burn!, had the name "Lauren Ibsen Dolores Amit" (a play on "Lorem ipsum dolor sit amet"), but now displays the name "Virginia2006" next to a picture of a man with black hair.
+(If this changes please make a note - then the names list have either been changed again, or the assumption that the names stay constant is wrong.)
+Bugs[edit]
+From time to time, instead of the interactive page there is a page with three dots only.
+This also occurred after April 1.
+Around 18:00 when all the changes occurred the xkcd page did not work properly. (Overload plus new features).
+The chat room was also overloaded at this time.
+Transcript[edit]
+[This transcript only transcribes what can be seen in the first picture shown at the top of the explanation here. For more see link below.]
+[One large frame with a five part comic and a large red button at the bottom.]
+[Cueball sitting behind a desk.]
+Cueball: We've made a huge mistake.
+Desk: XKCD.COM
+[Cueball stands and indicates a motley collection of computers and related equipment strewn around the desk.]
+Cueball: I figured starting a cloud services company would be easy.
+Cueball: After all, I've got tons of computers!
+[A zoomed view on Cueballs head.]
+Cueball: Facebook, Twitter, Tumblr— they all struggle to protect privacy and user data...
+Cueball: And we offered a solution.
+Cueball: I forget what it was, though.
+[Cueball is standing with his arms up.]
+Cueball: Anyway, long story short, we screwed up immediately and lost tons of their data.
+Cueball: Also a bunch of stuff is literally on fire?
+[Cueball standing behind a desk.]
+Cueball: We can fix this.
+Cueball: But we need your help.
+Desk: XKCD.COM
+[Below the above is a large red rectangular clickable button, that will take the reader on to the interactive part of the comic. On the button it says in large white letters:]
+CLICK HERE
+To help us recover user data before Facebook & Co notice we lost it.
+[The standard text for the next possible pages can be seen on the link to the continued transcript. Also here will be a list (which may not be possible to make complete) with possible text for the lost data.]
+Trivia[edit]
+It's the first comic:
+Without a title text. (If you don't count the unnumbered A Smarter Planet comics and 404: Not Found.)
+Where you can copy and paste most of the text from the comic. I.e it is not drawn but printed.
+This goes only for the follow up pages after the front page.
+It does not only go for the user input.
+These two facts could go together since the way this comic had to be created (i.e. it is not a single picture), there may not have been any possibilities for making a title text
+Source code of elements in the drawing interactive contain the attribute "data-reactid", indicating it is written using the React JavaScript library, developed to use with Facebook & Instagram.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The lack of a hover text breaks all sorts of things :) e.g. Floern's unofficial xkcd browser linked here via the hover text but it won't display the link or the lack of give text if there's no hover text! We may get a few less visitors for this comic as a result...
+108.162.229.115 08:42, 1 April 2015 (UTC)
+Still getting swamped, it's business as usual for April 1st. Davidy²²[talk] 09:06, 1 April 2015 (UTC)
+Why is "literally on fire" a question? 108.162.249.163 09:52, 1 April 2015 (UTC)
+It indicates uncertainty. He's not really asking a question, but making a statement hesitantly. 141.101.99.22 (talk) (please sign your comments with ~~~~)
+Indeed, see also uptalk. Pesthouse (talk) 10:03, 1 April 2015 (UTC)
+How does i work? Does it work? When i click the "Help us"-Button i just get a blank comic with "..." written at the top :( 108.162.254.148 10:14, 1 April 2015 (UTC)
+same here. any hint? --141.101.92.82 22:58, 1 April 2015 (UTC)
+Oh boy, time to find out if mediawiki does imagemaps.--Henke37 (talk) 10:31, 1 April 2015 (UTC)
+The image was updated on xkcd.com the button now reads "Click here to help us recover user data before facebook & ca notice we lost it ẞ qwertz (talk) 10:48, 1 April 2015 (UTC)
+Can someone update the picture without just making a screen shoot? It is not like you can save it the normal way. --Kynde (talk) 14:39, 1 April 2015 (UTC)
+I have never understood how this works. I did try to change to the new version, but it somehow keeps loading the old version, even though I know that I did load a new version up. Even on the file page my file loads as the wrong one. I have tried this more than once... Previously the image has updates to the new version later without a new upload appearing. But I have no idea why...? --Kynde (talk) 19:39, 1 April 2015 (UTC)
+
+I decided to man up, get the train rolling and submitted the first revision of the explanation. Do expand, retouch, overwrite, format and correct my simple explanation. I didn't know if the 3 already existing posts, the ambiguous text posts or the drawings are user-based, so I avoided saying so in the explanation. I'll just add something about the covet/thirst/hanker/crave in a moment, and I'm done. 173.245.53.151 11:11, 1 April 2015 (UTC)
+This comic has an empty alt text. See http://m.xkcd.com/1506/. 108.162.221.201 13:50, 1 April 2015 (UTC)
+There's a silent character limit (no error message, just non-acceptance; You can still comment the image again, but the text is lost unless you copied it first) somewhere between 222 and 298 chars. I tried to make a start at playing Identik with an image, but only came half way through. Guess, I have to write shorter...
+Someone figured out, how to copy&paste some grayscale image.
+I managed to submit a color image, but haven't seen it coming back yet. Tell me when you find a red one.
+There is at least one image that is too fine to have been drawn in that minimal editor (squirrel+football). I guess, it's one of the initial images that Randall provided. -- Xorg (talk) 14:00, 1 April 2015 (UTC)
+There's also an image of Buzz Lightyear that appears to be copy-pasted in. I'm not sure how someone would have accomplished that. How did you mange to get color, user 2 above me? If anyone seems a stick-figure comic titled 2006 in which one character says to the other "You're never going to achieve anything if you spend all your time on that web comic ... Now back to my Zune research", that's mine. Post here and let me know! TheHYPO (talk) 14:33, 1 April 2015 (UTC)
+Here is the Buzz lightyear permalink http://xkcd.com/1506/#post/c5e85bbb-6757-5912-91d1-b51e2703144d Below is a description on how to "copy paste" a picture in. Although it has nothing to do with copy. --Kynde (talk) 19:17, 2 April 2015 (UTC)
+Gone. —While False (museum | talk | contributions | logs | rights | printable version | page information | what links there | related changes | Google search | current time: 20:09) 18:27, 17 November 2022 (UTC)
+I used the web console to get a drawing context on the canvas object. After submission the image was actually transferred to the lower area, but now, I suspect that it wasn't really the data that got uploaded... -- Xorg (talk) 15:00, 1 April 2015 (UTC)
+I used a similar method (injecting modified base64 directly into the stream) to submit goatse :) --Okofish (talk) 22:41, 1 April 2015 (UTC)
+Yes although I'm certain that most of the images are from users, it would be nice to hear from someone who can confirm that one of their images has been spotted -- Kynde (talk) (please sign your comments with ~~~~)
+I can at least confirm that one of my texts has been spottet by someone else. I got the black image and wrote "I finally managed to disable the flashlight of my camera". Later I saw an image combining a hammer, a nail and a camera to depict my description. -- Xorg (talk) 15:00, 1 April 2015 (UTC)
+(I'm not sure if I'm doing this commenting thing right, but) on the "Pictures posted by users" page here I saw a drawing I did in response to text along the lines of "Sauron, stop staring."173.245.50.160 21:02, 3 April 2015 (UTC)
+The last computer device at the far right is a first generation SNES. 173.245.56.193 15:12, 1 April 2015 (UTC)X
+I keep reading the unidentified computer (second to rightmost) as a SunSPARC (that could kinda be the Sun logo) or a NEXT cube (right shape but no match to the logo) or something. Not sure where someone got 'radio transmitter'. Ijkcomputer (talk) 19:56, 1 April 2015 (UTC)
+My first reaction to the second-to-rightmost was some kind of homebrew like an S-100 CP/M system with open-air cards in slots and a cased power supply or maybe a storage device, and a CRT with a graphic shown on it.Taibhse (talk) 04:45, 2 April 2015 (UTC)
+I think the general idea is based on a game that I think is called the fax machine game? 198.41.242.5 15:29, 1 April 2015 (UTC)
+I really, really, hope that some people have seen my contributions. They're pretty damn funny. The Goyim speaks (talk) 17:20, 1 April 2015 (UTC)
+There's a link(Don't contact us) at the bottom of the list on the left that leads to a chatroom.Foldark (talk) 22:29, 1 April 2015 (UTC)
+Seems like the comic stopped working right now? --Kynde (talk) 22:46, 1 April 2015 (UTC)
+It is also not working for me. I had assumed I was personally blocked for polling the server too often... but maybe we DDOSed it. -452 (talk) 22:55, 1 April 2015 (UTC)
+It's working for me again. -452 (talk) 22:56, 1 April 2015 (UTC)
+I believe the 'Don't contact us' button is slowly fading away. 173.245.50.137 02:18, 2 April 2015 (UTC)
+I believe the chat has been removed, I just got booted with a "This room requires a passcode", and now it won't load: https://euphoria.io/room/xkcd/ -452 (talk) 02:33, 2 April 2015 (UTC)
+The contact is fading, but I can still see the text by tilting my screen. The link is still there. Maybe this is for the reason mentioned above in the explain. So only those who keeps coming back will remember eventually... And they can have the kind of chat forum that Randal talks about in 1305. I have just been at the chat. Maybe "452" just tried at a time when there were to many users on-line`--Kynde (talk) 19:17, 2 April 2015 (UTC)
+Since being disconnected from the caht with the "This room requires a passcode", I have tried multiple times to rejoin, and it never connects. -452 (talk) 13:01, 3 April 2015 (UTC)
+Looks like something Randall drew originally... https://xkcd.com/1506/#post/d6e6524c-80a5-5672-a539-8076c5c0342f --199.27.128.172 06:01, 2 April 2015 (UTC)
+Yes it sure does. Of course if someone used the method mentioned below they cold draw better than most can on the xkloud app. --Kynde (talk) 19:17, 2 April 2015 (UTC)
+
+For people who wonder how to insert a picture that is not mouse-drawn. Follow these steps:
+Find the picture you like.
+In a grapical editor (such as GIMP) on your computer, make sure that the image only has two colours: black and white. in GIMP this is the 'posterize' option under the 'colors' menu. Save and export the image.
+Go to http://base64online.org/encode/ and upload your image there. Tick the 'format as Data URL' checkbox.
+In the following script, replace the 'BASE_64_ENCODED_IMAGE_HERE' for the dataURL you've made in the previous step. Copy this to your clipboard.
+
+ function draw_custom_image(){
+   context =  $('canvas')[0].getContext('2d');
+   context.clearRect(0,0,100000,10000);
+   base_image = new Image();
+   base_image.src = 'BASE_64_ENCODED_IMAGE_HERE';
+   base_image.onload = function(){
+     context.drawImage(base_image, 0, 0);
+   }
+ }
+ draw_custom_image();
+
+In Chrome or FireFox (open on the xcloud page where you can draw an image), press Ctrl+Shift+I to open the Developer Panel.
+Go to the 'Console' and paste the script from step 4 here. Press Enter.
+If all went well, you'll see the image appear on the canvas, and you can submit it by clicking 'Upload Image' on the xkcloud page.
+For the best results, ensure that your images are 451x338 pixels in size (as this is the size of the canvas). Good luck! 141.101.64.83 13:27, 2 April 2015 (UTC)
+Does clicking the "want" ("hanker", etc.) button do anything? Like, increase the chance that the picture/caption pair will be reused for other viewers? Djbrasier (talk) 20:18, 2 April 2015 (UTC)
+Clicking the "want" button first requests a token from http://c0.xkcd.com/xb/csrf/token then sends a POST request to "http://c0.xkcd.com/xb/praise/c794eb88-5cde-5024-8301-c7e261b3ae11" where the final segment is the comic ID, and the token is send as x-csrf-token in the request. Response from server is "Good taste!" on success. Whether or not this makes the post more popular is unclear. But Randall does appear to be recording the button presses. -452 (talk) 21:57, 7 April 2015 (UTC)
+I have created a table out of the names listed in the extended transcript. I have started explaining the more obvious names. Maybe someone can have a look at some of the others. I'm sure many of the names I haven't touched yet have an obvious explanation. Good luck ;-) By the way at this moment 205 different names are listed... --Kynde (talk) 23:26, 4 April 2015 (UTC)
+
+The eraser does not actually erase, it paints over it in white. The PNG is saved with a transparent background, so the erased portions can be clearly seen when displayed over a non-white background. -452 (talk) 03:31, 11 April 2015 (UTC)
+Look at the main image for xkcloud. Up in the top right corner.... is that... what I think it is? http://1.bp.blogspot.com/-x0ybZk68wk0/ULgs9fEPRKI/AAAAAAAAHP4/WsZx6N0euxY/s1600/TeleGames+Pong+Console.jpg.. A pong console? --JayRulesXKCD (talk) 16:20, 26 September 2016 (UTC)
+It's broken for me. I get the three dots right now. Does this happen to anyone else? 172.68.189.229 23:01, 18 December 2019 (UTC)
+Also broken for me, same three dots. Persisting for every refresh after pressing the red button on the first panel. Comic now broken? 162.158.187.119 19:44, 21 April 2020 (UTC)
+The page is working, but none of the images load. Help. 172.68.189.221 03:12, 8 December 2020 (UTC)
+That's happening for me as well. Goodbye, world! (talk|contributions|wikilink of the day) 20:47, 13 May 2021 (UTC)
+Categories: All comicsComics from 2015Comics from AprilWednesday comicsLinks to xkcd.comInteractive comicsComics with colorApril fools' comicsComics featuring CueballComputersPortmanteauNo title textComics featuring Elon Musk

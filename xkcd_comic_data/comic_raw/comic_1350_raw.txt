@@ -1,0 +1,1014 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1350: Lorenz
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1350)
+|<< PrevComic #1350 (April 1, 2014)Next >>|
+Lorenz
+
+Title text: Every choice, no matter how small, begins a new story
+Contents [hide] 
+1 Explanation
+2 Transcript
+3 Functionality and bugs
+3.1 Number of options
+3.2 Easy navigation
+3.3 New panels
+3.4 Permalink
+3.5 Suggest a line
+3.6 Bugs
+4 Themes
+4.1 The beginning
+4.2 Computer problems
+4.3 Blowtorch
+4.4 Ocean
+4.5 Political debate
+4.6 Dinosaur
+4.7 Leaving the building
+4.8 Walking
+4.9 Arguing
+4.10 Pokémon
+4.11 Rocket launch
+4.12 Space
+4.13 Kerbal Space Program
+4.14 Dreams
+4.15 Waking up
+4.16 Salesman
+4.17 Boomerang
+5 Trivia
+5.1 Record length
+6 Discussion
+NOTE: The above is the first panel of an interactive comic.
+To actually experience the interactive content you need to go to this comic on xkcd (click on the date above the comic, which, as always, takes you to the xkcd comic)
+For a collection of images that appear in this comic, see 1350: Lorenz/Images.
+These will also be described below under themes.
+Also note that the order of the options are random.
+By adding that there is a fifth option
+Let's see if BSD is any easier to install nowadays.
+Where only four can be shown - this means there are 5*4*3*2 = 120 different permutations of the way the options can be arranged only in this first image.
+So the above image will only appear with these four options in this order in less than 1% of the cases!
+Of course when you choose an option it is immaterial what the order of the other options was.
+Explanation[edit]
+This was the fifth April fools' comic released by Randall. The previous April fools' comic was 1193: Externalities from Monday April 1st 2013. The next was 1506: xkcloud released on Wednesday April 1st 2015. This comic was posted a day earlier than normal (on Tuesday instead of Wednesday) to honor April Fools' Day of 2014.
+This is an interactive and dynamic comic similar to the Choose Your Own Adventure series, where players flip to different pages based on the option they chose. The first picture shown on top of this page is the start of this comic, with a possible combination of text options to choose from (see above). The picture is always the same but the order of the four sentences (and the sentences themselves) is chosen randomly (and there can be more than four). The result of all the interactions by the readers led to the generation of crowd-sourced content.
+The title 'Lorenz' is referring to Edward Norton Lorenz who, among other subjects, was famous for Chaos theory and the Butterfly effect (mentioned later in the title text of 1519: Venus). This comic is an example of a Choose Your Own Adventure story, as mentioned in the title text.
+The title text is also a reference to how the storyline of this comic will be chaotic by nature, since it includes all of the user submitted dialogue and updates over time based on statistics of user clicks. In this manner, it is a reference to the butterfly effect: a phrase coined by Edward Lorenz to describe how a small initial change can lead to wide variations in outcome in a chaotic system.
+Every time a story comes to a point where the user can either choose something or contribute when asked to Suggest a line, a link will appear by hovering the mouse over the bottom right corner of the last image. This is named a permalink, as it is a link that will recreate this particular story up to the point, making it permanent. It will not save the options listed below that image (i.e. the order of these will change, new options may appear, either because more than four are already present or new options will be added and some options may even disappear). An option is thus only saved by choosing it and then saving the next permalink — see more below.
+The best way to enjoy this comic is to try it yourself! If you didn't do that already, reading any below will spoil you from truly enjoying the comic, and maybe make some interesting discoveries yourself! So here is a spoiler alert if you read on. If you do, then see also the section below about Functionality and bugs.
+Any particular storyline will typically only have one or two of the many themes possible in the comic, but some very long stories may have several: see the Record section below. Several of the themes refer to previous comics or generally recurring themes in xkcd. (Most obviously is the blowtorch theme which is a reference to the previous comic 1349: Shouldn't Be Hard, where the last comment is I'll find a blowtorch as a response to Cueball's frustration over his problems.)
+Because it is not always ending as "well" as with a burnt PC, they might instead end up in a shark infested ocean — see the Ocean theme, which is a reference to 349: Success: a comic that came exactly 1000 comics before the other one referenced in the same computer problem theme. In that comic, the sharks had not appeared yet; but here there may be several (and sharks are also a recurring topic in xkcd).
+These issues with computers is generally a reference to the computer problem themes that precedes both the burning of the laptop and the ocean storylines, as Knit Cap tries to install BSD; and when it fails, she takes her friend Hairy with her in the fall, the water, space or into a Pokémon fight (as they are the two main character of this comic). Also Cueball (as a politician vs. another politician with hair) and White Hat have small appearances, but only in a small sections of particular storyline. Only few others interact directly with the main characters in the rest of the possible stories.
+Other themes that are recurring in xkcd are Politics, Pokémon, Boomerangs and Dinosaurs. Dinosaurs enter the comic in the form of the green talking T-rex from Dinosaur Comics: a clip-art-based webcomic that uses the same artwork with different captions for every strip. This particular Dinosaur Comics has a title text that actually refer to Randall and xkcd, and the comic has previously appeared on xkcd in 145: Parody Week: Dinosaur Comics.
+A way to combine more than one storyline is to let characters wake up from a dream or a nightmare, as can be see in the Dreams theme (and dreams are also a recurring topic). Here, it can even get recursive, so there can be dreams within dreams. One of the way to wake from a dream is, of course, by encountering a dinosaur that tries to step on your house (with you inside). Another is in reference to the possible rocket trip that may take the characters into space: see the Space theme (another recurring topic).
+There are a few other topics that are covered by Randall himself, but many others will be referenced in the text in the comic. However, since most of the options the users have is in itself created by user input (including naming the characters different names), any reference made by the text is not considered part of Randall's work and thus only sporadically be mentioned below under the themes section and not be included as a category. Here is an example with a permalink where the last comment, in the ocean with a shark, references Malaysia Airlines Flight 370 that disappeared less than a month before this comic was released [and has yet to be found years later]. But this is a user input, not Randall's.
+Some of the idea of this comic was used again in the next year's April Fools' comic 1506: xkcloud, where user input also generated a very complex comic and the concept of permalink was used again.
+This comic was the first time that Knit Cap has a main part to play. Since this comic, she has been given a category as a supporting character in xkcd, but in most other comics knit cap is seen as a man.[actual citation needed] The name knit cap for their hat has also been debated.
+Transcript[edit]
+[This transcript only transcribes what can be seen in the picture shown at the top of the explanation here.]
+[The comic starts with two panels. In the top panel we see Knit Cap sitting at a desk in front of her laptop typing. There is a speech line up to a gray but empty speech bubble.]
+[The second panel below has the same gray background as the empty speech bubble above. Here is presented four options to what Knit Cap could be saying. They are marked a, b, c and d written in small white rectangles next to the text. There is a small arrow at the top pointing to the first panel:]
+a Hurry! We're in talks with Facebook.
+b These stupid tiles... I'll just play one more game.
+c Refresh... No new email... Refresh... No new tweets... Refresh...
+d Oh. Hey. There's some kind of political thing going on.
+[Once the reader chooses one of the options, the text will appear in the speech bubble where the gray area is replaced with the usual white background. The lower gray panel disappears. Now the comic really begins.]
+[A new panel is shown after the selection, again with one to four options to choose from in the new gray panel below. This will continue until it comes to an end where the reader finally only has the choice to suggest the next line.]
+[The order of the up to four options are random, and changes every time you begin again (or even go back to a previous frame). This means that the a–d in the transcript is not the same next time. In some few panels there are even more than four options. To see the fifth you have to reload, then you may find this fifth option next time. The first panel is one of those with five options.]
+[The fifth not shown above is: Let's see if BSD is any easier to install nowadays. (see image with this option in the trivia section).]
+[In the first days of the comic, when it developed quickly, new options appeared only to later disappear. Gravity. Lots of it. is one of those lost options from the first panel. At one time there was also, by mistake, two versions of one of the other five mentioned above. This was later deleted. Below in the trivia section there are permalinks to all the different starting options, including the now lost gravity story.]
+[Although it may be impossible to finish (?), there has been an attempt to make a complete interactive transcript.]
+Functionality and bugs[edit]
+The reader is initially presented with only one panel, where Knit Cap Girl is sitting in front of her computer. The reader is given multiple choices concerning what exactly Knit Cap is thinking. Upon choosing any option, the chosen text will appear where her gray speech bubble was (which will disappear), and then a second panel appears to the right to give continuity to the story. Each new panel may have a new set of options, or just the button "Continue", to see the next panel without making any choice in particular. Eventually, one reaches a dead end in which the story is interrupted, and the reader is presented with a text box to suggest how it should continue. Some of the suggestions given should eventually become available as new options.
+Number of options[edit]
+Normally, there are a total of 4 options to make: a/b/c/d. Their order changes constantly. Sometimes, there are 3 or fewer options, with the text box to suggest an alternative option. Sometimes, a given panel actually has 5 or more available options, although even in this case only 4 options appear at a time. Refreshing the comic changes randomly which of the available options are visible and which are hidden. As of late April 2014, the existence of 5 options seems to occur only in a few rare cases, including the first panel itself. There seem to be no longer any panels that have six options.
+Easy navigation[edit]
+Instead of clicking with the mouse, you can move more quickly through the panels using the keyboard:
+Up/Down — navigate options
+Enter/Right/Spacebar — choose option after navigating with Up/Down
+Left — go back one panel
+a/b/c/d — choose any option directly
+New panels[edit]
+It appeared that new panels were generated by Randall in near real time, as user suggestions to dialog were submitted around the release of the comic.
+This text can (now) be found under the official transcript at xkcd:
+This April Fools' Day comic has a dynamic panel structure along the lines of a choose-your-own-adventure format - the viewer is presented with up to 4 options for each bit of dialogue, with each choice opening up a new subtree of potential options for the next bit of dialog, and new panel images are chosen semi-randomly based on a graph of potential panel transitions. Readers were also invited to submit dialog options for trees where there were not yet 4 fixed options, thus growing the potential story space. As such there is no fixed transcript for this comic.
+The dialog options could be based on click-through rates, and hence will change over time based on which choices are clicked most using A/B measurement techniques. This will mean that the most popular choices for dialog lines will prevail as the statistics build up. In some cases, dialog line options do not depend on the continuity of the storyline followed, suggesting that some parts of the story are planned. For example, several of the story lines involve one of the two main characters waking up and, for instance, telling the other character, "I had the strangest dream..." or even reliving the dream. This may be due to common submissions across story lines. Of course, there is the other option that Randall has used the first week of April to look though some input and choose himself. These possibilities are not mutually exclusive. Some of the options that were there very early were in quite poor English. Later, the same idea was still there, but in a more refined sentence. However, after the first week or two, no new panels seemed to appear, which suggests that some were drawn to match the story's progression.
+Permalink[edit]
+A "permalink" is a portmanteau of "permanent-link". Each panel has a "permalink" button which generates a unique URL for all the choices made by the reader — so a reader can save the chosen choices to compare them to other ways going through the selections. The permalinks do only save the chosen options, not the order or the visible options in the image where the permalink is recorded, so it is not possible to save a copy where the options are only in the same order as they are in the 1/120 version shown at the top. Also, if you go back in the story from a permalink, you can risk that when passing back through a panel with five options, the option you just got back from is no longer available; as it is the option randomly not shown this time.
+Suggest a line[edit]
+Sometimes it is possible to add your own suggestions in a panel where there are still other choices, but, if not before, the story will always reach a "final" panel (dead-end) where the reader only has the option left to "suggest a line..." By doing so, and pressing enter, this text is then shown in the speech bubble — but these suggestions can't be saved, as there are no permalink buttons after this. The reader has to do a screenshot in order to save their own remark. After a few weeks had progressed, there were probably so few new suggestions that Randall stopped changing the comic. A few images have been found months (or even more than a year) after the release, but there has been little to no reason to believe that Randall continued to make new panels after the first few weeks of April. Maybe he returned occasionally to do one once in a while; but, for certain, the options and text continue to evolve.
+Bugs[edit]
+Since this interactive comic relies on many servers in the background to provide the response to the reader's actions, there are some problems reported here:
+Cookies and Javascript are required to see this page properly. Without cookies, the next panel will not render; attempting to load the page in the UNIXKCD terminal or loading the page without Javascript will just get you the previous comic.
+In the first week after the comic was released, if a response led to a panel where two characters speak at the same time, it was impossible to proceed past the first speech bubble. This was subsequently fixed.
+As a consequence of these bugs, many readers had trouble understanding how this interactive comic worked.
+Themes[edit]
+Preferably there should be permalinks that shows all the possible images below, but sadly this can not the case, as many images are no longer accessible by "playing" the comic game. Only if someone saved a permalink in the beginning of the comics "life" will it be possible to see examples of all images in a story line. If you do have some of these old permalinks saved, please fill in for any missing images here below. There are also notices in the relevant sections which have not all been streamlined, so they are built up in the same way and with as many permalinks as are available at the moment.
+The 17 themes below have been split up after what type of images appear in the comic.
+As of April 2016 there are 149 different images, which are all described here below.
+To see all images, go to 1350: Lorenz/Images.
+Below, several images have been used in more than one theme, and there will thus be more than 149 images displayed in the tables below.
+To avoid this section becoming extremely long, all the tables under each section has been collapsed, and can be opened by clicking the link [show].
+Permalinks have been provided (where possible) to storylines that includes all the images shown in a given section.
+As the story may continue to evolve, there may eventually be added more images, although there is reason to believe that this will no longer happen.
+If any are discovered, please include them in the table below with a permalink.
+In general, only little mention will be of the user contributed text.
+But if a story seems to revolve around the choices, this may be mentioned.
+Try only to make reference to anything that can be backed up with a permalink.
+The beginning[edit]
+To see/hide images click here: Description of images
+The beginning
+This is the opening image shown at the top of the explanation.
+Knit Cap sits at her laptop saying something either to himself or (maybe) to Hairy.
+You choose what he says from four options written below the panel: and thus starts this interactive and dynamic comic.
+Originally, on April 1st, there where only four choices; this quickly increased to six, but eventually ended up on five options.
+You always only have four options to choose from when you begin.
+By reloading the page you will eventually get the fifth also.
+There are only three different images that can follow this first image (see below):
+Possible follow up images
+
+
+These images are the only three that can follow after the first image:
+Knit Caps with question marks.
+Hairy walks in.
+Live debate.
+Computer problems[edit]
+To see/hide images click here: Description of images
+Computer problems
+
+
+
+
+
+Knit Cap's laptop has an unspecified problem.
+Hairy walks in and they attempt to fix it by connecting his laptop with his.
+It doesn't work, so now Knit Cap tries to write something on Hairy's laptop from a paper (a manual?) he holds in her hand.
+See this example with all the images shown in this section, including the blow torch option mentioned below).
+There are two outcomes possible:
+When Knit Cap's manual fails, the story continues with the blowtorch scene: see below.
+Knit Cap's manual fails so badly that they both end up randomly floating in the ocean (with or without circling sharks — reference to 349: Success): see below.
+Blowtorch[edit]
+To see/hide images click here: Description of images
+Manual failing
+Knit Cap tries to write something on Hairy's laptop from a note (manual?) he has in his hand while Hairy watches.
+In this storyline, it doesn't work and Knit Cap takes revenge on her laptop:
+This image is the last in the computer problem theme above and can also lead to the Ocean scene below.
+Blowtorch
+
+
+
+
+Knit Cap becomes so upset with her laptop that she decides to melt it using a blowtorch
+A reference to the comic from the day before this one: 1349: Shouldn't Be Hard.
+After this, they walk out of the building.
+See this example with all images shown here, the one also used above for the Computer problems.
+See this example, where the burning first takes place after a dream after a rocket launch.
+Ocean[edit]
+To see/hide images click here: Description of images
+Wrong move
+Knit Cap tries to write something on Hairy's laptop from a note (manual?) she has in his hand while Hairy watches.
+In this storyline, it goes really wrong and the Ocean scene appears right after this:
+This image is the last in the computer problem theme above and can also lead to the Blowtorch scene above.
+Usually they get to this point directly from the starting point, but the story can also return here after a dream.
+See this example.
+Sharks
+
+
+
+
+Knit Cap and Hairy are floating in the ocean, with or without sharks.
+A reference to 349: Success.
+Sharks have also been the subject of several other comics.
+Three giant squids appear and a lone shark seems disturbed.
+The squids must have killed the sharks, leaving the blood in the last of these images. [1]
+Here are three examples than together uses all the images shown in this section
+Zero and one shark
+Three sharks
+Squids and blood.
+Beach
+
+Knit Cap and Hairy start to swim out of the shark free ocean.
+Finally reaches a beach — see 349: Success again.
+Here is an example where they reach the beach and walk on.
+Political debate[edit]
+To see/hide images click here: Description of images
+Let's go live
+Knit Cap uses her laptop to watch a debate online.
+The images that follows are what he sees on his screen.
+Usually they get to this point directly from the starting point, but the story can also return here after a dream.
+See this example, where they even leave the laptop afterwards.
+The debate
+
+
+
+
+An online debate between two politicians; one has hair and is on the left, and the other (Cueball) is on the right. This debate is shown on Knit Cap's laptop screen.
+The subject and the actual conversation of which varies according to the storyline, but it always begins with the hairy politician speaking and then Cueball replying.
+This may be the end of the conversation, but sometimes there is a picture where both politician speaks in the same image
+There may even be two (or more?) images in a row where both politician speak in the same image
+See this example.
+Eventually one of two things can happen:
+They fight each other: Cueball using a lightsaber (or something that looks like a holy sword) and the hairy politician using his bare fists
+A reference to Star Wars which has been referenced often in xkcd.
+See this example.
+The hairy politician is goes down on one knee — either to pray or as in a suggestion to ask the other to marry him...
+See this example.
+All images used in this section are shown in the above examples.
+Subjects debated are the most likely user suggestions, and so any references made are not from Randall (even though they would have been used in xkcd before).
+Here below are some of the subject already up on April the 1st:
+The hairy politician accuses Cueball of having never liked Firefly see this example).
+The hairy politician vows to end the "war on Christmas" if elected (see this example).
+The hairy politician praises his adversary and supports his economic plan (see this example).
+The hairy politician questions Cueball's project of tying multiple birds to a car as fuel replacement, which would require some method to make the birds take off in unison.
+This is possibly a reference to Monty Python and the Holy Grail, where two swallows tied together to a coconut with a string try to lift it, but unlikely.
+The solutions mentioned for this topic are given here as an example:
+Opening and closing an umbrella near them (a reference to Indiana Jones and the Last Crusade). (see this example).
+Using a predatory bird to the car to scare them (see this example).
+Putting resources in the hands of bird educators for the purpose of training them (see this example).
+Employing fiscal hawks. (see this example.)
+If the hairy politician points out some problem with the reasoning, often the solution proposed by Cueball would be doing the same in a larger scale or saying he completely agrees with everything the other says. (see some of the above examples).
+After the debate
+
+In the end, either:
+Hairy walks in to Knit Cap and points out something happening near which may or may not involve birds (or whatever was the subject).
+This could be a direct result of Cueball's project. But all this is most likely based on user input!
+See this example.
+Knit Cap wakes up, as it turns out it was just a bad dream (see Dreams below).
+See this example.
+Both of these last two images have also been used in other storylines.
+Dinosaur[edit]
+To see/hide images click here: Description of images
+Dinosaur Comics
+
+
+The green T-rex from Dinosaur Comics, (a clip-art-based webcomic that uses the same artwork with different captions for every strip), interrupts the story and proceeds to talk about his tiny arms or other subjects.
+The first three pictures are taken directly from the webcomic, except that the third picture is larger in the real comic
+See this particular Dinosaur Comics where the title text actually refer to Randall and xkcd.
+See this example with only these three T-rex images.
+The entire Dinosaur Comics was parodied in 145: Parody Week: Dinosaur Comics, where Randall copied the drawings himself, and T-Rex has appeared in 1452: Jurassic World, where it was the last image from the actual comic that was used, as opposed to the three first here.
+Stepping on the house
+
+
+In the end, the dinosaur stamps on the house where the main characters are inside; Knit Cap covering and Hairy escaping.
+This is thus Randall's own picture but with the foot, seemingly taken from the T-rex, scaled up to fit the size.
+Usually the dinosaur story gets to this point before the characters leaves the building.
+But when they do so, in other storylines, it is a completely different building they walk out of
+The explanation for this (apart from that it looks like this in Dinosaur Comics) is that whenever the story gets this far one of the characters will wake up from a dream. See more under the dream theme.
+When the building gets stepped on either Hairy or Knit Cap wakes up:
+See this example where Hairy wakes up.
+Here are two examples where when Knit Cap wakes up, the dinosaur dream is the second dream from which she awakens:
+After the hole dream
+After the rocket dream.
+The characters has thus left the other building first, but then again both buildings turned out to be part of a dream.
+Leaving the building[edit]
+To see/hide images click here: Description of images
+Leaving
+
+In some storylines the two characters leaves the building.
+Either with the laptop intact:
+Either directly after the first image
+Or after the politic debate.
+Or with a melted laptop (see the Blowtorch theme).
+See this example where they leave the house twice, once first with the laptop intact and secondly after burning it.
+In either case they encounter one of the following scenarios when they come out the door:
+Empty lawn
+Sometimes nothing is outside the building except the pavement they walk upon; there is just an empty lawn.
+See this example where the laptop is burned.
+From this point they will continue walking past different landscapes: see the Walking theme.
+Rocket on the lawn
+Sometimes there is a rocket on the lawn outside the building: see the rocket launch theme.
+See this example with the computer intact and no political debate.
+Huge hole on the lawn
+Sometimes there is a huge hole in the ground just outside of the building.
+The two characters always end up falling into it and one of them awakes from a nightmare: see more below about dreams.
+See this example with the computer intact and no political debate.
+See this example with the computer intact after political debate.
+Walking[edit]
+Does anyone have permalinks for the image where Hairy is walking alone in silhouette, and maybe a situation where he walks alone without the meanwhile image first (maybe because of arguing, see below)? Please help by posting them in the table below:
+To see/hide images click here: Description of images
+Starting the walk
+
+
+
+
+
+l
+A walk can begin in more than one way.
+The most direct way to start the walk is when the two characters are leaving the building, and finding nothing out on the lawn.
+A walk can also start when they leave the Pikachu from the Pokémon theme.
+See this example, where the first walking together image appears after the house and a new walk begins after Pikachu with both the passing images.
+A walk can also start when they leave the beach after the ocean theme.
+See this and this example, where a walking together and a passing image appear respectively after they come out of the ocean.
+In the examples above Knit Cap and Hairy are in principle always walking together.
+But such a walk can start directly with a zoom-in on one of the characters thinking.
+See this example, where leaving the house is replaced with Knit Cap thinking and then finding Pikachu.
+As it turns out, he was still with Hairy and they continue the walk together after, but if the story stops before the last Pikachu picture, it would not be clear that Hairy was still there.
+But one of them sometimes ends up walking alone even though they started walking together.
+This happens after they have an argument. Example of this is missing!
+Walks can also start from different starting point where only one of them are walking.
+After Knit Cap runs away from hitting something with the boomerang or is hit herself by the boomerang.
+See this example where he runs away.
+See this example where he hits himself.
+After the meanwhile image (where Hairy's walk alone can begin).
+See this example.
+So the walking images from below can also appear or reappear in other ways — taking longer however — into a complicated story, as with the Pokémon example above with two walks: one earlier, one later.
+There are also two images which zoom in on one of the characters thinking.
+This mainly happens for Knit Cap when they are together (?).
+See this example.
+But this can also happen when he is alone, as seen in this example.
+This only seems to happen for Hairy when he walks alone (?).
+See this example.
+Passing something
+
+Knit Cap and Hairy walks together past the following items:
+A tree where the two are walking past, and only Hairy speaks.
+See this example where they get past.
+A gap/pit in the ground which Knit Cap jumps over — much like in a pit from Mario brothers — while Hairy looks down speaking.
+See this example.
+Also see this example, that has both images at the end.
+Walking together
+
+
+
+The two characters are seen walking together from different perspectives.
+See this example, with all three walking together.
+See this example, with the image that has Hairy in front.
+See this example, with Hairy behind.
+See this example, with the silhouette image.
+At one point, while they are walking together, a zoom-in of Knit Cap's head shows he is thinking
+See this example.
+As it turns out, he was still with Hairy and they continue the walk together after, but if the story stops before the last Pikachu picture it would not be clear that Hairy was still there.
+See also this example, where he thinks twice on the same walk.
+See also this example, where he thinks two images in a row.
+This image can also appear while Knit Cap walks alone: see below.
+Alone - Knit Cap
+
+
+
+
+
+
+
+
+
+Knit Cap walks alone.
+He is seen walking alone in many different poses and perspectives.
+There also an image with a zoom-in of his head showing he is thinking.
+See this example, where he is walking alone with the "thinking" image coming at the very end.
+This image has mainly been used while he is walking with Hairy, see above.
+In this example, seven of the images from this section are used; only the last normal walking image above the ones that contain birds and the two with birds are missing.
+At some point a bird passes over him carrying a parcel. It then returns, now with a money note in its beak.
+See this example.
+The remaining three images are shown here.
+The birds could be a reference to Amazon's plans for using drones to deliver packages. (Something referred to later, for instance in 1523: Microdrones.)
+In that example, the text is most likely a reference to Monty Python and the Holy Grail, where it is discussed if two swallows could carry a coconut to explain their presence in England.
+In most other cases, only one of the bird pictures are shown like in these examples:
+The picture of the bird with a parcel can be seen in this example and this example at the end.
+The picture of the bird with money can be seen in this example and this example at the end.
+In this example, the story continues after the bird with the parcel.
+In this example, the bird with the parcel comes twice.
+In this example, the bird with the parcel is shown twice in a row.
+In this example, the bird with money is shown twice in a row.
+The image where he is standing without saying anything may only be seen in the boomerang theme (?). That image will thus (so far at least) not be shown here.
+Alone - Hairy
+
+
+
+
+Hairy is seen walking alone.
+He is seen walking alone in two poses.
+At one point a zoom in of his head shows he is thinking — this does not have to be while alone!
+In one story line the meanwhile image appears before this walk.
+See this example, with the first four images from this section.
+It seems that this image only appears before Hairy's alone walk (?).
+There are still-missing examples of him walking alone without this image first.
+An example with the silhouette images of Hairy alone.
+Arguing[edit]
+Does anyone have permalinks with a story line where either of the two are walking alone after the argument where one of them leaves, as this supposedly occurred to begin with. Please help by posting them in the table below:
+To see/hide images click here: Description of images
+Arguing
+
+
+Knit Cap and Hairy begins an argument.
+The fight can either commence during a walk:
+See this example with only the start of the fight.
+Or after they come out of the rocket when it failed to launch:
+See this example with only the start of the fight.
+Then one of them leaves the other by walking back the way they came.
+See this example, where Knit Cap is walking away.
+See this example, where Hairy is walking away.
+After this either of them can continue the walk alone.
+Examples are missing for both walking along — i.e. a storyline that actually shows that at least one of them continue to walk alone afterwards.
+Leading to the argument
+
+
+
+The following examples show where these images lead to the first argument image.
+Tree.
+Jumping over pit.
+Thinking.
+Failed rocket launch.
+There are likely more from the walking range of images.
+Pokémon[edit]
+Why are one of the Pokéballs square, and why do three of the moves done by the Pikachu knock the Pikachu out?
+To see/hide images click here: Description of images
+A wild Pikachu appeared
+Some of the storylines involve Pokémon battles featuring Pikachu; a very popular Pokémon.
+Pokémon have often been featured in xkcd.
+The battles are drawn in the style of the video games.
+A trainer in the bottom-left corner faces the foe in the top-right corner, with a narration box below the scene and the trainer's Pokéballs visible.
+Some elements are missing here, such as the level, gender and HP bar.
+In this first image, Pikachu the wild pokémon appears. The fight then begins.
+As part of the walk
+
+
+
+The Pokémon storyline always begins during a walk where the two characters are together.
+It can definitely happen after those images, so typically shortly after they leave the building.
+It can occur after a dream:
+See this example that begins with a hole dream and then reaching the Pikachu after the thinking image.
+The thinking image can occur without them being together, but mainly it has been used as part of their walks together, and this will always be the case in the Pokémon story as they both are there if the moves are effective.
+See more detail in the Walking section.
+They can meet more than one Pikachu, but the story then returns to one of these images before it happens again:
+See this example that begins after walking past a "three" first and then later where Knit Cap thinks before the next attack.
+Other images are listed here:
+See this example, which has the silhouette image.
+See this example, which has the walking together image with Hairy in front.
+Pikachu's moves
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pikachu uses a number of different moves, although these are mostly made up.
+It is written as "Enemy Pikachu used "move", with the possible moves listed here below.
+Pikachu's moves are almost invariably remarked by the narrator as "It's not very effective...",
+This is included as the last image in this section, as it comes in between all these non-effective moves.
+It can lead on, as seen below.
+But "It's super effective!" appears occasionally.
+This will always lead on from "It's not very effective...", as can be seen at the bottom.
+In Pokémon, a move is:
+"Not very effective" when the opponent's type resists the attacking move's type
+"Super effective" when the opponent's type is weak to the attacking move's type.
+
+Pikachu's moves
+See below for examples.
+The examples below are marked with "¤", "$", "£" etc., and the moves are similarly marked to indicate in which examples they appear.
+Those that can be not very effective in a way that takes the characters past Pikachu are written in italics below.
+Those that can be super effective are written in bold below.
+A move that sometimes can result in a move past Pikachu will, in another storyline, not give the same result.
+None of the moves have yet been shown to be able to get past Pikachu in both possible ways though!
+For instance the examples marked with "¤" and "&" below both use graph theory, and only in the first example is it super effective. But in the other it is not the last move.
+Here are the moves in alphabetical order:
+Abandonment ^~@ — Pikachu disappears completely.
+Anguish ¤%~ — Pikachu is sad.
+Ant Colony ~ — Pikachu is covered in ants.
+Ethylene Dichloride ¤= — Pikachu holds a glass with Ethylene Dichloride
+Nothing seems to happen, although Ethylene Dichloride is a toxic chemical, so there may be future consequences for the characters. The next panel does say "was it diluted?" however.
+Extrude + — Pikachu's head moves away from his body as his neck becomes long and malleable.
+Faceless $@ — Pikachu's face disappears.
+Friendship £= — Pikachu is on Knit Cap's head, signifying they are now friends.
+Friendship, though not a move, is a game mechanic in the video games.
+Granite % — Pikachu is atop a block of granite.
+Graph Theory ¤& — The theory can be seen behind Pikachu
+Ink Cloud %+@ — Pikachu is covered in ink.
+In the storyline Pikachu uses it, there is the option to "gather" the ink.
+Radicality £ — Pikachu is on a skateboard.
+Theft &@ — Pikachu wears Knit Cap's hat.
+Pikachu seems to be using "Thief", a similarly-named actual move from the games, that is used to steal the foe's item and use it as their own.
+Uplift §@ — Pikachu's head goes upward, separated from its body, with a long, thick cable still connecting the head and the body.
+Finally there is a blank text box for user input ¤£%@&~+
+The below items are using the blank text box picture with that text coming from users input to appear in the blank picture at the bottom of this section:
+Google Maps did not warn me of this @
+In Google Maps it was easy to capture Pokemons @
+The two above are referencing the Google Maps: Pokémon Challenge.
+Where's Twitch when I need help? @
+A reference to Twitch Plays Pokémon which was also covered by comic 1333: First Date.
+Cute face @ (Written out correctly as Enemy Pikachu used "cute face").
+Cuteness % (Written out correctly as Enemy Pikachu used cuteness).
+Yet %
+Go charizard! £
+Pikachu, find a Hamiltonian cycle in this graph! &
+Player wonders why Pikachu is working day labour at the home depot these days? ~
+Player used twitch crowdsource ~
+Enemy Pikachu used "the discrete metric" +
+I'm carrying so many Pokémon!! ¤
+Was is diluted? ¤
+(i.e. was the Ethylene Dichloride diluted?)
+
+Here are some examples of battle that together includes all the moves images.
+The examples below are marked with "¤", "$", "£", etc.
+Above the moves are similarly marked to indicate in which examples they appear.
+These moves are not very effective:
+@ 9 different moves — including four user inputs and ending on theft (28 panels, record length although not passing all the way by Pikachu).
+= 2 different moves — ending both on Ethylene Dichloride and later on Friendship (26 panels, moving past Pikachu and then returning for another fight; ending with the empty image for the user to fill in).
++ 3 different moves — including a user input and ending on extrude (20 panels, moving past Pikachu).
+§ 1 move only — ending on uplift, and then followed by an empty image for the user to fill in (21 panels, not getting to the end, but only one here coming to Pikachu through a dream).
+~ 5 different moves — including two user inputs and ending on ant colony (19 panels, not passing all the way by Pikachu).
+% 5 different moves — including two user inputs and ending on granite, and then followed by an empty image for the user to fill in (17 panels, not getting to the end).
+^ 1 move only — ending on abandonment, and then followed by an empty image for the user to fill in (9 panels, not getting to the end).
+& 3 different moves — including a user input and ending on theft (15 panels, not passing all the way by Pikachu, and ineffective despite graph theory being included before the end, which is effective in another example see below).
+These moves are super effective:
+¤ 5 different moves — including two user inputs and ending on graph theory (24 panels, but no new text after poking the Pokémon).
+£ 3 different moves — including a user input and ending on radicality (22 panels, with one line of text after poking the Pokémon).
+$ 1 move only — ending on faceless (17 panels, but no new text after poking the Pokémon).
+Not very effective
+
+
+
+
+Normally after a few failed attempts — where the result is given as It's not very effective — there is an uncomfortable silence as the Pikachu says "Um..."
+Then it talks to Knit Cap and Hairy from the tall grass.
+They ignore the remark and walk away past the Pókemon. The Pikachu is left in the tall grass looking after them and has time to make a final remark which they also seem to ignore.
+After that they come out of the tall grass (without an image where they walk in the tall grass without Pikachu as seen below in the very effective version).
+See these examples that are not very effective:
+In these they do not even get all the way out of the grass:
+Theft, on the ninth move!
+Ant colony, on the fifth move.
+Theft, on the third move.
+In these they do get all the way out of the grass:
+Extrude, on the third move.
+Ethylene Dichloride, on the first move! But first after burning the laptop. After this move they walk away only to meet another (or the same) wild Pikachu for another unfinished fight.
+In this particular example on the way past it says:
+"I used to be better at chemistry".
+"Wait. I can install you BSD".
+This last line could have been different:
+"Come back! I don't like it here in the tall grass!", see this example.
+"Wait, you can't flee from a trainer battle!", see this example.
+"No really guys, I can still remember most of it", see this example.
+In another line out it says: "This is still better than all the lightning crap."
+See this example, where there are no follow-up lines.
+There are several endings to this particular storyline, and in another storyline they do not meet the second Pikachu but lines are still spoken.
+See this example.
+Below are some other transcript of lines from user input and their references:
+Other remarks from Pikachu or about Pikachu can be seen in these examples from the same storyline:
+Pikachu: "Aren't you going to catch me? It's not difficult, I promise... Please?" Knit Cap and Hairy ignore him and go away and may get the following responses.
+"Please! Jigglypuff keeps on drawing on my face!"
+See this example.
+"You were walking in tall grass! You asked for it!"
+See this example.
+"Please... Tame me! I want to party on days other than Thursday".
+Hairy remarks while waking away: "Y'know, if we catch a Pikachu, we would never to pay our electric bills again". (Note the missing "have".)
+See this example.
+Pokémon mentioned other than Pikachu in user input:
+Charizard (In one storyline, "Go Charizard" is one usable move in battle).
+See this example.
+Jigglypuff.
+See this example.
+Magikarp.
+See this example.
+Super effective
+
+
+
+
+
+
+
+Rarely, a suggested move knocks Pikachu out.
+This is stated as It's super effective
+This always comes immediately the one with It's not very effective (which doesn't make sense).
+The result is that Pikachu faints.
+Knit Cap and Hairy looks at the fainted (not dead) Pikachu who is lying face-down in the grass.
+Knit Cap then pokes the pókemon and they walk past it.
+Then they continue through and out from the tall grass
+See these examples that are super effective:
+Graph theory, on the fifth move.
+Radicality, on the third move; with one line of text after poking the Pokémon.
+Hairy looking down the pit: "Now what?"
+Faceless, on the first move!
+Rocket launch[edit]
+To see/hide images click here: Description of images
+Rocket on the lawn
+When they leave the building, they may find a rocket on the lawn.
+Into the rocket
+
+
+The characters climb into the rocket.
+See this example.
+Note that Hairy can be seen climbing up the ladder in the second image, and the door is slammed shut in the third (indicated with small lines).
+Out of the rocket
+
+
+In some storylines, the rocket does not launch.
+Either it fails or they don't wish to go into space that day.
+So the two characters climb out again.
+See this example, where they walk on and then have an argument.
+Note that after the door has been slammed shut, there is an image without the lines indicating the door is now shut (before they climb out again).
+Rocket launch
+
+
+
+
+
+
+If they do not climb out again, the rocket will launch towards space right after the door has slammed (without waiting for the image with the closed door).
+Sometimes an image from the flight simulator program Kerbal Space Program (KSP) will appear (see KSP theme) instead of the black image.
+See this example, where the launch wakes up Knit Cap from a (second) dream. (See the dream theme).
+See alto this example, where the launch wakes up Hairy.
+If the characters don't wake up here, the rocket will go into space (see space theme).
+Before reaching space, a dark image will turn up.
+See this example, where the space trip turns out to be a dream.
+Here another KSP image is also used to end the dream.
+The black picture is also used in the dream sequence with the hole just before they wake up.
+This never seems to happen from the launch sequence.
+Space[edit]
+To see/hide images click here: Description of images
+Successful launch
+When the rocket launch is successful, the rocket will go into space and a black image will turn up as evidence of this .
+See this example.
+The black picture is also used in the dream sequence with the hole.
+Flying over Earth
+After entering space, the rocket is always shown in an orbit over Earth.
+In space
+
+
+
+From Earth, the rocket flies into deep space.
+These images will appear and reappear (sometimes several times) intermixed with those below.
+Exceptions are with those of The Little Prince and those after the attacking spaceship which will always end the space journey.
+See this example, which contains all the images from this section, the two from above, and most of those from below (several of them at the same time). The first image is only used once right after Earth's orbit.
+See this example, where the first image is not included.
+See this example, where the first image is used twice, but not to begin with.
+Asteroids
+Passing the Asteroid belt.
+See this example, where the image is used twice in a row.
+Saturn
+Passing Saturn, which has majestic rings.
+See this example, where the image is used eight times.
+Spaceship
+
+
+
+
+
+
+The rocket encounters another spaceship, which asks a question about relativity.
+It is the same question that appeared in 265: Choices: Part 2.
+If the question is answered satisfactory, the two rockets will just fly past each other.
+See this example, where the ship passes the spaceship twice.
+If the answer to the spaceship is not acceptable, it will turn around after passing and shoot down the rocket.
+The next image will be from the Kerbal Space Program (KSP) simulator, see the KSP theme.
+But in this case, it is an image where the rockets are turned off. (In the first KSP image, the rockets are turned on).
+The KSP image is followed by Hairy waking up from a dream (it seems that it can only be him): see the dream theme.
+Most of the images above, as well as this attack, are included in this example
+In this example, Hairy wakes up and starts to sing.
+Little Prince
+
+Eventually, the rocket meets a guy on a very round asteroid.
+This is a reference to The Little Prince, which has been referenced before in xkcd in both 2: Petit Trees (sketch) and 618: Asteroid.
+The story originally never seemed to move past this first image with the prince and the rocket, but finally there appeared one more without the rocket.
+See this example.
+Kerbal Space Program[edit]
+To see/hide images click here: Description of images
+Kerbal space program
+
+These pictures are from the flight simulator program Kerbal Space Program (KSP).
+The first shows a rocket with the engines on from rocket launch.
+The second shows a rocket with the engines off after the attack in the space theme.
+They both appear in a sequence leading to a dream, see below:
+Engines on
+
+
+
+The rocket launch turns out to be just a dream.
+One of the two characters wake up in their bed.
+See this example, where Knit Cap awakens.
+See this example, where Hairy awakens.
+It seems that this image cannot precede a journey into space.
+Engines off
+
+
+After the other rocket shoots the original rocket, we see a KSP image with the engines off.
+See this image from KSP, where the engines are off.
+After that image, it turns out it was just a dream. Only Hairy is seen to awake from this dream.
+See this example.
+Dreams[edit]
+To see/hide images click here: Description of images
+Walking up
+
+Sometimes, Knit Cap or Hairy find themselves waking from a dream, suggesting that all prior events were just dreams.
+Some situations will always result in a character waking up.
+Other situations will, in some storylines, only lead to a character waking up.
+In those storylines, there will always be another way to continue the story.
+Below are several situations where a dream will or may occur, described (and shown with the full sequence leading up to the dream displayed).
+Often a dream loops upon itself, as a character wakes up multiple times in the same storyline.
+Either from the same dream or from different dreams.
+Sometimes, each character has different dreams in the same storyline.
+This means that the last to wake up has dreamt that they were the other character waking up before.
+The dream scenarios (together with the meanwhile image) would theoretically make it possible to connect all images into one long sequence.
+This has not been seen yet.
+Falling
+
+
+
+
+
+
+
+One of the most obvious dreams is the one about falling, as in this case, where both characters falls into a big hole outside the building they are leaving.
+Here is an example of that, where one, then the other, character wakes up from the same falling dream.
+The hole situation will always turn out to be a dream from which one (or both, as shown above) of the characters wake up from the nightmare after falling into the hole.
+They can wake up after any of the three black pictures shown here.
+The other two pictures (which were not included in the first example) can be seen in this example, where only Knit Cap wakes up.
+A situation with only Hairy waking can be seen in this example.
+The totally black picture is also sometimes used at the end of the rocket launch.
+Dinosaur
+
+
+
+
+
+
+A Dinosaur enters the comic (see more about these same images under the Dinosaur theme).
+If the comic goes on for long enough, all four images with the green dinosaur will appear.
+When reaching the fourth image, where the dinosaur steps on the building, the story will always turn out to be a nightmare from which either of the characters may wake up from.
+See this example, where Hairy wakes up.
+Here are two examples in which Knit Cap wakes up, where the dinosaur dream is the second dream from which he woke up from:
+After the hole dream
+After the rocket dream.
+Rocket launch
+
+
+
+
+The rocket launch will not always turn into a dream.
+This dream is not really a nightmare, as opposed to the three above, where the characters always wake up.
+During the take-off, after the rocket ignites, there are two possible images.
+If the last image is black, the take-off succeeds.
+If the last image during take off is from KSP (with the rockets on), the story always result in one of the two characters waking up waking up during the launch.
+See this example, where Knit Cap wakes after she has already awoken from the hole dream.
+See this and this example, where Hairy wakes up from the launch.
+Evil spaceship
+
+
+
+
+
+
+During space travel, the rocket passes another spaceship.
+If a failed communication occurs, the evil space ship turns around and shoots down the rocket.
+At this point, it turns out it was just a nightmare and one of the characters wake up. (Maybe only Hairy?)
+See this example, where that continues to a dinosaur dream from where Knit Cap wakes up.
+In the last picture before waking up, we see an image from the KSP with the rockets off.
+This situation will always turn out to be a dream.
+Politic debate
+
+
+
+In this dream (which isn't a nightmare), Knit Cap wakes up after a "political debate".
+See this example.
+It is probably impossible that Hairy wakes up from this because he is not present when the debate starts.
+Waking up[edit]
+To see/hide images click here: Description of images
+Walking up
+
+Sometimes, Knit Cap or Hairy find themselves waking from a dream, suggesting that all prior events were just them dreaming. (See the dream theme.)
+After they wake, they stay in bed for a while and then go out in to the world.
+When they wake up:
+Knit Cap wakes up with her head to the left and the knit cap lying on the end of her bed.
+Hairy wakes up with his head to the right.
+In bed - Girl
+
+
+
+Knit Cap wakes up with a Gasp.
+He sits for a while.
+Maybe he even starts to sing; see below.
+After this, he may either lie down or leave bed.
+See this example, where he lies back down again and goes to sleep (and then finds a boomerang, see below).
+See this example (where the bed is shown as empty before moving on), the first time yawning and the second singing.
+When he does get out of bed, he may either:
+Walk yawning into her office, if the bed was empty (see below).
+Go out and find a boomerang, if he lies down again.
+In bed - Guy
+
+
+
+Hairy wakes up with a Gasp.
+He sits for a while.
+Maybe he even starts to sing (see below).
+After this, he may either lie down or leave the bed empty.
+See this example, where he leaves the bed empty and yawns (and then Knit Cap has another dream later).
+See this example, where he lies back down again (and goes to meet the salesman: see below).
+Notice that Randall forgot to draw Hairy's hair as he lay down again.
+Randall also forgot Hairy's hair in 1028: Communication — see this trivia.
+When he does get out of bed, he may either:
+Walk into Knit Cap at her laptop while yawning (if the bed was empty): see below.
+Go outside to meet White Hat the salesman if he lay back down again.
+Singing in bed
+
+After having sat up in bed with a gasp, either character may then begin to sing I woke up like this.
+See this example with Knit Cap (walking twice, singing the second time), where the bed is empty before moving on (both times).
+See this example with Hairy where the bed is empty before moving on .
+This is likely a reference to Beyoncé's song Flawless.
+See the lyrics here.
+The line I woke up like this is repeated eight times in the song, four time in each of the last to verses.
+Yawning - Girl
+
+Yawning Knit Cap gets back to her laptop and we are back to the first image.
+See this example, where both characters' yawning pictures appear after the same dream.
+Yawning - Guy
+
+
+Yawning Hairy walks in where Knit Cap is sitting at her laptop and tells her about his dream (?).
+See this example, where both pictures from this section appears and they continue to walk out after.
+See this example, where both characters' yawning pictures appear after the same dream.
+Salesman[edit]
+To see/hide images click here: Description of images
+Salesman
+
+
+
+
+After walking up with a gasp from a nightmare and then lying down again, he has chosen not to go to Knit Cap.
+Which is why the "lying-down" image is included here.
+Hairy takes an alternative route where he meets White Hat, a salesman with a small stand.
+White Hat tries to sell something to Hairy.
+The last picture with the graph did not appear until much later than the rest (or was at least not found).
+Here is an example where Hairy meets White Hat, but not reaching the graph picture.
+Here is an example that reaches the graph picture.
+Here is another example that reaches the graph picture.
+These two may be the only two pathways.
+Boomerang[edit]
+To see/hide images click here: Description of images
+Finding Boomerang
+
+
+After Knit Cap wakes up from a dream and then lies down in bed, she may (always?) go outside to find a Boomerang on the ground.
+He picks it up and then expresses his feelings about it in a thought bubble.
+He may also pick it up following another image where he is just walking.
+See this example.
+The other throwing images, listed below, may come (more or less) in any order and any number of times.
+The aforementioned first two boomerang images may also reappear, therefore more than one accident can happen.
+He may comment on it again after catching it.
+He may also put it down and leave, but may then also find it or another boomerang again later.
+This is the cause for the longest storylines almost always including the boomerang.
+Since this storyline only occurs after a dream, gives some of the longest storylines, and never usually gets on to any other stories (except a short story where Hairy walks alone), this has been placed last in this list.
+Boomerangs have been featured in xkcd before. See in particular these that clearly reference them:
+445: I Am Not Good with Boomerangs.
+475: Further Boomerang Difficulties.
+Throwing Boomerang
+
+
+
+
+
+
+
+
+
+Knit Cap throws the boomerang and it flies back to her, so she catches it.
+This can go on for a while, and he may even lay it down and walk away:
+See this example.
+It may also fly back and forth above him.
+See this example.
+However, more often than not, he will end up with an accident:
+Accidents
+
+
+
+
+
+
+
+
+
+
+
+These accidents are:
+Either character gets hit in the face.
+See this example, where both are hit.
+Knit Cap get hit in the face first, when the boomerang rebounds, then puts it down (only to pick up a new one later).
+See this example.
+Knit Cap then fails to catch the boomerang, the rebound hits Hairy in the face (off-screen), and he then enters the frame next image.
+Hitting a rocket taking off.
+See this example.
+The boomerang crashes into something off-panel, someone may shout back, and Knit Cap runs away.
+See this example.
+In some cases, this last accident is followed by the meanwhile image to make the story move on with Hairy walking along (which is mentioned in more detail at the bottom of the Walking section).
+See this example.
+Leaving the boomerang
+
+
+
+
+
+The following images are the one where the boomerang story may stop (although some of them may lead back to the boomerang again):
+Leaving the boomerang on the ground without accident.
+But there seem to be no way he actually leaves the boomerang this way:
+Either the story stops before he completely leaves the image (with the boomerang on the ground).
+Or he finds another and picks that up instead proceeding from there.
+See this example, which has both situations.
+Leaving the boomerang after hitting himself in the face.
+Maybe this is similar to the one above, as can at least be seen in the example given:
+See this example.
+Running away after having destroyed the rocket
+See this example.
+Running away after having hit someone off panel.
+This image seems to belong with the meanwhile image, and the storyline goes on using that route, so, for sure, he is getting away from the boomerang.
+See this example.
+Hitting Hairy off panel, who then walks into the panel.
+There seems to be no story continuing from there.
+I.e., this story-line never leaves the boomerang behind, but just stops.
+See this example.
+Trivia[edit]
+Here is a picture with the fifth option that could not be included in the top image
+Let's see if BSD is any easier to install nowadays.:
+There used to be a sixth option: "Gravity. Lots of it." However, it no longer appears.
+In one panel, Hairy is drawn in bed without his hair — see the Waking up pictures.
+Some pictures are used often and some very rarely:
+The most common pictures are "Not very effective", Throwing, Waiting and Leaving the House.
+The rarest pictures that can be found via permalink are The Little Prince, The beach and An exponential chart.
+As of late July 2021, there are several pictures from the complete list that no longer seem to be available — so not only are they rare, they are extinct in the comic if no one has a permalink to a comic where they appear.
+2 pictures are listed as missing two years later, on April 1, 2016, and they can be seen under themes where notices have made it clear where they are.
+They are the one with Hairy walking alone seen in silhouette, and the one "after arguing" where Hairy is leaving.
+The other 147 images are all accounted for.
+This one has (simplified) Chinese characters in it. It would roughly translate to: "These sentences have no meaning. With no meanings, there is nothing to say. How do I arrange it into a haiku format then?" It is arranged in haiku: 5 syllables, 7 syllables, 5 syllables. In traditional Chinese characters, it would be "句子没有意。意也没有話不話。怎麼來俳句？"
+This one also has Chinese characters in it. It would translate to "No" or "Not good"
+And this one has French.
+This example] has two commas in a row, which is obviously wrong.
+Record length[edit]
+The all time longest comics by panel[edit]
+Top three.
+Please only include clearly different storylines:
+77 panels — Tiles, space/dinosaur double dream, boomerang, exploding rocket.
+50 panels — Tiles, double hole dream, boomerang, and exploding rocket
+46 panels — Tiles, hole dream, hole dream, boomerang, exploding rocket, bird passing.
+There may be no upper boundary!
+But then this is the list of the longest comics with most panels as found so far.
+If you beat a record, please post the permalink here: https://www.xkcd.com/1350/#p:84eb4738-bade-11e3-8001-94de80a03a29
+Please note the themes included in the comic.
+Please move beaten records down and delete the fourth.
+Longest by themes[edit]
+Click to expand:
+[Expand]
+
+Longest by starting point[edit]
+Click to expand:
+[Expand]
+
+Most unique images[edit]
+Click to expand:
+[Expand]
+
+Most actual choices[edit]
+Click to expand:
+[Expand]
+
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+During the first few weeks there were so much talk on this page, that it became too long. The solution was to remove the page from the explanation. But now almost no one makes any comment anymore. To help with this I will try to collapse all the original talk - last entry (mine) is already a month old. It will always be possible to see all the old comments by pressing the expand button to the far right. So feel free to comment below again - then someone might notice that there has been written something new again! Kynde (talk) 22:32, 19 June 2014 (UTC)
+Click to expand:
+[Expand]
+
+
+
+
+
+After inserting the collapsing talk page - the old can be seen just by clicking the expand button. But if you wish to write anything new, then do it here below at the very bottom of the talk page so it may be seen. I have this comment - after a few weeks I believe nothing new happened in this comic. I think it is now fixed. Of course this is very hard to prove. But I have completed some branches of the interactive transcript. So let me know if you can find any new options I have missed (I could have missed if there were more than four options in a panel - but not at the dead-ends! I have also just made major revisions of the explanation and it's layout - based on my observations. Kynde (talk) 22:48, 19 June 2014 (UTC)
+
+I just found a panel where it gets past the person on the comet, only one panel though... http://xkcd.com/1350/#p:25743f70-baee-11e3-8001-002590d77bdd 108.162.254.69 19:24, 15 July 2014 (UTC)
+Great. Have added the image to the list of images and to the theme above. Keep any new images coming here.--Kynde (talk) 14:24, 30 March 2016 (UTC)
+It's interesting the chess player in 1112 ("Think logically") resembles the knit cap girl. It's weird that Megan (or Randall's wife) after chemotherapy also wears a cap (1141, "Two years"). Is there any possible connections between them (or simply a coincidence)?108.162.215.108 04:24, 29 July 2014 (UTC)
+I have added links to three other comics using knit caps, including the two you mentioned. Thanks. --Kynde (talk) 14:24, 30 March 2016 (UTC)
+I noticed that the image url noted on xkcd.com is the same as the one for #1349 - Shouldn't Be Hard. Not sure if it is caused by the interactivity disallowing an image upload, or an error on Randall's part (I'd imagine working through this comic's issues was pretty distracting). 15:37, 24 April 2015 (UTC)
+I believe this was fixed. At least it seems to look correct now. --Kynde (talk) 14:24, 30 March 2016 (UTC)
+God damn I hate boomerangs now. 172.68.65.240 03:49, 22 November 2017 (UTC)Bob
+Hey guys, are we still missing the ocean comics? because I found one that links there. https://www.xkcd.com/1350/#p:3df213b4-ba4f-11e3-8037-002590d77bdd . not far after though. 173.245.48.129 02:41, 6 August 2018 (UTC)
+I found a (possibly) bug where the comic doesn't load and there's just a comic-sized blank space. 19:48, 3 January 2019 (UTC) -- Cheese12 (talk) (please sign your comments with ~~~~)
+As of this week I found out that Lorenz seems to have stopped working on xkcd... This makes all the permalink invalid. ;-( --Kynde (talk) 20:03, 8 September 2019 (UTC)
+I also found that people have been writing new entries from the top which meant I did not see Cheese12 comment that this was so all the way back in January 2019. I have rearranged the three comments on top to the right post order here at the bottom and added a signature for Cheese12 and a day for the edit for reference to how long it has been broken. Also removed a (now broken) permalink that was left over when a user posted something and then deleted it again. It was stick beneath my previous comment. --Kynde (talk) 20:12, 8 September 2019 (UTC)
+Looked on the webarchive and the latest version of the comic there is from July 2019. 2019-07-19. It seems correct there with the first picture with options... Of course it is no use trying to move on, either because it is a web archive or because Lorentz doesn't work anymore on xkcd. But it seems like it should not have displayed that image if it had been a recent version of the comic, as there are no image on the page now. If this is true, then it should not have been down all the time since January as Cheese12 wrote above... But I have no idea how the web archive works for such a complicated comic page? --Kynde (talk) 20:22, 8 September 2019 (UTC)
+I suspect this is related to the XKCD forums being taken down. Umwelt, Externalities, Landing, and xkcloud are also down. Tbodt (talk) 19:19, 14 September 2019 (UTC)
+I think it's working again. Crazymachinefan (talk) 04:44, 29 January 2020 (UTC)
+I just found a bunch of new things that can occur including a new image. Here are the permalinks: https://xkcd.com/1350/#p:b0bcef14-baf3-11e3-8001-002590d77bdd --Knit Cap Girl rather than Hairy wakes up after the KSP rocket launch image; https://xkcd.com/1350/#p:8e2a0d7a-baf2-11e3-8001-002590d77bdd --permalink for Hairy silhouette image; https://xkcd.com/1350/#p:8a36f73e-baaf-11e3-801f-002590d77bdd --permalink for Hairy getting to a sale without lying in bed; https://xkcd.com/1350/#p:d4cd36d8-ba95-11e3-8001-002590d77bdd NEW IMAGE-- Hairy in silhouette not talking. EDIT: Here's something *fascinating*... this panel can have either one or two responses depending on what's chosen for the first. Here's the permalink - https://xkcd.com/1350/#p:b2dde69c-b9c0-11e3-8007-002590d77bdd 162.158.107.29 20:23, 22 October 2020 (UTC)Anonymous Waste of Time
+I found a weird thing. https://xkcd.com/1350/#p:73113e0c-b9f6-11e3-8011-002590d77bdd If you select 15615 the comic freezes. The text doesn't appear, no new panels appear. PkmnQ (talk) 05:27, 12 February 2021 (UTC)
+I tried it on another device, and again it froze when I selected 15615. Can someone else try to recreate it? PkmnQ (talk) 05:47, 17 February 2021 (UTC)
+yeah it's the same for me too --Anonymous Waste of Time
+I looked at the console, and an error pops up, so there's at least a tiny clue to why it happens. PkmnQ (talk) 08:00, 1 March 2021 (UTC)
+   Uncaught TypeError: e.replace is not a function
+       at Odlaw._comicText (bernardo.min.js:2)
+       at Odlaw._makeText (bernardo.min.js:2)
+       at Odlaw.chooseOption (bernardo.min.js:2)
+       at n (bernardo.min.js:2)
+       at HTMLLIElement.<anonymous> (bernardo.min.js:2)
+       at HTMLUListElement.dispatch (VM44 b66ed7.js:3)
+       at HTMLUListElement.r.handle (VM44 b66ed7.js:3)
+My best guess is that 15615 is being interpreted as a number instead of a string. However, when I type in 5 as a new option it works correctly. It might be from some old input bug that was changed later on. PkmnQ (talk) 08:05, 1 March 2021 (UTC)
+Cleaning up
+Why was the (general) grammar of this comic so bad? I am putting in hours into this comic to fix this (and what I was originally doing, which was changing all instances of 'Knit Cap Girl' to 'Knit Cap' and changing 'she/her/hers' to 'he/him/his'). I'm about 2/3 done. Beanie talk 14:14, 1st July 2021 (UTC)
+Finished :D Beanie talk 22:42, 18 November 2021 (UTC)
+Took a while because I changed schools and I can't get onto explainxkcd on the new website (and also I'm lazy). Beanie talk 22:44, 18 November 2021 (UTC)
+Not sure if this is known, but there's a path where Theft is super effective and the first move. Not sure how to hyperlink on phone, though. It's tiles, 4096, pastel color, middle class ennui, wonder why it's socially acceptable.172.70.178.33 21:43, 20 April 2022 (UTC)
+I think I found the shortest possible path. https://xkcd.com/1350/#p:0b364d02-bb65-11e3-800e-002590d77bdd IJustWantToEditStuff (talk) 19:48, 2 September 2022 (UTC)
+Categories: All comicsComics from 2014Comics from AprilTuesday comicsLinks to xkcd.comApril fools' comicsComics with colorComics with inverted brightnessInteractive comicsComics featuring Knit CapComics featuring HairyComics featuring White HatComics featuring CueballAnimalsBoomerangsBSDComputersCueball Computer ProblemsDinosaursDreamsPokémonPoliticsSharksSpaceKerbal Space ProgramStar WarsComics with bloodAnts

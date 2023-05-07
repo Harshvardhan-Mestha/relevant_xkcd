@@ -1,0 +1,125 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1337: Hack
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1337)
+"1337", this comic's number, redirects here. For the 2007 storyline of the same name, starting with comic 341, see Category:1337.
+|<< PrevComic #1337 (March 3, 2014)Next >>|
+Hack
+
+Title text: HACK THE STARS
+Explanation[edit]
+This comic is an imagined project to re-position the ISEE-3/ICE probe, and a parody of the 1995 movie Hackers. The first row (four panels) explain the history of the probe, and the true story about how the probe was coming back into signal range and seemed capable of being controlled. NASA declined to attempt to regain control of the probe, but a group of enthusiasts assembles the equipment and attempts to re-purpose the probe.
+The following two rows (eight panels) set up a fictional scenario: the enthusiasts have been locked out of the system, the probe is being controlled by someone else, and the message "Mess with the best, die like the rest" is communicated from the probe. This is a catch phrase of the protagonist, Crash, from Hackers.
+The final row is a reference to the ending of the movie, where Crash romances Burn, his romantic interest, in a rooftop pool. In the movie, while Crash and Burn swim in a rooftop pool, several buildings light up with the words "CRASH AND BURN". This was at the end of a contest and is Crash's latest hack and romantic gesture which he indicates by saying 'Beat that!'. In the comic the transmitter being used to communicate with ISEE-3 was hacked by Burn to make the probe burn up over Crash and Burn swimming in the pool providing a "shooting star" for romantic effect.
+The comic number is 1337, which stands for "leet", short for "elite hacker" and "leetspeek" in leetspeak. Leetspeak is a form of symbolic writing that substitutes various numbers and ASCII symbols for letters. It originates from the hacker subculture, where words were converted to leetspeek e.g. to avoid filters and triggers on chat rooms. "1337" for "leet" can most likely be explained as calculator spelling.
+The title text "Hack the stars" is also an allusion to Hackers, where the phrase "Hack the planet!" is used on multiple occasions.
+This project since became reality, as Randall noted in a blag post. See details below.
+Transcript[edit]
+[A black image shows an image of the ISEE-3/ICE spacecraft in white. Text is written in white above it]
+The ISEE-3/ICE probe was launched in 1978.
+Its mission ended in 1997 and it was sent a shutdown signal.
+[The text continues, black on white, without a frame around it, between the first frame and the next.]
+In 2008, we learned-to our surprise-that the probe didn't shut down.
+It's still running and it has plenty of fuel.
+...and in 2014, its orbit brings it near earth.
+[Megan holding up one hand and Ponytail are talking to each other.]
+Megan: We could send it on a new mission...
+Megan: Except we no longer have the equipment to send commands to it.
+Ponytail: Can't we—
+[Zoom in on Megan's head and torso as she looks towards Ponytail off-panel to the right.]
+Megan: NASA won't rebuild it. "Too Expensive"
+Ponytail (off-panel): Seriously?
+Megan: I know, right?
+Megan: So the internet found the specs
+Megan: And we went to work.
+[Megan and Ponytail are walking towards right, between Hairbun facing left and Cueball (with head phones) facing right. They are sitting at desks working on their laptops. Megan speaks, as indicated both by the story line and by her hand which is lifted up, but there is not speech line from her to the text.]
+Megan: We've convinced them to give us time on the Madrid DSN transmitter and hacked the maser to support the uplink.
+Megan: And today's the big day.
+[Zoom in on Cueball's head and torso, he holds a hand up to his speaker on his head phones and watches his lit screen (as indicated by lines emanating from it).]
+Cueball: Transmitting...
+Cueball: We have a signal!
+Cueball: We have control!
+[Zoom in on Megan's head and torso. She has turned away from Cueball to the right towards Hairbun.]
+Megan: OK, transmit the new comet rendezvous maneuver sequen—
+Cueball (off panel): What the hell?
+Megan: What?
+[Same setting as when Megan and Ponytail entered the control-room, but Ponytail just stands there and Megan puts a hand out towards Cueball.]
+Cueball: My console went dead!
+Hairbun: Mine too!
+Megan: What's happening?!
+[Another zoom in on Cueball's head and torso and glowing screen. He has both hands down.]
+Cueball: There's a new signal going out over the transmitter!
+Megan (off panel): A bug?
+Cueball: Someone else is in the system!
+[Zoom in on Hairbun's head and torso. She is also working on her laptop, with the glowing screen visible.]
+Hairbun: Kill the connection!
+Cueball (off panel): I can't find it!
+Hairbun: They're firing the probe's engines!
+Cueball (off panel): No!!
+[Back to a zoom in on Cueball. He points at his screen.]
+Megan (off panel): Who's doing this?? Stop them!
+Hairbun (off panel): I'm trying!
+Cueball: Look! My screen!
+[Same setting as when Megan and Ponytail entered the control-room, but Ponytail has a hand to her mouth and she and Megan stand close to Cueball who has taken his hands off the keyboard. The text on Cueball's laptop screen is shown above the setting, indicated with zigzag lines:]
+M-E-S-S-W-I-T-H-
+T-H-E-B-E-S-T
+D-I-E-L-I-K-E-
+T-H-E-R-E-S-T
+[The last four panels is outside night scenes with a black sky above. In the first of these a woman (Burn) with long hair (Megan like) and a hairy man (Crash) is seen in a swimming pool with blue water.]
+[A zoom out reveals that the pool is on top of a skyscraper in a vertically developed, downtown setting with lots of light in all the skyscrapers, one of which is even taller than the one with the pool. From the top of the central skyscraper speech lines come which indicate that the two from the pool is up there speaking, and we get their names from this panel.]
+Burn: Crash?
+Crash: Yeah, Burn?
+[Same setting but only one speech line.]
+Burn: Make a wish.
+[The last panel shows the same setting, but with the spacecraft streaking across the sky as it enters the Earths atmosphere and burns up in a way that is indistinguishable from a meteoroid.]
+Trivia[edit]
+Background for ISEE-3/ICE[edit]
+The ISEE-3/ICE probe was launched in August 12, 1978 and tasked to study Earth's magnetic field and the solar wind. Before completing its original mission the probe was repurposed on June 10, 1982 to study the interaction between the solar wind and a cometary atmosphere. By flying through the comet Giacobini-Zinner's tail, it became the first probe to do so. This put ISEE-3 in a heliocentric orbit. Its trajectory will bring it close to Earth on August 2014.
+The Deep Space Network (DSN) detected the probe again in 2008 because NASA mistakenly left its transmitters on. However, the probe was only transmitting the carrier signal at that time. A status check of the spacecraft has revealed that many of its instruments are still working and that it contains plenty of fuel.[1]
+It was reported that the hardware to communicate with ISEE-3/ICE had been decommissioned. The Madrid DSS complex still has the special filter required to communicate with the ICE satellite, but because of frequency conflicts S-band uplink is not supported.[2]
+On March 1 and 2, 2014 radio amateurs were able to detect the beacon signal from the retired NASA deep space probe ICE (International Cometary Explorer) using the 20 m radio telescope at the Bochum Observatory (Germany).[3]
+Updates for ISEE-3/ICE[edit]
+After this comic was published, it was established that an 18-meter satellite dish at the Johns Hopkins Applied Physics Laboratory does still have the right hardware.
+April 4, 2014: Volunteers started a crowdfunding project on RocketHub to contact the probe and put it back into a halo orbit orbit around Lagrangian point L1."ISEE-3 reboot"
+May 23, 2014: First contact to the probe was established.
+May 29, 2014: NASA gave them approval to try to achieve contact.
+May 30, 2014: The project, led by Dennis Wingo and Keith Cowing, had taken control of the spacecraft.
+July 2, 2014: The reboot project successfully fired the thrusters for the first time since 1987. The engines on ISEE-3 performed a successful spin-up burn. The spin rate was changed to 19.76 rpm which is inside of the original mission specifications at 19.75 +/- 0.2 rpm.
+Further attempts to change the trajectory into an earth bound orbit did fail. Despite the effort from experts and amateurs via the internet [4] it was determined that the spacecraft had run out of nitrogen pressurant.
+Since the device was still communicating, and many of the instruments were still working, the ISEE-3 was intended to be used for the first citizen science, crowd funded, crowd sourced, interplanetary space science mission.[5]
+Contact was finally lost on 2014-09-16.
+See Space College: ISEE-3 Reboot Project Archives for the coverage of this amazing project.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Taking the number with the title, we have a 1337 Hack. Has to be related. 108.162.237.64 08:28, 3 March 2014 (UTC)
+I concur, I don't think 1337 and Hack are just a coincidence 108.162.250.223 10:36, 3 March 2014 (UTC)
+This isn't the first time that Randall has posted comics whose numbers are related to their content- 1000 comes to mind, and I don't think that 1190: Time is a coincidence, either. --Someone Else 37 (talk) 04:50, 9 March 2014 (UTC)
+.... ok ... I bet that if the probe destroyed three of the Klingons' new K't'inga-class warships and the monitoring station en route, they would rethink the "we can no longer communicate with it" ... (seriously, probe from time of Voyagers returns to Earth and we are not able to communicate to it ... Roddenberry got surprisingly close). -- Hkmaly (talk) 10:42, 3 March 2014 (UTC)
+I wonder if it comes close enough to Earth so that it has enough delta-v left to deorbit like that, and where it would end up. Maybe someone could model it in KSP or something... 173.245.48.84 11:37, 3 March 2014 (UTC)
+It's not orbiting the Earth, so it doesn't need any delta-V to de-orbit. Consider: meteors hit the atmosphere (or the ground) all the time with no delta-V at all. All it needs is enough delta-V to re-aim so that it hits the planet, which if you start far enough away is probably very very little. 173.245.48.61 18:00, 3 March 2014 (UTC)
+Thank you, Randall, for making this possible. I will now forever lay claim to this comic as per this log: http://pastebin.com/bpexL7zL
+You rock, dude. Keep on it. :) 108.162.218.5 (talk) (please sign your comments with ~~~~)
+I added the transcription - feel free to adjust the names of "Guy", "Girl1", and "Girl2" as I can't recall any "Randall appropriate" names. I've grouped all panel elements into groups, which I believe is correct. It's my first transcript. ;) Jarod997 (talk) 14:00, 3 March 2014 (UTC)
+Wow, um, and if someone could "pretty" up the transcript so it shows a bit more nicely on the "front" page, it would be appreciated. Jarod997 (talk) 14:07, 3 March 2014 (UTC)
+Hmmm, I did have the explanation broken up by panel, which I thought made it more readable, no? Jarod997 (talk) 22:01, 3 March 2014 (UTC)
+When I first saw the explanation, I thought the move "Hackers" was the subject of comic 130, rather than "Ghostwriters". Has anyone actually seen both? I get the impression Ghostwriters falls under the category of "so bad it's good", whereas Hackers is more of a cult classic. Maybe it's worth mentioning this emerging xkcd theme somewhere in the explanation. Thoughts? --108.162.219.16 14:43, 3 March 2014 (UTC)
+"Hackers" is so bad it is good. 108.162.246.117 17:10, 3 March 2014 (UTC)
+What, no rooftop pool comments? 108.162.215.33 (talk) (please sign your comments with ~~~~)
+I was going to make a comment about the pool on the roof. I couldn't remember if they ended up in a roof pool later on in the movie, or if i'm thinking of another movie. I haven't seen Hackers in so long. Andyd273 (talk) 17:46, 3 March 2014 (UTC)
+They do. Crash and Burn's (Dade and Kate's) first interaction is her showing him around the school, which ends with her (somewhat reluctantly) telling him there's a pool on the roof of the school. He goes up and the door locks behind him; several other students are already up there, suggesting this is a standard hazing ritual. (side note: according to IMDB, this was a common prank at the school where they filmed.) Dade retaliates by, among other things, causing the school's sprinklers to go off during class; when she tries to confront him, he responds, "Pool on the roof must have a leak." The final scene shows the two conversing in a rooftop pool, which turns into frolicking as the credits roll. Fryhole (talk) 19:29, 3 March 2014 (UTC)
+Regarding the pool: IIRC, the movie ends with the two main characters (who use the aliases "Acid Burn" and "Crash Override") going on a date at a swimming pool on a roof (the scene shot as in frame 13). Meanwhile, their friends hack the lights on some office buildings so that they display the words "CRASH AND BURN". The shot showing this is also very similar to the last three frames. Cactus (talk) 18:09, 3 March 2014 (UTC)
+I added an explanation for the storyline. It's probably not the only way you could understand this comic, but this one seems most plausible to me. 108.162.231.123 20:18, 3 March 2014 (UTC)
+The explanation states that Crash is the one who did the hack and tells Burn to make a wish at the appropriate time, but the conversation between the two in the comic shows the reverse. 108.162.249.204 (talk) (please sign your comments with ~~~~)
+I just re-watched Hackers and I believe the explanation is incorrect. When "Crash and Burn" shows up on the buildings, Crash says "Beat that" to Burn. That implies that he did the hack and not their friends. Given that information, I would interpret the comic as Burn one-upping Crash. If people agree, I'll adjust the explanation. Jrondeau (talk) 01:32, 28 February 2016 (UTC)
+Guys! Part of this comic seems reality and part seems fantasy. Can someone please clear up about the divide? Would it really be (have been) possible to reconnect with this mission? Did someone apart from NASA attempt this? Doesn't anybody else think that this would be good to know??? 108.162.219.58 03:09, 4 March 2014 (UTC)
+I've removed the "Transcript Incomplete" tag - if you feel this is in error or something else needs to be added, please comment or edit the transcript.Jarod997 (talk) 14:10, 4 March 2014 (UTC)
+I've removed the "Article Incomplete" tag - if you feel there is still something lacking in the explanation (which I just tweaked up a bit), please comment or fix the article. Enjoy. :) Jarod997 (talk) 14:10, 4 March 2014 (UTC)
+I'm asking around for people who want to make 1337 happen, if you can help join #xkcd-1337 on irc.foonetic.net 108.162.218.77 23:03, 4 March 2014 (UTC)
+Might be a red herring, but the date this was release 3-3-2014 - the individual numbers of 2014 add up to 7. 3-3-7 (1337) but the 1 is missing of course. 141.101.70.97 09:19, 5 March 2014 (UTC) ... Thinking about it - it must be a coincidence, as XKCD numbers are sequential - therefore the fact that #1337 falls on 3rd March 2014 is lucky, or would have required some serious forethought! 141.101.70.97 09:28, 5 March 2014 (UTC)
+Is it just me or does the guy in the pool look like a de-hatted black hat guy? --141.101.98.9 13:43, 5 March 2014 (UTC)
+The text is: "There's a new signal going out over the transmitter!", "They're firing the probe's engines!". So Burn didn't hack the satellite in advance, but hacked into the transmitter while the other ones were using it. As the movie is just a movie, I don't think it's significant that the move predates the shutdown signal. The equipment to send the signal is a big transmitter, Why should a hacker own an expensive physical transmitter that is rarely used, when it is easier to "own" a transmitter that belongs to someone else? 108.162.254.160 22:33, 13 March 2014 (UTC)
+This is ACTUALLY HAPPENING now - minus the Crash and Burn part :). See http://spacecollege.org/isee3/we-are-now-in-command-of-the-isee-3-spacecraft.html 108.162.219.10 (talk) (please sign your comments with ~~~~)
+See also http://arstechnica.com/science/2014/05/isee-3-spacecraft-makes-first-earth-contact-in-16-years -- JakubNarebski (talk) (please sign your comments with ~~~~)
+Categories: All comicsComics from 2014Comics from MarchMonday comicsComics with inverted brightnessComics with colorComics featuring CueballComics featuring MeganComics featuring PonytailComics featuring HairbunSpace probesAstronomyComputers

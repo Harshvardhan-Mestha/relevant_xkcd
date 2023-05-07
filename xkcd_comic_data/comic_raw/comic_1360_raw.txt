@@ -1,0 +1,251 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1360: Old Files
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1360)
+|<< PrevComic #1360 (April 25, 2014)Next >>|
+Old Files
+
+Title text: Wow, ANIMORPHS-NOVEL.RTF? Just gonna, uh, go through and delete that from all my archives real quick.
+Explanation[edit]
+This comic came out the day after Sky News published the story of original Andy Warhol artwork, created in 1985 on an Amiga 1000, which was recovered from recently found floppy disks.
+Cueball is shown literally digging through a pile of old files; which is a metaphor for looking through old files on his computer. The layers of the pile are arranged much like geological rock formations where older strata are deeper down than younger layers. The files are in concentric layers because each directory is embedded in the previous directory. Therefore, the "Documents" folder contains an "Old Desktop" folder, which contains a folder with files recovered from an older system, which itself contains a "My Documents" folder, which contains a folder with files copied from a Zip Disk from high school. The result is that files from high school have survived in his present-day machine. These older folders serve as a time capsule of sorts, storing old files from AOL, NYET, and Kazaa. These files are meant to be analogous to the fossils and artifacts found in lower, older rock layers.
+The sizes of the files decrease as Cueball goes deeper, since data storage has gotten cheaper over time. When the Zip Drive first came out, it cost $200 USD (plus $20 per 100 MB floppy). As of 2019, $200 could buy you at least an 8 TB portable external hard drive. In the 1990s, during AOL's heyday, 10+ GB hard drives were prohibitively expensive and a terabyte of data was unimaginable to most users.
+Deep down, Cueball discovers several files he is surprised about, including a poetry file which embarrasses him as he does not remember writing poetry.
+In the title text, he mentions also finding an "Animorphs Novel", which may be a text copy of one of the original books or a fan fiction of the Animorphs series (his reaction of quickly eradicating it may either be to prevent him being caught with a presumably-illegal copy of an Animorphs book or as a result of embarrassment at his fan fiction - the former is less likely than the latter considering some of the other files mentioned, so it is most likely a fan fiction). The series was released between 1996 and 2001, consistent with the fact that these files were created during Cueball/Randall's high school years. The series was extremely popular at the time. Animorphs has already been mentioned in the title text of 1187: Aspect Ratio, and later it was the main joke in 1380: Manual for Civilization and 1817: Incognito Mode.
+Files and Folders[edit]
+The folders and files in detail:
+Documents (47 GB): A large folder containing many of Cueball's personal files.
+misc.txt: A miscellaneous text file, which could contain anything; possibly just various notes that Cueball is keeping.
+Video projects: As video files can take up a lot of space and video projects tend to use a lot of them, this likely makes up a considerable portion of the 47 GB.
+Old desktop (12 GB): A backup from a former computer.
+Facebook pics: Pictures that were intended to be added to Facebook (and/or ones which were downloaded *from* Facebook).
+Pics from other camera: Unknown pictures from a second camera.
+Temp: Temporary folders generally contain cached files and files that are used temporarily to install programs. A folder named "Temp" might also be created by a user to store unimportant text or image files, not intending or caring to give it a more meaningful or specifically explanatory name.
+Misc PDFs: PDFs are often used for documentation, but could be any collection of digitized books or other documents.
+MP3: MP3 is a widely used format for digital audio files.
+Recovered from drive crash (4 GB): When a hard drive crashes, some or all data may be recovered.
+Temp: Temporary files.
+Work misc: Unknown work related projects.
+Audio books: Recordings of books being read out loud.
+My Documents (570 MB): Windows XP user accounts came with a "My Documents" folder that was widely used for storing personal files. The items in this archive came from the era when Windows XP was popular.
+Downloads: The default download folder for most browsers of the time.
+Kazaa shared: Kazaa is a defunct peer-to-peer file sharing program. The "shared" folder is shared with other members.
+AYB: ALL YOUR BASE are belong to us is an internet meme inspired by a bad translation from Zero Wing. Also referenced in 286: All Your Base.
+EV Override: An Apple Macintosh video game, released in 1998.
+Angband: A game named after a fictional stronghold created by J. R. R. Tolkien.
+GIFs: An image format widely used for transparent or animated images.
+Fight Club.wmv: A movie. As feature movies are typically compressed to 700 megabytes, and this folder only contains 570 MB in its entirety, including 94 MB explicitly in a further sub-folder, this one file must be significantly smaller. It could be of very low quality (e.g. resolution and/or frame-rate), truncated (after a prior failed copy) or even a fake download designed to fool unwary recipients.
+Elasto Mania: A physics-simulation game that claims to show real physics.
+AIM Direct Connect files: Files transferred via AOL Instant Messenger.
+4chan: An image-board where users can upload pictures anonymously. Randall impulsively saves pictures from there. This entry is something of an anomaly, the rest of the files at this level were most notable around 1998 to 2001 while 4chan was only launched at the end of 2003. Since this board frequently contains images you wouldn't want to be caught looking at, this folder may be buried to hide it.
+ICQ logs: Logs from an instant messaging program introduced in 1996 and no longer commonly used in North America.
+High school Zip disk (94 MB): The most popular form of superfloppy, introduced in 1994 with a capacity of 100 MB.
+Korn MIDI: Korn is an American nu metal band formed in 1993. MIDI is a protocol for communication with electronic musical instruments. The result tends to be sounds of low quality (but it heavily depends on how MIDI is played).
+Photos3: This is a folder of old photos.
+Prom: Pictures taken at prom.
+lovenote.txt: An old text file of a love letter, probably to a classmate in high school. Possibly referencing 340: Fight.
+Gorillas.bas: A game written in BASIC, to be run on QBasic, and supplied with MS-DOS.
+Dream.txt: Some private dreams.Possibly a reference to 269: TCMP
+James.txt: Perhaps James is a friend of Randall, and the same as the one who came up with xkcd #107.
+AOL: An early online and internet service, founded in 1985 and popular in the 1990s.
+Citadel - A BBS and email platform that was widely used in the 1980s and early '90s.
+QBasic: An IDE released by Microsoft in 1991, which was used to write and run computer programs in the BASIC language.
+NYET: NYET was a Tetris-like game for MS-DOS, released in 1988.
+Jokes.txt: An old text file of jokes.
+AAAFILES (9.4 MB): Some of Cueball's oldest documents, likely prefixed with "AAA" to put the folder at the top of an alphabetically-sorted list.
+TXT (850 K): Old text files, which include poetry he didn't remember writing.
+Transcript[edit]
+[Cross-sectional view of what look vaguely like stratigraphic layers underground. A crevice leads down through these concentric layers to a cave-like cavity in the middle, where Cueball is going through the deepest, most central, and incidentally smallest of the files. Above, Megan stands at "ground level", looking down into the crevice.]
+Megan: You OK down there?
+Documents (47 GB)
+misc.txt
+Video projects
+Old desktop (12 GB)
+Facebook pics
+Pics from other camera
+Temp
+Misc PDFs
+MP3
+Recovered from drive crash (4 GB)
+Temp
+Work misc
+Audio books
+My Documents (570 MB)
+Downloads
+Kazaa shared
+AYB
+EV Override
+Angband
+GIFs
+FIGHT CLUB.wmv
+Elasto Mania
+AIM Direct Connect files
+4chan
+ICQ logs
+High school Zip disk (94 MB)
+Korn MIDI
+Photos3 (Prom)
+lovenote.txt
+Gorilla.bas
+Dream.txt
+James.txt
+AOL (Citadel)
+QBasic
+NYET
+Jokes.txt
+AAAFILES (9.4 MB)
+TXT (850 K)
+Cueball (deep inside the AAAFILES section looking at his txt files): Oh my god. I wrote poetry.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I notice backup and recovery files. I once had a folder on my father's computer that housed everything I did. When the drive crashed, I managed to recover it and store it to a CD-ROM (this was before thumb drives). I copied everything onto my first computer within my main folder (I don't use My Documents), and I continue to move my main folder into a new main folder each time I migrate between computers. I have so many nested memories. I, too, have incomplete fan-fiction and instant message logs. Oh, and a dream.txt. 108.162.237.218 04:47, 25 April 2014 (UTC)
+I don't have as much of a problem with the "old files room", because I keep nearly all of my files on my laptop, but my hard drive is almost full. Another hard drive replace the CD drive, but this computer won't last much longer (bye cd drive workaround). I'll have to build an "old files room" sooner or later. Z (talk) 05:07, 25 April 2014 (UTC)
+Back in the... early '90s, I think it was... I recall there being someone like a buddhist monk (or someone claiming to be someone like a buddhist monk, and the religion could have been something else) who set up an internet site (not necessarily a website) as a temple for "all lost data". The files you had accidentally deleted, the floppies that got damaged or otherwise corrupted, forgotten formats on old drives that you'd lost the wherewithall to access them. Between this and the "hoarder" behaviour exhibitted in the above XKCD folder we encompass all long-term computer users. At the same time. I know I regret the dead USB sticks (with irreplacable content) and yet I stare in hopelessness at the folders "GStick" and "FStick" within My Documents, that really need looking at again. (No, they don't contain the lost material. Datestamped at 2009.) But they're two of fifty-three separate subfolders (and a helluva lot of loose files) in that level. "WebRedo"? I remember that. That site hasn't even been active for about a decade. 141.101.89.224 06:50, 25 April 2014 (UTC)
+Explanation
+I think the point of the comic doesn't come across in the explanation. It's not just that he's sifting through files, but that he's finding files nested deeply in his folder structure that just came to pass because he always copied contents of an old computer to some folder on the next computer and then ignored its contents.
+I.e. in his "Documents" folder, there is the "Old Desktop" folder from a previous computer, which contains the "Recovered from drive crash" folder from another previous system, which has another "Mu Documents" folder within, ... etc. The nesting aspect should somehow be integrated into the explanation. --108.162.229.57 09:59, 25 April 2014 (UTC)
+The shape of the panel is vaguely reminiscent of a hard drive, this may be intentional, being emphasized by the increasing size of the individual layers. In which case there might be some metaphor construed by the placement of the two characters based on their location in the structure of the hard-drive perhaps involving the catalog index. 108.162.216.35 (talk) (please sign your comments with ~~~~)
+
+It should be pointed out that the AYB folder is directly referencing https://xkcd.com/286/ 108.162.238.211 (talk) (please sign your comments with ~~~~)
+I have done this before on my hard drive(s) and I always find my old qbasic programs. Anyone knows of an emulator for qbasic so I could see my old programs running again? Bigfatbernie (talk) 13:56, 25 April 2014 (UTC)
+DOSBox will run QBasic programs if you grab the QBasic 1.1 interpreter from either an old copy of Windows 98 that still has it in its dos utilities folder, or just download it from here: http://www.qbasic.net/en/qbasic-downloads/compiler/qbasic-interpreter.htm 108.162.219.42 17:01, 25 April 2014 (UTC)
+Also, there's this: http://www.qb64.net/ Runefurb (talk) 06:14, 28 April 2014 (UTC)
+Qbasic was "hardwired" in IBM PC's and/or PC/AT's. If the PC did not find some bootable device, it would start Qbasic from a chip. 108.162.219.55 (talk) (please sign your comments with ~~~~)
+Close but not quite correct. You're thinking of IBM / Microsoft BASIC, which was only really part of the BIOS on the original "5150" PCs (and possibly XTs), whose memory size and processing power was rather more akin to that of mid-to-high-end 8-bit systems than anything we'd recognise as a "PC" today, and indeed whose data storage options were limited to 5.25" single-density floppy drives ... or audio cassettes, which are a media far more suited to ROM BASIC than most others, and vice versa. All later models had a more simplistic boot ROM - along the lines of the Amiga Kickstart - that just looked for a floppy or HDD bootsector (e.g. for CP/M or the rapidly ubiquitous MS-DOS) and threw an error if they couldn't find one. Later BASICs like QBASIC or the intermediate GWBASIC were all disc based, running as programs under DOS. Heck, without the DOS command interpreter and file handling system running in the background, you've got no hope of loading anything into or saving anything from QBASIC, other than maybe a write-only Quine that outputs to a serial port... 141.101.98.150 13:19, 29 September 2014 (UTC)
+Anybody know what Citadel is? 108.162.219.42 16:58, 25 April 2014 (UTC) Citadel is historically a BBS package. Today it is an open source groupware system, but some people are still using it as a BBS. Google "Uncensored! BBS" to find a well known one. IGnatius T Foobar (talk) 03:19, 26 April 2014 (UTC)
+Can we get some instructions on how to edit the page?
+It makes no sense to me whatsoever, and it's unlike every other page on the wiki. I can find the list we use in the transcript, but I can't figure out how to add the explainations 199.27.130.204 18:19, 25 April 2014 (UTC)
+I did remove that templates from this page, the explain is still very bad — but now you should be able to post your adds. --Dgbrt (talk) 19:23, 25 April 2014 (UTC)
+I am the person who added the templates. I figured that on a xkcd wiki of all wikis one should feel free to use some more advanced Mediawiki features, to keep from redundancy (here, repetition of data between the explanation and the transcript)... Oh well. Apparently the definition of "to make sense" is "to make sense to others". Also, semicolons are used for definition lists, not for headers. 141.101.89.217 (talk) (please sign your comments with ~~~~)
+By the way, the current transcript is wrong. The items listed under "No header" headers belong to the "named" headers on the parallel side. There is no dichotomy like that. If you insist on reflecting the visual layout of the comic in the transcript, I suggest something like this (uncapitalised, unsorted, and unformatted, because it is just a quick illustration):
+  documents
+Megan:
+"You OK
+down there?"
+  misc.txt
+old desktop
+video projects
+facebook pics
+recovered from
+drive flash
+pics from
+other camera
+temp
+misc pdfs
+mp3
+temp
+my documents
+work misc
+audiobooks
+downloads
+ayb
+ev override
+angband
+kazaa shared
+gigs
+high school
+zip disk
+fight club.wmv
+aim direct
+connect files
+elasto mania
+4chan
+icq logs
+lovenote.txt
+gorilla.bas
+aol
+citadel
+nyet
+jokes.txt
+aaafiles
+korn midi
+photos3
+prom
+dream.txt
+james.txt
+qbasic
+  txt
+Cueball:
+"Oh my God.
+I wrote poetry."
+  141.101.89.217 (talk) (please sign your comments with ~~~~)
+Done Davidy²²[talk] 21:07, 25 April 2014 (UTC)
+Thank you! In fact, I just noticed that rows didn't reflect one filesystem level! They should be moved one level up. I will fix that (and capitalise and sort the labels.) 141.101.89.212 (talk) (please sign your comments with ~~~~)
+Done. 141.101.89.212, too--I really don't like this insistence on signing (talk) (please sign your comments with ~~~~)
+The unsigned template contains instructions on how to properly sign your posts. If you are against signing for privacy reasons, at least use five tildes (~~~~~) to mark off each of your messages as distinct comments. Your IP is logged anyways by Mediawiki, but casual observers will not see your IP. Davidy²²[talk] 21:41, 25 April 2014 (UTC)
+Uh, little question. I just read the source, and the html for your table contains no closing tags. Do you have something against them or something? Also, I removed the bullet points when I added the table to the transcript because strictly speaking, the comic doesn't actually contain any bullet points, so we're adding punctuation that isn't present in the comic. Davidy²²[talk] 21:54, 25 April 2014 (UTC)
+Unsigned IP's producing a great chaos here. No READER does UNDERSTAND. Please keep it simple as possible, NO new template for a single comic. I will bring back some edits I've done, respecting edits have done later. But right now I can't see there is any proper attempt to do an explain other could understand.
+Please focus FIRST on the readers here, then focus on possible editors (don't understand), and then tell a new IP how to behave here. It's not my invention, but please try to keep this page at a basis on some standards. --Dgbrt (talk) 22:22, 25 April 2014 (UTC)
+Actually, the "AIM Direct Connect" is in reference to the file sharing system that the AOL Instant Messenger used to use. A quick Google would have found that. 108.162.221.32 22:20, 26 April 2014 (UTC)Slacker
+First thanks for your hint, but please add comments at the bottom here. I did update many items and I'm not perfect. I will enhance this after this post. --Dgbrt (talk) 22:34, 26 April 2014 (UTC)
+I can't figure it out, maybe you have a better hint. --Dgbrt (talk) 22:42, 26 April 2014 (UTC)
+Whup, sorry about that! I'll remember that in the future. For better reference on AIM Direct Connect: https://adium.im/help/pgs/AdvancedFeatures-AIM-DirectConnect.html I'll see if I can add a better explanation to that above! 108.162.221.32 00:05, 27 April 2014 (UTC)Slacker
+Gorilla.bas is a qbasic game distributed with DOS: http://en.wikipedia.org/wiki/Gorillas_(video_game) 173.245.53.129 22:29, 26 April 2014 (UTC)
+Thanks for your hint, why do you not add this by yourself? --Dgbrt (talk) 22:34, 26 April 2014 (UTC)
+Done. --Dgbrt (talk) 22:42, 26 April 2014 (UTC)
+I would like to know more as to why it would be awkward to find ANIMORPHS-NOVEL.txt, and why you would delete that from the archives... I was not alive during that time so i dont have a clue as to what it is... 108.162.250.212 12:55, 10 May 2014 (UTC)
+Animorphs was a series of young adult books whose publication was apparently contemporary with Cueball's high school years. Many people later find the interests, opinions, etc that they had as teenagers to be embarrassing. This is especially true of fanfiction, which combines the above (in all its earnest, blind infatuation with the subject) with early, inexperienced attempts at writing. As with the poetry found in the very bottom layer, Cueball would probably prefer to pretend he was never so invested in (Animorphs) fandom, never wrote something so juvenile/amateurish/terrible, and almost certainly would not wish to share it with any of his adult friends. 108.162.246.202 06:28, 20 August 2014 (UTC)
+Last night I added the comments about geological rock strata & how files are buried in the way sedimentary layers are. It was my first contribution to explain xkcd so I wasn't sure what the protocol was but adding a comment here. - J. 173.245.54.44 03:08, 31 May 2014 (UTC)
+This is a perfect example of why *nix filesystems are superior to DOS filesystems. 108.162.212.200 (talk) (please sign your comments with ~~~~)
+Why would that be? Do they somehow magically prevent cascading, decades-long file hoarding as you move from system to system? Or is it that the continual recompiling of the kernel dissuades you from regarding any data store or its content as a permanent entity?141.101.98.150 13:19, 29 September 2014 (UTC)
+Are the concentric circles to scale? The 94MB looks roughing 10x bigger than the 9.4MB, but after that the bubbles start going off the panel and I'm not sure. 173.245.54.179 20:38, 7 August 2014 (UTC)
+Doubt it, unless it's logarithmic - it might just be a concept-only "this thing is bigger than the other thing, and also contains it entirely". Then again, as it's an area rather than a line, it miiiiight be possible. If the outer segment was 10x taller and 10x wider than the inner one, then that would suggest it's about 9.4GB (vs 94mb for the zipdisk). Is the 9.4mb "AAAFILES" folder about 3.2x smaller in each dimension than the zipdisk? 141.101.98.150 13:19, 29 September 2014 (UTC)
+(UPDATE: the outer circle says "47GB", ie it's from a storage volume 500x larger than that original Zipdisk, although it is itself not that large a space any more and may well be a USB thumbdrive, microSD card, or the internal storage on a smartphone/tablet/ultraportable laptop with a 64 or 128GB SSD as its primary "disc" drive... or an old rediscovered pocket hard disc or dusty old desktop PC. Even so, the square root of 500 is approx 22.4 ... and it just doesn't look 22x bigger to my eyes, so I'm going to go with "nonlinear, unless the parts hidden off-frame extend a lot further below and to the side than you'd otherwise expect") 141.101.98.150 13:26, 29 September 2014 (UTC)
+Grammar?
+"Still need work, grammar."
+The grammar looks very good to me, and I'm pretty fussy. Maybe it has been taken care of, but not removed from the needs list?
+I will go back and correct "a image" to "an image";
+The first sentence ...original Andy Warhol artwork, created in 1985 on an Amiga 1000, was recovered from recently found floppy disks
+"might" be improved by removing "was" or add "which" so it reads "which was"
+Your thoughts on Grammar?
+WardXmodem (talk) 23:38, 27 October 2014 (UTC)
+lovenote.txt might be a reference to 340 --108.162.231.223 09:00, 8 November 2014 (UTC)
+My Documents
+The "My Documents" folder no longer exists in Windows Vista, 7, 8, and 10 -- it's been renamed to "Documents". Noting the time period when the items within the "My Documents" folder (e.g., KaZaA, Fight Club, AIM, etc.) were popular, Windows XP fits this description the best because it was widely used within the same time period these items were popular AND has the "My Documents" folder. Therefore, simply writing "Microsoft Windows" is both vague and inaccurate; due to the relative disorganization of other directories, it is likely that Cueball took the path of least resistance and used the folder already created for him (My Documents from Windows XP) rather than make his own "My Documents" in Windows Vista or newer (when there's already a Documents folder available). In addition, note the size of the My Documents folder: It's measured in megabytes, not gigabytes, due to the compact software used back then (definitely not Vista). 108.162.216.97 00:16, 31 March 2015 (UTC) << Actually 98.23.195.75; explainxkcd got it wrong + I have a dynamic address
+Do not include the 9x versions of Windows along with Windows XP unless Cueball's computer can travel forward in time. Kazaa was invented in 2001. 108.162.216.107 04:52, 7 October 2015 (UTC)
+I disagree with pretty much every point of the following:
+misc.txt: A miscellaneous text file of unknown and unknowable content. It appears unreasonably large for a txt file, so it may be a large encrypted volume with an intentionally misleading name. It is the only non-video file in the topmost layer - the implication is that Cueball encrypts all his current documents. Alternatively, it may represent a folder containing zillions of individual text files.
+There is no indication that the file is "unreasonably large". It's not clear how the visual size of the "files" correlates to file size in the comic.
+There is nothing to suggest that it is an encrypted volume.
+We don't know if it's the only non-video file in the top layer. The lower layers clearly show that we're only seeing a narrow slice of large concentric rings; there could be many more files offscreen.
+There's nothing to imply that Cueball encrypts his documents.
+There's nothing that suggests this .txt file is a misleadingly-named directory.
+I'm pretty sure it's just a miscellaneous text file. Hawthorn (talk) 15:54, 12 March 2019 (UTC)
++1 if you do the edit I support it ;) --Lupo (talk) 18:50, 12 March 2019 (UTC)
+</div>
+Categories: All comicsComics from 2014Comics from AprilFriday comicsComics featuring CueballComics featuring MeganAnimorphsComics featuring JamesFight Club
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+Page
+Discussion
+Read
+Edit
+View history
+Search
+Main page
+Latest comic
+Community portal
+xkcd.com
+Recent changes
+Random page
+All comics
+Browse comics
+RSS feed
+Help
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+Ads
+This page was last edited on 21 May 2022, at 00:17.
+Privacy policy
+About explain xkcd
+Disclaimers

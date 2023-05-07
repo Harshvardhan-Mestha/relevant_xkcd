@@ -1,0 +1,42 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1211: Birds and Dinosaurs
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1211)
+|<< PrevComic #1211 (May 13, 2013)Next >>|
+Birds and Dinosaurs
+
+Title text: Sure, T. rex is closer in height to Stegosaurus than a sparrow. But that doesn't tell you much; 'Dinosaur Comics' author Ryan North is closer in height to certain dinosaurs than to the average human.
+Explanation[edit]
+Birds are commonly considered to be a separate class of tetrapods. However, this classification is false according to phylogenetic taxonomy. Taking into account that birds developed around 150 million years ago out of small theropod dinosaurs, birds along with crocodiles are indeed the remaining representatives of the archosaur clade. This premise appeared also in comic 867: Herpetology.
+This relation between birds and dinosaurs is depicted in the comic in a cladogram which shows that Tyrannosaurus rex is more closely related to the common sparrow than to Stegosaurus. Not only do the former share a phylogenetic branch, but T. rex also lived around 80 million years after Stegosaurus. The concurrence of both species in popular culture is a widespread error. T. rex is also much more alike to modern birds than to other dinosaurs in terms of anatomy. This relationship was pointed out on the Science journal the week of the comic.
+The comic draws the conclusion that if birds must in fact be considered modern dinosaurs, the hunting practice of birds of prey (specifically, the peregrine falcon) is consequently a dinosaur fight. For an inveterate dinosaur aficionado like Randall, this fact must make the modern world much more attractive.
+The line "This is a good world." could also possibly refer to a famous scene from the pilot episode of the television series Firefly featuring two plastic dinosaurs in a somewhat philosophic dialogue. Randall is known to be a fan of the series.
+The title text is a sidesweep to the webcomic Dinosaur Comics drawn by Ryan North, who stands 6'6.5" (199 cm) tall. At that page the title text of the comic strip from the same day refers to Randall and xkcd.
+The conclusion of this comic is referenced in the title text of the last image in the Plastic Dinosaurs What if?
+Transcript[edit]
+By any reasonable definition, T. rex is more closely related to sparrows than to Stegosaurus.
+[Diagram showing that Stegosaurus came earlier than T. rex, along with it showing that T. rex came closer in time to sparrows. Evaluation criteria "separation by time", "phylogenetic distance" and "physical similarity" are highlighted in red.]
+Birds aren't descended from dinosaurs, they are dinosaurs.
+Which means that the fastest animal alive today is a small carnivorous dinosaur, Falco peregrinus.
+[A picture of two birds is shown.]
+It preys mainly on other dinosaurs, which it strikes and kills in midair with its claws.
+[In red:] This is a good world.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I'm very confused by this article, for the following reasons: 1. The math is blatantly incorrect in this comic. Saurischians/Ornithischians diverged around 230 mya (wikipedia has good sources on this), while we can date the oldest Tyrannosauroids (present after the split between T. rex and the first birds) at around 160 mya (same). Adding in Stegosaurus at 155 mya, T. rex at 65 mya, and Sparrows at 0 mya, we get 255 mya of distance between Tyrannosaurus/modern birds but only 240 mya of distance between Tyrannosaurus/Stegosaurus. This comic would be true if Stegosaurus were replaced by Triceratops, but as it stands Randall seems to be getting the argument incorrect, and I'm not sure why that's not in the description of this article. 2. For some reason the article explanation refers to a Science article that's exactly the opposite of what it's described as suggesting; since almost all dinosaurs are likely to have had some feathers (I can replace this with a non-wikipedia source when I have more time), this makes T. rex more similar to other dinosaurs. ~~thunderbeard
+I think you might not be doing the right sums. “The phylogenetic distance between two species is an estimate of the amount of time since the most recent common ancestor of both species, in other words the time that each has evolved independently of the other.” https://phylodiversity.net/wcornwell/papers/Vellend_etal_2011_bookchap.pdf So, I think what you should be comparing is (a) the time since the LCA of sparrow and T. rex to the present day and (b) the time since the LCA of T. rex and Stegosaurus to the T. rex; i.e., just the longer branches of the two inverted red Υ’s. AntAllan (talk) 18:56, 14 November 2019 (UTC)
+You are probably confused by the naming: birds did not descend from ornithischians but from saurischians. 162.158.89.114 14:59, 3 November 2021 (UTC)
+I added the transcript, That was legit enough. 121.54.48.38 06:03, 13 May 2013 (UTC)
+So the next question is, how tall is Ryan North? This is such a shout out! : ) 24.193.34.113 (talk) (please sign your comments with ~~~~)
+- According to https://what-if.xkcd.com/16/ (Lightning), "paleontologists estimate he stood nearly five meters tall at the shoulder".162.158.38.196 11:33, 21 October 2018 (UTC)
+A few minor edits, Made the text "Falco Peregrinus" italic for the lulz. 121.54.48.38 10:34, 13 May 2013 (UTC)
+Transcript currently says "...showing that T.Rex came at the same time as sparrows", which isn't what is showed at all (or at least implied, and certainly isn't correct). But I'm not sure about alternate wording of this. Something to do with the common ancestor to both branching much more recently, perhaps, if that isn't already dealt with? 31.110.57.223 12:07, 13 May 2013 (UTC)
+Sorry about that, I added the transcript and I was an idiot at the time so I thought "Maybe they came at the same time?", So I just added that, Sorry about that. 121.54.48.38 22:55, 13 May 2013 (UTC)
+Quote
+So I take it that the last line marks him as a Browncoat? --Thisfox 122.148.216.22 07:20, 13 May 2013 (UTC)
+Yes, I believe you will. 121.54.48.38 07:53, 13 May 2013 (UTC)
+Diagram
+Some evolution diagrams are honest enough to use solid vertical lines for the bits that are actually known and dotted horizontal lines for the wishful thinking bits connecting the different families. 121.74.153.117 00:00, 16 May 2013 (UTC)
+Categories: All comicsComics from 2013Comics from MayMonday comicsComics with colorChartsFireflyDinosaursBiology

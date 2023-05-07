@@ -1,0 +1,50 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1051: Visited
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1051)
+|<< PrevComic #1051 (May 4, 2012)Next >>|
+Visited
+
+Title text: I hate when I read something like '... tension among the BASE jumpers nearly led to wingsuit combat ...', and I get excited because 'wingsuit combat' is underlined, only to find that it's just separate links to the 'wingsuit' and 'combat' articles.
+Explanation[edit]
+This comic is a reference to how an internet browser will make the links of the pages that you have visited a different color than the links that you have not visited. In the case of Wikipedia and other wikis powered by MediaWiki, they are blue for non-visited and purple for visited. In this comic, Randall is ashamed of the pages he has visited, because with the color changes there is evidence of what he has visited in the past, e.g. autoerotic asphyxiation (possibly while researching 682: Force, which features that very Wikipedia page).
+The pages that he did visit before are in great contrast with the pages that he hasn't. Pages he didn't click are often difficult, highly intelligent topics, while he only clicks the easy, funny articles with little scientific background on the Wikipedia site.
+The title text refers to a common mistake many people make when reading articles on Wikipedia. Words referring to subjects that have an article on Wikipedia are colored in blue. This, however, can cause confusion when two words leading to two separate articles appear together, as the two links appear to be one. However, on hovering the cursor over the article link, only one word at a time is underlined, showing that the links are separate.
+It is not possible to determine who this fake article is supposed to be about, but the Macarena band is certainly from Dos Hermanas, Spain. So, it is quite possibly a made-up article from Randall.
+Transcript[edit]
+[The following is in the standard format of a Wikipedia article, modified to reflect the content of the comic.]
+...and was a pioneer of literary social realism.
+He was born in Dos Hermanas in the Andalusia region of Spain (not to be confused with Andalasia[link clicked], the kingdom in Disney's Enchanted[link clicked]), which is also the hometown of Macarena[link clicked] band Los Del Río[link clicked],
+His third novel, set during the Burmese-Siamese war, marked the start of a lifelong interest in the history of Southeast Asia. He spent his later years in Thailand, writing his his final novels just a few blocks from the hotel where actor David Carradine[link clicked] died of Autoerotic Asphyxiation[link clicked].
+[Caption below the panel:]
+If I go for a while without clearing my browser history, I start getting embarrassd by which words on Wikipedia show up in purple.
+Trivia[edit]
+In the caption of the comic, embarrassed is spelled incorrectly.
+In the third paragraph, there is an extra "his" in the phrase "writing his his final novels".
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+How is Andalasia even relevant to the article? It shouldn't be mentioned in the first place. And what's wrong with autoerotic asphyxiation? Davidy22[talk] 13:56, 8 January 2013 (UTC)
+The blue / purple links are a common standard in IE and Firefox, at least. Not specific to Wikipedia. --68.200.188.141 01:55, 27 January 2013 (UTC)
+You can set the colours in a browser but you can also set them in a website. The websites colours take prevalence. Wikipedia actually has set them to blue and purple, possibly to make sure everyone has the same experience reading the article. Here is an excerpt from Wikipedia's style sheet
+a{
+  text-decoration:none;
+  color:#0645ad;
+  background:none}
+a:visited{
+  color:#0b0080}
+a:active{
+  color:#faa700}
+a:hover,a:focus{
+  text-decoration:underline}
+a.stub{
+  color:#772233}
+Tharkon (talk) 20:56, 24 July 2014 (UTC)
+I'm with Randall on this one, Wikipedia should TOTALLY have an article on Wingsuit Combat. It could be a new sport! -- 69.10.219.243 (talk) (please sign your comments with ~~~~)
+Yeah! Wingsuit combat!™ (giving credit where credit is due. Check Please! StillNotOriginal (Talk to me!) 23:16, 19 May 2018 (UTC)
+Embarrassed is misspelled in the caption in the picture. --162.158.252.185 11:45, 9 March 2016 (UTC)
+Author?[edit]
+It should be clarified whether or not the author mentioned in the script is imaginary or not! (Imaginary as far as I can see.)
+the title text refers to violations of WP:SOB, which I think is notable enough to be included 172.70.174.41 19:43, 24 May 2022 (UTC)Bumpf
+Categories: All comicsComics from 2012Comics from MayFriday comicsComics with colorWikipediaWingsuit

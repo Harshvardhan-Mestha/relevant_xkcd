@@ -1,0 +1,44 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1260: LD50
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1260)
+|<< PrevComic #1260 (September 4, 2013)Next >>|
+LD50
+
+Title text: The dose is much lower when administered orally. We're still trying to get the paper into the needles for subcutaneous injection.
+Explanation[edit]
+LD50 is a term used in toxicology that identifies the median lethal dose of a toxin, or how much is required to kill 50% of a given population. LD50s are usually measured in g/kg, as the amount of toxin to kill something is usually linearly related to its mass. The lower the LD50, the more lethal the toxin. An LD50 can be determined for almost any substance: for example, the LD50 for sugar (in rats) is 29.7 g/kg. However, Botulinum toxin (commercially known as Botox in the beauty industry), the most acutely toxic substance known, has a LD50 of roughly 1 ng/kg, or 0.000000001 g/kg, a vanishingly small amount.
+The comic is making the joke that the LD50 of papers on toxicology is 2 kg/kg, so it takes 2 kilograms of papers on toxicology to kill a person for each kilogram they weigh. The worldwide average weight of an adult is 62 kg (137 lb), so the lethal dose would be 124 kg (273 lb) of toxicology papers. Death is apparently caused by compression or smothering, rather than any form of toxicity.
+The title text says it will take less paper to kill a person if the paper is shoved down their throat instead of dropped on them, either by suffocation or bursting the subject's stomach. A third method of delivering a toxin is by subcutaneous injections which are highly effective in administering vaccines and medications, but that number is omitted since they couldn't figure out how to do it. The amount of paper required to trigger a fatal blood vessel blockage would probably be fairly small if they could.
+Transcript[edit]
+[A figure in a white coat lies on the floor, crushed beneath a giant pile of binders & paper. Megan and Cueball in white coats stand next to him, looking on. Megan is holding a clipboard.]
+[Caption below the panel:]
+The LD50 of toxicity data is 2 kilograms per kilogram.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+There's one toxicology paper that's facing us instead of laying flat. Is it just me, or is there a funny "concerned" face on it? --Druid816 (talk) 05:58, 4 September 2013 (UTC)
+I think that's just pareidolia at work 199.27.133.127 20:56, 3 August 2014 (UTC)
+Oh my, when I checked the comic this morning I didn't even see Cueball lying underneath the stack of toxicology papers... --Buggz (talk) 06:17, 4 September 2013 (UTC)
+Is there any way to move this page from LD50 to LD50? 208.120.153.144 06:31, 4 September 2013 (UTC)
+We try to stay as faithful to the main xkcd comics as possible when referencing xkcd materials. If the comic title on xkcd.com is LD50, it's LD50 here too. Davidy²²[talk] 06:51, 4 September 2013 (UTC)
+Wait, that's just one scientist out of three that died of toxicity data. Doesn't that mean, that they've only determined LD33? Is there any way to estimate LD50 from LD33? Imho the exact distribution of death rate / dose would have to be known up to one free parameter for such an estimate... -- Xorg (talk) 10:56, 4 September 2013 (UTC)
+I tried to address this with an edit. Betwixt the ultimate and penultimate ("...he/she weighs.") sentences I started to add:
+Presumably, for every recorded death a statistically matched second person survived the same load. In this case perhaps this is the Cueball scientist behind the Megan scientist, although he is now obviously unencumbered.
+But what do we know, maybe Cueball is only half dead. 189.186.105.168 (talk) (please sign your comments with ~~~~)
+...although it started to run away with me. Was also going to say something about saving paper by re-using the 'test dose', or something, but it's already getting too long. But someone might be able to edit it (and even re-arrange it) better than I. 178.106.190.241 11:42, 4 September 2013 (UTC)
+Second-thoughts edit! The person beneath the documentation isn't necessarily the dead one (in any given pair)! He lacks any obvious signs of being deceased (e.g. "a cross for an eye", by common cartoon standards, albeit that cueballs generally don't have eyes, or signs of bodily breakage or presumably vital fluids slowly seeping across the floor, or...). Thus maybe this is one of the (uncomfortable!) survivors from the cohort of testees, being observed. If only Randall would have added a sign of death (or life, like a "groan") then we could get on with our lives! (Unlike fully half of those tested upon.) 178.106.190.241 11:51, 4 September 2013 (UTC)
+A third edit from me: Regular printing paper's density (according to Wiki) is 800kg/m³, with the human body being slightly less than 1000kg/m³ as a ready reckoner (oh, go on then... wiki says... oh, it doesn't, obviously at least... well, given how we float in water, I'd estimate it at 850-950kg/m³). Doesn't that pile of literature (even assuming air gaps, and possibly some lamination/plastic covering of perhaps even less dense nature) look a little more than than twice-and-a-bit the volume of the typical Cueball beneath, even unflattened and unstickified? Right, that was my last edit. Honest. 178.106.190.241 12:02, 4 September 2013 (UTC)
+Could it be that by "administered orally", Randall means "verbally" (i.e. read out loud)? I think that could be quite a funny interpretation... :-) Gregatar (talk) 18:56, 4 September 2013 (UTC)
+Aurally? 79.45.204.116 16:55, 5 September 2013 (UTC)APB
+YA RLY!!! 173.245.55.67 14:06, 1 April 2014 (UTC)BK201
+I totally agree with this 'verbally' thing, I was thinking the same, that a too large set of data read out loud would be fatal after a few 100 pages :) Include in explanation? Flekkie (talk) 23:50, 5 September 2013 (UTC)
+Laughing my ass off!!! But nothing to contribute other than laughter.  :¬D ExternalMonolog (talk) 20:14, 4 September 2013 (UTC)ExternalMonolog
+Something is very wrong here. The LD50 is the dose required to kill HALF of the test population, but here we see only one guy, and he's presumably either dead or not-dead. The "2kg/kg" figure suggests that if you drop 2x each person's weight in paper on an entire population, *half* of them will die. 58.28.131.238 (talk) (please sign your comments with ~~~~)
+I don't think it's wrong, Randall just didn't draw all the experiments (like in Significant), but just the last one. The humour is just to show how the experiment is performed, not how many people it kills. The LD50 term just adds fun by using toxicology jargon.--92.231.34.227 14:25, 5 September 2013 (UTC)
+When I first read this, I thought it was referring to a fork bomb, saying that the data was toxic to the computer and that the data's mass is twice its own mass, i.e. its size doubles before you know it. The toxicology explanation does seem more convincing though. 98.237.178.64 01:37, 6 September 2013 (UTC) edited 98.237.178.64 01:42, 6 September 2013 (UTC)
+The explanation of subcutaneous injection mentions blood clots in vessels. Subcutaneous injection in used in the medical field to refer to injections under the skin, but not inside muscle (intramuscular) or inside the veins (intravenous). IV would clearly be more lethal at a lower dose than subcutaneous and I would imagine Randall's intent was to describe an IV injection. I would expect the cause of death from paper particles injected under the skin to be infection if a small to moderate amount of paper was used to hemorrhage due to mechanical tearing of the skin and underlying tissues in a high dose.99.126.226.212 05:25, 7 September 2013 (UTC)
+Why is the image missing?--108.162.250.8 10:32, 5 December 2013 (UTC)
+The pockets in the scientists' coats are too low for them to reach with their short arms. Just sayin'. Brenda (talk) 01:05, 7 December 2018 (UTC)
+Categories: All comicsComics from 2013Comics from SeptemberWednesday comicsComics featuring MeganComics featuring CueballChemistryMultiple Cueballs

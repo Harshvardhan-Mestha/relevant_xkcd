@@ -1,0 +1,56 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1204: Detail
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1204)
+|<< PrevComic #1204 (April 26, 2013)Next >>|
+Detail
+
+Title text: 2031: Google defends the swiveling roof-mounted scanning electron microscopes on its Street View cars, saying they 'don't reveal anything that couldn't be seen by any pedestrian scanning your house with an electron microscope.'
+Google Streetview car in Amsterdam, Netherlands. (from Wikimedia Commons)
+Explanation[edit]
+Google Earth is a mapping software service provided by Google that allows people to view the Earth from above. If zoomed in to maximum magnification, one can obtain clear views of individual streets and homes.
+An image's resolution is the smallest length detectable in that image. In terms of Google Earth, this refers to the real-life distance corresponding to one pixel in an aerial image. Randall points out that the level of detail in Google Earth's images has been increasing exponentially since its introduction, as aerial imaging technology improves and better ways of collecting the data are found. Each tick in the scale represents a resolution improvement by 1000 times.
+In quantum mechanics, the Planck length is (in layman's terms) the smallest measurable distance, defined as approximately 1.6×10−35 meters, or around 1020 times smaller than the diameter of a proton. As the graph indicates, this may be called the "resolution" of the universe.
+Randall extrapolates the exponential trend of Google Earth's increasing resolution, 'revealing' that by the year 2120 or so, Google Earth's resolution will approach and even possibly exceed the Planck length, an obviously fanciful and impossible idea. Current laboratory instruments cannot even get close to measuring the Planck length, barely able to reach the level of the atom. (Which, by the chart's prediction, will be surpassed by Google Earth at around 2040.)
+Other comics exploring unwarranted extrapolation include 605: Extrapolating, 1007: Sustainable and 1281: Minifigs.
+The title text refers to controversy that Google received at one point regarding their use of vehicle-mounted Street View cameras to take images of streets and houses, and how such photography could constitute an invasion of privacy. Google defended itself by stating that the cameras can see nothing more than a pedestrian walking by. Given the trendline in this comic however, Google would need to produce resolution in the nanometer range by 2031, which (using today's technology) would require the use of scanning electron microscopes. The same 'invasion of privacy' defense would obviously not work here, as 1) current scanning electron microscopes in labs can only be used with small specimens at very close range, and are completely unsuitable for observing something as large as a house or for observations from a passing car, and 2) most pedestrians are not equipped with scanning electron microscopes.[citation needed]
+Transcript[edit]
+My Neighborhood's Resolution in:
+[A two-axis graph with years from 2000 to 2100 plotted on the x-axis and resolution from 1 meter to the Planck length plotted on a logarithmic scale on the y-axis. Three points in a line close to (~2010, 1 meter) are plotted at the bottom left of the graph; they have a strong positive correlation. Two trendlines are drawn on the graph; one is labeled "Earth" and remains constant at the Planck length over time; the other is labeled "Google Earth" and connects the aforementioned three points, extending upward in a straight line and approaching the Planck length around 2100. Both trendlines break up into question marks before the point they would intersect.]
+Trivia[edit]
+An earlier version of this comic misspelled "neighborhood" as "neghborhood". This has since been corrected.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I'm not certain as to what the date should be, as I'm in New Zealand. I've taken one off of my current date (26th) as a precaution. Anyone who knows the right date (or right timezone) please edit it accordingly. --ZephireNZ (talk) 04:25, 26 April 2013 (UTC)
+This comic arrive a day early, right?Afhoke (talk) 04:42, 26 April 2013 (UTC)
+Most likely a result of the time machine. 184.66.160.91 05:02, 26 April 2013 (UTC)
+Any idea if the typo Ne*ghborhood is intentional and what it might refer to? 141.17.83.10 07:11, 26 April 2013 (UTC)
+It appears to have just been a mistake, as it's now been corrected on the panel at kxcd. 67.51.59.66 16:48, 26 April 2013 (UTC)
+I see what you did there. ;) --24.145.230.202 23:31, 26 April 2013 (UTC)
+Forget electronic microscope. Where do you think they would be STORING the maps? Nearby galaxies? Other dimension? .... oh, I see: Black Mesa Research Facility is a google service company researching storage technologies. -- Hkmaly (talk) 08:13, 26 April 2013 (UTC)
+Shouldn't the vertical axis be reversed? If the Planck length is the theoretical smallest length, wouldn't most readers expect the smallest value to be lowest on the vertical axis? Thus the log scale line would angle downward, more clearly indicating that the resolution lengthy is getting smaller with time. The way it it is drawn, the first impression might be that the resolution length is increasing, not decreasing. Just a suggestion. XKCD is my favorite comic because I learn something new almost every day! -- Matthew-e-hackman (talk) (please sign your comments with ~~~~)
+I had the same thought. Had to pause a moment to reassure myself Planck Length is a small thing. 67.51.59.66 16:48, 26 April 2013 (UTC)
+The vertical increase works better for the joke, as it is representing the concept of the resolution increasing, rather than the resolution distance decreasing, even though the latter naturally leads to the former.Pennpenn (talk) 05:20, 30 January 2014 (UTC)
+Randall really likes pointing out the dangers of excessive extrapolation, doesn't he! One of his key themes. And this one is taking extremes to the extreme. Robbak (talk) 13:00, 26 April 2013 (UTC)
+Representation == Reality? -- 24.84.201.240 (talk) (please sign your comments with ~~~~)
+Whoa i just figured. the lines meet around 2100 - and in 2101.war was beginning - a coincidence? --178.203.192.19 20:25, 26 April 2013 (UTC)
+Remember, 286: All Your Base. Tryc (talk) 15:05, 13 September 2013 (UTC)
+"Shouldn't the vertical axis be reversed?" I would say no. As the smallest resolvable detail shrinks, people refer to resolution as increasing, so a rising line makes sense. Maybe the axis should be denominated in pixels per meter though... Gardnertoo (talk) 15:19, 27 April 2013 (UTC)
+
+Can somebody explain the line labeled "Earth" at the top of the diagram? Spongebog (talk)
+The resolution of actual Earth remains constant as the resolution of Google Earth approaches 96.33.168.232 04:40, 29 April 2013 (UTC)
+
+It's also quite fun to compare the graph to the first publication of Moore's law, which had just one datapoint more but looks more or less identical to the comic. (And it still holds after 50 years... although there are signs it'll be slowing down soon...) 212.64.51.153 (talk) (please sign your comments with ~~~~)
+"The images get finer as satellite imaging technology improves" - this is wrong; however, I have no idea currently how to rewite the sentence elegantly, maybe someone else does. The Google Maps/Earth finer images do not come from satellites, but are obtained by aerial photography. No commercial satellite can produce such images (maybe military ones come close - just maybe). In fact, Randall has written about that: http://what-if.xkcd.com/32/ 89.174.214.74 13:19, 29 April 2013 (UTC)
+"Each tick in the scale represents a resolution improvement by 1000x." Am I being dense, or does the term "log scale" necessarily mean jumps of 10x? 149.161.34.44 20:50, 1 May 2013 (UTC)
+"A simple example [of a logarithmic scale] is a chart whose vertical or horizontal axis has equally spaced increments that are labeled 1, 10, 100, 1000, instead of 1, 2, 3, 4." Taken from wikipedia's article titled "Logarithmic scale". 24.251.209.253 03:40, 16 May 2013 (UTC)
+"Log scale" means that each jump of 10X is an each distance on the paper. It does not mean that there is a tick mark at every jump of 10X. It does not even mean that there are any tick marks. He put one tick mark at every third jump of 10X. One tick mark represents 3 jumps of 10X, for a total of 10X 10X 10X = 1000X.108.162.215.84 23:10, 16 February 2014 (UTC)
+Looks like Google Earth resolution will surpass actual resolution by 2120*...
+must have "Google Eyes" (TM) to experience better than actual resolution 207.126.189.4 17:31, 20 May 2013 (UTC)dabeansdad
+Can someone please explain why the Plank length being the resolution of the universe is a "myth", as it says in the explanation? 75.69.96.225 01:22, 27 October 2013 (UTC)
+Thanks for your hint. It isn't a myth but fact in quantum mechanics. It's fixed.--Dgbrt (talk) 16:18, 27 October 2013 (UTC)
+Randall is wrong: Google Earth does not gain resolution exponentially, but logistically. Admittedly, that's somewhat less funny. --Jolbucley (talk) 04:31, 29 January 2014 (UTC)
+Why isn't the new version uploaded? 0100011101100001011011010110010101011010011011110110111001100101 (talk page) 04:34, 7 August 2014 (UTC)
+Categories: All comicsComics from 2013Comics from AprilFriday comicsPages using the "citation needed" templateLine graphsTimelinesExtrapolationGoogle Maps

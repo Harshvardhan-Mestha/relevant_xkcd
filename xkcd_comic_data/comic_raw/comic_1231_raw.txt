@@ -1,0 +1,54 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1231: Habitable Zone
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1231)
+|<< PrevComic #1231 (June 28, 2013)Next >>|
+Habitable Zone
+
+Title text: They have a telescope pointed RIGHT AT US!
+Explanation[edit]
+While searching for extrasolar planets this gullible astronomer is very excited because he believes he has found a planet in a star's habitable zone, with oceans and visible weather. From these observations, he has determined that it is quite likely to have life on it, which would be a major groundbreaking discovery.
+The caption explains, however, that someone has used a mirror as a prank to fool the astronomer, so he is in fact looking at a reflection of the Earth.
+The title text goes on says that the astronomer would also be able to see the reflection of his telescope, which would convince him that there definitely is intelligent life on the other planet, looking straight back at him no less!
+Pedantic Comments[edit]
+There are quite a number of issues (listed below) with the practical implementation of this prank, though of course they don't matter much in terms of the joke itself
+The telescopes used for this type of research are designed to view faint, distant objects. In the images that they produce, objects the size of telescopes are not visible. Therefore, the astronomer would not see the reflection of the telescope.
+The telescopes have a motor that moves them to compensate for earth's rotation, so that they stay pointed on the same part of the sky. This means that the telescope would not stay pointed at the mirror. The prankster would have to move the mirror in a very precise way to maintain the illusion.
+For the astronomer to have ascertained that the planet is in a star's habitable zone means that the astronomer observed the planet to be the size of Earth and observed the distance between the planet (Earth) and its star (the Sun), and the approximate size of that star. However, in a mirror at any reasonable distance from the Earth, up to several times the distance of the moon, the Earth would appear to be larger than the Sun.
+For the relative sizes of the Earth and Sun to be correct in the reflection, the mirror would have to be as far from Earth as the Earth was from the Sun. But even pointing to a mirror at a distance of the moon would require a very large one, probably more than one hundred kilometers (sixty miles) in diameter.
+A professional astronomer should be able to realize nearly instantaneously that they're not looking at an Earth-like, extrasolar planet (as should anyone, in fact, who is familiar with even the basic arrangement of Earth's continents and oceans), but instead Earth itself.
+A telescope of this size, or indeed any one employing a solid mirror rather than a massive disk of dust in space, could never see an extrasolar planet with this level of detail without insurmountable engineering issues.
+Transcript[edit]
+[Cueball stands in front of a huge telescope, looking through the eyepiece.]
+Cueball: I've discovered an Earth-sized planet in a star's habitable zone! It even has oceans! And visible weather!
+[Caption below the panel:]
+To mess with an astronomer, put a mirror in the path of their telescope.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Even if you placed the mirror in Space, it would be incredibly obvious what is going on. I don't think this would work. 96.251.85.48 06:56, 28 June 2013 (UTC)
+For this trick to work, the mirror would need to be placed AT LEAST two light years away and be at least 1AU big. Somehow I don't think this is worth it. Alternatively, you need more complicated optical system which would not only mirror Earth, but also create illusion it's further away. I still think such system would be more costly to build that ISS. Or ... well ... you could put an LCD display directly over the telescope. That's doable, cheap and as a bonus you can display planets from sci-fi there. -- Hkmaly (talk) 08:44, 28 June 2013 (UTC)
+The mirror could be much smaller and closer if it's convex. PS. I don't know the 'rules' for posting, so apologies if I'm doing it wrong.24.72.12.221 13:46, 1 July 2013 (UTC)
+Under Hkmaly's initial proposal, the astronomer would have to make two observations, 4 years apart, in order to see the "other" telescope. Elsbree (talk) 07:13, 29 June 2013 (UTC)
+Since when do we have terrestrial telescopes that can directly resolve exoplanets? I think we're still at the stage where we get excited by troughs in light curves EDIT: TIL that there are specific techniques for exactly that: Nulling interferometry and Vortex coronagraphs. Still, they may work for hot Jupiters, but don't think we can detect Goldilocks exoplanets from the ground yet; much less see oceans and visible weather. 220.224.246.97 09:14, 28 June 2013 (UTC)
+You can't detect them from the ground, but you are invited use your pattern-recognition skills to detect planets by examining the images sent back by the Kepler telescope. It's part of the citizen-scientist project. Go to http://www.PlanetHunters.org .CoderLass (talk) 21:14, 10 July 2013 (UTC)
+My first thought was that you need to point the mirror so that it's aimed perfectly at the Earth. Then, I realized that you can use a corner reflector so that the aim doesn't have to be precise at all. Then, I came to the following realization: what if a significant portion of the stars we see are simply reflections of our own solar system due to a massive prank done by aliens? 174.88.153.125 15:22, 28 June 2013 (UTC)
+Or all of them? Of course including additional variable features like red shift. So they were right! Forever alone... --Kronf (talk) 16:31, 28 June 2013 (UTC)
+Where would these aliens reside? Either we're pranking ourselves, or there are other stars. 220.224.246.97 17:57, 28 June 2013 (UTC)
+What if there's a mirage-like effect in space, that causes light rays to mirror back to us with some variability, maybe different sizes, shapes, colors, and the universe is actuallly quite small? I mean, other than light, do we seriously detect gravity and other stuff out there (other than the visible effects of those properties on other stuff we see)? 189.5.110.148 06:17, 29 June 2013 (UTC)
+If the universe is curved spherically, something similar to this would actually happen. http://en.wikipedia.org/wiki/Shape_of_the_Universe 174.88.153.125 16:28, 29 June 2013 (UTC)
+Wouldn't reflected light make the mirror extremely bright and impossible to view directly? 49.176.71.2 (talk) (please sign your comments with ~~~~)
+Depends on how far the aliens decide to put the mirror. Light gets weaker with distance, which is the same reason that distant stars (many of which are brighter than our sun) don't overwhelm us with light. Also...what if the sun is merely a reflection of something? 174.88.153.125 16:28, 29 June 2013 (UTC)
+
+A German (satirical) newspaper page had an article once, how NASA discovered a habitable planet zero light years away from Earth after they rotated the Hubble space telescope [1]. --Chtz (talk) 22:18, 10 July 2013 (UTC)
+Please translate this. It's a great joke, but most people here will not understand. And: It's not a newspaper.--Dgbrt (talk) 22:31, 10 July 2013 (UTC)
+That was already the main part of the joke. If someone is interested in the rest, please use your favorite online translator. (Claiming to be a "newspaper" is also a joke, the same as claiming to exist since 1845) --Chtz (talk) 10:35, 11 July 2013 (UTC)
+I've translated it. --Kronf (talk) 12:55, 2 August 2013 (UTC)
+Exoplanet detection techniques like Doppler spetroscopy have to make corrections for the motion of the Earth. Omitting such corrections will result in the "discovery" of a planet which is actually the Earth... Sabik (talk) 04:31, 19 January 2014 (UTC)
+Title text
+The explain for the title text is still incorrect. The telescope looking at US is not the mirror messing the astronomer! --Dgbrt (talk) 18:45, 10 August 2014 (UTC)
+Another means to an end
+Don't bother with a mirror out in space. Take a television and put it across the end of the telescope and feed it from a camera on the moon that is pointed at the Earth. Are any of the cameras left by Apollo still working? Nutster (talk) 13:06, 8 October 2019 (UTC)
+There may as well not be intelligent life on the surface of that planet, considering that the astronomer is THAT gullible. SilverTheTerribleMathematician (talk) 03:53, 13 December 2022 (UTC)
+Categories: All comicsComics from 2013Comics from JuneFriday comicsComics featuring CueballScienceExoplanets

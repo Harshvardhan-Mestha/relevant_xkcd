@@ -1,0 +1,55 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1308: Christmas Lights
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1308)
+|<< PrevComic #1308 (December 25, 2013)Next >>|
+Christmas Lights
+
+Title text: Merry Christmas from xkcd!
+Explanation[edit]
+Each light in this Christmas scene is represented by its electromagnetic spectrum, which shows in a graphical form how much energy is radiated by each wavelength of light.
+These graphs plot the intensity of all visible radiation. Infrared and ultraviolet are partially plotted also, represented by black. It starts with longer wavelengths on the left (infrared), continues with visible light in the middle from red to blue, and ends with ultraviolet at the right. There are 4 distinct spectra in this comic:
+In the center of the image, between Beret Guy and the couple, Cueball and Megan, appears to be a light spectrum of a fire, notable because it emits a lot of energy in the infrared band (The left zone of the spectrum), emitted typically from hot sources, and in the red and orange zone. The spike toward the left hand side of the spectrum is likely the 4.3 µm resonance wavelength of hot CO2 characteristic of burning hydrocarbons; see Emission of radiation. Given the size of the spectrum and its positioning, this represents a fireplace at which the characters are warming themselves against the winter chill.
+In the right of the comic appear some spectra arranged in the form of a Christmas tree. There are 3 different spectra in this "Christmas tree":
+At the top appears a complicated spectrum, possibly that of a white LED, representing the tradition in some cultures of putting a star (or an angel, but still usually lit) at the top of the Christmas tree.
+In the branches there are two simpler spectra repeated at various places, one with a peak in the green zone, representing a green light source, and other with a peak in the red zone, representing a red light source. Both of these represent the tradition of putting colorful decoration in the tree, in this case apparently red and green colored Christmas lights.
+In 835: Tree a similarly strange Christmas tree has been constructed using binary trees.
+The solution to the light spectrum plots can be found here:
+Transcript[edit]
+[Megan, Cueball, and Beret Guy sitting on the floor and a big spectrum with one peak is shown between them. On the right many smaller spectra are shown in a shape of a Christmas tree.]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Is it possible the spectrums are how beret guys sees colors? It would fit in with him seeing atoms 172.68.211.232 04:24, 23 May 2018 (UTC)
+That is not the right spectrum for the sun. 108.162.219.193 20:44, 27 December 2013 (UTC)
+I think the spectrum at the top of the tree is a specific star. The Sun. 173.245.56.64 16:21, 26 December 2013 (UTC)
+If I am reading the graphs right, except for the very top there is no blue lights. From the guy with his eye on the sky. (talk) 06:41, 25 December 2013 (UTC)
+Presumably the top is gold? 173.245.52.211 07:47, 25 December 2013 (UTC)
+Also the spike in the near IR of the large graph is likely to be a mercury line. I think fires would have a smoother curve of a black body. 199.27.128.122 06:47, 25 December 2013 (UTC)
+Could someone make a coloured version?Guru-45 (talk) 07:22, 25 December 2013 (UTC)
+Also the light at the top of the tree seems to be emitting in the UV range. Perhaps it’s supposed to be a fluorescent lamp? 108.162.245.7 07:30, 25 December 2013 (UTC)
+I'm thinking it's a "white" LED. 108.162.216.56 07:50, 25 December 2013 (UTC)
+I think the one at the top matches the profile of a star... 141.101.99.211 08:18, 25 December 2013 (UTC)
+The spike is not in the "near" infrared, this is water and/or carbondioxide line. 108.162.231.214 (talk) (please sign your comments with ~~~~)
+From a rough pixel-measurement and assuming a linear scale, the peak on the large spectrum is at around 800 nm. I'm not sure what to make from the peak, but infrared light is heat radiation, so it could be the representation of sharing warmth and love. 15:15, 25 December 2013 (UTC)
+The top spectrum closely matches that of a cool-white LED. The strong peak in the blue, the broad peak from red to green, and the dip in the cyan range is a real give-away. Exactly like LEDs.ExternalMonolog (talk) 01:00, 26 December 2013 (UTC)ExternalMonolog
+Here is a "filled-in" version of the comic.Guru-45 (talk) 17:06, 25 December 2013 (UTC)
+Very nice, Guru!ExternalMonolog (talk) 01:35, 26 December 2013 (UTC)ExternalMonolog
+I strongly disagree with the explanation's assertion that the peak in the large spectrum, the fire, is the 4.3µm CO2 emission listed in the source given. The peak in the source's spectrum is clearly outside of the near-infrared spectrum and it is just as clearly on the long wave side of the black-body peak in the chart. The comic doesn't even show these wavelengths at all. If, as it appears, that the chart in the comic is a semi-log plot, then the peak is roughly in the 1,000~1,200nm range.ExternalMonolog (talk) 01:20, 26 December 2013 (UTC)ExternalMonolog
+The picture of Guru-45 a few lines above is great and explaining the situation very well. It should be included in the explain. --Dgbrt (talk) 16:04, 27 December 2013 (UTC)
+As a clueless non-chemist, I'm wondering if the spike represents something *in* the fire, like roasting chestnuts? 173.245.56.90 14:34, 15 May 2014 (UTC)
+Misleading picture in link
+The picture :
+http://en.wikipedia.org/wiki/File:Flame_detection_spectrum.JPG
+found in the link of the explanation is strongly misleading. Visible radiation ( red to violet ) is 700 to 400 nm. The example spectrum in the middle does not fit to this. Maybe some guesswork here results from that link. After some "metering" with a ruler on the screen my guess for the spike in the fireplace spectum now is ca. 1.5 or 2.1 µm , being the first harmonic of either O-H or CO2 respectively. 108.162.231.220 23:23, 26 December 2013 (UTC)
+I agree that the color band representing the spectrum of visible light given is not directly related to the (human) visible spectrum in the source (Flame Detection). The visible spectrum ranges from about 770nm to about 395nm, or about one octave. ExternalMonog. -- ExternalMonolog (talk) (please sign your comments with ~~~~)
+
+"an angel, but still usually lit" ... aren't angels glowing in general? Did you ever see an angel who wasn't glowing? :-) -- Hkmaly (talk) 10:55, 27 December 2013 (UTC)
+Yes. -Anonymous 12:29, 2 March 2015 (UTC)
+Can someone please explain to me why my entries are constantly interrupting the flow of the room? When I place an entry, it is sometimes placed inside a dotted line block and sometimes interrupts a previous entry? ExternalMonolog -- ExternalMonolog (talk) (please sign your comments with ~~~~)
+For example, my current post does not have a dotted-line block around it at all and it still interrupts previous entries. I'm using an old version of AOL and a non-current version of OSX 10.6 (Stuck here in dial-up hell, I can download no more than 2KBytes per hour so updates are extremely impractical. -- ExternalMonolog (talk) (please sign your comments with ~~~~)
+See your talk page. Davidy²²[talk] 10:52, 29 December 2013 (UTC)
+As far asI know, I have no "talk page" so I'm still confused about where to go for answers. Please advise. TY. ExternalMonolog -- ExternalMonolog (talk) (please sign your comments with ~~~~)
+Here. There should also be a link to it at the top of the page, next to your username. Davidy²²[talk] 11:51, 29 December 2013 (UTC)
+Categories: All comicsComics from 2013Comics from DecemberWednesday comicsComics with colorChristmasComics featuring MeganComics featuring CueballComics featuring Beret Guy

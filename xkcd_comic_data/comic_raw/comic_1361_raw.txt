@@ -1,0 +1,45 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1361: Google Announcement
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1361)
+|<< PrevComic #1361 (April 28, 2014)Next >>|
+Google Announcement
+
+Title text: The less popular 8.8.4.4 is slated for discontinuation.
+Explanation[edit]
+At the time of this comic's release, Vic Gundotra had recently left Google. Because he was the head of Google+, this had caused many people, including TechCrunch, to theorize that Google+ was going to be shut down, despite the continuing comments from Google that it would remain active and updated. It lasted five more years, finally being closed on April 2nd, 2019.
+Google has a history of closing popular services.
+The comic extrapolates this to an announcement that Google would be closing all its popular services, up to and including its e-mail service, Gmail, and even the core business of the company, its Internet search engine, to wholly concentrate on a relatively obscure part of its product lineup. According to Google, its Public DNS servers (Domain Name System servers), better known by their IPv4 addresses 8.8.8.8 and 8.8.4.4, are supposed to be a faster alternative to using one's ISP's DNS servers (because of caching effects due to a large user base), as well as less susceptible to censorship. When Turkey started blocking access to Twitter and YouTube in March 2014, Turkish ISPs first did this on the DNS level by manipulating the results from their own name servers. The most popular workaround was using Google's DNS server instead, so much so that its address was written as graffiti on the side of a building.
+The joke may also be related to the fact that 8.8.8.8 is an IP address heavily used by network administrators to perform connectivity tests (ping) because it is easy to remember and fast to type. Google would want to concentrate on this feature to build a business model using that fact.
+The reason behind this decision may be that Google considers a DNS server, a fairly low-level component of the Internet's service stack, to be the optimal place to collect information on its users, an accusation leveled at Google ever since it introduced the service.
+The title text refers to the impression held by some that Google will shut down services that prove less popular than desired at short notice, even though they may in fact have a significant user base. A recent example of that is the closure of the RSS aggregation service, Google Reader, in July 2013. While the same DNS service is provided under both addresses, the more memorable 8.8.8.8 is likely to receive far more requests than 8.8.4.4.
+Transcript[edit]
+[Cueball is standing at a lectern marked Google.]
+Cueball: The rumors are true. Google will be shutting down Plus—
+Cueball: Along with Hangouts, Photos, Voice, Docs, Drive, Maps, Gmail, Chrome, Android, and Search—
+Cueball: To focus on our core project:
+Cueball: The 8.8.8.8 DNS Server.
+Trivia[edit]
+Google quickly responded with an acknowledgment to a query for "xkcd". The TXT record for the DNS name of the IP address 8.8.8.8 was set to "http://xkcd.com/1361/", an entry just meant to be informal.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+"The service was announced on 3 December 2009" - http://en.wikipedia.org/wiki/Google_Public_DNS 108.162.254.179 05:31, 28 April 2014 (UTC)
+ubuntu one? Isn't this a reference to Ubuntu shutting down Ubuntu One "focus our efforts on our most important strategic initiatives and ensure we are not spread too thin" http://blog.canonical.com/2014/04/02/shutting-down-ubuntu-one-file-services/ Randall mentions using Linux quite a bit. U1 was a pretty convenient service for linux users. Many users complain about Ubuntu depreciating various important features. U1 was something that made Ubuntu practical for people using Mac and windows because of the cloud sharing so may be seen as part of a core mandate for ubuntu. The joke is that this is foolish to shut down, it would be akin to Google shutting down all their important services to focus on the DNS core because technically it is more important. (but obviously not to most google users who have no idea what 8.8.8.8 is)
+I was pretty sure this was about ubuntu because it seems like a strong parallel... but then I thought that was a bit obscure... so I came here to check it out and I suppose maybe I am the only one who sees the connection? 108.162.245.11 07:51, 28 April 2014 (UTC)
+For some reason I thought 8.8.8.8 was a reference to the Penfield Mood Organ in Do Androids Dream of Electric Sheep. I have no clue why I thought this because it has nothing to do with Google. Maybe its because dialing 888 gives people the desire to watch TV no matter what's on. Either way, I realize that my idea would be too obscure and have nothing to do with the original comic.173.245.48.90 09:19, 28 April 2014 (UTC)
+I'll start panicking only after Google switches its public DNS server to 6.6.6.6 - 108.162.254.185 09:21, 28 April 2014 (UTC)
+That would really be scary - I mean, any event which causes Google to use IP address currently allocated to U.S. Army Information Systems Command, Fort Huachuca would certainly be reason to panic. -- Hkmaly (talk) 10:31, 28 April 2014 (UTC)
+I thought that the comment criticised Google's critics, because they usually say Google should not be working on Google Plus but, instead, on its "core business". So Google goes hardcore in order to abide by that and shuts down everything that is not "core" enough - what can be more central to any internet's business than DNS, right? It's kind of a troll reductio ad absurdum, IMO. 108.162.212.194 11:29, 28 April 2014 (UTC)
+I would be crushed if 8.8.4.4 were shut down. lcarsos_a (talk) 14:14, 28 April 2014 (UTC)
+This is also a parody on how such rumors spread and extrapolate ludicrously. Because some VP left a company doesn't mean the product he/she was working on will be shutdown. That's not how large companies work -- another VP will just lead that effort. Saying that G+ will be shut down because Vic left is quite a stretch, and the parody is to stretch it further until you hit the "core", with an additional layer on the parody as for most people the core business that Google is known for is its search engine, not a DNS service. Ralfoide (talk) 15:57, 28 April 2014 (UTC)
+
+I speculate that because all of Google's other services are basically loss leaders, basically to just support it's adsense program, this is just harping on it by saying google is focusing on an obscure free service it provides. 17:21, 28 April 2014 (UTC)
+Try "dig +short TXT google-public-dns-a.google.com" 141.101.89.204 08:56, 29 April 2014 (UTC)
+Awesome!! For those without a "dig" command, the response is "http://xkcd.com/1361/" Nealmcb (talk) 12:11, 29 April 2014 (UTC)
+I figured it may have to do with the game "2048" mentioned in strip 1344 four 8s in a row would put the player in a pretty good position, two 8s and two 4s is good but not great. Or maybe I just got nerd sniped. Chexwarrior (talk) 02:21, 1 May 2014 (UTC)
+I think that it had to do with the stop of the streaming service of Last.fm. They said that they want to go to their core business model of scrobbeling and killed the streaming. This comic came out on the exact day that the streaming was shut off, so I had the impression that it was about Last.fm. 162.158.92.22 (talk) (please sign your comments with ~~~~)
+Well, Google is indeed shutting down Google+ due to a data breach. Elvenivle (talk) 18:07, 27 October 2018 (UTC)
+Nice reminder here! I was aware about that current Google+ issue but I didn't remember this comic - or only slightly. This needs definitely an entry at trivia. I've fixed that bad layout at trivia for better human understanding and added this issue. Is this causes by the European GDPR? In combination with the recent Facebook scandal(s)? I'm sure, but there is no proof. --Dgbrt (talk) 19:27, 27 October 2018 (UTC)
+Categories: All comicsComics from 2014Comics from AprilMonday comicsComics featuring CueballInternetPublic speaking

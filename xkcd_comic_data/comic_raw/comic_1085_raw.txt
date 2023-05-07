@@ -1,0 +1,45 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1085: ContextBot
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1085)
+|<< PrevComic #1085 (July 23, 2012)Next >>|
+ContextBot
+
+Title text: If you read all vaguebooking/vaguetweeting with the assumption that they're saying everything they can without revealing classified military information, the internet gets way more exciting.
+Explanation[edit]
+This comic is a commentary on the practice of "vaguebooking" or "vaguetweeting", which is posting a short message of sadness or frustration without context. This is frustrating and emotionally trying to readers because it implies something serious has happened that requires friends to provide emotional support, but may also be something trivial, and with no context it is impossible to determine whether one should worry or not.
+Google has been criticized more than a few times for keeping rather extensive data records on its users, who by this point constitute most of the internet, enough to cause serious damage if Google wasn't historically altruistic (as altruistic as a for-profit company can be). In the comic, ContextBot is a fictitious Google invention which puts context for these statuses, presumably based on all that personal data which Google has collected:
+The first response is pretty self-explanatory: the original poster wants to use the Internet while on the toilet, but can't get a wi-fi signal there.
+The second response is about a bad torrent file the original poster downloaded. A torrent is a way to download files from a lot of different sources at the same time, thereby speeding up the process; it is typically used for large downloads such as movies, games, or Linux software distributions. Fake torrents exist, which usually contain an encrypted .rar file which requires a password to open. To get the password, you usually need to go through a survey via the link supplied in the torrent; in some situations, you even need to pay in order to get the password. Even after that, it's quite likely that the .rar file just contains trash files, instead of the download you wanted.
+The third response is about an xkcd favorite, Minecraft, which has been referenced multiple times in xkcd comics. Diamonds are a very valuable resource in the game, and lava destroys all items dropped into it except for netherite-based items. A "stack" of diamond can be up to 64 individual diamonds, because most items (including diamonds) can only be stacked to a maximum of 64 in vanilla Minecraft (some items can only be stacked to 16, or even can't be stacked at all). The 64 diamonds would likely represent the fruit of several hours (or days) mining. Alt+Tab is the default keybind on most OSes to switch to a different program, while the default keybind to drop an item in Minecraft is the Q key, which is immediately next to the Tab key on QWERTY-style keyboards. Thus, it would be easy to accidentally drop an item while meaning to switch windows using the keyboard. Not only would pressing alt-Q drop a diamond, like pressing a single Q, ctrl-Q is the default keybind to drop an entire stack of items. If they pressed ctrl-Q instead of alt-tab, they would also likely be caught, adding insult to injury.
+The fourth response is about how the original poster mistook the grapes as being seedless. Grape seeds taste really bitter and are uncomfortable when swallowed; this is even more annoying when the seeds are unexpected.
+As noted by the subtitle, ContextBot is considered a great good by everyone who was sick of vaguebooking. This also redeems Google's practice of all those data records in the public's eye.
+In the ContextBot's avatar image, three people can be seen together hanging out. But the image is about to be cropped, leaving out the third person and therefore giving the impression that the two people in the cropped image are there without that person. This demonstrates how context is important to understanding a situation.
+The title text refers to the cryptic ways in which someone with sensitive information must communicate. While most vaguebooking/vaguetweeting is about things of little importance, the title text implies that the things not mentioned impact national/global security. This implies that many tweets may actually be related to high-clearance military and or national security information, but must be vague in order to keep it secret, and if you take that as the context, then the internet suddenly becomes much more exciting.
+Transcript[edit]
+[A social network feed with four status updates from four different people with profile picture. Each status has an arrow going down and right to a reply underneath them, all from the same account, which is called ContextBot. It also has a profile picture with three people standing behind a see-through material with a hole in it. The person on the left is not behind the part with hole and is thus completely greyed out. The other two only have their legs covered, the rest is thus not greyed out because it is behind the hole. The left is a Cueball, the middle may have glasses, and the right has hair. Below them is a black band in which the name ContextBot is written in white.]
+Close-up face with hair and glasses: The things I put up with...
+ContextBot: (His building's WiFi doesn't reach the bathroom.)
+Cueball and Megan holding each other: You'd think by now I'd have learned never to trust anyone.
+ContextBot: (She downloaded a torrent that turned out to be an encrypted .rar and a link to a survey.)
+Blondie: I officially give up.
+ContextBot: (She hit alt-tab to hide Minecraft at work and accidentally dropped a stack of diamond into lava.)
+Hairy: Sighhhh
+ContextBot: (He thought these grapes were seedless.)
+[Caption below the panel]
+Everyone stopped complaining about Google's data-gathering when they launched ContextBot, a system which replies to vague, enigmatic social network posts with context from the poster's life.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Just so you know it would be fairly easy to drop a stack of diamond while alt-tabbing because the default "drop" key is 'q'.
+But the Q key just drops one item, not the whole stack. To drop the whole stack you have to open your inventory, click on the stack then click outside the inventory dialog. (yeah I'm a Minecraft addict :D) -- 41.196.193.193
+If you were 'holding' the stack with your cursor and left the inventory, it would also drop. Same if it was in the crafting slots. 130.160.145.224 21:17, 10 March 2013 (UTC)
+If you press ctrl + q you can drop the contents of the currently selected slot 141.101.64.125 10:25, 15 July 2014 (UTC)
+If you are sneaking while you hit "q" you will drop the entire stack you are holding. 71.207.146.202 21:07, 11 November 2017 (UTC)
+Thanks for the shortcuts!108.162.216.126 16:29, 25 November 2019 (UTC)
+Possible explanation for the bot's choice of avatar. Two girls holding hands in the small image, but the "context" is that it's a group of friends just hanging out. 76.106.251.87 03:50, 26 May 2013 (UTC)
+I added an incomplete tag because of informality and no explanation of google's data gathering. I also removed it from the category "video games." Why was it in there anyway? 162.158.255.84 02:48, 22 August 2015 (UTC)
+Perhaps because Minecraft is one?173.245.50.174 20:01, 7 September 2015 (UTC)
+Well I have created a 'Minecraft' category and added this to it Beanie (talk) 12:19, 30 April 2021 (UTC)
+Categories: All comicsComics from 2012Comics from JulyMonday comicsSocial networkingComics featuring CueballComics featuring MeganComics featuring BlondieComics featuring HairyMinecraft

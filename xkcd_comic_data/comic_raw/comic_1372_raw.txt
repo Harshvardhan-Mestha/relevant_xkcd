@@ -1,0 +1,51 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1372: Smartwatches
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1372)
+|<< PrevComic #1372 (May 23, 2014)Next >>|
+Smartwatches
+
+Title text: This is even better than my previous smartphone casemod: an old Western Electric Model 2500 desk phone handset complete with a frayed, torn-off cord dangling from it.
+Explanation[edit]
+Smartwatches are fairly recent innovations which function something like smartphones which are attached to one's wrist, although the screens are often shorter than those of typical smartphones, and they typically need to be attached via bluetooth to a smartphone. This comic shows someone "Case modding" some smartwatches and a broken smartphone; that is, taking the electronic innards of two smartwatches and putting them into the sawn-in-half case of a smartphone before attaching the two halves with a hinge, allowing it to open and close like flip phones, a type that was popular before the rise of smartphones.
+The Western Electric Model 2500 is the last standard desk-style domestic telephone set issued by the Bell System in North America. It contains the # key and the * key, so it can be said it has same application features as the first cellphones, but it's obviously much bigger, and of course not wireless. Smartphones usually have much more functionality. Case modding is the art of building machines (usually computers) into nicely shaped non-standard cases. The opinion about "niceness" of the result vary, as usual in art. The point is that changing the case doesn't change the functionality, so the niceness (or, usually, "coolness") is generally the only relevant feature (although, badly done modding can affect cooling).
+It appears that Randall has a rather low opinion of smartwatches, as he suggests that it would be better to take out their screens and mount them onto a dead iPhone than to use them the way smartwatches are normally used.
+However, Randall's suggestion to cut open the dead phone with a hacksaw is unsound for several reasons: 1. Any attempt to saw through glass will cause it to shatter. To cut glass, one needs to grind it, not saw it. 2. Even if the phone is dead, the battery may be charged (if dead means that the battery is dead, not that the phone does not work, in which case the procedure destroys a perfectly functional iPhone). Saw blades conduct electricity, so the person might get electrocuted. 3. Some batteries contain chemicals that are toxic or explosive. Even if the battery is discharged, sawing through it is very dangerous. To add which, the hinge depicted in the cartoon is an ordinary household hinge. It is overly large for using in electronics compared to hinges on old clamshell-style cell phones, and drilling holes in the watch cases to attach one would potentially damage the internal electronic circuits. It could also puncture the battery, causing it to catch fire. Either render the watch useless. 4. Also, it's possible the watches wouldn't fit that nicely into the iPhone.
+While no phones such as the one depicted existed at the time of the comic (2014), in November 2019, Motorola officially announced a new Android phone, to be released under the Razer name, which is extremely similar in form-factor to the fictitious phone shown in this comic, albeit with a single flexible OLED screen, rather than two separate screens.
+Transcript[edit]
+A USE FOR SMARTWATCHES:
+[Depicted are two smartwatches, both labelled as "Working" and showing generic color displays, and one smartphone labelled as "Dead" with a blank screen.]
+[A hacksaw cutting through the smartphone, throughout the middle of the long edge of the case.]
+[The two smartwatches are shown with the wristband and case broken around the edge of the display because the displays with the associated electronics are removed. Arrows are shown coming from the smartwatch cases to the smartwatch displays, then from the displays to the smartphone case halves.]
+[The smartphone halves are installed with the smartwatch components and a hinge with screws beside is shown. Another view shows the hinge screwed into the back of the smartphone case.]
+[The smartphone with the working smartwatch components installed is shown, with the hinge three-quarters open and fully closed - resembling an early flip-phone.]
+World's first flip iPhone
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I like how much detail Randall put into the damage of the smartphone and smartwatches.0100011101100001011011010110010101011010011011110110111001100101 (talk page) 09:44, 23 May 2014 (UTC)
+About the transcript, it seems that I added one at the same time someone else did. I like mine better, but I won't be offended if someone else changes it back to the first revision. Also, feel free to re-format.Jarod997 (talk) 13:19, 23 May 2014 (UTC)
+I am reminded of this:
+http://thedoghousediaries.com/4974
+...even so, I still would like a Samsung SWatch Note III complete with a watch app (downloaded by the Play Store or F-Droid, of course)! Greyson (talk) 14:55, 23 May 2014 (UTC)
+It's a space-statoin!Jarod997 (talk) 12:35, 26 May 2014 (UTC)
+Maybe it's just me, but the explanation regarding the */# keys on Bell phone seems irrelevent. There's nothing inherent about those keys that make a comparison to cellular phones logical, at least not that I'm aware of.--108.162.216.61 16:35, 23 May 2014 (UTC)
+It's especially irrelevant because Randall says he modded a handset, not an entire phone. There exist novelty bluetooth handsets of a similar style on the market; Randall's artistic touch is to have a cord dangling from it with a frayed end.--108.162.218.83 02:48, 25 May 2014 (UTC)
+To make it clearer: the standard handset on a WE2500 (12 key touch-tone), the WE1500 (10 key touch-tone; they didn't make a lot of these, but they're out there) and the WE500 (dial with the numbers outside around the dial) was a G1 handset. This handset replaced the F1, standard on the WE302 (dial with the numbers inside the finger-holes; commonly called the "Lucy" phone since the only place it's seen these days is on "I Love Lucy" re-runs). The G1 handset is still (imho) the most comfortable handset ever made to cradle between your shoulder and your ear to free up your hands. And the WE500 is (again imho) one of the greatest examples of industrial design ever created. -- Faboofour (talk) (please sign your comments with ~~~~)
+I question the assumption that the smartwatches are working. The watch keeps displaying the time of 10:13. Even if it had just turned 10:13 I don't think the entire mod could be done in sub 60 seconds. That said, I love the reuse of the sawn screen protector to protect the screen on the smartwatches.
+The watches also defy gravity. I question the assumption that they aren't just a dream. 108.162.237.218 08:23, 26 May 2014 (UTC)
+Perhaps each frame represents exactly 12 hours of work? 108.162.216.36 20:04, 26 May 2014 (UTC)
++1, but don't forget the careful attention shown to maintaining the battery at the same level for those 12 hour periods -- Brettpeirce (talk) 13:40, 28 May 2014 (UTC)
+The phone mentioned was one of the earliest (One of) to present the # and * keys and the format has been unchanged since the implementation of cellular phones. It could be argued that the user has the same presented interface for dialing as on cellular phones so modding a 2500 should be completely reasonable. 199.27.128.106 20:07, 23 May 2014 (UTC)
+Just a side note: While this could well be the world's first flip iPhone, it would not be the first flip smartphone.--108.162.218.83 02:54, 25 May 2014 (UTC)
+Perhaps the whole comics is just a long lead to "flip iPhone" pun (on "flip phone") --JakubNarebski (talk) 10:34, 25 May 2014 (UTC)
+
+No mention of the cringe factor? The entire operation, from the second frame to the title text suggests crude handling of equipment, resulting in damaged and unrefined products. Rendall spared no time in detailing the broken and damaged aspect of each component used in this "procedure". I strongly believe he did so on purpose.Dulcis (talk) 16:46, 29 May 2014 (UTC)
+The warning mentions that sawing through your phone could be harmful due to battery acid, but what about screwing on hinges? That could be just as dangerous. 173.245.54.13 19:02, 11 June 2014 (UTC)justsayin
+The warnings at the end are entirely irrelevant! first of all, nowhere does it say (or show) that randall is in fact cutting through the glass or the battery of the iphone, and were i do this project, i would certainly use a hacksaw to cut through the case of the iphone after removing the screen and battery and any other components. using a household hinge in place of a more elegant design hilights the hilarity and DIY nature of the project. as far as the comment above regarding the apparent 'broken clock', the illustration is merely a proposal on a possible methodology. when i draw a diagram or even a set of instructions for someone, i don't take the time to change minute details from frame to frame!173.245.55.29 18:39, 29 November 2014 (UTC)
+Also, there is no way that you could be electrocuted by cutting a phone in half because:
+1: the battery is not powerful enough (i think) 2: the electricity would go through the saw, not your hand 3: the saw probably has a plastic/wood/rubber handle, and none of those conduct electricity.173.245.56.180 19:12, 5 June 2015 (UTC)
+This would be awesome (if it was done better), because it would be smaller than a normal phone, and the screen would be protected.173.245.56.180 19:12, 5 June 2015 (UTC)
+I came here specifically to see if anyone had made one (as with Hell Tetris)... disappointed. :-( 172.70.223.92 21:24, 4 October 2022 (UTC)
+Categories: All comicsComics from 2014Comics from MayFriday comicsComics with colorSmartphones

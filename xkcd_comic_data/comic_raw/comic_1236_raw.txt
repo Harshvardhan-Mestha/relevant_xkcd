@@ -1,0 +1,48 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1236: Seashell
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1236)
+|<< PrevComic #1236 (July 10, 2013)Next >>|
+Seashell
+
+Title text: This is roughly equivalent to 'number of times I've picked up a seashell at the ocean' / 'number of times I've picked up a seashell', which in my case is pretty close to 1, and gets much closer if we're considering only times I didn't put it to my ear.
+Explanation[edit]
+This method of relating the probabilities of two events is known as Bayes' Theorem.
+If you put a seashell up to your ear, you might hear a sound similar to the ocean apparently inside the shell. But the idea that this sound is actually the sound of the sea is just a popular myth: hold only your hands close to your ears and you will hear the same sound, as it is the sound of your blood moving through your blood vessels that causes the sound. The comic, through an application of Bayes' Theorem, points out that most of the time when you pick up a seashell, you are in fact at the beach next to the real ocean, so hearing the ocean at that location is not all that impressive, but it's just real.
+The equation should, however, be read as follows: (The probability that I'm near the ocean, given that I picked up a seashell) is equal to (The probability that I picked up a seashell, given that I'm near the ocean) multiplied by (The probability that I'm near the ocean) divided by (The probability that I picked up a seashell).
+The title text points out that most instances where the author has picked up a seashell have been at the beach, and nearly all of the times where he has picked up a seashell and not put it to his ear have been there.
+This comic was released late. In the first version, the formula was incorrect, but it has since been corrected.
+Transcript[edit]
+[At the top of the panel is an equation showing Bayes' Theorem for the probability that a person is near the ocean given that they just picked up a seashell.]
+P(I'm near the ocean|I picked up a seashell) =
+P(I picked up a seashell|I'm near the ocean)P(I'm near the ocean)
+------------------------------------------------------------------------------------------------
+P(I picked up a seashell)
+[The probability that I'm near the ocean given I picked up a seashell equals the probability I picked up a seashell given I'm near the ocean times the probability I'm near the ocean all divided by the probability I picked up a seashell.]
+[Cueball holds a seashell and stands to the left of the panel, to the right, a few birds are flying around and the sound of a wave crashing against the shore is depicted.]
+Crashhh Sploosh
+Statistically speaking, if you pick up a seashell and don't hold it to your ear, you can probably hear the ocean.
+Trivia[edit]
+Note that while this form of Bayes's theorem is often taught in statistics classes, at least one statistician tries to show in a philosophical way that unconditional probability does not exist, which would make the equation improper as stated.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Transcript looks terrible on a phone. --81.23.24.44 14:26, 10 July 2013 (UTC)
+Screenshot: http://www.imgur.com/A4nortJ.png --81.23.24.44 15:13, 10 July 2013 (UTC)
+Is it possible to make <math> comments somehow? --Chtz (talk) 14:57, 10 July 2013 (UTC)
+Did I make it better, or worse? 108.162.216.45 03:08, 17 November 2013 (UTC)
+It doesn't indicate that most times he has put the shell to his ear were not at the beach, he indicates that if he is picking up a shell not at a beach it is probably only to put it to his ear. Or rather, he rarely picks up seashells unless at the beach, and if he does then its only to test this crazy old wives tale. 75.158.106.126 14:33, 10 July 2013 (UTC)
+The wrong equation was corrected. Faedrivin 15:59, 10 July 2013 (UTC)
+I have usually tested the "shell by my ear" at home, far away from sea or ocean... and still heard "the sea" --JakubNarebski (talk) 16:20, 10 July 2013 (UTC)
+If what I read somewhere once (how's that for backing up my claim with an actual reference?) is correct what you actually hear is the sound of your own blood flowing through your veins. Not sure that's really true, but expect it is actually something of yourself you're hearing that happens to sound similar to a sea. 67.51.59.66 17:09, 10 July 2013 (UTC)
+http://science.howstuffworks.com/question556.htm I'm predicting a what-if post on the same topic next Tuesday. Except of course, he's going to generate a geographical map (on a Gall-Peters projection) of the "loudness" of the sound of the ocean. Tides crashing against coastline / breakers out at sea / hydrothermal vents / Giant Squid song.. etc. 220.224.246.97 01:23, 11 July 2013 (UTC)
+The howstuffworks.com explanation is a bit wordy. It's just ambient noise filtered by the resonant properties of the somewhat complex cavity formed by the shell and your ear. Your brain is programmed to pick out such resonant frequencies. (No citation; I just made all that up.) Taibhse (talk) 13:21, 1 August 2013 (UTC)
+Protip: Don't put seashells just picked up near the ocean in your ear! Sometimes the shell "first owner" is still in there! That's why I usually wait until getting home and make sure there's nothing inside before putting things in my ear... 189.5.107.6 01:27, 11 July 2013 (UTC)
+Any specific reason why should the first owner be more dangerous that any other owner? I would actually suspect that the reverse would be true. -- Hkmaly (talk) 08:51, 11 July 2013 (UTC)
+You're right, I meant it to avoid conffusion with yourself, since, I believe, you become the owner of something you find on a beach that noone else claims. 189.5.99.130 18:24, 2 August 2013 (UTC)
+Just as an example, I wouldn't want to try to hear the ocean in a Cone Shell http://en.wikipedia.org/wiki/Conus 108.162.219.223 02:17, 10 January 2014 (UTC)
+This formula is the correct way to state Bayes' theorem but the formula says nothing about the events. It's a tautology. Any events can be used and it's still true. Might as well have just put A and B in there for all we learn from it. The only exception is that division by zero must be avoided. I'm not sure the original formula was "wrong" since it was about particular events. db (talk) 06:24, 17 November 2013 (UTC)
+Pedants would insist the probability of hearing an ocean is slight as high Beaufort numbers are fairly rare. However since storm waves do travel across oceans virtually unimpeded and are generally large enough to form surf near the shoreline, you may be able to hear the surf (especially at high tide.)
+However if the tide is low enough for you to find sea shells you may be too far from a berm to hear surf. I can't remember if surf is produced at a bar. I used Google News BEFORE it was clickbait (talk) 19:36, 10 January 2015 (UTC)
+Categories: All comicsComics from 2013Comics from JulyWednesday comicsMathStatisticsComics featuring Cueball

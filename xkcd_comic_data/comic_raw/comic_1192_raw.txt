@@ -1,0 +1,46 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1192: Humming
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1192)
+|<< PrevComic #1192 (March 29, 2013)Next >>|
+Humming
+
+Title text: I'm so bad at carrying a tune, those 'find a song by humming its melody' websites throw an HTTP 406 error as soon as I start to hum.
+Explanation[edit]
+Services like MusicBrainz and SoundHound can detect a recorded song's acoustic fingerprint and match it with an existing song. This lets them identify the title and artist of an unnamed recorded musical extract. In this comic, Megan hacks the acoustic fingerprint database to add her own entry with a message to Cueball, in which she asks him to buy cat food.
+Megan would use this app again in 1199: Silence.
+HTTP error code 406 means Not Acceptable. When a client requests data from a server, the client lists the data formats that it can accept. If a server is unable to provide data in any format that the client accepts, the server returns error 406 Not Acceptable. For example, this can occur if a client requests XML but the server supports only JSON. In the title text, the standard meaning of the error message is ignored and the text "Not Acceptable" is taken literally: The server is offended by Randall's humming.
+Transcript[edit]
+[Megan is humming a tune.]
+Cueball: Hey.
+Cueball: What's that?
+[Megan is still humming the same tune.]
+Cueball: What are you humming?
+Cueball: Should I know the tune?
+Cueball: ...Hmm...
+[Cueball gets out his phone and opens up a music recognition program.]
+Phone: Identify song
+Phone: Recorded
+Phone: > Live [beta]
+Phone: Identifying...
+[A zoom in on the phone screen. An album cover with a picture of Megan on it.]
+Positive match:
+Check it out!
+By I hacked the audio fingerprint database
+Feat. MEEEEEE
+Track: We're out of cat food (pick some up?)
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+406 Not Acceptable The requested resource is only capable of generating content not acceptable according to the Accept headers sent in the request 76.93.158.8 05:14, 29 March 2013 (UTC)
+Makes me think of Close Encounters of the Third Kind --Jeff (talk) 12:39, 29 March 2013 (UTC)
+That reminds me of the QR-Codes that by decoding it say things like: "And for that you take out your smartphone?" or "It's a stupid Avatar!"... 80.154.105.130 16:44, 29 March 2013 (UTC)
+I read somewhere that an old man once wore a t-shirt with a QR-Code, which redirected to a naked picture of this man... 108.162.212.18 03:42, 26 February 2014 (UTC)
+Today's comic is late and it's April 1. I'm worried. Alpha (talk) 06:10, 1 April 2013 (UTC)
+I was thinking that maybe HTTP error 406 meant "Not acceptable" as in the server can't find a acceptable way to respond to what Randall just input, as in shock or disgust. 45.31.246.235 10:58, 15 October 2019 (UTC)
+I think "not acceptable" might mean that he is so bed at humming that the app is unable to identify the tune
+"Not acceptable" as in the humming being so bad it can't be accepted works too. By the way, you typed bed instead of bad. PoolloverNathan[stalk the blue seas]
+U•T•S•c
+19:44, 15 November 2022 (UTC)
+Categories: All comicsComics from 2013Comics from MarchFriday comicsComics featuring CueballComics featuring MeganMusicCats

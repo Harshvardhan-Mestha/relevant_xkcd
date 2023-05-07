@@ -1,0 +1,94 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1409: Query
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1409)
+|<< PrevComic #1409 (August 18, 2014)Next >>|
+Query
+
+Title text: SELECT * FROM GHOSTS
+Explanation[edit]
+Megan picks up a strange device that mysteriously asks her to enter a query after stating "Loaded table: People/ Enter query." In computer databases, "tables" are groups of similar information consisting of records each having certain attributes. Databases are generally made up of many tables, each containing different types of records. A database for a traditional library might have a "Books" table and a "Cardholders" table with records of all of the books in the library, and all of the people who have library cards. Each table will have different columns for certain attributes for every record. For example, the "Books" table might have columns for "title", "author", "date", etc.
+A request from a database by a user is called a "query". SQL (Structured Query Language) is a programming language designed for databases, and has a certain syntax for its queries. A common query is "select" which requests certain information from the database. In the library example, one might select (in plain English) all books written by a certain author or published after a certain date, etc.
+Megan uses the device by entering an SQL query into it: "Select * from people where age > 30" (show all the people older than 30). It appears that the actual people around her who are over 30 are wrapped in a yellow light, which does not apply to Megan in this query. Megan then tries other experimental queries, presumably to determine whether the results are correct. First, she queries for people with a high annual income (a group that does not include her), then for those who are afraid of flying (which does include her). Because the results for herself are valid both times, she then indulges her curiosity by asking who has watched porn in the preceding twelve hours. This suggests that whatever "database" she is accessing is extremely thorough as it contains updated records of people's day-to-day activities.
+The percentage of people lit appears to approximately correspond to real demographic data: note, 5 of the 10 characters are female; the median world/US age are fairly close to 30; top decile income in the USA is approximately $100,000 (and top earners are usually men); up to 40% of people are afraid of flying.
+Finally, she types "Drop table People". Drop is an SQL command to delete a table. When she enters the command the entire table disappears and because she is also in this table she disappears, too. The implications are unclear. It may be a suggestion that all of reality is a computer program, all of the people are merely "data" in the program, and Megan was somehow granted access to the database for the program. It could also be an allusion to the fact that human life is so rich, diverse, & interesting, but also extremely fragile. Someone who controls much power can, simply with the press of a few buttons, erase everything that thousands or millions of people had worked so hard on.
+The drop table command was also used in 327: Exploits of a Mom, although with less fatal results.
+The title text may suggest that when the people disappeared or "died", their records were moved to a table called "Ghosts". The query would then, presumably, see all the people that were deleted. In some implementations of databases deleted records are still hidden and remain until a "Ghost Cleanup Process" removes the data permanently; the title text may also allude to this process. Alternatively, the title text may refer to movies such as The Sixth Sense, in which certain people are ghosts, unbeknownst to those around them, another quality that may be elucidated by Megan's device.
+Transcript[edit]
+[The first and then every second part of the comic is drawn without any frames around the panels. They depict Megan with the device she finds. In the first and last of these there are more than one "panel" where Megan is drawn more than once without frames between. In between these frameless panels, in all even numbered rows, are a framed picture with an overview of the surroundings.]
+[The first two panels are drawn in the first row.]
+[Megan walks up to device lying on the ground.]
+[Megan picks up a device and looks at the screen. The screen is shown in black with white text and a white bar for her to enter text in.]
+Loaded table: People
+Enter query
+[Megan looks around and sees nine people nearby: A black haired girl with ponytail talking on the phone; a Cueball-like guy talking to a hairy guy; a group of three people, with Ponytail and another Cueball-like guy sitting, and a Megan-like girl lying on the ground; another hairy guy sitting with an ice cream cone on a big box; Another Ponytail girl leaning up against the box with her phone together with a third Cueball-like guy also with a phone in his hand. The device still shows the last part of the text in white on black, and with room to enter a query]
+Enter query
+Megan: ??
+[Megan types into the device. The query is shown as coming from the devices screen:]
+Select * from people where age > 30
+[Five people are highlighted in a yellow cloud around their bodies: Black haired ponytail, both guys talking, and the two last of the group of three.]
+[Megan types again:]
+Select * from people where annual_income > 100000
+[One person is highlighted in yellow - the one talking to the first Cueball.]
+[Megan types:]
+Select * from people where afraid_of_flying = True
+[Four people, including herself, are highlighted in yellow. Also the Megan-like girl on the ground and the last two behind the box.]
+[Megan types:]
+Select * from people where hours_since_watching_porn < 12
+[Three people are highlighted. The two girls around the second Cueball and the third Cueball.]
+[The next three panels are drawn on the same row.]
+[Megan looks at the device, while holding it in two hands.]
+Megan: Neat.
+[Megan holds the device in one hand, still looking at it.]
+Megan: ...
+[Megan types:]
+Drop table People
+[Everyone disappears; the items they were holding drop to the ground, including the device Megan has been using. the other devices are three phones and one ice cream cone.]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I cant help but notice that the ice cream guy is never selected for any of the queries, so he shouldn't be in the data pool, and thereby shouldnt be deletable. ~JustCallMeMOTL
+Or alternatively, ice cream guy is, indeed, a person, just one who's <= 30 years of age, hasn't watched porn in the last twelve hours, isn't afraid of flying, and makes less than six figures annually. Which isn't exactly impossible. Papayaman1000 (talk) 23:49, 11 June 2017 (UTC)
+I assume the Cueball sitting on the box is being accused of being Hairy. I'd say no. Mark Hurd (talk) 07:26, 18 August 2014 (UTC)
+
+Is there any particular point Randall would be making where 2 females and only one male, out of 5 each, have watch porn in the last half day? Mark Hurd (talk) 07:26, 18 August 2014 (UTC)
+I wasn't sure about one of those 'females', because of the various visual cues.
+What do we know/can assume about the figures? From Left to Right...
+Dark-haired ponytail and mobile phone, on own: *above 30*, not high-earning, flies easily, not a recent porn viewer. (Possibly she's a professional woman, but not smashed through the glass ceiling.)
+Assumed Megan with the 'device', standing apart: less than 30yo, not high-earning, *fears flying* (hence her inspiration), not a recent porn viewer. (Could this be the archetypal Megan, or just a Megan?)
+Taller cueball, in 1-to-1 conversation: *above 30*, not high-earning, flies easily, not a recent porn viewer. (Grown up, doubtless socially comfortable.)
+Shorter, buzzcut cueball, in 1-to-1 conversation: *above 30*, *high earner*, flies easily, not a recent porn viewer. (Probably an pre-middle-aged Exec "going places", perhaps his success and choice of 'young' haircut are as a result of a mild case of Napoleon syndrome, but if people will talk to him he's probably not being a dick about his success.)
+Sitting ponytail, in conference: less than 30yo, not high-earning, flies easily, *recent viewed porn*. (From the companions and the position, probably high 20s recent graduate relaxing with a long-term social group.)
+Sitting cueball, in conference: *above 30*, not high-earning, flies easily, not a recent porn viewer. (Another graduate, early 30s, probably exercises in order to find that sitting position relaxing. Part of the same social group.)
+Sitting flowinghair, in conference: *above 30*, not high-earning, *fears flying*, *recent viewed porn*. (Sex indeterminate as that hair could indicate a metrosexual male. By 30 the look is probably starting to wearing thin, but still not overly embaressing. It certainly doesn't look like (s)he has settled down in a familial relationship yet, but has quite obviously flown the parental nest and is now with friends from college/university. Or might have been met on a round-the-world backpacking holiday and discovered they were from his own home city, except for the fear of flying (unless worked passage on ships). Probably knows all the cool scenes in this city, though, so well worth socialising in the park with.)
+Perched cueball, with icecream, hanging out: less than 30yo, not high-earning, flies easily, not a recent porn viewer. (Probably a teenager, with a close-cropped haircut. Might or might not know the other two behind him, but hard to tell what he thinks except perhaps "I've got an ice-cream! Yay!" Perhaps after a busy day of not-watching-porn.)
+Leaning ponytail, with device, hanging out: less than 30yo, not high-earning, *fears flying*, not a recent porn viewer. (Teenage girl. Big on social networking. Probably not so big on face-to-face-talking.)
+Smallest cueball, with device, hanging out: less than 30yo, not high-earning, *fears flying*, *recent viewed porn*. (Teenage boy. Typical teenage boy. As girl, but probably in-between Tweeting with the girl next to him he's serrupticiously viewing a video someone sent him (see his furtive look?), and maybe of the girl next to him. Or something 'sexted' from her, if that wouldn't count for her SELECTion on that criteria. One way or another, probably with the sound off.)
+...what's more, presumably none of those fiogures were Terminator Units, Alien Shapeshifting Lizards or already ghosts of some kind (or whatever class of individual would not belong in TABLE PEOPLE). 141.101.99.7 09:34, 18 August 2014 (UTC)
+Thats racism! I mean speciesm. Alien Shapeshifting Lizards are people too! -- Hkmaly (talk) 10:15, 18 August 2014 (UTC)
+You list a lot of individuals being from college/university, however we have no data from the above image to establish that. People that don't go to university do exist and do have social networks (and outnumber the people who have been to college). Additionally, while I assume it to be out of place for Randall there is the possibility that some of our females/males in this population are transgendered or transvestites (assuming, of course, they're a US population). As well . . . Terminator Units aren't people!? 108.162.237.181 13:53, 19 August 2014 (UTC)
+Sounds a lot like watch_dogs. 108.162.229.201 07:42, 18 August 2014 (UTC)
+Is this Zuckerberg's phone? 108.162.254.34 09:33, 18 August 2014 (UTC)
+Is there any particular reason this comic isn't appearing on the homepage at the moment? For some reason xkcd.com is displaying 1408 "March of the Penguins". No actual navigation on the site will take me to this comic, I have to manually type /1409 into the URL bar. --Zagorath (talk) 10:20, 18 August 2014 (UTC)
+I'm under the impression that Megan is using the device to look for potential mates. The age and income queries point to this, the other two are less common but still make sense in the context of a relationship. Finding no one who matches all of her criteria, she then deletes the list. Dromaeosaur (talk) 10:41, 18 August 2014 (UTC)
+Well, there's obviously something to the idea of those directing her choices (for positive or negative selection purposes - I assume <=30 && >$100k, but would she want someone who shares her fear and would never suggest a plane trip, or someone who could be reassuring when one is taken? And someone who is 'wholesome' or likely to be open-minded about pornography?) but, although it's likely there's no Mr(/Mrs) Right, she finds just proclaims it "neat" and only seems to inadvertently 'tidy up' (albeit too much), rather than doing it in deliberate (if again misjudged) frustration... 141.101.99.7 11:39, 18 August 2014 (UTC)
+I thought the same. I think that when Megan realises that no one matched her queries (so no possible relationship match) she decide to clean the list as she's not interested in them. Doing this she forgets, like most people do, that she's part of the people as well, and so she deletes herself too, accidentally.
+Why does the explanation call it "SQL-esque"? That looks like fully valid SQL to me. --108.162.230.119 10:49, 18 August 2014 (UTC)
+I can only guuess that they might call it "SQL-esque" because based upon the fields queried, it does not seem like a backing database would be able to keep a constant record of everyone where the number of hours since watching porn could be CONSTANTLY updated (and thus accurate). This is not a typical database, granted, but that info (as I wondered below, a while back) is something that would be found with comparison between a timestamp and GETDATE() - possibly contained within a function, neither of which is shown in the respective statement (no function call, no datediff). It is still SQL, and SQL can be used verbally to query a fellow human for any information, though you'd get a strange look at best from most people you meet on the street - it's just a language - but the implication is that it is backed by a relational database with static data like most databases out there, so perhaps they're implying that it somehow can't be SQL because such a database can't conceiveably be built(?). Idunno - I'm grasping at straws... -- Brettpeirce (talk) 19:08, 28 January 2015 (UTC)
+I think the comic is a reference to "Big Data" and the claim I read this morning that one organisation has a file on 10% of the world's population with around 1500 pieces of information on each of them. 141.101.98.194 12:27, 18 August 2014 (UTC) Dan
+It's also possible that the strip is commenting on the notion that the universe may be a hologram and/or a computer simulation. If that's the case, then it would make sense to have a People table. 173.245.48.79 (talk) (please sign your comments with ~~~~)
+One thing I find interesting is what I see as an implication that 5/10 (sorry: 6/10) of the people pictured would not have a "device" on them at the time they were dropped with the PEOPLE table - certainly more than half of people have a device (or at least an ID or set of keys or something)... perhaps being contained within their clothing -- which apparently is dropped along with the associated person -- means THOSE devices were dropped along with the clothing (cascading?); however, being in the hands of the associated person means a certain level of disassociation... idunno... pick pick pick away at the joke! ALSO, seems like the time since someone watched porn would have to be computed (wouldn't be stored in the table as a field itself, but computed from a field like time_last_watched_porn and datediff... or else some user-defined function)... FINALLY - would have been great to see the result of an INSERT or UPDATE statement prior to dropping... ah well - Brettpeirce (talk) 14:10, 18 August 2014 (UTC)
+Just to make is clear. If their devices should be dropped, even if they were in their pockets, then why do you not also expect their clothes to be dropped...? Oh, maybe their clothes did drop, and since this is not visible (they are stick figures...) then their phones is in the pocket, and would not show up anyway. So either the clothes goes along with everything they have on them (but not what they hold in their hands) or else the clothes also drops like everything else that were not a biological part of them. (Man this is a far out discussion ;-) --Kynde (talk) 13:09, 20 April 2015 (UTC)
+See 327: Exploits of a Mom. That is all. 173.245.54.153 19:04, 18 August 2014 (UTC)
+Added it to the explain--Kynde (talk) 13:09, 20 April 2015 (UTC)
+I think it's interesting Megan chooses to Drop Table People right after viewing who's watched porn, much like people who clear their browser cache/history after watching porn to make sure no one else finds out. 108.162.237.179 00:15, 19 August 2014 (UTC)
+There's a further implication no-one seems to have picked up on here. At the beginning of the strip, Megan finds the device sitting on the ground,presumably lost. At the end of the strip, everyone's disappeared and the device is sitting on the ground, presumably lost. Is this the first time this chain of events has occurred, or has the table been dropped in the past? Grutness (talk) 01:37, 19 August 2014 (UTC)
+What Megan never realized was that Mr 100 000 earned his earned his income in Vietnam. —jameslucas (" " / +) 12:24, 19 August 2014 (UTC)
+Isn't dropping the table kinda boring? Think of the possibilities... UPDATE PEOPLE SET AFRAID_OF_FLYING=FALSE, ANNUAL_INCOME=120000 WHERE NAME='Megan' KillaBilla (talk) 13:52, 19 August 2014 (UTC)
+You are selfish. Think of how you can help whole world! UPDATE PEOPLE SET ANNUAL_INCOME=10000 WHERE ANNUAL_INCOME < 10000 ... poverty in Africa solved :-). -- Hkmaly (talk) 11:24, 20 August 2014 (UTC)
+That would just result in inflation, and nobody would win.
+I'd love to see Black Hat with this device. 23:27, 25 August 2014 (UTC)
+Why would Randall let this comic out on a Sunday. The first entry in the explain history is from the Monday after - the 18th of August. Anyone who can find out if this is the correct date, or just a mistake from when the page was created? --Kynde (talk) 11:18, 20 April 2015 (UTC)
+About the title text, perhaps it is meant to be a method to make the supposedly invisible ghosts visible with that yellow glow around the ones who have been selected. 162.158.238.6 08:56, 22 March 2023 (UTC)
+Categories: All comicsComics from 2014Comics from AugustMonday comicsComics with colorComics featuring MeganComics featuring PonytailComics featuring CueballMultiple CueballsProgramming

@@ -1,0 +1,47 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1172: Workflow
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1172)
+|<< PrevComic #1172 (February 11, 2013)Next >>|
+Workflow
+
+Title text: There are probably children out there holding down spacebar to stay warm in the winter! YOUR UPDATE MURDERS CHILDREN.
+Explanation[edit]
+Users will often try to work around bugs in software, and are sometimes able to get used to having the bugs around. Some bugs are even interpreted as features and users complain when the software authors fix them. This phenomenon has been named Hyrum's law: the law states that whatever the official feature list actually says, if a program has enough users, eventually every feature (whether intentional, unintentional, or a bug) will be relied upon by someone. A similar effect may be caused by other changes, particularly those which involve alterations of the user interface.
+This comic shows a somewhat extreme example. An unnamed application had a bug causing the CPU to overheat whenever the spacebar was held down too long. In version 10.17, this bug was fixed. Soon, LongtimeUser4 complained that they relied on the fact that the CPU overheats if the spacebar is held down. They had stumbled across this "feature" (which is, again, weirder than usual) and took advantage of it to streamline their workflow, and they wanted an option to re-enable it.
+Emacs (name originally derived from Editor MACroS) is a text editor originally written at MIT in 1976 and adopted into the GNU project in 1984. The control key sees extensive use in Emacs, and since it's hard to reach, users often remap it to Caps Lock or some other key. LongtimeUser4 fixed the problem very clumsily ("horrifying," as the admin puts it) and is annoyed that their kludge no longer works. The moral of the story is that you can't please everyone.
+Examples of real life changes in software which, though often acclaimed by critics, caused great annoyance among the existing user base include ribbons introduced in Microsoft Office 2007 and the Start screens of both Windows 8 and Unity desktop manager bundled with Ubuntu from versions 11.10 through 17.04. In the latter case, developers included an option to use the older interface; for the rest, applications emulating old behavior were developed by third parties.
+The title text makes a hyperbole to humorous effect; children will freeze to death during the winter because they won't be warmed by a rather unconventional heater. Making (or creating an illusion of) a connection between one's opinion and care for children's welfare is a common method of gaining public support, as such arguments are hard to deflect without sounding cruel and uncaring. "holding down spacebar to stay warm" could also be a reference to space heaters.
+Transcript[edit]
+[Changelog for version 10.17 of a piece of software.]
+One change listed: "The CPU no longer overheats when you hold down the spacebar"
+Comments: LongtimeUser4 writes: This update broke my workflow! My control key is hard to reach, so I hold spacebar instead, and I configured Emacs to interpret a rapid temperature rise as "control".
+Admin writes: That's horrifying.
+LongtimeUser4 writes: Look, my setup works for me. Just add an option to reenable spacebar heating.
+Every change breaks someone's workflow.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+It's not a bug, it's a feature! Davidy22[talk] 05:42, 11 February 2013 (UTC)
+What? The explanation makes no sense. Where did the user reconfiguring his CPU to overheat upon pressing control come from?67.5.239.109 06:27, 11 February 2013 (UTC) Edit: I was referring to the actual explanation which has since been edited, not the comic itself. I understood that, but the explanation was quoting stuff that wasn't in the comic.70.199.230.162 18:35, 12 February 2013 (UTC)
+It's not 'from' anything. It's just an extreme and humorously far-fetched example of how a user might put a bug to use. He used the bug so he wouldn't have to reach for his actual control button, a 'horrifying' hack which works for him. 24.105.141.150 17:21, 12 February 2013 (UTC)
+No idea where this coming from, but reminds me this bug and this reaction to it. Firefox is good example in general: about:config was obviously CREATED to make much more settings available that is sane to put in configuration windows. On the other hand, this problem is old, so the comix is probably about some other, more recent problem, possibly in completely different software. -- Hkmaly (talk) 09:39, 11 February 2013 (UTC)
+I'm constantly running stuff like Folding@Home, but I usually underclock my components to conserve power and lengthen the lifespan. However, I created a macro that overclocks my GPU at the press of a button, and I use it to act as a heater for my room whenever I get cold. It works. Those children could follow my example. 70.31.159.230 15:05, 11 February 2013 (UTC)
+I think this is a jab at Windows 8, only an upside-down one - since the comic is about a lone protester as opposed to the general dissatisfaction with Tile World. Also: Let's wire the computer components (and a heat sink) into an office chair. Would sell like crazy in the North.
+I think it would be nice to include in the explanation, for people unfamiliar with Emacs, that most macros require you to type Control something. It's common to remap Ctrl to the Caps Lock position so that it's easier and faster to reach. 189.123.138.144 17:32, 15 February 2013 (UTC)
+I've learned long ago to never assume that my personal expectations will help everybody. To never ignore feedback from your core users (who else would stick around and use such a buggy system?). And that if you taking other's choice away to save them from themselves, try to give a quick alternative, such as a hint on how to modify the script to look for prolonged space-bar commands and engage control button (perhaps that user is disabled?) - E-inspired (talk) 23:53, 27 February 2013 (UTC)
+It's quite possible that this is a reference to this, which is a relatively famous bug that got an incredibly angry reaction. 199.27.128.230 19:29, 3 March 2015 (UTC)
+Perfect example: The compatibility constraints of your side effects: Beeping Solomon (talk) 03:53, 19 December 2021 (UTC)
+Horrifying
+Doesn't the admin rather mean, that it's horrifying that the user's workaround does not work anymore, and not, that he considers the workaround itself horrible? --188.109.179.0 10:43, 13 August 2013 (UTC)
+No for sure he finds it horrifying that some user would use an error that could overheat the system as a way to "press" ctrl key. --Kynde (talk) 14:33, 29 April 2015 (UTC)
+"std::cin no longer overheats the CPU when you hold down spacebar" from here. I chuckled when I was reading this. Maybe there are references buried in the comments, too. 108.162.254.128 21:11, 25 May 2015 (UTC)
+It does. A user called JB said "Although please can you implement an option to reinstate the cpu heating when space bar is pressed feature though, as I have code that relies on this feature."
+even better one of the MS devs replied "JB: That's horrifying." about half way through one of their replies 108.162.250.158 (talk) (please sign your comments with ~~~~)
+Tone[edit]
+Current revision says this: "A similar effect may be caused by other improvements, particularly those which involve changes in the user interface."
+However, the changes in question are precisely those not universally agreed to be improvements. While some cases like the one in the comic are ridiculous, others are emphatically not and are in fact near-universally agreed to be dumb. As such, referring to the general case as "improvements" is not really viable.
+I'd have edited to "changes" myself, but that'd create a repeated word so it's kind of clunky. Does anyone have any suggestions for more neutral terms? Magic9mushroom (talk) 13:02, 18 August 2020 (UTC)
+Done. L-Space Traveler (talk) 13:30, 19 December 2022 (UTC)
+Categories: All comicsComics from 2013Comics from FebruaryMonday comicsComputersEmacs

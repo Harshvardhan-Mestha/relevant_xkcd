@@ -1,0 +1,80 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1053: Ten Thousand
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1053)
+|<< PrevComic #1053 (May 9, 2012)Next >>|
+Ten Thousand
+
+Title text: Saying 'what kind of an idiot doesn't know about the Yellowstone supervolcano' is so much more boring than telling someone about the Yellowstone supervolcano for the first time.
+Explanation[edit]
+In this strip, Randall presents a mathematical argument against the idea of making fun of people for their ignorance.
+The mathematical argument, presented in the first panel, goes as follows: Since people aren't born knowing anything, everyone has to learn everything for the first time at some point. By using the US national birth rate and assuming that most facts are learned by age 30, Randall calculates that there are an average of 10,000 people, in the US alone, who learn any given fact for the first time each day.
+Since you can only learn something for the first time once, each of these 10,000 people are having a unique, unrepeatable experience of enlightenment, which Randall sees as something to be cherished, not criticized. In the second panel, Randall notes in the second panel that if he makes fun of people for not knowing things, he is effectively training them to avoid sharing those moments with him, and thus he will miss out on innumerable opportunities to do something he considers fun.
+To drive the point home, the second panel shows Cueball finding out that Megan doesn't know about the "Diet Coke and Mentos thing", and - instead of making fun of her, Cueball affirms that Megan is part of a special and select group - she is one of the "Lucky 10,000" who, that day, will learn and experience that thing for the first time.
+Diet Coke is a popular brand of sugar-free soda. Mentos is a brand of chewable mints. If you drop Mentos into a bottle of Diet Coke, the soda will erupt with startling violence, sending a fountain of soda 10 feet or more into the air. This interaction is widely renowned due to its dramatic, unexpected nature, and the fact that you can do it with cheap and commonplace ingredients (though it does make quite a mess, and should only be done outdoors). The effect appears to only happen with this specific type of soda and this specific mint, and is believed to result from a very particular interaction between the ingredients in the two, the texture of the mints, and the carbonation in the soda. A 2006 Mythbusters episode explored the phenomenon in detail.
+The Diet Coke and Mentos eruption has also been mentioned in a previous strip 346: Diet Coke+Mentos. Both the eruption and this comic were referenced much later in [What-If #162], where the alt-text of the first image proclaims that "Some of the lucky 10,000 are less lucky than others", as demonstrated when Black Hat offers to "help" Cueball to stem his overflowing Diet Coke bottle by plugging the opening with Mentos.
+The title text states, emphatically, that explaining a fact to a person for the first time (in this case, the existence of a supervolcano within the Yellowstone National Park) is much more entertaining than just expressing annoyance about their lack of knowledge. Here is a good video about the Yellowstone supervolcano. Interestingly, both events alluded to in this comic include an eruption, although of two very different kinds[citation needed].
+Supervolcanos are again mentioned in 1159: Countdown and in 1611: Baking Soda and Vinegar.
+This comic also appears in Randall Munroe's book How To, in the introduction of the book, albeit in a modified form.
+The calculation[edit]
+Randall does not show the full calculation in the comic, but we can derive it as follows:
+First, make the assumption that everyone will know a given fact by the time they reach adulthood, which is defined here to be 30 years old.
+Assuming the US birth rate of 4 million per year, this means that in 30 years, 120 million people will be born who will learn the fact at some point.
+30 years is equal to 10950 days (30 years x 365 days per year). Since we have assumed that everyone will learn the fact within that time, that means on any given day, there is a 1/10950 chance that that will be the day they learn the fact.
+So, if 120 million people have a 1/10950 chance per day of learning the fact, that means that on any given day, the number of people learning that fact will be, on average, 120,000,000 / 10,950 = 10958.9, which is approximately 10,000.
+It is worth noting that the target age of 30 is actually irrelevant to the calculation. Taking the assumption of a steady birth rate, and assuming that "everyone" learns a fact at some point in their lives, then the number of births per day and the number of people learning a thing each day must average out to the same value over time. The ages at which it is learned don't affect the numbers. This calculation is obviously simplified, since birth rates are not constant over long periods, and some people presumably die before learning certain facts, (either because they die young, or because they simply never encounter the fact). The assumptions are, however, sufficiently good to give a general estimate.
+Randall's calculation is for the US, but it can be easily converted for other countries (or the whole world) by supplying the appropriate birth rate. For the world as a whole, the average birth rate as of late 2022 is 140 million per year, which gives a total of approximately 400,000 people learning a fact for the first time each day (140,000,000 / 365 = 383,561.6 ≈ 400,000).
+Transcript[edit]
+[Caption above the panel:]
+I try not to make fun of people for admitting they don't know things.
+[Caption right below said caption:]
+Because for each thing "everyone knows" by the time they're adults, every day there are, on average, 10,000 people in the US hearing about it for the first time.
+[A list of equations.]
+Fraction who have heard of it at birth = 0%
+Fraction who have heard of it by 30 ≈ 100%
+US birth rate ≈ 4,000,000/year
+Number hearing about it for the first time ≈ 10,000/day
+[Caption above the next panel:]
+If I make fun of people, I train them not to tell me when they have those moments.
+And I miss out on the fun.
+[Megan is standing. Cueball is walking, with his palm out.]
+Megan: "Diet Coke and Mentos thing"? What's that?
+Cueball: Oh man! Come on, we're going to the grocery store.
+Megan: Why?
+Cueball: You're one of today's lucky 10,000.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Regarding: "This also assumes that 10,000 people learn of something every day from the day they are born." That's not accurate. Whatever the any distribution of "age you learn" is, the average will hold. For example, if everybody learns some particular fact on their 21st birthday, it holds simply becuase there are roughly 10,000 people having their 21st birthday each and every day.
+
+I think it also may be referring, in a tongue-in-cheek manner, to the fact that people who call people idiots because they don't know something, and yet fail to explain it, are creating ignorance to criticise it.
+Person A says, "What is x?"
+Person B responds, "You're an idiot for not knowing x."
+Person B is now responsible for the idiocy he claims Person A to have, thus making Person B the real idiot. In this comic, he makes this point by refusing to be Person B, while at the same time making subtle references to still having the sadistic glee person B has.76.29.225.28 22:37, 24 June 2013 (UTC)
+I think he's getting the pleasure of seeing the look on Person A's face when Person A learns/sees something incredible! I think it's more of a positive. -- Theo (talk) (please sign your comments with ~~~~)
+I wonder which relative came back to life?Pennpenn (talk) 05:02, 30 January 2014 (UTC)
+Would someone care to explain the math behind this comic? 108.162.219.10 (talk) (please sign your comments with ~~~~)
+I did a try. The age is unimportant, it's only the birth rate. I'm happy about a feedback. --Dgbrt (talk) 20:18, 13 May 2014 (UTC)
+Looks like there might be a callback to this comic in the latest What-If. http://what-if.xkcd.com/135/ 108.162.210.177 10:14, 6 April 2015 (UTC)
+Yesterday I did just this! My mother had mentos and I had diet coke, and asked her if we should try to mix them (so I could show it to my children). And it turned out she'd never heard about it. So after we tried it with some success, I showed her this comic as well ;-) --Kynde (talk) 13:20, 11 March 2016 (UTC)
+To explain the math...In a given year the age of people under 30 is 4 million/yr * 30 yrs. Each of these people have a 1/30 chance of learning "it" in a given year: 4 000 000/yr * 30yr * 1/30yr * 1yr/365day = 4 000 000 / 365day = 10 959/day ~= 10 000 Zelcon (talk) 23:37, 7 September 2016 (UTC)
+Before solving a math problem, the most important thing to do is recognize what you are trying figure out and what the variables are. So let's examine your "statistics" for learning it. I will accept your estimation of 30 years*4 million (even though the number of people being born each year grows). However, when we get to 1/30, I have a serious issue. You are saying that my chance of learning anything in a given year is 1/30. Where did you get 30 from? The years that people are under. So you are essentially saying that a person has a 1/x chance of learning something in a given year where x is the age? This makes no sense!!! There is not a 1/30 chance that I am going to learn the cure to cancer this year!! 108.162.245.82 (talk) (please sign your comments with ~~~~)
+The 30 comes from the assumption that roughly 100% of people learn the "something" by age 30. You do not have a 1/30 chance of learning the cure to cancer this year, because there is not 100% chance of you knowing the cure to cancer by age 30. 108.162.241.118 19:50, 2 March 2017 (UTC)
+I had the chance to watch Star Wars prequel with someone who did not know who was Darth Vader, the shock was amazing in Revenge of the Sith. I wish everyone can discover that plot twist! Zyramere 162.158.134.202 (talk) (please sign your comments with ~~~~)
+POPULATION
+4,000,000 People born yearly
+x 30  Everyone "IT"  knows by what age (yrs)
+=
+120,000,000 EQUALS Number of people born in 30 years who will learn "IT" at some point
+ODDS
+x 0.033333333 Odds you'll know "IT" this year (1/yrs, in this case, 1 in 30)
+x 0.002739726 Odds you'll know "IT" this day (1/365 days in a year)
+=
+10,959 Segment of population who will learn "IT" today.
+NOT 10k? 172.69.42.82 (talk) (please sign your comments with ~~~~)
+It is. You got 10,959. The comic is meant to be approximate. The result is approximately 10,000. 172.69.135.142 13:44, 17 August 2019 (UTC)
+There's no precedent for the daily average. Depending on the fact, there's no reason it would be gradually learned rather than learned immediately in huge numbers upon something important bringing it to light. For rather important facts (like where your country is on a map), not knowing them would be a sign of complete obliviousness. This comic seems to only cover irrelevant facts though that would make sense to be gradually learned. There's also no precedent for spreading the learning event over a single year. Chances are some individuals wouldn't learn a fact that may be common knowledge for others of their age until much later on than the majority of people (years after others), also denoting obliviousness. For irrelevant facts, berating someone for not knowing them isn't constructive since hearing about them would be more coincidental. However, berating someone for not knowing extremely important facts only berates how oblivious they must be to not absorb such a fundamental fact. This is constructive in that the person would learn being so oblivious is not a good thing.--162.158.167.20 09:17, 6 September 2020 (UTC)
+Do you have any example of such fundamental fact, and when and how did you learn said fact? And do you think it's better to stay quiet about not knowing it and never learn the fundamental fact or do you think it's better to eventually learn it, albeit a bit late? --172.71.94.151 13:21, 28 December 2022 (UTC)
+Can we add diet coke and methos or some other tag to quickly search this comic? It's pretty useful life advice.
+Categories: All comicsComics from 2012Comics from MayWednesday comicsPages using the "citation needed" templateComics featuring CueballComics featuring MeganMath

@@ -1,0 +1,48 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1007: Sustainable
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1007)
+|<< PrevComic #1007 (January 23, 2012)Next >>|
+Sustainable
+
+Title text: Though 100 years is longer than a lot of our resources.
+Explanation[edit]
+This is a simple scatterplot showing how often the word "sustainable" has been used in English texts in the US each year. As can be seen, the y-axis is given a logarithmic scale, meaning that the apparently linear trend is actually exponential. Randall humorously attempts to extend the graph to the point the frequency exceeds 100% about a century from now, which is obviously impossible (hence the quip that the word's usage is itself "unsustainable").
+The use of the word "sustainable" has been increasing as people become more aware of the steadily increasing use of nonrenewable resources and need to ensure that the Earth's resources do not become totally exhausted, through sustainable development. Sustainable development refers to the practice of using resources that simultaneously aims to meet human needs while preserving the environment so that these needs can be met not only in the present time, but also for generations to come.
+As Randall somewhat depressingly mentions in the title text, the ~100 years that it will supposedly take for the word "sustainable" to become unsustainable is actually a lot longer than most of our nonrenewable resources will last on the Earth. The idea that all of the Earth's coal, oil, natural gas, etc. that has built up over the past millions of years may be completely gone within the century is unsettling.
+More realistically, the actual use of "sustainable" is likely to be logistic rather than exponential growth. A logistic curve describes a trend that at first behaves exponentially, but then tapers off and reaches a cap. This is demonstrated by the Google ngrams graph of word usage for "sustainable". Logistic growth is commonly used to model data that naturally increases exponentially but has a limiting factor, which in this case is the meaningfulness of text consisting entirely or mostly of a single word.
+This comic was used in the 2018 book Enlightenment Now: The Case for Reason, Science, Humanism, and Progress by Steven Pinker as it discusses the concept of sustainable energy.
+Extrapolation of data has also appeared in the following comics 605: Extrapolating, 1204: Detail and 1281: Minifigs. And yes, "sustainable" has appeared in every paragraph so far.
+Transcript[edit]
+[A large two-axis scatterplot graph with a caption below. The y-axis displays percentages on a logarithmic scale from 0.000001% to 1,000%, and is labeled "Frequency of use of the word "sustainable" in US English text, as a percentage of all words, by year. Source: Google NGrams." The x-axis displays years from 1950 to 2140, and is labeled "Year". Plotted data points show a high linear correlation (effectively exponential due to being a log scale), ranging from approximately 0.000005% in 1960 to approximately 0.003% in 2012. A linear trend line is drawn through the data points, and is extrapolated to the end of the graph. Four points on this trend line are marked and labeled:]
+(2012, ~0.003%): Present Day
+(2036, ~0.03%): 2036: "Sustainable" occurs an average of once per page
+(2061, ~0.5%): 2061: "Sustainable" occurs an average of once per sentence
+(2109, 100%): 2109: All sentences are just the word "sustainable" over and over.
+[The trend line continues past the year 2109, exceeding 100% and breaking up into question marks.]
+[Caption below the panel:]
+The word "sustainable" is unsustainable.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This is a great lesson for me that no matter what we think is occurring, it's probably wrong; that statistics themselves are unsustainable; and that only goals that matter need to be sustainable in the long term. - e-inspired 98.211.199.84 15:15, 27 February 2013 (UTC)
+Yes, WAY too heavy, but I was just trying to inspire other engineers, perhaps people smarter then I, to try solving the world problems (You will probably do better job then law makers). Hope to read your theory in the book some day. - E-inspired (talk) 08:33, 3 March 2013 (UTC)
+Sustainable sustainable sustainable, prophetic view of sustainable sustainable. 64.151.41.72 (talk) (please sign your comments with ~~~~)
+Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo 108.162.250.11 03:12, 15 February 2014 (UTC)
+
+Ironically, this comic does nothing to help the situation at hand. 108.162.215.60 02:12, 2 March 2015 (UTC)
+That's not the point dumbass 172.70.230.109 19:52, 31 August 2022 (UTC)
+What happened in 1966-67, when there was that peak in the use of the word?--108.162.229.57 10:59, 30 May 2015 (UTC)
+Rachel Carson published Silent Spring, a book that started the environmentalist movement. 162.158.58.57 05:07, 21 December 2017 (UTC)
+0.5% is "once per sentence"? Didn't know most sentences had 200 words. 108.162.218.77 01:06, 21 August 2015 (UTC)
+2108:Hello, sustainable is sustainability. 2109: Sustainable, sustainability.173.245.52.69 20:10, 29 May 2016 (UTC)
+2110: Sustainability, sustainable. Sustainable sustainability:sustainable. Klyxm (talk) 03:49, 5 March 2018 (UTC)
+We just increased it from 0.003% to 0.004% StillNotOriginal 16:33, 20 May 2018 (UTC)
+I have a very strong urge to replace every word on this page with "sustainable". Was there ever a joke page on explainxkcd? Fabian42 (talk) 11:45, 12 June 2018 (UTC)
+This would kill the explanation and in general the jokes are done by Randall while we explain them. Nevertheless humor is always welcome, but remember this Wiki is called "explainxkcd" not "jokingxkcd". So the better place for your strong urge would be here at the discussion page. --Dgbrt (talk) 17:56, 12 June 2018 (UTC)
+(Translated into English from Sustainable) The year is 2140, and “society” has been decimated. Language has transcended time and space, and how sustainable everything is is getting unsustainable. “That Guy from the Netherlands” (talk) 14:21, 26 March 2019 (UTC)
+If someone made what was above into a real thing as a better writer, I would buy it on the spot. “That Guy from the Netherlands” (talk) 14:21, 26 March 2019 (UTC)
+According to Randalls very own https://xkcd.com/simplewriter/ sustainable is not a simple (common) word yet... --Lupo (talk) 06:38, 9 May 2019 (UTC)
+Sustainable sustainable sustainable Sustainable, yet still sustainable sustainable sustainable. 162.158.111.92 10:38, 2 Sustainable 2087 (UTC)
+Categories: All comicsComics from 2012Comics from JanuaryMonday comicsLine graphsExtrapolation

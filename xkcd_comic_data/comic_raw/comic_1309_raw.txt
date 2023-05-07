@@ -1,0 +1,30 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1309: Infinite Scrolling
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1309)
+|<< PrevComic #1309 (December 27, 2013)Next >>|
+Infinite Scrolling
+
+Title text: Maybe we should give up on the whole idea of a 'back' button. 'Show me that thing I was looking at a moment ago' might just be too complicated an idea for the modern web.
+Explanation[edit]
+Infinite scrolling is a technique in web design where a large data set is displayed as a seemingly infinite list, but in reality only the visible part of the list (and the surrounding data) is rendered. This is done to work around memory limitations of old browsers and mobile devices or to save on data transfer size.
+The problem with this technique is that if you navigate from this page to a different page and go back, the location of the scrolled data set is often lost and the top of the data set is displayed again. Also it is usually not possible to point a URL directly to a certain section of the infinite list, a practice known as deep linking. For these reasons, many prefer pagination, the method traditionally used in books, over infinite scrolling.
+In this comic Megan is handling the book gingerly as if it were a device with a touchscreen where the book is displayed as an infinite scrolling text. Touching a link would navigate away from the list and the current reading position would be lost.
+In the title text it is an ironic suggestion that the "back" button is now useless. The back-button is supposed to give you this functionality but due to the failure to implement continuous scrolling sites and deep-linking correctly they are typically useless when the user is reading infinite-scrolling data (or worse, flat-out counterproductive, giving you the wrong page). Alternatively, this might be a joke on the stereotype that web users are unable to make the most helpful or intelligent decisions, similarly to 1454: Done, 1974: Conversational Dynamics, and 2051: Bad Opinions.
+Transcript[edit]
+[Megan stands at a desk, reading a book, touching it very gingerly. Cueball is standing behind her.
+Cueball: Why are you turning the pages like that?
+Megan: If I touch the wrong thing, I'll lose my place and have to start over.
+[Caption below the panel:]
+If books worked like infinite-scrolling webpages
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I think the title text is supposed to be sarcasm. Note that it IS possible to keep track of section of javascript-generated pages, but it's harder and I'm not sure if there is cross-browser way to make back button work with them, it's possible you need different code for every browser. -- Hkmaly (talk) 10:48, 27 December 2013 (UTC)
+Using location.hash should work on most browsers. However, coding it in is intimately connected to something called "work", which is probably the reason it generally isn't implemented. Also, reloading e.g. a soup that's been scrolled down two miles would take forever. --173.245.54.86 18:54, 27 December 2013 (UTC)
+Also pushState should work in all browsers, but it doesn't. -- Hkmaly (talk) 10:38, 30 December 2013 (UTC)
+Shouldn't we add a few examples of websites that currently exhibit this behavior? Facebook and Twitter come to mind... Kaa-ching (talk) 12:45, 27 December 2013 (UTC)
+Soup.io and Tumblr, too. Understandably. I find paginated Tumblr much more annoying than infinite scrolling. --173.245.54.86 18:54, 27 December 2013 (UTC)
+There are a few sites and tools that try to implement infinite scrolling without breaking back button, for example Discourse --JakubNarebski (talk) 21:19, 28 December 2013 (UTC)
+As an elderly (late 60s) reader and contributor, this has touched a very sensitive nerve in me. As I learned to read I began to learn to LEARN, Then I learned to read books. As I learned to read I found that I had ten book-marks, ten fingers, that kept me connected to at least ten previous sections of the work. I could refer back and forth between new text and old and I could build up an ever-changing but overall context of what was being discussed . In the literary sense. I could range, fore and aft, from chapter 1 to chapter last.. I could read text that stirred me, over and over, to see what, in context, the story, was trying to teach me. The FORMAT of information is CLOSELY aligned to what INFORMATION it imparts and just as closely related to what it INTENDS to impart. I really miss the days of SLOW, CAREFUL, induction of information. Syllable by syllable. Verb by verb. Element by element in the the pure joy of reading. -- ExternalMonolog (talk) (please sign your comments with ~~~~)
+Categories: All comicsComics from 2013Comics from DecemberFriday comicsComics featuring CueballComics featuring MeganInternet

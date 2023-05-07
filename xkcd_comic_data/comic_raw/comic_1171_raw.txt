@@ -1,0 +1,60 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1171: Perl Problems
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1171)
+|<< PrevComic #1171 (February 8, 2013)Next >>|
+Perl Problems
+
+Title text: To generate #1 albums, 'jay --help' recommends the -z flag.
+Explanation[edit]
+Perl is a scripting language that makes heavy use of regular expressions, which are good for dealing with large amounts of text quickly. In the comic, the man wearing sunglasses parodies the song "99 Problems" in which the rapper Jay-Z says:
+If you're havin' girl problems
+I feel bad for you, son-
+I got 99 problems,
+But a bitch ain't one.
+In the comic however, the rapper tries to solve his problems with Perl's regular expressions, and ends up only creating another problem for himself, which is a reference to a famous quote by Jamie Zawinski (whose name could also be shortened to "Jay-Z"): "Some people, when confronted with a problem, think 'I know, I'll use regular expressions.' Now they have two problems." (This quote was revisited in 1313: Regex Golf.)
+"program --help" is a common way, originating with the GNU project, to ask a program to show documentation on its usage and supported parameters; which, for some program, could include a "-z" command-line argument ("flag"), so the command would read "jay -z". In this case, it is just an obvious play on the rapper's name. jay is also an actual C program that is a compiler-compiler for java, but it doesn't have a "-z" flag.
+This sort of problematically recursive self-reference is reminiscent of comic 927: Standards, and 1739: Fixing Problems.
+Transcript[edit]
+[Man with sunglasses talking (or, alternatively, rapping) to Cueball.]
+Sunglasses: If you're havin' perl problems I feel bad for you, son-
+Sunglasses: I got 99 problems,
+Sunglasses: So I used regular expressions.
+Sunglasses: Now I have 100 problems.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The punchline is in reference to this oft-quoted joke by jwz:
+Some people, when confronted with a problem, think "I know, I'll use regular expressions." Now they have two problems. - Jamie Zawinski
+There's actually a double joke here: The song "99 Problems" is by Jay-Z, and the regex joke is by jwz. --173.8.183.86 08:33, 8 February 2013 (UTC)
+[Jj][A-Za-z]*[\b\-]*[Zz][A-Za-z]* Elsbree (talk) 17:31, 8 February 2013 (UTC)
+I don't understand why so many people have problems with regular expressions. They are really easy ... compared to gramatics or turing machines. :-) (Of course, it is good idea to verify that the problem you are trying to solve with regular expressions IS regular. While perl is sometimes capable of doing stuff outside real regular expressions, it's rarely worth it.) -- Hkmaly (talk) 10:23, 8 February 2013 (UTC)
+Wait, how do we rule out that the Regular Expressions might've helped Cueball, and that now, in fact, he has only 4 problems? 220.224.246.97 15:52, 8 February 2013 (UTC)
+Great explanation today, folks. --DanB (talk) 20:10, 8 February 2013 (UTC)
+The stuff about preg_match is NOT perl at all. It is php. perl has regular expression matching as part of the language, not as a function. In perl, you would normally only get the firrst match, unless you used the 'g' flag. The comparable initial match might be: @matches = $str =~ m/([A-Za-z])/g; But if you only wanted the first match, it would be more common to write something like $firstMatch = $str =~ m/([A-Za-z])/ && $1; I think that if you do want all the matches in perl, you are better off doing it in an explicit loop, so as to avoid creating an unneeded array. (Perl now considers using the "complete match" token to be a less than ideal thing to use, which is why I added the parens and used $1 instead of $&.) --Divad27182 (talk) 06:33, 9 February 2013 (UTC)
+($firstMatch) = $str =~ /([a-z])/i 199.27.128.24 05:36, 13 January 2014 (UTC)
+If you're havin' Perl problems I feel bad for you, son - I got 99 problems, but regex ain't one. -- 150.252.114.126 (talk) (please sign your comments with ~~~~)
+[User talk:Divad27182] is right. I took the liberty to remove the Perl reference in that line. 87.165.125.229 10:05, 11 February 2013 (UTC)
+192.193.116.137 15:47, 11 February 2013 (UTC)Is there not an "off by one" joke in here also?
+"I don't understand why so many people have problems with regular expressions." I think there are a few reasons
+1: the syntax crams everything together giving the coder little scope for laying things out. As the number of levels of nesting increases this makes it very hard to see the tree structure.
+2: the way syntax characters are mixed with literal characters without clear delimination makes it very difficult for those who are not intimately famility with the format to quickly distinguish which is syntax and what is literal text to be matched (see shell script for an example of a programming language that has the same problem) or to curse when they don't realise a paticular character is used as syntax.
+3: there is little in the way of debugging support when a regex doesn't match the way you expect it to.
+4: there are some really nasty corner cases of regexes that are simple to write but massively hard for the regex engine to check [1]. -- w:user:plugwash 141.101.98.248 (talk) (please sign your comments with ~~~~)
+
+Very late to the party but I wanted to reply to w:user:plugwash and say that Perl has at least made an improvement on your point 1. "the syntax crams everything together giving the coder little scope for laying things out". One can use the x flag, which allows arbitrary amounts of whitespace in the regex:
+   $str = 'foobar';
+   $result = $str =~ m/
+       foo
+       (
+           [b|c]
+       )
+       [^z]
+       r
+   /x;
+   print "Result: $result\n";
+   print "Captured: $1\n";
+With of course the remaining problem being if you want whitespace, you have to explicitly add it back in. AmbroseChapel (talk) 06:24, 31 August 2017 (UTC)
+If I can take a second to point this out for you youngsters, the "I got 99 problems but a bitch ain't one" line came from Ice T originally (from "99 Problems" on the "Home Invasion" album: hardly his best work. 141.101.107.84 15:16, 20 September 2017 (UTC)Endie
+Categories: All comicsComics from 2013Comics from FebruaryFriday comicsMusicComics featuring CueballRegex

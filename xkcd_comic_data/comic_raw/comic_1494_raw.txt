@@ -1,0 +1,71 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1494: Insurance
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1494)
+|<< PrevComic #1494 (March 4, 2015)Next >>|
+Insurance
+
+Title text: LIFEHACKS: You can just take all the luggage off the airport conveyer belt and leave with it. They don't check that it's yours at the door!
+Explanation[edit]
+Cueball in this comic, as is often the case, is some sort of programmer or at least logically minded person. He reads through the terms that are handed to him, and finds some sort of loophole. This is a play on the fact that programmers often find loopholes in programs and code, and exploiting them is nothing more than a "cool find" or an interesting idea. More importantly, programmers try to prevent loopholes, which is why it is important to be able to identify them.
+The insurance agent foresees this, and explains that this "cool hack" is actually just an instance of insurance fraud, which is highly illegal. The comparison here is that exploiting a program's faults can be regarded as interesting or fun, while exploiting the faults in a legal document will often result in some sort of legal repercussions (however, sometimes legal loopholes are exploited by individuals or corporations in ways that are not illegal).
+The insurance agent is also already prepared for the following question - how he knew Cueball would be looking for loopholes, and it's because many programmers visit him.
+The title text provides another example: While airport luggage security certainly is exploitable, walking out with every piece of luggage from the conveyor belt would be easily noticeable and would result in being arrested for theft, and many annoyed travelers.
+1469: UV also contains a case of insurance fraud.
+Lifehacks vs. IT hacks[edit]
+The term hacking in IT is ambiguous and goes from code development (in particular in the opensource community) to the fact of "using a hack". A hack would then refer to a tricky piece of code doing the intended job in a way that the framework or project in which it is inserted was not intended to. To the general public, 'hacking' a system would normally refer to some illegal way of achieving a goal against the will of the original developers of the system, like getting a copy of all the data available or taking advantage of some unwanted behavior, but a more distinctive term for such an exploitation (maliciously or after an invitation to perform legitimate penetration testing) would be 'cracking'.
+This comic is making fun of what IT hacks would look like in real world. Surely, taking lots of luggage from an airport is technically possible and probably not so difficult, but first, it looks weird, and second, it's also obviously illegal. The weirdness of such behavior is more obvious in real life than in IT.
+It is worth noting that it is currently popular on social media sites to share small tricks to make one's life easier. This is called "life hacking", or "hacking your life".
+Transcript[edit]
+[Cueball is standing in front of a desk, which a man sits behind. The man is presumably an insurance agent, and is handing Cueball a paper.]
+Insurance agent: Here's a page explaining the terms of your new fire insurance policy.
+[Zoom in on Cueball as he reads the paper.]
+[Cueball starts to ask the insurance agent a question when he hands Cueball yet another paper.]
+Cueball: Hey, what if I-
+Insurance agent: And here's a page explaining that the "cool hack" you just thought of is called "insurance fraud". We already know about it and it's a crime.
+Cueball: Oh. Right. How did-
+Insurance agent: I see a lot of programmers here.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Well...suck for you. 108.162.215.57 05:17, 4 March 2015 (UTC) RobotGoggles
+
+Incomplete tag? I know it's pretty early, and the explanation is bound to be rewritten, but the current explanation is a little confusing, and makes a couple jumps that I wouldn't necessarily make. Maybe the incomplete tag shouldn't be removed yet? I'd do it, but I don't really know enough about actually editing the explanations to feel comfortable doing it yet. ARoseByAnyOtherName (talk) 08:52, 4 March 2015 (UTC)
+I mean, I had written an explanation I'd say was a bit clearer (if a bit more complicated), but some unregistered user removed most of it... Makes me a bit grumpy. The newly added Lifehacks vs. IT hacks section brings up most of the things that person removed, though, so this should be complete enough. Obskyr (talk) 09:44, 4 March 2015 (UTC)
+Well, for what it's worth, I liked your version better. --RenniePet (talk) 10:47, 4 March 2015 (UTC)
+Not only that. The new version was so bad I decided to revert to Obskyr's. [1] 108.162.221.201 13:54, 4 March 2015 (UTC)
+Any meaning to conveyer?
+The spelling error in the alt text seems like a simple typo.
+Lawyer? I assumed it was a salesman or HR guy. --RenniePet (talk) 08:50, 4 March 2015 (UTC)
+Insurance agent. Not exactly a salesman; agents have multiple hats. You don't get fire insurance from HR.Taibhse (talk) 09:34, 4 March 2015 (UTC)
+So you're saying the agents are TF2 players. 108.162.237.161 04:45, 6 March 2015 (UTC)
+This is probably a reference to those youtube videos of life hacks of questionable legality. Eg signing up for one flight to take another108.162.219.100 16:44, 4 March 2015 (UTC)
+I guess this might also relate to that (from my experience) programmers tend to like to break things (anything claimed to be "secure" seems to attract lots of people wanting to test out how secure) or find workarounds for things? Pinkishu (talk) 10:11, 4 March 2015 (UTC)
+Hacking
+Please read On Hacking. I think the term you're looking for is cracking, or at least black hat hacking. Hacking a system would mean getting a system to do something unique and/or interesting. Or interacting with the system in a way that wasn't predicted. 108.162.238.191 10:19, 4 March 2015 (UTC)
+You're right. But there is at least a second common usage for the word hack that is described by wikipedia as "an inelegant but effective solution to a computing problem". When the insurance guy speaks about "cool hacks", he's probably not refering to Stallman's definition. Nytux (talk) 09:41, 5 March 2015 (UTC)
+Hard hacks
+Things like lock-picking is often also seen as physical equivalents of hacking, not necessarily illegal but still something most people would look on with suspicion.108.162.254.98 10:21, 4 March 2015 (UTC)
+Agree, this is excellent example on "hacking the computer": there is nothing illegal on lock-picking itself. Even if you use it on someone's else door without permission, it would not be crime unless you actually ENTER the door (or damage the lock). Locksmiths MUST know how to do it. But ... first thing you think about when hearing lock-picking is that thiefs do it. -- Hkmaly (talk) 11:37, 4 March 2015 (UTC)
+Before coming down into the comments, and seeing the last set of comments, I felt it necessary to make an edit to highlight just such an issue regarding the confusion about 'hacking'. As a historical sideline, note also the term "cracksman" as used for those who illegally open safes (and others skilled with locks and barred entranceways, in a criminal manner), which predates all the above computer-era terminology. But I didn't want to add too much more to the explanation. 141.101.98.181 17:25, 4 March 2015 (UTC)
+I think part of the point of today's comic is to point that contracts are somewhat similar to a computer program (both have definitions and rules by which the system must abide), but lack the strict rigor of the latter. So, when programmers read a legal contract they immediately start searching for bugs or vulnerabilities or even syntax optimizations. 188.114.98.29 (talk) (please sign your comments with ~~~~)
+Why is it illegal to do things allowed by the contract?
+Why is it illegal if the insurance company agreed that the "fraudulent" maneuver was accepted, by signing the contract allowing it? 199.27.128.172 23:22, 4 March 2015 (UTC)
+The contract doesn't have a section that says "and fraud is prohibited" because fraud is already prohibited by criminal law; thus, no need to spell it out. It turns out that contracts will have many terms added by implication, particularly commercial contracts.
+If you buy a shiny new gun, the instruction manual probably doesn't say "Oh, and by the way, if you point this thing at someone and pull the trigger while it's loaded, you may be charged with a crime." You're supposed to know that this is true BEFORE you buy a gun. That's part of the joke... normal people know that looking for ways to get the insurance to pay out more than it should is insurance fraud. People who think like programmers think they've found a loophole they can exploit. 108.162.237.170 (talk) (please sign your comments with ~~~~)
+Still, it's fraud to deliberately lie to the insurance company to make more money. I still don't see how taking advantage of the insurance company's mistakes is fraud, especially when you're just following the contract. Do companies have special privileges and entitlements to profit? --199.27.128.172 01:09, 11 March 2015 (UTC)
+Another problem with your analogy is that shooting someone with a gun is a crime against a person, not the gun seller, while fraud is a crime against the other party. --199.27.128.172 01:21, 11 March 2015 (UTC)
+...
+Uh, why doesn't it mention life hacks at all in the "lifehacks vs IT hacks" section? Especially since I remember some lifehacks actually advocate for plain fucking stealing, like e.g. one which suggested that if you need a free umbrella, go to a restaurant and say you lost a black umbrella. 141.101.89.224 01:56, 5 March 2015 (UTC)
+I absolutely agree with this point. The comic appears to suggest that programmers apply the conditioning that comes from their jobs (that code exploits are cool, and that the system must be designed to prevent exploits) to life (where exploiting a system's vulnerabilities may look cool but is very probably illegal). The airport luggage registration and screening system allows anyone to walk out the door with any item of luggage, but it is quite simply theft to do so. Likewise, exploiting a loophole in a contract is generally acceptable in order to avoid work or liability, but when you do it to obtain material gain then it is quite simply fraud. It would appear that much of the explanation currently misses the point... 108.162.229.50 13:35, 5 March 2015 (UTC)
+Checking the luggage
+Seems like someone already tried this. I flew to Saigon last week and they check your luggage against your lost&found tag, before you may leave. --108.162.222.156 15:54, 5 March 2015 (UTC)
+Correct. Most airports don't check the luggage tags, but I've been to some that do. Don't remember which. May have been South Asia too. Chrisahn (talk) 14:20, 8 March 2015 (UTC)
+I disagree that this is a sequel to UV, it may relate, but as mentioned in that comment it's not even close to legal to burn a house then get fire insurance. Djbrasier (talk) 19:24, 5 March 2015 (UTC)
+Also, isn't Hairy the insurance agent? Should the transcript be updated to name him? Djbrasier (talk) 19:29, 5 March 2015 (UTC)
+reminds me of an old joke
+I'm surprised that no one here has mentioned this joke, so I'll tell it (I think I read it in Reader's Digest back in my childhood): A farmer has just signed a fire insurance contract and as he hands the first premium payment to the salesman asks, "So how much will I get if the barn were to burn down tonight?" to which the salesman replies, "Oh, probably 10 to 20." 173.245.54.190 13:33, 3 April 2015 (UTC)
+Cigar Fire Insurance
+There is a story (apocryphal) about someone who insures a collection of cigars against fire and collects the money after smoking them. https://www.snopes.com/fact-check/cigarson/ 172.69.50.52 19:20, 22 December 2018 (UTC)
+Categories: All comicsComics from 2015Comics from MarchWednesday comicsComics featuring CueballAviation

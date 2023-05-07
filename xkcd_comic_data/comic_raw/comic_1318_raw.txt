@@ -1,0 +1,76 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1318: Actually
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1318)
+|<< PrevComic #1318 (January 17, 2014)Next >>|
+Actually
+
+Title text: Protip: You can win every exchange just by being one level more precise than whoever talked last. Eventually, you'll defeat all conversational opponents and stand alone.
+Explanation[edit]
+The image shows a sphere, a simple model for the shape of the Earth. Six people stand on its surface, talking about ways to best describe it, starting with a flat surface, the first belief held, and ending with general relativity. As the statements form a circle, the very first statement can lead recursively off the last, as described below.
+The statements in detail:
+Actually, measurements suggest it's flat.
+This statement is located at the top of the sphere in the comic, making it most likely to be read first. Given no other context, it will be interpreted as referring to the Earth; i.e. "The Earth is flat." Early man, without any way to measure, likely assumed our planet's surface was flat.
+Actually, it's a sphere.
+Many experiments over the ages have proven the planet to be round. These early scientists described their findings as the Earth being a "sphere."
+Actually, it's an oblate spheroid.
+This clarifies the previous statement; an oblate spheroid has a wider radius at the equator than through the poles. This distinction would have been difficult to notice before the modern age with more precise instruments and the proliferation of airplane travel. On Earth, this occurs because a rotating body tends to bulge at the equator, where the matter experiences greater centrifugal forces (analogous to experiencing more force at the outside of a round-a-bout rather than at the center). This is known as the equatorial bulge.
+Actually, it's a shape defined by the EGM96 coefficients.
+This adds even more clarification to the previous statement; the Earth Gravitational Model 1996 is a detailed map of the Earth's gravitational field, which is not as uniform as a pure oblate spheroid would suggest.
+Actually, it's that plus local topography.
+This adds an almost unnecessary level of clarification to the previous; obviously the Earth's surface is not a smooth shape but rather contains numerous mountains, hills, valleys, etc. which constitute "local topography".
+Actually, it's embedded in a universe that's curved.
+This shifts the perspective from the actual shape of the Earth to the "shape" of the space around it. According to General relativity, our planet's gravity bends the space-time around it, making it curved. At the time General relativity was discovered, it was not conclusively known whether the whole universe was flat or curved.
+Actually, measurements suggest it's flat.
+Looping around to the first statement and given the context from the previous one, this can now be interpreted as "the universe is flat" rather than "the Earth is flat". Recent measurements of the universe's shape strongly suggest that it is more or less completely flat rather than curved.
+This could also refer to Thomas Friedman's 2005 book "The World is Flat" which discusses globalization and the idea of the world as a level playing field of equal opportunity for commerce.
+Actually...
+The next two statements could also be interpreted as referring to the universe rather than the Earth - but they would no longer continue to be more precise than the previous (Cueball's) statement.
+The text will not continue on to form a recursive loop - as the statement about the EGM by Megan would no longer make sense in context of the universe - and the same would be true for the next two statements.
+Title text
+The title text pulls the whole comic together, pointing out that each statement in the comic is more precise than the previous. Unlike the loop in the comic, someone who does this will likely eventually win any real-life debate. The victory will not necessarily be a result of actually proving your logical argument, however: the phrase "stand alone" refers to driving away all conversation, resulting in no one wanting to speak to the person.
+Transcript[edit]
+[Six people are standing upon a white circle as if it were a miniature planet. Each person is facing the reader and says something to the person on their right. All texts are displayed as a near-continuous stream over their heads to form one circle that encloses the whole picture.]
+[From topmost, going clockwise.]
+Cueball: Actually, measurements suggest it's flat.
+Ponytail: Actually, it's a sphere.
+White Hat: Actually, it's an oblate spheroid.
+Megan: Actually, it's a shape defined by the EGM96 coefficients.
+Hairy 1: Actually, it's that plus local topography.
+Hairy 2: Actually, it's embedded in a universe that's curved.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I started reading the comic from the topmost line "Actually, measurements suggest it's flat." It seemed that he was talking about the planet, but it's also a response to the curved-space line from before. Upon further reading, I can't tell if the discussion is about a planet or a universe, and it looks like you can go around the circle twice and assume both. 173.245.50.72 05:13, 17 January 2014 (UTC)
+It is about the shape of the Earth. The Earth exists in a curved universe. The alt text is referring to the fact that by being more and more specific you can always get the last word in but it may alienate you from your peers. 108.162.246.117 05:14, 17 January 2014 (UTC)
+"Actually, measurements suggest it's flat." could mean two different things: the first would be in the physical sense, the second in the economic sense, if he is referring to the book "The World is Flat" from 2005. -- Tc18021188 (talk) (please sign your comments with ~~~~)
+The transcript needs some way to show that Cueball is talking to the second Hairy in the end. 108.162.216.71 08:25, 17 January 2014 (UTC)
+"show that Cueball is talking to the second Hairy in the end" -> Do you consider it done ? MGitsfullofsheep (talk) 08:50, 17 January 2014 (UTC)
+Fixed factual error about sum of angles of a triangle in a closed geometry. An example of closed geometry is spherical geometry, where sum of angles of a triangle is π < A + B + C<3π http://en.wikipedia.org/wiki/Spherical_trigonometry . Previous text wrongly stated that A+B+C would be smaller than π in closed geometry and greater in open geometry. MGitsfullofsheep (talk) 08:50, 17 January 2014 (UTC)
+About the oblate configuration: why attribute it to centripetal force? Because centrifugal force is an "apparent" force? Well centripetal force from gravitational pull is actually balancing the centrifugal force caused by rotation of the earth. The whole "centrifugal force does not exist" thing is a misconception. It's an inertial force and writing the equilibrium equations for an object in the rotating reference frame (the one we experience everyday) at latitude phi you see: gravitational pull toward the center of the planet + centrifugal force away from the axis of rotation= mass*g(phi). This g(phi) is not the same in every spot of the earth, it changes in value and direction (does not always point exactly to the center of the earth) with latitude. 108.162.229.65 (talk) (please sign your comments with ~~~~)
+I second this. The centripetal force would actually be the gravity of earth. Attributing the oblate shape of earth to this is just plain wrong, since it pulls inwards, not outwards. Actually all forces could be called "apparent" forces, since they're really just constructs to help you calculate the acceleration of a body. There's always a (local) reference frame where a particular force doesn't "exist". 173.245.53.131 (talk) (please sign your comments with ~~~~)
+Sure, there is always such frame, but gravitation is real force anyway because we can measure the higgs field by detecting higgs bosons. At least I think we can. Failing that, electromagnetic forces are real because we can measure electromagnetic field by detecting photons, this I'm sure of :-). -- Hkmaly (talk) 10:23, 17 January 2014 (UTC)
+Come now. Do you really expect me to do coordinate substitution in my head while strapped to a centrifuge? Diszy (talk) 15:44, 17 January 2014 (UTC)
+No, Mister Diszy, I expect you to die. 108.162.238.117 20:14, 17 January 2014 (UTC)
+Why do so many people seem to think the Higgs field has anything to do with gravity? I suppose very indirectly, by contributing to the masses of certain particles, it affects gravity, but no more so than electromagnetism affects gravity; it certainly doesn't cause gravity, or prove that it exists, or anything like that. (If we could detect the graviton--which is a very different particle than the Higgs, and which we so far can't detect--then that would prove that gravity waves exist, which would in turn prove that gravity exists. But it's much easier to detect gravity waves than gravitons, and much easier to detect gravity than gravity waves, so even that would be a silly thing to say.) 162.158.255.52 14:34, 23 September 2015 (UTC)
+I don't see why the explanation assumes the top claim is at the start and end. I think that part of the explanation is a stretch and that the "flat" claim is not meant to be given twice. 108.162.246.117 17:38, 17 January 2014 (UTC)
+It's a loop. Technically there is no "start". Each line is a direct "more specific" response to the previous remark. 108.162.238.117 20:17, 17 January 2014 (UTC)
+I always suspected Freddie Mercury was a closet planetoligist. 127.0.0.1 (talk) 20:26, 17 January 2014 (UTC) (please sign your comments with ~~~~)
+I highly doubt this pun is intentional, but this could be seen as a case of circular logic. 108.162.238.117 20:35, 17 January 2014 (UTC)
+Any significance to where they are standing along the circle? If we start with flat, the first three are right in a row, but then the rest are spread out further.108.162.216.57 21:20, 17 January 2014 (UTC)
+Yes. They are standing close to the center of where their sentence is. 108.162.238.117 03:17, 18 January 2014 (UTC)
+Quick suggestion. Under the (first) "[Actually,] measurements suggest it's flat." explanation title, just have the first point given. Then continue through the other "Actually"'s and then have (under a second "Actually, measurements suggest it's flat." header) the "Finally, the first speaker comments again," point and then the "The arguments could continue around the circle," one at the end. 141.101.99.223 22:41, 17 January 2014 (UTC)
+It was not the case that the middle age believd in a flat eart (some of the antic cultures did). See Wikipedia. --DaB. (talk) 00:27, 18 January 2014 (UTC)
+not a recursive loop
+"Further statements could now continue to be interpreted as referring to the universe rather than the Earth, thus forming a recursive loop.". This phrase is awful. As far as I understood this long hypothetical sentence does not even wrap 2 times. Adding 'recursive' is totally pointless here. Am I right? 141.101.98.222 (talk) (please sign your comments with ~~~~)
+I agree. It is not a closed loop. You can only move two more steps after Cueball says "the universe is flat". When Megan starts to talk about the EGM, then it could no longer be mistaken as being a comment on the shape of the universe! And even if it could, then the last comment before Cueball also does not make sense if they were already discussing the universe! So I would say the explanation is incomplete as long as the recursive loop part is here Kynde (talk) 14:04, 22 January 2014 (UTC)
+Actually, you can win every exchange just by being one level more precise than whomever talked last. --Jesse (talk) 05:44, 19 January 2014 (UTC)
+Actually, "... than whoever talked last." is correct, which puts you on the receiving end of https://xkcd.com/326/.
+Here, than is a conjunction, i.e. it joins two sentences where the second is the basis of comparison. Each sentence has its own subject and verb+tense. The first has You and can win. The second has whoever and talked. Who/whoever are the subject forms, and whom/whomever are the object forms.
+To use another example, would you say I am smarter than him is, rather than the correct I am smarter than he is?
+Seriously, please stop being an AGN and leave teaching to those who know. Now excuse me as I don't feel well.... However, I did have to fix this for all the ESL speakers who have enough problems without language incorrections. 108.162.208.252 16:07, 22 January 2014 (UTC)
+Bravo! Very well done! 108.162.219.33 19:55, 4 February 2014 (UTC)larK
+As a Mathematician, I would just abstract the conversation using Category Theory and try to find an algorithm to be able to abstract any additional precision. Then I would hope that no one found that algorithm first. I still don't know what to call that algorithm though. This is the algorithm now. 16:33, 21 January 2014 (UTC)
+Actually, it isn't a Sphere. It's a ball. Nitpicking (talk) 14:03, 28 November 2021 (UTC)
+Categories: All comicsComics from 2014Comics from JanuaryFriday comicsComics featuring CueballComics featuring MeganComics featuring PonytailComics featuring White HatComics featuring HairyPhysicsLanguageProtip

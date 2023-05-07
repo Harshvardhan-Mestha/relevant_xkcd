@@ -1,0 +1,118 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1508: Operating Systems
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1508)
+|<< PrevComic #1508 (April 6, 2015)Next >>|
+Operating Systems
+
+Title text: One of the survivors, poking around in the ruins with the point of a spear, uncovers a singed photo of Richard Stallman. They stare in silence. "This," one of them finally says, "This is a man who BELIEVED in something."
+Explanation[edit]
+In this comic, Randall gives an overview of the past, present and (speculatively) future of the operating systems running in his house at any given time. Notably, because Randall is fascinated by technology, he has had more than one OS running in his household since the mid '90's. The timeline tracks how Operating Systems have come and gone over the years, and the gradual shift from desktop Operating Systems to mobile can be observed. Beyond the present day, we see some of Randall's humorous predictions as to which technologies and companies will dominate the Operating System landscape in the future.
+It may be that the OS that is closest to the time-line is also the one he mainly uses during these extended periods.
+Previous and current systems:
+MS-DOS (Microsoft Disk Operating System): The default, command-line-based OS on most IBM PC-compatible computers. Early versions of Microsoft Windows operated as shells on top of MS-DOS rather than stand-alone OSes in their own right, which may explain part of the overlap in those two bars.
+Apple's Mac OS (Macintosh Operating System): The OS of Apple's Macintosh line of computers. Randall's bar indicates that he stopped using Macs in 2001, after Mac OS had been superseded by the new and then-buggy Mac OS X.
+Linux: A free and open source Unix-like OS. Randall's bar indicates that he likely used it on one or two PCs starting from 1999 while still using Windows on other PCs, or perhaps was dual-booting one or more PCs with Windows, until abandoning Windows in 2007 to use Linux full-time. This timing coincides with the release of Microsoft's controversial Windows Vista and the advent of more user-friendly Linux distributions.
+OS X (Macintosh Operating System v10): The successor OS of Apple's Macintosh line of computers. Although it was sometimes marketed as merely the 10th version of the earlier Mac OS, it was largely a new product. The bar indicates Randall's renewed use of Macintosh computers in 2009 after the OS had matured and Macs had transitioned to Intel processors.
+Android: The upper layers of the OS running on Android phones and tablets, above the Linux kernel. Randall is indicating that he has at least one of these devices.
+Apple's iOS: The OS of iPhone, iPad, iPad mini, iPad Air, iPod Touch and Apple TV. Randall is indicating that he also has at least one of these devices.
+His predictions for the future include:
+2018: That OS X and iOS will merge. There is frequent speculation on technology blogs as to whether or not this merging will come to pass in the future. The two OSes have a common origin, share a lot of software, and are maintained by the same company that would benefit from the efficiency of maintaining a single unified OS. Opposing this is the fact that interaction patterns are very different between traditional computers and tablets/phones and a one-size-fits-both solution may not be feasible (as proven by Microsoft's disastrous attempt at such), and the fact that Apple spends some time in each of its recent keynotes mocking computers like the Microsoft Surface Pro which use both standard computer and touch control. However, that said, with the release of iOS 11 and the support of ARM architecture by Mac OS X, the iPad version of iOS has diverged greatly from the iPhone version and is now converging rapidly with macOS, so a merger between macOS and part of iOS might not be too far off... (As of 2022, they have not yet merged).
+2019: That an operating system designed with and for JavaScript will become attractive, perhaps along the lines of NodeOS and/or Runtime.js.
+2022: That there'll be an OS based on the Tinder dating app.
+2024: That there'll be an OS from Nest Labs, presumably oriented towards home automation and the Internet of things.
+2029: That Elon Musk will come up with an operating system.
+2030: That DOS would make a comeback, but only in an ironic fashion (maybe because there would be no more disks left for it to operate from).
+2034: That Randall will be deploying an autonomous drug-delivery drone in his body.
+2042: Human civilization comes to a fiery end, maybe due to some unholy combination of the above innovations. Another possible explanation is that human civilization will be wiped out by an artificial super-intelligence, superior to human intelligence, as Elon Musk, Ray Kurzweil, Bill Gates and many tech pundits foresee that 2045 will be the year to see such technology becoming real, and as Elon Musk, Bill Gates and many other tech pundits fear that it will be the extinction of all life on earth, as explained on this page.
+2059: At this time his operating system will be GNU/Hurd. This infamously and perennially late GNU/Hurd OS will finally make it in to Randall's home after human civilization has been wiped out. The joke is that GNU/Hurd began to be developed in 1990, and while it was expected to be released in a relatively short time, even now only unstable builds have been released. So Randall is saying that he will finally run it in his house a decade or two after the end of civilization. GNU/Hurd will presumably have an advantage as humanity rebuilds civilization due to the widespread availability of its code and development tools, and perhaps also because of Stallman's depth of belief, based on the title text. Alternatively, GNU/Hurd might be finished by the same force that finished humankind, for instance Skynet, in case of AI Apocalypse. (Interestingly, although still far from completion, a new version of GNU/Hurd was released less than a week after this comic.)
+The title text refers to Richard Stallman, the founder of the Free Software movement and the GNU and Hurd projects. A survivor of the fire that ended the human civilization has uncovered a slightly burned (singed) picture of him. Those gathered can see, either directly from the picture or because they already know of Stallman, that this was a man that really believed in something. In this case it was free software. Inspired by his image, they rebuild their lost civilization and finish Hurd development.
+The GNU/Hurd reference might also be a pun, as in a "herd" of Gnus "running" in his living room, as wild animals reclaim the Earth after the end of human civilization.
+GNU is a collection of free software utilities, particularly the system utilities used with the Linux Kernel to form the Linux operating system (often called GNU/Linux by those who wish to emphasize the contribution of the GNU project). Hurd is an operating system kernel designed as part of GNU project that could be used in place of the Linux kernel to produce a complete GNU operating system. Hurd has a microkernel architecture, which has many perceived advantages over Linux's monolithic kernel, and is thought by many to be technically superior, despite its low adoption rate compared to the Linux kernel.
+Randall has made several comics about free software and also about Stallman. See this list of comics featuring Richard Stallman. Most of these are also about free software in some form.
+Transcript[edit]
+[All text is in capitals. At the top of the panel:]
+Operating Systems
+running in my house
+[At the bottom there is time-line that runs from 1990 to 2066. It has small indicators for every year, larger for every 5 years and largest for every 10 years. Below the 10 year indicators are written the years. Also the year 2015 is marked:]
+1990 2000 2010 Now 2020 2030 2040 2050 2060
+[Bars above the time-line in four levels are labeled with operating system names, representing the time period for that OS. Below is a list of the bars on the time-line in order of first appearance (with approximate year ranges given). Also the level from 1-4 is indicated, with level 1 just above the time-line and level 4 the highest level above the line:]
+[Level 1 from 1988 to 1998 (extends a little left past the beginning of the time-line but not off panel):]
+MS DOS
+[Level 2 from 1993 to 2007:]
+Windows
+[Level 3 from 1994 to 2001:]
+Mac OS
+[Level 1 from 1999 to 2018:]
+Linux
+[Level 2 from 2009 to 2023. On the way the bar merges with iOS around 2018 thru 2022:]
+OS X
+[Level 3 from 2009 to 2016:]
+Android
+[Level 4 from 2013 to 2022. On the way to 2022 the bar moves down past Android to merge with OS X after 2018:]
+iOS
+[Level 1 from 2018 to 2028. The text is written in square brackets:]
+[Something].js
+[Level 3 from 2022 to 2029:]
+TinderOS
+[Level 2 from 2023 to 2032:]
+Nest
+[Level 1 from 2028 to 2041:]
+Elon Musk Project:
+[Level 3 from 2030 to 2036:]
+DOS, but ironically
+[Level 2 from 2034 to 2041:]
+Blood Drone
+[This is not a bar, but the text (in three lines) is in a double bar-height (level 1-2) square bracket. The bracket extends from 2042 to 2051:]
+[Human civilization ends in fire]
+[Level 1 from 2059 going past the end of the panel past 2066:]
+GNU/Hurd
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+[something].js isn't that far off: https://github.com/runtimejs/runtime (Sometimes I feel like JavaScript is a cult...) :) Bb010g (talk) 06:07, 6 April 2015 (UTC)
+Wait, JavaScript isn't a cult? Luc (talk) 03:07, 16 July 2016 (UTC)
+Typo in title text: singed should be signed.Jezzaaaa (talk) 06:43, 6 April 2015 (UTC)
+That's not a typo. Singed means slightly burnt. It's implying a post-apocalyptic environment. 108.162.219.126 07:10, 6 April 2015 (UTC)
+All strokes are týpa whereas misstrokes are dýstýpa. Lysdexia (talk) 10:53, 4 January 2019 (UTC)
+I know almost nothing about Richard Stallman, but he does sound like the kind of guy who might be giving out signed photos of himself. :-) --RenniePet (talk) 19:02, 6 April 2015 (UTC)
+He does, doesn't he? ;) http://shop.fsf.org/product/signed-rms-photo-print/ --162.158.90.190 17:39, 29 July 2015 (UTC)
+"Blood Drone" Could be a play of words on "Bloodborne", the game. 108.162.212.14 09:01, 6 April 2015 (UTC)
+[something].js is probably referring to Node.js or one of the many frameworks built on Node.JS (such as Google's Angular.js). Node.js isn't written in Javascript, but in c/c++ using Google's V8 JS engine and is a replacement for Apache (a web platform). My interpretation is that it's only a matter of time before someone builds an entire OS using Node.js principles.108.162.221.99 10:33, 6 April 2015 (UTC)
+"Blood Drone" makes me think of blood-borne nanites more than anything. -108.162.250.179 11:21, 6 April 2015 (UTC)
+Ditto here, "Blood Drone" implies, to me, an operating system for blood borne nanotech. Ioldanach (talk) 16:34, 6 April 2015 (UTC)
+What if the ASI will be running on GNU/Hurd and 8 years after the war will seize Randal's house? -- Hkmaly (talk) 13:35, 6 April 2015 (UTC)
+I cannot find any reliable source stating that iOS stands for "internet Operating System." To the contrary, and Internet Operating Systems seems like something different entirely. If anyone can find evidence to the contrary, please provide a link. 199.27.128.114 14:57, 6 April 2015 (UTC)
+When Apple began the "i" prefix with the iMac in 1998, they said that it stands for internet. [1] --108.162.215.229 18:53, 27 September 2016 (UTC)
+
+I'm pretty sure that iOS came from the iPhone Operating System conjunction based on what I read on Wikipedia. I'm also inclined to support the idea that "Blood Drone" would be more likely to refer to blood-borne devices than to personal warfare devices, although with the timeline proximity to the Apocalypse, it is easy to see the reason for the other assumption. --Ancientt (talk) 16:33, 6 April 2015 (UTC)
+I fixed a teeny tiny typo. off changed to of. The Goyim speaks (talk) 17:03, 6 April 2015 (UTC)
+Looks like he doesn't have much faith in the future of Android. --RenniePet (talk) 18:55, 6 April 2015 (UTC)
+Or Linux... The proprietary Apple operating systems outliving the open-sourced ones is a horrifying & somewhat unbelievable prospect to me. 108.162.216.48 (talk) (please sign your comments with ~~~~)
+Could the GNU/Hurd reference also be a play on words, suggesting that the dominant "operating system" or activity of the survivors in their low-tech post-apocalyptic society will be "herd"ing animals, like gnus? 173.245.52.118 20:58, 6 April 2015 (UTC)
+I added some trivia The title text begins by referring to a single survivor. The next two times, however, it refers to a group. 199.27.128.204 00:18, 7 April 2015 (UTC)
+I disagree. First, it's referring to one of a group of survivors finding the photo. The next two times, it's simply referring to the group looking at the photo that the one survivor found—Randall skipped over the matter of having them all go to look at the photo, possibly because he felt it was unnecessary. 199.27.133.40 00:56, 7 April 2015 (UTC)
+
+I also think that the far future has to do with herds of (wild) gnus wandering the deserted land. They will take some time to return, during which there are no operating systems at Randall's house. In my view, gnu herds are what make the survivors come there with spears, to hunt them. I don't know if the survivors remember Stallman or any of his projects, I think they just read the strength of his beliefs from his facial expression, which is remarkably constant throughout the years. 141.101.104.188 01:12, 7 April 2015 (UTC)
+I mean i assume we are supposed to suspend disbelief on the end part, because after the destruction of most of the human race, who would be continuing to work on an operating system? The Goyim speaks (talk) 01:29, 7 April 2015 (UTC)
+I think that "In this case it was free software" should be changed to something like "In this case it was an operating system given up for dead that ultimately proved superior and enduring." Calion (talk) 01:32, 7 April 2015 (UTC)
+I've changed the bits about Mac OS and Mac OS X to reflect a far more likely scenario. Besides the fact that I have a hard time seeing Randall adopting or abandoning an OS based on the current financial health of its producer, the timeline doesn't make sense. Apple's fortunes were far bleaker in 1995, when Randall began using Macs, than in 2001, when he stopped. Apple was in fact making a strong comeback at that time due to the success of the iMac and iPod. Calion (talk) 01:42, 7 April 2015 (UTC)
+Is it correct to assume that all these OSs are used by Randall himself? The comic says that they are “running on his house”. It might be that he is not the one personally using every one of them. —108.162.219.132 06:58, 7 April 2015 (UTC)
+08:49, 7 April 2015 (UTC) The coincident timeline of "no more Android" and the merger of iOS and OSX also probably indicates Randall will stop using Android should the Apple OS' merger happen" - Vikrant 08:49, 7 April 2015 (UTC)
+08:49, 7 April 2015 (UTC) Further, the Stallman-singed-photo and "here is a man who believed..." reference might be a way of saying "OSs will come, and OSs will go, but the GNU/HURD will live on for ever"... - Vikrant 08:49, 7 April 2015 (UTC)
+I disagree with DOS "making a comeback"; this is OSes running in his house so he is running it ironically. 141.101.98.188 14:23, 7 April 2015 (UTC)
+It's utter no-sense, only Chuck Norris photo would survive end of civilization. Does the author, by the spear poking of Stallman's photo means that his sublime intention is really postmortem and virtual sodomization of Richard? 108.162.221.219 17:43, 7 April 2015 (UTC)
+I don't think proximity to the timeline has any indication of frequency of use. A simple rule saying "keep OSes horizontal, and when adding a new OS, always put it in the lowest free slot" fits the timeline perfectly. Angew (talk) 18:30, 7 April 2015 (UTC)
+Purists will note that "Windows" is not an operating system in 1993. Windows NT is, and fits the timeline better (besides the fact that you can't use Windows without also using DOS, you can use Windows NT without using DOS.) All of this points to Randall meaning to say "Windows NT" when he says "Windows". If he (or even just someone in his household) was still using 16-bit Windows for as long as that bar says.... yow. (That said, I only recently retired my last multi-boot system that had DOS on it.) 108.162.238.185 (talk) (please sign your comments with ~~~~)
+I would not be surprised if he still had a machine running 3.11 for Workgroups through the beginning of the NT era. I know I did. My 286 & 386 PCs still work quite well. 108.162.216.48 (talk) (please sign your comments with ~~~~)
+I'm under the impression that the apocalypse is caused by the singularity, and that GNU/Hurd is the Skynet OS. Maybe not though, that's just my impression of the comic. --199.27.133.36 00:33, 13 April 2015 (UTC)
+No, it's that GNU/Hurd will take so long to be released, it won't happen until after the apocalypse. Luc (talk) 03:04, 16 July 2016 (UTC)
+I am from 2018 and no, iOS and OS X have not merged Awoo is legal | (you can't) change my mind (talk) 16:23, 20 December 2018 (UTC)
+four years to go Lysdexia (talk) 10:53, 4 January 2019 (UTC)
+To the contrary, it's actually gone the other way. iOS has just been forked into iPadOS for the iPad, while iOS remains for the iPhone and iPod Touch. Numbermaniac (talk) 04:34, 15 January 2020 (UTC)
+I'm from 2021, and macOS (formerly OS X) runs on ARM like iOS does now. 172.69.22.66 22:20, 4 January 2021 (UTC)
+I'm from 2022, and the notion of human civilization ending sometime soon (in fire or otherwise) seems increasingly likely.
+Consider the Doomsday Clock, closer to midnight than ever...arguably due mostly to the precipitous rise of collective and individual human stupidity (wilful and otherwise), reducing atomics and other weapons (and also technology more generally) to a footnote or mere instrument.
+GNU/Hurd seems as distant as ever - Stallman has said some very unfortunate things, and lost much credibility.
+Categories: All comicsComics from 2015Comics from AprilMonday comicsChartsTimelinesComputersiOSComics featuring Richard StallmanComics featuring Elon Musk

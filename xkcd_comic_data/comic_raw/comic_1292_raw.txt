@@ -1,0 +1,210 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1292: Pi vs. Tau
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1292)
+|<< PrevComic #1292 (November 18, 2013)Next >>|
+Pi vs. Tau
+
+Title text: Conveniently approximated as e+2, Pau is commonly known as the Devil's Ratio (because in the octal expansion, '666' appears four times in the first 200 digits while no other run of 3+ digits appears more than once.)
+Explanation[edit]
+This is yet another of Randall's compromise comics. A few mathematicians argue as to whether to use pi, which is the ratio between a circle's circumference and its diameter, or tau, which is the ratio between a circle's circumference and its radius.
+Some consider pi to be the wrong convention and are in favor of using tau as the circle constant; see the Tau Manifesto, which was inspired by the article "Pi is wrong!" by mathematician Robert Palais and publicized by Vi Hart. Others consider proponents of tau to be foolish and remain loyal to pi (see the Pi Manifesto). Of course, regardless of which convention is used, the change is merely in notation — the underlying mathematics remains unaltered. Still, the choice of pi vs. tau can affect the clarity of equations, analogies between different equations, and how easy various subjects are to teach.
+Most people know π (pi) by the approximation 3.14, but do not know τ (tau) which, by definition, is twice as large as pi. Randall is suggesting using "pau", which is a portmanteau of "pi" and "tau", as a number situated, appropriately enough, halfway between pi and tau, i.e. 1.5 pi or 0.75 tau. But of course his number would be inconvenient, as this value does not naturally turn up when working with circles or other mathematical constructs, so there are no commonly used formulas that would use pau.
+The title text claims that pau can be approximated by e+2, as both values are roughly 4.71 — a similarity that holds little since it requires another irrational constant, e (although knowing the value of pau is somewhat more helpful in remembering e to 2 digits[citation needed]). It also attributes the nickname "Devil's Ratio" to pau, due to the sequence 666 supposedly appearing four times in the first 200 digits of pau when expressed in the octal base. However, this is not the case, and was likely due to an error in the computer system used by WolframAlpha; for more details see below.
+The Tau/pi controversy was later mentioned in 2520: Symbols.
+Transcript[edit]
+[On the left is a "forbidden"-style slashed circle with the π symbol, captioned "Pi". On the right is a "forbidden"-style slashed circle with 2π, captioned "Tau". Between these is 1.5π, captioned "Pau".]
+[Caption below the panel:]
+A compromise solution to the Pi/Tau dispute
+Math details[edit]
+Possibly, Randall used Wolfram|Alpha to calculate the result (he uses it a lot, for example What-if 70: The Constant Groundskeeper or What-if 62: Falling With Helium). However, when the comic was published, there was a bug in Wolfram|Alpha so that, when getting 200 octal digits from "pau", it just calculates the decimal value rounded to 15 significant digits (this is 4.71238898038469) and expands that as octal digits as far as needed.
+This gives a periodically repeating number. In the first 200 digits of the octal expansion, the sequences 666 and 6666 do occur, twice and once, respectively. There are 4 occurrences, however, in the first three hundred and ten (310 in base 8 equals 200 in base 10) digits:
+4.554574376314416445676661714336617116240444076666510533533077631151350452060436452476274022621206136310000177621674175071262255702044274154476005744176002676623042402346036604733130522524127534777714554305412763636566643022106616734723661726160312772574551366370203115523402704104015532221722772357666
+Expansion that long indeed does contain 666 (the number of the beast) four times (with one instance as 6666). It also contains 0000, 222, 444, and 7777, but they only appear once in a run.
+In the first 500 digits of the actual octal expansion of pau, we also find that 6666 occurs once, and 666 occurs two other times:
+4.55457437631441644323623451447505012242547157301565031476335452700304316771261165505467475703133125234035147165764643331727311243102010764472707236245737216402204376521550655442201431161557425156344621363625174410110777026111560241174471252241762037163367420573533032164702576626667446275343255043345060027305171025475041452166612112500275317166412767657355633417212140135534536541060452450664011414377406267077573054507036064406511117752700327100355213521015136220621644573043264505244325316526666260
+(Note that this contains 500 digits after the octal point.) No other run of 3 or more repeated digits (e.g. 111) occurs as many times, although 1111 occurs once, 111 occurs once elsewhere, and 333 and 777 also occur once each. 9 other strings of 3 digits occur 4 times, namely 164, 362, 521, 644, 432, 730, 043, 216, and 450, and only 573 occurs more often, as it occurs 6 times. Therefore, if 6666 is counted as two occurrences of 666, it is actually the joint second most common string of three numbers in the first 500 digits.
+Coincidentally, e+2 is also very similar to 1.5 pi, although only to a few digits.
+1.5π = 4.71238898038...
+e+2  = 4.71828182845...
+Trivia[edit]
+For Pi, the sequence '666' occurs for the first time at position 2440. Many more occurrences can be found here: The Pi-Search Page.
+Note that "pau" is Catalan for peace, which might be a good solution for the pi/tau dispute.
+Also, note that "pau" is the Portuguese word for "stick", as well as, in Brazilian Portuguese, a very common slang for "penis". This may add to the humor (although childishly) for Portuguese-speaking readers, though it is fair to presume that it was not Randall's intention to do so.
+In the discussion it has been theorized that Randall used Nerd Sniping. In which case he was aware of the mistake in Wolfram!
+For an entertaining introduction to the concept of tau, see this Vi Hart video.
+In March 2018 the video How pi was almost 6.283185... was released on why Pi could just as well have been Tau (6.28), since Euler, who used the letter Pi in his books, used it for both what we call Pi and Tau today... This very comic is also briefly shown in a segment regarding the controversy about these two versions of "Pi".
+Pau is a chinese dish, a filled bun which is round and yummy[citation needed], just like pie.
+Pau is also a city of south-western France.
+Finally, "pau" means "finished" in Hawaiian.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+It should be known that in the tabletop miniatures game Warhammer 40k, the Tau are a race of technologically advanced humanoids, although I would be surprised if this has any meaning in relation to the comic.
+162.158.74.247 18:44, 14 December 2020 (UTC)
+
+Pau is somewhat less conveniently, but more accurately, approximated as (401-sqrt(2)*phi)/200.
+I started an explanation. Hopefully others will help improve it, as I don't think it's quite adequate. 199.27.130.174 05:32, 18 November 2013 (UTC)
+The comic currently shows the symbol π (pi) in all three cases, but it should have the symbol τ (tau) in the rightmost case. I'm sure there is a compromise symbol "pau" too. Maybe with a deformed left leg? 141.101.97.4 07:07, 18 November 2013 (UTC)
+WolframAlpha gives
+4.5545743763144164456766617143366171162404440766665105335330776311513504520604364524762740226212061363100001776216741750712622557020442741544760057441760026766230424023460366047331305225241275347777145543054127636365666430221066167347236617261603127725745513663702031155234027041040155322217227723576660045156156303357534162372112340027743775672417274565277274565735325624457113522164166560115654407251403563246444122664066521461311773474046032763760765740133706761276420415672577471077133607673035331070364705651055376634161405567176532346433567731715723623721267302576735154761375545411215522177775706407470673020025353246535120744232706060324711633457720155013202527060250466252665661576165164140301645132275526153126363575631176312270212441433434206352313125326760006365710744276056412434626534152021052065172556442150110056601034116570607064550553636566432544260105637423220411372664024454234201642615033200331506013362432026775605543212342336511350621361642654426372425415023071413764173735461042064323757413414533013..._8
+which does indeed have four 666 sequences. 141.101.99.254 08:06, 18 November 2013 (UTC)
+This number contains 7777, 000 and 444 twice, though. 141.101.93.11 09:08, 18 November 2013 (UTC)
+Wrote the transcript, not sure if I explained the visual well enough, so I left the incomplete tag if someone else has a better idea. Should suffice for understanding however, considering the content 108.162.248.18 08:55, 18 November 2013 (UTC)
+People should be made aware that pau is a slang for dick in Portuguese. 188.114.98.34 (talk) (please sign your comments with ~~~~)
+(The discussion about different results was trimmed)
+Wolfram gives the result with 666
+http://www.wolframalpha.com/input/?i=1.5+pi+octal
+4.554574376314416445676661714336617116240444076666510533533077631151350452060436452476274022621206136310000177621674175071262255702044274154476005744176002676623042402346036604733130522524127534777714554305412763636566643022
+The Unix arbitrary precision calculator gives the result without
+$ echo "scale=200; obase=8; 6*a(1)" | bc -l
+4.554574376314416443236234514475050122425471573015650314763354527003043167712611655054674757031331252340351471657646433317273112431020107644727072362457372164022043765215506554422014311615574251563446213636251744101107770257
+Any suggestions how we can check them?
+"Randall says so" is probably correct, but insufficient :-) -- Mike (talk) (please sign your comments with ~~~~)
+Please use the <pre> tag for this long numbers.--Dgbrt (talk) 09:20, 18 November 2013 (UTC)
+
+Testing Wolfram Alpha with
+4.55457437631441644567666171433661711624044407666651053353307763115135045206043645247627402262120613631000177621674175071262255_8 in decimal
+and
+4.55457437631441644567666171433661711624044407666651053353307763115135045206043645247627402262120613631000_8 in decimal
+both indicate the approximation is only accurate to a limited degree.
+http://www.wolframalpha.com/input/?i=4.55457437631441644567666171433661711624044407666651053353307763115135045206043645247627402262120613631000177621674175071262255_8+in+decimal
+http://www.wolframalpha.com/input/?i=4.55457437631441644567666171433661711624044407666651053353307763115135045206043645247627402262120613631000177621674175071262255_8+in+decimal
+The method I used to get the value I put in the text was; I used the following command to generate my approximation:
+echo 'scale=200; obase=8; a(1) * 6' | bc -l | tr -d ' \\\n' ; echo
+which outputs
+4.554574376314416443236234514475050122425471573015650314763354527003043167712611655054674757031331252340351471657646433317273112431020107644727072362457372164022043765215506554422014311615574251563446213636251744101107770257
+In 'bc, a(1) is arctangent of 1 (i.e. 45 degrees, or pi/4); (pi/4 * 6) should be equal to 'pau'. I additionally checked the result using base 2 encoding, and converted each three bit binary value into an octal value. The decimal value of pi (using a(1) * 4) matches with the value of pi to at lease 1000 digits. 173.245.54.86 09:21, 18 November 2013 (UTC)
+Both Maxima and the GNU Emacs calculator output as the first 1000 octal digits:
+4.5545743763144164432362345144750501224254715730156503147633545270030431677126116550546747570313312523403514716576464333172731124310201076447270723624573721640220437652155065544220143116155742515634462136362517441011077702611156024117447125224176203716336742057353303216470257662666744627534325504334506002730517102547504145216661211250027531716641276765735563341721214013553453654106045245066401141437740626707757305450703606440651111775270032710035521352101513622062164457304326450524432531652666626042202562202550566425643040556365710250031642467447605663240661743600041052212627767073277600402572027316222345356036301002572541750000114422036312122341474267232761775450071652613627306745074150251171507720277250030270442257106542456441722455345340370205646442156334125564557520336340223313312556634450170626417234376702443117031135045420165467426237454754566012204316130023063506430063362203021262434464410604275224606523356702572610031171344411766505734615256121034660773306140032365326415773227551
+This also agrees with the first 220 digits of the previous result (last two digits above are 57 vs 61 here, maybe due to rounding when converting to octal). Again, no 666 within the first 200 digits. The Wolfram result deviates from this at the 18th digit already. --ulm (talk) 10:21, 18 November 2013 (UTC)
+Also e+2 does not contain the substring '666':
+echo "scale=200; obase=8; e(1) + 2" | bc -l
+4.55760521305053551246527734254200471723636166134705407470551551265170233101050620637674622347347044466373713722774330661414353543664033100253542141365517370755272577262541110317650765740633550205306625
+--Dgbrt (talk) 10:43, 18 November 2013 (UTC)
+A sudden flash of realization: are we getting nerd-sniped here?--108.162.254.168 11:55, 18 November 2013 (UTC)
+Not unlikely. Have posted this as a trivia. Kynde (talk) 20:11, 23 November 2013 (UTC)
+The claim is clearly about e+2, making Dgbrt's comment closest to the right direction. 173.245.54.40 12:03, 18 November 2013 (UTC)
+When I take Wolfram alpha's octal(pi*1.5) I get the first 303 (base 10) characters as this:
+4.554574376314416445676661714336617116240444076666510533533077631151350452060436452476274022621206136310000177621674175071262255702044274154476005744176002676623042402346036604733130522524127534777714554305412763636566643022106616734723661726160312772574551366370203115523402704104015532221722772357666
+200(base 10) is 310(base 8) so in the fist '200' characters, 666 shows up 4 times (5 if you count 6666 as twice?) Xami (talk) 14:01, 18 November 2013 (UTC)
+The Wolfram result is what you get when you calculate pi*3/2 in decimal, round to 14 digits after the decimal point and then convert to octal. That is, 4.7123889803846910 converted to octal. Definitely, this won't give you 200 digits precision. --ulm (talk) 15:15, 18 November 2013 (UTC)
+It lines up too perfectly to be a coincidence. It fits all the requirements: has 666 four times within 2008 digits, and although 0000, 222, 444, and 7777 appear, they only appear once as a run. You can't double count 7777 as two 777's because it is a single run. If WolframAlpha doesn't give the correct precision, it is likely that Randall made the same error. --RainbowDash (talk) 16:59, 18 November 2013 (UTC)
+Being τ, tau, is already being expressed in terms of π, pi, it shows bias. (Though I think Pau would lead to some interesting spherical geometry equations. ~~Drifter 108.162.219.214 (talk) (please sign your comments with ~~~~)
+The bias is worse than that: From the perspective of π, the discussion is about multiples of π, so (3/2)π (that is 3π/2 = 3τ/4) is indeed the compromise between π and 2π. But from the perspective of τ, the discussion is about fractions of τ, so the compromise between τ and τ/2 is τ/(3/2) (that is 2τ/3 = 4π/3). Maybe we can call this ‘ti’ (or ‘tie’, pace 173.245.53.184 below). —TobyBartels (talk) 20:47, 18 November 2013 (UTC)
+Actually, both compromises are wrong. (3/2)π is the arithmetic mean of π and τ, while τ/(3/2) is their harmonic mean. But for geometric ratios (which these are), the appropriate mean is generally the geometric mean (hence the name). You can see how even-handed this is: it's (√2)π = τ/(√2). —TobyBartels (talk) 20:50, 18 November 2013 (UTC)
+---
+I am in favour of just calling it ti(e). --173.245.53.184 17:52, 18 November 2013 (UTC)
+---
+There are real world uses to both Tau and Pi: Pi is the number that relates to what you get when you measure a circle (the distanced around divided by the distance across); and Tau is get when you draw a circle (the distance around divided by the distance from the center). It is the difference between a mic (aka "micrometer" http://en.wikipedia.org/wiki/Micrometer ) and a protractor. Tau might have some mathematical advantages in both 2D and 3D in that it has no integer attached to it to find either circumference (2D) or surface area (3D) which makes radians and solid angles simpler. However, that advantage is lost in other dimensions and for the area of a circle.
+Pau, of course, has a 61% chance of going to the dribbling spheroid hall of fame. (ref: http://www.basketball-reference.com/players/g/gasolpa01.html ), to which neither Tau nor Pi can hold a candle.~~Remo ( 199.27.128.183 19:19, 18 November 2013 (UTC) )
+---
+The differences between Wolfram and BC really bothered me since I have used both for precision calculation in the past. The long and short of the matter, having done most of the maths 'long hand', BC is correct, Wolfram is wrong, and sadly, Randall was also wrong. It seems as tho Wolfram is rounding pi*1.5 to around 15 decimals but leaving the 9 repeating before converting to Octal.
+If you take the output of octal(pi * 1.5) and paste it back into the input like so:
+4.554574376314416445676661714336617116240444076666510533533077631151350452060436452476274022621206136310000177621674175071262255702044274154476005744176002676623042402346036604733130522524127534777_8
+Wolfram gives you back (converted to decimal):
+4.71238898038468999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+If you give that same input to BC and ask it to convert to decimal you get:
+4.712388980384689999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999992894219160392567888
+If you do the math long hand out to 55 decimal places, pi * 1.5 equals:
+4.712388980384689857693965074919254326295754099062658731462416...
+Converting that by hand into octal is a bit of a pain, but if you do, at the 18th decimal place where BC and Wolfram differ you end up with the following:
+0.000000000000000183697019872102976583909889841150158731462416... is your remainder to be converted so far
+0.000000000000000055511151231257827021181583404541015625          = 8 ^ -18
+Wolfram gives the 18th decimal as 5, BC as 3. I can't see 5 going into 18 5 times, but 3 times fits nicely. --DarkJMKnight (talk) 20:04, 18 November 2013 (UTC)
+Looks like Wolfram is simply using floating-point mathematics, presumably the IEEE "double precision". Interestingly, this is not the first time floating-point maths has been a problem; in 287, a similar problem caused an unintended trivial solution. Sabik (talk) 04:41, 19 November 2013 (UTC)
+On second thoughts, there's no indication that he used Wolfram Alpha; as with 287, it simply could have been a Perl script (or Python or pretty much any programming language). Sabik (talk) 05:25, 19 November 2013 (UTC)
+---
+How can 200 be octal and then mean 310 decimal??? If 200 were octal, that would be 128 decimal, so we would end up writing 128 decimals. Of course 310 octal is 200 decimal, but taking 2008 to mean 31010 is plain crazy, even if it's the only way to make it fit the "four times 666" constraint! What am I missing here? 173.245.53.149 21:27, 18 November 2013 (UTC)
+This Mathematica code searches for the pattern 666 in the octal expansion of 1.5 pi:
+digits = RealDigits[3*Pi/2, 8, 10000][[1]]; Select[Range[10000 - 2], Take[digits, {#, # + 2}] == {6, 6, 6} &]
+{279, 326, 495, 496, 3430, 3728, 4153, 6040, 7031, 7195, 7647, 7732, 8353, 8435, 8436, 8575, 8768, 9008}
+These positions start counting with the leading "4" as position 1. It does not occur in the first 200 digits, but occurs 18 times in the first 10,000 digits. Many other digit combinations occur more times in the first 10,000 digits, including "123" (23 times), "222" (21 times), and "555" (26 times). Note that "xkcd" converted to numbers (a=1, b=2, etc.) is 24, 11, 3, 4. The combination 241134 first occurs in 1.5 pi at digit number 250,745. Dcoetzee (talk) 06:44, 19 November 2013 (UTC)
+Wow, this filled up fast. Is it time to remove the Incomplete tag yet? 199.27.128.66 03:14, 19 November 2013 (UTC)
+Please do your adds at the bottom. Otherwise it looks like as the first discussion here and everybody will ignore your comment.
+My answer is: NO. We still have to figure out if Randall is wrong or just using an algorithm nobody does understand right now.--Dgbrt (talk) 21:10, 19 November 2013 (UTC)
+---
+Someone said there's no indication that Randall used Wolfram, and that double-precision IEEE numbers in mostly any language would cause the same error. This is not true: IEEE double precision numbers (binary64) are stored internally in binary. Converting them to octal would give at most 18 nonzero significant (octal) digits, and from that point on all additional digits would be zeros (remember that an octal digit is equivalent to three bits). What Wolfram does is rounding to a decimal number, which is not round in octal.
+I think the previous is an indication that Randall did indeed use Wolfram. Added to that, he used Wolfram in several what-if's, and in one case he used it so heavily that his IP got temporarily banned from Wolfram. This leaves little or no doubts in me that Wolfram is the source of Randall's mistake.
+Also, I still would like to know why everybody is interpreting "200 digits" as "2008 digits" and pretending that's equal to "31010 digits" instead of "12810 digits".
+And out of curiosity, what happened with 287 and floating point numbers? The explainxkcd for 287 says nothing about floating point.
+173.245.53.145 22:09, 19 November 2013 (UTC)
+With 287, there was only meant to be one solution, the other solution was unintended. It's mentioned in the discussion only, not in the body of the explanation, but there's a link to an interview where he indicates that it was indeed unintentional. Sabik (talk) 07:13, 20 November 2013 (UTC)
+What is the period of the wolfram answer?
+What is the repeat period of the octal answer with the 666's, (the length of the repetend) i.e. the one that comes from Wolfram, that is converting 4.71238898038469 decimal to octal? And how many 666's are in the full repetend? Oooh - I like that new word - thanks to repeating decimal! Nealmcb (talk) 23:22, 19 November 2013 (UTC)
+Dunno, either Randall uses WolframAlpha whithout further checks, so he has to check his sources, or we all are just dumb.--Dgbrt (talk) 23:54, 19 November 2013 (UTC)
+The period is 4882812500. Yes, what I mean is that it repeats every 488281250010 digits. Not sure I want to count the number of 666's in there. Oh, and thanks for the answer about 287, I've seen it now. -- 173.245.53.139 17:46, 20 November 2013 (UTC)
+
+I hardly dare to ask now... ;)
+What is an octal expansion?
+This explanation cannot be complete before someone explains what this actually means, to someone who have never herd of octal expansion before (like me)
+Kynde (talk) 15:33, 21 November 2013 (UTC)
+You are absolutely right, the incomplete tag is back. It seems only math geeks were working here but it should also be explained for people with less knowledge on math.--Dgbrt (talk) 22:02, 21 November 2013 (UTC)
+The wikipedia page for Octal contains a complete explanation. I wrote a plainer one but mine is still very long, so instead of posting it here I uploaded it there. It's very crappily formatted and not thoroughly checked as I don't have time for more at the moment, but I might improve it some other day. Please note that the only reason for not posting it here is its length, and in particular it has nothing to do with copyright issues. I mean, everybody feel free to copy, rewrite, summarize, expand, correct, destroy or do whatever to that text with no attribution, just as if it had been posted here. --173.245.53.145 22:37, 21 November 2013 (UTC)
+The explain for non math people should be much more simple. Randall likes simple English, I like simple Math. Not everything is covered but more people will understand the essentials. While I like all that details many people don't. We still do need an simple Math explain here.--Dgbrt (talk) 23:42, 21 November 2013 (UTC)
+I know and I agree, that's why I kept my explanation out of this discussion. My summarizing skills are just not good enough. I used the time I didn't have to reformat my explanation, but that just means it's now a bit longer than it was. I hope someone else will write a much shorter and simple one, as I just seem to be unable to do so. --173.245.53.145 01:10, 22 November 2013 (UTC)
+Thanks for a great explanation. I knew about this system but only for integers. However, still need a word on how to get pi in Octal. Until anyone does better a link could be posted for your explanation! Kynde (talk) 19:54, 23 November 2013 (UTC)
+I added the conversion part to the explanation, it's in the same link. Still way too long to post here. --173.245.53.117 03:29, 29 November 2013 (UTC)
+Note that pau is Catalan for peace, which is a good solution for the pi/tau dispute. --173.245.53.150 00:10, 23 November 2013 (UTC)
+Has posted this as a trivia item. Kynde (talk) 20:11, 23 November 2013 (UTC)
+The trivia that states that e here represents Euler's Constant, and not Euler's Number, seems to be false, is it not? e+2 being ~4.71, not ~2.58. --108.162.237.11 17:39, 24 November 2013 (UTC)
+I have removed that sentence. It was simply wrong. --Dgbrt (talk) 19:35, 24 November 2013 (UTC)
+4/3*Pau=Tau, 2/3*Pau=Pi, therefore, It can have a practical use.--ParadoX (talk) 10:57, 4 January 2014 (UTC)
+Dear DgBrt, Please leave the explain as it is. It's "way too complex" for a reason. And the Title Text does in fact need its own header (it's not the only title text to have earned it) 199.27.128.65 19:03, 19 March 2014 (UTC)
+Hello 199.27.128.65, please post new comments to the bottom. I did revert your revert because you didn't solve any of the remarks by me. And the title text EXPLAIN could be done easy: Explain that comparing e and and pi is nonsense and explain the mistake done by Randall when using Wolfram Alpha. Everything else belongs to the trivia section. --Dgbrt (talk) 22:36, 19 March 2014 (UTC)
+OK, we need to get the admins in here before we end up in a revert war. We already explained the intentional error from Randall, which is why it's in the explanation and not the trivia section. It CAN'T go in the trivia section because we're EXPLAINING what the error is. You don't put long explanations in the trivia section, you put them in the explanation section. THAT'S why the title text is getting its own header. 199.27.128.65 02:46, 20 March 2014 (UTC)
+All right, I've submitted a request for the admins to help up. No idea when they'll get here, but it should help smooth this big mess out. 199.27.128.65 02:52, 20 March 2014 (UTC)
+[Here's what they've said so far]. What do you think Dgbrt? 199.27.128.65 04:27, 20 March 2014 (UTC)
+After a week I haven't been here I still can say: calm down. My reasons are still at the incomplete tag — just read it.--Dgbrt (talk) 22:52, 27 March 2014 (UTC)
+Let's run through your arguments:
+"non Math people should also be able to understand this." I'd say the other editors did a pretty good job of that; that's the ENTIRE REASON we have an explain.
+"Randalls mistake has to be emphasised" They were. Read the explaination again.
+"everything else here is still too much, it even doesn't belong to a trivia section" But should the explanation not be as complete as possible? You underestimate just how nerdy we can get here.
+I have to side with the mods. I think this explanation was done and you're holding out for an impossible edit that will never come. 199.27.128.65 02:19, 31 March 2014 (UTC)
+I will work on this, but it needs some time because I don't want to remove any of the great findings here. Non math people DON'T read all that number talks. They don't know what wolfram alpha is and that this site is sometimes WRONG. That has to be clearly explained.
+Furthermore this is NOT a nerd sniping by Randall; it's a nerd sniping ON Randall. He did use the result by wolfram alpha by error, he did figure out all that wrong "666" appearances, while he otherwise is very accurate on math.
+My idea is: Extract the essentials for the title text and add a paragraph like "Math details", "Background", or however to the bottom of the explain. In effect non math people would not read this paragraph but they can understand the essentials, other people would be happy about the deeper explain.
+I don't want to delete content, I'm just looking for a better presentation to the public. --Dgbrt (talk) 21:03, 31 March 2014 (UTC)
+The amount of research Randal does, it's far more likely he made the mistakes on purpose in order to nerd snipe, as opposed to "he just made the mistakes on accident."
+I agree with you on the wolfram alpha part, though, and I like your idea to summarize the errors before exploring them in full detail
+Sorry for being so antagonizing before. 199.27.128.65 04:28, 1 April 2014 (UTC)
+Just a comment here, as a non-math person, I understood all of this perfectly well. 108.162.221.72 16:13, 2 May 2014 (UTC)
+
+Tone of "Title text" section
+The current tone of the title text section is inconsistent with the rest of this site. Where else does this wiki say, "Math is hard! It's not worth your time trying to understand the concepts here."?
+It consists of some of advanced trigonometry and other assorted college-level concepts that will in all likelihood just bore you if you don't care about them already. Really? There is not even any elementary trigonometry involved here, other than the value of PI itself. And since when is advanced trig a college level course? What is involved is the concept of bases other than base 10, specifically octal, but that is also a secondary school subject, both in mathematics and computer science.
+I propose the following outline of the section:
+State that the property given in the title text does not actually hold for 1.5 * PI, but that due to an early rounding error, it might look as if it holds when shown via Wolfram Alpha. Further state that it is not clear if Randall, in relying on Wolfram Alpha, made a mistake, or if he is partaking in nerd sniping.
+Show how close Pau is to e+2.
+Explain octal -- base 8 -- first for integers, then for fractions.
+Present the actual octal expansion and show that the property does not hold.
+Explain why the Wolfram Alpha answer is different.
+Present the Wolfram Alpha answer, and show how the property [almost?] holds with that value.
+Depending on how self-referential we wish to be, explain how it might have been a plausible mistake for Randall to have relied on Wolfram Alpha, but that if it was a case of nerd sniping, then it was highly successful.
+Mention the similarity to the Feynman point.
+This wiki is about explanations. We shouldn't bemoan a subject as being more difficult than it is; we should explain. -- 108.162.219.43 22:52, 29 April 2014 (UTC)
+We should have two different paragraphs here:
+The standard explain, containing the essentials like shown by 108.162.219.43 just before.
+A "Deeper into math" one, going into more depth.
+The "Title text" header is wrong!
+My 2 cents --Dgbrt (talk) 18:58, 30 April 2014 (UTC)
+I tried to fix my old "Title Text" header, what do you think? 199.27.130.204 03:29, 1 May 2014 (UTC)
+I did my first attempt on a simple explain. Please do not revert this, but I would be happy about any enhancements. --Dgbrt (talk) 20:40, 2 May 2014 (UTC)
+That is actually way better. Sorry for not giving you a chance before. 199.27.130.204 05:07, 3 May 2014 (UTC)
+Thanks! --Dgbrt (talk) 19:33, 3 May 2014 (UTC)
+ATM cell size?
+Is it possible that this is also a reference to the compromise ATM cell size? Americans wanted 32 bytes of data per cell, to support DS0 data rates, IIRC. Europeans wanted 64 bytes to support their smallest telecom data rate (I don't remember the designation) and to reduce "cell tax" inefficiency. Neither side would capitulate, so they went with 48 bytes, which is worse than either for both sides. Diplomacy in communications standards at work! One step above "I'll take my ball and go home!" 108.162.218.41 21:41, 31 May 2014 (UTC)
+That was the first thing that occurred to me! But I wonder whether Randall is that deep into such trivial communications technical details. Or should we expect him to know nearly everything about nearly everything? In any case, it's a great real-world example of an idiotic compromise, which he likes to lampoon. 172.68.143.132 20:32, 31 July 2018 (UTC)
+Is it worth mentioning that while Tau simplifies circumference calculations from 2*pi*r to tau*r, that it complicates area calculations from pi*r^2 to tau/2*r^2? --141.101.104.17 16:46, 11 December 2014 (UTC)
+The number 666 comes from the biblical explanation of alliances that are other than godly: "the number of a man," according to Wikipedia. The scripture it comes from doesn't mention the devil. Popular culture may be making it a reality the same way made up words become socially acceptable according to dictionary writers. I used Google News BEFORE it was clickbait (talk) 14:44, 10 January 2015 (UTC)
+I would argue the 666 appears twice, and 6666 appears once, and that occurence of 6666 is two more occurances of 666: digits 0 through 3 and 1 through 4. He didn't say anything about them being distinct times. 173.245.48.91 21:00, 9 June 2015 (UTC)
+Happy Pi Day! I know a measly 118 digits. I should try harder 625571b7-aa66-4f98-ac5c-92464cfb4ed8 (talk) 14:41, 14 March 2017 (UTC)
+why not use both pi and tau? Sci0927 (talk) 17:24, 20 December 2021 (UTC)
+fun fact: https://www.piday.org/pi-facts/ links to this page on Explain XKCD for fact 10! 172.69.70.210 18:15, 16 March 2023 (UTC)Bumpf
+Interesting. But that whole list needs rewriting so that it doesn't look like a list of different (often overlapping) facts coming from different people, without reference to each other. and the second bit to item 21 is... yeah... means nothing.
+But hello to anyone who follows the link here! 172.70.86.127 20:40, 16 March 2023 (UTC)
+Useful ways to calculate pau[edit]
+Pau = (-1/ζ(-1)) * (1/1/3 + 1/5/7 + 1/9/11 + 1/13/15 + 1/17/19 + 1/21/23 + 1/25/27 + ...)
+(provided by User:ColorfulGalaxy) ClassicalGames (talk) 11:57, 3 May 2023 (UTC)
+Categories: All comicsComics from 2013Comics from NovemberMonday comicsPages using the "citation needed" templateComics with colorMathCompromise

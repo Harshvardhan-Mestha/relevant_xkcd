@@ -1,0 +1,69 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1271: Highlighting
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1271)
+|<< PrevComic #1271 (September 30, 2013)Next >>|
+Highlighting
+
+Title text: And if clicking on any word pops up a site-search for articles about that word, I will close all windows in a panic and never come back.
+Explanation[edit]
+A number of people find it easier to read long texts by marking their place as they move through the reading. When done on paper, this may be done with a ruler, pencil, or finger. On-screen, however, one of the most effective methods is by highlighting the text being read. People accustomed to this form of reading often do it absentmindedly. Some people simply highlight parts of an article they're consulting without regards to which line they're currently reading, just to occupy their hands.
+Highlighting, however, has the potential to create shapes on screen. Randall is referring to the fact that the shapes created may occasionally be symmetrical, which creates satisfaction. Different highlighting patterns may be caused by the user's browser, the site provided, or by simply dragging one's cursor across the screen with the mouse button held down, and releasing at different patterns..
+The top example shows tight-fitting highlight syntax, which only covers the text of the paragraph. This is the most common result of highlighting an entire paragraph, but as paragraphs are rarely symmetrical, this example is marked by an X.
+The second example starts the highlighting a few words in and continues to the end of the paragraph, while the third example begins another half-word in and continues down a line and a word before ending. Both of these patterns would be caused by manually highlighting the text with the mouse button, rather than rapidly-clicking until a segment is highlighted. The second example forms a square where the three lines of highlighted text overlap, while the third has rotational symmetry of the selected region; both are marked with checks.
+The fourth example highlights the entire paragraph, as well as the whitespace caused by the indentation of the paragraph and at the end of the paragraph when the last line does not continue to the opposite margin. This example has both rotational and divisible symmetry, and is marked with a check.
+The fifth example highlights the whitespace after the end of the paragraph, but not the whitespace of the indentation, leaving an odd block at the start of it. This ruins the paragraph's symmetry, and so this example is marked with an X.
+The bottom example refers to the practice of websites adding a script to disable highlighting, often to discourage readers from copying their content. This creates a great dissatisfaction in readers accustomed to highlight as they read, shown by the many overlapping "X"s. Ironically since the comic is an image, the text in the comic can also not be highlighted.
+The title text refers to the practice of websites of adding a script that searches upon clicking any word in the text; most notably done by Yahoo! news in years prior. The search may be of the site, the web, or of an advertisement provider. The script sometimes creates a popup, which, Randall says, causes him to "panic", and consequently never want to return to the site again. It is in fact quite annoying to the occasional highlighter, causing them to lose their place and interrupting their train of thought.
+Transcript[edit]
+[A paragraph of text is shown. The highlight starts away from the leftmost edge of the highlight, and is a different distance to that between the rightmost edge of the highlight and the highlight end. Red X.]
+[A paragraph is shown. The highlight's starting point, end point, and number of lines included is such that there is an internal square in the middle, illustrated in green. Green tick.]
+[A paragraph is shown. Not only does it have an internal square, but the distance between the leftmost edge and the highlight start point is the same as the distance between the rightmost edge and the highlight end point. Green tick.]
+[A paragraph is shown. The entire paragraph is highlighted, making one big rectangle. Green tick.]
+[A paragraph is shown. The whole paragraph is selected, but the highlight starts away from the leftmost margin. This is shown with a red box, an arrow, and "?!?!". Red X.]
+[A paragraph is shown. Over the top is overlaid "[Clicking to highlight text is disabled]". Many, many red Xes.]
+I absentmindedly select random blocks of text as I read, and feel subconsciously satisfied when the highlighted area makes a symmetrical shape.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Did anyone happen to notice that his use of the word "Symmetrical" is not technically correct in this instance? The highlighted areas in those examples are not actually symmetrical. It's more like...congruent halves...
+It's rotationally symmetrical. Beanie talk 10:58, 7 June 2021 (UTC)
+I used to think I was crazy, but this webcomic tells me I'm not alone. It has nothing to do with marking your place as your reading, its more or less just something to keep your hands busy while reading an article. It does drive other people crazy. HardKase (talk) 02:11, 1 October 2013 (UTC)
+I first started highlighting while reading stuff online when I should have been working, in order to keep my 'click frequency' from dropping to zero. Quiet mouse = Obviously not working (In the software we use anyway) --Pudder (talk) 15:52, 15 October 2014 (UTC)
+Personally, I dislike it when the highlighted area includes either the beginning indent/tab or the ending indent/tab, so according to my standards, I'm satisfied with the highlighting in paragraphs 1-3, but not with 4-6. Saibot84 04:33, 30 September 2013 (UTC)
+There is nothing marked in paragraph 6, is there? --Chtz (talk) 07:07, 30 September 2013 (UTC)
+@Chtz, no there's nothing highlighted in paragraph 6, I meant "mark" as the score it was given. And while I'm here, I just noticed Randall corrected the spelling of "highlighted" in the text below the image. Should someone re-upload the image here? Saibot84 13:21, 30 September 2013 (UTC)
+
+Why does he spell highlight like "hilight"? 62.209.198.2 06:47, 30 September 2013 (UTC)
+Good question. Wiktionary allows hilite as informal, but says that hilight is a "common misspelling". --Chtz (talk) 07:07, 30 September 2013 (UTC)
+I assumed the poor spelling was a subtle way of poking fun at a site that would do something as stupid as trying to prohibit highlighting. —Scs (talk) 03:20, 1 October 2013 (UTC)
+It seems the comic has now changed to spelling it "highlight" 87.198.51.178 21:56, 1 October 2013 (UTC)
+But the name of the png file is still misspelt (I didn't know if the title was also misspelt or not, that's why I came here :D) 108.162.229.53 15:32, 10 December 2013 (UTC)
+I'm so used to doing this that I know a few tricks and tiny strips of areas to click on in order to achieve symmetry in some tricky situations. 131.215.169.224 07:53, 30 September 2013 (UTC)
+On some pages, I spent more time getting the highlights right than actually reading it --141.89.226.146 08:06, 30 September 2013 (UTC)
+You will all certainly hate Confluence's new editing of code. One micrometer and your h/l is undone 145.64.134.242 (talk) (please sign your comments with ~~~~)
+The most frustrating thing when it comes to highlighting: willing to select text on a long line (such as source code with no word wrap) only to have the mouse cursor move out of line, sabotaging your selection and location in the text. When pages are wider than the visible area, it should not jump to the left side when there are empty lines above/below a long line and you drag the selection up/down, instead, it should scroll left only as you drag the selection to the left. 213.163.40.100 08:11, 30 September 2013 (UTC)
+If you have source code extensively above your horizontal screen size, you either have a very small screen or you should rethink your coding style. ;) --Chtz (talk) 08:35, 30 September 2013 (UTC)
+The most frustrating thing for me is mouse-selection (though thankfully not keyboard-selection) tends in my experience to assume that a mid-selected word means "the start of the word as well", at least in a browser context. Especially in forum conversations, when you get '[quote="oneperson"][quote="ofanotherperson"]Blah[/quote]Replyblah[/quote]' to reply to, and you want to highlight and excise the inner quote, for brevity, it often adjusts to include the "] after the "oneperson". Which is annoying and breaks your BBCode if you don't notice what you also accidentally deleted, and correct for it.
+Outside of such forum specifics, example 4 looks like a successfully chosen entire DIV-block. Which is a handy thing to be able to do, sometimes, but as long as you aren't forced to do so (beyond the "reading guide" purpose for the highlighting, with optional OCD, when it's probably not of concern). And watch out (as a variant of the title text) that the entire text block hasn't been A HREFed or similar (popular, these days, seemingly to cater for messy touchscreen tablet navigation, sometimes even without a navigate-to cursor change). This is why I have a Perl application that will politely scrape regularly-viewed pages, regexp and reformat as necessary and give a better/pre-processed interface to such information. Which is nice. 178.98.253.80 16:27, 30 September 2013 (UTC)
+I do this all the time too... my wife HATES it! --Jeff (talk) 12:13, 30 September 2013 (UTC)
+I thought I was the only one. Although, I do a variation where I try to get the beginning of the selection directly over the end of the selection so that they vertically align and cause a glide reflection of sorts. 96.254.46.231 14:06, 30 September 2013 (UTC)
+New file name
+The picture hilighting.png should be moved to highlighting.png. BTW: There is still a typo at the click... statement.--Dgbrt (talk) 14:56, 30 September 2013 (UTC)
+is that necessary? Imho it should follow the misspelling of the article itself 74.125.183.194 16:10, 30 September 2013 (UTC)
+It is done by an admin here and necessary because this list List_of_all_comics did render a wrong image link. Even when the original file name is in fact still "hilighting.png". --Dgbrt (talk) 19:52, 30 September 2013 (UTC)
+Maybe he fears a trojan?
+About Randall panicking about the clicking-a-word-triggers-a-search-script, there are certain trojan-ish programs that tamper with the user's browser and install such a script in them. In that case, various words on any webpage would become clickable links that lead to advertisement and potentially other unsavory things. I had to clean a family member's computer from one such infection; I'm no expert but sleuthing a bit led me to believe he might've got it from a seemingly innocuous video-to-gif freeware. If I saw that word-popping behavior on a webpage again, my immediate thought would probably be that it's from a malignant script and I'd probably drop everything like Randall and start scanning my machine. 67.71.33.122 16:17, 1 October 2013 (UTC)
+Can't select the text in the image either
+Ironically, when text is displayed using an image like in the comic itself, it is also impossible to highlight text. Tom0000 (talk) 18:29, 1 October 2013 (UTC)
+Double-Clicking
+While double-clicking on a paragraph, chromium gives the patter of (5); firefox, on the other hand, selects text only, meaning no whitespaces (indent or margin) on either side of the text (not shown in comic). Running linux, I didn't try safari or i-ex. (On a last side-note, konqueror doesn't select the paragraph at all, but only the current line...) 134.130.114.148 09:06, 2 October 2013 (UTC)
+In Firefox (in Gnome 3 on Ubuntu, in case this is desktop environment specific or operating system specific), I have to triple-click to select a paragraph. Double-clicking would select a single word. --Das-g (talk) 14:09, 2 October 2013 (UTC)
+Also in Firefox, you can't select like Randall has selected, as it doesn't select any non-space/tab whitespace.
+And yes, you have to (or should have to) triple click to select a paragraph.GBGamer117 > /dev/null (talk) 06:12, 5 October 2013 (UTC)GBGamer117
+In chrome: 2 clicks = word, 3 clicks = paragraph.Microsoft word exclusive: Ctrl-A = everything! 108.162.218.65 19:21, 18 August 2015 (UTC)
+CTRL-A is not exclusive to MS Word; as an example, it works in Chrome. (If you're in a text box, it's Select All of the contents of that box, but if you click in a non-form region of the page, it will in fact select everything. 173.245.55.86 08:21, 20 August 2015 (UTC)
+I am relived to know that I am not the only person compulsive enough to have this issue. Though I particularity like case 3 when the highlight starts at the beginning of a word and ends at the end of one, and does not start or end in the middle of a word. 141.101.98.14 (talk) (please sign your comments with ~~~~)
+=
+Categories: All comicsComics from 2013Comics from SeptemberMonday comicsComics with color

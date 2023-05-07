@@ -1,0 +1,47 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1319: Automation
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1319)
+|<< PrevComic #1319 (January 20, 2014)Next >>|
+Automation
+
+Title text: 'Automating' comes from the roots 'auto-' meaning 'self-', and 'mating', meaning 'screwing'.
+Explanation[edit]
+The comic refers to the phenomenon in which computer programmers attempt to create programs to automate menial but frequent tasks, to save time and effort. These attempts often end up taking much more time than the menial tasks would have taken. The first graph reflects the assumed ideal that leads programmers into such an attempt: writing the program will take more effort initially, but once the program is complete, it will take over the routine tasks, leaving the programmer free to do something else.
+However, writing a program often turns out to be not that simple: programs can have defects, and certain functionalities can be hard to implement. Because of this, programmers usually spend more time than projected to finish a program. As time goes on, the desire to see it finished can consume the programmer's effort and attention, with the menial tasks left undone.
+The title text is a play on the word "automating." While "auto-" is indeed a prefix that means "self," the root word "mat," from the Greek "matos," in fact refers to "moving" or "acting," so "automate" effectively means "self-moving." However, the title text uses a double entendre of the word "mating", the definitions of which include "to copulate," or, in slang, "to screw" (the latter having the double meaning of giving someone a hard time). This rendition of "automating" translates to self-screwing ("screwing yourself over", giving yourself a hard time), which, according to this comic, happens when one attempts to automate a process.
+See also 974: The General Problem and 1205: Is It Worth the Time? or the Time management category.
+Transcript[edit]
+"I spend a lot of time on this task. I should write a program automating it!"
+[Two graphs are shown, plotting workload against time.]
+Theory:
+[The line for "work on original task" is steady but then drops down to a much lower level.]
+[The line for the automating job increases heavily while "writing code" and then drops down when "automation takes over".]
+[Both lines end up with a big amount of "free time".]
+Reality:
+[The line for "work on original task" is steady with no drop to a lower level.]
+[The line for the automating job increases heavily while "writing code", then it increases again while "debugging", it drops down slightly while "rethinking", and grows up again with an infinite end while the task is still an "ongoing development".]
+[The line for "work on original task" ends up with "no time for original task anymore".]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Why is this administrator protected? Did an admin lock it just to make sure they'd be the first person to explain it? --Mynotoar (talk) 07:12, 20 January 2014 (UTC)
+It is not protected. Check the logs. 108.162.246.117 07:39, 20 January 2014 (UTC)
+Alright, done the preliminary explanation. I think I got the joke right, and I'm a programmer myself so I can relate to the graphs. However, laymen may not understand the circumstances of programming world, so maybe simpler words could be used, or a real-life example given. That and I'm not a native English speaker, so someone else should do some grammar check. Also, I posted that from my mobile, it's not really convenient (editing the post itself is already a bit hard) so I'll do some fact checking and citation-linking once I got home. I did check on the screwing definition with TheFreeDictionary, don't have time to do better search now. Raestloz (talk) 08:55, 20 January 2014 (UTC)
+Note that in reality, many tasks can be automated successfully: while the programming takes longer that expected, may not simplify the task as much as expected and the program feels unfinished, outside circumstances can force the programmer to abandon ongoing development and use the program for partial automation instead. -- Hkmaly (talk) 09:54, 20 January 2014 (UTC)
+The title text reminds me of the old joke about the definition of politics -- "poli-" meaning "many" and "tics" meaning "blood sucking creatures". --108.162.219.202 12:31, 20 January 2014 (UTC)
+Or the definition of polygon; "poly" = parrot and "gon" = gone (i.e., deceased). Therefore, "dead parrot" 141.101.99.236 09:55, 21 January 2014 (UTC)
+Why do the lines on the "Theory" graph converge shortly after automation takes over? Surely, the idea behind writing a code in this example is to save time. Therefore, the original task line should remain relatively constant and the automation line should plunge below it, no? Jevicci (talk) 23:03, 23 January 2014 (UTC)
+Once the automation takes over, the programmer will no longer have to do anything, the program will take care of it Raestloz (talk) 00:22, 21 January 2014 (UTC)
+Yes, but I agree with Jevicci's comment and that's what I was going to post. The point of the automation is (in theory) to save effort. After an initial input of lots of work coding, the "automation" line drops to near-zero. That makes sense, but the "regular way" line should continue horizontal like it does in the 2nd graph because if you don't automate, it should continue to take effort. The first chart suggests that even in theory, automation takes more work and the same amount of time as the old fashioned way.
+I think what Randall is trying to say is EITHER that a) programmers will automate for the sake of the challenge or it being less tedious than the basic way even if it doesn't save time. b) programmers will automate even if it doesn't save time because they can use the code next time the problem arises. But I agree, I think the first graph's "regular way" line should have either continued horizontal, or tappered off somewhere after the "automation" line does. TheHYPO (talk) 14:56, 21 January 2014 (UTC)
+As far as I can tell, the line labelled "work on original task" is not meant to represent the amount of work you'd be doing without any automation (which would indeed remain a straight horizontal line), as the "theory" graph doesn't compare two separate scenarios. Rather, it's just there to be a baseline amount of work (programming work being done on top), which diminishes to near-zero as soon as automation takes over. 108.162.231.221 18:28, 21 January 2014 (UTC)
+Yea, in the theory you would continue performing the task while also coding the automation. Once the automation is done, you work on neither the original nor the coding so both drop to zero. In practice, you keep doing the work and never finish the automation, so the coding goes up and the original stays the same. --173.245.48.29 22:20, 21 January 2014 (UTC)
+It makes more sense if you see the lines as' amount of work existing for a task'. The two lines are the given work and work given to self. Top graph: The amount of work for the given task remains constant until you solve the automation (work you gave yourself) at which point both drop as given work is now done and you won't carry on working on the automation anymore, free time. The graph doesn't reach zero as there will always be more you could do (like Richardson's Theory). On the second graph, you never work on the original task, get consumed by automation and end up with far more work than was ever presented (as pointed out, after the rethink) and there is a total increase in the amount of work which exists for you, without actually touching the given work... whether it actually gets done in the end or not doesn't matter as you could stop and the graphs would stay like they are. 141.101.99.248 19:22, 22 January 2014 (UTC) thesuperkev
+Ah, I see now. Didn't realize the two lines represented simultaneous work as opposed to two separate scenarios. Makes sense now. Thanks for the explanation. Jevicci (talk) 23:03, 23 January 2014 (UTC)
+In other words, when automating, NEVER rethink. Greyson (talk) 00:21, 22 January 2014 (UTC)
+And if you really must rethink, at least deploy the program first. -- Hkmaly (talk) 10:17, 22 January 2014 (UTC)
+Today's what if? makes a false-etymology joke similar to the auto+mating one here: sub - under marine - from "mare" meaning "lava field on the moon" or "female horse" 108.162.212.5 21:38, 28 July 2015 (UTC)
+See also the motto of Terence Parr (the "maniac behind ANTLR"): “Why program by hand in five days what you can spend five years of your life automating?”
+Categories: All comicsComics from 2014Comics from JanuaryMonday comicsLine graphsTime managementPuns

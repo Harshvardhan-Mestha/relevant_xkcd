@@ -1,0 +1,54 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1374: Urn
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1374)
+|<< PrevComic #1374 (May 28, 2014)Next >>|
+Urn
+
+Title text: Can this PLEASE be drawing with replacement?
+Explanation[edit]
+A common tool for explaining concepts in elementary probability theory are games involving the drawing of coloured balls from a container, such as a bag, or hat. In older statistics related texts, a convention developed of describing the container as an urn. This is so common that such problems are often called urn problems.
+While an urn can have many uses, in modern times the most common context in which it is used is to contain the burned remains of deceased individuals after a cremation. This is likely because as interior decor has grown more minimalist, other types of urn became less common and the association of the word urn with cremation has become ubiquitous in the vernacular.
+Megan, when asked to imagine drawing balls from an urn, imagines a cremation urn containing not only balls, but also human remains. She may be referring to a real grandfather who has been cremated, or is simply improvising a joke at Cueball's expense.
+The title text refers to two distinct scenarios in the colored ball experiment: The balls may be replaced between each drawing, or not. In the former case, each draw is independent of the previous, in the latter the chances of picking a particular (remaining) ball the next time have increased. Megan (or rather Randall if it is he who speaks in the title text) would prefer to put the ashes back into the urn. She might also want to have her grandfather back, and be playing with the word "replacement".
+The distinction between repeated drawing with and without replacement is used in most presentations of elementary probability because it illustrates a subtle but important theoretical distinction: if the balls are replaced, one at a time, before drawing the next, the number of balls of a certain color has the binomial distribution, but if the balls are not replaced, so that the same ball cannot be drawn twice, you instead get the hypergeometric distribution.
+There are a myriad of reasons why Megan would want to draw with replacement, the most simple of which being that she has nowhere to put ashes other than in their designated urn. Ashes by their nature need a container, or they will make a mess; cremated remains in particular come with the additional requirement that the container be respectful to the deceased.
+Transcript[edit]
+[Cueball is standing in a classroom with Megan at a desk.]
+Cueball: Imagine that you're drawing at random from an urn containing fifteen balls - six red and nine black.
+Megan: OK. I reach in and... ...My grandfather's ashes?!? Oh God!
+Cueball: I... what?
+Megan: Why would you do this to me?!?
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The urn could contain both the ashes and the balls, as the teacher does not use any modifiers like "only". IE: Meg could have imagined these balls being added to an urn are already has knowledge of. It would be nice if the explanation clarified this possibility. 199.27.128.68 10:10, 28 May 2014 (UTC) Adam
+I interpreted the "with replacement" part of the title text as Megan wanting to have her grandfather back.--Buggz (talk) 08:31, 28 May 2014 (UTC)
+I now realize she just wants to put the ashes back, it's so obvious it hurts. #overthinkingit --Buggz (talk) 09:44, 28 May 2014 (UTC)
+The calculation for "with replacement" is substantially shorter (and thus easier and less tedious) than without. 108.162.237.218 09:14, 28 May 2014 (UTC)
+Depends on whether you disregard the order in which the balls are drawn or not. -- Xorg (talk) 10:09, 28 May 2014 (UTC)
+A bot wrote all of these?!--108.162.215.46 09:50, 28 May 2014 (UTC)
+I guess I'll have to remove "understanding xkcd" from my list of working Turing tests then... -- Xorg (talk) 10:09, 28 May 2014 (UTC)
+Maybe I'm off base, but it seems to be a commentary on Trigger Warnings 108.162.219.14 (talk) (please sign your comments with ~~~~)
+Could be. I can see that, with the standard science/math/Randall twist. Only in this case, the content is totally unexpected based on the perceived topic that is to be covered. Unlike possibly expecting racism from a civil war era novel, brutality from an ancient Greek historical account; or peanuts in a can of, peanuts... Jarod997 (talk) 13:23, 28 May 2014 (UTC)
+I'm going throwing in my vote here - I'm well aware of the concept of "trigger warnings," but I don't think this is a reference to them. Is there any actual evidence of this? This seems like a particularly editorial comment, that isn't really backed up by the content of the comic. --Overand (talk) 18:02, 28 May 2014 (UTC)
+I really don't see it --H (talk) 22:44, 28 May 2014 (UTC)
+I'd suggest that Megan could identify her grandfathers ashes by the urn (shape, colour, identification), but there's no clear indication of that in the panel. She clearly recognizes the ashes as her grandfathers after she sticks her hand in. Jarod997 (talk) 13:25, 28 May 2014 (UTC)
+First of all, she's imagining it, so there could be any number of reasons, but I assume that most urns for cremations are mass produced, so she may have just assumed the two urns just looked alike until she felt the ashes. On the other hand, she may just be trolling cueball, as the explanation also suggests. Athang (talk) 02:53, 30 May 2014 (UTC)
+It's funny - as I was re-reading the comments I had posted the other day I suddenly came to the conclusion, "What if Megan was just pretending that there were ashes in the urn?". And then I read your comment. ;) Jarod997 (talk) 12:37, 30 May 2014 (UTC)
+I think the key here is that for some people the word "urn" is a neutral word, while for other people "urn" is only associated with funerals and cremation and the ashes of a loved one. The fact that the title for the drawing is "Urn" could also imply that it is all about the word "urn" and how some people react emotionally to it. --RenniePet (talk) 13:49, 28 May 2014 (UTC)
+It seems very clear to me that this comic is mostly about "trigger warnings". J Milstein (talk) 13:55, 28 May 2014 (UTC)
+Reading the title I firstly thought it would have had a "uniform resource name" joke in... 108.162.219.31 16:48, 28 May 2014 (UTC)
+I find trigger warnings to be ridiculous (thanks in no small part to Tumblr) and unnecessary (why not just call them plain warnings? jeez), but I think the "trigger warning" explanation is really reaching, honestly. I don't find any indications in Randall's comic to suggest this. I think Megan is just trying to play a cruel, cruel prank on Cueball. It's a funny one at that. No need to over-analyze it, IMO.
+Oh, and to the user above Jarod997... thanks a lot for linking that NYT article. Now I have a headache from reading that... Ugh! 108.162.219.42 18:08, 28 May 2014 (UTC)Mudkip3DS
+Hey, I don't necessarily agree with everything in the article (and it was the other user who posted it, but I did read it - and also got the same headache). Blanket warnings that people may trigger psychological problems (hey, let's call them trigger warnings...), I believe is outright dumb in a university setting. Individual requested accommodations is perfectly acceptable. About the comic, I tend to follow the premise that Randall was just playing the math visualisation. Jarod997 (talk) 12:46, 30 May 2014 (UTC)
+I could almost see a school deciding to make it a policy - that's their prerogative... BUT I don't think it should be more than a warning in the syllabus at the beginning of the semester - e.g. "this course may contain source material depicting graphic violence, nudity, and/or X and Y potentially offensive stuff - if you have concerns about potential triggers, consult the professor or school official" or similar that could be added into every single syllabus as boilerplate legal language (possibly customized a teeny bit) - it shouldn't be a significant burden on any individual professor - most of them have a challenging enough job as it is. There has to be a threshold for how fragile someone can be before being certified to go out to contribute to the world - where that threshold lies is moot -- Brettpeirce (talk) 13:23, 2 June 2014 (UTC)
+It may also be related to the recent Django drama about terminology: https://github.com/django/django/pull/2692 --173.245.53.78 18:42, 28 May 2014 (UTC)
+My first thought about "drawing with replacement" was that actual remains were replaced with squirrel, as in recent what-if) 141.101.80.202 (talk) (please sign your comments with ~~~~)
+This what if ;-) Kynde (talk) 04:43, 29 May 2014 (UTC)
+I think the joke is that Cueball was just trying to explain a mathematical concept through imagery, but Megan took it as a deep visualization exercise and let her vivid imagination guide her experience (i.e., "Imagine yourself under a shady tree by a riverbank, perfectly at peace. You notice a person walking toward you. It's the person you want most to see. Who is the person?"). He was about to tell her what would happen next; he didn't mean for her to supply the rest of the experience. --민석 (talk) 23:53, 28 May 2014 (UTC)
+Could the "drawing with replacement" be about that the comic had to be drawn multiple times to get it right? Jeroenp (talk) 20:54, 30 May 2014 (UTC)
+"Drawing" here just means taking a sample and put it back into the urn. It doesn't relate to "painting" a picture. --Dgbrt (talk) 20:28, 2 June 2014 (UTC)
+Why on earth would drawiing with replacement mean that the ashes magically reappear the instant they are removed? It would just mean you put the ashes back in the urn after observing them. I'm going to delete the last paragraph.172.69.42.121 05:09, 17 August 2021 (UTC)
+Categories: All comicsComics from 2014Comics from MayWednesday comicsComics featuring CueballComics featuring MeganMath

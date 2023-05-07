@@ -1,0 +1,59 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1448: Question
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1448)
+|<< PrevComic #1448 (November 17, 2014)Next >>|
+Question
+
+Title text: The universe long dead, IsaAC surveyed the formless chaos. At last, he had arrived at an answer. 'I like you,' he declared to the void, 'but I don't LIKE like you.'
+Explanation[edit]
+The comic is a reference to a short story by Isaac Asimov "The Last Question", where humans kept asking successively more complex computers whether entropy can be reversed, thereby preventing the heat death of the universe. The computers always answered "THERE IS AS YET INSUFFICIENT DATA FOR A MEANINGFUL ANSWER". In the end, the final computer figured out the answer, but there were no humans left to give the answer to.
+The comic depicts a note to “Isaac”, a clear reference to Asimov's name, but possibly depicts what life would have been like for him as a child. The note asks Isaac to identify whether he likes the note-writer by choosing either “yes” or “no”. Isaac is supposed to check an answer and hand the note back, but Isaac (whose pen is red) has written and selected a third answer, "there is as yet insufficient data for a meaningful answer", mirroring the way his computers in the short story responded. Notes of this form are stereotypically written by young schoolchildren to gauge or incite romantic interest. This allows impatient children to get an answer during a class, and timid children to get an answer without having to ask the person face to face.
+Title text is a reference to the ending in “The Last Question”. The unique capitalization of "IsaAC" in this text implies that IsaAC is an acronym for a type of supercomputer named with a similar convention to the computers in "The Last Question". Instead of the computer climactically coming up with the solution on how to save the universe from entropy when all humanity is gone, like in the “The Last Question", IsaAC comes up with the anticlimactic excuse of an answer 'I like you, but I don't LIKE like you'. “LIKE like” is a childish euphemism for romantic interest. In "The Last Question", a character considers a thought that perhaps AC stands for "analog computer", but in reality this was never the case; for example, ENIAC stands for "Electronic Numerical Integrator And Computer" and UNIVAC stands for "UNIVersal Automatic Computer". This title text may also be meant to imply that Isaac Asimov was a supercomputer.
+The original story can be read here.
+Comic 1737: Datacenter Scale also references the short-story in the title text.
+Transcript[edit]
+[A post-it note which reads:]
+Dear Isaac
+Do you like me?
+□ Yes
+□ No
+[Below handwritten in red ink with a checked box:]
+☒ there is as yet insufficient data for a meaningful answer
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+... and I thought the 'LIKE like you' would be a reference to Facebook... Kaa-ching (talk) 08:55, 17 November 2014 (UTC)
+I agree, I definitely think the person making that statement is saying that he doesn't embrace the simplified Facebook universe where you can LIKE someone/something by clicking on a LIKE button. --RenniePet (talk) 09:10, 17 November 2014 (UTC)
+Personally, I think "LIKE like" is just a euphemism for "love". Isaac is trying to express (awkwardly) that although he enjoys the asker's company, his feeling of affinity is much less intense than that of someone who is obviously too nervous to speak with him in person. --Koveras (talk) 09:24, 17 November 2014 (UTC)
+I had a different interpretation again. I thought Isaac was answering that he did like the questioner, but that (presumably as a robot) his interpretation / use of the verb "to like" was different to the (presumably human) questioner's use of the word. --Ab78 (talk) 11:27, 17 November 2014 UTC)
+Something like that I had in mind, too. I interpreted "but I don't LIKE like you" as "but I don't like you as you like (me)" or shorter: "but I don't like _as_ you". In that case "LIKE like" wouldn't be an intensification of "like" (like²) but simply a comparison since the word "like" as such is ambiguous without context and in that case both interpretations would be possible. (To be honest, my first interpretation was "I like you, but I don't like that" - but that would be "but I don't LIKE liking you", wouldn't it? So I discarded that idea.) Elektrizikekswerk (talk) 11:57, 17 November 2014 (UTC)
+"like like" is an example of what linguists call Contrastive focus reduplication. Since the word "like" has several meanings in English the reduplication serves to indicate the most ideal form of "like", i.e. romantic interest. - http://en.wikipedia.org/wiki/Contrastive_focus_reduplication nolandda (no wiki account) 2014.11.17 11:52 (UTC-5)
+It is common for schoolchildren in America to use the phrase "LIKE like" as a euphemism for love as described in the first explanation. I think this was clearly Randall's intended meaning.199.27.133.52 16:55, 17 November 2014 (UTC)
+
+The comic is a reference to "The Last Question" by Isaac Asimov. 173.245.56.150 09:58, 17 November 2014 (UTC)
+I tend to agree with that -- The explaination should reflect that, clearly pinting out who "IsaAC" really are 01:56, 19 November 2014 (UTC)
+
+Some references showing that schoolchildren notes with “do you like me” is an actual thing:
+Google search for "do you like me" yes no
+Do you like me? Check YES or NO – a short blog post reminiscing about these notes
+“Maybe” on FIMFiction – a (fanfiction) story including scenes of notes like this being passed
+– Roryokane (talk) 10:08, 17 November 2014 (UTC)
+Great write-up, thanks guys. Jarod997 (talk) 13:48, 17 November 2014 (UTC)
+I think I'll edit the explanation, in a moment. The real life Univac name represents the words "Universal Automatic Computer", not Analogue. Also it's interesting to note the progression of the fictional computers in Asimov's story (with perhaps a little 'wishful interpretation' based on modern knowledge):
+Multivac (like IRL Univac, but more so; Centralised mainframe archetecture-type typical of the era the story was written in, but writ large)
+Microvac ('Home' computer, within the family space-ship; entertainment system and general 'housekeeping' controller)
+Galactic AC (Telecoms-connected central server; central dial-in Bulletin Board System, etc)
+Universal AC (Virtual internet-based server; run over geographically(/universally) distributed hardware)
+Cosmic AC (Cloud computing?)
+AC (Increasingly a whole universe-worth of 'The Internet Of Things' being used as slave nodes for massively parallel computation)
+...although Asimov (at the time of writing) really wouldn't have been exposed to much more than Univac-era computing paradigms, so beyond that it's more a matter of reading the story so as to match the subsequent facts. 141.101.98.247 13:56, 17 November 2014 (UTC)
+Follow-up, after deciding to check my own knowledge. ENIAC was "Electronic Numerical Integrator And Computer", but pretty much every other '...AC' that mattered is "...Automatic Computer" in full. 141.101.98.247 14:10, 17 November 2014 (UTC)
+Not likely anything, but this also reminds me of the novelty spinoff of Hitchhiker's Guide to the Galaxy by Pink Floyd, _Marvin I Love You_.Seebert (talk) 14:43, 17 November 2014 (UTC)
+The note recipient is IsaAC .... Isaac Asimov maybe? Ask Asimov a question and get an Asimov-ian answer! 188.114.102.45 16:51, 17 November 2014 (UTC)
+From another perspective, I think the comic also refers to pondering to long about whether you like someome until this person or the love is gone or has married somebody else. Sebastian --173.245.49.92 18:14, 17 November 2014 (UTC)
+Yet another possible interpretation is that love is as complex as entropy and its full understanding by a machine would require as much effort. 188.114.98.249 (talk) (please sign your comments with ~~~~)
+I was thinking 'Isaac' might either be a reference to the biblical figure, or, relatedly, to the release of the video game Binding of Isaac: Rebirth last week. It's likely a coincidence, but you never know. -173.245.53.213 10:50, 18 November 2014 (UTC)
+ISAAC THE COMPUTER was the enemy in the Rebelstar computer game (a predecessor of X-COM, very nice game). 141.101.88.211 19:25, 27 November 2014 (UTC)
+Categories: All comicsComics from 2014Comics from NovemberMonday comicsComics with colorRomanceComics with lowercase textComics sharing name

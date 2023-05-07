@@ -1,0 +1,304 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1335: Now
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1335)
+|<< PrevComic #1335 (February 26, 2014)Next >>|
+Now
+Explainxkcd note: The image below is accelerated to show a full day's spin in approximately 10 seconds. The actual comic completes one revolution per day.
+For the current state, see xkcd.com/now
+
+Title text: This image stays roughly in sync with the day (assuming the Earth continues spinning). Shortcut: xkcd.com/now
+Explanation[edit]
+The picture is divided in 24 segments representing the 24 hours of the day. At noon and at midnight the break between segments is indicated by the tip of a dark grey triangle.
+The picture rotates by 3.75 degrees every 15 minutes, as does the Earth, so that it is constantly up to date in showing which regions are currently at which times of day. The picture change seems to happen half-way through a 15-minute time increment (that is, at 7½, 22½, 37½, and 52½ minutes after each hour), so that the picture is always correct for the nearest multiple of 15 minutes.
+The map projection of the earth in the middle of the picture shows an azimuthal equidistant projection with the South Pole in the center. This is unusual, as the projection typically puts the north pole in the center, but necessary in order for it to rotate clockwise. Randall was playing on projections before in 977: Map Projections.
+The list of cities and countries doesn't match the map exactly - notice how the continent of Australia is shifted counterclockwise of the words "most Australian cities". This is because the map is centered relative to the time zones and the local variations therein. The map shows the configuration of time zones with respect to daylight saving time (also known as summer time) at the time of the comic's initial release (February 2014); it was being observed in parts of Australia, New Zealand, Brazil, and other countries not named in this comic. If the map were to stay accurate through the year, the location of place names would have to move over the next few months as parts of the southern hemisphere went off DST and parts of the northern hemisphere went onto it; however, the map failed to change on the morning of March 9 as it should have (to recognize the start of DST in North America).
+In many countries "business hours" are considered to be from 9 am to 5 pm. With some exceptions, including emergencies, it is generally considered rude to place a telephone call to someone's residence during the hours when most people are asleep; Randall portrays this time period as extending from 10 pm to 8 am. This may be a reference to the 10 pm "cutoff" time discussed in an episode of "Curb Your Enthusiasm."
+"Rude to Call" was also the name used by a G-mail experimental opt-in feature in 2009 which added a crossed out phone symbol next to the sender if it was night in the sender's time zone when the reader loaded the email on their screen.
+On midnight at UTC we can see this situation:
+00:00 UTC Greenwich Mean Time
+UK, Portugal
+West Africa
+01:00 UTC Central European Time
+Most of central Europe
+Nigeria, and many more countries belonging to the West Africa Time zone
+02:00 UTC Eastern European Time
+Eastern Europe, many countries like Bulgaria, Romania or Greece
+The Levant
+Egypt
+03:00 UTC UTC+03:00 (East Africa Time, Eastern Europe Forward Time, and Arabia Standard Time)
+Ethiopia, Kenya, Madagascar, Somalia, and more
+Kaliningrad and Belarus
+Iraq, Kuwait, Saudi Arabia, and more.
+Iran is at Iran Standard Time, using an offset of UTC+03:30
+04:00 UTC UTC+04:00
+Moscow Time
+United Arab Emirates, Mauritius, and more
+Afghanistan is at Time in Afghanistan, using an offset of UTC+04:30
+Iran is at Iran Standard Time, using an offset of UTC+03:30
+05:00 UTC UTC+05:00
+Pakistan, Western Australia, Maldives and some France former colonies.
+Afghanistan is at Time in Afghanistan, using an offset of UTC+04:30
+India and Sri Lanka using UTC+05:30
+Nepal is using a much more odd offset at UTC+05:45
+06:00 UTC UTC+06:00
+Bangladesh, Bhutan...
+UK British Indian Ocean Territory
+Russia at Yekaterinburg Time, also Kazakhstan and Kyrgyzstan
+China only use one time zone (+08:00) but Xinjiang and Tibet unofficially use +06:00
+India and Sri Lanka using UTC+05:30
+Nepal is using a much more odd offset at UTC+05:45
+07:00 UTC UTC+07:00
+South-east Asia like Cambodia, Indonesia, Thailand, Vietnam, and more
+Christmas Island belonging to Australia
+Russia is also using the Omsk Time
+08:00 UTC UTC+08:00
+Western Australia
+China uses only one time zone while the country spans about five.
+Singapore
+Philippines
+Perth
+09:00 UTC UTC+09:00
+Japan
+The Koreas
+10:00 UTC UTC+10:00
+Brisbane and the Australian Capital Territory, New South Wales, Queensland, Tasmania and Victoria
+US: Guam and Northern Mariana Islands
+11:00 UTC UTC+11:00
+Micronesia, New Caledonia, Solomon Islands, Vanuatu
+Russia Vladivostok Time
+12:00 UTC UTC+12:00 or UTC−12:00
+Kamchatka (a Russian peninsula at the east Siberia), Kiribati, Marshall Islands, Nauru, Tuvalu and more
+13:00 UTC UTC+13:00 or UTC−11:00
+New Zealand, Kiribati, Tonga
+14:00 UTC UTC+14:00 or UTC−10:00
+Hawaii, Samoa
+French Polynesia, Cook Islands, and more
+Line Islands, belonging to Kiribati
+15:00 UTC UTC−09:00
+Alaska (some islands of Alaska is at -10:00 and a few city's are at -08:00)
+French Polynesia
+16:00 UTC UTC−08:00 or Pacific Time Zone
+US West Coast
+Canada or (British Columbia and Yukon)
+Mexico (Baja California)
+17:00 UTC UTC−07:00 or Mountain Time Zone
+US: Denver, and much more
+Canada: Alberta (Calgary, Edmonton), British Columbia, more
+18:00 UTC UTC−06:00 or Central Time Zone
+Mexico, Chile, Ecuador, Nicaragua and more
+US: Chicago, Texas except of some most westernmost counties, and many more
+19:00 UTC UTC−05:00 or Eastern Time Zone
+Eastern Canada like Ontario or Quebec
+US East Coast including New York and Florida.
+But also Cuba, Haiti, Panama and much more countries
+20:00 UTC UTC−04:00 or Atlantic Time Zone
+Canadian Maritimes: New Brunswick, Prince Edward Island, Nova Scotia. (Newfoundland uses UTC-03:30)
+Chile
+Greenland
+Most of the Caribbean Islands.
+21:00 UTC UTC−03:00
+Coastal Brazil, Argentina, Uruguay, French Guiana, the UK Falkland Islands, and more
+22:00 UTC UTC−02:00
+UK: South Georgia and the South Sandwich Islands
+Brazil: Fernando de Noronha
+23:00 UTC UTC−01:00
+Cape Verde
+Azores (part of Portugal)
+Technical notes[edit]
+When first posted, the picture was exactly 12 hours off. Somewhere around 5:10 UTC, this was fixed. The original version also included a listing for Inland Brazil; this could have created a conflict with US East Coast when Daylight-Saving Time begins in the US, and it has been removed.
+The names used for the image files refer not to UTC (Universal Time) as one might expect but rather to the time exactly 12 hours off of that. The name of the image file linked from the page matched Universal Time during the first few hours, but the file-naming scheme did not change when the comic was corrected.
+Transcript[edit]
+[The comic is a moving circle with a static outer ring.]
+[The outermost part of the static ring is divided in 22 segments representing the 24 hours of the day. The Noon (11 AM - 1 PM) and Midnight (11 PM - 1 AM) segments cover two hours which are not segmented. The ring is divided so it is yellow from 6 AM to 6 PM and dark grey on the other half.]
+Noon - 6 PM - Midnight - 6 AM
+[The innermost part of the static ring is light grey and divided in two sections that cower from 9 AM to 5 PM and from 10 PM to 8 AM respectively. They contain descriptions of the time intervals.]
+Business hours (9-5)
+Rude to call
+[The rest of the image consist of a rotating part.]
+[On the innermost part of the circle is the Earth as seen from the south pole. Each continent has a different color. The colors are
+Europe: Red
+Africa: Cyan
+Asia: Green
+Oceania: Purple
+North America: Blue-violet
+South America: Olive green
+Antarctica (The south pole): Light grey
+[Two segmented rings circle the map - these give the names of the continents (not the Antactica) and the color of the ring match the color of the continent on the map. Each segment cover the part of the map with the given continent. The one with Europe is merged with the one for Asia - and the color also merges from red to green along Turkey and Russia where the transition from Europe to Asia occurs.]
+[On the inner ring are the names of the following continents (white text on a segment with the color of the continent)]
+Africa
+Oceania
+South America
+[On the second of these rings are the names of the following continents (white text on a segment with the color of the continent)]
+Europe Asia
+North America
+[On the outermost ring of the moving circle are written names of regions, countries and cities of the Earth over the part of the map in which time zone they belong. All the text is color coded to match the color of the continent they belong to as given on the central map. The text is written in four lines. Below the names are sorted by color and reading from left to right first - and only sorting top to bottom if needed.]
+[Europe - Red text:]
+UK - Most of Europe - Eastern Europe
+[Africa - Cyan text:]
+West Africa - Nigeria - Egypt - East Africa
+[Asia - Green text:]
+The Levant - Iraq - Iran - Moscow - Afghanistan - Pakistan - India - Southeast Asia - Java - China - Singapore - Philippines - Japan - The Koreas - Kamchatka
+[Oceania - Purple text:]
+Perth - Brisbane - Most Australian cities - New Zealand
+[North America - Blue-violet text:]
+Alaska - US West Coast - Denver - Mexico - Chicago - Texas - Eastern Canada - US East coast - Canadian Maritimes
+[South America - Olive green text:]
+Coastal Brazil
+Implementations[edit]
+There are currently several implementations of the Now comic available for several different platforms:
+Windows[edit]
+A script that automatically updates the wallpaper for the current time.
+Linux[edit]
+A bash script that automatically updates the wallpaper for the current time, written for a Debian system running i3. May work well for other linux distributions as well.
+Android[edit]
+An Android widget version of the comic.
+Web[edit]
+A web-based implementation which also displays time zones. (Not working on 02017-08-16)
+A draggable implementation (click&drag - left and right) (Not working on 02017-08-16)
+Cross-Platform[edit]
+An offline version of the comic made using C++ and SFML.
+Timed Links[edit]
+Links to each individual comic image
+00h 01h 02h 03h 04h 05h
+00h00m
+00h15m
+00h30m
+00h45m 01h00m
+01h15m
+01h30m
+01h45m 02h00m
+02h15m
+02h30m
+02h45m 03h00m
+03h15m
+03h30m
+03h45m 04h00m
+04h15m
+04h30m
+04h45m 05h00m
+05h15m
+05h30m
+05h45m
+06h 07h 08h 09h 10h 11h
+06h00m
+06h15m
+06h30m
+06h45m 07h00m
+07h15m
+07h30m
+07h45m 08h00m
+08h15m
+08h30m
+08h45m 09h00m
+09h15m
+09h30m
+09h45m 10h00m
+10h15m
+10h30m
+10h45m 11h00m
+11h15m
+11h30m
+11h45m
+12h 13h 14h 15h 16h 17h
+12h00m
+12h15m
+12h30m
+12h45m 13h00m
+13h15m
+13h30m
+13h45m 14h00m
+14h15m
+14h30m
+14h45m 15h00m
+15h15m
+15h30m
+15h45m 16h00m
+16h15m
+16h30m
+16h45m 17h00m
+17h15m
+17h30m
+17h45m
+18h 19h 20h 21h 22h 23h
+18h00m
+18h15m
+18h30m
+18h45m 19h00m
+19h15m
+19h30m
+19h45m 20h00m
+20h15m
+20h30m
+20h45m 21h00m
+21h15m
+21h30m
+21h45m 22h00m
+22h15m
+22h30m
+22h45m 23h00m
+23h15m
+23h30m
+23h45m
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Link to comic Link has been fixed. Was pointing to an incorrect url. 14:21, 5 October 2014 (UTC) This doesn't work. Maybe if we added *.xkcd.com/* to the (external) image whitelist or something? 108.162.231.121 07:27, 26 February 2014 (UTC)
+A fine suggestion. I'm probably going to shoot for full archival like we did with time, but this is an ample good solution in the meantime. Davidy²²[talk] 07:30, 26 February 2014 (UTC)
+Hold on, having wee issues, will resolve soon. Davidy²²[talk] 07:37, 26 February 2014 (UTC)
+Here is a scaled animation of every image. The full size version was too big for me to upload. Ti84p (talk) 07:47, 26 February 2014 (UTC)
+(Removed the broken link mentioned here above --Kynde (talk) 21:43, 17 May 2015 (UTC))
+For Australia and New Zealand, at least, the clock shows local time with summer time factored in. I bet that it undergoes some changes in March and April as various jurisdictions go on or off daylight saving. 108.162.249.224 09:20, 26 February 2014 (UTC)
+Good point! I added this to the explanation. —TobyBartels (talk) 13:15, 26 February 2014 (UTC)
+There's also British Summer Time and all the other national seasonal adjustments(1)... could you perhaps de-specify the "move the list of North American cities and regions for Daylight-Saving Time (which is the same thing as Summer Time)" statement to remove the inadvertent US-centrism? Maybe "...of northern-latitudes cities for Daylight-Saving Time or equivalent Summer Time designation"..? (Definitely could be better phrased than I just put, though.)
+(1) Note, they don't even all switch at the same time, necessarily. If Randall is going to change the basic map template (pre-rotation) for any Summer/non-Summer transition, he's probably going to have to do it multiple times each spring/autumn, as various regions jiggle about. 141.101.99.41 13:52, 26 February 2014 (UTC)
+Exactly, they don't all switch at the same time. North America isn't mentioned to be US-centric, it's mentioned because the change happens there first. Sure, we could bring up BST and all the rest, but there's no need to make the discussion longer than necessary. (The original wording also was not US-centric, privileging the non-US term "Summer Time" that's used where it's currently being observed, but somebody changed that.) —TobyBartels (talk) 18:14, 26 February 2014 (UTC)
+I made that change just to use the same title as the Wikipedia page to which we are linking. I don't feel strongly about it. --BlueMoonlet (talk) 18:46, 26 February 2014 (UTC)
+As for the map itself, I think the title text should provide the exact time for the location under the cursor, by doing calculations for the mouseover event and updating the t.t. accordingly. I imagine it is doable for Randall. For accuracy's sake, the Antarctic region could be excluded. 141.101.89.225 12:19, 26 February 2014 (UTC)
+Or maybe someone'll fancy doing it as a userscript. 141.101.89.225 12:23, 26 February 2014 (UTC)
+I made a version that the user can rotate themselves. It only loads a single image. http://c0la.s3.amazonaws.com/xkcd1335.html 173.245.53.182 (talk) (please sign your comments with ~~~~)
+The gif image is very good to understand this comic. However it would be very nice if it rotated a little slower. Instead of one turn every ten seconds it could be one every minute. 173.245.50.84 14:37, 26 February 2014 (UTC)
+When I look a little off-centre, it always seems that South America is about to catch up with Antarctica, but it never does! —TobyBartels (talk) 18:14, 26 February 2014 (UTC)
+He used an Azimuthal equidistant projection?!?!? ;_; Swhouseworth (talk) 16:20, 26 February 2014 (UTC)
+Yeah, should have been equal area! —TobyBartels (talk) 18:14, 26 February 2014 (UTC)
+On the Transcript for this comic the last line erroneously describes the innermost circle as "the Earth as seen from the south pole", when as Swhouseworth correctly points out, this is an Azimuthal equidistant projection centered on the south pole. —Andrewpost (talk) 14:43, 27 February 2014 (UTC)
+Question: If there are 24 Hours in a day, why in the description does it go from hour 0 to hour 21? That's only 22 hours. Where are the other 2 hours? Even if it isn't listed on the comic (I think it's the time zones in the Atlantic between Eastern Brazil and the UK - basically UTC-1hr and UTC-2hr), shouldn't there be spaces in the charts showing those hours? I don't think any of the islands in that region use those time zones (opting instead to use GMT - like Iceland for example), but I think those hours should still be included since they are on the static part of the map. Also, it makes sense to me that the center of the words NOON and MIDNIGHT are edges of segments themselves, making 24 segments in total. Randall just couldn't draw those discrete segments and also easily have the words written for our convenience. --Dangerkeith3000 (talk) 16:46, 26 February 2014 (UTC)
+Every time zone is used somewhere in international waters (well, every one that's a whole number of hours off of Universal Time), so they certainly should all be included. —TobyBartels (talk) 18:14, 26 February 2014 (UTC)
+Added South Georgia as UTC-2 and Cape Verde as UTC-1. According to Wikipedia, coastal Brazil and Greenland are both UTC-2 during the summer, but Brazil just ended summer time last Sunday (Feb. 23), and Greenland won't start until late March. There are approximately no permanently inhabited places that use UTC-2 all year, so I just went with South Georgia because it's historically significant. Fryhole (talk) 20:20, 26 February 2014 (UTC)
+Randall's continent naming scheme is interesting. The most commonly taught model in the U.S. has seven continents, but the purple continent is Australia rather than Oceania. The name Oceania is common in Spanish-speaking countries, but those places generally have a six-continent model with the Americas merged. Is Randall's model standard anywhere? Fryhole (talk) 20:00, 26 February 2014 (UTC)
+FIBA and, before 2006, FIFA. (In 2006 FIFA moved Australia from Oceania to Asia). As a further parallel neither the sporting bodies nor the comic actually mention Antarctica. Note that the comic does not say these are continents. Oceania has some distinct characteristics, so it often shows up as a "region of the world".
+108.162.218.59 19:08, 27 February 2014 (UTC) distinoften shows up as a "region of the world". It has some distinct characteristics, which is why FIFA, FIBA and others treat it as a region. 108.162.218.59 19:08, 27 February 2014 (UTC)
+Kamchatka is probably a reference to 850: https://xkcd.com/850/ 108.162.216.48 20:22, 26 February 2014 (UTC)
+Hey, I'd just like to note that GIMP "Optimize for GIF" reduced the GIF size to 7.1MiB from current 9.3MiB. If I reduced the colours to 32, which still looked "good enough" in my opinion, the GIF was only 3.5MiB. http://m8y.org/tmp/temp.gif (optimize) http://m8y.org/tmp/temp2.gif (optimize + colour reduction)
+It might be worth replacing to improve load times. You might want to make your own since I didn't check frame times or anything, I just ran "index" and "optimize" and then exported 108.162.219.77 (talk) (please sign your comments with ~~~~)
+You are right, but that picture should be less then 1MB. I will do some tests, and if it does work I will talk about this. --Dgbrt (talk) 23:51, 26 February 2014 (UTC)
+m'k - well. Using 20 colours and scaling it down 50% resulted in 1.1MiB... http://m8y.org/tmp/temp3.gif
+I'm now at the time frame at "Rude to call", but nevertheless the PNG files have to be optimized to a GIF, after that an animated GIF should be much smaller. --Dgbrt (talk) 01:03, 27 February 2014 (UTC)
+I'm guessing an indexed APNG could be smaller (due to more efficient compression) than a GIF, but unfortunately I don't thing apngasm is as efficient as GIMP's optimize for gif feature.
+Does anybody know what clock Randall is using? 199.27.128.75EvanJM42
+Randall no doubt knows about the Time Zone Database (http://en.wikipedia.org/wiki/Tz_database) so he may well have coded this page to incorporate seasonal time changes from that database. We'll have to watch what happens. 108.162.219.15 12:59, 27 February 2014 (UTC)
+Any idea of a way of using this image as a wallpaper for OSX in a way that updates every 30 minutes? Yes, n00b question, but I cannot think of an easily implemented solution. 108.162.218.77 (talk) (please sign your comments with ~~~~)
+Hey. I don't know too much about how OSX does wallpapers, but under Linux, the desktop wallpaper will automatically update if the image is modified. This means you could make a simple shell script that copies (or possibly updates a symlink) to wallpaper.png based upon the current time. The file for the copy or symlink could be referenced as... H=$(date -u +%H); M=$(date -u +%M); FILE="${H}h${M}m.png" I use a similar approach for automatically rotating the image in http://m8y.org/images/sandy_1280_1024_stripped.svg in a cronjob using sed. The sed modification of the svg automatically updates the background. With any luck, you can do the same thing in OSX once you've pointed your wallpaper at a location. 173.245.54.56 (talk) (please sign your comments with ~~~~)
+Hello, to the guy asking for a OSX wallpaper, I didn't found a way to do it but I got something pretty close to that. You don't need any scripting skills or anything fancy, just download Geektool[1] from the internet and add an Image Geeklet. In the image URL use the one on the top of this comment section (http://c.xkcd.com/redirect/comic/now) and in the refresh interval select your desired time (I used 900 s roughly 15 minutes, 1800 should work for every 30 minutes). Now, there is a problem but it's beyond my control. The image is not synced with the current time in my country. Just yesterday we changed our clocks because of time savings but apparently the page has not bring forward its clock yet. I don't know who did the awesome job of setting up a page for us to access it but I hope he/she can update it accordingly so we can enjoy an awesome page or if someone else in the community could help. 108.162.221.91 (talk) (please sign your comments with ~~~~)
+Hi, I'm the same guy of the above comment. I just checked and it turns out that the page http://c.xkcd.com/redirect/comic/now is synced with xkcd.com/now. so apparently Randall does not change his clock during daylight saving time (he's a well now hater of it isn't he?). So the clock is going to be 1 hour behind until the next daylight saving time change. As a last note regarding the OSX implementation, it's a online version, I'm not really skilled in programming and I haven't tried an offline version yet but if I manage to get an offline version I'll post it here as well. In other comment I have the implementation for windows and it's also 1 hour behind just FYI. 108.162.221.67 (talk) (please sign your comments with ~~~~)
+Implementations
+Hi, I'm new and a tad confused by how this discussion page editing works, but: I made a time zone converter based on this XKCD comic, over here: http://www.xkcdnow.com - I think it could be fitting to add a link to it somewhere to this article, but I don't wanna come across as spammy, and couldn't find any other explainxkcd articles with an external links section (wikipedia style)... Any thoughts? - wauter
+This is a great site! Maybe we could insert an "Implementations" category into the article. If we do so, I could provide another cool one: https://play.google.com/store/apps/details?id=net.phillab.xkcd_now which is a widget for Android - including tribute to explainxkcd -- 173.245.53.146 16:20, 5 March 2014 (UTC)
+That sounds good to me. The latest release for my version can be found at https://github.com/BruceJohnJennerLawso/xkcd-Now/releases/tag/1.02 on my Github page. By the way, I like your timezones idea, would you mind if I tried to implement that in mine at some point? BruceJohnJennerLawso (talk) 15:29, 6 March 2014 (UTC)
+I would also like the implementation section. If you use a Windows PC, you can use the script found at http://github.com/leipert/xkcd-now-clock to automatically set your Wallpaper to the current status of xkcd now. It also gives you the possibility to add some an digital clock, an analog clock or fix the image to your time zone. leipert 18:02, 6 March 2014 (UTC) 108.162.254.68 (talk) (please sign your comments with ~~~~)
+I would love to see an implementation that updates more than once every 15 minutes. I've been trying to find an application that can take two images, and automatically generate the in-between images, i.e. generate 15 images between 00h00m.png and 00h15m.png 162.158.78.154 14:01, 21 September 2017 (UTC) Henry151
+Spruced up the Implementations section a bit. A quick tip: if you want to make your link work by clicking on the blue text, add a space after the link in the square brackets, & type in the text, ie [link.com This takes you to link.com!!!] -- BruceJohnJennerLawso (talk) (please sign your comments with ~~~~)
+Hi there, I'm Henry151 who made the Linux implementation, I want to make an iPhone app for family and friends, does anybody have any experience with that and want to help me out?
+As the US has now hit Daylight Savings, I think we can assume the comic won't be updating for it. 173.245.50.90 02:54, 10 March 2014 (UTC)
+WEB links
+Who the hell does register an entire domain [2] for only this comic?
+The JavaScript at the other link doesn't work well for me — but who needs this?
+My 0.2 cents. --Dgbrt (talk) 20:57, 10 March 2014 (UTC)
+Moscow time has been wrong on the map for years now. For 2011-2014, including when this comic was published, Russia had essentially permanent DST and Moscow was at 2014 UTC+4. But on 26 October 2014, they ended that and have since been permanently at UTC+3. Moscow should be at the same spot as Iraq, slightly ahead of Iran, instead of behind it. Something to add to the technical notes section, perhaps? 162.158.183.197 15:01, 10 September 2020 (UTC)
+Who made it spin so much faster?! Beanie (talk) 10:23, 17 December 2020 (UTC)
+Timed Links Fix
+I've just condensed the raw link dump into a table, each hour gets its own two cells with a label cell and another cell with the four image links related to that hour inside it. (unable to sign properly, ISP is using IPv4 proxy.)172.69.69.250 02:40, 3 May 2022 (UTC)
+Looks nice. But was a bit too wide. Overflowed the usual page style (at least for me, YMMV). Possibly three row-sets of eight hours would fit, but it was easier (marginally) to trivially splice out into 4x6hr chunkettes and that definitely isn't too wide nor (IMO) too lengthy.
+I hope you approve. (And I'm 'not signing properly' because I've got nothing else to sign with, whoever you are. ;). ) 172.70.162.147 05:21, 3 May 2022 (UTC)
+Categories: All comicsComics from 2014Comics from FebruaryWednesday comicsComics with colorDynamic comicsTime

@@ -1,0 +1,55 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1201: Integration by Parts
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1201)
+|<< PrevComic #1201 (April 19, 2013)Next >>|
+Integration by Parts
+
+Title text: If you can manage to choose u and v such that u = v = x, then the answer is just (1/2)x², which is easy to remember. Oh, and add a '+C' or you'll get yelled at.
+Explanation[edit]
+Integration by parts is an integration strategy that is used to evaluate difficult integrals by trying to find simpler integrals derived from the original. It is commonly a source of confusion or irritation for students when they first learn it, due to the fact that there is really no way to accurately predict the proper u/dv separation just by looking at an integral. Integration by parts requires patience, trial and error, and experience.
+Randall shows a somewhat complicated math problem and, in an attempt to "help", simplifies it into a more compact integral. This is the first part of performing integration by parts, which involves the guessing. Having gotten it into integration by parts format, he then leaves without describing the actual solution. The general integral ∫(u dv) is equal to uv - ∫(v du), and this is the more tedious part of the math and where problems will arise if you picked the wrong u and dv at the beginning. The narrator makes a point of leaving here, so we can't ask for help or complain if the choice of u and dv was wrong.
+The title text points out that if the integral of x can be divided so that u = x and dv = dx and implying v = x, then it leads to the result (1/2)x². This implies the original integral was just ∫x dx, and not needing integration by parts in the first place. Mathematics teachers and extreme math geeks will also cringe at this answer, however, since an indefinite integral requires an integration constant. The correct answer is actually (1/2)x² + C, as Randall hints. The +C symbolizes that an indefinite integral can be shifted by any constant and still gets the same answer on the reverse derivative. Definite integrals specify a range that they're valid on and thus there is no need to add this constant.
+Transcript[edit]
+A Guide to
+Integration by Parts:
+Given a problem of the form:
+∫f(x)g(x)dx=?
+Choose variables u and v such that
+u=f(x)
+dv=g(x)dx
+Now the expression becomes:
+∫udv=?
+Which definitely looks easier.
+Anyway, I gotta run.
+But good luck!
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I think the joke is that's not the full explanation. --128.113.151.84 04:30, 19 April 2013 (UTC)
+Exactly; he omits the final step part of the process: ∫udv= uv - ∫vdu. This is only helpful if you can easily obtain v from ∫dv and can integrate ∫vdu . The key trick is picking u and dv properly; it's rarely as easy as saying u = f(x) and v=g(x)dx. So the joke is that he's treating integration by parts as if it's a "magic rule" on the order of the product rule for differentiation, when it's not. 66.202.132.250 21:10, 19 April 2013 (UTC)
+I think this is it. It's funny because the described conversation happens universally every time someone who's not a full-blown math teacher tries to explain IBP to someone else. You just sort of hit this humiliating brick wall if you haven't comprehensively studied it. I'd also like to point out if u = v = x then dv = dx, f(x) = x, g(x) = 1 and your original integral was just ∫x dx to begin with (you wouldn't need IBP in the first place). Echo Seven (talk) 01:48, 21 April 2013 (UTC)
+Isn't the joke that it's only PART of a guide to integration by parts? Ergo, integration by parts by parts? 108.162.238.134 (talk) (please sign your comments with ~~~~)
+Not the full explanation?But what exactly is the joke here?It takes a lot of practice to be able to do integration sums correctly.Guru-45 (talk) 05:26, 19 April 2013 (UTC)
+I think the joke is rather “which definitely looks easier” — that’s how mathematics is generally perceived by non-mathematicians: You rewrite something, state that it looks easier / more beautiful / more elegant — which the non-mathematician usually perceives differently — and even if it does, you’re not a tad nearer to the answer. --84.191.162.248 08:00, 19 April 2013 (UTC)
+Symbolic integration ALWAYS require experience and trial-and-error, which is flustrating given that the reverse process - derivation - can be described with simple alghorithm and done mechanically. I heart that derivation is easy as geting toothpaste out of tube and integration is reverse process ... meaning its as hard as puting the toothpaste back into tube. The reason is that there is simple rule for derivation of product, whereas integration of product is usually done by GUESSING the product which will derivate into given integral (which is what integration by parts actually is, only reformulated to sound little easier). -- Hkmaly (talk) 09:18, 19 April 2013 (UTC)
+By using the term derivation, you mean it as the same as the term differentiation, correct? I've never used the term derivation before. I like it, it's shorter. If so, YES, integration of products is WAY harder. 'u' substitutions alone are a pain - having a 'v' substitution as well requires a lot of hard work and trial and error... -- Dangerkeith3000 (talk) (please sign your comments with ~~~~)
+Ummm ... the term is shorter but I'm not sure if it's correct, I'm not native english speaker. Wikipedia redirects differentiation to derivative and there is partial derivative, but derivation may have little different meaning in english. What I meant was the process of finding partial derivative (compared to symbolic integration, to have the exact definitions complete ... assuming the wikipedia itself have it correct). -- Hkmaly (talk) 10:46, 1 May 2013 (UTC)
+Oh, and add a '+C' or you'll get yelled at. Best part. This is something I experienced many times in my first semester of mathematics for scientists. The joke seems to me to be the presentation of the idea accurately; after the initial step, there's no real advice to give. Good luck is the best you can hope for. 49.176.36.57 12:37, 19 April 2013 (UTC)
+Cripes, to do something by parts means to do something without enthusiasm or leave something incomplete. The joke is that he didn't complete the explanation! 124.189.64.231
+The title text refers to a ridiculously specific case (integrating x), which would not normally be done using integration by parts. This suggests that the narrator is pretending to know more about integration by parts than he actually does, which would explain why he left in such a hurry. Concomitant (talk) 11:43, 20 April 2013 (UTC)
+"If you can manage to choose u and v such that u = v = x, then ..."
+It seems to me the problem here is in making such a choice. Suppose f(x) = x^2, and g(x) = sin(x). How to split that?
+Not only did he not complete the explanation -- he didn't really start it! All he did was describe how to convert from one of the *notation* systems for differential calculus, to the other. 184.144.110.31 01:08, 22 April 2013 (UTC)
+I think I would prefer the more sophmoric answer of (1/2)x^2 - C. After all the sum of the parts is greater than the whole, correct? 66.88.136.254 19:32, 24 April 2013 (UTC)
+I personally prefer (1/2)x^2 - C^2 because we can use the difference of squares factorization. Alpha (talk) 19:41, 24 April 2013 (UTC)
+Sure, but if you square the (variable) constant, then any result like (1/2)x^2+2 is impossible. Unless you really like complex numbers, of course - but most integration is done for functions which have "real" x. So the variant "(1/2)x^2-C" is "more correct" for the majority of people ;-) 91.89.211.18 (talk) (please sign your comments with ~~~~)
+How about (1/2)x^2 - C^10497 then? --NeatNit (talk) 19:25, 31 January 2014 (UTC)
+as an altruistic individual, for everyone learning integration by parts, please look up both LIATE and tabular integration. You'll thank me later. 99.20.64.64 23:10, 5 May 2013 (UTC)
+Is is ILATE,(as I learned it).Guru-45 (talk) 12:54, 7 July 2013 (UTC)
+I just finished a summer Calculus I course. You have no idea how it felt to actually recognize what Randall was doing for the first time. Wow. NealCruco (talk) 00:18, 8 August 2014 (UTC)
+(u)n (d)ia (v)i (u)n(v)aliente (S)oldado (v)estido (d)e (u)niforme 198.41.226.160 (talk) (please sign your comments with ~~~~)
+My last math class is over by some month, but the latest edit features a notation I do not know or understand, can someone clarify? --Lupo (talk) 11:32, 8 November 2018 (UTC)
+You've learned well. I've removed it by mentioning this reason: "Not helpful, same issue already better explained." --Dgbrt (talk) 22:04, 8 November 2018 (UTC)
+Categories: All comicsComics from 2013Comics from AprilFriday comicsAnalysisSarcasm

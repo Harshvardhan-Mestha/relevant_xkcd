@@ -1,0 +1,68 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1103: Nine
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1103)
+|<< PrevComic #1103 (September 03, 2012)Next >>|
+Nine
+
+Title text: FYI: If you get curious and start trying to calculate the time adjustment function that minimizes the gap between the most-used and least-used digit (for a representative sample of common cook times) without altering any time by more than 10%, and someone asks you what you are doing, it is easier to just lie.
+Explanation[edit]
+Most common cook times are given in either whole, half, or quarter minute increments; e.g., 2:00 min. or 1:30 min, meaning that 1, 2, 3, 4, 5, and 0 are the most used digits on the microwave (because microwave times are usually less than 6 minutes), and to use numbers like 6, 7, 8, or 9, one would have to cook something for that number of minutes. Cueball, however, feels bad for the under-used number '9,' so he microwaves his food for one minute fifty-nine seconds instead of two minutes, as a one-second difference is negligible.
+Also, in Randall's book Thing Explainer, every number from one to ten are in the top thousand most used words except nine, which is labeled "the number after eight", "one more than eight", or (when referring to the Ninth Amendment) "Change After Eight". This shows how the other numbers are used much more than nine.
+The title text is reminiscent of comic 245: Floor Tiles.
+Transcript[edit]
+[Cueball stands at a microwave, which hangs on the wall above the stove.]
+Cueball: How long do you zap these?
+Character off-frame: Two minutes.
+Cueball: Thanks!
+[Buttons being pushed.]
+*Beep* 1
+*Beep* 5
+*Beep* 9
+Cueball: It's ok, nine.
+Cueball: You are not forgotten.
+[Caption below the frame:]
+Ever since I heard the simile "As neglected as the nine button on the microwave." I've found myself adjusting cook times.
+Trivia[edit]
+The disproportionately high frequency of low digits appearing in a random number is a similar concept to Benford's Law, which states that the lower a non-zero digit is, the more likely it will appear as the first (non-zero) digit of a random number; eg, you are far more likely to encounter a number beginning with the digit 1 than a number whose first digit is 9. However, in the case of microwaves, the reason low digits are usually at the beginning of the number is more due to the relatively short times used on microwaves, whereas Benford's Law has to do with logarithmic scale. And in the case of microwaves, 3s and 0s have an increased likelihood of appearing in later digits because times are usually given in units of minutes or half-minutes, and while it is possible to extend Benford's Law to a few digits beyond the first digit, there is certainly no preference for 3 over other digits.
+Taken together, one could probably infer that the amount of time something is cooked in an oven, which is usually longer than things are cooked in a microwave, is more likely to include early digits such as 0, 1, 2, and 3 as opposed to digits such as 7, 8, and 9.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I really find that the hover-over text applies to me more often than not, unless I'm not in mixed company. This reminds me of a time that I was staying with a friend and she walked in on me changing the time on her microwave. When I explained to her that her microwave, stove, and coffee pot were all set to different times and it was bugging me, she just looked at me like I was crazy. --"grate314" (talk) 16:47, 3 September 2012 (UTC)
+I don't think that is what the title text meant. Also, anybody who reads an xkcd comic and remembers that they did that is crazy. --98.221.139.80
+I agree with grate314. I have to fix this every time the power goes out in my house because the stove, microwave, and radio all treat power outages differently. Between different rooms, though, it doesn't bother me. --DanB (talk) 19:04, 3 September 2012 (UTC)
+I know that that isn't specifically what the hover-over text was talking about, but I was thinking of it in a more general way. I've just found that whenever someone asks me what I'm thinking about, it's best to say 'nothing'. What I meant by 'mixed company' is a general social gathering, like a wedding or birthday party. I'm an EE student, so when someone asks me that question at school, I answer honestly. The answer is usually 'soldering'. I think about soldering a lot. Thanks, DanB, the clocks were all on top of each other, btw, I'm not sure how she lived in that chaos.--grate314 (talk) 21:27, 3 September 2012 (UTC)
+Did anybody try doing what the title text is saying? Just wondering. --98.221.139.80
+When I'm not following written instructions, I tend to use multiples of 1:11, out of laziness. So, if I figure something should take about 2-3 minutes, I'll nuke it for 2:22. That way, I can press one button 3 times without having to move my finger. MGK (talk) 17:23, 3 September 2012 (UTC)
+If your microwave is connected to your home network you should accept that GCHQ have probably broken all your codes. I used Google News BEFORE it was clickbait (talk) 20:03, 20 January 2015 (UTC)
+I'm lazy and like to use repeated digits rather than have to move my finger along to find the next one - thus 33, 55, 66 get used a lot. I also find that for most items, longer time at lower power settings is more effective at even heating, so I do a lot of 66 at 50% rather than 33 at 100%. Our current oven only has 10 power settings, unlike a previous one that had two digit power settings resulting in 66 sec at 55% being a fairly commonly used setup. Interestingly, the logic of every microwave oven I have encountered treats 99 entered in the seconds display the same as if one were to have entered 1minute and 33 seconds. Thus 99:99 would be 100 minutes and 33 seconds. J-beda (talk) 17:31, 3 September 2012 (UTC)
+I have never seen a microwave that treats 99 as 1:33. Treating 99 as 1:39, however, is quite common. Why would a microwave run for 93 seconds when 99 is entered? Dansiman (talk) 14:08, 26 August 2020 (UTC)
+Oddly (apparently) my microwave has only 3 buttons (10 minutes, 1 minute, 10 seconds), though I do feel sorry for the 10 minute button.
+Maybe it would make more sense to change the 10 minutes button to a 6 minutes button 212.23.140.110 16:39, 5 September 2012 (UTC)
+I usually just push the "add 30 seconds" button until I reach the desired time (6 pushes for three minutes, 3 for 1:30, etc.). Erenan (talk) 16:06, 4 September 2012 (UTC)
+mine only has a single analogue dial that jumps up in increasingly large steps, and for some reason is numbered to skip over some sensible times, such as six minutes. however, no buttons, so problem solved. 86.15.83.223 22:00, 29 December 2012 (UTC)
+The 9 and 0 button are near each other so I do a lot of 90 (meaning 1 minute, 30 seconds). Sometimes, I'll get lazyer and press 99.
+Quasar unit offers the additional accuracy/simplicity/utility of min 10, 1 and sec 10, 1 There are no other numbers on the control face, which has 14 buttons total. hmm, Minimum number of buttons required to accomplish nuking?--Idkrash (talk) 01:28, 5 September 2012 (UTC)
+For simplicity I would be in favor of 2 dials and 2 buttons. The dials could serve for power and time, which could output to digital displays. The buttons then could serve as start and stop. Pressing start and stop simultaneously would toggle the clock set function and you could use the dials to set the min and hour.----Shine (talk) 10:47, 5 September 2012 (UTC)
+I suspect that sooner or later they'll all just have a power button and a touchscreen. Erenan (talk) 15:15, 5 September 2012 (UTC)
+Agreed that the touchscreen is likely but you could get away with just the two dials by having the time dial start the oven when it is pulled out and stop when pushed in. (#Analog) --DanB (talk) 19:18, 5 September 2012 (UTC)
+My microwave already has a touch screen... we use the 30 second button on it a lot... --Tustin2121 (talk) 16:36, 9 September 2012 (UTC)
+The pushable dial isn't even necessary, have the machine start when the dial is twisted, which then ticks back to zero, and stop when the door is opened 141.101.99.65 14:13, 21 July 2017 (UTC)
+Benfords law pops to mind.
+
+I don't use 20, 30 ,40, because find it easier to just click twice same button: 11, 22, 33, 44, 55, 66, 77, 88, 99 and anything beyond 99 seconds - well, 200 82.71.241.138 (talk) 17:25, 6 December 2012 (UTC) (please sign your comments with ~~~~)
+As a datum-point, my microwave has a (linear, clockwork, with mechanical bell-ding) dial, which is imprecise enough. Also it's a really old one (20 years old? 25? 30?) with a lower power than is common to see mentioned, so I look at the packaging recommendations, see perhaps 650W, 750W and 850W times, or 700W and 800W ones, and then add half again onto the lower rate's required time, and then perhaps a little more for good luck, as the amount I (roughly) twist the dial. I rarely use anything other than 'full'-power, out of the five settings. And I still sometimes need to renuke after testing. I really ought to get a new one. Probably would be more efficient, as well as accurate. ;) 178.98.141.216 13:07, 31 March 2013 (UTC)
+Shockingly, no one has mentioned Cirno from Touhou Project.--67.78.126.46 12:41, 14 October 2013 (UTC)
+Shockingly, noone has mentioned that 159 seconds is closer to 3 minutes that it is to 2. Marklark (talk) 23:03, 29 December 2015 (UTC)
+I think it's a reasonable assumption that a the 1 gets bumped into the minutes column, otherwise all times would have to be entered in seconds or some other untidy interface would be necessary 141.101.99.65 14:13, 21 July 2017 (UTC)
+Template:ping:Marklark has the right assumption, however 141. turns out to be right in fcats, at least in my machine. My microwave will accept an entry like '99', which is seen as 1 minute 39 seconds, but the first digit of a series of three, as in '159' will be interpreted as being minutes, not hundreds of seconds.Yamaplos (talk) 14:09, 24 June 2020 (UTC)
+that being said, I can't approach the microwave without thinking of this so-called comic. Rather a tragic, if you ask me. Likewise, the Roomba is not a pet, but a creature of the wild captured. sigh Yamaplos (talk) 14:09, 24 June 2020 (UTC)
+besides the fact that the assumption in this comic is wrong. Because being used to max out certain options, multiple comments in this thread confirm that, '9' is not the least used digit in a touch button microwave interface, "7' or '8' are, '1' to '6' being options to express cook and reheat, thus used more often. My microwave key pad is actually worn from "1" to "4". This fact, because of the previous comment, requires eternal vigilance so proper non-discriminatory, fair allocation of keypresses are the norm in this household. Fair we is, fair we stay, yay! Yamaplos (talk) 14:09, 24 June 2020 (UTC)
+Am I the only one that uses "99" whenever the instructions say something close to "1 minute 30 seconds"? 108.162.216.49 15:11, 26 February 2016 (UTC)BenDanTomJack
+If the instructions say 1:30, wouldn't 88 be a better choice than 99? A variance of 2 seconds under vs. a variance of 9 seconds over. 173.245.48.105 (talk) (please sign your comments with ~~~~)
+Shockingly, no one has mentioned Pluto. 172.68.10.172 18:12, 21 July 2019 (UTC)
+Who doesn’t use 90 fairly often? A lot of things need to be cooked for 90 seconds. 162.158.214.82 13:58, 25 November 2019 (UTC)
+From a scientific standpoint, we moved into a new house last year which has a well-used (probably 20+ years) Amana Radar-range, so lots of button pushes. The buttons for 1, 2, 3, 5, and 0 are WELL worn with the rest nearly untouched. Cosumel (talk) 07:27, 12 May 2020 (UTC)
+Categories: All comicsComics from 2012Comics from SeptemberMonday comicsComics featuring CueballFood

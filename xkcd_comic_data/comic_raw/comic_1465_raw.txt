@@ -1,0 +1,93 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1465: xkcd Phone 2
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1465)
+|<< PrevComic #1465 (December 26, 2014)Next >>|
+xkcd Phone 2
+
+Title text: Washable, though only once.
+Explanation[edit]
+This is a followup to 1363: xkcd Phone, which debuted the original xkcd phone almost nine months prior to this one. This thus became the second entry in what turned out to become an ongoing xkcd Phone series which parodies common smartphone specs by attributing absurd or useless features to a fictional phone that sounds impressive but would actually be very impractical. The next in the series 1549: xkcd Phone 3 was released just over half a year later.
+Like the previous xkcd phone, the advertisement features a useless tagline (very few people can use two phones at the same time) and touts a variety of features which are either pointless, misleading, or physically impossible. Clockwise, from the top left, they are:
+MaxHD: Over 350 pixels per screen: 350 pixels is not very impressive, as each would be about 0.5×0.5 cm in size, making the resolution hopelessly blocky. Even if it implies 350 pixels along the edge, this is still less than standard definition TV (PAL gives 576 lines of horizontal resolution). Likely a reference to HD+, FullHD, QuadHD and other marketing expressions for screen resolutions, by which common users are often confused. In 732: HDTV Randall has observed that HD is not an especially high resolution when compared with smartphone or computer monitors. This one is even worse by far, but MaxHD sounds similar to FullHD, so it could fool some users into thinking that this is equal or better. Yet any resolution higher than that would also technically be "over 350 pixels per screen", so the statement is either not conveying helpful information or not doing a good job at advertising a product meant to be sold.
+Note: A high pixel density display is more than 200 pixels per inch, not per screen. An example would be the Retina Display in Apple hardware which varies from 218 pixels per inch to 401 pixels per inch depending on the device.
+Always-on Speaker: An always-on microphone is a genuine feature, allowing voice activated intelligent personal assistant software such as Google's "Google Now", Apple's "Siri" or Microsoft's "Cortana" to respond without having to be turned on. An always-on speaker would be less useful especially if it implies the phone is always making noise.
+Blood Pressure reliever: This appears to be where a real phone would have its front facing camera. This could imply that it's a sharp part that you can cut yourself on, thus relieving your blood pressure, or else implying that the other features of the phone are so frustrating that a feature was required to relieve the users' blood pressure. This is likely a play on modern smartphones with built-in heart rate/blood pressure sensors.
+Auto-Rotating Case: Phones often feature an "auto-rotating screen", meaning that the display switches between portrait and landscape mode depending on its orientation with respect to gravity. But the case is a physical part of the phone, so making a case that did not "auto-rotate" with the phone would be the real challenge. This could also refer to a gyroscopic system that would enable the phone to rotate on its own.
+Ribbed: A possible reference to ribbed condoms, which are often advertised as superior to standard ones because the texture can be more physically stimulating to the genitalia. Some other objects can be advertised with the word ribbed as well, but mostly in the context where it allows a firmer grip on the device when wet. Since phones are usually not meant to be used wet, this is a fairly useless feature. May also be a reference to the first phone where the "exterior may be frictionless".
+Waterproof (interior only): Waterproofing is done to the outside to prevent water from getting in. Exactly what "interior only" means is unclear (the case may be porous, or it may prevent water from escaping) but it's clear that the designers have missed the point.
+Googleable: Another non-feature. Advertising as "-able" is a way for marketing to add features, without really adding features. This may be (for example) a recyclable paper bag, when paper is normally recyclable. Any term may be "Googled", so being "Googleable" is not an actual feature. Alternatively, while "Googleable" meaning "being able to be Googled" is a non-feature, the related concept of "being able to Google" is a legitimate feature that a phone may advertise, as in having a Google search app built in. This is also a real feature in the sense that you can type "Google find my phone" into Google if you're logged in and your phone runs on the Android operating system. Google will, in fact, find your phone (to the precision allowed by GPS and assuming it still has power).
+Cheek toucher: The screen will touch your cheek when making a hand-held phone call. Obviously a redundant/pointless feature to advertise.
+Cries if lost: Arguably a useful function, as it would help the owner find the cellphone in case it was lost. This is offset by how annoying it would sound if it happened to cry with a human voice. May refer to people's habit of calling their own cellphones to help find it. It also resembles the first xkcd phone's functions of 'Screaming when falling' and 'Saying hi when exposed to light'.
+Bug drawer: This is most likely the cover for other ports, though it looks like a small drawer, capable of only holding bug-sized items. Possibly a joke on software bugs, which would, being virtual rather than physical, easily fit inside this area. SD cards containing software bugs may also fit in this area. May also be a reference to "Phone may attract/trap insects; this is normal" from the original xkcd Phone comic.
+Coin slot: In most phones, this would be the charging port. Payphones have coin slots, not smartphones. It is unclear what use such a feature would have, or if it implies that the phone either cannot be recharged through this slot as usual or if cash payment is somehow required to charge the phone. This could also allow the phone to be used as a piggy bank.
+Scroll lock: A computer key on most keyboards which is practically never used. This feature seems to be placed where a usual cellphone's "home" button is, which would make it very frustrating. Despite a previous xkcd strip, the Scroll Lock button was not invented by Steven Chu.
+OS by Stackoverflow®: Stack Overflow is a very useful and popular question/answer forum for programmers, and many recent software products probably have benefited from advice given there, so Randall may be giving credit where credit really is due. Or it may be a reference to the rampant problem of code reuse, where programmers use the pre-written code on Stack Overflow rather than writing their own, regardless of the fact that the code on Stack Overflow may contain bugs, not be applicable to the programmer's situation, or otherwise cause problems for their specific program. Alternatively, it could be saying that the OS was written by the people on Stack Overflow who go there with programming issues, implying that the OS was written from code that was posted as not working.
+3D Materials: All real materials are three-dimensional, so this feature is not special. May be a reference to 880: Headache, in which Cueball claims that "3D stuff" (aka the real world) gives him a headache.
+Dog Noticer: Can be interpreted as either alerting the user to nearby dogs, or alerting nearby dogs of the user. The former is very situational, and the latter is probably a negative.
+FitBit® Fitness Evaluator: Fitbit make wristbands that measure heart rate, count user steps, and act as an aid to planning an exercise program. This comic is published on Boxing Day (26 December) 2014 and is relevant as Fitbits are a popular Holiday Gift at this time. However, the name "Fitness Evaluator" suggests that the product merely gives an evaluation on the user's fitness, which may mean that in practice it only criticizes the user's weight, diet etc. Another interpretation is that this monitors the fitness of the user's FitBit, that is, the state of the armband the person is wearing.
+Volume and density control: A pun between volume as in speaker loudness, and volume as in a physical property inversely related to density. Interpreting it as the latter, apparently this feature would allow the user to change the size of the phone (which would indeed be a very useful feature, or a very worrying one), thus changing the volume and the density. It may be able to affect its mass (instead of volume) in some unexplained way. Note that some computer mice indeed have a feature where the user can put weights inside the case to customise the weight and thus actually affect its density.
+Like the previous xkcd phone comic, the title text continues the list of features:
+Washable, though only once.: Nothing prevents the phone from physically being washed, however after the first time doing this the phone will obviously cease to function. A play on phrases "washing machine safe" or "dishwasher safe" in real advertisements.
+Transcript[edit]
+[An image of a smartphone lying down with many labels pointing to different parts of it. Above the screen are several small features, below only a central oval button and on the bottom a central socket and a square feature to the right. Clockwise from the top left the labels read:]
+MaxHD: Over 350 pixels per screen
+Always-on speaker
+Blood pressure reliever
+Auto-rotating case
+Ribbed
+Waterproof
+(interior only)
+Googleable
+Cheek toucher
+Cries if lost
+Bug drawer
+Coin slot
+Scroll lock
+OS by Stackoverflow®
+3D materials
+Dog noticer
+FitBit® fitness evaluator
+Volume and density control
+[Below the phone:]
+Introducing
+The xkcd phone 2
+A phone for your other hand®
+Trivia[edit]
+This comic was also the first of two comics with smartphones as the subject in a row. This comic was followed by 1466: Phone Checking where Megan holds a smart phone, which she incidentally also does the comic after that: 1467: Email.
+Although this is not a Christmas comic it come out the day after Christmas, and the previous comic 1464: Santa was about Santa Claus. This phone could be seen as a possible item that would be on any xkcd fans Christmas wishlist...
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I think the "Waterproof (interior only)" is related to a so-called joke that I first heard from a smart-ass salesman years ago in a camera store when I was considering a certain camera. "Is it waterproof?" I asked. "Oh yes," he replied, "once water gets into it, it will never come out again!" --RenniePet (talk) 08:05, 26 December 2014 (UTC)
+Can you unify the transcription and description? Since the transcript starts from the top left, while description starts from bottom left. 17jiangz1 (talk) 09:43, 26 December 2014 (UTC)
+I have made http://www.xkcd.ga and http://www.xkcd.tk both forward to http://www.explainxkcd.com. Is this ok?17jiangz1 (talk) 08:47, 26 December 2014 (UTC)
+The acronym for Stack Overflow is an anagram for the acronym of Operating System. Nothing huge, but still mildly interesting. -- Jghgjb (talk) (please sign your comments with ~~~~)
+Could the StackOverflow part also hint at StackSort and http://xkcd.com/1185/ ? Pinkishu (talk) 14:58, 26 December 2014 (UTC)
+No. StackOverflow is a really popular site for programmers and such. It's propbably to be expected that it has been mentioned multiple times here. Also, StackSort (or sorting in general) doesn't make much sense in this context. -- 141.101.104.13 23:02, 26 December 2014 (UTC)
+I think they meant that the OS could be built in a manner similar to the StackSort, taking various snippets of phone-os code and putting them together. 108.162.216.69 02:44, 27 December 2014 (UTC)
+OK, that might be possible. -- 141.101.104.11 13:31, 27 December 2014 (UTC)
+Stackoverflow is named after the error in Java that occurs when the Java virtual machine's stack memory is exceeded. This is generally caused by a serious memory leak or an infinite recursion has occurred. Definitely not an attractive feature in an OS. Also, since Android runs using Java on the Davek virtual machine, it does actually throw stack overflow errors on occasion. -- -- Sam (talk) (please sign your comments with ~~~~)
+Stack overflows have existed in computing from the first stack-based machines, which were invented back before the inventors of Java were probably born! OK, small exaggeration - maybe. First date I can see in this Wikipedia article https://en.wikipedia.org/wiki/Stack_machine is 1961. --RenniePet (talk) 13:51, 28 December 2014 (UTC)
+I am thinking the "Fitbit fitness evaluator" is fully meta. That is it is meant to monitor/ asses the digital 'health/fitness' status of your human health/fitness monitoring device. Iggynelix (talk) 18:10, 26 December 2014 (UTC)
+A phone for your other hand®–reads like the phone is capable of being operated by your non-dominant hand, leaving your dominant hand free for–er, other activities... Laverock (talk) 19:02, 26 December 2014 (UTC)
+Such as using the XKCD Phone model 1, of course! (You do have two ears, as well as two hands, don't you?) --RenniePet (talk) 01:27, 27 December 2014 (UTC)
+"Okay Google" is not the name of the virtual assistant, it's the catchphrase that it responds to. Google's version of Siri is called "Google Now." 188.114.106.29 08:03, 27 December 2014 (UTC)
+
+Googleable
+The iPad is not googleable. No, the other one. No, the other one. --108.162.231.28 03:18, 27 December 2014 (UTC)
+3D materials could be a reference to 3D printed materials. Sebastian --108.162.254.152 12:47, 27 December 2014 (UTC)
+
+'3D Materials' could be meant to indicate that the phone is not made out of graphene. 'Density control' could be hooked up to an air compressor, allowing the phone to slightly control its density by compressing/decompressing ambient air, while 'Volume' controls the speaker (a useful thing to have, when it's always on). 'Auto-Rotating case' might indicate that it has some sort of gyroscope or reaction wheel system to allow it to control its orientation. 'Washable, though only once' might mean it has some sort of expendable water-resistant protection or coating (only on the inside, of course) that is worn off after a single washing. 'Over 350 Pixels Per Screen' only sets a lower limit on pixel count. The actual count may be anywhere from 351 to several billion or more, so it may actually be a selling point, although a poorly advertised one. 199.27.128.117 08:46, 28 December 2014 (UTC)
+Also, the 'Ribbed' feature may be a solution to problems caused by the previous hardware's frictionless exterior.199.27.128.117 08:52, 28 December 2014 (UTC)
+Can someone explain or provide a link to an explanation for pokedex in this context. I know what a pokedex is but is this a Randellism for smartphones?--Sww1235 (talk) 07:03, 29 December 2014 (UTC)
+Maybe this helps: 1288 -- 141.101.105.213 20:30, 30 December 2014 (UTC)
+This is still missing an explanation for "A phone for your other hand(R)". Is that a reference to something? (Also, I practically screamed with laughter when I read "OS by StackOverflow". :) 173.245.54.217 16:24, 30 December 2014 (UTC)
+I believe the ribbed part is an upgrade from the first xkcd phone, which were frictionless 141.101.104.101 (talk) (please sign your comments with ~~~~)
+"Volume and density control" might refer to the phrases from the advertisement of the hair styling products. 108.162.238.165 05:26, 3 January 2015 (UTC)
+"Googleable" actually is a legitimate feature of a product. For example, if you have ever worked with the configuration management software "Chef", you'll know that it's notoriously difficult to Google documentation for it because many of its components and related pieces of software follow a naming convention that usually returns results related to actually cooking food (e.g. "Chef", "Knife", "cookbook", etc.). 199.27.128.197 16:54, 20 January 2015 (UTC)
+Do not hike in places where wolves exist, or have been reintroduced. 173.245.50.73 06:37, 1 March 2015 (UTC)
+Edited a bit in the "Cries if lost" section to clarify it a bit, instead of "saying hi when lit" (implying the phone says hi when it's lit on fire) to "saying hi when exposed to light". 173.245.54.45 05:46, 8 February 2016 (UTC)
+Amusing joke attributes of this phone! I especially like "Washable, tho only once". Reminds me of the eleventh maxim of maximally effective merceraries: "11. Everything is air-droppable at least once." and "32. Anything is amphibious if you can get it back out of the water" SirAdrian (talk) 08:49, 13 November 2018 (UTC)
+Categories: All comicsComics from 2014Comics from DecemberFriday comicsxkcd PhonesComics sharing namePunsAnimals

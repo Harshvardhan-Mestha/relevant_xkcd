@@ -1,0 +1,35 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1163: Debugger
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1163)
+|<< PrevComic #1163 (January 21, 2013)Next >>|
+Debugger
+
+Title text: It can take a site a while to figure out that there's a problem with their 'report a bug' form.
+Explanation[edit]
+Cueball mentions to Megan that he can't understand how his mind works, the same mind he uses to understand how things work, and he's not sure if this is a problem. In other words, if he can't understand how his mind works, then how can he tell that it does in fact work and that his perception of reality is accurate? Ordinarily he would use his mind to figure it out, but if his mind really doesn't work, then he'll probably never determine that his mind doesn't work. Not only that, he can't even trust his brain to tell him if his inability to understand his own brain is an issue. Understandably, he's a little unsure of how he should feel about this.
+Per the comic title, a debugger is a piece of software used by programmers to find bugs in the applications they are making. The title is an allusion to that debuggers are very much like our brains in the aspect described above - most programmers don't understand how debuggers internally work, and they can't be sure that debugger is bug-free - if there is a bug in the debugger itself, it can't be accurately used to find bugs.
+The title text alludes to the above problem, in that if a website's "report a bug" page is buggy to a degree that it prevents the actual reporting of a bug, then users cannot use the form to report that the form itself is broken. Thus it can take quite some time before the site administrators realize this error, if they do at all, as unless they test it themselves, the administrators are likely relying on users to report problems they find, which they can't, making it appear as if there are no problems. This is somewhat analogous to the "brain" dilemma in the main comic, where the usual problem-pondering and resolving method itself can have a problem, but there is no straightforward way to tell.
+Transcript[edit]
+[Megan and Cueball are at the top of a grassy hill, rendered in silhouette. Megan is lying down on the grass while Cueball is sitting.]
+Cueball: I don't understand how my brain works.
+[A close-up of the two characters. Megan lifts her head slightly.]
+Cueball: But my brain is what I rely on to understand how things work.
+[The shot zooms out again.]
+Megan: Is that a problem?
+Cueball: I'm not sure how to tell.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Isn't this also a reference to the halting problem? DonGoat (talk) 08:33, 21 January 2013 (UTC)
+It may be, but it isn't an INSTANCE of halting problem. You can understand how something work without being able to predict what exactly it will do. The problem may be also related to the Gödel's incompleteness theorems, which basically states that any nontrivial theory cannot be proven consistent and complete in itself. -- Hkmaly (talk) 09:15, 21 January 2013 (UTC)
+It's also reminiscent of a joke: "I was saying to myself that a brain is truly a wondrous creation with its complexity and power. And then I realized who is saying that to me." -- Edheldil (talk) 10:59, 21 January 2013 (UTC)
+Not sure if it's relevant, but it reminds me of a quote: 'If our brains were simple enough for us to understand them, we'd be so simple that we couldn't' by Ian Stewart. (Yeah, I do know it from Civilization 4.) Lmpk (talk) 20:22, 21 January 2013 (UTC)
+If the "Report a bug" page stopped working, and it was a site with some traffic, it's administrators could find out by noticing there were no more bug reports by users. The lack of bugs reported would point to a bug. Or a great deal of arrogance. -- Martin42 (talk) 05:04, 22 January 2013 (UTC)
+You made a series of assumptions here in your attempt to overthrow the bug analogy - 1. The "Report a bug" page used to work at some point in time; 2. The site had traffic, meaning that the site had previously been online; 3. The users of the site had been consistently using the "Report a bug" page to report bugs (because, you know, I always just leave the site without caring enough to submit a bug report); 4. Someone actually reads the bug reports and does something about them. Judging by how specific your example is, I don't believe you can successfully use that one instance to claim that the analogy does not accurately describe the situation in general. NiccoloM (NiccoloM) 00:34, 23 January 2013 (UTC)
+Also note the title "debugger." Most computer programmers don't understand how a debugger works, but they rely on it to understand how their code works. -- Paul42 (talk) 16:49, 24 January 2013 (UTC)
+Somehow related, an actual problem when people start losing their mental capabilities, typically due to age. Both my parents (age around 80) are starting to have important lapses of judgement, and because they evaluate their behavior with their mind, they refuse to accept any issues in their thought process. As I'm witnessing this, I wonder the same think as the character does: I don't understand how my mind works, I wonder if it's working alright, but I use my mind to evaluate it... 87.238.84.65 14:35, 28 January 2013 (UTC)Guest, 1st time posting.
+I think the comic is called "Debugger" because if there is a bug in debugger, how do you debug it if this debugger is the only debugger you've got? The answer is that there are other computers with their own debuggers walking around and they may, in principle, find a bug in your debugger. This is how science works actually. -- 76.16.124.121 (talk) (please sign your comments with ~~~~)
+Here is the simple truth: "It's working!" (There is no wrong in nature. Everything is true. While a thing exists, it's perfectly fine and it shouldn't be any different. When a thing is not fine, it stops to exist/dies.) 162.158.83.240 (talk) (please sign your comments with ~~~~)
+Categories: All comicsComics from 2013Comics from JanuaryMonday comicsComics featuring CueballComics featuring MeganProgrammingPhilosophy

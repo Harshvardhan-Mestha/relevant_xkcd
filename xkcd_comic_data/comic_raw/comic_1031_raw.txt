@@ -1,0 +1,90 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1031: s/keyboard/leopard/
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1031)
+|<< PrevComic #1031 (March 19, 2012)Next >>|
+s/keyboard/leopard/
+
+Title text: Problem Exists Between Leopard And Chair
+Clicking on the image takes you to this link (now defunct, archive).
+Explanation[edit]
+Randall's browser looks like Google Chrome, and he has installed at least four extensions on it, which explains the little symbols to the right of the address bar. Extensions are small programs that install into your Internet browser and change the Web pages as you view them. Some make pages easier to read, some remove ads (the third extension is AdBlock) and so on.
+For the joke in this comic, an extension accidentally replaces the word "keyboard" with "leopard" in a regex (or regular expression). In computing, a regular expression provides a concise and flexible means to "match" (specify and recognize) patterns in text, such as particular characters or words. The command to substitute/replace a string is "s", e.g. "s/old/new/g" replaces any occurrence of "old" with "new". The title therefore contains the command to change "keyboard" into "leopard".
+It's not clear what the extension Randall installed was actually supposed to do, but most extensions that revolve around text replacement are humorous in nature (such as Cloud to Butt, which replaces all instances of "the cloud" with "my butt").
+The title text references the common IT phrase "Problem Exists Between Keyboard And Chair" or PEBKAC, which means that the problem is caused by the user, not by any failure of the computer. However, due to the substitution, it is now "Problem Exists Between Leopard And Chair".
+There has been several comics using substitutions, both before and after this one.
+Transcript[edit]
+[There are two browser windows open on a computer screen.]
+[The first browser window, taking up most of the screen, but partly blocked by the other window at the bottom, has a Wikipedia article open. The title of the page can be seen on the active tab.]
+Computer leopard - Wikip...
+[Next to the address bar are four add-ons and the toolbar icon. One of the add-ons is a letter:]
+R
+[To the left on the page are standard menus, with lots of unreadable text, except these words:]
+Help
+Go Search
+[The page is not at the top of the article, so the text begins mid sentence, the very top of the letters just cut of in the first visible sentence.]
+which range from pocket-sized leopards to large desktop leopards, the leopard remains the most common user input device. In addition to text entry, specialized leopards are used for computer gaming.
+While many computer interfaces rely on mice or touchscreens, UNIX-style command-line interfaces require users to interact with a leopard.
+[Below is the contents list - the text in the brackets can barely be read. And only the very top of the 2.3 line can be seen, and is thus only a qualified guess at what it was supposed to say, although it fits with the real wiki article.]
+Contents [hide]
+1. History
+2. Leopard types
+2.1 Standard
+2.2 Laptop-sized
+2.3 Thumb-sized
+[To the right there is a picture of a keyboard. The picture text written below:]
+IBM Model M Leopard
+[The second browser window overlapping the first, at the level of the 2.3 menu point in the content menu, is a message board. The title of the page can be seen on the active tab:]
+Discuss - Leopard issu...
+[Next to the address bar are four add-ons and the toolbar icon. One of the add-ons is a letter:]
+R
+[In the window there is a list of topics next to icons of those starting the topic. The top post is just inside the frame, the icon cut of at the very top.]
+[Face of Cueball-like guy on white background:]
+Weird, my leopard just switched to Chinese.
+3 days ago
+[Super close-up of the head of a person with dark hair on black background:]
+I work with one leopard on my desk and another in the leopard tray.
+3 days ago
+[Full picture of a Cueball-like guy, with white background in the bottom half and dark in the upper half (which would conceal any hair on the persons head):]
+Ever cleaned a leopard? They're filthy.
+2 days ago
+[Head of a cat on black background:]
+The iPhone virtual leopard is the fastest IMO.
+19 hours ago
+[Head of a girl with long blond hair on white background:]
+I rarely email from my phone—I'm so slow when I'm not on a leopard.
+11 hours ago
+[Head of Cueball-like guy. A line seems to be going our from his head, but it could just be one of the lines used to fill in the background:]
+My leopard died when I spilled tea on it :(
+2 hours ago
+[Below the main panel of the comic is the following caption:]
+The Internet got 100 times better when, thanks to an extension with a typo'd regex, my browser started replacing the word "keyboard" with "leopard".
+Trivia[edit]
+When first posted, the title was written with lowercase characters, which Randall never uses. This was later changed to small caps.
+The title text could reference A-Minus-Minus, the comic containing the phrase "Instead of office chair, package contained bobcat".
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+My mechanical leopard's been working out for me, just the feeling of my fingers hitting it is amazing. Davidy22[talk] 08:35, 21 January 2013 (UTC)
+Why does it say "s/keyboard/leopard/" in the url of this page, but title of this comic is "s/leopard/leopard/"?DiEvAl (talk) 17:57, 15 April 2013 (UTC)
+Now I see "s/leopard/leopard/" twice in my previous comment. I forgot that I have an extension installed that was inspired by this comic. :) DiEvAl (talk) 18:00, 15 April 2013 (UTC)
+I swear I read every instance of leopard as keyboard. 173.245.54.89 23:33, 14 November 2013 (UTC)
+Shouldn't the title of the comic end in "g" since it's a global replace, like "s/keyboard/leopard/g"? Kroq-gar78 (talk) 18:56, 23 November 2013 (UTC)
+I have no idea, but I do know that the current title matches the one on xkcd. We're not changing it, even if there was an error. NealCruco (talk) 03:50, 19 February 2014 (UTC)
+I just bought my new leopard today! It's working great, but it's a bit hard to use. Is there such a thing as a leopard-repair shop? 108.162.219.47 21:03, 3 March 2014 (UTC)
+some[1] leopards even have touch screens108.162.216.45 05:58, 8 March 2014 (UTC)
+You sure it's not a sed command? Regexps just matches! 108.162.215.97 13:44, 8 September 2014 (UTC)
+actually, it's an ed command.Taibhse (talk) 12:10, 12 February 2015 (UTC)
+If the first user's leopard now produces language in Chinese, why is the message in English? 108.162.250.155 (talk) (please sign your comments with ~~~~)
+This is more like a joke to me (as a Chinese) because there isn't a real Chinese leopard as far as I'm concerned... Chinese characters are usually typed using an IME and a standard English leopard. We type in the pronunciation romanized and select from a list of characters with the same pronunciation. 162.158.255.164 03:28, 18 December 2020 (UTC)
+The first add-on looks like google translate. 108.162.222.159 (talk) (please sign your comments with ~~~~)
+KEYBOARD. 108.162.250.162 06:58, 12 August 2015 (UTC)
+I have an extension that does quite this, so I have no idea who is actually saying "leopard". Cody Hackins (talk) 01:37, 9 March 2016 (UTC)
+Everyone except the person right above you (in allcaps) is just saying leopard. Here. Does this work? K E Y B O A R D?108.162.245.115 21:55, 3 June 2016 (UTC)
+The first extension is Translate; the third is Wolfram|Alpha. Papayaman1000 (talk) 07:15, 5 June 2016 (UTC)
+As far as I know, 's/old/new/' only replaces the first instance of 'old' with 'new'. One would gace to use the g flag after the last slash to enable replacement of all instances of 'old' 141.101.91.223 23:42, 28 June 2016 (UTC)
+My leopard doesn't seems to be working well since I didn't insert my leopard's USB port into my computer.Boeing-787lover 14:03, 22 November 2017 (UTC)
+Can anyone think of a regex replacement someone might want to do that would be reasonably typo'd into s/keyboard/leopard/g? It's been bugging me since the comic came out. Undergroundmonorail (talk) 19:01, 21 July 2019 (UTC)
+No speculation on Leopard being a reference to the Apple codename? 108.162.238.161 15:28, 15 September 2019 (UTC)
+Categories: All comicsComics from 2012Comics from MarchMonday comicsSubstitutionsComics featuring CueballMultiple CueballsWikipediaInternetLanguageAnimalsRegex

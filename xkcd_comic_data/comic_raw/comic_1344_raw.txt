@@ -1,0 +1,47 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1344: Digits
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1344)
+|<< PrevComic #1344 (March 19, 2014)Next >>|
+Digits
+
+Title text: It's taken me 20 years to get over skyline tetris.
+Explanation[edit]
+2048 is a popular browser-based game in which players must move tiles in a 4 by 4 grid with numbers on them. When two tiles of the same number touch they can be merged into one tile with a value of the two tiles combined. So when two 4-tiles touch and are merged they form one 8-tile. The player can move the tiles by pressing an arrow key (or swiping in a direction on the mobile version), which will move all the tiles in that direction. Every time the player makes such a move another tile will appear on a random cell. The goal of the game is to get a tile with the number 2048.
+In the comic the room number can be seen as 4 tiles with the values 8, 2, 2 and 4. If these occur in the game the player can merge the two 2-tiles into one 4-tile. This will then cause two 4-tiles to lie next to each other, so these can be merged into one 8-tile. Finally, the two 8-tiles can be merged into one 16-tile.
+This can be done in the opposite direction as well.
+The title text refers to Tetris effect, which takes its name from the game Tetris. People who play Tetris for extended periods tend to imagine real-life objects (like skylines) as Tetris landscapes and pieces. Randall, as many others, apparently got hooked on Tetris so much when it came out that, for 20 years, he would look at city skylines and see Tetris-like patterns in it. Similarly, he has now been hooked onto 2048 and notices number patterns that would be desirable to obtain during the game.
+Transcript[edit]
+[A guy is walking and Cueball is following him.]
+Guy: The talk is in room 8224.
+Cueball: Ooh, nice.
+Guy: What?
+Cueball: ...Sorry. Nothing.
+Great, now I'll spend the rest of my life noticing numbers that would make good 2048 combos.
+Trivia[edit]
+Comics 724: Hell and 888: Heaven also refer to Tetris.
+There is another game named Fe[26] that simulates fusion in a star to create elements, as described in 1123: The Universal Label. It is "Created by Dimitar Dimitrov and Kevin O'Connor for ASTR-1960@RPI. Based on 2048 by Gabriele Cirulli. Based on 1024 by Veewo Studio and conceptually similar to Threes by Asher Vollmer."
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+If you want a multiplayer version of the game, go to 2048.mx. (No one ever shows up and it's lonely here.)
+ImVeryAngryItsNotButter (talk) 16:54, 19 March 2014 (UTC)
+We've been tricked, we've been backstabbed and we've quite possible been bamboozled. Beanie talk 11:24, 17 June 2021 (UTC)
+Interestingly, the comic number is 1344, and the 2 4-tiles can be combined to give an 8-tile 108.162.225.141 (talk) (please sign your comments with ~~~~)
+The title text... I guess that's just seeing how regular Tetris would play out on a cityscape? And not a special version of Tetris that used building looking pieces (I guess regular Tetris doesn't look very city-ish to me) Kirkjerk (talk) 11:42, 19 March 2014 (UTC)
+http://shirt.woot.com/derby/entry/2869/chicago-skyline-tetris-redux 173.245.50.84 12:42, 19 March 2014 (UTC)
+I thought it was about looking at real life objects and mentally fitting them together. Then I visited the Wikipedia link provided here and I was right! I won't change the explanation because I'm the first one to expose this in the comments. 108.162.219.125 02:55, 4 March 2015 (UTC)
+8224 is also (16*16*32)+32 and was a common number to see as a programming error on PDP11's in the 1980's when a (16 bit) integer of zero was stored as two spaces (ascii=32) rather than two nulls (ascii=0) 141.101.70.205 (talk) (please sign your comments with ~~~~)
+Dammit, thanks to this comic, I found out this game exists. Now I can't stop playing it! Thanks a lot, Randall! 173.245.56.66 12:08, 21 March 2014 (UTC)
+Same here, though thanks to this comic I also discovered explainxkcd. I have since stopped playing 2048.
+Redbelly98 (talk) 20:49, 15 July 2018 (UTC)
+Whatever that site http://gabrielecirulli.github.io/2048/ is supposed to do, it doesn't do it on my Linux/Firefox setup. The multiplayer one at http://2048.mx/ does, thank you. PS the plurals of PDP11 and 1980 are PDP11s and 1980s. 141.101.70.199 10:48, 22 March 2014 (UTC)
+Shouldn't the plural of PDP-11 be PDPs-11? 141.101.70.37 17:58, 24 March 2014 (UTC)
+No...that's not a word any more than "Xboxs 360" or "PlayStations 4". The "-11" bit is part of the name. NealCruco (talk) 21:28, 25 April 2014 (UTC)
+Yeah, the game only seems to run on Chrome, in my experience. Another interesting link: http://ov3y.github.io/2048-AI/ --Rakiru (talk) 15:45, 22 March 2014 (UTC)
+2048 is so close to the weird Hong Kong film about a hotel room two integers lower and the digits evoke the end of freedom in HK (though the preview is so surreal that I can't tell if there is any future in the film or not) But the handover happened in '97 didn't it? This is kindof like naming a movie with 9/11 implications "August 2001" 108.162.219.34 03:05, 25 March 2014 (UTC)
+I started seeing 2048 games whenever I closed my eyes. That was scary... 108.162.212.27 18:31, 26 March 2014 (UTC)
+I started seeing porn whenever I closed my eyes. Then I joined the Fapstronauts! 108.162.212.48 18:52, 6 June 2014 (UTC)
+Why did you post that Beanie talk 11:20, 17 June 2021 (UTC)
+Categories: All comicsComics from 2014Comics from MarchWednesday comicsComics featuring CueballVideo gamesMathMultiple Cueballs

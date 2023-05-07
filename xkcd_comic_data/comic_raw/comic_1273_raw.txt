@@ -1,0 +1,75 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1273: Tall Infographics
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1273)
+|<< PrevComic #1273 (October 4, 2013)Next >>|
+Tall Infographics
+
+Title text: 'Big Data' doesn't just mean increasing the font size.
+Explanation[edit]
+This comic is a satirical infographic, which is usually used to simplify and help visualize information that would be dreadfully boring otherwise. Randall takes this "simplification" to the extreme by making an unhelpful infographic, complete with unnecessary data and ironic and blatant misuse of common graphs and charts. At this point, he is not even simplifying his sentence "By the year 2019, all information will be communicated in this clear and concise format." He makes a sarcastic claim, pointing out how needlessly complicated some infographics make things they are supposed to condense.
+In the chart:
+The number 2019 is huge and placed between the numbers 2018 and 2020, which is bordering on extraneous considering that the fact that 2019 precedes 2020 and succeeds 2018 is blindingly obvious.
+The graph of information represented by this format is extrapolated off of and intersects with 100% at 2019. This is a running joke on xkcd and is ridiculous for multiple reasons, as shown in 605: Extrapolating and 1007: Sustainable, for example.
+The word "information" has the letters "info" highlighted differently for the typical abbreviation despite the text splitting after the "r", a rather silly graphical styling.
+A pie chart, with one part labeled "will" and one part labeled "be", which is completely nonsensical as pie charts show the proportional relationship of parts of a whole (for instance, people up to 30 years old and over 30 years old in a human population), and "will" and "be" are merely words and the chart isn't showing their proportional representation in a population.
+"6 years from now" is more blindingly obvious fact at the time (2013).
+"72 months" is an unneeded and obvious conversion from six years; it is also false precision as 2019 (January 1) arrives 63 months from the comic date. The word "months" is also split across two lines, mid-syllable.
+A corny illustration of Megan telling Hairy the word "communicated" and Hairy enthusiastically responding "Yes!", despite the absurdity of the situation.
+The word "this" in huge font, and the word "in" with a bracket, taking up an inordinate amount of space.
+A Venn diagram. As anyone who has seen a Venn diagram knows, the two circles are two concepts or qualities, and objects or concepts that fit inside the circles go within. The words "clear and concise" plastered across the Venn diagram have absolutely nothing to do with Venn diagrams, and are ludicrously inappropriate for this jumbled and overblown presentation, but the word "AND" is in the intersection of the two circles, which is meta-humorous.
+In the lowermost bar graph, the bar height shows the alphabetic position of each letter of the word FORMAT (the bar labeled "F" has a height of 6, the "O" bar has a height of 15, etc.), with T highlighted because it is the highest.
+It is also likely that this comic is a send up of the recent trend towards presenting information in tall graphics that are easily viewed on smartphone screens. A tall graphic with the same pixel width as an iPhone, for example, can be viewed without zooming and using only vertical scrolling. Another discussion venue for the topic and this comic is Gizmodo: Tall Infographics Suck.
+The prediction communicated in the comic did not actually happen by the year 2019. Alternatively, it did happen but was reversed so quickly nobody noticed it happened.
+The title text mentions the often-hyped term "big data." "Big data" normally refers to the challenges of working with and visualizing a quantity of data which is hard to process using traditional tools and methods. Randall, now speaking unsarcastically, tells us that just because the font size is huge doesn't mean you have handled the big data well.
+Transcript[edit]
+BY THE YEAR
+2018 2019 2020
+ALL INFORmation
+[Graph representing all information.]
+[X axis of graph: 6 YEARS from now (72 months)]
+WILL BE [in two segments of a pie chart]
+Megan: COMMUNICATED
+Hairy: Yes!
+in THIS
+CLEAR and CONCISE [in a Venn diagram]
+F O R M A T [on the x axis of a bar graph of where these letters fall in the alphabet (the bar labeled T is shaded with a different color)]
+[Arrow pointing to the bar labeled "T": T]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+From 2019 here! I just found this comic and I am shook!
+Still nothing.
+I'm not really sure how to transcribe an infographic... Sorry. Saibot84 04:17, 4 October 2013 (UTC)
+I tried to expand on it a bit, sorry if it's not the best. ollien 04:20, 4 October 2013 (UTC)
+For anyone wondering if the "FORMAT" frequency graph is self-referential to the entire comic... no, or at least not on actual explicit instances of the letters (certainly nowhere near 26 Ts, and even proportionally the As are vastly the most frequent and Fs the actual least, the rest almost identical), but I wouldn't put it past Randall having taken into account cummulative font-size, or something like that. 178.98.253.80 07:23, 4 October 2013 (UTC)
+It's by position in the alphabet (F=6, O=15, R=18, M=13, A=1, T=20). 67.183.134.13 07:38, 4 October 2013 (UTC)
+Gah, I'm an idiot. The "26" should have clued me in. 178.98.253.80 17:20, 4 October 2013 (UTC)
+It's a reference to cellphone screen aspect ratios!121.74.169.237 10:48, 4 October 2013 (UTC)
+I think this comic might be inspired by that infographic which was recently published regarding an attack against a botnet. (At least that was my first association - and I, too, found that graphic a little unsuitable when I saw it in the news) -- Xorg (talk) 12:42, 4 October 2013 (UTC)
+Search for "infographics" at google images and you will find thousands other examples.--Dgbrt (talk) 12:50, 4 October 2013 (UTC)
+I think there is more to the explanation: Big Data mostly will be analyzed statistically, so we will get diverse diagrams and infographics as result. The trend will be an increase in the number of cases where informationen is presented in this way. Sebastian --178.26.98.211 14:23, 4 October 2013 (UTC)
+Note that Big Data is used nowadays as a buzzword, even if you don't have that much data. Remember: if your data cannot be processed by Excel, it isn't big. --JakubNarebski (talk) 14:47, 4 October 2013 (UTC)
+More accurately: Just because your data cannot be processed by Excel, that doesn't make it big.--108.162.216.21 13:16, 13 December 2013 (UTC)
+I read the Venn diagram to mean that data would be either clear OR concise, if you took it literally.75.120.198.118 08:38, 6 October 2013 (UTC)gonzo
+I don't think that's quite right. The Venn diagram is intended to be just as superfluously self evident as the other graphics. The set of all things "Clear" intersects with the set of all things "Concise" in the region "And".
+111.69.237.202 09:06, 7 October 2013 (UTC)
+it's a Venn diagram? D'Oh! Of course it's a Venn diagram. I thought it was the Mastercard logo! 141.101.104.71 19:33, 5 November 2018 (UTC)
+I think you mean "if your data can be processed by Excel, it isn't big". 121.74.169.237 00:07, 5 October 2013 (UTC)
+Or maybe "if your data cannot be processed by Excel, it isn't necessarily big." Because it might really be big - you wouldn't know. 121.74.169.237 00:21, 5 October 2013 (UTC)
+Another take on infographics: http://www.jwz.org/blog/2011/05/how-to-make-a-shitty-infographic/ --JakubNarebski (talk) 15:40, 4 October 2013 (UTC)
+"In the pie chart, the areas represent the proportion of letters in each word." - this isn't right; the area for "will" is three times the size of the area for "be". It could be comparing the number of consonants in each word. 86.128.6.174 (talk) (please sign your comments with ~~~~)
+"will" and "be" are both forms of the verb "to be". "Be" is therefore merely the infinitive, while "will" is both a conjugated form (3rd person singular) and in the future tense. Therefore "will" has three levels of meaning to "be"'s one... ;) 108.162.229.122 12:49, 22 August 2014 (UTC)
+Could the part where Megan is saying "Communicated" to Hairy and Hairy responds with an enthusiastic "Yes!" possibly be a reference to some other infographics about preventing sexual assault by making sure to have consent first? I remember seeing a lot of those around my high school and college, so I could just be assuming this based off my surroundings and whatnot. 173.245.54.45 07:14, 5 February 2016 (UTC)
+I make infographics, myself, and recently have given up and switched from using square, 4:3, or 16:9 to using 3:4 (making the image taller than wide) to deal with the fact that a snowballing proportion of my hypothetical audience is viewing the image on their phone, and can't even easily resize a wide graphic to see the whole thing comfortably...and that the ones who see it on the computer have far greater ability to view an image regardless of its aspect ratio.
+/me sighs — Kazvorpal (talk) 15:30, 16 December 2016 (UTC)
+Did the smartphones in 2016 not have auto-rotate? -- The Cat Lady (talk) 14:35, 15 October 2021 (UTC)
+Fortunately, this, like that whole weird thing with the Mayans, is another doomsday prophecy that did not come to pass. 162.158.75.178 02:09, 18 January 2019 (UTC)
+This is a travesty, we must change wiki to be infographic only Netherin5 (talk) 18:05, 13 March 2019 (UTC)
+Its 2019...--Realqwerty64 (talk) 17:32, 13 March 2019 (UTC)
+Comments at the bottom. Netherin5 (talk) 18:05, 13 March 2019 (UTC)
+Wait, what if “72 months” wasn’t actually false precision? Do we only have 14 days left? – Unnameduser17 (talk) 13:30, 20 September 2019 (UTC)
+Unless something bad happens in the next 4 hours (depending on what country you're in) then no. 162.158.158.127 20:18, 3 October 2019 (UTC)
+Sometrhing bad didn’t happen...thenRereading xkcd (talk) 03:27, 7 April 2020 (UTC)
+Categories: All comicsComics from 2013Comics from OctoberFriday comicsComics with colorComics featuring MeganComics featuring HairyExtrapolationLine graphsVenn diagramsBar chartsPie charts

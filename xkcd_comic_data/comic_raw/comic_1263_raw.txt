@@ -1,0 +1,57 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1263: Reassuring
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1263)
+|<< PrevComic #1263 (September 11, 2013)Next >>|
+Reassuring
+
+Title text: 'At least humans are better at quietly amusing ourselves, oblivious to our pending obsolescence' thought the human, as a nearby Dell Inspiron contentedly displayed the same bouncing geometric shape screensaver it had been running for years.
+Explanation[edit]
+Go is an abstract strategy board game considered computationally difficult, compared to chess. Because of the size and number of possible combinations, computers don't have an easy way to exhaustively search for the best move. Still, they are getting better and better playing it. Megan suggests that computers may soon reach the level of being able to beat the best human players, an artificial intelligence milestone that has already been accomplished with other games. At the time of this comic, Go was one of the last games where a computer can still be beaten by top humans (see 1002: Game AIs). However, in May 2017, Google's AI AlphaGo defeated the world's top human Go player. This was referenced three months later in 1875: Computers vs Humans.
+As a common human response, Cueball attempts to offer the consolation or defensive statement that humans remain better than computers at something else (see also 894: Progeny). In this case, the first thing he thinks of is that humans are better at making such consoling statements. However, Megan disproves Cueball's statement by creating a script in the Python programming language to create an abundant supply of such statements. An irony here is that each of the statements the computer generates defends humans, not computers.
+Another such statement is made in the title text, that humans are better at quietly amusing themselves, oblivious to our "pending obsolescence" - which may refer alternatively to our inevitable deaths, or to the comic's own topic of our being replaced and surpassed by computers. The title text then again suggests, however, that the human statement is not true, referring to an Inspiron model of Dell computer which "quietly amuses itself" by showing a geometric screensaver as it presumably one day will be obsolete and replaced by a newer computer.
+The original purpose of screensaver programs was to prevent images or characters from being burned into the phosphor layer of the older CRT displays. In more modern displays, including newer CRTs (cca mid-90s or newer), this could be achieved by simply turning it off after some period of time but originally there was no way to turn the display off programmatically. Thus the screensaver itself is already obsolete.
+In 2022, Gwern Branwen used GPT-3 to generate reassuring parables.
+Transcript[edit]
+[Megan is sitting at a computer, and Cueball is standing behind her.]
+Megan: Looks like computers will beat humans at Go pretty soon.
+Cueball: Wow.
+Cueball: That's the last of the big ones.
+Megan: Yeah.
+[Megan looks back over her shoulder at him.]
+Cueball: Well, at least humans are still better at, uh,
+Cueball: coming up with reassuring parables about things humans are better at?
+Megan: Hmm.
+[Megan types on her computer.]
+type type
+[She leans back over her chair again and addresses Cueball.]
+Megan: I made a Python script that generates thousands of reassuring parables per second.
+Cueball: Dammit.
+Computer: Computers will never understand a sonnet computers will never enjoy a salad comp—
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Does anyone know of any specific Go program/progress this comic is referring to? Nothing on Slashdot prior to the comic, so unless it's just looking forward I don't know of any current events it's referring to. 192.55.54.36 (talk) (please sign your comments with ~~~~)
+No specific program that can compete with Dan players yet. But when the problem was started in the 80s, computers couldn't even agree the game was over without giving up a good sum of points. 10 years ago, the best supercomputer was outclassed by a trainee. But now, all the current algorithms can match a decent player. The Deep Blue of Go will probably come within 5 years.96.251.85.48 18:12, 11 September 2013 (UTC)
+
+Panel 2 seems to be set up as a reference to 894: Progeny. 100.40.49.22 07:01, 11 September 2013 (UTC)
+It seems that there's been progress since 1002: Game AIs 188.221.199.135 09:06, 11 September 2013 (UTC)
+I am reminded of Isaac Asimov's comment: "It always amuses me to hear some perfectly ordinary human being say that a computer 'can't compose a symphony', as though he himself could." SteveMB (talk) 10:25, 11 September 2013 (UTC)
+The tooltip text is a reminder that PCs become to be obsolete as well, I think. 217.31.207.1 11:33, 11 September 2013 (UTC)
+Is the Dell Inspiron supposed to be quietly amusing humans, which it might be, or itself? I don't think it can be amusing itself. Jb (talk) 15:44, 11 September 2013 (UTC)
+I think that the screensaver thing is in itself a reference to futility, as screensavers are getting more obsolete with every flatscreen there is - although people are still using them to no avail. 213.55.184.130 16:02, 11 September 2013 (UTC)
+Screensavers are more of a security tool now, as they can be set up to require login credentials to resume work. Gardnertoo (talk) 16:49, 11 September 2013 (UTC)
+What is that truncated word supposed to be after salad? Salad compost? Salad component? You don't win friends with salad compared to a BBBQ? 128.49.161.70 20:33, 11 September 2013 (UTC)
+I think it's "computers," beginning the next reassuring expression. 69.245.155.187 01:16, 12 September 2013 (UTC)
+It’s shurely no coincidence that megan makes a python script: http://xkcd.com/353/ --84.191.162.233 09:15, 12 September 2013 (UTC)
+Haha. https://www.khanacademy.org/cs/sentence-generator/2038602492 203.188.230.100 10:38, 15 September 2013 (UTC)
+http://chessprogramming.wikispaces.com/Shih-Chieh+Huang 82.15.102.182 (talk) (please sign your comments with ~~~~)
+Actually, the screen saver being obsolete is not true. I have an LCD monitor here that has a faint, but still distinctly visible Windows XP taskbar with a very blurry clock when displaying black. See: https://en.wikipedia.org/wiki/Image_persistence Lennartgoosens (talk) 22:57, 5 October 2013 (UTC)
+You can simply set a timeout for the display to turn off to avoid this (the same timeout as you would set for a screensaver). I have clarified that in the explanation. STEN (talk) 01:06, 4 November 2013 (UTC)
+The screensaver is not obsolete; the years-old Dell that has been running it (and possibly being amused by it) is obsolete. No other reading of the title text can be justified. 108.162.219.58 09:33, 4 February 2014 (UTC)
+I don't see why computers can "never" do certain things. I mean, humans can do those things, so its just a sensory inputs and processing, and the structure that gets built to understand it. The first step though, is to figure out why we do those things so we can replicate it elsewhere. -Pennpenn 108.162.249.205 03:07, 20 January 2015 (UTC)
+You're assuming that everything humans do is algorithmic. Every computer scientist agrees with you, and almost every neurologist, and the vast majority of cognitive scientists. But a few physicists and a lot of philosophers disagree. If human minds are actually doing something that requires quantum computing (as Penrose believes), or that's impossible even with quantum computing (as Searle claims not to believe but keeps ending up arguing for), then... Well, then we're wrong about the last century or so of knowledge, and we've got bigger problems than AI anyway.... 199.27.130.180 09:58, 22 September 2015 (UTC)
+I'm going to side more with computer experts, neurologists, and cognitive experts over physicists and philosophers on the subject of computer consciousness, cognition, and capacity (especially given my opinion that most philosophy is self-indulgent wankery by people with nothing better to do). Also I didn't preclude quantum computing from the options here. If human neurological functions require quantum level computing, then that's what it'll take. -Pennpenn 108.162.250.162 23:53, 11 October 2015 (UTC)
+AlphaGo has us beat. It defeated 2-dan Fan Hui in October 2015 and 9-dan Lee Sedol in March 2016. 162.158.83.162 (talk) (please sign your comments with ~~~~)
+Categories: All comicsComics from 2013Comics from SeptemberWednesday comicsComics featuring MeganComics featuring CueballArtificial IntelligenceBoard games

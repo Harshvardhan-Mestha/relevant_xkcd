@@ -1,0 +1,277 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1461: Payloads
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1461)
+|<< PrevComic #1461 (December 17, 2014)Next >>|
+Payloads
+
+Title text: With a space elevator, a backyard full of solar panels could launch about 500 horses per year, and a large power plant could launch 10 horses per minute.
+A larger version of the image can be found here.
+Explanation[edit]
+This comic is an infographic representing the launch mass of various spacecraft and artificial satellites, and the low Earth orbit payload capacity of various space launch vehicles. Rather than using standard units of mass such as kilograms or pounds, Randall has assigned values based on the mass of a horse. Based on cross checking researched masses and payloads with the number of horses depicted, it appears that one horse unit is defined as 450 kg (with an average of 432.82 kg), or perhaps 1000 lb. In cases where the mass is less than one horse, an alternative measure of dogs has been used, where one dog appears to be roughly 40 kg (with an average of 48.05 kg, or perhaps 100 lb.). In the case of Vanguard 1, even a dog is too large a measure, so instead the unit squirrel is used to represent its 1.47 kg (3.5 lb.?) mass.
+The overall comic may be an allusion to horsepower, a similar-sounding but completely different concept. Horsepower is a measurement of power (work per unit time). Another commonly referenced unit for power is the watt. 1 horsepower is meant to be approximately the amount of power a horse can deliver. In contrast, Randall uses the horse to measure mass (of particular spacecraft, and of the maximum payload launch vehicles can carry).
+The top pane of the comic (black background) shows the mass of various spacecraft, while the bottom (white background) shows the payload capacity (to low Earth orbit) of launch vehicles. Along the bottom of the image is a timeline, relating to the launch date of the entries.
+There are also several joke insertions:
+T-Rex - A dinosaur, but fairly unlikely to be found orbiting Earth.[citation needed]
+Pegasus - An actual launch vehicle, but also the name of a mythical flying stallion. The payload is given as "one Pegasus", which comes out to be slightly less than "one horse".
+Atlas-Centaur - Again, an actual launch vehicle, but also a reference to the half-human half-horse creatures of Greek mythology. The payload is given in "centaurs", which come out to be slightly more than "horses".
+1981 Oldsmobile - Not a launch vehicle, but in fact a car. The payload is given as 4 horses, which may relate to the carrying capacity (by weight) of the Oldsmobile, not the ability of an Oldsmobile to launch that payload into low Earth orbit. While there are no known examples of an Oldsmobile reaching low Earth orbit, The Blues Brothers movie shows an Oldsmobile performing a very, very long flight, and this might be the reason why Randall chose this specific car.
+The Pegasus, 1981 Oldsmobile, and Stratolaunch spacecraft are depicted horizontally, because these vehicles launch from a horizontal starting position and use forward momentum to facilitate their launch.
+An unlabelled launch vehicle is shown below the H-IIA near 2002. From the payload and date it is believed to represent the Delta IV M. Whether its lack of labelling is intended or a mistake is unknown.
+The title text refers to a favourite subject of Randall's - The space elevator. A space elevator is a (currently theoretical) mechanism for travelling into space, consisting of a very long (>35,000 km) cable and counterweight connected to the Earth at the equator. The cable rotates at the same rate as the earth, and thus appears stationary when viewed from earth. It is then possible to climb the cable into space, and even use it as a slingshot to launch vehicles.
+In the title text, the amount of power required to lift a horse into space has been investigated, with the launch capacity of a backyard solar array and large power station compared. The orbit to launch horses is not precised, though; from the space elevator, the only circular orbit easily achievable is geostationary orbit, and getting into Low Earth Orbit is only slightly easier than without the elevator. Assuming the lowest stable orbit (that is, above the atmosphere), required power output of the solar array is about 315-350 kW and the power station at 3.3-3.7 GW.
+Tables[edit]
+The tables below contain data relating to each entry on the comic image.
+Name - Should be as shown in the comic
+Launch date - Date of first flight
+Mass/payload (horses) - Value as given in comic
+Mass/payload (kg) - Independently researched value
+Where the researched launch date or mass/payload don't seem to match the comic, they should be identified with ?
+Spacecraft mass
+Spacecraft Launch date ISO 8601 Mass (horses) Mass (kg)
+Sputnik[1] 1957-10-04 2 Dogs 83.6
+Vanguard 1[2] 1958-03-17 Squirrel 1.47
+Pioneer 5[3] 1960-03-11 Large Dog 43
+Venera 1[4] 1961-02-12 1 643.5
+Mariner 2[5] 1962-08-27 3 Dogs 202.8
+Apollo[6] 1964-05-28 67 30,329
+Venera 7[7] 1970-08-17 3 1,180
+Pioneer 10[8] 1972-03-03 7 Dogs 258.8
+Skylab[9] 1973-05-14 171 77,088
+Venera 9[10] 1975-06-08 11 4,936
+Voyager 2[11] 1977-08-20 2 800
+Shuttle (Total)[12] 1981-04-12 206 104,328?
+Shuttle (Payload) 1981-04-12 54 24,400
+Mir 1986-02-20 288 129,700
+T-Rex N/A 15 6,800
+Hubble[13] 1990-04-24 25 11,110
+Compton Gamma Ray Observatory[14] 1991-04-05 38 17,000
+Keyhole 3† 1961 40 1150
+International Space Station 1998 932 450,000
+Cassini 1997-10-15 11 5,300
+Huygens Lander 1997-10-15 1 319
+Rosetta 2004-03-02 6 2,900
+Opportunity 2003-07-07 5 Dogs 185
+Dawn[15] 2007-09-27 3 1,240
+Terrastar* 2009-07-01 15 6,910
+Dragon[16] 2010-06-04 17 8,000
+Tiangong-1 2011-09-29 19 8,506
+Curiosity 2011-11-26 2 900
+Keyhole 7† 1963-07-12 40 2000
+Orion (Capsule) 2014-12-05 20 8,913
+James Webb Telescope 2018-08 (Projected) 14 6,200
+Orion 2014-12-05 20 8,913
+Orion Service Module 2017 (Projected) 25 12,000
+Orion Deep Space Habitat 2021 (Projected) 65 28,750 & 45,573
+*Terrastar is believed to be a misspelling of TerreStar, based on its mass and launch date.
+†Keyhole 3 and 7 seem to be errors; Keyhole 3 satellites were launched between 1961 and 1962 and Keyhole 7 between 1963 and 1967.
+The dates and masses in the comic more closely correspond to the Keyhole 11.
+Launch vehicle capacity
+Spacecraft Launch date ISO 8601 Payload (horses) Payload (kg)
+Sputnik Launcher[17] 1957-10-04 1 500
+Thor 1958-04-24 3 Dogs 120
+Mercury-Atlas 1960-07-29 3 1,360
+Saturn I 1961-10-27 20 9,070
+Proton-K[18] 1967-03-10? 44 19,760
+Atlas-Centaur[19] 1962-05-08 8 Centaurs 3,630
+Titan IIIA 1964-09-01 7 3,100
+Saturn IB 1966-02-26 45 21,000
+Soyuz 1966-11-28 14 6,450
+Saturn V 1967-11-09 262 118,000
+Black Arrow 1969-06-27 4 Dogs 135
+N1 1969-02-21 211 90,000?
+Long March 1 1969-11-16 2 300*
+N-I 1975-09-09 4 1,200?
+Delta 0900 1972-07-23 3 1,300
+Ariane 1 1979-12-24 3 1,400
+SLV 1979-08-10 1 Dog 40
+N-II 1981-02-11 4 2,000
+1981 Oldsmobile 1981 4 N/A (Model dependent)
+ASLV 1987-03-24 4 Dogs 150
+Long March 4A 1988-09-06 9 4,000
+Ariane 4 1988-06-15 16 5,000-7,600?
+Shavit 1988-09-19 6 Dogs 350-800?
+Energia 1987-05-15 218 100,000*
+Pegasus 1990-04-05 1 Pegasus 443
+Atlas I[20] 1990-07-25 13 3,630?
+PSLV 1993-09-20 8 3250
+J-I[21] 1996-02-11 2 850
+Long March 3B 1996-02-14 27 12,000
+H-IIA 2001-08-29 22 10,000
+(unlabelled) Delta IV M?* 2002-09-20 21 4200-6882
+Delta IV-H[22] 2004-12-21 64 28,790
+Falcon 1 2006-03-24 1 670 (Proposed)
+Ariane 5ES[23] 2008-03-09 47 21,000
+H-IIB 2009-09-10 37 19,000?
+Unha 2009-04-05 2 Dogs 100[24]
+Atlas V 541 2011-11-26 38 17,443[25]
+Falcon 9 2013-09-29 29 13,150
+Antares 2013-04-21 14 6,120
+Stratolaunch 2016 (Projected) 14 6,100
+Falcon Heavy 2018-02-06 118 53,000
+SLS Block 1 2018-11 (Projected) 156 70,000[26]
+SLS Block 1B 2021 (Projected) 217 100,000?
+SLS Block 2 2030's (Projected) 289 130,000[27]
+The unlabelled launch vehicle is believed to be the Delta IV M, based on its payload and date.
+Transcript[edit]
+[This comic is a wide drawing, with a larger drawing that can be reached by clicking the small picture on xkcd. In the smaller picture shown on xkcd only the text that is not red can be read. The transcript below is thus for the large drawing. It is divided into three horizontal sections. The first section is black and shows spacecrafts, the second is white and shows launch vehicles, and the third is black again showing a timeline ranging from 1950 to the future. The vehicles are shown by the proper number of horses, and when that weight is less than one full horse also in the weight of other smaller animals.]
+[The black section:]
+Spacecraft mass
+Measured in horses
+Sputnik -- <1 horse (2 dogs )
+Vanguard 1 -- <1 horse (Squirrel )
+Pioneer 5 -- <1 horse (Large dog)
+Mariner 2 (United States) -- <1 horse (3 dogs )
+Venera 1 (USSR) -- 1 horse
+Apollo -- 67 horses
+Venera 7 -- 3 horses
+Pioneer 10 -- <1 horse (7 dogs)
+Skylab -- 171 horses
+Venera 9 -- 11 horses
+Voyager 2 -- 2 horses
+Shuttle (Total) -- 206 horses
+Shuttle Payload -- 54 horses
+Mir -- 288 horses
+T-Rex -- 15 horses
+Hubble -- 25 horses
+Compton Gamma Ray Observatory -- 38 horses
+Keyhole 3 -- Spy satellite
+International Space Station -- 932 horses
+Cassini -- 11 horses
+Huygens lander -- 1 horse
+Rosetta -- 6 horses
+Opportunity -- <1 horse (5 dogs)
+Dawn -- 3 horses
+Terrastar -- 15 horses
+Dragon -- 17 horses
+Tiangong-1 -- 19 horses
+Curiosity -- 2 horses
+Keyhole 7 -- 40 horses
+Orion (capsule) -- 20 horses
+James Webb Telescope -- 14 horses
+[20 horses:]
+Orion
+[25 horses:]
+Orion Service Module
+[65 horses:]
+Orion Deep-Space Habitat
+[The white section:]
+Launch vehicle capacity
+(Payloads to low earth orbit)
+Measured in horses
+Sputnik Launcher -- 1 horse
+Thor -- <1 horse (3 dogs)
+Mercury-Atlas -- 3 horses
+Saturn I -- 20 horses
+Proton-K -- 44 horses
+Atlas-Centaur -- 8 centaurs
+Titan IIIA -- 7 horses
+Saturn IB -- 45 horses
+Soyuz -- 14 horses
+Saturn V -- 262 horses
+Black Arrow -- <1 horse (4 dogs)
+N1 -- 211 horse -- Exploded on Launch pad
+Long March 1 -- 2 horses
+N-I (Japan) -- 4 horses
+Delta 0900 -- 3 horses
+Ariane 1 -- 3 horses
+SLV (India) -- <1 horse (1 dog)
+N-II -- 4 horses
+1981 Oldsmobile -- 4 horses
+ASLV -- <1 horse (4 dogs)
+Long March 4A -- 9 horses
+Ariane 4 -- 16 horses
+Shavit (Israel) -- <1 horse (6 dogs)
+Energia -- 218 horses
+Pegasus -- 1 Pegasus
+Atlas I -- 13 horses
+PSLV -- 8 horses
+J-I -- 2 horses
+Long March 3B -- 27 horses
+H-IIA -- 22 horses
+Delta IV-H -- 64 horses
+Falcon 1 -- 1 horse
+Ariane 5ES -- 47 horses
+H-IIB -- 37 horses
+Unha (North Korea) -- <1 horse (2 dogs)
+Atlas V 541 -- 38 horses
+Falcon 9 -- 29 horses
+Antares -- 14 horses
+Stratolaunch -- 14 horses
+Falcon Heavy -- 118 horses
+SLS Block 1 -- 156 horses
+SLS Block 1B -- 217 horses
+SLS Block 2 -- 289 horses
+[The timeline:]
+1950s, 1960s, 1970s, 1980s, 1990s, 2000s, Future
+A larger transcript with image descriptions can be found here: Full transcript
+Trivia[edit]
+Later after the initial release of this comic Randall added a link to this page. It's viewable in the HTML-source or here: https://xkcd.com/1461/info.0.json. The text is: "This comic is an infographic. A very good transcription is available in complete form here: http:\n\nwww.explainxkcd.com\nwiki\nindex.php\n1461". At the time this was added here was no written transcript but a complete explain section.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+It's possible he's talking about this comic. 108.162.249.203 07:20, 17 December 2014 (UTC)
+I think he used horses as a reference to the unit of work, horse power, but in this case instead of being the 550 foot pounds per second, it is the force required to put a horse at that altitude 199.27.128.195 08:10, 17 December 2014 (UTC)
+The top one clearly says "Spacecraft mass" and the bottom says "Capacity" (which is normally either the mass or volume something can hold), so I don't think either refers to force. 173.245.54.175 08:32, 17 December 2014 (UTC)
+Horses might also be used as a length unit... I am wondering if this is somehow related to the size of SRBs [28] ;-) -- Ld75 (talk) (please sign your comments with ~~~~)
+There is the famous tail (no pun intended) of how the width of the Space Shuttles SRBs are related to the width of a horses, er, um, butt -- which apparently is not true. However, similarly to the "Upgoer Five", Randall may just be trying to relate a very difficult to grasp concept (weight of a huge object) to something that with which a large number of people may be familiar. Jarod997 (talk) 14:34, 17 December 2014 (UTC)
+A few mass calculations: (All masses from wikipedia)
+ISS - 450,000 kg / 932 Horses = 483 kg/Horse
+Skylab - 77,088 kg / 171 Horses = 450 kg/Horse
+Mir - 129,700 kg / 286 Horses = 453 kg/Horse
+Shuttle Payload - 24,400 kg / 54 Horses = 452 kg/Horse
+Compton GRO - 17,000 kg / 38 Horses = 447 kg/Horse
+It looks like Randall probably used 450kg as a standard horse, which seems like a fairly average weight for a horse. --Pudder (talk) 09:06, 17 December 2014 (UTC)
+Curious: the Atlas-Centaur rocket is listed as lifting Centaurs, not horses. 141.101.98.244 09:11, 17 December 2014 (UTC)
+Plus the Pegasus rocket is labelled as lifting one (mythical, horse-sized?) Pegasus. I took this as synchronicity, but currently someone (who missed the Centaur reference in the part of the main text about "joke additions/deviations") who edited the the main text seems to think that it's purely a mythical reference. 141.101.98.245 13:27, 17 December 2014 (UTC)
+The Keyhole captions are wrong; assuming 450 kg/horse, 40 horses for the Keyhole 7 would be around 18,000 kg. Documents declassified a couple of years ago give the mass as around 2,000 kg. The Keyhole 3 was even smaller. The mass and dates are about right for Keyhole 11 satellites but I don't know where the 3 and 7 have come from (the dates are wrong for the third and seventh Keyhole 11s) 141.101.99.85 09:43, 17 December 2014 (UTC)
+Initially I thought that the position of 'T Rex' along the X axis (approx 1985) may be a link to the band T.Rex, but according to wiki that was 1967-1977. I guess it could be a random date, but thats not usually Randall's style... --Pudder (talk) 10:51, 17 December 2014 (UTC)
+The T Rex "Sue" was discovered in August 1990. Not quite right, either. 108.162.250.214 11:10, 17 December 2014 (UTC)
+Perhaps a reference to the date of 'Jurassic Park'? Not sure exactly when that came out but I think it's in the right range. 108.162.238.189 14:55, 17 December 2014 (UTC)
+Hadn't thought of that.. Though after checking, Jurassic Park was released 1993, and I believe set in 1990. Still doesn't seem to tie up.. --Pudder (talk) 15:22, 17 December 2014 (UTC)
+I never knew there was ever a space craft called "T-Rex". Learn something new everyday! ;) -- Dangerkeith3000 (talk) (please sign your comments with ~~~~)
+The Oldsmobile is probably a reference to the movie Mom and Dad Save the World. The title characters' station wagon was from around that era -- and it did go into space in the movie. --Aaron of Mpls (talk) 11:47, 17 December 2014 (UTC)
+Terrastar may be referring to TerreStar-1, with a launch mass of 6,910 kg, divided by 15 horses is about 460 kg/Horse. This is consistent with the above calculations. Jarod997 (talk) 14:23, 17 December 2014 (UTC)
+Based on that and its accurate position on the X axis, I would agree with you. I've added it to the table, with a note below. --Pudder (talk) 14:38, 17 December 2014 (UTC)
+Thor may be referring to the Thor-Able launch vehicle. First flight of 1958 (good position on the graph), and payload of 120 kg is about 40 kg / dog -- that's a bit high for an average, but depending on the breed it could be accurate. Jarod997 (talk) 14:58, 17 December 2014 (UTC)
+Yes, I believe that is correct. Added to tables. --Pudder (talk) 15:22, 17 December 2014 (UTC)
+Based on horse payload, location on X-axis (time of first launch?), and some general wikipedia browsing, I believe the unlabeled launch vehicle on the bottom is a Delta IV Medium. According to Wikipedia, it was first launched on 11 March 2003, which fits the location on the timeline. It had an LEO payload capacity of 9,420 kg, which equates to 20.9333333 horses at the estimation of 450kg/horse. For reference, all my information was pulled from http://en.wikipedia.org/wiki/Delta_IV#Delta_IV_Medium. Screamsquad (talk) 16:20, 17 December 2014 (UTC)
+Certainly seems a likely candidate..--Pudder (talk) 17:08, 17 December 2014 (UTC)
+Title Text Calcs
+I did some calculations on the title text, though I'm not sure how correct they are. We can use our standard horse at 450kg, and assuming 9.81m/s2 gravity (neglecting the slight drop in gravity as it moves up the space elevator), the formula I've used is:
+1 Watt = 1 Newton raised 1 Metre in 1 Sec
+Power[Watts] = (450[kg] * 9.81[m/s<sup>2</sup>]) * LEO[m] / Time[s]
+A large power station is a pretty vague measure, but I would guess we are looking at around 1GW. I found a 30 acre solar farm (in the not-so-sunny UK) with an output of 5MW, scaled linearly (which may well not be valid) a 0.6 acre (2500m2 back yard could yield 93.5kW. Using these power guesstimates, we can calculate the altitude at which the 500 horses/year and 10 horses/minute converge. It works out at roughly 1350km. Depending on where you look, LEO is classified as anything under 2000km.
+Now I know there are a lot of assumptions in there, and really the whole formula is backwards, but hey... its a starting point! --Pudder (talk) 17:05, 17 December 2014 (UTC)
+I think Randall may have been talking to Andrew Hussie --141.101.106.89 21:50, 17 December 2014 (UTC)
+https://what-if.xkcd.com/58/ Getting to space is easy, staying in space is hard.
+The energy required to get to 100km, briefly, is about 1 MJ/kg The energy required to stay in low earth orbit is a bit over 30 MJ/kg
+It's tricky to get to low earth orbit with a space elevator, you can go up 200km, but as soon as you let go of the elevator you come down. If you put enough mass at 200km the whole elevator comes down. Not sure which number to use, but I'd go with the 30 MJ/kg, or 15 GJ/horse. So the solar array is about 240kW (averaged over the whole year) and the power plant is 2.5GW. This looks a bit high so maybe the horses don't stay in orbit.
+--108.162.219.248 15:49, 18 December 2014 (UTC)
+It depends on what he means by launch I suppose. I had simply looked at getting to LEO altitude, but staying there once you let go of the cable is a whole different ball game. I believe the only way to get into orbit from a space elevator (lacking additional power) is to go right to geostationary height? Let go anywhere under that altitude and you go into orbital decay.
+Out of interest, where did you get the 1MJ/kg and 30MJ/kg values? As far as power stations, the new generation twin reactor Hinkley Point C nuclear power station (only know that one because its local to me) is designed to output 3.2GW, so 2.5GW isn't over the top. I would say that 240kW for aback yard solar farm is pretty large, depending on your location and size of back yard. --Pudder (talk) 17:11, 18 December 2014 (UTC)
+1MJ/kg comes from mgh for 1kg at 100km we get 9.81 * 100,000
+30MJ/kg comes from 1/2 mv^2 I happen to know that orbital velocity is about 8km/s so 1/2*8000^2 = 32,000,000
+Normally I'd say close enough for goverment work, but in this case NASA probably uses a bit more precision. If you want to be more precision, visit wikipedia "specific orbital energy" and "circular orbit".
+If we release a horse from the space elevator at any altitude it will be in orbit, at least until it contacts the earth's atmosphere. It turns out that if we release it at 30,000km (from the earths center = 23,600km altitude) then at perigee the altitude is 100km. High enough that a horse would stay in orbit for a while. Releasing 750 km higher raises perigee to 1000km altitude. So we don't have to go all the way to geostationary orbit, just high enough. But still 23,000km is not LEO.
+--108.162.219.248 04:32, 19 December 2014 (UTC)
+Ok, I'm just about following you I think! So assuming we are launching to orbit, we have to get to 23,600km, at which point gravity is considerably reduced. We definately have to take into account change in gravity as our horses move up the cable.
+I did some maths, and I believe it takes 19.9GJ to get a 450kg horse to 23,600km. That is essentially mgh, but taking into account the change in gravity. At 1 Watt, thats gonna take 631 years. Our 500 horses per year solar plant needs to output 315kW (300kW solar array on a roof for reference). Our 10 horses per minute power station would need to output 3.32GW, so a decent nuclear facility. Once the Three Gorges Dam in China is running at full capacity (22.5GW), it could be launching 68 horses per minute. Running constantly at full capacity, we could rid the world of horses (est 58 million) in under two years. --Pudder (talk) 11:09, 19 December 2014 (UTC)
+I confirmed the height of 23 600 km with my own calculations; my result is about 189 km altitude at perigeum, and 996 km for 24 350 km (750 km higher, as you wrote). My code seems consistent as entering geostationary orbit altitude results in geostationary orbit. Anyway, I think that 19.9 GJ is slightly wrong - I entered it into Wolfram, and it showet a little more. This results in 350 kW and 3.7 GW for backyard solar panels and power plant, respectively. 162.158.92.100 22:20, 28 January 2017 (UTC)
+I filled out the remaining fields. I thought about getting the interior capacities of all 1981 Oldsmobile models but doesn't seem worth it. It's clearly a joke so that kind of research doesn't seem necessary. 173.245.56.152 (talk) (please sign your comments with ~~~~)
+Arrow of Time Did anyone else notice the special advert for Xmas gifts? It was up at the top of the main xkcd page yesterday 2014-December-17, but gone today (the 18th). In black, blue and red colored printing it said:
+"The XKCD store Christmas shipping deadline is Friday!
+Once it passes, there is no going back. The arrow of time drags us all
+inexorably forward toward decay and disorder toward the end of all things.
+Toward the empty silence of the grave. ORDER NOW!"
+I thought it was amusing and saved a bitmap. Was kind of surprised that there was no other mention of this here, or on the fora either. 108.162.216.171 (talk) (please sign your comments with ~~~~)
+I did notice it too, though I've always been a bit disappointed by the limited range of T-shirt comics. None of my favourites are on there. As far as this page mentioning it, it isn't relevant to the comic, so doesn't belong on this page. I don't know of a page on explainxkcd where it would really fit in. --Pudder (talk) 11:18, 19 December 2014 (UTC)
+Here: xkcd#Header_text on the xkcd page on explain. Just finished the transcript for this comic. Note the 1461: Payloads#Trivia above. --Kynde (talk) 00:58, 30 January 2017 (UTC)
+Why not make your own? Here is a fridge magnet, it wasn't too hard to figure out the design tools, Duty Calls magnet Actual size is a little over 2" x 3" (50 x 75mm)--one problem with the design tools is figuring out the final size for some items. Based on my understanding of the CC license, I have not sold these, but I have given a few to friends. Edit--when something I want is in the XKCD store, of course I buy it there so Randall gets the cash. For example, the large poster sized version of Money on the wall in front of me now came from the XKCD store. It would be really cool if Randall made this fridge magnet (or something similar) available on his site. 108.162.216.171 (talk) (please sign your comments with ~~~~)
+I guess part of the reason is that I like the idea of Randall getting the cash from my purchase. --Pudder (talk) 14:04, 19 December 2014 (UTC)
+Actually, I find it strange that no explicit mention of Laika or Sputnik 2 is made. --141.101.75.89 23:50, 18 December 2014 (UTC)
+I'm pretty sure this has nothing to do with dimensional analysis. Who wrote that part? have you ever actually done dimensional analysis? He's just using a nonstandard unit of measure. Unit conversion is almost -but not entirely- unlike dimensional analysis. 108.162.241.5 (talk) (please sign your comments with ~~~~)
+What's with the mass of squirrel? Apart from marmots, any squirrel weighs way less than a kilogram! 108.162.253.150 (talk) (please sign your comments with ~~~~)
+The T-Rex entry may refer to the Wankel Rex or Devil Rex discovered in 1988. See https://en.wikipedia.org/wiki/Specimens_of_Tyrannosaurus#.22Wankel_Rex_or_Devil_Rex.22:_MOR_555 PaperDragon-CA 108.162.216.89 17:57, 30 September 2016 (UTC)
+Categories: All comicsComics from 2014Comics from DecemberWednesday comicsPages using the "citation needed" templateComics with colorLarge drawingsChartsTimelinesAnimalsSquirrelsSpaceSpace probesTelescopesMars rovers

@@ -1,0 +1,163 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1276: Angular Size
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1276)
+|<< PrevComic #1276 (October 11, 2013)Next >>|
+Angular Size
+
+Title text: If the celestial sphere were mapped to the Earth's surface, astronomy would get a LOT easier; you'd just need a magnifying glass.
+Explanation[edit]
+This comic is a comparison of the angular diameters (or apparent diameter) of various celestial objects at the surface of the earth relative to a vertex at the center of the Earth as diagrammed in the opening panel. The objects' scales are compared to actual objects on earth. Each size given is for the object at its closest approach to earth.
+London's M25 motorway is around 60 km (35 miles) across, a soccer field is about 100 meters long (109 yards), a ping pong table is 274 centimeters long (9 feet), a laptop is about 35 centimeters across (13.75 inches), the tilde symbol on a keyboard is about 5 millimeters long (197 mils), and a cell of E. coli is about 2 microns long (78.75 millionths of an inch).
+A simple formula can be used to find the size on earth of a celestial object when the size of or distance to the object is known. This is done by taking the radius of the earth, multiplying by the diameter of the object, and dividing by the distance to the object from the center of the earth.
+The space objects referenced in the panels are:
+The Sun and the Moon, and also the open cluster Messier 25, have approximately the same size (around 0.5 degrees of arc) when seen from the Earth.
+Mercury, Venus, Mars, Jupiter, Saturn, Uranus, and Neptune are the other planets of the Solar System.
+Io, Europa, Ganymede, and Callisto are the main moons of Jupiter; Titan is the largest moon of Saturn; and Triton is the largest moon of Neptune. Ceres and Pluto are dwarf planets.
+Phobos and Deimos are the moons of Mars. Eris is another dwarf planet. R Doradus and Betelgeuse are giant stars, respectively around 180 and 640 light-years away. R Doradus is the star with the largest apparent diameter (other than the sun, of course).
+4942 Munroe is an asteroid named after xkcd author Randall Munroe. Proxima Centauri, Alpha Centauri AB, Barnard's star and Sirius are nearby stars (all within 10 light-years from the Sun).
+HD 189733 b, Gliese 581 g, Gliese 667 Cc, HD 20794 c, Tau Ceti c, and KOI-1686.01 are extrasolar planets; the parenthetical names are references to the comic 1253: Exoplanet Names. However, some of the planets' parenthetical names do not match the table in the previous comic. For example, HD 20794 c is called "Legoland" rather than "Moonchild" in 1253: Exoplanet Names. The black hole at the center of our Galaxy is Sagittarius A*, a massive object containing a mass more than 4 million times of our Sun.
+Voyager 1 and 2 are space probes launched in 1977, and currently around 125 and 100 astronomical units away, respectively.
+The title text states that astronomy would be much easier if the celestial sphere were mapped to the earth - like a giant globe. Due to the distance of the stars you would just need magnifying glass to see the areas representing distant stars instead of an expensive powerful telescope to see huge distances.
+Approximate values for the mappings to the Earth sphere (based on mean Earth radius at 6,371.0 km or 3,958.8 mi.):
+Panel Object Distance Diameter Size at Earth sphere
+Panel 1 Sun 149,600,000 km (9.296×107 mi.) 1,392,684 km (865,373.7 mi.) 59.3 km (36.8 mi.)
+Moon Semi-major axis 384,399 km (238,854 mi.) 3,476.28 km (2,160.06 mi.) 57.6 km (35.8 mi.)
+Moon Perigee 363,295 km (225,741 mi.) 3,476.28 km (2160.06 mi.) 60.9 km (37.8 mi.)
+Messier 25 2,100 light-years
+19.867 × 1015 km (12.158 × 1015 mi.) 19 light-years
+179.753 × 1012 km (111.693 × 1012 mi.) 57.6 km (35.8 mi.)
+Panel 2 Mercury (closest approach} 92 million km (57 million mi.) 4,879.4 km (3,031.9 mi.) 0.34 km (370 yd.)
+Venus (closest approach) 41 million km (25 million mi.) 12,103.6 km (7,520.83 mi.) 1.9 km (1.2 mi.)
+Mars (closest approach) 56 million km (35 million mi.) 6,792.4 km (4,220.6 mi.) 0.77 km (840 yd.)
+Jupiter 778,547,200 km (4.8377 × 108 mi.) 139,822 km (86,881.4 mi.) 1.14 km (1,250 yd.)
+Saturn 1,433,449,370 km (1.5676 × 1012 mi.) 120,536 km (74,897.6 mi.) 0.54 km (590 yd.)
+Uranus 2,876,679,082 km (1.7875 × 109 mi.) 51,118 km (31,763 mi.) 0.11 km (120 yd.)
+Neptune 4,503,443,661 km (2.7983 × 109 mi.) 49,528 km (30,775 mi.) 0.07 km (230 ft.)
+Panel 3 Io 778,547,200 km (483.77 × 106 mi.) 3,643 km (2,264 mi.) 29.8 m (74.8 ft.)
+Europa 778,547,200 km (483.77 × 106 mi.) 3,122 km (1,940 mi.) 25.5 m (83.7 ft.)
+Ganymede 778,547,200 km (483.77 × 106 mi.) 5,262 km (3,270 mi.) 43.1 m (141 ft.)
+Callisto 778,547,200 km (483.77 × 106 mi.) 4,821 km (2,996 mi.) 39.5 m (130 ft.)
+Titan 1,433,449,370 km (890.7 × 106 mi.) 5,150 km (3,200 mi.) 22.9 m (75.1 ft.)
+Triton 4,503,443,661 km (2.7983 × 109 mi.) 2,705.2 km (1,680.9 mi.) 3.8 m (12 ft.)
+Ceres (perihelion) 380,995,855 km (236.74 × 106 mi.) 974.6 km (605.6 mi.) 16.3 m (53.5 ft.)
+Pluto (perihelion) 4,437,000,000 km (2.757 × 109 mi.) 2,306 km (1,433 mi.) 3.3 m (11 ft.)
+Panel 4 Phobos 56 million km (35 million mi.) 26.8 × 22.4 × 18.4 km (16.7 × 13.9 × 11.4 mi.) 3.05 m (10.0 ft.)
+Deimos 56 million km (35 million mi.) 15 × 12.2 × 10.4 km (9.3 × 7.58 × 6.46 mi.) 1.71 m (5 ft. 7 in.)
+Eris (perihelion) 5.723 × 109 km (3.556 × 109 mi.) 2,326 km (1,445 mi.) 2.59 m (8 ft. 6 in.)
+Eris (aphelion) 14.602 × 109 km (9.0733 × 109 mi.) 2,326 km (1,445 mi.) 1.01 m (3 ft. 3.8 in.)
+Betelgeuse 643 ± 146 light-years
+max. 7.464 × 1015 km (4.638 × 1015 mi.) 950–1,200 solar radii
+max. 1.671 × 109 km (1.038 × 109 mi.) 1.43 m (4 ft. 8.3 in.)
+R Doradus 178 ± 10 light-years
+max. 1.778 × 1015 km (1.105 × 1015 mi.) 370 ± 50 solar radii
+max. 0.515 × 109 km (320 × 106 mi.) 1.85 m (6 ft. 0.8 in.)
+Panel 5 4942 Munroe 2.2 AU (1.2 AU closest to earth, 179.4 × 106 km or 111.5 × 106 mi.) 9–10 km (5.6-6.2 mi.) 35.5 cm (14.0 in.)
+Proxima Centauri 4.243 light-years
+40.142 × 1012 km (24.943 × 1012 mi.) 0.141 solar radii
+0.196 × 106 km (122 × 103 mi.) 3.11 cm (1.22 in.)
+Barnard's Star 5.980 light-years
+56.574 × 1012 km (32.668 × 1012 mi.) 0.196 solar radii
+0.272 × 106 km (169×103 mi.) 3.06 cm (1.20 in.)
+Alpha Centauri B 4.366 light-years
+41.305 × 1012 km (25.666 × 1012 mi.) 0.865 solar radii
+1.204 × 106 km (748 × 103 mi.) 18.6 cm (7.32 in.)
+Sirius 8.6 light-years
+81.362 × 1012 km (50.556 × 1012 mi.) 1.711 solar radii
+2.382 × 106 km (1.480 × 106 mi.) 18.7 cm (7.36 in.)
+Alpha Centauri A 4.366 light-years
+41.305 × 1012 km (25.666 × 1012 mi.) 1.227 solar radii
+1.708 × 106 km (1.061 × 106 mi.) 26.3 cm (10.4 in.)
+Panel 6 HD 189733 b 63 light-years
+596.024 × 1012 km (370.352 × 1012 mi.) 1.138 Jupiter radii
+159,117 km (98,870.7 mi.) 1.7 mm (67 mils)
+Gliese 581 g 20.3 light-years
+192.052 × 1012 km (119.336 × 1012 mi.) 1.3 to 2.0 Earth radii
+max. 25,484 km (15,835 mi.) 0.85 mm (33 mils)
+Gliese 581 (Parent star) 20.3 light-years
+192.052 × 1012 km (119.336 × 1012 mi.) 0.29 solar radii
+201,695 km (125,411 mi.) 1.34 cm (528 mils)
+Black hole at the center of our Galaxy 25,900 light-years
+245.032 × 1015 km (152,260 × 1015 mi.) Mass 4.31 × 106
+12.684 × 106 km (7.8815 × 106 mi.) 0.33 mm (13 mils)
+Gliese 667 Cc 22.7 light-years
+214.757 × 1012 km (133.444 × 1012 mi.) 2.0 Earth radii
+25,484 km (15,835 mi.) 0.76 mm (30 mils)
+Gliese 667 (Parent star) 22.7 light-years
+214.757 × 1012 km (133.444 × 1012 mi.) 0.42 solar radii
+584,927 km (363,457 mi.) 1.74 cm (685 mils)
+HD 20794 c (Parent star) 20 light-years
+189.214 × 1012 km (117.572 × 1012 mi.) 0.92 solar radii
+1,281,269 km (796,143.6 mi.) 4.31 cm (1.70 in.)
+Tau Ceti C (Parent star) 11.905 light-years
+112.629 × 1012 km (69.9844 × 1012 mi.) 0.793 solar radii
+1,104,398 km (686,241.1 mi.) 6.25 cm (2.46 in.)
+Koi-1686.01 (Parent star) 1033.8 light-years
+9.780 × 1015 km (6.077×1015 mi.) 0.52 solar radii
+724,195 km (449,994 mi.) 0.47 mm (19 mils)
+Panel 7 Voyager probes (Voyager 1 at 126.10 AU) 18.86 × 109 km (11.72 × 109 mi.) 20 meters (66 ft.) (with antennas) 6.76 µm (266 × 10−6 in.)
+
+Transcript[edit]
+The size of the part of Earth's surface directly under various space objects
+[Several images are shown, of space objects of differing size and at different distances from Earth, illustrating the differing sizes of their "shadows" as mapped onto Earth's surface viewed from the center of the Earth.]
+[The first image merely sets the stage: Earth is a full circle, with two figures — Cueball and Megan — standing on it; a small space object casts a "shadow" on Megan, while a slightly larger object, though proportionally farther away, casts just about the same size shadow next to Cueball.]
+[The second image is a map showing London, with the Thames running through it, and a ring highway running around it labeled "London's M25 Orbital Freeway". A grey circle is overlaid, just about the diameter of the M25; it is labeled "The Sun and The Moon (about the same size)".]
+[The third image has a small grey rectangle in one corner labeled "Soccer field" for comparison. The image is dominated by four large, grey circles, considerably larger than the soccer field, labeled "Saturn", "Mars", "Jupiter", and "Venus", with Mars slightly larger than Saturn, Jupiter approximately twice the diameter of Saturn, and Venus approximately three times the diameter of Saturn. Smaller circles are labeled "Mercury", "Uranus", and "Neptune", with Mercury still somewhat larger than the soccer field, Uranus about its size, and Neptune slightly smaller.]
+[The fourth image has the soccer field blown up to take up much of the view; its center circle, goal areas, and corner kick areas are visible. Labeled grey circles of various circles are again overlain: Callisto and Ganymede are about as large as one half of the field; Io, Titan, and Europa are somewhat smaller than half the field; and Ceres, Triton, and Pluto are much smaller (all three together would probably fit into the soccer field's center circle).]
+[In the fifth image, there is a different grey rectangle, this one labeled "Ping Pong table", with a few balls and paddles visible. An irregular ovoid labeled "Phobos" is about the size of the table, as is a circle labeled "R. Doradus". An irregular circular shape labeled "Deimos" is about the size of half the table; a circle labeled "Betelgeuse" is a little smaller, and a circle labeled "Eris" is a little smaller, though still comfortably filling most of half of the table.]
+[In the sixth image, a light grey image of laptop computer keyboard and screen is shown, viewed from directly above. An irregular shape labeled "4942 Munroe" is slightly larger than the laptop, while circles labeled "Alpha Centauri A", "Sirius", and "Alpha Centauri B" form a descending series somewhat smaller than it. Circles labeled "Proxima Centauri" and "Barnard's Star" are considerably smaller than the laptop: Proxima Centauri would fit on the trackpad, while Barnard's Star covers perhaps four keys on the keyboard.]
+[In the seventh image we see a greatly zoomed-in shape which is identified as the "Tilde on laptop keyboard". A circle labeled "HD 189733 b (permadeath)" is almost as large as the tilde is wide; a circle labeled "Tau Ceti C (giant dog planet)" is somewhat smaller. Circles labeled "Gleise 581 g (jelly-filled planet)", "Gleise 667 C c (PILF)", and "HD 20794 c (moonchild)" are all 1/2 to 1/3 as wide as the tilde is wide. A smaller circle labeled "Event horizon of the black hole at the center of our galaxy" fits comfortably within the tilde's stroke width. A very small dot off in one corner (much smaller than the tilde or anything else in the image) is labeled "KOI-1686.01 (emergency backup earth)".]
+[Finally, in the eighth image, the size comparison is to the grey outlines of four bacilliform bacteria labeled "E. coli". The outlines of two interstellar probes are shown, with circular main housings and protruding instruments and antennae. They are labeled "Voyager 1" and "Voyager 2".]
+Trivia[edit]
+The exact dimensions of a professional soccer field are not precisely defined. In international matches they must be between 64 and 75m wide and between 100 and 110m long. Therefore soccer fields aren't well suited as a precise unit of measurement. However, they are commonly used to give people a rough understanding of an areas size. According to the angular diameter of the referenced celestial objects, Randall did his calculations using dimensions of 105m × 68m.
+A similar model of representing the angular diameter of celestial objects as portions of the Earth's surface seen from its center was described in Isaac Asimov's May 1961 essay "Heaven on Earth".
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+What is the meaning of "football field" in panel #2? --Kevang (talk) 04:50, 11 October 2013 (UTC)
+I was wondering the same thing. Probably misplaced text. Irino. (talk) 05:49, 11 October 2013 (UTC)
+It does seem to be misplaced, but if that's the only glitch, this is the only panel without a unique reference object. "20 football pitches long" isn't all that easy to grasp. jameslucas (" " / +) 09:09, 11 October 2013 (UTC)
+The image is fixed by Randall. I did an update here.--Dgbrt (talk) 11:28, 11 October 2013 (UTC)
+Well, that's a letdown. I'm surprised Randall didn't use Heathrow. jameslucas (" " / +) 13:42, 11 October 2013 (UTC)
+I haven't done any lookups or maths to check these, but give the size of these as "stars" in the sky, everything from panel 2 onwards seems to me to be an order of magnitude or two too large. Mark Hurd (talk) 05:17, 11 October 2013 (UTC)
+Not really. You see the stars and planets as points because their angular size is lower than your eyes' resolution. They have measurable (or, in case of really distant or small objects, computable) angular sizes. For stars etc. these angular sizes are really small - but Earth is quite big, so if you cut a portion of a sphere the radius of Earth corresponding to these small solid angles, you get sizable areas. I haven't checked Randall's math, but I'd rather believe his results. If it is non-intuitive for you consider the Sun and Moon example - when observed by naked eye, the Moon looks for you as being the size of a dime held up in your hand - and yet it's shadow during an eclipse covers quite an area of Earth's surface. It is true that sizes of some of these "footprints" are quite surprising compared to other ones. 89.174.214.74 08:55, 11 October 2013 (UTC)
+Definitely surprising. I'll put faith in Randall doing his math correctly, but still needed to check on a couple of these because they did elicit a "What? No. Really? Can't be." reaction. Using the formula described in the Explanation above, for Venus I get 12742 km (Earth radius) * 12104 km (Venus diameter) / 38000000 (shortest distance to Venus) = 2.03 km.
+Hard to picture that something that is such a small dot in the sky is actually directly over such a large patch of ground. But there you are.
+67.51.59.66 17:11, 11 October 2013 (UTC)
+The question that sprung to my mind was, which distance is he using for the planets and asteroids, since those vary hugely depending on where objects are relative to each other along their orbits. Is he going with closest approach, maybe? Or the distance that we happen to be at just this instant? --Rmharman (talk) 21:42, 11 October 2013 (UTC)
+I just checked for Deimos, and got to ~50 mio km, so that´d be the closest approach. --Wilberforce (talk) 13:24, 13 October 2013 (UTC)
+Does someone know how to use LaTeX formulas? And if so, can they translate my formula into something more pleasing to the eye? Irino. (talk) 05:49, 11 October 2013 (UTC)
+According to the wikipedia page, the M25 is 117 miles long. That sounds more like "37 miles across" to me. Kaa-ching (talk) 08:46, 11 October 2013 (UTC)
+it originally stated 15 miles, someone has fixed it now. Thanks! Kaa-ching (talk) 11:35, 11 October 2013 (UTC)
+
+Neither the sun or moon, nor Messier 25 (declination -19°) can ever culminate in the zenith over London. :-( Admittedly, Townsville, Australia would be sort of overwhelmed by M25. --129.13.72.198 11:27, 11 October 2013 (UTC)
+M25 is a reference to the highway that surrounds London, not the Messier object, which is probably nowhere near the angular size of the moon. 65.129.214.100 15:17, 11 October 2013 (UTC)
+Why would Randall choose London, if it wasn´t for the obvious disambiguity of the name M25? ----Wilberforce (talk) 12:33, 13 October 2013 (UTC)
+Does anyone know why the exoplanet "HD 189733 b" is labled as "Permadeath" ? Same question for the other weird names in the same pannel (the "tilde on keyboard" one) ? Jahvascriptmaniac (talk) 11:32, 11 October 2013 (UTC)
+A reference to Exoplanet Names. Squornshellous Beta (talk) 12:08, 11 October 2013 (UTC)
+If you were looking from the center of the earth, as the situation suggests, wouldn't the M25 be reversed, east-to-west, as you look at the sun and the moon?--76.105.133.220 16:09, 11 October 2013 (UTC)
+I visualize it as looking down on Earth, with the "shadow" of the celestial object on top of the M25/soccer field/laptop/etc. 67.51.59.66 17:02, 11 October 2013 (UTC)
+Has anyone noticed that Voyager 1 and 2 look like viruses? Kind of funny considering they're next to E. Coli... StelarCF (talk) 17:54, 11 October 2013 (UTC)
+Yeah, I thought that too. It's a happy thought. Why, you ask? Well, with vastly diminished (or - in the course of time - zero) output from RTG power sources, they're like weakened (or inactivated) viruses - that we've sent out to the rest of the Universe, to any other intelligent lifeforms that may find them. What does that remind you of?
+VACCINES! We've vaccinated aliens to the human condition :D To the Earthly condition even.
+[PS - that's a happy thought because I choose to interpret from a cross-contamination standpoint. Which, in this case, allows them to observe us in our own locale, and establish our intrinsic nature - before a two-way interaction with us, in 'shared space' :P, and observing us through the medium of those interactions.] 220.224.246.97 18:46, 11 October 2013 (UTC)
+Does "Explain XKCD" installation of MediaWiki has MathJax [plugin] installed for writing mathematics formulas? --JakubNarebski (talk) 08:15, 12 October 2013 (UTC)
+Too bad he didn't do the Pleiades. I mean, instead of using the Vatican, he could have used something geeky: Bletchley Park or something (though that's probably not big enough). Homunq (talk) 14:11, 12 October 2013 (UTC)
+Panel 6 (extrasolar planets)
+My table doesn't really match the image. An earth sized Planet would be at some micrometer, their hosting stars are about some centimeter. Who is wrong? Me or Randall?--Dgbrt (talk) 19:49, 13 October 2013 (UTC)
+Is it just me or is the laptop a MacBook Pro? Xyz (talk) 13:55, 14 October 2013 (UTC)
+I'm a bit disappointed by the lack of extragalactical objects. Or did I miss something? Starblue (talk) 08:52, 17 October 2013 (UTC)
+Moon shadow
+If I understand correctly, the comic show the size of objects at the Earth surface. So, if the shadow of the Moon is projected on London, it will cover approximately all the space inside the M25 motorway ?
+If so, why it is said that a total solar eclipse will normally cover a band of about 250 km wide (and not 60 km wide) on Earth ? 24.200.202.45 09:38, 21 October 2013 (UTC)
+The projection is to the center of the earth, not w.r.t. the sun like the shadow of a solar eclipse. Starblue (talk) 09:56, 21 October 2013 (UTC)
+Look at the first picture at this comic and compare it this to this one (left): Solar_eclipse_types.svg. You are just behind the moon at the surface of the earth, and when the moon is not close enough a total eclipse will not happen (right). All distances and also angular sizes belong to the surface but not the center of the Earth.--Dgbrt (talk) 18:54, 21 October 2013 (UTC)
+He’s pretty clearly darkened the line at the earth’s surface under each object (no intention, nor power, of trying to work out if he had the calculation right). So yeah, I think he’s talking about the shadow on the surface of the earth (which is a sphere, to 98% of the inhabitants who recognise the word. Sorry, Dgbrt). Also, subtitle... Rereading xkcd (talk) 03:51, 7 April 2020 (UTC)
+I am of the theory that the entire comic was created specifically so Randall could include his eponymous asteroid. And yes, I can present a falsification experiment for this model. — Kazvorpal (talk) 15:47, 16 December 2016 (UTC)
+Holy crap, the black hole at the centre of the galaxy is big enough to see?! Beanie talk 11:18, 7 June 2021 (UTC)
+Which is ironic, because it is also big enough not to be actually seen. ;) 172.70.85.227 16:35, 24 November 2021 (UTC)
+Should we remove the trivia entry about Odegra? It looks to be just a random piece of information about M25 that's otherwise irrelevant to the comic, but I just want to be sure before deleting it. KirbyDude25 (talk) 19:27, 23 November 2021 (UTC)
+Edit: I got rid of it. It seems to have been a reference to a piece of fiction rather than an actual fact; it is otherwise completely unrelated to the comic. KirbyDude25 (talk) 16:14, 24 November 2021 (UTC)
+a couple more i came up with: stephenson 2-18, the biggest star, would be 22 cm, and phoenix a, the biggest black hole, would be 685 micrometers. 172.70.100.48
+Categories: All comicsComics from 2013Comics from OctoberFriday comicsMathAstronomyExoplanetsSoccerSpace probesIllustrations of scale

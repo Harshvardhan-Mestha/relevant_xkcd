@@ -1,0 +1,48 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1068: Swiftkey
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1068)
+|<< PrevComic #1068 (June 13, 2012)Next >>|
+Swiftkey
+
+Title text: Although the Markov chain-style text model is still rudimentary; it recently gave me "Massachusetts Institute of America". Although I have to admit it sounds prestigious.
+Explanation[edit]
+Cueball has installed SwiftKey on his smartphone and brags about this to Megan. SwiftKey is a product that is installable on iOS/Android-based phones and tablets.
+Cueball explains that if you type space bar on the keyboard it auto-completes the word you are currently typing founded on its best guess, and then if you continue to press space it will add new words using this guessing process based on the previous word(s) and what it believes is the most likely words you would use in a sentence containing the previous word(s).
+Megan asks what happens if you begin a new message by just using space to automatically create a text. Cueball's best guess it begins with the word SwiftKey has found to be the typical starting word and then continues as normal from that.
+Megan then realizes that in this way it builds up his "typical" sentence and she tries this over the next eight small frames: I am so sorry- that's never happened before.
+"I am so sorry– that's never happened before." is a typical excuse for a mishap, usually when one fails to produce an erection when it is needed. Such a phrase being quoted by an algorithm implies that such mishaps are common, and therefore "I am so sorry– that's never happened before." is a lie. Also, SwiftKey might be saying "I am so sorry– that's never happened before." because the software doesn't know what to do.
+SwiftKey has noticed their inclusion in xkcd and have created a blog post for other users to comment with their default phrase when they hit the "central prediction key". The results are pretty funny (the site now redirects to a website asking to download the keyboard, an archived version can be found here). In addition, Reddit users have a similar model creating /r/subredditsimulator, which is populated by bots generating submissions and comments based on the language of their subreddits.
+In the title text, a Markov chain refers to a system that transitions between a countable number of states, based only on the current state and none of the previous ones that led up to it. SwiftKey follows this property since it provides outputs based only on the most recently entered word or words, not the whole sentence.
+"Massachusetts Institute of America" is a nonexistent organization. The name appears to have formed by combining "Massachusetts Institute of Technology" and either "[Field] Institute of America" (e.g. Mining) (Wikipedia links needed) or "United States of America". This illustrates the memoryless property of a Markov chain; after generating "Massachusetts Institute of", SwiftKey may have attempted to predict the next word using only the last "of" or "Institute of". Since it was not considering the word "Massachusetts" at all, the word "America" was viewed as the most likely follow-up.
+Transcript[edit]
+[Cueball showing his phone to Megan.]
+Cueball: Have you tried SwiftKey? It's got the first decent language model I've seen. It learns from your SMS/Email archives what words you use together most often.
+[Cueball and Megan in a frameless panel, with Megan now holding Cueball's phone.]
+Cueball: Spacebar inserts its best guess. So if I type "The Empi" and hit space three times, it types "The Empire Strikes Back".
+Megan: What if you mash space in a blank message?
+[Zoomed in on Megan looking at Cueball's phone, with Cueball now off-frame to the left.]
+Cueball: I guess it fills in your most likely first word, then the word that usually follows it...
+Megan: So it builds up your "typical" sentence. Cool! Let's see yours!
+Cueball: Uh—
+[Eight small frames arranged in panel space, 2 frames wide by 4 frames high, showing each word added by Swiftkey as Megan hits space each time:]
+SwiftKey: I
+SwiftKey: Am
+SwiftKey: So
+SwiftKey: Sorry—
+SwiftKey: That's
+SwiftKey: Never
+SwiftKey: Happened
+SwiftKey: Before.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Does the sequence account for the word before the previous word? If it does not account for that, I feel like it would be a combination of "Massachusetts Institute of Technology" and "United States of America." Which would imply that "of America" is a more common pair of words than "of Technology" for the sequence user. Both this and the original poster's statements make sense. UnaSalusVictis (talk) 01:32, 25 November 2012 (UTC)UnaSalusVictis
+What if "that" was mashing space on an empty message? Then SwiftKey would be "sorry" because it didn't know what to type. This is the first comment I post, so sorry if I did it wrong. 188.114.106.185 18:39, 16 February 2016 (UTC)
+
+The explanation reads "Swiftkey is probably saying "I'm so sorry that's never happened before" because the software doesn't know what to do." but what I got out of it is that cueball often says this - that is, he repeatedly tells people X has never happened before. That is to say, 'it' happens often, or he just makes mistakes in general all the time. 108.162.216.39 15:17, 15 March 2016 (UTC)
+How many messages would you have to make and send using this method (pressing the spacebar and letting SwiftKey choose the words) before those messages change SwiftKey's predictions and streamline all messages untill they become one word repeated over and over a thousand times over? 173.245.54.63 (talk) (please sign your comments with ~~~~)
+I think that's starting to happen to me with the iOS predictive keyboard. I wrote several app reviews for apps that need to be updated for 64 bit support, and the predictive text now produces things like the following (actual output) "this app app needs to be updated to support the app app needs to be updated to support the latest version of the app app needs to be updated to support the app app needs to be updated to support the app app needs to be updated to support the app app is a good game and it needs to be updated to support the app app is a very very good feature for the Wikipedia Wikipedia app app." 07:53, 20 June 2017 (UTC) 162.158.75.232 (talk) (please sign your comments with ~~~~)
+This comment was me! Here’s another iOS keyboard prediction sequence: “The other two were the only way to make a new sibling is to be able access is the way you can do it and you then have a plan to get to the point that it allows us anyway you could get the free version and it is free to be free but I cannot is it a good game.” -a bit less app review focused than before anyway 😂 PotatoGod (talk) 18:10, 15 May 2018 (UTC)
+Categories: All comicsComics from 2012Comics from JuneWednesday comicsComics featuring CueballComics featuring MeganLanguageSmartphones

@@ -1,0 +1,42 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1138: Heatmap
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1138)
+|<< PrevComic #1138 (November 23, 2012)Next >>|
+Heatmap
+
+Title text: There are also a lot of global versions of this map showing traffic to English-language websites which are indistinguishable from maps of the location of internet users who are native English speakers.
+Explanation[edit]
+Another of Randall's many Pet Peeves, this time on maps. This one has also been numbered #208, like the first comic on the subject 238: Pet Peeve #114.
+In the comic, Cueball compares three heatmaps, showing the location of "our site's users," "subscribers to Martha Stewart Living" and "consumers of furry pornography." The three maps are nearly identical, leading Cueball to come to the conclusion that his site's userbase largely consists of fans of Martha Stewart and furry porn, and that the audience (presumably the owners/operators of the website) should adjust their content or advertising to cater to these demographics. However, Cueball's analysis is faulty; the actual reason the maps are the same is they all match the population concentration in the U.S., not because there is any statistically-significant relation between geographic location and any of the mentioned sub-populations.
+A heatmap is a graph showing three-dimensional data on a two-dimensional image, with each pixel's color representing the value of the data at that position. It does not necessarily have anything to do with heat, but a heatmap may resemble a thermal image. In this comic, red represents the highest numerical values, then yellow and green, with white the lowest values, in all three maps.
+The title text reflects a similar situation in world maps where the website written in English is read by English-speaking users no matter the location, because their ISP and search providers direct them primarily to English websites, so the visitors' geographic graph matches the graph of the global English-speaking population.
+Transcript[edit]
+[Three near-identical charts of the 48 contiguous United States are shown with heatmaps depicting population density. The first chart is labelled "Our site's users," the second chart is labelled "Subscribers to Martha Stewart Living," and the third chart is labelled "Consumers of furry pornography." Cueball is standing with a stick pointing at the charts.]
+Cueball: The business implications are clear.
+Pet peeve #208:
+Geographic profile maps which are basically just population maps
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+So does this mean... that all the subscribers to Martha Stweart Living are secretly furries? *gasp* 129.97.124.23 23:00, 23 November 2012 (UTC)
+No. It means that to people who give motivational talks to people who want to sell you things, all the people included in such maps are called prospects or prospective customers. It is a good explanation for spam. I used Google News BEFORE it was clickbait (talk) 07:13, 14 January 2015 (UTC)
+Clearly it means that the furries are, in general, Martha Stewart fans, not the reverse. Are you mad? -- 174.125.142.147 (talk) (please sign your comments with ~~~~)
+It's a subtle hint that xkcd will be transitioning into Martha Stewart furry porn.76.20.159.250 05:05, 24 November 2012 (UTC)
+I thought that it was implied that if they switched to furry advertising/content, they could be as successful as Marth Stewart... not that they should combine marth stewart and furry content into their site. -- 109.65.32.63 (talk) (please sign your comments with ~~~~)
+I was expecting some reference to George Lucas' THX 1138 for this comics.
+But then, it is not George Lucas who's editing Xkcd...
+Paulo Sedrez 139.82.111.111 18:39, 7 January 2013 (UTC)
+
+There is an additional pun, and I do not know if it was intended. One adult furry publication is called Heat. A map of where furry porn is appreciated would therefore also be a Heat map. -- Godel Fishbreath (talk) 15:14, 17 May 2013 (UTC) (please sign your comments with ~~~~)
+I'm a little weirded out by the fact that our resident expert on the titles of adult furry publications has the name of "Fishbreath." Makes one wonder where his mouth has been. 173.245.55.210 17:24, 27 December 2013 (UTC)
+Godel Fishbreath. Obviously the answer to your question is undecidable. 173.245.52.163 01:41, 1 March 2015 (UTC)
+It's remarkable the places I sometimes see your messages, Godel Fishbreath. Best of wishes mate. Thisfox (talk) 06:51, 21 January 2021 (UTC)
+The 'incomplete' tag refers to the title text. I'm not sure if this refers to the actual title text (which has been explained in the comic), or the title "Heatmap" (which I just added an explanation for). Either way, I think it's covered; I intend to remove the incomplete tag in a few days, if nobody objects. Cosmogoblin (talk) 22:54, 24 June 2015 (UTC)
+
+Could someone please do some photoshop magic and show the actual difference between the 3 maps please? I would, but I don't know how to use Photoshop. SqueakSquawk4 (talk) 10:20, 2 January 2023 (UTC)
+In what way show the difference? Overlaying is easy enough (for two maps cut rectangles, paste as new layers moved atop the third (use transparency as a guide), then either twiddle the transparencies to make it look informative whilst static or make them all backbto opaque but use layers as animated .gif frames, suggesting 1000ms rate or thereabouts), or at least it is in GIMP - not used Photoshop for years... Maybe a decade, but I bet it's almost the same.
+Alternately, slightly more complicated is to translate the white-to-red colours to some monochrome shade (white-as-#000, red as #FFF, which can probably be done by isolating a given RGB component; but preserve/extract the black lines as a separate overlay for later) and then use them to govern R, B and G channels (again, easy in GIMP), combining them together to give greyshades where equal or colours where the intermediate levels 'disagree' either in one (vs the other two) or even across all three.
+Would try either, myself, but I don't have upload ability and it also needs me to be on my desktop instead of this tablet. So I'm giving you (anyone) my likely methods. 172.71.178.65 13:53, 2 January 2023 (UTC)
+Categories: All comicsComics from 2012Comics from NovemberFriday comicsComics with colorComics featuring CueballPet PeevesUS mapsChartsStatisticsFurries

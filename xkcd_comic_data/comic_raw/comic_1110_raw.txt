@@ -1,0 +1,860 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1110: Click and Drag
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1110)
+|<< PrevComic #1110 (September 19, 2012)Next >>|
+Click and Drag
+
+Title text: Click and drag.
+Contents [hide] 
+1 Explanation
+2 Transcript
+3 Trivia
+4 Viewers
+5 Whole Image
+6 List of details and references (with transcript)
+7 References by Category
+7.1 Vehicles
+7.2 Man-made Structures
+7.3 Technology
+7.4 Games
+7.5 Movies
+7.6 Television Shows
+7.7 Books
+7.8 Music
+7.9 Radio Programs
+7.10 Flora and Fauna
+7.11 People
+7.12 Places
+8 Discussion
+8.1 Different methods of viewing the world
+8.2 ZIP upload
+8.3 Raptors
+8.4 Black hat
+8.5 End of the JS file comment
+8.6
+8.7 IRC logs or it didn't happen
+8.8 ICC sections
+8.9 Jesus
+8.10 dot-code
+8.11 Bob Ross
+8.12 48?
+8.13 More Trivia
+8.14 Updated
+8.15 Locked
+8.16 Transcript
+8.17 Edges connected
+8.18 You know what would be awesome?
+8.19 another click and drag browser
+8.20 path to completeness?
+8.21 Video Game Reference
+8.22 Submarine? Perhaps not.
+8.23 Definitely not a Submarine.
+8.24 Some notes on missing entries
+8.25 this is great. I love exploration!
+
+To experience the interactivity, visit the original comic.
+Explanation[edit]
+This comic is a take on how vast and rich the world is, and on the thrill of exploring it. The world can be described as sad, as well as it can be described as wonderful, even if this seems a bit contradictory, just because it is so big and there are so many different things happening in it all at once. Cueball comments about this while hanging from a balloon, which brings to mind the expanded perspective over the landscape attained by early experimenters in overland flight.
+The title text is the same as the comic title, and both of these invite the reader to Click and drag the inside of the last panel, with their mouse, and by dragging, explore what is hidden outside that panel. The image displayed at first turns out to be part of a huge landscape, filled with big or small things, humorous details, people here and there, cave mazes, things floating in the air, jokes and references, unexpected things, relaxing views, etc.
+The fact that we only see a small part of the landscape at once refers to the idea that we cannot in real life comprehend the whole world altogether, but only what is around us and/or in the range of our understanding at the time. The click-and-drag process, in which it is impossible to go as fast as we would want to, also draws a parallel with the fact that exploration is always done gradually, step by step, and trying something (i.e. here dragging in a certain direction) always has a cost. This click-and-drag exploration reproduces the thrill of discovering new horizons, getting lost sometimes, finding unexpected things, seeing beauty, humor, desolation or happiness here and there... which can easily captivate an xkcd reader for a long time (and as such qualifies as nerd sniping).
+In comic 1416: Pixels you zoom, by scrolling, until every pixel in this image turns into new pictures, and this can be continued again and again. Once you have zoomed in, you are able to click and drag the picture just like in this comic.
+And in 1608: Hoverboard exactly the same idea is used again, but instead of dragging the image you fly/float around in the image with Cueball on a hoverboard. This gives a very different way to explore as he cannot go through walls or the earth etc. You also have to discover that there is a big world outside the initial play area; and where this comic tried to help people realize they should do something, both with the title and title text, Hoverboard directly tries to dissuade people from going outside with a warning message. Another major difference is that hoverboard is actually a game where you can collect coins (spread throughout the picture) and return them to the starting point to gain a score.
+The book Thing Explainer that was the reason for the Hoverboard game, also has a direct reference to this comic, as Cueball is seen floating with his balloon outside the cockpit in the explanation for Stuff you touch to fly a sky boat.
+In 1975: Right Click, the April Fools' day comic of 2018, the title is similar to this one, in that it gives away how the user should begin to interact with the comic. It is though nothing like this comic or Hoverboard.
+Transcript[edit]
+[This transcript only covers the first four panels as they are shown here above (i.e. before you click and drag).]
+[Cueball is narrating the story, all the text is written in boxes above and below him without speech lines connecting to him.]
+[Cueball is floating by holding onto a balloon with one hand.]
+From the stories
+I expected the world to be sad
+And it was
+[Cueball has grabbed hold of the balloon with both hands.]
+And I expected it to be wonderful.
+[The wind picks up and blows Cueball to the right.]
+It was.
+[Full width panel where the scene opens up. You see Cueball is about a tree's-height from the ground. To the right there is a tall tree with no leaves on it and a broken limb. Below him are some rocks and grass. This is the initial view of the world, that can be clicked and dragged. It is part of tile named 1 North 1 East.]
+I just didn't expect it to be so big.
+[The rest of the comic is transcribed below in the List of details and references section.]
+Trivia[edit]
+The click-and-drag portion of this comic is divided up into 2592 sections of 2048x2048 pixels.
+There are 225 separate 2048x2048 PNG files (plus the PNG container with the first panels). The other 2337 sections are simply filled black (in the south) or white (in the north) with HTML.
+The populated area is 81 frames wide (33 West - 48 East) and 32 frames tall (13 North - 19 South)
+According to Randall in #xkcd on the night this was released, a full size image of this comic (leaving out the blanks) would be 60 gigapixels, and a true single rectangular image would be close to a terapixel. The online version is 1 gigapixel without the blanks and 10 gigapixel as rectangular image (2048x2048x225 = 943,718,400 and 2048x2048x2592 = 10,871,635,968).
+Based on the height of figures as well as the "two mile" figure given on the left-hand side, the scale should be approximately 32 pixels per 5 feet, making the entire map 25920 feet wide (4.9 miles or 7.9 kilometers) by 10240 feet tall (1.9 miles or 3.1 kilometers). If it were an overhead area, it would be about 9.5 square miles (6093 acres or 24.7 square km), roughly the size of Block Island, Rhode Island, USA. Just the POPULATED area (225 tiles with something drawn on them) would be 529 acres, or 0.826 square miles (2.14 sq km) — about the size of Princeton University.
+If the 2048x2048 PNGs were to be printed out as a single poster at 300 dpi, the poster would be 15.36 yards (14.05 meters) long and 6.07 yards (5.55 meters) tall. Most of the detail would be invisible, as these PNGs are optimized for ~72 dpi screens.
+There is one (very dark) green pixel in 9 South, 7 East at 1643,1165. The remainder is all grayscale.
+At the end of the right side it shows Cueball pondering where he'll float next.
+Viewers[edit]
+1110: Click and Drag (native zoom, click-and-drag)
+Warning: there are cheating possibilities—people have implemented ways to explore that world more easily—but the best way to enjoy this comic is to play the game, explore the comic's world the way you're supposed to, get lost in the caves or in the sky, be startled by unexpected things or happy when finding some people after lengthy click-and-dragging through a repetitive landscape. If you didn't do that already, reading any below will spoil you from truly enjoying the comic.
+Though you can download the full view, the easiest way to browse it is through a Zooming user interface.
+http://victorz.ca/xkcd_map/ [recommended] (all features of following viewer plus: content highlighted, minimap, less memory and bandwidth, goes to infinity, requires up-to-date web browser)
+http://xkcd-map.rent-a-geek.de/ [alternate if above doesn't work] (zoom controls, scroll-zoom, click-and-drag, hash permalinks, full-screen)
+http://dump.ventero.de/xkcd1110/ [dead link] (zoom controls, scroll-zoom, click-and-drag, arrow keys, hash permalinks)
+http://dump.ventero.de/xkcd1110/open.html [dead link] (scroll-zoom, click-and-drag, hash permalinks)
+http://xkcdmap.webege.com/ [dead link] Google-maps-style navigation and zooming, with tiles with content highlighted in black or white, allows easy finding of interesting tiles with small things hidden in the ground and sky
+Whole Image[edit]
+Whole Image at 0.5% Zoom. The part visible at the beginning is marked red.
+List of details and references (with transcript)[edit]
+The 225 existing tiles are sorted by columns from West to East and from North to South in each column. (Note that this only includes the tiles that are not entirely white or black).
+Grid coords Explanation and Transcript
+1 North, 33 West Cueball and Megan reach the western edge of the image and decide to live there. This is a reference to the last line in the film Groundhog Day.
+Transcript
+[Cueball and Megan are in a valley at the western edge of the world. Megan is checking their distance traveled with a GPS device. Cueball is looking behind them (eastward).]
+Cueball: We've walked pretty far. We must be on the other side of the world by now.
+Megan: Let's see, we've gone... Two miles.
+Cueball: Darn. You know, this is a nice spot. Let's just live here.
+1 North, 32 West Just terrain, no activity.
+1 North, 31 West Just terrain, no activity.
+1 North, 30 West Just terrain, no activity.
+1 North, 29 West Just terrain, no activity.
+1 North, 28 West The smooth hillocks at the far right of this panel appear to be the nose and belly of a giant sleeping on its back. The feet extend into the next panel to the east. Possibly a reference to the giant's drink from Ender's Game.
+1 North, 27 West The westernmost hillock appears to be the feet of a giant sleeping on its back, continued from the next panel west. Velociraptors in the high grass.
+Transcript
+[Rolling hills with tall grass.]
+[On the left there are two Velociraptors. The east-facing one looks to be a modern interpretation of the raptor, the west-facing is more Jurassic Park like.]
+1 North, 26 West Just terrain, no activity.
+1 North, 25 West A large radio telescope with a female listening for a signal. Possibly a reference to the movie Contact.
+1 North, 24 West Just terrain, no activity. Very nice trees though.
+1 North, 23 West More nice trees.
+2 North, 22 West The top of a large rocket that looks similar to the Saturn V rocket (the base is in 1 North, 22 West).
+Transcript
+[A Launch Tower with a waiting Saturn V rocket look-alike attached by the umbilical lines. There are two Cueball-type characters standing on the top.]
+Person 1: So why did we build this? There have got to be other ways to get to space.
+Person 2: Believe it or not, this is the least crazy one anyone has come up with.
+1 North, 22 West The base of the Saturn V rocket on a launchpad.
+Transcript
+[A Launch Pad and Tower with a waiting Saturn V rocket attached by the umbilical lines. There is a person scaling the rocket. They are at the base of the Second Stage.]
+[A military guardsman is walking the grounds unaware of the person on the rocket.]
+1 North, 21 West Cueball asks Jesus why his footprints look like tire tracks. This is a reference to the inspirational text Footprints as well as a reference to the Transformers.
+Transcript
+[Two characters stand on the shore by the sea. One has unkempt hair, the other is a Cueball character.]
+Cueball: Jesus, why do your footprints change to tire tracks whenever I was threatened by Decepticons?
+1 North, 20 West Water
+1 North, 19 West Water
+1 North, 18 West Water
+1 North, 17 West The scruffy character beneath the palm tree might be a reference to Desert Island Discs, a BBC radio program in which a celebrity chooses the records they would like to be stranded with if castaway. The hatch is a reference to Lost in which the passengers on board a flight over the Pacific Ocean find themselves stranded on a strange island. Their first clue that they stumbled on something out-of-the-ordinary is the hatch.
+Transcript
+[An island in the middle of the sea. On its westward side is a hatch that leads down deep underground. A person is looking at the hatch. Meanwhile a person quietly climbs up a ladder built into the wall of the tunnel inside of the hatch.]
+[On the other side, a scruffy man is looking at a disc while being shaded by a tall coconut palm tree.]
+1 South, 17 West A miner. The sliding stone walls behind him (to keep back the water if he digs too far) are a reference to Ted Chiang's "Tower of Babylon".
+2 South, 17 West
+Transcript
+[Deep underground a vertical shaft gets wider the deeper you go.]
+3 South, 17 West A reference to the game AaaaaAAaaaAAAaaAAAAaAAAAA!!!, where the game play consists of falling down while avoiding objects.
+Transcript
+[Deep underground a vertical shaft gets wider the deeper you go. A man wearing a headband has set up a lemonade stand on a plank stuck into the wall. There are people falling down the shaft right next to him.]
+Falling people: AAAAAAAAAAAAAAAAAAAA
+Lemonade man: Lemonade? ...Aww, OK. Lemonade? ...Aww, OK. Lemonade?
+4 South, 17 West
+Transcript
+[Deep underground a vertical shaft gets wider the deeper you go.]
+5 South, 17 West
+Transcript
+[Deep underground a vertical shaft gets wider the deeper you go.]
+6 South, 17 West
+Transcript
+[Deep underground a vertical shaft.]
+7 South, 17 West
+Transcript
+[Deep underground a vertical shaft.]
+8 South, 17 West An X-Wing fighter flies up a vertical shaft, its pilot communicating over radio. The quote is a reference to a scene of the Star Wars movie Return of the Jedi, with an X-Wing piloted by Wedge Antilles escaping from inside the Death Star ([1]):
+Lando Calrissian: "All right, Wedge. Go for the power regulator on the north tower."
+Wedge Antilles: "Copy, Gold Leader. I'm already on my way out."
+Transcript
+[Deep underground, in a vertical shaft. There is an X-Wing fighter running along the shaft.]
+X-Wing pilot [over radio]: Copy that, Gold Leader. I'm already on my way out.
+9 South, 17 West
+Transcript
+[Deep underground a vertical shaft gets slimmer the deeper you go.]
+10 South, 17 West
+Transcript
+[Deep underground a vertical shaft gets slimmer the deeper you go.]
+11 South, 17 West
+Transcript
+[Deep underground a vertical shaft.]
+12 South, 17 West Cueball and Megan looking up from the bottom of the shaft. A tunnel goes to the east, there is a woman running eastward.
+1 North, 16 West
+Transcript
+[A calm day out at sea.]
+12 South, 16 West
+Transcript
+[Deep underground a tunnel comes from the west. A few feet before the end of it a vertical shaft goes down, just about wide enough for a single person to go down. It stops in a man-made cavern, then a tunnel continues eastward.]
+1 North, 15 West
+Transcript
+[A calm day out at sea.]
+12 South, 15 West
+Transcript
+[Deep underground a tunnel comes from the west and meets a tall cavern, but keeps going all the way to the east. Cueball has dug up from the ceiling tunnel and is shoveling out a little cavern.]
+1 North, 14 West People today can't seem to turn off their phones, unplug and just be by themselves. It has become a societal expectation that every person is constantly connected to the world and is there to respond at any moment. The idea of being indisposed has become a foreign concept.
+Transcript
+[To the west is a sea. There is a beach. Further in-land there are lots of trees with park benches under them.]
+[Cueball and White Hat are walking towards the benches.]
+White Hat: Do you ever put your phone away and just take a moment to breathe and be alone with your thoughts?
+Cueball: Yeah, once. It was terrifying.
+12 South, 14 West
+Transcript
+[Deep underground a tunnel with a very rough ceiling goes all the way from west to east.]
+1 North, 13 West A rocky hill with a lighthouse. Megan and Ponytail sit atop the hill. A half-buried Statue of Liberty is on the other side in reference to Planet of Apes with Cueball's "You Maniacs!" line parodying the final line from the film. Another western shore makes this a very small landmass.
+Transcript
+[Cueball shaking his fist at the half-buried Statue of Liberty.]
+Cueball: You maniacs!
+Cueball: That sand sculpture trophy was supposed to be mine!
+12 South, 13 West There are two tunnels, one at the top of the tile, one at the bottom. The top tunnel continues to the east, but terminates in a rockfall about 1/3 of the way to the west. The lower tunnel continues across the entire tile. In the lower tunnel, someone in a straw hat saying "Becky?". He is carrying either a grappling hook or the end of a rope. Probably a reference to The Adventures of Tom Sawyer in which the title character rescues his sweetheart, Becky Thatcher, from a cave. Or, if that's a fedora and not a straw hat, then it could be Indiana Jones, carrying a whip, and calling Rebecca Stein from the "Indiana Jones And The Spear Of Destiny" comic books, or some other random Becky.
+1 North, 12 West Water
+12 South, 12 West
+Transcript
+[Deep underground a two distant tunnels run from west to east connected by a thin vertical shaft. The lower tunnel has a man-made cavern dug out.]
+11 North, 11 West An empty white tile with symmetric coordinates (11 North, 11 West).
+1 North, 11 West Marco Polo is a game similar to tag but played in a swimming pool. The person who is "it" closes their eyes, or is blind-folded and calls out "Marco". All the other players must respond "Polo". The person who is it then tries to find the people by a sort of echo-location. It is a reference to Marco Polo the Venetian merchant who was the first European to make it to Central Asia and China.
+Transcript
+[Out at sea. A blindfolded character playing Marco Polo alone.]
+Blindfolded man: ...Marco? ...Marco?
+11 South, 11 West A black tile with symmetric coordinates (11 South, 11 West).
+Note, that this PNG file contains an ICC section which means that the blackness in this image is properly color-corrected.
+12 South, 11 West Deep underground, a cavern opens up to reveal trees, grass, rocks, and a lake. A bird flies toward the trees. A person sits on a rock thoughtfully gazing into the water. An upper tunnel goes completely across the tile.
+1 North, 10 West Water.
+12 South, 10 West A tunnel runs across the top of the tile. It grows rougher on the east side.
+1 North, 9 West Bitcoin is a peer-to-peer currency, making it more difficult to trace than traditional currency. It is also difficult, if not impossible, for governments to confiscate. Peter Thiel is a co-founder of The Seasteading Institute that promotes permanent, autonomous ocean communities (similar to a micronation), enabling innovation with new political and social systems. Peter Thiel is also a co-founder of PayPal, a global e-commerce business allowing payments and money transfers to be made through the Internet. Peter Thiel and other co-founders' original vision for PayPal was to have an online payment service that enabled account holders to send money to anyone in the world with just an e-mail address. xkcd also supports bitcoin donations. This might be a reference to the unspent bitcoins from a recent $250,000 theft. If they don't have any internet access they might find it hard to spend their loot.
+Edwin S. Shneidman was a pioneer in the field of suicide prevention. He published 20 books on suicide and its prevention, one of which, A Commonsense Book of Death, defines most people to be death-postponers. A death-postponer hopes that death will not occur in anything like the foreseeable future; the event must be staved off for as long as possible. The reference to a "death-postponer" is also the literal opposite to the actual name of the item Cueball throws, a life preserver.
+Transcript
+[Out at sea. There is an anti-aircraft platform with four people aboard, and one person in the water.]
+[On the west side of the aircraft a man with hair is speaking to a bearded man half a head taller than the haired man.]
+Man with hair: I'm not saying our bitcoin-only island nation was a bad idea, but we really should've secured Internet access before we left.
+[On the east side of the platform a man wearing a sailor's hat walking toward the control tower. Cueball is on the edge holding a lifebuoy.]
+Cueball: Hey, you in the water! Hang on-
+Cueball: I'm gonna throw you a death postponer!
+2 South, 9 West Jellyfish playing some sort of console game.
+12 South, 9 West A rocky tunnel descends unevenly from the west, growing wider to the east. In the middle, a curving roof with two pointed recesses, together with the upward arching tunnel on either side, is reminiscent of the shape of a bat with wings spread.
+1 North, 8 West Poop deck is the nautical term for the deck that forms the roof of a cabin built in the rear of the ship.
+The character climbing the rigging is apparently Elizabeth Warren, who said at the 2012 Democratic National Convention, "People feel like the system is rigged against them. And here's the painful part: They're right. The system is rigged."
+The pirate onboard is shouting "Avast!" (meaning stop), but no one is apparently listening. Possibly a reference to the comic being released on International Talk Like a Pirate Day.
+The three-masted sailing ship with the pirate could be a reference to Monty Python's short film The Crimson Permanent Assurance in which rebellious office clerks turn their office building into a pirate ship, raiding financial districts in numerous big cities, before falling off the edge of the world.
+Transcript
+[Out at sea. There is a three-masted sailing ship at full sail with a healthy wind billowing the sails. There are five crew out on deck, four are aloft, and one on watch in the bowsprit.]
+[A girl is seated on the spanker.]
+Girl: Haha, "Poop Deck."
+[Aloft on the mizzen-mast a woman is standing talking to another woman climbing the rigging between the mizzen and main masts.]
+Mizzen-mast woman: Elizabeth, why are you climbing the rigging?
+Elizabeth: Forget this rigging. The whole system is rigged against the middle class and families trying to climb out of poverty.
+Mizzen-mast woman: ...Ok, but for real, what are you doing on this boat?
+[Fore of the mizzen-mast a classic bearded pirate stands with his sword drawn.]
+Pirate: Avast! Avast! ...Avast?
+[Fore of the main-sail, a Cueball-type character looks over the railing.]
+[Aloft a man is swinging around the fore-mast pretending to be Spiderman.]
+[Lower on the fore-mast a Cueball-type character is adjusting the rigging. On the deck another is adjusting more rigging.]
+[Out on the bowsprit Megan is keeping watch, and telling the runner Ponytail what is ahead.]
+Megan: We should go slow -
+Megan: That water up ahead looks pretty deep.
+12 South, 8 West A wide rocky tunnel slopes from the west off the bottom of the tile.
+13 South, 8 West An opening from above narrows and flattens out as the rough tunnel turns eastward.
+7 North, 7 West A Boeing 717 or possibly a McDonnell Douglas DC-9 in landing configuration.
+1 North, 7 West Water
+13 South, 7 West A tunnel descends unevenly from the west, opening up somewhat in the bottom corner to the east. Megan and Ponytail are climbing a near-vertical section of the rocky wall.
+14 South, 7 West Loose stones form the bottom of a small cavern that extends upward out of the tile. A tunnel runs out of it to the east.
+1 North, 6 West Water
+1 South, 6 West Jellyfish
+13 South, 6 West Mostly solid rock; the east side and roof of a cave is in the lower westward corner.
+14 South, 6 West
+Transcript
+[A flat tunnel runs the length of the whole tile. It is rough cut on the ceiling, but a smooth surface for walking. There is a hint that the ceiling draws away from the floor to the west. Cueball is walking east along the tunnel.]
+6 North, 5 West Red spiders from earlier comics falling from the sky
+1 North, 5 West "I'm on a Boat" is a single from The Lonely Island's debut album Incredibad. This may be the first time a knit cap has been used in xkcd. Knit caps have only been used a few times since, most prominently on Knit Cap, see their section for more details.
+Transcript
+[Out at sea. On the west side are two buoys, on the east is only one, in the center there is a sailboat. Cueball and another person wearing a black knit cap are on the small sailboat.]
+Black knit cap: I'm on a boat! I expected more from the experience! Instead, all I can think to do is tell people where I am! ...I'm on a boat!
+14 South, 5 West
+Transcript
+[A flat tunnel runs the length of the whole tile. It is rough cut on the ceiling, but a smooth surface for walking.]
+2 North, 4 West An Embraer E-190
+1 North, 4 West The coast of the body of water at a beach with some sea birds and beachgoers.
+14 South, 4 West
+Transcript
+[A flat tunnel runs the length of the whole tile. It is rough cut on the ceiling, but a smooth surface for walking. The shaft grows in diameter as it goes eastward.]
+3 North, 3 West
+Transcript
+[High in the sky.]
+[Cueball is sitting in a swing attached to the end of a crane, and is swinging.]
+Cueball: WHEEE!
+2 North, 3 West An empty white tile. Exactly the same as 8 North, 1 West
+1 North, 3 West The west wall of a large building which staircases narrower as it rises.
+14 South, 3 West
+Transcript
+[A flat tunnel runs the length of the whole tile. It is rough cut on the ceiling, but a smooth surface for walking. A small vertical shaft goes up to a very small cavern.]
+8 North, 2 West This seems to be the peak of the Burj Khalifa to which 6 North, 27 East refers.
+7 North, 2 West Part of the Burj Khalifa
+6 North, 2 West Black Hat is seen in the picture with a gatling gun, probably the Imperial cannons referred in 8 North, 6 East. Also at bottom, a cueball is flying a paper airplane off the building.
+Transcript
+Ponytail: We're so high up that if you threw a penny off the edge, inflation would reduce its value to $0.00999999975 by the time it landed.
+[Further south, on a balcony]
+Megan: The Wikipedia article on this balcony says the view is nice.
+Cueball: I thought so.
+5 North, 2 West A construction crane lifting another, smaller, construction crane. Possibly a reference to the Truck Truck Truck gag from the Simpsons. Also, self-erecting tower cranes do usually not lift crawler cranes
+4 North, 2 West A narrowing peak. The above and below panels have construction cranes, but this panel is refreshingly devoid of them.
+3 North, 2 West On the west side, the top of a (different) construction crane. On the east side, Cueball is firing a clay pigeon launcher while Ponytail fires a shotgun at the target. Meanwhile, Megan comes up from behind with CDs.
+Transcript
+Megan: I found some more CDs
+Ponytail: PULL!
+2 North, 2 West On the west side, the bottom of the construction crane. On the upper eastern side, Hairbun is laid back, relaxing in a chair while using a laptop. On the next step down, a party crowd is out on a balcony. The same idea was later used in 1499: Arbitrage which implies a similar plan to extract wealth out of a small market inefficiency that, in reality, would be far too onerous to exploit, in this case reselling the free chips offered at some restaurants. Later 1721: Business Idea implies a similar plan to extract wealth out of a small market inefficiency that, in reality, would be far too onerous to exploit, in this case premium gasoline at regular prize. See also the what if? Cost of Pennies regarding why it would not be worth trying these kind of ventures out.
+Transcript
+Person: I'm working at a small startup. Our business model is 'taking free drinks from industry events and reselling them.'
+Person: Oh, hey, I should get going...
+1 North, 2 West The bulk of the base of the building with one terrace visible on either side. Megan says "I came here to chew bubblegum... And I'm all out of bubblegum" is a reference to the movie They Live in which the character Nada famously says "I have come here to chew bubblegum and kick ass...and I'm all out of bubblegum". That line is also used in the game Duke Nukem 3D by Duke himself, when Shrapnel City (Episode 3) starts. Also, Cueball says "That's a shame" a line popularised by Jerry in the sitcom Seinfeld. Pool line is a reference to "pool on the roof" prank from the movie Hackers.
+14 South, 2 West
+Transcript
+[A flat tunnel runs the length of the whole tile. It is rough cut on the ceiling, but a smooth surface for walking. There is a single vertical shaft that would have gone down. The ceiling above the shaft has crumbled, and the rubble has filled in the shaft.]
+8 North, 1 West An empty white tile. Exactly the same as 2 North, 3 West
+5 North, 1 West The tail of the crawler crane lifted at 5 North, 2 West.
+2 North, 1 West An empty white tile.
+1 North, 1 West The western wall at the base of a large building including its portico, a remote control rocket-powered bicycle attempting to launch from the first terrace, a balcony on the second terrace and a satellite dish and other exhausts on the third. Two trees with a squirre stand in front of the building leading to a parking lot with cars and one Wienermobile
+14 South, 1 West
+Transcript
+[A flat tunnel runs the length of the whole tile. It is rough cut on the ceiling, but a smooth surface for walking. There are two rough cut vertical shafts going down, there is a rock pile on the ground between the two. A small vertical shaft goes up to a very small empty cavern.]
+15 South, 1 West This is a sad statement about where the Internet is right now. The Internet should be a vast and diverse place filled with new and exciting content that breaks the mold of already established media. But instead, everyone on the Internet has become a shill for their Facebook page and their Twitter stream. It feels like everything links back to these two sites. Even stuck at the bottom of a shaft, these two people care more for how many Facebook likes and twitter followers they have, than for their own lives and safety.
+Transcript
+[Deep underground. There are two shafts, the western one ends abruptly with a pile of rubble at the bottom. The other changes direction and becomes a tunnel to the east.]
+[Cueball and Megan are stranded at the bottom of the western shaft.]
+Cueball: Is anyone up there? If you can hear us, friend us on Facebook!
+Megan: Follow us on Twitter! Please!
+13 North, 1 East Two whales is possibly a reference to the Hitchhiker's Guide to the Galaxy and the planet Magrathea, where (improbably) two incoming missiles are turned into a whale and a bowl of petunias. It may also be a reference to the album From Mars to Sirius by the French heavy metal band Gojira, specifically the track, "Flying Whales." A third possibility is a reference to Respighi's "The Pines of Rome" from Fantasia II.
+6 North, 1 East A hot air balloon is the oldest form of human-carrying flight.
+Transcript
+[High in the sky. Cueball and Megan are in a hot air balloon.]
+1 North, 1 East The "center" of the world; the default loaded image with Cueball floating by balloon. The balloons may be a reference to comic 1106. This may also be a reference to Winnie The Pooh. The parking lot to the west ends to a grassy/rocky field with a tree. A hill runs up to the east with a fountain.
+Transcript
+[Open scene.]
+[To the extreme left there is the end of a parking lot. Right from that Cueball is holding onto a balloon several feet from the ground.]
+Cueball [narration]: I just didn't expect it to be so BIG.
+[About 50 feet east of Cueball there is a lone tree with no leaves on it. Cueball is approximately parallel to with the top of it.]
+[Farther east and much higher up is a single balloon floating away.]
+[More east and on the ground Beret Guy is waving a butterfly net, chasing an RC Helicopter.]
+[Two girls, one blonde and one darker, are walking away from Beret Guy.]
+[On the extreme right is a fountain spraying water.]
+14 South, 1 East
+Transcript
+[A flat tunnel runs the length of the whole tile. It is rough cut on the ceiling, but a smooth surface for walking. A single vertical shaft extends southward, rough cut all around.]
+15 South, 1 East No activity, mineshaft
+16 South, 1 East No activity, mineshaft
+17 South, 1 East Alaska at the bottom of the shaft.
+At the lowest level of the cave, a fish leaps from water.
+9 North, 2 East A reference to the Apollo 13 manned mission to the moon in 1970. Two days after launch, en route to the moon, an oxygen tank exploded. Astronaut Swigert reported the incident to Mission Control in Houston saying 'Houston, we've had a problem.' The 1995 movie Apollo 13 deliberately misquoted Swigert's famous statement as 'Houston, we have a problem' because the original made it seem that the problem had already passed.
+The response is a parody of the inspirational quote 'There are no problems, only opportunities.'
+Transcript
+[The Apollo 13 mission is en route to the moon. An astronaut on board the craft informs Mission Control of an incident.]
+Astronaut: Houston, we have a problem.
+Mission Control: That's a negative, Apollo. There are no problems - only opportunities. Over.
+3 North, 2 East A reference to the Greek myth of Icarus and his father's escape from Crete by building wings of feathers and wax. The joke is that, the incredible part of the story, the fact that Icarus and his father actually flew with simple wax and feathers, is downplayed to try to give children an object lesson about humility and hubris.
+Transcript
+[High in the air. There are feathers floating gently down. Below them is Icarus falling head first, he has the remains of wax and feather wings strapped to his arms.]
+Icarus: I only hope the story of how building wax wings enabled me to fly teaches everyone a lesson about hubris.
+1 North, 2 East
+Transcript
+[To the left, Ponytail is climbing up while Cueball has second thoughts.]
+Cueball: We should turn back.
+Ponytail: Wimp.
+[In the middle, Cueball and Megan seem to be soaking in some sort of pond.]
+[To the right, Ponytail is standing on top of a castle while Megan pushes a boulder and Cueball is playing some music.]
+14 South, 2 East
+Transcript
+[A flat tunnel runs the length of the whole tile. It is rough cut on the ceiling, but a smooth surface for walking.]
+17 South, 2 East
+3 North, 3 East Megan is surfing on a Boeing 767-300W
+2 North, 3 East [Ground slops uphill, left-to-right (West to East). Close to the far right boundary is the Christmas Tree from A Charlie Brown Christmas. In the middle is an electronic listening station. Right and Up-slope of the listening station, Megan and Cueball are lying on the ground, talking. Near bottom left is Ponytail, wearing sunglasses, roller-skiing off a ski jump. Top left are four birds in the sky.]
+Transcript
+Megan: Ever wonder if there's life up there beyond the stuff we're covering up?
+Cueball: Nah.
+1 North, 3 East
+14 South, 3 East
+Transcript
+[The tunnel opens up to a small cavern. The ground of the cavern is grass covered, and there is a tree growing in the center. Cueball is lounging near the tree.]
+17 South, 3 East
+18 South, 3 East Minecraft reference: Someone (yelling, "AAAA") escapes a creeper (hissing, "SSSSSSSS") by running deeper into the cave.
+2 North, 4 East The Blue Hill Meteorological Observatory as seen in this particular photo. The radio tower depicted shows the antennas for the WGBH and WKAF FM stations.
+A reference to George Mallory's famous response to the question: "Why do you want to climb Mount Everest?".
+Transcript
+[Megan seems to be helping Cueball climb the hill.]
+Megan: "Because it's there" is more poetic than "I'm rich enough that my goals are arbitrary."
+1 North, 4 East A black empty tile (required because unspecified North tiles are automatically filled with white).
+18 South, 4 East
+19 South, 4 East
+2 North, 5 East Cueball can't get cellphone reception, while two wingsuit flyers are leaping off a cliff above him.
+1 North, 5 East A black empty tile (required because unspecified North tiles are automatically filled with white).
+17 South, 5 East A Winans Cigar Boat.
+19 South, 5 East
+8 North, 6 East Red Five is both Anakin and Luke Skywalker's call sign. Anakin uses the sign in the Battle of Coruscant and Luke uses it in the Battle of Yavin. Also note the use of "cannon" and "canon, possibly a reference to 1401: New."
+Transcript
+Red Five to Red Leader - I'm out of range of any Imperial cannons or canons.
+2 North, 6 East Giant airborne jellyfish.
+Transcript
+[Two birdwatchers with binoculars walk on the slope of a hill, one facing the tree at the far right of 2 North, 5 East with her back to the giant jellyfish and the other one staring at it]
+Birdwatcher #1: Ooh, a yellow warbler!
+Birdwatcher #2: Cool.
+1 North, 6 East
+16 South, 6 East
+17 South, 6 East
+19 South, 6 East
+1 North, 7 East Level 1-1 of the original Super Mario Bros. This is confirmed by text on 3 South, 7 East. Compare with screenshot. The level's "bottomless pits" continue downward.
+1 South, 7 East Two people climbing up/down the holes, and one falling.
+2 South, 7 East
+3 South, 7 East Two people are talking next to a "bottomless pit" from the Mario level, one is saying: "The walls... worn smooth by billions of tumbling Mario corpses".
+4 South, 7 East The two pits on the left join together here.
+5 South, 7 East
+6 South, 7 East
+7 South, 7 East
+8 South, 7 East RPG style pit trap
+9 South, 7 East Another Minecraft reference. Cueball standing while a girl swings a pickaxe to further dig out a tunnel. Farther down, part of the mine shaft has collapsed and sealed the hole.
+10 South, 7 East
+11 South, 7 East
+12 South, 7 East
+13 South, 7 East
+14 South, 7 East A cane is wedged in the right hand mine shaft. Likely a reference to the first Where's Waldo book, where Waldo loses his walking stick (and other items) and readers must scour the detailed illustrations to find Waldo and each of the items he drops.
+15 South, 7 East
+16 South, 7 East
+Transcript
+[Deep below the surface, the two boreholes finally end. The bones of the unfortunate ones to have fallen down the holes are scattered. A single man-made shaft is covered by a plug of some kind. The shaft goes down to supported deck arch bridge spanning a large chasm, the bottom of which is not shown.]
+17 South, 7 East
+Transcript
+[A Pyramid in a cavern. Most likely a reference to Neon Genesis Evangelion's NERV HQ, which is also located in a deep underground cavern. Most of a thatch-roof gazebo can be seen to the east of the pyramid.]
+19 South, 7 East Horizontal tunnel
+1 North, 8 East Four wind turbines, with Megan standing among them. May be a reference to 1378: Turbine
+16 South, 8 East Mostly solid rock; the roof of a cave is in the bottom corner to the west.
+17 South, 8 East A small graveyard.
+18 South, 8 East There are tentacle-like objects restricting the passing of objects through this tunnel, the art of which closely resembles the Xbox Live Arcade game Insanely Twisted Shadow Planet, and also bears a resemblance to the mouth of a Sarlacc Pit from Star Wars.
+19 South, 8 East A tunnel from the west intersects with a vertical passage from above. To the east of the intersection the tunnel dead ends, and the opening downwards is filled with rocks and impassable.
+1 North, 9 East Reference to the first line of "99 Problems" by Jay-Z ("If you're having girl problems I feel bad for you son. I've got 99 problems but a <rhymes with "witch"> ain't one."). Just left of the fence is a small cleared area with what appears to be a frog in the center. Frog Prince? Also a reference to fencepost error. Ironically, there may be an off-by-one error in the joke, since it would only take 100 fenceposts to cover 99 problems, not 101.
+3 North, 10 East The outline of the Bombardier Dash 8 Q400 aircraft shown in Wikipedia.
+1 North, 10 East Hilly terrain with a tree, and a Cueball standing on a rock.
+11 North, 11 East An empty white tile with symmetric coordinates (11 N, 11 E).
+1 North, 11 East A sine curve oscillates between -1 and 1.
+Transcript
+[A bridge begins. The land falls down to meet the water with an almost sinusoidal curve.]
+11 South, 11 East An empty black tile with symmetric coordinates (11 S, 11 E).
+Note, that this PNG file contains an ICC section which means that the blackness in this image is properly color-corrected.
+5 North, 12 East This is a re-enactment of one of the last scenes in 2001: A Space Odyssey, in which Dave Bowman shuts down Hal 9000 by one-by-one pulling out processor modules. Hal eventually regresses to his first programmed memories, the song Daisy Bell which he sings for Bowman.
+Transcript
+[High above the ground. Cueball has scaled the outside of a hot air balloon and is using a knife to cut it open while the gondola sings Daisy Bell.]
+RIIIP
+Gondola [singing, getting slower]: Daiiisyyy... Daiiiiiiisy...
+1 North, 12 East Bourne or Sagamore Bridge
+Transcript
+[The bridge continues.]
+1 North, 13 East The bridge is either the Bourne or Sagamore Bridge.
+The covered wagon was popularized during the American expansion west, as a good way to bring goods along with as a family journeyed from the crowded eastern states out west (usually to Oregon or California).
+Transcript
+[Center of the bridge.]
+[A covered wagon is crossing east, there is a person driving driving, and a person poking out the back. A footman is walking quite a ways ahead of the carriage.]
+[On top of the bridge structure, Megan and Ponytail are sitting and eating some kind of picnic.]
+Megan and Ponytail: Nom nom nom
+[A tank, vaguely resembling a Sherman Firefly, is crossing west, possibly in a reference to the WWII film A Bridge Too Far. Ponytail is sitting on the turret. Cueball is being more daring and is balancing with arms outstretch on the end of the gun.]
+[Underneath the tank a two-masted junk rigged sailboat is resting with sails furled. Megan and Cueball are fore standing at the railing looking out over the sea.]
+Megan: So, um, here's the thing—
+Megan: I'm married to the sea, but it's a very ... open marriage.
+1 North, 14 East Bourne or Sagamore Bridge
+Transcript
+[Land again.]
+1 North, 15 East Cueball is singing the chorus to the song "Flagpole Sitta" by Harvey Danger. The characters in the wagon reference the Oregon Trail computer game.
+Black Hat seems to be up to his usual shenanigans.
+Transcript
+[The bridge meets land again, and at the western foot of the bridge is a cannon. Black Hat is sitting behind the cannon, and has lit its fuse.]
+[Where the river meets the land there are stairs leading up to a landing.]
+[The covered wagon has made it across the bridge. Everything is drooping, now. The horse is not walking as upright, the driver is slouching, the person out the back is now lounging on the back with a gun clearly visible.]
+Someone inside wagon: You brought no food but how many boxes of bullets?
+[Farther east Cueball is sitting on top of a flagpole singing. Just northwest of him, a leaf spins through the air.]
+Cueball [singing]: I'm not sick, but I'm not wellll
+2 North, 16 East Top of VLF antenna.
+1 North, 16 East A cabin which appears to be hooked up to a VLF antenna.
+2 North, 17 East Top of VLF antenna.
+1 North, 17 East VLF antenna and a steep cliff dropoff to water. Cueball watches a butterfly flit around as they did in the Peanuts comic strip.
+The VLF antenna is likely to be a representation of the Marconi Station on Cape Cod as it existed in the early 1900's. This station transmitted the first trans-Atlantic wireless telegram in 1903. It had the same four towers and steep drop-off to the beach as depicted in this comic with possible original photo here.
+3 North, 18 East A Boeing 717 with landing gear deployed. Caption: "Folks, this is your captain speaking. I need you all to turn on every electronic device your have. There's no time to explain." (a reference to the game with the same name?)
+1 North, 18 East Two swimmers in the ocean saying "Stupid FreeBSD...". FreeBSD is a Unix-like operating system. A reference to 349: Success.
+1 North, 19 East A humpback whale breaching.
+1 North, 20 East A rocky shore. The uppermost rock formation in this panel appears to be a laughing face in profile.
+1 North, 21 East A fin-shaped object protrudes from the ground.
+2 North, 22 East Guy-wires
+1 North, 22 East An anchor for Guy-wires. To the east of the anchor, a very small Cueball and an equally tiny Megan can be seen in the grass.
+3 North, 23 East Guy-wires
+2 North, 23 East Guy-wires
+1 North, 23 East An anchor for Guy-wires
+4 North, 24 East Guy-wires
+3 North, 24 East Guy-wires
+2 North, 24 East Guy-wires
+1 North, 24 East An anchor for Guy-wires.
+5 North, 25 East Guy-wires
+4 North, 25 East Guy-wires
+3 North, 25 East Guy-wires
+2 North, 25 East Guy-wires
+1 North, 25 East Guy-wires with terrain
+6 North, 26 East Guy-wires
+5 North, 26 East Guy-wires
+4 North, 26 East Guy-wires, one of which Black Hat is hanging from.
+3 North, 26 East Guy-wires
+2 North, 26 East Guy-wires
+1 North, 26 East An anchor for Guy-wires.
+7 North, 27 East Top of the radio tower mentioned under 6N27E (right below).
+6 North, 27 East This appears to be the former record-holder for the tallest man-made structure, the KVLY-TV mast in North Dakota. It was surpassed by the Burj Khalifa (829.84 m (2,723 ft)) located in Dubai (also included in the comic).
+Transcript
+[Top of a radio tower. There are four guy-wires that connect to the tower, two on each side. A woman is standing on the top, holding onto the antenna for stability.]
+Woman: Dubai may have taken the record for "Tallest Manmade Structure," but North Dakota still has "Largest Buffalo Monument," "Biggest Hamburger," and "Tallest Pyramid of Oil Cans." So there.
+5 North, 27 East Radio tower with guy-wires.
+4 North, 27 East Radio tower with guy-wires.
+3 North, 27 East Radio tower with guy-wires.
+2 North, 27 East Radio tower with guy-wires.
+1 North, 27 East The base of a radio tower.
+6 North, 28 East Guy-wires
+5 North, 28 East Guy-wires
+4 North, 28 East Guy-wires
+3 North, 28 East Guy-wires
+2 North, 28 East Guy-wires
+1 North, 28 East An anchor for Guy-wires.
+5 North, 29 East Guy-wires
+4 North, 29 East Guy-wires, one of which Megan is sliding down. Possibly a reference to the game Infamous.
+3 North, 29 East Guy-wires
+2 North, 29 East Guy-wires
+1 North, 29 East Guy-wires with terrain
+4 North, 30 East Guy-wires
+3 North, 30 East Guy-wires
+2 North, 30 East Guy-wires
+1 North, 30 East An anchor for Guy-wires
+3 North, 31 East Guy-wires
+2 North, 31 East Guy-wires
+1 North, 31 East An anchor for Guy-wires.
+2 North, 32 East Guy-wires
+1 North, 32 East An anchor for Guy-wires.
+1 North, 33 East A tree with a tractor.
+1 North, 34 East A rolling grassy landscape with a fence. Some of the fence posts are topped with bluebird boxes, and birds sit on the fence wires.
+1 North, 35 East a barn and some trees.
+1 North, 36 East Reference to the original Pokémon games. When Prof. Oak tells you not to go into the tall grass without a Pokémon.
+Transcript
+[There is a large hill with very tall grass (taller than any character in this section).]
+[Left-most is some structure of some kind.]
+[West of the structure is Cueball shouting to Megan, who is running into the long grass.]
+Cueball: Don't go into the long grass! (Line from Jurassic Park 2: The Lost World which precedes the velociraptor attack.)
+Megan: Pikachu, I choose DEATH—
+Megan: And with it immortality.
+1 North, 37 East Grass.
+1 North, 38 East Grass with a short rectangular structure.
+2 North, 39 East The top of a water tower. Cueball and Megan on the catwalk at the top. Cueball looking out. Megan using some mounted device (maybe a telephone?, or some controls?).
+1 North, 39 East The base of a water tower.
+1 North, 40 East Grass.
+1 North, 41 East Grass.
+1 North, 42 East Grass.
+1 North, 43 East Grass.
+1 North, 44 East Grass.
+1 North, 45 East Grass.
+1 North, 46 East Grass.
+1 North, 47 East Grass.
+1 North, 48 East Cueball with a balloon in his hand, flying towards the image border. He says "I wonder where I'll float next". This is a reference to the very first xkcd comic. It may also be a reference to World of Goo, a computer game, where at the end of level 1 the goo balls leave the screen carried by balloons, wondering what will be next. Alternatively, this may be a reference to the detail and variety of earlier panels.
+Transcript
+[Grassy hill slowly rolls until the extreme right which ends in a much larger drop-off. This is the end of the world.]
+[Cueball is still floating holding his balloon, heading further east.]
+Cueball: I wonder where I'll float next.
+References by Category[edit]
+Vehicles[edit]
+Name Grid coords Thumbnail
+Covered wagons 1 North, 13 East 1 North, 15 East
+Remote-controlled rocket-powered bicycle 1 North, 1 West
+Sailboat 1 North, 5 West
+Sailing ship 1 North, 8 West
+Junk-rigged Sailboat 1 North, 13 East
+Hot air balloons 6 North, 1 East
+Cars 1 North, 1 West 1 North, 1 East
+Wienermobile 1 North, 1 West
+Tractor 1 North, 33 East
+Tank 1 North, 13 East
+Winans Cigar Boat 17 South, 5 East
+Boeing 717 Jet airliner 7 North, 7 West 3 North, 18 East
+Embraer E-190 Jet airliner 2 North, 4 West
+Boeing 767-300W Jet airliner 3 North, 3 East
+Bombardier Dash-8 Q400 turboprop airliner 3 North, 10 East
+Saturn V Rocket 1 North, 22 West 2 North, 22 West
+Apollo 13 spacecraft 9 North, 2 East
+X-Wing fighters 8 North, 6 East 8 South, 17 West
+Man-made Structures[edit]
+Name Grid coords Thumbnail
+Burj Khalifa 8 North, 2 West, 6 North, 27 East
+Statue of Liberty 1 North, 13 West
+Pyramid 17 South, 7 East
+Bridges (Suspension bridge, Arch bridge) 1 North, 12 East 1 North, 13 East 1 North, 14 East
+Lighthouse 1 North, 13 West
+Water tower 1 North, 39 East 2 North, 39 East
+Mine shafts 1 South, 17 West
+Graveyard / cemetery 17 South, 8 East
+Parking lot 1 North, 1 West 1 North, 1 East
+Fence posts 1 North, 34 East
+Bluebird boxes 1 North, 34 East
+Barn 1 North, 35 East
+Tire Swing 2 North, 4 East
+Fountain 1 North, 1 East
+Park benches 1 North, 14 West
+Buoys 1 North, 5 West
+Beach Umbrella 1 North, 4 West
+Butterfly Net 1 North, 1 East
+Technology[edit]
+Name Grid coords Thumbnail
+Construction Cranes (Tower crane, Crawler crane)
+Anti-aircraft platform 1 North, 9 West
+Wind turbines 1 North, 8 East
+Meteorological Observatory 2 North, 4 East
+Radio station 1 North, 16 East 2 North, 16 East 1 North, 17 East
+Radio mast 2 North, 16 East
+Radio Telescope 1 North, 25 West
+Satellite Dish 1 North, 1 West
+GPS 1 North, 33 West
+Bitcoins 1 North, 9 West
+Game Console 2 South, 9 West
+Guns (Anti-Aircraft Gun, Shotgun) 6 North, 2 West
+Laptop 2 North, 2 West
+Cellphones 2 North, 5 East
+FreeBSD 1 North, 18 East
+Facebook, Twitter 15 South, 1 West
+Games[edit]
+Name Grid coords Thumbnail
+AaAaAA!!! 3 South, 17 West
+Clay pigeon 3 North, 2 West
+Duke Nukem 3D 1 North, 2 West
+Marco Polo 1 North, 11 West
+Super Mario Bros. 1 North, 7 East
+Minecraft 18 South, 3 East 9 South, 7 East
+inFamous 4 North, 29 East
+The Oregon Trail 1 North, 15 East 1 North, 13 East
+Pokémon 1 North, 36 East
+Movies[edit]
+Name Grid coords Thumbnail
+2001: A Space Odyssey 5 North, 12 East
+A Bridge Too Far 1 North, 13 East
+Apollo 13 9 North, 2 East
+Contact 1 North, 25 West
+Groundhog Day 1 North, 33 West
+Hackers 1 North, 2 West
+Jurassic Park 1 North, 36 East
+Planet of the Apes 1 North, 13 West
+Star Wars Episode VI: Return of the Jedi 8 South, 17 West 18 South, 8 East
+The Crimson Permanent Assurance 1 North, 8 West
+They Live 1 North, 2 West
+Transformers 1 North, 21 West
+Television Shows[edit]
+Name Grid coords Thumbnail
+Lost 1 North, 17 West
+The Simpsons 5 North, 2 West
+Seinfeld 1 North, 2 West
+A Charlie Brown Christmas 2 North, 3 East
+Books[edit]
+Name Grid coords Thumbnail
+Ender's Game 1 North, 28 West
+Footprints 1 North, 21 West
+Tower of Babylon 1 South, 17 West
+The Adventures of Tom Sawyer 12 South, 13 West
+A Commonsense Book of Death 1 North, 9 West
+The Hitchhiker's Guide to the Galaxy 13 North, 1 East
+Where's Waldo 14 South, 7 East
+Music[edit]
+Name Grid coords Thumbnail
+99 Problems 1 North, 9 East
+Daisy Bell 5 North, 12 East
+Flagpole Sitta 1 North, 15 East
+I'm on a Boat 1 North, 5 West
+Radio Programs[edit]
+Name Grid coords Thumbnail
+Desert Island Discs 1 North, 17 West
+Flora and Fauna[edit]
+Name Grid coords Thumbnail
+Trees 1 North, 14 West 14 South, 3 East
+Squirrel 1 North, 1 West
+Velociraptors 1 North, 27 West
+Seabirds 1 North, 4 West
+Jellyfish 2 North, 6 East 1 South, 6 West 2 South, 9 West
+Whales (Humpback) 13 North, 1 East
+Fish 17 South, 1 East
+Yellow Warbler 2 North, 6 East
+Red Spiders 6 North, 5 West
+People[edit]
+Name Grid coords Thumbnail
+Peter Thiel 1 North, 9 West
+Elizabeth Warren 1 North, 8 West
+Icarus 3 North, 2 East
+George Mallory 2 North, 4 East
+Places[edit]
+Name Grid coords Thumbnail
+Dubai 6 North, 27 East
+North Dakota 6 North, 27 East
+Alaska 17 South, 1 East
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+It's a bit of a stretch, but I think the jellyfish is playing Super Mario Bros.. 173.245.54.105 11:36, 12 August 2015 (UTC)
+I went all the way west, but when I tried going east when I got to the mario bit I went down and got lost :( 141.101.98.246 21:22, 8 November 2013 (UTC)
+Newbie editor here (ducks abuse and fires back). When I saw the lighthouse with Megan and Ponytail @ 1 North, 13 West, I immediately went to [2]. --Philo Pharynx (talk) 18:23, 26 November 2012 (UTC)
+This is great! Keep up the good work! The servers are melting, but keep refreshing if you get a 500 error. Let's get that chart filled out. --Jeff (talk) 19:05, 19 September 2012 (UTC)
+I've been dragging for ages, and it hasn't looped back on itself yet. Source diving tells me that it's freakin' massive, and it loads in a million separate tiles. Please, let me cry in a corner at the impossible majesty of it all. Davidy22 (talk) 06:59, 19 September 2012 (UTC)
+I'm source diving, and I've managed to extend the boundaries massively. Trying to find a way to remove the click and drag restriction on this monstrosity, think I've figured it out. Will have obscenely massive image uploaded within the next few hours. Davidy22 (talk) 07:24, 19 September 2012 (UTC)
+I swear, it's like he found out about us, and is now saying "Oh, yeah? Well how about this?" Other than the gripes of how hard it's going to be to get this thing explained, this one is pretty epic. lcarsos (talk) 08:08, 19 September 2012 (UTC)
+I started to comment some easter eggs. Come on, we can make it :-). -- Hkmaly (talk) 09:00, 19 September 2012 (UTC)
+I found the left hand boundary of the page reasonably quickly. Once you cross the sea you get their pretty fast. I also found an X-Wing coming out of the ground quoting a line from just after the death star trench run. -- Chrisnoise (talk) (please sign your comments with ~~~~)
+Different methods of viewing the world[edit]
+For those who get impatient scrolling around (and are a little savvy): download the .html file for the comic (index.html), and also the file 1110.js. Edit the .html file to use your 1110.js instead of the one from xkcd.com. Then edit 1110.js:
+* remove the line "overflow: 'hidden',"
+* change the "1"s into "4"s in  "for(var y=-1;y<=+1;y++)" and in "for(var x=-1;x<=+1;x++){"
+* optionally, remove the line "$remove.remove();"  (warning: this will make it take up a lot of memory eventually!)
+Then open the local copy in your web browser. Zooming out, scrolling, and zooming back in helps find the easter eggs.
+ -- 75.111.63.192 (talk)  (please sign your comments with ~~~~)
+This Page's instructions say to zoom in and out when browsing the modified local file. My browser skills are rusty. I have Firefox, and when I zoom in and out, it zooms the whole page, rather than just the interesting bit. However, seeing as how there are 16000+ panels, I don't think I want to zoom it out quite so very far anyway. Firefox is notoriously bad when there are lots of images on a page (and yes, it cratered while I was exploring the original page). In any case, can someone clarify the use of zoom? 24.57.210.141 08:40, 19 September 2012 (UTC)
+The above can be done, without downloading, by putting Chrome or Chromium into developer mode by hitting F12, then altering the very same setting in the page, as you view it --Kazvorpal (talk) 22:28, 25 September 2012 (UTC)
+All is revealed here: http://news.ycombinator.com/item?id=4542367 - seriously. Links to downloads, full images, how to link directly to a point of interest and so on. -- 145.64.134.242 (talk) (please sign your comments with ~~~~)
+Another full view, with pan and zoom http://www.mrphlip.com/xkcd1110/ -- 207.114.139.254 (talk) (please sign your comments with ~~~~)
+For the pack rats, here is a .tar.gz of all the pngs. You can use these to reference where in the comic you are. Files are named <number><north/south><number><east/west>.png. So 1n8w.png is 1 north, 8 west. Let's get this thing done. lcarsos (talk) 09:12, 19 September 2012 (UTC)
+I've made a full-screen version with cursor control: http://ares.aylett.co.uk/xkcd/ Axa (talk) 12:51, 19 September 2012 (UTC)
+Seems I'm really too slow, plus I have CSS problems (there are gaps between my rows) but I'll share what I did anyway. Create a file with .html extension with the following content (if you've downlaoded all the images already, you can change the code to use your local files) and you get a map of the world.
+[Expand]
+--132.230.1.28 09:58, 19 September 2012 (UTC)
+I've created a file which looks the very same :-) The gaps between the rows seem to come from the <img> elements being displayed as inline content, adding some whitespaces to the cells. I now use this css code:
+* {
+ padding: 0;
+ margin: 0;
+ border: 0;
+}
+table {
+ border-collapse: collapse;
+ border-spacing: 0;
+ table-layout: fixed;
+}
+td {
+ width: 2048px;
+ height: 2048px;
+}
+img {
+ display: block;
+}
+--84.181.110.126 15:06, 19 September 2012 (UTC)
+This is the best full-size view of the comic: http://xkcd-map.rent-a-geek.de/ 77.191.21.108 15:02, 19 September 2012 (UTC)
+ZIP upload[edit]
+Hi,
+I’ve locally downloaded all the tiles (there is 225 PNG files) and made a ZIP file of them, but when trying to upload it here the Special:Upload page says: “Permitted file types: png, gif, jpg, jpeg.” Do I have to upload each tile one by one or is there a way to exceptionally bypass this restriction? Thanks. — Ethaniel (talk) 09:13, 19 September 2012 (UTC)
+Mh, seems I’m hours too late… — Ethaniel (talk) 09:14, 19 September 2012 (UTC)
+I'm not sure we should upload each individual frame for this one. Though, we do need to have a discussion about how we're going to handle/archive/explain this one, because it's going to be big and tedius. Maybe some adventurous and hardy soul can stitch together grids of this so that we don't have the problem of having too much image (a single terapixel image will kill anyone's PC if they try to load it) and having so little (while the grids Randall's created are nice and bite-sized, it's hard to see the whole thing). lcarsos (talk) 09:20, 19 September 2012 (UTC)
+I’m going to upload the 225 tiles in few hours: which path is best?
+[[File:1n1e.png]]
+[[File:1110/1n1e.png]]
+[[File:1110: Click and Drag/1n1e.png]]
+There will be of course a template ({{1110|1n1e}}) allowing easy access to individual tiles. ;)
+Ethaniel (talk) 10:36, 19 September 2012 (UTC)
+If you are really going to do this, then I think doing [[File:1110: Click and Drag/1n1e.png]] would be the best spot. lcarsos (talk) 13:53, 19 September 2012 (UTC)
+Finally I only did the template: direct link to the original tiles is fine too.
+Thanks for the answer, it may be useful someday. — Ethaniel (talk) 14:04, 19 September 2012 (UTC)
+Sorry for the late response, I had to go to bed (I only got 4 hours of sleep anyways) to be able to get up for work today. The template is massively helpful. I crown you champion. It might be interesting to split up each page into sub-pages of this, and then transclude in the first paragraph from the subpage. So, [[1110: Click and Drag/1n1e]] would have a full description, including links to adjacent/related tiles, but have another template transclude in the synopsis and transcript into the table on this page. That's pie-in-the-sky thinking, and definitely should not be done today while the server is being hammered like it is. lcarsos (talk) 17:08, 19 September 2012 (UTC)
+It doesn't seem to be a terapixel. There are 225 images of 2048x2048 pixels. The full range is 81x32 tiles, resulting in a 165888x65536 images, at approximately 10 gigapixels. The naming conventions is numberlatitudenumberlongitude.png, where lat can be either n or s, and long can be either e or w. E.g. 1n1e.png, which is the starting image, and they are located at http://imgs.xkcd.com/clickdrag/. -- Aufgehaben (talk) (please sign your comments with ~~~~)
+There's far more than 225 images >> http://lebbeo.us/2012/09/19/not-bbq-fetching-component-images-of-xkcd-comic-1110/ 114.79.57.76 11:17, 19 September 2012 (UTC)
+Seems to me what should happen is that someone should setup a "slippy map" without having to use the browser's zoom in/out capabilities. Think openlayers. -- Anarcat (talk) 13:35, 19 September 2012 (UTC)
+Raptors[edit]
+I found two raptors. I couldn't even begin to tell you where they are. Follow the left side. Past the oceans and in some grass...somewhere. This is a lot to draw...I wonder how he did it. The shear size of each image, combined with the fact that they seamlessly transition together...when did he start? How much time did he put in? He should have waited one more to get comic 1111, I think. 76.122.5.96 09:29, 19 September 2012 (UTC)
+The far right also quotes the very first xkcd comic ever. 76.122.5.96 09:39, 19 September 2012 (UTC)
+Black hat[edit]
+I found him in 2 locations, with a weapon both times. The Gatling gun he has on the building above the XKCD What if? cranes looks like he could be waiting to shoot something. Did anyone find anything he might be trying to shoot? 171.161.160.10 13:09, 19 September 2012 (UTC)
+Nevermind. There's nothing there. But there is a hot air balloon below the area I suspected. 171.161.160.10 13:16, 19 September 2012 (UTC)
+
+End of the JS file comment[edit]
+At the end of the JavaScript file responsible for the map code, there's a comment "/* 50:72:6f:50:75:6b:65:20:69:73:20:61:77:65:73:6f:6d:65 */". Interpreted as hex codes for ASCII text, this reads "ProPuke is awesome". -- 134.102.219.116 (talk) (please sign your comments with ~~~~)
+Interesting. Google tells me that ProPuke is the handle of a programmer from the UK. This morning, on his twitter feed, he posted "57:68:79:2c:20:74:68:61:6e:6b:20:79:6f:75:21". This translates from hex as "Why, thank you!" Also, his Wikipedia user page tells us a lot about him too. I wonder if he contributed to the code? 71.201.53.130 23:24, 19 September 2012 (UTC)
+[edit]
+I've been dragging and clicking for an hour, and I accidentally found the right edge. I started going left, and when I got to the island, I went into the Earth. I followed tunnels and caves down (at one point, there's a massive underground lake and a tree with a man sitting pensively by it (possibly Dawson?)) there until I found the tunnel that ends up going back to the surface in MarioWorld (complete with flag and castle), and went right from there. After the wind turbines, there's a bridge. On the other side of the bridge is a fencepost joke (If you're having fencepost problems, I feel bad for you son: I've got 99 problems but solved for 101). After that, there's a Burj Dubai reference (I assume the radio tower representing it is drawn to scale - it's very tall). After that, I went up a hill that had random farm callouts scattered on it, and on the other side of the hill is a large water tower. After that, there's grassland until the edge, which has Balloon Randall again saying, "I wonder where I'll float next." -- 67.52.249.244 (talk) (please sign your comments with ~~~~)
+I'm going to say this is a perfect example of what Randall wanted by creating a world so huge you can explore for hours, get lost, not care, and find yourself again, and keep wondering what you'll discover next. lcarsos (talk) 18:20, 19 September 2012 (UTC)
+IRC logs or it didn't happen[edit]
+When I get home I'll post the logs I have (didn't think to have logging turned on until after the discussion started) so that it won't seem like I'm crazy. I remember Randall saying that a full, uncompressed, single rectangular image would be near a terapixel (the figure was something like 800 gigapixels). lcarsos (talk) 16:04, 19 September 2012 (UTC)
+ICC sections[edit]
+The following files have ICC sections:
+$ grep -l iCCPicc xkcd_grab/*.png
+xkcd_grab/11s11e.png
+xkcd_grab/11s11w.png
+xkcd_grab/16s1e.png
+xkcd_grab/17s1e.png
+xkcd_grab/19s7e.png
+xkcd_grab/1n30e.png
+xkcd_grab/1n39e.png
+xkcd_grab/2n3w.png
+xkcd_grab/3n25e.png
+xkcd_grab/4s17w.png
+xkcd_grab/6n2w.png
+xkcd_grab/8n1w.png
+(source of the images for me: 'git clone "https://github.com/danielribeiro/xkcd_grab.git"')
+At first I thought the white/black tiles were a hint to some steganography embedded in the images. Then I found those ICC sections and thought it was just a pun to add a color profile to a black image. But not all of the above are just black and having a color profile for white image parts can actually make sense, so maybe someone else has a clue, why those (and only those) tiles have color profiles...
+-- Xorg (talk) 19:55, 19 September 2012 (UTC)
+Do a binary compare on the files.
+Jesus[edit]
+Seems that the description insinuates that the "Jesus" reference (1n21w) is intended to be vocative, not expletive. Can somebody substatiate that conclusion, as opposed to the position that Randall meant s/Jesus/Cripe/... ? (I guess this is just a long-winded way of saying [Citation Needed].) -- IronyChef (talk) 03:43, 20 September 2012 (UTC)
+
+Reference to 'footsteps in the sand'. Not expletive.
+dot-code[edit]
+In 1 North 7 East there are dots and lines. What do they mean?
+I think its a reference to Super Mario.--62.180.229.43 08:47, 20 September 2012 (UTC)
+This is a sad, sad day that this had to be explained to someone who reads this comic.-- 99.136.68.159 (talk) 03:11, 21 September 2012 (please sign your comments with ~~~~)
+No it's not! It's a Ten Thousand day http://xkcd.com/1053/. --Ohbejoyful (talk) 01:24, 22 September 2012 (UTC)
+Bob Ross[edit]
+The reference on 1n 33w seems to be related to Bob Ross, he used similar expressions about where items should live on a canvas "You know, this is a nice spot. Let's just live here. "
+I would like to note that "Bob Ross" would be an excellent name for a ninja turtle.--98.225.182.131 08:23, 21 September 2012 (UTC)
+la raja amo a bjork y estoy demasiado feliz que venga, pero debeira venir con portishead, ella es la raja y seria un honor presenciar tan buena musica, y teniendo a dos exponentes del trip hop juntas..suerte ojala sea seguro y no se suspenda.ahh y smashing pumpkins es de las bandas que me aconpa;o en su creciemiento, en la adolescencia ojala venga, seria espectacular, por favor si hay que se pueda hacer, avinsen para hacer firmas y weas, ojala viniesen.gracias por los maravillosos conciertos que han estado en chile este ultimo anosuerte!!!
+48?[edit]
+How are we certain that the maximum radius of the world is only 48 tiles? If I'm reading everything correctly, didn't Randall say that it was much larger than everybody is measuring? Isn't one explanation for this that there may be more than we've found? Does anybody have a script running that is still exploring?
+Answer: This line in the 1110.js source file: "var size=[14,48,25,33];" That controls how far you can scroll. Having hit all the edges you know those are the limits too. There are no actual tiles as far down as 25 or as far up as 14, but it means the page just fills that with white or black as needed. It does mean you can't find the whales by simply going to the top left and going along the top to the right since they will be one tile further down. Same with the tunnel at the bottom. It is a number of tiles above the bottom edge of the image. Lsorense (talk) 18:12, 24 September 2012 (UTC)
+Thanks for the answer. In a world filled with secrets, I still wonder if there's a file on the server in more outer-realm locations.  :)
+Would be an interesting little project to (lightly) hit the server with out-of-bounds requests, to see what comes back instead of 404s -- IronyChef (talk) 14:10, 24 October 2012 (UTC)
+More Trivia[edit]
+There is one (dark dark) green pixel in 9s7e.png. The remainder is all grayscale.
+A number of the images have apparently been updated. Probably with a PNG optimizer, since the displayed data is unchanged.
+The complete 10 gigapixel image, changed to grayscale, can fit into a 15 Megabyte PNG image. (Though having made it, I can't load it in my normal viewers.)
+--Divad27182 (talk) 03:21, 21 September 2012 (UTC)
+
+Updated[edit]
+How do you know the pictures are not uptdated or completed from time to time, adding or moving tiles?
+Locked[edit]
+Will this be unlocked at some point? There are still a number of un-filled-in cells! - jerodast (talk) 11:07, 5 December 2012 (UTC)
+I think it was locked as a guard against spam. That was a while ago though, maybe the admins forgot about it. Davidy22[talk] 11:10, 5 December 2012 (UTC)
+Special:Log shows that the unlocking will occur automatically on December 7. Also, Special:ListUsers shows that your account was created on 3 December 2012 at 13:01 UTC. After 3 days and 10 edits, it will be automatcally promoted to autoconfirmed, so tomorrow by this time you will be able to edit semiprotected pages like this one. Only full protection prevents everyone except admins from editing the page (e.g. the main page). Hope this helps :) --Waldir (talk) 14:51, 5 December 2012 (UTC)
+Transcript[edit]
+Is there really any need for the bolded Transcript sections for tiles where there is no dialogue? It seems like it just makes the chart heavier. And for example at 1N, 22W, is there any real distinction between the description used before the "Transcript" compared to the stage directions that come after? - jerodast (talk) 14:20, 22 December 2012 (UTC)
+Edges connected[edit]
+I found this: http://baltixy.w.interia.pl/xkcd/1110.htm. Looks like the original, but the left and right sides are connected. Should we add this here? 108.162.254.103 19:50, 29 January 2014 (UTC)
+You know what would be awesome?[edit]
+if you could control one of the stick figures, and walk around and (possibly) interact with objects. Someone should really make that. 173.245.56.180 01:23, 22 April 2015 (UTC)
+another click and drag browser[edit]
+hey,how about this?just basic html site,should someone add it here? http://geocities.ws/pluman/clickanddrag/ --103.22.200.222 14:54, 24 April 2015 (UTC)
+path to completeness?[edit]
+excuse me, I have no idea what would make it complete? - right now I would say: thumbnails to all listed artifacts (like "man-made structure") - just making screenshots and upload and link? Anything else? Thanks for advise -- 162.158.92.17 07:53, 3 August 2015 (UTC)
+second: I guess each listed tile should have a short explanation what's to see there?
+some tiles have "Transcript" while there is a full story like in a usual comic, e.g. 1 North, 33 West
+others have "transcript" and just describing static things, e.g. 6 South, 17 West
+and some more have just plain description, like "Water" e.g. 1 North, 12 West
+what looks best in case 3?
+third: I found incomplete-description : Some of the jokes in the larger world might benefit from an explanation ;-) thx, 162.158.92.17 08:22, 3 August 2015 (UTC)
+Something tells of What if #51 free fall. 108.162.218.65 20:11, 5 August 2015 (UTC)
+At this point I am not sure what else we can add: The description of the completeness problem talks about jokes in the larger world, but without some clarification on what is meant by that I don't know how to add anything. Furthermore, I think at this point we need to move on to another comic as the incomplete explanation of the day: Click and Drag is just too difficult to add any more information to, and I think if a different comic was chosen you would see a much higher rate of participation in the project. Bbruzzo (talk) 23:37, 14 October 2015 (UTC)
+Video Game Reference[edit]
+This immediately brought to mind the game "Unfinished Swan". "The player is a young boy chasing after a swan who has wandered off into a surreal, unfinished kingdom. The game begins in a completely white space where players can throw paint to splatter their surroundings and reveal the world around them." [3] The look of the comic is similar and the game has balloons throughout. 108.162.236.223 13:47, 12 November 2015 (UTC)
+Submarine? Perhaps not.[edit]
+I saw the entry for 17 South, 5 East listed as a submarine. However when I first saw it I immediately thought of a project called the "Blur Building".
+Reasons I don't think it's a sub:
+No rudder
+No propeller
+Not teardrop shaped
+dual conning towers (subs typically have one)
+Before editing it I thought I would ask for comment here first. So what do you think? Is it a submarine or the blur building? Or neither? --Tsdorsey (talk) 17:19, 30 November 2015 (UTC)
+Either the Blur Building or a U.F.O. Randall has shown interest to space and planets in many XKCD comics and other places *cough* the What If? book *cough cough* -- JayRulesXKCD (talk) 12:57, 9 September 2016 (EDT)
+Definitely not a Submarine.[edit]
+It's a Winans Cigar Boat! Even for xkcd this reference is truly arcane! I recently managed to find these things myself based a vague, twenty year old memory of seeing a strange illustration as a child. Thank god (or the devil, whatever) for Google. 108.162.245.153 02:49, 23 December 2015 (UTC)
+Oh... could be. Who knows? -- JayRulesXKCD (talk) 12:58, 9 September 2016 (EDT)
+Some notes on missing entries[edit]
+As I don't have an account here, I'm going to go ahead and assume I can't add this information myself. But as a Nerd Sniping victim I just went through the entire chart to explore all the elements (primarily the elements I missed on my exploring the actual comic), and I noticed some gaps in the chart:
+1N3E: There's no mention that Cueball and Megan (I think that's Megan) are attempting to use a small sapling to bridge a gap in this quadrant.
+17S5E: I feel I must disagree that this thing is a Winans Cigar Boat. I initially took it as a UFO, with the implication that it's being kept secret quite effectively by keeping it underground, the surrounding thatched roofed structures being left over from some ancient tribe which encountered the UFO. I maintain this belief because it has feet/landing gear. I see what I took for a bottom hatch of a UFO could be the bottom part of a ring which a Google Image Search shows looks to be the exposure for a Cigar Boat's large propeller. The top edge matches the second result of this search quite well, the computer rendered image, but the bottom looks like permanently installed feet, useless on such a seafaring vessel.
+8N6E: Misses the meaning of "canon". Canon, with one N, refers to facts established for a universe - usually one with considerable content establishing a detailed world, like Lord Of The Rings, Star Wars, or even Harry Potter - in a way where it counts as part of the "history" of that universe. For example, an official Star Wars novel saying Joe Blow was born November 17th, the book being official makes this fact "canon", meaning all future things (books, movies) should refer to Joe Blow's birthday as November 17th, nothing should say otherwise (or must have an explanation as to the discrepancy). This fact can be counted on in discussions. Conversely, if a fan fiction declares Jill Thrill was born July 20th, this is NOT "canon", as the source isn't an official one which can adjust the universe. The line in this comic appears to be making fun of the similar spellings of "cannon" and "canon", that he is both free from being shot at and from having to stick to known facts of the Star Wars universe.
+17S6E: Next to the Winans Cigar Boat/UFO are a bunch of thatched roof huts/structures, which isn't mentioned in the table.
+1N8E: My impression was that these turbines were a reference to xkcd 556: Alternative Energy Revolution (one of the few comics which appear on every comic page). The comic listed, 1378: Turbine, came well after 1110, while 556 had already been released in the past. Also, 556 features several turbines, like here (1378 only shows one), being watched, like here (both times the observer is even the same character, Megan).
+11S11W and 11E: I find the explanation "This PNG file contains an ICC section which means that the blackness in this image is properly color-coded" to be severely lacking. Firstly, while I have done a lot of image editing, it has all been in JPG and GIF files (okay, some PCX and BMP way back when), I've never used or edited an "ICC section", I don't know what an "ICC section" is or what it does, other than what it says here. I'm sure I'm not alone in this. What does "ICC" even stand for? Secondly, the Wikipedia link is to an article which describes doing color-correction for lighting, for photography and television, things like that, like by using gels. This gives about no clue as to how this is achieved for or applies to a digital image or what effect this should have, especially on black, a decidedly LACK of light and colour. (I know I couldn't see any difference between these tiles and the other black tiles nearby)
+9S7E: The Trivia says there is a very dark green pixel in here, but I don't see it anywhere. I even saved that tile locally - the tile containing a couple of people mining - to open it in an image editor to zoom better, nothing. I went to the coordinates specified, I still saw no green, even zoomed in to I think 14:1. Finally, using the dropper tool, I found it at the coordinates specified, it says the RGB colour is 0,2,0. It would be best to mention that, that the difference is too infinitesimal to see with the naked eye, even for someone with perfect vision! LOL!
+Just trying to contribute how I can. :) - NiceGuy1 (Previously contributed to the Princess Bride comic) 198.41.235.209 09:06, 21 January 2016 (UTC) I finally signed up! This comment is mine. NiceGuy1 (talk) 05:54, 9 June 2017 (UTC)
+Having just read 1589: Frankenstein, I wish to note that it uses the word "canon" as I described when discussing 8N6E, above. Also, the Explain page includes discussing what the word means. :) (I'm posting this from the same iPad using the same wifi as the above comment, so I'm rather curious if it'll show the same IP, LOL! I should probably create an account already) - NiceGuy1 198.41.235.215 05:11, 19 February 2016 (UTC) So's this! NiceGuy1 (talk) 05:54, 9 June 2017 (UTC)
+There is a crowbar in the right borehole in the pair of boreholes above the ufo cvern
+this is great. I love exploration![edit]
+I love the interactive nature of this one, and wonder how long it took Randall to make... I assume the terrain is probably procedurally generated, but that's still a lot of references, not to mention the sheer size of the files probably complicating the code. Some of the references were particularly pleasant for me, like the Mario section (including the joke about the walls being worn smooth). It's giving me the same feeling I get when I'm exploring a Terraria map with a map viewer... except this is the intended experience not me being lazy about something so no cheater's remorse.--Twisted Code (talk) 16:08, 27 February 2022 (UTC)
+Categories: All comicsComics from 2012Comics from SeptemberWednesday comicsLinks to xkcd.comLarge drawingsInteractive comicsComics featuring Black HatComics featuring CueballComics featuring MeganComics featuring PonytailComics featuring White HatComics featuring Beret GuyComics featuring HairbunMultiple CueballsPhilosophyVelociraptorsSquirrelsWingsuitFireflyPokémonRed SpidersButterfly netMinecraft

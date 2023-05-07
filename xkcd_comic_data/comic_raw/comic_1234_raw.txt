@@ -1,0 +1,74 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1234: Douglas Engelbart (1925-2013)
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1234)
+|<< PrevComic #1234 (July 5, 2013)Next >>|
+Douglas Engelbart (1925-2013)
+
+Title text: Actual quote from The Demo: '... an advantage of being online is that it keeps track of who you are and what you're doing all the time...'
+Explanation[edit]
+The comic describes and references the engineer Douglas Engelbart's computer demonstration The Mother of All Demos in honor of Engelbart, who died on July 2, 2013.
+The demo is renowned for the numerous technologies Douglas' team introduced, which the comic references before sliding into apocryphal claims. In the first panel he presents various inventions, including the computer mouse. The second panel contains the opening lyrics of Leonard Cohen's song Hallelujah. The "Secret Chord" is a reference to the "Chord Key Set" that he presented at this demo. This relatively obscure device, essentially a piano with five keys, was meant as an alternative to the well-known keyboard. The way he introduces the song is also a reference to musical demo tapes, in which an artist presents a new piece of original music, tying it back to the Mother of All Demos title. The third is a reference to contemporary internet memes, specifically cat pictures and YOLO.
+The title text is a reference to recent revelations about spying by the United States National Security Agency, which was making headlines when this comic was published. While it might have seemed like an advantage at the time, in a modern context this aspect of the internet appears disturbing.
+The inventions in detail[edit]
+Several of the inventions presented by Douglas in 1968 were years ahead of their time, and many would prove to be very influential in the development of personal computing. Some of the technologies demonstrated found success in the following decades, while others did not.
+Although the following technologies were shown in the demo, Munroe's text does not follow a transcript.
+Cathode ray tube
+The German physicist Ferdinand Braun invented the Cathode ray tube, or CRT, in 1897. The Russian scientist Boris Rosing was the first to use the CRT to receive a video signal. CRT was the most common technology used for television screens and computer monitors in the last century, but has since been succeeded by modern devices such as OLED, plasma display, or the ubiquitous LCD. In the demo, Douglas used CRT monitors to demonstrate video conferencing, as well as collaborative real-time editing.
+Computer mouse
+Douglas did refer to this device as a "mouse", but officially it was named the "X-Y Position Indicator for a Display System". He filed a patent for this device on June 21, 1967 and received the patent on November 17, 1970. The demo transcript records that Douglas stated: "I don’t know why we call it a mouse...it started that way and we never did change it."
+Text movement/cloning
+This is well known today as "cut, copy and paste". On some early text-based systems, the user moved the cursor to the beginning of the text to be copied, typed <CTRL>+K+B , and then moved the cursor to the end of the copied text and typed <CTRL>+K+E. At the demo, Douglas demonstrated that the same task could be accomplished with the mouse. Today, many people do not use keyboard commands for cut, copy and paste, and instead use the mouse exclusively.
+Joint file editing
+Text editors were in the nascent stage of their development in 1968. Douglas demonstrated the first text editor capable of "joint file editing". The first successful system to implement joint file editing came 15 years later, when CVS was made available in the middle of the 1980's.
+E-mail
+Although not referred to as e-mail, Douglas demonstrated the exchange of "direct messages", which fulfills a similar role to modern e-mail. Nowadays, though, the name will be more familiar as the term for Twitter's private messaging function.
+File sharing
+The demo also demonstrated the exchange of files between users, paving the way for modern file sharing, and the associated legal and ethical debate.
+Audio codec
+Douglas demonstrated a "masking codec" capable of coding and decoding an audio stream. This would eventually lead to the development of the wide variety of modern audio codecs, including the MP3 codec, which was produced by the Fraunhofer Society.
+Concepts that Douglas did not invent[edit]
+From the bottom of the second panel the comic exaggerates the idea that Douglas introduced the future to a hilarious and ridiculous level.
+"Hallelujah"
+This song was first released by Leonard Cohen in 1984, sixteen years after Douglas's demo.
+Image macros
+A form of image with large text, typically block capitals in the font "Impact", superimposed over a photograph, typically for humorous effect.
+LOLcats
+The most famous of the image macros, featuring cats.
+YOLO
+As the fictional Douglas states, this is an acronym for "you only live once". The phrase has been around for at least a century, but was coined as an acronym around 2011, and became a popular catchphrase following its use in the rap song "The Motto" by rapper Drake.
+Transcript[edit]
+San Francisco, December 9th, 1968:
+[A Cueball-like figure talking into a headset. The title of this comic indicates that he is Douglas Engelbart.]
+Douglas: ...We generated video signals with a cathode ray tube... We have a pointing device we call a "mouse"... I can "copy" text... ... and we have powerful joint file editing... underneath the file here we can exchange "direct messages"...
+[Douglas continues to narrate. Some music is playing.]
+Douglas: ...Users can share files... ... files which can encode audio samples, using our "masking codecs"... The file you're hearing now is one of my own compositions...
+Music: I heard there was a secret chord
+[Douglas continues to narrate.]
+Douglas: ...And you can superimpose text on the picture of the cat, like so... This cat is saying "YOLO", which stands for "You Only Live Once"...
+Douglas: ...Just a little acronym we thought up...
+Trivia[edit]
+The full original video of the demo from December 9, 1968 is available at the Stanford website. The "Chord Key Set" can be found at Clip 13.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The song he claims to have written is, of course, Leonard Cohen's "Hallelujah". But why? /Skagedal (talk) 08:22, 5 July 2013 (UTC)
+I guess for the same reason he claims to have thought up YOLO and cat picture memes - he's claiming credit for many many future developments - that's the joke. Either that or the comic's claiming Douglas was a time traveller and was single handedly responsible for every invention ever! Let's face it though, much of our modern day tech wouldn't have happened without his work. I can't believe I never heard of this guy before. Hippyjim (talk) 09:00, 5 July 2013 (UTC)
+As has since been added, it's a reference to the obscure-but-not-secret chord keyboard. Someone should really go through each clause and either give a link to that part of the demo, or the real history. 173.14.129.9 (talk) (please sign your comments with ~~~~)
+I'd guess it's because the mournful tone of the song makes it appropriate for a memorial to someone passing away.
+Wwoods (talk) 18:06, 5 July 2013 (UTC)
+Looks like the Stanford site has been given the xkcd hug. Does anybody have a mirror? Spontaneous (talk) 15:33, 5 July 2013 (UTC)
+Stanford is overloaded, not only because this comic. The link is also at his wiki page.--Dgbrt (talk) 19:44, 5 July 2013 (UTC)
+Is it just me or is there a certain amount of deliberate irony here. Englebart was working at " A Research Center for Augmenting Human Intellect" and where do we end up? Lolcats....--NHSavage (talk) 19:12, 6 July 2013 (UTC)
+The "inventions in detail" section is badly written... Also, it feels weird to use Engelbart's first name to refer to him. Excessively familiar, perhaps. --24.186.79.218 01:13, 7 July 2013 (UTC)
+So do it better, you are welcome here to help. And at the Stanford site he is just called "Doug", in America people are mostly using the first name.--Dgbrt (talk) 11:30, 7 July 2013 (UTC)
+I took a stab at cleaning up the grammar a bit, and I agree that in this context, refering to him by his last name is more appropriate. --67.71.137.146 12:29, 10 July 2013 (UTC)
+Thanks for your help on grammar, I'm not native English. My main source was the Stanford site mentioned at the trivia, and he is just called "Doug" there. I think even this nickname should be appropriate.--Dgbrt (talk) 19:03, 10 July 2013 (UTC)
+Hi, is there any truth to the "masking codecs" claim in the comic and in the explanation of the inventions here? I watched the whole presentation on Youtube, but I can't remember that anything about audio was mentioned. Has this been presented some other time? Or is this again a joke, like the YOLO-cat claim? --84.164.96.3 12:43, 22 July 2013 (UTC)
+The alt-text, talking about Englebart looking forward to computers tracking what you're doing and who you are, is clearly a jab at the NSA and advertising tracking on the web, and probably at social networking like Facebook and Twitter. 'Direct messages', of course, is exactly the term Twitter uses. I'm unsure if this is the term Engelbart used, though: does anyone have a transcript? 141.101.99.166 17:30, 7 July 2014 (UTC)
+Passage of Time: There appears to be a considerable passage of time between panels one and three: note the appearance of a wireless headset. This raises the possibility that the demo presented so much new technology and took decades, during which the equipment was upgraded and the inventions demonstrated became less technologically meaningful. 162.158.38.190 09:00, 5 February 2019 (UTC)
+Think you are on to something with this Drkaii (talk)
+This is consistent with the fact that the first panel is dated 1968, and the Leonard Cohen song in the 2nd panel came out in 1984. JohnHawkinson (talk) 14:13, 22 October 2020 (UTC)
+Nobody seems to notice this is comic 1-2-3-4. ;_;
+Categories: All comicsComics from 2013Comics from JulyFriday comicsComics featuring real peopleInternetTributeVersion Control

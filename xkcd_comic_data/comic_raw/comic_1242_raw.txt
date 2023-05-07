@@ -1,0 +1,95 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1242: Scary Names
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1242)
+|<< PrevComic #1242 (July 24, 2013)Next >>|
+Scary Names
+
+Title text: Far off to the right of the chart is the Helvetica Scenario.
+Explanation[edit]
+This chart humorously explores how things are often named colloquially and without regard to accuracy in correlating actual scariness with apparent scariness. It is interesting to note how people react to the items near the bottom right of the chart "scary things with not-very-scary names" when compared to how they may react to items in the upper left "not-very-scary things with scary names". Some of the entries on the chart are especially interesting examples considering that portions of the names that are associated with significant historical or cultural events and themes. i.e. Chernobyl Packet, Demon Core. All items are described in the table below including the title text on Helvetica Scenario.
+On the chart, things toward the right are scary/dangerous/very bad, while things toward the top sound scary without necessarily being scary.
+Note that Randall uses similar diagrams in both 388: Fuck Grapefruit, 1501: Mysteries and 2466: In Your Classroom, which also contain different items. The first two also have an extra point, and the last two extra points mentioned in the title text. Only the first and the last comics points are also off the chart, whereas for the second the description of the point is too long to fit on the chart. Extra info outside the chart is also used in the title text of 1785: Wifi, but this is a line graph.
+Table[edit]
+This table list the entries from least to most scary, including the entry mentioned in the title text.
+To begin with it is sorted from most scary name to least scary name.
+The assigned percentage values assumes a linear scale and assigns flesh eating bacteria with the point (100%, 100%).
+This is simply the easiest way to list the entries as there is no mention of the scale.
+As is clear from the title text, "flesh eating bacteria" is not an absolute, simply the highest in this particular sample; there are things more scary than 100%!
+Name Approximate Apparent Scariness Approximate True Scariness Description
+Flesh-eating bacteria 100% 100% As the name suggests, bacteria that eat (or more accurately, releases toxins that destroy) your skin and muscle.
+Chernobyl Packet 95% 4% A network packet that induces a broadcast storm or network meltdown. It is an analogous reference to the Chernobyl disaster.
+Kessler Syndrome 90% 53% A hypothetical scenario where low Earth orbit objects collide, creating debris which increases the risk of more collisions, leading to a cascade effect which could severely hinder exploration and satellite technologies for many decades. It has been mentioned in Gravity (2013 film).
+Demon Core 87% 73% A subcritical mass of plutonium that was involved in two separate fatal incidents at Los Alamos laboratory in 1945 and 1946. In both cases, the core was accidentally placed into a configuration where it went supercritical and exposed an experimenter to fatal doses of radiation. The second is more notable, where Louis Slotin held two halves of a beryllium neutron reflector apart with a flat head screwdriver which slipped, suddenly causing the contained plutonium core to become supercritical and delivering a fatal dose of radiation. This is later referenced in 2593: Deviled Eggs.
+Bomb Calorimeters 67% 28% A device for measuring heat of combustion of a reaction in a pressure vessel. It does not interact with explosive devices directly, though the chemicals a bomb calorimeter would be called upon to measure are occasionally explosive or dangerous, and a carelessly operated calorimeter could start a fire.
+Bird Flu 57% 72% An illness caused by strains of influenza adapted for birds, which is generally very deadly in humans. Should the virus adapt for human to human transmission, a pandemic can quickly result. Since birds can travel great distances quickly, it is generally already widespread and difficult to contain.
+Nuclear Football 52% 94% An aluminum Zero Halliburton briefcase which is used by the President of the United States to authorize nuclear attack. A military aide carrying the football is always near the president.
+Mustard Gas 47% 50% A chemical warfare agent which causes blisters and severe irritation on skin and lung tissue.
+Superbug 39% 83% Antibiotic resistant bacteria. The growing use of antibiotics has caused some bacteria to evolve to become resistant to the antibiotics. A "superbug" refers to a scenario where a bacteria evolves to become resistant to all antibiotics, for example, MRSA. Thanks to popular culture, however, the term "superbug" usually makes the audience think "a bug with superpowers", such as Atom Ant.
+Criticality Incident 22% 74% An unexpected and uncontrolled nuclear reaction. This occurs when a system that should be sub-critical becomes critical by accident (a term devised by Louis Slotin, as seen above).
+Soil Liquefaction 16% 54% A phenomenon where wet soil loses its strength and becomes temporarily liquid, capable of swallowing people and buildings, especially after earthquakes or torrential rains. Liquefaction can cause landslides; landslides can cause more liquefaction. Once the earthquake stops, the ground becomes solid again, trapping whatever was submerged.
+Grey Goo 5% 69% A hypothetical end-of-world scenario where self-replicating nanobots consume all matter. It is (partially) illustrated in 865: Nanobots.
+Helvetica Scenario
+(from the title text) N/A Off the chart This scenario is also in the title text of 683: Science Montage: "...We have a Helvetica scenario!". The scenario is a fictional experiment, presented in Switzerland (Helvetica), which assumes that removing only the nucleus (the center of an atom) of a calcium atom in one's skin, but still leaving the electron shell at its position, would cause a massive reaction ending up in heavy mutations. The Helvetica scenario was made up by the BBC comedy show Look Around You in the pilot episode, which can be seen here (at 5:53). The fact that the term Helvetica is more commonly known as referring to a very-commonly-used modern typeface makes the name sound like it should refer to a much less serious situation.
+Trivia[edit]
+In the What If? No More DNA (exclusive to the physical book), this graph is shown redrawn with "Destroying Angel" added to it. Destroying Angel is a poisonous mushroom.
+Transcript[edit]
+[A scatter-plot, with 12 labeled dots. Both axis are labeled but neither has an arrow at its end. The dots are scattered from left to right and top to bottom. Below all labels are given, first for the axis, and then for each dot in approximately normal reading order, left to right top to bottom, but in the order it would make sense to read them:]
+Y-axis: Scariness of name
+X-axis: Scariness of thing name refers to
+[Top left]: Chernobyl packet
+[Top halfway right]: Kessler syndrome
+[Top three quarters towards right]: Demon core
+[Top right]: Flesh-eating bacteria
+[A third down left]: Bomb calorimeter
+[Halfway down three quarters towards right]: Bird flu
+[Halfway down right]: Nuclear football
+[Dead center]: Mustard gas
+[Just below and right of center]: Superbug
+[Bottom halfway right]: Soil liquefaction
+[A third up three quarters towards right ]: Criticality incident
+[Very bottom two-thirds to the right]: Grey goo
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Zero Halliburton
+What is "A Zero Halliburton briefcase"? 212.232.24.57 13:24, 24 July 2013 (UTC)
+Zero Halliburton is a luggage brand name, with a line of aluminum attache cases. Not connected to the big company Halliburton, associated with former US Vice President Cheney and the war in Iraq. Wrybred (talk) 13:57, 24 July 2013 (UTC)wrybred
+The history of Zero Halliburton luggage does intersect with the founder of Halliburton Company, Erle P. Halliburton. He needed rugged cases, so he started a company to produce them. He sold it to Zero Corporation. [1]. — tbc (talk) 14:26, 24 July 2013 (UTC)
+Also of note, Halliburton isn't just "known for" its association with Cheney and the war in Iraq. It's an oil and gas services (i.e. drilling and well managment, inter alia) company. Orazor (talk) 10:50, 29 September 2014 (UTC)
+Military Aide/Secret Service Agent
+Isn't the nuclear football carried by a military aide, not a Secret Service agent? 167.165.238.254 14:18, 24 July 2013 (UTC)
+Probably. I don't really know what I'm talking about. If you think you can improve on what I wrote, go for it! RouterIncident (talk) 14:24, 24 July 2013 (UTC)
+Yes. "Cheney noted that the president is accompanied at all times by a military aide carrying a 'football' that contains launch codes for nuclear weapons. [2] — tbc (talk) 14:26, 24 July 2013 (UTC)
+I assume it's called 'football' because in the USA footballs are usually carried by hand. --Chtz (talk) 15:16, 24 July 2013 (UTC)
+Early plans for nuclear war against the Soviets were codenamed "Dropkick". 193.67.17.36 16:23, 24 July 2013 (UTC)
+Helvetica Scenario
+I think the "Helvetica Scenario" explanation is wrong, but I don't know enough about it to feel comfortable editing. Here's an article I found that makes more sense. http://enigmauniversity.wikia.com/wiki/Helvetica_Scenario (I didn't watch the Youtube clip since I'm at work, so maybe that's what the clip refers to. It should be explained in the article instead.) Trek7553 (talk) 14:45, 24 July 2013 (UTC)
+To the best of my knowledge, the page you linked to is a work of fiction on a role-playing wiki. The references to calcium imply that it is based off of the Look Around You segment, but with its own added elements for the sake of role-playing. RouterIncident (talk) 14:53, 24 July 2013 (UTC)
+I changed this section. The video is correct, but the horror scene is just showing a possible result of the Helvetica experiment.--Dgbrt (talk) 16:19, 25 July 2013 (UTC)
+That sounds much better now. RouterIncident (talk) 18:06, 25 July 2013 (UTC)
+I know what you mean but I like the statement "...the page you linked to is a work of fiction..." - the Helvetica Scenario is a work of fiction! But yes, that is a derivative work, the original source being Look Around You.
+Having just looked at the edits, Dgbrt is getting seriously confused. The Helvetica Scenario is not real, and is completely made up by the TV program Look Around You. Urban dictionary is entirely based on the original invention by L.A.Y. It is not a real thing!
+Arbitrary Scariness Formatting
+I have a slight issue with the artificial percentage scale given for entries in the chart. First of all it assumes a linear chart that is measured in percentages. Secondly, it assumes Flesh-eating Bacteria is 100% scariest thing and scariest-sounding thing existant. Just because it's the highest on the chart doesn't make it "100%" (again, percentage seems like an arbitrary scale to assign) TheHYPO (talk) 16:22, 24 July 2013 (UTC)
+I disagree on your second point. The explanation expresses the scariness of something as a percentage of Flesh-eating Bacteria BECAUSE it is an arbitrary scale. It doesn't imply that the bacteria is the scariest possible thing. I think this is the best way; it's better than saying "Grey goo isn't as scary sounding, but is scarier than..." for all possible combinations of every item.
+Also on your first point, it doesn't assume the chart is measured in percentages (although it does assume linearity). 174.88.154.131 12:30, 25 July 2013 (UTC)
+How about we just give the pixel coordinates and point out that the scale is arbitrary (or not defined by the comic). Percentage would suggest that the scale is in some way linear, which you actually cannot conclude from the graph. --Chtz (talk) 13:08, 25 July 2013 (UTC)
+Initially I had written out "Not very scary", "Somewhat scary", "Fairly scary", etc. but it seemed simpler and much easier to read and sort to simply use arbitrary percentages. RouterIncident (talk) 14:55, 25 July 2013 (UTC)
+As there are no values or units listed, Randall's dots are fairly arbitrary, probably plotted relative to each other and to a roughly-equal apparent-to-actual-scariness line. So isn't it a little silly to argue about the listing of an arbitrary scale for these arbitrary values? 138.162.8.57 15:57, 25 July 2013 (UTC)
+In my opinion the percentages are over interpreting the comic. But since it is here it should be explained as position on the graph relative to zero.--Dgbrt (talk) 16:19, 25 July 2013 (UTC)
+The percentages are perfectly fine. They just need to be interpreted as what they are: percentages of scary, relative to flesh eating bacteria. Flesh eating bacteria = 1 unit of scary. In this situation 110% isn't just a metaphor. If the bacteria was the scariest thing nothing would be off the chart. db (talk) 06:11, 17 November 2013 (UTC)
+Really I think the point of the comic is how superficial perception and reality fail to correlate. That's what is so notable about flesh eating bacteria. It lives up to it's name. A rare thing indeed. db (talk) 06:11, 17 November 2013 (UTC)
+What is missing about the transcript? It describes the comic panel perfectly. there is no dialogue to include. could you please be more specific about what you feel is missing from the transcript? @dgbrt Mrarch (talk) 00:37, 3 December 2013 (UTC)
+A transcript should not contain a sentence like: "Items within the scatter plot are listed in the table above." --Dgbrt (talk) 11:02, 3 December 2013 (UTC)
+I think that the transcript should not contain anything except for the text in the comic. They should be used for searching, not for reconstructing comics completely in text form. --Bob 13:00, 3 April 2014
+What about kassler with mustard?
+Some items are strangely placed on the Y axis, aren't they? "Mustard gas" sounds more horrifying to Randall than "Criticality incident"? "Kessler syndrome" more than "Demon core"? Both sound like food to me. Mumiemonstret (talk) 11:36, 9 April 2015 (UTC)
+Elephant's Foot should have a place here 198.41.235.209 04:31, 7 January 2016 (UTC)
+A version of this chart appears in the What If? book, in the section about losing all of your DNA.
+I have to consider "Flesh Eating Bacteria" to be misplaced. As I understand it, these bacteria are actually common skin bacteria. They are the reason that puncture wounds should be cleaned and encouraged to bleed. Divad27182 (talk) 21:13, 15 March 2022 (UTC)
+Sort of. Streptomyces are indeed common skin bacteria, but with puncture wounds you're more worried about tetanus than strep. Nitpicking (talk) 22:26, 15 March 2022 (UTC)
+Trivia[edit]
+A variant of this comic was used in What If? in which the name “Destroying Angel” was placed far out, mainly above the graph and circled.
+Categories: All comicsComics from 2013Comics from JulyWednesday comicsScatter plotsRankingsNuclear weapons

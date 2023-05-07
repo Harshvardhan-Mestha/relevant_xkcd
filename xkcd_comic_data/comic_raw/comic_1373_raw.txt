@@ -1,0 +1,47 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1373: Screenshot
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1373)
+|<< PrevComic #1373 (May 26, 2014)Next >>|
+Screenshot
+
+Title text: I'M PLUGGING IN MY PHONE BUT THE BATTERY ON THE SCREEN ISN'T CHARGING
+Explanation[edit]
+Randall is viewing a screenshot of a text-message exchange via his own phone's web browser. Such screenshots are frequently posted online, to show content ranging from humorous typos to creepy behavior. In this screenshot, in addition to the text messages' content, we see a battery bar reflecting a charge of 6%; this effectively "photobombs" (or distracts Randall from) the actual content of the original screenshot. On the other hand, the phone on which the shot is viewed is charged at a healthy 85%.
+The phone the screenshot is taken from is an iPhone, while the phone being viewed is an Android. Another iPhone screenshot was the joke in 1815: Flag.
+The title text suggests that Randall has plugged in his phone to quell the anxiety induced by the 6% charge in the screenshot, mistaking it for the actual battery indicator of his own phone. This measure is obviously unsuccessful, as charging his own phone does nothing to change the charge of the phone in the picture. A similar phenomenon is when a screenshot is viewed and the viewer attempts to use the controls (e.g. buttons) in the image.
+Randall's fear of losing power to his phone was later explored in 1802: Phone and 1872: Backup Batteries, where he brings extra batteries and it is also part of the joke in comic 1965: Background Apps.
+An alternative interpretation for the title text is that the screenshot was posted as part of a thread asking why their phone isn't charging. This would be ironic, as Randall's focusing on the battery level means his eyes are being drawn to the very problem being spoken about, yet he is too distracted by it to read that this is the problem!
+This may also be a reference to mirror neurons. Mirror neurons are according to many neurobiologists a biological basis of empathy. If you see someone stick a needle in their hand, it feels as if you hurt yourself and some people experience a tightness of the chest when hearing a wheezing asthma patient on the radio. Here, Randall's mirror neurons start to fire as he feels the anxiety associated with a phone losing battery power.
+Screenshot quality was discussed later in 1863: Screenshots. This comic is one of a small set of comics with the same or almost the same title as another comic (only plural form of word screenshot being difference).
+Transcript[edit]
+[Caption above the panel:]
+When someone posts a screenshot of their phone,
+[The panel shows the screen of an Android phone. At the top there is a black Android status bar with icons like WiFi, battery charge and the time, all in white:]
+85% 10:02 PM
+[Below the status bar is the open program, which is an internet browser, which shows the address field with an unreadable address and the tap icon to the right and the three dots for options. Below that is the page viewed in the browser. It seems to be a post from a person. Below the address bar is a picture of a user with dark hair in a square frame. To the right are two lines of unreadable user information. The post contains a picture posted by the user, and it is a screenshot of a chat/SMS conversation from another phone. The screen is light blue and the conversations has three blue speech bubbles to the left and two replies in between those in green to the right. All posts are unreadable, as are all other words in the picture. At the bottom of the picture the top of another users post, i.e. half the users image, can be seen. At the top of the picture, the status bar from this iPhone screen shot can be seen with icons both left, center and right. To the right the charge icon battery shows a very low charge, indicated with a small red line at the bottom of the battery. Around this low charged battery icon there is drawn a large red circle like spiral, circling the battery symbol two or three times, and four exclamation marks are written above this. The only thing that can be read in the picture is the charge percentage:]
+!!!!
+6%
+[Caption below the panel:]
+I can't pay attention to the content if their battery is low.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Guys I feel so strange right now, I woke up thinking "My battery is low, I need a charger but wait ... A new xkcd comic!" I have uploaded my screenshot : http://imgur.com/kjK1S1B 108.162.219.54 09:45, 26 May 2014 (UTC)bluelightzero
+I plugged in my phone but it's not charging??! http://imgur.com/xCaPvxX --108.162.215.65 22:00, 27 May 2014 (UTC)
+Because I can: http://i.imgur.com/2ezU88G.png International Space Station (talk) 17:26, 19 April 2016 (UTC)
+That subreddit made me feel dirty. And all this after seeing some long "friendzone" rants on Imgur. 108.162.237.218 10:10, 26 May 2014 (UTC)
+For completeness: http://imgur.com/YLNKqlC 15:53, 26 May 2014 (UTC) 173.245.54.12 (talk) (please sign your comments with ~~~~)
+Although I personally prefer Android phones for their OS flexibility, I don't think the "Android has longer battery life than iPhone" comment is needed in the explanation. It feels very opinionated, out of place and dubious (battery life essentially depends on usage.) That comment distracts from the main point of the comics. The comment the screenshot is of an iPhone and the phone itself is an Android is quite relevant since both status bars are vastly different (something that a casual reader might not realize), yet the phone owner is still confused by the screenshot's battery icon. If someone wants to reword that in the description better than I could do, please help yourself. Ralfoide (talk) 17:56, 26 May 2014 (UTC)
+The iPhone vs Android jab in the explanation was totally trolling, lame. Android phones as a rule have much inferior battery life to iPhone over the span of the day - and the reason for that are design decisions in making of iOS vs Android. For example iOS is total nazi in not allowing background processes to run (spare ones actively playing music or GPS, plus limited time downloads). On Android OTOH, apps relish attaching themselves to the many system hooks, to be launched/notified on changes - so as practical matter you always have Maps, Play store, Google Play Services and user apps leeching on the battery. Android has advantages over iOS (there are many thing you can do that are verboten in iOS) - but battery life, as well as privacy control are not one of them. Please let the explanation be w/o getting into platform war - it is about being OCD, not mobile OSes. 199.27.128.167 (talk) (please sign your comments with ~~~~)
+I don't think that's what "photobomb" means. 108.162.218.107 20:14, 26 May 2014 (UTC)
+I disagree. I found the usage quite ingenious. 188.114.99.189 04:20, 13 November 2015 (UTC)
+My read on this is he's distracted from the call for help, "Help, my battery won't charge! See!", because the attached image shows a low battery, killing his respect for the sender. Maybe that's just me. 108.162.221.51 23:13, 26 May 2014 (UTC)
+I agree; I interpreted the title text as the message that someone is trying to send to Randall. Diszy (talk) 05:27, 27 May 2014 (UTC)
+Some of the reason for this is the android sdk is used to create these screenshots. The sdk contains some virtual machines and these have the battery detect as being low. This seems to be done on purpose as you could query the charge of your phone in an app and having this set to in the middle makes it easier to test your app. It is much easier to take a photo with the sdk than to use real hardware as phones will be different and you will have other applications running that you don't want to be included in the screen shot. 108.162.249.224 03:38, 27 May 2014 (UTC)
+…except it isn’t! iPhones don’t get to use the Android SDK, and they have screenshot functionality since day one. Modern Android phones also have that capability. And no, making screenshots on the VMs is not easier: the SDK requires proficiency with Android, computers in general and much more; you can’t have the texts that you want to have a screenshot of on the VM; it’s generally slow and worthless. Such screenshots are created with physical phones, of people too lazy to charge their phones. —Chris Warrick/141.101.88.216 15:43, 27 May 2014 (UTC)
+Why is this still incomplete? 0100011101100001011011010110010101011010011011110110111001100101 (talk page) 08:38, 10 June 2014 (UTC)
+The "First draft" reason is removed. --Dgbrt (talk) 21:24, 10 June 2014 (UTC)
+Wait... why is my battery so low?162.158.79.119 17:32, 26 March 2017 (UTC)
+Categories: All comicsComics from 2014Comics from MayMonday comicsComics with colorSmartphonesComics sharing name

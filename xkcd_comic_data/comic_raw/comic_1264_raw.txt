@@ -1,0 +1,38 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1264: Slideshow
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1264)
+|<< PrevComic #1264 (September 13, 2013)Next >>|
+Slideshow
+
+Title text: Points to anyone who hacks the Flickr devs' computers to make their text editors do this when you click on anything.
+Explanation[edit]
+It is very common for websites to feature a gallery of images – a website for a school, for example, might feature pictures of the students and teachers. Some websites display images in the form of a slideshow like this comic, with slow zoom and pan effects and fades between the images. This effect has been dubbed the Ken Burns effect after documentary filmmaker Ken Burns who popularized the effect. In many cases, the slideshow is a fixed element, and can't be controlled by the user. This prevents the user from navigating through the images at their own pace or viewing any one image for an extended period, and can be distracting. Randall expresses frustration at this.
+The title text suggests points will be awarded to whoever can add that annoying effect to the text editors of the developers of Flickr, a photo-hosting website, so they can be subjected to the same thing to which they are subjecting Randall. This may be a response to recent changes to Flickr's website that includes such slideshows as one option; that said, Flickr has always allowed users to browse galleries in a normal grid layout and with user-controlled photo-by-photo full-window layout.
+Transcript[edit]
+Dear website operators,
+[This strip is in the form of an animated gif. The panels transition with a Ken Burns-like fade-and-pan.]
+Cueball: I will never...
+Cueball: ...want to browse a series of images...
+Cueball: ...like this.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+flickr devs recently changed the site's layout in a quite obtrusive way, which resulted in an outcry from their user base. Among the objectionable changes are slideshows which use the so called "Ken Burns effect". Quoting from Wikipedia: The feature enables a widely used technique of embedding still photographs in motion pictures, displayed with slow zooming and panning effects, and fading transitions between frames. (https://en.wikipedia.org/wiki/Ken_Burns_Effect) ... Plx (talk) 06:57, 13 September 2013 (UTC)
+Can someone provide an example of this "Ken Burns effect" on Flickr? Was it removed? I'm not exactly an active user of Flickr, but I can't it anywhere. 96.254.46.231 13:58, 13 September 2013 (UTC)
+On flickr, click on any picture, then click on the picture again (take you to full size), then click again (taking you to full screen) -- and then you should see it, if not click again Spongebog (talk) 20:28, 14 September 2013 (UTC)
+Ah, very good. Although, to be fair, this isn't as intrusive as Randall makes it out to be. It's only shown when you enter that full screen presentational view so it seems appropriate to me. I think the Flickr devs intended this to be a nice way to display a slideshow at a convention booth or the like. 96.254.46.231 13:29, 18 September 2013 (UTC)
+Adobe Flash isn't mentioned anywhere in the strip, but I think all those "cool-looking" Flash websites that are impossible to search, quote, or link to but still immensely popular with the marketing and PR people may have been an inspiration. --Koveras (talk) 07:42, 13 September 2013 (UTC)
+The inability to link to may be the reason of change. Lot of web owners would prefer if everyone would view few ads before actually seeing what he wanted to see (in flickr's case, obviously the image). While it's understandable, it's also really annoying. Site which can be searched, quoted and linked to (including hotlinking) is much more usable, and usually even if you don't search, quote and/or link to it, but marketing people are still trying to eat their cookie and keep it too. -- Hkmaly (talk) 10:27, 13 September 2013 (UTC)
+Bad web design is always a factor (preference to forcing embed revnue-generating ads aside). I once (if you bear with me) redid a website whose pages were images. Not predominantly images (including some title headers, to get the look juuust right) but whole images, one huge one per page (made to fit a conservatively assumed (non-mobile) internal browser dimension), with imagemapped links over the text links within the copious (perfectly rasterised) text. Just because the previous designer had wanted it to look pixel-perfect, or thought it was more efficient. (Repeat after me: "keep content separate from style". (And "accessible to the visually impaired" would have been nice, too, just for courtesy!))
+The only exception was a contact-form page, where the standard HTML <input> tags were used in a frame-held blank space. Perfectly positioned using absolute coordinates in CSS. Fair enough, except that the designer had used a page-builder (of course!) and constructed the page asynchronously in WYSIWYG, so that tabbing between fields jumped all round the page, reflecting the order in the Markup (no relation to page order, and 'labels' and fields not next to each other).
+The first thing I did (unnecessarily, but for 'fun') was redo the existing pages properly, and show the owner how much better (and smaller, even non-compressed ASCII and HTML tagging) his site was even without any visual changes. (Then I revamped it completely, keeping it technically competent but I'm never that happy with my own stylings. Owner seemed happy with one of options I put forward, though, even without further tweeks.)
+OTOH, there are those so bad that they're... well, required viewing. RIP 'Yvette's Bridal Formal', you will be missed. (Many discussions, multiple screenshots and several archives available via your friendly neighbourhood search-engine, if you need it. Totally SFW, if you avoid the 4chan discussions of it, but perhaps not for sanity.)
+Back on topic, yeah, I'm also against such pretentiousness (if not verbosity). 31.111.104.72 13:20, 13 September 2013 (UTC)
+...and it looks like flickr is currently down.... Spongebog (talk) 10:59, 13 September 2013 (UTC)
+Maybe someone is hard at work collecting those bonus points? -boB (talk) 13:16, 13 September 2013 (UTC)
+lol 89.176.80.96 09:04, 23 September 2013 (UTC)
+Snapchat stories[edit]
+Lately Snapchat Stories from some companies have been doing this really badly, where they have animated motion in paragraphs that often progress before you can finish reading them, and loop their stupid intro and outro animations in an incredibly frustrating, distracting way. You can never tell if you need to go back a slide, or wait for the given slide to loop back to the part you were reading. It’s a terrible user experience! PotatoGod (talk) 21:09, 26 July 2018 (UTC)
+Categories: All comicsComics from 2013Comics from SeptemberFriday comicsComics featuring CueballComics with animation

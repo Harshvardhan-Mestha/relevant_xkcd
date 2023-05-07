@@ -1,0 +1,86 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1061: EST
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1061)
+|<< PrevComic #1061 (May 28, 2012)Next >>|
+EST
+
+Title text: The month names are the same, except that the fourth month only has the name 'April' in even-numbered years, and is otherwise unnamed.
+Explanation[edit]
+This comic pokes fun of attempts to "fix" the calendar by making it simpler or more rational, which inevitably result in a system just as complicated. This is an example of the paradox in complexity theory that if you attempt to simplify a system of problems by creating a new system of evaluation for the problems you often have instead made the problem more complex than it was originally.
+Randall advertises his idea for a "Universal Calendar for a Universal Planet". He combines calendar definitions with time zone definitions. The abbreviation EST in this comic stands for Earth Standard Time (hence the title), but it is in itself a joke on the American Eastern Standard Time. In the rest of the explanation, EST refers to the comic's Earth Standard Time.
+Length of year[edit]
+Because there are approximately 365.2422 days in a solar year, various calendars use different means to keep the calendar year in sync with the solar year and the seasons. The Julian Calendar, for example, has leap days every four years, giving it an average year length of 365.25 days. The most widely used system is the Gregorian calendar, which also has leap days every four years, but skips leap days in years divisible by 100 unless the year is also divisible by 400, the latter additions come from Earth's axial precession. This gives it an average year length of 365.2425 days, which is very close to the length of a solar year (see detailed explanation in this video: Earth's motion around the Sun, not as simple as I thought). Other calendars have been proposed, some of which do not count leap days and special "festival days" as a day of the week, in order to make every date fall on the same day of the week every year.
+At "24 hours 4 minutes", EST days are longer, though there are only 360 of them in the year. The extra 4 minutes over the course of 360 days adds up to one standard day, so Randall's EST calendar would at this point have a year that is 361 standard days long. The 24 hours plus 4 minutes length may be a reference to sidereal day, whose duration is 24 hours minus 4 minutes.
+Running the clock backwards for 4 hours after every full moon gives 8 additional hours at each full moon, twelve or thirteen times in a year. Because a thirteenth full moon will occur once every 2.7 solar years on average, this modification adds 4.1228 standard days to an EST year, bringing it to 365.1228 days.
+The doubling of the non-prime numbers of the first non-reversed hour after each solstice and equinox is a final, very complicated way to bring Randall's EST year in extremely close sync with the solar year. There are 17 prime numbers between 0 and 59 and 43 non-primes. There are 2 equinoxes and 2 solstices each year, so a total of 4x43 = 172 minutes will occur twice. This brings the average length of Randall's EST year to 365.2422 standard days, equal to the solar year to four decimal places.
+Claimed benefits[edit]
+Many of the claimed benefits for the calendar are highly dubious:
+While it is fairly simple to describe, EST is far from simple to understand or put in practice. Clocks in particular would have to regularly undertake very complicated processes like running backwards or duplicating non-prime minutes.
+EST does appear to be fairly clearly defined.
+EST fails completely to be unambiguous. Following each full moon, four hours occur three times, twice forward and once backward. Several minutes are also duplicated, making times during those periods ambiguous.
+The only way EST is free of historical baggage is that it breaks free of any sensible bits of historical baggage; it keeps such things as the 30-day month and 12-month year, but adopts a different (and variable) length of day that would make it wildly out of sync with the Earth's day-night cycle.
+EST is compatible with old units, as far as seconds, minutes, and hours are concerned, though not for days, months, or years.
+EST is indeed very precisely synced with the solar cycle. The joke is that this has nothing to do with the day/night cycle or the Earth's yearly orbital cycle; the solar cycle is a period of magnetic fluctuation within the sun, lasting 11 Earth years.
+EST is free of leap years, though some EST years are 8 hours longer than others on account of having an extra full moon.
+A calendar amenable to date math makes it easy to find the length of time between two dates and times by having standardized periods of time. The complex variability of the length of EST years, days, and hours mean it is only intermittently amenable to date math, which is to say not at all.
+Other features[edit]
+The features of the calendar get increasingly bizarre as the description proceeds:
+The epoch for EST is set by reference to the Julian calendar, which was superseded by the Gregorian calendar. The Epoch would be January 14th 1970 in the Gregorian calendar.
+The different zone for the United Kingdom is a reference to 1 yard being equal to 0.9144 meters, a pun on using imperial units instead of the metric system. This has been the joke before in 526: Converting to Metric and is also mentioned in 1643: Degrees.
+Randall does not like daylight saving time (DST) very much, as has been made clear in several comics both before and after this one. See Narnian time below.
+Narnian time is a reference to the fictitious world of Narnia in CS Lewis' book The Lion, The Witch and The Wardrobe and its sequels. In Narnia, time passes much more quickly than in the real world. You could be in Narnia for several days and only a few minutes would have passed in the real world. However, synchronizing this effect would be impossible because it is not a consistent rate; it fluctuates wildly based on the whims of drama and magic. This and the DST mentioned above should be seen as a pair. Because when a country goes into DST time may not pass, which is basically what happens (more or less) when a child enters into Narnia. Whereas in EST Narnian time is synchronized to normal time, which DST is but for the one hour difference in the real calendar. Using the weird Narnian time was used as the plot in the bottom left drawing in 821: Five-Minute Comics: Part 3.
+The Gregorian calendar does not include the year "0"; after "1" BC the next year is "1" AD. Randall's invention fixes this according to correct mathematics, only to reintroduce the problem immediately by arbitrarily omitting the year 1958. The year 1958 is significant because January 1, 1958 is the epoch (time zero) in International Atomic Time (TAI), which is part of the basis for Coordinated Universal Time (UTC). (The main difference is that TAI doesn't add leap seconds.)
+According to the title text, the month of April would become unnamed on odd-numbered years. Although this may have no impact on the mathematics of timekeeping, it would impede ability to refer to the month in writing or conversation. Notably, April Fools' Day could be restricted to the even-numbered years, else observants would be exclaiming the word "Fools!" without the usual informative "April" prefix.
+Transcript[edit]
+[Caption above the frame:]
+xkcd presents
+[In large letters:] Earth Standard Time
+[In regular text:] (EST)
+A universal calendar for a universal planet
+[In small, grey letters:] EST is...
+Simple • Clearly defined • Unambiguous
+Free of historical baggage • Compatible with old units
+Precisely synced with the solar cycle • Free of leap years
+Intermittently amenable to date math
+[Inside the frame a list of the details concerning EST is shown:]
+Units
+Second: 1 S.I. second
+Minute: 60 seconds
+Hour: 60 minutes
+Day: 1444 minutes (24 hours 4 minutes)
+Month: 30 days
+Year: 12 months
+Rules
+For 4 hours after every full moon, run clocks backward.
+The non-prime-numbered minutes of the first full non-reversed hour after a solstice or equinox happen twice.
+[In two columns the "Epoch" is put into a contrasting juxtaposition to "Time Zones", and the text is smaller:]
+Epoch
+00:00:00 EST, January 1st, 1970 = 00:00:00 GMT, January 1st, 1970 (Julian Calendar)
+Time Zones
+The two EST time zones are EST and EST (United Kingdom). These are the same except that the UK second is 0.9144 standard seconds.
+[The text returns to regular size except when trying to fit text into a space:]
+Daylight saving: Countries may enter DST, but no time may pass there.
+Narnian Time: Synchronized✔
+Year Zero: EST does have a year 0. (However, there is no 1958.)
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+"24 hours 4 minutes" because the period of rotation of the Earth is 24 hours MINUS four minutes.
+EST = Eastern Standard Time (USA) or England Standard Time (UK); there's no easy way to disambiguate this since it is a common time zone for English speakers in the USA and UK.
+"Run clocks backward" a possible reference to the leap second.
+"0.9144" because 1 yard = 0.9144 meters
+"triple 4 hours after every full moon" = add on an additional 12 hours every full moon, to make the time between full moons exactly 30 "days" (in real life it's 29.5 days). 75.103.23.206 21:44, 7 December 2012 (UTC)
+Erm, just like to say, as a UK resident for all my life (five decades, adult and child), that I've never heard of "English Standard Time". GMT is Greenwich ('Gren-itch') Mean Time, which is for most purposes the same as UTC (which officially took over in the early 70s, but most lay-people still say 'GMT') and all the various other prime standards in use (give or take leap seconds, planetary rotation/orbitting adjustments, adherence to atomic clocks, etc) and BST (British Summer Time, i.e. GMT+1)has just taken over for this sun-tilted part of the year. A brief check of the usual reference sites reveals no sign of EST existing any time since any form of standardised "Railway Time" was originally instituted in the days of the Industrial Revolution, but I might have missed it.
+Anyway, as such, the two ESTs is surely a constructed part of the joke not (as I read it) some fact from RL that needs explaining. Yes, there's EST (Eastern Standard Time) for the US (and versions for Australia and elsewhere?), as well as main Egyptian time-zone and European Summer Time (actually a over-term for the three varieties: Western, Central and Eastern). (The UK roughly matches up to Western European Time and Western European Summer Time accordingly, but that's by no means official except possibly by convention/shared heritage of definition.) But I think the joke with the two 'EST's is purely to do with something like the whole Yard/Metre(/Meter) thing. Although initially I imagined it might be something to do with UK/US Gallon differences, albeit that we now tend to have to use Litres. Or, if you prefer, 'Liters'. ;) 178.99.20.83 21:49, 1 April 2013 (UTC)
+I seem to recall that Narnia time ran usually much faster but sometimes much slower than real-world time. 130.160.145.224 20:51, 10 March 2013 (UTC)
+I always thought that Taiwan, Province of China missed a golden opportunity here to establish propaganda that they founded it. Instead they are known as a township in the US. 66.88.136.254 20:01, 13 March 2013 (UTC)
+Think of what Jack Bauer could have done with 4 more minutes! 108.162.254.101 (talk) (please sign your comments with ~~~~)
+Not all possible attempts to make the calendar simpler would make it as complicated (or worse) than it is. For example, removing one day each from January and August to make February have 30 or 31 like the rest of the months would make the calendar (slightly) simpler and more logical going forward.173.245.50.174 18:39, 7 September 2015 (UTC)
+This might be a reference to the old TV show Babylon 5 here, but that's unlikely because the show is never mentioned anywhere else.208.97.36.166 3:18, 11 September 2015 (UTC)
+Perhaps it's just a coincidence, but it should be noted "1958" could also refer to the Discordian calendar, in which that is the year 3125 (5^5, 5 being the by far most significant number in a religion especially obsessed with numerology).--141.101.105.29 22:10, 7 October 2015 (UTC)
+The historical Jewish calendar did have month names; four of them happen to come up in the Old Testament. Some do suspect that the names were only used rarely.
+The modern Japanese calendar - and I think a few others - does have numbered months only; don't recall if any historical ones do, unfortunately. 141.101.80.44 09:53, 8 October 2015 (UTC)
+I agree that the connection to the Jewish (or for that matter Japanese) calendar is nonexistent. Will remove. Jkshapiro (talk) 02:58, 10 July 2020 (UTC)
+Categories: All comicsComics from 2012Comics from MayMonday comicsCalendarTimeDaylight saving timeAstronomyChronicles of Narnia

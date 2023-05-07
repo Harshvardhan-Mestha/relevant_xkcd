@@ -1,0 +1,43 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1209: Encoding
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1209)
+|<< PrevComic #1209 (May 8, 2013)Next >>|
+Encoding
+
+Title text: I don't see how; the C0 block is right there at the beginning.
+Explanation[edit]
+Skywriting is using an airplane to write words in the sky with controlled releases of smoke. Unicode is a standard for digitally encoding text which supports a huge variety of characters and modifiers.
+Cueball and Megan hired a skywriter to write some text which they provided in Unicode, but now they are dissatisfied with the result and Cueball is using one of their walkie-talkies to tell the pilot about his mistake—with the result that the pilot seems to lose control (presumably control of the plane, not the text).
+An interrobang (‽) is a combination question mark and exclamation mark. A diacritic is any symbol added to a character (for instance ´, ˘, ˇ, ¨), usually an accent mark added to a letter. In Unicode, combining diacritics are represented as separate characters, but computer programs that render text graphically treat them as modifications to the previous character. The request to modify the interrobang is strange, given that diacritics are supposed to modify letters, not punctuation marks, and given that an interrobang is already conceptually a character combination. On the other hand, combining diacritics can technically be used on any character, so the intended result will be something like:
+
+
+‽̃ͦ̀̏͆̐̋̿ͣͭ́ͯ͒
+The skywriter's errors and the phrase "Unicode support" play off the common issue of software rendering Unicode symbols incorrectly. But here the error does not seem to make the text unintelligible: all the skywriter has apparently done is put a diacritic underneath (or perhaps next to) the interrobang instead of above it. If this is the only problem with the text (which is likely, given that an interrobang would probably be at the end), then the comment that the skywriter has "terrible Unicode support" makes Cueball and Megan seem fastidious and unforgiving. The comic points up computer users' tendency to use hyperbole when describing minor problems, exaggerating their relative seriousness. Here Cueball and Megan seem concerned more about their incorrectly rendered text than about the skywriter's safety.
+The title text is presumably Cueball's reply, in which he appears to have misunderstood Megan: he is baffled as to how the pilot could have "lost" the Unicode control characters, which are the first 32 character codes in Unicode, but Megan was actually referring to the pilot losing control of the plane.
+Comic 1647: Diacritics also references an absurd use of diacritics.
+Transcript[edit]
+[Cueball and Megan are both holding walkie-talkies. Cueball is talking into his, Megan is holding hers down. Both are looking up in the sky.]
+Cueball: No, the combining diacritics go over the interrobang!
+Megan: Oh jeez, I think he's lost control.
+[Caption below the panel:]
+The skywriter we hired has terrible Unicode support.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+He may have lost control whilst trying to fly in squares... What‽ --DanB (talk) 13:36, 8 May 2013 (UTC)
+
+I've always thought that "interrobang" was one of the coolest words in the English language. Don't ya think?! --Dangerkeith3000 (talk) 15:32, 8 May 2013 (UTC)
+Coolest? Not the coolest, but a good word by some other measure, certainly. I might as well insist that... thingummy... oh... whatsit... ah, yes, that's it... "Lethology" is as cool. 178.98.255.57 00:51, 31 May 2013 (UTC)
+I like that "Gnaborretni" (an upside down interrobang) is as valid a word as "Interrobang". -Pennpenn 108.162.250.162 23:03, 25 February 2016 (UTC)
+I think the "C0 Block" text may also be a skywriting double meaning, as skywriters use something called "Corvus Oil" to make the smoke.24.234.164.78 18:27, 8 May 2013 (UTC) Dustin
+Saying that the C0 block ‘is there’ makes me think that the skywriter already wrote it; perhaps they hired the skywriter to write out all of Unicode in order‽ The interrobang is followed by a diacritic (overline), but unfortunately it's not combining. (The combining overline comes later.) —TobyBartels (talk) 20:02, 8 May 2013 (UTC)
+I think that they were intentionally trying to trick the skywriter into doing the patterns bad. After all, why would someone actually need diacritics on an interrobang. --Purah126 (talk) 01:57, 3 March 2023 (UTC)
+Just from real life
+Many of the web servers I am responsible for are using [[1]EBCDIC]. Browsers are on [[2]ASCII].
+I can tell you that this is the hell.
+--Dgbrt (talk) 20:38, 8 May 2013 (UTC)
+"Skytyping" uses five or more planes flying in formation to skywrite in a dot-matrix format. It is computer controlled, so it really could have codepage issues.68.3.11.239 23:36, 11 May 2013 (UTC)
+Just now catching up by reading all past comics and felt compelled to make my first comment on this one! Since Randall frequently makes subtle references to past subject matter, I wonder if the "C0" in the title text could be a reference to #878 - Model Rail, where he mentions the conflict over HO vs H0 scale on Wikipedia. If you take C0 to mean CO instead, this could be a reference to Carbon Monoxide in the atmosphere, since that's where the skywriting is taking place. I was surprised that nobody had mentioned this possible interpretation yet. Ianrbibtitlht (talk) 18:53, 29 May 2017 (UTC)
+Categories: All comicsComics from 2013Comics from MayWednesday comicsComics featuring CueballComics featuring MeganUnicodeAviation

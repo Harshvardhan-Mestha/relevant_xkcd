@@ -1,0 +1,53 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1237: QR Code
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1237)
+|<< PrevComic #1237 (July 12, 2013)Next >>|
+QR Code
+
+Title text: Remember, the installer is watching the camera for the checksum it generated, so you have to scan it using your own phone.
+Explanation[edit]
+QR codes (quick response codes) are a type of 2D barcode that can be scanned using any of several apps on a smartphone. This comic illustrates installation of a new application that requires the smartphone to scan a QR code on its own screen. There is no conceivable purpose for such a step, so it would be completely silly. Even with two mirrors or a front-facing camera and mirror, most smartphones would be unable to simultaneously display the camera feed for the QR scanner and the QR code itself. The only way to do it would be to take a picture of the QR code with a digital camera and then scan the screen of the camera. The "12 seconds remaining" part indicates that there is a time limit for this, and thus a quick response is necessary.
+If scanned, the QR code in the comic reads http://xkcd.com/1237/scan/, a link to a nearly identical image, but the line above the QR code reads, "To continue reading," and the caption reads, "How to trap a webcomic reader in an infinite loop". The QR code is identical to the previous one. So, if scanned again, it would simply return the scanner to the same image in an "infinite loop".
+Transcript[edit]
+[A smartphone. On the display, the following text:]
+"To continue installing, scan this code. 12 seconds remaining"
+[A particularly recursive QR code is displayed on the screen.]
+[Caption below the panel:]
+How to freak out a mobile app user.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+It might be a pun on Quick Response Code --109.91.114.82 10:25, 12 July 2013 (UTC)
+It's not a pun, it's a widely used abbreviation Hippyjim (talk) 11:25, 12 July 2013 (UTC)
+I meant that needing to scan it in 12 seconds might be a pun on "Quick Response". --93.232.203.46 14:11, 12 July 2013 (UTC)
+The only real way would be to screenshot, print, and scan... possible in about 30 seconds. Anyone want to run a time trial?--69.140.11.243 11:05, 12 July 2013 (UTC)
+No it's possible. With the right Emacs command and a Delorean Hippyjim (talk) 11:25, 12 July 2013 (UTC)
+What about simply using other phone or camera to make a photo and display it on its display for the camera of this phone? BTW, why are the phones so stupid they can't display two applications at once? -- Hkmaly (talk) 11:30, 12 July 2013 (UTC)
+You can take a screenshot of your screen (at least in Android) and then read the image with your qr-reading-program. Then it'll display the decoded QR-code, and you'll type it in the app. 189.125.162.182 14:00, 12 July 2013 (UTC)
+The title text says that additionally the checksum of the camera is checked. So no trick with screenshots would be possible. However I don't see a problem with second camera which displays the photo (as suggested above). --Chtz (talk) 14:05, 12 July 2013 (UTC)
+Can somebody explain how the checksum works, i.e. what the checksum against, why screenshot won't works? Arifsaha (talk) 16:08, 17 July 2013 (UTC)
+I think that most phones and computers are kind of shoddily programmed, like the developers never take enough time to think of conveniences or solve problems. For example, I should be able to scan QRCs that are on my own screen. 24.98.10.180 17:29, 12 July 2013 (UTC)
+That's a great idea! Shouldn't a browser be able to interpret them and just make it clickable, like a link? Seems straightforward. --DanB (talk) 12:32, 13 July 2013 (UTC)
+It's not that easy, an image is just an image. We would need a tag like <barcode-image>, maybe available at HTML 6.--Dgbrt (talk) 13:36, 13 July 2013 (UTC)
+Putting a QR Code on a webpage wouldn't make sense in the first place, unless it is intended to be read by smart phones. But I don't think it would be very hard to implement. Just pass every image on a webpage to a QR decoder (which of course also detects if something is a valid QR code). --Chtz (talk) 14:16, 13 July 2013 (UTC)
+I see a potential security flaw if a program can arbitrarily screenshot the system it's running on (in this case to find the QR code, which would be indeed an initially bad design flaw in the installation process). Or course PC programs can screen-grab the screen that they're running on, I know because I've done this myself (for legitimate reasons) so maybe my objections on the grounds of security are moot. 178.98.50.23 05:32, 16 July 2013 (UTC)
+I can't see a severe problem with that (nothing more dangerous than using arbitrary programs on a smart phone in the first place). Especially, I can't see any problem at all, with a browser scanning the content, which itself is rendering. --Chtz (talk) 09:38, 16 July 2013 (UTC)
+What about using mirrors? That'd be doable. 88.200.105.99 12:53, 13 July 2013 (UTC)
+I've actually needed to do this once. I was browsing the web on my phone and it only displayed a QR code to download an app I needed. I wondered what the least number of mirrors required would be to achieve this. Assuming it doesn't read inverse images, it would be necessary to flip it on both axes. Keavon (talk) 05:36, 14 July 2013 (UTC)
+QR codes are invariant upon rotation, but not upon reflection. So yes, you'd need at least two mirrors (or any even number of them). 88.24.184.87 17:09, 15 July 2013 (UTC)
+Same idea! And here I was thinking that I was immune to nerd sniping. ProTip: nobody who would ever want to look at this website is immune to nerd sniping. I think that four would be the minimum- one for the camera, one to redirect, then two more. RedHatGuy68 (talk) 06:27, 10 February 2016 (UTC)
+And you'd need to make a photo without changing the content of your screen. I think the solution with making a photo with a second device is still the easiest (assuming, you have one at hand) --Chtz (talk) 09:38, 16 July 2013 (UTC)
+It's not hard. All you need is to move your phone faster than light for a short distance, and tadaa, you have scanned it. 84.197.94.196 19:06, 15 July 2013 (UTC)
+Link at Transcript
+I think the link should be shown at "Explanation". I can't see it at the original comic, so "Transcript" is the wrong section.--Dgbrt (talk) 17:11, 12 July 2013 (UTC)
+OK, understood. I just did not try to read that QR code. But the link is still not correct at "Transcript", you have to do some actions to figure out and so it still belongs to "Explanation".--Dgbrt (talk) 18:13, 12 July 2013 (UTC)
+Real-life use for something like this
+Before I saw the title text, I thought the scenario involved scanning one device's display on another device to set up a key exchange between applications on the two devices, sort of like a Bump. --Tepples (talk) 00:35, 13 July 2013 (UTC)
+
+Isn't there this software on the computer for seeing an iPhone's display on the computer? If you have it, just scan it. If its an android it won't work. 188.29.164.92 13:03, 25 October 2013 (UTC)
+SOLUTION!!!
+Mirrors in a certain formation! 108.162.218.148 (talk) (please sign your comments with ~~~~)
+Quick Google-Lens access on the screen kinda ruined the joke. But it was funny for about 8 years, that's not bad for a technology joke, and now it's also wierdly nostalgic.
+Categories: All comicsComics from 2013Comics from JulyFriday comicsSmartphones

@@ -1,0 +1,49 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1090: Formal Languages
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1090)
+|<< PrevComic #1090 (August 3, 2012)Next >>|
+Formal Languages
+
+Title text: [audience looks around] 'What just happened?' 'There must be some context we're missing.'
+Explanation[edit]
+This joke is a play on the phrase context-free grammar, which is a technical term used in formal language theory.
+Cueball crashes Megan's speech on formal language theory, nonsensically shouts "Grammar!" without any context, and runs off. Because the gag is delivered in a particularly obtuse manner, the title text clears things up by having the confused audience mention "missing context", thus having them unwittingly explain the joke.
+The concept of context-free grammar is incredibly nuanced and nigh impossible to rephrase in layman's terms. Luckily, the joke only interprets the phrase "context-free grammar" literally, so no understanding of the actual subject is required.
+A context-free grammar can be described as a dictionary, translating single symbols to one or multiple symbols, who then are replaced again, until no further replacements are possible. If a string of symbols adheres to this grammar, it can be reconstructed solely by following these kind of orders.
+Transcript[edit]
+[A large banner is hanging over a podium, where a speaker (Megan) is standing behind a lectern. Cueball crashes through the left side of the panel, scattering glass.]
+Banner. 10th Annual Symposium on Formal Languages
+Crash
+[Cueball stops in front of Megan spreads out his hands and shouts:]
+Cueball: Grammar!
+[Cueball then runs off the right side of the panel, so swiftly he leaves a cloud of dust in his wake. Megan at the podium just looks after him silently.]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Where to dicuss (moved from article body)
+Maybe the word "Grammar" is just supposed to sound like "Ta-Da" (as in the fanfare sound made in circuses). Which - as odd as this is going to sound - is somewhat similar to how grammar is used in formal languages.
+Is it possible that the word crash is some sort of play on the computer term 'crash'? I know that formal linguistics is important to computer science... Just throwing that out there.
+
+You know, either:
+a) I'm REALLY dumb (98% probability) and I simply can't find the comments on this comic (or any other for that matter now "it's come to this" (the Wiki). Or...
+b) (2% probablity) nobody else has managed to work out how to comment yet either. Is this the way to do it? (seems logical) or is option a) corect? In which case, can someone give me a Noddy's Guide to how to find the comments and add them, please? (Obviously kindly delete this if option a) is indeed correct!) Steve B. -- The explaination is up now. Basically it's a big play on the words 'context free grammar'
+If only there were some sort of Discussion page where comics could be discussed. There could be a convenient link at the top of the page right next to a link back to the comic page itself. Maybe it could be colored red to stand out from the rest of the page. -- It's a blue button next to "Prev"
+Formal Language
+Because the conference heading implies it is about formal programming languages. Grammar is about the correct for of language and it's formality and rules (which I break all the time). It's a pun.
+
+202.167.15.165 06:21, 21 November 2012 (UTC)beany
+Formal language is a much broader concept than just programming languages. St.nerol (talk) 15:37, 23 November 2012 (UTC)
+Formal Language
+I'm thinking the page needs a brief description of what a "formal language" is. I linked to the wikipedia article on formal languages, but we should probably add a summary relevant to the comic here. --DanB (talk) 10:39, 3 August 2012 (EDT)
+^ | "Formal languages" in a formal language, is "Formal languages".
+Norvig vs. Chomsky
+It may be related to this news: http://www.tor.com/blogs/2011/06/norvig-vs-chomsky-and-the-fight-for-the-future-of-ai
+Grammar vs Language
+The pun seems clearly to be related to the difference between a formal language and a formal grammar. A language X is the set of all it's valid statements. On the other hand, a grammar for a language X is a description that can be used produce every single valid statement in the language X, even if it's a language with infinite valid statements. So him shouting "GRAMMAR" in a formal languages forum is most likely meant to be as if he said in a shorthand way everything there was to be said about (the) language. 108.162.212.51 (talk) (please sign your comments with ~~~~)
+Someone please fix the explanation, I cant because A) I know nothing about this and B) As my age is every time I try to learn this I fall asleep.Dontknow (talk) 04:08, 13 May 2017 (UTC)
+Why do we need to define context-free grammar?
+cant you just say that its a thing that exists and be done with it? it certainly doesnt add to the joke to know the definition TheJonyMyster (talk) 21:46, 10 June 2017 (UTC)
+I agree. I have added a sentence though, as I've encountered quite a bit of uproar about removing incompleteness notifications willy-nilly. <gir> 20:55, 28 June 2017 (UTC)
+Categories: All comicsComics from 2012Comics from AugustFriday comicsComics featuring CueballComics featuring MeganLogicLanguageMathPublic speakingPuns

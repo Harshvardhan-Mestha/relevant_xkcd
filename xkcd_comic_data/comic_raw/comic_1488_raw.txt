@@ -1,0 +1,159 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1488: Flowcharts
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1488)
+Not to be confused with 518: Flow Charts.
+
+|<< PrevComic #1488 (February 18, 2015)Next >>|
+Flowcharts
+
+Title text: Whoa, and if you overlay a Fibonacci spiral on a golden spiral it matches up almost perfectly!
+If you click on the comic at xkcd you get to a spiral page on xkcd.
+The arrow at the bottom of this comic points to the "Random" button at the bottom of the xkcd page.
+You can go to the comic, as always, by clicking on the date line above this comic.
+Explanation[edit]
+Note: A flawed version of this comic was posted at first and then quickly a correct version was uploaded. But this gave rise to several misunderstandings and confusion. See the Trivia section below.
+This comic is a flowchart style, like many. Interestingly, the first option, Do you like flowcharts? loops back to itself if you say Yes. As the yes lines of other options point to the type of graph they describe (for example, the yes line of Do you like line graphs? points to a line graph), this may be interpreted as a recursive reference to the flowchart itself, although it points to the option itself rather than the START node. Also, this may cause the reader who actually likes flow charts to go into an endless loop of choosing Yes, until they are so annoyed by flowcharts that they do not like them anymore and can progress by saying No.
+After asking about flowcharts, the reader is asked whether they like line graphs. If they follow the yes line, it becomes a line graph where "Time" is the x-axis and "Your Happiness" is the y-axis, and shows that your happiness increases with time. If you don't like line graphs, they are asked the same question about scatter plots where again the lines turn into the points and the axis of such a plot.
+Taking yet another line, the reader is asked "Charge a battery?" If they follow the line marked yes they are asked whether they are A/C or D/C current and are led to a portion of the flowchart which resembles a circuit diagram of a rectifier bridge with a battery connected to it.
+If the reader follows the "no" line, they are asked if they like spirals. If they choose "no" they are asked whether they would take the path of least resistance. This part of the flowchart resembles a circuit diagram, and the word "resistance" is a pun because resistance can have several meanings. In electricity it is an electrical quantity that measures how the device or material impedes the electric current flow through it. Going left is the "Never" option, which goes through extra resistors and a diode, therefore making the "Yes" option the "path of least resistance". However, when asked if you choose the path of least resistance and answers never it could also mean that you do not try to avoid a little trouble.
+Whether they choose "Yes" or "No", they arrive at "Do you like when people find the golden spiral in random images?" If they choose "yes" the line fades into a drawing of a golden spiral, and we see that the flowchart is structured around it. If they choose "no" they are asked if they are tired of flowcharts. If not, they are taken to the beginning to start over again. If they are tired, the line points to the "random" button on the xkcd website.
+The title text and the faint image of a golden spiral parody the fact that the golden spiral is superimposed on nearly everything. The golden spiral is a spiral that has the growth rate of the golden ratio, a number that has inspired both artists and mathematicians alike. However, people try to find the golden ratio in seemingly random objects, and they fall to confirmation bias when drawing a golden spiral on top that seemingly fits. The comic links to [1], where one can see exactly that- golden spirals Randall "found" in random photographs. This may be a spoof of the viral video Illuminati Confirmed. The limit of the ratio of two consecutive terms of the Fibonacci sequence is equal to the golden ratio, so a Fibonacci spiral matches up almost perfectly for a good reason, unlike the coincidental matchings of the pictures in the mobile site link.
+This comic bears reminiscence of 730: Circuit Diagram, although it is not exactly the same idea. Putting a golden spiral over other things was again used in 2322: ISO Paper Size Golden Spiral, like the spiral page on xkcd which this comic is a link to.
+List of Items in Flowchart[edit]
+Text in boxes Explanation Successor(s) Predecessor(s)
+Start Start here Do you like flowcharts? Tired of flowcharts yet?
+Do you like flowcharts? Asking whether or not the reader likes flow charts. Recursively returns to itself until the reader is annoyed enough to not like flowcharts and can move on to the next point. Do you like flowcharts?, Do you like line graphs? Start, Do you like flowcharts?
+Do you like line graphs? It asks if you like line graphs Data or axis? [The one after yes to line graphs], Scatter plots? Do you like flowcharts?
+Data or axis? [The one after yes to line graphs] It is asking if you wish to be the data or the axis. If you choose the line, the flow chart line turns into a line graph with a positive curve. The same question will be asked later if you say no to line graphs and yes to scatter plots. [A line in a line graph], Time or your happiness? Do you like line graphs?
+Time or your happiness? If you choose time the flow chart line becomes the x-axis of time and if you choose your happiness it becomes the y-axis in the line graph with the line from before indicating that your happiness increases over time (maybe because you like line graphs and are now becoming part of one?) [Time axis], [Your Happiness axis] Data or axis? [The one after yes to line graphs]
+Scatter plots? If you don't like line graphs then maybe you like scatter plots? Data or axis? [The one after yes to scatter plots], Help charge a battery? Do you like line graphs?
+Data or axis? [The one after yes to scatter plots] It is asking if you wish to be the data or the axis. If you choose the data, the flow chart line turns into a scatter plot that is also a flowchart where each of the 10 flow chart boxes is black with two white arrow, one pointing up and the other to the right. They are all connected with multiple connections. The same question was asked earlier if you said yes to line graphs. [A flow chart that looks line points in in a scatter plot], X of Y? Scatter plots?
+X or Y? Which axis do you prefer? The line you chooses turns in to this axis in the scatter plot. [X axis], [Y axis] Data or axis? [The one after yes to scatter plots]
+Help charge a battery? From here on the flowchart is at the beginning of morphing into a circuit diagram. Like spirals?, Are you A/C or D/C? Scatter plots?
+Are you A/C or D/C?, Asks whether you are an AC current or a DC current. Positive or negative phase?, positive or negative DC terminal? Help charging a battery?
+Positive or negative phase? Conventional current will flow forwards during the positive phase of AC current, whereas in the negative phase the forwards directions matches the actual flow of electrons (see 567: Urgent Mission). Positive or negative DC terminal? [To either side of this box] Are you A/C or D/C?
+Positive or negative DC terminal? This box looks like a rectifier bridge, which is used to convert AC to DC. The single output leads to a battery which is joined in a circuit to the bottom of the rectifier bridge. Battery [plus or minus] Positive or negative phase?
+Like spirals? Well, do you? If you do you instantly go to the question of golden spirals. If not you take a detour. Take the path of least resistance?, Do you like when people find the golden spiral in random images? Help charge a battery?
+Take the path of least resistance? This one is a pun. If resistance is seen as electrical resistance, then the bottom one labeled yes is the one with least resistance. The other labeled "Never" sends you through more resistance, and a 'protective' diode. But in either case you are lead to the same decision box. Also the resistors could look like spirals - making this detour for those who dislike these even more painful. Do you like when people find the golden spiral in random images? Like spirals?
+Do you like when people find the golden spiral in random images? Here is a question regarding if you like the idea that some people can find and superimpose a golden spiral on a random image. No matter which options you choose you are forced to admit that it is totally BS (bullshit). But maybe you like it anyway? If you choose the Yes, even though it's total BS option the flow chart continues to the side of the chart, then starts to spiral up only to fades out to a very faint golden spiral aligned to the other items in the flow chart. It is almost impossible to see it before you follow this line. The other option is of course No, it's total BS. If you do like it - then click on the comic on xkcd. Tired of flowcharts yet?, [A very faint golden spiral] Like spirals?, Take the path of least resistance?
+Tired of flowcharts yet? Have you had enough of flow chart? If not then you are returned to the start box at the top of the chart. Maybe you have not tried all options yet, although you have already answered that you are tired of flow charts if you get this far. If you have had enough and answers Yes, I want to look at something else this option leads to the random comic button below the comic (only on xkcd). This decision literally breaks the fourth wall in traveling through the image's nominal boundary to point at a specific button to look at some other comic. Start, [The xkcd Random comic button] Do you like when people find the golden spiral in random images?
+Transcript[edit]
+[A flow chart. The first option the start box is white text on a black rectangle. The other boxes are rhombuses standing on edge. Except for the first there are always two options going out. Most only have one option coming in, but there are exceptions with two options going in.]
+Start
+[One arrow points to the first real choice.]
+[Below the text on the two options going out from each option will be indented. The top of these two options will be the one to be mentioned first below. Then the chart will be mapped like this going back to the previous unfinished option.]
+Do you like flowcharts?
+Yes
+No
+[Yes goes back where it came from.]
+Do you like line graphs?
+Yes
+No
+Data or axis?
+Line
+Axis
+[The line is just a line – but now as the line in a line graph.]
+Time or your happiness?
+Time
+Your happiness
+[These two lines turn into the x and y axis of the line graph.]
+Scatter plots?
+Yes
+No
+Data or axis?
+Data
+Axis
+[The data line turns into the points in a scatter plot.]
+X or Y?
+X
+Y
+[These two lines turn into the x and y axis of the scatter plot.]
+Help charge a battery?
+Yes
+No
+Are you A/C or D/C?,
+A/C
+D/C
+Positive or negative phase?
++
+-
+[The D/C option also goes to this next option, but directly. This next rhombus looks like a part of a circuit diagram.]
+Positive or negative DC terminal?
++
+-
+[These two lines goes to the + and – poles of a battery.]
+Like spirals?
+No
+Yes
+Take the path of least resistance?
+Never
+Yes
+[Never goes through two resistors and a diode before reaching the point of the Yes option, which then also goes though yet another resistor. Both thus end at the same option, which is also the one that Yes to like Spirals ends up at:]
+Do you like when people find the golden spiral in random images?
+Yes, even though it's total BS.
+No, it's total BS.
+[Yes option takes the chart into a fading line that turns into a golden spiral spanning the whole chart.]
+Tired of flowcharts yet?
+No
+Yes, I want to look at something else
+[No takes you back to the start box at the top.]
+[Yes takes you out of the comic and points to the Random button at xkcd.]
+Trivia[edit]
+A corrected version of the comic was uploaded later on the same day.
+This is the second time in February 2015 this has occurred; previously with 1482: NowPlaying.
+It appears that an unfinished version of the comic was uploaded, with several of the lines and labels missing, and the bridge circuit incorrectly drawn.
+This original comic can be seen on the link.
+The errors were:
+Missing yes/no at the line graph options.
+Missing yes/no at the scatter plot options and missing the line for the yes option going to the second Data axis.
+Missing yes at charge a battery options.
+Missing DC from the AC or DC options and missing the line for the DC option going to the terminal.
+Missing the arrow pointing to the terminal from the "-" option of the phase.
+Missing +/- at terminal option and missing the line going from the negative pole of the battery to the terminal.
+The terminal, which is a rectifier bridge, had both diodes drawn in the wrong direction on the left side of the decision box.
+There was a + floating between the phase and terminal option. This was deleted.
+Missing yes at the spiral options.
+Missing yes/never! at the least resistance options. Also the arrow pointing to the next option was missing.
+The comic has reference to charging a battery, and was posted on the 270th birthday of Alessandro Volta, the original creator of the battery. This could, however, have been a coincidence.
+Later after the initial release of this comic Randall added a link to this page. It's viewable in the HTML-source or here: https://xkcd.com/1488/info.0.json. The text is: "This is a gods-damned flowchart, huge surprise. a transcription and explanation and other things available on an external site http:\n\nwww.explainxkcd.com\nwiki\nindex.php\n1488 ]]\nhttp:\n\nwww.explainxkcd.com\nwiki\nindex.php\n148".
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+A little bit more of 730? 141.101.80.108 06:53, 18 February 2015 (UTC)
+More along the lines of 94, 210, 518, 627, 844, 845, and 1195, though I see similarities with 730. Mikemk (talk) 07:09, 18 February 2015 (UTC)
+How should we do the transcript? Mikemk (talk) 07:09, 18 February 2015 (UTC)
+  You could do the transcript as a number list formatted like: "[Title of item] IF YES(GOTO X), IF NO(GOTO Y)" (where "X" and "Y" are the numbers on the list for the corresponding next option). Derek 108.162.216.107 13:25, 18 February 2015 (UTC)
+I would just like to say that I find some of the linked spiral-images very disturbing. Although for some they'd be the same even without the spirals, admitedly. 141.101.98.188 09:47, 18 February 2015 (UTC)
+I believe this will end up being one of the most challenging explanations yet (of those that are completely explicable) - got quite a task up ahead... -- Brettpeirce (talk) 10:35, 18 February 2015 (UTC)
+Normally (for a flowchart) the Start symbol should not have an input. The electrical circuit is not a rectifier! Sebastian --108.162.254.103 10:59, 18 February 2015 (UTC)
+In the newly corrected version, it is. Knob creek (talk) 16:58, 18 February 2015 (UTC)
+But it doesn't need to be, since the rectification is done by the flow chart. Two of the diodes will never be used. (Is it still a rectifier if it's not rectifying?) 108.162.249.182 21:49, 18 February 2015 (UTC)
+Yes it's still a rectifier. It just appears to be out of a job, that's all. Anyone else notice that the bridge rectifier IS a flowchart? The two decision trees feeding it are completely unnecessary. Getting rid of them gives the rectifier back it's job! Also, to give Randall a break, the original diagram of the bridge is actually a ring modulator. It's been decades since I've been in RF so I had to track it down and confirm.ExternalMonolog (talk) 23:24, 18 February 2015 (UTC)
+OCD comment: There appear to be two lines missing, 1) from scatter plots to data or axis, 2) from the bottom of positive or negative DC terminal to the negative terminal of the battery. Also, I would be happier if the two left hand diodes of the full wave rectifier were reversed. 173.245.52.95 (talk) (please sign your comments with ~~~~)
+Scatter plots don't have lines, that's the joke. 199.27.133.71 (talk) (please sign your comments with ~~~~)
+It wasn't a joke; in the corrected version the lines are there. I suspect Randall uploaded a work-in-progress version of the comic by mistake. 141.101.98.245 (talk) (please sign your comments with ~~~~)
+Either I was really tired this morning, or the spiral was not actually present in the first version of this comic.108.162.254.98 13:00, 18 February 2015 (UTC)
+It seems like the options for the "Do you like flowcharts?" box should be reversed (only putting someone through the flowchart if they say they like flowcharts). I think it makes less sense to have the first option "annoy" someone with a flowchart option until they say they don't like flowcharts, then put them through a flowchart. Derek 108.162.216.107 13:31, 18 February 2015 (UTC)
+I see no evidence that the "time or your happiness" box is asking you to "choose whichever you value more". The graph shows your happiness as a function of time, not "your time" (it's not as if you were asked to choose between, say, more happiness or more spare time for yourself). I think it is just asking you to choose which axis of the graph you want to follow. The flowchart for the line graph and the scatter plot are similar; since "X or Y" is not interpreted as a question about value, why should "time or your happiness" be?
+Zetfr 14:00, 18 February 2015 (UTC)
+The comment on the Fibonacci and Golden Spirals being the same is not correct. According to Wikipedia[1][2]: "A Fibonacci spiral approximates the golden spiral using quarter-circle arcs inscribed in squares of integer Fibonacci-number side." - Prometheusmmiv (talk) 14:55, 18 February 2015 (UTC)
+The title text says "if you overlay a Fibonacci spiral on a golden spiral it matches up almost perfectly." -- Grabadora304 (talk) (please sign your comments with ~~~~)
+Randall has uploaded a new version, it fixes some missing lines: The scatter graph is now connected, as is the DC terminal, and the battery is now in a circuit. Some of the explaination above needs updating 141.101.99.47 15:32, 18 February 2015 (UTC)
+Clicking on the image takes you to http://xkcd.com/spiral/ 108.162.216.149 (talk) (please sign your comments with ~~~~)
+Good catch about http://xkcd.com/spiral/ ! --Guest (talk) 17:46, 18 February 2015 (UTC)
+NOTE this comic has been changed, oddly. http://xkcd.com/1488/ Halfhat (talk) 18:21, 18 February 2015 (UTC)
+How do we change this wiki to have the updated image? The XKCD site is updated, but this page still shows the old image. Djbrasier (talk) 18:59, 18 February 2015 (UTC)
+I have uploaded the correct version now. Kynde (talk) 19:30, 18 February 2015 (UTC)
+The image is still out of date as it lacks the Yes / Never! markings on the Path of Least Resistance decision box. 173.245.54.174 21:00, 18 February 2015 (UTC)
+Is it a coincidence that a Fibonacci sequence has a link to the golden ratio? I think not: https://www.youtube.com/watch?v=dTWKKvlZB08 sirKitKat (talk) 21:08, 18 February 2015 (UTC)
+Wow - I tried the random button once and got to this comic: 1359: Phone Alarm. For a second I thought he had rigged it - but that is was not the case. But that was not getting to something else ;-) Kynde (talk) 21:19, 18 February 2015 (UTC)
+I got 518 and started laughing all over again. He really should rig the random button on this page to point to only flowchart comics. He has enough of them: 94, 210, 518, 844, 851, 854, 1066, 1195, 1359. 108.162.216.98 15:20, 19 February 2015 (UTC)
+Thanks, you found one that wasn't in Category:Flowcharts. Fixed it. gijobarts (talk) 21:31, 19 February 2015 (UTC)
+I only got 1100: Vows. The comic was posted yesterday, though. Is it possible that he rigged it, but only for yesterday? gijobarts (talk) 21:36, 19 February 2015 (UTC)
+There is a new corrected version. The current one has a "Line or Axis" diamond in the topmost line, instead of "Data or Axis". 141.101.102.217 (talk) (please sign your comments with ~~~~)
+Why Randall use form “are you A/C or D/C”, not “It [battery] is” or maybe “are you on A/C or D/C”? This refer to the typical (not-so-intellectual) quiz/flowcharts propagated in the Internet? 141.101.105.195 10:57, 25 February 2015 (UTC)
+I took it as a reference to "Are you a Mac or a PC?" (not sure if this is a thing...). 188.114.99.189 04:07, 9 December 2015 (UTC)
+I think the "yes" path of "Do you like flowcharts?" is a recursive reference to the flowchart itself (just like other "Do you like ~"? nodes which refer to the respective graphs when the reader follows the "yes" path), not (just) for annoying the readers following it. --Luke1337 (talk) 01:55, 2 July 2016 (UTC)
+Categories: All comicsComics from 2015Comics from FebruaryWednesday comicsFlowchartsScatter plotsLine graphsPuns

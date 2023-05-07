@@ -1,0 +1,40 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1280: Mystery News
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1280)
+|<< PrevComic #1280 (October 21, 2013)Next >>|
+Mystery News
+
+Title text: If you find and stop the video, but you've--against all odds--gotten curious about the trade summit, just leave the tab opened. It will mysteriously start playing again 30 minutes later!
+Explanation[edit]
+With the introduction of tabbed browsing, many users, even on widescreens, will have so many tabs open that it is hard to find any given one. At 44 tabs on Google Chrome on a 1080p screen, the user can no longer see any text on the tabs. Long before this point (~20 tabs), the text is so short as to be unusable. Randall refers to this tendency to open many tabs without closing them in this comic.
+Many modern tabbed browsers can remember what tabs were open upon closure if this setting is on, and will reload the same tabs on startup. This will start any auto-playing videos, such as YouTube videos (although some browsers, like Firefox, have since fixed this by forcing videos to pause), which appear on any of the open pages. This situation can also occur during browsing when an auto-playing video does not begin playing until after a user has moved on to a new tab, when a page with a video refreshes in the background, or when a site with such a video automatically opens in a tab that does not become the active tab when it opens.
+This generally leads the user to clicking through all of the open tabs to try to find where the sound is coming from. This can be even more difficult if the video is not obvious and not centered on the screen of whatever tab it is playing in. Years after the release of this comic, Google Chrome began to indicate to the user which tabs are playing audio, thus alleviating this problem.
+The title text refers to websites that refresh in the background, causing videos (and ads) to start playing again even if you stopped them previously. Many news sites, such as CNN, will do this if you stay on the same page for 30 minutes.
+Transcript[edit]
+[Cueball sitting at a laptop.]
+Laptop: It's day five of the trade summit, and still no...
+Cueball: Dammit
+click click click
+I get most of my news from autoplaying videos in browser tabs I can't find.
+Title text: If you find and stop the video, but you've--against all odds--gotten curious about the trade summit, just leave the tab opened. It will mysteriously start playing again 30 minutes later!
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I would just like to take this moment to say that Explain xkcd's ads are restricted to image files only, and will never play video/sound/flash stuff when you load the page, unlike the site that Cueball currently has open. Davidy²²[talk] 06:59, 21 October 2013 (UTC)
+This has to do with those news videos or live streams that pop up without your consent on some unreputable news sites. If you have a slow network and a lot of tabs, they're almost impossible to find. 66.87.66.186 13:47, 21 October 2013 (UTC)
+
+This comic is so 2005; I'm guessing Randal is not using adblockplus (maybe due to a moral enforced by the income from his xkcd.com) 108.168.11.47 13:57, 21 October 2013 (UTC)
+I'm guessing that he's not referring to audio ads, but rather to news sites that have a video and a story, but can sometimes take so long to load the video that you've read the story and moved on, or to the random sites that have the completely unrelated espn auto-play video in the sidebar. I personally installed an add-on that makes you have to click on a flash object solely for these annoyances.... 66.249.85.193 14:08, 21 October 2013 (UTC)
+An alternative situation: I sometimes have the domains youtube.com and ytimg.com blocked by NoScript. Then I allow them to watch something and three or four videos in background tabs start playing... 83.41.36.244 14:41, 21 October 2013 (UTC)
+This exact situation happens to me quite often. Here's the scenario: I scan the Google News homepage for today's news, and click the middle mouse button on the 5-10 stories that interest me, thus opening them up directly into background tabs, intending to read them one-by-one afterwards. If any of these articles have videos that autoplay, I start hearing random news reports without knowing which tab(s) the video is playing in, and have to frantically search through them to pause it. I'm pretty sure this is what Randall is referring to. 216.174.143.92 14:56, 21 October 2013 (UTC)
+Yes, exactly. I often read a story which contains links to several others I'd like to read. So I open them in background tabs to get to after I finish the first story. And a few moments later some video on a tab (or several tabs) which I'm not looking at will start to play. Often it is difficult to find the tab(s) on which the video(s) is playing since, as noted above, the video is non-obvious. More often than not I find (if I can find it at all) that it's coming from some small ad running in a border area.
+Very frustrating and often leads me to just turn down the sound and ignore the thing that's clamoring for my attention. Gets the advertiser exactly the opposite reaction from me than what they want. Very counter-productive for the advertiser. 67.51.59.66 17:29, 21 October 2013 (UTC)
+Chrome shows a visual indicator of which tab is playing audio, and Firefox is considering adding the feature. The problem is that plugins do their own audio-playing, and don't let the browser know when they're playing audio. So, for now, this only works for audio that the browser itself plays (which includes Youtube HTML5). --Interiot (talk) 18:45, 21 October 2013 (UTC)
+It appears that no-one has explained how something will start playing again 30 minutes after it was stopped. Or did I miss something? Grahame (talk) 00:55, 22 October 2013 (UTC)Grahame
+I suspect that it's something built into the object, equivalent to an "refresh page" timer in the HTTP. (Or an actual <meta http-equiv=”refresh” ...> tag, coupled with the desscribed autoplay-on-load behaviour that thus gets called anew.) However, it could be a javascript or even a server-pushing functionality. I particularly loath some news sites that already do all kinds of wierd cross-domain loading by such means, and know there's a multitude of ways people can do such things, whether wanted by the browsing person or not. (Also, to give my own experience, I tend to browse with the sound off, unless/until I want to get the full experience of something like Youtube, so wouldn't even hear a sneaky video playing in a sidelined tab or other browser window.) 31.111.43.68 01:48, 22 October 2013 (UTC)
+A notable offender of this kind of auto-playing video is the International Business Times in their Finance section: http://www.ibtimes.com/markets-finance - their "IBTIMES TV" player just starts playing out of nowhere, and it is not blocked by AdBlock. 37.235.50.18 20:19, 27 October 2013 (UTC)
+Why would Randall let this comic out on a Sunday. The first entry in the explain history is from the Monday after - the 21th of October. Anyone who can find out if this is the correct date, or just a mistake from when the page was created? --Kynde (talk) 12:14, 20 April 2015 (UTC)
+I tried to fix this comic, maybe it isn't incomplete now? Yourlifeisalie (talk) 13:55, 30 April 2015 (UTC)
+There are browser extensions like MuteTab (the one I use) that will tell you exactly which tab is playing the audio, and let you mute it from its interface. That's what I use, because I keep scores of tabs open to remind me of things I want to do or learn. — Kazvorpal (talk) 15:59, 16 December 2016 (UTC)
+Categories: All comicsComics from 2013Comics from OctoberMonday comicsComics featuring Cueball

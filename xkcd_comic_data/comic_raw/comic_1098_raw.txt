@@ -1,0 +1,52 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1098: Star Ratings
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1098)
+|<< PrevComic #1098 (August 22, 2012)Next >>|
+Star Ratings
+
+Title text: I got lost and wandered into the world's creepiest cemetery, where the headstones just had names and star ratings. Freaked me out. When I got home I tried to leave the cemetery a bad review on Yelp, but as my hand hovered over the 'one star' button I felt this distant chill...
+Explanation[edit]
+This comic deals with the idea that users when viewing online star ratings are usually heavily biased towards the best possible rating (five stars). As there are nine possible scores in the rating system in the comic (1 star, 1.5 stars, 2 stars...4.5 stars, and finally 5 stars), a rating of 3 out of 5 stars is supposed to represent "average" or "mediocre". Thus, anything above 3-and-a-half stars is supposed to be "good" and anything below 3-and-a-half stars is "bad". However, most people consider a four star rating to be "OK", and everything below as "crap".
+On one hand there is some justification for this, as ratings are more likely to be given by people who fall onto one of the extremes (either loved or hated the product) and thus there is a tendency for ratings to be skewed either high or low. Fake reviews are also a factor that often push an aggregate score higher, although this is not addressed in the comic. For this reason, no product is so perfect that every user will give it five stars - as soon as one person gives it less than five, the overall review score would drop. So the only explanation for a five star rating is that only a few users have voted, maybe only one.
+The title text may refer to the folkloric practice of attributing a feeling of a chill to someone walking on your future grave. When Randall is back home he would like to give a bad rating on Yelp — a corporation that operates an "online urban guide" — and hovering his hand over the 'one star' button, he was just 'walking' over the rating on his own future grave.
+Another possible explanation for the title text is that the headstones are from people that gave the cemetery star ratings and were then murdered, having their given ratings displayed in the headstones. This in turn would explain the chill Randall feels before clicking the one-star button.
+See also: 937: TornadoGuard, another comic about star ratings.
+Transcript[edit]
+Understanding online star ratings:
+5 stars: [Has only one review]
+4.5 stars: Excellent
+4 stars: OK
+3.5-1 star: Crap.
+Trivia[edit]
+The image at the end of What-If 69 references this comic in the title text.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+please add ~~~~ to the end of your comments to include your signature. Thanks!
+An alternate explanation is that internet users only vote in 1s and 5s, and that the cutoff represents the point where there are too many 1s.
+The people most likely to vote are those with strong opinions, which would often be polerized to one or five stars. These people would be the most likely to vote because their connection to the product would make them more willing to spend the time to share their experiance.
+In my opinion, this comic is about overrating. The comic says anything between full fout stars is crap. One possible explanation could be that people dislike to admit that their decision for a particular product was a bad one, so they grant three stars. Or look at certain brands, where every defect is by definition unimportant so they do not impact the review too harshly. 46.142.51.138 15:05, 22 August 2012 (UTC)madd
+It was pointed out to me (by a district manager in the organization concerned) that on those surveys you are asked to take by retail outlets, anything less than a 5 is considered a zero by Corporate. They're apparently not interested in honest evaluations; either it was SUPEREXCELLENTGREAT!! or it's worthless. Shalom S. (talk) 19:24, 23 August 2012 (UTC)
+It seems likely that any product with a 1-start rating only has one (or a small number of) reviews as well. Usually a product has some redeeming value that someone will find useful.
+     Spacebar keeps the kids warm at night. 199.27.128.144 07:54, 10 January 2014 (UTC)
+Usually the developer or at least a friend will provide a positive rating and review, though the issue of self rating isn't specifically addressed by this comic. Still, if 3 users give it a 1-star review, but the developer has access to at least 2 accounts that can give a 5-star rating, you still result in 13/25 rating, or two-and-a-half stars, which is why that star rating would be "crap".--DanB (talk) 16:31, 22 August 2012 (UTC)
+Agreed. If there's only one review, it most likely comes from the supplier / author / producer, and in that case it's going to be a five star rating. From that perspective, the only way to get a bad _average_ review is if there are many bad reviews. As an example, consider a product with five reviews: 5, 2, 2, 1, 3. The average is 2.6, and depending on the implementation this might be shown as "two and half stars" or "three stars". If you take out the 5, you get an average of 2. Consider the case of two reviews, 5 and 1. The 5 is from the author and the 1 is from a real user. Average is 3. Considering the other cases (5 and 2, 5 and 3, 5 and 4) the averges are 3.5, 4, 4.5. As you can see, anything below 3.5 is crap (the 1 and 2 from real users) and 4 and 4.5 are indeed ok (3 and 4 from the real user). As the number of "real" reviews increases, the average will tend towards the actual average perception from users (law of large numbers), and there is no way to get a 5 on average because of the fact that when dealing with subjective evaluation, someone is going to think the product is crap, therefore a five star rating is the product of a single review from the author. mem (talk) 20:56, 22 August 2012 (UTC)
+I think there might be a little too much analysis for this, given the title text. When shopping online, especially for random items like computer parts, media, and whatnot, people tend to peruse through items fairly quickly and/or fairly critically. A 5 star rating seems a little too perfect for the real world, hence the notion that there's only one review; a cynic might say that its from the author himself or some astroturfer (and they're probably right).
+The rest of the rating scale, however, is an observation of buyer behavior. Getting only four out of five stars is considered the lowest a potential buyer will risk before buying/downloading/ordering whatever it is. Everything else is very unceremoniously considered "crap," with the reasoning that there's some sort of defect or angry reviewer. Any further inquiry isn't necessary since there's a lot of other alternative products or manufacturers on the market. Hence, "crap, move on to the next item" mentality."
+The title text alludes to this with its strange gravestones. I take it as symbolizing all the products and sellers and manufacturers and establishments that got below that 4-star threshold, doomed to death by obscurity as buyers simply skip over the item in question, having called quickly decided it was "crap." Whether they actually are that bad is beyond that line of thinking. Whether it might be someone just hating on it and everyone else being scared off is similarly beyond it. As mentioned above, Corporate considers anything that isn't great to be worthless; it's because online consumers tend to think the exact same thing.
+And I guess to top it off, the mention about going to Yelp to give it a one-star review due to his unease and then feeling compulsed not to would basically be some sort supernatural power from the cemetery making sure that 1.) the cemetery's rating doesn't go down, and 2.) the author doesn't make that whole rating cemetery thing even more meta.
+68.123.154.215 05:41, 27 August 2012 (UTC)
+Wow do I wish I could have used paragraphs there. 68.123.154.215 05:41, 27 August 2012 (UTC)
+You need to use <br />. I tried to put some above. Hope that is what you meant. Generally agree with what you said, though. Arifsaha (talk) 20:25, 20 November 2012 (UTC)
+The alt text sounds vaguely like a chain letter or urban legend. Does anyone recognize it as referring to any one in particular? --Aw (talk) 23:57, 27 August 2012 (UTC)
+I think this comic illustrates a more general rating bias. Consider hotel star ratings - almost every one boasts four or five. Sometimes you can see three. I was recently shocked to see a hotel displaying two stars next to its name! (No, I haven't stayed there, I was just driving by.) One-star hotel, anyone? -- 89.174.214.74 14:50, 20 September 2012 (UTC)
+In many places, star ratings of a hotel are not a measure of the quality of the hotel, but of the types of services it provides (do they have private bathrooms, a pool, a concierge, etc.) 75.103.23.206 22:58, 26 December 2012 (UTC)
+I find that, for most popular works on most popular sites (i.e., Amazon) at least, two star reviews (the least common rating) are actually rather entertaining; the reasoning being, in theory at least, that they by definition avoid hyperbole. 178.42.120.14 20:43, 31 July 2013 (UTC)
+I have a different interpretation of the title text:
+the headstones are of people who rated the cemetery (where the rating on their headstone is what they rated the cemetery). When the "distant chill" mentioned is a foreshadowing of Cueball's impending death, which would result in a new headstone with his name and the one-star rating he was about to give. At least, that's how I see it. Any thoughts?
+27.253.79.231 08:30, 22 September 2013 (UTC)
+Most graves I have seen are rated with one star. And a cross. Mumiemonstret (talk) 13:17, 16 December 2014 (UTC)
+The image at the end of this What-If references this comic in the image-text. http://what-if.xkcd.com/69/ 108.162.238.117 06:29, 6 November 2013 (UTC)
+Categories: All comicsComics from 2012Comics from AugustWednesday comicsChartsOnline reviews

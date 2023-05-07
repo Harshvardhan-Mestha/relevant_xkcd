@@ -1,0 +1,77 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1140: Calendar of Meaningful Dates
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1140)
+|<< PrevComic #1140 (November 28, 2012)Next >>|
+Calendar of Meaningful Dates
+
+Title text: In months other than September, the 11th is mentioned substantially less often than any other date. It's been that way since long before 9/11 and I have no idea why.
+Explanation[edit]
+The calendar used in the comic is the standard Gregorian calendar used by most of Western Civilization. The comic looks at the frequencies of which dates appear in English writings indexed in the Google Books Library Project, by using the Google Ngram Viewer (link).
+Some dates are more (or less) frequently mentioned because they have a special significance. Other dates have correlations for which there doesn't appear to be any obvious reasons. September 11th, which is noted in the title text for being popular before the 9/11 attack, has also been the date of 2 significant battles in the War of 1812, one where the British landed in what was George Washington's large plantation, which likely contributed to its search volume. The date mentioned in the sub-heading (October 17th) is Randall's birthday.
+The title text mystery is explained here. In summary, many occurrences of "11th" in the writings were actually misread by the Google Books Library Project's optical character recognition software and/or reCAPTCHA users, becoming one of these: IIth, Ilth, iith, lith, llth, 1lth, 1ith, l1th, nth.
+Date Significance[edit]
+The first of each month is generally more mentioned than others, perhaps because such dates are markers of a new month and may be used as landmark dates or deadlines. Similarly, the final day of each month is commonly a deadline day. Other dates have a less mundane significance, for example:
+January 1 is New Year's Day.
+February 14 is Valentine's Day.
+February 29 only exists during leap years.
+March 15 is the Ides of March.
+March 21 is considered the first day of spring, by a common convention in the northern hemisphere.
+April 1 is April Fools' Day.
+April 15 is US Individual Income Tax return filing day.
+May 1 is International Workers' Day, or May Day.
+June 4 is the June Fourth Incident, or the Tiananmen Square protests of 1989.
+June 30 is the end of the fiscal year for most American states and local governments.
+July 1 is Canada Day.
+July 4 is US Independence Day.
+September 11 is the date of the 2001 terrorist attacks in New York City and Washington, DC. It's the largest number by a big margin, most likely because unlike the other dates it has no special name, it's referred to as "9/11" (or "September 11") almost exclusively.
+December 7 is the date of the 1941 attack on Pearl Harbor.
+December 25 is Christmas.
+December 31 is New Year's Eve.
+Transcript[edit]
+Calendar of Meaningful Dates
+Each date's size represents how often it is referred to by name (e.g. "October 17th") in English-language books since 2000
+(Source: Google ngrams corpus)
+[A regular Gregorian calendar laid out in a grid, Sunday first, on a leap year, with some numbers larger or smaller than others. Significant outliers are mentioned in the explanation.]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Seeing how the (northern hemisphere) summer months are bolder than the winter ones, I remember that someone said that "historical things" like wars and battles used to occur during the good weather months. Same for e.g. romance novels - people date and love on those dates. -- 81.34.231.6 (talk) (please sign your comments with ~~~~)
+I don't think historical wars happened as much during the summer as during the spring and fall. Winter was obviously out for any place that had snow, but do you really want to be marching around in the heavy uniforms or armor that armies used to wear? Additionally, I don't know where I heard about it (maybe in some Discovery video), but there was a study that showed that winter is better for romance. It makes sense, with "holiday magic" and people more likely to snuggle together. 108.162.216.190 (talk) (please sign your comments with ~~~~)
+If the search included Spanish dates in English texts, May 5th would be larger. -- 214.4.253.121 (talk) (please sign your comments with ~~~~)
+I wonder if he took into account the month/day swap between the US and UK dating system (among other countries). 76.122.5.96 14:22, 28 November 2012 (UTC)
+That's a good question. I entered July 4 and November 5 (Guy Fawkes Day) into Google Ngram, and the difference reflected in the calendar is only apparent when you put the month before the date.--Prooffreader (talk) 01:11, 29 November 2012 (UTC)
+Yes, [there's a lot of difference] in the spelling. --84.181.107.38 17:58, 9 December 2012 (UTC)
+Interesting about the 11ths -- perhaps that correlates with low passenger loads on airplanes as well, and thus why the 11th was chosen for the attack (the month of September having been chosen for some other reason).50.0.38.245 15:33, 28 November 2012 (UTC)
+I want to point out that Randall doesn't know either, and I think he would have thought about the plane correlation, so I don't think that's the reason. I'm going to investigate this. --Jimmy C (talk) 02:53, 29 November 2012 (UTC)
+September 11 (1973) is also the date of the coup d'etat in Chile. I suppose that might (partially) explain why this specific 11th has been mentioned more frequently even before 2001...
+I changed the page to show what I thought were the most important events (that I knew without looking up).173.245.56.171 21:53, 6 May 2015 (UTC)
+9/11 is also an important date in both the American Revolutionary War and the War in Europe half of World War 2. 169.233.101.195 21:19, 26 September 2013 (UTC)
+The reason for the low appearance of the 11ths is due to an error in Google's book scanning algorithm as explained by David R. Hagen in his blog post The Missing 11th of the Month. --Phoenix616 (talk) 01:50, 30 December 2015 (UTC)
+I second the Spanish language date in English texts. May 5th is routinely routinely called Cinco De Mayo in English. Has Randall weighed in on how this was handled? Donglebaker (talk) 18:16, 28 November 2012 (UTC) JC
+I also wonder about the difference between the 4th of July (Big 4) and November the 5th (small 5) as being the two "firework" days in US and UK! 4th of July peaks at 0.00003 July the 4th 0.0000001 November the 5th peaks at 0.0000006 and 5th of November peaks at 0.00001 so there are big differences and also whether you pick anything but English 2009. Reader in Invisible Writings --90.208.142.152 19:42, 28 November 2012 (UTC)
+No one forget that November 5th is also the day the Flux Capacitor was invented by Dr. Emmitt Brown using little more than a toilet seat and a minor concussion. I believe that is worth a mention.--Dangerkeith3000 (talk) 16:08, 29 November 2012 (UTC)
+The transcript reads "[A regular Gregorian calendar laid out in a grid, with some numbers larger than others.]" In fact, there is no way to tell if this is a Gregorian or a Julian calendar; they both have the same months and days. The Gregorian calendar only differs from the Julian in its leap year rule (it has 3 fewer every 400 years).--Prooffreader (talk) 01:17, 29 November 2012 (UTC)
+This was surely meant to distinguish it from other calendar systems such as the Islamic and Hindu calendar, not the Julian calendar. Since it is consistent with both, the current phrasing is not inaccurate. - jerodast (talk) 14:45, 3 December 2012 (UTC)
+Certain days of the week tend to get their dates mentioned more than others. Since the sample data were from a small number of years, this may be relevant to the results (unless it was controlled for). For example, in the US, elections are always held on a Tuesday, and Thanksgiving is always on a Thursday (and the Friday and Saturday right after it also get mentioned a lot), but these would not be the same numeric dates every year. — |Jonadab the Unsightly One, 2012-Nov-28 9:45pm EST (GMT+0500)
+The title only says that the books were published since 2000. The events in the book may have taken place many years before. --Jasqm (talk) 09:37, 29 November 2012 (UTC)jasqm
+The last few US Presidential elections were 11/6/2012, 11/4/2008, 11/2/2004, 11/7/2000, 11/5/1996, 11/3/1992. November 1 is writ large, but that seems typical of the first day of all months. November 4 and 5 seem next largest. They correspond to the elections of 2008 (McCain-Obama) and 1996 (Dole-Clinton-Perot).
+It seems like some of the dates in the explanation were of minimal importance to the comic - March 15th doesn't seem as large as the 21st or 31st of the month, and Halloween and Kristallnacht aren't that large, either. Sure, it's nice to know, but then there'd have to be explanations for several dozen more days. Bobidou23 (talk) 21:46, 29 November 2012 (UTC)
+It is missing 4/20. 70.49.173.75 23:30, 30 November 2012 (UTC)
+If you'll notice April, third row, second column from the right. That must be some good stuff you've got if you missed that. lcarsos_a (talk) 01:45, 1 December 2012 (UTC)
+I think the language category should include only comics whose joke or topic is about language. Surely, almost all comics and every chart employs language. --St.nerol (talk) 10:59, 1 December 2012 (UTC)
+I was curious about August 15th, that is quite larger then its surrounding numbers, so I checked out: only a few noticeable references (to me) in history: - Macbeth's death (1057) - Napoleon's birthday (1769) - WWII Japan Surrender (1945) and, consequently, Korea's Independence Day - India's Independence Day (1947) - and, of course, Woodstock opening (1969) But besides Mary's Assumption (Catholic Feast) I found no significant events since year 2000. Anyone?
+Paulo Sedrez 139.82.111.111 18:33, 7 January 2013 (UTC)
+The 15th is also a reasonably common "deadline" day, being treated as the halfway point of the month. 70.116.137.237 01:12, 15 February 2013 (UTC)
+Not sure if it's relevant for this chart because it's restricted to English books, but August 15th is a holiday in many European countries and it marks the peak of summer holidays: it's the day when most people take leave from work. Dargor17 (talk) 19:13, 29 August 2013 (UTC)
+Sept. 11th, is also 9/11, which is very similar to 911. Not sure if there's a correlation there. – -- 24.49.68.40 (talk) (please sign your comments with ~~~~)
+How do you mean?–St.nerol (talk) 21:34, 17 February 2013 (UTC)
+Well, there is such a thing as Emergency Number Day, in case you are referring to that, though I doubt that ever got very big in literature... Interesting: http://en.wikipedia.org/wiki/September_11#Holidays_and_observances --Maplestrip (talk) 20:06, 27 September 2014 (UTC)
+I was surprised by April 1st's relatively small size, and Christmas is much smaller than I expected. -- 75.69.96.225 (talk) (please sign your comments with ~~~~)
+About Christmas, it's probably because it's often mentioned by name and not as "the 25th of December" Dargor17 (talk) 19:13, 29 August 2013 (UTC)
+I was surprised with the lack of remembrance remembrance for November 5th. Gigahertz (talk) (please sign your comments with ~~~~)
+Why are some of the last 10 days of January so small compared to the others? 625571b7-aa66-4f98-ac5c-92464cfb4ed8 (talk) 01:20, 19 January 2018 (UTC)
+It would have been funny if Randall pulled a "January 6th is huge because of some unknown reason in the future," because it certainly would reflect today and be one of the biggest. ⟨Winter is coming⟩ Marethyu — Tᵃˡᵏ 16:41, 30 June 2022 (UTC)
+Pi day should at least be bold (even though nothing particularly interesting happens on that day, other than pie). I think Randall missed this one.
+Categories: All comicsComics from 2012Comics from NovemberWednesday comicsCalendar

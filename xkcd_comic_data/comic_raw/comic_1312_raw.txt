@@ -1,0 +1,61 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1312: Haskell
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1312)
+|<< PrevComic #1312 (January 3, 2014)Next >>|
+Haskell
+
+Title text: The problem with Haskell is that it's a language built on lazy evaluation and nobody's actually called for it.
+Explanation[edit]
+The comic pokes fun at Haskell, a functional programming language. Functional programming languages are based on the mathematical concept of a function, that is two calls to a function always produce the same results given the same inputs. Side effects of a function call are changes to the program state or observable interactions with the outside world, other than returning a value. As a simple example, if a sum function changes a global variable, or prints the sum before returning it, those are side effects. Functions in most other languages frequently have side effects, typically making them hard to analyze. Functional programming languages seek to avoid side effects when possible. Pure functional programming languages like Haskell push this agenda by isolating the inevitable side-effects (input/output at least) through the type system (more specifically in monads for Haskell).
+The first joke says that Haskell only has no side effects because no one ever uses Haskell programs. Even in a traditional procedural programming language like C, if the program does not run, it can't have side effects.
+In Haskell, effects are first class values. This means that you can use effects just like any value, assign them to a variable, pass them around, or manipulate them to make new and different effects. Thus, there are technically no side effects, only primary effects.
+The title text is a joke about Haskell's lazy evaluation. The basic concept is that a value is not computed until it is actually used. Thus, it is possible to have a name representing the entire infinite list of Fibonacci numbers. However, until a particular element of the list is accessed, no work is actually done. The joke plays on "called" (referring to calling a function) vs. "called for" (requesting). Thus, Haskell may have value, but no one has either invoked it to get that value or requested such a language. A simpler example may be:
+or :: Bool -> Bool -> Bool
+or True _ = True
+or _ b = b
+
+or (2 + 2 == 4) (even (fibonacci 10000))
+The "or" function is defined as a normal function but can conclude instantly without computing the 10000th Fibonacci number (a daunting task) since this second parameter isn't necessary : "true or whatever" is always true.
+In reality, Haskell is indeed actively used, though it is not one of the most popular languages. It is in particular used by some financial institutions, safety conscious start-ups and websites (there are several active web frameworks in Haskell) like Randall's own.
+Transcript[edit]
+[Megan and Cueball are discussing.]
+Megan: Code written in Haskell is guaranteed to have no side effects.
+Cueball: ...because no one will ever run it?
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+"Thus, it is possible to have a variable representing the entire infinite list of Fibonacci numbers." Except that Haskell has no variables- nothing is mutable, as they say. You could certainly write a function that generates an infinite list of Fibonacci numbers when called (and lazily evaluated later), but it won't be bound to a variable. If it was, then the list would take up an infinite amount of memory, and lazy evaluation would be pointless.
+I will, however, leave the above word "variable" in the explanation, because I can't come up with a concise way of explaining the above. --Someone Else 37 (talk) 09:07, 3 January 2014 (UTC)
+"Expression?" I don't know Haskel, but that's what I would call it in another functional language. --Rael (talk) 16:31, 3 January 2014 (UTC)
+In my day, we only had methods. (Hint: I use Java) 108.162.221.133 05:15, 4 March 2015 (UTC)
+That's a little imprecise, as it doesn't capture the idea of binding a value to a single symbol. 108.162.231.13 17:03, 3 January 2014 (UTC)
+The sentence you quote is entirely correct... but might itself require further explanation!
+Haskell variables aren't mutable, but they are nonetheless referred to as "variables". It's an appeal to the (earlier, after all) use of the word in maths, rather than in imperative programming languages. (No shortage of variables in algebra, geometry, calculus, topology... And no mutation involved.) One might equally say "symbol", "constant", or indeed "symbolic constant".
+One can bind the fibonaccis to a variable (... constant, 0-place definition, etc) quite happily. In fact, that's the idiomatic way to do it, as it avoids the degenerate complexity of a naive recursive function. It's still evaluated lazily, all the same. (Meaning that it will take an infinite amount of memory... if you run it for an infinite amount of time, and never "consume" the result in any way.)
+Equally, one can regard such top-level symbol definitions as functions with no arguments, if that's more helpful. 108.162.231.13 16:42, 3 January 2014 (UTC)
+Shows what I know about Haskell jargon, even if I do know something about the language. I see what you're saying, though.
+In any case, here's some Haskell code that does indeed generate an infinite list of Fibonacci numbers. It's not fast, and there's almost certainly more efficient ways to do it, but it's simple enough that people unacquainted with the language should be able to figure it out.
+fibonaccis :: [Integer]  --Indicates that the function returns a list of arbitrary-length integers
+fibonaccis = map fib [0..] --Converts the infinite list [0,1,2,3,4...] into a list of Fibonaccis
+    where fib n   --Defines a helper function that returns the nth Fibonacci number
+              |n == 0    = 1 --The zeroth and first Fibonaccis are 1
+              |n == 1    = 1
+              |otherwise = (fib (n - 1)) + (fib (n - 2)) --And the rest are the sum of the previous two.
+--Someone Else 37 (talk) 19:52, 3 January 2014 (UTC)
+And here's one which is closer to what an Haskeller would write (if he ever needed to compute Fibonacci numbers and couldn't bother using one of the good (non-linear) algorithms) :
+fibs :: [Integer]
+fibs = 0 : 1 : zipWith (+) fibs (tail fibs)
+The first two numbers are 0, 1 and you get the rest by adding fibs and tail fibs (fibs offset by 1 element) (zipping them together with +).
+The surprising part is that fibs is used in its own computation but that's no problem since each needed element can be computed by the time you need it (we "primed the pump" with the first two elements) and Haskell has lazy evaluation (sometimes named "call-by-need").
+Note that this version only compute each element once, contrary to the previous one (which is horrendous since it does the whole inefficient (O(fib n)) Fibonacci computation for each element).
+--Jedaï (talk) 00:38, 26 January 2014 (UTC)
+Does anyone have a clue what the Incomplete flag refers to? This seems like a pretty good explanation to me. --Mynotoar (talk) 11:22, 3 January 2014 (UTC)
+Example programs written in Haskell are: pandoc, universal markup converter; git-annex, tool to manage large files in git DVCS. --JakubNarebski (talk) 11:37, 3 January 2014 (UTC)
+You can add xmonad (tiling window manager) to the list, as well as darcs for a time (though git has thoroughly dominated this field by now...), you can also use Hakyll to generate your static blog (which presents some advantage in performance and safety), hoodle is a good free pen note taking program, hledger is a ledger handling program with several backends. The game Nikki and the robots is written in Haskell. --Jedaï (talk) 00:38, 26 January 2014 (UTC)
+I think the person Nealmcb who updated the incomplete tag to say " Add examples of popular Haskell programs" is boarderline trolling if not full on trolling -- Explanation looks pretty complete to me and I vote to remove the incomplete tag. Spongebog (talk) 01:59, 4 January 2014 (UTC)
+"thus Haskell may have value but no one has either invoked it to get that value or requested such a language." The point of the title text is (a joke that) programmers of Haskell are lazy, but no one tells them so. The point is not that no one uses Haskell. That is the point of the comic itself. 108.162.219.202 (talk) (please sign your comments with ~~~~)
+It's a lot more likely to be a joke about Haskell's lazy evaluation. And why can't the point of the title text complement the point of the comic? 103.22.201.145 13:01, 22 November 2014 (UTC)
+... I am confused by the description. Is it possible that someone can put this into "plain language" that a non-programmer and a non-mathematician can understand? (Go ahead and add "slow" to that description, too, if you so choose...) 173.245.54.54 09:11, 5 January 2014 (UTC)
+Functional programming languages are many -- explaining the difference to a non-programmer can be hard, but typically Lisp as the grandfather and related languages such a Scheme, Haskell [ list here ] are considered functional programming languages, where Java, C, Basic, Fortan etc typically depending on changing state of variables and are called Procedural or Imperative programming programming languages -- The best advice for futher explanation is to read the wikipedia links. Spongebog (talk) 18:22, 5 January 2014 (UTC)
+Categories: All comicsComics from 2014Comics from JanuaryFriday comicsComics featuring CueballComics featuring MeganProgramming

@@ -1,0 +1,453 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1331: Frequency
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1331)
+|<< PrevComic #1331 (February 17, 2014)Next >>|
+Frequency
+
+Title text: This comic shows estimated average frequency. I wanted to include the pitch drop experiment, but it turns out the gif format has some issues with decade-long loops.
+Explanation[edit]
+This comic shows a number of common events, arranged in a grid. Each of the events flashes with its average frequency.
+For example, statistically a child is born somewhere on the world approximately every 0.24 seconds, or four times per second. Therefore, the tile "One birth" blinks about 4 times per second.
+The title text refers to the Pitch drop experiment which measures the flow of a piece of pitch over many years. At room temperature, tar pitch flows at a very slow rate, taking several years to form a single drop. The title text jokes that Randall tried to include a tile that flashes about once every ten years, but the tiles are all animated GIFs and while the file format supports animations of any length, the resulting file would be too big (at least 10 megabytes).
+A thorough analysis of the frequencies present in this comic and how they relate to the underlying technology (the GIF format) was published as Reverse Engineering xkcd's 'Frequency'.
+The table below lists all the events and their periods/frequencies (computed from the GIF loop times). Some events make reference to other comics.
+Events[edit]
+Picture Text Period (seconds) Frequency (per minute) Frequency (per year) Explanation and/or references to other comics.
+Heartbeat 0.86 70 33,000,000 The typical resting heart rate in adults is 60–80 beats per minute (bpm).
+One birth 0.24 250 131,490,000 The birth rate that occurs on Earth.
+One death 0.56 107 56,360,000 The Mortality rate is much lower than the birth rate shown above; thus, the world's population continues to increase. (Mass deaths not included.)
+Someone edits Wikipedia 0.67 90 47,100,000 Wikipedia is an online, freely editable encyclopedia. A table recording the time between completion of each block of 10 million edits can be found here, which suggests that the value 0.67 Sec/Edit is a little high, with the average being closer to 0.63 Sec/Edit.
+Someone buys a vibrator 2.99 20 10,550,000 This is just a joke; there are no reliable statistics on worldwide vibrator productions or sales.
+China builds a car 1.89 32 16,700,000 According to the International Organization of Motor Vehicle Manufacturers, China is the world's most prolific car manufacturer, producing just over 18 million cars in 2013.
+Japan builds a car 4.01 15 7,870,000 According to the International Organization of Motor Vehicle Manufacturers, Japan is the second most prolific car manufacturing country, producing just over 8 million cars in 2013.
+Germany builds a car 5.8 10 5,440,000 According to the International Organization of Motor Vehicle Manufacturers, Germany is the third most prolific car manufacturing country, producing nearly 5.5 million cars in 2013.
+The US builds a car 6.95 8.6 4,540,000 According to the International Organization of Motor Vehicle Manufacturers, the US is the fourth most prolific car manufacturing country, producing just under 4.4 million cars in 2013.
+Someone else builds a car 1.03 58 30,640,000 This relates to car manufacture in countries other than those four listed above. According to the International Organization of Motor Vehicle Manufacturers, this total is just under 29.4 million cars in 2013.
+A European Union resident has their first kiss 5.53 11 5,700,000 Given that each person can only have their first kiss once, this statistic is tied to the EU birth rate. This eurostat graph shows the birth rate in the EU, and if we assume that the majority of people experience their first 'real' kiss at around age 12-16, then the years 1998-2002 are of interest, where the birth rate is fairly stable at just over 5.5 million.
+A US fire department puts out a fire 23 2.6 1,370,000 The latest available statistics from the US Fire Administration show that in 2011 there were roughly 1.39 million reported fires.
+Someone hits a hole-in-one 180
+(3 minutes) ⅓
+(20 per hour) 175,320 A hole in one is a feat in golf in which the player hits the ball directly from the tee into the cup with one shot. This does not account for the possibility of Rocket Golf.
+My turn signal blinks 0.94 64 33,638,400 This, together with "The turn signal of the car in front of me blinks", forms a reference to 165: Turn Signals.
+The turn signal of the car in front of me blinks 0.9 67 35,215,200 This, together with "My turn signal blinks", forms a reference to 165: Turn Signals.
+Earthquake (magnitude 1) 2.43 25 13,000,000 These are continually happening, and not felt by humans. The USGS does report them, but the link provided was produced at the time this description was written. It can however be updated by the user.
+Earthquake (magnitude 2) 24.26 2.5 1,300,000 The US Geological Survey estimates that 1.3 million earthquakes of magnitude 2.0-2.9 occur worldwide each year.
+Earthquake (magnitude 3) 242.6
+(~4 minutes) ¼
+(15 per hour) 130,000 The US Geological Survey estimates that 130 thousand earthquakes of magnitude 3.0-3.9 occur worldwide each year.
+Earthquakes below this magnitude pass by largely unnoticed by most people (or tweeters).
+Earthquake (magnitude 4) 2426
+(40.4 minutes) 0.025
+(1.5 per hour) 13,000 The US Geological Survey estimates that 13 thousand earthquakes of magnitude 4.0-4.9 occur worldwide each year.
+A member of the UK parliament flushes a toilet 10.06 6 3,140,000 At the time of this comic, there were 1,430 persons assigned to one or other of the two houses of the UK parliament, meaning that Randall inferred an average of 6 flushes per individual per day. Supposing that they sleep for 6-8 hours and get up to go to the toilet once per night, that means that during the rest of the day they are averaging a trip to the toilet every 3.2 to 3.6 hours. This estimate is somewhat on the high side, but members of parliament, particularly members of the Lords, do skew older, and older people tend to use the toilet more.[citation needed]
+An airline flight takes off 0.93 65 34,000,000 Research conducted in 2008 by Thomas Ruosch and Dr Karl Rege at Zurich University of Applied Science plotted the 93,000 daily worldwide airline flights.
+Someone buys To Kill a Mockingbird 42.05 1.4 750,000 "To Kill a Mockingbird" is a novel by Harper Lee, often an assigned reading in high school. Since 1960 it has sold in the region of 40 million copies, an average of 740,000 a year.
+Someone's pet cat kills a mockingbird 1.82 33 17,340,000 Whereas the previous item references the well-known book "To Kill a Mockingbird", this one talks about mockingbirds being literally killed (in this case, by cats). There are 45 million mockingbirds in the world; this means that according to Randall, cats kill 39% of mockingbirds in one year, i.e. in 2.5 years they are able to kill all mockingbirds (excluding the ones that are born in the meantime).
+Someone in Phoenix buys new shoes 1.08 56 29,200,000 Since metro Phoenix has 4,200,000 inhabitants, according to Randall people in Phoenix buy 7 pairs of shoes per capita per year.
+Someone in Phoenix puts on a condom 2.05 29 15,390,000 Randall probably found the number of Condoms sold in Phoenix and estimated that most of those would be used. Estimates directly from the frequency of intercourse and contraceptive uses would be wildly inaccurate, especially as those statistics count encounters that might need multiple condoms as one instance of intercourse. There are 450,000,000 Condoms sold in the US each Year.
+Someone locks their keys in their car 2.43 25 13,000,000 There does not appear to be any data on this mishap, but a Twitter search reveals this happens, or people discuss it happening at a high frequency.
+A Sagittarius named Amelia drinks a soda 7.79 7.7 4,000,000 Randall Munroe is a fan of The Baby Name Wizard blog and its Name Voyager tool which shows that "Amelia" has recently exploded in popularity.
+This particular frequency is taken from:
+The number of persons called Amelia (est. 82,572 people in the U.S.)
+The number of persons born between November 22 and December 22 under the astrological sign of Sagittarius (~1/12th of the population, i.e. approximately 6881 Amelias in the U.S.)
+The frequency of soda (soft drinks) being drunk (216 liters per person per year in the U.S.).
+According to our figures, 6881 Amelias drink 1.44 million liters of soft drinks per year in the United States alone, which means that Randall's figures only account for American Amelias (drinking 355 mL or 12 fl. oz. of soda in each drink).
+A dog bites someone in the US 7.01 8.6 4,500,000 A 2008 report by the Centers for Disease Control concluded that 4.5 million people are bitten by dogs each year.
+Someone steals a bicycle 24.93 2.4 1,265,000 About half of all people who cycle infrequently have their bikes stolen at some time, but people who cycle every day have a 90% higher chance of bike theft, all according to this report of cyclists in Montreal.
+A bald eagle catches a fish 2.69 22 11,700,000 It is estimated that there are 70,000 bald eagles in the world and they eat up to a pound-and-a-half of fish every day.
+50,000 plastic bottles are produced 1.27 47 24,848,504 This fact speaks for itself, but here are some alarming facts about plastic bottle production and usage.
+50,000 plastic bottles are recycled 4.64 13 6,801,207 27% of the plastic bottles manufactured get recycled
+A bright meteor is visible somewhere 1.15 52 27,400,000 This varies based on location, time of day, time of year, weather, personal perception and a number of other factors, but according to The American Meteor Society, between 2-16 can be seen during the hours before daylight where it would be too bright to see them.
+Old Faithful erupts 5640
+(94 minutes) 0.011
+(15 per day) 5,595 Old Faithful is a geyser in Yellowstone National Park in the US, that tends to erupt every 65 or 91 minutes. XKCD's period of 1h 34m falls between the mean and median of recent Old Faithful eruptions and corresponds to a February 16, 2014 eruption.
+A fishing boat catches a shark 0.83 72 38,000,000 1326: Sharks; Shark populations have experienced severe declines due to fishing impacts both of finning and by-catch.
+Someone in the US is diagnosed with cancer 18.99 3.2 1,660,000 According to the American Cancer Society, there will be an estimated 1,665,540 new cancer cases diagnosed in the US in 2014.
+Someone in the US dies from cancer 54.34 1.1 580,000 According to the American Cancer Society, in 2014 there will be an estimated 585,720 cancer deaths in the US.
+Someone adopts a dog from a shelter 15.6 3.8 2,000,000 10% of owned dogs were adopted from shelters
+Someone adopts a cat from a shelter 21.3 2.8 1,500,000 18% of owned cats were adopted from shelters
+Someone gets married 0.75 80 42,000,000 According to this study, there are 2,077,000 marriages in the US every year.
+Someone registers a domain 0.64 94 49,300,000 According to Dailychanges.com, about 135,000 domains are registered every day, but this figure fluctuates.
+Someone in the US buys a house 6.22 9.6 5,000,000 According to The Census Bureau, on average there are 400,000 home purchases in the US each month.
+Someone in the US gets a tattoo 2.06 29 15,300,000 This estimate is probably based on the percentage of people who are tattooed, and not how frequently they purchase one, but the figures here, here, and here add to the credibility of the claim.
+The star PSR J1748-2446AD rotates 1,000 times 1.4 42.9 22,548,240,000 which means 22.5 billion times per year PSR J1748-2446ad is the fastest spinning pulsar known.
+Someone lies about their age to sign up for Facebook 4.32 14 7,300,000 To sign up for Facebook, the user must claim to be at least 13 years old. This is a reflection of the U.S. Children's Online Privacy Protection Act.
+Someone breaks an iPhone screen 0.93 65 34,000,000 According to a CNET report, up to a quarter of iPhones have a broken screen.
+A Little League player strikes out 1.23 49 25,754,400 Little League is a system of local youth baseball and softball competitions. A strikeout is a situation in baseball and softball. This figure will be inconsistent throughout the year as baseball is normally not played in the winter.
+Someone has sex in North Dakota 1.38 43 22,900,000 Since North Dakota has 723,000 inhabitants (ranked the 48th state), and if we estimate the sexually active population as 80% (and if someone means a couple) this means that people in North Dakota have sex 79.1 times a year. It is estimated that 3.93% of the world population has sex on a given day; Randall's rate for North Dakota is 17.3% which is not low.
+Justin Bieber gains a follower on Twitter 4.73 13 6,670,000 802: Online Communities 2; Justin Bieber is a Canadian pop music singer whose Twitter account is extremely popular.
+Someone in Denver orders a pizza 1.27 47 24,800,000 In 2013, an estimated 3 billion pizzas were sold in the US. With a population of approximately 320 million, this is an average of just over 9 pizzas per person per year. According to the 2010 Census, the population of Denver was, rounded, 650,000. The frequency shown equates to over 38 pizzas per person per year, four times the national average. But counting the larger Denver metropolitan area, with a population of 2,890,000, the frequency shown equates to a much more reasonable 8.5 pizzas per person per year
+Transcript[edit]
+[Repetitive events are written in grey and arranged in a grid. Each statement pulses to black and then returns to grey at an interval characteristic of the named event.]
+Heartbeat
+(0.86 sec) One birth
+(0.24 sec) One death
+(0.56 sec) Someone edits Wikipedia
+(0.67 sec) Someone buys a vibrator
+(2.99 sec)
+China builds a car
+(1.89 sec) Japan builds a car
+(4.01 sec) Germany builds a car
+(5.8 sec) The US builds a car
+(6.95 sec) Someone else builds a car
+(1.03 sec)
+A European Union resident has their first kiss
+(5.53 sec) A US fire department puts out a fire
+(23 sec) Someone hits a hole-in-one
+(180 sec) My turn signal blinks
+(0.94 sec) The turn signal of the car in front of me blinks
+(0.9 sec)
+Earthquake (magnitude 1)
+(2.43 sec) Earthquake (magnitude 2)
+(24.26 sec) Earthquake (magnitude 3)
+(242.6 sec) Earthquake (magnitude 4)
+(2426 sec, 42 min) Member of the UK Parliament flushes a toilet
+(10.06 sec)
+An airline flight takes off
+(0.93 sec) Someone buys To Kill a Mockingbird
+(42.05 sec) Someone's pet cat kills a mockingbird
+(1.82 sec) Someone in Phoenix buys new shoes
+(1.08 sec) Someone in Phoenix puts on a condom
+(2.05 sec)
+Someone locks their keys in their car
+(2.43 sec) A Sagittarius named Amelia drinks a soda
+(7.79 sec) A dog bites someone in the US
+(7.01 sec) Someone steals a bicycle
+(24.93 sec) A bald eagle catches a fish
+(2.69 sec)
+50,000 plastic bottles are produced
+(1.27 sec) 50,000 plastic bottles are recycled
+(4.64 sec) A bright meteor is visible somewhere
+(1.15 sec) Old Faithful erupts
+(5640 sec, 94 min) A fishing boat catches a shark
+(0.83 sec)
+Someone in the US is diagnosed with cancer
+(18.99 sec) Someone in the US dies from cancer
+(54.34 sec) Someone adopts a dog from a shelter
+(15.6 sec) Someone adopts a cat from a shelter
+(21.3 sec) Someone gets married
+(0.75 sec)
+Someone registers a domain
+(0.64 sec) Someone in the US buys a house
+(6.22 sec) Someone in the US gets a tattoo
+(2.06 sec) The star PSR J1748-2446ad rotates 1,000 times
+(1.4 sec) Someone lies about their age to sign up for Facebook
+(4.32 sec)
+Someone breaks an iPhone screen
+(0.93 sec) A little league player strikes out
+(1.23 sec) Someone has sex in North Dakota
+(1.38 sec) Justin Bieber gains a follower on Twitter
+(4.73 sec) Someone in Denver orders a pizza
+(1.27 sec)
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I have began the transcript. Should a table be embedded with all the statements?108.162.250.11 07:33, 17 February 2014 (UTC)
+That would be apt. Dammit Randall, why couldn't you have made the comic one image so it'd be easy to put up here? Davidy²²[talk] 07:36, 17 February 2014 (UTC)
+If I've calculated it correctly (from the core numbers of prime factors extracted from the set of millisecond cycles extracted below by the script), a single image that contained each and every cycle (exactly as they are individually, without fudging any of them to avoid awkward factors) before repeating from the start again would have a total duration of 8.74E+056ms. (That's around 2.77E+046 years!) I haven't worked out how many frames that would require (at approx 300kp, each, before compression)although I would hazard a guess that most (if not all of them) would probably sustain at a duration of no more than a single figure of milliseconds.
+You might be able to make a more efficient and vastly smaller representation with the .swf format, but I've not used that for a while so might have forgotten some limitations that would apply in that event.
+(Realistically, recreating the array of individual images is the best solution you have. Another case where Randall goes outside the 'traditional' single, simple image format, and messes with everyone's automated XKCD-strip-grabbing scripts, no doubt. At least this time round. ;) 141.101.99.41 02:02, 19 February 2014 (UTC)
+I have created a table but someone else has already updated the transcript in a different style; here is my attempt
+<table>
+  <tr>
+    <th>Heartbeat</th>
+    <th>One Birth</th>
+    <th>One Death</th>
+    <th>Someone Edits Wikipedia</th>
+    <th>Someone Buys a Vibrator</th>
+  </tr>
+  <tr>
+    <td>China Builds a Car</td>
+    <td>Japan Builds a Car</td>
+    <td>Germany Builds a Car</td>
+    <td>The US Builds a Car</td>
+    <td>Someone Else Builds a Car</td>
+  </tr>
+  <tr>
+    <td>A European Union President Has Their First Kiss</td>
+    <td>A US Fire Department Puts Out a Fire</td>
+    <td>Someone Hits a Hole-In-One</td>
+    <td>My Turn Signal Blinks</td>
+    <td>The Turn Signal of the Car in Front of Me Blinks</td>
+  </tr>
+  <tr>
+    <td>Earthquake (Magnitude 1)</td>
+    <td>Earthquake (Magnitude 2)</td>
+    <td>Earthquake (Magnitude 3)</td>
+    <td>Earthquake (Magnitude 4)</td>
+    <td>Member of the UK Parliament Flushes a Toilet</td>
+  </tr>
+  <tr>
+    <td>An Airline Flight Takes Off</td>
+    <td>Someone Buys <em>To Kill A Mockingbird</em></td>
+    <td>Someone's Pet Cat Kills a Mockingbird</td>
+    <td>Someone in Pheonix Buys New Shoes</td>
+    <td>Someone in Pheonix Puts on a Condom</td>
+  </tr>
+  <tr>
+    <td>Someone Locks Their Keys in Their Car</td>
+    <td>A Sagittarius Named Amelia Drinks a Soda</td>
+    <td>A Dog Bites Someone in the US</td>
+    <td>Someone Steals a Bicycle</td>
+    <td>A Bald Eagle Catches a Fish</td>
+  </tr>
+  <tr>
+    <td>50,000 Plastic Bottles are Produced</td>
+    <td>50,000 Plastic Bottles are Recycled</td>
+    <td>A Bright Meteor is Visible Somewhere</td>
+    <td>Old Faithful Erupts</td>
+    <td>A fishing Boat Catches a Shark</td>
+  </tr>
+  <tr>
+    <td>Someone in the US is Diagnosed With Cancer</td>
+    <td>Someone in the US Dies from Cancer</td>
+    <td>Someone Adopts a Dog from a Shelter</td>
+    <td>Someone Adopts a Cat from a Shelter</td>
+    <td>Someone gets Married</td>
+  </tr>
+  <tr>
+    <td>Someone Registers a Domain</td>
+    <td>Someone in the US Buys a House</td>
+    <td>Someone in the US gets a Tattoo</td>
+    <td>The Star <em>PSR J1748-2446AD Rotates 1,000 Times</em></td>
+    <td>Someone Lies About their Age to Sign up for Facebook</td>
+  </tr>
+  <tr>
+    <td>Someone Breaks an iPhone Screen</td>
+    <td>A Little League Player Strikes Out</td>
+    <td>Someone has Sex in North Dakota</td>
+    <td>Justin Bieber Gains a Follower on Twitter</td>
+    <td>Someone in Denver Orders a Pizza</td>
+  </tr>
+</table>
+108.162.250.11 10:06, 17 February 2014 (UTC)
+Thanks, I have replaced the transcript with this one as it is closer to the actual comic format. --173.245.53.152 10:24, 17 February 2014 (UTC)
+I would like to point out a few things: the title text refers to an experiment that shows a piece of tar, if I remember correctly, which looks like a solid material, dripping very very slowly. It takes a year or more for a drop to fall, and there should be a live stream of it somewhere, I think.
+The second is the turning signal being out of sync with the other car. Randall made a comic about that one already. It's a recurring thing.Dulcis (talk) 07:57, 17 February 2014 (UTC)
+A year? It took 12 years for the last drop to fall... 108.162.249.114 (talk) (please sign your comments with ~~~~)
+About turning signals, see XKCD #165--KoundelitchNico (talk) 09:32, 17 February 2014 (UTC)
+Thanks, I thought of that one too. I have added this in the explanations column of the table I created, feel free to add more / edit if you feel the need to do so. --173.245.53.152 10:24, 17 February 2014 (UTC)
+I found a simple tool that calculates the duration of GIF files on github: https://raw.github.com/alimony/gifduration/master/gifduration.py Slightly edited, this is the output:
+amelia.gif: 7790 ms (7.79 seconds)
+bieber.gif: 4730 ms (4.73 seconds)
+bike.gif: 24930 ms (24.93 seconds)
+birth.gif: 240 ms (0.24 seconds)
+book_mockingbird.gif: 42050 ms (42.05 seconds)
+bottles.gif: 1270 ms (1.27 seconds)
+car_china.gif: 1890 ms (1.89 seconds)
+car_elsewhere.gif: 1030 ms (1.03 seconds)
+car_germany.gif: 5800 ms (5.80 seconds)
+car_japan.gif: 4010 ms (4.01 seconds)
+car_us.gif: 6950 ms (6.95 seconds)
+cat.gif: 21300 ms (21.30 seconds)
+cat_mockingbird.gif: 1820 ms (1.82 seconds)
+death.gif: 560 ms (0.56 seconds)
+denverpizza.gif: 1270 ms (1.27 seconds)
+dogbite.gif: 7010 ms (7.01 seconds)
+dog.gif: 15600 ms (15.60 seconds)
+domain.gif: 640 ms (0.64 seconds)
+eagle.gif: 2690 ms (2.69 seconds)
+earthquake1.gif: 2430 ms (2.43 seconds)
+earthquake2.gif: 24260 ms (24.26 seconds)
+earthquake3.gif: 242600 ms (242.60 seconds)
+earthquake4.gif: 2426000 ms (2426.00 seconds)
+facebook.gif: 4320 ms (4.32 seconds)
+fire_dept.gif: 23000 ms (23.00 seconds)
+flight.gif: 930 ms (0.93 seconds)
+heartbeat.gif: 860 ms (0.86 seconds)
+holeinone.gif: 180000 ms (180.00 seconds)
+house.gif: 6220 ms (6.22 seconds)
+iphone.gif: 930 ms (0.93 seconds)
+keys.gif: 2430 ms (2.43 seconds)
+kiss.gif: 5530 ms (5.53 seconds)
+littleleague.gif: 1230 ms (1.23 seconds)
+meteor.gif: 1150 ms (1.15 seconds)
+ndsex.gif: 1380 ms (1.38 seconds)
+oldfaithful.gif: 5640000 ms (5640.00 seconds)
+parliament_toilet.gif: 10060 ms (10.06 seconds)
+phoenix.gif: 2050 ms (2.05 seconds)
+phoenixshoes.gif: 1080 ms (1.08 seconds)
+pulsar.gif: 1400 ms (1.40 seconds)
+recycled.gif: 4640 ms (4.64 seconds)
+shark.gif: 830 ms (0.83 seconds)
+tattoo.gif: 2060 ms (2.06 seconds)
+turnsignal1.gif: 940 ms (0.94 seconds)
+turnsignal2.gif: 900 ms (0.90 seconds)
+us_cancer_death.gif: 54340 ms (54.34 seconds)
+us_cancer.gif: 18990 ms (18.99 seconds)
+vibrator.gif: 2990 ms (2.99 seconds)
+wedding.gif: 750 ms (0.75 seconds)
+wikipedia.gif: 670 ms (0.67 seconds)
+This could be useful in creating some kind of table in the Explanation. 108.162.231.109 09:25, 17 February 2014 (UTC)
+Thanks, I'm working on an explanation right now. --173.245.53.152 09:57, 17 February 2014 (UTC)
+OK, I'll leave it at this - the conversions to events per minute don't make sense for all of the tiles and some of them can use more explanation but I'll leave that for someone else to pick up - need to go back to work :-) --173.245.53.152 10:12, 17 February 2014 (UTC)
+The edits on Wikipedia doesn't seem very accurate: 0.67s are 3.9M edits per month, while [1] has only edit counts around 3M for the last available months for English Wikipedia. --108.162.254.160 11:17, 17 February 2014 (UTC)
+Is that why the explaination is currently locked? I was going to add a few things to the comment column, but I'm aparently not allowed to at the moment. Smperron (talk) 16:11, 17 February 2014 (UTC)
+Suggestion: grid like coordinates to refer to other flashing text? (think E4, B6, D5, ...) sirKitKat 173.245.53.173 11:19, 17 February 2014 (UTC)
+Someone from the UK parliment flushed the toilet while someone in Phoenix used a condom, while a bald eagle caught a fish... (I know, it's just the frequency, not the exact time it is shown to occur) 141.101.98.131 11:28, 17 February 2014 (UTC)
+Shouldn't the North Dakota one have been "two people"? Djbrasier (talk) 11:57, 17 February 2014 (UTC)
+He should have added a PNG saying "your screen's refresh rate"... --Kronf (talk) 12:06, 17 February 2014 (UTC)
+Technically possible
+Technically you can create an animated GIF that will repeat every 10 years. The standard says that maximum interval between frames is 65535*0.01 seconds, so to create a 10-year video you'll need 31557600*10/655.35=481538 frames. Since GIF registers only changes pixels for each frame, most of these frames will be empty (I'm not sure about the size, but around 20 bytes), so the whole file would be around 9.6 megabytes. Please include this in the explanation (possibly correcting numbers). --Zverik (talk) 13:18, 17 February 2014 (UTC)
+@Zverik; Any reason you not just adding that to the explanation yourself? Spongebog (talk) 20:31, 17 February 2014 (UTC)
+Update: Randall used some Adobe software to create highly redundant animated GIFs (with a color profile written to every frame). The thing is, frames are not equal, they gradually change brightness, so each frame is written anew and takes 3670 bytes (measured with oldfaithful.gif). So the estimate for 10-year animated GIF with that software would be 1.77 gigabytes (1.65 GiB). That would be too much indeed. --Zverik (talk) 13:51, 17 February 2014 (UTC)
+Still, there are only 166 shades of gray between black and the default gray. So all it would take is an additional 166 bigger (in terms of number of bytes) frames. That he uses inferior software is no excuse. --108.162.254.181 14:58, 17 February 2014 (UTC)
+
+Is it possible that the comment Amelia is the most common US name [2] is made in good faith? 173.245.50.84 16:05, 17 February 2014 (UTC). It also said that Sagittarius is the most common star sign, which is false, so I deleted the comment. 173.245.50.84 16:16, 17 February 2014 (UTC)
+In fact it appears the most common star sign in the US is going to be Leo or Virgo: http://humrep.oxfordjournals.org/content/16/7/1512.long . Being part way through the cycle, Sagitarius is probably about 1/12 of the population. 141.101.98.10 09:11, 18 February 2014 (UTC)
+Anybody understand why there are so many references to Phoenix ? Spongebog (talk) 20:31, 17 February 2014 (UTC)
+Because 2 references are not really "many". 173.245.50.84 20:40, 17 February 2014 (UTC)
+high birthrate perhaps? people down there seem to have large families (in my experience), at least that may be what he is saying about the condoms.Ercannon (talk) 22:24, 17 February 2014 (UTC)
+I'll hazard a guess here by saying that multiple references to a common item using unrelated topics is a comedic element in itself! In addition, referring to the comment immediately below, unnecessary or impossible precision is also an element of comedy. ExternalMonolog (talk) 23:51, 17 February 2014 (UTC)ExternalMonolog
+Excess precision
+To 108.162.245.114 who said that all members of the UK parliament flush a toilet 3,136,938 times per year, please read False precision. 173.245.50.84 22:10, 17 February 2014 (UTC)
+This should work for the heading, but it's a complete mess and messes up the entire layout. Could someone have a look at this monstrosity:
+<table class cellspacing="5"
+          style="background-color: #FFFFFF; border: 1px solid #AAAAAA; color: black; font-size: 88%; line-height: 1.5em;
+                 margin: 0.5em 0 0.5em 1em; padding: 0.2em; text-align: center; width:98%; {{{bodystyle|}}}"><!--
+
+   ### Navigation bar (previous, next...) ###
+
+  --><tr><td><!--
+    --><ul style="text-align: center; margin-bottom: 10px;" class="no-link-underline"><!--
+
+      ### If there is an article for the comic prior to this one, create a "prev" ###
+
+      -->{{#ifexist:{{#expr:1331 - 1}}<!--
+       -->|<li style="background-color: #6E7B91;
+                      border: 1.5px solid #333333; border-radius: 3px 3px 3px 3px; box-shadow: 0 0 5px 0 gray;
+                      display: inline; font-size: 16px; font-variant: small-caps; font-weight: 600;
+                      margin: 0 4px; padding: 1.5px 0;"><!--
+          -->[[{{#expr:1331 - 1}}|<span style="color: #FFFFFF; padding: 0 12px;">< Prev</span>]]<!--
+        --></li><!--
+       -->|<li style="display: inline; font-size: 16px; margin: 0 4px; padding: 1.5px 12px;"><!--
+          -->                <!--
+        --></li><!--
+      -->}}<!--
+
+      ### Create a centre button with comic number, date (if exists) and link ###
+
+      --><li style="background-color: #6E7B91;
+                    border: 1.5px solid #333333; border-radius: 3px 3px 3px 3px; box-shadow: 0 0 5px 0 gray;
+                    display: inline; font-size: 16px; font-variant: small-caps; font-weight: 600;
+                    margin: 0 4px; padding: 1.5px 0;"
+             class="plainlinks"><!--
+        -->[http://www.xkcd.com/1331/ <!--
+         --><span style="color: #FFFFFF; padding: 0 12px;">Comic #1331 (February 17, 2014)</span>]<!--
+      --></li><!--
+
+      ### If there is an article for the comic following this one, create a "next" ###
+
+      -->{{#ifexist:{{#expr:1331 + 1}}<!--
+       -->|<li style="background-color: #6E7B91;
+                      border: 1.5px solid #333333; border-radius: 3px 3px 3px 3px; box-shadow: 0 0 5px 0 gray;
+                      display: inline; font-size: 16px; font-variant: small-caps; font-weight: 600;
+                      margin: 0 4px; padding: 1.5px 0;"><!--
+          -->[[{{#expr:1331 + 1}}|<span style="color: #FFFFFF; padding: 0 12px;">Next ></span>]]<!--
+        --></li><!--
+       -->|<li style="display: inline; font-size: 16px; margin: 0 4px; padding: 1.5px 12px;"><!--
+          -->                <!--
+        --></li><!--
+      --><!--
+    --></ul><!--
+  --></td></tr><!--
+
+   ### Comic title ###
+
+  --><tr><td style="font-size: 20px; padding-bottom:10px"><!--
+    -->Frequency<!--
+  --></td></tr>}}<!--
+
+
+   ### Comic image and title text ###
+
+  --><tr><td><!--
+   --><center><table><tr>
+<td>[[File:heartbeat.gif]]</td>
+<td>[[File:birth.gif]]</td>
+<td>[[File:death.gif]]</td>
+<td>[[File:wikipedia.gif]]</td>
+<td>[[File:vibrator.gif]]</td>
+</tr><tr>
+<td>[[ File:car china.gif ]]</td>
+<td>[[ File:car japan.gif ]]</td>
+<td>[[ File:car germany.gif ]]</td>
+<td>[[ File:car us.gif ]]</td>
+<td>[[ File:car elsewhere.gif ]]</td>
+</tr><tr>
+<td>[[ File:kiss.gif ]]</td>
+<td>[[ File:fire dept.gif ]]</td>
+<td>[[ File:holeinone.gif ]]</td>
+<td>[[ File:turnsignal1.gif ]]</td>
+<td>[[ File:turnsignal2.gif ]]</td>
+</tr><tr>
+<td>[[ File:earthquake1.gif ]]</td>
+<td>[[ File:earthquake2.gif ]]</td>
+<td>[[ File:earthquake3.gif ]]</td>
+<td>[[ File:earthquake4.gif ]]</td>
+<td>[[ File:parliament toilet.gif ]]</td>
+</tr><tr>
+<td>[[ File:flight.gif ]]</td>
+<td>[[ File:book mockingbird.gif ]]</td>
+<td>[[ File:cat mockingbird.gif ]]</td>
+<td>[[ File:phoenixshoes.gif ]]</td>
+<td>[[ File:phoenix.gif ]]</td>
+</tr><tr>
+<td>[[ File:keys.gif ]]</td>
+<td>[[ File:amelia.gif ]]</td>
+<td>[[ File:dogbite.gif ]]</td>
+<td>[[ File:bike.gif ]]</td>
+<td>[[ File:eagle.gif ]]</td>
+</tr><tr>
+<td>[[ File:bottles.gif ]]</td>
+<td>[[ File:recycled.gif ]]</td>
+<td>[[ File:meteor.gif ]]</td>
+<td>[[ File:oldfaithful.gif ]]</td>
+<td>[[ File:shark.gif ]]</td>
+</tr><tr>
+<td>[[ File:us cancer.gif ]]</td>
+<td>[[ File:us cancer death.gif ]]</td>
+<td>[[ File:dog.gif ]]</td>
+<td>[[ File:cat.gif ]]</td>
+<td>[[ File:wedding.gif ]]</td>
+</tr><tr>
+<td>[[ File:domain.gif ]]</td>
+<td>[[ File:house.gif ]]</td>
+<td>[[ File:tattoo.gif ]]</td>
+<td>[[ File:pulsar.gif ]]</td>
+<td>[[ File:facebook.gif ]]</td>
+</tr><tr>
+<td>[[ File:iphone.gif ]]</td>
+<td>[[ File:littleleague.gif ]]</td>
+<td>[[ File:ndsex.gif ]]</td>
+<td>[[ File:bieber.gif ]]</td>
+<td>[[ File:denverpizza.gif ]]</td>
+</tr></table><!--
+   --><br /><span style="{{{captionstyle|}}}"><span style="color:grey">Title text:</span> This comic shows estimated average frequency. I wanted to include the pitch drop experiment, but it turns out the gif format has some issues with decade-long loops.</span></td></tr></table></center>
+173.245.53.184 22:31, 18 February 2014 (UTC)
+I'm currently adding the ability to put replace the image field with an optional custom field. Will keep you posted. Davidy²²[talk] 22:40, 18 February 2014 (UTC)
+See Template:comic, in particular the last parameter and the last bullet point in the notes section. Added just for you. This'll be pretty useful for other comics that we've made in the past as well. Thanks for making me get off my butt and do something useful with my admin powers. Davidy²²[talk] 23:13, 18 February 2014 (UTC)
+Cool. Next up: click and drag :D 108.162.231.121 12:24, 19 February 2014 (UTC)
+The awesome thing is, it might be possible for us to port Randall's code/enable javascript and duplicate that comic exactly as it appears on the main xkcd site. The custom field isn't limited to just images, so we can literally represent anything that can be rendered by mediawiki now. Davidy²²[talk] 08:28, 20 February 2014 (UTC)
+−
+I don't understand this problem. The HTML-Code is just from the main page, it doesn't explain your problem. I did add all the GIF images yesterday, and for entering all that links in an easy way I changed this table layout to an easy WIKI-Table. In my opinion all the sortable tags should be removed, this is not increasing the depth at this explain. But this is still an open task here, yesterday I just did focus on all the missing GIFs here. --Dgbrt (talk) 22:53, 18 February 2014 (UTC)
+
+Am i alone in thinking that there are many "references to other comics" which are not references at all, but merely about the same subject? "One birth" is supposedly a reference to 746, with presumably the only reason that they both handle the subject of concieving children. The only "correct" reference in my opinion is the reference to 165 (turn signals). 141.101.80.215 15:24, 19 February 2014 (UTC)
+
+Just returning to the "10 years = too large a GIF" thing, without trying to slot into the huge mess it became above ... the thing we should be looking at here is not overall file size, but *rate*. The overall size was somewhere beyond 10mb? OK, but, so what - we've got 10 years to download it, and GIF is an inherently streaming format (each frame displays as it loads, if there hasn't been enough time / bandwidth to pre-buffer it). 1 megabyte per year is 2871 bytes per average day, 120 per hour, 1.99 per minute... and a grand total of 0.266 BITS per second (ie 3.76 seconds per bit). A tortoise could transmit that GIF using morse code and it wouldn't be badly delayed. And the amount of storage represented by 10mb by the time it's finished sending won't even be worth calculating in terms of cost or percentage of available space, when a 16gb flashdrive already costs under £10 retail.
+Also, these GIFs seem to be pretty inefficiently compressed; I'm following another webcomic at the moment where most of the frames are high-resolution full-colour aniGIFs, and each one tends to clock in around 40 to 100kb unless there's a lot of action in it... but the "magnitude 1 earthquake" one here is 123kb. Even so, the mag 4 quake GIF - 1000x longer - is but 280kb, so the size obviously doesn't scale linearly with length. The difference is most likely in levels of grey shown during the fade, and as even the 42-second "to kill a mockingbird" one is noticeably slower fading than the more frequent ones around it (not quite enough, at 30fps and maybe 3-4 seconds of fading, to cover the whole 166 shades between lightest and darkest text - but the mag 4 one would easily manage it even at a lower framerate, as it probably takes a good 30 seconds if not a couple minutes). It's possible that 300kb is all it takes for the actual image payload even of a full-fade panel with a lot of high frequency, non repeating patterned text, and all the rest is just padding / blank / repeat overheads.
+Which means even our 0.27-bit-per-second tortoise would get all THAT sent in a little over three months, not much more time than would be needed to show the likely fadeout in realtime if it was the first thing that actually appeared. If it was sent by any other realistic communication method, even as POST data from the client end of a 1200/75 baud modem, it'd have entirely ample time to buffer (the first frame would likely appear within 1 to 5 minutes), and your more realistic concern would be not only stopping your computer from rebooting before the GIF had time to run through a cycle, but keeping it running continuously for that length of time (and, if needed, downloading the file really slowly throughout) in any case. 141.101.98.150 19:08, 29 September 2014 (UTC)
+Anyone notice how the explanations for the car-related frequencies are nonsensical? They're so nonsensical that I can't tell how to fix them without actually knowing the subject. Please fix.108.162.219.206 05:20, 3 October 2014 (UTC)
+I'm filling in the remaining fields the best I can. I did the last one; Denver pizza. Math is not my strong point. It's probably a joke statistic, but someone may want to double-check my math. I didn't see any figures for Denver's pizza consumption, but I figured it was one of those things where it just maybe worked out to match the Denver population. -- 4jonah (talk) (please sign your comments with ~~~~)
+
+All fields are now filled out to the best of my ability. I have not edited ones already completed, but finished empty ones as accurately as possible. -- 4jonah (talk) (please sign your comments with ~~~~)
+"About half of all cyclists have their bikes stolen, oftentimes more than once, but riders have a 90% chance of theft, all according to this report." It's a very confusing sentence and doesn't match the data in the linked report. About half of all people who ever cycle get their bikes stolen at some point. People who cycle every day are 90% more likely to have their bike stolen than people who cycle infrequently. Not 90% chance of theft. I will update this if nobody objects. AmbroseChapel (talk) 23:47, 27 August 2017 (UTC)
+
+Not sure if it's the sort of interesting fact that should be added or not, but under the "Sagittarius named Amelia" section, that link to the Baby Name Wizard shows the peak popularity for the name "Amelia" was in 2012. The character of Amelia Pond was on Doctor Who from 2010 to mid-2012, and that was also the height of the immense popularity in America of Matt Smith playing the title role. Might be the source of the popularity of that name. Also, does the previous analysis take into account the fact that Sagittarius named Amelia wouldn't start drinking soda until they are at least a few years old? Would taking out all the ones under the age of five or six let us bring back in SNA in the rest of the world, given that soda is much more popular in America than elsewhere? CritterKeeper (talk) 19:00, 5 May 2020 (UTC)
+
+Anyone want to help calculate the odds of all of these flashing at the same time? IJustWantToEditStuff (talk) 01:01, 6 September 2022 (UTC)
+If I have all the timings entered correctly (because I just did it on a calculator when I should have gone with a script on the source data) it's... Approximately 2.77x1046 years.
+That's because I have factorised the ms durations of each gif (as given above, give or take a typo) and the lowest common multiple is built up as being (2⁷ * 3⁵ * 5⁴ * 7 * 11 * 13 * 19 * 23 * 29² * 31 * 41 * 43 * 47 * 67 * 71 * 79 * 83 * 103 * 127 * 139 * 211 * 269 * 277 * 311 * 401 * 503 * 701 * 1213) milliseconds... But feel free to validate my assumptions. 172.70.86.4 03:50, 6 September 2022 (UTC)
+Categories: All comicsComics from 2014Comics from FebruaryMonday comicsPages using the "citation needed" templateComics with animationChartsSharksRomanceCancerSexWikipediaBaseball

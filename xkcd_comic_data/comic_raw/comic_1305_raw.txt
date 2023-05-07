@@ -1,0 +1,124 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1305: Undocumented Feature
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1305)
+|<< PrevComic #1305 (December 18, 2013)Next >>|
+Undocumented Feature
+↓ Skip to explanation ↓
+
+Title text: And it doesn't pop up a box every time asking you to use your real name. In fact, there's no way to set your name at all. You just have to keep reminding people who you are.
+Explanation[edit]
+An undocumented feature is a part of a software product that is not explained in the documentation for the product. Cueball has found such a feature, a chat room intended to ask for help, accessible through the help page of some unnamed old Windows utility. The people who found the chat room started out using it for its intended purpose (helping users of the utility by contacting other users), however as time has passed they have become friends and enter the chat only to talk to each other, with no relation to computer problems.
+A virtual machine (or VM) is a computer program designed to emulate the hardware of a full computer. In this case, users of the old chat room create VMs only to have the old operating system installed which included the utility program. They use this setup only to access the old chat room. This is shown in the third panel where Cueball is using a modern laptop to enter the chatroom (presumably by means of a VM), whereas Ponytail is most likely using an old computer (as evidenced by the CRT monitor).
+A chat room like this must be hosted on some outside server, so the narrator of the comic wonders who runs this server. An obvious thought about this is if and when the server will be shut down, effectively cutting all communication among chat users. Another obvious thought is why the utility author is still maintaining the chat server, since its original purpose of allowing communication between users with problems with the utility program is no longer an issue as everybody has migrated to more modern systems. The comic suggests that the reason for doing this can be a bored sysadmin, who is just reading the messages of the chat users and following their lives but never writing anything. This would turn the chat room into a soap opera for the sysadmin.
+The Deep Web is a term used to refer to any information which is available online, but is hard to find (usually because there are no links to that information in web pages). The chat room described would be an example of this. From this point on, the comic takes an existentialist turn (a frequent xkcd trait), talking about how life is short, everything has to end, etc.
+The last panel is a reference to Facebook's recent announcement that it would start autoplaying video ads, and the title text refers to YouTube requiring its users to use their real-life identities instead of just nicknames. These last parts of the comics somehow reveal that the point of the whole comic is just to complain about aggressive money-driven policies used by modern social networks in general and Facebook in particular. It is hinted that Randall would prefer older technologies, where limited resources would forbid autoplaying videos or huge databases with every detail of every user's life.
+It's possible that the comic is about an actual chat room, but more likely it is a complete invention, since if it were real someone would have been able to trace its origin. However, if it is real, the participants would not want to confirm this in order to protect their privacy.
+The title text mentions the simplicity of this chat; even user names do not exist and other users could only be identified by their behavior.
+Transcript[edit]
+[A support window is shown.]
+An old Windows utility has an undocumented feature. If you open "help" and click on the background, you get dropped into a "support" chat room.
+Support Window: Launching support forum...
+[An active conversation between two people is shown.]
+Only a few of us ever found it. But we became friends.
+[Cueball and Ponytail are at computers.]
+We kept launching the program to check in. Eventually some of us were running VMs just to keep accessing it.
+[Another conversation.]
+As the Internet aged, so did we.
+[Three question marks.]
+We don't know who runs the server. We don't know why it's still working so many years later. Maybe we're some sysadmin's soap opera.
+[A group of people are shown in a bubble.]
+It will probably vanish someday, but for now it's our meeting place. Our hideaway.
+[The bubble is now smaller, and some parts of a web are shown.]
+A life's worth of chat,
+[More of the web is shown.]
+Buried in the deep web.
+[A flat landscape is shown with the sun at the horizon.]
+But even if it lasts forever, we won't. When we're gone, who will remember us?
+[Cueball and Hairy are shown standing together in a bubble.]
+Who will remember this strange little world and the friendships we built here?
+[No panel shown:]
+Nobody.
+[An empty bubble is shown.]
+This place is irrelevant. Ephemeral. One day it will be forgotten.
+[The bubble starts to fade away.]
+And so will we
+[The bubble has almost completely faded away.]
+[The bubble is now completely gone.]
+[Caption inside a new panel:]
+But at least it doesn't have fucking video ads.
+Trivia[edit]
+There are many examples of undocumented features in programs written for old versions of Windows, for example:
+When playing Windows Solitaire with the "draw three" option, one can draw single cards by holding <Ctrl+Alt+Shift> while clicking on the card to draw cards.
+When playing Windows Minesweeper in pre-Windows-95 versions, typing "xyzzy" followed by <Enter> and then <Right-shift>, will turn the top left pixel of the windows background black or white to indicate if the mouse is over a mine or not.
+The first releases of Windows 95 allowed one to see the "credits" for Win95 by creating a folder in the desktop and then renaming it several times.
+Word 97 has an embedded pinball game, accessible by a weird sequence of strange actions.
+Excel 97 has also an embedded game of a flight simulator, accessible by another weird sequence of actions.
+Excel 2000 has an embedded car racing game.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Please never edit existing posts at the talk page! Just add your content! And NEVER edit foreign posts! Use the "Sign Button" on top of editor or type this at the END of your post ~~~~. This will add the IP or User and a timestamp to the END of your post.--Dgbrt (talk) 20:53, 18 December 2013 (UTC)
+The last panel reminds me of Mastodon.--108.162.246.221 02:46, 26 September 2019 (UTC)
+This sound pretty cool... Anyone know if it's real or which tool it's in? 173.245.55.222 05:53, 18 December 2013 (UTC)
+its real, there are 8 other users, but must stay a secret. 108.162.231.233 (talk) (please sign your comments with ~~~~)
+There is no secret chat room, stop looking for it. It doesn't exist. Look for your own island on the interweb, don't come spoil ours. scr_admin
+A little bit of googling around gave me a strong candidate. Apparently the relevant tool can even run on Windows 10 (found as part of said googling), although it requires mucking about with bat files and icons to achieve its full original functionality. 172.68.54.160 05:34, 27 September 2018 (UTC)
+I found my own little secret chat room, but it's not to do with Windows, instead it's in MacOS 7. 141.101.77.98 23:49, 12 October 2018 (UTC)
+Okay, let's be honest: how many of us, upon seeing today's comic, immediately went here to see if it was real or not? --108.162.245.4 07:47, 18 December 2013 (UTC)
+I honestly did just that. --173.245.53.137 08:06, 18 December 2013 (UTC)
+I also just did that... 108.162.231.206 08:07, 18 December 2013 (UTC)
+I didn't start up my VM to test it, but I came here to see if was real >.< 108.162.216.56 09:47, 18 December 2013 (UTC)
+I also did that. But I take that, if it is real and someone uncovers it, it may destroy that community... 173.245.53.123 10:28, 18 December 2013 (UTC)
+Same here. If it is real, I sincerely hope Randall has a) wiresharked it to find out where this chat room resides so he can prod the admin if it ever goes down b) has a backup plan to migrate himself and his friends to some other private chat room. It won't have the same mystery surrounding it, but at least it's something. 108.162.231.222 10:51, 18 December 2013 (UTC)
+
+Please never edit existing posts at the talk page! Just add your content! And NEVER edit foreign posts! Use the "Sign Button" on top of editor or type this at the END of your post ~~~~. This will add the IP or User and a timestamp to the END of your post.--Dgbrt (talk) 20:53, 18 December 2013 (UTC)
+
+It's not about Youtube, but Facebook, which just launched AUTOPLAYING video ads. Look at the title text, it's about Facebook's real name policy. 108.162.231.232 08:11, 18 December 2013 (UTC)
+I wouldn't limit the scope of this commentary just to Facebook; YouTube's been doing autoplaying video ads for years. YouTube's also been asking for real names recently. 108.162.212.200 14:26, 18 December 2013 (UTC)
+The video ads thing is definitely related to Facebook, but the title text is probably a reference to Youtube recently asking continuously to switch to the real name of google plus account and not the nickname many used on YouTube. Edited the explanation accordingly, since there was no reference to the title text. Spesknight 108.162.231.216 09:08, 19 December 2013 (UTC)
+I just searched after reading - and found this site! -- 141.101.99.247 (talk) (please sign your comments with ~~~~)
+The real secret place is here! 108.162.229.75 (talk) (please sign your comments with ~~~~)
+So THIS is the secret chat 108.162.229.7 09:50, 18 December 2013 (UTC)
+One day this place will be forgotten and so will we. --108.162.231.197 09:52, 18 December 2013 (UTC)
+anyone else recognizes the wonderful tcp-ip explanation movie of Ericsson Dawn of the net in frames 6 till 10? [User:Tesshavon|Tesshavon]] (talk)
+Tesshavon you're in my mind ! Also, the 6th frame is comes from one of the most common Friends posters (see e.g. here : Friends ) dandraka
+It's true. Small online communities offer a more folksy experience than the online giants. Some of the best places to hang out are BBS's that made it onto the Internet and have been there for 25+ years. 216.150.130.111 (talk) (please sign your comments with ~~~~)
+Well there's always IRC... 108.162.221.30 (talk) (please sign your comments with ~~~~)
+
+Please never edit existing posts at the talk page! Just add your content! And NEVER edit foreign posts! Use the "Sign Button" on top of editor or type this at the END of your post ~~~~. This will add the IP or User and a timestamp to the END of your post.--Dgbrt (talk) 20:53, 18 December 2013 (UTC)
+
+I've rewritten all the explanation. As far as I'm concerned, I'd remove the incomplete box. I just keep it because it's likely that someone else will feel something is missing. 173.245.53.180 15:27, 18 December 2013 (UTC)
+If you're interested in a tightknit community out on the fringes of the Net, go join a MUD. Some are combat oriented, some are roleplay and chat oriented, all are text-based, and many have largely the same exact userbase as they had twenty years ago. - 108.162.212.228 15:48, 18 December 2013 (UTC)
+If you want a really small and odd community check out the Plato network, you have to emulate a terminal from the late 70's early 80's to use it. --DECtape (talk) 00:27, 15 April 2014 (UTC)
+Hmm i think randall also wants to share his believs in the subcontext of the comic, the reason why we live on erth as a random error, the sysadmin who probably sees it all(=god), the question what will happen after all that is gone (his opinion, that our lives are compelty senseless)..etc. 108.162.254.161 (talk) (please sign your comments with ~~~~)
+Anyone else think of comic 37 when reading the last panel (due to the ambiguity of whether he is talking about fucking "video ads" or "fucking video" ads)? 173.245.50.227 18:31, 18 December 2013 (UTC)
+Yes, of COURSE I came here to see if it really exists! I don't know if there's actually a chatroom as described, but Usenet has become much smaller, has no ads, and doesn't require you to know the secret application to get in. IIf a text experience with no ads appeals, dump FB, come back to Usenet! Tell 'em Sea Wasp sent you! :) 108.162.219.186 19:15, 18 December 2013 (UTC)
+Shhh! You're forgetting the first rule of Usenet! 173.245.54.6 17:57, 19 December 2013 (UTC)
+
+Please never edit existing posts at the talk page! Just add your content! And NEVER edit foreign posts! Use the "Sign Button" on top of editor or type this at the END of your post ~~~~. This will add the IP or User and a timestamp to the END of your post.--Dgbrt (talk) 20:53, 18 December 2013 (UTC)
+It's obviously about life and religion. The sysadmin who never writes anything must be there to keep everything running, because else the chat would stop to exist. Like most religions contribute to a god who is never seen or heard. --108.162.231.232 08:03, 19 December 2013 (UTC)
+I'm wondering if he got this idea from Starship Titanic. They had a very similar thing happen. See this epic MeFi comment from the self-described "main web hacker" behind Starship Titanic's web site. 199.27.128.119 17:29, 19 December 2013 (UTC)
+I've made several edits to clean up the explanation. Not sure whether I should remove the incomplete tag or not. --173.245.52.227 17:57, 19 December 2013 (UTC)
+Please don't do that. A comic at this size isn't complete within one or two days. Removing the incomplete tag is a minor issue, explaining is the major one. --Dgbrt (talk) 20:46, 19 December 2013 (UTC)
+I don't really see why the trivia should be there. 108.162.216.45 20:29, 19 December 2013 (UTC)
+This content was moved from the explain section to a trivia section by me. It still needs some rework but it belongs to "old Windows utilities" like Randall is talking about here at the first panel.--Dgbrt (talk) 20:46, 19 December 2013 (UTC)
+Reminds me of MUDs. I still check in on New Moon [1] a few times a year. 108.162.236.25 16:15, 20 December 2013 (UTC)
+I see what you mean. For me it's the Discworld MUD. But it could similarly (i.e. not exactly like the comic suggests) apply to some long-term Usenet groups that I (in)frequent. 141.101.99.229 16:22, 20 December 2013 (UTC)
+It may not be the tool from the comic, but people here might be interested in: http://kurlander.net/DJ/Projects/ComicChat/resources.html -- Jvfrmtn (talk) (please sign your comments with ~~~~)
+If this chatroom was real I'd love to see it. I know ts not though. Of course what if there's a little fridge horror in this comic? Like a chatroom 98 sort of thing? Maybe the sysadmin or the people Cueball and the others are talking to are really ghosts or souls that were sucked into an old server forever doomed to spend their days talking to themselves until another unsuspecting user is sucked in.108.162.215.36 02:54, 23 December 2013 (UTC)
+Ido: Can someone explain why the URL www.xkcd.com/test reference to this strip? looks like an undocumented feature to me :) 141.101.98.220 (talk) (please sign your comments with ~~~~)
+It doesn't anymore… Varal7 (talk) 19:03, 20 May 2014 (UTC)
+It now displays to 1367: Installing. Z (talk) 01:11, 23 May 2014 (UTC)
+I was doing some searching on the internet, and found, in addition to the one/few on this page, some people who said/implied that they have used this chat before, although, like anything on the internet, the claims may not be true. (Links: http://community.spiceworks.com/topic/436369-does-this-actually-exist [see comments 3, 12, and 14], http://pastebin.com/95nGh8Hk [Says it exists, but doesn't elaborate]) Z (talk) 22:02, 12 March 2014 (UTC)
+I used to be part of something very similar to to what the comic describes (but not exactly the same). When AOL first started, it was a completely 'walled garden' with no access to the internet. Old folks will remember how popular brands used to advertise on TV that you should go to their 'AOL Keyword' instead of a web site URL. Check Wikipedia for more about this. Anyway, AOL had its own set of message boards, for many popular topics, which were not connected to the internet and could only be accessed by other AOL members. I was just a kid. I went exploring through a bunch of message boards about niche topics until I found one with a community that I came to like. We had all kinds of off-topic conversations, and, the moderators having long since gone, it came to resemble its original topical purpose very little. The ages were not kind to AOL, and our group grew smaller and smaller as the AOL service gained a connection to the real internet (including the WWW and Usenet) and not as many new people bothered to look at AOL-only message boards any more. Eventually, the Keyword that accessed our special board stopped working and it was dropped from the public directory that lists all the areas of AOL. But we found a workaround: AOL had its own quasi-URL system that was mostly only used internally in the software and not usually exposed directly through the UI. But, those of us who had directly bookmarked the message board could still access it that way, and we found a way to share the aol:// URL amongst ourselves. Just like in the comic, we couldn't figure out why the message board still worked at all, for many years after it was no longer publicly visible anywhere, and wondered if some sysadmins with a sense of humour at AOL were watching us. It was fun in a way, a secret place all to ourselves. But it was also kind of sad, when sometimes months would go where noone posted. The UI would sometimes get migrated to a newer version with no notice, and then rolled back again just as abruptly. Old messages would suddenly disappear, become resurrected and then disappear again. Eventually, the thing that finally killed it was that one by one, we each stopped paying for AOL as we found better ISPs and couldn’t justify the expense. It would have been easy enough to move to another web site or chat program, and at first, some of us tried to recreate it elsewhere, but it was never really the same, and we could never get the same group completely back together again. But I guess that's how life is anyway: people drift apart. Despite that, many of us still keep in touch and have become very close friends, some of us even in real life. It's good to have friends. xxj -- Xxj (talk) (please sign your comments with ~~~~)
+TL;DR! Keep your comments short. --Dgbrt (talk) 21:57, 23 May 2014 (UTC)
+If you really didn't read that, Dgbrt, you missed out (what are you, from Twitter? everything has to be 160 characters or the ADD kicks in?). It was worth it, for an old internet hand/AOLer. That is too often how life is, xxj; thanks for posting it. I'm feeling a little overwhelmed by nostalgia for some old AOL and GameFaqs message boards, now... 108.162.219.77 03:17, 28 May 2014 (UTC)
+This is a typical reaction to misuse my reaction. If you look at my contributions here you would know that I'm really NOT a TWITTER man. I don't like Twitter and AOL was always a big mess by it's time. But including some paragraphs, writing shorter sentences, and I wouldn't have posted my "TL;DR!" reply. --Dgbrt (talk) 20:30, 28 May 2014 (UTC)
+The comic says it's an "old" Windows utility, but the UI in the picture can be from no older than Windows 95. Native Win95 software still runs on modern PCs without resorting to a VM, doesn't it? Did Randall forget how a window looked in Windows 3.1? 108.162.216.77 06:49, 30 May 2014 (UTC)
+An old Windows 95 program may be able to run on modern systems, but an old utility may be very tightly tied to that particular system. --Dfeuer (talk) 08:37, 1 June 2014 (UTC)
+I think the reason for the cartoon is to explain chat room vs Facebook/twitter, and rather then say "IRC", which could be misunderstood (as being very large ?), he made up the hidden utility chat room.... this utilities chatroom would explain how there could be a small chatroom that is not filled with mindless *MERE USERS* ... 108.162.249.205 06:17, 22 August 2014 (UTC)
+"whereas Ponytail is still using an old computer (as evidenced by the CRT monitor)." No, it doesn't. A modern computer can still perfectly use old CRTs. I did it myself a while back, while my LCD was being replaced. All it takes is a VGA connection, and I'm not sure whether modern computers are coming without any VGA connection at all, be it in the mobo or the GPU (at least high end GPUs are dropping VGA support). Anyway, that's not an evidence. It hints that Ponytail may be using an old computer. I shall fix it. 108.162.219.125 03:39, 7 February 2015 (UTC)
+Ponytail is using a modern computer; the panel is set years ago before "the internet aged". Also why do the sevens have lines through them? It's increasingly common these days, but is that a facility or a habit of Randall's?141.101.98.130 10:54, 25 March 2018 (UTC)
+Categories: All comicsComics from 2013Comics from DecemberWednesday comicsComics featuring CueballComics featuring PonytailComics featuring MeganComics featuring HairyInternetPhilosophySocial networkingYouTubeSocial interactions

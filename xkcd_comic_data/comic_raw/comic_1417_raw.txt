@@ -1,0 +1,141 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1417: Seven
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1417)
+|<< PrevComic #1417 (September 5, 2014)Next >>|
+Seven
+
+Title text: The days of the week are Monday, Arctic, Wellesley, Green, Electra, Synergize, and the Seventh Seal.
+Explanation[edit]
+In this comic, Cueball (or perhaps Randall) says he can't distinguish between sets that have exactly seven objects. This leads him to exchange the items in the sets without noticing, to the point where, when attempting to list a single set, each item mentioned actually belongs to a different set.
+This is shown in the comic when Megan asks Cueball to name the seven dwarfs from Snow White and the Seven Dwarfs, a task some people might find difficult, although they would not just choose words from other sets of seven to fill in the gaps.
+The title text reveals that even a trivial set of seven items, like the days of the week, also goes completely wrong.
+The comic may be related to the oldest set-theoretic definition of the natural numbers, in which for each natural number, an equivalence class is defined over all sets which contain the same number of items. As Cueball is known for mathematical thinking, he could be presumed to have taken the underlying equivalence relation to heart, and (over)applying it to real life, genuinely judging sets to be identical if they all contain N objects.
+The number seven being the number for when sets become indistinguishable is possibly a reference to Miller's law. Especially considering that this is a law dealing with human memory, which Cueball is having issues with. However, this law refers to elements within the same set becoming indistinguishable, rather than the indistinguishability of different sets of the same size - indeed, its original tests involved either distinguishing between the items, or repeating them back in the correct order. But then again, that might be part of the humor.
+The number seven has culturally been regarded as a special, magical or holy number, which contributes to the large number of familiar sets of seven that make this comic possible. This proliferation of well-known sets of 7 items could be another reason why Randall chose to use the number seven in the comic.
+In 1554: Spice Girls the game continues with Cueball saying that it is now Megan's turn and then he asks her a similar question regarding the names of the Spice Girls. Her problem is then that she simply finds different sets of five and then just adds Spice behind each of the words of that set.
+Comic list[edit]
+For each of the seven lists below, the relevant item's traditional position within its own list of seven, according to Wikipedia, is not necessarily equal to its position on the list in the comic. For some lists the position is equal, but not for all. For instance Sneezy is traditionally never mentioned first amongst the dwarfs since the leader Doc normally comes first. But "phylum" is the second major taxonomic rank as is "phylum" the second item on the list in the comic.
+The seven "dwarfs" mentioned and their relevant sets of seven are (items in the set are written in bold):
+1 2 3 4 5 6 7
+Disney's Dwarfs from Snow White and the Seven Dwarfs[c 1] Doc Grumpy Happy Sleepy Bashful Sneezy Dopey
+Major taxonomic ranks.[c 2] kingdom phylum class order family genus species
+Continents[c 3] Asia Africa North America South America Antarctica Europe Australia
+Deadly sins[c 4] lust gluttony greed sloth wrath envy pride
+Seven Layer Dip (recipe)[c 5] refried beans cheese ground beef sour cream guacamole salsa chopped black olives/tomatoes/green onions
+Layers of the OSI model[c 6] application presentation session transport network data link physical
+Wonders of the Ancient World[c 7] Great Pyramid of Giza Hanging Gardens of Babylon Statue of Zeus at Olympia Temple of Artemis at Ephesus Mausoleum at Halicarnassus Colossus of Rhodes Lighthouse of Alexandria
+↑ The order is taken from the page about the movie, but Sneezy is never no. 1. On the other page, which is listed alphabetically, he is no. 5.
+↑ There are technically 8 on this list as domain has been included as the first in the list in 1990. It is, however, still normal to only list the 7 ranks in the table.
+↑ Continents are normally listed by size (as here in the table), in which case Europe is no. 6. Alphabetically it would be fifth. By population, Europe would actually be no. 3 (i.e. it would match the position in Cueball's list). But by population density, it is no. 2. In reality Europe is not even a continent in itself, as it is connected directly to Asia (and also Africa) and there are many reasons not to split the continents into seven.
+↑ List as on Wikipedia.
+↑ The list on Wikipedia is not in the order the dip should be made. The order used above is from this recipe.
+↑ The order above is in reverse. The numbers given on Wikipedia is from 7 to 1 as they stand above. However when showing them in a table they begin with no. 7. So it can be discussed if this is the correct order or the reverse. Since Data link is no. 2, the reverse above becomes the "correct" no. 6.
+↑ List as on Wikipedia.
+Title text list[edit]
+The title text extends this saying he also does the same with the set of the seven days of the week. There are several sets of 7 featuring the name Electra, which are all listed in the table below.
+The sets Cueball's "days of the week" come from are:
+1 2 3 4 5 6 7
+Days of the week[t 1] Monday Tuesday Wednesday Thursday Friday Saturday Sunday
+The Seven Seas (modern version)[t 2] The Pacific Ocean The Atlantic Ocean The Indian Ocean The Arctic Ocean The Mediterranean Sea The Caribbean Sea The Gulf of Mexico.
+Seven Sisters, historically women's colleges in U.S.[t 3] Mount Holyoke Vassar Wellesley Smith Radcliffe Bryn Mawr Barnard
+Traditional spectral colors[t 4] Red Orange Yellow Green Blue Indigo Violet
+Pleiades, Seven Sisters, nymphs and daughters of Atlas and Pleone in Greek mythology[t 5][t 6] Maia Electra Taygete Alcyone Celaeno Sterope Merope
+Pleiades Star Cluster [t 7] Sterope Maia Taygeta Celaeno Electra Merope Alcyone
+Complete Plays by Sophocles[t 8] Ajax/Aias Electra Oedipus The King/Oedipus Rex/Oedipus Tyrannus Oedipus at Colonus Antigone The Trachinian Maidens/The Women of Trachis Philoctetes
+The Seven Habits of Highly Effective People by Dr. Stephen R. Covey[t 9] Be proactive Begin with the end in mind Put first things first Think win-win Seek first to understand and then to be understood Synergize Sharpen the saw
+In the Book of Revelation in the New Testament there are Seven seals[t 10] The First seal The Second seal The Third seal The Fourth seal The Fifth seal The Sixth seal The Seventh seal
+↑ In the US, the weekdays are usually mentioned with Sunday first, whereas the international ISO week date standard defines Monday as the first day of the week. Although Randall is from the US, he has previously expressed his preference for ISO 8601 (among other international standards), so it's reasonable to assume he'd list the days of the week starting on Monday.
+↑ There are many ways to lists 7 named bodies of water. The one used in the table uses the order from the Wikipedia article on the modern version, from the largest to the smallest of the seven. But at the top of the article on the Seven Seas another set of oceans are used. Here the two largest bodies of water (Pacific and Atlantic) are split in a north and a south part, and the Southern (or Antarctic) Ocean is included. They then displace the three smallest bodies of water mentioned in the table above. If that list is sorted in alphabetic order, using the name Antarctic Ocean instead of Southern Ocean, then "Arctic" would come second: Antarctic, Arctic, Indian, North Atlantic, North Pacific, South Atlantic and South Pacific. "Arctic" could also be a reference to Climate zones - see Trivia. It could not, however, be a reference to Continents, because the Arctic is not a continent regardless of how they're counted.
+↑ List as on Wikipedia.
+↑ On the list on Wikipedia there are only six colors but Indigo was used to get to seven colors by Newton - see Trivia.
+↑ List as on Wikipedia, with the oldest first and the youngest last (it's unclear whether the ones in the middle are also listed by age). In any case, only in reverse alphabetical order Electra would be no. 5: Taygete, Sterope, Merope, Maia, Electra, Celaeno, and Alcyone.
+↑ Electra is one of the septet of Pleiades sisters, one of the named stars in the Pleiades Star Cluster, and also of the septet of the complete extant plays by Sophocles. Until Randall tells us which he meant, all are possible.
+↑ In the order of stars named for the Seven Sisters starting from 12 o'clock position and counting clockwise. This list does not include Atlas and Pleione, parents of the Seven Sisters, and the remaining two named stars in the Cluster, which would be the eighth and ninth stars, respectively.
+↑ ibid
+↑ These seven habits are clearly named in order as they are listed as Habit 1 through Habit 7.
+↑ The Seventh Seal is also the name of a movie released in 1957, which belongs to a lot of sets of seven -- see the Trivia section.
+Transcript[edit]
+[Megan and Cueball are talking.]
+Megan: Can you name all the dwarfs from Snow White?
+Cueball: Sure, there's, um...
+Cueball's thoughts: Sneezy, phylum, Europe, sloth, guacamole, data link, Colossus of Rhodes
+I have this problem where all sets of seven things are indistinguishable to me.
+Trivia[edit]
+Arctic (no. 2 on the title text list) could also be a reference to climate zones: Arctic, North Temperate, Northern Subtropical, Tropical, Southern Subtropical, South Temperate and Antarctic.
+There are however usually only five mentioned according to the Köppen climate classification. They are: Tropical, Dry, Temperate, Continental and Polar climate.
+Concerning the seven colors of the spectrum (no. 4 on the title text list) indigo is stuck in by Isaac Newton to add up to the seven notes in the Western musical scale.
+It should be noted that Newton probably meant the colors cyan and blue as we think of it today, rather than blue and indigo.
+Also note that in a rainbow you usually cannot distinguish more than six colors with cyan melting in with green and blue and the same for indigo with blue and violet.
+This is highly dependent on the language you speak. Russian, for example, has both sinij and goluboj to describe different blues that in English are both blue. Japanese, as another example, has blue and green together (kinda) in 青.
+These are also the traditional seven artists' pigments, with the accompanying mnemonic "Roy G. Biv" (or the "Richard Of York..." counterpart mnemonic, for those indoctrinated by a different method). Indigo dye is a widely known and readily available coloring agent. The ongoing ubiquity of the pigment (think denim) gives it a unique prominence despite its uncertain status as a spectral color.
+The Seventh Seal (no. 7 on the title text list) could also refer to the 1957 film The Seventh Seal by Swedish director Ingmar Bergman. Indeed, we can put it in quite a few sets of seven.
+This was Bergman's seventh film with an English title beginning with the letter 'S' (ignoring articles). A Ship Bound for India, Summer Interlude, Secrets of Women, Summer with Monika, Sawdust and Tinsel, Smiles of a Summer Night, The Seventh Seal.
+Similary The Seventh Seal is also the seventh Bergman film whose Swedish title starts with 'S', although the list has some different members. Skepp till Indialand, Sånt händer inte här, Sommarlek, Sommaren med Monika, Sommarnattens leende, Sista paret ut, Det sjunde inseglet.
+The Seventh Seal was also one of seven Bergman films submitted by Sweden for the Academy Award for Best Foreign Language Film during the 1950s and 1960s. The Seventh Seal, The Magician, The Virgin Spring, Through a Glass Darkly, The Silence, Persona, Shame.
+According to the Wikipedia page on The Seventh Seal, the Jesuit publication America wrote, "It also began a series of seven films that explored the possibility of faith in a post-Holocaust, nuclear age. In 'The Virgin Spring' (1960), 'Through a Glass Darkly' (1961), 'Winter Light' (1962) and 'The Silence' (1963), he poses traditional faith questions in identifiably religious language. The characters struggle self-consciously with their inability to believe in God and form relationships with one another. In 'Wild Strawberries' (1957) and 'The Magician' (1958), the issues are veiled in layers of metaphor. The theological questions become apparent only by placing them in the context of the other films of the period. With 'The Silence' he concludes that God is unknowable, and the human person must simply continue life's journey seeking understanding and happiness however one can. At that point, God-questions drop out of his films altogether.
+One way to remember the names of the Seven Dwarfs from the Disney film is: three emotions (Happy, Bashful, Grumpy), two S's (Sleepy, Sneezy), two D's (Dopey, Doc). Cueball assumes that Megan is asking in the context of the Disney film, but other works have named the dwarfs differently; see Seven Dwarfs.
+Megan's question uses the plural dwarfs. Astronomers also refer to the plural of dwarf stars as "dwarfs". The word "dwarves" is used in J. R. R. Tolkien's works, but has been seen as far back as the early 1800s.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Guacamole = 7-layer dip ingredient 108.162.215.81 05:08, 5 September 2014 (UTC)Anonymous XKCD reader
+Seventh Seal more likely to be a reference to Book of Revelation (I think he's brought it up before?) or the film? 199.27.133.96 05:17, 5 September 2014 (UTC)
+Arctic Ocean is one of the modern Seven "Seas" of the world. Green is the 4th color of seven in the Arthur Hamilton song "I Can Sing a Rainbow". 108.162.249.212 (talk) (please sign your comments with ~~~~)
+I guess the title text is a play on the fact that the dwarves in the new Snow White (2001 film) are called Monday, Tuesday, ... That is the connection between Snow White dwarves and days of the week. The filmmakers decided to intermix sets of seven in the first place. Sebastian --108.162.254.90 06:27, 5 September 2014 (UTC)
+
+There could be a pattern with order.
+Sneezy: 1st dwarf of the seven dwarves in Snow White.
+Phylum: 2nd rank in the Seven Taxonomic Ranks
+Europe: 3rd continent of the world
+Sloth: 4th sin of the Seven Deadly Sin
+Guacamole: 5th Layer in a 7 Layer Bean Dip
+Data Link: 6th Layer in the OSI Model
+Collosus of Rhodes: 7th Wonder of the Ancient World
+Y’all missed one way to list the continents that also puts Europe in third: by location. A lot of people list the continents from north south west east, in which case Europe is usually third. The order usually goes like this (assuming we’re going with the model of seven continents): 1. North America, 2. South America, 3. Europe. Fourth and Fifth in this ordering are Asia and Africa, but there is no consensus on which comes first. After those two, next is 6. Australia/Australasia/Oceania (whichever one you recognize), and 7. Antarctica. This is used especially in resources for young children, who may not understand things like population and size, and this provides a simple and easy order.
+Monday: 1st Day of the Week (American).
+Arctic: 2nd ocean in the modern Seven "Seas" of the world.
+Wellesley: 3rd college of the Seven Sister colleges
+Green: 4th color in the Arthur Hamilton song "I Can Sing a Rainbow".
+Electra: 5th sister of the Pleiades, the Seven Sisters.
+Synergize: 6th Habit in the Stephen R. Covey self-help book "Seven Habits of Highly Effective People".
+Seventh Seal: 7th Seal of the Seven Seals in the Book of Revelations
+“Monday: 1st day of the week (American)”. I live in the US and most people say Sunday is the first day of the week. However, many people recognize it as Monday, and it is also the first day of the work week.
+108.162.249.212 (talk)  (please sign your comments with ~~~~)
+The list on the page needs to be fixed to show Europe third. --141.101.99.213 11:15, 5 September 2014 (UTC)
+The Pleiades is Randall's favorite constellation. 108.162.237.161 08:40, 5 September 2014 (UTC)
+It says so here. 108.162.237.161 20:16, 6 September 2014 (UTC)
+This could mean that Electra is the fifth star in the Pleiades cluster. If counting from the 12 o'clock position clockwise on a diagram of the Pleiades cluster the order would be Sterope, Maia, Taygeta, Caleano, Electra, Merope, and Alcyone (for the sisters), with Atlas and Pleione rounding out the named stars in the cluster.188.114.106.173 20:40, 8 December 2015 (UTC)
+It sure is nice seeing the explanation getting more refined and complete every time I visit... 103.22.201.168 10:37, 5 September 2014 (UTC)
+There is not pattern like the one mentioned above. The first dwarf in Disney is always the leader Doc! even alphabetically. There is no reason to put Europe third, Arctic 2nd, Electra 5th or the Colossus 7th. Data Link is the 2nd although you usually put them in reverse making it the 6th (and in America first day is Sunday!). This I have corrected and made a table more for the Title text Kynde (talk) 12:35, 8 September 2014 (UTC)
+Doc may be the leader, and (hierarchically) first of the seven, but in my experience it's Doc who is often the forgotten one (unless remembered specifically for being forgotten) when someone is challenged to name the seven dwarves... E.g. "Happy, Sleepy, Dopey, Sneezy, Grumpy... erm... Bashful... oh... don't tell me..." (Bashful being the one those who specifically remember Doc tend to forget, unless they've got over this alternative memetic stumbling block.) 141.101.98.233 23:58, 8 September 2014 (UTC)
+In the Disney (1937) version, Snow White guesses the names of the dwarves in the following order: Doc, Bashful, Sleepy, Sneezy, Happy, Dopey, and Grumpy. --173.245.55.25 17:00, 18 September 2014 (UTC)
+I've always been told there are only six continents. North America and South America are one continent. The seventh continent sometimes refers to this gigantic area filled with plastic rubbish in the Pacific Ocean. 108.162.229.143 11:47, 5 September 2014 (UTC)
+See here: https://www.youtube.com/watch?v=3uBcq1x7P34 But no one talks about the Great Pacific garbage patch as a continent. 7 continents is the most common model, with some (mainly Latin Americans) considering the Americas a single continent. Some others consider Eurasia a single continent (personally that's what I prefer, it makes the most sense). --Zagorath (talk) 12:12, 5 September 2014 (UTC)
+I've only ever heard folks say there are seven continents. By strict definition of the word, North and South America do form a single continent (at least did prior to the Panama Canal cutting them apart) the vast majority of people see then as two separate continents. Dividing the Eurasian landmass in two, however, that one never made much sense. 199.27.128.117 16:53, 5 September 2014 (UTC)
+I think the garbage patch confusion stems from the mislabeled picture of a bunch of floating garbage. In fact it's very spread out and in no way possible to confuse with a landmass. See http://io9.com/5911969/lies-youve-been-told-about-the-pacific-garbage-patch --JSekula71 (talk) 08:46, 6 September 2014 (UTC)
+Personally, I think the number of continents depends on what you are using it for. For strictly geographical purposes, then clearly Europe and Asia are the same continent. However, if you’re talking about continents in a cultural, political, historical, climate, or ecological context, the argument can be made for classifying them as separate continents.
+Guacamole may also be a reference to a famous joke which made the rounds about 15 years ago, where somebody had compared the 7 layers of the OSI network model to Taco Bell's 7-layer burrito. Guacamole was the 5th layer, which lends credence to this idea. It's still available on the WayBack Machine: http://web.archive.org/web/19990826193318/http://www.europa.com/~dogman/osi/ 108.162.219.151 11:59, 5 September 2014 (UTC)
+I suspect Electra is from the list of extant complete plays of Sophocles: Ajax, Antigone, The Women of Trachis, Oedipus the King, Electra, Philoctetes and Oedipus at Colonus. Besimmons (talk) 13:42, 5 September 2014 (UTC)
+I find it interesting that although Randall is American he lists Monday as the first day of the week. That's where it's positioned in most cultures outside the USA, but Americans normally consider Sunday to be the first day. --RenniePet (talk) 13:51, 5 September 2014 (UTC)
+I can't speak for anyone outside the US, but as someone who has spent 99.9% of my life within US borders (few weeks in Canada, if you think that should essentially count...), I only acknowledge that the first day listed on any monthly calendar I see around here is most often Sunday. If you were to ask me what the first day of the week is, I would very quickly and easily say "Monday". That is what I'm teaching my 4- and 2-year olds... There are a few reasons I would give to explain that other than "I think of it as the first day of the week". It's the first work day of the "work week", and since life is for most people centered around one form of work or another, that gives the "work week" high importance. By extension, Sunday is the last day in the "weekend". By Judeo-Christian beliefs, God rested on the "seventh" Day - most Christians believe that to be Sunday; others (I believe mostly Jewish) believe it to be Saturday - I think, though that even those who consider Saturday to be a holy day, if you were to ask them in casual conversation what the first day of the week is (I may be wrong, but), I think they would say "Monday"... (?) Any other "Americans" or "Non-Americans" (I'd ask for you to clearly identify with one or the other) want to weight in on this? - Brettpeirce (talk) 15:51, 5 September 2014 (UTC)
+I wouldn't make any guesses about what "most Christians" believe, but scholars clearly agree that Saturday (beginning sundown on Friday evening) is the seventh day, and Sunday is the first day (the "Lord's Day"). The reason for the shift isn't so clear, but they generally agree with the Jews about the numbering of the days, and even that the boundary between days happens at sunset: http://en.wikipedia.org/wiki/Sabbath_in_Christianity 108.162.241.11 14:39, 9 September 2014 (UTC)
+The reason claimed for the shift is because Jesus rose on the first day of the week, though the only thing that's made explicit is that the tomb was discovered empty on that day. But even at that, He made no command to change Sabbaths or replace it with a Sabbath equivalent. There are scriptures which many Christians often claim indicate that the disciples changed it -- one about a collection being taken up then and one about them meeting then -- but nothing clarifying that that was the intent. By the by, "The Lord's Day" is used once in the Bible, in Revelation, but left undefined. It is most commonly interpreted as Sunday for the earlier reason, but it could as easily be interpreted as the already-existing Sabbath, as He'd said He's "Lord of the Sabbath", or even equivalent to "The Day of the Lord", an eschatological term, which would be appropriate considering the book in which it appears. Also, having read up on the ISO standard week, the new numbering -- as in, only a few decades old -- is to make the week "labor-oriented", i.e., put the working days first. And since the majority of people treat Sunday as the weekly day of rest, people moved it to last. But before people started treating it as such, the numbering was already labor-oriented, with Saturday, the Sabbath, as the seventh day. Nyperold (talk) 18:14, 24 July 2015 (UTC)
+I can't really comment on anything talked about by Brettpeirce, but I can say a few words about the "first day of the week" problem as seen by a computer programmer. It causes huge problems when your program displays a calendar because you have to take into account that Americans want it one way and most other people want it a different way. And supposedly simple things like scheduling an appointment "first work day next week" has a completely different result if it is done on a Sunday in the USA or on a Sunday in Europe. And then there's the problem of week numbers (used a lot in Europe but not so much in the USA). Week numbers depend on which week is designated as the first week of the year, which in most countries is defined as the first week with at least 4 days in the year. Now if January 3rd is Sunday, then in the USA it is the start of week 1, while in Europe it is the last day of the last week of the previous year (week 52 or 53). It's enough to drive you to drink (which is OK on Sunday some places but not others). --RenniePet (talk) 20:36, 5 September 2014 (UTC)
+Oh, and then there are the incompatibilities in programming languages. American-developed computer languages like C and Basic and C++ and C# number the week days 0 - 6 meaning Sunday - Saturday. Meanwhile Java numbers week days 1 - 7 meaning Sunday - Saturday, except that the newest version, Java 8, has improved date/time facilities, and if you use them then week days are numbered 1 - 7 meaning Monday - Sunday. --RenniePet (talk) 20:52, 5 September 2014 (UTC)
+Contrary to ISO 8601, I think the week should start on Sunday for the sake of symmetry. 188.114.99.189 01:18, 25 November 2015 (UTC)
+I find instead interesting that he makes no mention of the seven notes, while mentioning other sets less ubiquitous --108.162.229.163 14:13, 5 September 2014 (UTC)
+
+OMFG, the second picture of a dwarf in the list is Dopey, why the hell did somebody say it's Fievel!? http://www.bing.com/images/search?q=seven+dwarfs+dopey&qpvt=Seven+Dwarves+Dopey&FORM=IGRE 108.162.216.40 19:44, 5 September 2014 (UTC)
+The Dwarfs here are drawn somewhat off-model, with bigger noses than in Disney artwork. Perhaps someone is confusing the second figure's nose, which is drawn much larger than Dopey's, with Fievel's other ear. It's similar to the Gardevoir nose illusion. --Tepples (talk) 20:16, 5 September 2014 (UTC)
+To be fair, the dwarves are more on-model than the people. -173.245.56.186 03:09, 6 September 2014 (UTC)
+Arctic is the second ocean alphabetically. Someone should change the list to reflect that, I think. Zweisteine (talk) 19:53, 5 September 2014 (UTC)
+Re the "trivia" note suggesting Arctic is a deliberate mistake for Antartica in the list of continents: Even if I thought Randall might be including deliberate mistakes, it is unlikely he'd use the continents as a list in the title. He already used them in the main comic, and he didn't repeat any other sevens. MGK (talk) 14:12, 6 September 2014 (UTC)
+Did anyone else come here because the one thing they didn't get was guacamole? And now feel like, "duhhh?" 108.162.212.199 16:36, 6 September 2014 (UTC)
+So how many continents are there really https://www.youtube.com/watch?v=3uBcq1x7P34 Spongebog (talk) 23:54, 6 September 2014 (UTC)
+The stated order of 7-layer dip in the table is all wrong. Cheese goes on top, then sour cream, and the rest doesn't matter. 199.27.128.183 03:50, 9 September 2014 (UTC)
+The Fields medallist Vladimir Voevodsky used this in a recent talk on the foundations of mathematics https://github.com/vladimirias/2014_Paul_Bernays_Lectures/blob/master/2014_09_Bernays_3%20presentation.pdf, to illustrate the abstract concept of set. 108.162.250.219 (talk) (please sign your comments with ~~~~)
+
+"This leads him to exchange the items in the sets without noticing, to the point where, when attempting to list a single set, each item mentioned actually belongs to a different set." Technically, they also belong to the same set- in fact, there are infinitely many sets that contain any subset of those listed. So saying "they all come from different sets" isn't quite correct. Hppavilion1 (talk) 04:43, 26 October 2016 (UTC)
+Categories: All comicsComics from 2014Comics from SeptemberFriday comicsComics featuring CueballComics featuring Megan

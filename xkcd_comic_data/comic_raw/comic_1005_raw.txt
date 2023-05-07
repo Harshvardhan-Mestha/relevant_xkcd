@@ -1,0 +1,56 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1005: SOPA
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1005)
+|<< PrevComic #1005 (January 18, 2012)Next >>|
+SOPA
+
+Title text: In protest of SOPA, I'm currently getting totally blacked out.
+Explanation[edit]
+SOPA, the Stop Online Piracy Act and PIPA, the Protect IP Act, were a pair of controversial bills being considered by the United States government in late 2011 and early 2012. The bills contained the ability for the US government to deny American internet users access to certain sites at a judge's request. These would be activated if the government could prove to a court that a site was primarily used to harbor illegally distributed copyrighted goods, such as video games, music, and TV shows.
+Many people considered this to be censorship and were concerned that this could instead be used by larger corporations to squelch smaller competing sites who may not have the resources to challenge a "take-down notice" in court, should judges continually agree with the larger corporation.
+As the bills gained infamy online, many popular websites and web comics participated in a mass protest on January 18, 2012, to announce their displeasure with the bill in an attempt to convince the House of Representatives to reverse their judgement, which had at the time been considered likely to pass if drafted.
+This was xkcd's participation in the protest. Randall discusses below the black panel that if he was having better copyright protection with these new acts then he would never have gotten this popular since his fans would not have been allowed to distribute the comic gaining him new followers.
+In typical xkcd fashion, this comic contains several layers of depth that may not be immediately obvious to the casual observer. In this instance, the apparently solid-black region contains a hidden image revealed with simple brightness+contrast manipulation (or simply loading the image into Microsoft Paint and using the fill tool), with Black Hat saying "A message from sysadmins everywhere: Seriously, don't screw with DNS. If you break this internet, we are not making you a new one." This stems from the fact that sites could be ordered taken down by allowing manipulation of the DNS itself, effectively making a site completely disappear from the web. This court-enforced DNS manipulation was considered by many technical professionals to damage the underlying structure of the internet, as well as potentially criminalizing recent work to improve its security.
+The title text referred to a common theme across protesting sites: a blackout of the internet. Sites such as Google changed to a black background, while Wikipedia prevented access by linking their sites to a black page with white text explaining their participation. On the day of the protest, xkcd was similarly "blacked out," with all comics redirecting to this one. The humor is that Randall has jokingly misinterpreted this "blackout" to mean that he should instead protest by "getting totally blacked out" – i.e. by drinking so much alcohol that he gets drunk, passes out, and wakes up the next day having no memory of his actions or experiences during his drunkenness; despite Randall's good intentions, this would probably not help the protest against SOPA/PIPA.
+After the protest, the bills were postponed from being drafted on January 20, 2012.
+Transcript[edit]
+[A completely black panel with white text. All non-capital letter, in square brackets:]
+[don't censor the web.]
+[Hidden in the background, and only visible under certain conditions, is an inverted Black Hat (i.e. white), with the text from above still visible written across his forehead. Above him is the first line of text, and then he speaks the next line:]
+A message from sysadmins everywhere:
+Black Hat: Seriously, don't screw with DNS. If you break this internet, we are not making you a new one.
+[Below the black panel is a visible message from Randall written normally black on white in xkcd style.]
+I make my living drawing xkcd, which wouldn't have been possible if people
+hadn't been able to freely share my comics with each other all over the internet.
+As a copyright holder and small business owner, I oppose SOPA and PIPA.
+[Randall Munroe's signature, with a little drawing of Cueball on one of the tails. Below that a last message.]
+Randall Munroe
+See the links below to learn more.
+Trivia[edit]
+The following were the links and text listed below the last message (and below the comic):
+Learn more:
+EFF: One-page guide to SOPA (archived)
+reddit: A technical overview of the SOPA and PIPA bills (archived)
+DYN: How these bills would break DNS (archived)
+EFF: Free speech on the web (archived)
+
+Act:
+Contact information for US elected officials (archived)
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Anyone try the brightness-contrast with the XKCD 2008 x-mas Special? 66.19.70.101 02:20, 9 January 2013 (UTC)
+Negative. 108.233.253.211 02:53, 9 January 2013 (UTC)
+Yes. There is NO color information in those black panels, all pixels read 0x000000. 108.162.216.53 20:52, 5 March 2014 (UTC)
+I tried it in Microsoft Office 2010 and got a faint, but very readable image just like the one above.141.101.99.42 18:35, 6 March 2015 (UTC)
+What do they mean "typical XKCD fashion"? What other comics have hidden messages in them? 173.245.48.91 22:11, 8 August 2014 (UTC)
+The "typical xkcd fashion" line wasn't referring to the exact scenario of a hidden message in the comic. It was referring to the tendency of xkcd comics to have deeper messages (besides the explicit point being made) that may not be immediately visible. NealCruco (talk) 19:13, 17 March 2015 (UTC)
+To me, the phrasing "I'm getting totally blacked out" suggests that the narrator is getting blackout drunk. Does anyone else get this impression, or am I crazy? 108.162.241.123 16:58, 31 October 2015 (UTC)
+Ah yes, I totally get that impression too. 103.22.201.115 14:45, 11 November 2015 (UTC)
+Agreed. Added that to the explanation. Yfmcpxpj (talk) 21:47, 11 September 2020 (UTC)
+PDF links and DYN link on the comic page are no longer available.
+Added links to archived versions of these, around the time the comic was published. – Yfmcpxpj (talk) 03:10, 14 January 2021 (UTC)
+I'm glad both that there is a hidden joke and that somebody found and posted it, but the idea that somebody was playing around with brightness on every comic just to find if there is anything like that freaks me out even more than tongue awareness.
+Categories: All comicsComics from 2012Comics from JanuaryWednesday comicsComics featuring Black HatComics featuring CueballComics featuring Randall MunroeComics with inverted brightnessPolitics

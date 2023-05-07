@@ -1,0 +1,56 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1250: Old Accounts
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1250)
+|<< PrevComic #1250 (August 12, 2013)Next >>|
+Old Accounts
+
+Title text: If you close an account while it's still friends with people, it contributes to database linkage accumulation slowdown, which is a major looming problem for web infrastructure and definitely not a thing I just made up.
+Explanation[edit]
+Cueball is very dramatically following the described process of removing himself from a social network by first unfriending each contact in reverse order that he friended them. Such actions are not necessary on any well-designed website. Actively unfriending people individually could be perceived as rude, antisocial, or in need of help. On the other hand, if a user simply abandons his or her account without cleaning it up, then even years later, it will still be sitting there, gathering friends' statuses, opinions and comments.
+The reverse order to unfriend people refers to practice of correct resource management in computer programming. Computer programs typically require access to many resources at a time, and some of those resources may only be available insofar as the program has access to other more basic resources.
+For example, if you wanted to watch a movie from a rental service, you would first acquire a keep case with a disk inside of it, and then you would remove the DVD from the case in order to play it on a TV. Once you had watched the movie, you would put the DVD back inside the case. Then you would return the case to the store. The process for "releasing" these two resources (the DVD and the keep case) follows the reverse order of how they were obtained: the case was retrieved from the store before the disk was removed, but the disk must be put back before you return the case.
+A computer program must release resources in a valid order, though it is often difficult for programmers to ensure this, due to the many paths of execution a program can follow. If resources are released in the wrong order, then a newer resource may reference an older resource that has already been destroyed, and when attempting to use the remaining resource, a variety of bad things could happen if the program attempted to access the already lost resource.
+While resources do not always need to be released in exactly the reverse order of how they were obtained, doing so ensures that, as each resource is released, none of the resources that existed when it was acquired (and thus which it could be dependent upon) will have been released yet.
+In the case of unfriending users on a social networking site, it is imagined that Cueball or any other user could have made newer friends through older friends, and as such, that the newer friend should not exist without the older friend and must therefore be released first.
+The title text appears to be referencing related issue affecting databases used on websites such as social networking sites. When an account is deactivated, the database entries for users that were friends with the account may maintain a link to it. This would result in the database storing useless data, so a well-designed database might try to mitigate this. A well-written program accessing the database would be able to recognize that this data should be ignored. Since no user account would be directly dependent on the existence of another account, the accounts can safely be deleted without worrying about resource management as described earlier.
+Ultimately, the inefficiency of a database containing useless data about deleted accounts is negligible, and in fact it may not even be worthwhile to take the time to update all the entries compared to how little time it would save when performing lookups. "Database linkage accumulation slowdown" really is a thing that Randall just made up. This may be a satire of popular fears of made-up technological problems, often held by those who are not technologically savvy.
+Transcript[edit]
+[Caption above the frame:]
+The internet is filled with derelict accounts aggregating news about friends long forgotten.
+[Cueball sits at a desk, typing on a laptop.]
+Cueball: *Click*
+Computer (friend): Uhh, is everything OK?
+Cueball: *Click*
+Computer (another friend): Dude, what the hell?
+Cueball: *Click*
+[Caption below the frame:]
+When you find yourself drifting away from a community, remember to clean up after yourself by slowly unfriending everyone, one by one, in the reverse order that you added them.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Kind of reminds me of all these movies where someone deletes something from a computer by dramatically backspacing everything. Like in Daredevil, for example. 95.35.60.227 07:34, 12 August 2013 (UTC)
+Ugh. I hated that scene. lcarsos_a (talk) 08:49, 12 August 2013 (UTC)
+Ugh. I hated that movie. DD (talk) 10:14, 12 August 2013 (UTC)
+I hate it when CTRL+Backspace doesn't work as expected, or starts adding non-printable characters instead. Saibot84 (talk) 12:42, 12 August 2013 (UTC)
+That actually happens to me sometimes, but I don't remember where.
+Don't use Windows's file manager. PoolloverNathan[stalk the blue seas]
+U•T•S•c
+17:39, 25 August 2022 (UTC)
+It wouldn't surprise me if FB kept a list of all the people who unfriended you. I know that they don't delete accounts that have been deleted. Hax (talk) 14:45, 12 August 2013 (UTC)
+The reference to defriending in reverse order could be a joke about memory management in programming: You free up memory in reverse of the order you allocated it --Eqdw (talk) 16:49, 12 August 2013 (UTC)
+I agree with Eqdw on the memory management reference; the title text especially seems to reference memory leak problems. Unfortunately, I lack sufficient technical knowledge to provide a good explanation of this for the description. TheGreatSasquatch (talk) 17:15, 12 August 2013 (UTC)
+I did a first simple try.--Dgbrt (talk) 19:17, 12 August 2013 (UTC)
+I remember using Noroom's List Manager to clean up my block/allow lists after a person has removed me from their contact list in good old MSN with good old MSG Plus! (with good old ***ware) 84.225.4.214 19:06, 12 August 2013 (UTC)
+Some bullshit on the page. Not sure if it could be edited to something that makes sense, if not it probably should be erased: "But it also may refer to databases and the query language SQL. Modern web sites are always saved in such databases and using references from one entity to an other. A entity in this context is a thing in the modeled world, in this case Cueball and his friends. By using the entity–relationship model the friends will still have a relationship to the nonexistent user Cueball, the links are orphaned.". Problems: 1) Modern web sites tend to shift from SQL to No-SQL databases, especially sites like social networks; 2) The described behavior is not a problem in a properly designed SQL database, since absence of orphaned links is ensured by foreign constraints. 213.251.211.65 07:08, 14 August 2013 (UTC)
+I disagree. At the title text Randall mentions a major looming problem belonging to databases. And all modern websites like wordpress, or even this wiki, using SQL databases in the background. No-SQL is an alternative, but still rarely used.--Dgbrt (talk) 10:27, 14 August 2013 (UTC)
+In any good database, when you remove a table it should clean up all the links that when to and from it. There is no such thing as "database linkage accumulation slowdown". Even IF all the derelict links persisted, the only way that a system would slow down is if it was continually trying to access each and every dead link. Even then the system would be very quick to return an null value. An automated cleanup program would take very little time to process all of the "garbage" - IF there was garbage. Likely, the slowdown could refer to "The internet is filled with derelict accounts aggregating news about friends long forgotten.", the fact that when people abandon their old accounts, the system is still functioning and automatically processing whatever "services" they offer and every abandoned account is accumulating data, which could consist of actual data and/or links to other data. As the comic suggests, without users to "clean up" their old accounts the systems would slow down because of this automated data accumulation - which is 95% fiction (imho). Jarod997 (talk) 14:09, 30 January 2014 (UTC)
+Anything that needs to scale significantly gets away from SQL. It is not rarely used, it is the only option beyond a certain size. Facebook makes extensive use of No-SQL. 108.162.246.117 02:41, 1 November 2013 (UTC)
+Nevermind the language used to implement current or historical database type websites. This detail is inconsequential to the comic. No program or database would rely on the actions of the everyday user to maintain the integrity of the system. All system maintenance required surrounding account deletion would be handled by separate systems and processes. The looming problem of 'database linkage accumulation' is obvious fiction dressed in technical language to fool the uninitiated. The joke is that Cueball is using a fallacious argument centered in a knowledge of good programming practice to justify a rude behaviour that he finds enjoyable as it provokes reactions in other users.
+Paragraph two of the explanation should be edited to describe good programming practice centering around memory management. re: de-allocation and ordering paragraph three and four can be deleted in favour of explanation on why relying on user input to maintain the health of the system is foolish and would not be considered in such an implementation and the confirmation of d.b.a.s. as a false problem made up to justify Cueball's provocative behavior. Mrarch (talk) 00:17, 3 December 2013 (UTC)
+Should we explain that derelict means abandoned? This comic is about abandoned accounts, not about deleting rows from a database. 173.245.50.84 13:02, 29 January 2014 (UTC)
+I agree with the derelict->abandoned idea. But what others are talking about is not deleting rows, but tables - if you want to look at it that way. What I believe the comic is suggesting is that if you remove a table which had a number of links pointing to it, those now dead links may be difficult to find and remove later. Jarod997 (talk) 21:24, 29 January 2014 (UTC)
+I change a bit my comment: This comic is comparing abandoning an account with deleting a table from a database; it is not about deleting tables from a database only. 173.245.50.84 12:48, 30 January 2014 (UTC)
+In the first paragraph ther explanation says "his friends' reactions suggest they think he is suicidal". Does anyone else think this is a big leap, or frankly incorrect? One of the friends questions whether Cueball is OK, but I don't see that there is any implication of suicide.. --Pudder (talk) 11:16, 4 September 2014 (UTC)
+Categories: All comicsComics from 2013Comics from AugustMonday comicsComics featuring CueballComputersSocial networking

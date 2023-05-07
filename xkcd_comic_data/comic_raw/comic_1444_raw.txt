@@ -1,0 +1,50 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1444: Cloud
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1444)
+|<< PrevComic #1444 (November 7, 2014)Next >>|
+Cloud
+
+Title text: Cloud computing has a ways to go.
+Explanation[edit]
+Cueball and Megan are lying outside on the grass and looking up at the clouds. Cueball asks Megan what she thinks a particular cloud looks like, following the common human activity of pareidolia, or spotting apparent patterns where there are none (particularly in clouds).
+Rather than responding with her own interpretation, Megan takes a picture of the cloud with her phone, and uses Google's Search by Image feature. In this feature, the user uploads an image rather than providing a keyword to search on, and is presented with suggestions about the subject of the original image. Google's search results reveal that the image Megan uploaded is most probably a photograph of a cloud.[citation needed] While indisputable, this does not address the fanciful dimension of Cueball's original question, and highlights the continuing limitations of artificial intelligence with respect to human imagination. (Then again, there is not anything tailored to this on image search.)
+Google image search works by creating a mathematical model of the shapes and colors in the uploaded image, and matching this against images already in its index. Web page analysis then allows Google to guess at what the image is, based on the content of the pages where the matching images were found. Although apparently unimaginative, even humorously so,[citation needed] Google image search does recognize that the subject of Megan's photograph is a cloud, which is an achievement that has so far eluded programmers. This was the subject of 1425: Tasks.
+If the term "cloud computing" is taken entirely literally, and purely in the context of this comic, then the title text merely comments that the processing of an image of a cloud for queries is not at an advanced state yet. It is really, however, a pun on cloud computing, which is a trendy term for the modern tendency of providing massive amounts of digital storage and distributed computing power over the Internet. In this context, the term "cloud" is a metaphor for the way the details of where or how the storage or processing is done are obscured from the user, as if it all takes place inside a cloud. In 2014, cloud computing as a commonly accessible service really is in its relative infancy, being a 21st-century phenomenon, although the concept goes back decades. Java was originally marketed in the 1990s by Sun Microsystems with the slogan "the network is the computer", and the mantra of technologies for distributed computing such as CORBA, EJB and SOAP was "data first" and "the computer is the network".
+In a way, every conceivable sense of the term cloud computing is utilized in Google's image search for Megan's cloud image. Cloud computing is also referenced in 908: The Cloud and 1117: My Sky.
+It might be interesting to note that the month before, in September 2014, Google employees had published work on image recognition and pattern-enhancing algorithms. Originally conceived to allow better enlargements of small pictures and the objects contained in them, the process could be tweaked to overemphasize weak structures in pictures, leading to DeepDream images, which literally did start to "see" distinct, known structures (mostly dogs) even in random noise. This is rather similar to the pastime of looking for known objects in clouds.
+Cueball and Megan are again seen cloudwatching in 1899: Ears.
+Transcript[edit]
+[Cueball and Megan are lying outside on their backs.]
+Cueball: What do you think that cloud looks like?
+[Megan takes a photo of the cloud with her smart phone.]
+Phone: Snap
+[Cueball sits up and looks at Megan. Megan types the text below into her phone. When the picture is uploading this part is actually is written in square brackets in the comic...]
+Google -> Search by image
+[Uploading...]
+[In the last frame she gets a response from Google.]
+Google: Best guess for this image: Cloud
+Cueball: Keep trying, Google.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Is this the normal American way to phrase this sentence: Cloud computing has a ways to go. Since I'm not a native English speaker I'm not sure - but would have expected the phrase to go like this Cloud computing has a long way to go. If I'm wrong then maybe other could misunderstand is? If I'm correct, then there may be a meaning by the different way to say it? Kynde (talk) 11:02, 7 November 2014 (UTC)
+It's a colloquial way to say it. See http://www.learnersdictionary.com/definition/ways . I don't think there is any special meaning to saying it this way. 141.101.98.33 11:20, 7 November 2014 (UTC)
+As I understand it, its an american bastardisation of the english language. Alongside others such as 'Can I get a...', 'I could care less', 'Do the math', and 'Legos' --Pudder (talk) 12:25, 7 November 2014 (UTC)
+The English language is more flexible than Her Royal Highness' Loyal Subject Pudder implies. I am a native speaker of the American dialect. "A way to go" and "a ways to go" both sound alright to me, but I prefer the latter. If anyone wants to go all dilettante or get priggish about it, I recommend looking up what Grammar Girl has to say. I've learned quite a lot from her. – tbc (talk) 12:46, 7 November 2014 (UTC)
+I agree, language is incredibly flexible, and the language and phrases you are around regularly always have a big impact on what you percieve as 'correct'. My examples were mostly tongue in cheek (I'm no language pedant), and I know that the majority of this sites visitors are probably going to be american! However, I will never understand how anyone could deny that 'I could care less' is grammatically the opposite of what is usually being implied. --Pudder (talk) 13:00, 7 November 2014 (UTC)
+Thanks for the insight. Do you agree (for my understandings sake) that the sentence has the same meaning as my suggestion "Cloud computing has a long way to go"? Kynde (talk) 14:04, 7 November 2014 (UTC)
+Yes indeed - those mean pretty much exactly the same thing, Knyde. Nealmcb (talk) 14:16, 7 November 2014 (UTC)
+I agree, though the inclusion of the word "long" in my mind makes that phrase imply a possibly longer timeframe than the "ways" phrase, where the length is less defined. That would fit in with "a ways" being a more relaxed/colloquial/less specific way of saying "a long way".-boB (talk) 14:23, 7 November 2014 (UTC)
+"...a way to go...", without the "long" is a thing, and of equivalent lack-of-definition. Including "long" may have confused matters, methinks. (Also can I submit "Write me!" instead of "Write to me!" as an Americanisation I understand but dislike. While "I could of done something" (also he/she/they should/would/might, etc) is sheer laziness that I actually detest, because it is not anywhere near as legitimate, w.r.t. the natural evolution of English language. (Comes from badly misunderstanding of "X have"->"X've"->"X of".) But that one seems to exist in Ol' Blighty as a homegrown corruption, without necessarily being an import. 141.101.99.112 14:46, 7 November 2014 (UTC)
+I've always taken 'I could care less' to be a sarcastic phrase. True, it is opposite, but the precise meaning is not meant. As long as the message is understood, we're fine. 1028: Communication199.27.128.173 04:38, 8 November 2014 (UTC)
+I've read up on this before and I accept that sarcasm is the only way to legitimately explain it, but I don't think a majority of non-pedants are aware of any irony in the phrase. Though it's an idiom rather than a word, I think it, like 'moot', has simply been misspoken and misused over many many years and now people use it incorrectly - part of the evolution of language, I think -- Brettpeirce (talk) 15:14, 10 November 2014 (UTC)
+I do not deny it is illogical, Pudder. But it's an idiom. Idioms are illogical. Consider ‘head over heels’ and ‘have your cake and eat it too.’ I perused Yes, I Could Care Less by Bill Walsh, as excerpted by Mignon Fogarty, aka Grammar Girl, to come to that conclusion. I was also amused to find this snobbish quote from Isaac Asimov in that excerpt: “I don’t know people stupid enough to say [I could care less].” Meh. I couldn't care less, dead professor. – tbc (talk) 13:21, 8 November 2014 (UTC)
+Does anyone else see this as related to 1263: Reassuring? Djbrasier (talk) 02:25, 8 November 2014 (UTC)
+Even the English are speaking a bastardization of English, otherwise were would all talk like Shakespeare. Language changes folks, when cultures are isolated it changes in different ways. Being pedantic over which variant is "proper" disregards the fact that if by "proper" you mean the way it was then none of us speak that way.
+The phrase "pip pip cheerio" comes to mind as a counter example. 108.162.241.12 17:26, 8 November 2014 (UTC)
+Given that Randall has made suggestions to Google in the past, I have to wonder if this is calling them out to dedicate a chunk of servers for extrapolating what the cloud shapes look like (once it's determined to be a cloud) -- Brettpeirce (talk) 15:30, 10 November 2014 (UTC)
+It seems like Google figured this one out. 108.162.221.49
+108.162.249.175 04:41, 27 September 2015 (UTC) It should be easy to identify a cloud. Define it as any amorphous object set against a blue background (since most people take photographs of individual clouds when the sky is clear). 108.162.249.175 (talk) (please sign your comments with ~~~~)
+Categories: All comicsComics from 2014Comics from NovemberFriday comicsPages using the "citation needed" templateComics featuring CueballComics featuring MeganGoogle SearchPhotography

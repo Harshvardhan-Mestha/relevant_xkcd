@@ -1,0 +1,42 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1195: Flowchart
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1195)
+|<< PrevComic #1195 (April 5, 2013)Next >>|
+Flowchart
+
+Title text: The way out is to use the marker you have to add a box that says 'get a marker' to the line between you and 'start', then add a 'no' line from the trap box to 'end'.
+Explanation[edit]
+Flowcharts are diagrams used to show the logical flow of an algorithm, process, or program. Flowcharts are a recurring theme in xkcd. In this comic, Randall uses the fact that flowcharts can indeed be used to show a loop in the procedure: in this case, the reader will theoretically become trapped in a loop of reading the text in the diamond, following the line marked "YES," and ending back up in the diamond. Those familiar with flowcharts will notice though that, while diamonds usually contain decision questions (which can be answered multiple ways), the diamond here actually includes a statement instead.
+The title text contains a suggested solution to the loop: the way to escape the loop is to use a marker and add an additional "NO" arrow proceeding from the diamond to a rounded box labelled "END" before you start the algorithm at "START." This suggests that the decision question in the diamond could more properly be phrased as "Is this flowchart a trap?" However, to follow this suggestion, you would need to actually have the marker that you are about to write instructions to go get. Thus, you must also add the instruction "get a marker" somewhere before the flowchart actually begins (before "START"), so that you actually have the marker by the time you get to the flowchart in the comic. And since you did not have a marker and could thus not write this way out, you are still trapped!
+Of course, the reader could disregard the algorithm, but this would break the conventions of following the flowchart. This is perhaps part the comic's purpose - to suggest that a problem cannot be solved from within the confines of its own conventions.
+Randall has made use of flowcharts before, and previously released another comic named 518: Flow Charts.
+Transcript[edit]
+[A flow chart is shown with two boxes and two arrows. The first box rectangular:]
+Start
+[From the first box there is a short arrow straight down to a diamond shaped box:]
+Hey, wait, this flowchart is a trap!
+[An arrow continues down below from the bottom corner of the diamond box, where there is labeled, and quickly it turns left (in the direction of the arrow), going out under the diamond and then turns left two more times to end up on the right corner of the same box where the arrow points back again.]
+Yes
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Assuming you've already started, it's too late to go get a marker. 76.106.251.87 07:05, 5 April 2013 (UTC)
+You can add the "get a marker" in that looping line too. -- Hkmaly (talk) 08:10, 5 April 2013 (UTC)
+If it is between the hours of 8:00 and 5:00, then I can escape, but that is only 37.5% of my day. Doomed, for all eternity. The solution proffered has the problem of the chicken and egg, how does one add get a marker if one does not have one. I like Hkmaly's idea... but proposes the additional questions of how: purchase, loot, or created. Each with their own rabbit trails to follow, ending in the pour house, prison, or crushed under the weight of the markers (mater being created?) But I feel there is a market to the other six billion inhabitants of earth that can be exploited. & Would Vulcans be more susceptible to entering into this loop than humans. 24.106.78.38 10:37, 5 April 2013 (UTC) Drifter
+Straw Vulcans would be, certainly. 76.106.251.87 15:54, 5 April 2013 (UTC)
+that's the idea, its a commentary about nuclear weapons. if just one person hides a 'marker' up his sleeve when the rest of us genuinely have none, we're all at his mercy. 193.60.97.30 08:52, 5 April 2013 (UTC)
+I think the currently provided explanation is not right. Randall wants us to get a marker BEFORE we get to 'start', hence the phrasing "between you and 'start'" (and not "between 'start' and 'Hey, wait, ...'"). That way when we get to the start, we already have a marker friend to aid us in our infinite quest. Or, perhaps, in other words, to stop being computerized sheep that follow set rules, but rather find an alternative solution ;) I'm new here, so I'll let somebody else edit the explanation if you deem it appropriate... Blue Charizard (talk) 13:49, 5 April 2013 (UTC)
+I thought that this is clearly correct, so I changed it even though I'm also new here. —TobyBartels (talk) 19:19, 7 April 2013 (UTC)
+Maybe Randall just wants us to change the algorithmic loop that we get into when we enter the flowchart and create a paradox to kill the Weeping Angels. Milar Kayne (talk) 14:24, 5 April 2013 (UTC)
+I was always taught to used lozenges for Start(s)/Stop(s). But YMMV. There are rectangles like above (lacking the curved sides) and small circles (without space for "Start" or "Stop", but contextualised with the uniquetous arrow-heads on each and every line). Also diamonds could be statements ("Check <foo> exists" -> Yes/No, or "<Foo> is.." -> A/B/C/... for multiple (2+?) exits), although that depends a lot on what style you're using, and I'm betting some would say it's deprecated. But don't mind me. 31.111.77.19 17:26, 5 April 2013 (UTC)
+After staring at the title text for a few minutes, I have another interpretation. You're already stuck in the loop. If there had been a box between "Start" and "Hey, wait" which said "Get marker", then you would have a marker already. If you suspend your logic for a moment to write the "Get marker", then afterwards your situation is self-consistent, because you already passed that point in the flowchart and you now have a marker with which you wrote it. (Well, sort of self-consistent.) ...Does that make sense to anyone besides me? Bplimley (talk) 05:07, 6 April 2013 (UTC)
+This is the correct explanation. Please put it into the page, replacing "there is no way to escape this loop". --Zverik
+I see three boxes in this XKCD comic (third is quarter hidden by logic). I thought that we were suppose to be learning how to think outside the box in school... - 50.143.22.159 12:11, 6 April 2013 (UTC)
+Perhaps the third box can be called life, should we really spend it paying outrageous prices for higher education? - 50.143.22.159 23:27, 6 April 2013 (UTC)
+I added a transcript using some flowchart markup that I find at FloMojo. (Past transcripts in this category have used a variety of methods.) —TobyBartels (talk) 19:19, 7 April 2013 (UTC)
+Guys, I've discovered a serious flaw in the proposed solution. I got a marker and drew the extra boxes, but then I scrolled the web page and reset the zoom level. I can't get the boxes to line up anymore! This is bad; I'd do it in Photoshop but I've already entered the loop! Halp! Excrubulent (talk) 05:34, 13 April 2013 (UTC)
+careful guys, there is potential for another infinite loop. apparently you need a box to make you get a marker. and you need a marker to make a box ... Peter (talk) 11:20, 17 July 2013 (UTC)
+Hang on, if you didn't have a marker to begin with, there would be no marker to draw the loop with, and therefore no loop to get stuck in. Right? 108.162.212.59 22:27, 14 November 2017 (UTC)
+Categories: All comicsComics from 2013Comics from AprilFriday comicsComics sharing nameFlowcharts

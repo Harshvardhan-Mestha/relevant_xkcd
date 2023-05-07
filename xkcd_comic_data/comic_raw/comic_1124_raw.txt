@@ -1,0 +1,34 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1124: Law of Drama
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1124)
+|<< PrevComic #1124 (October 22, 2012)Next >>|
+Law of Drama
+
+Title text: 'Drama' is just 'people being upset,' when someone says they're always surrounded by drama and they just ignore it, it starts to make sense that their strategy might be backfiring.
+Explanation[edit]
+The comic comments on how often people who label themselves as an innocent party in a debate are often far from it. Essentially, Randall seems to be graphically stating that people who claim to hate and want to avoid drama are invariably associated with it. Since correlation does not imply causation, it might be a leap — at least scientifically speaking — to actually surmise that they're the cause of it. The fact that merely postulating a rule without telling if the creator of the rule is causing or avoiding drama didn't cause much drama in this wiki might be a (albeit weak) clue that the claim might actually be correct.
+The title text suggests that the person's attitude towards drama is wrong. Supposing that "'Drama' is just 'people being upset'", then ignoring drama is a very bad way to deal with it. By ignoring people's problems, you certainly won't be able to help them, and are at risk of causing further problems through ignorance.
+Transcript[edit]
+[A Cartesian graph labeled 'How often someone declares that they hate "drama" and always avoid it' on the x-axis and 'Rate at which they create drama' labeled on the y-axis. The graph is a slightly exponential curve sloping upwards.]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Regarding the transcript: I don't think you have enough data to characterize this short curve as exponential. What does "slightly exponential" mean, anyway? In any case, it looks like it becomes linear as the x values increase. --Prooffreader (talk) 11:21, 22 October 2012 (UTC)
+It could be a shallow power function curve . . .--Joehammer79 (talk) 13:57, 22 October 2012 (UTC)
+Increasing, concave up. That's really the way to describe it. "Exponential" is a word used too widely by people who don't understand what it means. MGK (talk) 20:47, 22 October 2012 (UTC)
+I took 26 data points, assumed the axes defined a (0-1,0-1) window, and tried an extrapolation (using Microsoft Excel; someone with a different tool can surely do better). An exponential model fits fairly well: y = 0.0782 * e^(2.7035*x) with R^2 = 0.9928. However, I agree about the linear end section -- the exponential trendline clearly starts to pull high. --BigMal27 // 192.136.15.149 13:57, 22 October 2012 (UTC)
+I think Randall thought about the shape of this curve. You see how it becomes linear as both drama and anti-drama declaration increase? At low values, there is a residual amount of drama even when there is little anti-drama declaration, but the marginal increase eventually becomes constant. --Prooffreader (talk) 11:28, 22 October 2012 (UTC)
+I think that may be it. Care to add it to the page? Davidy22 (talk) 11:31, 22 October 2012 (UTC)
+I think that the upper limit for drama statements does indeed have an end-point, beyond which those declarations can't increase. At that point, I suppose, the drama-ridden person experiences a split state-change, either dropping to the original non-drama state by disavowing all the causers-of-drama in their lives, or by becoming a causer-of-drama.--Noni Mausa (talk) 13:11, 22 October 2012 (UTC)
+At this point in the discourse, I'm reminded of a real-scientist friend who admonished me once for reading too much into some data, and it seems applicable here, too. To wit: the axes are not labeled with units -- no tick marks to be seen anywhere -- nor is it clear what sort of axes are in use: log, logit, probit? Randall, not being the naïve sort, likely understands this, and merely shows us a graph that suggest a slightly accelerating direct relationship between the two axes. If the axes are linear, the curve has the characteristic upward swing of an exponential, but we don't know that, and any conjecture beyond observable facts is inappropriate. To leap to application of, say Levenberg-Marquardt, seems folly. (As an aside, I'm reminded of the old Benny Hill skit, where he's a movie director being interviewed on some talking-heads show; says the interviewer: "I particularly enjoyed the poignancy of suddenly switching to black and white film right as..." Benny Hill: "Rubbish, we just ran out of film, and black and white was all we had left.") -- IronyChef (talk) 14:23, 22 October 2012 (UTC)
+Sometimes the comments are better than the comic. This is one of those times :) -- The Cat Lady (talk) 22:07, 10 September 2021 (UTC)
+I was trying to figure out how the title text could make sense grammatically, but now I think it was just written in the form of a vague, 'dramatic', facebook post. Is it just me? Alanthecowboy (talk) 13:32, 23 October 2012 (UTC)
+As someone that has been through several drama classes, as well as a high school club, I've always found the phrases "causing drama" and "too much drama" to be really irritating. You can never have too much drama! (You can have too much comedy, though.) 76.122.5.96 19:41, 23 October 2012 (UTC)
+The title is probably influenced by the concept of dharma from Indian philosophy- the "natural law". 87.57.147.173 11:01, 27 October 2012 (UTC) mb
+If we can figure out who "They" are, we'll have this solved in a jiffy. David.windsor (talk) 21:36, 6 December 2013 (UTC)
+"They" are the independent, obviously and the "declaration" is of Independence, equally obviously. We, on the other hand, were quite alright without them and then some pricks with absolutely no hold on reality put Winston Churchill in power.
+Ho hum, 'twas ever thus! I used Google News BEFORE it was clickbait (talk) 15:28, 16 January 2015 (UTC)
+Just once I want to see or hear this sentence: "God I just feel like I'm always surrounded by so much drama, y'know? Guess that's what I get for working in a theatre!" - FlyingPiggy
+Categories: All comicsComics from 2012Comics from OctoberMonday comicsLine graphsPsychology

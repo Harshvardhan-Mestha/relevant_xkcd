@@ -1,0 +1,206 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1313: Regex Golf
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1313)
+|<< PrevComic #1313 (January 6, 2014)Next >>|
+Regex Golf
+
+Title text: /bu|[rn]t|[coy]e|[mtg]a|j|iso|n[hl]|[ae]d|lev|sh|[lnd]i|[po]o|ls/ matches the last names of elected US presidents but not their opponents.
+Explanation[edit]
+The comic talks about regular expressions, which are a way to specify textual patterns. Given a regular expression, one can search for the pattern it specifies inside a text string. If the pattern is found, it's said that the pattern "matches" the string; if it's not found, it's said it doesn't match.
+The title of the comic and the first panel is based on "regex golf", which is a discipline of "code golf", a game in which programmers attempt to solve a given programming problem using as few characters as possible, analogous to the number of golf shots it takes to reach the goal. In regex golfing, the programmer is given two sets of text fragments, and tries to write the shortest possible regular expression which would match all elements of one set, while at the same time not matching any element from the other set.
+The regex golf challenge Megan faces consists of matching all subtitles of (then extant) Star Wars films, while not matching any subtitle of Star Trek movies. Subtitles are the secondary titles of the movies, after the "Star Trek: " or "Star Wars Episode N: ". For example, in Star Wars Episode I: The Phantom Menace, the subtitle is The Phantom Menace. In the first panel, she created a 12-character regex solving the challenge.
+Then she moved on to building a tool which would automatically build such a regex for arbitrary lists of text, which could be described as meta- regex golfing. But as she has lost this tool, she needs to search through her files and chooses a tool called "grep" to find it. This implies that she needs a regular expression that would find any code that appears to be a regex golf generator, which leads to another "meta-" layer of abstraction. At the end, Megan notes this sequence of meta-meta-... might go to infinity and Cueball quips that she now has "infinite problems" as a result of her efforts; Megan retorts that she already had "infinite problems" because she's geeky enough to run meta-versions of programs on themselves, and stubborn enough to continue on until she fails, to the exclusion of all else. This also seems to be a reference to a famous quote by Jamie Zawinski (see also 1171: Perl Problems):
+Some people, when confronted with a problem, think "I know, I'll use regular expressions." Now they have two problems.
+Regular expressions[edit]
+The first regex Megan uses is /m | [tn]|b/, said to match Star Wars subtitles but not Star Trek.
+The forward slashes / just mark the start and end of the regex. The | character means "or", so the regex matches any string that contains the patterns "m ", " [tn]" or "b" (including the spaces). The square brackets match one of the enclosed characters, meaning that " [tn]" matches either " t" or " n". The regex is apparently case-insensitive, because it wouldn't work otherwise.
+The Star Wars subtitles match the parts of the regex in the following way:
+"The Phantom Menace" is matched by "m ".
+"Attack of the Clones" is matched by " [tn]".
+"Revenge of the Sith" is matched by " [tn]".
+"A New Hope" is matched by " [tn]".
+"The Empire Strikes Back" is matched by "b".
+"Return of the Jedi" is matched by " [tn]".
+Note that if the animated film "Star Wars: The Clone Wars" were included, it would not be matched by " [tn]" because the T is the start of the subtitle and is not preceded by a space. None of the "Star Wars:" films titles announced since this comic ("The Force Awakens", "The Last Jedi", and "The Rise of Skywalker") match this regex.
+On the other hand, none of the Star Trek subtitles contains an M followed by a space, a T or an N preceded by a space, or any B, so the regex does not match any of them. Note that in the original series all subtitles start with a "T" but it's the first character so it's not preceded by a space.
+Here is the list that Megan probably used:
+Original series:
+The Motion Picture
+The Wrath of Khan
+The Search For Spock
+The Voyage Home
+The Final Frontier
+The Undiscovered Country
+The Next Generation:
+Generations
+First Contact
+Insurrection
+Nemesis
+Reboot series:
+Into Darkness
+"Star Trek Beyond", which was released after this comic, would incorrectly match the regex since it is the first "Star Trek" title to contain a "b". However, since "Star Trek Into Darkness" and "Star Trek Beyond" both lack a colon in their titles, it is debatable whether they can truly be considered to have subtitles.
+In the last panel "and beyond" Megan uses the regular expression /(meta-)*regex golf/ to describe her problem. * means "zero or more" of the preceding character/group (parentheses () group characters). So this regex matches "regex golf", "meta-regex golf", "meta-meta-regex golf", etc. In a way this is regex golf in itself, matching all levels of meta-regex golf while not matching anything else.
+In the title text, there is a long regex that is the solution of another regex golf challenge: matching the last names of all elected US presidents but not their opponents. Note that the list of opponents include some people who were previously or later became presidents, or whose last name matches that of another person who was president, so taken literally this is impossible. To make this work the list of opponents must exclude any names of presidents. The regular expression itself works in a very similar way to the Star Wars/Trek one, including several different patterns separated by |. Each elected president matches one pattern while each opponent matches none.
+The regex does not match either of the presidents elected since the comic’s release ("Trump" and "Biden"), and thus would need to be updated. The regex does match Hillary Clinton's last name, but because a person with the same last name (Bill Clinton) was president, this does not count as a mistake. There was already a losing opponent called George Clinton who ran in 1792 and 1812.
+Here is a list of elected president and the patterns they match:
+Number President Matched expression
+1 George Washington sh
+2 John Adams [ae]d
+3 Thomas Jefferson j
+4 James Madison [mtg]a
+5 James Monroe [coy]e
+6 John Quincy Adams [ae]d
+7 Andrew Jackson j
+8 Martin Van Buren bu
+9 William Henry Harrison iso
+11 James K. Polk [po]o
+12 Zachary Taylor [mtg]a
+14 Franklin Pierce [coy]e
+15 James Buchanan bu
+16 Abraham Lincoln [lnd]i
+17 Andrew Johnson j
+18 Ulysses S. Grant [rn]t
+19 Rutherford B. Hayes [coy]e
+20 James A. Garfield [mtg]a
+22 Grover Cleveland lev
+23 Benjamin Harrison iso
+24 Grover Cleveland lev
+25 William McKinley n[hl]
+26 Theodore Roosevelt [po]o
+27 William Howard Taft [mtg]a
+28 Woodrow Wilson ls
+29 Warren G. Harding [lnd]i
+30 Calvin Coolidge [lnd]i
+31 Herbert Hoover [po]o
+32 Franklin D. Roosevelt [po]o
+33 Harry S. Truman [mtg]a
+34 Dwight D. Eisenhower n[hl]
+35 John F. Kennedy [ae]d
+36 Lyndon B. Johnson j
+37 Richard Nixon [lnd]i
+39 Jimmy Carter [rn]t
+40 Ronald Reagan [mtg]a
+41 George H. W. Bush bu
+42 Bill Clinton [rn]t
+43 George W. Bush bu
+44 Barack Obama [mtg]a
+Some presidents are missing because they weren't elected but became presidents after the resignation/death of their formers.
+And here is a list of how many unique last names are matched by each expression:
+Expression Match count
+bu 3
+[rn]t 3
+[coy]e 3
+[mtg]a 7
+j 3
+iso 1
+n[hl] 2
+[ae]d 2
+lev 1
+sh 1
+[lnd]i 4
+[po]o 3
+ls 1
+Randall's regular expression does not match presidential opponents Pinckney, King, Clay, Cass, Scott, Douglas, McClellan, Seymour, Greeley, Tilden, Hancock, Blaine, Bryan, Parker, Hughes, Cox, Davis, Smith, Landon, Willkie, Dewey, Stevenson, Goldwater, Humphrey, McGovern, Mondale, Dukakis, Dole, Gore, Kerry, McCain, or Romney. However, it must be modified slightly, because it does match John C. Fremont, the runner-up to James Buchanan in 1856, as discussed by Peter Norvig at xkcd 1313: Regex Golf. Note that Norvig provides a small amount of Python code which actually plays regex golf with arbitrary lists, and found a shorter solution than Randall's for the Star Wars vs Star Trek game (/ t|p.*e/).
+Transcript[edit]
+[Caption at top of panel:]
+Regex golf:
+[Megan is sitting at a laptop. Cueball is standing behind her.]
+Megan: You try to match one group but not the other.
+Megan: /m | [tn]|b/ matches Star Wars subtitles but not Star Trek.
+Cueball: Cool.
+[Caption at top of panel:]
+Meta-regex golf:
+[A close-up of Megan at her laptop.]
+Megan: So I wrote a program that plays regex golf with arbitrary lists...
+Cueball (offscreen): Uh oh...
+[Caption at top of panel:]
+Meta-meta-regex golf:
+[Megan typing at her laptop.]
+Megan: ...But I lost my code, so I'm grepping for files that look like regex golf solvers.
+[Cueball facepalming.]
+[Caption at top of panel:]
+...And beyond:
+[Another closeup of Megan at her laptop.]
+Megan: Really, this is all /(meta-)*regex golf/.
+Cueball: Now you have infinite problems.
+Megan: No, I had those already.
+Trivia[edit]
+There are now at least four comics that reference regular expressions. The other three are: 208: Regular Expressions, 224: Lisp, and 1171: Perl Problems.
+Additionally, regular expressions are mentioned in the title text of 1277: Ayn Random.
+A regular expression is used in the 75th post of what if? to calculate the answer to that week's question.
+Also, Randall mentions a website with a regexp golf game he got distracted by while researching for the 78th post of what if? (which was published one day after this comic).
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This is fairly simple fun little one.
+Regex is sort for regular expressions. A regular expression is a series of characters that denotes a search criteria. For example, you could write a regular expression that would search for anything that looks like an address (a la comic 208).
+Regex golf is a game in which you attempt to write a regular expression that will search through a list of items and bring back only those items that meet a certain criteria, but not anything else. The joke is that regular expressions are used to search text, but themselves are text strings. This means that you could write a regular expression that would look for another regular expression. You can then apply ad infinitum, and the universe implodes or something.
+--Holshy (talk) 05:40, 6 January 2014 (UTC)
+The last panel includes, of course, a regex "/(meta-)*regex golf/," which represents the phrase "regex golf" preceded by the phrase "meta-" up to infinite times.
+As a punchline, it also refers to Jamie Zawinski's well-known quote about regex,
+Some people, when confronted with a problem, think "I know, I'll use regular expressions." Now they have two problems.
+Thus, the punchline is that the addition of meta layers to regex golf generates more problems for the programmer, but that was also the setup of the comic. So either the punchline is really weak—worth a chuckle if you got the above two references—or I missed the joke. 199.27.128.63 06:22, 6 January 2014 (UTC)
+Could anybody comment on the first regex? Do I get it right that beyond others it will match all strings that contain a "b"? I can hardly believe that is not the case for any star trek subtitle... 173.245.53.194 06:54, 6 January 2014 (UTC)
+This is the case for all Star Trek Subtitles. Wikipedia's list of movies had no b. It'll match anything containing a word ending in m, any word beginning with n or t that is not the first word, or any word with a b. No Trek movies match. Oddly, so far as I can figure out, the regex in the first panel is wrong, in that it doesn't match the second Star Wars movie at all. And before you tell me prequels don't count, the sole purpose of "m " is to match The Phantom Menace.199.27.128.138 07:10, 6 January 2014 (UTC)
+Attack of[ t]he Clones (to be read plainly, not as a regular expression). 173.245.53.107 07:29, 6 January 2014 (UTC)
+Ah, I thought it was The Clone Wars. 199.27.128.138 15:36, 6 January 2014 (UTC)
+So, if I add an "e" to the "tn" and delete the "|b" I'm a better golf player than her? 108.162.212.194 08:23, 6 January 2014 (UTC)
+Or you could just move the "b" into the "tn" group. --11:08, 6 January 2014 (UTC)
+I got a sneak preview of this comic at about 6:34 EST...at first it appeared to be random text in a irc message, but with this comic it now makes sense to me. Verticalbar (talk) 09:31, 6 January 2014 (UTC)
+Regex golf (c.f. Perl golf) is a programming competition / is a pastime of finding regular expression that matches one set of strings while matching none of the other set. See for example http://regex.alf.nu --JakubNarebski (talk) 11:03, 6 January 2014 (UTC)
+The title text isn't exactly true... I haven't tried everything, but that regex doesn't match "gerald ford" at all. 199.27.128.109 11:23, 6 January 2014 (UTC)
+Gerald Ford wasn't elected, he became President following Nixon's resignation.
+173.245.52.209 12:12, 6 January 2014 (UTC)
+Inspired by regex.alf.nu, a reader built a page where the objective is to make a regular expression to match all Star Wars and no Star Trek: http://zegnat.github.io/xkcd1313/. 173.245.53.127 14:00, 6 January 2014 (UTC)
+I added a list of all US elected presidents and the part of the title regex they match. I used a python script to generate it, with input from here, then I removed all presidents that do not match after finding they really weren't elected. There may still be superflous ones, that weren't elected but do match the regex, please check. 173.245.49.64 14:29, 6 January 2014 (UTC)
+Does anyone understand the final "No, I had those already"? Is it a reference to regexes in some way or could it be something like that there are infinite problems in life, even when not doing (Meta-)*-Regexes? --173.245.53.199 20:32, 6 January 2014 (UTC)
+
+According to Peter Norvig (Director of research at google), one of the Regular Expression of Randall is wrong as demonstrated here : http://nbviewer.ipython.org/url/norvig.com/ipython/xkcd1313.ipynb Mbussonn (talk) 20:47, 6 January 2014 (UTC)
+It's happening. --173.245.53.153 11:39, 7 January 2014 (UTC)
+"No one wins at [^ ]+ golf." 141.101.98.209 09:50, 7 January 2014 (UTC)
+Gee, would that be "No one wins at \S+ golf."? IronyChef (talk) 23:57, 9 January 2014 (UTC)
+Why does this say that it is Case Sensitive. As far as I can tell it would not work if that were true.108.162.219.59 02:28, 7 February 2014 (UTC)
+"Note that if one included the animated film “Star Wars: The Clone Wars” it would be matched by “ [tn]”." - I don't see how this is true, since the T is at the beginning of the subtitle. If this matched, then surely so would all of the original series Star Trek films. 141.101.99.41 (talk) (please sign your comments with ~~~~)
+"I got infinite problems and a bitch ain,t one" 15:50, 29 August 2014 (UTC) 173.245.56.191 (talk) (please sign your comments with ~~~~)
+Looks like the algorithm is a bit outdated. It fails to match The Force Awakens but matches Beyond--108.162.212.51 17:57, 5 September 2015 (UTC)
+For the 2016 election, the regex predicts that a Democrat (either) will beat Donald Trump, who will win the Republican primaries. 141.101.106.233 (talk) (please sign your comments with ~~~~)
+I like that linked article, even though I'm not really into programming. Just noticed Norvig misspells Randall's last name as Monroe instead of Munroe. 108.162.237.71 03:42, 15 March 2016 (UTC)
+How would Trump work with this? EDIT: Hillary works but Trump doesn't. 162.158.75.73 00:23, 14 November 2016 (UTC)
+
+The article says that the Presidents Regex is now impossible to update after Trump's win over Hillary. However, if Hillary were to win in a future election, it would work again as per the rule stated above the list, wouldn't it? --162.158.91.35 09:26, 3 April 2017 (UTC)
+This isn't true either - there was already a presidential loser whose surname was Clinton (DeWitt Clinton, 1812). So presumably Hillary Clinton is likewise not considered in terms of regex eligibility. --172.68.132.59 23:05, 13 April 2017 (UTC)
+For the Star Wars/Star Trek golf, including the new films, I've got /m | [tn]|ba|a[sw]/. Can anyone do better? -- Misterblue28 (talk) (please sign your comments with ~~~~)
+Including Star Wars films up to The Rise of Skywalker, I get /ke|a.t.|n.*h/. --172.69.63.47 20:46, 20 May 2019 (UTC)
+Does this work for Trump v Hillary? 162.158.154.103 (talk) (please sign your comments with ~~~~)
+I was just wondering the same thing. Pretty sure it's now literally impossible, since you'd have to both match AND exclude "Clinton". 162.158.75.88 13:15, 2 October 2018 (UTC)
+Regex golf with transcript[edit]
+So I decided to play regex golf with the transcript (after learning regex) and it was kinda fun. Here's my list of lines to match:
+[Megan is sitting at a laptop. Cueball is standing behind her.]
+Megan: /m | [tn]|b/ matches Star Wars subtitles but not Star Trek.
+[A close-up of Megan at her laptop.]
+Cueball (offscreen): Uh oh...
+[Megan typing at her laptop.]
+[Cueball facepalming.]
+[Another closeup of Megan at her laptop.]
+Cueball: Now you have infinite problems.
+
+Here's my list of lines not to match:
+Regex golf:
+Megan: You try to match one group but not the other.
+Cueball: Cool.
+Meta-regex golf:
+Megan: So I wrote a program that plays regex golf with arbitrary lists...
+Meta-meta-regex golf:
+Megan: ...But I lost my code, so I'm grepping for files that look like regex golf solvers.
+...And beyond:
+Megan: Really, this is all /(meta-)*regex golf/.
+Megan: No, I had those already.
+And here's my (very bad) regex. \[|ms|h\. (Hey, I learned yesterday)162.158.255.34 16:40, 17 October 2019 (UTC)
+Wanted to drop this hairball from earlier:
+   \/\/([^\n]|\\\n?)*$(?<!\\$)|\/\*(([^\/*]|\*(?!\/))*)\*\/
+PoolloverNathan[stalk the blue seas]
+U•T•S•c
+17:29, 4 November 2022 (UTC)
+Categories: All comicsComics from 2014Comics from JanuaryMonday comicsComics featuring CueballComics featuring MeganRegexStar Trek

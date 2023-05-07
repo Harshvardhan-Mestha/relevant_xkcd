@@ -1,0 +1,71 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1275: int(pi)
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1275)
+|<< PrevComic #1275 (October 9, 2013)Next >>|
+int(pi)
+
+Title text: If replacing all the '3's doesn't fix your code, remove the 4s, too, with 'ceiling(pi) / floor(pi) * pi * r^floor(pi)'. Mmm, floor pie.
+Explanation[edit]
+This comic purports to provide a tip to programmers, that the number "3" is cursed and shouldn't be used. There is no explanation given as to why the number 3 is cursed, and it could well have been chosen arbitrarily. The title text hints that the consequence for using the cursed number is non-functioning code, a pain for any programmer. The absurdity of the number 3 somehow being cursed is part of the humor.
+To assist the programmer, the comic gives an example of how to avoid the use of the number 3, by using a slightly convoluted method of using int(pi), which means the integer part of pi, without the fractional part. Pi, an irrational number, has a value starting 3.14159..., making int(pi) equal to 3. This is demonstrated in a formula to calculate the volume of a sphere, normally (4/3)*pi*(r^3), but converted for avoidance of the number 3 to (4/int(pi))*pi*(r^int(pi)).
+For a number of reasons it is a good programming practice to use variables and constants where a value is used in multiple places, however this is not typically used in the case of natural numbers. There are unusual situations where this type of programming is a valid method, however typically for more specific circumstances, and not a certain number being seen as cursed.
+In the title text, Randall takes the joke a step further, suggesting the usage of floor and ceiling functions: ceiling(pi) would be pi rounded up to the next integer, which is 4; and floor(pi) is pi rounded down to the next integer, which is 3. (Note that int(n) and floor(n) have the same value when n is greater than or equal to zero. For values less than zero, int(n) is equal to ceiling(n).)
+The joke here plays on the fact that basic rules of programming are confusing and novice programmers are often told to simply not do certain things without any explanation (see 292: goto). This includes, in particular, a general proscription against "magic numbers" in the code. Replacing all significant magic numbers with named constants makes programs easier to read, understand and maintain. Randall takes this to an extreme by suggesting that certain numbers could be inherently problematic, but the general idea is perfectly believable.
+Mmm... Floor pie. is a reference to The Simpsons.
+See also Cargo cult programming.
+Transcript[edit]
+[Inside a frame a formula is shown:]
+volume(r) = (4/int(pi))*pi*r^int(pi)
+[Caption below the frame:]
+Programming Tip: The number "3" is cursed. Avoid it.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The math part of it went way over my head (Thank you Explain xkcd for clarifying.) The only thing I really laughed at was "floor pie". Although I didn't think of Homer Simpson.72.193.171.120 14:55, 10 October 2013 (UTC)
+Well, I get the int(Pi) thing, but what's with avoiding 3's? 95.35.58.168 05:10, 9 October 2013 (UTC)
+What is "floor pie"? --JakubNarebski (talk) 05:31, 9 October 2013 (UTC)
+reminds me of weebl‘s „hmm pie!“, but I think the homer-thing is correct. --Quoti (talk) 18:42, 9 October 2013 (UTC)
+I thought this was a reference to Bleem and reminds me of comic 899. Saibot84 06:17, 9 October 2013 (UTC)
+So is bleem related to (the same as) umpt? Umpt being a number between 3 and 4, found by The Bursar in Science of the Discworld, it is much more frequently used in the form where ten is added to the number, i.e. umpteen. 64.40.54.39 18:11, 10 October 2013 (UTC)
+Prudent mathematicians just refer to it as "The Scottish Number". Dr Pepper (talk) 06:58, 9 October 2013 (UTC) Dr Pepper
+Ha! Now I understand the real reason for the subtitle to Mendelssohn's third symphony. Opusthepenguin (talk) 16:30, 28 October 2013 (UTC)
+I can give you one rational reason for spelling out things like INT(PI) in programming. Back in the ancient times, there was a piece of electronics dubbed then a personal computer with an NSA code name of ZXSPECTRUM. It had a built-in interpreter of the ancient language codenamed BASIC. Memory was very precious in those times, every single byte counted. The creators of the interpreter did a (somewhat) clever thing - all keywords of this particular dialect of the BASIC language were stored in memory as single-byte codes, and were only spelled out by text display routines. On the other hand, CPU cycles were precious, too, so they did another (not so) clever thing by storing number constants (like the cursed number mentioned above) twofold - both in an ASCII decimal form for display purposes and in a 6-byte internal binary form for computing purposes. Therefore each number occupied the space of six bytes plus the number of digits (or other characters like sign, decimal point, etc.) BASIC hackers exploited this (mis)features to save a few bytes on some commonly-used constants by saying INT PI (parentheses were not needed), NOT PI (to get 0) or SGN PI (to get 1), thus using only 2 bytes of memory instead of 7 if the numbers were used directly. Another trick to use with larger numbers was VAL "12345", which saved 3 bytes for each number spelled this way (number of digits plus three bytes for the VAL keyword and two quote marks instead of number of digits plus six bytes of internal representation). 89.174.214.74 08:43, 9 October 2013 (UTC)
+Actually the internal binary form of the number was 5 bytes, but there was a special prefix byte used for two purposes, a) when listing the program the text display routines would simply skip the six bytes b) when a digit character was encountered at run time, the prefix byte was located instead of parsing the number again. It was even possible to patch the source code to replace all the digits with a single decimal point because the syntax wasn't checked at runtime. Also the trick was originally used with the ZX81 as it was slower and had less memory. I don't think the sign was stored with the number though, as that would have caused confusion with the unary minus operator. (All of the space-saving tricks mentioned above would slow the program down, of course. Even PI had to be calculated as internally the ZX81/Spectrum only knew the value of π/2.) --81.138.95.57 10:43, 9 October 2013 (UTC)
+Actual line of code from a commercially released ZX Spectrum game: (Cricket Captain, D&H Games, 1988)
+1426 PRINT AT VAL "21",NOT PI;"Your bid has been accepted": LET YP=YP+SGN PI: LET Y$(YP)=P$(SC,N(M(SC,KK))): LET RZ=N(M(SC,KK)): FOR Z=SGN PI TO INT PI: GO SUB VAL "9002"+Z:LET Y(YP,Z)=BZ: NEXT Z: FOR Z=VAL "4" TO VAL "6": GO SUB VAL "8996"+Z: LET Y(YP,Z)=BZ: NEXT Z: LET MO=MO-VAL Z$: GO SUB VAL "995"
+shudder 141.101.98.202 21:28, 25 October 2017 (UTC)
+I suspect in many languages 4/INT(pi) is 1 (as it does integer division) 193.34.186.165 08:51, 9 October 2013 (UTC)
+This is true in C and python and many others. I think it is standard.96.251.85.48 18:18, 9 October 2013 (UTC)
+It's not true in Python. If you want integer division, you have to use //. With just a single slash, you get float division in 3.0 and later, and whether you get integer or float division in 2.7 depends on the state of a __future__ flag. 199.27.130.180 17:34, 22 September 2015 (UTC)
+
+Why is the number 3 cursed? 109.90.202.41 18:15, 9 October 2013 (UTC)
+I don't remember all the details, but it involves Alan Turing and an ancient vampire.96.251.85.48 18:18, 9 October 2013 (UTC)
+Randall is just joking about the rule that values used often should be defined as a constant. So he just shows us how to use the constant Pi. In general you would define a constant THREE=3 instead of this Pi calculations.--Dgbrt (talk) 19:44, 9 October 2013 (UTC)
+Instead of adding a constant you could just redifine Pi. 46.122.128.93 00:03, 10 October 2013 (UTC)
+I'm surprised the equation doesn't use getRandomNumber(), since it is guaranteed to be 4 in comic #221 108.252.249.9 19:24, 9 October 2013 (UTC)
+Can anyone identify the programming language? It appears to be a function, but in programming, integers divide with integer division, which would make the 4/3 a 1. Also, the ^ character often doesn't usually do exponents. Usually it's the XOR command.75.69.96.225 21:29, 9 October 2013 (UTC)
+That's also how I understood the joke. The (newbie) programmer noticed that the code didn't work when 4/3 was used in the code (because that returns an integer division), so he/she tried replacing it by floor(PI) which returns a double and generates slightly better solutions. He doesn't understand why it would make a difference, so he concludes the number 3 must be cursed or something. Since the code still doesn't work, he desperately tries changing 4 by ceil(PI) as well, but the real problem is ^ which doesn't mean power but xor. The code he or she is working on is most likely C++ or Java. Frankly, I don't think magic numbers have anything to do with the joke. 213.251.189.203 22:10, 9 October 2013 (UTC)
+(Edit conflict? But the conflicted code's timestamp indicates somebody's clock is wrong. Anyhoo...) It's one of those programming languages from the XKCD universe, where reserved words and functions are overwhelmingly defined in ALLCAPS rather than alllower (or possibly one or other camelCase variations) that we'd expect to see almost anywhere in code or pseudo-code, this side of the hay-day for either BASIC or COBOL.
+(Actually... oooh, it's been a while, but add a "DEFFN" in front of it and maybe it could actually be one or other flavour of BASIC, from the early eighties, what with the function-name and "one parameter, which is 'R'" feature to the code-snippet. I'm sure "^" was used for power (rather than "**" or a "POWER(x%,y%)" function) and "XOR" for both actual bitwise and logical 'xor'ing, in BBC BASIC... BICBW.) 178.98.212.190 22:26, 9 October 2013 (UTC)
+Anybody want to clarify the "because it is used more than one time" bit? There needn't be a reason for 3 to be cursed, nor the 4, and a few lines later we are told that new programmers are told to do things without being told the reason. Gardnertoo (talk) 12:29, 15 October 2013 (UTC)
+I did some rework, and I think "without being told the reason" rules belong to many other parts in education.--Dgbrt (talk) 18:15, 15 October 2013 (UTC)
+
+Are we sure that explanation is correct? I think the reason is because 1/3 + 1/3 + 1/3 does not equal 1 thanks to the poor implementation of programming languages. Thus using 3 in math operations usually ends with different results that expected. 173.245.53.145 (talk) (please sign your comments with ~~~~)
+1/9=0.111... -> so 9x1/9=9x0.111... -> and finally we have 1=0.999... See more here: 0.999...--Dgbrt (talk) 23:31, 4 November 2013 (UTC)
+I've rewritten and hacked about quite a large part of the explanation, for the following reasons:
+Grammar and sentence readability was lacking
+Claiming that the number 3 was cursed "because it is used more than one time at the original equation", when there is no reason given for the number 3 being cursed
+Said that instead there "should be a constant defined like "THREE=3"", which isn't the workaround used in the comic (And violates the 'don't use 3' rule at least once)
+I hope the resulting explanation is a little more closely linked to the actual comic, and makes a bit more sense --Pudder (talk) 11:18, 22 October 2014 (UTC)
+
+I have heard that in several placed the number three is unlucky. Firstly, the number of the beast - 666 - is three sixes and a multiple of three. Secondly the superstition of Three on a Match. 141.101.98.237 18:34, 4 January 2015 (UTC)
+Could have something to do with 0,1,n... though i suppose that would make the forbidden number '2'. 108.162.216.172 06:19, 23 August 2015 (UTC)
+In CLC-INTERCAL, if you use the default/example library, 3 is the only constant you can't overload (unless you first redefine or abstain various seemingly unrelated things). Also, the slat operator is for operand overloading, and the sharkfin operator is for unary add without carry; I don't know why anyone would think they're for division and power or xor. 199.27.130.180 17:59, 22 September 2015 (UTC)
+
+What programming language is it? 172.71.158.230 (talk) 00:53, 15 March 2023 (please sign your comments with ~~~~)
+Might be pseudocode. But I imagine there are a number of possible 'real' codings it could be.
+Ignore case restraints, it being xkcd all-uppercase (whether Caps or SmallCaps). Much of the statement is typical of most languages with 'normal' mathematical operands (rule out LISP and Forth, for Polish/Reverse Polish notation). There are many computer languages that assign values with "=" (as opposed to ":=", e.g. those in the Pascal family), so only partly helps. Though it looks a bit like a function-definition such as found in BASIC (should have DEFFN keyword, in the version I used), perhaps it's assigning the calculation to array-item 'R' in a language that uses ()s for array-indexing. Or it could even be a Fortran-dialect masked array on the LHS of the assignment.
+Easier to say what it isn't, I suspect. 172.71.178.65 03:42, 15 March 2023 (UTC)
+Categories: All comicsComics from 2013Comics from OctoberWednesday comicsProgrammingGeometryComics featuring cursed items

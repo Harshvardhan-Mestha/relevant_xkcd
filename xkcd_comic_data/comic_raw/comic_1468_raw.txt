@@ -1,0 +1,79 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1468: Worrying
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1468)
+|<< PrevComic #1468 (January 2, 2015)Next >>|
+Worrying
+
+Title text: If the breaking news is about an event at a hospital or a lab, move it all the way over to the right.
+Explanation[edit]
+This chart is a visual representation of how worried people should be by various events in real life compared to the same events in movies, based on the likelihood of the event causing serious harm. In effect, it's poking fun at various cliches and the emphasis on dramatic flair, regardless of realism. The chart's Y-axis indicates how worrying an event is in real life (from "not very worried" to "very worried"), while its X-axis shows how worrying the event is in movies. Nine events are shown in the chart, all of them cliches in the medium of film:
+Spilling a drink on your shirt: In both real life and in movies, this just causes a stain and maybe a little embarrassment.
+Nosebleed: Nosebleeds are common in real life, as they can result from even a mild impact to the face, or even dried out sinuses. There are some conditions where nosebleeds can indicate something more serious (such as a stroke, or radiation poisoning), but those are vastly outnumbered by bleeds that are relatively harmless. Unless there's a reason to believe that a nosebleed is connected to something else, they rarely even require medical attention. Nosebleeds in movies are almost always a sign that something is seriously wrong - the common, mundane nosebleeds almost never come up.
+Breaking news: People in real life commonly don't pay much attention to the news at all, so many breaking stories go unnoticed until much later. Most breaking news stories are also about non-threatening events (e.g. presidential addresses) or events that are far removed from the viewer. However, in movies, "breaking news" broadcasts are almost always a means to introduce a significant plot element which directly impact the protagonists, and are usually very serious events. XKCD has referenced news reports as foreshadowing before.
+Parking ticket: Tickets in movies are almost always ignored, but in real life, they are moderately worrying because they cost money and can tarnish your driving record.
+Persistent cough: In real life, coughing fits can be a sign of serious illness, and are worth having checked out, but the large majority of them indicate only minor and common illnesses. In movies, just like with nosebleeds, a persistent cough almost always indicates a potentially deadly disease.
+"We need to talk.": This phrase is a common, stereotypical lead-in to a serious conversation, usually about a couple's relationship status. In real life, as in the movies, prefacing a conversation with that phrase indicate that something serious, and possibly very upsetting, is about to be discussed. such conversations are rarely deadly, but are often upsetting.
+Getting knocked out by a punch: In movies, a character who is knocked out by a punch always wakes up sometime later with no lasting effects, making it less cause for concern than a spilled drink. In real life, being rendered unconscious by a physical impact is extremely serious, it can result in a variety of permanent impacts, up to and including brain damage and even death.
+Chest wounds: The chart mentions wounds on both your right and left sides. In real life, a chest wound to either side is extremely worrying. But in movies, getting wounded on the right side of the chest will rarely deal lasting damage to the hero or primary villain, to show how badass they are. Wounds on the left side of the chest generally signify swift death. This is likely due to the common misconception that the heart is on the left side of the chest - it is actually in the center, with a slight tendency to the left. However, even left-side chest wounds in movies are apparently still less worrisome than coughs and nosebleeds. It must also be noted that the term "chest wound" is broader than what the author of the comic appears to mean. More narrow terms of "thoracic gunshot wound", "gunshot chest wound", "thoracic ballistic trauma" or "penetrating chest wound" (the latter is slightly broader and includes the damage inflicted by blades and other impaled objects) would be more appropriate because just a "chest wound" includes such insignificant events as minor skin cuts in the chest area.
+The title text expands on the aforementioned breaking news reports. While already overly worrying whenever they occur in movies compared to real life, should the movie's news report cover an event at a hospital (usually an outbreak of some major disease) or a laboratory (a monster escaping, a toxic gas released, an explosion, etc.), these events are universally much more worrisome than any other type of news story since they are guaranteed to be important for the protagonists in short order. In real life, breaking news from such locations may be more likely to be serious, but are still very unlikely to impact the viewer directly.
+Table[edit]
+The comic shows an X-Y plot of events, showing how worried you should be in real life on the vertical axis and in movies on the horizontal axis. Each axis goes from "not very worried" to "very worried".
+Below is a table listing the coordinates for each event according to how worrying it is. The coordinates have been found by measuring each dot to the two axises and then assuming that the extremes are at 100%.
+Note that this gives two possible ways to interpret the Y-axis "In real life" coordinate.
+Either chest wound is at 100% - this is the first Y-axis coordinate given below under "In real life".
+But alternatively it could be the most worrisome event overall that should be set to 100% including also the most worrisome event on the X-axis for "In movies". In this case, the nosebleed event sets the 100% bar higher, thus lowering the percentage for the "In real life" events. Either way could be argued, and thus this other coordinate is given as In Real Life vs. Nose Bleed (IRL vs. NB).
+For the "In movies" coordinate nosebleed is at 100%. However, since nosebleed is located past the end of the x-axis arrow it could be argued that it is this event that is off the chart in the movies. But this table will assume this as the 100% mark either overall or at least for the X-axis for "In Movies".
+In real life IRL vs. NB In movies Event
+100% 73% 30% Chest wound on your right side
+100% 73% 80% Chest wound on your left side
+81% 59% 9% Getting knocked out by a punch
+75% 55% 62% "We need to talk."
+51% 37% 90% Persistent cough
+28% 20% 8% Parking ticket
+24% 18% 74% Breaking news
+12% 8% 11% Spilling a drink on your shirt
+11% 8% 100% Nosebleed
+Transcript[edit]
+How worried should you be when various things happen to you:
+[A chart with a scatter plot on which 9 dots are labeled. Each axis has a title and a scale. Reading from the top to the bottom and then left to right along the axis are:]
+Very worried
+...In Real Life
+Not very worried
+Not very worried
+...In Movies
+Very worried
+[The labels in the chart from the top:]
+[This first entry is standing in the middle of a square bracket that points to the two next entires both of which are at the same level:]
+Chest wound
+...on your right side
+...on your left side
+Getting knocked out by a punch
+"We need to talk."
+Persistent cough
+Parking ticket
+Breaking news
+Spilling a drink on your shirt
+Nosebleed
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+My first transcript and more-or-less complete explanation. :) Hope I'm not stealing anyone's thunder... KieferSkunk (talk) 07:45, 2 January 2015 (UTC)
+The original "transcript" is more like another explanation. It should be changed. Try to see one for another chart comic. Kynde (talk) 13:32, 2 January 2015 (UTC)
+I have now made the changes my self and created the table under the explanation --Kynde (talk) 13:32, 12 January 2015 (UTC)
+Breaking news being important in movies had already been discussed in xkcd #1387
+http://xkcd.com/1387/
+173.245.49.128 09:27, 2 January 2015 (UTC)
+"Being in the same vicinity as oranges" should be way right on the "Very worried" axis for movies because of The Godfather. 173.245.56.206 (talk) (please sign your comments with ~~~~)
+The heart has 2 atria, one on each side. The wound to the left side of the chest is considered worse because the left ventricle so more of the heart is on the left side 108.162.215.78 (talk) (please sign your comments with ~~~~)
+
+One of the most serious movie situations is entering a bathroom. Mark31415926 (talk) 03:13, 3 January 2015 (UTC)
+Like the movie Cast-Away? Can't even take a pee without a jet engine soon sucking in seawater and exploding near you. 108.162.215.94 09:03, 3 January 2015 (UTC)
+
+I'm pretty sure the nosebleed thing is a reference to The Ring. 108.162.212.106 22:13, 12 September 2015 (UTC)
+I'm of the opinion that nosebleed as something to be worried about is pretty universal in movies. In animes, though, it's just a sign that there are attractive people nearby... 188.114.99.189 22:53, 4 December 2015 (UTC)
+Attila the Hun is traditionally supposed to have died of a nosebleed. Gmcgath (talk) 21:53, 30 October 2016 (UTC)
+I saw an imgur image a few months ago of a blood clot pulled out of an elderly gentleman administered to hospital with trouble breathing. The blood supply was from a nosebleed. To understand how serious this actually was - the clot formed a very detailed map of the inside of his lungs... 162.158.91.125 14:44, 19 November 2018 (UTC)
+     That is both interesting and disgusting at the same time.
+Categories: All comicsComics from 2015Comics from JanuaryFriday comicsScatter plotsRankings

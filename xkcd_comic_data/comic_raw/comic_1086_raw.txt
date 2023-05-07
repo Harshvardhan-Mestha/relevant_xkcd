@@ -1,0 +1,159 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1086: Eyelash Wish Log
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1086)
+|<< PrevComic #1086 (July 25, 2012)Next >>|
+Eyelash Wish Log
+
+Title text: Ooh, another one. Uh... the ability to alter any coefficients of friction at will during sporting events.
+Explanation[edit]
+This comic is based on a common superstition that when someone's eyelash falls out, that person can make a wish on it. This comic appears to be a page from the fictitious Wish Bureau in charge of granting said wishes. And of course the wisher is Black Hat and he has quite a few wishes, most of them based on the previous wish. A common trope in fiction is that wishing for more wishes is prohibited and for many of his wishes Black Hat attempts to circumvent that.
+Later, in 2741: Wish Interpretation, Black Hat again gets a chance for making a wish, where the rules are discussed by the Genie that will grant him a wish.
+January 9
+That wishing on eyelashes worked
+This wish is pointless. If wishing on eyelashes worked, then this would do absolutely nothing (because it already works) and if it didn't then nothing would happen because wishing on eyelashes wouldn't work.
+January 12
+A pony
+This wish functions as a test to see whether or not previous wish worked. It can be assumed that it did, as Black Hat then continued to make additional wishes. Wishing for a pony is a stereotypical wish made by very young girls; since Black Hat is an adult man (with a very dark sense of humor), the contrast is humorous.
+January 15
+Unlimited wishes
+This appears to have failed, due to the traditional ban on wishing for additional wishes in conventional folklore.
+January 19
+Revocation of rules prohibiting unlimited wishes
+An attempt to circumvent the ban in the previous wish by wishing the ban away.
+January 20
+A finite but arbitrarily large number of wishes
+Another attempt to circumvent the ban on unlimited wishes by asking for a number of wishes that is limited, but as large as he likes (and there are some very large finite numbers out there, such as Graham's number).
+January 28
+The power to dictate the rules governing wishes
+Yet another attempt to circumvent the ban on unlimited wishes.
+February 5
+Unlimited eyelashes
+This wish likely caused Black Hat to grow unlimited eyelashes, which could be quite inconvenient and painful. And, yes, one more attempt to circumvent the ban on unlimited wishes.
+Alternatively, perhaps the eyelashes were provided to him already fallen out so that he could not use them for wishes.
+February 6
+That wish-granting entities be required to interpret wishes in accordance with the intent of the wisher
+This wish is likely a response to the previous day's misguided wish. It's actually quite a common problem that people making wishes leave them open for misinterpretation.
+February 8
+That wish-granting entities be incapable of impatience
+An attempt to prevent whatever being is powerful enough to grant wishes from becoming angry with Black Hat while he gives very specific instructions so wish-granting entities cannot misinterpret what he said. (It would appear that the previous wish failed.)
+February 12 #1
+Unlimited breadsticks
+The first wish of this day seems to be a reference to the unlimited breadsticks offered at Olive Garden.
+February 12 #2
+Veto power over others' wishes
+A power that could be interesting to have. It also very much fits with Black Hat's character.
+February 19
+Veto power over others' wishes and all congressional legislation
+An improvement of the previous wish. This would be very interesting to have indeed, especially if you are Black Hat, because you could veto any federal law, a power normally entrusted only to the President of the United States.
+February 23
+The power to override any veto
+This wish would allow Black Hat to override vetoes which in addition to the previous wish would effectively make him control the US legislature and, to some extent, also all other governing bodies. (Notably the UN, where the veto powers wielded by the five permanent members of the Security Council cannot be overridden and can have large impacts on global politics.) Note that it will not allow him to turn laws off (veto them) and on again (override the veto) at any moment, as once a bill becomes law it cannot be vetoed. Without the ability to propose legislation, Black Hat's powers are still limited. The wish may also refer back to the February 19 wish: by granting himself veto power over wishes, Black Hat just made vetoes more powerful than wishes; now he is trying to control other people's vetoes as well, lest they one-up him.
+February 27
+The power to see where any shortened URL goes without clicking
+This wish relates to a common practice especially in tweets or other short length media where full-length meaningful web addresses such as www.somewhere.com/articles/specificdate/title-of-the-page.html would not be feasible. So a more compressed but nonsensical string of seemingly random characters is used which links to a link of the full text address. This creates some problems for people who are security or privacy conscious and prefer to be informed beforehand where they will be traveling on the Internet. The use of shortened URLs is also central to many types of trolls or practical jokes (see bit.ly/IqT6zt for an example), by directing someone to a different location than the link would initially suggest. Thus Black Hat might be wishing to be able to tell where the links go for the purpose of avoiding this sort of trolling.
+February 29
+The power to control the direction news anchors are looking while they talk
+This wish likely appeals to Black Hat's mischievous side, allowing him to cause news anchors to look at the wrong camera during live broadcast. Repeatedly switching to the incorrect camera would cause havoc in the studio. Additionally, Black Hat may also attempt to get a news anchor fired by having them stare where they should not.
+March 7
+The power to introduce arbitrary error into Nate Silver's predictions
+A reference to Nate Silver, who is a former writer for Baseball Prospectus working on predicting baseball players' stats and now writes for Five Thirty Eight in which he predicts the outcome of elections based on polling data. Influencing Nate Silver's predictions would allow Black Hat to indirectly influence the result of elections, by adjusting the Overton window of which candidates and policies are considered to have "broad public support" or "electability" or the like. This would tighten the Black Hat's control of the US even more.
+March 15
+A house of stairs
+This wish refers to the lithograph House of Stairs by M. C. Escher, or perhaps another of his lithographs, Relativity.
+March 23
+A universe which is a replica of this one sans rules against meta-wishes
+Another attempt to circumvent the rules against wishing for more wishes by creating a parallel universe without such rules.
+March 29
+Free transportation to and from that universe
+While the previous wish may have worked, Black Hat notes a problem with it: he is still in our universe with no way to get to his new one.
+April 2
+A clear explanation of how wish rules are structured and enforced
+It appears that one or both of the previous two wishes failed, so Black Hat tries to discover exactly what is offending the Bureau. Having clear rules and how they work helps anyone finding loopholes in them.
+April 7
+The power to banish people into the TV show they are talking about
+Black hat is obviously fed up of hearing people talking about certain TV shows, and would like to be able to banish them into the show, thus prevent him having to listen to those people. Depending on the show in question, it could be quite horrifying for the person getting banished.
+April 8
+Zero wishes
+An attempt to hack the wish-granting system by using a quite common vulnerability in input validation: an unexpected value. There may be multiple vectors this can work:
+in many computer systems, 0 is reserved for unlimited or undefined
+in Assembly languages, do-while loops are more efficient than while loops, but famously do not check their condition on the first iteration. This means that 0 is effectively 256 for 8 bit counters, 65536 for 16 bits, etc. If the wish granter wrote the wish laws in assembly and used this optimization, initializing the wish count to zero would give him a large number of wishes dependent on the size of the counter.
+the number may be used as a divisor in some equation and this will make the system divide by zero and probably crash
+there also may be an assertion like "number of wishes granted == 1" which would fail, again crashing the system
+similarly, if viewed as a computer system, it is possible that the wish decrement (subtracting 1 from the number of remaining wishes) is performed after the wish is granted, thus resulting in either −1 wishes (another common placeholder for unlimited numbers), or an integer overflow if the wish counter is stored as an unsigned integer; the overflow can result in an exception, otherwise −1 becomes represented as one less than the size of the integer – basically, an extremely large number.
+However it seems the eyelash wish-granting system does proper input validation on zero because it did not crash or grant unlimited wishes
+This wish may also be a reversal of the January 9 wish. Black Hat is attempting to win his game by introducing a logical contradiction: if he gets "zero wishes", this is one wish granted; however, if it is not granted, then, de facto, he will have been granted zero wishes. This is a common technique used in logical proofs to show that an earlier assumption does not hold (in this case, the possibility of eyelash wishing to work).
+April 15
+Veto power over clocks
+Midnight, April 15 is the deadline for filing income tax returns in the United States.
+It may also be that Black Hat, now in control of all human legislation, is attempting to extend this to further control also rules of nature – in this case: time. The strange wording is likely to be due to Black Hat having consulted with the wish-hacking manual he acquired April 2.
+April 22
+A Pokéball that works on strangers' pets
+A reference to the Pokémon series of video games. A Pokéball can be thrown at a Pokémon (or in this case, a pet that the Pokéball thrower finds either annoying or cute) to capture it and achieve ownership of it. Unless cheats are used (and in Pokémon Colosseum, in which a criminal organization uses illegally modified pokeballs), Pokéballs cannot be used on Pokémon owned by other people in the Pokémon games . Many players wish to obtain the often high-level Pokémon of NPCs, and Black Hat may also be interested in pranking other players by stealing their powerful Pokémon. This was later revealed to be one of Randall's wishes in the title text of 1705: Pokémon Go.
+The title text, a wish to have control over coefficients of friction during sporting events, is yet another mischievous wish. The coefficients of friction, though usually not noticed as they are unchanging, are all-important when performing physical activities — imagine trying to play hockey on a field of sandpaper or sprinting over a sheet of ice. In addition to the difficulty going where you want or getting any balls that might be in play where you want them to go in a changing friction environment, angular momentum would also be very difficult to control.
+Note that when Black Hat makes meta-wishes no follow-up wishes are logged. Since the meta-wishes failed, no valid eyelash wish condition existed and the illegal test wishes were not logged in the eyelash wish log.
+Transcript[edit]
+Eyelash Wish Log
+Wish bureau ID#:
+21118378
+Date range:
+Jan-Apr 2012
+[a picture of Black Hat is above text saying Wisher]
+Date Wish
+Jan 09 That wishing on eyelashes worked
+Jan 12 A pony
+Jan 15 Unlimited wishes
+Jan 19 Revocation of rules prohibiting unlimited wishes
+Jan 20 A finite but arbitrarily large number of wishes
+Jan 28 The power to dictate the rules governing wishes
+Feb 05 Unlimited eyelashes
+Feb 06 That wish-granting entities be required to interpret wishes in
+accordance with the intent of the wisher
+Feb 08 That wish-granting entities be incapable of impatience
+Feb 12 Unlimited breadsticks
+Feb 12 Veto power over others' wishes
+Feb 19 Veto power over others' wishes and all congressional legislation
+Feb 23 The power to override any veto
+Feb 27 The power to see where any shortened URL goes without clicking
+Feb 29 The power to control the direction news anchors are looking while they talk
+Mar 07 The power to introduce arbitrary error into Nate Silver's predictions
+Mar 15 A house of stairs
+Mar 23 A universe which is a replica of this one sans rules against meta-wishes
+Mar 29 Free transportation to and from that universe
+Apr 02 A clear explanation of how wish rules are structured and enforced
+Apr 07 The power to banish people into the TV show they're talking about
+Apr 08 Zero wishes
+Apr 15 Veto power over clocks
+Apr 22 A Pokéball that works on strangers' pets
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This is one of my favorite xkcd comics ever. I can't stop laughing. -- #TEBOWTIME 17:14, 17 August 2012 (UTC)
+i know right?? feb. 27th is by far the best... --Douglasadams472 (talk) 03:12, 16 December 2012 (UTC)
+It seems to me that February 6th's wish implies that, as a result of the previous day's wish, he now has an absurdly large number of eyelashes. Opinions? --Bobidou23 (talk) 02:58, 26 May 2013 (UTC)
+i thought they were absurdly long eyelashes, like his wings in infinite wings (sry cant make links) 173.245.54.5 (talk) (please sign your comments with ~~~~)
+Actually, the guy with unlimited wings is Beret Guy.. (as seen in the "strange powers of beret guy" category on this site).. Black Hat's the "classhole". --JayRulesXKCD (talk) 11:31, 13 October 2016 (UTC)
+I thought of Black Hat having a crazy number of eyelashes, but not attached to him, so he can't pull them for a wish. They're just in a pile on the floor or something. 173.245.56.187 (talk) (please sign your comments with ~~~~)
+I feel that each wish should be thoroughly explained, or at least briefly mentioned. 108.162.238.193 (talk) (please sign your comments with ~~~~)
++1, Marking this 'incomplete' Spongebog (talk) 20:09, 7 July 2014 (UTC)
+March 15 may reference a painting of M.C. Escher so named "House of Stairs" 199.27.128.79 08:19, 8 March 2014 (UTC)
+"Revocation of rules" and especially "meta-wishes" must be references to "Typeless Wish" scene in Göedel, Escher, Bach. "banish people into the TV show they're talking about" might(?) also reference the plot there where Achiles and Tortoise enter Escher's Convex and Concave painting after discussing it. Surpsingly to me, that episode's only Escher illustrations are Concave and Convex & Reptiles; House of Stairs does not appear anywhere in the book. Cben (talk) 00:48, 9 September 2014 (UTC)
+What did "zero wishes" mean? 173.245.48.86 18:16, 2 April 2014 (UTC)
+Often when configuring software (especially regarding limits) 0 is taken to mean infinite, for example in a mail server's config file there may be an entry that looks like "Max number of connections: (enter 0 for unlimited)" 141.101.98.170 19:24, 7 July 2014 (UTC)
+My take on "zero wishes", is that it is a bit of black hattery. He wants to abuse any system he finds, by asking for zero wishes he wants to cause the eyelash wish system to crash in some way. Its not an attempt to gain more wishes, its an attempt to bring the wish system down.141.101.98.165 21:16, 8 July 2014 (UTC)
+My take on the title text was that Black Hat wanted to alter friction for his own amusement, rather than to affect the outcome of a sporting event as the current explanation seems to lean towards.--Pudder (talk) 12:32, 28 August 2014 (UTC)
+Agreed. It is very in-characcter for Black Hat to simply want to mess with people, and would be very out of place to care about such trivialities as points. Ima change the mouseover description now.173.245.48.97 16:18, 22 May 2015 (UTC)
+I took the April 22 wish to mean that Black Hat would have a Pokeball that works in real life, allowing him to steal the pets of random strangers on the street.173.245.52.124 23:34, 27 May 2015 (UTC)
+"Hey! No stealing another Trainer's Pokémon!". Also, talk of changing friction coefficients reminds me of the GTA "Carmageddon" videos, where the wheel friction on all the cars was set to -1, leading to most of the game being filled with cars flying through the air and exploding. -Pennpenn 108.162.250.162 23:30, 13 August 2015 (UTC)
+I may have used my Masterball trying to catch another trainer's Pokemon. I cracked up after it failed, but now I have no Masterball. :( 198.41.239.34 (talk) (please sign your comments with ~~~~)
+You know, there was a side series of Pokemon games that let you capture another trainer's Pokemon. It was kind of required if you wanted more than one or two Pokemon on your team. And on that day, Black Hat was mailed a copy of Pokemon Colosseum... --162.158.79.65 23:06, 14 March 2017 (UTC)
+The first wish is an example of bootstrapping. I love it. 108.162.238.76 23:31, 14 February 2016 (UTC)
+I think the title text is a reference to the comics where he talks about Pole vaul's record involving that some records where obtain because they were nearest of equators108.162.229.112 11:22, 20 September 2016 (UTC)
+It would appear, for March 7th, that this came true... 173.245.52.96 00:05, 24 November 2016 (UTC)
+I got rickrolled. 162.158.62.67 00:50, 13 March 2019 (UTC)
+I personally like these wishes: (1) The power to know all knowable things (to include a full understanding of all available trigger conditions for wishes in the universe), (2) the ability to always win arguments with wish granting entities, including about numbers of wishes they should grant, (3) for a stone so heavy no wish could lift it, (4) to lift that stone.
+(3) and (4) together form the Russell Paradox. --108.162.219.170 18:09, 27 August 2020 (UTC)
+I interpreted the February 19 entry as being a joke that the US Congressional process of passing legislation is so dysfunctional that it ends up establishing laws that did not conform to the wishes of anyone at all!
+No one could one-up him because he could veto any wishes that could allow that to happen
+Categories: All comicsComics from 2012Comics from JulyWednesday comicsComics featuring Black HatComics featuring Nate SilverPokémonTimeAnimalsNews anchorVideo games

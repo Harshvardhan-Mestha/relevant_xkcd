@@ -1,0 +1,72 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1205: Is It Worth the Time?
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1205)
+|<< PrevComic #1205 (April 29, 2013)Next >>|
+Is It Worth the Time?
+
+Title text: Don't forget the time you spend finding the chart to look up what you save. And the time spent reading this reminder about the time spent. And the time trying to figure out if either of those actually make sense. Remember, every second counts toward your life total, including these right now.
+Explanation[edit]
+The comic is a chart showing the amount of work (time) one can dedicate to making a task more efficient, in order not to spend more time optimizing the task than the total time saved. This may illustrate the fact that computer scientists often try to optimize tasks they are likely to perform again in the future - a common goal in their work - even though the work needed for that optimization can itself prove much longer than the time saved when doing the task again; this was previously referenced in 974: The General Problem.
+E.g. if you do some task every week once, and you are able to save 1 minute of time by doing some preparatory work (e.g. build or buy a tool), you can spend 4 hours doing this preparatory work, and you will, across five-years time, come even. Any less time spent doing the preparatory work, and you will profit from it.
+The calculation on which the chart is based, for this example:
+5 years / 1 week = 260 occurrences of the task
+260 occurrences × 1 saved minute = 260 saved minutes = 4.3 hours
+Therefore, 1 minute saved every week would, across five years, save over 4 hours of your time.
+Or, in algebraic form:
+Total time shaved off across 5 years = 5 × "How often you do the task every year" × "How much time you shave off"
+The grayed out areas represent times which are either impossible to save, or where, if you could save this much (say 6 hours on one day), it would almost be worth it no matter how long it takes. For instance it is impossible to shave 1 hour off a task if you perform it more than 24 times a day – the total time shaved off per day would amount to more than one day, and thus you could not have performed the task this many times in a day to begin with. On the other hand, 6 hours shaved off for one day is not impossible, but the net benefit would be so great, that it would very quickly earn itself back again almost no matter how long it takes. If the assumption is that a work day is 8 hours, then even if it took 2 years to do the improvement, you would already have earned it in after less than five years in total - both with the 2 years to make it and the time it takes to save 2 years (2.67 years in this case for at total of 4.67 years).
+The comic assumes that equal amounts of time have equal value, which is not necessarily true. For an extreme example, consider programming a telephone with speed dials to be used when there is a fire or to call an ambulance or the police. This may take longer than the time saved when the call is placed, but it is worthwhile to spend a large amount of free time to save any time during an emergency.
+Of course, all these conclusions presume you are the only one that benefits. If the savings can be easily adapted by others - for example, computer code for a program that automates a task for hundreds of people - then the amount of time that can be spent increases. Indeed, in some cases, when optimizing for others, spending far more time than they save can be worth it, if the people you're working for are paying you for the product and the time savings keep them happy and likely to keep paying you. And if what you're optimizing is a business process that's unlikely to go out of date with your employer's current tools or its current products, then you may have more than 5 years to amortize the improvement.
+The title text points out the time you spend studying this comic detracts from your overall efficiency, and concludes that maximizing efficiency would require optimal use of every second and finishes very philosophically by pointing out that every second you use counts towards your life total - also those you spend reading and/or editing a wiki about a web comic...
+The comic derives humor from the absurd conclusions of hyper-efficiency, which have been examined in What if? - Cost of Pennies, and also in 951: Working which is devoted to insufficient economy, where the money saved is compared to the time wasted while looking for a bargain. In 1319: Automation Randall investigates how bad it really goes when you decide to automate a program to save you time... See also the Time management category.
+Transcript[edit]
+[Above the frame is written the following text:]
+How long can you work on making a routine task more efficient before you're spending more time than you save?
+(across five years)
+[The rest of the comic is given in a tabular format. At the top of the table is how often you do the task, with six time increments underneath, and then at the side is written How much time do you shave off at the leftmost part of the page, with 9 lengths of time to the left. The empty fields in the calendar are shaded dark gray.]
+[The first row is for 1 second, where the table values are 1 day (for 50 per day), 2 hours (for 5 per day), 30 minutes (for daily), 4 minutes (for weekly), 1 minute (for monthly), and 5 seconds (for yearly).]
+[The second row is for 5 seconds, where the table values are 5 days (for 50 per day), 12 hours (for 5 per day), 2 hours (for daily), 21 minutes (for weekly), 5 minutes (for monthly), and 25 seconds (for yearly).]
+[The third row is for 30 seconds, where the table values are 4 weeks (for 50 per day), 3 days (for 5 per day), 12 hours (for daily), 2 hours (for weekly), 30 minutes (for monthly), and 2 minutes (for yearly).]
+[The fourth row is for 1 minute, where the table values are 8 weeks (for 50 per day), 6 days (for 5 per day), 1 day (for daily), 4 hours (for weekly), 1 hour (for monthly), and 5 minutes (for yearly).]
+[The fifth row is for 5 minutes, where the table values are 9 months (for 50 per day), 4 weeks (for 5 per day), 6 days (for daily), 21 hours (for weekly), 5 hours (for monthly), and 25 minutes (for yearly).]
+[The sixth row is for 30 minutes, where the table values are greyed out (for 50 per day), 6 months (for 5 per day), 5 weeks (for daily), 5 days (for weekly), 1 day (for monthly), and 2 hours (for yearly).]
+[The seventh row is for 1 hour, where the table values are greyed out (for 50 per day), 10 months (for 5 per day), 2 months (for daily), 10 days (for weekly), 2 days (for monthly), and 5 hours (for yearly).]
+[The eighth row is for 6 hours, where the table values are greyed out (for 50 per day, 5 per day and daily), 2 months (for weekly), 2 weeks (for monthly), and 1 day (for yearly).]
+[The ninth and final row is for 1 day, where the table values are greyed out (for 50 per day, 5 per day, daily and weekly), 8 weeks (for monthly), and 5 days (for yearly).]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The title text is just silly.220.255.1.25 08:52, 29 April 2013 (UTC)
+Is it worth all of the time we've spent on 1190, developing wikis, and wget scripts to pull the pictures efficiently, etc.? Bdemirci (talk) 08:58, 29 April 2013 (UTC)
+I would just like to ask if there is an interactive version of this comit out there. I suppose it wouldn't be too hard to create... --Charlesisbozo (talk) 09:14, 29 April 2013 (UTC)
+Well, it would be really simple indeed. For now, you can try Wolfram|Alpha --Mormegil (talk) 10:49, 29 April 2013 (UTC)
+I have a site up that does the calculation : http://c.albert-thompson.com/xkcd/ --Whitecat (talk)whitecat (whitecat) 18:39, 29 April 2013 (UTC)
+I wish I had seen whitecat's tool before I made my own. It's slightly different, so that's good: http://agileadam.com/worth-automating/ --Agileadam (talk) 18:27, 4 April 2015 (UTC)
+The graph ignores the fact that it is much more satisfying to shave off time from task, especially by automating it. Also note that it IS possible to shave off 6 hours from task you do daily and one day from task you do weekly. -- Hkmaly (talk) 10:39, 29 April 2013 (UTC)
+The table also ignores all monetary costs associated with the work: e.g. buying a new tool --66.46.212.10 15:45, 29 April 2013 (UTC)
+I was thinking the same, but then realised it's NOT practical if you assume a 6 hour working day and 5 day working week. 41.134.254.53 12:33, 29 April 2013 (UTC)
+If Momo taught us 1 thing, than it is that you can not save time ;-). --DaB. (talk) 13:56, 29 April 2013 (UTC)
+Why is it "not possible" to shave a day off of a task that you perform weekly? MrBigDog2U (talk) 14:29, 29 April 2013 (UTC)
+It definitely possible, but Randall feel it's just not worth the time to put it there. :-) Arifsaha (talk) 16:09, 29 April 2013 (UTC)
+Then the explanation is inaccurate as it states that "blacked out areas represent times which are impossible to save". It is possible, perhaps just not worthwhile. MrBigDog2U (talk) 14:35, 30 April 2013 (UTC)
+For most people in most circumstances, a net present value comparison would be most relevant. Even if I can save a day every year for the next 5 years, it may not be worth 5, or event 4, days input now, because my time now is more valuable to me than my time in the future (as of now), and my opportunity cost for time spent now greater. It would be interesting to see the chart revised assuming a particular discount factor, and that all efficiency-improvement input occurs up front. RyanDonovan (talk) 17:29, 29 April 2013 (UTC)
+     Agreed!    :¬D
+TL;DR --DanB (talk) 21:14, 29 April 2013 (UTC)
+Reminds me of this chart: http://i.imgur.com/Q8kV8.png And of course, Randall has covered similar ground before: http://xkcd.com/974/Gardnertoo (talk) 16:46, 30 April 2013 (UTC)
+There are a few flaws with this:
+How many tasks that you were doing five years ago are you still doing? I'd give a max window of two years for most task executions.
+Whatever system you designed to save you time will itself require maintenance -- and become a task.
+Very few people can figure out when they start a time-saving task how long it will take.
+Not all attempts to create a time saving system actually work
+Not all attempts to create a time saving task actually save time
+Once you create a time saving system, you are locked in to doing the task the way that the time saving system expects you to do it -- or, continually modify your time saving task, which again, takes time.
+Dave Edelhart 70.35.47.190 16:56, 30 April 2013 (UTC)
+WRT your first 'flaw'. I can think of lots. Just off the top of my head - brushing my teeth, making breakfast, showering, walking my dog, commuting, responding to emails, editing documents for grammar and style, arguing on wikis, etc... There are thousands of such tasks, if not tens of thousands.24.70.188.179 17:47, 18 May 2013 (UTC)
+The chart does not take into account when multiple users use the more time efficient task. --Rhayader (talk) 11:20, 1 May 2013 (UTC)
+For multiple users who benefit, you multiply the number by the users. But you should recalculate it yourself, because the numbers are floored. Saving 5 seconds daily gives you 2.536111 hours in 5 years (5*365+1 days). So for example, to save a group of 15 people 5 seconds for the twice-a-day coffee break: Randalls 2 hours gives you 2*2*15= 60 hours to spent for a computerized/automated coffee system which saves everybody 5 seconds. While it's actually 76 hours and 5 minutes. :) 131.174.90.212 15:54, 1 May 2013 (UTC)
+For across a tritri years, most things get a byte more well-defined. 162.158.88.188 10:05, 24 January 2018 (UTC)
+this page is broken when accessed via link or random page, it is only accessible via redirect from www.explainxkcd.com/1205. try pasting the following into the url bar: https://www.explainxkcd.com/wiki/index.php/1205:_Is_It_Worth_the_Time%3F (on the off chance that it's only me, for me it just says "no input file specified")
+It just takes me to this very page. Also, please sign any comments with ~~~~. Nitpicking (talk) 01:52, 9 November 2021 (UTC)
+Categories: All comicsComics from 2013Comics from AprilMonday comicsChartsMathTime management

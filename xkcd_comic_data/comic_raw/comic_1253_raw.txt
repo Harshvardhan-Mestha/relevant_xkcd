@@ -1,0 +1,174 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1253: Exoplanet Names
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1253)
+|<< PrevComic #1253 (August 19, 2013)Next >>|
+Exoplanet Names
+
+Title text: If you have any ideas, I hear you can send them to iaupublic@iap.fr.
+Explanation[edit]
+On the 14th August 2013, the International Astronomical Union (IAU) issued a document about public naming of astronomical objects. It stated, "IAU fully supports the involvement of the general public, whether directly or through an independent organized vote, in the naming of planetary satellites, newly discovered planets, and their host stars."
+The text above the image states the fact above and then notes that the IAU immediately regret this decision. As we can see from Cueball's question, from Ponytail's facepalm, and the fact that even Megan is speechless, the suggestions are appalling. It becomes even worse when Hairbun tells them that an automatic filter has already been applied to the results, one designed to remove inappropriate entries that don't meet certain criteria. This implies that the list would have been even worse if presented in its unfiltered form (as seen below in the table).
+The naming document also contained, amongst other things, guidelines that suggested names should meet. These include stipulations such as "16 characters or less", "preferably one word", being "pronounceable (in as many languages as possible)", "not too similar to an existing name of an astronomical object", avoiding commercial names, and being "respectful of intellectual property". If we go down the list, we can see that many of Randall's suggestions do indeed violate the guidelines. Which is part of the joke as it reflects the tendency of internet submissions to ignore such softly suggested guidelines.
+The randomness and inappropriateness of the suggested names reflects the commonly expected response from anonymous submitters on the internet. Many forums and contests that call for online response and do not apply strict control over the responses receive similar collections of random, inappropriate and obscure submissions that are often only tangentially related to the original subject. For example, Greenpeace held a naming contest for one of the whales recently tagged in their research and preservation campaign and even after selecting the finalists the online voting resulted in naming the whale "Mr. Splashypants". PepsiCo had even less restrictive controls in their marketing campaign that asked the internet to name a new flavor of Mountain Dew. They had to shut down the contest in order to avoid naming the new beverage "Hitler did nothing wrong" which was the current leader at the time and only marginally the most inappropriate of the top ten voted suggestions. Even more recently is the case of Boaty McBoatface, in which the internet decided to dub a British research vessel "Boaty McBoatface". The boat was given the name RRS Sir David Attenborough in the end, with its Autonomous Underwater Vehicle being called "Boaty McBoatface."
+The document also states that naming suggestions may be sent to the email that Randall included in the title text.
+This comic was updated in 1555: Exoplanet Names 2.
+Star Planet Suggested Name Explanation
+Gliese 667 b Space Planet A very unoriginal name; every planet is in space.[citation needed]
+c PILF Pun of MILF, i.e. Planet I'd Like to Fuck. Planet c is a relatively hot planet, within the habitable zone.
+d A Star "A Star" is obviously a bad name for a planet. A* (pronounced "A star") is already used in in astronomy, for example the Milky Way's black hole core is Sagittarius A*. "A star" is also the name for the character asterisk and the name of the popular A* search algorithm in computer science. It also suggests that the planet is a star.
+e e'); DROP TABLE PLANETS;-- A reference to SQL injection, riffing off of comic 327, which featured a schoolboy named Robert'); DROP TABLE students;--. The idea here is that the IAU would enter the name into their system and promptly lose all of their data pertaining to planets. Note that Planet e is located in the habitable zone of the star system.
+f Blogosphere Weird blog-related terms are a recurring theme in xkcd. See, for instance, comic 181.
+g Blogodrome
+h Earth Planet candidate h is about the mass of the Earth, and described as "tantalizing": A dynamically-packed planetary system around GJ with three super-Earths in its habitable zone. See also (1231: Habitable Zone).
+Tau Ceti b Sid Meier's Tau Ceti B This refers to the game Sid Meier's Alpha Centauri.
+c Giant Dog Planet VY Canis Majoris is one of the largest known stars at our galaxy and belongs to the constellation Canis Major, Latin for "greater dog". The constellation further contains Sirius, the brightest star in the night sky, also called "Dog Star".
+d Tiny Dog Planet cf. Canis Minor, Latin for "lesser dog", another constellation.
+e Phil Plainet A reference to Phil Plait, a.k.a. The Bad Astronomer.
+f Unicode Snowman The Unicode character ☃ may be a reference to the planet's estimated surface temperature of -40 °C (-40 °F). However, this name would be pronounced differently (being a symbol, not a word or name) in different languages. Planets in our solar system are assigned to astronomical symbols like ♁ for Earth or ♂ for Mars. (A unicode snowman is also referenced in Randall's book What If, where it is keymapped to a laptop.)
+Gliese 832 b Asshole Jupiter This massive planet orbits a red dwarf star at the longest known period of 3416 days at this category.
+Gliese 581 b Waist-deep Cats Likely a reference to Lolcats, which are a series of images of cats captioned with poorly-written and/or spelled English.
+c Planet #14 About 200th discovered exoplanet (in 2007); reported to be the first potentially Earth-like planet in the habitable zone of its star, though that is in doubt now. The joke might be that like "Space Planet", "Planet #14" is a generic and unoriginal name. Also note that this is the 15th entry in the table so the numbering is zero-based.
+An interesting (?) coincidence is that the 14th and 15th Minor planets (then called asteroids) were discovered in 1851; see see List of minor planets: 1–1000. If they were to be counted among the planets of the Solar System, as was sometimes done then, the 14th known planetary body would be Iris (discovered in 1847, a year before Neptune).
+d Ballderaan A crude pun on the planet Alderaan from the Star Wars universe.
+e Eternia Prime Eternia is a fictional planet, venue of the Masters of the Universe animated series and toy collection.
+f Taupe Mars Kim Stanley Robinson's award-winning Mars trilogy (Red Mars, Green Mars, Blue Mars after various stages of terraformation). Taupe is a brownish-grey color.
+g Jelly-Filled Planet Possibly a reference to the conjecture that this tidally locked planet has an isolated habitable zone under the substellar point, akin to the pocket of jelly in a jelly doughnut.
+Epsilon Eridani b Skydot SkyDOT is the Sky Database for Objects in Time-Domain run by LANL for the U.S. Dept. of Energy and includes data for Epsilon Eridani that can be used to constrain the orbital parameters of ε Eri b. It may also refer to how objects in space may appear as bland, bright dots in the night sky.
+c Laser Noises A Laser does not produce noise in the signal sense; it only works at a well-defined frequency. In science fiction films, however, laser weapon discharges are usually accompanied by sound ("pew pew" or the like). Sun-like Epsilon Eridani became a popular setting for science fiction after its publicity as a target of the Project Ozma experiment.
+Gliese 176 b Pandora The mythological name Pandora fulfills most of IAU's guidelines and has been popular for planets in science fiction; most recently and famously is the venue of James Cameron's Avatar (although actually it is not a planet but just a moon of a gas giant in Alfa Centauri A). It is also a hellish planet from Frank Herbert's WorShip series of novels, a jungle planet in Brothers Strugatsky's Noon Universe and the planet used in Borderlands Games.
+c Pantera Named for the heavy metal band, which itself was named after an Italian sports car, the De Tomaso Pantera.
+Kepler-61 b GoldenPalace.com A gambling website, known for paying to have their name in unusual places (like forehead tattoos, species names...).
+(right column)
+Upsilon Andromedae c Stampy Most likely a reference to stampylonghead, although it could be a reference to the elephant from the Simpsons episode Bart Gets an Elephant.
+d Moonchild The name Bastian gives the Childlike Empress in The Neverending Story.
+e Ham Sphere HamSphere is a Ham Radio simulator program. Ham radio uses designated radio frequencies for non-commercial exchange of messages and more. A pun of Hemisphere.
+HD 20794 b Cosmic Sands A pun on the name of the font Comic Sans. (See also: 590: Papyrus.)
+c Legoland Legoland is a chain of theme parks owned by the Lego Group.
+d Planet with Arms A reference to the early covers of Hitchhiker's Guide to the Galaxy? Could also be a reference to "Birds with Arms" meme.
+HD 85512 b Lax Morality Possibly a parody of science fiction in which certain planets are suggested to be uniformly... lax in morals (i.e. full of sex, drugs, etc.). See http://tvtropes.org/pmwiki/pmwiki.php/Main/Planetville and related.
+HD 40307 b Good Planet Similar to the above, except with good planets. May also be yet another non-descriptive name, like "Space Planet" and "Planet #14".
+c ProblemLand See above.
+d Slickle This is a reference to "The Petals Fall Twice", which was made as a humorous example of bad fan-fiction. The word itself is a portmanteau of "slowly", "licked", and "tickled".
+e Spare Parts This suggests that the planet is "worthless" or "junk". This is false, of course. May be a reference to the fact it is a planet with nothing much different from the other planets.
+f New Jersey VI Refers to the state of New Jersey; may be an insult to either.
+g How Do I Join the IAU This implies that the user "got lost" on the IAU website and thought that the "planet name suggestion" input was for general queries.
+Gliese 163 b Neil Tyson's Mustache Neil deGrasse Tyson is a famous American astrophysicist and science communicator who does maintain a distinguished mustache.
+c help@gmail.com Similar to "How Do I Join the IAU", this implies that the user confused the "planet suggestion" text box for a new email they are trying to send.
+d Hair-Covered Planet Refers to the well-known Hairy ball theorem of topology.
+Pi Mensae b Moon Holder Jupiter has more than 60 discovered moons, and still counting... A planet ten times more massive must also be a Moon Holder.
+HD 189733 b Permadeath A well-characterized "Hot Jupiter" at a temperature range of 973 ± 33 K to 1,212 ± 11 K. The name refers to the feature of Permanent death common in many RPGs and roguelikes.
+Kepler-22 b Blue Ivy Blue Ivy Carter is the daughter of musicians Beyoncé and Jay-Z.
+Kepler-3284 b Blainsley A very small town in the United Kingdom, south of Edinburgh. Possibly chosen due to its insignificance?
+Kepler-3255 b Unicorn Thresher As far as we can tell, Kepler-3255b is in the vicinity of the constellation Monoceros, aka the Unicorn. Also a pun on corn thresher.
+Kepler-2418 b Spherical Discworld The Discworld is the fictional setting for British author Terry Pratchett's Discworld series of humorous fantasy novels; it consists of a large disc supported by four elephants themselves standing on top of a turtle flying through space. "Spherical Disc" would be an oxymoron.
+Kepler-1686 b Emergency Backup Earth This candidate planet has an Earth Similarity Index of 0.89, making it one of the most habitable Kepler object of interest. The name suggests that it could be used as a backup in case something happened to our current planet.
+Kepler-3010 b Feeeoooooooop Possibly the onomatopoeia for something getting sucked into a black hole.
+Kepler-4742 b Liz ...Just a regular name (for a person, not a planet). Maybe a reference to the pet lizard on the Magic School Bus.
+Transcript[edit]
+[Text above the first frame of the comic:]
+August 2013:
+The International Astronomical Union
+decides to start naming exoplanets,
+and—for the first time ever—asks for
+suggestions from the general public.
+They immediately regret this decision.
+[Ponytail is facepalming while Megan and Cueball are looking at a computer screen on a desk. Hairbun points to the screen.]
+Cueball: Can't you filter out the worst ones?
+Hairbun: This is after the filter!
+[Below is a table showing the list of planet names as seen on the computer screen with gray background around the edges of the table.]
+[The table is in two separate columns, but there is only headings over the left, so the right column is a direct continuation of the left. In the table it is mentioned when the right column begins. There is a small arrow pointing from the word "Planet" down to the second column of the table. The headings in the comic are not inside the table as they are here below. The text at the bottom of the left list seems to continue on below, at least the last entry is cut below the middle, although it is still easy to read. Similarly the text at the top right list, seems to continue from above, the top entry missing the very top of the text. This is as if the list is much longer and here is just shown part of the list. To further indicate this the first entry in the right list begins at "c" instead of at "b" which is else the case for all other instances.]
+Star Planet Suggested Name
+Gliese 667 b Space Planet
+c PILF
+d A Star
+e e'); DROP TABLE PLANETS;--
+f Blogosphere
+g Blogodrome
+h Earth
+Tau Ceti b Sid Meier's Tau Ceti B
+c Giant Dog Planet
+d Tiny Dog Planet
+e Phil Plainet
+f Unicode Snowman
+Gliese 832 b Asshole Jupiter
+Gliese 581 b Waist-deep Cats
+c Planet #14
+d Ballderaan
+e Eternia Prime
+f Taupe Mars
+g Jelly-Filled Planet
+Epsilon Eridani b Skydot
+c Laser Noises
+Gliese 176 b Pandora
+c Pantera
+Kepler-61 b GoldenPalace.com
+[Below is the right column.]
+Upsilon Andromidae c Stampy
+d Moonchild
+e Ham Sphere
+HD 20794 b Cosmic Sands
+c Legoland
+d Planet with Arms
+HD 85512 b Lax Morality
+HD 40307 b Good Planet
+c Problemland
+d Slickle
+e Spare Parts
+f New Jersey VI
+g How Do I Join the IAU
+Gliese 163 b Neil Tyson's Mustache
+c help@gmail.com
+d Hair-Covered Planet
+Pi Mensae b Moon Holder
+HD 189733 b Permadeath
+Kepler-22 b Blue Ivy
+Kepler-3284 b Blainsley
+Kepler-3255 b Unicorn Thresher
+Kepler-2418 b Spherical Discworld
+Kepler-1686 b Emergency Backup Earth
+Kepler-3010 b Feeeoooooooop
+Kepler-442 b Liz
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This comic is referenced in 1555: Exoplanet Names 2 (https://xkcd.com/1555/). 199.27.133.177 04:54, 24 July 2015 (UTC)
+One of the planets is similar to the child in Exploits of a Mom (http://xkcd.com/327/) Robert Drop Tables 90.200.204.77 12:12, 19 August 2013 (UTC)
+Yes, they've seemed to have learned to sanitize their data inputs or just stick to parameters. 69.14.148.254 12:33, 19 August 2013 (UTC)
+Hair covered planet might be a reference to the book The Carpet Makers 41.221.193.211 (talk) (please sign your comments with ~~~~)
+The Blogosphere and Blogodrome planets are cited as synonyms of "blog." I believe this is an error, in that blogosphere is synonymous with "the collection of all posted communication." I would change it myself, but I don't feel like I'm sufficiently expert to state with conviction. ~Anthingy 76.105.133.220 (talk) (please sign your comments with ~~~~)
+I'm still missing the New Netherlands... Lorenz 142.244.63.246 15:34, 19 August 2013 (UTC)
+Along with no New Netherlands, I'm also disappointed to see Planet #14 but no Planet 9 from Outer Space. Ccurtis (talk) 16:04, 19 August 2013 (UTC)
+I'm sure my explain does cover this very well.--Dgbrt (talk) 23:04, 19 August 2013 (UTC)
+I don't understand your comment here. I was hoping for a reference to Plan 9 From Outer Space, arguably one of the worst movies ever made and inspiration for the successor Unix operating system, Plan 9. Ccurtis (talk) 14:09, 23 August 2013 (UTC)
+If memory serves, Stampy is the name of Bart Simpson's elephant. 99.108.140.97 17:59, 19 August 2013 (UTC)
+A* ("a star") is also a pathfinding algorithm taught in introductory Artificial Intelligence classes. I don't see the connection to the planet yet. Lastorset (talk) 22:19, 19 August 2013 (UTC)
+For the first, I did remove the corrupt wiki link. --Dgbrt (talk) 23:23, 19 August 2013 (UTC)
+I just wonder where New Jerseys II through V are .... JamesCurran (talk) 03:24, 20 August 2013 (UTC)
+Skydot could as easily be equivalent to the "Pale blue dot" that is Earth, from afar. New Jersey VI reminds me of the "New (New New New New .. New) New York" as visited in Doctor Who. help@gmail.com is either another bad input (as in "How Do I Join the IAU") or something more insidious. Moon Holder also reminds me of "Moon Watcher" from the (book of, at least) 2001: a Space Odyssey. Blainsley sounds to me like one of those portmanteau-names applied to a couple ("Blair-and-Ainsley"?). Unicorn Thresher could either be a random word string (I'd not have been surprisedto have seen "Correct Horse battery Staple" in the list) or perhaps something to do with the Invisible Pink Unicorn. Liz sounds like someone trying to get a planet named after their girlfriend or daughter or perhaps mother. 178.104.103.140 11:39, 20 August 2013 (UTC)
+Anyone want an exoplanet named xkcd? 173.14.129.9 (talk) (please sign your comments with ~~~~)
+I was personally expecting a planet named "Gallifrey" or "Too expensive to get there, who cares?" 170.215.90.160 (talk) (please sign your comments with ~~~~)
+Maybe New Jersey VI is a reference to the Spaceship New Jersey from Bruce Covill's young adult "My Teacher Is An Alien" series? -Jed 70.208.76.161 00:47, 21 August 2013 (UTC)
+I find it very meta that the line in the table explaining Cosmic Sands is formatted in Comic Sans, except for the reference to the Papyrus comic, which is written in Papyrus. I refer anyone interested to the discussion there about the propriety of that kind of self-referential cleverness, and I recognize that it sort of undermines the purpose of a wiki to do things therein that themselves require explanation... but I kinda like it. --Benny 68.199.58.41 15:50, 21 August 2013 (UTC)
+How Do I Join the IAU - instead of a lost user it very much resembles whinning of noobs in forums or in chat - "How Do I Get An Op?", "Please Mail It To Me" etc. Ballderaan might be a pun (if it's not actually there) on the Space Balls movie. --Ed 217.31.207.1 14:04, 22 August 2013 (UTC)
+permadeath might also be a play on permafrost. Peter (talk) 17:01, 22 August 2013 (UTC)
+
+Is Moonchild not an Aleister Crowley reference? 91.45.17.43 (talk) (please sign your comments with ~~~~)
+I think, that help@gmail.com is a pun for the fact, that you usaually don't get any help writing to that address or that it is usually hard to communicate with google 87.168.177.1 12:32, 4 October 2013 (UTC) Christian
+Since computer scientists often start at zero instead of one when numbering things, the 15th in the list would be Planet #14 W3steve (talk) 23:25, 18 January 2014 (UTC)
+Planet With Arms might also refer to the Birds With Arms thing on Reddit, where people humorously photoshop arms onto the bird pictures. 108.162.246.5 21:10, 27 January 2014 (UTC)
+I think the inclusion of Blue Ivy is a swipe at Beyonce and Jay-Z trademarking their daughter's name. Presumably, as well as being two words, it would be ineligible as a planet name for violating the guidelines on "avoiding commercial names, and being 'respectful of intellectual property'". 108.162.216.46 15:48, 15 September 2015 (UTC)
+"A star" is a planet not a star. I thought that was the joke. 173.245.50.162 06:46, 18 October 2015 (UTC)
+With recent developments in British ocean research, should we add a reference to "Boaty McBoatface"? Like M.Splashy Pants and the Mountain Dew flavour, this led the polls when the parent organization put the name of their cutting-edge research vessel to internet vote.--108.162.242.134 22:18, 29 March 2016 (UTC)
+Do it. Jkshapiro (talk) 02:50, 30 March 2016 (UTC)
+Help@gmail.com seems like a Douglas Adams reference, where he describes the complaints department of the Sirius Cybernetics Corporation takes up several planets. Here's the quote. Yissachar1498 (talk) 10:59, 24 November 2019 (UTC)
+
+you all missed the point of "a star"
+it suggests that the planet
+is a star
+you got nerdsniped and not one of you noticed 172.68.143.82 20:50, 12 July 2020 (UTC)
+Isn't Ballderaan just an anagram of Aldebaran? 162.158.92.28 17:29, 29 June 2021 (UTC)
+"Aldebaran" has only one "l", but close. Nitpicking (talk) 05:08, 23 November 2021 (UTC)
+I had assumed that "asshole Jupiter" was a reference to "hot Jupiter", the term for exoplanet gas giants with orbital periods of less than 10 days. Nitpicking (talk) 05:08, 23 November 2021 (UTC)
+Categories: All comicsComics from 2013Comics from AugustMonday comicsPages using the "citation needed" templateExoplanet NamesComics sharing nameChartsComics featuring CueballComics featuring MeganComics featuring PonytailComics featuring HairbunComics featuring Little Bobby TablesAstronomySexExoplanets

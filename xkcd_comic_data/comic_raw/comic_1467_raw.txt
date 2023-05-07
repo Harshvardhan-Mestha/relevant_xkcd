@@ -1,0 +1,93 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1467: Email
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1467)
+|<< PrevComic #1467 (December 31, 2014)Next >>|
+Email
+
+Title text: My New Year's resolution for 2014-54-12/30/14 Dec:12:1420001642 is to learn these stupid time formatting strings.
+Explanation[edit]
+A New Year comic, where Megan asks Beret Guy if he has any New Year's resolutions, and even though this is just before new year 2015, his resolution is to find out what an email is!
+Despite being in popular use since 1998 when free email providers appeared and having existed since before 1982 when SMTP was established, Beret Guy apparently doesn't understand what email is, even though he maintains a web page that includes his email address. Megan wonders how else he expects electronic messages to be sent. She explains that one must check email regularly, making a slight at voicemail, which she implies is not worth ever checking.
+Beret Guy offers two alternatives: Fax and Snapchat. Megan refers to Snapchat as "the naked pic thing", calling to mind how many of its users send naked pictures of themselves over the Internet. Beret Guy replies that people use fax machines for more than just "faxting" (a made-up term similar to sexting), implying that many people send sexual content via fax, a technology that predates SMTP by more than a century. Beret Guy knows what a fax is, which implies he is very behind in the technology world, so it makes sense he doesn't know what email is. But he also knows what Snapchat is, which was very popular around the time of this comic. Either Beret Guy heard about it in a similar way to email, or he definitely knows what it is and/or uses it. What's strange is that if Beret Guy knows what Snapchat is, he should know what email is as well, since you need to provide an email account in order to create a snapchat account.
+The title text, which could be Randall's New Year's resolution for 2015, refers to various date/time formats. In programming, a point in time (e.g. the current system time) is usually stored and processed as a single number that represents the count of seconds that have elapsed since a given starting time known as "epoch" (the Unix standard epoch is January 1, 1970 at midnight, UTC). In order to make sense to people, this number must be converted to a human-readable format, but programmers must choose a format that best meets the needs of their users. This can be a complicated problem to solve, given that there are many different standard formats for different regions, different levels of precision for different applications, and differences between "universal time" and a user's local time zone. Randall has previously advocated for widespread adoption of the ISO 8601 format as a universal standard.
+The title text also probably references a twitter outage that took place on December 29, which was blamed on an error in a date format string.
+Most programming languages provide functions to create a custom date-format string using "tokens" that represent different parts of the date/time. Here, Randall appears to have used one of these functions with the string "%Y-%M-%D %h:%m:%s", which looks like it should produce a date and time as "Year-Month-Day Hour:Minute:Second". However, he used the wrong tokens for this:
+%Y = 4-digit year (2014)
+%M = minute (54)
+%D expands to %m/%d/%y, which is "month/day/2-digit year" in the user's local time zone rather than UTC. ("12/30/14" - see below)
+%h = abbreviated month name ("Dec")
+%m = 2-digit month (12)
+%s = Unix timestamp (1420001642 seconds since epoch)
+The "%s" token shows us the actual Unix timestamp used (1420001642), which corresponds to 2014-12-31 at 04:54:02 UTC. The format string shown above thus yields "2014-54-12/30/14 Dec:12:1420001642". Note that the middle portion of this string shows "12/30" instead of "12/31" - this is due to the %D token expressing the date in Randall's local time zone (Eastern Standard Time, or EST), which is 5 hours before UTC. The time there was 23:54:02, or just before midnight, on the previous day.
+The correct format string for Randall's apparent desired result is "%Y-%m-%d %H:%M:%S", which gives the string "2014-12-31 04:54:02" (UTC) or "2014-12-30 23:54:02" (EST). Given the similarity between Randall's string and the correct one, it is easy to see how this type of formatting is confusing and often frustrating for programmers - particularly those not intimately familiar with these functions.
+Randall previously addressed date/time formatting in 1179: ISO 8601 and 1340: Unique Date (the latter of which uses a formatting string correctly).
+This was the second comic in a row with Megan holding a smart phone, the first being 1466: Phone Checking. The comic before that one was also about smart phones: 1465: xkcd Phone 2.
+Transcript[edit]
+[Megan approaches Beret Guy.]
+Megan: Any New Year's resolutions?
+Beret Guy: Gonna figure out what email is.
+Megan: ...Email?
+[Megan points to her phone.]
+Beret Guy: People always say they're sending them. They sound really into it, so I always nod, but I have no idea what it is.
+Megan: You have an address on your website!
+[Megan and Beret Guy walking.]
+Beret Guy: Oh, that's what that thing is.
+Megan: Email is important! You can't just never check it. It's not like voicemail.
+Beret Guy: Can't they just send messages normally?
+Megan: How?
+Beret Guy: Fax! Or Snapchat.
+Megan: ...The naked pic thing?
+Beret Guy: Fax machines aren't just for faxting!
+Trivia[edit]
+The Unix timestamp is a standard method of keeping time by counting the absolute number of seconds that have elapsed since a set point in time known as "epoch", defined as midnight on January 1, 1970, Coordinated Universal Time (UTC). Epoch, in ISO-8601 format, is "1970-01-01T00:00:00Z", where Z indicates UTC.
+The timestamp in this comic's title text (1420001642) is 1,420,001,642 seconds since epoch. The process of converting that number into a human-readable time is as follows:
+Years since 1970 = 1,420,001,642 seconds / 60 seconds per minute / 60 minutes per hour / 24 hours per day / 365.25 days per year
+This yields 44 years plus 31,467,242 seconds.
+The year for the timestamp is 1970 + 44 years = 2014.
+Note: The year calculation specifies 365.25 days per year to account for leap years (every fourth year adds an extra day). Also note that 2014 is not a leap year.
+Days since start of year = 31,467,242 seconds / 60 seconds per minute / 60 minutes per hour / 24 hours per day
+This yields 364 days plus 17,642 seconds. Given January 1 is considered the first day of the year, this means we are on the 365th day of 2014.
+The 365th day of a non-leap year is December 31. December is the 12th month in the Gregorian calendar.
+The remaining seconds can be converted into a time:
+Hours since start of day = 17,642 seconds / 60 seconds per minute / 60 minutes per hour = 4 hours plus 3,242 seconds
+Minutes since start of hour = 3,242 seconds / 60 seconds per minute = 54 minutes plus 2 seconds
+Thus, Randall's timestamp represents the time "2014-12-31T04:54:02Z" (again in ISO-8601 format).
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The strftime format used is probably %Y-%M-%D %h:%m:%s, which visibly looks as if it will yield a date and time, yet doesn't. A more correct format would have been %Y-%m-%d %H:%M:%S. 197.234.242.236 (talk) (please sign your comments with ~~~~)
+There's a strange thing with the date string : why 30 ? The timestamp shows 31 as a day in month and 5:54 which doesn't match 30... 54 looks like the week in year but matches with the minutes. Goufalite (talk) 09:57, 31 December 2014 (UTC)
+The explanation now mentions that Randall goofed - the string he typed in states "30" when it should be "31". KieferSkunk (talk) 21:06, 1 January 2015 (UTC)
+What on earth does 'Created for a live studio audience mean'?! 141.101.106.143 10:03, 31 December 2014 (UTC)
+"Unix" is misleading. Sure, unix "date" command is using this kind of formating, but it's also in C standard (specifically, C89 and C99) and available in most other programming languages standard libraries (including perl, php, python, ruby), often as ONLY way to format date without fetching every component separately. -- Hkmaly (talk) 13:15, 31 December 2014 (UTC)
+The C standard is largely based on the earlier Unix standard, so referring to "Unix" time is in fact correct and will make more sense to a larger set of readers (most computer users are at least vaguely aware of Unix and how it predates virtually all modern OSes, while less of them understand programming languages, let alone the various standards that exist in them). KieferSkunk (talk) 21:06, 1 January 2015 (UTC)
+I'm fairly confident that I used the term "email" before 1993, because of what I was doing before that date. But I also couldn't give any definitive sources. And I mean the name, not just the general Port 25 thing or its predecessors. But meh, no real proof unless I get lucky digging around in 5.25" floppies for old backups that I doubt I could read anyway... 141.101.98.191 13:23, 31 December 2014 (UTC)
+People were using the term "email" back in the days of modem-based bulletin-board systems (BBSes) and time-sharing services well before those systems were interconnected via the Internet. But back then, those were pretty specialized systems with specialized user groups. The explanation refers to when email became widely accessible to anyone with the ability to connect to the Internet (and coincided with the rise of "free" ISPs - "free" in quotes because most of them placed adware on your computer). 1998 is the year most often cited as the point where the Internet went fully mainstream - before that, it was still primarily a place for computer geeks. KieferSkunk (talk) 21:06, 1 January 2015 (UTC)
+Might be worth explaining %D vs %x for other locales. Glen442 (talk) 15:28, 31 December 2014 (UTC)
+How does "1420001642" translate into "2014-12-31 at 04:54:02"? Smperron (talk) 16:35, 31 December 2014 (UTC)
+The number is literally a count of milliseconds between the Unix "Epoch" (1/1/1970 at 00:00:00). The Unix standard uses a single large number to represent the absolute amount of time that has passed since that time. Calendar algorithms know how to translate that number into a human-readable date/time (remember, the Gregorian calendar and the 12/24-hour clock are really just human-devised methods to tell what day and time it is). There are lots of good whitepapers that describe how these algorithms work. The basic calculation is shown in the Trivia section. KieferSkunk (talk) 21:06, 1 January 2015 (UTC)
+Whoops - number of SECONDS since epoch, not milliseconds. Sorry. :) KieferSkunk (talk) 21:25, 1 January 2015 (UTC)
+By the way, a handy site for this is http://www.unixtimestamp.com/index.php . KieferSkunk (talk) 21:34, 1 January 2015 (UTC)
+the title text gives a date of 30 not 31 which means randell made a mistake!!! refer to http://www.unixtimestamp.com/index.php Needforsuv (talk) 19:03, 31 December 2014 (UTC)
+I have added that Randall made a mistake with 30 vs 31 and have also made a trivia entry that explains how the unix time stamp string becomes the specific date. Since this is called a unic time stamp it also makes sense to call it a unix time although it is also used by other languages. Kynde (talk) 12:25, 1 January 2015 (UTC)
+I don't think he made a mistake. Internal Unix timestamps are always stored UTC and strftime does the necessary calculation in order to present the time in the user's locale. Presuming he was located somewhere at least 5 hours before UTC (e.g. the continental US), 1420001642 would give that output. 108.162.238.192 21:57, 1 January 2015 (UTC)
+Good catch - I just realized this as well. I think the output of the %D token was actually translated to his local time zone, so it's CORRECT in that's what the formatter told him, further highlighting just how confusing this all can be. KieferSkunk (talk) 22:15, 1 January 2015 (UTC)
+I've gone ahead and rewritten that part of the explanation. I really couldn't imagine Randall making that big of a mistake, especially since he's such a stickler for details like that. This makes a lot more sense now. KieferSkunk (talk) 22:25, 1 January 2015 (UTC)
+In the trivia section, dividing the timestamp by 365.25 to get the number of calendar years ellapsed (not solar years) would only work if 25% of years since 1970 are leap years, which was true in 2014, but not in 2015, 2016... 108.162.229.129 21:35, 1 January 2015 (UTC)
+Given that the calculation is only getting the integer number of years, this still works. In 2015, the division will still yield "45" plus a fractional amount that is discarded for that part of the calculation. KieferSkunk (talk) 21:52, 1 January 2015 (UTC)
+Actually, to explain further, the "number of days" calculation allows for a 365th day (that would be December 31, given that February would have 29 days instead of 28). This is, in fact, the correct way to calculate the number of calendar years. (You're right that it doesn't correspond to SOLAR years, but we don't use a strictly solar calendar, and there are in fact errors in the Unix standard between those two measurements.) KieferSkunk (talk) 22:29, 1 January 2015 (UTC)
+If you drop the rest of the division you're right most of the time. Although, I maintain there are counter examples, like, the 31 december of 1970 at 11pm : since 1970 was a leap year, at that time, about 365.95 days had ellapsed since unix epoch, and the integer division would result in year +1, while it's still year 0. The problem becomes more serious if you use the rest of the division to continue calculation, which will provide an error in 75% of cases. 108.162.229.129 11:07, 2 January 2015 (UTC)
+Huh? 1970 wasn't a leap year - the next leap year from there was 1972. KieferSkunk (talk) 20:12, 2 January 2015 (UTC)
+Ooop, sure, sorry. So the counter example would be 1971, 1st january at 1am, 365.05 days having elapsed, and 365.05 div 365.25 giving year 0 instead of +1. 108.162.229.129 22:12, 6 January 2015 (UTC)
+This simplified calculation may work out to get the right integer year, but if you then reconvert that to seconds and subtract it from your timestamp, you will definitely make mistakes. The shown example is correct because the 44 years since 01/01/1970 contain exactly 11 leap days (44*0.25), but if you select a date in 2013, for instance, the calculation will include 10.75 leap days and yield the wrong result. Also, the assumption of a leap year every four years only works until the year 2100 (not a leap year). 162.158.150.10 13:16, 13 November 2017 (UTC)
+Also in Trivia, there's a bullet that reads "The 364th day of a non-leap year is December 31[...]", this is only true if January 1 is the 0th day of the year, which is mathematically correct and confusing to non-programming humans. It should read 'The 365th day[...]' or '[...]which translates to the 365th day[...]'. 108.162.241.11 (talk) (please sign your comments with ~~~~)
+This is the problem with math: Basic mathematics is zero-based - counting upward from the beginning of anything, you only arrive at 1 when you've reached your first complete unit. You can refer to "the first half-foot", but the measurement would be 0.5 feet, or less than 1. Similarly, while you're at any point before midnight on January 2nd, you're less than 1 day into the year, and the current amount of time having passed since the start of the year is 0.x days. We don't have to be programmers to get this, and considering it's a comic for science, math and computer geeks (primarily), I think we SHOULD expect our audience to get at least SOME of this. KieferSkunk (talk) 02:24, 2 January 2015 (UTC)
+That said, I went ahead and changed it to "365th day", given the description of the calculation already mentions that 364 days have elapsed since the start of the year. That should bridge the gap. (I made that distinction a little clearer as well.) KieferSkunk (talk) 02:30, 2 January 2015 (UTC)
+
+"via fax, a technology that predates SMTP by more than a decade." The first fax was in 1861, so pre-dates SMTP by a century 141.101.98.163 (talk) (please sign your comments with ~~~~)
+Really? They had facsimile modems back in 1861? Source, please. KieferSkunk (talk) 20:11, 20 January 2015 (UTC)
+Alexander Bain received patent #9745 for a fax process in 1843. The first practical fax machines appeared in 1881 (which is probably the year the OP meant), using telegraph technology. 108.162.213.29 (talk) (please sign your comments with ~~~~)
+Why would he even give the year that is about to start (the one he has the resolution for) as a timestamp, let alone one, that is showing not only the year, but also days, hours, etc.? --Lupo (talk) 08:05, 11 July 2019 (UTC)
+Categories: All comicsComics from 2014Comics from DecemberWednesday comicsNew YearComics featuring Beret GuyComics featuring MeganEmail

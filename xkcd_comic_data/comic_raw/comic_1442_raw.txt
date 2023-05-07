@@ -1,0 +1,91 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1442: Chemistry
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1442)
+|<< PrevComic #1442 (November 3, 2014)Next >>|
+Chemistry
+
+Title text: These are all sans-serif compounds. Serif compounds are dramatically different and usually much more reactive.
+Explanation[edit]
+This comic is a classic example of taking an absurd premise, and applying correct science to it, to see how different the conclusion is to the real world.
+The idea of Typographic Chemistry presented in this comic is a play on Douglas Hofstadter’s Typographical Number Theory and Typographical Genetics, which are featured in Gödel, Escher, Bach. While Hofstadter's typographical systems are designed to model aspects of real genetics and number theory, Randall abuses this notion by inventing a typographical system which bears no resemblance to real chemistry.
+Chemical bonding is a well-known subject which explains the formation of molecules from atoms. This comic refers to three chemical elements: carbon (C), hydrogen (H), and oxygen (O). In real chemistry, the formation of bonds between atoms depends on the number of valence electrons each atom has, and how accessible those electrons are for bonding. The comic jokingly replaces valence electron theory with a theory that the number of bonds an atom can form depends on the number of leaf vertices possessed by the chemical symbol's letter. A leaf vertex is a vertex having only one edge connecting to one other vertex. "H" for example, the chemical symbol of hydrogen, has 4 leaf vertices. This is shown in the comic by the four half-circles placed at each leaf vertex of the "H". Thus, in the comic's theory, elemental hydrogen can form 4 bonds. Oxygen, however, having the chemical symbol "O", has no leaf vertices, and according to the comic's theory should not bond to anything, and is therefore inert.
+Of course, the theory is completely inconsistent with observed chemistry. While the comic declares oxygen is inert and forms no bonds, this is not really the case: the two unpaired valence electrons in a lone oxygen atom make oxygen reactive, and oxygen atoms readily form molecules. Diatomic oxygen, O2, makes up about 20.9% of Earth's atmosphere, and is essential for aerobic life, including human life. Similarly, a water molecule consists of an oxygen atom tightly bonded to two hydrogen atoms.
+By observing real chemical compounds, chemists have deduced that hydrogen atoms really have 1 valence electron, carbon 4 and oxygen 6, allowing hydrogen to have up to 1 bond, carbon up to 4, and oxygen up to 2. Thus carbon can have up to four bonds, and really is often found in crystalline form in nature (diamonds and coal are allotropes of carbon); oxygen can have up to 2 bonds, and can combine with carbon to form CO2 (instead of C2H in the comic). Randall thus gives to "typographic" hydrogen qualities that belong in real-life to carbon, since "typographic" hydrogen can have 4 bonds. Similarly, "typographic" carbon is ascribed properties belonging to real-life oxygen. "Typographic" oxygen takes on the properties of the real-life noble gases (like helium, neon, and argon), which form no bonds and are inert.
+While the ethynyl radical, which has the structure ∙C≡C–H, does have the formula C2H, there is no molecule with the C–H–C structure in nature. The word "mydrane" is a whimsical neologism for this fictional substance: the "hydr-" prefix for hydrogen is changed to "mydr-" (a prefix which does not exist) and combined to the "-ane" suffix for alkanes (simple hydrocarbon molecules). Perhaps Randall named this compound "mydrane" to declare ownership of it ("my-" as in "mine"). Another reasonable assumption is that the word is a portmanteau of methyl (Me- is the prefix for 1 carbon chains attached to a functional group) and hydrogen with the -ane suffix for alkanes; the nomenclature stems from (di-)m(ethyl) (h)ydr(ogen) -ane, which would form mydrane. Technically, the nomenclature would be "dimethyl" since there are two "methyl" groups attached to the functional group (i.e. hydrogen in this case). It would, however, not be uncommon to drop a di- from a compound name if it's redundant (only one possible compound, e.g. dimethyl ether which sometimes is referred to as methyl ether) or makes a clumsy name ("dimydrane" could make it sound as if there are two mydrane groups).
+The title text points out that the theory as presented only applies to sans-serif text. A serif is a small line across the end of each stroke. "H", for instance, has four serifs, each with two leaf vertices. Thus hydrogen in a serif font would be able to form 8 bonds making it, according to the comic's theory, "more reactive".
+Transcript[edit]
+[A large capital letter "H", with faint gray circles drawn on the ends of each of the four legs.]
+Hydrogen can form four bonds. It readily bonds with itself, and often exists as a crystal.
+[A lattice of several H's, all "bonded" together at the ends of their legs in a crisscross, meshlike pattern, labeled:]
+Crystalline hydrogen
+[A large capital letter "C", with faint gray circles drawn on both ends of the arc.]
+Carbon can only form two bonds. It readily bonds with hydrogen to form C2H (mydrane) or itself.
+[Image of a C and an inverted C, linked at their endpoints, labeled:]
+C2
+[Image of two C's linked with an H between them, labeled:]
+C2H
+[A large capital letter "O".]
+Oxygen is inert, forming no bonds...
+[Image of several lone O's, none connected to anything, labeled:]
+Monatomic oxygen gas.
+[Caption at bottom:]
+Typographic chemistry
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+"I" would have two in Randall's system as a sans-serif element, and four as a serif element. 108.162.249.202 00:51, 4 November 2014 (UTC)
+The crossbar on "I" is actually not a serif, it's a part of the letter. Some popular sans-serif fonts that have a crossbar on "I" include Tahoma and Verdana. --Zagorath (talk) 13:24, 6 November 2014 (UTC)
+What is the force that holds the two or three glyphs of an atom together called? How many bonds does the i's dot in Ti have? Ann how dangerous is comic sans cheMStry? 141.101.104.39 06:52, 3 November 2014 (UTC)
+Probably not as dangerous as if you were using Aurebesh (look it up).--Amaroq (KitsunePhoenix) (talk) 03:15, 8 August 2021 (UTC)
+The letter i can only form one bond, as the other side is bonded with its dot. This is pretty basic chemestry!Maplestrip (talk) 08:20, 3 November 2014 (UTC)
+Ok. Let's look at something advanced. Fe. Os. Uut. -- Hkmaly (talk) 12:20, 3 November 2014 (UTC)
+Sorry, but you mean Nh.
+Ah, binary atoms. Probably too advanced for this discussion. Redbelly98 (talk) 13:03, 21 July 2018 (UTC)
+Presumably hydrocarbon chains are still supported, albeit with hydrogens forming the backbone in a zip-like arrangement. You'd need phosphorous on the end, with a sans serif valence of 1. SleekWeasel (talk) 08:09, 3 November 2014 (UTC)
+I believe he is making fun of incompetent chemistry students. I've seen some draw CH4 as C-H-H-H-H, i.e. according to some random and weird rules that have nothing to do with chemistry. - This comic proposes an equally nonsensical new paradigm. - Aeneas, 3rd November 2014, 10:01 CET
+The crystalline structure is not like real-life crystalline carbon (neither diamond nor graphite). I removed that but someone should add a bit about it.141.101.99.39 11:48, 3 November 2014 (UTC)
+Old English Krypton is particularly hazardous and may explode on contact. Dark matter is composed entirely of cursive script elements. DivePeak (talk) 12:01, 3 November 2014 (UTC)
+"Mydrane" is a trade mark for a company that markets miscellaneous medical supplies. "Hydrane" is a process for coal gasification by hydrogenation, producing ideally mostly light hydrocarbon gases (mostly methane) and a minimum of liquid products. Not clear whether either is relevant here.Taibhse (talk) 12:29, 3 November 2014 (UTC)
+Hydrane is probally relevant. The real Mydrane almost certainly isn't. However, two other words come to mind; Mydriasis (the dialation of the pupil) and Myopia (near-sightedness), which could be what was happening to us Chemistry geeks when we first saw that. Also, the "compound" he claims to be Mydrane does somewhat resemble a pair of eyes or a pair of glasses. -173.245.48.137 17:42, 3 November 2014 (UTC)
+Amount vs. number. In the explanation: "the formation of bonds between elements often relies on the amount of valence electrons an element has." Should read, "the formation of bonds between elements often relies on the NUMBER of valence electrons an element has…"
+-Avenue
+It would be a very interesting exercise to invent a new set of symbols that WERE accurate using this system.Seebert (talk) 12:47, 3 November 2014 (UTC)
+I don't know how relevant this is, but Hydrogen does exist in a metallic phase unde rhigh pressure and temperatures. It's liquid, though, and not crystalline. Also, C2H does also exist, but as a very unstable radical (basically an Acetylene Radical) which seems to be found in space. I have NO idea where Mydrane comes from. There are a lot of Hydrogencompounds ending with -ane (Borane, Silane, Methane), but no idea how this applies here. --108.162.231.188 14:21, 3 November 2014 (UTC)
+Question: does N(itrogen) only have two bonds, or are those angles a different kind of bond (perhaps ionic vs covalent)? If so, tungsten (W) would be interesting, for a start... (In fact, going though the elements in my head, from the monoglyph elements it would be the most complex under this system. The diglyphs might give Meitnerium (Mt... but was that previously Une as a systematic triglyph?) or Thulium (Tm) some interesting qualities, depending on how the system actually works. Triglyphs are always intended to be replaced, so I think those are moot.
+Wow, is this a serious question or are you just trolling for conspiracy nuts? Of course the conspiracy theorists will tell you that before the invention of printing all the angles were curves, and they were compressed to tight angles to make blocks of movable type smaller and cheaper. Reputable experimental chemists, however, have reported that the bonds between two tungstens is stronger than between two uraniums and we can attribute the difference to the angles. It is fairly evident that right angles (e.g. at the upper left corners of "F" and "P") are essentially inert, and it appears that bond strength increases as the angle becomes more acute. Opposing angles (e.g. "K") seem to Kancel each other out. This is still a very contentious topic!DivePeak (talk) 05:09, 4 November 2014 (UTC)
+As for symbols that are accurate, there are a number of systems. Hydrogen is represented on the "gold discs" on the Voyager spacecraft (as a starting key to easily decode other information on there) but without a complete overhaul of a system, I'd imagine no advanced civilisation will have started out with "let's show it how it actually works" (accurately, and without elements such as phlogiston creeping in!) before giving arbitrary names. Electron-orbital diagrams probably work well, though, for some things. And something that reveals the (for example) pi-bonds works better in combinatory diagrams. I think. It's been a while since I did any serious chemistry.141.101.99.112 14:41, 3 November 2014 (UTC)
+Oxygen has 6 valence electrons, not two. It forms two bonds because it's got room for two more. 108.162.216.105 16:49, 3 November 2014 (UTC)
+In a typographic chemistry system, assuming that molecules can still be 3-dimensional, Oxygen atoms could hypothetically find themselves strung along other atoms whose vertices poke through the O's (like a ring on a pole). If you were to throw quantum tunneling into the mix as well (probably represented by Stencil lettering), then you could have atoms passing through eachother, thus resulting in Oxygen forming into proper chain-links. --Amaroq (KitsunePhoenix) (talk) 03:15, 8 August 2021 (UTC)
+Could Mydrane be My Dr -ane where -ane is the common ending for an alkane. My Dr = CCH...which could be Cape Code Healthcare? ~~rbnm
+I wonder how many bonds the capital letter "I" would have-- two or four? Seeing as how Randall writes it in this comic, I'm guessing two. Also, would it be possible for carbon to bond with itself ad infinitum in a chain which looks like the teeth on a zipper ("C", upside-down "C", and so on)? 108.162.238.177 00:29, 4 November 2014 (UTC)
+Yes, Carbon can form very long chains, and also carbon rings (but only with an even number of carbon atoms).DivePeak (talk) 04:23, 4 November 2014 (UTC)
+Assuming that you're talking Comic Universe, I don't see why it can't be an odd number of carbons in a ring. Even if we're forced to bend round a ...∩U∩U... sort of thing (only end-connected, between characters, not end-snuggled, IYSWIM) you can have one that bends round outside of the plane of the page similar to a mobius strip and could still 'zipper' in a closed circuit with an odd number.
+IRL, of course, there's Cyclopentane and Cyclopropane (3- and 5-carbon rings), among others, and Cycloundecane (11-carbon saturated ring, with an irregular and aperiodic "wiggle" around the circuit) shows one way that the Fictional Cyclocarbon could (just with a greater angle of bond between successive carbons, and no hydrogens involved) work with odd numbers. 141.101.99.112 07:56, 5 November 2014 (UTC)
+My bad - I thought the comic universe was only two dimensional and it would have to be an even number. I need to upgrade my screen! DivePeak (talk) 02:51, 6 November 2014 (UTC)
+
+Me is not the designation of two carbon chains. Methane is CH4. 108.162.221.147rbnm
+
+Any idea why the title text says "usually" more reactive? Do we have examples of where serifs could be less reactive than their sans serif counterparts?108.162.229.90 11:51, 9 November 2014 (UTC)
+Usually: For example, serif oxygen and sans-serif oxygen are both inert.199.27.133.126 23:45, 9 November 2014 (UTC)
+Now if someone comes up with a species with the formula C2H, we know what to call it. Maybe the ion C-≡CH? Promethean (talk)
+I was never good at chemistry so this is probably a dumb question, but would it be possible to rename the elements to actually work with this convention? Obviously ignoring the fact that some elements may form too many bonds for any letters we have. Mikeb108 (talk) 00:19, 10 February 2022 (UTC)
+Given the 26-letter alphabet, single-characted symbols could cover just 26 elements, possibly the following assignments...
+Valency 0: B,D,O
+Valency 1:P,Q
+Valency 2: A,C,G,I?,J?,L,M,N,R,S,U,V,W,Z
+Valency 3: E,F,J?,T,Y
+Valency 4: H,I?,K,X
+...question marks indicate characters in there twice, because of particular alternate font styles give very different results.
+Maybe something like the sharp points of the A, V, M, etc could be a bond-site. Or the bulges of B, R, etc, mean something.
+If digraph symbols are allowed (Uppercase+lowercase, to avoid confusion with compounds, no using of l (el) in that form if it looks too much like the initial I (ai)...), as currently, then maybe more coverage. Xo is another 4, as is Qh. While Oo is maybe another monatomic element?
+Going into punctuation, # (octothorn!) is actually overkill except perhaps to allow something like xenon octofluoride (I know it can do hexafluoride, but I think that's just tetrafluoride with extra fluorines in the two -Xe-F-F- loops - I really must check), but & would be an interesting two-bondsite (plus two of those lobes, if that works for ionic rather than covalent).
+The main problem is polyvalent elements, especially in the metals, like ferric (Fe3+) vs ferrous (Fe2+) vs ferrate (possibly Fe6+, but my knowledge of iron chemistry is... *ahem*... rusty!). What character(s) do we assign to those? Multiple optional diacritics, as required to achieve the desired modification?
+...I'm not saying it's not possible, but bond-types (there's at least three types to consider, depending on how you group them) and compatability with valid bond-angles (which really needs 3d glyphs with subtly different forms?) and then you end up with slvery similar forms between near-substitute elements that tend to be 'the same but slightly larger' in a bonding situation, etc.
+A less symbolic and more diagrammatic atomic illustration method might be easier to reuse as an alphabet, than the alphabet is to entirely reuse for diagrammatical purposes. But I'm sure with enough tweaking you could get something that works in limited ways. ;) 172.70.91.126 01:31, 10 February 2022 (UTC)
+The hydrogen crystal in SMILES: [H]1[H][H]23[H][H]4([H])[H][H]56[H]24[H]78[H]13[H][H]7([H])[H][H]58[H][H]6. Unfortunately, some SMILES parsers can't handle overbonding. ClassicalGames (talk) 13:19, 20 April 2023 (UTC)
+Carbon:[C]=[C].
+The carbon compound is [C]=[H]=[C] and the oxygen is [O].[O]. See this page for the guide.
+Don't remove the brackets, or it will not work. ChemistryGuide (talk) 07:02, 25 April 2023 (UTC)
+Categories: All comicsComics from 2014Comics from NovemberMonday comicsChemistry

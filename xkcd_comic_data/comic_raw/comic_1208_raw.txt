@@ -1,0 +1,134 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1208: Footnote Labyrinths
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1208)
+|<< PrevComic #1208 (May 6, 2013)Next >>|
+Footnote Labyrinths
+
+Title text: Every time you read this mouseover, toggle between interpreting nested footnotes as footnotes on footnotes and interpreting them as exponents (minus one, modulo 6, plus 1).
+Explanation[edit]
+This is a logic puzzle where the reader has to follow a confusing network of footnotes to determine whether the word "no" is to be ignored or not.
+In the following solutions, "right-associative" means that the footnotes are evaluated from right to left or top to bottom, and left-associative from left to right or bottom to top (e.g. (26)3 is left-associative, and 2(63) is right-associative).
+The term "ibid." is short for "ibidem", or "at the same place", meaning the reference was noted on the same page just before.
+Interpreting nested footnotes as footnotes on footnotes, left-associative
+no12 = (no1)2 = "ignore this" (it is meaningless to increment a phrase by 2), so the correct statement is "we found evidence for it in our data".
+Interpreting nested footnotes as footnotes on footnotes, right-associative
+"no12" = "no1 + 2" = "no3". We turn to the definition of 3, which is "not true32" = "not true3 + 2" = "not true5".
+Now 5 is "true263". Going from top down accordingly, the 3 tells us that the 6 is "not true5", getting us into an infinite loop, and if we are restricted to only following the footnotes step-by-step, then we will never reach a solution.
+Suppose we ignore infinity momentarily, we can say there must be only two possibilities (though we have to be wary of paradoxes) for the meaning of 63: either 6 is true, and thus the 2 is actually a 1 (ibid.), or 6 is false or ignored, and thus the 2 remains a 2. In the latter case, the resolution we see is "true263" = "true2". It is meaningless to increment a phrase by 2, so if we also require actions to have meaning, then footnote 2 must change to a 1.
+Consequently, 6 must be true. We can finally resolve 5 = "true263" = "true1" is ignored. Since we now know that footnote 5 is ignored, we then go back to the definition of 3, which we found was "not true5" = "not true".
+Before returning to "no3", we see that this conclusion contradicts our previous assumption that 6 is true. In the definition of 5, we found that it is ignored since we imposed "true263" = "true1", but we also found that the definition of 3 is "not true"; therefore, 5 = "true2" since it is not true that 2 is actually 1. Now we have reached our contradiction. The upshot is there really is no solution if we restrict footnotes to have only one meaning/definition (in other words, a footnote cannot be both true and not true).
+
+The title text suggests interpreting footnotes as exponents (minus one, modulo 6, plus 1). Because applying the operations "minus one, modulo 6, plus 1" to an integer always results in an integer between one and six (inclusive), no sequence of integer exponents will ever end up referencing a footnote that does not exist. In mathematics, nested exponents are exclusively right-associative. "no12" = "no1", so we ignore the "no" and the correct statement is "we found evidence for the data." Meanwhile, 3 becomes "not true3", an infinite recursion, and since 263 mod 6 = 4, we just get "ibid" and the 5 refers back to the 3. Footnote 6 is equivalent to 14 = 1 = "ignore this".
+The comic 1184: Circumference Formula is also playing on the typographical similarity between footnotes and exponents, as well as adding even more ridiculous rules.
+Transcript[edit]
+[Excerpt from what appears to be an academic paper with footnotes.]
+experiments to observe this and we found no12 evidence for it in our data.
+1Ignore this
+2Increment by 2 before following
+3Not true32
+4Ibid.
+5True263
+6Actually a 122
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Way to nerd-snipe me, Randall. Alpha (talk) 04:52, 6 May 2013 (UTC)
+In the nested-footnotes interpretation, 5 has to be ignored: The 6 must be true, and the 6 says that it’s “actually a 1”, but with footnote 2+2 which says “ibid.” and thus equals footnote 3, which is true. So 6 really does mean actually a 1, which leaves 5 to be ignored. --77.186.8.191 10:47, 6 May 2013 (UTC)
+The footnote for 6 is actually 1 to the 2 to the 2 Schmammel (talk) 12:36, 6 May 2013 (UTC)
+Explaination is wrong : abc = a(bc) = ab^c (confer the definition of a gogol = 10^100 = 10102, and a gogolplex = 10^gogol = 10(10100), not 10^110. So since 1^2= 1, No12 really means No1. 192.54.145.66 (talk) (please sign your comments with ~~~~)
+Yes, so "no1" means to ignore the "no" and the answer for the second explanation is "we found evidence for the data." By the way, it's spelled "googol." Alpha (talk) 17:51, 6 May 2013 (UTC)
+Question, alternative explination
+I wasn't really satisfied with the whole discarding of the infinite loop, so I worked through the problem seperately using the nested footnotes. Then, when we hit the infinite loop I split between the two possible answers (either the infinite loop ends on true or false). As I read it, they both get the same answer:
+no (3)
+no (not true (5))
+no (not true (true (2 < 6 < 3))
+no (not true (true (2 < 6 < (not true))))
+no (not true (true (2 < (actually 1 < 2 < 2 (not true 3 < 2)))))
+no (not true (true (2 < (actually 1 < 2 < 2 (not true (5)))))
+Split!
+If 6 is false (infinite loop possibility)
+no (3 < 5 < 2)
+no (not true (7)) - meaningless, so discard
+no (not true)
+
+If 6 is true (infinite loop possibility)
+no (3 < 5 < 1 < 2 < 2)
+no (3 < 5 < 1 < 4)
+no (3 < 5 < 1)
+no (3)
+no (not true)
+Both lead to the answer "... experiments to observe this and we found evidence for it in our data". -- Urah (talk) (please sign your comments with ~~~~)
+Yes, but at each stage you may "toggle between interpreting nested footnotes as footnotes on footnotes and interpreting them as exponents (minus one, modulo 6, plus 1)." That is, a23 may either be read as "apply note 8 (=2mod6) to text a", or as "apply note 3 to text "2", then the result to text a". 192.54.145.66 (talk) (please sign your comments with ~~~~)
+There are differences in interpretation here. If we write "foo36", is it equal to "foo112" or "foo3112"? I assumed the former and you assumed the latter. My reasoning is that footnotes modify their arguments and not themselves. Alpha (talk) 17:44, 6 May 2013 (UTC)
+Shouldn't 5 be true (because 6 is actually 13; therefore 5 is true2133; so the 2 is ignored regardless the truth of 3) and 3 is not true? Sebastian --178.26.118.249 18:35, 6 May 2013 (UTC)
+
+Yet another alternative solution: Footnotes should be evaluated from top to bottom, so "no12" = "no1 + 2" = "no3". We turn to the definition of 3, which is "not true32" = "not true3 + 2" = "not true5".
+Now 5 is "true263". The 6 says that the 2 footnote is really 122 = 1(4. ibid.) = 13, but the 3 tells us that the 6 is "not true5", getting us into an infinite loop. However, 263 must evaluate to 1, because otherwise we're incrementing "true" by 2, which is meaningless. This means that 3 must be equal "not true". 63 = "actually a 1"33 = "actually a 1". 5 becomes true1 which just says to ignore this footnote altogether and we can confirm that 3 is indeed not true (not true5 = not true). So the answer is that the "no" is not true, and the correct statement is "we found some evidence for it in our data." Phew. Ciamej (talk) 22:40, 6 May 2013 (UTC)
+I'm not discouraging anyone from coming up with more alternate solutions, but would it be fair to say that part of the point is that there are multiple equally legit ways to run this labyrinth, and that some exit where you ignore the 'no', others exit on the other side where you don't ignore it. and then there's those who won't exit because they're busy making a map. - 70.72.16.171 23:18, 6 May 2013 (UTC)
+I don't understand the proof from This means that 3 = "true". Why do you assume that footnote has to be either "true" or "false? I think it could be "ignore this", "increment by three before following", "leave the whole calculation and assume we have two pieces of evidence" etc. as well. 178.56.1.144 23:37, 6 May 2013 (UTC)
+Given the footnotes' definitions I don't think it's possible to ever come up with "increment by three before following" ;)
+Actually the solution I gave may be not strictly formal, but it gives some intuition why it seems to be the only valid one.
+The fact that the definitions are recursive doesn't imply that the ultimate answer cannot be resolved. Ciamej (talk) 02:18, 7 May 2013 (UTC)
+So what I'm hearing is this, "No means No.", yes?66.88.136.254 19:37, 8 May 2013 (UTC)
+It's a real strange logic, but "No = No" means "Yes" --Dgbrt (talk) 19:44, 8 May 2013 (UTC)
+Footnote logic
+So... I did some footnote logic, and came up with this:
+This explanation will treat footnotes as footnotes, with the order of operations from top-down, with footnotes acting on only the object they are attached to, including other footnotes.
+1. no^1^2
+2. no^3
+3. no(not true^3^2)
+4. no(not (true^5))
+5. no(not (true^2^6^3))
+The ^6 says the ^2 is actually a 1^2^2, but the ^3 says that the ^6 is "not true^3^2". This leads us to an infinite loop, as the "not true^3^2" in step 3 led to the addition of the additional "not true^3^2".
+I assume that the loop can be reduced down to either "true" or "not true", for the purposes of following this path. I will explore both options.
+if infinite loop is true:
+6a. no(not true^1^2^2) (replacing 2 with 1^2^2 as per 6)
+7a. no(not true^1^4)
+8a. no(not true(ignore(not true^3^2))) (infinite loop again)
+I guess we'll split once more.
+if second loop is true:
+9aa. no(not (true(ignore(not true)))) (as the second loop reduced to true, we have no more footnotes)
+10aa. no(not true) (since the "ignore" this exponent was not true, we can remove it)
+And we finally have something simple. No is not true, so evidence was actually found.
+if second loop is false:
+9ab. no(not (true(ignore(not (not true))))) (again, with the second loop reduced to "not true", we have no more footnotes)
+10ab. no(not (true(ignore)))
+11ab. no(not)
+This is a bit more confusing, as we're ignoring the true as per step 10ab, and are just left with no^not. I'm going to take this to mean true, as in, again, evidence was found.
+if first loop is false:
+6b. no(not (true^2)) (the ^6 which said that the ^2 was actually a 1^2^2 was negated by the ^3 (which we declared as false for this leg), therefore both the ^3 and the ^6 can be reduced to nothing.)
+No idea how to proceed here, as true is not a footnote, and can't be followed or incremented.
+If we just ignore the ^2, we're left with the same as 10aa. That is, evidence was again found.
+Alternatively, we can say that because ^5==false led us to a nonsensical result, then ^5 must always reduce to true, meaning that the only acceptable answer is to follow the path to 10aa.
+Any way you slice it, evidence was certainly found.
+Kalzekdor (talk) 22:29, 25 May 2013 (UTC)
+Read the title text
+The title text says that you have to toggle between interpreting footnotes and calculating them (minus one, modulo 6, plus 1). And all calculations using the plus sign for exponents are wrong. 32 is 3*3 and not 3+2.
+Interpreting footnotes:
+no12 - 1ignore this
+no2 - 2increment by 2
+no4 - 4IBID -> footnote before
+no3 - 3not true32
+yes32
+Calculation:
+32 = 9 -> 9-1 = 8 -> 8 modulo 6 = 2 -> 2 plus 1 = 3
+yes3
+Interpreting footnotes is again the same as before:
+yes3
+no32
+So I am also on an infinite loop and footnotes 5 and 6 are never used. --Dgbrt (talk) 11:29, 26 May 2013 (UTC)
+
+you are all wrong and I would presume there is no solution as title popup says every time you read it you should toggle... so I'm afraid everyone could arrive to different solution. 87.239.45.58 12:55, 26 June 2013 (UTC) Cyp
+(A) I don't follow the last comment. You toggle only when you read the mouseover. For most people, only once: i.e., try it the other way. (B) Should 1 be interpreted as a message to the reader or a comment on the footnoted phrase? If the latter, then as exponents, it is 1x1=1, or ignore the "no". If the former, then as exponents, move on to footnote 2, then 4, then 3 and stop there--"not true 3x3" cannot be evaluated. When interpreting as footnotes, then the footnote on No1 also cannot be evaluated as footnote 3 is an endless loop of 3-2-4-3-2-4... There is no opportunity to arbitrarily stop at "true" or "not true" as one commenter suggests because one never reaches the point of evaluating the self-referential 3 on the third footnote. Or it so it seems to me. 114.171.110.105 14:03, 11 July 2013 (UTC)
+Where is the EDIT WAR here???
+There is an update here today to the latest update on November 17. 2013; where is the actual WAR??? --Dgbrt (talk) 01:35, 8 January 2014 (UTC)
+I am the anonymous editor who made the last edit before the page was protected. I suspect my frustrated summaries made the administrators believe there was a war. 199.27.128.146 17:53, 13 January 2014 (UTC)
+I see it in a a different way. no ^ 1 ^ 2 means footnote 1) to the word "no" and footnote 2) to footnote 1. Thus we got: No (ignore this) (2) no (ignore this) (increment by 2 before following) - so use 4) instead of 2) no (ignore this) (4) no (ignore this (ibid) - so use 3) instead of 3) no (ignore this) (3) no (ignore this) (not true) (3)(2) As 2) take us to 3) via 4) we got no (ignore this) (not true) (3)(3) Now we can replace both (3)'s with '(not true) (3)(2)', but... they are the same. It does not matter if they are true or not, because we can A) apply 'not true' to the phrase 'not true', which results in 'true', or B) apply 'true' to the 'true' phrase, which results in the same answer, so: no (ignore this) (not true) Not true makes us ignoring footnote 1, and in consequence, footnoted 'no' from the very beginning stays the same. I could alt, but It's 4p.m. and I'm heading home from office. 8-) 141.101.88.219 13:58, 26 September 2014 (UTC)Koovert
+testing a thing here jc 162.158.34.4 (talk) (please sign your comments with ~~~~)
+It is meaningless to increment a phrase by 2[edit]
+Increment by 2 = add 2 = ignore this 2 = ignore this too, implying there's another ¹ somewhere earlier. Such word games wouldn't be out of character for whoever would write such a terrible mess. (Though at doesn't explain the 'before following' part.) --172.68.182.112 19:30, 20 March 2019 (UTC)
+As I understand it, you are incrementing the one by two, leading you to three, which leads to an infinite loop of 3 and 5. Netherin5 (talk) 13:33, 21 March 2019 (UTC)
+House of Leaves reference, anyone? 108.162.238.161 16:43, 17 September 2019 (UTC)
+Categories: All comicsComics from 2013Comics from MayMonday comicsMy HobbyFootnotes

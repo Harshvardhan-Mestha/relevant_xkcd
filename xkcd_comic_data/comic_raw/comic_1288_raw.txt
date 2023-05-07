@@ -1,0 +1,119 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1288: Substitutions
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1288)
+|<< PrevComic #1288 (November 8, 2013)Next >>|
+Substitutions
+
+Title text: INSIDE ELON MUSK'S NEW ATOMIC CAT
+Explanation[edit]
+This is the first comic in the Substitution series where Randall has suggested substitutions that will make reading the news more fun. But there have been several comics using substitutions both before and after these ones.
+The series as of 2016:
+1288: Substitutions
+1625: Substitutions 2
+1679: Substitutions 3
+Randall is playing off of the fact that many readers of modern news articles quickly become bored with the legal and political jargon. He suggests that substituting certain words for others can make reading the article more interesting, albeit less accurate. Although since Randall doesn't think very highly of the news, he's probably suggesting this chart wouldn't make them less accurate at all. (See for instance 558: 1000 Times and 932: CIA.)
+For example, a sentence that reads
+Witnesses reported that the suspect allegedly escaped unharmed.
+would be changed to
+These dudes I know reported that the suspect kinda probably escaped unharmed.
+This substitution does not change the meaning much, and the original sentence does not lose much of its accuracy. However, for substitutions later in the comic, a sentence may be changed as follows:
+A new study finds that senators and other congressional leaders are increasingly likely to view election results on their smartphone.
+into
+A Tumblr post finds that elf-lords and other river spirits are increasingly likely to view eating contest results on their Pokédex.
+Which is less meaningful, but more interesting.
+The final substitution returns from the realm of the ridiculous to replacing "could not be reached for comment" with "is guilty and everyone knows it." If a journalist writes a story about an accused suspect but is unable to contact them or receives no response from them, they will write that the person "could not be reached for comment." Randall's whimsical assumption that silence implies guilt is so common that juries are instructed that they should not infer guilt if the defendant fails to testify, particularly in nations that have a right against self-incrimination.
+'Spaaace' could be a reference to the Space Core from Portal 2, or to the way The Muppet Show presented Pigs in Spaaace.
+The Virtual Boy is a table-top video game console made by Nintendo released in 1995 and discontinued about the same year. It achieved true-3D graphics through the use of a large visor containing a pair of LED screens, though it considered having done so incredibly poorly, while also lacking any form of ergonomic comfort and sporting several critical design flaws. As a result, it is commonly mocked as one of Nintendo's biggest failures (sometimes by Nintendo itself).
+The Pokédex is a device in the Pokémon world that records the data of captured Pokémon.
+Homestar Runner is the title character of a Flash-animated web cartoon series, known for being an idiot.
+It seems generally that Randall is no fan of Google Glass, which was also shown earlier in 1251: Anti-Glass and later in 1304: Glass Trolling. Thus explaining why Google Glass has such a ridiculous substitution as Virtual Boy. Google Glass has become a recurring theme in xkcd.
+In the title text Elon Musk is mentioned. He is (amongst other things) the CEO of Tesla Motors, which produces electric cars. In the title text the sentence "Electric cars" was replaced by "atomic cats" according to the chart of the comic.
+News reports about new studies (Tumblr posts) are further lampooned in 1295: New Study, a comic posted two weeks later.
+
+Implementations[edit]
+There are extensions for Chrome and Firefox that apply these substitutions on webpages.
+Transcript[edit]
+[Caption above the panel:]
+Substitutions that make reading the news more fun:
+[A table of words/sentences on the left that changes into those on the left. Between each set of words, there is a gray arrow pointing from the right.]
+Witnesses ➜ These dudes I know
+Allegedly ➜ Kinda probably
+New study ➜ Tumblr post
+Rebuild ➜ Avenge
+Space ➜ Spaaace
+Google Glass ➜ Virtual Boy
+Smartphone ➜ Pokédex
+Electric ➜ Atomic
+Senator ➜ Elf-lord
+Car ➜ Cat
+Election ➜ Eating contest
+Congressional leaders ➜ River spirits
+Homeland security ➜ Homestar Runner
+Could not be reached for comment ➜ Is guilty and everyone knows it
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+We need a web plugin that does this automatically, stat! 141.101.99.216 11:36, 8 November 2013 (UTC)
+Lol, I was just thinking the same thing! I was only meaning to post that in the discussion but saw that nobody had done the explanation yet. There goes a good chunk of my day :/ Zyxuvius (talk) 11:55, 8 November 2013 (UTC)
+Came here just to say this. Please post links to the unofficial xkcd news substitution tool as soon as it becomes available :P -- 173.245.51.223 13:41, 8 November 2013 (UTC)
+It already exists for Firefox: https://addons.mozilla.org/en-US/firefox/addon/foxreplace/ This addon allows you to create substitution lists that will automatically be applied to web pages. -- 173.245.51.210 13:39, 8 November 2013 (UTC)
+And here's an URL for the abovementioned FoxReplace addon. Just import it, and it will do the substitutions listed in this XKCD comic: https://www.dropbox.com/s/36eq2xgnmv8obpe/XKCD.json 173.245.51.210 (talk) (please sign your comments with ~~~~)
+Updated link for FoxReplace: https://drive.google.com/open?id=1fumEJqH6V0HKtXEz8IP1GB_Uw-3PeyId
+I threw this together this morning for Chrome: https://Free code.com/ChrisMagellan/Make-News-Funny/ Note that you need to enable developer mode in your Extensions settings. 108.162.219.29 (talk) (please sign your comments with ~~~~)
+Oh God! Thank you! I'm trying not to laugh too loudly at work. This is hilarious "While last ’s grind of an eating contest lacked the drama of the 2008 race ..." -- 173.245.51.223 15:01, 8 November 2013 (UTC)
+How do I install it? Whitecat (talk)
+As a userscript that should work with Scriptish, Greasemonkey or anything else that supports userscripts: https://gist.Free code.com/mcef/7376276 (click to install: https://gist.Free code.com/mcef/7376276/raw/e0b7a3ca2a65b8809a48241a92f265ae479c9e99/1288.user.js)
+Add other news sites on the top or just tell me and I'll add them. mcef (talk) 19:57, 8 November 2013 (UTC)
+For those who don't want to install anything in their browsers, here is a bookmarklet. To use it, create a new bookmark and insert the following code as location
+javascript:(function(){var%20map={:"These%20dudes%20I%20know","":"Kinda%20probably","new%20study":"Tumbl%20post",:"Avenge",:"Spaaace","google%20glass":"Virtual%20Boy",:"Pokedex",:"Atomic",:"Elf-lord",:"Cat",:"Eating%20contest","congressional%20leaders":"River%20spirits","homeland%20security":"Homestart%20Runner","could%20not%20be%20reached%20for%20comment":"Is%20guilty%20and%20everyone%20knows%20it"};var%20b=document.getElementsByTagName('body')[0];b.innerHTML=b.innerHTML.replace(/new%20study|google%20glass|congressional%20leaders|homeland%20security|could%20not%20be%20reached%20for%20comment|\w+/gi,function($0){return map[$0.toLowerCase()]||$0});})()
+--173.245.53.128 20:44, 8 November 2013 (UTC)
+You've made the wrong script. This is the correct one:
+javascript:
+(function(){
+ var map={
+  :"These dudes I know",
+  :"Kinda probably",
+  "":"Tumbl post",
+  :"Avenge",
+  :"Spaaace",
+  "":"Virtual Boy",
+  :"Pokedex",
+  :"Atomic",
+  :"Elf-lord",
+  :"Cat",
+  :"Eating contest",
+  "s":"River spirits",
+  "":"Homestart Runner",
+  "":"Is guilty and everyone knows it"};
+var b=document.getElementsByTagName('body')[0];
+b.innerHTML=b.innerHTML.replace(
+/
+|
+|s
+|
+|
+|\w+/gi,function($0){
+ return map[$0.toLowerCase()]||$0});})()  
+173.245.51.221 08:45, 9 November 2013 (UTC)
+I don't get how that was supposed to work, here's mine: javascript:(function(o){var t = o.innerHTML; var subs = [["","dudes I know"],["","kinda probably"],["","tumblr post"],["","avenge"],["","spaaace"],["","virtual boy"],["","pok\u00e9dex"],["","atomic"],["","elf-lord"],["","cat"],["","eating contest"],["s","river spirits"],["","homestar runner"],["","is guilty and everyone knows it"]]; for(var x = 0; x < subs.length; x++) { t = t.replace(new RegExp(subs[x][0],"gi"),subs[x][1]); } o.innerHTML=t;})(document.body);
+199.27.128.183 02:15, 13 November 2013 (UTC)
+Is "Homestar runner" a reference to something I'm not cool enough to get? Djbrasier (talk) 20:49, 8 November 2013 (UTC)
+http://www.homestarrunner.com/ 108.162.219.6 (talk) (please sign your comments with ~~~~)
+I created a plugin for Chrome and Opera, available here: http://www.joshmedeiros.net/XKCD%20Substitutions/ 108.162.242.120 09:16, 9 November 2013 (UTC)
+The Virtual Boy is a oversized *portable* console. 173.245.54.88 13:34, 10 November 2013 (UTC)
+Pigs In Spaaaaace! 108.162.219.33 (talk) (please sign your comments with ~~~~)
+That "" switched for "SPAAAACE" is so much fun when reading about nameSpaaaces in C++, for example. I was reading the Go tutorial today... Try it. GBGamer117 > /dev/null (talk) 23:57, 12 November 2013 (UTC)
+The Opera plugin is now available here: https://addons.opera.com/en/extensions/details/xkcd-substitutions/ 108.162.238.120 06:50, 15 November 2013 (UT
+I have written yet another Chrome extension inspired by this comic: "xkcd Substitutions Plus" I did this since I couldn't find one that let you to edit the list of substitutions. I plan to upload the code to Free code too. I would love to hear suggestions on how to improve it :) 141.101.98.220 (talk) (please sign your comments with ~~~~)
+You should probably disable your extension for this page (or make it correctly work with the textarea), since you seem to be changing other code posted in the comments with it every time you make an edit. mcef (talk) 15:58, 17 November 2013 (UTC)
+It's a good idea, I'll add a list of excluded pages to the extension. 108.162.231.57 18:59, 17 November 2013 (UTC)
+And yet you do it again, ruining all the code posted in the comments. Please refrain from editing this with the plugin enabled. mcef (talk) 19:12, 17 November 2013 (UTC)
+The comic description really confused me... until I realised I had the plug-in turned on. :D 141.101.99.217 20:07, 24 November 2013 (UTC)
+Weirdest thing I've gotten out of the extension: Jehovah's These dudes I know. 108.162.215.84 09:11, 28 April 2014 (UTC)
+Check out the Android App (we are using it for a research project, to collect user interaction data): https://play.google.com/store/apps/details?id=at.fhooe.mint.app 141.101.92.45 17:06, 5 March 2015 (UTC)
+I just logged on to #xkcd on foonetic, and I saw this: Topic for #xkcd is: "Hey, it looks like you're updating your resume!" - MS buys LI | https://goo.gl/FDyl1f | s/clone/clown/g | #xkcd = take a joke too far | bearachute has lost his sense of self | Today is a good day for a donut | New element names announced: nihonium, moscovium, tennessine and oganesson http://goo.gl/v4b437 (bold mine). I like it. KangaroOS 04:31, 15 June 2016 (UTC)
+Hey, you should check the transcript with the plugins. SilverMagpie (talk) 21:52, 18 January 2017 (UTC)
+This comic is cited in "Scripting" section of the W3C HTML5 recommendation: https://www.w3.org/TR/html5/semantics-scripting.html#example-c1cd20ae
+Categories: All comicsComics from 2013Comics from NovemberFriday comicsSubstitution seriesComics sharing nameChartsComics featuring Elon MuskLanguageVideo gamesPokémonPoliticsCatsGoogle Glass

@@ -1,0 +1,78 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+1184: Circumference Formula
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 1184)
+|<< PrevComic #1184 (March 11, 2013)Next >>|
+Circumference Formula
+
+Title text: Assume r' refers to the radius of Earth Prime, and r'' means radius in inches.
+Explanation[edit]
+The circumference C of a circle is 2πr, where r is the radius of the circle. Randall then makes a footnote about r, using 2. This creates a typographical ambiguity, since a superscript 2 can also be an exponent (as in x2). The comical purpose of this ambiguity is that the formula initially makes an appearance of a mistake and confusion with the formula for the area of the circle: A = πr 2. If and only if the reader realizes that the superscript text is a reference to a footnote will they understand that the author has in fact supplied the correct formula.
+The title text makes a related joke. Randall has used r' (r-prime) and r" (r-prime-prime, typically pronounced as r double prime). The title text can be explained thusly:
+Like many symbols, prime has widely differing meanings depending on context. In mathematics prime is often employed to distinguish corresponding components in analogous systems. For example, in a description of a basic physical system, if the velocity of an object is denoted with the variable v, the velocity of that object at time=0 may be denoted with v′. Playing off this use of prime, Randall has selected the radius of Earth Prime, a concept used in speculative fiction with parallel universes and multiple Earths. Earth Prime is our Earth (or at least the Earth from which the protagonists originate).
+However, other disciplines use prime to mean other things. In timekeeping and navigation ' denotes minutes (fractions of hours or degrees, respectively) and " denotes seconds (fractions of minutes). In the United States and some other places not using meters to measure distance, ' denotes feet and " denotes inches.
+The suggestion of using r' or r" does not cause any mathematical confusion, but using the former to denote the radius of a specific object and the latter to denote a radius using a specific unit of measurement would be highly esoteric. Furthermore, r' and r" can be used in calculus as a method of denoting, respectively, a first derivative and a second derivative. For someone attempting to use the formula and some derivative representing a circle's radius, trouble could result quite easily.
+The Comic 1208 (Footnote labyrinth) is another joke on footnotes, to the power of [citation needed].
+2 These are not intended to indicate the presence of a footn... oh, never mind.
+Transcript[edit]
+Circumference of a circle:
+2πr2
+2The circle's radius
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Tau x Radius, superscript 2
+Since tau is more commonly used for the Golden Ratio, that's a silly idea. 121.74.169.237 11:13, 23 September 2013 (UTC)
+You may be confusing tau with phi. I've never seen the golden ratio represented by anything other than phi. I've also never seen tau representing anything other than 2pi. 108.162.219.7 19:25, 10 May 2014 (UTC)
+Leaves one wondering what the superscript 1 refers. -- 74.215.40.250 (talk) (please sign your comments with ~~~~)
+It's 2πr2, not τr2. —173.199.215.5 05:37, 11 March 2013 (UTC)
+You're missing the point. τ == 2π and is considered better than using π by some people -- 138.195.69.136 (talk) (please sign your comments with ~~~~)
+Only for very loose definitions of "better." 71.201.53.130 14:59, 11 March 2013 (UTC)
+Whoa! Never heard about that before, but after 2 hrs or so, I think I'm getting convinced! Check this site out: http://tauday.com/ What do you think? –St.nerol (talk) 18:06, 11 March 2013 (UTC)
+Ok so τ might make more sense than π but as comic 1179 pointed out, both pi-day and tau-day are wrong. Tharkon (talk) 13:23, 3 August 2014 (UTC)
+I think tau is pointless. Using tau what then happens to Euler's famous formula, the most beautiful equation of them all? Pi shows up in so many different ways and places in mathematics. Tau appears pretty much only in the formula for a circle's circumference. Why bother needlessly proliferating symbols? J Milstein (talk) 18:17, 11 March 2013 (UTC)
+Surface area of a sphere is 2τr^2, or if you want to get pi in there πd^2 108.162.218.101 (talk) (please sign your comments with ~~~~)
+RE: Euler's Identity: e^(tau*i) - 1 = 0 --Max Nanasy (talk) 18:27, 11 March 2013 (UTC)
+Ok, that works J Milstein (talk) 17:05, 13 March 2013 (UTC)
+Why not just e^(tau*i) = 1. Do you routinely do 2 + 2 - 4 = 0?206.181.86.98 20:31, 13 March 2013 (UTC)
+Because:
+Symmetry wrt the original Euler's Identity (e^(pi*i) + 1 = 0)
+According to http://en.wikipedia.org/wiki/Euler's_identity#Mathematical_beauty, "in algebra and other areas of mathematics, equations are commonly written with zero on one side of the equals sign."
+--Max Nanasy (talk) 00:35, 14 March 2013 (UTC)
+I think Euler only did that because he disliked negative numbers. It really is less a deal than people make of it.206.181.86.98 03:02, 15 March 2013 (UTC)
+Also, it uses the five most important constants in mathematics: e, π (or τ), i, 1, and 0. Curtmack (talk) 20:33, 30 April 2013 (UTC)
+The tau variant of Euler's identity above, e^(tau*i)=1, appears to miss the point. Normally, a positivt number to the power of any real number is positive. Thus i could be any normal number. Well, not any number. i could be 0 and the equation will hold. With pi however, e^(pi*i)=-1, i must be magical. /David A 141.101.80.111 23:53, 9 November 2013 (UTC)
+The tau manifesto fairly well convinced me that all occurances of π in mathematics utimately trace back from the formula C = 2πr. If so, π naturally enter calculations as 2π. Can anyone find a counterexample to this thesis? –St.nerol (talk) 00:29, 14 March 2013 (UTC)
+How could there be a counter-example? I think it is true. In complex analysis, it really should be 2π, and thus Gaussian integrals. And then number theory applications. Even this neat result really stems from trig identities, so it really is a result for 2π. 206.181.86.98 02:59, 15 March 2013 (UTC)
+From what I understand, the thesis from the tau-proponents is that 2*pi is the fundamental natural constant, and that virtually every time that pi shows up without the factor 2, there originally was a factor two that was cancelled out. –St.nerol (talk) 01:53, 12 March 2013 (UTC)
+For everyone who suddenly started a debate about 2pi and tau: http://xkcd.com/1292/ 108.162.222.61 06:58, 4 May 2014 (UTC)
+Not completely sure Earth Prime is from Sliders, but it's true it's the only one named exactly that ... -- Hkmaly (talk) 09:54, 11 March 2013 (UTC)
+There's also a Prime Earth now. Just so DC can screw with us. Hogtree Octovish (talk) 10:40, 11 March 2013 (UTC)
+
+I still don't get it.49.176.102.213 12:41, 11 March 2013 (UTC)
+If you don't get it, you don't need to get it J Milstein (talk) 18:07, 11 March 2013 (UTC)
+Well, that was lame. --87.122.60.227 17:19, 11 March 2013 (UTC)
+
+This comic illustrates the strategy of "The Unconsummated Asterisk", from the essay "Mathmanship" by Nicholas Vanserg (available at [1]).
+The other side of the asterisk gambit is to use a superscript as a key to a real footnote. The knowledge‐seeker reads that S is – 36.714 calories and thinks "Gee what a whale of a lot of calories" until he reads to the bottom of the page, finds footnote 14 and says "oh."
+For bonus points, Randall could have used also "Pi-Throwing":
+For example every schoolboy knows what π stands for so you can hold him at bay by heaving some entirely different kind of π into the equation. The poor fellow will automatically multiply by 3.1416, then begin wondering how a π got into the act anyhow, and finally discover that all the while π was osmotic pressure. If you are careful not to warn him, this one is good for a delay of about an hour and a half.
+Chymicus (talk) 19:01, 11 March 2013 (UTC)
+Another good one is π as a symbol for profit in financial discussions. -DrGaellon (talk | contribs) 23:23, 25 March 2013 (UTC)
+I believe the current description of prime as denoting derivatives is true but irrelevant. Since the area and circumference refers to geometry (not really calculus), it's more likely that the title text is referring to the common use of primes in geometry. For example, there might be two or more parallel lines that are denoted by x, x′, x′′, etc. Wikipedia also notes another geometric use of prime: "if a point is represented by the Cartesian coordinates (x, y), then that point rotated, translated or reflected might be represented as (x′, y′)." S (talk) 23:32, 11 March 2013 (UTC)
+that is so wrong, i feel my mind corrupted now. -- Anarcat (talk) 23:57, 11 March 2013 (UTC)
+
+This explanation was hillarious -- where is the up-vote button ?? Spongebog (talk)
++1 Smperron (talk) 16:33, 13 March 2013 (UTC)
+So, where's todays comic? How many times has Randal been late?70.199.225.225 16:15, 13 March 2013 (UTC)
+Today's comic was posted just a few minutes ago. I'm anxiously awaiting its explanation as it picks on a programming language I'm not familiar with (possibly SQL). Smperron (talk) 16:33, 13 March 2013 (UTC)
+It uses pseudocode. The new one is about sorting algorithms in general, not any particular language. 130.245.231.101 17:00, 13 March 2013 (UTC)
+Perhaps it's just me, but did no one see the "square the circle" gag...? --128.232.142.37 09:24, 14 March 2013 (UTC) No one but you saw the square-the-circle gag, because it's not there. For it to be there, it would require this: (2πr)² J Milstein (talk) 15:31, 14 March 2013 (UTC)
+This one threw me for a loop for the longest time because I learned to use πd to find circumference, not 2πr. Anyone else learn that way? (Knowing how my brain works, it is equally possible I taught myself to use πd as a shortcut, and was in fact taught 2πr by my teachers.) Boct1584 (talk) 22:20, 31 March 2015 (UTC)
+I thought the joke in the title text was that primes can refer to successive derivatives. 108.162.221.150 05:05, 19 August 2015 (UTC)
+I support this. r' can be the derivative of r = angular speed, r" the double derivative of r = angular acceleration. The joke is that r' and r" are horrible notations, because they are already have two meanings, giving them yet another meaning beyond derivative and "r measured in different frame of reference" would add to the existing confusion. MigB (talk) 09:04, 7 December 2021 (UTC)
+Ok, but the 2nd sentence in the explanation has a grammar mistake. The sentence reads, "Randall then makes a footnote about r, using." In this case "²" is an indication for a footnote, isn't it ? 162.158.83.240 (talk) (please sign your comments with ~~~~)
+Amicable numbers[edit]
+1184 is one of them that are discovered relatively rather late. The other one 1210 (very close to 1208) is also math-related.
+Categories: All comicsComics from 2013Comics from MarchMonday comicsGeometryFootnotes

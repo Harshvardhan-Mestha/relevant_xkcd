@@ -1,0 +1,45 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+208: Regular Expressions
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 208)
+|<< PrevComic #208 (January 10, 2007)Next >>|
+Regular Expressions
+
+Title text: Wait, forgot to escape a space. Wheeeeee[taptaptap]eeeeee!
+Explanation[edit]
+The comic begins with Randall saying how every time he develops a new skill, he finds himself daydreaming about using it to save the day. Computer skills aren't usually superhero material, which lends itself to the humor of the comic.
+In computing, a regular expression ("regex") provides a concise and flexible means to "match" (specify and recognize) strings of text, such as particular characters, words, or patterns of characters.
+Manually trying to look for a specific pattern through 200 MB of text is equivalent to looking for a needle in a haystack. But this task can be made easy by using regexes, since a script can read through text and match specific string patterns much faster than humans can achieve.
+Perl is a popular scripting language that has often been referenced favorably in the comic. Perl is also the most acknowledged language when it comes to the performance while evaluating regular expressions.[citation needed]
+The "PERL!" in the fifth panel is reminiscent of old superhero serials, particularly Batman (TV series), in which sound effects such as "BAM!" "POW!" "ZAP!" would be displayed on screen in similar spiky bubbles. This fits with the theme of the comic, with Cueball being a "superhero" who fights crime using computer skills.
+The title text refers to how sensitive regexes can be to small mistakes or missing characters. In 1168: tar, another potential hero fails (and gets blown up by a nuclear bomb that is only able to be disarmed by typing in a valid tar command, but blows up if you don't do it on the first try) because the syntax of some commands and programming languages are just too difficult to remember by heart.
+Transcript[edit]
+[in a yellow box:]
+Whenever I learn a new skill I concoct elaborate fantasy scenarios where it lets me save the day.
+Megan: Oh no! The killer must have followed her on vacation!
+[Megan points to computer.]
+Megan: But to find them we'd have to search through 200 MB of emails looking for something formatted like an address!
+Cueball: It's hopeless!
+Off-panel voice: Everybody stand back.
+Off-panel voice: I know regular expressions.
+[A man swings in on a rope, toward the computer.]
+tap tap
+The word PERL! appears in a bubble.
+[The man swings away, and the other characters cheer.]
+Trivia[edit]
+This comic is featured on one of the T-shirts sold at the xkcd store.
+A similar T-shirt in the xkcd store based on this comic says "stand back...I'm going to try science."
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Hi, sorry about the previous "poor explanation". This one is pretty straight-forward (I think), given enough information about "regex"es and Perl. On a side-note, how did you find out the date for the comic? -- NariOx
+The explanation was mostly accurate, my gripe was with the fact that a number of fields were empty - the transcript, date and categories weren't done. You can find the date in the "all comics" page, accessible from the sidebar. Davidy22[talk] 23:26, 29 November 2012 (UTC)
+*Grumble grumble*, email should be intrinsically treated as 7-bit ASCII. 200MB of email would be almost 210 million bytes, raw. Even assuming half of that is header overheads on top of a whole lot of short message bodies, that's a lot more characters still to processed than 5 million. Of course, if people send more complex data through common MIME extensions (or the old favourites of uuencoding, etc) so as to send extended characters and binary-attachments (including various compressed formats of data, but again needing significant overheads when not containing large documents within), then that reduces the amount of characters needing searching (but probably needs a few more "use <foo>::<bar>;" bits on your Perl code, in order to give you the tools to isolate such blocks and decode what's in them for further searching within). But things went downhill ever since people could start sending emails with fancy graphical signatures and backgrounds... Yeah, I'm an Old Fogey from the dark ages. 178.98.31.27 00:00, 22 June 2013 (UTC)
+I don't think a regex can isolate an address, it has so many forms that it can not be considered regular language. This discussion comes to similar conclusions: http://stackoverflow.com/questions/9397485/regex-street-address-match 108.162.246.117 05:41, 1 November 2013 (UTC)
+It's an EMAIL address they're trying to match. Not quite obvious if you're not already thinking emails. At the same time, you COULD most likely catch a lot of the most common street address types, like 1234 Name Rd/St/Ave/etc. 173.245.56.189 00:52, 30 January 2015 (UTC)
+No. "But to find them we'd need to search through 200MB of emails looking for something formatted like an address!" To find someone you need a physical address, not an email address. --197.234.242.240 14:48, 30 January 2015 (UTC)
+The explanation misses the main point of the comic: a regex expert is so efficient he can solve a hard problem in a split second. Assuming, for instance, he jumped from 2 m high and he can type while he is less than 50 cm from the keyboard, he would have about .15 second to type. There's no way he could enter a long program implementing a complex algorithm but, according to Randall, this is sufficient to enter a compact regex that solves the problem. In the title text, he is swinging back like a pendulum and using his new split-second typing opportunity to fix a bug in his initial regex. Zetfr 09:55, 20 May 2015 (UTC)
+It's kinda funny that people are taking this so seriously when the comic itself (and the fact that it's in a comic) establishes this as a fantastical scenario. -Pennpenn 108.162.250.162 06:47, 30 June 2015 (UTC)
+This is probably how they wrote Encyclopedia Brown. --173.245.52.116 20:18, 26 November 2016 (UTC)
+Categories: All comicsComics from 2007Comics from JanuaryWednesday comicsPages using the "citation needed" templateComics featuring CueballComics featuring MeganComics with colorRegexComics with xkcd store products

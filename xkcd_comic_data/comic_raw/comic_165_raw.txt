@@ -1,0 +1,39 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+165: Turn Signals
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 165)
+|<< PrevComic #165 (October 2, 2006)Next >>|
+Turn Signals
+
+Title text: I'm not very good at meeting people.
+Explanation[edit]
+Turn signals are designed to flash between 60 and 120 times per minute. Most turn signals are driven by an electromechanical device. Due to manufacturing tolerances, battery state of charge, ambient temperature, and various other factors, two different turn signals rarely flash at the same rate, even among cars of the same make and model. Having two cars with turn signals flashing at the same rate would be a rare event.
+Cueball notices this event, and expresses his excitement to the driver of the other car, despite being stopped at an intersection. The other driver is confused by this. Turn signal frequency is something that most people don't take notice of.[citation needed] Cueball, however, takes it as an opportunity to strike up a conversation and make a new friend.
+The beat frequency is the rate at which two frequencies transition from being in phase with each other to being out of phase and then to being in phase again. In other words, two turn signals that begin by flashing together will transition to flashing opposite each other and then back to flashing together, and the rate at which this process cycles is the beat frequency. Because the beat frequency is simply the difference between the two turn signal frequencies, two turn signals whose frequencies are closer together will take longer to pass through the in-phase/out-of-phase cycle, and two signals whose frequencies are identical would take an infinite time (i.e., their relative phase never changes). The beating of turn signals is an easy phenomenon to observe when one is stopped at a traffic light with nothing to do but watch the flashing turn signals, and it is the lack of beating that Cueball noticed and excitedly reported.
+The title text refers to the fact that this is probably not a good strategy for making friends, and it could suggest that the character Cueball may be Randall.
+Transcript[edit]
+[Two cars are seen sitting at a red light. One person is seen walking from his car up to the driver of the car in front of him. The turn signals of both cars seem to be blinking at the same time.]
+Person in Street: Hey, our turn signals are in sync!
+Person in Car: What the hell?
+Person in Street: Usually they're at least a little off. But I've been watching like 30 seconds and haven't seen any beat frequency!
+Person in Car: Who are you?
+Person in Street: You know, from the beat frequency you can tell the difference in timing of the two signals.
+Person in Car: ...
+Person in Street: But ours are the same!
+Person in Car: ...
+Person in Street: So, wanna hang out later?
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I have at times become mesmerized by the "click-click click-click" of my turn signal relay while watching the flashing signals on the car ahead of me. It's fun to notice how they drift in and out of sync, but I never bothered to determine the beat frequency. --Smartin (talk) 03:53, 2 January 2013 (UTC)
+What, to me, seems amazing,--Char Latte49 (talk) 17:49, 3 May 2021 (UTC) is not just that they are (certainly within extreme observational tolerance) beating at the same frequency, but are also in phase. At that point I would begin to suspect that they're each connected up to the same time-signal source (e.g. a GPS data output), and cued to begin each cycle on the flip of each whole second, or similar. Of course, IRL, that'd be an answer in search of a problem. And you want your signals to start flashing the moment you activate them, so even if guided by an atomic clock you'd probably have any given pair (albeit maintaining the same frequency) exhibiting a (constant) phase separation.
+As for talking about being not held externally in sync, reminds me of the lights certain riders of tricycles have on their machine, in a 24-hour cycle race (mainly for bicycles, but trikies do tend to ride it as well). Flashing LED rear lights, very bright. On the backs of trikes they tend to put the lights out on each splayed rear stay, as well as the axle between the two rear wheels, to emphasise their width to any traffic that will be overtaking them in the night. Usually three identical flashers, but (as noted) the timings are rarely in sync, never mind in phase. As they're arranged in a triangle and very rarely all three on the same beat you can watch the machine as it retreats into the distance (my usual view of these phenomena) and when two of the lights are in sync and agreeing with each other, but the is off the beat, there's an effective directional 'wash' of light, this direction of wash changing as the in-syncs depart and perhaps the odd one syncs up anew with one of the other two originals. And if they all find themselves +/- 120-degrees out of phase with the other two, at any time, you get a rotary pattern emerging for a few moments.
+You probably have to be there, but it's a sight to see, in the dead of night. And analyse. ;) 178.98.31.27 03:12, 22 June 2013 (UTC)
+
+This merits a more fleshed-out explanation of beat frequencies and such. It's good enough, however. I'm not mean enough to mark it as incomplete for something like that. --Quicksilver (talk) 05:55, 24 August 2013 (UTC)
+I would expect an irrational ratio of frequencies and all possible relationships appearing over a long enough time period. If ratio is close to one, they would appear to be nearly together for a reasonable period and far off for a reasonable period.--DrMath 01:49, 31 October 2013 (UTC)
+This is somewhat reminiscent of Neal Stephenson's discussion, in Cryptonomicon, of Alan Turing's bicycle with a damaged link and a bent spoke, and how the two have to sync up for the chain to fall off. From this, he then does a wonderful sleight of hand, and before we know it, we have a fairly decent understanding of the Enigma machine. -- Ravenpi 23:50, 20 Feb 2013 (EST)
+I don't know where I read it, but I read that some turn signals have a slight random element in it so that they never get truly in phase with any other car. Zazathebot (talk) 18:19, 28 June 2017 (UTC)
+This happened to me today! --Char Latte49 (talk) 17:49, 3 May 2021 (UTC)
+Categories: All comicsComics from 2006Comics from OctoberMonday comicsPages using the "citation needed" templateComics featuring CueballComics with colorTraffic lightMultiple Cueballs

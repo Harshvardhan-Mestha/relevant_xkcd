@@ -1,0 +1,56 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+434: xkcd Goes to the Airport
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 434)
+|<< PrevComic #434 (June 9, 2008)Next >>|
+xkcd Goes to the Airport
+
+Title text: Under three ounces, but it stains panties.
+Explanation[edit]
+The various characters of xkcd cause problems at the airport due to their various quirks.
+Beret Guy and Megan are lost, following each other in a loop. Beret Guy displays his obsession with baked goods as he also does in later comics: 442: xkcd Loves the Discovery Channel and 452: Mission.
+Cueball tries to carry a lockpick set (a tool able to unlock doors without the original key) through security. The security guard tells Cueball that he has to come with him, but Cueball wants to tell the guard about "this hacker girl" before going with the guard (interestingly Cueball doesn't resist the arrest at all so long as he can tell his story). This may be spoofing the incidents where someone has been manipulated into smuggling drugs or other contraband by a romantic interest they met on the Internet. Alternatively, it may reference the fact that lockpicking is a common hobby among hackers, suggesting that Cueball's interest in the girl led to his current interests in hacking, lockpicking or both. The hacker girl could be Elaine from the 1337-series.
+On the plane, Cueball has been instructed to disable the wireless transmission functionality of his device. Many airlines require passengers to disable mobile phones on aircraft as well as other radio transmitting devices, because they may interfere with the radio-based navigation and communication equipment of the aircraft. However, his laptop is running Linux, and he doesn't know how to change the wireless settings; he's reading the manual for the program that controls the wireless radio. This is probably not an ideal situation, as the airplane is about to take off. Man pages were also referenced in 293: RTFM. Much later, a plane was again linked to a man page in 912: Manual Override.
+Black Hat tries to carry a container of liquid through security. According to US law, the maximum amount of liquid that can be taken onto a plane in a container is three ounces (89 ml), a security measure taken to prevent terrorists from taking explosives onto planes. When the guard has doubts about the amount of liquid in the vial, Black Hat implies that the liquid is actually blood from a churchmouse. This is referred to later in 526: Converting to Metric, which claims that a fieldmouse has much less blood than that. The guard is visibly uncomfortable and clearly does not want to deal with the issue any further.
+The title text continues off the final panel, saying that there are less than three ounces of blood in a churchmouse, but it "stains panties," an undesirable scenario. However, this undesirable scenario is paralleled by the implied undesirable scenario of a terrorist attack due to explosive liquids, the possibility of which caused the law. The title text seems to parody the prospect of an explosion with the relatively insignificant staining of panties, a term for women's underwear. This may also be a menstruation joke.
+Transcript[edit]
+[Standing outside the Airport. There is a sign saying "Airport" and a plane in the background.]
+Megan: Okay, what airline?
+Beret Guy: I'm following you.
+Megan: ...I'm following you.
+Beret Guy: I assumed we were walking to the bakery.
+Megan: You always assume that!
+[Presumably the security checkpoint. The Security guy is digging through Cueball's bags.]
+Security guy: Lockpicks? These are... illegal, actually. Where did you get them?
+Cueball: Oh man, it all started with this hacker girl.
+Security guy: You need to come with-
+Cueball: Sure, sure. But man, let me tell you about her!
+[On a plane. Cueball is on a laptop.]
+Announcement: If your device has a "Transmit" function, please disable it.
+Cueball: Okay - hang on, I'm halfway through the iwconfig man page.
+[Security checkpoint. Security guy is examining a vial of dark liquid.]
+Security guy: Sir, is this container under three ounces?
+Black Hat: Not sure, how much blood is there in a churchmouse?
+Security guy: . . .Why don't you just go.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I do not understand the "churchmouse" in this context? This needs an explain. Thanks.--Dgbrt (talk) 20:39, 26 August 2013 (UTC)
+A churchmouse is a small rodent. Look it up on Wikipedia. Davidy²²[talk] 02:23, 27 August 2013 (UTC)
+That's not true: http://dictionary.reference.com/browse/church+mouse Xhfz (talk) 23:24, 13 October 2013 (UTC)
+Alice in Wonderland creates the door mouse. A church mouse is either ameek but faithful church-goer or referencing the idiom "poor as a church mouse." Either way, I don't get it, either, Dgbrt.07:42, 18 December 2014 (UTC)Nix
+There are no church mice in Alice in Wonderland. There is a dormouse but that's a real animal. I'll update the text. Jkshapiro (talk) 14:20, 7 July 2016 (UTC)
+Later, Converting to Metric informs us that a fieldmouse contains 3 mL of blood.--Rael (talk) 05:29, 6 September 2013 (UTC)
+According to my calculations, it's closer to 1.5 mL/0.05 oz. This is based on a house mouse with 80 ml/kg of blood. 108.162.237.192 (talk) (please sign your comments with ~~~~)
+Maybe I'm just dirty minded, but I thought the "stains panties" line had to do with simulating either defloration or menstruation.--67.243.62.50 17:16, 28 September 2013 (UTC)
+I believe it's a reference to the "underwear bomber" who brought a liquid explosive onto a plane by sneaking it in his underwear
+108.162.218.179 04:23, 19 July 2016 (UTC) I was under the impression that the "hacker girl" either gave him the set as a gift, or he just learned how to lock-pick from being around her so much that he acquired his own. It seems weird that it would have anything to do with smuggling. 76.106.251.87 01:12, 22 October 2013 (UTC)
+Am I the only one who thought the second panel was a reference to '147: A Way So Familiar'? Mostly based on the character's enthusiastic obsession with a girl who is probably a very bad influence, or at least a bad match. - Pennpenn 108.162.249.205 05:44, 14 January 2015 (UTC)
+They tell you to turn the devices off because the airplane travels very quickly. The devices will try and connect to the towers on the ground, but it will have to change towers. This messes up the network (hundreds of phones connecting and disconnecting). 199.27.133.76 00:22, 11 September 2015 (UTC)
+Given the altitude would most phones even be in range to attempt to connect? Anyway, I was always under the impression it was to prevent to off-chance of the transmissions from messing with the plane's systems. -Pennpenn 108.162.250.162 05:16, 20 November 2015 (UTC)
+Interestingly enough, google searches for "blood in a churchmouse" spiked the day this comic went up. http://www.google.com/trends/explore#q=blood%20in%20a%20churchmouse 108.162.220.17 (talk) (please sign your comments with ~~~~)
+"Much fewer blood"? And it was required for electronics to be turned off long before portable phones became ubiquitous, so it's not only the cell connections freaking the network out. --108.162.237.226 02:16, 17 January 2017 (UTC)
+Lockpicks aren't actually illegal though. I have a set myself. -- Nerd Sniper (talk) (please sign your comments with ~~~~)
+2 things to consider, even though I do not know whether or not it matters: It may be dependent on country and state, there may be a difference between being allowed to own them, carry them and carry them on a plane.--Lupo (talk) 15:57, 9 December 2019 (UTC)
+Categories: All comicsComics from 2008Comics from JuneMonday comicsComics featuring Beret GuyComics featuring CueballComics featuring Black HatComics featuring MeganLinuxFoodMan pagesComics with bloodAviation

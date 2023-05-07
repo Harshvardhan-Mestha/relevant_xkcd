@@ -1,0 +1,58 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+286: All Your Base
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 286)
+|<< PrevComic #286 (July 6, 2007)Next >>|
+All Your Base
+
+Title text: The AYB retro-return-date (Zero Wing Zero Hour) should be around AD 2021.
+Explanation[edit]
+The comic refers to a popular internet phenomenon (meme) called "all your base are belong to us." This catchphrase originated from the arcade shooter game "Zero Wing" and is a popular example of a poor translation into the English language. The phrase was popularized throughout the Internet and referenced in various images and videos. It is considered one of the earliest Internet memes, with the first occurrences dating back to the year 1998.
+Cueball has, according to the comic, participated in the spread of the meme during its heyday. Ponytail, examining Cueball's root directory, wonders at his keeping the content he created years ago, as the meme's popularity has decreased massively since then. Cueball answers that this was always his favorite meme, and that he is waiting for the day it gets revived. His second-to-last line, "What you say!!," is a line from the game as well, although he says it much sooner than its supposed return to popularity.
+By using the example of internet memes, the comic also relates to the general principle of fashion, that everything once popular will, after a long enough time, be again in vogue. Trends experiencing this renaissance are often referred to as retro. Internet phenomena can be observed to follow the same rule, although with much shorter intervals due to the speed of information turnover.
+The title text prophesies the return of the "all your base" (AYB) meme in 2021 (similar-sounding to "AD 2101," the date mentioned at the beginning of the game). It also contains a pun on the term "zero hour" and the name of the game, which initially brought the phrase into fashion.
+The title text's prediction may have been recently fulfilled by Congresswoman Alexandria Ocasio-Cortez.
+Trivia[edit]
+The comic shows the file "allyourbase_original.swf", being a flash file. But, in the beginning of 2021, the projected renaissance date of the meme, Flash Player was discontinued by Adobe, adding another - albeit not intended - twist to the comic.
+Transcript[edit]
+[A section of a Linux terminal window is shown.]
+Text from window:
+~ /$ ls /
+ayb    boot    etc     lib ...
+bin    dev     home    mnt ...
+~/ $ ls /ayb/
+allyourbase_original.swf al...
+allyourbase_remix.swf      ...
+allyourbase_remix2.swf   b ...
+ayb_acapella.mp3         ze...
+ayb_images               ze...
+ayb_orchestral.mp3        ....
+[Ponytail is at a computer.]
+Ponytail: What's with the All Your Base stuff? Didn't that die like five years ago?
+[From off-panel]: Yes.
+[Cueball enters the panel.]
+Cueball: It was my first internet meme, and my favorite. Others tired of it, but I never did.
+Cueball: So I wait.
+[Cueball raises his fists.]
+Cueball: Someday, decades from now, people will have forgotten. It will be fresh again.
+Cueball: Retro.
+Cueball: And when that day comes,
+Cueball: I WILL BE READY!
+Ponytail: You need a hobby or something.
+Cueball: What you say!!
+Cueball: Wait, too soon.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Meghan Trainor may have turned up the clock on this meme's recursion with her lastest hit. 173.245.54.194 (talk) (please sign your comments with ~~~~)
+I'm not sure why this counts as an internet meme. Zero Wing was during the pre-WWW era, even the console port with the Engrish intro sequence. Not the Pre-Internet era, but in A.D.1991, when internet was beginning. 141.101.104.70 11:06, 4 December 2014 (UTC)
+It's a meme because the thing was circulated on the internet, modified and recirculated in various forms. Michael Jackson eating popcorn is still a meme, even though the still frame of him eating the popcorn was filmed in the pre-WWW era. 108.162.249.155 02:03, 10 March 2016 (UTC)
+Irrelevant, and you probably won't even see this after two years, but I find it funny that you felt the need to specify "A.D." 172.68.46.41 (talk) (please sign your comments with ~~~~)
+I think it's notable that he made a /ayb folder directly under root. Futher proof of a special place the meme holds in his heart -- such blasphemy unto FHS is not something one does lightly! At least, I wouldn't. 172.68.246.50 23:40, 8 June 2018 (UTC)
+It's the year 2020, Randall publishes 2255, just in time to commence bringing All Your Base back? 141.101.105.216 23:07, 15 January 2020 (UTC)
+Well, it's 2021. Any news on its return? Danish (talk) 21:29, 15 January 2021 (UTC)
+Nope! and that .swf file is now useless. 162.158.187.79 02:13, 18 January 2021 (UTC)
+Welll, may have spoken too soon! It's suddenly getting a resurgence in the media for hitting 20 years. User:Darkphibre 19:11, 02 February 2021 (UTC)
+It's almost the end of 2021 now, and it didn't return. Maybe in 2022. 162.158.75.151 02:07, 3 December 2021 (UTC)
+Categories: All comicsComics from 2007Comics from JulyFriday comicsComics featuring CueballComics featuring PonytailInternet

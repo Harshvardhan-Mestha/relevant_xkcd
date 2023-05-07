@@ -1,0 +1,40 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+323: Ballmer Peak
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 323)
+|<< PrevComic #323 (October 1, 2007)Next >>|
+Ballmer Peak
+
+Title text: Apple uses automated schnapps IVs.
+Explanation[edit]
+This comic is about alcohol and programming ability. Programmers sometimes have a reputation for drinking habits, and programmer gatherings (such as hackfests) tend to offer copious amounts of alcohol. More generally, intoxicated programmers can get the impression that, by being a little disconnected from physical reality, they become more efficient at their programming. The comic is a take on this belief, with two references:
+In atomic physics, "Balmer peaks" (with one L) are peaks in the emission spectrum of hydrogen (named after the 19th century scientist Johann Balmer).
+Steve Ballmer (with two Ls) is a key figure of Microsoft and its CEO from 2000 to 2014; he is known for energetic outbursts and outlandish behavior in public (with some videos gone viral), which can give the impression that he is constantly intoxicated.
+The curve in the comic suggests that, while generally decreasing with alcohol intoxication, at just the right level, the skill of a programmer gets terrific indeed. Randall named the peak after Steve Ballmer, as if discovered by him; this references the analogously named Balmer peaks (with one L), and the idea that Steve Ballmer makes for an easy association of programming and alcohol. The peak of the curve occurs at a BAC of 0.1337%, which is a reference to leet. (See this interview with Randall).
+The end of the comic turns the whole idea into a sideways jab at Windows ME, a version of Microsoft Windows often criticized for being buggy, slow, and unstable: it suggests that ME was developed by programmers completely drunk, because their managers wanted to exploit this "Ballmer peak," but did so without any precaution. That idea fit the result of a buggy and unstable product well.
+On the contrary, the title text claims that Apple uses this effect with careful calibration, by delivering precise quantities of alcohol (schnapps) to its programmers via intravenous therapy (IV).
+An actual research paper published in March 2012 showed that the situation described in this comic is not far from reality. Researchers found that intoxicated participants performed better than sober participants on a test that evaluates creative problem solving skills, and were also more likely to evaluate their own solutions as insightful. However, the study only tested a B.A.C. of 0.075%, not between 0.129% and 0.138% as displayed in the comic.
+Transcript[edit]
+[A graph with "programming skill" on the Y-axis and "blood alcohol concentration" on the X-axis. The Y-axis slowly goes down, but spikes at 0.1337%.]
+[Cueball is making a presentation with the graph.]
+Cueball: Called the Ballmer Peak, it was discovered by Microsoft in the 80's. The cause is unknown but somehow a B.A.C between 0.129% and 0.138% confers superhuman programming ability.
+Cueball: However, it's a delicate effect requiring careful calibration – you can't just give a team of coders a year's supply of whiskey and tell them to get cracking.
+Spectator: ...Has that ever happened?
+Cueball: Remember Windows ME?
+Spectator: I knew it!
+Trivia[edit]
+In the above-mentioned speech at Google, Randall Munroe explained that he tried to experiment on himself about the relationship between alcohol intoxication and intellectual skills, by solving a Rubik's Cube repeatedly while getting more and more drunk. He eventually found that he could get deeply drunk without degrading very much his performance at solving the puzzle (contrary to, for instance, finding and picking up the Cube which became something of a problem towards the end). He suggested that the Rubik's Cube wasn't a good test to study this relationship, the cube probably being solved with muscle memory rather than real intellectual skills.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+There might be a joke also about the fact that schnapps can be made out of apples, but I'm not too sure about it though (don't know, for instance, if the average American guy will think of apples when talking about schnapps). - Cos (talk) 13:40, 7 February 2013 (UTC)
+Thanks for the hint, I did add a small statement on this.--Dgbrt (talk) 19:27, 27 June 2013 (UTC)
+I would have thought apple uses something like Schnapples (hint: don't look it up at urbandictionary.com). 12:28, 28 June 2013 (UTC)
+The Ballmer Peak definitely exists, though the needed alcohol level is most likely higher and might be different for each person (source: I tried it myself). But be prepared for some WTF moments the next day (surprisingly in the positive way). Zilti (talk) 16:43, 28 April 2013 (UTC) Is there any hope of citing the fact the Apple uses automated IVs of Applejack?
+The Trivia section cites "the above mentioned speech at Google" - however, no speech at Google is mentioned above it. Amoorthy (talk) 19:07, 17 April 2014 (UTC)
+It was the source of ,1337 but I was looking for it myself, so I have changed the text to make this clear Kynde (talk) 21:43, 22 April 2014 (UTC)
+I support this theory. Once I came back home drunk (to some level) and for a strange reason I had a hell of a programming night. I never forgot. And also thought it was the alcohol. Although that never repeated again with programming, it happened again with physical exercises. I think this phenomenon can be applied to many/all other activities too. 162.158.90.192 (talk) (please sign your comments with ~~~~)
+Thought of this comment while reading this article: http://www.bbc.com/future/story/20190919-the-maze-puzzle-hidden-within-an-early-video-game?utm_source=pocket-newtab - a particularly clever(?) table for procedural maze generation was developed by a programmer who "told me it came upon him when he was drunk and whacked out of his brain."
+Doesn't the (seemingly) old woman in the crowd look like Grace Hopper? https://upload.wikimedia.org/wikipedia/commons/9/98/Commodore_Grace_M._Hopper%2C_USN_%28covered%29_head_and_shoulders_crop.jpg --172.69.166.205 03:42, 8 November 2021 (UTC)
+Categories: All comicsComics from 2007Comics from OctoberMonday comicsComics featuring CueballComics with colorLine graphsProgramming

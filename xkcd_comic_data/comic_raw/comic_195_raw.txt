@@ -1,0 +1,115 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+195: Map of the Internet
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 195)
+|<< PrevComic #195 (December 11, 2006)Next >>|
+Map of the Internet
+
+Title text: For the IPv6 map just imagine the XP default desktop picture.
+Explanation[edit]
+On the map, all allocated IPv4 address blocks (as of 2006) are shown using a fractal mapping. (The Hilbert curve is used: the pattern is demonstrated at the bottom of the image.) In February 2011, the final remaining IPv4 blocks were allocated to the Regional Internet registries, and so today there would no longer be any green spaces outside of Class E addresses (above 240 through 255, excluding the Broadcast address of 255.255.255.255).
+In the early 1990s, corporations and governments could register an entire class A segment (one 256th of the total space), but later it was divided into smaller parts because of a lack of space.
+This leads to the title text, which mentions IPv6. This protocol has so many addresses that only a swarm of nanobots could exhaust them. The default desktop picture in Windows XP is a green landscape, and the joke is that since barely any of the addresses are allocated yet, the IPv6 map would just be a green landscape.
+Later, Randall actually drew some "real" maps of the Internet, or at least its online Communities (see 256: Online Communities and 802: Online Communities 2).
+Transcript[edit]
+Map of the Internet The IPv4 Space, 2006 This chart shows the IP address space on a plane using a fractal mapping which preserves grouping--any consecutive string of IPs will translate to a single, compact, contiguous region on the map. Each of the 256 numbered blocks represents one 8 subnet (containing all IPs that start with that number). The upper left section shows the blocks sold directly to corporations and goverments in the 1990's before the RIRs took over allocation.
+Diagram showing IP ownership:
+0: Local
+1-2: Unallocated
+3: General Electric
+4: BB&N INC
+5: Unallocated
+6: Army AISC
+7: Unallocated
+8: BB&N INC
+9: IBM
+10: VPNs
+11: DoD Intel
+12: Bell Labs
+13: Xerox
+14: Public data nets
+15: HP
+16: DEC
+17: Apple
+18: MIT
+19: Ford
+20: CSC
+21: DDN-RYN
+22: DISA
+23: Unallocated
+24: Cable TV
+25: UK MoD
+26: DISA
+27: Unallocated
+28: DSI
+29-30: DISA
+31: Unallocated
+32: NORSK
+33: DLA
+34: Halliburton
+35: Merit
+36-37: Unallocated
+38: PSI
+39: Unallocated
+40: Eli Lily
+41: ARINIC
+42: Unallocated
+43: Japan INET
+44: HAM Radio
+45: INTEROP
+46: BB&N INC
+47: Bell North
+48: Prudential
+49-50: Unallocated
+51: UK Social Security
+52: duPont
+55: Boeing
+56: USPS
+57: SITA
+58-61: Asia-Pacific
+62: Europe
+63-76: USA & Canada (contains: UUNET, Google, Digg, Slashdot, Ebay, Craigslist, XKCD, Flickr)
+77-79: Europe (unused)
+80-91: Europe
+92-95: Unallocated
+96-99: North America
+100-120: Unallocated
+121-125: Asia-Pacific
+126: Japan
+127: Loopback
+128-132: Various Registrars
+133: Japan
+134-172: Various Registrars
+173-189: Unallocated
+188: Various
+189-190: Latin America & Caribbean
+191-192: Various (contains Private (RFC 1918))
+193-195: Europe
+196: Africa
+197: Unallocated
+198: US & Various
+199: North America
+200-201: Latin America & Caribbean
+202-203: Asia-Pacific
+204-209: North America (contains Suicide Girls, BoingBoing)
+210-211: Asia-Pacific
+212-213: Europe
+214-215: U.S. Department of Defense
+216: North America (Contains Myspace, SomethingAwful)
+217: Europe
+218-222: Asia-Pacific
+223: Unallocated
+224-239: Multicast
+240-255: Unallocated
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+If one ip address was a square of area 100 by 100 ft, this entire map would be 1241 miles across, for a total area of 1.541 million square miles. That's about 41% the area of the United States, the size of a medium-to-large country. The ipv6 map would be half the size of the galaxy. MegaMutant453 (talk) 04:56, 12 November 2022 (UTC)
+Why am I in various registrars?141.101.104.186
+Simply because one of those various registrars is your interwebz provider. Sobsz (talk) 19:55, 21 November 2015 (UTC)
+I'd like to see an updated version, 10 years later. I think all the green would be gone. Microbe
+He forgot the 172.16-172.31 private block. Way late, I know but I only just noticed. 172.68.253.203 01:51, 7 July 2017 (UTC)
+Since the table is for the first octet only, it's not possible to show the 172.16-172.31 block. Drawing a table big enough is left to you as an exercise. However, he shows Class E addresses (240-255) as "unallocated", which is a bit misleading because routers are required by RFC 1812 to discard packets with these addresses, which are reserved for "future use". 172.68.142.89 18:21, 15 June 2018 (UTC)
+However, 10.0.0.0/8 is a full class A subnet that is on the same footing as 172.16.0.0/12 and 192.168.0.0/16, yet is labeled "VPNs" in this comic. 172.68.59.144 21:35, 28 April 2019 (UTC)
+Categories: All comicsComics from 2006Comics from DecemberMonday comicsComics with colorInternetMaps

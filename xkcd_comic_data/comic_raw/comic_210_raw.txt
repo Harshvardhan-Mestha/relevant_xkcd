@@ -1,0 +1,37 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+210: 90's Flowchart
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 210)
+|<< PrevComic #210 (January 15, 2007)Next >>|
+90's Flowchart
+
+Title text: Freestyle rapping is basically applied Markov chains.
+Explanation[edit]
+Here you can see an apparent flowchart. However, it has non-standard notation. The oval normally represents either the start or stop of a process. Here, both the yes and no end up in stop, which would normally imply that nothing below can be reached.
+Unless we are in the 90s, this doesn't matter, as there is nothing after the stop. But in the 90s, two processing paths follow, and both are from the lyrics of two-hit rap songs from the 90s:
+U Can't Touch This by MC Hammer, says "Break it down. Stop! Hammertime."
+Ice Ice Baby by Vanilla Ice says "All right, stop. Collaborate and listen."
+In both instances, the sense of the lyric is that you should interrupt what you are doing, and switch to the new action. Interpreted in terms of flowchart terminology, we could consider that the 'stop' just pauses the main thread, and secondary threads are launched to perform the 'Hammertime' and the 'Collaborate' and 'Listen' activities.
+The title text compares freestyle rapping with Markov chains. Markov chains are mathematical constructs in which the state at the next time step is dependent only upon the current state and probability, and not the state at previous times. This is somewhat similar to freestyle rapping, in which what is said next must bear some relationship to what was just said, but the "freestyle" part means that almost anything can be brought in (hence the probabilistic part); furthermore, freestyle rapping allows the rapper to say something next that bears a relationship to what was just said, but not to what was said before that. There have been several flowchart comics, all of which are listed here.
+Both Ice Ice Baby and U Can't Touch This were released in the year 1990, and so their status as "90s" music is disputable. The 1st decade didn't start until year 1 (year 0 does not exist in the Georgian calendar system), so the 2nd decade didn't start until year 11, and the 3rd decade didn't start until year 21, etc. Whether those songs count as being released in the 90s would be discussed over 2000 comics later.
+Transcript[edit]
+[A flowchart is shown. Stop 1 and 2 are different options, and everything is a rectangle unless indicated otherwise (only on the first mention).]
+Start [Circle] → The 90's? [Diamond]
+The 90's? → No → Stop [1, circle]
+The 90's? → Yes → Stop [2, circle]
+Stop [2] → Hammertime
+Stop [2] → Collaborate → Listen
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Nothing to be said about Markov Chains? In context, you'd take a large amount of "well formed lyrics", slice them up into sub-chains and then aim to assemble new larger chains of words by randomly linking fragments to neighbours that match the original fragment, to create novel 'runs' at the larger level. Noting that there need not be any 'sensible link' from one fragment to its neighbours' neighbours.
+Spambots (used to?) do this a lot to make an automatic 'good looking text', randomly, to get past basic spam-blockers for email and forum messageboards. The unaware reader could even get sucked into the nonsense, for a short while.
+For a rapper's output, you'd probably want some additional cross-link checking so that rhyming, aliteration, assonance and consonance emerge from the result. Although for really free-form lyrics it could be much more about the rhythm of the output, so simple syllable-counting might be the main criteria of control.
+Now word that suitably for the Explanation and someone might find it interesting. ;)
+(Also, in severl ways the opposite to Markov chain construction, I always liked the Darwinian Poetry site. Some of the output from that is strangely intersting, although it's been several years since I was active on the (then usable) forums and helping nudge the process onwards.) 178.98.31.27 23:42, 21 June 2013 (UTC)
+Here [1] you can see how a reasonable explanation can be destroyed. Sorry Dgbrt, but what you wrote simply makes no sense for someone who didn't already know the songs and what you deleted is exactly what was needed. In particular, the deletion of {{w|U Can't Touch This}} and {{w|Ice Ice Baby}} is beyond my understanding. Xhfz (talk) 23:34, 16 August 2013 (UTC)
+Calm down, I did enter the wiki-links to that songs for the first time and your latest edit is great. What's the problem?--Dgbrt (talk) 23:51, 16 August 2013 (UTC)
+OK, a closer check gave me this: Links were not original by me, but I did UNDO an edit (by 88.108.112.226) deleting them.--Dgbrt (talk) 23:59, 16 August 2013 (UTC)
+I don't know what you'd call the obscenity that was Vanilla Ice and MC Hammer, but it wasn't rap. I seem to remember hip-pop, and shit-hop, and c'rap. None of the "classic hiphop" radio stations that play late eighties and early nineties rap include those two acts. Maybe they could just be called Baggy-Panted Line Dancers. — Kazvorpal (talk) 00:53, 21 October 2019 (UTC)
+Categories: All comicsComics from 2007Comics from JanuaryMonday comicsFlowchartsMusic

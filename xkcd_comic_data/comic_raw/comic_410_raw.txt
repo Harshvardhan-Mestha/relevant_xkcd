@@ -1,0 +1,53 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+410: Math Paper
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 410)
+|<< PrevComic #410 (April 14, 2008)Next >>|
+Math Paper
+
+Title text: That's nothing. I once lost my genetics, rocketry, and stripping licenses in a single incident.
+Explanation[edit]
+The math paper Cueball is in the process of describing in this comic turns out to be nothing but an elaborate setup for a joke about imaginary friends by taking the concept of "friendly numbers" into the complex (imaginary) plane, which comprises complex numbers that have both a real and an imaginary part (see details below).
+Cueball is challenged on this setup by his superiors, specifically the Cueball-like guy sitting at the end of the table, who look straight through his first line-up for the joke, and ask him directly if this is just a build-up for this joke. Cueball tries at first to look like he has no idea what he's talking about, then lowers his head, in shame, and finally tries to state that it might not be such a setup. But it is too late now.
+Such a pun is both so obvious and so terrible that Cueball's superiors deem that he should no longer have a license to math, and they thus revoke Cueball's "math license." Of course you do not need a math license[citation needed], but that is part of the comic's concept along the lines mentioned here below and further elaborated in the title text.
+It is a recurring theme in earlier xkcd comics that Cueball (or Randall) ends up being banned from holding presentations at conferences after a presentation turns out to be just an elaborate pun.
+The title text takes the joke a step further, with the added hilarity of making the audience question exactly how Cueball/Randall was able to work a striptease into a presentation about genetic engineering and astrophysical rocket study (or possibly genetics and rockets into a striptease), and then even manage to lose all three licenses in one go. This is what TV Tropes calls a "noodle incident."
+The whole comic is basically Randall making the joke that Cueball never got around to, but packing it up so we think it is about something else. Randall has often made such feeble jokes, but by putting them into a context where someone listening may comment on how bad that joke is or have to explain the joke, it somehow becomes alright, and he can get away with these jokes anyway. (See for instance 18: Snapple).
+Math[edit]
+An imaginary number is a number that can be written as a real number multiplied by the imaginary unit i, which is defined by its property i2 = -1 (an impossibility for regular, "real numbers," for which all squares are positive). The name "imaginary number" was coined in the 17th century as a derogatory term, since such numbers were regarded by some as fictitious or useless, but over time, many applications in science and engineering have been found.
+An imaginary number bi can be added to a real number a to form a complex number of the form a + bi (the formula shown at the bottom of Cueball's slide ), where a and b are called, respectively, the real part and the imaginary part of the complex number. If a and b are both integers, the complex number is called a Gaussian integer (as Cueball mentions). The complex plane is an X-Y plot with a on the X axis and b on the Y axis. (Such a plane is shown at the bottom of Cueball's slide).
+Joel Bradbury (once) had the below cited and wonderful explanation of friendly numbers on his site:
+What are Friendly Numbers?
+We need first to define a divisor function over the integers, written σ(n) if you're so inclined. To get it first we get all the integers that divide into n. So for 3, it's 1 and 3. For 4, it's 1, 2, and 4, and for 5 it's only 1 and 5.
+Now sum them to get σ(n). So σ(3) = 1 + 3 = 4, or σ(4) = 1 + 2 + 4 = 7, and so on.
+For each of these n, there is something called a characteristic ratio. Now that's just the divisors function over the integer itself: σ(n)/n. (This is the formula shown at the top of Cueball's slide). So the characteristic ratio where n = 6 is σ(6)/6 = 12/6 = 2.
+Once you have the characteristic ratio for any integer n, any other integers that share the same characteristic are called friendly with each other. (This is what is written in the frame in Cueball's slide, spelling friendly numbers as friendly #s). So to put it simply, a friendly number is any integer that shares its characteristic ratio with at least one other integer. The converse of that is called a solitary number, where it doesn't share its characteristic with anyone else.
+1, 2, 3, 4, and 5 are solitary. 6 is friendly with 28; σ(6)/6 = (1+2+3+6)/6 = 12/6 = 2 = 56/28 = (1+2+4+7+14+28)/28 = σ(28)/28; this is due to both of them being perfect numbers.
+Transcript[edit]
+[Cueball, holding a pointing stick, is using it to point at an equation on a panel. He is looking to the right. There are several parts of the panel that can be read. At the top, there is a formula. Below is a frame with text. Below again to the left is an X-Y plot with small dots all over all four quadrants, probably indicating the complex numbers with b on the Y and a on the X axis. Finally, right of this is yet another formula.]
+Cueball: In my paper, I use an extension of the divisor function over the Gaussian integers to generalize the so-called "friendly numbers" into the complex plane.
+Panel:
+σ(n)/n = d(n)
+Friendly #s share d(n)
+For a + bi...
+[The audience to the right of Cueball consist of two Cueball-like guys (one in front and one in the back), and between them are Hairbun, with glasses, and Megan. They sit around a table; only Hairbun is on the near side. The Cueball-like guy sitting to the right is at the end of the table, the other two are on the far side. The Cueball at the end of the table is talking, the other three have turned to look at him:]
+Guy at the end of the table: Hold on. Is this paper simply a giant build-up to an "imaginary friends" pun?
+[Back to Cueball, who stands speechless.]
+[One more beat panel with Cueball, who now looks down.]
+[Zoom out to Cueball and the front end of the table with the Cueball-like guy who has not spoken yet and Hairbun who now looks at Cueball. Cueball looks up again and speaks. The guy at the end of the table speaks off panel.]
+Cueball: It might not be.
+Guy at the end of the table (off panel): I'm sorry, we're revoking your math license.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Shouldn't it say something about the whole math licence, and that you don't actually need a licence to do math? 108.162.231.228 21:01, 31 October 2013 (UTC)Synthetica
+Despite what this comic implies, the divisor function is defined over the Gaussian integers. There still is a problem, though. If a divides b, then so does -a, along with ai and -ai. The divisors will inevitably sum to zero. You could get around this by ignoring all the numbers that aren't in a given quadrant. I personally like the idea of using ones where the real part is greater than the imaginary part (although that still does become a problem with multiples of 1+i). This way, a friend of a natural number will also be a natural number (though it's only the same as what you'd get normally if all the factors are three mod four). 199.27.128.167 (talk) (please sign your comments with ~~~~)
+I do not agree. Here is how it should work. You should define that a divides b if and only if there is a natural number n such that an = b. This way, natural numbers don't get new divisors when you move to the Gaussian plane. Consequently the extended sigma function gives the same value as the classical one when applied to a natural number. So, natural numbers will be friends according to the new definition if and only if they are friends according to the old definition and we are indeed allowed to say that the new definition extends the old one (Burghard von Karger). 162.158.93.28 (talk) (please sign your comments with ~~~~)
+Does someone care to hazard a guess about the alt text? Are there any possible papers that could have been written about those three fields? 173.245.53.186 15:04, 5 January 2014 (UTC)
+I think no one's noticed the "Straight man's deadpan stare" in panels 3 and 4. After being rudely interrupted in panel two, the lecturer stares silently at the person who stopped him in panel 3. Note the shape of the lecturer's head: his forehead and chin are facing towards the right as revealed by the angled features at the top and bottom of his head. In panel 4 the lecturer turns and stares at the reader and stands silent. Note the completely round shape of the head. This is the classic deadpan stare. Also, am I the only one who assumed that Cueball himself is the lecturer and the person interrupting him is likely the proffessor of the class?ExternalMonolog (talk) 20:14, 21 January 2014 (UTC)ExternalMonolog
+I don't know. In panel three DOES look straight at the commenter in the audience in a deadpan way, like he'd been caught unawares by the person's observation, but in panel four seems to look down, head tilted towards the floor as if wondering "aww shit, now what do I do?" Or like he felt slightly ashamed of being caught. 108.162.216.76 22:56, 27 February 2014 (UTC)
+I thought it was pretty plainly evident that Cueball is the presenter - going along with the XKCD theme of banning/revoking Cueball's privilege due to "inappropriately" wasting people's time at an ostensibly serious event. Also, in relative agreement with 108.162.216.76, I think that Panel 3 is his feeble attempt to continue to look serious (or straight/deadpan) while thinking of a way to respond, followed in Panel 4 with a slightly defeated shoulder/head slump (giving up with trying to perpetuate his premise). Panel 5 could be viewed as a plain admission, but I prefer to see it as a final, hail-Mary attempt to maintain the graces of the audience without actually lying to them. -- Brettpeirce (talk) 16:09, 5 March 2014 (UTC)
+They are probably beat panels more than anything else. -Pennpenn 108.162.250.155 00:13, 27 March 2015 (UTC)
+There's a joke among amateur songwriters that a forced rhyme or other dubious technique might lead to revoking the writer's "poetic license." Gmcgath (talk) 22:08, 30 October 2016 (UTC)
+Categories: All comicsComics from 2008Comics from AprilMonday comicsPages using the "citation needed" templateComics featuring CueballComics featuring HairbunComics featuring MeganMultiple CueballsBanned from conferencesNumber theoryPuns

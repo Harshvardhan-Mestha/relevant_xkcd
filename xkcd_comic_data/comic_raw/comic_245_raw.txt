@@ -1,0 +1,68 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+245: Floor Tiles
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 245)
+|<< PrevComic #245 (April 6, 2007)Next >>|
+Floor Tiles
+
+Title text: The worst part is when sidewalk cracks are out-of-sync with your natural stride.
+Explanation[edit]
+Cueball is walking according to a certain pattern of floor tiles, which makes sense to him in his head (the same pattern was first introduced in 207: What xkcd Means). But as his friend asks him why he is walking funny, he realizes that the algorithm he is using for walking on floor tiles would be so tedious and time-consuming to explain to his friend that he decides instead to simply defend himself and say that he isn't walking funny, this being far simpler than trying to show his friend exactly how his logic works. Alternatively, he is too embarrassed to explain his algorithm.
+Cueball has imagined a complex diagram in his head. However, the diagram does not accurately reflect the floor, as the two main rows with black tiles in the foreground are only separated by one row of white tiles instead of two. This could possibly be an error on Randall's part, as the tiles in the background follow the pattern shown in the imagined diagram.
+The title text refers to a common compulsion often associated with Obsessive Compulsive Disorder (OCD) that leads people to place their feet either exactly between sidewalk cracks or directly on top of them while walking. Indeed, if the cracks are out of sync with one's natural stride, this will cause some people to "walk funny" as they stumble to correct their foot placement.
+Transcript[edit]
+[Two characters walk on a floor tiled in black and white.]
+Friend: Why are you walking funny?
+[Second panel consists of Cueball's thought cloud in which he points to an easel mounted diagram of the floor tile pattern.]
+Cueball, thinking: Well, my instinct is to step only on black tiles, but they're too far apart. So I'm letting myself walk on the tiles directly in line with the black ones, but that means that when we walk diagonally, I have to step in a pattern where...
+[Returns to situation in first panel.]
+Cueball: I'm not walking funny.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I wond what HE thinks: http://www.youtube.com/watch?v=i5Jyu6eioZ4
+Obsession
+The explanation fails to mention the link with Obsessive-compulsive disorder (OCD). Stepping on, or avoiding particular floor tiles can be an example of OCD-induced behaviour. Moreover OCD is positively correlated with high IQ and therefore within the "nerd" scope of XKCD.
+The reason why Cueball simply denies walking funny (sic) instead of offering the correct explanation, apart from simplicity, may also be because he is embarrassed by the awareness of his own disorder.--158.169.131.14 10:03, 5 September 2012 (UTC)
+Personally, I have this walking obsession too. Curiously, my friends can understand my algorithm after observing me in my natural habitat for 2 minutes.
+(New editor, here, the above line being someone else unsigned, or somehow divorced from a prior signing.)
+While I'm bigger with longer legs now, I'm pretty sure my naturally long stride arose from nurturing a regular gait that would avoid cracks in awkwardly-sized paving slabs.
+ *....*....*....*     Original natural gait
+                      (Let's call that 100% of normal, for the sake of comparison, based purely on this ASCII.)
+|---|---|---|---|---| Slabs
+  *...*...*...*...*   Shortened gait, typically centered on one step per slab
+                      (80% stride.  Obviously shortened and somewhat awkward.)
+|---|---|---|---|---| Slabs
+  *.......*.......*   Too-long gait, typically centered on one step every other slab
+                      (160% stride. Very akward)
+|---|---|---|---|---| Slabs
+ *.....*.....*.....*  Slightly lengthened gait, two slabs, miss one, repeat.
+                      (120% stride.  Obviously longer, but not too awkward once practiced. )
+The 120% version (or whatever proportion it is, IRL) effectively works by aiming the feet just after a crack, foot just before a crack, skipping the next slab entirely.
+That tactic was developed back when I was <10 years old (but the latent mathematician in me is proud of my younger self's approach to analysing the tiling), possibly back when I was 6 or 7. They were large rectangular slabs, meaning different strategies in different directions. But when shorter that might mean the above applied when travelling in the 'short direction', but 'long direction' walking was two steps per one slab (after crack, before next crack), one on the next (middle). As I grew up a bit it would have become 'every other slab' in the short-axis, and the above in the long axis. Growing up yet more and it changes again. Diagonal travel is finessed accordingly.
+As an adult, most newer paving slabs have tended to changed from the traditional large rectangular ones to smaller square ones, just big enough for feet to fit on without any possibility of finessing that. Luckily they tend to be monochrome, so it's just a whole number stepped over (when I notice what's under my feet enough to have to do something about it), sometimes involving a Pythagorean calculation... ;) 178.98.31.27 03:30, 21 June 2013 (UTC)
+Sidewalk cracks
+My edit/observation that the title text alludes to an Old wives' tale "if you step on a crack you will break your mother's back" was removed. I'm just hoping for additional discussion. "Sidewalk cracks ... out-of-sync with your natural stride" seems to be a clear reference to the wives' tale in question. As I reread my edit I realize this doesn't explain Cueball's behavior, so I was wrong on that point, but my assertion that the title text does point to the wives' tale seems valid enough. Thoughts? --Smartin (talk) 00:10, 3 January 2013 (UTC)
+Additional: I am confounded why Wikipedia does not recognize "step on a crack" as a wives' tale, childrens' taunt, etc. Is there some pondian aspect to this I am missing? In the Midwestern US where I grew up, "step on a crack" is (or was) a common meme; it was even exposited in song (sorry for the lame lyric link) --Smartin (talk) 04:51, 3 January 2013 (UTC)
+It's not so much referencing the step on a crack and break your mother's back child's game so much as many of those with obsessive compulsive tendencies are really annoyed that each footstep cannot be classified as a digital step, meaning that your foot is only one one tile at a time. It's not so much that you don't want to "break your mother's back" it's just a matter of personal pride that you don't walk on cracks. Same problem with steps that are just barely too long that you always end up taking the next one with the same foot. You just start to feel off kilter. lcarsos_a (talk) 07:52, 3 January 2013 (UTC)
+Never heard of the "mother's back" version. Though I'd do this for (referencing prior section title) probably vaguely OCD reasons without an actual mythology behind it, whenever there was a reason for it (e.g. in children's picture books) it was always something to do with bears. (Here in the UK, that is, without any unzooed bears roaming around. i.e. obviously ficticious ones.) 178.98.31.27 02:59, 21 June 2013 (UTC)
+http://www.dltk-kids.com/crafts/miscellaneous/mmilne-linesandsquares.htm
+I feel we should have some mention of comic 207: what xkcd means here, and vice versa 108.162.214.15 (talk) (please sign your comments with ~~~~)
+I agree, but in 207 it wasn't really referencing this; this had not been created yet. I think we should remove the reference note. 108.162.237.231 23:56, 21 April 2014 (UTC) ( Classhole forgot to log in. )
+Alternative explanation
+The main reason he does not explain is embarrassment. In the first panel, he is being accused of walking funny. He considers explaining the reason for the behavior but realizes the explanation is even more embarrassing than the behavior itself. He quickly ends the exchange by stating, "I'm not walking funny.", thereby avoiding further embarrassment. -- Flewk (talk) (please sign your comments with ~~~~)
+Why does the explanation say the tile map is incorrect? The tile pattern looks fine to me, it’s just not rotated. Am I just being dumb? 162.158.62.151 (talk) (please sign your comments with ~~~~)
+in the graphic in Cueballs head, there is always 2 tiles between, in each direction, in the image it is only one tile in one direction. See this try at ASCII art with x for black tiles and o for white:
+In his head:
+xooxoox
+ooooooo
+ooooooo
+xooxoox
+Actual:
+xooxoox
+ooooooo
+xooxoox --Lupo (talk) 13:06, 24 October 2019 (UTC)
+Actually the tiles on the floor are an inconsistent diagram, some matching the cueball’s thought diagram (in the above hallway) and some not (where they are walking now). Presumably they just came from the hallway. Paragraph 2 of the explanation needs an update. -- 75.174.26.242 (talk) (please sign your comments with ~~~~) 14:09, 2 October 2022 (UTC)
+I always stepped on all the cracks. 69:420, 3 May 2022 (UTC)
+Categories: All comicsComics from 2007Comics from AprilFriday comicsComics with colorComics featuring Cueball

@@ -1,0 +1,41 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+292: goto
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 292)
+|<< PrevComic #292 (July 20, 2007)Next >>|
+goto
+
+Title text: Neal Stephenson thinks it's cute to name his labels 'dengo'
+Explanation[edit]
+Goto is a construct found in many computer languages that causes control flow to go from one place in a program to another, without returning. Once common in computer programming, its popularity diminished in the 1960s and 1970s as focus on structured programming became the norm. Edsger W. Dijkstra's article "Go To Statement Considered Harmful" in particular contributed to the decline of goto.
+Often, people learning programming are told that goto is bad and should be avoided, but frequently, they are not given a good reason. Cueball, as one of these people, sees no harm in using goto to avoid rewriting much of his program, most likely written in the C programming language. As a result, he is attacked by a velociraptor. Velociraptor attacks are a running joke (and fear) often expressed in xkcd.
+The name main_sub3 of the goto destination also shows bad programming style: it is an unmeaningful name suggesting that at least two similarly unmeaningful names are used for other goto marks and it is contradictory in that a chunk of code can either belong to the main program or to a subroutine, but not both.
+The title text refers to Neal Stephenson, an author of cyberpunk novels. A label is used in many programming languages to refer to a point in a program that a goto instruction can jump to. The joke is that one of Stephenson's characters in Cryptonomicon is named Goto Dengo. When said out loud, "Dengo" sounds like "Then go."
+Transcript[edit]
+[Sideways view of Cueball sitting at computer, thinking.]
+Cueball: I could restructure the program's flow - or use one little 'GOTO' instead.
+Cueball: Eh, screw good practice. How bad can it be?
+Text on computer: goto main_sub3;
+*Compile*
+[We now have a view from behind Cueball. Cueball looks at the computer.]
+[A raptor jumps into the panel, pushing Cueball off his chair.]
+Trivia[edit]
+Like all velociraptors in xkcd, the velociraptor in this comic is specifically the man-sized movie monster from Jurassic Park. Real velociraptors were more like carnivorous turkeys. The beast devouring Cueball might actually be Deinonychus antirrhopus. The beast may also be Utahraptor.
+This comic heads the official PHP manual page on goto.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Note that the concept of goto being harmful fortunately is weaning a little. Jumping forwards in code to the end where error handling is implemented is actually in wider use now; including many locations in the Linux kernel. Kaa-ching (talk) 09:53, 9 September 2012 (UTC)
+Actually, goto has been used quite with some frequency in low-level code in C programming over the years, so it's not altogether surprising that it is used in the Linux kernel, or any other tight bit of code. Given the "advance" of programming languages, I wouldn't say that there's been any weaning, except off of the concept of an unstructured goto in more recent languages. Admittedly, there's a schism between the low-level (that is, near-to-assembly) coders who more readily use goto because in the end, that's what the compiler reduces code branching down to, and developers using higher-level languages (that is, more highly abstracted, more removed from 1 statement ~ 1 machine instruction languages) avoiding such because alternative structures abound, making goto somewhat unnecessary. There has been a bit of a dogmatic approach to teaching various languages, as in "thou shalt not use goto lest thou produce monsterous, unmaintainable code!" applied that many if not most developers observe; the humor in the panel is that this dogma is manifested in the appearance of a literal monster (a velociraptor, no less...) -- IronyChef (talk) 05:08, 11 September 2012 (UTC)
+From an historical perspective, in the 80's, back when BASIC was the norm for developing proggies on home computers, because code blocks (begin...end, { ... }, etc.) were nonexistent, one had the option of two keywords: GOTO and GOSUB. In the case of branching beyond code that wasn't executed, many programmers abused GOTO even beyond the necessity of its use. This was a fairly hot topic in home-computing magazines at the time, again with BASIC in mind, and it appears that developers using C, [Turbo] Pascal and the like, having hangups about BASIC, emitted serious frowns at the idea of using GOTO at all. But for quick jumps that avoid having to tab forward entire blocks of code, GOTO (case notwithstanding) certainly has my support. Thokling (talk) 16:05, 20 September 2013 (UTC)
+"Jumping forwards in code to the end where error handling is implemented is actually in wider use now [...]" try-catch-finally? Syntactically not a goto but the effect can be similar. 108.162.219.47 17:58, 22 November 2013 (UTC)
+Yeah, in most high-level languages exception handeling is preffered to goto. But some lower-level languages like C don't have that construct. Note that exception handling allows to go straight from inside a function to the error-handling code outside the function, which is an advantage over C-style error handling which usually require you to check the return value of every function in case you got a specialized "error code".141.101.99.228 19:46, 19 December 2013 (UTC)
+You actually can throw true exceptions in C, but without the syntactic sugar it's tedious (a lot more code), confusing (what the hell does this do?) and error prone (one could easily just wind up going to the start of the try block again, rather then going to the catch block). Also a throws and catch in the same function/method is generally frowned up for the same reasons as GOTO.--108.162.238.224 16:48, 27 March 2014 (UTC)
+I feel like it needs to be explained that GOTO was considered problematic in BASIC or its parent ForTran, because it did not include any ability to return. The alternative was GOSUB, which retained a pointer to your departure, and you could then RETURN to get back to the program flow. They were imperative languages, but not advanced enough to be necessarily structured or procedural, so GOTO would make debugging extremely complex. This is one of the origins of the term "spaghetti code", because tracing the program path would become necessary to find out what was going wrong, some segment of code being impossible to enter because of GOTOs ending up skipping it under all use cases. The lines of the trace would look like spaghetti. All they needed to do was use GOSUB-RETURN instead. So yes, goto or its equivalent in other languages might be acceptable, but it was highly problematic in BASIC. — Kazvorpal (talk) 17:52, 1 November 2019 (UTC)
+"Velociraptors are a running joke..." Ha, I get it 79.169.177.15 13:06, 9 October 2013 (UTC)
+Shudder* I can't even imagine just how horrible the spaghetti code produced by goto's could be (or what the optimist would call "a code puzzle"). 108.162.221.221 02:48, 24 October 2014 (UTC)
+It's also possible that in this specific case, the raptor is a reference to Operating System Concepts by Silberschatz, Peterson and Galvin. The dinosaur book '[1]' . 199.27.133.107 20:34, 30 December 2014 (UTC)
+Apophenia is the best!—Kazvorpal (talk) 19:51, 3 November 2019 (UTC)
+First, the entire genre of dromaeosaurs are casually referred to as velociraptors. Second, utahraptor is WAY bigger than in the pic. So that note is rather flawed. —Kazvorpal (talk) 20:29, 1 November 2019 (UTC) I think the GOTO is so ancient, that usage of it summons ancient creatures. 172.68.244.90 15:05, 31 October 2019 (UTC)
+Categories: All comicsComics from 2007Comics from JulyFriday comicsComics featuring CueballVelociraptorsProgramming

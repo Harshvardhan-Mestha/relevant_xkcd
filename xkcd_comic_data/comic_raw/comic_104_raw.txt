@@ -1,0 +1,49 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+104: Find You
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 104)
+|<< PrevComic #104 (May 19, 2006)Next >>|
+Find You
+
+Title text: I'm like the Terminator, except with love!
+Explanation[edit]
+This comic depicts Cueball climbing on a rope in a cavern. The text indicates that one of his loved ones used to be afraid of being taken away from him and being forgotten. It is not explicitly made clear whether the loved one in question is a woman with whom he is in love, a family member, or a relation of some other kind, but presumably the loved one is his partner.
+Cueball had promised that he would always come looking for this person, but then they were actually taken from him. He reiterates that he was serious about his promise, and that he hopes they are not afraid, because he's coming to find them.
+It's not clear exactly in what manner his loved one was taken from him, only that they were torn from his arms and vanished from this world. Though there are many other possible interpretations, this might be read to indicate that they have died and that Cueball is descending a cavern in search of the underworld where they have been taken.
+The title text compares Cueball to the apparently unstoppable Terminator, from the 1984 film of the same name, in which Kyle Reese, talking to Sarah Connor, gives the following description of the Terminator: "It can't be bargained with. It can't be reasoned with. It doesn't feel pity, or remorse, or fear. And it absolutely will not stop, ever, until you are dead." The implication is that Cueball, motivated by love, can't be persuaded to stop looking for his loved one by any means, and that he will never stop looking until he finds them.
+Transcript[edit]
+[The panel is black with rough-edged white passages running down through it. Cueball is climbing onto a rope that is dangling down one of these passages. White text is in the black sections.]
+You were afraid that you would disappear, that you would be lost and forgotten.
+I held you tight against the dark and said that I would always come for you.
+Then one day it happened. You were torn from my arms and vanished from this world.
+Maybe you don't remember my promise. But I meant every word.
+I hope you're not afraid, wherever you are.
+You don't need to be.
+I'm not.
+I will find you.
+Trivia[edit]
+For technical reasons (see discussion, below) the image may display inverted.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Why does the image show upside down? Erenan (talk) 12:32, 1 August 2012 (EDT)
+No idea, I tried to upload a new version that shows right-side up on my computer and it is still upside down. --Jeff (talk) 12:52, 1 August 2012 (EDT)
+I've corrected it now. Had to resave the file and then upload again. --Jeff (talk) 12:54, 1 August 2012 (EDT)
+On xkcd.com, right clicking on the image and then opening the image in a new tab also shows the image upside down. Why? --162.158.93.41 06:30, 10 October 2015 (UTC)
+I just checked-you're right. I think Randall himself drew and photocopied it, but the photocopy was upside down and he needed to use HTML rotation. That's right, Jacky720 just signed this (talk | contribs) 16:09, 27 January 2017 (UTC)
+Scrap that. It isn't HTML OR CSS, but I think the photocopy thing still makes sense. That's right, Jacky720 just signed this (talk | contribs) 16:11, 27 January 2017 (UTC)
+The image is actually upside on xkcd.com now too (at least in Firefox and Safari) 162.158.187.175 14:40, 4 July 2020 (UTC)
+And in Chrome. J5155 (talk) 19:52, 8 July 2020 (UTC)
+The image is actually encoded the right way up but has an EXIF orientation tag set to 3 (a.k.a. Bottom-right a.k.a. Rotate 180). However, the `<img>` tag has the `image-orientation:none` style, which tells the browser to ignore the EXIF tag. So, browsers that support the EXIF rotation tag but not the `image-orientation` CSS property will display upside-down (as well as any image viewer that supports EXIF rotation and is viewing the image outside of the webpage). 172.70.34.90 03:00, 4 July 2021 (UTC)
+
+Could this comic refer back to 98: Fall Apart? 24.121.109.157 03:34, 15 April 2013 (UTC)
+There is nothing in the text to indicate that the loved one is a 'she' (or a 'he' for that matter) 108.162.225.128 02:09, 2 May 2014 (UTC)
+True, but the reason the sought after person is presumed to be a woman is because it is implied that Cueball is motivated by love and xkcd's typical depiction of romantic love is heterosexual. It is, of course, certainly possible that the person sought after is loved in a non-romantic sense, but romantic love seemed most plausible to me. This was the reason for the sentence "It is not explicitly made clear whether the loved one in question is a woman with whom he is in love, a family member, or a relation of some other kind, but presumably the loved one is either his girlfriend or wife." The use of "she" throughout the rest of the explanation was done from this perspective. That is, under the assumption that it was the most plausible explanation. Erenan (talk) 16:53, 14 May 2014 (UTC)
+--Rbs (talk) 16:10, 19 December 2014 (UTC) For me the cave architecture is strange, and personnaly reminds me of Arnold Schwarzenegger in the movie: Conan. Which can make sense for Cueball and the comic in this context. --Rbs (talk) 16:10, 19 December 2014 (UTC)rbs
+funny you should mention that. i tried to put in an explanation awhile back that the caves looked like one of those black-and-white afterimage things, like this one--http://img.izismile.com/img/img4/20111111/1000/mind_blowing_afterimages_optical_illusions_07.gif--except with the terminator instead of jesus, but i guess it got taken down. 173.245.56.155 (talk) (please sign your comments with ~~~~)
+Comic 98. 108.162.237.161 16:38, 21 September 2015 (UTC)
+When I saw this, I thought of caverns in Click and Drag. That's right, Jacky720 just signed this (talk | contribs) 16:02, 27 January 2017 (UTC)
+We should remove the rickroll from the trivia section. It doesn't add anything. 172.68.141.80 03:34, 2 June 2021 (UTC)
+I think the image may be upside down sometimes on purpose. It may be nerdsniping or he intends it to be seen from the view of the person below.
+Categories: All comicsComics from 2006Comics from MayFriday comicsComics featuring CueballTerminator

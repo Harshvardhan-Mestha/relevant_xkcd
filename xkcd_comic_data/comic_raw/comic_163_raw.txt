@@ -1,0 +1,35 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+163: Donald Knuth
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 163)
+|<< PrevComic #163 (September 27, 2006)Next >>|
+Donald Knuth
+
+Title text: His books were kinda intimidating; rappelling down through his skylight seemed like the best option.
+Explanation[edit]
+Donald Knuth is a computer science Professor Emeritus at Stanford University who is famous for writing The Art of Computer Programming and developing the TEX computerized typesetting system.
+In computer science, an array is a structure that stores multiple values in a fixed order, and the elements are accessed by their index number. In Fortran, for instance, one writes array(1) to access the first element in the array. Most "modern" (read: descended from C) languages use 0 as the index for the first element in the array, but it is possible (if one is careful about it) to ignore the 0th element and use 1 as the first index. In some programming languages, such as Pascal or Ada, it is possible to select an arbitrary range of indices for each array type, so the first index might not only be 0 or 1, but also −42 or 100000. Cueball is complaining that Black Hat was not consistent in his choice of where to start his arrays. This is a valid complaint, as a lack of such consistency can make coding errors both more likely and more difficult to detect.
+Black Hat cites Donald Knuth to support his rebuttal, but the quote he uses does not seem relevant. Presumably, Black Hat had illegally entered the professor's house in order to question him on indices. Donald Knuth's words were not an intellectual response to the question, but rather an alarmed response to the presence of an intruder. It is not clear if Black Hat is aware of this.
+The title text suggests that Black Hat finds Knuth's books intimidating, due to perhaps their size or complexity, to the extent that he considers breaking into Knuth's house (a risky, difficult crime) to be the better option in finding his answer. Even for Donald Knuth's books, this is very exaggerated and illogical behavior.[citation needed]
+Transcript[edit]
+[Black Hat and Cueball are sitting back to back at two separate desks, typing. Black Hat has turned toward Cueball to respond to him.]
+Cueball: Man, you're being inconsistent with your array indices. Some are from one, some from zero.
+Black Hat: Different tasks call for different conventions. To quote Stanford algorithms expert Donald Knuth, "Who are you? How did you get in my house?"
+[Black Hat and Cueball are sitting back to back at two separate desks, typing. Cueball has turned toward Black Hat, confused.]
+Cueball: Wait, what?
+Black Hat: Well, that's what he said when I asked him about it.
+Trivia[edit]
+Later, the topic of breaking into a software expert's house through the skylight became topic of 225: Open Source again.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+In Pascal you define the lower and upper bounds of an array when you declare it, e.g.,
+ anArray[-5 .. 5] OF integer
+which has always struck me as a much better idea than having arrays always starting at 0. Jstout (talk) 20:41, 18 February 2014 (UTC)
+Why the swipe at Ada? I don't know about "the programming language of the future", but it's not a historical footnote either. It's used in many safety critical systems such as flight control, trains, even banking, and not just because that's what was used in the past. This language is still heavily used in these areas and is still being updated under MIL-STD and ISO.--108.162.217.185 15:33, 18 January 2015 (UTC)
+Wikipedia verifies your claims. Removed. Suspender guy (talk) 20:28, 9 October 2015 (UTC)
+Same is true of BASIC; you can specify any range, including negative numbers (I have used this). I program in C as well though --108.162.245.140 03:29, 24 December 2015 (UTC)
+Actually, it depends on your version of BASIC. Early versions of BASIC had the OPTION BASE 0 and OPTION BASE 1 commands that would change the intial index of _all_ arrays to 0 or 1 respectively. 141.101.77.182 16:41, 29 April 2020 (UTC)Jurjen
+Not related to the comic, but I think this is where the comic begins to look more detailed compared to the last 161 strips. I am talking about the art style. It is starting to look like the more familiar 400-current strips.Boeing-787lover 15:25, 29 June 2018 (UTC)
+Categories: All comicsComics from 2006Comics from SeptemberWednesday comicsPages using the "citation needed" templateComics featuring Black HatComics featuring CueballComics featuring Donald KnuthProgramming

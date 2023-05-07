@@ -1,0 +1,34 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+363: Reset
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 363)
+|<< PrevComic #363 (December 28, 2007)Next >>|
+Reset
+
+Title text: Clearance for this Sign: 11 Feet
+Explanation[edit]
+A common sight in workplaces is a sign reading '[XX] days since [event]' or '[XX] days without [event]', where [XX] is a two-digit number (indicated using flip cards so it may be easily changed) and [event] is some undesirable preventable occurrence. The purpose of such signs is to inspire employees by proudly displaying how long the event has been avoided or prevented. The most common version of such signs, used in industrial workplaces, displays the number of days since the last workplace accident or injury.
+In the comic, the sign says "38 days since the last time someone reset this sign". The term 'reset' is the crux, because while computer-minded people tend to interpret it as 'reboot' or 'set to zero', it also means re-set (with the meaning 'set again'). See definition.
+We will call:
+reset ~ set to zero --> meaning 1
+re-set ~ set again --> meaning 2
+Because the sign uses manual flip cards, one cannot add days to the counter without re-setting the sign, which creates a paradox: either you add a day by re-setting it (which, according to the sign, means you'd have to reset the sign) or you don't (in which case the value on the sign would not be valid). The value of the sign cannot be true for more than one day. The value of the sign in the comic (38) can only be true if someone flipped the cards 38 days ago.
+The sign is self-referential (which causes the paradox). Self-reference is a recurring theme in xkcd. Examples include 33: Self-reference and 688: Self-Description.
+If you only use meaning 1, the sign can be seen as a challenge/invitation.
+The title text refers to the signs sometimes hung over roadways in front of bridges that display the clearance of the bridge for the benefit of tall vehicles. However, this one displays only its own clearance, a number that would be unimportant if the sign itself were not there.
+Transcript[edit]
+[Cueball stands in front of a doorway looking at a flip-counter sign posted on a wall.]
+Sign: 38 days since someone reset this sign
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I thought this was mostly referencing the impracticality of a sign like this. It is only correct for one day for each reset, meaning you would have to reset it daily back to zero, but then you could just leave it zero without resetting it. However, then since you didn't actually reset it, it would actually be wrong. My brain hurts. Edit: I guess the assumption is that it is an electronic sign where the numbers change themselves, and that "reset" means only back to zero, but to me it looks like a manual sign which must be "reset" to change the numbers even upward.--JSekula71 (talk) 14:56, 21 April 2013 (UTC)
+I know what you mean, but it's resolved if daily you set it to n=n+1, until you arbitrarily decide to reset it to zero on a whim at any time you wish to.
+And no explanation regarding the title text? Looks to me like an overhead-gantry style signage, which indicates what height of vehicle (or person, but it would have to be Robert Wadlow-type people that are affected) can pass beneath it. Normally it'd be a sign indicating the clearance of a bridge ahead, but the only thing restricting tall passers-by is the sign. Similarly positively-reinforcing but otherwise useless. 178.98.31.27 02:37, 19 June 2013 (UTC)
+If the title text is referring to the sign on-screen, then that's one tall Cue-Ball.Kev (talk) 00:02, 31 October 2013 (UTC)
+An alternate definition of 'reset' is 'to change the reading of', via dictionary.com. If the comic opts to use this definition, the sign becomes paradoxical. The sign couldn't have been reset 38 days ago, without someone resetting it each day. Which isn't possible, due to the instructions on the sign, which would make the sign read zero. It's a logical paradox. Lyusternik (talk) 20:18, 4 December 2013 (UTC)
+I think it would be truer to xkcd if it was a paradox. However, in computing, 'reset' always means to go back to the initial state, which is zero days in this case. So that's all it is. Every day, you have to increment the number, or reset it back to zero. The beauty of it is that you don't also then have to update the sign. Because of the self-referential nature, the event we are monitoring ("reset") has itself set the sign to the correct number of days. Almost genius! 108.162.219.223 20:47, 3 January 2014 (UTC)
+we call those signs "calendars" -- Gigahertz (talk) (please sign your comments with ~~~~)
+I'm still sad that they've raised the height of the 6' 8" bridge... --The Cat Lady (talk) 13:58, 14 August 2021 (UTC)
+Categories: All comicsComics from 2007Comics from DecemberFriday comicsComics featuring CueballSelf-reference

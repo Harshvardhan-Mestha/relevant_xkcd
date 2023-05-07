@@ -1,0 +1,80 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+162: Angular Momentum
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 162)
+|<< PrevComic #162 (September 25, 2006)Next >>|
+Angular Momentum
+
+Title text: With reasonable assumptions about latitude and body shape, how much time might she gain them? Note: whatever the answer, sunrise always comes too soon. (Also, is it worth it if she throws up?)
+Explanation[edit]
+A moving object (like the Earth) has momentum. Momentum is the mass (size) of the object multiplied by the velocity (speed) of the moving object. So the Earth has a very high momentum because the Earth has a large mass (size) and is moving at a high velocity (speed) around the Sun. However, the momentum referenced in this comic is the angular momentum of the Earth spinning on its axis, which creates the days and nights. A moving object has to keep moving at the same velocity for its momentum to stay the same. The momentum of a moving object can increase, decrease, or stop via the force of another object. Force is the transfer of momentum from one object to another.
+Megan attempts to slow down the Earth's angular momentum, and spins counter-clockwise to force her momentum onto the Earth, so that she can have more time with the one she loves.
+The Earth has a massively high momentum, and the momentum that she produces is minuscule relative to the Earth's. And the few nanoseconds gained by spinning, while being with Cueball, is effectively offset by the seconds spent spinning.
+Slowing down the rate of time in the universe directly slows down the velocity of life, so there would be no change in the total duration of life. And as the text implies, this isn't even possible: While not being able to reverse time, enjoy your night time. Sunrise always comes too early.
+The title text also jokes that the amount of time Megan is gaining from spinning might also not be worth her risk of vomiting due to the dizziness.
+Megan's attempt of surmounting the seemingly impossible is grand; culturally, we value this kind of high romanticism.
+Later in 442: xkcd Loves the Discovery Channel, the same kind of spinning Megan is used in the first frame to tell that xkcd loves momentum.
+Technical notes: Angular momentum depends on the axis used for measuring angular momentum.
+Apparently, the time Megan is stopping is “less than 1/20th of the time light takes to cross the diameter of a hydrogen atom”
+A considerably larger (but still minuscule) effect could be achieved by Megan (and/or Cueball and/or the bed) moving even a few meters closer to the equator. This would also have the advantage of not interfering with any other activities Megan and Cueball might want to undertake in their time together.
+Transcript[edit]
+[Cueball sits sideways on a bed under an open window in the corner of a room. He is looking at Megan, who is spinning fast, indicated with two large circles indicating where her arms that are spread far out rotate, as well as two smaller circles around her knees and feet. The bed sheets are clearly messed up, as if someone has used it for activities other than sleeping. It is night and dark gray outside the window, and inside the room everything is also gray but lighter. Behind the spoken text, the background is white, but fades to the darker gray at the edges. There is also different gray shading in different parts of the room.]
+Cueball: What are you doing?
+Megan: Spinning counterclockwise
+Megan: Each turn robs the planet of angular momentum
+Megan: Slowing its spin the tiniest bit
+Megan: Lengthening the night, pushing back the dawn
+Megan: Giving me a little more time here
+Megan: With you
+Trivia[edit]
+This is one of the six footer comics linked at the bottom part of the xkcd website.
+This comic is available as a signed print in the xkcd store.
+The Wired (magazine) calculated how much time Megan slowed down.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The issue date is not given, as i don't have a clue about it. Could someone fix this? Rikthoff (talk) 19:30, 3 August 2012 (EDT)
+When the page was updated to the new comic template by User:Bpothier he fixed the date. lcarsos (talk) 20:48, 28 August 2012 (UTC)
+That actually is a neat physics puzzle, which has probably (i.e. certainly) been addressed somewhere on the net. I may incorporate that some day. --Quicksilver (talk) 05:58, 24 August 2013 (UTC)
+I tried to calculate the change in Earth's period, assuming that she was standing in the north pole (latitude = 90º N), where her spinning would have more effect. I either did something wrong, or my TI-84 Plus is not capable of detecting the very small effect her spinning would have on the Earth's rotation. I assumed the Earth had a period of exactly 24 hours, and got the same value to the second, even if she was spinning at 1000 turns per second, which seems like a lot.
+Here's the formula:
+L_Earth_i = L_Earth_f + L_spinner <=>
+I_Earth * (2*PI)/T_Earth_i = I_Earth * (2*PI)/T_Earth_f + I_spinner* (2*PI) * f_spinner <=>
+(1/T_Earth_f) = (1/T_Earth_i) - (I_spinner/I_Earth)*f_spinner <=>
+T_Earth_f = 1/((1/T_Earth_i) - (I_spinner/I_Earth)*f_spinner)
+
+Where the variables have names in the format:
+[variable name]_[object it refers to]_[situation (i or f stand for initial and final)]
+
+L = Angular Moment
+I = Moment of Inertia
+T = Period of rotation about one's axis
+f = frequency
+
+I used as values:
+T_Earth_i = 86400 seconds (24 hours exactly)
+I_spinner = 62,04 Kg.m^2 (Found on Wolfram|Alpha, for a 62Kg adult human being)
+I_Earth = 8,03e+37 Kg.m^2 (http://scienceworld.wolfram.com/physics/MomentofInertiaEarth.html)
+f_spinner = the frequency of the woman's spinning in complete turns per second. 2.82.142.28 (talk) (please sign your comments with ~~~~)
+Taking that a bit further, the relative decrease is:
+  (T_Earth_f - T_Earth_i)/T_Earth_i = 1 / (I_Earth/(I_spinner*T_Earth_i*f_spinner) - 1)
+     = 1 / ( 1.5 e+28 - 1) ~= 67 e-30
+Fwiw, the absolute value is 5.767 yocto-seconds. If the entire world population would spin at that 1000 turns per second (and at favourable locations as in your assumptions), the effect will still be a measly 0.041 pico-seconds. So T_Earth_f = 86 399.999 999 999 999 958 ... But the TI-84 only has about 14 digits precision, i believe, so even that won't show up. -- 173.245.51.210 22:46, 30 October 2013 (UTC)
+Is it possible for someone to write an equation that factors in latitude (and, if relevant, longitude) that we could plug our locations into and get a value from? That would be awesome. Thanks. 108.162.250.208 02:48, 23 February 2014 (UTC)
+The visual style and theme of this comic is clearly referencing the 'Spinning Ballerina Optical Illusion' (evidenced by the grey-to-white gradient 'glow', as well as her arm and leg positions). 108.162.249.231 03:03, 30 September 2014 (UTC)
+The 'Spinning Ballerina' optical illusion does not apply here, Megan clearly stated that she was spinning 'counterclockwise' and due to the fact that she is drawn with hair (not a silhouette) lets you know where she is facing. Therefore the bent leg on the right of the image is her left leg. Plus there aren't many ways to draw a stick figure 'spinning'. Now if it were Cueball doing the spinning THEN I would agree with you because there would not be a reference point to make any type of judgement and therefore a point could be made that could be a reference Randall was trying to make. Nexxuz (talk)
+The momentum of Megan is in fact one order of magnitude smaller than what appeared in above calculation, so the dilation effect is still smaller.
+http://www.wolframalpha.com/input/?i=moment+of+inertia+of+solid+cylinder+for+a%3D0.25m%2Cmass%3D62kg 173.245.50.90 (talk) (please sign your comments with ~~~~)
+After reading this comics, I got one question. I thought one cant change the total momentum of a closed system of bodies. I mean, from the point of view outside of Earth, she would be spinning, but the momentum which Megan, or whatever her name is, gained in counter-clock-wise direction would also show in Earth clock-wise direction (positively). Basically I am referring to a situation of a man walking on a boat. (the boat moves, the man moves, but the position man-lake is still the same). So I figured it should be in this way. She spins, yeah, but the Earth now spins in opposite direction a little more, so in the end it is still the same. Now, she could totally delay time by approaching light speed as she spins, which would be weird though as her head (closer to rotational axis) would have smaller velocity than her hands (and thus faster time flow) resulting in, hmm, her body parts getting lost in time? 141.101.97.220 (talk) (please sign your comments with ~~~~)
+The total angular momentum cannot be altered from inside the closed system, but it can be distributed differently among the different bodies. This means that the angular speed of the Earth will be actually reduced, but only of a fixed value (proportional to Megan's angular speed) and only as long as Megan spins. It will revert to its original value when Megan stops spinning. Alexxx (talk) 23:24, 6 December 2015 (UTC) 141.101.104.8 (talk) (please sign your comments with ~~~~)
+The total angular momentum is not changed, but while Megan is spinning the Earth is rotating slower. When she stops spinning, the Earth resumes it's previous spin rate, but not in the same position, and therefore dawn comes later.
+You can compare with the man on the boat situation. If a man walks forward in the boat, the boat moves backward; when the man stops, the boat stops, too, but it is not in the same position it was at the beginning.--Pere prlpz (talk) 17:29, 17 December 2015 (UTC)
+
+Wouldn't she have to be spinning at the Geographic North Pole to have any effect? As it is she's spinning with her axis of rotation at some angle (depending on latitude ) to the Earth's axis of rotation so she's not having much of any effect at all. 173.245.54.190 10:15, 2 April 2015 (UTC)
+The effect is stronger in the North Pole, but in temperate latidudes it's still strong. In fact, it's proportional to sine of latitude. Therefore, if the comic is set in Boston (where I think Randall lives), it's just a 33% weaker than in the Pole (sin(42º)=0,67).
+Furthermore, out of the Pole, Megan's spin will slightly change the Earth's rotation axis, but this will have little effect on the time of dawn.--Pere prlpz (talk) 17:22, 17 December 2015 (UTC)
+Is she spinning counter clockwise when viewed from below or above? (Up spin or down spin?) 108.162.219.188 06:35, 24 June 2015 (UTC)
+I'm guessing she's spinning counter-clockwise as viewed from above. (I think that would be up-spin, by the right-hand-rule, if that's what you mean.) Assuming she's in the northern hemisphere, if I understand this correctly, as she pushes herself counter-clockwise, her feet exert clockwise torque on the earth, opposing the earth's counter-clockwise rotation on its axis (as viewed from above the north pole), slowing the earth's rotation slightly, thus "lengthening the night, pushing back the dawn"...by a mere 5.767×10-24 seconds (according to earlier comments) — I think that's the joke in this comic. -- Yfmcpxpj (talk) 16:24, 6 December 2019 (UTC)
+I'm no physicist, but the opening paragraph of the explanation seems to be about linear momentum, p=mv, whereas I think the comic might be referring to angular momentum, L=Iω. I wonder if Megan isn't trying to slow the earth's speed around the sun, nor trying to "slow down the rate of time", but is actually trying to "lengthen the night, push back the dawn" (because their time together will end at dawn), by slowing down the earth's rotation on its own axis? -- Yfmcpxpj (talk) 16:24, 6 December 2019 (UTC)
+Categories: All comicsComics from 2006Comics from SeptemberMonday comicsLinks to xkcd.comComics featuring CueballComics featuring MeganPhysicsRomanceFooter comicsComics with xkcd store products

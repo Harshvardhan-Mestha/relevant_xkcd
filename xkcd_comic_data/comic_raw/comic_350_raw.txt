@@ -1,0 +1,44 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+350: Network
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 350)
+|<< PrevComic #350 (November 28, 2007)Next >>|
+Network
+
+Title text: Viruses so far have been really disappointing on the 'disable the internet' front, and time is running out. When Linux/Mac win in a decade or so the game will be over.
+Explanation[edit]
+Cueball shows off his virtual fishtank of virus-infected virtual Windows machines to Megan. The machines nominally have mail trojans, Warhol worms, all sorts of polymorphic viruses, and explicitly Blaster and w32.welchia. Cueball relates to the viruses as though they are fish, and hopes that they are all getting along together nicely. This is because part of welchia's payload was to remove the Blaster Worm, effectively destroying it.
+A computer network or data network is a telecommunications network that allows computers to exchange data. In computer networks, networked computing devices exchange data with each other using a data link. The connections between nodes are established using either cable media or wireless media. The best-known computer network is the Internet.
+Network computer devices that originate, route, and terminate the data are called network nodes. Nodes can include hosts such as personal computers, phones, and servers as well as networking hardware. Two such devices can be said to be networked together when one device is able to exchange information with the other device, whether or not they have a direct connection to each other.
+Computer networks differ in the transmission medium used to carry their signals, the communications protocols to organize network traffic, the network's size, topology, and organizational intent.
+It would be possible to set up a virtual fish tank as described. The main issue would be to make sure that you don't accidentally let anything escape from the fish tank. Consider it like a smallpox lab. Also, some viruses are quite malicious [citation needed] and will prevent a computer from running normally, or at all. An aquarium of dead computers would not be very interesting to watch.[citation needed]
+The first part of the title text refers to the difficulty viruses have in the common doomsday threat of "disabling the internet" as a whole, although SQL Slammer had some brief success. The second part of the title text indicates that Randall believes A) that Linux and Mac OS X are inherently less vulnerable to virus attacks than Windows, and B) that Windows will become less important and disappear, so the virus writers had better get their act together soon.
+It is not certain how justified this opinion is. Fifteen years after this comic was written, Windows still dominates the desktop, and Linux and OS X are not that much harder to attack with viruses. A side issue is the wild growth in 'smart devices' connected to the internet, powered by non-traditional operating systems such as iOS and Android. Desktop operating systems such as Windows, Linux, and OS X are all becoming less relevant (although note that Android is based on the Linux kernel and iOS is based on OS X), so both the operating system war and the struggle against computer viruses are still "anyone's game."
+A similar system to the one described by this comic was available online at http://wecan.hasthe.technology. It was last reported to be available online on June 29, 2014, but is no longer available. Instead of executing email attachments, the 7 VMs ran files uploaded via the site by the public, making it more of a public playground aquarium than a private fish tank. Instead of wiping machines at random, each VM runs a virus scanner every 24 hours.
+Transcript[edit]
+[Megan looking at a large screen with many green and red squares. The squares have writing in them and lines connecting them.]
+[Side view. The screen is a huge LCD connected to a wireless router.]
+Cueball: Pretty, isn't it?
+Megan: What is it?
+Cueball: I've got a bunch of virtual Windows machines networked together, hooked up to an incoming pipe from the net. They execute email attachments, share files, and have no security patches.
+Cueball: Between them they have practically every virus.
+Cueball: There are mail trojans, warhol worms, and all sorts of exotic polymorphics. A monitoring system adds and wipes machines at random. The display shows the viruses as they move through the network. Growing and struggling.
+[Cueball walks past the girl and touches the monitor.]
+Megan: You know, normal people just have aquariums.
+Cueball: Good morning, Blaster. Are you and W32.Welchia getting along?
+Cueball: Who's a good virus? You are! Yes, you are!
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I'm just going to say it if your going to infect them anyway and not update them why would you need to get licenses legally. okies i said what we're all thinking byesies24.2.26.20 20:06, 14 May 2013 (UTC)
+License are not for the updates. Licenses are to not be committing copyright violation, and thus to be legal. --Divad27182 (talk) 16:41, 5 June 2013 (UTC)
+I believe Microsoft's MSDN licenses allow for setting up development/testing environments, and would be what I might use if I was setting something like this up for personal reasons, but still had enough money to buy a 103" flat-panel display... Tryc (talk) 20:10, 20 June 2013 (UTC)
+This comic is not about Microsoft licences, it's just about an experiment at an isolated network exposed to many violent viruses effecting only Microsoft systems. That Linux/MAC prediction is still not explained: So this is incomplete.--Dgbrt (talk) 21:03, 20 June 2013 (UTC)
+A mention of WecanHastheTechnology?
+Hey, perhaps we should mention something about the site http://wecan.hasthe.technology? Someone actually set up a system like this (in the FAQ, it was actually stated as being inspired by this comic.) Although, I suppose it's understandable (for security purposes) not to link to external untrusted sites. 173.245.56.205 (talk) (please sign your comments with ~~~~)
+^- Sorry to say, but the site is down and the reddit is dead for two years now. It would be fun to find something like a manual to rebuild this though~ 198.41.242.82 14:23, 31 January 2019 (UTC)
+Dang, now I want this. Imagine it: MEMZ is going on one VM, and suddenly FWOOSH! A ransomware attacks a large area of the network as another virus flashes lights in the corner. 172.68.132.11 00:27, 13 July 2020 (UTC)
+Mentioning Blaster and Welchia
+Welchia was a worm that attempts to delete Blaster before actually doing its thing -- it would also install security patches to prevent Blaster infection in the future. I think Randall included these two viruses deliberately.
+Categories: All comicsComics from 2007Comics from NovemberWednesday comicsPages using the "citation needed" templateComics featuring MeganComics featuring CueballComics with color

@@ -1,0 +1,47 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+128: dPain over dt
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 128)
+|<< PrevComic #128 (July 14, 2006)Next >>|
+dPain over dt
+
+Title text: You laugh to keep from crying, you do math to keep from crying...
+Explanation[edit]
+Another one of the math-love relationship comics, a mathematical depiction of pain as a differential equation is shown. It is hoped that dPain/dt, or the rate of pain (in this case, shrinking), decreases quickly so that the pain will vanish quickly. He's hoping the value for d will not be larger than a few days or some weeks. Assuming that How much she's still in my life is a constant [Megan], solving the differential equation leads to the following solution (with unknown c1):
+If k1 was positive or if k2 was a large value, the value of dPain/dt would approach zero. Ideally, k1 would be "How much she's in my life"/Pain (we assume both these values are positive), while k2 would ideally be extremely large. Either of these scenarios approach what would be a situation where the value of dPain/dt is close to zero. But we don't know the meaning of k1 or k2; these variables are just unpredictable.
+In the title text, Randall changes the famous "laugh to keep from crying" statement to math.
+Transcript[edit]
+dPain/dt = (-k1 Pain + [Image of Megan]) (1/(1 + e ^ -(t-k2)/d))
+k1=?
+k2=?
+[Image of Megan]=How much she's still in my life
+Please let d only be a few days... or weeks
+I guess there's some kind of a cutoff after years, where it stops mattering and we can be friends. Do I want that?
+Is k1 positive? Is k2 large?
+Will I ever stop feeling like this?
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Explanation[edit]
+Since this is my first real contribution here I'm putting everything on the talk page instead of on the article itself.
+The equation describes Pain as a function of Pain, time, and several constants. This is a first-order linear differential equation with possible solution:
+Pain = c_1 (e^k_2 + d e^t)^(-k_1) + (Girl)/k_1
+Hopefully, d is relatively small ("days... or weeks"), thereby diminishing the time it takes for Pain to change. Significantly, k_1 needs to be positive, otherwise the first term would grow unbounded and Pain would never decrease. Assuming k_1 is positive, a larger k_2 results in a lower initial state. Again assuming k_1 is positive, the "Girl" term guarantees there will always be a nonzero amount of Pain since Pain approaches Girl/k_1 asymptotically, unless of course "How much she's still in my life" is zero. This probably gives rise to observation "I guess there's some kind of a cutoff after years."
+--Smartin (talk) 02:33, 1 January 2013 (UTC)
+Applying dimensional analysis suggests the 'How much she's still in my life' has the same units as 'Pain'. This makes no sense.
+Clearly you've not been through this kind of loss. IdahoEv (talk) 19:23, 13 June 2015 (UTC)
+In addition, the explanation that pain will eventally reach zero after 'how much she's still in my life' reaches zero (either through drifiting apart or death?) 'after a number of years' is contradicted by the text of the comic (...we can be friends). Perhaps the formulation is incorrect?
+I would like to suggest that the first term be corrected to : (-k1.pain.(1-megan)) where 'megan' lies between 0 and 1. This makes dimensional sense. I would also like to suggest that the denominator of the second term be amended to: (1+ e^((K2-t)/d))). By my reckoning this allows a time period approximately equal to K2 where dPain/dt is small, so providing the cut-off period. After this period, dPain / dt gets increasingly negative.
+My own experience is that K2, in my terms, is proportionate to the amount of denial you indulge in and inversely proportionate to the presence of someone else to help you pull through! Whatever, the cartoon provided a good amount of laughter which also helps.
+--HandyAndy (talk) 19:36, 20 May 2013 (UTC) HandyAndy 20:35 BST, 2013-05-20 (ref ISO 1806 ;-))
+'How much she's still in my life' should have dimension Pain/time (the same as dPain/dt) and k1 has dimension 1/time. We don't know for sure, if 'How much she's still in my life' is a constant or a function, but if it is a constant, the solution of the ODE is as follows (Smartin: You forgot a pair of parentheses) [1]:
+P(t) = c_1*(e^(k2/d)+e^(t/d))^(-d*k1)+G/k1.
+--Chtz (talk) 14:59, 22 July 2013 (UTC)
+
+I just added the (IMO correct) solution to the ODE and marked the rest as incomplete/incorrect. First of all, we can't say that less pain is "better". But assuming that, it's not enough that dPain/dt approaches 0 fast, but that P(t) itself gets smaller or at least does not increase unbounded. --Chtz (talk) 15:47, 22 July 2013 (UTC)
+We still have to figure out about what REAL equation is in the background. It's not relativity, entropy, or thermodynamics. But the picture looks familiar to me, my poor old brain just do not remember.--Dgbrt (talk) 18:47, 22 July 2013 (UTC)
+The first factor alone would describe a shifted exponential decay. The second factor is a scaled and shifted sigmoid function, more precisely the hyperbolic tangent shifted to have its inflection at (k2,0.5) and vertically scaled by d. I'm not sure if that helps anyone, though ... --Chtz (talk) 08:40, 23 July 2013 (UTC)
+
+This is a Desmos of the pain equation: https://www.desmos.com/calculator/req3jnplsc. Can someone check if my equation is a solution of the equation? When I change d, it seems to be favourable for d to be large. 162.158.165.88 00:09, 18 September 2020 (UTC)
+Categories: All comicsComics from 2006Comics from JulyFriday comicsAnalysisRomanceComics featuring Megan

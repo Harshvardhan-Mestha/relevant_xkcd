@@ -1,0 +1,42 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+233: A New CAPTCHA Approach
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 233)
+|<< PrevComic #233 (March 9, 2007)Next >>|
+A New CAPTCHA Approach
+
+Title text: They'd use that Futurama episode with Fry's dog, but even spambots cry at that.
+Explanation[edit]
+A CAPTCHA is a verification system to stop automatic submissions to web forms by asking the user to do something a computer program could not do, such as type a distorted word into a box.
+But here, the author has a new CAPTCHA, in which it references a sad event in the children's movie, The Land Before Time. It asks the subject if it felt sad. If the subject is human, then they most likely will have felt sad, so the answer will be "yes." If it's a computer program, however, it is supposed to answer "no," because computer programs cannot feel. This CAPTCHA would be extremely easy to break, however, because a computer could easily find the "yes" button and press it. However, the "trap" is that a computer program doesn't "know" that it's supposed to answer "yes," as it lacks human emotion and empathy. It is similar to the way that humans are very good at being shown simple drawings of an object or an action and being able to tell immediately what it is, while computers can't. The "no lying" instruction is ostensibly meant to patch that hole, but unfortunately, it turns out that spambots are not generally programmed with the Three Laws of Robotics.
+Another reason why a CAPTCHA like this won't be very practical is that some humans haven't necessarily seen the movie in the question and would be unable to know if they did feel sad or not.
+The title text references the Futurama episode "Jurassic Bark". It claims that this episode is so sad that even spambots cry after seeing it.
+Transcript[edit]
+To complete your web registration, please prove that you're human:
+When Littlefoot's mother died in the original 'Land Before Time', did you feel sad?
+[radio button.] Yes
+[radio button.] No
+(Bots: no lying)
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Both of those fail against autistic people (and people who have diseases similar to autism, one example being FG syndrome). Greyson (talk) 17:49, 24 January 2014 (UTC)
+Or, y'know, people who haven't seen the movie/episode. --Alex (talk) 21:09, 28 April 2014 (UTC)
+Not really. It depends more on what type of person they are, less on what conditions they have. Beanie (talk) 10:46, 19 March 2021 (UTC)
+Not exactly, because kids with autistic-spectrum disorders can be more sensitive. The only pop-culture example I can think of is Sheldon Cooper's sadness when he learned of Professor Proton's passing. 108.162.249.240 (talk) (please sign your comments with ~~~~)
+Can confirm. Beanie (talk) 10:46, 19 March 2021 (UTC)
+A better example would be the dog in I Am Legend. Also, the text for the question and for the answers would both have to be distorted slightly. 173.245.50.87 06:02, 11 September 2015 (UTC)
+The obvious alusion is Deckard's empathy test on Leon in Blade Runner to determine whether he is human. 108.162.229.30 (talk) (please sign your comments with ~~~~)
+You know it was from Do Androids Dream of Electric Sheep by Phillip K. Dick first, right? The movie was based on that. 108.162.218.166 (talk) (please sign your comments with ~~~~)
+I don't remember crying to that scene when I was younger. I do- I mean, did cry when Optimus Prime died in the '87 Transformers movie though. -Pennpenn 108.162.249.225 04:25, 26 January 2015 (UTC)
+The funniest thing is the Infosphere does use Fry's dog as a captcha like this. Hutc 141.101.98.193 (talk) (please sign your comments with ~~~~)
+This seems to be an allusion to the Voight-Kampff test in the movie Blade Runner. The test is used to distinguish humans from 'Replicas' (artificial humans) by asking questions designed to elicit an emotional response, and then monitoring biological metrics in the respondent. The idea being that replicas would be unable to maintain a convincing fakery against such a systematized methodology. Mountain Hikes (talk) 01:55, 25 September 2015 (UTC)
+It's "Replicants", not "Replicas". --The Cat Lady (talk) 10:36, 13 August 2021 (UTC)
+Am I the only one who didn't cry with that episode with Fry's dog? I mean it was sad but I didn't cry. On top of that one of the movies makes that scene a LOT less sad.
+I suppose I'm just a cold, heartless satellite. Fry's dog may work on spambots but not satellites. International Space Station (talk) 15:35, 22 April 2016 (UTC)
+I never really cry in movies because I know that they are fake. most of the time.
+Captcha[edit]
+Another captcha approach is making use of the Halting Problem (Will this program halt?), as computers can't solve it, while humans can find a pattern. ColorfulGalaxy (talk) 20:39, 11 December 2022 (UTC)
+...or die trying! 172.70.85.174 20:58, 12 December 2022 (UTC)
+Categories: All comicsComics from 2007Comics from MarchFriday comicsCAPTCHA

@@ -1,0 +1,29 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+407: Cheap GPS
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 407)
+|<< PrevComic #407 (April 7, 2008)Next >>|
+Cheap GPS
+
+Title text: In lieu of mapping software, I once wrote a Perl program which, given a USB GPS receiver and a destination, printed 'LEFT' 'RIGHT' OR 'STRAIGHT' based on my heading.
+Explanation[edit]
+GPS is a system allowing people to find their location and from that, speed on Earth. It was first developed for the U.S. military, but now it sees international usage for everyday navigation. Many motorists today have GPS devices (sometimes just called GPS's) that can give driving directions electronically.
+Hot and Cold is a children's activity/game where one person searches for an unknown object, and the rest must respond "Hot" or "Cold." Other words, such as "warm" and "cool" can be used to describe their distance more accurately. The closer the player is to the mystery object, the "hotter" they are.
+This GPS would be extremely difficult to use, as it gives no directions, only telling you how close you are to reaching your destination. The series of instructions spoken ("cold," "warm," "hot," then "cold" again) suggests that Cueball either missed a turn, or that he just passed his destination.
+Randall describes a past engineering project of his that can only describe turns "as the crow flies." So, for example, if he was driving north with the destination to the northeast, the GPS would tell him to turn right even if no such turn was legally possible. Perhaps not very functional, but it is a pretty cool thing to build. While cars go fast and are only allowed to, or able to, use a very limited number of all roads and trails in the world, this is less so for pedestrians. As a consequence, for hikers, an app that just shows the direction you should be walking in 'as the crow flies' is actually quite a common and useful tool, since a lot of small roads suitable for pedestrians do not show up on maps. Of course, just printing 'left' or 'right' is much more primitive than showing an arrow in the correct direction (compass-like), and often less helpful since on one cross section there can be multiple trails to the right.
+Transcript[edit]
+[Cueball driving down the road, with a GPS reading "COLD."]
+GPS: COLD... WARM... HOT! COLD...
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+In an inversion of Title-text, I did actually make a Perl script for Geohashing which (for a given target) gave a bearing and distance to target from the interogated GPS USB dongle's idea of my current location... But the bearing was absolute, with no way of determining which relative direction I (or at least the laptop/dongle) was facing. (I had decided that direction of travel could not be reliably worked out from the last pair or trio of locations, given that when it mattered most I was probably tramping quickly back and forth over moorland looking for some specific feature of vegetation or drainage matching up with the aerial photos). Examination of moss on stones or trees (or satellite TV dishes on houses, for the urban environment) was occasionally needed to narrow down orientation. Or approximating the old analogue watch-hands trick with the sun, in my head (having only the digital time). 178.107.249.215 00:13, 18 June 2013 (UTC)
+Hey, look at this: https://xkcd.com/cyborg.txt 162.158.26.52 06:39, 30 March 2017 (UTC)
+Hit the pot[edit]
+Is the game Topfschlagen known outside Germany? There is only a German entry on wikipedia (as of today). For me this kind of game is actually also the first thing that came to mind. Usually besides hot/cold ("heiß", "warm"/"kalt") comparative forms of these adjectives are used to indicate the current direction: e.g. warmer ("wärmer") if the seeker currently gets closer to the goal. --Chtz (talk) 21:39, 15 July 2013 (UTC)
+I actually don't know, but this forum entry on the leo.org dictionary site confirms that the cold/hot scale is used in games in English, too, so I thought it was worth mentioning at least one of them. If someone knows another such game that is better known internationally, feel free to substitute that. --Das-g (talk) 20:48, 29 July 2013 (UTC)
+The concept comes up in various games, although I can't quite pinpoint exactly where it came from. My earliest memory of anything of that sort is an Easter egg hunt. --Quicksilver (talk) 04:29, 21 August 2013 (UTC)
+Hot and Cold does not need a special explain, everybody knows. So, my latest explain should be enough.--Dgbrt (talk) 19:54, 23 August 2013 (UTC)
+First (only?) comic where the number is the date (407 = 4/07 = April 7th). Misterblue28 (talk) 15:59, 29 May 2018 (UTC)misterblue28
+Categories: All comicsComics from 2008Comics from AprilMonday comicsComics featuring CueballMapsProgramming

@@ -1,0 +1,34 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+364: Responsible Behavior
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 364)
+|<< PrevComic #364 (December 31, 2007)Next >>|
+Responsible Behavior
+
+Title text: Never bring tequila to a key-signing party.
+Explanation[edit]
+This New Year's comic could play out after Cueball has returned from a New Year's party the day before. (The next New Year's day comic in 2008 was also related to a big party: 524: Party).
+In order to send encrypted mail to people, you need to know their public key. You use this key to encrypt the email, and only they can read it (using their private key). However, there is the problem of authentication: how do you know for certain that the key belongs to the person to whom you think it does? It could be someone else masquerading as them, hoping for people to send them sensitive information. They could decrypt and read your mail, and could even re-encrypt it using the genuine public key of the intended recipient, and then pass the message onto them, leaving both you and the recipient unaware of the interception. This is a type of man-in-the-middle attack.
+One solution for this is that people sign each other's keys. It works like this: say you want to send an email to Bob, but you've never met him. You find his key online (they are stored on certain servers, like cryptographic phone books), but how can you be sure that it's really his? Well, turns out that you have a mutual friend Alice, and you have her public key and you know that it is hers. If Alice has signed Bob's key with her private key (which only she has access to), it means that she's certain that that really is Bob's key. So then you can be sure that Bob's key is genuine (since you have a common friend, Alice) and that your communications will be safe.
+A key-signing party is simply a super-geeky party where people meet in real life so that they can be sure of people's identity, and then everyone signs everyone else's keys. It's a good way to expand the web of trust. The joke here is that he has no idea who this girl is and yet he still signed her key. This is dangerous, because he is vouching for her identity. If he is mistaken, this could result in a serious loss of credibility on his part.
+The humor lies in the juxtaposition of what you expect (that they had sex) and what is the case (they signed each other's keys, also known as geek-sex).
+The title text appears to be a reference to the "key parties" of swingers in the 1970s, where all members of one sex would throw their keys in a bowl, and all of the other sex would draw them out, thus being paired off to sleep with the key owners.
+Transcript[edit]
+[Cueball on the phone.]
+Voice: Hey, I just got home from the party
+Cueball: The one with the IRC folks?
+Voice: Yeah.
+Cueball: How was it?
+Voice: Got too drunk. I screwed up, bad.
+Cueball: What happened?
+Voice: There was a girl. No idea who she was. Don't even know her name. I was too drunk to care.
+Cueball: And what, you slept with her?
+Voice: No.
+Voice: I signed her public key.
+Cueball: Shit, man.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Given the context, the title text may also be a reference to "key parties" held in the 1970's by committed but non-monogamous couples, colloquially known as "swingers". Assuming the attendees were hetero couples, the men would place their car keys in a container such as a bag or a fishbowl, and after several hours of socializing, the women would each pull a key from the container and go home with the owner of said keys. The activities that followed were sometimes limited by a gentleman's agreement beforehand, but given enough alcohol, sometimes people overstepped those bounds. Frijole (talk) 01:02, 12 September 2013 (UTC)
+Categories: All comicsComics from 2007Comics from DecemberMonday comicsNew YearComics featuring CueballComputer security

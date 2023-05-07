@@ -1,0 +1,76 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+371: Compiler Complaint
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 371)
+|<< PrevComic #371 (January 16, 2008)Next >>|
+Compiler Complaint
+
+Title text: Checking whether build environment is sane... build environment is grinning and holding a spatula. Guess not.
+Explanation[edit]
+A compiler is a program that converts code into machine instructions that a computer can run. A pointer is a variable within a computer program that is used to reference a memory location. A segmentation fault (segfault) is an error that occurs when a program attempts to access an invalid section of memory. Segfaults usually cause a program to crash in an ungraceful fashion, and fixing the bugs that cause them can be difficult.
+In the comic, the computer starts talking to Cueball and compares a segfault with the unpleasant feeling one gets when they experience a hypnic jerk. The computer then tells the programmer to "double-check your damn pointers," as segfaults usually arise from a program attempting to access memory that is referenced by an invalid pointer.
+In reality, segfaults occur at runtime, after the compiler has produced an executable. While Randall refers to a "compiler complaint," it is more probable that the operating system or other supervisor program would have such a complaint.
+The title-text references GNU-style autoconf configuration scripts. These scripts check certain features of the system they're running on in order to build a program correctly; for example, certain systems expect system calls to occur in a specific way, and the autoconf script will detect this and alter the program to match the expectation. Invariably (and memetically), these scripts include a check to determine "whether the build environment is sane." This actually checks whether the path to the current folder has "unsafe" characters, and whether a newly created file is older than the script itself, which could indicate a very esoteric filesystem, a corrupted source archive, or just a system clock that's set incorrectly; however, since these file modification dates are an important part of how the autoconf script does its work, it can't go any further in an "insane" environment. In any case, the joke is that an insane build environment is nothing like an insane person, yet Randall is equating the two.
+Transcript[edit]
+[Cueball sits at a computer, hand over the keyboard.]
+Computer: Okay, human.
+Cueball: Huh?
+Computer: Before you hit "compile," listen up.
+Computer: You know when you're falling asleep, and you imagine yourself walking or something, and suddenly you misstep, stumble, and jolt awake?
+Cueball: Yeah!
+Computer: Well, that's what a segfault feels like.
+Computer: Double-check your damn pointers, okay?
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The test "whether build environment is sane" have nothing to do with libraries (those are tested later) or compilation at all (ditto). It seems to test ls and creating new files. Failing this test will surely means lot of problems, but certainly there are other possible sources of problems (some tested later), so not sure why it's labeled this way ... there is probably interresting history behind this.
+The test goes like this (example taken from coreutils-5.94):
+ { echo "$as_me:$LINENO: checking whether build environment is sane" >&5
+ echo $ECHO_N "checking whether build environment is sane... $ECHO_C" >&6; }
+ # Just in case
+ sleep 1
+ echo timestamp > conftest.file
+ # Do `set' in a subshell so we don't clobber the current shell's
+ # arguments.  Must try -L first in case configure is actually a
+ # symlink; some systems play weird games with the mod time of symlinks
+ # (eg FreeBSD returns the mod time of the symlink's containing
+ # directory).
+ if ! (
+  set X `ls -Lt $srcdir/configure conftest.file 2> /dev/null`
+  if test "$*" = "X"; then
+     # -L didn't work.
+     set X `ls -t $srcdir/configure conftest.file`
+  fi
+  rm -f conftest.file
+  if test "$*" != "X $srcdir/configure conftest.file" \
+     && test "$*" != "X conftest.file $srcdir/configure"; then
+ 
+     # If neither matched, then we have a broken ls.  This can happen
+     # if, for instance, CONFIG_SHELL is bash and it inherits a
+     # broken ls alias from the environment.  This has actually
+     # happened.  Such a system could not be considered "sane".
+     { { echo "$as_me:$LINENO: error: ls -t appears to fail.  Make sure there is not a broken
+ alias in your environment" >&5
+ echo "$as_me: error: ls -t appears to fail.  Make sure there is not a broken
+ alias in your environment" >&2;}
+  { (exit 1); exit 1; }; }
+  fi
+ 
+  test "$2" = conftest.file
+  )
+ then
+  { { echo "$as_me:$LINENO: error: newly created file is older than distributed files!
+ Check your system clock" >&5
+ echo "$as_me: error: newly created file is older than distributed files!
+ Check your system clock" >&2;}
+  { (exit 1); exit 1; }; }
+ fi
+ { echo "$as_me:$LINENO: result: yes" >&5
+ echo "${ECHO_T}yes" >&6; }
+-- Hkmaly (talk) 10:15, 17 September 2013 (UTC)
+Made slightly more efficient. 173.245.54.31 14:11, 22 March 2014 (UTC)
+segfaults
+I do not think Randall is suggesting that segfaults are a compiler issue. The insane computer stopped the person before compiling, because this would be the only time that he could change the code to prevent possible segfaults during runtime. -- Flewk (talk) (please sign your comments with ~~~~)
+You're totally right; unless it's an interpreter, or the compiler is running some code at compile-time, the compiler will almost never get a segfault itself due to a buggy program. I updated the explanation to clarify this. APerson (talk!) 06:17, 29 October 2018 (UTC)
+Categories: All comicsComics from 2008Comics from JanuaryWednesday comicsComics featuring CueballProgrammingComputers

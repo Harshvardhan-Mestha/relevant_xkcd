@@ -1,0 +1,44 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+465: Quantum Teleportation
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 465)
+|<< PrevComic #465 (August 20, 2008)Next >>|
+Quantum Teleportation
+
+Title text: Science should be exactly as cool as the headlines sound. Like the "RUSSIANS CUT APART AND REASSEMBLE DOGS" thing
+Explanation[edit]
+Quantum teleportation is a method of effectively taking a quantum state that exists in one laboratory and destroying it in the current laboratory and later recreating exactly the same — still unmeasured — quantum state in another laboratory that could potentially be very far away.
+This is achieved by first creating an entangled quantum state in a laboratory and moving one part of the entangled quantum state to a faraway laboratory. Now let's say a scientist desires to teleport the quantum state |ψ⟩ to a faraway lab. The scientists does a specific measurement on the combination of |ψ⟩ and their half of the entangled quantum state, and the outcome of their measurement will be two bits of classical information. They can then telephone over the results of their two bits of information to tell scientists at the faraway lab how to do a measurement on their half of the entangled quantum state, which will recreate the quantum state |ψ⟩ at the faraway lab, effectively teleporting it. This is an important result in quantum mechanics, especially in regards to quantum computing.
+The name is misleading in that it does not create an efficient means of transportation via teleportation — something like the teleporters from Star Trek i.e. a conventional teleporter — where macroscopic objects like humans (composed of 7 × 1027 atoms) could be teleported to an arbitrary place.
+The comic jokes with the fact that news reporters wish to get a story about Star Trek teleporters, and the scientist is angry that there is no interest in his quantum version — the reporters are even disappointed when they write their story. The last panel appears to indicate that this scientist not only has a quantum teleporter, he also has a "regular" teleporter of the type the reporter is asking about, which would be a gigantic news item, as it is one of the biggest challenges of this century (and possibly future ones as well) to build one. He uses the conventional to escape to The Bahamas.
+The whole method of quantum teleportation is predicated on being able to first create entangled quantum states and then transport, by conventional means, one-half of the entangled state. Only after this step could you then destroy the shared entangled quantum state, to "teleport" a different quantum state to the new location.
+Quantum teleportation is deeply related to Bell's theorem where it's shown that quantum mechanics is incompatible with the idea of local hidden variables and that has been experimentally demonstrated (though a few very small loopholes still have not been conclusively ruled out). Explaining "it's a particle statistics thing" is a great explanation of the related Bell's theorem experiments, which demonstrate quantum entanglement, which is at the root of quantum teleportation. In these experiments, physicists take an entangled quantum state, move it apart, and then randomly decide which direction to measure each side of the quantum states. Through a statistical analysis of the results, you can demonstrate and measure each entangled particle in a randomly chosen direction. The statistical correlations between the particles are consistent with quantum mechanics and inconsistent with any local hidden variable theory; however, this instantaneous wave-function collapse does not break special relativity as wave-function collapse does not allow communication of any information. Instead, you can just analyze the correlations after the fact and compare the hypothesis of local hidden variables to the inconsistent hypothesis predicted by quantum mechanics and verify the quantum mechanical prediction.
+In the comic, Cueball explains to the reporter that quantum teleportation isn't what reporters build it up to be, before Cueball successfully teleports by switching his teleportation machine from quantum teleportation to regular teleportation.
+The title text refers to the controversial 1940s Soviet Experiments in the Revival of Organisms video that depicts a dog's head being cut off and revived. The film is controversial in that the footage is often perceived as being staged, though the Soviet scientist depicted in the video was attempting these sorts of experiments, and this research eventually led to the first Soviet open heart operation in 1957 — another instance of crazy headlines that may not be as interesting to the public when first explained, but may be an important step on the way to some type of practical use. Cutting apart and reassembling dogs could also be a metaphor for quantum teleportation if it were used to transfer dogs' states from a group of particles in one location to a group of particles in another location, which could be described as taking apart dogs and resembling them in a different location, although the word cut would be inaccurate. If this is the case, then Randall is arguing that this particular piece of science is as cool as it seems (because the objects are disassembled then resembled into someone else, as opposed to simply being moved); the reporters are merely disappointed because they were expecting something else.
+Transcript[edit]
+[A Cueball-like reporter and Cueball are facing each other, sitting in chairs.]
+Reporter: So, Quantum Teleportation-
+Cueball: The name is misleading. It's a particle statistics thing.
+[Zoom in on the reporter.]
+Reporter: So it's not like Star Trek? That's boring.
+[Zoom out again to both. Cueball leaves his seat and moves behind it.]
+Cueball: Okay, I'm sick of this. Every time there's a paper on quantum teleportation, you reporters write the same disappointed story.
+[Cueball has gone to a device that was behind him and was out of the scope of the three previous panels. He turns a knob that makes a sound in a zigzag sound buble.]
+Reporter (Off panel): But-
+Cueball: Talk to someone else. I'm going to the Bahamas.
+Knob: Click
+[Inserted panel with a zoom in on the device that is labeled, and the knob is now turned to the right position. Both possible positions are labeled.]
+Label: Teleporter
+Left: Quantum
+Right: Regular
+[Cueball is beamed up in classic Star Trek fashion.]
+Vrmmm
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+No mention in the explanation that having pooh-poohed the idea of quantum teleportation being anything like the archetypal fictional representation of matter-transporters, the guy then "goes to the Bahamas" via a box that has been flipped to "regular teleportation"... 178.107.249.215 22:38, 11 June 2013 (UTC)
+
+I'm pretty sure that it's not the laws of physics that make teleportation impossible. Converting matter to energy and back again is entirely possible theoretically. It's just that engineering such a device would be almost impossible. Or you could use a wormhole, which is again just a matter of figuring out how you'd build the damn thing.108.162.216.106 01:05, 2 January 2015 (UTC)
+RE: Engineering a device - also, it's not merely the conversion that presents the challenge, but that such a conversion would have to be highly-structured and practically instantaneous for Star Trek-style teleportation to work - Brettpeirce (talk) 20:09, 10 June 2015 (UTC)
+Categories: All comicsComics from 2008Comics from AugustWednesday comicsComics featuring CueballMultiple CueballsPhysicsStar Trek

@@ -1,0 +1,46 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+314: Dating Pools
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 314)
+|<< PrevComic #314 (September 10, 2007)Next >>|
+Dating Pools
+
+Title text: The full analysis is of course much more complicated, but I can't stay to talk about it because I have a date.
+Explanation[edit]
+Megan is upset because she is apparently older than 26, and among people who marry, half do so below 26. The intuitive conclusion is that the number of potential partners is decreasing as time goes on.
+The Half Plus Seven Rule is an unwritten rule that asserts that it is creepy to date anyone who is younger than half your age plus 7 years. For example, a 50-year-old dating someone who is younger than 32 (50/2 + 7 = 32) would be considered creepy. As the graph shows, there is a lower limit and an upper limit.
+The lower limit defines the minimum age of your partner in order that you are not considered creepy.
+The upper limit defines the maximum age of your partner in order that they are not considered creepy.
+The lower limit can be defined as f(x) = x/2 + 7 in which x is your age and f(x) is the minimum age of your partner. The upper limit can be defined as f^-1(x) = 2(x − 7) in which x is your age and f^-1(x) is the maximum age of your partner.
+As age increases, the age range of potential non-creepy partners widens. At 26, the range of non-creepy partners is 18 years (20- to 38-year-olds). At 50, it is 54 years (32 to 86 years old).
+At age 14, you can only date people your own age. The same also works with infinity, but even Methuselah died once.
+While the application of this rule actually reduces the number of potential matches further, Cueball presents it in a positive way by showing that there are whole swathes of people who she couldn't marry in the first place without being in a creepy relationship. But, as her age increases, the range of non-creepy partners also increases. Combined with Census Bureau data for how many people exist within any such range, Cueball shows that her eligible dating pool is in fact still increasing.
+Megan notes that graph-making nerds like Cueball may have a hard time finding dates, but this is refuted by the title text.
+Transcript[edit]
+[Megan is sitting on the ground with her elbows on her knees and her hands on her chin.]
+Megan: This sucks. The median first marriage age is 26. The pool of singles is shrinking. I'm running out of time.
+Cueball: Actually, not quite.
+Cueball: Yes, older singles are rarer. But as you get older, the dateable age range gets wider. An 18-year-old's range is 16–22, whereas a 30-year-old's might be more like 22–46.
+Text on chart: Standard creepiness rule: Don't date under (Age/2 + 7)
+Cueball: I did some analysis of this with the Census Bureau numbers just last weekend. Your dating pool actually grows until middle age. So don't fret so much!
+[The first chart is labeled "Singles" and is a decreasing graph. The second graph is labeled Dating Pool, and is a bell curve.]
+Megan: Did your analysis say anything about the dating prospects of people who spend weekends at home making graphs?
+Cueball: Come on. Somewhere at the edge of the bell curve is the girl for me.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The following text is exactly 160 characters long, which is the maximum length of an SMS:
+(2013-08-17)-(199X-XX-XX)=6XXX days
+(2013-08-17)-(199X-XX-XX)=5XXX days
+7 =2556.75 days
+6XXX/2+2557=5XXX
+Standard Creepiness Rule: Don't date under age/2+7
+Don't ask me how I found it :P (some digits are replaced with X for privacy reasons) --DiEvAl (talk) 10:08, 17 August 2013 (UTC)
+Don't ask you how you found it? I'm a little concerned about that credo...121.222.232.156 06:18, 14 September 2013 (UTC)
+By this standard, 14 is the minimum dating age. As a father, I approve Cflare (talk) 14:49, 21 July 2014 (UTC)
+The chart appears to be using the following function for the maximum age: max_age_other <= (your_age - 7) * 2 The max age is determined by the oldest the other person can be before you are too young for them according to the age/2 + 7 rule.108.162.216.100 17:20, 24 September 2014 (UTC)
+Am I the only one who thought of this? http://www.roundstable.com/wordpress/wp-content/uploads/2013/11/Screen-Shot-2013-11-19-at-8.32.48-AM-690x377.png (as far as making charts on stuff like love and shtuff. 108.162.217.89 (talk) (please sign your comments with ~~~~)
+... And this is how he spends the pi comic. Oh well :/ SilverMagpie (talk) 06:14, 22 June 2018 (UTC)
+The second graph, while a unimodal distribution, is not a bell curve like it says in the transcript. 172.69.22.200 21:19, 7 December 2019 (UTC)
+Categories: All comicsComics from 2007Comics from SeptemberMonday comicsComics featuring MeganComics featuring CueballLine graphsRomanceStatisticsMath

@@ -1,0 +1,33 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+454: Rewiring
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 454)
+|<< PrevComic #454 (July 25, 2008)Next >>|
+Rewiring
+
+Title text: My friend Finn tried to mail one end of the cable to me and thread the mail system.
+Explanation[edit]
+At the time this comic was written, most residential buildings in North America were wired for analog devices using the old landline telephone services, although thanks to the growth of internet telephone and wireless telephone technologies, including cordless and mobile phones, this in-house wiring was increasingly redundant. See also Use of mobile phones.
+At the time, people who took their internet access seriously would have preferred that at least some of the phone wiring and phone jacks in their residences were Ethernet (Cat-5 or Cat-6) wiring and (RJ45) jacks for providing wired internet access throughout their home, or in this case, to their neighbor's home, so that they wouldn't have to resort to Wi-Fi, which was then slower and less reliable than a wired connection.
+The title text suggests that it shows a fanciful way of converting analog phone lines to digital ethernet lines by simply faxing an ethernet cable, since a fax machine is a tool for converting analog content into digital.
+Since the faxing of the ethernet cable is apparently successful, the comic is not really about the conversion, but is instead a subtle computer network joke about tunneling, whereby you can embed one kind of network access protocol within a very different protocol. Herein lies the humor: Cueball and Megan are apparently under the impression that they can achieve a faster connection by tunneling a high-speed protocol (ethernet) through a slower (landline telephone service) one. Generally speaking, this is not true. The only exception is when embedding a compressed data stream within a non-compressed standard. The performance boosts, however, are typically modest for lossless compression, and not the orders of magnitude difference our novices apparently hope for.
+The title text, which is a reference to foonetic user relsqui, was changed to correct their name to "Finn" after they came out as agender. (This comic was presumably inspired by this conversation they had over IRC.)
+Transcript[edit]
+[Cueball is feeding cable into a device on a desk labeled "fax."]
+Fax: zzzzzz
+[Outdoors, showing a plant and a lamp (indicates panels 1 and 3 are separate locations).]
+[Megan, laptop behind her, is pulling a cable out of a fax machine.]
+Fax: zzzzz
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+As well as physically 'threading' the mail system, an email (or other messaging) client that keeps track of what messages reply to which others (often as a linear progression or cascade, or a tree-view where multiplie participants can be expected to branch the conversation) is said to show 'threaded' messages. Or was. (These days it's probably got some other name, and everyone seems to just want to top-post anyway. Thank you, Eternal September!!!) 178.107.249.215 13:12, 14 June 2013 (UTC)
+If there were so many homes with phone wiring and no ethernet wiring and they were complaining, why didn't they just use the phone wiring for ethernet. It is a little less stable because of lack of addditional grounding/isolation wiring, but ethernet does only actually use 4 wires. Tharkon (talk) 19:35, 1 December 2013 (UTC)
+The RJ11 jacks in more than half the houses I've lived in only had 2 wires connected. The most common reason to have 4 wires is that someone ordered two handsets in the 70s--sometimes dialing on one handset would cause the other one to ring, in which case AT&T would install an "anti-tinkle system", which required another wire pair. I also lived in one house whose owner had ordered a business phone when he lived there, and the lights on the business phone were powered by a second pair. 162.158.255.69 18:44, 14 September 2015 (UTC)
+I believe that there needs to be more explanation about the title text, particularly about what "threading" and a mail system are. Codefreak5 (talk) 05:20, 16 July 2014 (UTC)
+Hey folks, when I check the comic on my computer the title text reads "Finn", not "Elizabeth". Is this an error on this site, or is it one of Randall's meta-jokes? 198.41.235.185 13:41, 4 January 2016 (UTC)
+Added an explanation. It contains all the facts of the situation that I'm aware of, but someone who frequents the chat more than I do may be able to correct me. --162.158.153.113 21:40, 23 March 2016 (UTC)
+Why is the google trends list a link for in Canada, would not a link straight to the world wide data be more appropriate? 108.162.246.191 11:51, 19 July 2017 (UTC)
+I've removed the link because it didn't explain anything. Nevertheless google.ca should be the same as google.com, also true for most other countries but not for cn and a few more.--Dgbrt (talk) 15:49, 19 July 2017 (UTC)
+Categories: All comicsComics from 2008Comics from JulyFriday comicsComics featuring CueballComics featuring MeganPhones

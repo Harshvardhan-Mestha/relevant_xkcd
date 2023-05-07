@@ -1,0 +1,53 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+353: Python
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 353)
+|<< PrevComic #353 (December 5, 2007)Next >>|
+Python
+
+Title text: I wrote 20 short programs in Python yesterday. It was wonderful. Perl, I'm leaving you.
+Explanation[edit]
+Python is a programming language designed specifically to make it easy to write clear, readable programs. Flying is often used as a metaphor for freedom and ease, and here Randall shows Cueball literally flying in response to using Python.
+A "Hello, World!" program is a very simple program that prints the phrase "Hello, World!", used in textbooks to illustrate a given programming language. While this sounds simple, it can be nontrivial in some programming languages where you need to explicitly import a library that contains the print function (for instance, in C you need to begin with #include <stdio.h>) or do complicated things with classes and variables (see the Java "Hello, World!" for one example). Python doesn't need any of that: print("Hello, world!") (or in Python 2, print "Hello, world!") really is all you need to do.
+Dynamic typing and significant whitespace are two controversial features of Python, which make some people—like Cueball's friend—hesitant to use the language.
+Dynamic typing means that variables do not have types (like "list of short integers" or "a bunch of letters"); any value of any type can be placed in any variable. Dynamic typing allows for more flexible languages, but it means that certain kinds of errors (like trying to subtract a letter from a number) can't be caught until a program is run, and some people think this is too dangerous for the tradeoff to be acceptable.
+Whitespace is a string of invisible text characters, like spaces or tabs. In programming, blocks of code controlled by a statement are usually indented under that statement. Most languages require you to use braces ({…}) or special keywords (BEGIN…END) to delimit these blocks; in Python, the indentation itself is the delimiter. Many Python programmers find that this makes code more readable, but many other programmers find it too "magical" and don't trust it.
+Classes, functions, and constants in Python are packed into modules. To use a module, you write "import module" at the top of your source file (you can do this anywhere in the file, but it's usually at the top so you can use the module throughout the code). Python comes with a very powerful standard library of modules to do everything from parsing XML to comparing two sets of files for differences, and new modules can be easily installed from the PyPI repository, which has more than 400,000 more to choose from (as of September 2022). Cueball can fly because he imported the antigravity module. Python still works for Cueball in 482: Height.
+In the final panel, Cueball admits that his ability to fly may actually be because he has "sampled everything in the medicine cabinet," though he's sure it is the Python anyway. An implication of this is that ingesting everything in the medicine cabinet has given him the feeling of freedom and ease that "flying" represents - or that he is hallucinating himself flying and having a conversation with the other character about it. Here, the metaphor of "feeling like you're flying" while using Python is transformed back from being literal (Cueball is actually flying) to being metaphorical (Randall feels like he is flying because Python is so easy to use... or because he had too many strange drugs).
+Perl, mentioned in the title text, is another programming language with the same target audience as Python, as both are high-level, general-purpose, interpreted, dynamic programming languages. However they strongly oppose each other in their language design:
+Perl’s philosophy for its syntax is "There's more than one way to do it," so each coder can choose their own coding style to do exactly the same thing.
+Python’s philosophy for its syntax is "There should be one — and preferably only one — obvious way to do it," so the written code is more consistent.
+Since he has discovered Python, Randall doesn't like Perl anymore, probably because its syntax is less consistent or perhaps due to his problems with Regular expressions. What God has to say about Randall's renunciation of Perl has not yet been documented.
+Transcript[edit]
+[A Cueball-like friend is talking to Cueball, who is floating in the sky.]
+Friend: You're flying! How?
+Cueball: Python!
+Cueball: I learned it last night! Everything is so simple!
+Cueball: Hello world is just print "Hello, World!"
+Friend: I dunno... Dynamic typing? Whitespace?
+Cueball: Come join us! Programming is fun again! It's a whole new world up here!
+Friend: But how are you flying?
+Cueball: I just typed 'import antigravity'
+Friend: That's it?
+Cueball: ...I also sampled everything in the medicine cabinet for comparison.
+Cueball: But I think this is the python.
+Trivia[edit]
+In response to this comic, the Python developers implemented the module antigravity in version 2.7+. When you import it, the default web browser will open this comic. Also, in version 3+, the module contains a geohashing function.
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+It is necessary for both Cueballs to sample the medicine cabinet in order for this to be a hallucination. It was probably python. 122.161.29.247 (talk) (please sign your comments with ~~~~)
+Or maybe there is just one Cueball - the one on the ground who is hallucinating - because he tried everything...? ;-) Kynde (talk) 20:45, 3 May 2014 (UTC)
+'I also sampled everything in the medicine cabinet for comparison' is a possible reference to George's Marvellous Medicine, the children's book written by Roald Dahl, wherein a combination of medicines and household materials produces fantastical effects. Quetzalcoatl (talk) 14:31, 10 February 2014 (UTC)
+I think it's related to the invention of photographs, but I'm not sure 173.245.48.81 06:19, 3 January 2015 (UTC)
+Woah guys, antigravity is a real module in Python! I was looking around the lib folder, trying to figure out how to put a module into it, and there it was - antigravity.py . It just sends your browser to the comic. --108.162.219.171 22:07, 13 December 2014 (UTC)
+Yeah, that's already covered in the Trivia section ;-) --SlashMe (talk) 23:22, 14 December 2014 (UTC)
+The implication is that in Python many otherwise amazing things become easily possible after a simple import statement and/or that there is a module for almost anything you'd want to do no matter how difficult.199.27.130.216 16:30, 29 April 2015 (UTC)
+The explanation was wrong about many things. Python doesn't have a heavily-simplified syntax--it's about as simple as Perl (and a lot less simple than Lisp); the difference is that it's designed first and foremost to be consistent, easy to read, and easy to remember, even at the cost of occasionally being more verbose or rigid. Its syntax doesn't generally reduce complicated things to a single word; it does allow many complicated things that might take 20 statements in C to be reduced to a single statement, but that's because it's high-level (again, like Perl), not because of its syntax. Dynamic typing has nothing to do with declaring the types of values, much less specifically numeric values, and it has nothing to do with Python automatically knowing how much space to reserve for a value--in fact, it's the opposite; C knows to reserve 4 bytes for an int variable at compile time, whereas Python has no idea what kind of value you're going to put into the variable until runtime. And "like in Visual Basic or JavaScript" is very confused--Visual Basic is statically typed, while JavaScript is dynamically typed, just like Python.
+Also, the explanation didn't explain why Cueball's friend was reticent to use dynamic typing or significant whitespace, or what the point of importing modules is.
+So I rewrote most of it. 162.158.255.69 20:55, 15 September 2015 (UTC)
+I remember this Roald Dahl story where some guy takes everything in the medicine cabinet of their grandparent and can fly. That's what i instanly thought when i saw that phrase. I'm not sure which story, but it was a good one and i think it's worth mentioning. 172.64.238.49 17:37, 21 April 2023 (UTC)
+Oh wait, i'm dumb it's //George's Marvellous Medicine// 172.71.186.83 17:43, 21 April 2023 (UTC)
+Not really, because that was mostly about size-changing abilities of an entire houshold (and more?) of constituent ingredients. But getting (or hallucinating) the ability to fly after consuming random pharmaceuticals is a fairly typical trope that stands well on its own general merit.
+I reverted your change, though no doubt you could write a better hedging statement that compares the one situation with the other. 141.101.98.77 19:22, 21 April 2023 (UTC)
+Categories: All comicsComics from 2007Comics from DecemberWednesday comicsComics featuring CueballProgrammingComics with lowercase text

@@ -1,0 +1,90 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+327: Exploits of a Mom
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 327)
+|<< PrevComic #327 (October 10, 2007)Next >>|
+Exploits of a Mom
+
+Title text: Her daughter is named Help I'm trapped in a driver's license factory.
+Explanation[edit]
+Mrs. Roberts receives a call from her son's school. The caller, likely one of the school's administrators, asks if she really named her son Robert'); DROP TABLE Students;--, a rather unusual name. Perhaps surprisingly, Mrs. Roberts responds in the affirmative, claiming that she uses the nickname "Little Bobby Tables." As the full name is read into the school's system's databases without data sanitization, it causes the "Students" table in the database to be dropped, meaning it gets deleted.
+The title of this comic is a pun. Exploit can mean an accomplishment or heroic deed, but in computer science, the term refers to a program or technique that takes advantage of a vulnerability in other software. In fact, one could say that her exploit is to exploit an exploit (her achievement is to make use of a vulnerability). The title can also refer to her choice of name for her son, which is rather extraordinary.
+In SQL, a database programming language, commands are separated by semicolons ;, and strings of text are often delimited using single quotes '. Parts of commands may also be enclosed in parentheses ( and ). Data entries are stored as "rows" within named "tables" of similar items (e.g., Students). The command to delete an entire table (and thus every row of data in that table) is DROP TABLE, as in DROP TABLE Students;.
+The exploited vulnerability here is that the single quote in the name input was not correctly "escaped" by the software. That is, if a student's name did indeed contain a quote mark, it should have been read as one of the characters making up the text string and not as the marker to close the string, which it erroneously was. Lack of careful parsing is a common SQL vulnerability; this type of exploit is referred to as SQL injection. Mrs. Roberts thus reminds the school to make sure that they have added data filtering code to prevent code injection exploits in the future.
+For example, to add information about Elaine to a data table called 'Students', the SQL query could be:
+INSERT INTO Students (firstname) VALUES ('Elaine');
+However, using the odd name Robert');DROP TABLE Students;--  where we used "Elaine" above, the SQL query becomes:
+INSERT INTO Students (firstname) VALUES ('Robert');DROP TABLE Students;-- ');
+
+By insertion of the two semi-colons in the odd name, this is now three well-formed SQL commands:
+INSERT INTO Students (firstname) VALUES ('Robert');
+DROP TABLE Students;
+-- ');
+The first line is valid SQL code that will legitimately insert data about a student named Robert.
+The second line is valid injected SQL code that will delete the whole Students data table from the database.
+The third line is a valid code comment (--  denotes a comment), which will cause the rest of the line to be ignored by the SQL server.
+For this to work, it helps to know the structure of the database. But it's quite a good guess that a school's student management database might have a table named Students.
+Of course, in real life, most exploits of this kind would be performed not by engineering a person's name such that it would eventually be entered into a school database query, but rather by accessing some kind of input system (such as a website's login screen or search interface) and guessing various combinations by trial and error until something works, perhaps by first trying to inject the SHOW TABLES; command to see how the database is structured.
+To correctly and harmlessly include the odd name in the Students table in the school database the correct SQL is:
+INSERT INTO Students (firstname) VALUES ('Robert'');DROP TABLE Students;-- ');
+Note that the single quote after Robert is now sanitized by doubling it, which changes it from malicious code to harmless data, and the full first 'name' of the student Robert');DROP TABLE Students;-- is now stored correctly.
+It should be noted that while data sanitization can mitigate the risks of SQL injection, the proper prevention technique is to use Prepared statements.
+Noting the difference between the "actual" name using the word TABLE and the child's nickname being Bobby Tables, one could argue that there's an implied reference to one of the most argued topics of database naming conventions - should table names be singular or plural.
+The title text references that Mrs. Roberts' daughter is named "Help I'm trapped in a driver's license factory". This is a play on how if someone is stuck and forced to work in a manufacturing factory/plant, then they will write on the product "Help I am trapped in a ____ factory" in order to tell people on the outside. Having this name would cause any police officer who pulls her over to show some concern. And getting the license in the first place would likely be difficult. The idea of inserting a help message like this was already used in 10: Pi Equals.
+Transcript[edit]
+[Mrs. Roberts receives a call from her son's school on her wireless phone. She is standing with a cup of hot coffee or tea (shown with a small line above the cup) facing a small round three-legged table to the right. The voice of the caller is indicated to come from the phone with a zigzag line.]
+Voice over the phone: Hi, This is your son's school. We're having some computer trouble.
+[In this frame-less panel Mrs. Roberts has put the cup down on the table turned facing out.]
+Mrs. Roberts: Oh, dear – did he break something?
+Voice over the phone: In a way –
+[Mrs. Roberts is now drinking from the cup again looking right. The table is not shown.]
+Voice over the phone: Did you really name your son Robert'); DROP TABLE Students;-- ?
+Mrs. Roberts: Oh, yes. Little Bobby Tables, we call him.
+[Mrs. Roberts holds the cup down.]
+Voice over the phone: Well, we've lost this year's student records. I hope you're happy.
+Mrs. Roberts: And I hope you've learned to sanitize your database inputs.
+Trivia[edit]
+This comic has become rather famous, spawning a site at http://bobby-tables.com about preventing SQL injection and also at the official Python SQLite documentation. Noted security expert Bruce Schneier (who often quotes xkcd) mentioned a similar attack that happened in the 2010 Swedish general elections, and several people tried it on Randall's color survey.
+In 1253: Exoplanet Names, someone (presumably Mrs. Roberts) attempts to perform a similar trick, submitting the name e'); DROP TABLE PLANETS;-- to the IAU.
+It is later revealed in 342: 1337: Part 2 that the daughter's middle name is Elaine (full name: Help I'm trapped in a driver's license factory Elaine Roberts). This is thus the first time Elaine is mentioned. This comic was, presumably, a setup for the "1337" series where both of the hacker mom's kids are shown for the first time.
+This comic is available as a signed print in the xkcd store.
+In 2020 this happened in real life: Company made to change name that could be used for website hacks.
+A related problem occurred in real life, and was covered by Radiolab and Wired. A person chose a vanity license plate that said NULL and subsequently received a large number of traffic and parking tickets, all from random vehicles for which the license plate was unavailable or otherwise invalid when the ticket was submitted to a collection agency. A database programmer somewhere along the way failed to consider the difference between the string NULL and the value NULL.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+What about the daughter's name?Guru-45 (talk) 14:57, 17 November 2012 (UTC)
+I think that's embellished upon later in a series called l33t. Davidy22(talk) 15:42, 17 November 2012 (UTC)
+It's for novelty license plates with people's names on them (like "Bort" for example). 199.27.128.67 18:15, 6 July 2014 (UTC)
+I finally made an account here and I think I chose a good username. ElaineHelpImTrappedInADriversLicenceFactoryRoberts (talk) 00:47, 2 February 2023 (UTC)
+After fixing my stupid undo I think this comic is still incomplete: What is the "driver's license factory" at the title text? --Dgbrt (talk) 16:17, 11 June 2013 (UTC)
+The common tale is that someone purchases some item or other with writing on it (or somewhere where writing can appear, on closer examination) and finds that this writing reads "Help, I'm trapped in a <item> factory", or similar, as appropriate to the object concerned. This suggests that someone is trapped (or perhaps even enslaved to work) within such a place and their only hope of escape is to make 'messages in a bottle' out of the product that leaves the facility. This is often extended to various fantastical situations, like the (British only?) joke about the stick of sea-side rock.
+(Of course, the writing in sticks of rock generally starts to become unreadable (for normal-sized sticks) for any name larger than "Bridlington", although with care I suppose they've made them with a semi-legible "Western-super-Mare" set through them. But one aspect of this version of the joke could definitely well be that the theoretical SOS message wouldn't legibly fit.)
+So, anyway, Mrs Roberts (who waited for a number of years for Little Bobby Tables to grow up to school-age, for the illustrated exploit) is patiently waiting for her daughter to get to somewhere in her mid-teens, or later, all the while intending that she will get to spoof such a message from the local DMV's license-printing facility at some point. (Turns out that could be as 'soon' as her reaching 14-16 years of age for her first Learner license, depending on state.) Momma Roberts likes playing the long-game, it appears. 178.98.31.27 16:02, 19 June 2013 (UTC)
+She can already can get a passport with her name in it, which would look kind of weird. If she needs/wants to have a photo ID for use within the US (e.g., air travel), what would that be? Tessarakt (talk) 20:12, 3 August 2019 (UTC)
+The mouseover text might also be a reference to an easter egg in classic Mac OS, in which the text "Help! Help! We're being held prisoner in a system software factory!" was embedded in the system suitcase. 173.245.50.90 20:02, 13 April 2014 (UTC)
+Someone should probably put something like this on the actual page instead of just the discussion... 173.245.56.178 02:23, 11 March 2015 (UTC)
+Wasn't there another comic that had the digits of pi with "Help I'm trapped in a universe factory!" included in it? 108.162.249.205 (talk) (please sign your comments with ~~~~)
+Yes, the earlier 10: Pi Equals. 108.162.216.83 20:32, 29 January 2015 (UTC)
+The example talks about a SELECT query (for looking up information in a database), but I think an INSERT query (for inserting new information in the database) makes more sense, because of the closing bracket. A SELECT query is usually of the following form: SELECT column1, coulm2 FROM table WHERE username='somethingsomething'. An INSERT query is usually of the following form: INSERT INTO table (column1, columns2) VALUES (value1, value2) In the case of the comic, I think it's reasonable to assume it's the start of the school year and someone is adding the name of a new student (Bobby) to the database, which triggers the exploit.108.162.228.5 21:23, 23 March 2015 (UTC) David
+I've made an explanation for the title text, if anyone wants to change it to make it less ambiguous or anything, edits are welcome. StairwayToHenry (talk) 15:35, 8 April 2015 (UTC)
+It seems to me that Bobby doesn't necessarily share her technical savvy or sense of humour, but caused the incident simply through having the name she gave him. 141.101.98.203 23:47, 23 May 2015 (UTC)
+Anyone want to comment on the missing outline from panel 2? 108.162.238.165 23:48, 27 July 2015 (UTC)someGuy
+The explanation says that Bobby Tables got his technical savvy from his mom, however we have no reason to believe that he has any technical savvy at all- this prank was entirely his parents'. He is most likely having his first day of kindergarten, and has no technical savvy at all. Bbruzzo (talk) 13:15, 4 September 2015 (UTC)
+Is no one going to notice that his name is Robert Roberts? Abbyclem (talk) 22:04, 12 September 2015 (UTC)
+... I read all the way down here waiting to see someone mention that, only to find you did it ... about a month ago. On what is now a very old strip. Weird o_O 162.158.39.209 18:56, 28 October 2015 (UTC)
+Real Life
+It might be worth adding under "trivia" that situations similar to the one in the comic actually seem to happen in real life.--162.158.114.138 17:50, 22 November 2015 (UTC)
+And possibly a warning not to try this on a live system.. a colleague just got fired after XKCD inspired stupidity. ~100% his own fault, but might be worth mentioning. Xseo (talk) 09:49, 29 November 2015 (UTC)
+The point of this comic is to make fun of automated systems that input without searching for exploits, not for anyone to see if this would happen in real life(I hope). Dontknow (talk) 23:54, 17 April 2017 (UTC)
+Incomplete
+The explanation is incorrect. It keeps putting single quotes around the variable $name when it is the input stored in $name which will have the single quotes. It even mentions how the single quotes around $name are the reason for the exploit as opposed to the single quotes in the input stored in the variable $name.
+On another note, the explanation seems to indicate that Bobby is responsible for the SQL injection and later suggests instead the mother is responsible. My interpretation was that this is entirely attributed to the mother since it is called "Exploits of a Mom". I do not believe she actually named her son with an SQL injection, but rather input that as his first name in the school's online registration form.
+Flewk (talk) 17:15, 26 December 2015 (UTC)
+Importance of the space after double dash.
+In order for the double dash to properly instruct the database to ignore the rest of the line as a comment, it is necessary for at least one space to follow it. This is indicated explicitly in the MySQL documentation [1], and it is clearly included in the XKCD sketch (I'm imagining a person on the other end of the phone reading every character. "capital ess tee yew dee ee en tee ess semicolon dash dash space"). This space is not included in the code examples. I believe we at Explain XKCD should strive to provide valid code, so I am adding the spaces in the article. 108.162.246.72 02:51, 30 August 2016 (UTC)
+Driver's license
+An important aspect here is that driver's licenses are the preferred form of photo ID in the US (up to the point where you can even get a driver's license which does not allow you to drive ...), where other countries have identity cards. Tessarakt (talk) 20:09, 3 August 2019 (UTC)
+An active user with a similar name had just came out. He just edited the Air Handler page. 162.158.166.230 06:57, 23 March 2023 (UTC)
+Categories: All comicsComics from 2007Comics from OctoberWednesday comicsComics featuring Mrs. RobertsComics featuring Little Bobby TablesComics featuring Elaine RobertsProgrammingComputer securityComics with xkcd store productsComics with lowercase text

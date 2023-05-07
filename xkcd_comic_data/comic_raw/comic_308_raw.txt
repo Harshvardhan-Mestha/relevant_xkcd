@@ -1,0 +1,40 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+308: Interesting Life
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 308)
+|<< PrevComic #308 (August 27, 2007)Next >>|
+Interesting Life
+
+Title text: Quick, fashion a climbing harness out of a cat-6 cable and follow me down.
+Explanation[edit]
+'May you live in interesting times' (or, in this comic, 'may you have an interesting life') is supposedly a Chinese saying, except that a few people (usually the worst-case-scenario kind) believe it to actually be a curse, even though it is usually meant in a good way when said. The quote also provides the title of the Terry Pratchett novel Interesting Times, which takes place in a fictional counterpart of China.
+Cueball is shown here as an office worker, a job that, to most people, is the opposite of interesting. This is contrasted with Megan, who is rappelling down the outside of his office building, for no apparent reason other than because she can, and inviting him on an adventure. Things are bound to get at least one kind of "interesting" very fast.
+The title text refers to a Cat6 cable, which is more commonly known as Ethernet cable. It would be easily found in an office building, since it is used to connect computers to a network. Its usefulness as a climbing harness is indeterminate.[citation needed]
+Transcript[edit]
+[On the left hand side of the panel is a cutaway of several floors of an office, in gray. On the right side, a blue sky with clouds, and green hills below. Hanging from a cable is Megan, clearly having rappelled down the side of the building, next to a Cueball at his desk, who is looking at Megan.]
+Megan: You know how some people consider "May you have an interesting life" to be a curse?
+Cueball: Yeah...
+Megan: Fuck those people. Wanna have an adventure?
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The "interesting life" is a reference to a purported Chinese curse, "May you live in interesting times." There is no such curse recorded in Chinese -- it's apocryphal.
+The adventure is being contrasted with working a 9-5 job in a cubicle farm, considered a boring and safe occupation. 66.202.132.250 18:36, 4 June 2013 (UTC)
+This makes me think of the early scene in the Matrix, where Morpheus tries to convince Mr. Anderson (Neo) to escape his office through the window. 173.245.52.204 (talk) (please sign your comments with ~~~~)
+Sorry, being a Chinese, I have never heard of this particular curse, not even my grandmother or parents has mentioned this to me. I can safely assume this curse doesn't exist.Boeing-787lover 08:12, 23 June 2018 (UTC) -- Xkcdreader52 (talk) (please sign your comments with ~~~~)
+Could Cueball be held?
+Someone should actually perform the tensile test on the cat6 cables. Does anyone have access to such equipment? It is very likely that it varies highly across different brands. If anyone does have access, I can provide samples of different brands for testing. BK201 (talk) 17:15, 12 December 2013 (UTC)BK201
+Check the box of cable next time you get a shipment. The tensile strength is shown as a "do not exceed" weight. The one in our data closet says "Do not exceed 30lb/13.6kg pull". Beyond that, the cable will be damaged. Assume the company is cutting the tensile strength in half to avoid lawsuits, the tensile strength would be 60lb - less than an average adult. Further, if you are just holding onto the cable and you didn't fashion a harness, the insulation around the outside of the cable has a far lower tensile strength than the metal wiring. It is designed to easily separate when pulled. So, you'd quickly end up holding a strip of insulation as it slides off the internal wires. 108.162.237.161 15:11, 7 July 2014 (UTC)
+I looked it up, and tensile strength aside, Cat-6 cables only go up to 100 meters in length. This is about 10 storys, minus some for the harness and latching into the inside of the building, but plus some for jumping down at the bottom. I think Cueball would need to escape back through his office from under the eleventh floor. I've added that.
+Usually a storey is about 3 metres, so 100m means 33 storeys :-)
+--Lou Crazy (talk) 16:38, 13 March 2018 (UTC)
+A minor point, but Megan appears to have come to the end of her rope, could this be another hidden metaphor? 141.101.98.194 (talk) (please sign your comments with ~~~~)
+Cat-5/6 cable can be damaged at a tension much lower than its tensile strength. Most ethernet cable is twisted-pair, that is two wires that are literally twisted around each other. Given the high frequencies used in networking, this twisting has to be extremely precise; any stretching or extreme bending will create noise (EMI) problems which will destroy the cable's ability to carry digital packets. Cat-5 is never used where its tensile strength is an issue. Going from specs, Cat-5 usually uses 24AWG copper which, according to spec, has a minimum tensile strengh of 10lbs. Given 8 wires, the minimum strength would be 80 lbs due to copper alone. The sheath and insulation provide additional strength. So long as the office guy is in the 150lb range using Cat-5 would likely work. However, that cable would likely never carry another packet. 70.167.40.88 (talk) (please sign your comments with ~~~~)
+I'm not an expert but ... wouldn't the climbing person hang on cable-isolation only? Because he would have a grip on the synthetic material, which is not connected in the length to the metal inside. So the isolation would tear and he would have to get a better grip on the metal and hurt his stick fingers ... And another question is: where is the upper end of the cable plugged into? A computer? ... 162.158.90.192 (talk) (please sign your comments with ~~~~)
+300m cables are manufactured, but more than 100m shouldn't be used (the comic mentions 300m, but then 33 stories, which refers to ~100m according to the discussion above). So anything longer is probably not in close vicinity in an office building. Also there is no reason to assume, that cueball is in a really tall skyscraper, and not just a few floors above ground. That paragraph should be rewritten, but I'm not sure how... --Lupo (talk) 07:55, 19 June 2019 (UTC)
+The length of the cable and the isolation problem discussed above are irrelevant because the cable is not meant to be used as a rope. It's only meant as material to build a harness. Megans idea is to follow her on the existing rope. That's not possible because the rope ends as noted above but that's a fault, I think. Reisbein (talk) 21:58, 23 June 2019 (UTC)
+Good point! maybe Megan wants to get to the roof with him? then the length of her rope is ok... --Lupo (talk) 06:35, 24 June 2019 (UTC)
+Ok, I'll fix the explaination to talk about harnesses and not climbing ropes.
+--Lou Crazy (talk) 14:12, 22 October 2019 (UTC)
+Categories: All comicsComics from 2007Comics from AugustMonday comicsPages using the "citation needed" templateMultiple CueballsComics featuring CueballComics featuring MeganComics with color

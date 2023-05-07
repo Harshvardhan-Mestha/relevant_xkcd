@@ -1,0 +1,39 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+379: Forgetting
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 379)
+|<< PrevComic #379 (February 4, 2008)Next >>|
+Forgetting
+
+Title text: Of course, the assert doesn't work.
+Explanation[edit]
+Cueball is writing a piece of code (probably in the programming language C++) that removes an item from a data structure called a Linked list (the first two lines of the text). Then, he writes a comment (delimited by the double slashes) relating the code to his personal life. Finally, he adds an assertion, which is normally a formal specification of a condition that should always be true (with which the programmer ensures that, e.g. mass is not negative). But in this case, instead of asserting a software-related predicate, he asserts that "it's going to be okay" - and because of how string literals are treated by the interpreter, the assertion will be true.
+An "assert" is a programming statement that allows you to insert sanity checks into your code. For example, if you were writing a program to calculate the speed of a neutrino, then at the end of the calculation you could say:
+assert ( velocity_of_neutrino <= speed_of_light );
+If the assertion fails, then the program will stop with an error. This would be much better than publishing an embarrassing paper, for example.
+Cueball realizes that he cannot forget his emotional event through the use of two commands as he can with a computer, which only makes him feel sad about an unsaid event, the item -- in a sense -- that cannot be removed. He writes two comments further clarifying his sense of hopelessness over this event, followed by an assertion that "it will be okay," something that has nothing to do with the code he is writing.
+The title text explains that assertion in question fails: nobody can be sure that things are going to be okay.
+Transcript[edit]
+[Cueball sits at computer, coding.]
+prev->next = toDelete->next;
+delete toDelete;
+
+//if only forgetting were 
+//this easy for me.
+Cueball: <sniff>
+[Cueball lowers his head into his hands and cries.]
+[Cueball types again.]
+assert "It's going to be okay.";
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The syntax for pointers in C++ is &pointer and *pointer. The arrow syntax is used e.g. in PHP. So this explain does need a review. And furthermore it should focus on the assert joke, understandable for non programmers.--Dgbrt (talk) 18:48, 31 July 2013 (UTC)
+Actually this works in C++ too. (*pointer).property is the same as pointer->property -- 17:58, 31 july 2013 (Time in Florida)
+Do you have a code snippet, maybe this could help me to explain this comic for non programmers.--Dgbrt (talk) 22:43, 31 July 2013 (UTC)
+At the moment I don't have a computer, just my phone, but I'll try (so i appologize for any typos in advance, you may correct them)
+pair<int, int>* pntr = make_pair(5, 8); cout << (*pntr).first << endl; cout << pntr->first << endl; // the same as above -- 22:12, 31 July 2013 (Florida)
+I removed PHP as a possible language since PHP variable names start with a $. Zetfr 09:24, 20 May 2015 (UTC)
+IT IS A COMBINACION EN C++/ANOTHER LENGUAGE IN THE FOURTH PANEL ASSERT HAS NOT PARENTHESES. IN C++ THE ASSERT MUST HAVE THE PARENTHESES AND SO CANNOT BE A C++ PROGRAM. PLEASE ADVISE 108.162.210.219 (talk) (please sign your comments with ~~~~)
+I think he meant it as c++. Higher level languages that forego the parens tend to also forego the semicolon. Probably just a typo on Randall's part since he had recently learned Python relative to this. -- Flewk (talk) (please sign your comments with ~~~~)
+Categories: All comicsComics from 2008Comics from FebruaryMonday comicsComics featuring CueballProgramming

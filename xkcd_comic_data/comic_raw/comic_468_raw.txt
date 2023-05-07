@@ -1,0 +1,33 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+468: Fetishes
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 468)
+|<< PrevComic #468 (August 27, 2008)Next >>|
+Fetishes
+
+Title text: They eventually resolved this self-reference, but Cantor's 'everything-in-the-fetish-book-twice' parties finally sunk the idea.
+Explanation[edit]
+Bertrand Russell and Alfred North Whitehead co-wrote the Principia Mathematica, with the intention of cataloging all of mathematics and ridding it of contradiction and self-reference. Kurt Gödel later showed that such a system is impossible, and that any system of axioms (complex enough to represent arithmetic) is incomplete.
+This comic, however, presents an alternate universe scenario: here, Russell and Whitehead are pursuing the more salacious (but no less comprehensive) task of compiling a list of all sexual fetishes. This seems to be going fine until they ask Gödel for his fetishes; Gödel says that he is turned on by "anything not on your list." This creates a paradox - Russell and Whitehead now have no way to complete their list, because Gödel's fetishes cannot be included without putting them on the list, which would immediately invalidate them. In fact, this is precisely Russell's Paradox, discovered by Bertrand Russell himself.
+The title text references Georg Cantor, the inventor of set theory, and adds a second, similar paradox: if you have a fetish for doing everything in the book twice, then that belongs in the book - but then, you must also have a fetish for doing that twice, so you have to put that in the book too; this process will keep adding fetishes to the book ad infinitum, again making the task impossible to complete.
+There is a fetish roadmap (archive.org) by Katharine Gates, author of Deviant Desires and DeviantDesires.com.
+An earlier comic also refers to Kurt Gödel: 24: Godel, Escher, Kurt Halsey.
+Transcript[edit]
+[Caption above the panel:]
+Author Katharine Gates recently attempted to make a chart of all sexual fetishes.
+Little did she know that Russell and Whitehead had already failed at this same task.
+[Russell, with long hair, and Whitehead are standing with Gödel (the last two are both Cueball-like), Russell holding a clipboard and smoking a pipe.
+Gödel is holding his chin with his right hand as he ponders the question.]
+Russell: Hey, Gödel — we're compiling a comprehensive list of fetishes. What turns you on?
+Gödel: Anything not on your list.
+Russell: Uh…hm.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I should point out that [1] is "The set of all sets that do not contain themselves"- if it does not contain itself, then it must contain itself; but since it now contains itself, it cannot. Although this doesn't seem to have an obvious parallel in the comic, Russell probably should've known better than to create a comprehensive list of anything. --Someone Else 37 (talk) 04:17, 14 January 2014 (UTC)
+And factoids are false even if they don't contain 7. If they weren't false they would be facts.Factoids are falsehoods that look almost like facts, just as the humanoid Mr. Spock is not human, but almost lookalike one. 162.158.38.100 (talk) (please sign your comments with ~~~~)
+The real solution here is to take into account that Godel is clearly lying. There's no way he's turned on by literally anything not on the list. 108.162.245.166 01:01, 2 February 2019 (UTC)
+Wow. You've just solved the Incompleteness Theorem by simply calling Gödel a liar. Why didn't Bertram Russell think of that for his Principia Mathematica? But, have you taken Rule 34 into account? 162.158.106.252 12:44, 26 February 2019 (UTC)
+By typing "doing anything at any amount": both paradoxes would be solved. "Anything not on your list" would simply be "nothing", and "at any amount" would cover "twice" 141.101.69.105 16:58, 11 May 2020 (UTC)
+Categories: All comicsComics from 2008Comics from AugustWednesday comicsComics featuring real peopleComics featuring CueballMultiple CueballsSexLogicRecursion

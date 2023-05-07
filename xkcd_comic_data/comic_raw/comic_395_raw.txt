@@ -1,0 +1,44 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+395: Morning
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 395)
+|<< PrevComic #395 (March 12, 2008)Next >>|
+Morning
+
+Title text: I'd press on them to try to unstick them, but I can't reach. Can we try cycling day and night really fast?
+Explanation[edit]
+This comic makes reference to the idea, as presented in the movie The Matrix, that reality is a computer simulation. In LCD screens, especially TFT LCD, a dead pixel is a pixel that does not work properly, usually set as black or as some other color. Megan realizes that the reality is a computer simulation when she sees dead pixels in the sky, indicating that what she sees is an LCD screen.
+In the last panel of the comic, there are two red and one green pixel that look exactly like actual dead pixels.
+The title text refers to usual techniques for fixing a dead pixel. One way is to apply pressure and release it, which isn't possible for Megan due to the distance of the sky. Another way is to make the area of the screen that the dead pixel is on change colors really quickly, which could happen if the day-night cycle was fast enough.
+Transcript[edit]
+[Megan is standing to one side.]
+We've all seen The Matrix
+We've all joked about "What resolution is life"
+But it doesn't blunt the shock
+Of waking up one morning
+[Megan looks up from field and sees several colored pixels in the sky.]
+And seeing dead pixels in the sky.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I always thought she was seeing airplanes, satellites, planets, or stars. --67.243.62.50 03:01, 28 September 2013 (UTC)
+"Seeing dead pixels in the sky" seems like a rehash of an important quote in some work. Any ideas on what that work is? 24.104.10.45 06:16, 21 October 2013 (UTC)
+It's like that quote from CJ in the first season of West Wing: We can all be better teachers.
+It sounds so deep you think they must have borrowed it from somewhere. But no, it's original. Kudos to Randall. 108.162.219.223 21:37, 3 January 2014 (UTC)
+It's reminiscent of the opening sentence of Neuromancer: The sky above the port was the color of television, tuned to a dead channel. 173.245.55.174 04:28, 17 September 2015 (UTC)
+
+Btw, if anyone is curious, life's resolution is approximately 1.572×10^33 DPI 108.162.212.213 16:29, 1 August 2014 (UTC)
+And its framerate is, ignoring relativistic effects, roughly 1.8549×10^43 FPS. 162.158.106.10 17:19, 5 July 2020 (UTC)
+I wonder how big the GPU is 172.69.208.136 16:17, 18 November 2020 (UTC)
+The memory would be your real constraint, along with network latency if it's a distributed computing system. (Hey, what if that's the cause of relativistic effects? A node having more data than usual to process, so it slowly lags behind other nodes...) As for the speed of the system, as long as it's turing complete and has sufficient storage for the data, it doesn't matter how fast each frame is processed from the viewpoint of the simulation's Users, the people inside the sim would still experience time as normal. Just ask a Dwarf Fortress player if their dwarves ever perceive the effects of FPS Death. 108.162.246.194 12:28, 3 August 2021 (UTC)
+Do you think it's a good idea for us all start rolling loads of dice to increase the latency of the simulation? It'd be nice to screw with whatever's running the thing. But would macroscopic "randomness" even affect a system that powerful? It's something to think about. Lyricalcarpenter (talk) 04:15, 16 October 2021 (UTC)
+IMO, the unspoken big picture is that during a prairie winter you can get "white out" conditions when an overcast sky matches the color of snow cover. This eliminates all shadows and you can walk face first into a snow drift without seeing it. The whole world looks like dead pixels. 108.162.216.87 (talk) (please sign your comments with ~~~~)
+"It is likely what she is seeing is a star or other stellar object." I'm not sure this bit fits the context of the image. It is supposed to be dead pixels, and stellar objects don't often pop out of no where (unless an infinite improbability drive is involved). Kirdneh (talk) 21:08, 30 December 2014 (UTC)
+It may just be me, but I thought the dead pixels she is seeing form the words "And seeing dead pixels in the sky.", making the comic self-referential in a typical xkcd way. Does anyone agree with me? Richmond tudor (talk) 06:35, 13 January 2015 (UTC)
+Has nobody else noticed the several square pixels depicted in the sky? Zoom in, Gramps! 199.27.129.11 02:41, 28 August 2015 (UTC)
+Am I the only one that doesn't actually think the pixels are there just to annoy the reader like it says in the explanation? It seems like they're there because the text says so. 108.162.216.51 17:46, 3 February 2016 (UTC)
+I didn't notice the red and green dots until this page "explained" it. Until then, I conjectured that the "dead pixels" were snowflakes that had fallen from the sky to the ground. The trees look like evergreens, which made me think of winter. 162.158.63.6 21:24, 8 July 2020 (UTC)
+Is this a Hitchhiker’s Guide to the Galaxy reference? 162.158.146.40 (talk) 16:45, 8 March 2023 (please sign your comments with ~~~~)
+Hardly. The comic itself alludes directly, and unambiguously, to it being a Matrix thing. (I'm as much a duoquadragintiphile as anyone, but it really doesn't always boil down to that.) Now maybe there's a twisted path of inspiration between H2G2 and the world of Neo, but hardly so simple and surely nothing to concern us here. For one thing, when Deep Thought designed the Earth computer, he/it didn't make it a virtual illusion to its inhabitants. 172.71.178.64 17:06, 8 March 2023 (UTC)
+Categories: All comicsComics from 2008Comics from MarchWednesday comicsComics featuring MeganComics with colorThe Matrix

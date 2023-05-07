@@ -1,0 +1,50 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+488: Steal This Comic
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 488)
+|<< PrevComic #488 (October 13, 2008)Next >>|
+Steal This Comic
+
+Title text: I spent more time trying to get an audible.com audiobook playing than it took to listen to the book. I have lost every other piece of DRM-locked music that I ever paid for.
+Explanation[edit]
+DRM, an acronym standing for Digital Rights Management, is a recent anti-piracy mechanism that is used to prevent unapproved or unintended use of software programs. Examples would be a requirement to play a video game while online (where the servers can validate that the game has not been hacked) or allowing only a limited amount of installations to ensure that different users are buying the program for themselves instead of sharing it. The problem is that there are ways that DRM can be restrictive even upon legal situations. Someone may simply want to play the game in an area where there is no Internet connection, or they may have exceeded the amount of allowed installs due to installation problems or hardware malfunctions requiring the purchase of new hardware. In the audio situation described in the comic, one could not, say, transfer an audiobook or song from an iPod to a Blackberry phone, because Apple does not allow files on its operating system to be used on ones from other companies. For this reason, DRM has also been referred to derisively as "Digital Restrictions Management".
+Black Hat uses a flow chart to propose two paths:
+If you pirate the audio, the DRM would necessarily be disabled or removed in order to be available in that fashion. This is in violation of copyright law and is also considered theft in some countries such as the United States, since it avoids payment to the publishers, performers, composers, etc. who created the audio.
+If you buy the DRM-locked audio, you have legally obtained it for use on your device. However, as Black Hat puts it, "things change": the device you have the audio stored on could be lost, stolen, or broken. The device will inevitably get old enough that the company that made it will stop supporting updates for it, and newer software may no longer be compatible with it. In the worst case scenario, the device may be sabotaged by the company. If the DRM prevents the audio from being recovered or transferred from the device or allows the service providing you with the audio to delete it, you would have to pay for it a second time to re-obtain it legally, which no one wants to do. The only other solution is breaking the DRM to try to recover your collection by force, and Black Hat argues that this is inevitable.
+Since both situations have you end up being a criminal, Black Hat proposes taking the pirate path, which leaves you with a collection of dependable audio for free. In the title-text, Randall gives an anecdote of how ridiculous it was to obtain an audiobook legally, and how all of his other legally-obtained music has been lost, as the flow chart predicts.
+In light of this, he proposes another option: demanding DRM-free files.
+It's worth noting that there are other methods of listening to music legally that avoid the problems presented in the comic:
+You can purchase a hardcopy of the audio (e.g. a CD). These are then easily ripped to your hard drive and then copied to other devices, plus a physical item can be useful for older sound systems that do not support digital media. However, there are some downsides: higher cost, delayed delivery, necessity of physical storage space, wearing down of the physical device, and in many cases the non-availability of the desired audio in the first place.
+You can decide instead to think of audio as an experience rather than a thing that you own (similar to going to a movie theater). This type of thinking has given rise to music subscription sites, such as Spotify, where instead of owning the music, the listener is paying for continued access to a very large range of music.
+The title is a reference to the "Piracy is a Crime" ad campaign, as well as a 1970 pro-anarchy book called Steal This Book. There is also some underlying humor: since xkcd is under a Creative Commons license, you cannot "steal" the comic, since Randall specifically allowed the comic to be shared. It could also be a reference to Don't Download This Song, a "Weird Al" Yankovic song that amusingly deals with audio piracy.
+A note on the site says that Amazon sells DRM-free music files. Since this comic was written, iTunes has also stopped using DRM on music, though it still protects apps, e-books, and videos.
+This comic is not applicable to some countries, such as Canada, where copyright infringement is purely a civil matter and is not a criminal offense.
+Transcript[edit]
+Black Hat: Thinking of buying from audible.com or iTunes?
+Black Hat: Remember, if you pirate something, it's yours for life. You can take it anywhere and it will always work.
+[There is a flowchart whose paths are (You're a Criminal)<-Pirate<-(Buy or Pirate)->Buy->(Things Change)->(You Try to Recover Your Collection)->(You're a Criminal)]
+Black Hat: But if you buy DRM-locked media, and you ever switch operating systems or new technology comes along, your collection could be lost.
+Black Hat: And if you try to keep it, you'll be a criminal (DMCA 1201).
+Black Hat: So remember: if you want a collection you can count on, PIRATE IT.
+Black Hat: Hey, you'll be a criminal either way.
+(If you don't like this, demand DRM-free files)
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I'm not sure how credible Natural News is. http://rationalwiki.org/wiki/NaturalNews Then again, I'm not sure how credible RationalWiki is, either. 76.106.251.87 16:08, 5 April 2013 (UTC)
+I'm not sure how credible The Internet is. Thokling (talk) 06:43, 25 September 2013 (UTC)
+Replacing that NaturalNews link with a link to the same story on The Guardian. --Alex (talk) 14:26, 4 June 2014 (UTC)
+Just do a google search and be astonished how you don't know how dumb and crank NaturalNews is. — The 𝗦𝗾𝗿𝘁-𝟭 talk stalk 05:27, 7 October 2020 (UTC)
+"Steal this Comic" refers to the TPB-related "Steal this Film" and not to "Steal this Book" unless I'm very much mistaken. Also, it needs an explanation of what DMCA 1201 is and why it makes "getting your stuff back" illegal (it is, IIRC, the anti-circumvention clause, which says that breaking DRM, even for a legal purpose, is illegal; thus, getting your stuff back, ordinarily a perfectly legal act, is illegal if it involves getting around the DRM). Magic9mushroom (talk) 11:39, 21 December 2015 (UTC)
+The title of "Steal this Film" was itself a reference to "Steal this Book." 162.158.56.197 (talk) (please sign your comments with ~~~~)
+
+I believe the breaking of DRM is necessary in certain cases because the media could be associated with specific accounts/computers/IPs/etc. It is not just about the use of iTunes or any other media manager. flewk (talk) 23:12, 3 January 2016 (UTC)
+I deleted the "license" crap. When you buy music - on physical media - you do own it. Copyright law prohibits you from doing some things with it - just like how driving laws prohibit you from doing some things with your car - that doesn't mean you don't own it. CDs, tapes, and LPs usually don't even have shrinkwrap "licenses". You only need a license to do legally restricted stuff. IANAL. PS I hate the CAPTCHAs on this site.Tor user @ 108.162.218.47 04:30, 13 April 2016 (UTC)
+Once you have an account for 5 days (I think), you don't have to answer any CAPTCHAs. 625571b7-aa66-4f98-ac5c-92464cfb4ed8 (talk) 21:59, 20 March 2017 (UTC)
+There's also System of a Down's album titled "Steal This Album" which is more directly related to the topic of the comic, which is music. 108.162.215.7 02:06, 30 April 2016 (UTC)
+Black Hat's arms seem too short in the last drawing, or is it just me? 625571b7-aa66-4f98-ac5c-92464cfb4ed8 (talk) 21:09, 16 March 2017 (UTC)
+I followed directions, yay me172.68.142.227 16:34, 10 December 2019 (UTC)
+The real thieves and criminals here are the copyright industry. They have stolen all our (humanity's) culture, locked it away behind legal barriers, extracting rents just so we can temporarily enjoy what we used to own. Not only that, but they are also stealing from creators and artists, ripping them off while claiming to be on their side. They are the scum of the earth! -- The Cat Lady (talk) 15:41, 15 August 2021 (UTC)
+A very real life example of this is the game darkspore [1] check out the link for more information --172.70.126.149 13:49, 8 September 2021 (UTC)
+Categories: All comicsComics from 2008Comics from OctoberMonday comicsComics featuring Black HatFlowchartsMusic

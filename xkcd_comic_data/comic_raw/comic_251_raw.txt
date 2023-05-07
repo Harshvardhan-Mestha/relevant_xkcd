@@ -1,0 +1,28 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+251: CD Tray Fight
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 251)
+|<< PrevComic #251 (April 20, 2007)Next >>|
+CD Tray Fight
+
+Title text: This is silly, of course. The enemy will be born in the network.
+Explanation[edit]
+This comic refers to the behavior of a tray loading optical disc drive of a desktop computer. When the tray is opened and the user is reaching for the disc, a process or task on the computer can, at that exact inopportune time, request that the disc drive close its tray. Alternatively, accidentally bumping the open tray may engage the auto-close feature, resulting in the same scenario.
+This results in a sort of "tug of war" between the user who is trying to remove the disc and the CD drive trying to retract, and it is this tug of war that worries Cueball (or, more likely, Randall) that the "Robot War" is impending. The title text, however, points out that this fear is irrational, not because we'll always be able to win the tug of war (even if the computer reprograms itself to ignore our pull, we are physically stronger than the retraction mechanism) or because the act is ultimately pointless (it's an indignant protest at best), but because any robot war will, necessarily, have to start in "the network" to get any traction.
+A Robot War is a recurring theme in science fiction where humans develop robots that become self-aware and start a war against humanity. A well-known example of this theme is found in the Terminator franchise where, as the title text suggests, a military computer network (Skynet) becomes self-aware and starts a world war to kill all humans. This event is also parodied in 1046: Skynet, but with Skynet failing due to semantic satiation.
+Transcript[edit]
+[Cueball is standing, holding a CD tray that is half-in his computer. There are other CDs on the floor.]
+Cueball: Hey. Hey! Stop retracting my CD!
+I feel uncomfortable when my computer physically struggles with me. Sure, I can overpower it now, but it feels like a few short steps from here to the robot war.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This may be a reference to a bug in certain old versions of FUSE that causes the CD tray to load almost immediately after being ejected. 162.72.40.137 13:18, 4 May 2013 (UTC)
+Incomplete because there is a missing Terminator reference or something???--Dgbrt (talk) 21:46, 22 August 2013 (UTC)
+Reference to Skynet? I don't know enough about Terminator to be sure. 173.245.52.211 20:15, 10 December 2013 (UTC)
+
+The opposite of this kept happening to me, when I tried to burn Ubuntu to a disc Windows kept opening the disc drive whenever I clicked on Burn, then informed me that the disc drive was open. 141.101.98.246 19:12, 8 November 2013 (UTC)
+Also, it must be noted that this may damage the device. 108.162.212.199 23:05, 18 November 2013 (UTC)
+I do the reverse with dollar bills in vending machines. Greyson (talk) 14:27, 20 December 2013 (UTC) Added the title text so maybe this will stop it from being flagged as incomplete 173.245.52.219 15:13, 20 December 2013 (UTC)
+Categories: All comicsComics from 2007Comics from AprilFriday comicsComics featuring CueballComputersRobotsTerminator

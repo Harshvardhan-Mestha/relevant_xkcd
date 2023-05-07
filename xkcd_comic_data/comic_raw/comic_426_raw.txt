@@ -1,0 +1,51 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+426: Geohashing
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 426)
+|<< PrevComic #426 (May 21, 2008)Next >>|
+Geohashing
+
+Title text: Saturday is game night
+Explanation[edit]
+Geocaching is a sport where you have to find things hidden by other people based on geographical coordinates. Randall has had a similar idea before in 201: Christmas GPS.
+Geohashing is a sport created by Randall based on reaching a random location determined by an algorithm that uses a hash function that involves the current date, location, and the Dow opening price. The Dow Jones Industrial Average is a stock market index dealt in New York City.
+The algorithm is built in a way that:
+Makes it impossible to plan a meeting in advance of more than a few days and usually not more than a day.
+This is due to incorporation of the Dow opening as seed - there isn't a new value of the seed every day since the Dow doesn't open on weekends or holidays, but there is for most days. The reason Saturday is mentioned in the title-text is that the coordinates for that day are generated using Friday's open, giving a greater number of hours to plan the 4 PM local time meetup (how many depends on the time zone(s) of the graticule, hence the '30W' rule).
+Changes every day, due to the incorporation of the UTC date.
+Has only a vanishingly small chance of generating a point in the same exact location twice via hash collision. Some of them have gotten closeish to each other, however.
+Gathers people who are nearby - everyone within the same 1°×1° grid square ('graticule') gets the same position, and one hash in the von Neumann 3*3 neighborhood of surrounding graticules is guaranteed to be the closest to a hasher in the central graticule (not necessarily the one for that graticule, however).
+The algorithm works as follows:
+Take the current date in the format yyyy-mm-dd and append the most recent opening value for the Dow Jones Industrial Average.
+Pass this string through the MD5 algorithm.
+Divide the hash value into two 16 character halves, and convert each half to a decimal.
+Take the integer portions of your current coordinates and append the decimal hash values.
+MD5 is a cryptographic hashing algorithm, and converts plaintext data into a seemingly random 128-bit (32 character) string. A good hashing algorithm should have three main properties: it is non-reversible, you cannot generate any plaintext data back from the hash, and a given sample of data will always produce the same hash value, but even a tiny change to the original plaintext should produce an entirely different hash.
+The example co-ordinates are for the Google headquarters in California, as you can see here: 37.421542 -122.085589. The example date, May 26 2005, may reference the fact that the first edition of the Dow came out on May 26, 1896. (Why 2005? Unclear.)
+While geohashing was originally intended as a joke[citation needed], there are people who geohash regularly. Please see the link to the Geohashing wiki above.
+The title-text may imply that people should bring games to their geohashing location on the Saturday following the comic's release. If they do so and take photos, they may post them to the Games We Play page.
+Transcript[edit]
+Date (example): 2005-05-26
+That date's (or most recent) DOW opening: 10458.68
+[Concatenate, with a hyphen: 2005-05-26-10458.68]
+md5: db9318c2259923d08b672cb305440f97
+[Split it up into two pieces:]
+0.db9318c2259923d0, 0.8b672cb305440f97
+To decimal: 0.857713..., 0.544544...
+Your location (example): 37.421542, -122.085589
+[Combine integer part of location with fractional part of hash:]
+Destination Coordinates: 37.857713, -122.544544
+Sample Implementation: http://xkcd.com/geohashing/
+Trivia[edit]
+In response to comic 353: Python, the Python developers implemented the module antigravity in version 2.7+. This module contains a reference geohashing function.
+Due to the 2019 hacking of the XKCD forum server, which the Geohashing wiki was also hosted at, the wiki was unavailable until February 2020. It is since back online under the new domain of geohashing.site.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Isn't there an app for this? Or am I just confused? Unpopular Opinions (talk) 18:13, 13 February 2020 (UTC)
+There are lots of them for different platforms, in fact. 162.158.203.21 10:02, 11 January 2021 (UTC)
+The official implementation (http://xkcd.org/geohashing that redirects to http://carabiner.peeron.com/xkcd/map/map.html) doesn't seem to be working anymore.
+There are other implementations, such as https://geohashing.info/ --XXOs (talk) 01:06, 8 September 2021 (UTC)
+Should there be a thing about the 30W rule? --XXOs (talk) 01:06, 8 September 2021 (UTC)
+Categories: All comicsComics from 2008Comics from MayWednesday comicsPages using the "citation needed" templateComics with colorStock Market

@@ -1,0 +1,40 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+278: Black Hat Support
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 278)
+|<< PrevComic #278 (June 18, 2007)Next >>|
+Black Hat Support
+
+Title text: So as not to leave you hanging -- it was a problem with select() calls.
+Explanation[edit]
+This strip portrays Black Hat providing support for Linux, but in fact he provides only annoying and unhelpful advice just for his own personal amusement.
+The support line is clearly for Linux, as stated in the introduction, and the client on the phone clearly has a Linux problem. However, Black Hat is intentionally giving irrelevant instructions that refer to the Windows OS (Start Menu, My Documents Folder).
+Finally, Black Hat asks the client on the phone to "bear with him" and suggests that the client should use a highly obsolete mechanism to look for the answer to his problem, namely AOL keywords. AOL is well known for producing one of the earlier online communities and has since fallen largely out of favor. The client hangs up the phone.
+The title text mentions the function select(), which allows you to write asynchronous IO access routines by checking if it is ready to be read/written to at a specific moment. This is different than a threaded model, in that it can happen in a single thread. The danger of such programming is that if you do not coordinate the reader/writer properly, you can create a deadlock, which can result in the consumption of a lot of resources.
+Transcript[edit]
+[Black Hat is sitting at his computer, wearing a phone headset.]
+Black Hat: Thank you for calling the Black Hat Support Line, your first source for Linux support. How may I assist?
+Phone: Hi. I'm running an Apache server, and the load keeps climbing out of control.
+Black Hat: Okay. First, click on the Start Menu.
+Phone: I'm sorry, this is the Linux helpline, right?
+Black Hat: Of course, sir.
+Black Hat: If you'll just open the "My Documents" folder-
+Phone: Just a damn minute. I think you're putting me on.
+Black Hat: Please bear with me, sir.
+Black Hat: Now, load up your AOL and go to the Keyword "Linux"-
+Phone: *click*
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+select() calls are used to poll sockets for activity (read, write and exceptions), and I suspect the issue was that the timeout value (which is specified as part of select()'s parameters) was set too high judging from the overall content; Web servers and clients alike would suffer considerable latency as a result of waiting too long for I/O ports to activate. Thus it's likely the Apache install was misconfigured somehow, since the default settings should be sufficient for most purposes (in my limited experience since I work solely with nginx these days).
+I had this problem writing a server in PHP, and it took a while to get PHP (under Win32) to stop hogging my precious CPU cycles by successful application of nonblocking sockets and a short timeout parameter. Thokling (talk) 15:24, 20 September 2013 (UTC)
+You are correct and I have modified the explanation. It could also be due to a loop polling a socket that will never be freed(a deadlock), this was my interpretation. 108.162.246.117 07:05, 1 November 2013 (UTC)
+The explanations above don't seem to match "the load climbing out of control". The load typically means the CPU load, not latency. If the server is stuck on reading from a socket, the latency will grow but the load will plunge, since it's _waiting_ and thus not consuming the CPU cycles. Two typical problems connected with select() are: (1) As the number of sockets polled grows, the overhead of select() grows, so it uses more and more CPU just to go through all the sockets and check them all for readiness. (2) If some socket reports readiness through select() and then the program does not handle that readiness but keeps including this socket into the following select() calls, it will be stuck in a tight loop retrying select() and using all the available CPU of one processor. A less extreme variety of this case is the program being notified of multiple sockets being ready but handling only one socket before repeating select(). In this case the program will continue making progress but with the increased overhead of the unnecessary select() calls. 108.162.246.5 21:07, 30 January 2014 (UTC)
+The start of the explanation refers to "black hat hackers" which doesn't seem relevant to the comic. I would have guessed that it relates to Red Hat, the company that sells and supports an enterprise Linux distribution (but becomes "Black Hat" because it is drawn in black and white). 108.162.208.155 (talk) (please sign your comments with ~~~~)
+What about the sideways reference to "hang" in the title-text? Shouldn't _something_ be said about that in the explanation? 173.245.54.190 18:18, 28 August 2014 (UTC)
+Looks about like what I'd expect of the BoFH. Except more helpfull and fewer dead bodies. 108.162.216.112 17:45, 5 October 2014 (UTC)
+Is it just me, or is this the only comic where Black Hat is named? Jacky720 (talk) 16:41, 18 November 2016 (UTC)
+I think the title may be pun with one aspect referring to the actual technical cause of the callers problems (as has been discussed/debated here, so I won't dwell on it) but also suggests that Black Hat only trolls "select calls". This is in keeping with some of his other antics, like sending Bobcats to 1 in 30 E-bay buyers in order to keep his seller score to 97% in the title text of: https://xkcd.com/325/ 162.158.69.71 19:08, 7 October 2017 (UTC) Sam
+The existence of a Black Hat support line for Linux may be a play on Red Hat Linux. --"The" Argus Panoptes (talk) 13:29, 1 September 2021 (UTC)
+Categories: All comicsComics from 2007Comics from JuneMonday comicsComics featuring Black HatLinux

@@ -1,0 +1,37 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+297: Lisp Cycles
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 297)
+|<< PrevComic #297 (August 1, 2007)Next >>|
+Lisp Cycles
+
+Title text: I've just received word that the Emperor has dissolved the MIT computer science program permanently.
+Explanation[edit]
+Lisp is one of the oldest high level programming languages. Despite being significantly ahead of its time, it never got enough traction outside of academia, and has never been widely used. However, it is considered to be a very powerful language even in the present day. Quotations regarding Lisp show that several big names in computer science and the tech industry hold Lisp in very high esteem. Eric S. Raymond goes as far as to say
+Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
+Lisp is also famous for its use of fully parenthesized Polish prefix notation. As a result, Lisp programs take the form of enormous nested lists bounded by parentheses, and it is not uncommon to see the source code of a large Lisp program close off with an equally enormous stack of close-parens, representing the simultaneous termination of dozens of recursively and hierarchically nested functional and procedural structures.
+In the first panel, Cueball praises Lisp, observing that no other language can match the awe that it still strikes despite its significant seniority.
+In the second panel, Cueball proposes that new programmers might continue to learn Lisp forever; despite the language's lack of widespread adoption, a small cadre of hackers will always exist who keep the language alive.
+The third panel references Star Wars. The "old wizard" Obi-Wan Kenobi, who remembers the culture and sophistication of the Old Republic ("Before the dark times. Before the Empire.") and lives as a hermit in the desert at the beginning of the film spoke these lines when passing on a lightsaber to Luke Skywalker:
+Your father's lightsaber. This is the weapon of a Jedi Knight. Not as clumsy or random as a blaster; an elegant weapon for a more civilized age.
+The title text is also a reference to Star Wars lines:
+The Imperial Senate will no longer be of any concern to us. I've just received word that the Emperor has dissolved the council permanently. The last remnants of the Old Republic have been swept away.
+The MIT mentioned in the title text is, of course, the Massachusetts Institute of Technology, an institution fundamental to the development of Lisp (and Scheme, which is a dialect of Lisp). For about 20 years, MIT taught Scheme in its introductory computer science course, 6.001 — Structure and Interpretation of Computer Programs (that course has since been replaced with a course teaching Python).
+Transcript[edit]
+[Cueball is sitting at a computer, and Megan is standing behind the desk.]
+Cueball: Lisp is over half a century old and it still has this perfect, timeless air about it.
+Cueball: I wonder if the cycles will continue forever. A few coders from each new generation rediscovering the Lisp arts.
+[Man in Jedi robes carrying a towering stack of parentheses in his arms, speaking to Hairy.]
+Jedi: These are your father's parentheses. Elegant weapons. For a more... civilized age.
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Soon, I shall be one of those new coders. I shall be learning (Racket) Scheme, actually. Greyson (talk) 16:10, 16 December 2013 (UTC)
+Georgia Tech's College of Computing did away with Lisp and Smalltalk as of 1999 or 2000. It is now C, or some version thereof, all the way down. This change has its own perils! 108.162.238.189 (talk) (please sign your comments with ~~~~)
+I am a little saddened that this comment section doesn't have at least a few Star Wars quotes with coding/programming references mixed in. -Pennpenn 108.162.250.162 05:21, 17 August 2015 (UTC)
+Do or do not. If except NameError:, then var = 0. Papayaman1000 (talk) 13:09, 7 December 2016 (UTC)
+Let's go back to 1986 and learn Scheme in Lecture 1A | MIT 6.001 Structure and Interpretation, 1986! Alex Vong 173.245.62.65 03:36, 19 August 2015 (UTC)
+(after I read title-text) Noooo! That's impossible!!! 108.162.246.59 21:33, 26 April 2017 (UTC)
+The stack of parenthesis looks like the ASCII art version of a lightsaber blade. - Fox 162.158.62.183 06:50, 9 October 2018 (UTC)
+LisP was intended to be a language for self-programming, AI code. In this day of people falsely usurping the term "artificial intelligence" for mere machine learning, I'm disappointed they're not using LISP in that way. They're such poseurs. —Kazvorpal (talk) 22:38, 3 November 2019 (UTC)
+Categories: All comicsComics from 2007Comics from AugustWednesday comicsComics featuring CueballComics featuring MeganStar WarsProgrammingComputers

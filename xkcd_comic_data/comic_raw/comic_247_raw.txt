@@ -1,0 +1,40 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+247: Factoring the Time
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 247)
+|<< PrevComic #247 (April 11, 2007)Next >>|
+Factoring the Time
+
+Title text: I occasionally do this with mile markers on the highway.
+Explanation[edit]
+In this comic, Cueball is bored, so he is calculating the prime factors of the time shown on the clock. Cueball has been doing this for almost two hours (from 1:00 pm to 2:53 pm). The number 2 is the smallest prime but is not a factor of 253, which is an odd number. The smallest prime factor of 253 is 11, which makes the other factor 23.
+His co-worker decides to mess with Cueball, so he switches the clock from 12-hour time (2:53 pm) to 24-hour time (14:53). This makes factorization more difficult, as the time now shown is a four digit number rather than a three digit number. The number 1,453 is actually a prime number, and so has no factors but one and itself. Cueball has less than one minute to determine this, which is nearly impossible to do without practice. In this time, Cueball would have to calculate if 1,453 is divisible by all primes between 2 and the square root of 1,453, which are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, and 37. However, there are tricks to help you do this more quickly than doing long divisions.
+In the title text, Randall claims that he applies the same challenge to highway location markers. At highway speeds (60+ mph), they would show up at least once per minute. Combined with the need to also concentrate on driving, factorizing numbers in the allowed time becomes much more difficult despite the lower numbers on the markers. Also, paying attention to the road markers instead of the road itself would be quite terrifying, and could cause a car crash at more than 60 mph. Obviously, this would be bad.[citation needed]
+An additional challenge would be to change the mile markers to kilometer markers (because as with the clock format, the latter is more common outside of the USA). That would result in the marker being a 1.6 times larger number, and thus harder to factor. Of course, factoring is now a secondary problem, as markers would appear 1.6 times as frequently.
+Transcript[edit]
+[One man is sitting at a computer. Cueball sits at a separate desk. There is a clock that reads 2:53.]
+Cueball: 253 is 11x23
+Man at computer: What?
+Cueball: I'm factoring the time.
+[Zoomed in on Cueball, who explains himself.]
+Cueball: I have nothing to do, so I'm trying to calculate the prime factors of the time each minute before it changes.
+Cueball: It was easy when I started at 1:00, but with each hour the number gets bigger
+Cueball: I wonder how long I can keep up.
+[Zoomed back out on the man and Cueball. The man at the desk reaches back and touches the clock.]
+BEEP
+[Clock now reads 14:53.]
+Cueball: Hey!
+Man at computer: Think fast.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I used to find the prime factors of the remaining distance until the next turn. It starts off difficult (for me) at 99 miles, etc. When it gets down to 30 miles, it gets easier. Then, at 9.9 miles, I have a tenth the time to factor 99 again, and it gets easier as the numbers get smaller. This is actually a pretty good way to pass the time while driving. 108.162.219.202 (talk) (please sign your comments with ~~~~)
+Paying attention to your driving might be a benefit. To yourself and others. Just sayin'.Jakee308 (talk) 20:00, 24 April 2015 (UTC)
+I wonder how much time Randall spent trying to find a time that is not prime but the time + 1200 would be. -- Flewk (talk) (please sign your comments with ~~~~)
+Took me about 5 minutes with a script after getting a list of primes from the internet: 1:19; 1:21; 2:09; 2:47; 2:53; 2:59; 3:23; 3:43; 4:07; 4:13; 4:27; 4:37; 5:33; 5:53; 5:59; 6:11; 6:23; 7:07; 7:13; 7:31; 7:49; 8:03; 8:17; 9:13; 9:31; 9:43; 10:03; 10:07; 10:37; 10:43; 11:11; 11:33; 11:39; 11:41; 11:47; 11:57 (also the technical cases of: 12:03; 12:05; 12:07; 12:11; 12:19; 12:41; 12:43; 12:47; 12:53) . --173.245.52.27 06:18, 20 January 2016 (UTC)
+You know, in the state of Massachusetts, which is where Randall said he lives in the book What If?, mile markers on the highway are placed every 0.2 miles, so he would get only twelve seconds per marker if he's trying to do each and every one (less if he's slightly speeding like everyone else does when there's no traffic). 198.41.235.221 02:09, 22 February 2016 (UTC)
+I added another explanation for the title text. It seems to me that factoring the (often same) mile marker numbers is a bit boring. Lanmi (talk) 11:55, 23 April 2016 (UTC) Lanmi
+Why would factoring become secondary problem after switching to km?
+He could write a program to do that for him. 172.69.22.36 21:55, 23 August 2020 (UTC)
+Categories: All comicsComics from 2007Comics from AprilWednesday comicsPages using the "citation needed" templateComics featuring CueballMultiple CueballsNumber theory

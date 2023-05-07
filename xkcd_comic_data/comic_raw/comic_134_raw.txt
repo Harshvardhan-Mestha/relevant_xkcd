@@ -1,0 +1,26 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+134: Myspace
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 134)
+|<< PrevComic #134 (July 28, 2006)Next >>|
+Myspace
+
+Title text: It's like they got together and said 'what do we miss most from the internet in 1998? that's right, embedded MIDI!'
+Explanation[edit]
+This comic references a common issue that users would experience in the late 2000s on the now outdated website MySpace. At the time, an individual with a profile on that website would be able to choose a song that would automatically play when anyone accessed said profile. This was a heavily promoted feature in which the majority of users would partake. The song would interrupt whatever else the user was doing, such as listening to music, watching a video, or simply browsing in silence.
+For further context, MySpace at the time did not have a universal "news feed" to browse, so users would perform most of their interaction with other users by actively going to their profiles. Thus, the auto-playing music became a compounding problem, as the user could experience it several times per browsing session.
+The "first five seconds" refers to approximately how long it would take a typical user to find the pause button.
+Future social networks would eschew features like this, as they are perceived by the user base to be annoying and distracting. However, the issue in some ways persists, as sites like Facebook now auto-play sound on videos and advertisements (unless the user opts out).
+The title text refers to the fact that old pages, back in the late 1990s, used embedded MIDI files, which would not only play automatically, but also have no way to stop playing. The viewer would have to leave the website or externally mute the audio. Additionally, some Macintosh computers at the time had a bug that would automatically play MIDI files at the maximum computer volume, making them an incredible nuisance. MIDI files do not contain actual audio, but instead contain instructions for which notes to play on which musical instruments, and upon playback, these instructions would render sound from a library of MIDI audio samples installed in the computer's operating system — audio samples that were often artificially synthesized and of poor quality, producing music reminiscent of early video games; this may have made these web pages with embedded MIDI even more annoying. (In fairness, it should be noted that high-quality MIDI audio samples are also available, often recorded from actual musical instruments, and capable of reproducing realistic music.)
+Transcript[edit]
+[Computer screen showing a myspace page.]
+Oh man, you and everyone in earshot are gonna love the first five seconds of this song!
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+It should be noted that MIDI files don't necessarily have terrible sound quality, they are just a lossless wrapper around a music sheet. The player therefore is where the sound quality is the issue. 108.162.217.23 19:23, 21 February 2014 (UTC)
+Not sure (because this machine has no audio, and I'm accessing an archive of the site) but the Yvette's Bridal Formal site was always an examplar of... well, loads of things, but definitely including music. Bagpipe music one page, IIRC. Anyway, it had disappeared, last time I checked, but I have the link http://web.archive.org/web/20110718150459/http://yvettesbridalformal.com/ (might need to be better URLified with %3A%2F%2F or whatever it needs in there) that at least gives the visual... experience? 178.98.31.27 00:58, 23 June 2013 (UTC)
+Could this also describe the fact that often only samples of a few seconds (usually more than 5, though) are available? --Chtz (talk) 11:10, 23 July 2013 (UTC)
+I still get thrown back, when I hear the song that my first girlfriend had on her Myspace profile in 2007-2008, as I visited it regularily and the song became heavily connected to her. The profile was abandonend at some point in 2008 but still exists, including clichee smooching photos of us. I am not sure if the autoplay also still works. --Lupo (talk) 08:07, 30 September 2019 (UTC)
+Categories: All comicsComics from 2006Comics from JulyFriday comicsComics with colorMusicInternetSocial networking

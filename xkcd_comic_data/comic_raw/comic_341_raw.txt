@@ -1,0 +1,56 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+341: 1337: Part 1
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 341)
+|<< PrevComic #341 (November 12, 2007)Next >>|
+1337: Part 1
+
+Title text: If you're not cool enough to do it manually, you can look up tools like Upside-Down-Ternet for playing games with people on your wifi.
+Explanation[edit]
+This is the first part of five in the "1337" series. The title 1337 is "L-eet," or "elite," using the Leet alphabet, a coding system used primarily on the internet (and on early text messaging system), meant to provide a bit of obfuscation to plain text both to make it harder to read, and to show off in a creative way using in-group jargon. All comics in the series:
+341: 1337: Part 1
+342: 1337: Part 2
+343: 1337: Part 3
+344: 1337: Part 4
+345: 1337: Part 5
+This series was released on 5 consecutive days (Monday-Friday, probably because he wanted to release comic 404 on april fools' day) and not over the usual Monday/Wednesday/Friday schedule.
+If a wireless network (Wi-Fi) is unsecured, it is usually a sign that the owner of the access point is not technically skilled enough to go into the admin panel and enable encryption. Obviously, someone in the area who wants to get on the net, but doesn't have a mobile data connection, will simply use this open access point. However, it is also common practice to leave open an access point to be able to claim that infringement of copyright may not have been the homeowner, but that anybody could have connected to the access point and started downloading files.
+Another fun trick, for administrators of open APs, is to intercept pages and edit their contents. The only way to stop this is to create a secure connection, or tunnel, to a server to stop the admin from playing man-in-the-middle. Of course, as the title text says, Mrs. Roberts is so cool, she can edit the TCP stream live, without the help of programs, but then there is help to get with tools like the Upside-Down-Ternet, if you wish to play games with people misusing your Wi-Fi.
+Not only is Mrs. Roberts awesome enough to manually edit the live TCP stream, she's also manually ending individual VPN and SSH connections as Cueball's Cueball-like friend makes them - while wearing oven mitts and baking cookies at the same time. He has been pwned (i.e. owned) by Mrs. Roberts.
+The question "How does she type with oven mitts?" is likely a reference to the old web video site Homestar Runner and its character of Strong Bad, who answered emails while wearing boxing gloves. "How does he type with boxing gloves?" was the most common question he received. Another unanswered question is how Cueball's friend knew she was typing with gloves on; however, the answer is probably that since they were neighbors, they could see her through the window.
+Transcript[edit]
+[Cueball talks to his Cueball-like friend who is lying down on the floor, using his laptop. Cueball is pointing at the laptop.]
+Cueball: You're not on the neighbor's WiFi, are you?
+Friend: Yeah, why?
+Cueball: The admin... plays games.
+Friend: No problem. I'll just hop on a secure VPN.
+[Cueball's friend now sits on his knees in front of his laptop frantically typing. A message from the laptop comes out with a zig-zag line.]
+Friend: Whoa, my connections are dying as soon as I start to tunnel anything!
+Message on laptop: A VPN? How cute! And stop trying to SSH.
+Friend: Holy shit! Someone's inserting notes into the pages I request! Editing the TCP stream live!
+Friend: Nobody's that fast. Who is this admin?
+[In a frameless panel, Mrs. Roberts with a hot bun tray in one hand (indicated with five wiggly lines above the buns), with oven mitts on both hands, typing on her desktop computer on a table.]
+Mrs. Roberts: My goodness. Neighborhood scamps on the wireless.
+Taptaptaptap
+[Cueball is standing with a hand toward his now standing friend, the laptop lies between them.]
+Cueball: I should have warned you about Mrs. Roberts.
+Friend: How does she type with oven mitts!?
+Cueball: You've been pwned pretty hard, man. You might want to sit down.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The number 1337 should be read up side down, it means "leet" = elite. This is hacker code for the top guys. 11:43, 27 October 2012 (UTC)mb
+Actually, it is not upside down at all. The thr33 represents an e, the 1 an l and the 7 a t. 7h3r3 ar3 a150 many other ways to write in leet speak that I won't cover. Google is a thing. --75.186.140.173 04:30, 16 April 2013 (UTC)
+ ALL CAPS TALK LEADS TO B1FF T4LK.
+ B1FF T4LK LE4D$ 2 W4r37_t4LK.
+ W4r3Zt4lk L34d$ 2 31337 |¬4(|<3|27_ |>0o|) 74|_|<,
+ 4|\||) 7|¬3|23 7!¬3 |)4|2|( 51|)3 |_|3$
+(Rough quote from circa late 1980s, but with plenty of prior Internet/Fidonet/BBS history behind it...)
+Remember, kids, when you TXT-SPK "Cu l8r", that there's nothing new under the sun. But also that outside your clique you're going to look affected, at the very least. You might as well ROT13 instead, if you're so keen on obfuscation!</rot26_for_additional_security> 178.98.31.27 07:59, 19 June 2013 (UTC)
+The HTTPS, VPN, SSH and in general any encrypted connections may be intercepted by the man-in-the-middle pretending to be the server you're trying to connect to, and the Snowden papers show that NSA had done so. The only protection is to have the server's certificate on your computer and check that it does indeed match the certificate presented by the server, or stop connecting if it doesn't match. But how many people do pay attention to this? 108.162.246.5 23:23, 30 January 2014 (UTC)
+Is 'Elite Hackerz Dood' Talk a real thing or did you make it up? 108.162.250.114 00:45, 1 February 2016 (UTC)
+See: Crackers, phreaks, and lamers. (Also: the difference between "hackers" and "crackers".) KangaroOS 16:41, 20 May 2016 (UTC)
+Wifi comes secured by default now, making this officially a retro hacker joke. 172.68.38.120 17:32, 23 July 2020 (UTC)
+Depending on settings + protocol it's still possible to access people's networks (+ library/school admins still exist!) --162.158.62.27 00:24, 15 October 2020 (UTC)
+Categories: All comicsComics from 2007Comics from NovemberMonday comics1337Comics sharing nameComics featuring CueballComics featuring Mrs. RobertsMultiple CueballsComputersFood

@@ -1,0 +1,124 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+273: Electromagnetic Spectrum
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 273)
+|<< PrevComic #273 (June 6, 2007)Next >>|
+Electromagnetic Spectrum
+
+Title text: Sometimes I try to picture what everything would look like if the whole spectrum were compressed into the visible spectrum. Also sometimes I try to picture your sister naked.
+Explanation[edit]
+This panel is a play on the Electromagnetic spectrum, showing a large piece of the spectrum and examples of phenomena that absorb or emit light along the spectra. Such spectra are commonly used in physics or astronomy education contexts when discussing the nature of light. This comic extends it to absurd lengths by including examples that may be variously hyper-specific, humorous, or non-EM phenomena.
+The first two scales at the bottom show the wavelength λ (in meters) and the frequency f (in Hertz) of the wave. The values are related as λ=c/f, where c is the speed of light. The last line showing Q(Gal²/Coloumb) is nonsense; Gal (Gallon) is a unit of liquid volume measurement, and Coloumb is a likely typo for Coulomb, the SI unit of electric charge. Photons do not have volume in the traditional sense of the word, and are electrically neutral (thus carrying no charge).
+In 1887, the Michelson–Morley experiment proved for the first time that the aether theory was wrong. The year (1897) cited underneath the comic title may be an incorrectly-dated reference to this experiment. Nevertheless, after that time, many physicists like Hendrik Lorentz or Joseph Larmor were still working on some aether theories. Albert Einstein's theory of Special Relativity in 1905 helped explain the theoretical basis for the lack of aether and was a definitive step in discarding previous work.
+The comic in detail[edit]
+The wavelength starts at high values on the left and decreases in a logarithmic scale to the right. As a result of the inverse relationship between frequency and wavelength, the frequency scale starts at low values and increases logarithmically. The nonsense Q parameter does not change monotonically with either frequency or wavelength.
+Both scales are labeled with powers of ten and with metric prefixes. For frequencies above 100 tera-Hertz, it just says "other entertaining Greek prefixes like peta- and exa- and zappa-." The last prefix should be zetta- (denoting a factor of 1021), but is intentionally mislabeled, referencing musician Frank Zappa.
+Other waves
+Three drawings of other types of waves than the electromagnetic type:
+Slinky waves by a coil. These can be either longitudinal or transverse waves, depending on the manner in which the Slinky is driven. Notably, Randall has drawn the Slinky as tangled up; if you've ever played with a Slinky, you know how frustrating it is to untangle it.
+The human audio spectrum (from 20 Hz to 20 kHz). The "high-pitched noise in empty rooms" refers to tinnitus (also see 1590: The Source).
+"The Wave" in a stadium, a transverse wave phenomenon that travels through people.
+Power and Telephone
+"CIA (Secret)" is a joke about all the wiretapping on phones and such.
+Radio and TV
+"Shouting car dealership commercials" is a reference to the massive and often extreme advertising for car retailers.
+Ham radio is a private amateur radio used for communication.
+"Kosher radio" is playing with the ambiguousness of the word HAM. Kosher is a Jewish law for food, and it states, amongst others, that Jews are never allowed to eat meat from the unclean pigs - so no ham!
+Some frequencies of famous FM broadcast stations. "99.3 The Fox" is a modern rock station in Vancouver, British Columbia. "101.5 The Badger" is a classic rock station in Madison, Wisconsin (home of the University of Wisconsin, whose mascot is a badger). "106.3 The Frightened Squirrel" is not a real station, but makes a play off of the animal names commonly used as nicknames for either radio stations, programs, or hosts.
+The rays controlling Steve Ballmer are nonsense, but may reference real Balmer series, a set of transitions in the hydrogen atom that produce photons in the optical and ultraviolet light range.
+AM Amplitude modulation, VHF Very high frequency, and UHF Ultra high frequency are frequency ranges approved for commercial broadcasting companies.
+"Cell phone cancer rays" is playing with the belief of many people that cell phones may cause cancer.
+Aliens belong to a range slightly higher than the frequencies used by human communications. So they can't hear us.
+Microwaves
+SETI is the "Search for ExtraTerrestrial Intelligence" project trying to find messages from aliens. Most genuine astronomical research in this area concentrates in the microwave and radio regimes. Since aliens work at different frequencies on this diagram, that might explain why there has of yet been no positive results from SETI.
+WIFI is the standard for wireless computer communications.
+FHF is probably "Fucking high frequency;" it is not an abbreviation for any broadcasting frequency ranges and lies above the (real) V(ery)HF and U(ltra)HF.
+Gravity waves are a phenomenon in fluid dynamics, and distinct from Gravitational waves. Neither is related to electromagnetic emission.
+Brain waves could be a reference to Neural oscillation.
+Sulawesi is an island in the Indian Ocean that belongs to Indonesia, whose shape has several wave like features.
+Toasters
+This is a pun on the microwave oven, which emits light at its namesake frequencies to cook food. It also takes a stab at people who claim that microwaved food is dangerous, by pointing out that toasters also heat food using electromagnetic radiation, of frequencies just higher than microwaves. (The actual spectrum of a toaster goes all the way into visible frequencies.)
+IR (infrared)
+Infrared belongs to heat. The reference to Superman covers his heat vision power, which has been used many times within the canon. American comedian Jack Black starred in a proposed scifi/comedy television show in 1999 titled "Heat Vision and Jack", which covered the adventures of an astronaut and his talking motorcycle.
+Visible light
+At the bottom, it is split into "visible light" and "visible dark." While dark is the opposite of light in many grammatical contexts, in the physical sense it only reflects the absence of visible photons.
+The human visible spectrum is shown by all colors, including octarine, the color of magic on the fictional Discworld (in the books by Terry Pratchett).
+On top, there are two absorption spectra, hydrogen and helium. These are the two most common elements in the Sun, and their presence in the Sun's outer envelope and Earth's atmosphere does block some small frequencies from the Sun. Next come two cases of absorption in the chemical/technical meaning:
+Depends is a brand of underwear for adults experiencing urinary or fecal incontinence. The color is consequently yellow.
+Tampax is a brand of tampon. The color is, therefore, red.
+UV (ultraviolet)
+Ultraviolet light cannot be seen by humans. No entries here.
+Miller Light
+Miller Lite is a lager beer. "Light beer" typically has a lower alcohol content and calorie count, although it is also usually a light color for beer.
+Empty section
+One section is reserved for "Main Death Star Laser". In Star Wars the Death Star was a space station with a green laser cannon powerful enough to destroy planets. (It is unclear why its spectrum is well outside of the visible range.)
+Censored under Patriot Act
+No entry because it's censored; this is a humorous exaggeration of how much authority the government can supposedly exercise under said bill.
+X-rays
+Potatoes absorb and reflect radiation waves the same way humans do, because their chemistry and water content is very similar to the human body. Look here: Boeing uses potatoes to improve Wi-Fi signals.
+Mail-order x-ray glasses refers to a novelty item based on an optical effect, not actual x-rays. Google Glass did not exist at the time when this comic was created.
+Gamma/Cosmic rays
+Blogorays are emitted by the Blogosphere; apparently only Randall can detect them.
+Sinister Google Projects: Google, despite having a motto "don't be evil", has such significant power that it is a frequent target of conspiracy theories.
+And finally, the Title Text: Randall likes to speculate what the world would look like if humans could see radio waves, gamma waves, etc. Such a thought experiment would be pretty abstract due to the total lack of a frame of reference (since everything outside the visible light spectrum is by definition invisible and thus beyond human optical perception), but for many people, that's also what makes it enticing. Randall immediately turns this profound train of thought around with a crude joke that he wants to know what the viewer's sister would look like in the nude, an activity for which x-rays would be useful.
+Transcript[edit]
+[Everything is one big panel.]
+The Electromagnetic Spectrum
+These waves travel through the electromagnetic field. They were formerly carried by the aether, which was decommissioned in 1897 due to budget cuts.
+Other waves:
+Slinky waves [Cueball and Megan hold the ends of a tangled slinky.]
+Sound waves [There is a snippet of a frequency band. Between 20 Hz and 20 KHz is labeled "Audible Sound." Towards the top is a line labeled "That high-pitched noise in empty rooms."]
+The wave [A row of people does a wave.]
+[Three parallel scales are across the bottom. The first is lambda (m), ranging from 100Mm to 100fm; second is f (Hz), which starts at 1 Hz and reaches 100 THz about 2/3 of the way along, after which the labels read "other entertaining greek prefixes like peta- exa- and zappa-;" last is Q (Gal^2/Coloumb), whose labels are 17, 117, pi, 17, 42, phi, e^pi-pi, -2, 540^50, and 11^2. Above the scales and lined up accurately with the first two are the following:]
+Power & Telephone (100Mm to 1km)
+Radio & TV (1km to somewhere between 1m and 10cm); above that are many boxes showing subranges (AM, VHF, UHF, 24/7 NPR pledge drives, a very thin band for the space rays controlling Steve Ballmer, 99.3 "The Fox," 101.5 "The Badger," 106.3 "The Frightened Squirrel," cell phone cancer rays, CIA, ham radio, kosher radio, shouting car dealership commercials.)
+Microwaves (a bit more than 10cm to a bit more than 1mm); it also has subranges (aliens, just below SETI, wifi, FHF, brain waves, sulawesi, gravity)
+Toasters (about 1mm to about 100 micrometers)
+IR (about 100 micrometers to somewhere between 1 micrometer and 1 nm); above that is a bell graph labeled "Superman"s heat vision," with a motorcycle driving up the left side labeled "Jack Black's Heat Vision."
+Visible light (and, under it, visible dark); above that is a bell graph labeled "sunlight." There's a breakout chart above it showing the visible spectrum from 700nm (red) to 450nm (violet). There's an arrow pointing to where octarine would be, somewhere off to the side. Above that are bars showing the absorption spectra for hydrogen, helium, Depends(R) (yellow only), and Tampax(R) (red only).
+UV (about 100nm to about 10nm)
+Miller Light (a thin bar around 10nm)
+An unlabeled section with a thin line above it showing the frequency of the main death star laser
+A blocked-off portion labeled "Censored Under Patriot Act."
+X-rays (from about 1nm to about 10pm); a line above shows the frequency of mail-order x-ray glasses. Somewhere vaguely above the 10pm mark is a potato.
+Gamma/cosmic rays (10pm and smaller); above that is a bar marked Sinister Google Projects that also trails off into higher frequencies, and blogorays, which are slightly lower.
+Trivia[edit]
+'Empty room hum" was later referred to in 1590: The Source.
+Cell phones as a cause of cancer was later referred to in 925: Cell Phones.
+This comic is available as a signed print in the xkcd store.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+"Light particles were formerly carried by the aether, which was decommissioned in 1897 due to budget cuts." Ohh, this is so INCOMPLETE, just read the comic, I still laughing and I can't stop. --Dgbrt (talk) 18:20, 6 July 2013 (UTC)
+
+Now why did Randall Munroe go with the old 1960s notion of putting gamma/cosmic rays at the high end of the spectrum. Back then certain events in detectors were thought to be caused by photons of higher frequency than gamma rays, but now those are known to instead be made by very energetic charged nuclei not electromagnetism. Thus "cosmic rays" not part of EM spectrum at all. --RalphSiegler (talk) 15:07, 7 July 2013 (UTC)
+Any help here is welcome!
+...but please discuss major changes here before. The page is still marked as incomplete, I am happy about any new ideas.--Dgbrt (talk) 21:42, 15 July 2013 (UTC)
+Going forward, I'll assume Wikipedia's "Be bold" guideline applies to this wiki (although not part of the wikimedia project), too. Thus, I'll continue to make changes I consider uncontroversial without first discussing them, if I'm sufficiently confident in them, including major ones. In judging how controversial a potential change might be, I'll take the respective article's edit history and talk page into account. I try to write good edit summaries, so these should usually give you my reason or motivation for making the edit it question. If you revert them, please do tell why you disagree with the specific edit (except that is hasn't previously been discussed) in the edit summary or on the talk page, so that a discussion can actually start.
+--Das-g (talk) 12:49, 6 August 2013 (UTC)
+Some suggestions
+The year 1897 might refer to Joseph Larmor's publication about the later so-called Lorentz transformation.
+"The Wave" might also refer to the experiment/novel.
+The actual electromagnetic spectrum of toasters is (mostly) in the IR range.
+I'm pretty sure there is some kind of joke w.r.t censorship and the Patriot Act (afaik the Patriot Act is actually more the opposite of censoring, though i.e. making more information available—to intelligence agencies)
+I agree with User:Das-g that X-Ray glasses unlikely refer to full-body scanners
+--Chtz (talk) 00:23, 16 July 2013 (UTC)
+Mail-order X-Ray glasses
+I doubt "mail-order X-Ray glasses" is a reference to full body scanners, for the following two reasons:
+Full body scanners are heavy and bulky equipment. While —if you'd manage to order one— you can probably have it shipped to a destination of your choice, delivery will most likely not happen by mail, which would be the definition of a mail order.
+While it might be possible to connect certain VR goggles or similar glasses-like periphery to some full body scanners, they are usually operated with screens that do not resemble spectacles.
+In my opinion, it's much more likely that a once popular a novelty item that could actually be ordered from catalogues/adverts and could sent by mail (because it was flat and light, consisting of cardboard and plastic foil) is being referenced.
+-- Das-g (talk) 21:34, 29 July 2013 (UTC)
+It's been a week and there have not been any replies, so if there still aren't any for another week (i.e. until 2013-08-13) I'll consider my first change to this article undisputed and re-do it. However, I will not re-do my second change without explicitly putting it up for discussion here on the talk page, first, as I expect it to be a bit more controversial. (I'll put the second change up for discussion if/when I re-do the first change, as the second only makes sense if the first is acceptable, anyway.)
+--Das-g (talk) 12:08, 6 August 2013 (UTC)
+Because there still weren't any replies, I've redone my first change.
+--Das-g (talk) 22:30, 13 August 2013 (UTC)
+X-ray glasses and your sister
+Is the second sentence of the title text ("Also sometimes I try to picture your sister naked.") a reference to how X-Ray Specs were sometimes advertized?
+--Das-g (talk) 22:30, 13 August 2013 (UTC)
+"Gal" could refer to 1cm/s2, or a galileo. http://en.wikipedia.org/wiki/Gal_%28unit%29173.245.56.208 05:34, 12 January 2015 (UTC)
+Regarding the reference to microwave ovens in the explanation, I would like to point out that comic 843:Misconceptions references the list of common misconceptions, which in the Food and Cooking section clearly states that microwaves don't work at the frequency of water but instead uses dialectric heating to cook food. Obviously that comic is later than this one, but it should be considered for the explanation above. Thanks! GeniusBooks (talk)
+Sulawesi
+I think that Sulawesi is a reference to 256: Online Communities (and 802: Online Communities 2). In all cases it is an item that does not really fit in (although in the Online Communities case the relationship to the rest of the drawing is quite obvious, with Sulawesi being the only real island among a set of fictional islands)--198.41.243.241 22:04, 21 November 2015 (UTC)
+Categories: All comicsComics from 2007Comics from JuneWednesday comicsComics featuring CueballComics featuring MeganMultiple CueballsScienceSETIComics with colorChartsYour sisterComics with xkcd store productsAliens

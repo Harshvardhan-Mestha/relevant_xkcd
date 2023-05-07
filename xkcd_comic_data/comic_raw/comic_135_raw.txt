@@ -1,0 +1,64 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+135: Substitute
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 135)
+|<< PrevComic #135 (July 31, 2006)Next >>|
+Substitute
+
+Title text: YOU THINK THIS IS FUNNY?
+Explanation[edit]
+This comic refers to the film Jurassic Park, a 1993 movie based on the 1990 novel by Michael Crichton. The film centers around a billionaire who bought an island and opened a zoo or theme park for dinosaurs that he has cloned from DNA recovered from blood found in fossilized mosquitoes. After a computer programmer shuts down the security systems to steal embryos for a rival company, several of the creatures, among which are the Velociraptors subject of this comic, run loose and try to devour every human in the theme park.
+Velociraptors (often shortened to "raptors") are a species of relatively small, carnivorous dinosaur that play a central role in the original film, as well as its sequels. In the film, packs of Velociraptors antagonize the main characters at various points, even entering buildings. According to newer researches, the Velociraptors in the film were erroneously based on the Utahraptor species of dinosaur. Unlike the movie, in which they are depicted as having a reptilian skin, both species of dinosaur in reality are theorized to have been feathered. The word "raptor" also refers to modern birds of prey.
+Randall is asked to substitute for Miss Lenhart in math class. The first page of the test he devises contains three questions, which have the recurring theme of humans running from said velociraptors. For the answers, see the trivia section. As Randall says in the comic: "This material is more vital than anything you've ever learned," the joke being that Randall is somehow fearful that such a thing could happen.
+Velociraptors, and in particular, the irrational fear of being attacked by them in the modern world, appear several times in xkcd. This is the second such instance; the first is 87: Velociraptors
+In the title text, Randall asks the kids whether they find this possibility humorous (and they rightfully should, considering that the chances of such a thing occurring are astronomically low[citation needed]).
+Transcript[edit]
+[In a classroom, the board says "Math" on the top-left corner, and "Mr. Munroe" in the middle. A Cueball portrays Randall, standing in front of it, speaking to the class.]
+Randall: Miss Lenhart couldn't be here today, so she asked me to substitute.
+Randall: I've put out your tests. Please get started.
+[A student in the first row raises the exam paper and says:]
+Student: Mr. Munroe, Miss Lenhart never taught us this.
+Randall: That's because Miss Lenhart doesn't understand how important certain kinds of math are.
+Student: But this just looks--
+Randall: This material is more vital than anything you've ever learned
+Student: But--
+Randall: No buts.
+Randall: This is a matter of life and death.
+[Excerpt from the exam paper.]
+Name: _________
+[A stick figure is standing, hands over head. A velociraptor is running towards it.]
+1. The velociraptor spots you 40 meters away and attacks, accelerating at 4 m/s^2 to its top speed of 25 m/s. When it spots you, you begin to flee, quickly reaching your top speed of 6 m/s. How far can you get before you're caught and devoured?
+2. You're at the center of a 20m equilateral triangle with a raptor at each corner. The top raptor has a wounded leg and is limited to a top speed of 10 m/s.
+[A stick figure is shown in the above situation. The picture has a legend "(Not to scale)."]
+The raptors will run toward you. At what angle should you run to maximize the time you stay alive?
+3. Raptors can open doors, but they are slowed by them. Using the floor plan on the next page, plot a route through the building, assuming raptors take 5 minutes to open the first door and halve the time for each subsequent door. Remember, raptors run at 10 m/s and they do not know fear.
+Trivia[edit]
+Answers to the first two questions can be found in this topic on the forum board.
+The first is 37.30194339616981 meters.
+The second is 57.19 degrees to either side of the wounded raptor, if the raptors at each instant move towards the current position of the person.
+The second is 59.83 degrees to either side of the wounded raptor, if the raptors' trajectories are optimal for catching the person as quickly as possible.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Rikthoff (talk) The issue date is off, as i can't find a create date for the image. Can anyone fix?
+Yes, I've fixed the date on the page. lcarsos (talk) 15:30, 14 September 2012 (UTC)
+1. It takes the raptor 25m/s / 4m/s^2 = 6.25s to reach it's top speed, during which I can run 6.25s * 6m/s = 37.5m. Add on my 40m head start, and I can reach a spot 77.5m away from the raptor before he gets me. In the same time, the raptor can run 4m/s^2 * (6.25s)^2 / 2 = 78.125m. I'm eaten before he's fully up to speed. Therefore, I have to solve for when the raptors location, r(t) = 4m/s^2 * t^2 /2 - 40, and my location, m(t) = 6m/s*t, are equal. Dropping units, we get 2t^2 -40 = 6t, or 2t^2 - 6t - 40 = 0. Dividing by 2 I get t^2 - 3t - 20=0. Using the quadratic equation, I get (3 +/- sqrt(89))/2, roughly equal to 6.217s and -3.217s. Plugging that back into m(t), I get 37.302m for my terminal run. Blaisepascal (talk) 22:18, 14 September 2012 (UTC)
+I don't think there is enough information to solve the second problem, because you don't know how fast the non-injured raptors go. Unless you take that information from the first problem. But then, how fast does the wounded raptor accelerate? You would have to find the angle where the wounded and the closest non-wounded raptor would meet you at the same time. 213.127.132.140 17:17, 5 September 2013 (UTC)
+With all three raptors and you running at top speeds, I don't think you get caught by the injured raptor and uninjured raptor at the same time. I believe that you must run directly towards the wounded raptor and the two non-injuried raptors will reach you simultaneously before you and the injured raptor meet, and you cannot do better. After all, you can try to run directly away from an uninjured raptor, but you will lose ground to it at a rate of 25-6=19 m/s (but, it is worst for the other uninjured raptor). By running directly at the injured raptor, you lose ground from it at the rate of 10+6=16 m/s. However, if you can accelerate at a rate far above the raptors, I think you could change directions so fast that one raptor could not catch you. However, I am not sure you can keep away from all three indefinitely. --DrMath 04:01, 24 October 2013 (UTC)
+I did the math and if you run directly towards the wounded raptor it will catch you before the uninjured raptors do. (It would be better to run directly away from the uninjured raptor than it would be to run towards it, but that still not the answer.) As you would cover ~8m if you ran at the wounded raptor and survive for ~1.33s where as the uninjured raptors (assuming they rundirectly towards the point you meet the wounded raptor would take ~2.9s to reach this point. 162.158.178.116 00:35, 8 October 2016 (UTC)
+For 1 and 2 the solution depends on whether the raptors can accelerate at 2m/s, or they actually increase their speed at this rate. If they just accelerate, It should be possible to do tight circles, and even wind yourself slowly towards another location. I believe this is possible even treating yourself and the raptors as point masses. 2.102.215.18 13:19, 17 July 2013 (UTC)
+This could also be a parody of Snape substituting for Lupin (Harry Potter and the Prisoner of Azkaban) in the Defense against Dark Arts class. Snape assigns homework on werewolves, in the hopes of one of the students connecting the dots. Here, Randall might be trying to get the students to suspect that Mrs.Lenhart might be a raptor (out of sympathy, or just being a classhole?). Also 155. 208.124.118.63 18:58, 1 October 2013 (UTC)BK201
+There is a problem with the test, as Mr. Munroe wrote it: Question #1 says that a raptor has a top speed of 25 m/s, but question #3 says "Remember, raptors run at 10 m/s...". Furthermore, question #2 says an injured raptor runs at 10 m/s.
+The way I resolved that was that raptors wouldn't be able to run straight long enough to reach their top speed inside of a building. 108.162.237.161 23:53, 27 April 2015 (UTC)
+BTW, the answer to question #2 is: run straight toward the injured raptor. The uninjured raptors will run toward you and the injured raptor. Just as you get close to the injured one, slide under his legs. Because he is injured, the uninjured raptors will feast on him instead of you. 173.245.55.227 20:58, 13 December 2013 (UTC)
+This presumes the raptors are cannibalistic. -Pennpenn 162.158.2.221 05:30, 15 June 2015 (UTC)
+In the original Jurassic park book, the little children get chased through the hatchery, and they try to use a baby raptor to distract the raptors chasing them, but the small raptor gets ripped to shreds. Raptors are merciless and horrible beings. Randall is right to hate them.RedHatGuy68 (talk) 01:28, 29 October 2015 (UTC)
+I solved it by being a t-rex and just eating the raptors. It's amazing how many math problems become easier when you're a t-rex. 162.158.255.69 23:29, 16 September 2015 (UTC)
+So many problems become easier it seems by becoming a T-Rex. 172.69.34.30 (talk) 23:53, 9 November 2022 (please sign your comments with ~~~~)
+But not that of tying your shoelaces. 141.101.99.151 02:40, 10 November 2022 (UTC)
+What if they're utahraptors or nanotyranus 108.162.245.120 07:14, 13 October 2016 (UTC)
+Question 3 is inaccurate: Using the knowledge gleaned from the movie, we can only assume raptors can open some doors. i.e., those with lever handles. Given their anatomy, it is unlikely that they would achieve proficiency with the more standard round-knob-based doors. --Electro-- 108.162.221.130 07:13, 9 September 2017 (UTC)
+Life finds a way.
+Should this be in 'comics featuring Miss Lenhart'? The comic does not show her, although it does mention her.
+Categories: All comicsComics from 2006Comics from JulyMonday comicsPages using the "citation needed" templateComics featuring Miss LenhartComics featuring Randall MunroeComics with colorVelociraptorsJurassic ParkMathPhysicsComics featuring CueballKids

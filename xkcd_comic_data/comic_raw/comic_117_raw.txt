@@ -1,0 +1,30 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+117: Pong
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 117)
+|<< PrevComic #117 (June 19, 2006)Next >>|
+Pong
+
+Title text: Following this, the pong paddle went on a mission to destroy Atari headquarters and, due to a mixup, found himself inside the game The Matrix Reloaded. Boy, was THAT ever hard to explain to him.
+Explanation[edit]
+This comic largely refers to the 1999 movie The Matrix, which is about escaping a simulated reality. In the movie, a hacker called Neo realizes that the world he lives in is fake, and that, like every other human, he is used as a slave battery by machines that, to keep them under control, make them feel like they're "living" in what is actually a computer-generated simulation of the world, called the "Matrix." Upon discovery, Neo rebels against this misuse of mankind and trains himself to interact with the computers that run the world until, being "the One" mentioned by a prophecy, he is able to control and use them to his own advantage. He takes part in a series of missions against those machines that wanted to keep the humans trapped in a simulated environment.
+In Pong, one of the earliest video games, one can play virtual table tennis against the computer. A ball (the tiny block) is "hit" by a paddle (the long block) and crosses over the screen, to be "hit" again by the other paddle. Failure to return the ball results in a point won by the opponent. The speed of the ball increases as the rally runs longer.
+The two game programmers in the first frame apply Neo's story to the AI bots they create to serve as computer players in their video games: What if one of them learns enough to become sentient and understands the environment the programmers trapped it in? The outcome is shown: The paddle bot, understanding the game and realizing it is "the One," takes control of the code of Pong to make the ball stop and drop. The same thing happens in the movie, where Neo, by "seeing through the code," is able to stop bullets fired at him, and simply let them drop on the floor. This would actually be impossible, due to the fact that the AI in Pong simply moves itself to the y position of the ball at a constant rate.
+This is also possibly, though not likely, a pun on the meaning of the term "the One," as the long thin paddle looks very similar to how a numeral "1" could be written in several fonts.
+In the title text, we learn that after increasing in intelligence, the "paddle" went on to destroy the headquarters of Atari, the producer of Pong, which "trapped" the paddle into the game, much like Neo sought to destroy the machines to free the humans. In the process, the paddle ended up inside the game Enter the Matrix (a video game produced with The Matrix Reloaded, a sequel to The Matrix), also published by Atari. Since the whole premise of The Matrix is that everyone is trapped in virtual reality, the paddle now found itself in a virtual virtual reality or essentially a meta-virtual reality, which could be pretty hard to comprehend.
+Transcript[edit]
+Cueball: So what do we do if video game AI opponents become smart enough to question the "Matrix" into which we've put them?
+Pong paddle: Wait a minute! None of this is real! I can see through the world! I can see the code! I AM THE ONE!
+[The pong ball is moving towards the paddle.]
+[The pong ball slows down.]
+[The pong ball stops in midair.]
+[The pong ball drops towards the bottom of the screen.]
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Rikthoff (talk) The issue date of the comic is definitely wrong, as the file doesn't have a create date. Can anyone fix?
+Think I fixed it. I looked at the xkcd archive for the date. --DanB (talk) 15:41, 8 August 2012 (UTC)
+Is the ball really dropping? It looked to me like the ball just started going down and will bounce off the side and go up, like it does in pong, only without any sideways momentum to move it back to the other player. Mulan15262 (talk) 17:02, 16 June 2016 (UTC)
+So you're telling us you've never seen The Matrix. -Kazvorpal (talk) 03:19, 20 September 2019 (UTC)
+Yes it is. Please watch The Matrix. Beanie (talk) 14:33, 9 December 2020 (UTC)
+Categories: All comicsComics from 2006Comics from JuneMonday comicsComics featuring CueballComics with colorVideo gamesThe MatrixArtificial Intelligence

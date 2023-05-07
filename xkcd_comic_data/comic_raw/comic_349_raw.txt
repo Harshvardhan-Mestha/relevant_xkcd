@@ -1,0 +1,46 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+349: Success
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 349)
+|<< PrevComic #349 (November 26, 2007)Next >>|
+Success
+
+Title text: 40% of OpenBSD installs lead to shark attacks. It's their only standing security issue.
+Explanation[edit]
+This comic refers to a common experience in which attempts to improve or change something can get you into even worse trouble, and where just getting back to the state at which you started becomes an arduous or even impossible task. Here, this idea is taken to a ridiculously (and amusingly) extreme level, where the attempt to install an operating system snowballs into ever more complicated problems, resulting in Cueball and Megan somehow literally getting themselves in deep water.
+The OS they are trying to install is OpenBSD, an open source Unix operating system that, like some other Unix variants, is notoriously difficult to install and configure correctly, especially on home desktops with less common hardware profiles, and especially compared with the more popular Windows operating system.
+The title text is a reference to OpenBSD's premium on security. For a time, their slogan was "Five years without a remote [security] hole in the default install!" This was eventually changed to "Only two remote holes in the default install, in a heck of a long time!" That their only standing security issue would be shark attacks is effectively an acknowledgement that any attempts to install the OS will only lead to getting stranded in the middle of the ocean.
+This comic was referenced later in 1350: Lorenz. Trying to install BSD was also referenced in 518: Flow Charts. The last panel in 1912: Thermostat may explain how this comic ended. Later, another possible reason to ending up in the ocean was given in 2083: Laptop Issues.
+This comic follows a similar storyline to 530: I'm An Idiot and 1518: Typical Morning Routine, as Cueball and Hairy encounter an issue and attempt proceedingly more absurd solutions to the issue.
+Transcript[edit]
+[Four full-width panels arranged vertically, each with a label for number of hours elapsed, with a title above the stack of panels.]
+Title: As a project wears on, standards for success slip lower and lower.
+[Megan is standing behind Cueball, watching him as he sits at a desk working on a desktop computer on the desk.]
+Label: 0 hours
+Cueball: Okay, I should be able to dual-boot BSD soon.
+[Cueball is on the floor fiddling with the open tower in front of him. Megan is not shown in the panel, but may be off-panel unless Cueball is talking to himself.]
+Label: 6 hours
+Cueball: I'll be happy if I can get the system working like it was when I started.
+[Cueball is standing in front of the computer, which now has a laptop plugged into the tower. Megan is still not shown in the panel, but may be off-panel again.]
+Label: 10 hours
+Cueball: Well, the desktop's a lost cause, but I think I can fix the problems the laptop's developed.
+[Cueball and Megan are swimming in the sea; an island and a beach can be seen in the distance.]
+Label: 24 hours
+Cueball: If we're lucky, the sharks will stay away until we reach shallow water.
+Megan: If we make it back alive, you're never upgrading anything again.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+There is nothing in the comic about project management. The only point is that we start out assuming total success, then just hope we don't actually end up in a worse position, then that there is at least one working computer on the premises, and finally just by hoping to survive. The is purely a comment, taken to extremes, on the most likely result of an interaction with man and machine. As the 'incomplete' tag indicates, the BSD upgrade is just used as an example. The comic is not attempting to advocate for better project planning, no matter what anybody may think. 108.162.219.223 18:45, 14 January 2014 (UTC)
+What's incomplete about this explanation? It seems pretty thorough to me. 199.27.128.136Evan
+I find it funny that Megan says: "If we make it back alive, you're never upgrading anything again", implying that he would be allowed to if he dies, somehow.141.101.64.41 16:16, 7 March 2015 (UTC)
+It does not imply he would be allowed to if he dies. This is just how that phrase is commonly worded. The trope generally follows the form: "If we make it out of here alive, ________ never/ever again." -- Flewk (talk) (please sign your comments with ~~~~)
+I think that's an example of denying the antecedent. 108.162.212.227 17:43, 8 November 2017 (UTC)
+Just wanted to point out that it doesn't say OpenBSD in the comic (which is implied in the explanation), just BSD, and if it did reference OpenBSD then another part of the explanation would be wrong (comic #518 mentions FreeBSD). 188.114.99.41 14:00, 8 March 2015 (UTC)
+Read the title text. 108.162.210.187 22:31, 29 July 2015 (UTC)
+What are the odds of sharks actually attacking them? 108.162.212.227 17:43, 8 November 2017 (UTC)
+The odds are zero, sharks don't attack people, that is a myth. I've swum with sharks hundreds of times and they are very shy creatures, easily startled. "Jaws" is NOT a documentary! --The Cat Lady (talk) 11:09, 14 August 2021 (UTC)
+we do not have enough data to form even a cogent guess. Most importantly, where are they? 172.69.33.149 (talk) (please sign your comments with ~~~~)
+The trees look like they might be in a coniferous forest, meaning that they're somewhere in the lower latitudes of North America, Europe, or Asia. -- Geography rulez (talk) (please sign your comments with ~~~~)
+Categories: All comicsComics from 2007Comics from NovemberMonday comicsComics featuring MeganComics featuring CueballComputersSharksBSDCueball Computer Problems

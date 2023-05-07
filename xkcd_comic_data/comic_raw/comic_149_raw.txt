@@ -1,0 +1,59 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+149: Sandwich
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 149)
+|<< PrevComic #149 (August 28, 2006)Next >>|
+Sandwich
+
+Title text: Proper User Policy apparently means Simon Says.
+Explanation[edit]
+On both Windows and UNIX computer systems, users can be assigned all kinds of rights, for example rights to access certain directories and files, or to execute certain commands. The sudo command (pronounced "sue due" or "pseudo") lets certain (authorized) UNIX users override these policies by executing the command (everything after the word "sudo" on the command line) as the root user. Root (sometimes called the superuser) has complete system powers, exempt from all access controls; it is similar to a Windows administrator, however even the powers of a Windows administrator is limited - the system32 folder, for example, cannot be deleted because it is a critical part of the operating system, while there is no such restriction on UNIX - if a root user feels like (or accidentally) deletes a vital file, they are free to do so. As a result, common advice is to not use sudo unless the command in question absolutely requires it - indeed, most commands do not require such privileges.
+One very common activity for UNIX administrators is to install or configure software using the UNIX make command, e.g. % make install. Often this command requires administrative permissions in order to complete successfully, which in practice means the "make this" command will fail unless it is typed as "sudo make this" instead. However as mentioned before since most commands work just fine without sudo, along with general discouragement from using it willy-nilly, it is fairly common for people who use or administer UNIX systems to attempt a straight up % make install and have it fail. They then need to repeat the command with "sudo," whereupon the computer responds obediently, and everything works smoothly.
+Cueball is demanding a sandwich from his friend. Not being properly asked, the friend denies the request. Cueball then (ab)uses the sudo command on the friend, who then has no choice but to go and make the sandwich, and now does so without complaint, because Cueball has all the rights. For anyone versed in installing system software with the make command, this exchange is intensely reminiscent of the analogous onscreen experience.
+Simon Says is a children's game in which a leader gives various commands that must be followed if and only if (iff) the leader prefixes the command with "Simon says." The title text compares the way the computer will run some commands if they are preceded with "sudo" to the way Simon Says players are supposed to follow orders if (and only if) they are preceded with "Simon says."
+Alternatively, the title text might merely be referring to the similarity between Cueball ordering his friend around with "sudo" to the Simon Says game leader ordering other players around. Wikipedia suggests that the "Simon" in the name of the game may be the powerful lord Simon de Montfort, or a corruption of Cicero, both of whom were influential politicians of their day.
+Transcript[edit]
+[Cueball is sitting on a couch, talking to a Cueball-like friend.]
+Cueball: Make me a sandwich.
+Friend: What? Make it yourself.
+Cueball: Sudo make me a sandwich.
+Friend: Okay.
+Trivia[edit]
+This comic is available as a T-shirt in the xkcd store.
+This comic is available as a signed print in the xkcd store.
+The sudo tool has adopted a sandwich-based logo, as seen on the Sudo main page (and the bottom of the list of contributors).
+Typing in "make me a sandwich" into DuckDuckGo tells you to make it yourself. Typing "sudo make me a sandwich" replies "Okay."
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Note that it is more effective to write "sudo !!" to redo the last command but with sudo added to it. -- Agge.se (talk) (please sign your comments with ~~~~)
+Using sudo !! outputs the previous command with sudo into your bash (other shells as well) history, so to bash what you said was "sudo make me a sandwich" not "sudo !!". lcarsos (talk) 16:46, 29 October 2012 (UTC)
+sudo requires user password, not admin password, but you need to be in sudoers file. --JakubNarebski (talk) 12:14, 15 December 2012 (UTC)
+How many people will know the difference? In a typical Ubuntu-family install with only one human user, root doesn't have a password, but the one user who does is a sudoer (and has to use sudo or su to act as root, rather than doing so starting at login). Promethean (talk) 06:08, 30 August 2013 (UTC)
+"the user first must type their password" This is not accurate. It is the default, but many domains disable that requirement. 173.245.52.92 06:47, 14 January 2015 (UTC)
+I believe the original comic actually read "Sudo bang bang" instead of "Sudo make me a sandwich". Here's a link to what I think is a copy of the original. I'm not sure which of the two is actually the original. 99.95.158.248 (talk) (please sign your comments with ~~~~)
+The words "bang bang" (particularly the first B) look a bit fuzzy/pixelated compared to the rest of the text, which gives me the feeling that it was edited from this one, which is the original. Zowayix (talk) 23:03, 23 January 2014 (UTC)
+If you click on the image (on the Stack Overflow link), it leads you to http://justinsomnia.org/2006/09/sudo-bang-bang/, which says: 'This just occurred to me' [comic] 'Original comic from xkcd by Randall Munroe', implying it was indeed edited. 141.101.99.14 20:42, 11 August 2014 (UTC)
+Also, Randall doesn't make his Gs like that. You can see in the strip immediately previous. 108.162.237.4 05:16, 27 November 2018 (UTC)
+On a different, but totally related note: Here you can find an aptly named little program with which the charming conversation would be: "Make me a sandwich." - "What? Make it yourself." - "Fuck." - "Okay." 162.158.85.135 08:24, 28 June 2016 (UTC)
+Comment: This conversation is an easter egg in Google Now on Android tablet. Using voice search to say "make me a sandwich" will give the reply "what? make it yourself", adding "sudo" will get the response "ok". I assume the Google now implementation came later and is based on xkcd. 141.101.99.27 (talk) (please sign your comments with ~~~~)
+Sadly, it doesn't exist in the new Google Assistant.
+Siri will also respond "okay" if you say "sudo make me a sandwich:", though she doesn't respond with the XKCD response to "make me a sandwich". 198.41.235.35 13:32, 27 October 2015 (UTC) (MSC)
+This reworked for the Make utility:
+$ make sandwich
+Must be root
+$ sudo make sandwich
+cc sandwich
+mv sandwich /etc/sandwich
+sandwich installed in /etc
+$ _
+Alexbuzzbee (talk) 02:50, 23 August 2015 (UTC)
+It also reminds me the Star Trek: Voyager episode where Q tampered with the ship's replicators:
+Janeway: "Coffee, black."
+Replicator: "Make it yourself."
+(But she didn't try "Sudo coffee, black.") - Mike Rosoft (talk) 18:14, 13 March 2016 (UTC)
+This forfells the advent of Alexa and the other personal home assistants. 162.158.155.50 20:19, 14 October 2017 (UTC)
+I wonder whether Cueball pronounces "sudo" the right way (because surely he knows the right way) or the wrong way (engaging his hobby, or matching the expectations of the friend.) 172.68.142.89 16:04, 15 June 2018 (UTC)
+If the pronunciation of sudo is "soo doo" (because "do" is a word), then should it actually be pronounced "ess yoo doo" — pronouncing "s" and "u" separately (because "su" is an initialism of "super user"/"substitute user")? (Is the su command pronounced "soo" or "ess yoo"?) -- Yfmcpxpj (talk) 14:30, 6 December 2019 (UTC)
+Categories: All comicsComics from 2006Comics from AugustMonday comicsComics featuring CueballMultiple CueballsLinuxFoodComics with xkcd store products

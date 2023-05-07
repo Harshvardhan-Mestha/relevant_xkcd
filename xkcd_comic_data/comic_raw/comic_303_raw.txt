@@ -1,0 +1,41 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+303: Compiling
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 303)
+|<< PrevComic #303 (August 15, 2007)Next >>|
+Compiling
+
+Title text: 'Are you stealing those LCDs?' 'Yeah, but I'm doing it while my code compiles.'
+Explanation[edit]
+Computer programming involves writing instructions for a computer to follow, in a specific programming language, which is largely human readable and writable, at least to programmers who understand that language. However, for the computers to follow instructions, they need to be given machine code — the actual "language" that computers "speak" and one that can be written directly with the correct tools, but would be too tedious and error-prone for just about any practical modern project where alternatives exist, where anything more than a Hello World could be awkward to implement straight into machine-code.
+Conversion from the more conveniently human-writable code into computer-executable files is performed by assemblers, interpreters, or compilers.
+Programs can be written in assembly code, which is basically just a set of mnemonics that make machine code much easier for a human to remember and correctly parse; the human-written assembly code is then run through a simple assembler to convert it directly into machine code. Assembly coding is necessary whenever one is programming for a completely new architecture (one for which no other tools yet exist), and is still used in some other situations (as it allows the code to be optimized more closely for the system on which it is to run than is possible with other types of coding), but is still fairly tedious and error-prone, and assembly code needs to be completely rewritten if one wants to port it to a computer with a different architecture.
+An interpreter (e.g. that for PHP for one example) generally reads through the code, or script, each line at a time as and when required, and has to do a lot of work with various processing overheads and the risk of hitting an invalid instruction or mistake in syntax that it can't handle. It also requires that a relevant version of the interpreter exist on any machine that has to run the script and perhaps some additional knowledge by the end-user.
+For widely distributed (and especially commercial) programs, some form of compilation will instead be used. Compiling may have just one computer system read through the man-written code and (barring errors) produces the equivalent stand-alone and direct machine-readable code, suitable for a given range of computers. This process might involve several passes to check for 'obvious' errors in the code, as well as converting some programming concepts that are easiest for humans to understand into equivalent concepts that may be far easier for the computer to work with.
+As such, compiling takes a certain amount of time at the time of production. Normally, this takes a few seconds, but, depending on the size of the project and the power of the computer doing the compilation, the time required to compile a program may measure in minutes, or even hours. As of 2015, the Linux Kernel contains over 19 million lines of code, arguably a massive job for any compiler, but if done correctly, it saves time for all the people who will ultimately be using its output.
+Thus, when Cueball is caught wasting time at work, he argues that such activities are not worse than any other possible ones, at this moment. If his job is writing code and compiling it, then there may be nothing else that he can do right now. He cannot usefully tweak the code before it finishes compiling and the expected result checked.
+The title text takes this a step further. Cueball claims that all activities are equally benign while the code is compiling — and that includes committing illegal acts, such as stealing LCDs.
+Nine years after this comic was released, Randall made a comic called 1755: Old Days about how compiling worked in the old days. It was Cueball who asked. The next comic after that, 1756: I'm With Her, was released the Monday before the 2016 United States presidential election. And in that comic, a Cueball with a sword on an office chair like in this comic is featured. It seems realistic that Randall had that politically loaded comic ready for some time, and when finding and deciding to use this old version of Cueball, he may have been inspired by the compiling theme to make Old Days.
+Transcript[edit]
+The #1 Programmer Excuse for Legitimately Slacking Off: "My code's compiling."
+[Two programmers are sword-fighting on office chairs in a hallway. An unseen manager calls them back to work through an open office door.]
+Manager: Hey! Get back to work!
+Cueball: Compiling!
+Manager: Oh. Carry on.
+Trivia[edit]
+A T-shirt based on this comic is available in the xkcd store.
+This comic is available as a signed print in the xkcd store.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I was sooo amused when I heard about the most common error report when Delphi was released to the linux platform: "the compile button doesn't do anything"...
+The "fix" was to introduce a checkbox that defaulted to not close the compile window once complete :-)
+For being so open-sourced they are quite close-minded ;-)
+Usually interpreters don't create any code but use the source language as instructions to the interpreter. The situation is complicated by the existence of compilers which compile to an intermediate code (Java byte code for example), then compile the byte code to machine code.
+Jstout (talk) 21:54, 13 December 2013 (UTC) 141.101.81.4 07:04, 10 November 2013 (UTC)Nicklas
+(In response to the JavaByte thing, whoever said that) I just revamped the explanation (because it looked like two different explanations mashed together). Now it's not repetitious, but longer than I had intended it to be. It would have been even longer had I gone into Java, so I left that out. However, I would say that Java (human writable) source code is 'compiled' into Javabyte code, which is then 'interpretted' by the Java Engine on the end-user's machine. But the original compilation puts it in an easier-to-interpret form than any human-written version would be, even whilst being still flexible across differing platforms. However, it can be a fuzzy line, these days, what exactly does what. YMMV. 141.101.99.114 00:30, 8 September 2015 (UTC)
+"Liquid Crystal Display Displays" This bothers me. 173.245.55.85 19:59, 13 March 2014 (UTC)
+https://en.wikipedia.org/wiki/RAS_syndrome -- Wesha (talk) 19:36, 11 May 2015 (UTC)
+Made it into a wiki link and removed Displays. Kynde (talk) 20:10, 28 March 2014 (UTC)
+Categories: All comicsComics from 2007Comics from AugustWednesday comicsComics featuring CueballProgrammingComics with xkcd store products

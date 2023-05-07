@@ -1,0 +1,30 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+190: IPoD
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 190)
+|<< PrevComic #190 (November 29, 2006)Next >>|
+IPoD
+
+Title text: For smaller numbers he has to SAVE lives. The birthrate channel is even more of a mixed bag.
+Explanation[edit]
+IP is one of the main protocols of the Internet. It is used to route data packets from one computer to another, using other computers or even complete networks in between if needed. It is designed to use the fastest (not necessarily the shortest) route to the target, automatically using another route if a connection or a transmitting host fails.
+Every participant of the network has to have a so-called IP address. The data is divided into packets, each consisting of a header and the payload. The header tells the transmitting parties where the packet comes from and where it should go (together with some other details). The payload is the data to be transmitted.
+IP packets can be carried by a variety of transport networks. Such methods are often referred to as "IP over X" (or "IPoX" for short). Examples include IP over DVB, IP over ATM, and the humorous IP over Avian Carriers.
+Black Hat (and other statisticians) is using demographics as IP packets to send data. In order to adjust the death rate to encode the header, Black Hat plans to travel to New Jersey and go on a killing spree with a crossbow, instead of merely hacking the census bureau's computers. Such antics could only be used to increase the death rate; decreasing it would require saving lives instead, as mentioned in the title text. Also as mentioned, birth rates would be trickier to manipulate, as doing so would require encouraging or discouraging women to have children and would require an approximately nine-month delay, which is a great deal more difficult than taking a crossbow to a heavily populated area.
+Crossbows were also mentioned in 564: Crossbows. Black Hat is also seen using his crossbow in 929: Speculation.
+Transcript[edit]
+[Black Hat sits at a computer. Cueball stands behind him.]
+Black Hat: You see, statisticians communicate using IPoD -- IP over Demographics. For example, the header of the next packet I send will be encoded into the New Jersey death rate.
+Cueball: So you're going to hack the census bureau and change the number of reported deaths?
+Black Hat: Guess again.
+Black Hat: Hey, have you seen my crossbow?
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The joke "IPoD -- IP over Demographics" is referring to the media player from Apple.--Dgbrt (talk) 18:49, 25 June 2013 (UTC)
+Perhaps, but I doubt it. 184.66.160.91 02:35, 27 August 2013 (UTC)
+Of course it is, but as just a secondary joke. It doesn't relate to the main point of the comic. But it should be mentioned anyway. 108.162.219.223 19:07, 6 January 2014 (UTC)
+I find it boggling how many people are so weak-minded as to feel certain about something based on evidence instead of proof. It is absolutely impossible to rationally state "of course it is" if you lack proof. You are going by the circumstantial evidence of the letters coinciding, and nothing more. It cannot be better than "probably is". Not only is this a logical problem a-la Karl Popper, but this failing also seems to involve a weakly developed theory of mind. The belief that one can know with certainty the thoughts of another in a case like this shows that while they may understand the basic premise of "that person can't always see what I'm seeing", they don't fully grok "I don't necessarily know his thoughts, based on my external observations and speculation". —Kazvorpal (talk) 16:02, 7 October 2019 (UTC)
+Harsh, but true. Beanie talk 13:45, 9 July 2021 (UTC)
+Categories: All comicsComics from 2006Comics from NovemberWednesday comicsComics featuring Black HatComics featuring CueballCrossbows

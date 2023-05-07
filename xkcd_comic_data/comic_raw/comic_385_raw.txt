@@ -1,0 +1,40 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+385: How it Works
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 385)
+|<< PrevComic #385 (February 18, 2008)Next >>|
+How It Works
+
+Title text: It's pi plus C, of course.
+Explanation[edit]
+The comic reveals discriminative jargon against women when doing tasks such as mathematics. When a guy does something wrong, it's his own mistake. When a girl does something wrong, it is taken as a confirmation that girls are inferior.
+The mathematics displayed is neither semantically nor syntactically correct. To begin with, there should (reasonably) be a dx after x2. Adding this, we have an indefinite integral on the left hand side.
+The answer π is just nonsensical: What we want is a function whose derivative is x2. Now, x3/3 satisfies this condition. However, since adding a constant to a function does not change its derivative, the full answer is (any function of the form) x3/3 + C, where C is any fixed number. The "plus a constant" part is very easy to forget, and might even be omitted by a (sloppy) professional mathematician. So if someone really gave the answer π, "you forgot to add a constant" would be a pretty funny remark, because in one way it's true, but on the other hand it wouldn't quite be the main thing to worry about. (It is especially inane as π itself is a constant.)
+It would also be possible to fix the equation by adding bounds of integration, so that π becomes the area below a section of the curve x2. That is called a definite integral, and there would be no "+ C". The bounds would have to be somewhat awkward though; if 0 was the lower bound, the cube root of 3π would have to be the upper.
+Transcript[edit]
+[Cueball and a friend stand at a blackboard. The friend is writing, in standard mathematical notation, that the integral of x squared equals pi. No differential or bounds are given for the integral.]
+Cueball: Wow, you suck at math.
+[The same scene, except the writer is Megan.]
+Cueball: Wow, girls suck at math.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Person who has questionable proficiency (at math in this case) makes gender-specific judgments society taught him to make. To be part of the whole you have to confirm to the stereotypes and labels placed upon you. You'll be forever alone otherwise. Sad story. I makes me cry, however, every time I recall that people who are good at math stereotyped as crazy mad evil egomaniacs who are forever alone. This is a catch 22 that's impossible to break. The title of the comics is "How it Works". And this is how it works.
+I will admit, after I finished Calc 1, I came across this yet again via the random button, and kind of rolled my eyes. Then I read the title text, and this became one of my favorite comics. --140.198.42.64 00:19, 20 March 2013 (UTC)
+The same thing happened to me. This is definitely one comic where a little bit of knowledge about the subject really makes the joke. --108.162.215.125 06:59, 31 May 2016 (UTC)
+This type of generalization also has a special name called "Stereotype threat". Research shows that women/girls who are good at math (identify as good at math) will do worse on hard math questions when they think (consciously or unconsciously) that her own personal failings will reflect on the negative stereotype. (Real example: a group of professors asked SAT testing body to ask for demographic questions (gender/race) after the test instead of before.) 108.162.254.107 04:15, 18 June 2014 (UTC)
+I don't really think that pi + C is different from just C. Pi is a constant anyway! 173.245.48.96 (talk) (please sign your comments with ~~~~)
+
+In popular culture: it appeared twice in the grade 10 english module in the philippines,and without the correct citation. p.s. what should i do? 108.162.215.10 08:33, 16 July 2015 (UTC)
+xkcd is released under a Creative Commons license that allows any redistribution but requests a citation if you are making money from it. I think it's fine unless they're ripping Randall off. That's right, Jacky720 just signed this (talk | contribs) 23:53, 5 May 2018 (UTC)
+reads license okay, no commercial redistribution, and give appropriate credit. Ask them nicely to add a citation? Idk. That's right, Jacky720 just signed this (talk | contribs) 23:57, 5 May 2018 (UTC)
+Maybe include the phrase confirmation bias?108.162.218.53 20:27, 21 February 2016 (UTC)
+Megan wasn't finished with the equation yet. That's why her hand is still up at the board. She can still produce a correct - even if strange - equation. 162.158.90.189 (talk) (please sign your comments with ~~~~)
+So is the hand of the second cueball.
+One thing I noticed is if you just take the letters of "Pi" and "c", it makes "Pic". "Pic" is a way to shorten the word "Picture"!108.162.245.115 18:30, 27 September 2016 (UTC)
+The Geek Feminism wiki claims that this comic references a specific incident. 172.68.182.98 22:57, 3 January 2021 (UTC)
+This comic was published three months after the incident (2007/11 - 2008/02), so could be inspired by it. 162.158.183.117 (talk) (please sign your comments with ~~~~)
+Geek feminism does not state this, at least not as of right now (it is a wiki as well after all): "The title of this entry is a play on an xkcd which relates to this incident." - relate just means that there is a relation, which is: The same sexist matter. It doesn't say that it is a reference or even inspiration. However of course it cannot be outruled that the "incident" inspired Randall to this comic. --Lupo (talk) 11:17, 3 February 2021 (UTC)
+It would also be quite ridiculous to suggest that "forgot the C" is equivalent to "sucks at math"! L-Space Traveler (talk) 02:43, 28 August 2022 (UTC)
+Categories: All comicsComics from 2008Comics from FebruaryMonday comicsComics featuring CueballComics featuring MeganMath

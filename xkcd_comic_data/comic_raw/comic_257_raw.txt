@@ -1,0 +1,37 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+257: Code Talkers
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 257)
+|<< PrevComic #257 (May 4, 2007)Next >>|
+Code Talkers
+
+Title text: As far as I can tell, Navajo doesn't have a common word for 'zero'. do-neh-lini means 'neutral'.
+Explanation[edit]
+Code talkers are people who communicate using their native language not known by the enemies. The most well-known code talkers were the Navajo-speaking Marines serving during World War II.
+This comic shows a Navajo code talker transmitting an encrypted binary file by speaking "one" and "zero" (actually "neutral," as explained in the title text) into a microphone. By using only two words, the code is easily cracked. Unlike the Navajo Marines, this process does not add security, because it easily can be decrypted and is also much slower than simply transmitting the file over a network.
+Note that (probably unbeknownst to Randall) the actual code used by the Navajo code talkers was not so far removed from the depiction in the comics: The Navajos used a mostly alphabetic code, with one Navajo word for each English letter. (This meant that even though the Axis captured at least one native Navajo speaker, he could not make any sense of what was said.) However, several important terms were given their own Navajo idioms, so the entropy would be somewhat higher than depicted in the comic.
+The title text is a disclaimer from Randall about using "neutral" instead of "zero" — Navajo has words for the concept of nothing, but not for the numeral zero. Most number systems are not positional, and therefore may lack the number zero. The Arabic numeral system used in the West required the invention of the zero as a placeholder, so that numbers could retain their position when one column has nothing in it.
+Transcript[edit]
+[A man is looking at a computer monitor and speaking into a microphone.]
+Code talker: A'la'ih, do'neh'lini,
+do'neh'lini, a'la'ih,
+a'la'ih, do'neh'lini,
+do'neh'lini, do'neh'lini,
+a'la'ih, a'la'ih,
+do'neh'lini, a'la'ih,
+do'neh'lini,do'neh'lini,
+do'neh'lini...
+[Two men are talking nearby.]
+Cueball: For added security, after we encrypt the data stream, we send it through our Navajo code talker.
+Friend: ...Is he just using Navajo words for "Zero" and "One"?
+Cueball: Whoa, hey, keep your voice down!
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I am a little bit disappointed of Randall, that he didn't hid a secret message here. 101010000100110 doesn't translate in to anything (If you fill in the missing number). Nils w (talk) 11:44, 30 January 2014 (UTC)
+Since the binary data is said to be encrypted, it could contain any secret message you'd like, you just have to apply the right one-time pad. Hiding a plaintext message in a sequence told to be encrypted would be unlike Randall, don't you think? 141.101.81.220 13:26, 16 May 2014 (UTC)
+All people always try is trying to interpret zeroes and ones as ascii codepoints... In this case it would actually just be T&. Does it mean anything? Well it's all in the *printable* and *first 127* ASCII characters so it might as well anyway. Sinni800 (talk) 10:00, 8 August 2014 (UTC)
+In the Volume 0 book, the code changes and is 00111100 00110011 which means <3 Potato Gunman3 (talk) 02:00, 1 May 2015 (UTC)
+I think that the comic is also about people not understanding cryptography.~JRM 173.245.56.70 (talk) (please sign your comments with ~~~~)
+Categories: All comicsComics from 2007Comics from MayFriday comicsComics featuring CueballLanguage

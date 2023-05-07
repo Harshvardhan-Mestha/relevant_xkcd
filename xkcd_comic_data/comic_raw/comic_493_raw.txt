@@ -1,0 +1,41 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+493: Actuarial
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 493)
+|<< PrevComic #493 (October 24, 2008)Next >>|
+Actuarial
+
+Title text: I started to do the tables for more famous people but it got really depressing and morbid and I had to go outside. Hat guy wins again.
+Explanation[edit]
+Cueball is commenting about how he shouldn't feed the trolls, but sometimes gets provoked to the point where he can't help replying. The term Trolling is used to describe provocative, destructive, or annoying behavior on the Internet.
+Black Hat agrees and tells that he had an issue yesterday with a guy who had a serious case of the first urge. Some people have to be the first to make a comment on any given posting (be it a blog post or a YouTube video or some other commentable content) and to obnoxiously point out that they have made the first comment. This often manifests as the poster simply posting the word "First" without contributing any actual content to the discussion.
+Once again, Black Hat is thus provoked into online retaliation bordering on the sociopathic, choosing a form of retribution that doesn't necessarily break any written rules but strikes directly at the heart and/or mind of his opponent. In this case, he tells the first guy when all his childhood heroes are likely to die - this could make anyone miserable. To do this, he is using actuarial tables or life tables, which show for each age the probability that a certain person will be alive by their next birthday.
+Cueball reflects that he doesn't wish to become the target of such ire himself, but (without apparent malice on Black Hat's part...) still suffers from a piece of memetic shrapnel from the original attack - Cueball obviously loves the original Star Wars movies - and Black Hat would know this!
+In the title text, it is said how Black Hat's offensive is so effective that he appears to have caused grief even to his own author and creator, Randall, who only managed to check up on the Star Wars cast before getting too depressed. (So far, six main cast members have died: Peter Cushing (Grand Moff Tarkin) in 1994, Alec Guinness (Obi-Wan Kenobi) in 2000, Kenny Baker (English actor) (R2-D2) and Carrie Fisher (Princess Leia), both in 2016, Peter Mayhew (Chewbacca) in 2019, and finally David Prowse (Darth Vader) in 2020.)
+Randall has used this idea again in 893: 65 Years and published a 'morbid' program (the original code has been removed, but an implementation can be found on Github) that uses actuarial tables to calculate the probability that someone will die within a given time. The offense that provoked Black hat was mentioned already in 269: TCMP and then returned to in both 1019: First Post and 1258: First.
+A similar setting with Cueball and Black Hat also discussing movies appears later in 1751: Movie Folder. But then Black Hat is reading on his smartphone.
+It is possible that 494: Secretary: Part 1 and the following series are a continuation of this comic, as Black Hat's great power over even Internet trolls via his sociopathic ways would explain why he was chosen as Internet secretary.
+Transcript[edit]
+[Cueball, seated at a computer terminal, facing to the left.]
+Cueball: I know you shouldn't feed the trolls, but sometimes they just provoke me to where I can't help replying.
+[Black Hat, seated in an armchair reading a book, facing to the right]
+Black Hat: Yeah, me too. Yesterday this guy kept spamming "First!", so I got a set of actuarial tables and spent twenty minutes telling him when all his childhood heroes would likely die.
+[Cueball turns around in his chair.]
+Cueball: ...
+[Black Hat, still reading his book.]
+Cueball (off-screen): Remind me never to upset you, ever.
+Black Hat: 2038: Last of the original Star Wars cast dies.
+Cueball (off-screen): Augh!
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I have no time for searching right now, but I'm sure there is a graph comic related to this sentence: "2038: Last of the original Star Wars cast dies." BTW: please create only pages with an proper explanation. --Dgbrt (talk) 16:45, 6 June 2013 (UTC)
+
+While I'm not the guy/gal who created the page, I thought I'd supply a short explanation, to be refined as necessary. BTW, the linkies at the bottom suggest that this is a "Comic with colour", but I only see monochrome. Is this a human error, or is it an automated response to the supplied image (while being black on white, or maybe greyscale) 'officially' having a colour palette or something in its header? 178.107.63.150 23:35, 6 June 2013 (UTC)
+His choice of year 2038 could be related to the year 2038 problem. If we assume that C3PO and R2D2 run Unix, then the year 2038 would be the end of Unix time, and they would therefore die. 141.101.80.212 11:18, 14 July 2014 (UTC)
+No, Randall wrote an actual Python script to calculate these. I'd give a link, but he's since removed them from the site. He made a blog post, though.108.162.216.113 01:24, 22 June 2015 (UTC)
+Found a github copy of the script at [1]. Bronze2018 (talk) 03:18, 4 August 2016 (UTC)
+Randall called Black Hat "Hat guy" so maybe we should, too. 162.158.111.217 07:37, 24 May 2018 (UTC)
+"Hat guy" is too ambiguous, considering White Hat and Beret Guy. That said, I think it's at least noteworthy that Randall calls him this by name. I'm not sure when else he's done that, but I'm not an expert. 108.162.246.82 06:06, 7 August 2022 (UTC)
+Categories: All comicsComics from 2008Comics from OctoberFriday comicsComics featuring CueballComics featuring Black HatStar Wars

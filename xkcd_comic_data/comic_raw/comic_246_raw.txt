@@ -1,0 +1,70 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+246: Labyrinth Puzzle
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 246)
+|<< PrevComic #246 (April 9, 2007)Next >>|
+Labyrinth Puzzle
+
+Title text: And the whole setup is just a trap to capture escaping logicians. None of the doors actually lead out.
+Explanation[edit]
+This comic alludes to a famous Knights and Knaves logic puzzle, and specifically to the version featured in the Jim Henson movie Labyrinth, with two doors and two guards. One guard always lies, and the other always tells the truth. One of the doors leads to freedom, and you can only ask one guard one question. The solutions to this riddle (and there are several, though all are somewhat similar) involve a tricky question indeed. If you want to give the original puzzle a try for yourself, don't read the spoilers below.
+Solution 1: Ask one guard (it doesn't matter which one) which door the other guard would say leads out. Both guards will indicate the same door, which will be the door that doesn't lead out: the truthful guard knows the lying guard would point to the door that leads to certain death, and says so, while the lying guard, knowing the truthful guard would point to the right door, says the opposite, indicating the door to certain death.
+Solution 2: Ask one guard (it doesn't matter which one) what his answer would be if asked what door leads to freedom. Again, both guards will indicate the same door, which is indeed the door to freedom: the truth guard would, straightforwardly, tell you the truth, while the liar, if asked what door leads to freedom, would point to the opposite, and, if asked his answer, must give the opposite of that — the true door.
+Notably enough, both solutions require that the guards be aware of each other's practice regarding truth and lies, which is not stated in the riddle itself. There's another unspoken rule: that the lie is either a yes or a no. If you asked the liar something, he could lie and say, "I don't know," which would leave you with nothing.
+Black Hat added a third guard here who would stab his spear to Cueball on every tricky question. But even if the questions from before are not tricky enough to get stabbed, there would be no helpful answer. And if Cueball asks one of the other guards, the answers can't help to find the correct door. The only saving grace is that Black Hat has seemingly forgotten to impose the limit of a single question, but depending on how stab-happy the third guard is or is not, this may not be enough.
+The title text presents a typical behavior of Black Hat — no door in fact does lead out of this labyrinth. (Neither door is correct in Labyrinth, either; people paying close attention will note that since the guards themselves explain the premise, even though one of them supposedly always lies, they can't possibly be taken at face value.)
+Transcript[edit]
+[Three guards with spears stand in front of three doors. Black Hat and Cueball stand in front of the guards.]
+Black Hat: And over here we have the labyrinth guards. One always lies, one always tells the truth, and one stabs people who ask tricky questions.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+SOLUTION 2 DOES NOT WORK ONE QUESTION, NOT TWO, AND YOU DONT KNOW WHO THE LIAR IS. one answer of "this is the door" doesnt help beacuse you wont know the answer of the other guy. in which solution one will always get you the same door, and you pick the other one. solution 2 just gives you two different doors. no matter who you ask you will randomly get a door. if the guy says the truth you wont know that hes the truthfull one or not. AGAIN thruthful guy points to a door, the liar would have( if you asked him instead, OR could even ask both) pointed to the other door. again, asking that question does not give you two answers, because you. dont. know. who. the. liar. is.
+
+SOLUTION 2 DOES WORK Solution 2 does work. It IS one question. The question consists of a premise and a concluding statement "If I were to ask you ..." being the premise and "What would your answer be?" being the concluding statement of the question. You are not asking two questions. You are asking ONE question about another question. It may be a logical dodge but it is the SAME logical dodge as the first solution, except that it is asking them about themselves rather than about their brother which takes the form "If I was to ask your brother..." "what would his answer be" In many ways it's neater and more logical and does NOT require the brothers to know how the other would answer.
+Solution 1: In mathematical terms takes the form (-1) × (+1) or (+1) × (-1) the result of both being =-1 however for it to work we have to assume that the brother being asked knows what his brother would say. However, nowhere in the question is this usually stated. So we're actualy dealing with either a × (+1) or a × (-1) with a being an unknown variable which is either +1 or +1 or 0 (zero denoting that the brother doesn't actually know). This is a truer representation of the kind of answer you could expect to get from Solution 1.
+Solution 2: As you are asking them about themselves then you are multiplying by themselves in mathematical terms so either (-1)×(-1) or (+1)×(+1). Multiplying either a positive or negative by itself will result in a positive. The brother doesn't need to know what he would answer, he just needs to know what answer HE would give IF he was asked the question.
+SpiroExDeus (talk) 14:24, 19 November 2020 (UTC)
+
+Just ask which color is the sky.. -- 175.110.37.200 (talk) (please sign your comments with ~~~~)
+Oh, although the strip doesn't explicitly say so; in those riddles you can normally only ask one question. --St.nerol (talk) 23:00, 27 January 2013 (UTC)
+There's another (more traditional) three-guard variation where one guard always tells the truth, one guard always tells a lie and the third alternates between pure truth and pure lie (and you don't know which flip they're currently flopped upon). But you still only get to ask one question of one guard. Have fun with that one. My personal solution certainly has a degree of convolution, but I've heard other workable answers. 178.98.31.27 02:24, 21 June 2013 (UTC)
+I hope no-one considers this a spoiler to say but there is a trivial solution to the 3 guards problem, whether third guard is a spear handler or one that flips between truth and false hood, just try "Did you know that the pub in the village behing the freedom door is serving free beer all day, as long as their stocks last?" Then follow the guards through whichever door they use. Alternatively substitute beer for another commodity the guards may desire. 141.101.98.175 00:59, 7 November 2016 (UTC)
+@175.110.37.200, you would know which one lies but you would not know which door leads out. Tharkon (talk) 23:13, 10 October 2013 (UTC)
+Eh, well, even if you had a perfect question to ask in this case, a lot of good would that do you: it'd only reveal the truth behind the setup, that none of the doors lead out. :p -- 173.245.51.210 08:20, 8 November 2013 (UTC)
+Well yes it says that in the title-text. But good pick-up. 108.162.219.58 02:31, 6 February 2014 (UTC)
+One question, of one guard. I really like the original form of this riddle. It's a bit of a trick, though. It is crucial that the guards "know" each other's rules, but this is not even implied. And if it was stated in the question, that would probably be a good enough clue to get you to the answer. Of course, once you know the answer it seems trivial, but I wonder what percentage of people actually worked it out for themselves? Another good one is Monty Hall, even though that is pure, straightforward probability. 108.162.219.223 18:11, 17 January 2014 (UTC)
+With two guards, they wouldn't need to know each others role. If they know their own role - which they do - each can infer the role of the other. 162.158.34.137 13:01, 21 April 2016 (UTC)
+I think somebody needs a hug! 108.162.219.223 18:11, 17 January 2014 (UTC)
+The whole problem with this entire riddle is that if they are both liars you are screwed! Nothing in the riddle establishes a fact that they aren't liars. Now if there was a known truth teller in the riddle that explains the nature of the guards or the narrator does it, then the above solution works. {{unsigned ip|108.162.216.28
+As you aren't given a limit to the number of questions, you can just ask each guard if they're the stabby guard. If two say yes, the third one is the truthful guard and you can ask him which way the exit is. If two say no, the third one is the lying guard and you can ask him where the exit isn't. No tricky questions so the stabby guard shouldn't stab you.162.158.255.195 18:14, 14 August 2015 (UTC)
+I have a solution, but you need to ask multiple questions:
+If the Stab Guard tells the truth:
+Ask each guard, firstly, "Are you the Stab Guard?"
+Truth Guard will answer "No."
+Stab Guard will answer "Yes."
+Liar Guard knows the answer is no, but, because he lies, will answer "Yes."
+The one who said no is the Truth Guard, so you can ask him which door leads to freedom.
+If the Stab Guard lies:
+Point to the guard on the left, and ask each guard, "Does that guard lie?"
+If that guard is Truth Guard, then Truth Guard will answer "No," while Stab Guard and Liar Guard answer "Yes."
+If that guard is a liar, then Truth Guard will answer "Yes," while Stab Guard and Liar Guard answer "No."
+Whichever guard gives a unique answer is Truth Guard, so you can ask him which door leads to freedom. NickOfFørvania (talk) 23:37, 3 November 2015 (UTC)
+It's been solved on puzzling.stackexchange.com (given a specific definition of a tricky question): http://puzzling.stackexchange.com/questions/43092/xkcd-inspired-logic-puzzle 141.101.98.130 12:14, 24 September 2016 (UTC)
+I remember a book where the main character kicked one guard in the face and asked if it hurt. 162.158.252.137 (talk) (please sign your comments with ~~~~)
+There's another unspoken rule: That the lie is either a yes or a no. If you asked the liar something, he could lie and say, "I don't know," which would leave you with nothing. Also, as Stabby MacStabberson does not appear to have any restrictions on what he tells you (that is, he has the choice between truth or falsehood,) there's no sure way out even if he wasn't tasked with stabbing you.162.158.255.69 05:32, 30 April 2016 (UTC)
+Who said the Stab Guard has a true sense of complex? He could just stab you anytime. Dontknow (talk) 00:37, 16 March 2017 (UTC)
+What's wrong with "Are you gonna stab me?"? They'll either answer or not and stab you or not, that's around 2 bits, which seems like it should maybe help decide in a space of 3. I ask Lie, he says yes, yet doesn't stab me. I ask True, he says no, and doesn't stab me. I ask Stabby, and he says no and doesn't stab me because it's a really simple question. 108.162.216.48 16:44, 29 December 2020 (UTC) with 108.162.216.48 16:44, 29 December 2020 (UTC)
+Here's a solution, but it's quite stupid, and might not work, depending on if the guards appreciate their mothers: Just ask a random guard, point to another, and say this: "That guard told me your mom was wearing their shirt last night!" Then stand back, and let the chaos ensue.108.162.216.126 16:14, 25 November 2019 (UTC)
+"What would you say is the way out?" It doesn't seem tricky, but it's actually a meta-question. The guard knows what they would say is the way out. If the guard tells the truth, they would say the correct door. The guard tells the truth about telling the truth and says the correct door. If the guard lies, they know they would lie about what the correct door is. The guard lies about lying and says the correct door. 162.158.79.47 21:19, 3 February 2020 (UTC)
+Assuming there are three doors (as shown in the picture), at least one door leads out, and at least one door does not, the single non tricky question of "Which doors lead out?" will always yield a useful answer. For two safe doors, if two door are pointed at, they are safe. if one door is pointed at, it's deadly. If only one door is safe, it's the opposite. If there are only two doors, (as in the standard puzzle) there's nothing you can door, as any question that both the liar and the truth teller would answer identically and tells you which door to go through is a tricky question. 172.68.37.38 23:42, 2 May 2021 (UTC)
+Assuming only "door 1" leads out and I ask the liar "which doors lead out?", he may give any answer apart from "door 1", e.g. "all doors" or "doors 1 and 2" - this is not helpful. Similarily for 2 safe doors the answer to "which doors lead out?" could be a lie without of being the complete opposite of truth. (e.g. doors 1/2 lead out, liar could say 1/3 lead out - not useful) --Lupo (talk) 07:56, 3 May 2021 (UTC)
+My friend Umnikos came up with a solution for the version where the stabber acts randomly or adversarially for nontricky questions (tricky questions are those that could be used on their own to determine whether the stabber is lying, or to extract information without knowing whether someone is lying).
+Q1: "does door 1 lead to freedom?"
+Two guards will answer in one way, the third in another.
+to the third, unique guard:
+Q2: "if I asked you if door 1 lead to freedom, would you say yes?"
+Q3: "if I asked you if door 2 lead to freedom, would you say yes?"
+Q4: "if I asked you if door 3 lead to freedom, would you say yes?" AndrewTheXKCDer (talk) 18:49, 26 June 2021 (UTC)
+Categories: All comicsComics from 2007Comics from AprilMonday comicsComics featuring CueballComics featuring Black HatLogic

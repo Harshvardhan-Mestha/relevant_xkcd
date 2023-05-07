@@ -1,0 +1,53 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+221: Random Number
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 221)
+|<< PrevComic #221 (February 9, 2007)Next >>|
+Random Number
+
+Title text: RFC 1149.5 specifies 4 as the standard IEEE-vetted random number.
+Explanation[edit]
+The comic specifies a function (in a C similar syntax), which judging by its name should be designed to return a random number. Most functions of this form are random number generators, meaning that on subsequent calls they return different random numbers. But the programmer has instead implemented a function that just returns the same random number each time, which, while it could indeed have been truly randomly chosen by rolling a die as the comment documented, is essentially worthless were it ever to be called more than once (with the expectation of different, i.e., random, results). In other words, the results over time would not be random at all, but completely predictable and deterministic.
+The IEEE is the organization responsible for maintaining a number of computer standards. An RFC, or Request for Comments, is a formal document put out to computing experts by IETF in the hopes of becoming a future standard. However, RFC 1149 was an April Fools' joke, defining how carrier pigeons can be used to transmit Internet packets. "RFC 1149.5," meanwhile, simply does not exist.
+Trivia[edit]
+The well-known "helper website" (CyberChef) has a function that simulates XKCD's program.
+Esolangs.org features a challenge that requires you to rewrite the program in XKCD's comic in another programming language, as either a function or a full program that prints the "4".
+Transcript[edit]
+[A computer program.]
+int getRandomNumber()
+{
+   return 4; // chosen by fair dice roll.
+             // guaranteed to be random.
+}
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The syntax looks like perfectly valid java to me.213.64.1.189 22:00, 11 March 2013 (UTC)
+Looks like Java to me too. 139.216.242.254 (talk) (please sign your comments with ~~~~)
+Java code for this would be something like "public static int fin(){}" or just "public int fin(){}". I think the code would still compile though without the public/private part. 188.114.106.41 (talk) (please sign your comments with ~~~~)
+I know this comment is from several years ago, but I'll add this just for posterity. The "default" access modifier exists in java and is somewhere in between "private" and "protected". You can only use it by otherwise unspecifying the access modifier.108.162.215.187 16:40, 18 July 2016 (UTC)
+To keep up with the tradition to answer year old posts, the method would be "package visible", i.e. all classes in the same package can see and access this method.Kimmerin (talk) 15:18, 27 January 2022 (UTC)
+How can Java come to mind when it is pure C syntax, which predates Java by several years and is arguably better known. A feature of most languages is that they have a "C-like syntax". See, a whole page on Wikipedia - http://en.wikipedia.org/wiki/List_of_C-based_programming_languages 122.161.20.238 19:53, 22 August 2013 (UTC)
+"C-like syntax" is the best explain, this covers all. Even when I disagree that it's better known than Java these days.--Dgbrt (talk) 21:04, 22 August 2013 (UTC)
+Just to be particularly pedantic, the double slash for the comment (which is generally utilised in object oriented C-style languages) should be avoided in C to retain backwards compatibility with C89, although it's a valid construct in C99. I'd offer, too, that the lack of library inclusion suggests this isn't necessarily Java, though it's been a couple years since I've had the opportunity to code in it. Thokling (talk) 15:35, 20 September 2013 (UTC)
+Not really worth putting effort in backward compatibility for stuff a simple regex can fix:
+$ perl -pi.bak -e 's!//(.*)$!/\*$1\*/!' *.c 108.162.229.210 03:23, 5 August 2015 (UTC)
+As a proof of good joke, RFC 1149 was successfully implemented several times. -- Hkmaly (talk) 08:55, 11 May 2013 (UTC)
+Actually, a poor “random” function like “return 4;” would be quickly determined by statistical test tools (Diehard, Dieharder, etc.) to generate very poor random number. Samiam (talk) 19:55, 28 October 2013 (UTC)
+The number is random, I'm sure Randall really did this "fair dice roll". And even the name of the function is correct, it just returns a random number. A programmer would expect a random number generator, but Randall can't roll the dice all the time.--Dgbrt (talk) 21:37, 28 October 2013 (UTC)
+<<sound of crickets chirping>> 108.162.219.58 02:24, 6 February 2014 (UTC)
+Playstation 3 jailbreak reference?
+Isn't this a reference to Sony Playstation 3's random number generator function that allowed to discover the private key to 3.55 firmware? 141.101.64.23 (talk) (please sign your comments with ~~~~)
+The comic is from February 9, 2007. The 3.55 firmware was released December 7, 2010. 173.245.50.144 (talk) (please sign your comments with ~~~~)
+Maybe the 3.55 firmware implemented RFC 1149.5 --172.70.130.109 20:13, 17 August 2021 (UTC)
+This seems to have turned up in SMBC. .42 (talk) 20:00, 18 July 2016 (UTC)
+Possibly turned up in Gravity Falls. Journal 3 (book edition) states that the Infinity-Sided Die can theoretically result in any outcome, but "you'd be surprised how often you'd roll a 4." 141.101.76.46 04:18, 19 October 2018 (UTC)
+Rewatching Futurama again, I just noticed the season 2 episode "When Aliens Attack" (airdate 7 November 1999) has a throwaway line said by a news anchor: "Once again, today's winning lotto number was four." Wonder if this inspired Randall, or if 4 really is the standard random integer of our universe. 108.162.245.15 19:54, 2 July 2022 (UTC)
+--
+Unknowingly or not, this could very well be related to the gif spec. https://www.w3.org/Graphics/GIF/spec-gif89a.txt
+In the graphic control extension part of gif89A, a block size is allowed to be specified. And well... I'll just let the spec speak for itself:
+           iii) Block Size - Number of bytes in the block, after the Block
+           Size field and up to but not including the Block Terminator.  This
+           field contains the fixed value 4.
+Categories: All comicsComics from 2007Comics from FebruaryFriday comicsProgrammingComputersComics with lowercase text

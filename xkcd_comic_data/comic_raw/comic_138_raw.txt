@@ -1,0 +1,56 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+138: Pointers
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 138)
+|<< PrevComic #138 (August 7, 2006)Next >>|
+Pointers
+
+Title text: Every computer, at the unreachable memory address 0x-1, stores a secret. I found it, and it is that all humans ar—SEGMENTATION FAULT.
+Explanation[edit]
+This comic is about a play on the dual meaning of the word "pointer." Cueball is playing a video game, but he seems to be stuck. So he asks Black Hat for a few tips ("pointers") to progress in the game. Black Hat is, as usual, annoying, so he spits out a couple of (seemingly random) 32-bit hexadecimal addresses, which are "pointers" in a programming language. These pointers are used to access a certain location in the computer's memory in order to fulfill a task; however, this would not be helpful in the game. Cueball is then annoyed at Black Hat for not answering his question.
+A segmentation fault, as referred to in the title text, is a result by accessing invalid memory addresses. If you define a pointer to an invalid address, then try to access the memory location associated with it, you could end up with this exception. The hexadecimal address 0x-1 is definitely invalid, because it's out of range. If you treat pointers as signed numbers, it points below the lowest address, 0; if you treat them as unsigned (meaning the numbers wrap around, so -1 is the same as the highest address - 0xFFFFFFFF on a 32-bit system), if it's pointing at any object larger than a byte, most of that object is past the highest address. So, this is a "hidden location," but as soon as you try to read more than one byte at that location, you will get a segfault.
+The ending letters of the pointers are spelling, reading top to bottom, the word ACE. As Cueball is playing a game, Black Hat could be additionally saying that he's an ace of the game.
+Alternate Explanation[edit]
+Pointers are often used to cheat in games and do things like change the amount of money you have. The pointers Black Hat spits out could also be cheat codes giving an extra reason for Cueball to hate him.
+Transcript[edit]
+[Cueball is playing a video game, with Black Hat standing behind him.]
+Cueball: Man, I suck at this game. Can you give me a few pointers?
+Black Hat: 0x3A28213A 0x6339392C, 0x7363682E.
+Cueball: I hate you.
+Trivia[edit]
+In xkcd: Volume 0, the pointers are different, specifically 0x4B657932, 0x6F66383A, and 0x73CD4542.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Rikthoff (talk) The issue date is definitely off. Can anyone fix this?
+--done (yes, anyone can fix this.) Divad27182 (talk) 18:49, 23 February 2013 (UTC)
+Wait until he finds out they're codes for that old saving system. 21:42, 3 June 2013 (UTC)
+Or perhaps the Black Hat is answering the question but in an obscure way. The addresses might be pointing to the locations where the game keeps its important information (such as the score count or the level), so it can be cheated by changing the data at these locations.
+Ok I understand that it is etiquette not to edit other people's comments, but he wanted to underline 'is' so I did it for him :) Beanie (talk) 11:04, 17 March 2021 (UTC)
+The problem with 0x-1 is not that it's missing digits, it's that the memory in the computer is represented as a closed loop. So if you try to go back to the cell "before the first cell", you will really access the last cell, 0x-1 really equals to 0xFFFFFFFF in the 32-bit address space. Evidently, Cueball had found a way around this only it didn't quite work out. (People deeply interested in the workings of the pointers should also read about the memory protection modes and alignment requirements, both of which might interfere with reading from the address 0xFFFFFFFF.) 108.162.246.5 00:33, 28 January 2014 (UTC)
+Cueball could be playing a card game (e.g. Solitaire), and Black Hat could be telling him to play the Ace. In a rather obscure way, though. --141.101.81.225 17:46, 25 August 2014 (UTC)
+Hidden message?
+The three pointers spell, in ASCII:
+:(!:
+c99,
+Ich.
+Does this make any sense? The last line looks like German. --108.162.254.97 07:01, 8 October 2014 (UTC)
+The last one is German. It means "I". 141.101.104.88 (talk) (please sign your comments with ~~~~)
+No, you got the ASCII wrong. 73 is "s", not "I":
+:(!:
+c99,
+sch.
+Jorgbrown (talk) 19:49, 4 February 2015 (UTC)
+I think that the title text is a Matrix reference. All humans are- being kept in a dream world so that their (erm, our) comatose cadavers can be used to generate electricity? RedHatGuy68 (talk) 02:55, 18 October 2015 (UTC)
+Regarding the last letters, in the TASBot stuff I lead we often refer to the act of taking complete control of a game as an Arbitrary Code Execution, or an ACE. However, the term was somewhat obscure at the time this comic was released (TASBot content didn't become well known until 2015) so I don't think it's likely enough to put in the main explanation. 172.68.142.149 20:34, 2 November 2017 (UTC)dwangoAC
+I moved the title text explanation to the main one. Seems to make more sense that way. Dontknow (talk) 23:35, 17 April 2017 (UTC)
+The pointers are different in xkcd: Volume 0. I added that in along with a trivia section. 172.69.135.86 03:35, 9 October 2020 (UTC)
+The pointers in xkcd: Volume 0 when converter to ascii read
+Key2
+of8:
+sÍEB
+The3gs (talk) 23:33, 3 November 2020 (UTC)
+0xCD is not an ASCII character as it has the high bit. 162.158.103.136 16:47, 10 April 2022 (UTC)
+I believe the ASCII converter used didn't discard the high bit and just converted it byte by byte (I believe this is why Í appeared, given that &#205; corresponds to Í). 172.68.50.204 14:37, 8 December 2022 (UTC)
+Categories: All comicsComics from 2006Comics from AugustMonday comicsComics featuring Black HatComics featuring CueballPuns

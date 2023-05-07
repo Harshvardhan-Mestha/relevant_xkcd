@@ -1,0 +1,276 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+482: Height
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 482)
+|<< PrevComic #482 (September 29, 2008)Next >>|
+Height
+↓ Skip to explanation ↓
+
+Title text: Interestingly, on a true vertical log plot, I think the Eiffel Tower's sides would really be straight lines.
+Contents [hide] 
+1 Explanation
+1.1 Objects
+2 Transcript
+3 Trivia
+4 Discussion
+
+Explanation[edit]
+Height uses a logarithmic scale to depict the contents of the universe at progressively smaller distances from Earth (less high above the Earth), starting at the highest possible "point," the edge of the observable universe, going all the way down to the grass beneath our feet. The comic is a direct companion piece to 485: Depth, also released on a Monday the week after this one. Depth similarly uses the logarithmic scale to depict the Earth at progressively greater magnification (going "deeper" down), from Earth's surface (the grass) to the interior of a single proton.
+The very top (edge) of the observable universe is described as being 46 billion light years above the Earth. The universe is "only" about 13.8 billion years old, so the cosmic background radiation that reaches the Earth today has also only traveled 13.8 billion light years. However, during that time, the universe has expanded, so the galaxies that formed from that spot where this background radiation was emitted 13.8 billion years ago would now be 46 billion light years away. This has led to many misconceptions regarding the size, the most typical being that the radius of the observable universe is "only" 13.8 billion light years. See this video, How Do You Measure the Size of the Universe?, for a great explanation of the 46 billion light years.
+To the right of the text, Black Hat stands atop the comic, having just dropped a cat off the edge head first; he is clearly going to test if the cat will land on its feet, being a jerk per his usual character. It will take some time, though, before the cat reaches Earth....
+As one scrolls down, the depicted distances become less compressed, until arriving at the surface of Earth, all the while approaching a 1:1 scale with real-life distances. As shown in 1162: Log Scale, if Randall didn't do this, the comic would be much, MUCH longer.
+In this comic, most objects that are grounded on Earth are scaled logarithmically on the vertical axes and linearly on the horizontal axes (some are scaled linearly on both axes). Displaying objects in this manner noticeably distorts their shape; the Great Pyramid, for instance, looks not like a pyramid but like a bullet.
+Outside of the Earth's atmosphere, the objects are placed at their actual distances from Earth on the log scale, but their shapes are not subjected to the logarithmic scaling of Earth objects, instead appearing as they would be seen (otherwise, round objects like the sun would appear more egg shaped, with the flatter side facing upward). However, objects are still much larger or much smaller than they would be in real life, in order to allow them to be properly seen.
+In the title text, Randall muses on how the inwardly-curved sides of the Eiffel Tower might actually become perfectly straightened when subjected to this logarithmic distortion. Although it is shown to bulge in the comic proper, this may be a consequence of Randall's rough art style rather than any reflection of his beliefs. The actual shape of the Tower approximates an exponential curve, which would indeed give a straight line on a log scale, although it was actually designed by Gustave Eiffel to minimize wind resistance rather than to be mathematically exact (the design is so perfect that the amount the Tower sways in the wind is less than the amount it is distorted due to thermal expansion of the sunlit side).
+Objects[edit]
+All objects are sorted from bottom to top by their maximum distance from earth for objects in a solar orbit, and their current distance for others.
+Distance Object Description
+435 ×1024m Black Hat and cat Black Hat dropping a cat off the top of the comic, presumably to determine whether it will land on its feet.
+435 ×1024m Top of observable universe
+11.3 ×1024m Hubble Deep Field objects Objects of extremely distant galaxies found in a long-exposure photograph by of the Hubble telescope, 12 billion light-years away. The rightmost object is probably intended to be a quasar, schematically shown from the side.
+9.46 ×1024m One billion light years
+3.1 ×1024m Quasar A supermassive black hole at the center of some young, distant galaxies, the energy released by stuff as it falls into them makes them the brightest known objects, the black hole eventually gets too big so the huge amounts of energy can't escape, but while they're active, they outshine entire clusters of galaxies.
+2.36 ×1024m Great Attractor An unusual concentration of intergalactic mass. (It could also just be Your Mom).
+425 ×1021m Antennae Galaxies (colliding) A pair of colliding galaxies.
+23.6 ×1021m Andromeda Galaxy A sibling to our Milky Way. It is the nearest spiral galaxy to ours.
+23.6 ×1021m Holy crap lots of space There is a lot of nearly empty space between galaxies.
+9.46 ×1021m One million light years
+2.38 ×1021m Cat on a keyboard in space An internet meme featuring a picture of a cat sitting on a musical keyboard, superimposed on an image of space.
+1.56 ×1021m Magellanic Clouds These clouds are a pair of nearby dwarf galaxies.
+263 ×1018m Edge of Galaxy The edge of the Milky Way galaxy, the galaxy in which we reside.
+245 ×1018m Galactic Center The center of the Milky Way galaxy.
+61.5 ×1018m Crab Nebula Nebula are supernova remnants.
+14.2 ×1018m Horsehead Nebula A dark nebula that is part of the Orion Constellation.
+12.7 ×1018m Orion Nebula A nebula that is part of the Orion Constellation, just south of Orion's Belt.
+8.14 ×1018m Rigel The brightest star in the Orion Constellation, it is actually a triple star system known alternatively as Beta Orionis.
+6.08 ×1018m Betelgeuse The star Betelgeuse is displayed along with the location of Ford Prefect on his home planet, which orbits Betelgeuse. Ford Prefect is a fictional character from the science fiction parody The Hitchhiker's Guide to the Galaxy.
+4.20 ×1018m Pleiades The Pleiades also have a derogatory remark (for those who do not know how to recognize them), as per 66: Abusive Astronomy. This is probably because they are Randall's favorite astronomical entity as is stated at the very bottom of the about page on xkcd.
+2.90 ×1018m The Romulan Neutral Zone This marks the edge of the Star Trek Federation.
+931 ×1015m The first radio broadcast was in January 1910. Since radio waves travel at the speed of light, and this was published in September 2008, the radio waves traveled about 98.5 light years. See Contact (1997 film) for a depiction of this. This is also referenced in 1212: Interstellar Memes.
+350 ×1015m Arcturus An orange giant star that is part of the Boötes constellation.
+320 ×1015m Pollux One of the most distinct stars in the Gemini Constellation, it is large Orange Giant with an apparent visual magnitude of 1.1
+242 ×1015m The edge of Federation Sector 0-0-1 The sector of space assigned to Earth in Star Trek.
+224 ×1015m "missing WMDs" A reference to the alleged weapons of mass destruction that were used as a pretense to mobilize the world population against Iraq and start the Iraq war.
+81.3 ×1015m Sirius Also known as Alpha Canis Majoris or the Dog Star, it is actually a binary system of stars consisting of a main sequence white star and a small white dwarf.
+56.6 ×1015m Barnard's Star Barnard's Star is a very small red dwarf that is of great interest to astronomers as an achievement in the SIM (Space Interferometry Mission) to find a celestial object out of solar system that is as small as 3 earth masses.
+41.3 ×1015m Alpha Centauri Alpha Centauri is the closest star system to our planet.
+30.9 ×1015m One parsec (= 3.26 light-years).
+9.46 ×1015m One light-year.
+15.0 ×1015m Oort cloud A halo of ice balls surrounding our solar system, but missing the Kuiper belt between Neptune and the Oort cloud. The Oort cloud is only theorized to exist, with no confirmed direct observations, so Randall has written a question mark (?) next to this region of the graph.
+350 ×1012m Bupkis Yiddish for "nothing." Only a handful of objects are known to orbit between the Kuiper Belt and the Oort Cloud.
+55.0 ×1012m A comet that will destroy the Earth in late 2063. To coincide with the latest biblically-based prophesy for the end of the world.
+19.5 ×1012m Voyager 1 An early space probe. Distance correct as of 20th Nov 2014, click here to see NASA's live distance counter.
+16.7 ×1012m Pioneer 10 Listed distance is an estimate based on this information.
+17.7 ×1012m Pioneer 11 By the similarity in appearance to Pioneer 10, this unlabeled probe must be Pioneer 11. Listed distance is an estimate based on this information.
+14.5 ×1012m Eris One of a pair of Trans-Neptunian objects now classified as dwarf planets. The "All hail Discordia!" after Eris is a reference to Discordianism, a somewhat tongue-in-cheek religion based around the goddess Eris. The distance is the maximum distance from Earth.
+7.50 ×1012m Pluto One of a pair of Trans-Neptunian objects now classified as dwarf planets. Pluto was originally classified as the 9th planet of the Solar system. Many people were appalled when it was suddenly degraded to dwarf planet. Obviously Randall does not think much of these people, thus the comment: Not a planet. Neener neener. The distance is the maximum distance of Pluto from Earth.
+4.70 ×1012m Neptune Neptune is displayed here with its moons. Neptune is the eighth and final planet in our solar system.
+3.20 ×1012m Uranus Uranus is displayed here with its moons. Uranus is the seventh planet in our solar system.
+1.67 ×1012m Saturn Saturn is displayed along with its moons. One of Saturn's moons, most likely Enceladus, is labeled as a potential location to find life. Enceladus was known in 2008 to have a possible subsurface ocean and active geysers, and a paper co-authored by well-known planetary scientist Caroline Porco in Astrobiology during that year (when the comic was published) spelt out the case for searching for life there (McKay et al. 2008 "The Possible Origin and Persistence of Life on Enceladus and Detection of Biomarkers in the Plume," Astrobiology 8(5):909-919). In 2015, the Cassini probe sampled material thought to be from Enceladus' geysers, and scientists have found evidence that its subsurface ocean closely resembles a particular kind of deep sea hydrothermal environment on Earth known to harbor life.
+A more distant possibility is that Randall is referencing Saturn's largest (and much more well known moons) Titan, the only known moon to have an atmosphere and lakes. It was long predicted that there may be bodies of liquid on the surface filled with liquid methane and ethane (Titan is too cold for liquid water and life as we know it, but ethane and methane remain a liquid at those temperatures). There is some speculation that exotic forms of life based on extremely cold exotic chemistries may form in such conditions, with liquid hydrocarbons playing the role of the solvent (the role water plays in terrestrial life).
+928 ×109m Jupiter Jupiter is displayed along with its moons. One of Jupiter's moons, Europa, is labeled as a potential location to find life. Europa may be covered by a deep ocean of water found under a layer of ice many kilometers thick. Some hypothesize that life could have formed in such oceans.
+222 ×109m Asteroids The Asteroid belt contains a spaceship from Asteroids (video game)
+133 ×109m Mars Note the path, reflecting the fact that their distances from Earth vary as the planets move in their orbits with a maximum distance of 401 million km and a minimum of 54.6 million km.
+114 ×109m Venus Note the path, reflecting the fact that their distances from Earth vary as the planets move in their orbits with a maximum distance of 261 million km and a minimum of 37.7 million km.
+138 ×109m Mercury Mercury is the innermost planet in our solar system. The distance shown is the maximum distance from Earth.
+149 ×109m Sun The Sun is the star at the center of our solar system, around which the Earth and the other planets orbit.
+16.3 ×109m Discovery One The Discovery One from 2001: A Space Odyssey, referring to the quote "open the pod bay door, HAL." Also may be a reference to 375: Pod Bay Doors.
+9.43 ×109m Planet Express The spaceplane is most likely the Planet Express from Futurama, where Fry once discussed "a big heaping bowl of salt."
+400 ×106m Human Altitude Record Achieved by the team of Apollo 13 approximately 100 km higher than the remaining Apollo missions.
+384 ×106m Moon The Moon is the Earth's only natural satellite.
+90.4 ×106m Snoop Dogg A tongue-in-cheek reference to a rapper notorious for smoking marijuana, shown as having the second-highest altitude record. Someone who is taking drugs is said to be getting high.
+60.5 ×106m Space elevator A proposed method of transporting cargo or people into orbit, consisting of a large mass beyond geosynchronous orbit, a station at the geosynchronous point, a cable connecting it to the Earth, and a climber that can scale the cable. Space elevators are also seen in 697: Tensile vs. Shear Strength and 536: Space Elevators.
+42.1 ×106m Geosynchronous Orbit
+20.2 ×106m GPS Satellites GPS satellites are used for global positioning.
+3.94 ×106m Lunar Lander The quote is a reference to Contact (1997 film), where the main character Ellie Arroway after witnessing a celestial light show up close says "Poetry! They should've sent a poet."
+800 ×103m Space Junk There is a large quantity of defunct objects in orbit around the Earth. Amongst other things, this includes old satellites, rocket stages, and fragments from collisions or disintegration. Space junk is also referenced in 1242: Scary Names under the title Kessler syndrome.
+422.5 ×103m International Space Station The ISS (International Space Station) is a multinational effort to put a research vessel in space. It is currently the largest artificial object in Earth's orbit, as well as the location of the longest continuous human presence in space.
+100 ×103m The official edge of space as defined by the Kármán line.
+76.0 ×103m Meteors Meteors are chunks of rock (usually asteroids) that burn up in the atmosphere, producing the bright light associated with them. If they are large enough to hit the ground, they become meteorites, which is why Munroe labeled them only in the upper atmosphere.
+25.0 ×103m High-altitude balloons Unmanned balloons, typically filled with helium or hydrogen. The current altitude record was set in 2002 by a balloon named BU60-1 that reached 53,000m.
+16.1 ×103m 1/10 ATM = 0.1 atmosphere of pressure
+12.0 ×103m Airliners This is a typical cruising altitude of jet aircraft, equating to roughly 40,000 feet. (Aircraft altitude tends to be specified in feet rather than metres (yay!?))
+8.84 ×103m Mount Everest The Earth's highest mountain, located in the Himalayan mountain range in South Asia.
+8.00 ×103m Cory Doctorow Cory Doctorow is a recurring theme in xkcd. He was first seen in a balloon in 239: Blagofaire.
+6.34 ×103m Space Shuttle Columbia disaster The Space Shuttle Columbia and its seven-member crew were lost when it disintegrated at approximately 63,400m in 2003. This number is inconsistent with the height of the graph by a factor of 10 (probably a mistype by Randall).
+6.00 ×103m Helicopter Though the record for helicopter altitude (without payload) is 12,442m, normal flying is usually performed much lower. In the US, 6000m is into Class A airspace, which is restricted and requires flight under Instrument Flight Rules.
+6.00 ×103m Cloud Though not actually labeled, there are a couple of clouds shown. While different cloud types vary in height, 6000m is roughly in the middle of the height range for clouds in temperate regions.
+5.49 ×103m 1/2 ATM = 0.5 atmosphere of pressure
+1.78 ×103m Cueball Apparently still using Python as shown in comic 353: Python.
+800 ×100m 800 meters
+800 ×100m Burj Dubai Now known as the Burj Khalifa, it is the tallest building in the world. This was also a main feature in 1110: Click and Drag.
+500 ×100m 500 meters
+400 ×100m 400 meters
+325 ×100m Eiffel Tower A famous landmark in Paris, France.
+300 ×100m 300 meters
+200 ×100m 200 meters
+150 ×100m Kite Kite string is commonly sold in large spools; a nice thick spool will probably hold 150 meters. Kites are a recurring theme in xkcd; for instance, see 235: Kite.
+140 ×100m Great Pyramid of Giza One of the Seven Wonders of the Ancient World. It is located in Egypt.
+120 ×100m Pop fly In Baseball, a 'Pop Fly' is when the batter mis-hits the baseball, which then follows a tall arc deep into the infield where it's easy picking for the other team to catch on its way down. The highest recorded pop fly, not including those that landed in foul territory, was 172 meters.
+115 ×100m Redwood trees The tallest trees in the world. At 115.61 m (379.3 ft), Hyperion, a Coast Redwood, holds the record for the tallest tree in the world.
+100 ×100m 100 meters
+20.0 ×100m Oak While oaks may grow to be in excess of 40m in height, heights of around 20m are more typical. The person in the tree saying, "Hey, squirrels!" is a reference to 167: Nihilism.
+16.4 ×100m Tallest stilts The tallest stilts recorded by the Guinness Book of World Records (as of November 2006) were 16.4 meters, or nearly 54 feet. See also these tall stilts from 1608: Hoverboard.
+13.0 ×100m Brachiosaur A large genus of dinosaur.
+8.00 ×100m Giraffe The tallest living terrestrial animal, with fully grown adults reaching in excess of 5 m. While labeled 8m in the comic, the record for height is reported at 5.8m. Giraffes have been used by Randall for measuring heights, most prominently in the what if? High Throw.
+1.70 ×100m Folks Determining an average height of the world population is fraught with complications, but as a ballpark figure, 1.7m is fairly accurate.
+Transcript[edit]
+Top of observable universe
+[Black Hat is standing on top, throwing a black kitty down.]
+Black Cat: Mrowl!
+[Map of the universe from observable universe to Earth. Each area of item is labeled. Labels left to right, up to down:]
+(46 billion light years up)
+Hubble Deep Field Objects
+-One billion light years-
+Great Attractor
+Antennae Galaxies (colliding)
+Andromeda
+Holy crap lots of space
+-One million light years-
+Magellanic Clouds
+Edge of galaxy
+Galactic center
+Crab Nebula
+Orion Nebula
+Horsehead Nebula
+Romulan neutral zone
+The Pleiades, duh!
+Rigel
+Betelgeuse
+Ford Prefect
+[Three arrows are pointing up above three lines with the following label:]
+-Expanding shell of radio transmissions-
+[Above a dotted line:]
+Edge of federation sector 0-0-1
+Pollux
+Arcturus
+Missing WMDs
+Sirius
+Barnard's Star
+Alpha Centauri
+-One parsec-
+-One light year-
+Oort Cloud (?)
+Bupkis
+Comet which will destroy Earth in late 2063
+Pioneer 10
+Voyager I
+Eris (All hail Discordia!)
+Pluto (Not a planet. Neener neener.)
+Neptune
+Uranus
+Saturn
+[Two arrows point to two moons, one next to each of the planets above and below.]
+<-- Life -->
+Jupiter
+Asteroids
+Mars
+Venus
+Sun
+Mercury
+Spaceship Planet Express: Hey, a heaping bowl of salt!
+Spaceship Discovery One: Open the fridge door, Hal.
+Moon
+Human altitude record (Apollo 13)
+2nd place: Snoop Dogg
+Space elevator - One of these days, promise!
+Geosynchronous Orbit
+GPS satellites
+Lunar lander: In retrospect, they shouldn't have sent a poet. I have no idea how to land.
+International Space Station
+Space junk
+-Official edge of space (100 km)-
+Meteors
+-1/10 ATM-
+High altitude balloons
+Airliners
+Shuttle Columbia lost
+-1/2 ATM-
+Cory Doctrow
+Everest
+Helicopters (6000 m)
+Cueball: Woo Python!
+[A vertical scale is drawn along the right side of the picture, starting at 1 km and getting progressivly smaller and smaller.]
+1 km
+-800 m-
+Burj Dubai (~800 m)
+500
+400
+Eiffel Tower (325 m)
+200
+Kites
+Great Pyramid (140 m)
+Pop fly
+Redwood (115 m)
+100m
+Oak (20 m)
+A person in the oak: Hey squirrels!
+Tallest stilts
+Brachiosaur (13 m)
+Giraffe (8 m)
+[Megan and Cueball holding the kite are labeled:]
+Folks
+The observable universe, from top to bottom
+~On a log scale~
+Sizes are not to scale, but heights above the Earth's surface are accurate on a log scale. (That is, each step up is double the height.)
+Trivia[edit]
+A print version of this comic is available in the xkcd store.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Are you sure it reads "missing winds"? It looks like "missing WMDs" to me, which would suggest a political reference to the US engagement of 2003 in Iraq. 109.40.138.109 02:48, 22 May 2013 (UTC)
+Yeah. Agreed. Changed. PinkAmpersand (talk) 11:23, 23 May 2013 (UTC)
+"The comic starts with Black Hat throwing a cat off the edge of the universe, probably a reference to Schrodinger's cat" 
+Has the editor here never heard of the "cats always land on their feet" myth? Black Hat would appear to be testing this from the extreme. Anonymous 01:43, 4 December 2013 (UTC) (and yes, that would be WMDs)
+If I am not mistaken, this is a wiki; there is no set editor. If you have a suggestion for how to improve a page, it would be apt to edit it yourself. The discussion tends to be a forum for matters that may be tangentially related to the comic, or uncertain suggestions for improving the article. Davidy²²[talk] 03:18, 4 December 2013 (UTC)
+Sorry, I wasn't aware of the proper terminology. I'll add my line shortly. Anonymous 05:13, 13 December 2013 (UTC)
+Why is there a "(?)" in "Oort Cloud"? 108.162.212.196 02:10, 15 December 2013 (UTC)
+Because it's not known if this cloud really does exist. Many objects are assumed to be there at that vast distance to the sun, but that distance is also the reason they could not be detected from earth. Voyager 1, the farthest humanmade object from Earth, will reach that region in many thousand years. --Dgbrt (talk) 21:37, 15 December 2013 (UTC)
+I think this is a very important point, and have added this to the Objects table entry for Oort cloud. Redbelly98 (talk) 20:21, 21 July 2018 (UTC)
+Why is Snoop Dogg in space? 108.162.219.223 (talk) (please sign your comments with ~~~~)
+Because he's high as shit, man--he's so high, he's the second-furthest any person's ever been from the earth. 108.162.216.76 10:12, 6 February 2014 (UTC)
+Diameter of milky way: 100 - 120 kly (Lets call it 110 kly)
+Suns distance to galactic centre: 27.2 kly
+Distance to edge of galaxy: (0.5*110)-27.2 = 27.8 kly = 263E18
+
+Is my understanding and maths right? --Pudder (talk) 08:08, 11 September 2014 (UTC)
+Conversion of pixels to height
+Because it is a log graph for the y axis
+heightfinal = heightinitial * factor
+pixels = Logbase(height)
+Using identities to show that a vertical distance on this graph represents a multiplicative change in true distance from the starting point of measure, and that a vertical change (delta) in the same number of pixels represents a corresponding multiplicative factor on total height.
+pixelsfinal = Logbase(heightinitial * factor) = Logbase(initial) + Logbase(factor)
+pixelsfinal - pixelsinitial = Logbase(factor) = pixelsdelta
+Solving for the factor and the base of the log function
+factor = basepixelsdelta
+base = factor1/pixelsdelta
+From the diagram it appears that a change (delta) of 550 pixels represents a change of x*1000000 therefore we can determine the base and determine the multiplicative factor for any change in pixels in the original drawing.
+base = 10000001/550 
+factor = (10000001/550)pixelsdelta = 1000000pixelsdelta/550
+Therefore:
+heightfinal = heightinitial * 1000000pixelsdelta/550
+The above can be used as an equation to estimate and validate the heights on the diagram, where heightinitial is the height of the reference point in meters, pixelsdelta is the vertical change in pixels on the diagram, and is positive if height increases and negative if height decreases.
+108.162.216.149 12:40, 30 September 2014 (UTC)
+We just need to be careful that the existing heights (which in most cases have been fairly thoroughly researched) are not replaced by heights determined by their 'pixel position'. --Pudder (talk) 11:16, 1 October 2014 (UTC)
+Wrong, the explanation is intended to explain the comic not the real world. Before you get excited though let me explain, we may be on the same page.
+Many height values can be determined from external research, and can be shown to be consistent with the graph (e.g. center of the galaxy). In these cases the researched number should be used in the height column, as clearly these numbers represent the authors intent.
+There or other cases where the height is labeled. These should always be used as height, as these numbers represent the authors intent. If they are inconsistent with the scale of the graph this should be noted in the description.
+There are other cases, such as where the space shuttle disintegrated, where we can research the numbers, but they are inconstant with the graph by more than an order of magnitude. Any large inconsistencies should be noted in the description, but in these cases the graph position, not the actual position should be in the height column, because this is the closest representation we can have to authors intent.
+108.162.216.106 11:50, 1 October 2014 (UTC)
+Completely agree with the basis that authors intent is priority, and with pretty much everything written above. What I was concerned about was the possibility of someone indiscriminately changing existing height values based solely on its pixel position, with no cross-checking against the real world height. I would venture that the heights of the real items on the graph are intended by Randall to be at their correct positions, but there may be exceptions. I have a personal bias here, in that I spent quite considerable time doing research on many of the heights. That said, I don't in any way expect the height entries I worked on to be taken as correct, simply that there is some degree of reasoning behind the existing heights, and to change them without checking any discrepancies would be reckless. --Pudder (talk) 12:48, 1 October 2014 (UTC)
+The Bodes Law ratio of one planet to the next but one is:
+Pi^(9/4Pi): 20Pi^(3/2Pi)
+thus rendering:
+Mercury : Mars
+Venus: Jupiter
+Earth : Saturn
+Mars : Uranus
+Asteroids : Neptune
+Not that the inner asteroids appear between Mars and Jupiter on the right hand column.
+I used Google News BEFORE it was clickbait (talk) 01:09, 31 January 2015 (UTC)
+I think the "pulsar" at the top right might actually be a quasar (an active galaxy). They certainly are distant objects, so someone more versed with the wiki may want to have a look. 141.101.99.123 20:10, 14 April 2015 (UTC)
+108.162.229.129 15:00, 18 August 2015 (UTC)
+Randall is stating that this is the longest distance that a ray of light has ever traveled to reach Earth, which implies that the universe is about 46 billion years old
+Never hear of the expanding space? 108.162.229.129 15:00, 18 August 2015 (UTC)
+Categories: All comicsComics from 2008Comics from SeptemberMonday comicsLinks to xkcd.comChartsLarge drawingsIllustrations of scaleComics with inverted brightnessComics featuring Black HatComics featuring Cory DoctorowComics featuring CueballComics featuring MeganSpace probesAstronomySpaceElevatorsBaseballAnimalsDinosaursGiraffesSquirrelsProgrammingKitesStar TrekComics with xkcd store products

@@ -1,0 +1,31 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+340: Fight
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 340)
+|<< PrevComic #340 (November 9, 2007)Next >>|
+Fight
+
+Title text: And she put sweet nothings in all my .conf files. It'll take me forever to get X working again.
+Explanation[edit]
+The boot sector of a hard drive is where the information for operating systems is stored. It tells the computer to load a program; in most cases, this is an operating system. If this sector is overwritten, an operating system stored on the drive can't be booted into. (Fortunately, repairing a blanked or corrupted boot sector is surprisingly easy, although doing so usually requires the system to be booted from the installation media for the operating system on the drive.)
+The first two panels indicate that Megan is still mad at Cueball from a fight from the night before, and the third panel shows promise of her forgiving him through an overly affectionate love note. However, the last panel reveals that she used the love note to overwrite the boot sector of Cueball's computer out of anger.
+The .conf files of Linux- and Unix-based systems are text based files where all the settings for various applications are stored. Since all the configurations were replaced with "sweet nothings" - whispered lovers' talk, or literal nothings (blank space or meaningless jumbles of characters) - none of the programs work as they should. X is the X Window System, the most common GUI framework used on modern Linux and Unix systems. Once upon a time, it was notoriously hard to configure correctly, even when starting from a known good configuration, let alone a destroyed one. (More recent versions of X configure themselves correctly for most users without a .conf file.)
+Transcript[edit]
+We had a fight last night.
+[Cueball is sitting in a sofa, head in both hands, feeling upset.]
+I guess she's still mad.
+[Megan is standing with arms crossed in front of her chest, with the same mood.]
+I woke up to find she'd written a sappy love note
+[Cueball is standing in front of a computer, with a cup in his hand.]
+to my boot sector.
+[The cup now lies on the floor, Cueball is looking at the computer with disbelief.]
+Computer: Operating system not found
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+"Notoriously hard"[Citation needed]. /s 173.245.55.67 19:51, 26 March 2014 (UTC)BK201.
+I've been using Linux since 1992. It was a pain in the ass to config the boot loader, way back in the day. Originally you had to configure LILO by hand, after rawwriting the eleven install floppies. And the only window manager for X (14 more floppies) was Tiny Window Manager, uphill both ways in the snow. —Kazvorpal (talk) 04:34, 10 November 2019 (UTC)
+Is this still an issue with UEFI boot? as long as the EFI Partition is valid I could write whatever I wanted to my lover's boot sector. 162.158.114.28 11:04, 7 June 2018 (UTC)
+Just so long as you don't overwrite their LUKS header ... ask me how I know :( 172.69.34.146 01:14, 5 May 2023 (UTC)
+Categories: All comicsComics from 2007Comics from NovemberFriday comicsComics featuring CueballComics featuring MeganRomanceLinux

@@ -1,0 +1,45 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+156: Commented
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 156)
+|<< PrevComic #156 (September 13, 2006)Next >>|
+Commented
+
+Title text: Your IDE's color may vary.
+Explanation[edit]
+When Cueball asks Black Hat for a favor, he seems to be making a rude gesture, by lifting a finger towards Cueball. However, the word he says, Commented!, does not seem to fit with the shorter four letter word usually combined with such a gesture.
+Cueball also fails to understand this, but as it turns out, as the panels move around Black Hat and zooms in on his fingers, he is not making this rude gesture, but is instead actually lifting two fingers toward Cueball, forming a double slash and thereby ignoring both him and his question for a favor, by commenting him out programming style, even to the point where Black Hat sees the commenting out slashes, Cueball, and anything he says in the color for ignored parts of the program (or real world in this case).
+In certain programming languages (including but not limited to C (since C99), C++, C#, Java, Javascript, PHP, and Scala), inserting a double slash (//) in a line marks everything after the double slash in the line as a "comment," i.e. something for humans to read that generally helps them understand the code better, rather than something for the computer to execute. Since all comment lines are ignored when a program is run or compiled, it is possible to simply put a double slash in front of any line of code to skip that line. This is known as "commenting out" the line. For example:
+printf("This line of code will be compiled and executed.");
+//printf("This line of code will be ignored, because it has been 'commented-out' by the two slashes.");
+An Integrated Development Environment (IDE for short) is an application that programmers use to write, compile, execute, and debug code. Many IDEs color-code text to make reading the code easier. In IDEs like Eclipse and Microsoft Visual Studio, a line that is commented out will be colored green; however, the color may vary depending on which IDE you use, and can usually also be customized. The title text refers to this variation among IDEs' color schemes.
+Transcript[edit]
+[Cueball calls out to and Black Hat while they are some distance apart as seen from the side. Black Hat is holding an arm out towards Cueball making a gesture and speaking one word.]
+Cueball: Hey, can you do me a favor?
+Black Hat: Commented!
+[The same setting seen from behind Black Hat with Cueball drawn much smaller in the background.]
+Cueball: Huh?
+[Black Hat's hand is shown in close up. He is holding his first and second fingers parallel and at an angle towards the "small" Cueball to the left of the hand. The two fingers, as well as Cueball and his next line, are green.]
+Cueball: Wait, what does that gesture even mean?
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The issue date on this comic isn't filled. Can someone fix that by adding the correct issue date? Rikthoff (talk) 17:17, 3 August 2012 (EDT)
+In the first two panels, it looks like he's flicking the guy off. It's not until the third panel that we actually see the subversion. I'm reasonably certain that this is intentional. 108.162.238.117 02:34, 31 October 2013 (UTC)
+In QtCreator, comments are dark blue. Kaa-ching (talk) 08:32, 31 October 2013 (UTC)
+I'm surprised that no-one has picked up on the fact that the text that is being commented out is multiple lines, but there is only one double slash, therefore only one of the lines can be commented out. For both to be commented, you'd need /* ... */ --141.101.99.218 09:03, 6 November 2013 (UTC)
+No, it's a single line that's wrapped. The double slash works fine in that circumstance, in real code. — Kazvorpal (talk) 04:34, 30 September 2019 (UTC)
+My thoughts about this is the slashes (fingers) are physical objects so therefor travel through time with the speaker. so this is effectively commenting out each word one by one as the sentence is spoken. 141.101.99.10 11:36, 21 September 2022 (UTC)
+I think the prior comment has it. While 'life' may wrap the spoken line (in our POV, how it fits into the given comic-frame), it was not spoken (like the line may be typed) with a verbal linefeed-equivalent, and so the in-universe markup is applicable to the end.
+The //s don't seem to apply retrospectively upon the initial words* and no reason to assume persistant upon arbitrary appearance of future words.
+* - Some possibility that it works only from the POV of the symbol-caster, as seen in the final frame. Whilstsoever he positions the 'marks' in his own personal field-of-view, he gets a Head-Up-Display (which may normally display him supratitles, even without hue-changes?) altered accordingly, invisible to anyone not him, or viewing 'from-out-of-universe close-over-the-shoulder' like we do here.
+But I could understand any number of rival visualisation tropes applying here, consistant with the one brief example we see depicted. (For one thing, it covers the 'embedded image', probably instantiated as a glyph within the 'environment' he views, that is the speaker and his speach-line.) 172.70.86.26 12:21, 21 September 2022 (UTC)
+The title text may also be a reference to the "Your milage may vary." commonly found in the fine print in car commercials. 108.162.216.19 22:28, 6 November 2013 (UTC)
+I believe he's commenting out Cueball entirely, thus ignoring him and therefore any and all statements he may make. Notice in the last panel that it's not Cueball's question alone that is color-coded, but Cueball as well. 108.162.238.8 (talk) (please sign your comments with ~~~~)
+I also interpreted it as Black Hat explicitly painting his fingers green in order to utilize the comment power of the double slashes as opposed to them turning green due to the gesture.Flewk (talk) 10:52, 25 December 2015 (UTC)
+So how did he then paint Cueball green? I think it is how Black Hat sees Cueball, i.e. he doesn't. Kynde (talk) 15:09, 10 May 2016 (UTC)
+Comments don't silence, they just switch the mode from 'interaction required' to metadata, which may even persist. Or...Black Hat may consider it a 'favor' to give Cueball's life color... Elvenivle (talk)
+I use python, so this is a comment. But, it's still possible to do with fingers! SilverMagpie (talk) 04:10, 24 May 2018 (UTC)
+This is not python so your comment looks different here. And please NEVER edit former comments done by other people! --Dgbrt (talk) 15:37, 24 May 2018 (UTC)
+Categories: All comicsComics from 2006Comics from SeptemberWednesday comicsComics with colorComics featuring Black HatComics featuring CueballProgramming

@@ -1,0 +1,115 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+388: Fuck Grapefruit
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 388)
+|<< PrevComic #388 (February 25, 2008)Next >>|
+Fuck Grapefruit
+
+Title text: Coconuts are so far down to the left they couldn't be fit on the chart. Ever spent half an hour trying to open a coconut with a rock? Fuck coconuts.
+Explanation[edit]
+This comic consists of a chart where Randall has plotted fruits according to two criteria: ease/difficulty to eat on the horizontal axis and tastiness on the vertical axis. The Y-axis goes from "tasty" at the top to "untasty" at the bottom. The X-axis goes from "easy" on the right to "difficult" on the left.
+For instance, pineapples are deemed fairly tasty but very difficult to eat, whereas (seeded) grapes are very tasty and somewhat easy, and logically seedless grapes are roughly equally tasty but easier to eat.
+Obviously, being easy to eat is preferable to being difficult, and being tasty is preferable to being untasty, so the "best" fruits (regarding these two aspects only) are in the top-right corner, and the worst in the bottom-left; additionally, in the top-left corner are the "difficult-but-worthy" fruits, and in the bottom-right one, the "not-very-tasty-but-at-least-they're-easy-to-eat" ones.
+The individual ratings of each fruit are subjective -- very obviously in the case of tastiness, and more subtly for difficulty. Randall does not explain his criteria for ranking the difficulty of each fruit, and it is likely based on only personal experiences. Someone who has grown up in an area where pineapples are plentiful is likely to be more adept at skillfully preparing them. The discrepancies between how Randall has rated certain fruits and how others believe they should have been rated caused a surprising level of controversy. Nine years later, a comic about the best tasting foods 1811: Best-Tasting Colors was released, which also generated a lot of discussion. That comic indicated that Randall had changed his taste over the years. Later, Randall suggests using a 1949: Fruit Collider to create a pineapple with apple skin, thus combining tastiness with ease to eat.
+According to the chart, Grapefruit is the third hardest fruit to eat, as well as the second least tasty fruit (from the ones listed at least). Eating one of them is like spending too much of one's time and energy without much reward. Hence Randall's quip in the title: "Fuck grapefruit."
+In the title text, Randall mentions coconuts. Randall mentions that he would have to put them so far down to the left on the chart (not far down, just far down towards the left), that they would not fit in this chart. He thus states that it is so much more difficult to eat (especially to open) coconuts than the usual mainstream fruits such as the ones plotted here. If he did include coconuts in the chart, the rest of the fruits would all be pushed to the right side of the chart. He does not say that he does not like to eat the fruit. (Although it has "nut" in its name, the coconut is actually a stone fruit and thus belongs on a chart of fruit.) Having spent half an hour trying (in vain?) to open a coconut, Randall also only has one thing to say about them: "Fuck coconuts." However, harvesting just the "milk" is pretty easy, as you can poke a sturdy stick or metal pole into one of three spots located on the coconut. These spots are lighter and slightly indented from the rest of the coconut and form a triangle shape.
+A similar problem is later displayed in a small scatter plot of the capabilities vs cuteness of Mars Rovers in 2433: Mars Rovers. The plot has 3 types of rovers (5 rovers, but two times two are very similar). But far outside the plot to the right is a very cute rover, that did not fit inside the actual plots axis. Of course in this case it actually possible to draw them all, and the X-axis could have been drawn longer to include the last rover! But it is made like this to make a point, that is similar to the one made in the title text of this comic.
+In 1701: Speed and Danger, another scatter plot shows exactly what happens when one point is inserted into such a plot if it is far removed from all the other points, in this case even on both axes.
+Note that Randall uses similar diagrams in both 1242: Scary Names, 1501: Mysteries and 2466: In Your Classroom, which also contain different items. The first two also have an extra point, and the last two extra points mentioned in the title text. Only the first and the lasts comics points are also off the chart, whereas for the second the description of the point is too long to fit on the chart. Extra info outside the chart is also used in the title text of 1785: Wifi, but this is a line graph.
+Table[edit]
+The table below lists approximate coordinates for each fruit using a scale of -100% (untasty/difficult) to 100% (tasty/easy). The coordinates are based on the included fruits, any new items added outside the current range (e.g. Coconuts) would cause the scales to be reassigned, and thus change the coordinate values of existing items.
+The coordinates have been found by measuring each fruit from the center of the drawing (not the center of mass, but center from left to right/top to bottom) to the two axes. The axes are hand drawn, which is clearly visible. The numbers have been obtained by measuring to the nearest point of each axis, not taking into account that the axes are not perfect straight perpendicular lines.
+Tastiness Easiness Fruit Comments
+100% 68% Peaches Among Randall's favorite fruits, as it is the one deemed most tasty, and it is far tastier than the four fruits that are deemed easier to eat. While it does contain a stone/pit that may be annoying due to the disposal of the sticky remains, it's large enough to eat around, and Randall apparently sees it not to be that big a problem in the long run. In 1949: Fruit Collider, Randall has also shown his love for peaches, with "watermelon sized" peaches appearing.
+85% 13% Seeded grapes Randall apparently subscribes to the theory that seeded grapes are tastier than unseeded grapes due to higher genetic diversity, but are harder to eat because of the seeds.
+75% 75% Strawberries Actually not a berry but an accessory fruit, like many of the other fruits on the chart.
+72% 100% Seedless grapes Randall apparently subscribes to the theory that seeded grapes are tastier than unseeded grapes due to higher genetic diversity, but are harder to eat because of the seeds.
+68% -100% Pineapples Requires a knife to prepare and can be tricky to dissect without wasting a lot of the fruit.
+58% 87% Blueberries Usually not listed as a fruit but as a berry, although this is still a type of fruit.
+38% 42% Cherries Containing a stone/pit that may be annoying due to the disposal of the sticky remains and taking care not to swallow them.
+37% 66% Pears Most people will not eat the core of the pear and is thus left with some sticky part that needs to be disposed of.
+22% 79% Green apples Most people will not eat the apple core and is thus left with some sticky part that needs to be disposed of.
+17% 59% Plums Containing a stone/pit that may be annoying due to the disposal of the sticky remains and taking care not to swallow them.
+15% -20% Watermelons Surprisingly considered by Randall to be easier than oranges, which are fairly easy to peel. A watermelon is larger, so the effort to reward ratio is better, but this shouldn't affect its 'ease of eating' position. On the other hand, it is easy to cut a watermelon into edible pieces. You cannot cut an orange like this. They can sometimes be very difficult to peel, and you will get very sticky when trying. This can be avoided with the watermelon.
+-12% 79% Red apples Most people will not eat the apple core and is thus left with some sticky part that need to be disposed. Green apples are shown as tastier than red may partially be because in his "What If?" book, Randall mentions a specific dislike of "red delicious" apples.
+-18% 16% Bananas The only fruit with a skin that requires peeling with a positive value on the X-axis, likely because it has a nub on the top that makes it far easier to remove than other peeling-required fruits. However, it is likely due to this reason that it is not very far along the X-axis, since ultimately one still has to do some preparation to eat it, unlike all the other fruits on the positive X-axis end. Alternatively, the stringy pith that some people refuse to eat and thus have to pick off also holds it back from being deemed easy to eat. The difficulty could also relate to the different opinion of which end to open bananas in, which was the subject of the much later 1982: Evangelism, especially in the title text.
+-20% -85% Pomegranates Pomegranates have a very large number of tart, juice-filled arils surrounded in inedible pith and a fairly tough skin. Retrieving the arils is notoriously messy.
+-46% -49% Oranges Considered more difficult than lemons, perhaps due to the layer of pith that is rarely encountered when preparing lemons.
+-74% 26% Tomatoes The culinary arts, nutritional sciences, and United States tax and customs regulations all treat tomatoes as a vegetable, mostly due to its taste. In the botanical sense, however, it is actually a fruit (specifically, a berry).
+-86% -75% Grapefruit Grapefruits are seldom simply peeled and eaten by hand, due to their thick skin and the tough, chewy interior walls separating the segments. The conventional way to eat them is by cutting them in half equatorially and digging out the fleshy segments with a spoon (preferably a specialized "grapefruit spoon" with a serrated tip); some also prepare the grapefruit before eating by using a knife to separate the segments from the walls. The flesh also has a notable bitterness to it, in contrast to many of the other fruits on the graph (sometimes balanced by adding sugar or honey, albeit this adds another step to the preparation involved). Randall appears to find this bitterness unappetizing, and this, combined with the laboriousness involved, leads him to have great contempt for the fruit. Hence, "fuck grapefruit."
+-100% -15% Lemons Considered easier than oranges, perhaps due to the layer of pith that is rarely encountered when preparing lemons. Very untasty in and of themselves; lemons are a common baking ingredient, but are so sour they are rarely eaten as a fruit.
+Unknown Off Chart Coconuts Coconuts are incredibly difficult to open due to their hard outer shell. It is unclear what stance Randall has on the taste of Coconuts.
+Transcript[edit]
+[An X-Y scatter plot of fruit where both axes have arrows in both ends. At the end of each arrow is a label.]
+[The X-axis from left to right:]
+Difficult
+Easy
+[The Y-axis from top to bottom:]
+Tasty
+Untasty
+[The fruit names are listed here below from top to bottom according to the how tasty the fruit is, not necessarily in the same order that the names are written if one fruit is tall/large and the other low:]
+Peaches
+Seeded grapes
+Strawberries
+Seedless grapes
+Pineapples
+Blueberries
+Cherries
+Pears
+Green apples
+Plums
+Watermelons
+Red apples
+Bananas
+Pomegranates
+Oranges
+Tomatoes
+Grapefruit
+Lemons
+Trivia[edit]
+Controversy[edit]
+As evident from the above section, and according to FRUIT OPINIONS! on the Blag, this was the most controversial comic written to this point, beating out comics about cunnilingus, the Obama endorsement, and my making 4chan tiny on the map of online communities.
+Cunnilingus see 136: Science Fair.
+The Obama endorsement See Politics also from the Blag.
+The only comic mentioning Obama before this comic was 360: Writers Strike.
+4chan is tiny on the map of the internet called 256: Online Communities. (See the small island to the far right - left of "dragons" in the sentence Here there be anthropomorphic dragons.)
+Not to be confused with the comic that is actually named 195: Map of the Internet.
+A later food taste comic 1811: Best-Tasting Colors also generated a lot of talk on these pages (see more about it below).
+Similarly the talk page for 1534: Beer was also used a lot because Randall said he did not like beer.
+So it seems that food is almost as sensitive as politics, although Randall's endorsement of Hillary Clinton in 1756: I'm With Her the day before the presidential election in 2016 where Donald Trump won, seems to have generated even more talk here than any food related comic.
+Change of taste[edit]
+Later, in 1811: Best-Tasting Colors, Randall once again rates food taste in general, but this time based on the color of the food. So not just fruit and nothing about how easy it is to eat. There are, however, several of the fruits from this chart included, but not grapefruit. Instead, purple grapes is rated as the worst fruit on the chart with less than 1.5 on a scale from 1-9. This is interesting, as he did not include those in this chart, but has rated green/white grapes very high in tastiness. It seems like he has altered his taste over the nine years between releases, since lemon, which was the worst taste on this chart, has moved up to 3/9 while Oranges have moved further down to a 2/9. Watermelon is also included (both for pink and green) with 6/9 making it seem better than in this chart. Green apples has also moved almost to the top with nearly 8/9 vs. only just above 50% here. Finally, there is cherry (as good as the apple) and strawberry (8.5/9), which fits here for strawberry, but it seems like cherries has moved up a notch. Three fruits not included here are Lime (as lemon), and red and blue raspberries (5.5/9). But it turns out that the worst taste for Randall is not grape, but licorice at 1/9, with both popcorn and coffee worse than grape at about 1.5/9 . The best is cotton candy, which beats strawberry by a nose.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Why are seeded grapes deemed more tasty than seedless grapes? Them seeds taste awful and bitter when you accidentally bite into them. Davidy22 (talk) 12:22, 14 October 2012 (UTC)
+This is just my subjective opinion, but the presence of seeds wouldn't affect the tasty-untasty axis, but the difficulty axis. The actual fruit tastes the same, but having to remove the seeds is an issue of eating the fruit. That said, not sure why they're HIGHER on the tasty axis. 162.158.165.166
+Yeah! And red apples are clearly more tasty than green (unless you're using them for cooking), and bananas are the tastiest fruit ever! In other words, it's all subjective. (You might argue that the seeds add to the flavour, much like a small amout of fat in meat; obviously the fact that they're less easy implies pulling all the seeds out first to make sure you don't bite one.) 94.0.161.247 10:34, 28 November 2012 (UTC)
+Seedless grapes (and seedless versions of other fruits) are often considered to be slightly less tasty than their seeded counterparts because a compromise was made: putting all efforts toward being tasty and easy to grow, versus dividing the effort between those and making them seedless. Additionally, some seedless fruits (including certain brands or breeds) are simply less mature versions of their seedless equivalent (this is part of why some bunches of seedless grapes have seeds in many of the fruits, albeit smaller and/or fewer seeds than the seeded equivalent). It's also possible that the y-axis difference between the two was unintentional, but there's enough of a difference that I'm strongly in favor of interpreting it as intentional. JET73L (talk) 17:34, 8 February 2013 (UTC)
+I disagree with the placement of bananas and pears. They are both really easy and reasonably tasty (although taste is a matter of personal preference).75.69.96.225 21:54, 11 March 2013 (UTC)
+Problem is, pomegranates burn calories instead of adding to them. Unless you get pre-picked. There should be a third axis, but alas, with a webcomic, it is not possible. 108.162.216.45 (talk) (please sign your comments with ~~~~)
+Fyi to open a coconut, do not smash a rock against the coconut, smash the coconut against the rock! 193.188.240.138 14:30, 26 July 2013 (UTC)
+A rock? Is this a deserted island scenario you're describing? Most households have something called a hammer. Tharkon (talk) 03:24, 23 November 2013 (UTC)
+A hammer? Is this a woodwork shed scenario? ;) A professional coconut opener uses one or two strokes from the blunt side of a machete on the equator of the coconut. I still agree with Randall on the difficulty, though. More specialized equipment is neeeded to separate the copra. And it's not tasty either.Mumiemonstret (talk) 09:05, 17 June 2014 (UTC)
+Not unless you eat an Almond Joy! ...Unless you're allergic to nuts that is. In that case, you might never get to try an Almond Joy. (Dang it... now I want one. xD) --JayRulesXKCD (talk) 15:04, 15 September 2016 (UTC)
+Mounds bar--173.245.48.89 03:48, 11 October 2016 (UTC)
+Well, yes, there's that. The only problem = same with the "beer" comic, dark chocolate isn't that good. Should it be safe to just say we're pretending to like it? Because everyone I know (including me) think it doesn't taste good. --JayRulesXKCD (talk) 11:12, 11 October 2016 (UTC)
+I can only conclude that you've never had good dark chocolate. Dove & Godiva are crap. Lindt is barely tolerable. Chocolove is good, but even then I personally don't go much above the minimum 70% cocoa content necessary to qualify as dark chocolate... I find their 73% very tasty, & their Sea Salt & Almond is so good it's often sold out all over. (Note that bars with almonds &\or cherries are only rated as 55% cocoa or so, because they have almonds &\or cherries in them! They're still not milk chocolate.) Milk chocolate can be good, sure: Even though I can't understand how Hershey wins international competitions, I do enjoy it melted. Melted milk chocolate is awesome. The thing about dark chocolate is that it can be not only tasty, but therapeutic. Lack of clinical studies aside, any chocoholic can tell you that a good dose of dark chocolate can dramatically stimulate one's mental state. I don't know that I'd call it "good for you"; more like "addictive"... but I definitely enjoy the taste of a good dark chocolate more than most "good" milk chocolates.
+ProphetZarquon (talk) 22:01, 17 April 2020 (UTC)
+Is there a program do make charts looking like these? With the little pictures in the chart. RecentlyChanged (talk) 13:26, 26 November 2013 (UTC)
+Yes. The program is called "Paper and Pencil; and something to color them."SarcasticMoe (talk) 25:61, 26 November 2013 (UTC)
+The transcript needs fixing. It is currently inaccurate in places, like, for example, strawberries in the comic are placed below seeded grapes on the tastiness axis, but the transcript says that strawberries are tastier than seeded grapes. Also, the transcript is missing seedless grapes. 108.162.216.45 03:48, 23 December 2013 (UTC)
+I have changed the transcrip so that the explanation part is removed. And this part I have now added as a table and in this corrected the numbers so strawberries and grapes are in the correct order etc. At the same time I made many other corrections and improvements for the entire explanation. --Kynde (talk) 10:22, 12 January 2015 (UTC)
+While I disagree with the rating in tastyness... Then it is true that bananas is more difficult to start eating than fruit without peel - like pears. However, bananas are very easy to peel! And you do not get sticky as with a fresh pear. I thus think it is easier to eat bananas than pears because of that.Kynde (talk) 07:30, 29 March 2014 (UTC)
+It's all subjective anyway. I, for example consider bananas to be more tasty than pears. Tharkon (talk) 20:09, 8 August 2014 (UTC)
+The problem with bananas which adds to their difficulty is that you have a rather large peel. You can't get away with just tossing your peel anywhere, too. Someone might slip on them. 173.245.48.181 19:58, 7 January 2015 (UTC)
+I can't believe nobody has stuck up for the deliciousness of by far the most underrated fruit on this chart, tomatoes. 141.101.105.24 03:05, 2 February 2018 (UTC)
+the sugarfree dwarf watermelon? Lysdexia (talk) 06:35, 5 January 2019 (UTC)
+Guess, what?
+Coconuts: x=-Little Bigeddon%, y=-Little Bigeddon%. 162.158.93.69 07:46, 21 February 2018 (UTC)
+Conclusion: Randall has terrible taste, in fruit. — Kazvorpal (talk) 07:56, 10 November 2019 (UTC)
+Agreed.
+ProphetZarquon (talk) 22:01, 17 April 2020 (UTC)
+A fair few people here don't seem to get that the entire tasty/untasty is opinion based. Beanie (talk) 11:58, 23 March 2021 (UTC)
+Categories: All comicsComics from 2008Comics from FebruaryMonday comicsComics with colorScatter plotsRankingsFood

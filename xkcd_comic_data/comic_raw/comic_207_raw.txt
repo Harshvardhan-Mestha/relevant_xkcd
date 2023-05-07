@@ -1,0 +1,52 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+207: What xkcd Means
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 207)
+|<< PrevComic #207 (January 8, 2007)Next >>|
+What xkcd Means
+
+Title text: It means shuffling quickly past nuns on the street with ketchup in your palms, pretending you're hiding stigmata.
+Explanation[edit]
+This comic purports to finally answer the question, "What does 'xkcd' mean?" However, instead of giving an answer as to what the letters actually mean (according to Randall, it's literally "just a word with no phonetic pronunciation"), he offers five quirky behaviors. This is reminiscent of TV commercials that ask, "What does [brand name] mean? It means [happy activity]!".
+The first panel shows a driver, marked by a red line, making a right turn at a red light, a U-turn on the connecting road, and then another right turn, returning them to their original direction presumably faster than waiting for the light. Right turns at red lights and U-turns are legal in all 50 states, but some intersections do not allow them (and turning at a red light is illegal everywhere in Europe, except for if the traffic lights have been fitted with an auxilliary green arrow which indicates such an allowance during a road junction's sequence). Hence, this complicated maneuver is "questionably legal". However, under certain circumstances in the US state of Oregon, it appears that this is actually legal.
+The second panel shows Cueball searching for his mobile phone by having his friend call it to locate the ringtone, only to hear a ring from inside of his dog's stomach, possibly a reference to Jurassic Park III.
+In the third panel, Graham's number is a (very) large number (once celebrated as the largest number ever used in a proof, although it is no longer the record holder), and the Ackermann function is a (very) fast-growing function, thus the function's output must be insanely large. (In fact, A(g64, g64) is actually smaller than g65.)
+The fourth panel shows somebody walking in a pattern based on the position of black and white tiles on the floor. This is further referenced in 245: Floor Tiles.
+The title text refers to stigmata, marks corresponding to Jesus' crucifixion wounds. Devout Catholics have claimed to have spontaneously developed stigmata.
+Transcript[edit]
+[Caption above the panels:]
+What does xkcd mean?
+[Two cars sitting at a red light at a multi-lane intersection; one of them makes a right turn, then shifts over to the left lane and makes a U-turn across the dividing line to go back the way it came. It then shifts back to the right lane and makes another right turn, continuing down the road past the traffic light. This is shown with a red arrow.]
+It means saving a few seconds at a long red light via elaborate and questionably legal maneuvers.
+[In an inset circle in the panel, someone is on a cell phone. In the panel itself, a second person is looking at a dog.]
+It means having someone call your cell phone to figure out where it is.
+Dog's stomach: Ring
+[The mathematical function "A(g64, g64)=" appears in the panel. Next to the equal sign stands a mathematician, clutching his head.]
+It means calling the Ackermann function with Graham's number as the arguments just to horrify mathematicians.
+Mathematician: Aughhh
+[An approximately 8 by 8 square of floor tiles is shown; the first, fourth, and seventh across in the first, fourth, and seventh rows are black, and the rest are white. A guy and girl are shown next to it, walking on what is presumed to be the same pattern of floor tiles.]
+It means instinctively constructing rules for which floor tiles it's okay to step on and then walking funny ever after.
+[Line indicating the uppermost right black tile: Black tiles okay.]
+[Line indicating tile directly below it: White tiles directly between black tiles okay.]
+[Line indicating a white tile in the last column over: Not okay.]
+Trivia[edit]
+In his Google-speech, Randall said that xkcd originated as a previously unused random 4 letter string which he used, e.g., as his account name on various internet services.
+See more on this wiki page for Meaning of xkcd.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I'm pretty sure that the first panel isn't talking about the legality of U-turns; I think it's actually talking about the legality of bypassing traffic signals: https://www.drivinglaws.org/resources/is-it-illegal-to-cut-through-a-parking-lot-to-avoid-a-red-light.html
+
+I do the last panel ALL THE FRIGGIN' TIME. Alpha (talk) 20:07, 8 March 2013 (UTC)
+Graham's Number has not had that title for several years now.... See here: http://googology.wikia.com/wiki/Graham's_number XKCD also means getting addicted to webcomics because they are too funny --108.162.237.175 21:57, 22 June 2015 (UTC)
+A question, what is meant with "(In fact, A(g64, g64) is less than g65)"? Is g65 more than g64? Is it much more? Is A(g64, g64 "insanely large" compared to what you would expect or not? Maplestrip (talk) 13:05, 24 June 2015 (UTC)
+It means that mathematicians who read XKCD are not horrified by the idea, but calmly compute the result. (g65 is obviously more than g64 ; both Graham's number and Ackermann functions are methods to make ludicrously high numbers, and the "only slightly more" means that they growing in roughly same ludicrous speed) -- Hkmaly (talk) 02:04, 2 June 2016 (UTC)
+You know, if everyone did the traffic thing at intersections, it would basically be the same as a roundabout. --162.158.102.150 16:19, 26 November 2015 (UTC)
+Apparently (page 28) some intersections where I live are designed for the maneuver in panel 1.--Troy0 (talk) 17:30, 29 July 2016 (UTC)
+
+Yo mama ≡ 1 modulo A(g64, g64) unsigned int (talk) 22:13, 22 March 2017 (UTC)
+
+I ran into a situation yesterday where the first panel saved me five minutes in traffic. The road I was driving on had two lanes on each side. The left lane was backed up a quarter mile and the right lane was empty, as across the next road, construction trucks blocked the right lane. I drove all the way down the right lane, took a right turn, and then proceeded to execute the maneuver depicted in the comic. Half a dozen other cars caught on and followed. 173.245.52.169 21:16, 23 February 2018 (UTC)
+Maybe it's about his ex Casey D.
+Categories: All comicsComics from 2007Comics from JanuaryMonday comicsComics featuring CueballComics featuring MeganDogsLogicMathTraffic lightReligion

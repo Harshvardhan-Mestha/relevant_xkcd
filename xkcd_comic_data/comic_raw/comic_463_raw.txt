@@ -1,0 +1,39 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+463: Voting Machines
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 463)
+|<< PrevComic #463 (August 15, 2008)Next >>|
+Voting Machines
+
+Title text: And that's *another* crypto conference I've been kicked out of. C'mon, it's a great analogy!
+Explanation[edit]
+In the 2008 Ohio primary elections, there were numerous problems with electronic voting machines, which eventually required many districts to revert to pen and paper. Premier Election Solutions, the company that handled the machines, blamed these problems on McAfee antivirus software. (The comic likely emphasizes the fact that Premier Election Solutions was formerly known as Diebold because Diebold voting machines had previously become infamous in the United States for their poor security during the 2004 and 2006 elections, and the company changed its name to distance itself from this bad reputation.)
+It is not uncommon to see computer software contracts stipulating that the vendor will warrant that software and systems delivered will not contain any viruses or malicious code ("malware") — a knee-jerk reaction to this is for novice management to include malware-scanning "antivirus" software for systems that otherwise are closed. From a computer programming standpoint, having antivirus software on an electronic voting machine doesn't make sense, because ideally the machine shouldn't be connecting to *anything* external (eg the internet, USB, a local network, removable drives, bluetooth...) that would leave it open to malware attacks. While there are many ways that malware can reach a computer, ultimately the computer still has to run executable code that was not distributed with it in the first place, which is something that no election machine should encounter in normal operation. Hence, the question is whether the voting machine manufacturer has taken the proper precaution preventing any external access.
+Ideally, voting machines (as well as ATMs and other single-purpose appliances) should be embedded systems, supposedly making them incapable of doing the things that might necessitate antivirus software. However, in practice, such devices are more commonly built as application programs running on ordinary Windows PCs (inside of custom-shaped cases), and they download software updates over the internet, synchronize voting data to a single "Ballot Box" server over a local network, use USB peripherals which could potentially be replaced by a bad actor, etc. And even embedded systems are vulnerable to many classes of malware.
+The comic makes an analogy to a teacher who reassures you that he always wears a condom when teaching. While a condom could be considered "protection," and therefore a good thing, common sense dictates that teachers should never end up in a situation where wearing a condom in school would be useful; this parallels the idea that while security in the form of antivirus software on voting machines could also be considered protection and a good thing, it should never be required. The comment is more likely to make people worried about why the condom is there and what purpose it's serving. Similarly, informed people might worry why a voting machine has any access to malicious executable code.
+In panel one, both the facepalm and "You're doing it wrong" are Internet memes, used to mock someone who made a foolish mistake.
+The title text refers to 153: Cryptography. Voting software is also featured in 2030: Voting Software.
+Transcript[edit]
+[Caption above panels:]
+Premier Election Solutions (formerly Diebold) has blamed Ohio voting machine errors on problems with the machines' McAfee antivirus software.
+[Cueball is sitting at a computer, facepalming.]
+Cueball: Wait. "Antivirus software"? On voting machines? You're doing it wrong.
+[Cueball's friend enters the frame and speaks to Cueball.]
+Friend: Why? Security is good, right?
+Cueball: Of course. But, well—
+Cueball: Imagine you're at a parent-teacher conference, and the teacher reassures you that he always wears a condom while teaching.
+Friend: Ah. Strictly speaking, it's better than the alternative—
+Cueball: —Yet someone is clearly doing their job horribly wrong.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+What's incomplete? 199.27.130.180 04:13, 8 March 2014 (UTC)
+It seems fine to me. Removing the incomplete tag. LogicalOxymoron (talk) 23:19, 12 March 2014 (UTC)
+What's "the alternative"? 108.162.208.98 20:55, 16 June 2014 (UTC)
+I believe when the alternate Cueball references "the alternative" he has already realized what the first Cueball meant. Cueball 2 I'll call him, is thus referencing the alternative is no protection or security. I don't believe Cueball 2 is directly referencing the 'teacher wearing a condom analogy'. Official.xian (talk) 19:59, 10 July 2014 (UTC)
+I think the alternative is the teacher being raped at school. That's right, Jacky720 just signed this (talk | contribs) 22:05, 12 May 2017 (UTC)
+Other way around dude, other way around. Anonymous 00:05, 19 August 2018 (UTC)
+It's not necessarily that the teacher is raping the students, but it does indicate the teacher might be having sex at school (for instance, with another colleague). --172.68.57.209 13:37, 22 May 2021 (UTC)
+Ideally, there should be no voting machines. Here in Germany, we make a cross on a paper and put that paper in an urn. Counting is done manually under supervision. Voting machines are illegal for a reason. :) --141.101.104.4 15:05, 27 September 2015 (UTC)
+Categories: All comicsComics from 2008Comics from AugustFriday comicsComputersComics featuring CueballBanned from conferencesCryptography

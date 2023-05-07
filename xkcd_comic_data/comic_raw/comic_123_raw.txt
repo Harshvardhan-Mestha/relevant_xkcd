@@ -1,0 +1,54 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+123: Centrifugal Force
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 123)
+|<< PrevComic #123 (July 3, 2006)Next >>|
+Centrifugal Force
+
+Title text: You spin me right round baby, right round, in a manner depriving me of an inertial reference frame. Baby.
+Explanation[edit]
+Black Hat has strapped James Bond to a centrifuge and claims that the centrifugal force will be lethal. Bond objects that there is no such thing, but just centripetal force. The notion of centrifugal force is a common one, as we experience it whenever we turn. Teachers will initially teach Newtonian mechanics in an inertial frame, and in inertial frames, the centrifugal force is zero. Instead, a body that moves in a circle does so because of a centripetal force (acting towards the center of the rotation). This is a reasonable (and correct) view, but it is a subtle point that many students find hard to grasp, as it seems to contradict their personal experience of centrifugal forces. For the sake of exposition, teachers may claim that "There is no such thing as centrifugal force." This, however, is also a misconception, which is addressed in the explanation below:
+Observers' point of view (Black Hat, us, etc.)
+James Bond is moving in a circle, and is therefore accelerating. The force keeping him there is an inward force of contact against the centrifuge, a centripetal force. Via Newton's third law, since the centrifuge is pushing Bond inward, Bond is pushing the centrifuge outward. The centrifuge's material is strong enough not to break under this force, however.
+James Bond's point of view
+In James Bond's frame of reference, Bond is at rest. He is kept there by two forces: the above-mentioned inward force of contact against the centrifuge, and an outward centrifugal force. He feels both forces.
+As mentioned in the explanation, as the centrifuge rotates faster, the forces needed to keep him in motion get larger, so the force he feels gets larger. This will eventually kill him. The conclusion will be the same regardless of which frame of reference is chosen.
+Teachers of mechanics are well aware of this; however, in introductory expositions, these ideas are often not taught. In theoretical mechanics, one describes the positions and velocities of the particles in a model relative to a frame of reference. This means that a time is chosen to be time 0, and positions are chosen to be (0,0,0), (1,0,0), (0,1,0), and (0,0,1). With these chosen, the position and time of any particle in the system can be described. It is an axiom of Newtonian Mechanics that there exist "Inertial Frames." In an inertial frame, a particle will remain at rest or at a constant speed unless acted on by an external force, and Newton's second law takes a simple form: F = ma. The surface of the Earth approximates an inertial frame. In a non-inertial frame, such as one rotating with a giant centrifuge, or moving with an accelerating vehicle, a particle will accelerate, relative to the frame. Newton's second law, when formed in such a frame, is much more complicated, as it has terms for the linear acceleration of the frame, the angular acceleration of the frame, the centrifugal force, and the Coriolis force. These extra terms are sometimes called "fictitious forces," as they result from the choice of the frame of reference. The mathematics required to describe problems in a non-inertial frame is more sophisticated, and all problems may be solved using an inertial frame. Thus is reasonable that teachers at school level "lie to children" and teach the mechanics in inertial frames.
+James Bond was almost killed by a centrifuge in Moonraker. The final statement by Black Hat is that said by Auric Goldfinger in Goldfinger in response to James Bond's question "Do you expect me to talk?"
+The title text is inspired by Dead or Alive's famous song from 1985, "You Spin Me Round."
+Randall feels very strongly that the centrifugal force is a real thing. He links to this comic in the first footnote of his What if? article One-Second Day and the 6th footnote of Earth-Moon Fire Pole, stating that it is a real thing, and that he will go so far as to strap arguers to a centrifuge that he or someone he knows apparently owns.
+As can also be seen in the footnote on page 132 in his What if? book, he will even fight you about it. From the book:
+"Furthermore, if you're on the equator, you're being flung outward by a centrifugal force1."
+"1Yes, centrifugal. I will fight you."
+(The article itself is about what happens if you lose all your DNA, so it has not much to do with this "real" force... The sentence is just stating that the actual weight loss from losing all your DNA is similar to the weight loss you would experience by moving from the poles to the equator due to this force.)
+Transcript[edit]
+[James Bond, drawn as Cueball, is strapped to a giant wheel suspended from the ceiling. Black Hat is standing next to two levers.]
+Black hat: How do you like my centrifuge, Mister Bond? When I throw this lever, you will feel centrifugal force crush every bone in your body.
+[Same scene, but a closer shot.]
+Bond: You mean centripetal force. There's no such thing as centrifugal force.
+Black hat: A laughable claim, Mister Bond, perpetuated by overzealous teachers of science. Simply construct Newton's laws in a rotating system and you will see a centrifugal force term appear as plain as day.
+[Closer shot, only Bond's head is visible.]
+Bond: Come now, do you really expect me to do coordinate substitution in my head while strapped to a centrifuge?
+Black hat: No, Mister Bond. I expect you to die.
+Trivia[edit]
+This comic is available as a signed print in the xkcd store.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Are you allowed to describe a force acting upon you when you are in an accelerating reference frame? I'm pretty sure you're not. The explanation says that from bond's point of view, he is at rest. Well, sort of. If you're in an accelerating car you can tell that you're not at rest because your inertia seems to be "pulling" you backwards. There's nothing actually pulling you, though. 108.162.219.202 05:24, 30 December 2013 (UTC)
+According to general relativity, that inertial "pull" is indistinguishable from being at rest with a force being applied. In the rotating frame, this apparent force is the centrifugal force. 199.27.128.62 05:58, 4 February 2014 (UTC)
+the explanation is correct, and you can describe forces acting on you in non-inertial frames. If you take Bond to be the origin of a rotating frame of reference then the position of Bond will be (0,0,0) at all times. So in that frame of reference, Bond is at rest (not "sort of at rest, really at rest). The equation of motion for Bond is
+   F + Fe + Fw + Fc = ma = 0
+(F is external force, Fe is the force due to angular acceleration of the frame (relative to some inertial frame), Fw is centrifugal force and Fc is coriolis force )
+Since the sum of the three "fictious" force are nonzero, and Bond is at rest in this frame, the force F must also be non-zero. This force F is the inward push of the centrifuge. In the moving car example, you can't tell if you are accelerating or if there is a massive graviational field pulling you backwards. From your perspective the experience is identical. If you take this idea and run with it you get general relavitity141.101.70.67 11:30, 6 August 2014 (UTC)
+I believe the OP is referencing the vestibular system. This is what allows humans to feel acceleration. The actual physics at hand is regarding reference frames, not the ability of the body to detect acceleration. In regards to the question of "Are you allowed to describe a force acting upon you when you are in an accelerating reference frame?", the answer is yes. You can pick whichever reference frame you wish, but we tend to pick the one that simplifies the calculations the most.Flewk (talk) 06:44, 25 December 2015 (UTC)
+"Apparent force" is the best term to use to describe centrifugal force, and could be inserted in the text to clarify. 172.68.142.89 21:14, 14 June 2018 (UTC)
+"The surface of the Earth approximates an inertial frame."
+This isn't correct at all. If you're standing on Earth, you're experiencing an acceleration of 9.8 m/s^2. 108.162.238.11 00:56, 12 April 2018 (UTC)
+Actually, that is incorrect. Right now i'm in my desk chair, not accelerating. The force of gravity is cancelled out by the force my chair exerts on me to maintain this status quo. You're correct that it's not an inertial frame, but that is because the force of gravity, not some acceleration 141.101.77.20 12
+14, 6 July 2018 (UTC)
+Noting that gravity _is_ an acceleration. In fact, a case could be made that it is the dominant acceleration experienced by normal matter with the possible exception of dark energy.Iggynelix (talk) 12:09, 30 September 2020 (UTC)
+It's NOT appropriate that lazy science teachers "lie to children" in that and various other ways. The kids can understand far more than the teachers assume, so that their choices of limitation are self-fulfilling prophecy, producing ignorant victims of the public school system. — Kazvorpal (talk) 01:39, 21 September 2019 (UTC)
+It's also inappropriate and perhaps just as ignorant to assert that such oversimplifications only occur in _public_ schools. There are lots of private school teachers extolling the same simplification.
+Categories: All comicsComics from 2006Comics from JulyMonday comicsComics featuring Black HatPhysicsComics featuring CueballFooter comicsComics with xkcd store productsFiction

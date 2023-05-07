@@ -1,0 +1,55 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+404: Not Found
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 404)
+|<< PrevComic #404 (April 1, 2008)Next >>|
+Not Found
+Explanation[edit]
+There is no image for xkcd comic numbered 404. Randall did, however, not skip a day!
+The previous comic 403: Convincing Pickup Line was released Monday March 31st 2008, and he put the next comic, 405: Journal 3, up as scheduled on Wednesday April 2nd 2008, which leads some to see the 404 as an April Fools' Day joke released in between, as comic 404: Not Found released on Tuesday April 1st 2008.
+This was thus the first April Fools' comic released by Randall (not counting the unnumbered Syndication released the previous year). The next (and first real) April Fools' Day comic was not released until 880: Headache on Friday April 1st 2011, although Randall did make other jokes in the years in between.
+"404" is the HTTP Response Code for "Not Found." Randall deliberately skipped comic number 404 in xkcd. Therefore, when people go to xkcd 404, they get a "404 Not Found" error page. (This does not work in all browsers. In newer versions of Internet Explorer, a message about the link being broken occurs without the 404 code.)
+Randall has stated that he considers 404 an official, actual comic, albeit a rather avant-garde one, and that for a time he made it possible to find it using the "random" button on xkcd.com. He once again displays this in the 2018 April Fools' joke, 1975: Right Click, where you can access all of his comics up to Right Click from the right click menu, and the menu includes this one specifically due to the strange "title"!
+It may seem like a random coincidence that xkcd 403 came out the day before April 1st 2008. And for sure it must have been by chance that it would come out close to that date when Randall began posting on xkcd. But when Randall noticed this fact, at some point prior to that date, he would, however, have had a chance to influence the release date. In November 2007, less than half a year before this April 1st, he released the 1337 series over five consecutive days. That would have moved the release date of 403 from Friday the 4th of April to the Monday it was actually released - making it possible to skip comic 404 as if it came out on April 1st without skipping a comic on a normal release day. There was at least one other series in 2007 to use all five days of a week (Choices), so maybe he had this planned for a long time?
+It is perhaps an interesting point that the very next comic, 405: Journal 3, includes the line "So, you found me after all."
+In 1969: Not Available, the error message 404 is referenced in the caption.
+This is featured in a few comics to come, including 1975: Right Click (in File > Open > C:\ > Bookmarks/ > Comics > comic num 404).
+Transcript[edit]
+[Instead of the regular xkcd site layout, just a white page that states on top center:]
+404 Not Found
+[Page-wide divider line]
+[Below that in a smaller font:]
+nginx
+Trivia[edit]
+The web comic Comic JK made this spoof of this missing comic in total xkcd style:
+The comic 404 that could have been.
+The "image of this comic," displayed at the top, is what appears when going to https://www.xkcd.com/404/
+But only in some browsers...
+In Chrome and Firefox this works, but in Explorer the page revealed is a standard page with a message from explorer:
+"The webpage was not found"
+It thus leaves the xkcd page.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Maybe it was skipped because he had to. In some, if not all websites, there's the 404.html file that is displayed when there's a 404 error (example: /var/www/404.html/), so it would have shown the '404' page that existed the whole time, because xkcd.com/404 would have shown 404.html.173.245.55.73 22:58, 2 April 2014 (UTC)
+But there's a 401, a 402, a 403, 405, a 451. If it was done because an error code got in the way, he would have had to skip these too (and going to them manually would show the respective error pages). Also, comic 404's page appears to be the server's default 404 page, which probably isn't even stored in the same directory as the comics. Hppavilion1 (talk) 21:28, 10 August 2016 (UTC)
+"404.html" is merely the default name for a 404 page in several web server configurations. It can be easily changed or disabled and most definitely did not factor into the comic's creation. Zekesonxx (talk) 02:17, 18 October 2016 (UTC)
+April 1st, 2008 was a Tuesday, so no xkcd comic would have normally come out then. For that week, xkcd 403 was Monday, March 31st, 2008, xkcd 405 was Wednesday, April 2nd, and xkcd 406 was Friday, April 4th. 404 was just skipped. It is also skipped in the "previous comic"/"next comic" links on his site. I don't think it was an April Fools gag. Blaisepascal (talk) 19:03, 22 August 2012 (UTC)
+Well, I'd say that it certainy might be. In any case, it's an interesting observation! St.nerol (talk) 11:22, 23 November 2012 (UTC)
+Then again, his skipping from 403 to 405 (making 404 come up "404: Not Found") may have been his April Fool joke that year. The timing may have been coincidental, but I don't blame him for taking advantage of it. --Aaron of Mpls (talk) 23:16, 15 April 2013 (UTC)
+No, because there was already another April's Fool joke in 2008: xkcd, Questionable Content and Dinosaur Comics rotated their content ([1]). However the timing does seem quite suspicious. -- Xorg (talk) 21:52, 16 April 2013 (UTC)
+This entry isn't on the list of all comics 1-500, and I made the mistake of adding this comic to the list. I was about to add an explanation, with a link to a webcomic about it, when I found this page. I think that this page should be liked in the all comics 1-500 list so that others don't make the same mistake and so that curious people can easily get to it. Rylon (talk) 18:10, 17 July 2013 (UTC)
+The link is changed.--Dgbrt (talk) 18:55, 17 July 2013 (UTC)
+
+The hidden link
+Nobody did find that hidden link? A shame. Just a simple test on this http://www.xkcd.com/test/ gives me a link to this comic: 1335: Now. And this page still appears like it was on the original release date on February 26 this year. I'm pretty sure there is still a link, some avant-garde, and Randall still giggles about that nobody did find this within six years. --Dgbrt (talk) 23:12, 10 March 2014 (UTC)
+Actually, you may be interested to note that xkcd.com/test now links to the Lorenz comic (#1350). 108.162.219.73 15:16, 16 April 2014 (UTC)
+It keeps changing then... Today it was 1367: Installing. It was 12, then 15 and now 19 days between the test and the day the link pointed at it. Kynde (talk) 15:00, 31 May 2014 (UTC)
+Now it's 1446: Landing. --199.27.128.182 22:56, 25 November 2014 (UTC)
+1485: Friendship now --Kynde (talk) 07:52, 1 April 2015 (UTC)
+And now it links to 1664: Mycology Zorlax the Mighty would like to connect on Linkedin (talk) 21:52, 21 April 2016 (UTC)
+Today almost two years after last post it was 1812: Onboarding. Wrote here because of today's comic 1969: Not Available which references 404 error message --Kynde (talk) 20:33, 20 March 2018 (UTC)
+Today, it is this own comic, 404. 162.158.122.120 22:30, 18 December 2019 (UTC)
+I’m getting rid of the Internet Explorer stuff and taking a picture of it on Edge. IE is hardly even used anymore. SilverTheTerribleMathematician (talk) 05:43, 8 February 2023 (UTC)
+Categories: All comicsComics from 2008Comics from AprilTuesday comicsLinks to xkcd.comApril fools' comics

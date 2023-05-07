@@ -1,0 +1,31 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+179: e to the pi times i
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 179)
+|<< PrevComic #179 (November 3, 2006)Next >>|
+e to the pi times i
+
+Title text: I have never been totally satisfied by the explanations for why e to the ix gives a sinusoidal wave.
+Explanation[edit]
+The comic largely references Euler's identity. This identity states that eiπ + 1 = 0. Therefore, eiπ = −1.
+The humor from this comic is because of the seemingly arbitrary relationship between e, π, and the identity of i (the square root of −1). e is the mathematical identity of which the derivative of ex with respect to x is still ex, while π is the relationship between the circumference of a circle divided by its diameter. Taking these two values and applying them to the value of i in such a manner makes it seem counter-intuitive that it would yield −1 from basic analysis. The above linked Wikipedia page goes into good detail of how to derive this identity, as does this YouTube video.
+The title text refers to how Euler's identity is called upon in complex form (separating real and imaginary numbers): eix = cos(x) + i sin(x).
+Transcript[edit]
+[Two Cueballs are standing at a board with writing on. One Cueball is pointing at the board.]
+Cueball: Numbers of the form n√-1 are "imaginary," but can still be used in equations.
+Friend: Okay.
+Cueball: And e^(π√-1)=-1.
+Friend: Now you're just fucking with me.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This is one of the few comics that were changed after release, as stated by Randall in his XKCD book. It first claimed e^(i*Pi) = 1, which lead to huge protest from the community and a correction from Randall. --Gefrierbrand (talk) 09:47, 3 September 2012 (UTC)
+He must have been pie-eyed when he wrote that; he's usually pretty good about his math... -- IronyChef (talk) 05:09, 7 November 2012 (UTC)
+I see what you did there. Daddy (talk) 15:18, 28 April 2013 (UTC)
+Randall says in the title text that he's never been satisfied with explanations of the sinusoidal nature of the function of e^ix. http://www.math.toronto.edu/mathnet/questionCorner/epii.html really helps, at least for those who are obsessed with taylor series yet tragically horrible at math. --Jolbucley (talk) 03:39, 29 January 2014 (UTC)
+Why e to the ix gives a sinusoidal wave? This is because neutrinos keep oscillating. They wouldn't without the e^ix support... 162.158.83.72 04:01, 24 May 2016 (UTC)
+Actually, e to the ix isn't sinusoidal. "Consisting of sinusoidal components" doesn't make it sinusoidal, any more than it does for any relation representable by Fourier Transform. As with the other mistake, it seems to indicate that this really wasn't something Randall knew about.
+Technically i isn't "imaginary" at all, but is incorporated into equations to represent rotations perpendicular to the x-y plane. 108.162.210.220 15:51, 9 September 2016 (UTC)
+i is imaginary. Both "real" and "imaginary" are terms of art in a mathematical context that have nothing to do with the reality or unreality of the numbers in question. Also, when you're talking about the complex plane, it doesn't have x and y axes: it has real and imaginary axes. But of course, nobody can stop you from defining a mapping from the complex plane to any other vector space if that suits your purpose. 162.158.62.45 01:58, 6 September 2018 (UTC)
+Categories: All comicsComics from 2006Comics from NovemberFriday comicsComics featuring CueballMath

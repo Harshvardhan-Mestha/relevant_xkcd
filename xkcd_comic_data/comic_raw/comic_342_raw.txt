@@ -1,0 +1,71 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+342: 1337: Part 2
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 342)
+|<< PrevComic #342 (November 13, 2007)Next >>|
+1337: Part 2
+
+Title text: Trivia: Elaine is actually her middle name.
+Explanation[edit]
+This is the second part of five in the "1337" series. The title 1337 is "L-eet," or "elite," using the Leet alphabet, a coding system used primarily on the internet (and on early text messaging system), meant to provide a bit of obfuscation to plain text both to make it harder to read and to show off in a creative way using in-group jargon.
+All comics in the series:
+341: 1337: Part 1
+342: 1337: Part 2
+343: 1337: Part 3
+344: 1337: Part 4
+345: 1337: Part 5
+This series was released on 5 consecutive days (Monday-Friday, probably because he wanted to release comic 404 on april fools' day) and not over the usual Monday/Wednesday/Friday schedule.
+"Like a ring in a bell" appears to be a reference to the Chuck Berry song Johnny B. Goode, in which Berry describes a young boy (like himself) who becomes a guitar-playing prodigy. The original lyric was "just like a-ringing a bell." Apparently, Elaine learned to program as quickly, easily, and skillfully as Johnny (and Chuck) learned to play rock 'n' roll. Donald Knuth is a computer science Professor Emeritus at Stanford University who is famous for writing The Art of Computer Programming and developing the TEX computerized typesetting system. He may not have a mountain hideaway (a reference to Kill Bill, by the way as is the whole training sequence), but he would be one of the best mentors a budding hacker could have.
+The A* search algorithm and Dijkstra's algorithm are graph search algorithms. And what study of algorithms would be complete without a healthy study about finding complexities? Time complexity is the amount of time an algorithm takes to execute. Upper and lower bounds for complexity is written in Big O notation. Best possible execution of an algorithm is constant time, or O(1), said in words, for any given data set, no matter how large, the algorithm will always return the answer in the same time. However, constant time is extremely difficult to achieve; linear time (O(n)) is also very good. For more complex algorithms, O( n*log(n) ) is good, but O( n*log(log(n)) ) is better. (Note that logarithms in different bases are proportional to each other. So this would hold true for any base >1.)
+From the evidence that Mrs. Roberts has two children, a daughter named Elaine, and a younger son named Bobby (presumably Little Bobby Tables aka "Robert'); DROP TABLE students;--"), we can assume that she is the same mother from 327: Exploits of a Mom. Of course, the title text here explains that Elaine is only her middle name (assuming canonicity of title-text). In the title text to 327: Exploits of a Mom, we learned that her first name is "Help I'm trapped in a driver's license factory". Mrs. Roberts appears to have had fun naming her children.
+Transcript[edit]
+[Cueball standing an looking down at his Cueball-like friend, who is sitting on the floor near an armchair holding a cloth to his face.]
+Friend: So the greatest hacker of our era is a cookie-baking mom?
+Cueball: Second-greatest.
+Friend: Oh?
+[The next panel is only half height as Cueball's narration is written as a caption above the panel without a frame around it. In the panel to the left lies a young Elaine with a ponytail on the floor typing at a keyboard while looking at a screen connected to a computer behind it with lots of wires and open case. The computer appears to have been pieced together and there is a screwdriver lying next to her and an open box lies behind her. Little Bobby Tables (a kid version of Cueball) is painting with a broad brush at an easel to the left. There is a clear drawing with two parts going up and one down, but it's not easy to see what it should look like. He is holding his other hand up in the air, like he is enjoying the painting.]
+Cueball (narrating): Mrs. Roberts had two children. Her son, Bobby, was never much for computers, but her daughter Elaine took to them like a ring in a bell.
+[The front of a car is in frame with side mirror and steering wheel visible. Mrs. Roberts is waving goodbye to her daughter who is wearing a backpack and is holding a walking stick. She is about to begin climbing a staircase built into a rocky mountain side. The first 11 step are visible. Behind the two and the stair are two distant mountain peaks, and above them two clouds. Cueball continues to narrate, this time inside the panel:]
+Cueball (narrating): When Elaine turned 11, her mother sent her to train under Donald Knuth in his mountain hideaway.
+[Donald Knuth, drawn with hair only around his neck, is standing with a pointing stick at a chalk board with graph traversal patterns on it and two blocks of unreadable text the top may be a matrix. This small panel is also lower than the next panel, with Cueballs narration above:]
+Cueball (narrating): For four years she studied algorithms.
+Donald Knuth: Child—
+[Donald Knuth whips around from the board slashing the stick like a sword. Elaine jumps, making a somersault (indicated with a line curving on it self from floor to sword) and lands on the stick balancing with her arms out.]
+Donald Knuth: Why is A* search wrong in this situation?
+Stick: swish
+Elaine: Memory usage!
+Donald Knuth: What would you use?
+Elaine: Dijkstra's algorithm!
+[Donald Knuth and Elaine are outside, seen from behind while they are both writing on a chalkboard with a thick line down the middle to separate their work. On both sides their writing can be seen but it is unreadable. Where there is only text visible on Donald Knuth's side there is also what appears to be a drawing or matrix at the top of Elaine's. But a similar thing could be behind Donald Knuth's head. Elaine is no longer wearing her hair in a ponytail but have long straight white hair like her mom Mrs. Roberts. To the left there is a stump from a tree, some grass and maybe a puddle of water. Further back there is a small jagged hill and a flat horizon. To the right there are four mountain peaks and a flat high plateau towards the horizon. The frame of the panel does not include the top and bottom corner, but cuts a rectangular section of both places. In these two sections outside the panel is the last two paragraphs of Cueball's narrating:]
+Cueball (narrating): Until one day she bested her master
+Donald Knuth: So our lower bound here is O(n log n)
+Elaine: Nope. Got it in O(n log (log n))
+Cueball (narrating): And left.
+Trivia[edit]
+In this Google-speech Donald Knuth personally asked Randall what his n*log(log(n)) algorithm for searching was, and Randall referred him to Elaine.
+Elaine is actually her middle name.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Well, imho the reference to the master in the mountain hideaway is clearly a reference to Kill Bill, but I am not skilled enough in English to write it myself... 217.162.253.103 13:06, 6 March 2013 (UTC)
+Next time, don't be so shy! Just do the best you can and someone else can help correct it. Alpha (talk) 00:21, 7 March 2013 (UTC)
+I don't see why dijkstra's algorithm would use less memory than A*. Any ideas? 24.18.133.138 01:44, 13 July 2013 (UTC)
+Dijkstra's algorithm only needs to store one distance value per node, whereas A* needs at least an additional priority queue. Sometimes A* also precalculates and stores its heuristic. --Chtz (talk) 09:42, 13 July 2013 (UTC)
+Why can not be A* implemented exactly as Dijkstra's is with additional penalty (the optimistic distance) calculated at every update? That way it would be as memory efficient as Dijkstra's.
+162.158.202.118 23:48, 5 September 2017 (UTC)
+A* needs a priority queue to store nodes to be searched and their heuristic estimates (starting from the initial node), and a chart to store searched nodes and their shortest-path values. In the worst case, every node in the graph is searched and put on the chart and the queue is empty (equivalent to Dijkstra's). In the best case, the chart contains only nodes on the shortest path, and the queue might be empty or contain unexpanded nodes, and there will likely be an implicit set of nodes never examined. It is hard to see how Dijkstra's can be more memory efficient than A*, except maybe at or near the worst case (due to the overhead of the additional data structures).
+The mountain hideaway is a staple of Kung Fu movies. Kill Bill was effectively spoofing the genre, and so is this cartoon (rather than specifically spoofing Kill Bill). Mountain Hikes (talk) 04:17, 9 October 2015 (UTC)
+Just FYI, my high school math teacher was John Knuth, Donald Knuth's son. To prepare for the AP Calc exam in 2007, we went up to the Knuth family mountain hideaway (in Colorado) and studied for a weekend. This is a real place. Also, we all got 4's and 5's on the exam, best teacher I ever had! --User:GodFatherOfData 16:39, 3 February 2021 (UTC)
+Is that an ice pack he's holding in the first panel? 108.162.210.232 23:42, 15 May 2016 (UTC)
+That's something I was wondering too. It's either an ice pack or a towel of some kind. Why would he need an ice pack / towel? Either he's sweating because he's nervous, it's an author mistake, or something offscreen happened. But... what could have happened? --JayRulesXKCD (talk) 11:49, 13 September 2016 (UTC)
+He's holding the ice pack (or towel) because of how badly he got pwned. See the end of the last comic ("You may need to sit down").--Luke162.158.146.248 08:18, 27 November 2016 (UTC)
+Anybody notice how her son is Bobby Roberts, or if we're going by the Exploits of a Mom comic, Robert Roberts? 108.162.246.122 20:27, 19 October 2016 (UTC)
+I am very confused by "like a ring in a bell". That makes no sense. Pretty much obviously it should be "like ringing a bell" (enunciated in Chuck Berry's singing as "like-uh ringin' a bell") as in, ringing a bell is incredibly easy compared to playing guitar. Surely it's not just a mistake? Maybe it's a known Mondegreen and he put it in on purpose? AmbroseChapel (talk) 06:25, 26 September 2017 (UTC)
+According to all lyric sites it is indeed "(a-)ringing" and I've found no reference to the alternative other than this page [[1]] referencing xkcd. However when I saw the cartoon I did imagine the quote might be correct, and make sense. You don't have to teach a bell to ring, ringing is an inherent quality of the bell, just as guitar or computer skills are suggested to be of the respective characters.
+What is Elaine's first name? What is the significance of the fact that Elaine is her middle name? Mcm (talk) 16:49, 15 November 2019 (UTC)
+According to 327:_Exploits_of_a_Mom, her "first" name is "Help I'm trapped in a driver's license factory". Mathmannix (talk) 19:31, 18 December 2019 (UTC)
+Should we be making a category regarding computer scientists and programmers with extensive knowledge of martial arts? Because it seems like a recurring gag. 172.69.35.27 10:21, 11 August 2020 (UTC)
+Is Bobby little bobby tables?[edit]
+Hi, one question, is Robert Little Bobby Tables? that would fit to his mom?
+Categories: All comicsComics from 2007Comics from NovemberTuesday comics1337Comics sharing nameComics featuring CueballComics featuring Elaine RobertsComics featuring Little Bobby TablesComics featuring Mrs. RobertsComics featuring Donald KnuthMultiple CueballsComputersKids

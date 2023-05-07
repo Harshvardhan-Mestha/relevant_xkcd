@@ -1,0 +1,45 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+312: With Apologies to Robert Frost
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 312)
+|<< PrevComic #312 (September 5, 2007)Next >>|
+With Apologies to Robert Frost
+
+Title text: Some say the world will end in fire; some say in segfaults.
+Explanation[edit]
+This comic presents a poem about a god's dilemma of whether to create the world using Perl or Lisp, two popular computer programming languages. The god has chosen to write it in Perl, but since then appears to lament the choice, apparently expressing that if given the chance to write the world's code again, they would use Lisp instead.
+The implication is that a universe created by Lisp would look better under close examination, the 'founding myth' referred to in the poem. Instead of an incomprehensible big bang, inflation, dark matter, and dark energy, the elegance of Lisp may have led to more elegantly framed laws of nature.
+The grammar of Lisp as a language requires the programmer to use a multitude of parentheses and, in many cases, it can be difficult to determine whether all of the parentheses have been properly matched up to one another. The last two lines of the poem refer to the plentiful parentheses in Lisp, and the image at the bottom of the panel shows a close-parenthesis at the supposed end of the Universe.
+A segmentation fault, also commonly called a segfault, is an error that occurs when a computer program attempts to access computer memory to which it should not have access. This is a fatal error that will cause the program to stop executing.
+This comic deals with similar subject matter to 224: Lisp, in which one of "the gods" claims that although the Universe may appear to have been written in Lisp, it was actually written mostly using Perl.
+The poem itself and the title text are a parody of "Fire and Ice," written by the American poet Robert Frost and first published in 1920. In this poem, the speaker discusses his stance in the debate on whether the world will be destroyed in fire or in ice. "A God's Lament" has a rhyme scheme that is nearly identical to that of Frost's poem. However, it differs in that "Lisp" does not rhyme with "men," "again," and "paren," while the corresponding four lines in Frost's poem do rhyme. (That said, "Lisp" does have a near-rhyme in "myth" and "with," especially if you say "Lisp" with a lisp.)
+Transcript[edit]
+[A not-very-realistic view of the universe, in profile. To the left, a sectional view of the Earth, with its Moon and few clouds overhead, and a little Cueball standing, looking up. Extending to the right of the Earth, various stellar objects: some planets, some spaceships, another galaxy. Above them, on an artistically jagged white background, somewhat like a torn piece of paper, this text:]
+A God's Lament
+Some said the world should be in Perl;
+Some said in Lisp.
+Now, having given both a whirl,
+I held with those who favored Perl.
+But I fear we passed to men
+A disappointing founding myth,
+And should we write it all again,
+I'd end it with
+A close-paren.
+[To the right of the "various stellar objects", as if paired with the Earth at their left to bracket them, is a giant close parenthesis:]
+)
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Since the wiki is so new, I thought I'd motivate a discussion about the topic here, first, rather than just blindly charging in and mucking up the text on the main page. Later, if there's no objection, I'll merge the points here into the main page.
+A few clarifications.
+The description is flawed somewhat, in that Lisp (which adherents humorously "insist" means "Lots of Insidiously Silly Parens") is in fact very strict about matching parens. The problem is that parens are ubiquitous; every nontrivial expression starts with an opening paren, and ends with a close paren. This differs from Perl, which, depending on how it's written, may end with a semicolon, closing curly brace, or sometimes even another character.
+The comparison between Perl and Lisp is a little off the mark, too. Lisp is a very simple language (structurally; I shan't vouch for conceptually) which has the "elegant" characteristic that programs and data are essentially the same thing: lists of sub-expressions. It is quite easy for a Lisp program to build a data structure which is itself a runnable program. This "feature" is frequently exploited in artificial intelligence circles. Perl, on the other hand, is a haphazard accretion of syntactic oddities so complex that the grammar cannot be modeled using standard compiler tools. On the other hand, it can, with an economy of syntax, perform some very powerful operations, and has a vast library of utility functions that make very complex operations "easy" to do.
+Now, putting on the Opinion hat, my take is that the suggestion that the universe is written in Perl refers to the "messiness" of physics, chaos theory, and the like, somehow being attributed to the quirks surfaced by the implementation; if it were to be done again the comparative "elegance" of Lisp would, one is led to believe, result in a universe that at some fundamental level was simpler and more consistent, with predictable beginning and end.
+IronyChef (talk) 02:31, 1 August 2012 (EDT)
+To what degree is the rigidity of matching parentheses a feature of Lisp and not a feature of specific implementations of it? I remember one of my professors telling me that they used to just throw a bunch of parentheses at the end of the program. I know in at least one implementation, there is at least a variable that, when true, causes the interpreter to ignore extra right parentheses. As for Perl, if you wish to add more information to the explanation about it, then I'd say go ahead. However, at present there's not really any comparison between the two languages at all in the text. I didn't feel that it was especially necessary to understand the details of Perl to get the comic, so I didn't describe it beyond calling it a popular computer programming language. Erenan (talk) 12:03, 1 August 2012 (EDT)
+Almost all implementations of Lisp require exact parenthesis matching. The Common Lisp spec requires the reader to issue an error if there's an unmatched right paren. The Scheme spec is less demanding about making the implementation report such errors, but a standards-conforming program still needs matched parens. There are a few exceptions, though. Several Schemes let you use "()", "[]", or "{}" as delimiters. But other than your note about Lispwork's *ignore-extra-right-parens*, I only know of one that deliberately lets you have mismatched parens: Interlisp lets you use "]" to match all the pending open parentheses, up to the most recent "[". So, for instance, you could write "(let [(there (be light])", and the "]" would act like "))". (Genera may have adopted this too; I don't remember offhand.) This didn't seem to take off, though (I suspect comic #859 is relevant). Most Lispers I know just use slime-repl-closing-return (C-RET in the REPL) or slime-close-all-parens-in-sexp (C-c C-] in a Lisp buffer). Piquan (talk) 02:45, 11 February 2018 (UTC)
+Lisp rhymes with myth and with, but only if you have a lithp. Think he did that on purpose? 108.162.238.157 14:18, 6 December 2014 (UTC)
+I'd just like to point out that I was randomly sent to a few before this comic after first reading #859 ( ( ) thus leaving me oddly satisfied... 108.162.216.147 08:04, 22 July 2015 (UTC)
+I feel like writing a comment here, but my computer can only handl- SEGMENTATION FAULT
+Categories: All comicsComics from 2007Comics from SeptemberWednesday comicsProgramming

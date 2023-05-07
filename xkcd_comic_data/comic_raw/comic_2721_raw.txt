@@ -1,0 +1,50 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2721: Euler Diagrams
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2721)
+|<< PrevComic #2721 (January 6, 2023)Next >>|
+Euler Diagrams
+
+Title text: Things Leonhard Euler created ( most of math ( overlapping circle diagrams ) a cricket bowling machine ) Things John Venn created
+Explanation[edit]
+In this comic, Cueball is showing a diagram titled "Venn diagram" he made about something to an unseen audience. An off-panel person informs Cueball that it is an Euler diagram, and starts to explain why, prompting Cueball to forestall the interruption and state that many things are named for Leonhard Euler (specifically Euler's constant and Euler's function apart from Euler diagram) and he just wants to call the diagram a Venn diagram to give John Venn a more equal share of the fame. His off-screen friend refuses, and mockingly states that numbers are now called "Euler letters".
+This may be in response to the fact that Randall has made several comics about both Euler diagrams and Venn diagrams and has sometimes used the term Venn diagram for an Euler diagram, like in 2090: Feathered Dinosaur Venn Diagram. Maybe this was on purpose, as Cueball did here, or by mistake. In either case Randall has probably heard a lot from fans and friends when he made these comics, and thus this could be seen as a response.
+A Venn diagram is a widely used diagram style that shows the logical relation between sets. It shows overlap of items in different categories (sets) by using overlapping circles (or other shapes) to stand in for categories. If an item is within a certain circle, it is in the category the circle represents. So in a Venn diagram of "animals" and "furry things", "cat" would be in the overlap between both circles, "frog" would be inside only "animals", and "kiwifruit" would only be in "furry things". "Crystals" would be outside both circles.
+The title text as a Venn (and, simultaneously, an Euler) diagram
+John Venn was not the first to invent the idea of drawing regions whose overlap shows the intersection of sets -- that was popularized by Euler (although he may not have been the first to do it) and was known as Euler Diagrams. Venn's innovation, roughly 100 years later, was to consistently draw ALL intersections of sets, even those intersections that had no members. In a Venn diagram, all 'circles' must overlap with all other circles, even if there are no items in the overlap. This is easy enough for 2 and 3 sets, but as the number of sets increases, the diagrams can get rather complicated. This and the relationships between the European countries are examples of this issue. The sets can start looking very non-circular. An Euler diagram is required to depict only the non-empty combinations/sets, and therefore does not have this constraint. The diagram in the comic does not have any overlap between the left and right sections so, while it is an Euler diagram, it is not a Venn diagram.
+The title text is an example of a "written" Venn diagram, with Leonhard Euler creating "most of math", both of them having created overlapping circle diagrams, and John Venn creating a cricket bowling machine. In his Wikipedia article it is stated that He built rare machines. A certain machine was meant to bowl cricket balls. See the title text drawn as a diagram in the inserted picture.
+On a side note, if Euler letters were a thing, then they would be digits. And numbers would be Euler words!
+Transcript[edit]
+[Cueball is standing in front of a whiteboard with both arms raised holding his palms up towards and unseen audience. A person from the audience talks to him from off-panel. The whiteboard shows an Euler diagram with two large circles overlapping in the middle and a third smaller circle overlapping only the top right part of the right circle. There are lots of illegible text on the board. Three lines of text are in the left circle only, one line is in the shared part of the two circles, two in the bottom part of the right circle, two lines in the overlap with the small circle and one line only in the small third circle. Above the circles are two more lines of illegible text and above those a large heading and one readable word below that, just above the first illegible text:]
+Venn Diagram
+of
+Off-panel voice: Actually, that's an Euler diagram, because-
+Cueball: Come onnnn.
+Cueball: Everything is named after Euler. Euler's constant, Euler's function.
+Cueball: Can't we let John Venn have this?
+Off-panel voice: No.
+Off-panel voice: Also, numbers are now "Euler letters."
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Has anyone made a Venn Diagram of the differences and similarities between Euler Diagrams and Venn Diagrams before? Tiny Desk Engineer (talk) "My user page can't be vandalized if it never existed" 21:30, 6 January 2023 (UTC)
+Yes. See https://en.m.wikipedia.org/wiki/Euler_diagram#/media/File%3AEuler_and_Venn_diagrams.svg John (talk) 12:19, 7 January 2023 (UTC)
+I made a transcript. PoolloverNathan[stalk the blue seas]
+U•T•S•c
+21:34, 6 January 2023 (UTC)
+Other things named after Euler include: Euler method, Euler angles, Euler equations (fluid dynamics), and lots of other stuff in this article: Contributions of Leonhard Euler to mathematics. Orion205 (talk) 03:22, 7 January 2023 (UTC)
+I can't hear Euler without thinking of one episode of Big Bang Theory when they were goofing around with a Euler Disk. :) NiceGuy1 (talk) 06:04, 7 January 2023 (UTC)
+If we are gonna nitpick numbers are Euler's Words; Single digit would be Euler's Letter 172.68.51.159 17:42, 7 January 2023 (UTC)
+came for this. Of course, in English a and I would be in the intersection of Euler numbers and Euler digits. 172.68.50.51 11:51, 8 January 2023 (UTC)
+This is probably a response to comments he presumably received about past comics (e.g. https://www.explainxkcd.com/wiki/index.php/Category:Euler_diagrams) which were Euler diagrams labelled Venn 172.69.22.62 20:31, 7 January 2023 (UTC)
+I agree and have added something about that --Kynde (talk) 09:27, 9 January 2023 (UTC)
+Don’t forget Eulerian graphs! Klevasseur (talk) 22:09, 7 January 2023 (UTC)
+John Venn's cricket bowling machine would bowl cricket balls, like a baseball pitching machine. It was not a tiny pinsetter. 172.70.110.236 23:34, 7 January 2023 (UTC)
+...it took a while for me to get the reason for that statement, Grasshopper. Spent far too long thinking about how (and, indeed, why) you'd use an automated stump-resetting machine (or two, one at each end) when there are several people pretty much on the spot(s) already. ;) 172.70.85.224 02:54, 8 January 2023 (UTC)
+TIL that Carroll diagrams (1886) actually postdate Venn diagrams (1881); they're different ways of doing the same thing, and I was under the impression that Carroll did it first. I like Carroll's version better for being able to un-awkwardly portray all eight options, though, instead of merely seven. --172.70.200.143 23:18, 8 January 2023 (UTC)
+Euler Letters ... To a Princess? -- We B Martians (talk) (please sign your comments with ~~~~)
+After this comic, it seems there can be a debate about weather previous mistakes from Randall was mistakes or on purpose, but for sure it is a reaction to the two comics he calls Venn diagrams when they are in fact not. I have updated the explanation for both Venn and Euler diagrams categories and mentions those two comics along with this comic. Also I have now included those two other Venn comics in the Venn category, just like this one is already, as Venn diagrams are mentioned even though they are not drawn, since it is Euler diagrams that are drawn. Please do not remove them again. They are Venn diagrams related even though only Euler diagrams are used. I have also mentioned this in the new diagrams explanations. --Kynde (talk) 09:27, 9 January 2023 (UTC)
+The title text is wrong, since the set of 'most of maths', and specifically the most of maths created by Euler, would itself contain some of the 'overlapping circle diagrams'.172.71.242.149 09:44, 9 January 2023 (UTC)
+The list of things named after Euler is absurdly long, but there could also be a an even longer list of things that should be named after him but are named after someone else ... https://en.wikipedia.org/wiki/List_of_things_named_after_Leonhard_Euler 172.70.85.224 11:13, 9 January 2023 (UTC)
+Categories: All comicsComics from 2023Comics from JanuaryFriday comicsComics featuring CueballVenn diagramsEuler diagramsComics featuring real peopleMathSport

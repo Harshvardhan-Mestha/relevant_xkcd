@@ -1,0 +1,30 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2645: The Best Camera
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2645)
+|<< PrevComic #2645 (July 13, 2022)Next >>|
+The Best Camera
+
+Title text: The best camera is the one at L2.
+Explanation[edit]
+The Best Camera Is The One That's With You is a book by photographer Chase Jarvis, celebrating mobile phone cameras, not for their technical quality, but rather for the fact that people usually have them when interesting subjects appear. This advice is often given to novice photographers; sometimes phrased as, "The best camera is the one you use most." A cheap camera is better than an expensive professional camera if it is more often with the photographer, for example if it is light-weight enough to be carried on hiking trips. A fancy expensive camera that isn't available to use is of no value for taking pictures.
+In this case, however, "the best camera" refers to the James Webb Space Telescope (JWST), the spacecraft depicted in the third panel, which cost $10 billion—$9.5 billion over budget—and was fifteen years late. It can be considered a camera because it takes pictures, and it's the best space telescope to date in terms of aperture size and thus angular resolution.[1] The first pictures taken by the telescope were released on 11-12 July 2022, a few days before this comic was published.[2] The pictures from JWST show objects as they were as much as 13.1 billion years ago, which is unprecedented by space telescopes, although further objects have been identified by terrestrial telescopes. The telescope has three instruments that can act as "cameras" for imaging, a fourth spectrometer instrument, and many dozens of optical filters. Because the telescope can only take infrared photographs invisible to the human eye, each of the filters has been assigned a standardized visible color to convert images for viewing. However, astronomers are encouraged to use other color schemes when observing a limited portion of the filters' range or rendering interferometry,[3][4][5] and to convert very distant objects to their original color from redshifted infrared when possible. The capabilities of the JWST are likely to soon answer many difficult astronomical, astrophysical, and cosmological questions that had been previously undecidable, including important questions about the biosignatures of exoplanets.
+The title text references Lagrange Point 2 (L2). The Lagrange Points are five locations corresponding to stationary regions of the restricted three-body problem, in which one of the bodies is much less massive than the other two. A low-mass body in one of those five locations will remain roughly stationary relative to the other two bodies with very little fuel needed for trajectory corrections. In this case, the JWST orbits around the L2 point of the Earth-Sun system with a period of about 6 months, rather than being stationed exactly at it, to avoid shadows from the Earth and Moon that would cause harmful temperature and power variations.[6] Thus it avoids the problem with the Hubble Space Telescope caused by orbiting the Earth, allowing only a short observation window per orbit, with only about 55 minutes of each of its 95 minute orbits usable for observations not sufficiently above or below its orbital plane.
+Transcript[edit]
+[Each panel features an image of space, with text printed in white at the top of each panel. The first panel only shows white dots representing stars, but with not much details to any of them. The text:]
+They say the best camera is the one you have with you.
+[The second panel shows more stars and now some galaxies are clearly visible with galaxy shapes. There is also one very bright star in the lower part. The text:]
+It turns out
+[The third panel is showing even more stars and galaxies with even more details to the galaxies, especially one large spiral galaxy in the upper right part. At the center of the panel is an outline drawing in white of the James Webb Space Telescope, seen from above the sun-shield so the telescope's hexagonal mirror segments and the arm in front of it are clearly visible. Also the shield's layers are drawn. The text:]
+They're wrong.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Removed the part about L2 being in Earth's umbra. Although this is true, the JWST is not actually at L2; it revolves around L2, specifically to avoid being in the Earth's umbra (and the moon's) and therefore avoid changes in temperature. DKMell (talk) 17:52, 13 July 2022 (UTC)
+Does anyone know whether they use SAOImageDS9 or Astropy to make full color images? Both are listed under post-pipeline tools. General instructions are in this paper but it's not a software tutorial, and it doesn't mention un-redshifting very distant objects like in Dr. Becky's video (and which they didn't do completely for the deep field because the lensed galaxies were actually red.) 172.70.206.213 05:35, 14 July 2022 (UTC)
+Can we use the published image data files to produce a SMACS 0723 image with only the far-redshifted, lensed objects? 172.70.211.36 16:01, 14 July 2022 (UTC)
+There is a tutorial at https://www.galactic-hunter.com/post/jwst-data by a guy who uses PixInsight, which unlike DS9 and Astropy is commercial (€230) but a anyone can use it free for 45 days. I think the instructions for what you want to do are at https://pixinsight.com/tutorials/PCC/index.html and the data is here for SMACS 0723.
+You can use Imviz to colorize too. 172.70.207.8 00:44, 16 July 2022 (UTC)
+When discussing biosignatures of exoplanets, should we draw the distinction between ozone and water? 162.158.106.113 11:58, 14 July 2022 (UTC)
+Categories: All comicsComics from 2022Comics from JulyWednesday comicsComics with inverted brightnessPhotographyAstronomyTelescopesSpace probes

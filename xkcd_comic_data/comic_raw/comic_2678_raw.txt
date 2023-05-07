@@ -1,0 +1,60 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2678: Wing Lift
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2678)
+|<< PrevComic #2678 (September 28, 2022)Next >>|
+Wing Lift
+
+Title text: Once the air from the top passes below the plane of the wing and catches sight of the spooky skulls, it panics, which is the cause of turbulent vortices.
+Explanation[edit]
+This comic is a parody of the incomplete explanations given to physics students on how wings produce lift. Specifically, it parodies the equal transit-time fallacy, which states that the air flowing above the wing and the air flowing below the wing have to travel from one side of the wing to the other in equal time, so the air above the wing has to travel faster to keep up with the air below. This assumes that the air above the wing is somehow conscious of what the air below the wing is doing. This assumption of consciousness is taken to extreme parody by the comic, suggesting that the bottom air can be frightened by skulls, that the top air is curious to see what's going on, and that air can panic. In real life, this is not the case.[citation needed]
+Wings can produce lift,[1] i.e. an upwards force with which an aircraft is held in the air. One or more of three main reasons may typically be given as to why airplane wings produce lift:
+Bernoulli's principle (Perhaps the most frequently cited/demonstrated as a basic introduction to wing-physics.)
+Angle of attack (The airplane wing angles up so that air is deflected downwards, by the 'ski effect'.)
+Coandă effect (The top is curved, so air going over the wing must curve downwards in order to avoid creating a vacuum above the back of the wing, and by Newton's third law, this results in an upwards force on the wing.)
+The comic references all three of these reasons. Airflow splitting references Bernoulli's principle, while the air at the bottom being scared and fleeing downwards is similar to the effect of air hitting the angled bottom of the wing. The air going over the top curving down references the Coandă effect, although the comic claims that this effect is instead caused by the top-air noticing the bottom-air fleeing downward and goes down to investigate why the bottom-air is fleeing. The mention of Newton's third law is indeed correct, even if the movement of the air is for the wrong reasons. In the title text, it additionally suggests that the top-flow also end up glimpsing the printed skulls, causing it to also chaotically flee, generating a wing's classic turbulent wake.
+Randall previously dealt with explanations of wing lift in 803: Airfoil.
+↑ Tietjens, Oskar Karl Gustav; Prandtl, Ludwig (1957). Fundamentals of Hydro- and Aeromechanics. Courier Corporation. ISBN 978-0-486-60374-2
+Transcript[edit]
+[Caption at the top of the panel above the drawing:]
+How a wing produces lift
+[The drawing is a diagram of the cross-section of a plane wing. It is large and rounded on the left end and flat on the bottom while the top curves down to meet it at a sharp point to the right. There are many small arrows indicating the flow of wind, in front of, above and below and behind the wing. Four sections of the wind have captions.]
+[The arrows come from the left of the panel, point towards the wing, and then half begin to go over and half begin to go under. There is a caption in the middle of this flow:]
+Airflow splits around the top and bottom of the wing
+[The arrow flowing above continue to the back without caption. But the arrows going under the wing goes by a circle underneath the wing. The circle is connected to an arrow which points to the underside of the wing indicating that the content of the circle represents the underside of the wing. The circle shows a repeating pattern of small black (simplified) skulls, that not only fills the circle but can be seen on the arrow pointing to the underside of the wing. There is a caption to the right of this:]
+Spooky skulls microprinted on the bottom of the wing frighten the air, which flees away downward
+[The arrows going above the wing begins to curve downward at the end of the wing. In the middle of these arrows is a caption:]
+Top air goes to see what's wrong
+[After the spooky skulls the the arrows under the wings also begins to curve downwards and both streams of arrows from above and below have joined at the end of the wing and are all pointing to the bottom right of the panel. In front of them is a caption:]
+By Newton's third law, downward deflection of air pushes wing upward
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Any chance this is related to the equal-transit-time fallacy? 162.158.146.57 16:19, 29 September 2022 (UTC)
+For more information have a look at my paper here-https://arxiv.org/abs/2110.00690 AerospaceDoctor (talk) 02:59, 30 September 2022 (UTC)
+"The plane of the wing" - looks like Randall messed up on the title text InfoManiac (talk) 05:52, 29 September 2022 (UTC)
+Or maybe not: It's the plane of the wing of the plane! 172.68.51.160 07:21, 29 September 2022 (UTC)
+Yeah, I also don't think that this is a mistake. The word "plane" is not used as the device that can fly but as the description for the (bottom) surface of the wing. One word for two totally unrelated things. I removed the trivia-part. https://en.wikipedia.org/wiki/Plane_(geometry) vs https://en.wikipedia.org/wiki/Airplane Elektrizikekswerk (talk) 09:23, 29 September 2022 (UTC)
+"Unrelated"? How so? The wing is an aeroplane, as you describe; the vehicle fitted with said aeroplanes is now referred to by the same name. They now mean different things, but, in as much as the one created the other and they are superficially identical, there doesn't seem to be much of a case for their being "totally unrelated". 172.70.90.245 09:48, 1 October 2022 (UTC)
+It is "unrelated" because an [air]"plane" is a physical mechanical device that flies in the sky, while the "plane" used in the title text (being the two-dimensional geometric surface that is used here to reference the midpoint/orientation of the wing) is a conceptual geometric construct that has no physicality, and that word "plane" is not specifically related to airplanes in any way. TheHYPO (talk) 14:43, 3 October 2022 (UTC)
+If you want to know how a wing really produces lift, it's complicated, and the best reference on the net for that is See How It Flies. B jonas (talk) 09:39, 29 September 2022 (UTC)
+There's also a Scientific American article from a couple of years ago that says there's no scientific concensus. Barmar (talk) 13:13, 29 September 2022 (UTC)
+It's quite simple really - without wings, people wouldn't believe the plane would fly - the wings create faith, and faith lifts the plane.162.158.159.125 15:15, 29 September 2022 (UTC)
+It's even simpler than that.  As the air goes over the curved top of the wing, it has farther to travel; this creates a pressure differential between that mass of air and the air beneath the wing.  This low pressure draws the wing up, like pulling liquid up a straw.  So in other words, airplanes fly because the wings suck. RAGBRAIvet (talk) 21:58, 29 September 2022 (UTC)
+You seem to be describing the "equal transit time fallacy". Air going over the top of a wing doesn't necessarily have to travel further (that depends on the shape of the airfoil), and even if it does that doesn't in itself imply anything about the pressure. Zmatt (talk) 20:11, 30 September 2022 (UTC)
+Lift is not complicate if you look at Prandtl’s original work, and Doug Mclean has done a good job editing the actual Wikipedia article. If you consider the entire atmosphere the asymmetric flow around an asymmetric body in a fluid results in an asymmetric pressure distribution, which is equal and opposite the pressure on the ground. That is, a wing produces a pressure difference that is transmitted in steady state to the earths surface which ultimately supports the aircraft as a reaction force. The asymmetry in the flow is the result of fluid mechanics and can be determined from Navier Stokes, which is Newtons laws of motion applied to a fluid, with viscosity. People get lost because they want to invoke momentum transfer, which is not needed in the global view. To see where the momentum transfer is occurring, you can only utilise think slices of the atmosphere as the control volume, hence the reason it is confusing. This is compounded by people seeing trailing vortices and stating that those must be the mechanism for the momentum transfer, and they are not. This was all established over 100 years ago. That Scientific American article is click bate, and I immediately asked the editor if I could write a response to it, and I got no reply. AerospaceDoctor (talk) 02:39, 30 September 2022 (UTC)
+There's no question that lift results from the solution to the Navier-Stokes equations applied to asymmetric flow around a surface. The question is if there is a simplistic explanation for lay people that actually holds up. 172.71.167.38 01:16, 3 October 2022 (UTC)
+Could the spooky skulls be an inderect reference to quantum spooky action? Not sure how that would apply to lift, though.
+I assumed this was in reference to recurrent discussions of the use of 'golf ball' dimpling in anything related to aerodynamics. AFAIK this is entirely theoretical/experimental as far as use in aircraft wings, but I imagine it's something that crops up a lot in semi-informed lay conversations on the subject. 172.70.86.26 15:31, 29 September 2022 (UTC)
+This, following "Aviate, Navigate, Communicate", suggests to me that Randall is in the middle of a private pilot training course and reflecting on its lessons. BTDT. 172.70.38.237 14:32, 29 September 2022 (UTC)
+it says 3 main reasons and then lists 2?? 172.69.68.20 15:13, 29 September 2022 (UTC)Bumpf
+If you mean 1) Bernoulli, 2) the angle, and 3) Coanda... that's definitely three. If you don't, then I'm not so sure what you're referring to. 172.71.178.187 21:15, 29 September 2022 (UTC)
+Can anyone help fix my reference. It said citation needed, so I went to the first great source, which is Prandtl. However, even though I followed the wikipedia way for making a reference, it has not produced a helpful link at the bottom. AerospaceDoctor (talk) 02:46, 30 September 2022 (UTC)
+I can see why this was confusing. On this site, there's an inside joke surrounding the citation needed tag, based on an older comic and on the way it's used in the What If section of xkcd. It basically means the opposite of what it means on wikipedia, and is sometimes inserted as a joke behind obvious statements or common knowledge. Your edit was fine, don't worry. No actual citation needed. 172.71.102.49 07:26, 30 September 2022 (UTC)
+He was refering to the citation that ended up below this discussion page on the main page. In stead of in a ref section:
+Tietjens, Oskar Karl Gustav; Prandtl, Ludwig (1957). Fundamentals of Hydro- and Aeromechanics. Courier Corporation. ISBN 978-0-486-60374-2
+We usually do no make this kind of references, but just links to them. Also therefore I do not know how to make the ref section, and would also prefer it was just a link to something usefull. --Kynde (talk) 13:01, 30 September 2022 (UTC)
+I agree there must be a much better link for this than a half century old book, but I put a <references/> tag before the transcript. I'm not sure if you wanted it there exactly. 172.70.210.49 21:25, 2 October 2022 (UTC)
+But also, the citation wasn't really needed in the first place. I don't think many people on this site need to be convinced that wings provide lift. It was a [citation needed] tag, not an [actual citation needed] tag.172.71.102.143 07:26, 4 October 2022 (UTC)
+Categories: All comicsComics from 2022Comics from SeptemberWednesday comicsPages using the "citation needed" templateEngineeringPhysicsAviation

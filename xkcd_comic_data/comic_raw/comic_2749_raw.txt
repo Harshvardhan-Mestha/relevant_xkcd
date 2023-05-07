@@ -1,0 +1,118 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2749: Lymphocytes
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2749)
+|<< PrevComic #2749 (March 13, 2023)Next >>|
+Lymphocytes
+
+Title text: It's very hard to detect, but recent studies have determined that when plasma B cells are producing antibodies, they go 'pew pew pew'
+Explanation[edit]
+The human body contains many different types of immune cells. This comic is a list of lymphocytes, a specific type of immune cell that is found in blood and lymph. As the comic goes on, in the style of many "informative" xkcd comics, the descriptions of the names of the cells get more and more removed from reality. Though many of the cells are real, only two descriptions are accurate, those for the plasma B cell and that of the out of context D cell. The diagrams are either uninformingly similar to each other, as an extremely generic diagram of a biological cell, or made to look somewhat like the item spoofed by the description.
+The title text is possibly a reference to this recent study: https://pubs.acs.org/doi/10.1021/acsnano.3c00638
+Name Real Lymphocyte? Randall's description Comment
+Plasma B cells Yes Churn out antibodies Does as the comic says.
+No parody, except for the very vague diagram of a cell with a perinuclear region within it that could also just be a fried egg.
+Naïve B cells Yes Try to stop pathogens by asking nicely B cells that have not yet been exposed to an antigen. Can only "ask nicely" for pathogens to stop because they cannot yet contribute to the immune system.
+Image remains as much just a 'fried egg' as the prior image.
+Memory B cells Yes Very quietly sing "Memory" from Cats at all times Long-lived B cells that "remember" an antigen they have previously encountered, allowing them to quickly respond to a reappearance of the same antigen.
+"Memory" is one of the most famous songs from the 1981 Andrew Lloyd Webber Cats musical, and the otherwise very similar diagram appears to be singing notes.
+Regulatory B cells Yes Required by local ordinance Suppress certain immune responses, or in other words, regulates the immune response, which is their actual namesake, as opposed to the made-up namesake of only being in the body because some regulation requires it.
+Cells do follow instructions from DNA, and their environment, which might be considered to be local ordinances. The image is again just another slightly different version of the generic cell image.
+CD8+ T cells Yes Melee combat Cytotoxic T cell, responsible for killing cells which are cancerous or infected. Named after the surface protein "CD8" ("Cluster of Differentiation") it uses when searching for targets.
+Possibly a reference to the tabletop gaming terminology where "d8" means 8-sided dice, "d4" means 4-sided dice, etc. D&D and many of its derivatives use d8s primarily for damage, particularly for some of the most common weapons like rapiers, longswords, and longbows, and also for several spells like Chill Touch or Ray of Frost. The image is again fairly generic without any gross distinction to it.
+CD4+ T cells Yes Scream at other cells T helper cell, releasing cytokines as a signal that prompts the immune system into action, thus "screaming" at other cells. Named after the surface protein "CD4" (see above), that is used for binding to other cells while "screaming".
+The generic cell image seems to be shouting "AAAAAAAAA!". Possibly also a reference to the D&D spell "Vicious Mockery" which may involve screaming and does damage based on a "d4" die.
+Gamma-Delta T cells Yes Unknown / classified T cells found largely in mucous membranes of the gut, with different T-cell receptors than normal. Effectively the immune system's first line of defense.
+The image, this time, has a dashed outer line and a question-mark instead of any nucleus. Delta Force is a famous military special forces organization involved in classified and not-generally-known operations, and its operatives are unlikely to be identified in publically available images.
+CDRW+ T cells No Rewritable, 700MB Here, the meaning of "CD" is switched from Cluster of Differentiation to Compact Disc, as in the CD-RW re-writable media format. 700 megabytes is a common size format for CDs.
+By skewing the 'cell' diagram into an oval, with concentric central 'nucleus' and adding some subtle radial and concentric lines, it now resembles a typical item of optical media.
+DVD+R T cells No Different from DVD-R, though no one is sure how DVD+R is a DVD format designed by HP Labs, while DVD-R (pronounced "dash R") came originally from Pioneer Corporation and was the earlier accepted system. The two formats are not trivially compatible, but many (re)writing DVD drives were made multiformat to automatically handle both of these, DVD-RAM, read/write versions and CD-density media, as necessary, under the general label of "DVD±RW". The user then ends up not usually needing, or bothering, to know the technical differences.
+Another 'skewed oval', with a few more lines (to perhaps suggest greater data density) but not functionally different from the prior diagram.
+Natural killer cells Yes Named by the world's coolest immunologist Kills cells infected by intracellular pathogens and other malfunctioning (e.g. cancerous) cells, similar to CD8+ cells but part of the innate immune system. Randall likes the name of these cells more than the next item, making Rolf Kiessling and Hugh Pross "the world's coolest immunologist(s)."
+The cell image is a bit more crinkled at the edge than any prior cell, but otherwise not remarkably distinctive.
+ILC1, ILC2, and ILC3 cells Yes Named by a significantly less cool immunologist Innate lymphoid cells, regulating the innate immune system through signaling molecules. Named in this paper in Nature by Hergen Spits, David Artis, Marco Colonna, Andreas Diefenbach, James P. Di Santo, Gerard Eberl, Shigeo Koyasu, Richard M. Locksley, Andrew N. J. McKenzie, Reina E. Mebius, Fiona Powrie and Eric Vivier, making them collectively much less cool than Kiessling and Pross above.
+Represented by three small cell-images, snuggling close to each other without touching, and no real reason to assume which of the three is which.
+D cells No Larger than C and AA cells, used in old flashlights This is not a blood cell, but a "D cell" battery. Much like living organisms, the components of batteries are called "cells" (which forms the basis of Randall's pun) and they can be single-cell or multi-cell, though the two are often indistinguishable from each other to the casual user. Biological cells called "D cells" or delta cells do actually exist, but they are not lymphocytes.
+The battery in the comic is drawn as a diagrammatic 'cylinder', the cell edge forming a round-ended rectangle with a faint 'nearside' line to hint at its 3D nature. The 'nucleus' is pushed into one end of the shape, reminiscent of the distinctive 'cap' to some batteries, commonly imitated, emphasizing the polarity of the item, but also represents a highly simplified version of how the electrolyte might be placed within the housing.
+Transcript[edit]
+[Title] Lymphocytes
+[Subtitle] And their functions
+[A 4 by 3 grid of frames, each containing the name of the lymphocyte, a visual depiction of the cell and a description]
+[Row 1, Column 1]
+Plasma B cells
+[Egg-like shaped cell with the nucleus right from the middle]
+Churn out antibodies
+[Row 1, Column 2]
+Naïve B cells
+[Almost circular cell with the nucleus in the middle]
+Try to stop pathogens by asking nicely
+[Row 1, Column 3]
+Memory B cells
+[Like panel 2, but with some music notes next to it, as if it produces sound]
+Very quietly sing "memory" from Cats at all times
+[Row 1, Column 4]
+Regulatory B cells
+[Like panel 2]
+Required by local ordinance
+[Row 2, Column 1]
+CD8+ T cells
+[Also oblong, but with the nucleus left from the middle]
+Melee combat
+[Row 2, Column 2]
+CD4+ T cells
+[Circular, with a large nucleus, saying ‘AAAAAAAAA!’]
+Scream at other cells
+[Row 2, Column 3]
+Gamma-Delta T cells
+[Dashed circle with a question mark in the middle]
+Unknown / classified
+[Row 2, Column 4]
+CDRW+ T cells
+[Shaped like a CD, with a large hole in the middle]
+Rewritable, 700MB
+[Row 3, Column 1]
+DVD+R T cells
+[Shaped like a DVD, with a bit smaller hole in the middle]
+Different from DVD-R, though no one is sure how
+[Row 3, Column 2]
+Natural killer cells
+[Irregularly shaped oblong cell with nucleus in the middle]
+Named by the world's coolest immunologist
+[Row 3, Column 3]
+ILC1, ILC2, and ILC3 cells
+[Three cells]
+Named by a significantly less cool immunologist
+[Row 3, Column 4]
+D cells
+[Cylindrical shaped ‘cell’, with a smaller cylindrical ‘nucleus’ inside it at the right, roughly shaped like a D battery]
+Larger than C and AA cells, used in old flashlights
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Battery cells have nothing to do with cell phones. The "cell" in cell phone is short for "cellular" and refers to the communication cells around each tower. Barmar (talk) 03:09, 14 March 2023 (UTC)
+And that's short for "sell you our phone" where the contract lets you buy it over an extended time that ends about the same time the spiffier replacement model is available. 172.69.70.209 10:42, 14 March 2023 (UTC)
+I was originally thinking the CD4+ would be a reference to Call of Duty 4 and onwards, in which players scream (insults?) at each other while playing. But the feeling has subsided, after considering it. Mentioning it here, though, in leiu of adding it as 'factual'. 172.70.162.47 06:06, 14 March 2023 (UTC)
+My interpretation was that 'D4' referred to the music pitch D_4, whicch might've been someone screaming, but I'm also reconsidering this now actually. Rpgcubed (talk) 23:46, 16 March 2023 (UTC)
+The screaming at the d4 dice is likely because of its pointed shape in relation to stepping on it; a common DnD trope. 141.101.76.238 13:34, 22 March 2023 (UTC)Stu the DM
+It should have bee Natural Born Killer Cells, but some opportunities were always going to be missed... --172.71.178.187 07:16, 14 March 2023 (UTC)
+"Gamma-Delta T cells" being "unknown/unclassified" could be a reference to Star Trek, which has the galaxy divided into 4 quadrants: Alpha, Beta, Gamma and Delta. The Delta Quadrant (setting of Start Trek Voyager) and the Gamma Quadrant (seen in Start Trek Deep Space Nine) are unexplored and uncharted from the Federation's point of view. 162.158.129.51 09:23, 14 March 2023 (UTC)
+Doesn't say "unclassified" but "classified". I don't think the Star Trek quadrants are referred to as "classified". Inquirer (talk) 02:29, 15 March 2023 (UTC)
+I had in mind just general "above Top Secret" classifications (or reputed ones) like "Omega Level, Burn before reading" or somesuch. Either that or perhaps 'Greek system' fraternities/sororities and secret societies in general (perhaps there's a Gamma-Delta-Tau, or similar, out there) which seem to be a US cultural thing that seems ripe for Randall to spoof about.
+Bear in mind that he's taking (mostly) real naming conventions and just explaining them funnily (hence why not "Natural Born Killer" cells, mentioned above, which was my first thoughts on reading as well), so shoehorning a Trek reference in without making it more explicitly Trekkie in the 'free description' bit seems a bit like it wasn't even the point.
+My money's on the security level, as an intention. At least until someone comes up with a better cultural reference that fits better but that I hadn't known/remembered on the initial reading. 172.70.85.57 13:33, 14 March 2023 (UTC)
+So who is/are "the world's coolest immunologist(s)," who got to name Natural Killer cells (NK cells)? Doctoral student Rolf Kiessling and postdoctoral fellow Hugh Pross may have found them, but did they get to name them? Likewise, who is/are the "significantly less cool immunologist(s)" who named ILC1, ILC2, and ILC3 cells? TCMits (talk) 15:20, 14 March 2023 (UTC)
+Their original paper describing them referred to them as "natural" killer cells, so their use of quotes implies that it was a new title they had come up with. Ahecht (talk) 16:13, 14 March 2023 (UTC)
+Definitely the "coolness" factor is in the naming, not in the discovering. All the discoverers are equally "cool". But coming up with the name "Natural Killer Cells" is orders of magnitude cooler than ILC1, ILC2, and ILC3 (blaaah). Rtanenbaum (talk) 16:11, 14 March 2023 (UTC)
+Regarding the Gamma-Delta cells being "unknown/classified" seems to be a reference to US Army Delta force commandos who are tasked with top-secret highly classified missions that would be unknown even to other military or political officials.(corrected thanks to Ahecht) Rtanenbaum (talk) 16:11, 14 March 2023 (UTC)
+The comic says "unknown/classified", not "unknown/unclassified". Ahecht (talk) 16:16, 14 March 2023 (UTC)
+Coincidentally on the same day this comic was released two immunologists received the Paul Ehrlich Prize for their work on the evolution of the "learning" immune system. No clue if this is relevant, not my field of expertise. ;-) --198.41.242.166 05:29, 15 March 2023 (UTC)
+Whoever added the D&D references to D8 and D4, thank you. Was totally unexpected, and as a DM, I laughed so hard I cried. 172.70.126.232 13:54, 15 March 2023 (UTC)
+Team effort. When I found it, it just referenced tabletop games in general. I changed it to D&D specific, because that's really what it is. Most games use d8 for damage like most sports only allow goalies to touch the ball with their hands. 172.70.174.43 05:58, 16 March 2023 (UTC)
+Pedancy: "...allow only goalies...", as goalies generally are allowed to kick/head/etc, in such sports where others can't handball. Ignoring the "most sports" bit altogether, as I don't know how what your scope is (only those with goalkeeping-roles, by whatever name?), how you're tallying it up (by basic list? Participation-weighted? Spectator-weighted?) and the rest... ;) 172.71.178.65 12:40, 16 March 2023 (UTC)
+My point was that the previous version that stated most games used d8s for damage is only true if you count the number of tables at which games were going on at any given time, while it could be taken as suggesting that the majority of game rulesets used the convention. Similarly, you could argue that most sports forbid non-goalies from touching the ball with their hands, because of the large number of sporting events worldwide do feature that restriction. 172.71.222.132 19:02, 16 March 2023 (UTC)
+"Vandalism?" - Yes, certainly, and you got there just before I undid it. And probably the usual suspect. Mods: please continue to do the necessary... The idiot concerned probably won't stop, but it'd be nice to tidy away some of the more obvious garbage they're littering up the system with. 172.70.85.57 15:08, 15 March 2023 (UTC)
+Please, follow WP:GOODFAITH and assume good faith in these edits; maybe they were testing the MediaWiki software before thinking about how to contribute. 172.64.238.49
+I'd assume good faith by default, but when you see repeat instances of that kind of change (amongst others), it's clearly no longer a matter of a single 'test', inadvertent error, honest misunderstanding, etc... Yep, that's a recurring form of vandalism, I would concur. 172.70.85.56 21:05, 16 March 2023 (UTC)
+Does anyone else think the title text could be a reference to plasma weapons in sci-fi?
+Categories: All comicsComics from 2023Comics from MarchMonday comicsBiologyScience

@@ -1,0 +1,93 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2558: Rapid Test Results
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2558)
+|<< PrevComic #2558 (December 22, 2021)Next >>|
+Rapid Test Results
+
+Title text: A solid red area with two white lines means that you have been infected with the anti-coronavirus, COVID+19, which will cure anyone you have close contact with.
+Explanation[edit]
+This comic is another in a series of comics related to the COVID-19 pandemic.
+This comic is a joke about COVID-19 rapid lateral flow test results. These devices are used in many countries for individuals to test their own nasal and oropharynx fluid for evidence of COVID-19 virus to detect asymptomatic infection. These tests have two indicator strips - a test line for covid-19 and a control line to check the device is working correctly. Where a control line is not present, the test should be ignored and repeated. Until comparatively recently pregnancy was the occasion most familiar for requiring this form of test.
+The first 2 answers are the standard indicators for a negative and positive result, but Randall takes this to absurdity, see below in the table.
+The title text interprets the hyphen in "Covid-19" as a negative sign to make a mathematical joke. Here Randall postulates a counterpart virus to Covid-19, resulting in a test with inverted colors, which he names Covid+19. When combined this anti-coronavirus exactly matches the original one and results in zero Covid, curing those who had previously been infected.
+This was the last comic before this year's Christmas comic. It was about Covid-19 testing. The last comic before the 2020 Christmas comic, 2402: Into My Veins, was about the Covid-19 vaccine.
+Table of results[edit]
+Result Interpretation Explanation
+Control line only Negative As for all such actual tests, the Control line indicates that the test has run without error. Without this Control line (which always shows on a correctly functioning test after proper use), a lack of result on the test strip is meaningless.
+A control line with no Test line indicates that the molecule being tested for is not present.
+Control and test line Positive This clearly shows the (un)desired test result, with both the Control line and the indicator of the tested-for condition.
+2 wavy lines resembling the approximately equal sign Approximately positive While it would be possible to make the test produce wavy line(s) by default, and some versions 'activate' more complex patterns such as tick-marks or wording, these are still binary yes/no results. The waviness or other patternation would not normally be contingent upon the testing state it must reveal, and the complicated pattern could result in a fainter Test line (However, NHS advice states that any positive line, no matter the strength, should be considered a positive).
+A real test intended to produce straight lines might become wavy if manufactured poorly. Two lines would still indicate a positive test, but the poor quality of the device calls into question that result - making "approximately positive" an appropriate description.
+Whilst this may have been unintended, it is worthwhile noting that lateral flow tests sacrifice some accuracy in order to be quick and cheap. They therefore have some risk of false-positive test results, hence the need for a follow-up gold-standard laboratory controlled confirmation test. In this sense, a positive rapid test result would give an approximately positive result.
+2 lines closer together than usual Positive (college ruled) This is the same as the Positive result, just with less distance between the two lines. College ruled refers to how college ruled notebooks in the United States have narrower spacing between the lines.
+Again, there is no simple way to make the test reveal different patterns as a result-indicator of any qualitative or quantitative result; this is not a different result from the original Positive. It also remains more desirable to maintain an easily-identifiable separation between lines and not risk the Test and Control lines bleeding together into one.
+Five lines of decreasing lengths Good cell signal Mimics the standard image for a strong mobile (or cellular in the United States) phone signal.
+This implies that the Rapid Test being used in the comic can also detect cellphone signals, which is both strange and useless for someone trying to test themselves for COVID-19 (but useful to know if you're planning to call a hospital). Furthermore, it is unknown how a chemical test can pick up on electromagnetic phenomena involving radio waves.
+2 lines on a background of radiating lines Did you know these lines are actually parallel? This is a reference to an optical illusion called the Hering illusion, where two parallel lines appear to bend outward.
+Whether the radial lines can (or should) be designed into the test has no bearing upon the core test, and probably won't cause misidentification of whether the test reveals one or two clear "straight" lines.
+Multiple lines in the shape of a scary stick figure The Blair Witch is near In the found-footage movie The Blair Witch Project, stick figures shaped like this indicated that the Blair Witch was near.
+The type of rapid test used for COVID-19 probably does not have any useful method for revealing the proximity of witchcraft,[citation needed] unless a witchcraft-related molecule could be identified that can be indicated within the sample material itself.
+Three lines Click to expand COVID menu A reference to hamburger buttons, an icon that is widely used on websites to reveal a menu. It is especially used on mobile versions of sites designed to be read on a small screen, where compressing a menu until needed saves space.
+This seems to show that the test can provide more data via a hidden menu, which shouldn't be able to fit on a small screen such as the one shown in the comic. Many COVID-19 tests have associated apps alongside the rapid test device for better analysis and dissemination of the results, but such an app isn't normally integrated into the rapid test device itself.
+Transcript[edit]
+[Header above the comic:]
+Interpreting Rapid Test Results
+[What follows is a set of 8 possible rapid test results for COVID-19.]
+[One line on the "C".]
+Negative
+[Two lines, one on the "C" and one on the "T".]
+Positive
+[Two curvy lines on the "C" and the "T", resembling the "approximately equal" sign.]
+Approximately positive
+[Two lines, not on the "C" or the "T", but they are instead closer together.]
+Positive (college ruled)
+[Five lines resembling a cell signal symbol.]
+Good cell signal
+[Two straight lines, on the "C" and "T", with lines going outward from the centre, giving an illusion of the lines being curved.]
+Did you know these lines are actually parallel?
+[One line on the "C", and two lines in a cross with one line sticking upward of the center of the cross.]
+The Blair Witch is near
+[Three lines, with one on the "C", one on the "T", and one in the middle of the "C" and "T".]
+Click to expand Covid menu
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+As a Brit, I had to go away look up College Ruled, which I thought might be more exotic than it actually turns out to be, but a nice set on the whole. Someone is doubtless on top of the Explanation editing already (despite being unusually early, on the clock, as published!) so I'll let them have the fun. 172.70.90.71 16:59, 22 December 2021 (UTC)
+As a fellow Brit, I share your pain at these revolting colonials mangling our mother tongue. Why not just call it "narrow ruled" like us? Kev (talk) 19:23, 22 December 2021 (UTC)
+As an American, I can say that the reason that medium (or "college") ruled paper is not known as "narrow ruled" is because they are two different things. College ruled paper had lines spaced 9/32" (~7.1 mm) apart. Narrow ruled paper has those lines only 1/4" (6.35 mm) apart. --172.70.35.70 19:53, 22 December 2021 (UTC)
+Narrower, or less narrow, you can have better descriptions of line separation than "college". Like picas or other measurements (fractuons of inches or metric, as now given).
+My first thought was that "College Ruled" was an inconstant ruling (e.g. alternating wide and narrow spacings, perhaps for handwriting guides to appropriately constrain ascender and descender strokes) or some variation akin to 'blank' sheet-music paper with staves*. If it's just comparatively narrower (than..? ...all lined paper that is wider-spaced?) then it was not obvious without knowing the 'local' naming convention.
+Whatever the standards we have here (I'm sure it's measurement-based, or possibly how many lines the sheets have crammed onto them) the presence or absence of a left-hand margin was the obvious big difference at some point between Primary/Secondary ('school') education and Tertiary ('college'). I think when young we had to rule our own margins, then at some point the books became preruled, but maybe it wasn't that way at all. By university, you just bought a pad of whatever paper you wanted/was on sale, though, for everything but lab-books. ;)
+(* - One variation of that we had in school was alternating 'normal' exercise-book lining with stave-marked paper, but I only had that in music classes where (because it was heavy on 'foundation' history of music stuff) we hardly did anything on the stave-ruled paper and instead were committed to writing out dictations of how monks developed notations to codify their religious chantings, etc, etc. It was not a very memorable class, for any of the good reasons you'd hope, but the 'special exercise books' (as also the mathematics ones with one page standard-lined, the next graph-papered, though the latter were at least usefully used more, and not just for doodling!) were one of the things I can still recall after 40-or-more years...) 172.70.86.22 20:49, 22 December 2021 (UTC)
+
+I thought the joke in the title text was that while COVID-19 infects nearby people, COVID+19 does the opposite, uninfecting people. If it annihilates COVID-19 like antimatter, that will release enormous amounts of energy, likely destroying the people involved. If you're disintegrated, it's of little help that you've been "cured". Barmar (talk) 20:41, 22 December 2021 (UTC)
+Hmmm ... infected person is supposed to have up to 100 billion of virions ... that's still less than 0.1mg ... but that would be about 9GJ or 2 ton of TNT ... yeah, I don't think it would matter they are cured. -- Hkmaly (talk) 22:34, 22 December 2021 (UTC)
+2 tons of TNT easily explain the "curing everybody in close contact", though 162.158.92.101 08:45, 23 December 2021 (UTC)
+
+Would Covid+19 maybe have a positive Effect on health, because it is positive instead of negative? And would a Covid+-0 be neutral? In any case it is not stated that it has a negative effect or that it gets annihilated when meeting Covid-19, so I changed the last paragraph a bit. -- 256.256.256.256 (talk) 08:27, 23 December 2021 (UTC)
+Jeez, why is Randall so afraid to say "coronavirus"? If I didn't read the last line I would have thought this was about pregnancy tests! I've never seen a covid test before...- 172.70.178.113 09:49, 23 December 2021 (UTC)
+a) Subtle humour that creeps up on you? (N.B., the following points suggest not, but YMMV.)
+b) Didn't think it necessary. I've not seen a Covid LFT, either, but it seemed obvious from topicality, and if the last line would have been riffing on pregnancy I'd have been even more surprised...
+b).i.: Actually, if it had been a pregnancy-tester joke, I'd expect it to be a sort of "conception reveal party" moment, and maybe congratulating Randall and his partner!
+c) He actually does say Covid (more than he ever did in the infection-to-stop-infection comic!) and I don't think he's scared of saying it, but perhaps at some level (though he's probably failing to do this) he's just not wanting to BE IN THE FACE of some people who can't handle it.
+c).i.: Though not making comics even vaguely related to viruses or testing would be the solution to that. Which is clearly not his chosen path as he still is pushing what some (not me!) would call a blue-pill agenda.
+...it's all eye-of-the-beholder. I've had other comics bewilder me (or at least I wandered off down the wrong garden-path at first), and looks like that happened to you. Congratulations, you're (presumably) only human! 162.158.159.11 10:45, 23 December 2021 (UTC)
+Apart from the title text, this comic actually could apply equally to pregnancy tests (up until now the most commonly available type of lateral flow test kit) or any other single-reaction lateral flow test kit. I presume CoVID rapid antigen test kits are in the news where Randall is, because of the announcement that they would soon be made available free of charge in the US, on the day the comic was published (Citation needed). In the future when they fall out of circulation or other types of tests become more common, the joke will still stand. 108.162.249.15 12:35, 23 December 2021 (UTC) edit: and I missed the fact that the last panel actually has the word COVID. Ahh well. 108.162.250.182 12:49, 23 December 2021 (UTC)
+First of all so many comics have been about covid-19 (this was no. 87 and the second this week, hope we get a corona free x-mas comic tomorrow!). Secondly the word Covid is used in the main comic, not just the title text, just as the original poster says: "Click to expand COVID menu". So no issue for Randall to mention Corona/covid. He just did not mention it specifically in the previous. --Kynde (talk) 18:22, 23 December 2021 (UTC)
+Yes the image is more familiar from pregnancy tests, but the repeated title says "Rapid Test". Around here that's what we call the at-home Covid tests that a LOT of people are learning to use right now before their holiday travel. It's in contrast with PCR tests, which take hours to days and require special laboratory equipment. 172.70.110.171 22:43, 23 December 2021 (UTC)
+Missing test results[edit]
+Am I the only one, who is missing at least two more test results? Like:
+≠ not positive
+± positive and negative
+--162.158.91.148 11:06, 23 December 2021 (UTC)
+I concur, maybe expand to
+Constructive/Deconstructive interference from the approximately positive results
+Taking a rapid test 14 hours after submission of a college module provides a digital read out of your grade
+White Lines (Don't Don't Do It) plays when you move within 2 metres of a covid-infected individual
+Blurred Lines plays when an antivaxxer gets a vaccine Kev (talk) 21:40, 23 December 2021 (UTC)
+The third panel refers to the mathematical symbol for "approximately" (≈). The long-winded explanation in the table misses the point. -- 172.68.234.233 (talk) (please sign your comments with ~~~~)
+The third panel is literally written up (first column) as "2 wavy lines resembling the approximately equal sign" (with wikilink). The long-windedness that follows in the third column is over-analysing, maybe, but the 'core' point isn't missed at all. You are of course free to edit, so long as you're aware that so are others.
+PS, it is polite to sign Talk-page additions (with the four tildes, or two dashes and four tildes if clicking the right button above)) when adding a comment. HTH, HAND. 172.70.162.147 15:52, 24 December 2021 (UTC)
+Categories: All comicsComics from 2021Comics from DecemberWednesday comicsPages using the "citation needed" templateCOVID-19Comics with colorChartsFiction

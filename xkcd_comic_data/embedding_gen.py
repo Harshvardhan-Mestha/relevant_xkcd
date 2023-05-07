@@ -31,7 +31,7 @@ def extract_explanation(n):
     options.add_argument("--headless=new")
     driver = webdriver.Chrome(options=options)
     driver.get("https://www.explainxkcd.com/wiki/index.php/"+str(n))
-    driver.implicitly_wait(1.5)
+    driver.implicitly_wait(2)
 
     exp = driver.find_element(By.ID,'content')
     with open("./xkcd_comic_data/comic_raw/comic_"+str(n)+"_raw.txt", "w") as f:
@@ -66,7 +66,7 @@ def generate_embedding():
 #generate_embedding()
 
 def extract_all_exp():
-    for i in range(2225,total_sites+1):
+    for i in range(2657,total_sites+1):
         extract_explanation(i+1)
 
 extract_all_exp()

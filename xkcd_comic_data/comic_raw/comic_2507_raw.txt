@@ -1,0 +1,41 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2507: USV-C
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2507)
+|<< PrevComic #2507 (August 25, 2021)Next >>|
+USV-C
+
+Title text: Ultra-Serial Violet C light is unpolarized, so you don't have to flip the polarizing filter over when you get the orientation wrong the first time.
+Explanation[edit]
+This is the fourth installment in the series of Cursed Connectors and presents Cursed Connectors #280: USB-C to UV-C. It follows 2503: Memo Spike Connector (#102) and was first followed just a bit more than half a year later by 2589: Outlet Denier (#78).
+This comic depicts a cable that converts from USB-C (at the top of the picture) to UV-C (at the bottom).
+USB-C is a rotationally symmetrical Universal Serial Bus (USB) connector. UV-C is a range of ultraviolet light with wavelengths between 100 and 280 nm. This is often used as a germicide, so this comic may also be related to the COVID-19 pandemic. The U.S. Food and Drug Administration (FDA) has an infosheet with information about these devices and COVID-19. And the connector number (280) is likely chosen because it is the boundary between UV-C and UV-B in nanometres.
+Similar cables actually exist, with a USB port at one end to power a small (usually visible light) lamp at the other. A cable with a UV-C lamp could, as noted above, be useful for disinfecting surfaces or verifying banknotes [actual citation needed]. However, the depicted design would be problematic because it would expose the user's skin and eyes to harmful ultraviolet radiation, unless it's specifically Far-UVC (222nm, safe for human skin and eyes).
+Unless there is more to the UV-C end than indicated, the cable seems not to have use in bidirectional communication (even to confirm that it is plugged in or shone upon some suitable optical transceiver) so in any data transfer situation it could be a limited-range broadcast-only system at best - which has its uses in certain niche cases.
+The title text mentions that the UV-C is unpolarized. This is a pun with two uses of the term polarized. When referring to a connector 'polarization', or absence of it, it means that USB-C does not force you to use a single correct orientation when using it, i.e. you don't have to turn it "right-side-up" like USB-A or USB-micro.
+It also refers to the use of a polarizing filter which takes unpolarized light waves and blocks out the waves that are not oriented in the same direction. These are used in sunglasses and photography to eliminate glare and enhance the image. These filters do need to be oriented in a specific direction in order to have the desired effect of passing/blocking a given polarization, perhaps to separate two perpendicularly orientated 'channels' that need to be unmixed exactly knowing the respective orientation of the two signals (or exactly 180° out, which is what USB-C effectively allows for at present).
+The light could also have been circularly polarized, which allows 'left' and 'right' rotating polarizations to simultaneously carry separate signals, but not require the same strict orientation to operate properly, at all, so long as arbitrary mirrors are not involved at any stage of the optical path. Regardless, the implication here is that there is no deliberate rationalization of the light to contend with, anyway, which seems to be just making a positive point out of a potentially lost opportunity to double any intended signal bandwidth. The name "Ultra-Serial Violet..." could be read as consciously eschewing all attempts at parallelism, including talkback.
+Transcript[edit]
+[A cable with a curled wire displays the end of both of its connectors. The top end has a USB-C connector and the bottom end has a UV-C LED. The UV light is shown coming out of this end with a hazy blue circle around a white middle. The lamp is also bluish. Above is a title and below is a label.]
+Cursed Connectors #280
+USB-C to UV-C
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I just did my first edit! It'll definitely get changed, but I guess this is good enough for a start
+162.158.89.204 16:30, 25 August 2021 (UTC)
+that's not as absurd as it sounds. there are optical usb cables which work by converting the usb signals to and from light signals.162.158.92.83 16:48, 25 August 2021 (UTC)
+I bet this is going to be an xkcd that gets recreated in real life.
+108.162.215.87 17:01, 25 August 2021 (UTC)
+There are ultraviolet LED lamps that are powered at 5V with an USB connector. xkcd in real life it's already done. 141.101.105.27 17:57, 25 August 2021 (UTC)
+I've been unable to find one with a hardwired male USB-C plug in a quick Google search. Though, there are many portable UV-C lamps which would count as USB-C socket to UV-C, so you could add on a USB-C plug-plug adapter and emulate this XKCD with two chained adapters. 172.69.71.69 19:20, 25 August 2021 (UTC)
+Am I the only one to think "from C to shining C"? And I'm not even American. 141.101.76.209 20:00, 25 August 2021 (UTC)
+It could be as simple as a UV lightbox integrated into a USB EPROM programmer. Have a few in the back erasing while you're programming a few in the front. --Tepples (talk) 22:42, 25 August 2021 (UTC)
+It could be that the light flashes on and off for data or something. --198.41.238.51 05:35, 26 August 2021 (UTC)
+Regarding getting it backwards the first time: an old engineer I worked with back at the beginning of my career 40 years ago used to say (speaking of serial cable pins, but applicable here also): always just try connecting it at random. That way you'll have a 50% chance of being right. If you try to figure it out first, your odds go way down. Gbisaga (talk) 13:03, 27 August 2021 (UTC)
+Germ killing can't be connected to COVID. COVID is a virus, not a germ. --141.101.77.69 15:19, 28 August 2021 (UTC)
+https://www.merriam-webster.com/dictionary/germ Definition 3: : "a microorganism causing disease : a pathogenic agent (such as a bacterium or virus)" Kempsridley (talk) 16:02, 2 September 2021 (UTC)
+Is this article still incomplete, or can the tag be removed now? Kempsridley (talk) 16:10, 2 September 2021 (UTC)
+Looks like someone's actually prototyping this, using Far-UVC (222nm) which is safe for human skin and eyes Sabik (talk) 01:02, 29 June 2022 (UTC)
+Categories: All comicsComics from 2021Comics from AugustWednesday comicsComics with colorCursed Connectors

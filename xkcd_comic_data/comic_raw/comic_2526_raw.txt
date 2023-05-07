@@ -1,0 +1,50 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2526: TSP vs TBSP
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2526)
+|<< PrevComic #2526 (October 8, 2021)Next >>|
+TSP vs TBSP
+
+Title text: It's like one teraspoon / when all you need is a kilonife
+Explanation[edit]
+This is another one of Randall's Tips, this time a Cooking Tip.
+This comic plays a joke on the common liquid measurements of teaspoons (tsp) and tablespoons (tbsp), which are commonly confused. In the US, a teaspoon is defined as 4.9 ml (0.18 imp fl oz; 0.17 US fl oz) while a tablespoon is defined as 14.8 ml (0.50 US fl oz; 3 tsp).
+It also plays a joke on metric prefixes (based on powers of 10) versus binary prefixes (based on powers of 2), which are also a common source of confusion (see also 394: Kilobyte). In the International System of Units (SI), T (for tera-) signifies a multiplier of 1012 (that is, 1 000 000 000 000), while Ti (tebi-, for terabinary), and not Tb, is an ISO standard binary prefix meaning 240 (that is, 10244 = 1 099 511 627 776).
+If "spoon" is understood as US teaspoon, then one teraspoon will be 4 928 922 cubic meters (1.302 billion US gallons or 3996 acre-feet) and a binary teraspoon will be 5 419 407 cubic meters (1.432 B gal or 4394 acre-ft). If the US tablespoon is taken as base unit, a teraspoon will be 14 786 765 cubic meters and a binary teraspoon 16 258 220 cubic meters – roughly equivalent to six thousand Olympic-size swimming pools or slightly more than six times the volume of the Pyramid of Giza. All these units have fairly limited uses in cooking.[citation needed]
+The title text is a play on a lyric from the Alanis Morissette song "Ironic": "It's like ten thousand spoons when all you need is a knife." Randall changes the line to "teraspoon" and "kilonife". The "kilonife" comes from knife being interpreted as "nife" with a k prefix – k being the SI symbol for kilo- –, in a similar vein as taking tsp for "teraspoon". "Nife" is a geophysical name for Earth's core, thought to be composed of nickel and iron, and hence the word comes from the chemical symbols Ni (nickel) and Fe (iron).
+Transcript[edit]
+Cooking tips: tsp vs tbsp
+[left column:]
+Tsp
+Teraspoon
+1,000,000,000,000
+(1012) spoons
+[right column:]
+Tbsp
+Binary tsp
+1,099,511,627,776
+(10244) spoons
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The title text refers to lyrics in the Alanis Morissette song Ironic -MonteCarloe 172.70.126.211 16:59, 8 October 2021 (UTC)
+I wonder why Randall used 1024^4 instead of 2^40. -MonteCarlo 162.158.74.150 17:10, 8 October 2021 (UTC)
+To highlight the similarity between 1000 and 1024, I suppose.--Pere prlpz (talk) 18:03, 8 October 2021 (UTC)
+And a byte is 1024^0 bytes, kilobyte=1024^1, megabyte=1024^3, etc. Talking entirely in terms of 2^10N loses the sheer simplicity and easy approximation.
+(Though not as much as 'short' -illions. 5.45 trillion? That's 5, then the decimal padded/shortened to exactly three figures (450), then three sets of three zeros. Stupid system.) 172.69.54.136 18:20, 8 October 2021 (UTC)
+A table with common or interesting volumes measured in teraspoons would be a good addition.--Pere prlpz (talk) 18:03, 8 October 2021 (UTC)
+he did kilonife kiloknife because the k in knife stands for kilo 172.70.34.91 18:26, 8 October 2021 (UTC)Bumpf
+I thought this was a play on storage (esp. hard drives) advertising 1000-based capacities (1TB=1000GB) whereas computers tend to measure in 2^ sizes (1TB=1024GB) to make them seem bigger on the packaging. IIRC some cloud platforms distinguish between GB and GiB of Ram, for instance. Mike-jed (talk) 19:38, 8 October 2021 (UTC)
+XKCD again with its timing… Just 3 days ago I used a TBSP when I should have used a TSP. Two comics earlier, #2524, was about a long-period comet coming close to Earth and on the same date (October 4th) as a long-period comet coming close to Earth in the movie "Your name". Fabian42 (talk) 21:47, 8 October 2021 (UTC)
+
+1 mL = 1 cm * 1 cm * 1 cm. 1 m = 100 cm. 1 m^3 = 100 cm * 100 cm *100 cm = 10^6 cm^3. 1 tera-whatever = 10^12. 10 ^ 12 / 10 ^ 6 = 10 ^ 6. I respectfully submit that the estimate of how many cubic meters there are in a tea-teraspoon is off by three orders of magnitude, and should be approx. 5 * 10 ^6 cubic meters, not 5 * 10 ^ 3 cubic meters. However, it is late afternoon locally, and my math skills typically erode severely at this time of day, I could well be embarrassingly wrong. Someone meticulous and more awake should check and cast a deciding vote. -E. Schori
+Alanis Morissette describes a situation where the ratio between available spoons and required "nifes" is 10:1 (10 kspoon vs 1 knife). Why doesn't the title text say "one teraspoon when all you need are 10^8 kilonife"? Is there a reason I don't get? Or does it simply sound better to have a single kilonife? Or are the numbers from the title text arbitrary? This conundrum is totally bugging me out! -mape
+Most importantly: What is a nife? In German "Nife" is the name for Earth's inner core (Ni+Fe = Nife). But in English the word doesn't seem to exist. I get the joke of a knife being 1k nifes (or nives?) but the joke would be even better if "nife" existed in the first place. Elektrizikekswerk (talk) 11:20, 11 October 2021 (UTC)
+Addendum: If "nife" does indeed not exist wouldn't that mean that a (kilo)nife is simply nothing? (Yes, I know that I'm overthinking this, but I find it curious) Elektrizikekswerk (talk) 11:23, 11 October 2021 (UTC)
+It seems nearly impossible to add a citation to the statement that "All these units have fairly limited uses in cooking". Perhaps it might be better to state something along the lines of "All these units are very large and not commonly used in cooking", and then cite the NIST.gov Metric Cooking Resources page (https://www.nist.gov/pml/weights-and-measures/metric-cooking-resources) which lists TSP & TBSP but does not list Teraspoons and Tebispoons? MrYellow04 (talk) 17:33, 11 October 2021 (UTC)
+I retract my previous statement. After reviewing the FAQ for this wiki, I've learned that the "citation needed" template is meant to be used only when it conveys a deeper sense of humor, not necessarily as an actual call for a citation. I apologize for my previous statement; I am new to this wiki and did not understand all of the etiquette and common practices. I have not edited the wiki page, and the original statement "All these units have fairly limited uses in cooking" that I had previously discussed possibly changing has not been altered. MrYellow04 (talk) 17:42, 11 October 2021 (UTC)
+Aye, it's bit of an in-joke that arose from Randall's use of the phrase for mostly-inarguable axioms in What-Ifs, rather than his Wikipedia Protestor comic. But if it had to be linked to something, that page is as logical as any other.
+Some people think it's overused. Other people dislike the people who think it's overused and then are removing what these others think is actually quite a funny joke. Anybody who comes fresh to the Wiki (more used to other Wikis), like yourself, can be a little discombobulated by all the use of this particular shibboleth.
+(Me, I think there's nothing wrong with an in-joke, in moderation. It's a bonus for the uninitiated as they gradually lose the 'un-' through exposure and realisation. Welcome to the club!)162.158.92.131 22:05, 11 October 2021 (UTC)
+Categories: All comicsComics from 2021Comics from OctoberFriday comicsPages using the "citation needed" templateComputersTipsMathFood

@@ -1,0 +1,135 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2611: Cutest-Sounding Scientific Effects
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2611)
+|<< PrevComic #2611 (April 25, 2022)Next >>|
+Cutest-Sounding Scientific Effects
+
+Title text: The Stroop-YORP number of a scientific paper is how many of the 16 finalist names (sans 'effect') it manages to casually sneak into the text.
+Explanation[edit]
+Randall has compiled yet another single-elimination tournament bracket for a knock-out competition, by public vote, between 16 different scientific effect names that he seems to consider worthy of being cute-sounding.
+As of the release day, he is determining the result in a series of Twitter polls. These results are shown here.
+See below for explanations for what each of the 16 effects are.
+Several unrelated scientific effects were previously combined in 1531: The BDLPSWDKS Effect, which also included the Stroop effect (the last S).
+In the title text, Randall coins the term "Stroop-YORP number" as a count of how many 'casual' references a future publication can sneak into it from the 16 finalist names for cutest effect. It specifies that it should be without the word effect after the words (sans 'effect').
+Tongue-in-cheek 'counting scores' are familiar in the likes of the Erdős and Bacon numbers, both of which are referenced by 599: Apocalypse (the latter only in the title text). In these cases the ideal is to get the lowest number, whereas here higher is better. The cross-field hybrid Erdős–Bacon number is one in which the desired score is the lowest sum of both values (neither being undefinable) by dint of having participated in both arenas of respective achievement, but not necessarily (or practically) in a single combined presentation.
+For instance the Stroop-YORP number could be high for a wildlife paper. That could possibly use "butterfly" and "rabbit" (possibly needing the latter to be specifically 'cutaneous', to count), which may both be found in "little parks" with some "popcorn" seen littered around without too much "oddity"; and of course a (Dr.?) "fox" could be in the area, getting a score of 6. But other words may be a stretch, with an imaginative reference to a "woozle" possibly easier to employ than to evoke anything of the "nocebo".
+On the other hand, for a space-science paper there may be more obvious (mis)uses for physics-related terms, and mentioning YORP might well be expected. But it may need creative thinking to introduce the rabbit or the more psychological idea of Stroopicity, etc, without reason to discuss the responses of animal or human payloads being sent there.
+It is not actually obvious whether Randall intends the score to only be valid if the insertions are off-field and/or undetected, such as when someone is wagered that they can slip unrelated song lyrics or a 'hello' to Jason Isaacs into a public speech without the rest of the audience twigging.
+A search of google scholar indicates many articles with a score of 2 (e.g. this paper, which refers to butterfly shaped popcorn), but 3 or more seems to not be attested.
+Effects[edit]
+YORP effect
+The YORP effect is the effect of sunlight on an asteroid with variations of shape and/or albedo, which can increase its rotation rate and/or modify its axis of rotation. It can cause objects to eventually spin apart or drastically change their orbit.
+It is an acronym of the names Yarkovsky, O’Keefe, Radzievskii and Paddack, who were instrumental in its discovery. More than a century ago, Yarkovsky determined that heat applied to a symmetrical rotating body would be asymmetrically re-emitted and apply a small but continuous thrust, and this was added to by considering the forces to non-symmetrical bodies.
+Nocebo effect
+An effect in which a recipient of medication who believes that it will have negative side-effects is more likely to experience those negative side-effects, whether they can be really caused by the medication or not. Opposite of the placebo effect, which focuses on positive side-effects that arise beyond the true efficacy of a given treatment.
+Nocēbō is Latin for “I shall harm”, coined to oppose placēbō, “I shall please”.
+Woozle effect
+If a study gets repeatedly cited and otherwise disseminated, then people will start to believe it regardless of whether it has any evidence behind it. And if there is not any evidence, it becomes an urban myth.
+Named after a Winnie-the-Pooh story in which Winnie-the-Pooh and Piglet try to catch an imaginary animal called a woozle, and accidentally follow their own tracks in circles.
+A similar effect was discussed in 978: Citogenesis, wherein a sourceless statement on Wikipedia can become apparently credible via simple repetition.
+Stroop effect
+The Stroop effect (referenced in 1531: The BDLPSWDKS Effect) is a psychological phenomenon in which it is easier to name the visual color of a word when the word refers to its own color, than when the word refers to a different color; i.e. the fact that saying that Red is red is easier than to say that Blue is green.
+Named after John Ridley Stroop.
+Pockels effect
+A phenomenon where an electric field passed through a medium can cause the medium's refractive index to depend upon the polarization and propagation direction of the refracted light, a property known as birefringence.
+Named after Friedrich Carl Alwin Pockels.
+Cheerios effect
+A phenomenon where objects floating in a liquid appear to attract or repel each other.
+Named after the cereal Cheerios, which are an everyday demonstration of this phenomenon because many eat Cheerios in a bowl of milk.[citation needed]
+Hot chocolate effect
+A phenomenon where the sound created by tapping a cup of hot liquid rises in pitch as a soluble powder is added.
+Perky effect
+An experiment in which participants were asked to visualize an object while staring at a screen on which the outline of that object was subtly projected. Participants believed the projected shape to be only a product of their imaginations.
+Named after Cheves Perky.
+Bouba/kiki effect
+An observation that people, despite different native languages, will relatively consistently assign names with certain sounds to blobby or spiky shapes, suggesting the association of sound and shape is non-arbitrary. Bouba and kiki were two of the words used in the experiment.
+Cutaneous rabbit effect
+A phenomenon where, when tapped on one part of the body in rapid succession and then switching to another, the subject feels the tapping at locations in between the two.
+For example, if rapidly tapping the wrist then switching to the elbow, the subject will subjectively feel as if they are being tapped at progressive intervals between the wrist and elbow, when they are not.
+Small firm effect
+An economic theory that small firms usually perform better than larger ones
+Little–Parks effect
+A phenomenon where a fluctuating magnetic field passed through a superconductor can slightly suppress its superconductivity, inducing small fluctuations in its electrical resistance.
+When juxtaposed against the "small firm effect", as in the bracket, one might get the impression that it is somehow related to urban architecture or civil engineering.
+Dr. Fox effect
+A disputed theory that student evaluations of their teachers are likely unreliable, because they are largely based on the teacher's charisma instead of the quality of their content.
+Oddity effect
+A theory that when fish assemble in shoals (large social groups), any that stand out appearance-wise will be attacked by a predator, explaining why shoals tend to have similar-looking members.
+Butterfly effect
+The butterfly effect is the sensitivity of chaotic systems to small changes in initial conditions. The weather system of Earth is chaotic, and so an arbitrarily small change in air patterns (such as could be caused by the flapping of a butterfly's wing) could ultimately change the weather for the whole world.
+Popcorn effect
+A phenomenon exhibited by crushed ore placed on a vibrating screen for separation in mineral processing, in which larger particles tend to bounce higher than smaller particles.
+Transcript[edit]
+[A tournament bracket tree is shown with 16 scientific effect names, with 8 on the left and 8 on the right side. From both sides toward the middle the brackets reduce from eight to four, to two, then to one line where the latter join to a rectangle in the middle for the winners name of the final match. Above the bracket there is a title:]
+Cutest-Sounding Scientific Effects
+[Left side:]
+YORP effect
+Nocebo effect
+Woozle effect
+Stroop effect
+Pockels effect
+Cheerios effect
+Hot chocolate effect
+Perky effect
+[Right side:]
+Bouba/kiki effect
+Cutaneous rabbit effect
+Small firm effect
+Little Parks effect
+Dr. Fox effect
+Oddity effect
+Butterfly effect
+Popcorn effect
+Trivia[edit]
+Randall has created Twitter polls to determine the outcome of this version of his sweet 16:
+Result of the Twitter polls[edit]
+First wave[edit]
+The first wave ran from April 25, 2022 at 5:19pm ET to the next day at 5:42pm ET.
+YORP effect (67.7%) vs Nocebo effect (32.3%), 8,996 votes
+Woozle effect (74.4%) vs Stroop effect (25.6%), 8,517 votes
+Pockels effect (42.4%) vs Cheerios effect (57.6%), 7,513 votes
+Hot chocolate effect (56.2%) vs Perky effect (43.8%), 7,379 votes
+Bouba/kiki effect (64%) vs Cutaneous rabbit effect (36%), 7,563 votes
+Small firm effect (18.4%) vs Little Parks effect (81.6%), 7,209 votes
+Dr. Fox effect (67.5%) vs Oddity effect (32.5%), 7,852 votes
+Butterfly effect (56.5%) vs Popcorn effect (43.4%), 7,825 votes
+Second wave[edit]
+The second wave started on April 26, 2022 at 5:56pm ET and ended around 11:56am ET.
+YORP effect (35.7%) vs Woozle effect (64.3%), 7,026 votes
+Cheerios effect (49.5%) vs Hot chocolate effect (50.5%), 6,672 votes
+Bouba/Kiki effect (72.8%) vs Little parks effect (27.2%), 7,466 votes
+Dr. Fox effect (47.9%) vs Butterfly effect (52.1%), 6,752 votes
+Third wave[edit]
+The third wave started on April 27, 2022 at 6:54pm ET and ended around 12:54pm ET.
+Woozle effect (71.2%) vs Hot chocolate effect (28.8%), 8,237 votes
+Bouba/Kiki effect (77.6%) vs Butterfly effect (22.4%), 7,223 votes
+Fourth wave[edit]
+The fourth wave started on April 28, 2022 at 4:30pm ET and ended around 10:30pm ET.
+Woozle effect (46.1%) vs Bouba/Kiki effect (53.9%), 10,774 votes
+Bonus wave[edit]
+Bouba (57%) vs Kiki (43%), 9,723 votes
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Can I suggest that anyone who replaces the hyphen/minus-sign in "foo - bar" (or, usually, "foo - breakout - bar" as some sort of bracketting side-comment) don't replace " - " with "–” or "—” without the spaces, as it makes it look even more like the unintended hyphenisation that they probably think they're avoiding. At least preserve the spacing. That said, there generally is another way.
+If commas would be too confusing (e.g. proximity to a list (and especially Oxford Commas, which confuse things more!)) then parenthesising would be best. If you're too scared to nest brackets (and ellipses/etc don't seem viable …perhaps leave to the Discussion page?) then probably you just need to rewrite into several more atomic sentences rather than one huge run-on one that needs so many different pause/sotto-voce-effect in the internalised narration. As you can see, I run into this problem often enough. In this comment I've slightly broken a couple of my own rules (by omission) just because it makes a better exemplar to not rewrite to avoid.
+However this is just general advice to the other mdash/ndash 'correctors' who pop up. In this article it was the transcript where "Effect A - Effect B" became "Effect A–Effect B", looking like "A-Effect" (or, actually "Effect-B", to reflect the true ordering seen). Obviously it represents the line between, but no hyphen or dash is there to be read, and it would have been as valid to use " / " as separator, except for the use (unspaced) in "Bouba/kiki". It would be nice to know what screen-readers think of every option — how they voice them, etc…
+Perhaps a " [is bracketed with] " transcript-label would be best (with the spaces, naturally). But I leave it up to someone else to think about. I'm still a bit overinvolved with the 'hyphen-like dashes' issue, as you can see, which often makes me a bit sharp and terse. For which I apologise, as with this whole 'getting off of my chest' commentary that I've a feeling I have either under-explained or over-explained. Or, simultaneously, both! 172.70.90.145 08:44, 26 April 2022 (UTC)
+Maybe 172.69.79.209 08:54, 26 April 2022 (UTC)
+It was I who changed to dashes. Both dash length and spacing was, to the best of my ability, those that Wikipedia described for sport games and other “symmetrical” pairs. If it turned out unsuitable for this page, I think that another layout entirely would be preferable to the current solution. But for sure I won’t fight for it.
+While False (talk) 09:03, 26 April 2022 (UTC)
+Clearly this is going to end with a final of Cutaneous Rabbit - Woozle. Which combines to give you a self-reinforcing erroneous belief that someone is tapping your arm. 172.69.79.209 08:56, 26 April 2022 (UTC)
+I could see there being an actual Perky/Cutaneous Rabbit draw (in both senses of the word, though I haven't checked to see if either have lost out yet on the official poll), whichbis when you are convinced that you are in fact only imagining the tapping moving up your arm, but it actually is!!! 172.70.162.5 09:59, 26 April 2022 (UTC)
+Russian bots have obviously got involved and manipulated the polling, because 5 out of the 8 have gone the wrong way, and the Cutaneous Rabbit has been eliminated.172.69.79.153 09:36, 27 April 2022 (UTC)
+So... Who's setting up an actual bracket for this? Should we each create our own brackets? [[Special:Contributions/{{{1}}}|{{{1}}}]] ([[User talk:{{{1}}}|talk]]) (please sign your comments with ~~~~)
+Randall's running one (see Twitter link near top), though I forget when the first-round polls are said to be closing (did it say 10 hours, when I checked for myself?) and as I'm not registered on a Twitter it's just a spectator sport for me and I'll probably rely on some other editor bringing the results over to ExplainXKCD when they are made known and putting them in the section now prepared on the Explanation page. Nothing to stop you making your own predictions/desires known ahead of the actual results, but it'd be purely a personal thing until enough people locally state their thoughts this to establish a (possibly different) ExpXKCD consensus result by manual collation of a completely scientifically-unregorous alternate poll. (Sounds like too much work for little added benefit, but maybe someone wants to do it anyway...) 172.70.90.211 16:44, 26 April 2022 (UTC)
+Reading the wiki article about the Dr. Fox effect, in which they used "an actor, Michael Fox" I had to do a double take because I thought they were talking about Michael J. Fox. Now that would be a charismatic teacher! 172.70.211.72 01:45, 27 April 2022 (UTC)
+The J in Michael J. Fox's name is completely meaningless, it is ONLY there to differentiate him from this other Michael Fox. :) (I've heard that he has said in interviews it stands for "Genius") NiceGuy1 (talk) 03:32, 1 May 2022 (UTC)
+I can't think of a reason why "Bouba/kiki effect" was the winner of the tournament. The name isn't particularly funny or cute. The effect itself isn't the most interesting one offered. Is it a meme or a popular culture reference? Or bots? These Are Not The Comments You Are Looking For (talk) 22:18, 1 May 2022 (UTC)
+Obviously Randall rigged the voting right throughout the tournament, solely so that he could make the Bouba vs Kiki joke. That explains the travesty of it beating Cutaneous Rabbit in the first round. I mean, it's a rabbit! And how can it be cuter than having cute-aneous in its name?172.69.79.153 10:23, 3 May 2022 (UTC)
+The Bouba effect won! https://twitter.com/xkcd/status/1520519518388375557 172.69.134.17 01:31, 2 May 2022 (UTC)
+I tried to upload the image at https://pbs.twimg.com/media/FRn4cWjWUAAtwIs?format=jpg but it says I don't have permissions. Omgwtfargh (talk) 01:53, 2 May 2022 (UTC)
+I refuse to acknowledge any list that does not include the "atto-fox effect (https://www.researchgate.net/publication/267293649_Killing_the_atto-fox_A_new_algorithm_for_deterministic_simulation_in_discrete_state_space) 108.162.221.177 23:56, 3 July 2022 (UTC) Abbysaurus_Rex
+Categories: All comicsComics from 2022Comics from AprilMonday comicsPages using the "citation needed" templateScienceScientific researchTournament bracket

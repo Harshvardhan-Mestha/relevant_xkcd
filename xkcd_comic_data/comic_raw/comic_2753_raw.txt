@@ -1,0 +1,54 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2753: Air Handler
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2753)
+|<< PrevComic #2753 (March 22, 2023)Next >>|
+Air Handler
+
+Title text: It maintains odor levels in a normal familiar range, so if you open the windows and the air gets too fresh, it filters it through some dirty laundry samples to compensate.
+Explanation[edit]
+Black Hat is demonstrating an air-conditioning unit that covers a wide-variety of air qualities, as opposed to a heater that just warms air, a filter that just removes dust or a dehumidifier with the main purpose of removing moisture from the air.
+In many devices that manage certain atmospheric conditions in a building using one device, an operational range is usually defined, and not one number. For example, when using a heat pump, if the interior temperature drops below a preset lower limit, then the heating function would be activated. If the interior temperature rises above another preset upper limit, the cooling function would be activated. This kind of ranged function is common with humidifier/dehumidifier units as well, to create a comfortable condition not too dry nor damp for comfort. By specifying upper and lower limits for the operation of the device in question, minor variations of the controlled value will not cause the device to be rapidly turning on and off, even working against itself, improving efficiency and reducing unnecessary wear and tear on the device and the building contents.
+Devices that manage temperature and humidity are often installed in buildings to improve occupant comfort. Beyond that, the listed qualities become increasingly problematic and even dangerous.
+Changing the pressure of the air could lead to unintended effects like large winds blowing through any cracks in the building.
+The air handler also attempts to force the parameters of dust, smoke, odors, and number of bees into an "ideal" range. However, as opposed to being in a certain range, most people who live indoors prefer that these be minimized.[citation needed] It's also worth noting that "a normal amount" of bees varies widely depending on the situation. A typical honeybee colony contains 60,000 to 80,000 bees, and a typical swarm (bees looking to establish a new hive) is anywhere from 1,500 to 30,000. To pollinate an acre of fruiting trees typically requires a minimum of 20,000 bees, or approximately five bees per square meter.
+It is not particularly usual to directly monitor the number of bees in an air-stream (usually, insect-screens are the main way to filter out any pesky creatures that might find themselves likely to be caught up in that way), and one might imagine that the upper limit should be zero, for use indoors in standard living/working spaces, but it might be technically feasible to accurately count bees (with or without distinguishing from wasps and other flying insects) and be able to allow some. But, unlike temperature or humidity, it would be rare (outside of a location used for agriculture) to have a non-zero minimum desirable quantity of bees. Even more so to then be directly equipped to upwardly correct the current value. For any minimum value that is not zero, this machine would be equipped to deal with it by, presumably, releasing bees (it seems to have at least one trapped inside it ready to be released, judging by the buzzing sound), or by generating smoke, dust and odors – something one would typically not miss if lacking.
+As the title text elaborates, the machine analyses and adjusts the 'freshness' of the air. A smart system in charge of odor-control (by spraying smell-suppressing chemicals and/or more desirable and dominant scents) could be made less wasteful by only trying to 'freshen' the air when it detects enough necessity. But, of course, this machine also has an opposing limit. And, when the air is considered too fresh, it has a way of adding staleness/stinkiness to meet expectations with dirty laundry.
+Transcript[edit]
+[Black Hat is standing to the right of an "air handler", talking to Cueball and Megan on the left side, probably presenting the sales pitch for the air handler in between them.]
+Black Hat: Our device monitors your home's air and keeps every variable between a lower and upper limit.
+[Zoom in on Black Hat]
+Black Hat: Temperature, humidity, pressure, dust, smoke, odors, number of bees...
+[Zoom out similar to Frame #1]
+Megan: Wait.
+Megan: What's the lower limit for "number of bees"?
+Black Hat: A normal amount.
+Air Handler: Bzzzzzz
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I called the device an Air Handler in the transcript, but should we change that? E'); DROP TABLE users;-- (talk) 5:11, 23 March 2023 (UTC)
+"It is not particularly usual to directly monitor the number of bees in an air-stream" - understatement of the week :o) 172.68.210.41 05:46, 23 March 2023 (UTC)
+And statements like these are the reason why explainxkcd is so great :D Elektrizikekswerk (talk) 11:06, 23 March 2023 (UTC)
+I think the transcript is complete, will be deleting unless someone proves otherwise in four hours. E'); DROP TABLE users;-- (talk) 11:50, 23 March 2023 (UTC)
+Some of these parameters have an ideal range (temperature, humidity, pressure), but others should be minimized (dust, smoke, odors, number of bees). Well, not into the negative range, but I think you'll understand me! ~ Megan she/her talk/contribs 23:44, 23 March 2023 (UTC)
+Well, if there are config files, you can just set the range to be from 0 to 0. Then again, this is Black Hat... 198.41.238.10 03:15, 24 March 2023 (UTC)
+connect it to a computer with a (maybe USB-C or some other) cable and go and add "minBees = 0;
+maxBees = 0;" to /scripts/ControlAir/config.conf 172.68.183.13 13:27, 28 March 2023 (UTC)
+I think it'll need a USB-EE connector, actually... 172.70.162.158 02:07, 29 March 2023 (UTC)
+I think that he made it so that "number of bees" had to be nonzero. Also, I think that the negative range could be available, and would be... weird. --Purah126 (talk) 12:38, 24 March 2023 (UTC)
+I personally would like to see a device that generates negative bees... I'm deathly phobic. RandalSchwartz (talk) 18:24, 26 March 2023 (UTC)
+I hope doesn't generate anti-bees. That would be slightly problematic since anti-bees react exothermically with most common materials, including air, water, and (to scare off some chemists) glass. ~ Megan she/her talk/contribs 18:47, 26 March 2023 (UTC)
+MinBees = 0.5;
+MaxBees = 1.5;172.71.242.191 08:03, 27 March 2023 (UTC)
+This immediately got me wondering how it would deal with excess bees. It's not like you can filter them out as they pass through the device. It'd have to launch some kind of tiny flying robot to attack them or something. And then if there's too few bees, well… Let's just say I was pretty confident that the title text would use the word "drones" at least twice. -- Angel (talk) 09:15, 24 March 2023 (UTC)
+1) Filtration through mosquito-net would be possible, and since these nets are frequently metallic, durability is a moot point.
+2) Bee storage unit (perhaps those captured excess bees could be stored themselves to reduce bee wastage) could be a component. 1844161 (talk) 15:36, 14 April 2023 (UTC)
+I could see a VR rig adding a (controlled) pulse of H2S when you enter a sewer. With hardware limits to prevent any dangerous concentrations of course. 172.71.158.7 (talk) (please sign your comments with ~~~~)
+"Amount of bees" doesn't seem to make sense unless the air handler can view the contents of the entire room. "Concentation of bees" makes more sense. ~ Megan she/her talk/contribs 18:52, 26 March 2023 (UTC)
+A standard air-conditioner can only work with the air in its own air-channel (and maybe detect the state of the air that touches it, if it has external sensors) so I'd say that it's perfectly valid to do a count of bees that get spotted moving through/by it.
+But then this is a Black Hat, doing this. Who knows quite what he's implmented... ;) 141.101.99.113 19:22, 26 March 2023 (UTC)
+Is a "normal amount of bees" a floating point? imagine – darkness bright 07:35, 1 April 2023 (UTC)
+My first thought on reading the panel is that the device might not actually do anything. For example if the lower limit for temperature is set to absolute zero and the upper limit as the temperature of the universe at the time of the big bang.172.71.254.135 04:39, 12 April 2023 (UTC)
+Categories: All comicsComics from 2023Comics from MarchWednesday comicsPages using the "citation needed" templateComics featuring Black HatComics featuring MeganComics featuring CueballBees

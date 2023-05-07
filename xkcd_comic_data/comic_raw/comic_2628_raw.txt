@@ -1,0 +1,56 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2628: Motion Blur
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2628)
+|<< PrevComic #2628 (June 3, 2022)Next >>|
+Motion Blur
+
+Title text: I can't speak for your other subjects, but MY motion was as smooth and natural as the framerate allowed.
+Explanation[edit]
+White Hat is recording a video while rotating (panning) the camera. Cueball notices that the camera's shutter speed is too fast, which could cause the result to look unnatural or like a sequence of still images instead of like smooth motion when turning the camera. Cueball decides to solve this problem by making himself blurrier than normal, counteracting the problems of the high shutter speed.
+This is analogous to something much more common that people do, by practicing moving their bodies relative to the motion of the camera: reducing blur when the shutter speed is too low.
+The title text refers to the fact that only one object - in this case, Cueball - appearing blurry while everything else in the frame is sharp is even more exotic. It can also be seen as a celebration and sarcasm regarding the rare experience of valuing having exotic knowledge and skills. It seems likely Randall has practiced reducing blur, but not succeeded at increasing it, and was possibly exposed to somebody saying "high" shutter speed when they meant "low" shutter speed, but this is presently unverified.
+This is somewhat similar to a trick 'used' by some fictional characters who have the power to make themselves unclear to observers or cameras alike. In real-life it is the difference between "stop motion" and "go motion" tricks.
+When light hits a human's retina, it is perceived for a short while even after the light has ceased. This means that objects moving across a human's field of vision at a sufficient speed will naturally appear blurry – in our perception, the light arriving right now from the trailing part of the object will mix with the light that arrived a moment earlier, from the leading part of the object.
+A camera's shutter speed is the amount of time that the shutter is open for each frame, allowing the image sensor to capture light. If the shutter speed is too high (relative to the frame-rate), this blurring will not occur, and the motion will look unnaturally crisp – if something is too small and/or too quick, the illusion of motion may disappear altogether; the object instead will appear as a brief flash of multiple objects standing still, like in the case of a fast-moving mouse cursor on a screen. See for instance this Videography - Slow Shutter Speed vs. Fast Shutter Speed Comparison.
+In cinema, the shutter speed is generally set to double the frame-rate, e.g. 1/48 s for footage shot at 24 fps (one of the lowest standard frame-rates, a remnant from the age of mechanical motion picture cameras and film projectors).
+An opposing problem is that of a camera not sufficiently matching the relative motion of a moving object, with a shutter speed that is too slow (and may need to be, given the choice of aperture and lighting conditions). Sports photographers must learn how to scan-and-pan their subjects (runners, horses, vehicles, etc) with enough synchronicity to capture them sharply, and possibly seemingly hanging frozen in mid-air against an artistically-blurred background.
+It is unclear how Cueball makes the motion blur include both his feet, as the friction with the ground should hinder them from vibrating horizontally in the manner that may cause for motion blur. Additionally, creating the kind of motion blur he does (with evenly distributed horizontal blur) requires extreme acceleration at both ends of the movement.
+Transcript[edit]
+[White Hat is holding a camera up to his face looking to the left away from Cueball and Ponytail standing to his right. Cueball is holding one hand, with a balled up fist, up towards White Hat]
+White Hat: Okay, I'm going to pan around.
+Cueball: No, wait, your shutter speed is too fast, it will look choppy if—
+[White Hat turns clockwise towards Cueball and Ponytail, with the camera held up partly behind his head, so it points in the panel. Cueball clenches both his fists, held down now, and hunches his shoulders. Ponytail stands as before next to him.]
+Cueball: Hnnnnngh
+[White Hat has turned around and is now pointing the camera towards Cueball and Ponytail. Cueball now appears blurry while Ponytail looks normal.]
+[Caption below panel:]
+Expert photographers can learn to generate their own motion blur to compensate for other people's bad camera settings.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Personally, I'm animated on twos but make up for it with good smear frames. 172.70.135.98 14:07, 4 June 2022 (UTC)
+Can someone explain why it's been retitled to motion beans and the image has been replaced? Not sure if it's vandalism or a joke I don't understand. 162.158.2.215 23:46, 4 June 2022 (UTC)
+vandalism 172.70.206.163 23:54, 4 June 2022 (UTC)
+Is there anything that can be done about that? (Sorry not experienced with wiki rules/conventions). Looking that their history they have done quite a bit of vandalism in the past. 162.158.2.219 00:36, 5 June 2022 (UTC)
+As we have a good community, looking out for such things and resolving them, I don't think there's much extra we need to do but what we already do. I'm not giving credit to our interloper, but their actions have shown how we are clearly capable of stepping up to counter-action as required. Which is good.
+Additional admin tool-use might be a further thing being lookedvat, but that's above my pay-grade to comment on. I think the current set of active Admins have done Ok and seem to have good heads on their shoulders, though, so happy to leave them to work those bits out too. 172.70.162.5 09:35, 5 June 2022 (UTC)
+Randall has got this issue backwards
+Too *low* a framerate causes choppiness when panning (or on objects in motion). Too low a framerate causes the human eye to perceive multiple images of a mouse cursor; a higher framerate can exceed the perceptual latency of human vision, causing the moving cursor to be perceived as a continuous blur, whereas a lower framerate merely exacerbates the issue of seeing the cursor jump from position to position.
+To that point, the current explanation exemplifies this confusion, also getting it backward: "If the shutter speed is too high, this blurring will not occur, and the motion will look unnaturally crisp – if something is too small and/or too quick, the illusion of motion may disappear altogether; the object instead will appear as a brief flash of multiple objects standing still,"~ This is incorrect. Human visual blur is not dependent on the displayed frames being blurred: With panning in high framerate video, unblurred footage appears blurred to the human eye, due to persistence of vision; whereas with low framerate video we may not perceive blurred motion & instead view each frame individually & perceive it as choppy.
+Point being, you need a framerate at least as high as 60 FPS to avoid choppy appearance when panning, & for some people's vision the minimum framerate to ensure motion blur is 100 FPS. 24 FPS is used in cinema to preserve the choppy look of old 24 FPS film projection, as an aesthetic choice.
+Higher framerates look less choppy. Low framerates are what appears choppy when viewed. ProphetZarquon (talk) 14:10, 4 June 2022 (UTC)
+Yes, at high framerates, when the subject is perfectly sharp, the blurring is done by human vision. At lower framerates, this natural blurring is mostly lost, and this effect must be counteracted by correspondingly lower shutter speeds so that motion appears blurry again. That's the whole point of the comic. Kapostamas (talk) 14:30, 4 June 2022 (UTC)
+Exactly. Film typically has 24 FPS, animation is typically produced at 12 FPS, and 8 FPS is common in anime, and to make up for it by introducing the illusion of motion in other ways. With physical cameras that usually means low(ish) shutter speed to creating in-camera motion blur. 172.70.134.95 20:00, 4 June 2022 (UTC)
+In order to explain this, and prove that the explanation is correct (or prove that Randall is either correct or incorrect), there needs to be a link to two videos showing the error and the corrected version without the error. In other words, citation needed. 172.70.126.65 15:35, 4 June 2022 (UTC)
+How's this: [1]? Kapostamas (talk) 16:47, 4 June 2022 (UTC)
+His shutter speed is ok, his FPS is too low :-). BTW, the worst thing done to anime is when some idiot decides to raise the framerate by inserting frames computed by averaging previous and following frame pixel by pixel ignoring the movement. -- Hkmaly (talk) 00:52, 5 June 2022 (UTC)
+A number of years back, when TV weather maps were revamped with new computer graphics, it amused me when (e.g.) a couple of bands ('ripples') of cloud/rain were sometimes passing over bits of the national map, and while clearly the idea was that each was moving, the setup had the hindemost fading out (as an interpolated transition) while a new 'front' band fading in, the central one (in reality where the front one was in one predictive 'key frame' but coincidentally where the rear one had arrived to at the time-stamp of the next key-frame.
+It probably needed the right weather-system transit speed (and feature-depth/separation) but something like this seemed to be common enough to do this or 'cinematic wagon-wheel' effects.
+I think they must have revamped the presentation since, either more imported ksy-frames or imported "wind clues" to the interpolator... 172.70.162.5 09:35, 5 June 2022 (UTC)
+Seems to med that the video makes a good point. Is that not so according to Hkmaly? --Kynde (talk) 13:22, 5 June 2022 (UTC)
+Ok, it IS possible I've put my comment at incorrect place ... -- Hkmaly (talk) 18:42, 7 June 2022 (UTC)
+
+I have added a new category Category:Photography to this comic. I have already found 8 comics to put into it. If I have missed some (for sure I have) please add them. --Kynde (talk) 14:08, 5 June 2022 (UTC)
+I have no idea if this is actually deliberate, but the way the caption is worded strongly reminds me of one of the hints on the loading screens in Elder Scrolls games. Any thoughts? 172.70.110.209 05:36, 9 June 2022 (UTC)
+Categories: All comicsComics from 2022Comics from JuneFriday comicsComics featuring White HatComics featuring CueballComics featuring PonytailPhotography

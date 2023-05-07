@@ -1,0 +1,127 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2585: Rounding
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2585)
+|<< PrevComic #2585 (February 23, 2022)Next >>|
+Rounding
+
+Title text: I've developed a novel propulsion system powered by loss of precision in unit conversion.
+Explanation[edit]
+This comic is about the follies of unit conversion. Normally, when you say you can ride a bike at 45 mph if you round, you mean that you can ride at a speed between 44.5 and 45.5, something most people are incapable of doing.[citation needed] The joke is that Cueball actually means if you go through a extremely long chain of rounding imprecisely (see below), starting at 17 mph (which is equivalent to 27.4 km/h and not an improbable speed for an ordinary road-bike and a reasonably fit rider), you can get to the value of 45 (72.4 km/h).
+Randall also esoterically uses some more historic units here: fathoms/sec, furlongs/min, and furlongs/hr. A fathom is a unit of length, in the modern era being equivalent to six feet, usually used to measure the depth of water. Fathoms/sec could potentially be used to measure the ascent/descent speed of a submersible, but it would normally be a strange choice to enumerate the speed of a bike. A furlong is also a unit of length, equivalent to one eighth of a mile (or 660 feet or 110 fathoms) but is mostly unused except in horse racing. It is possible that furlongs/min or furlongs/hour could be used to measure the speed of a horse. Knots (nautical miles per hour) are a standard unit of measuring speed, but are typically used for measuring speed for airplanes or ships, not speed on land. However, km/h (kilometers per hour, spelled kph in the comic) is commonly used internationally to state the speed of land vehicles, while m/s (meters per second) is a measurement encountered in scientific usage.
+The title text furthers the joke by taking the imprecise rounding literally, implying that this increase could actually be used/abused as a novel form of propulsion, but it isn't clarified for what type of vehicle. It could be an engine for ground or air travel, but contains the implication that it is trying to 'trick physics' similar to the theoretical 'warp drive' conceived to propel interstellar spacecraft at otherwise impossible speeds. One interpretation of the supposed chain of conversions is that it has somehow created a great deal of energy from nothing. Suppose there existed a device or system that could magically accelerate an object from 17 mph to 45 mph without any energy input. The sped-up object could be harnessed to a generator or engine in such a way that the object was slowed back down to 17 mph, with the difference in energy being output in a useful way, and the object fed back into the device. The result would be an engine that could create both free energy and non-conserved changes in momentum.
+At the demonstrated rate of about 4% median rounding gain, it would just take 73 more steps of rounding-acceleration to reach supersonic speed from the starting speed of 45 mph. If the speed of light could be approached without relativistic effects, another 349 steps would go from supersonic speed to the speed of light. (More efficient approaches may exist.)
+Table of rounding[edit]
+step percentage gain from rounding mph m/s knots fathoms/sec furlongs/min km/h furlongs/hour yards/sec
+1 N/A 17 7.599680 14.77260 4.15555 2.26666 27.35885 136 8.31111
+2 +5.27% 17.89549 8 15.55076 4.37445 2.38607 28.8 143.16392 8.74891
+3 +2.89% 18.41247 8.231111 16 4.50083 2.45500 29.63200 147.29977 9.00165
+4 +11.09% 20.45454 9.144000 17.77451 5 2.72727 32.91840 163.63636 10
+5 +10.00% 22.5 10.05840 19.55197 5.50000 3 36.21024 180 11
+6 +9.09% 24.54545 10.97280 21.32942 6 3.27272 39.50208 196.36363 12
+7 +1.26% 24.85485 11.11111 21.59827 6.07563 3.31398 40 198.83878 12.15126
+8 +1.86% 25.31715 11.31778 22 6.18864 3.37562 40.74400 202.53718 12.37727
+9 +0.63% 25.47622 11.38888 22.13823 6.22752 3.39683 41 203.80975 12.45504
+10 +0.09% 25.50000 11.39952 22.15889 6.23333 3.40000 41.03827 204 12.46666
+11 +1.96% 26 11.62304 22.59338 6.35555 3.46666 41.84294 208 12.71111
+12 +3.24% 26.84324 12 23.32617 6.56168 3.57910 43.20000 214.74588 13.12336
+13 +11.76% 30 13.41120 26.06929 7.33333 4 48.28038 240 14.66666
+14 +2.27% 30.68182 13.71600 26.66177 7.5 4.09090 49.37760 245.45454 15
+15 +6.67% 32.72727 14.63040 28.43922 8 4.36363 52.66944 261.81818 16
+16 +2.53% 33.55404 15 29.15767 8.20210 4.47387 54 268.43236 16.40420
+17 +1.33% 34 15.19936 29.54519 8.31111 4.53333 54.71770 272 16.62222
+18 +10.29% 37.50000 16.76400 32.58661 9.16666 5 60.35040 300 18.33333
+19 +1.27% 37.97572 16.97666 33 9.28295 5.06343 61.11603 303.80577 18.56591
+20 +2.34% 38.86364 17.37360 33.77158 9.5 5.18181 62.54496 310.90909 19
+21 +5.26% 40.90909 18.28800 35.54903 10 5.45455 65.83680 327.27272 20
+22 +1.27% 41.42806 18.52000 36 10.12686 5.52374 66.67200 331.42448 20.25372
+23 +8.62% 45 20.11680 39.10393 11 6 72.42048 360 22
+24 +0.00% 45 20.11680 39.10393 11 6 72.42048 360 22
+Transcript[edit]
+[In the top left part of the panel is a small drawing where Cueball, wearing a bike helmet and holding a bike, is speaking to Megan.]
+Cueball: I can ride my bike at 45 MPH.
+Cueball: If you round.
+[To their right is a large number with unit, with an arrow going straight down to a normal sized similar number. From there and proceeding all the way down to the bottom, in alternating leftward and rightward rows, the rest of the comic shows arrows connecting conversions from one measured unit into another unit. Straight arrows show the direction of the sequence on each line, the end of each line curveing down to start the next line in the opposite direction. The last of these lines ends close to the middle of the panel, with a straight arrow down to another large number with unit, like the first.]
+17 MPH
+8 meters/sec
+16 knots
+5 fathoms/sec
+3 furlongs/min
+6 fathoms/sec
+40 KPH
+22 knots
+41 KPH
+204 furlongs/hr
+26 MPH
+12 M/S
+4 furlongs/min
+15 yards/sec
+8 fathoms/sec
+15 M/S
+34 MPH
+5 furlongs/min
+33 knots
+19 yards/sec
+10 fathoms/sec
+36 knots
+6 furlongs/min
+45 MPH
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Wot no furlongs per fortnight? 172.70.91.126 23:14, 23 February 2022 (UTC)
+I, too, was initially surprised that Randall hadn't used the standard joke measure. But, then I realized that F/F is so outrageously large that rounding wouldn't offer much advantage. MAP (talk) 05:10, 24 February 2022 (UTC)
+If we're using the table, can I suggest it be fully filled in, but mark "original (rounded)" value cells one key colour and the chosen conversion in another, so that scanning along (not necessarily adjacent/rightwards) then down (always next row) then along... you see the 'bounce around'. And we also get to appreciate what other fractional values could have been chosen, prior to rounding... Alternately, some flow-charty layout (perhaps contained within a nominally borderless version of the table?) with arrows leading across the width and filling in-between each down-step. Ideas only. I have others, but those seem the best bet to consider. 172.70.85.113 01:32, 24 February 2022 (UTC)
+Disagree with the current (as of 23:27 US Eastern, 23 February) explanation. According to this site (https://ilovebicycling.com/average-bike-speed/), average downhill bike speed is over 45 mph. Since Cueball doesn't specify "on flat terrain", he should have no problem going 45 without exploiting imprecise conversions. Nitpicking (talk) 04:30, 24 February 2022 (UTC)
+Huh? This does not say average downhill speed is > 45, it says "fastest". Also why would Cueball need to do this bizarre rounding if he can actually go 45mph? This is an exaggeration because he can only go a typical speed of 17mph.172.69.33.145 04:52, 24 February 2022 (UTC)
+Fastest for average cyclist. -- Hkmaly (talk) 05:05, 24 February 2022 (UTC)
+As a cyclist of several decades experience, who has indeed attained such speeds on rare (reckless) occasions, I think that "fastest downhill speed for an average rider" is overstated. Maybe it is what average people are capable of on a well-surfaced, steep, straight, non-undulating road with sufficient vision (forward and of anything potentially moving into the road from the side) or at least confidence that you're not dealing with traffic/pedestrians/other unaware cyclists. Oh, and sufficient stopping distance for whatever brakes you have.
+Maybe everybody can do it once, but a good bike-ride should be one you can walk away from at the end.
+(Also, that cycling-centric site might have a different idea of 'average' cyclist. The average person on a bike here can't even put their feet on the pedals correctly. If we're talking club-/competitive-cyclists (but still sub-pro) then I'd much more readily agree, but there are far more people these days who can't even ride on the roadway, it seems.)
+That bike, as drawn, looks like it'll be Okish (if kept well maintained) but not exactly set up as functional downhill racer, nor probably is the rider. I really think the machine probably could be ridden at 20+mph on the flat for as long as the rider can stand to, but the characterisation makes me not confident they're able to maintain that kind of average speed for a long ride, and I think they'd overbake a downhill speed-run too, or (sensibly) be more cautious. 172.70.85.143 05:14, 24 February 2022 (UTC)
+Yep - the speeds on that site are for road bikes. Cueball looks to be riding a hybrid (flat bars), which would tend to put him in a more upright position, creating a higher frontal area and air resistance, and so slowing his progress. That would have even more of an effect at higher speeds. 162.158.159.43 11:14, 24 February 2022 (UTC)
+Arguably, once you're up to numbers around 45, you're as likely, if not more so, to be rounding to the nearest 5 than the nearest unit (depending on context). So Cueball's initial statement could be taken as suggesting that he can ride at around 42.5 - 47.5mph (rather than 44.5 - 45.5mph). And if he could actually ride at over 45mph then he presumably wouldn't need to add the 'if you round' qualifier, so it could further be taken as just suggesting that he can exceed 42.5mph. 162.158.159.43 11:22, 24 February 2022 (UTC)
+Note I find it kind of disappointing that the insane "KPH" unit is used in the comic. Nobody uses that in places where speed is actually measured in km/h.
+yes, but we are talking about a US based comic, one of only 3 countries (Myanmar, Liberia, USA) that don't use the metric system for measurement...oh, except for money, but that isn't really metric, it is money ;o) 108.162.250.190 00:50, 25 February 2022 (UTC)
+Erm, I think you'll find the UK uses miles as well. And we're just putting ourselves through a massive political and economic upheaval so that we can have our old imperial weights and measures back (at least, I think that was the point of it all).141.101.77.24 16:30, 25 February 2022 (UTC)
+Ironically, by the same standards it only takes one conversion to say that he can't move at all on a bike. he goes 0 parsecs, lightyears or AU (for example) per year, decade or century (for example).
+Can we remove the rounding errors in the "exact" values in the tables? For instance, the final value should be "45.0000" not "45.0001". In fact, all three values ending with 0001 are rounding errors. (These were probably a result of converting to metric and back, using low precision conversion factors.) Divad27182 (talk) 15:49, 24 February 2022 (UTC)
+Yeah, like fathoms/s and yards/s are by definition just a factor 2 apart. I recalculated the values without rounding at any step except the final step, so the rounding errors should be gone now. Also added vincula for repeating digits. Tharkon (talk) 19:25, 27 February 2022 (UTC)
+Whoever decided to display that information in that table deserves an award. Gg. 172.70.126.65 16:38, 24 February 2022 (UTC)
+It's nice how the rounding of exact half-integers only ever has to deal with odd-numbers-and-a-half, so Cueball can't be charged with violating the "round to even" rule, nor with violating the "round away from zero" rule. 172.70.131.122 18:06, 24 February 2022 (UTC)
+It looks like Randall picked a starting speed (within a reasonable bike-riding range) to maximize his gain. Groups of starting speeds round to the same final speeds, and some groups have a higher maximum speed earlier in the rounding chain:
+Start Speed
+(mph)
+Max Speed
+(rounded to mph)
+Final Speed
+(mph)
+1 1 0
+2 to 9 9 8
+10 10 8
+11 to 16 16 15
+17 to 45 45 45
+46 to 54 54 53
+172.70.131.122 21:24, 24 February 2022 (UTC)
+Are you assuming the exact same chain of conversions, just with different input values? Surely if he'd chosen to start at (say) 16, he'd have chosen whatever other chain of conversions would have sent him towards some decent high-value. Might have differed only by the initial conversions before it found itself landing on the same late-path, or could be completely different (to get to a different end) as the biased random-walk of choices hit a different useful stride pattern. 141.101.99.20 22:39, 24 February 2022 (UTC)
+Yes, I put different starting speeds into the same conversion chain. Perhaps I should have said "He chose a reasonable starting speed and chain of conversions to maximize the gain." I was initially surprised that starting at 16mph ends at 15mph, then decided to plot it. The grouping of ending speeds also surprised me, but in hindsight that's to be expected with multiple round offs. 162.158.75.17 23:02, 24 February 2022 (UTC)
+Not surprising at all. Given any random (not selectively chosen) conversion-then-rounding function, you'd expect about half the time you get a lowered (absolute) value rather than a raised one, for the input number somewhere in the range 1 to infinity. For any pair of measures of unequal scales but sharing zero. (Possibly also viable in non-equal and dislocated scales, like °C and °F, but that's just a hunch that I've not emperically checked, and not applicable here anyway.)
+The chain chosen was conspicuously optimal to get the starting value 17 to always rise. Possibly by the maximum possible amount, on each chosen step, from amongst all those considered conversions, but I haven't checked this. It even has a viable unit_A=>unit_B for one rounding rise then unit_B=>unit_A for yet another rounding rise, because it happily works like that at the respective points of each scale.
+But when you start from a different value, you lose the initial upwards-bias in the same 'meshing' and on each subsequent Randall-chosen one. It's pretty much a random sequence, as far as the value that it wasn't designed for is concerned. Logic dictates that it will downplay the value about as often as it will up-play it, for most scenarios. Except maybe at resonant multiple/divisors of the original (which will still chaotically drift, as rounding up .6 for a value would mean rounding down .3 for value/2 or down from .2 for value*2, setting you up for the next function in the adopted sequence to fail), but then 17 is prime so you'd have to start with 34 for that to (sometimes) work.
+And, assuming the sequence is chosen for maximising upwards, you've got the function at each stage that is selected precisely because for that exact state-value it is specifically upward-trending, so when you try that in a different context reversion-to-the-mean suggests you're perhaps more likely to hit one of the downward-trends in the relationship.
+My theory is that for any given starting value, some convert-then-round (from a sufficiently diverse choice of options) will always maximise the resulting magnitude. And that result will always have its own maximal conversion. Although those two operations may be less maximising in combination than a submaximal first operation (maybe, in some cases, a slight reduction?) that 'lands' on a better number for a differing secondary maximiser step to act upon. So a full search-path needs to consider an N-step look-ahead method rooted in a breadth-first trial of each step-1, etc, to optimise the maximiser-optimiser process. But I haven't the time to test it right now. Maybe later! 172.70.162.77 00:53, 25 February 2022 (UTC)
+In fact, the starting value of 17 is most definitely optimal for these choices of units, assuming you want only one optimal choice of rounding (not having to choose between several equivalent values, and not end up non-rounding, like you get at 45 mph). A simple spreadsheet with the ablity to copy-paste an indefinite number of steps with error-checking is here: https://docs.google.com/spreadsheets/d/1ZUSbUmY2rz2JqJBfYIC2GQJucOJ71A0riTCm_OAE4VU/edit#gid=962607803 141.101.69.214 16:46, 9 March 2022 (UTC)
+A note about the propulsion system in the mouseover text: This system is not entirely novel and was first proposed by Douglas Adams who suggested using the notebooks of waiters in bistros to achieve the desired precision loss. He suggested it should be possible to achieve speeds of round ∞kph (∞mph) 162.158.202.247
+The books don't mention those details in their description of "bistromathics", and I don't recall them having been added to the radio adaptations. BunsenH (talk) 23:15, 24 February 2022 (UTC)
+To clarify: the book mentions the waiters' notebooks, but nothing about precision loss or achievable speeds. BunsenH (talk) 16:55, 25 February 2022 (UTC)
+The Improbability Drive (in the Hitchiker's Guide) also seems somewhat related.
+What relation can that have? I'm looking at this link. GcGYSF(asterisk)P(vertical line)e (talk) 03:32, 25 February 2022 (UTC)
+The various things that Discworld's "Hex" can do (including occasionally providing magical teportation) can rely upon it trying lots of 'impossible' things very quickly "before the universe notices". 162.158.159.125 14:19, 25 February 2022 (UTC)
+My favorite "impossible" thing mentioned in the Hitchhiker's Guide is be able to fly by "learning how to throw yourself at the ground and miss". I have done this successfully while dreaming, but have never accomplished it while wide awake. But it is surely worth trying. 108.162.219.49 15:13, 25 February 2022 (UTC)
+people on ISS miss the ground all day long, while falling at astounding speeds. Bmwiedemann (talk) 04:48, 5 March 2022 (UTC)
+Interestingly, it's impossible to get above 45 mph using any of the units Randall used: Converting 45 mph into any of those units always results in either an integral number or a number with fractional part below 0.5, which would result in rounding down. (I've used https://www.unitconverters.net/speed-converter.html for the more common units).--172.70.250.159 17:36, 25 February 2022 (UTC)
+It also reminds me of the Dungeons & Dragons "Peasant Railgun," which abuses a queue of readied actions to accelerate a projectile to relativistic velocities. 172.70.110.163 19:59, 25 February 2022 (UTC)
+"Normally, when you say you can ride a bike at 45 mph if you round, you mean that you can ride at a speed between 44.5 and 45.5, something most people are incapable of doing." When I was MUCH younger, in my late teens or early twenties, I decided to bicycle from a northern suburb of Philadelphia to my home in Hockessin, DE. It was a hot summer day and, only being in average shape, I underestimated my ability to hold up under the heat. A Delaware State Trooper wound up driving me and my bike to my destination. Halfway through my trip, I was going down a long hill on U.S. 1 in Media, PA and decided to see how fast I could go. The speed limit was 55 MPH. My speedometer didn't read that high, but I was passing cars going in the same direction. I estimate I was going at 5-10 MPH faster than the cars, and I'd guess they were going at least 55 MPH. So this statement may be true--most being more than 50%--but I suspect most young men of that age would be capable of 45 MPH and faster. Hugh (talk) 15:20, 1 March 2022 (UTC)
+I don't normally use this wiki so I don't know standard practices, but it might be worth pointing out somewhere on the explanations page that the question (implicitly raised in this comic) has been asked on MathOverflow of whether it's possible to get to arbitrarily large (or small) values using conversion-and-rounding between a finite set of units, and the answer is 'no'. So maybe one of y'all wants to add one of these links in the appropriate place, whitherever that may be. --141.101.69.46 08:59, 29 April 2022 (UTC)
+Categories: All comicsComics from 2022Comics from FebruaryWednesday comicsPages using the "citation needed" templateComics featuring CueballComics featuring MeganMath

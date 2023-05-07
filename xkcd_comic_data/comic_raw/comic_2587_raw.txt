@@ -1,0 +1,52 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2587: For the Sake of Simplicity
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2587)
+|<< PrevComic #2587 (February 28, 2022)Next >>|
+For the Sake of Simplicity
+
+Title text: For the sake of simplicity, gardeners are assumed to move through Euclidean space--neglecting the distortion from general relativity--unless they are in the vicinity of a Schwarzschild Orchid.
+Explanation[edit]
+Cueball appears to be explaining a gardening-related board game to Ponytail and White Hat. As he describes the game mechanics he states that many things have been made more convenient "for the sake of simplicity" — but as his mechanics are revealed to be incredibly complex after simplification, the refrain "for the sake of simplicity" instead comes across as a warning that the rules could be even more complicated.
+It's shown pretty quickly that Cueball's mechanics are needlessly intricate, and his definition of "simplicity" is not nearly simple enough: the lore of the game says gardeners may tend to secondary plots no more than "a 30-minute walk from their home plot", but where most games would simply state an arbitrary number of tiles a gardener token may walk, Cueball expects his players to calculate how far an adult human actually walks in 1800 seconds. This immediately spirals into the game tracking far more variables than necessary such as height and "cardio score", or even things like the curvature of spacetime in the area, and the direct inheritance of a single "cardio score" which requires tracking the gardener's matrilineal line — instead of factors more typical to games such as weather or terrain.
+Features of Cueball's game include:
+Tokens to represent competing gardeners
+Plots for the players to garden, both home plots and secondary garden plots
+Mechanics to assign speed of transit between plots
+Gardener attributes, including height and cardio scores
+Hereditary trees to determine gardener attributes according to the gardener's ancestry - matrilineally refers to inheritance from the mother's side
+Euclidean and non-euclidean space, in accordance with the theory of general relativity.
+The presence of particular species of flora that can warp space-time
+As gardening is itself an oddly mundane premise for a board game,[citation needed] it is entirely possible that gardening is just a minor element of a much broader game.
+The title text mentions that the space is assumed to be Euclidean, which is what most people would assume since it corresponds to our normal experience, so this is not something that normally needs to be explained. But then it says that this isn't true in the vicinity of a Schwarzschild Orchid. An orchid is a type of flowering plant, which is relevant to a gardening game, but Schwarzschild refers to Karl Schwarzschild, a physicist who solved equations related to general relativity; the Schwarzschild radius is the boundary of a black hole, and spacetime is severely warped in this vicinity, so Euclidean geometry and Newton's Laws don't describe motion here well. Most boardgames that even care about Euclidean principles only apply them to the 2D planar playing-surface, it seems possible that Cueball has already accounted for the slight (but non-zero) effects of the curvature of the Earth and/or changes in elevation across the apparently detailed simulation within the game environment, through 3D Euclidean space. And, further, the title text implies he actually sat down to calculate the distortion of general relativity upon the walking speed of an adult human, then later used these equations for an entire game mechanic — albeit one that players can mercifully skip when there are no gardeners in proximity of Schwarzschild Orchids.
+The next comic 2588: Party Quadrants, also mentions complicated rules for scoring a contest. This seems somewhat related to the complicated rules of this game.
+Transcript[edit]
+[Cueball is standing beside a table holding his arms out to each side. He has a small object in his right hand. Ponytail and White Hat are sitting on either side of the table. They have a board game between them with several small objects, like the one in Cueball's hand, but with different heights standing on the table. There is also a stack of cards near Ponytail to the left. Both players have their hands on some of the small objects on the table.]
+Cueball: You may assign each gardener's token to a secondary garden plot within a 30-minute walk from their home plot.
+Cueball: For the sake of simplicity, each gardener is assumed to have a constant walking speed proportional to their height and cardio score.
+Cueball: For the sake of simplicity, cardio scores are inherited matrilineally...
+[Caption below the panel:]
+If you're worried that you're making something too complicated, just add "for the sake of simplicity" now and then as a reminder that it could always be worse.
+Trivia[edit]
+When the comic was first published, the third paragraph said "stamina scores".
+This was later changed to "cardio scores".
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+So many modern board games are made complex by complex rules, but remain simplistic. Go is very simple (grid of nineteen lines, two types of pieces, and about three rules, but is arguably the most inherently complex game in existence. RIIW - Ponder it (talk) 23:04, 28 February 2022 (UTC)
+That "about" three rules, continues to confound me. Everyone who's tried to explain them to me, says it's easier to learn by playing, but I still don't fully understand, even after losing a dozen games & watching many more. It's a shapey spacey thing, & I'm not sure it makes sense to me.
+ProphetZarquon (talk) 04:19, 2 March 2022 (UTC)
+Schwarzschild's radius of a mass is the radius of a black hole with equivalent mass. So a Swarchtnhsnthn orchid has similar space warping properties to a black hole. 172.69.33.223 23:16, 28 February 2022 (UTC)
+Isn't Schwarzchild Orchid a reference to Schwarzchild crystals & jewelry's floral designs, of which the orchid was considered especially beautiful (& expensive) artistry? That was the first place my mind went, with "Schwarzchild Orchid": a crystal orchid by Schwarzchild co. ?
+ProphetZarquon (talk) 04:24, 2 March 2022 (UTC)
+Apart from a "family run jewellery business" in basically one location, which you might find with many such surnames, I couldn't find a Schwarzchild connection to a major jeweller. There's Swarovski (and Swarovski Crystals®) and just plain-old Schwartz, as widely-touted brandnames that sell via many online outlets. Now, I'm not 'in the trade' so I'm going just by my basic feeling that you misremember (backed up with a scant two minutes of comparative Googling - including some even less productive side-hunches, e.g. "Schwarzkopf", which got me a train engineer instead of a jeweller) and maybe I'm missing an actually quite famous (but surprisingly not so electronically documented) rival to Fabergé, but right now I don't see it. If you get a good (wiki?)link to what turns out you have actually correctly remembered, then it's possibly worth at least a Trivia entry to at least make me more informed. Over to you(/whoever gets there first), as you see appropriate! 172.70.85.177 13:45, 2 March 2022 (UTC)
+Why do people always mangle Schwarzschild's name? it's so appropriate for what he's famous for!
+Oh. I just realized that it's the name of someone. As a German, I always assumed the term just refers to the radius of a "black shield" from which no light can escape. --162.158.203.76 10:07, 1 March 2022 (UTC)
+Maybe link to the other comic relating to the schwarzchild radius, 2088: Schwarzschild's Cat? 108.162.237.249 12:56, 1 March 2022 (UTC)Bumpf
+Somebody should investigate the works of JJ Abrams and transcribe to here https://lostpedia.fandom.com/wiki/The_Orchid/Theories Sla29970 (talk) 04:55, 3 March 2022 (UTC)
+Ah... I see the change (Stamina->Cardio) makes it a strict layering of 'clarification', each "simplification" needing a further simplification to explain an aspect. When it was the original Stamina it looked like a disconnect "that didn't need explaining" that Cardio values did not need expanding upon, save that (perhaps as already explained) they probably derived upon several other values, such as the yet-to-be-further-clarified Stamina one plus others (BMI, etc). As it now is, it looks like a depth-first explanation, and one can only wonder what new rule 'simplifications' we hit between hitting the bottom of of the current reductionist precis and starting down other branches of rationalisation, on the way to the detail about the lrchids, perhaps. 172.70.86.64 14:46, 1 March 2022 (UTC)
+One hundred internet points to whomever designs such a game! Cwallenpoole (talk) 16:24, 1 March 2022 (UTC)
+Now I'm picturing Matt Mercer running a session of whatever it is... live on Twitch. Dammit. 172.70.110.161 18:51, 1 March 2022 (UTC)
+As an example of a similar oddity in a real game, the "simplified" version of Advanced Squad Leader, found in the Starter Kit products, includes a map with grain fields. Instead of (1) treating the grain as always present and thus able to provide concealment for soldiers, or (2) conditionally removed on a scenario-by-scenario basis ("All grain hexes are treated as Open Ground during this scenario"), the designers added a rule in the rulebook: "Grain is in season during the months of June and July". Players are expected to actually check the date printed on the scenario description in order to find out whether the grain is high enough to prevent clear shots. 172.70.93.37 06:02, 2 May 2022 (UTC)
+Categories: All comicsComics from 2022Comics from FebruaryMonday comicsPages using the "citation needed" templateComics featuring CueballComics featuring PonytailComics featuring White HatBoard gamesLanguage

@@ -1,0 +1,64 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2759: Easily Confused Acronyms
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2759)
+|<< PrevComic #2759 (April 5, 2023)Next >>|
+Easily Confused Acronyms
+
+Title text: 'Lever' was originally an acronym for Load Emplification by the Vimulated Emission of Radiation.
+Explanation[edit]
+In this comic, Randall compared the acronym "laser" with various other five-letter acronyms.
+He first explained "laser" correctly. Then "maser", which is a type of laser and changes only one word in the acronym, he also explains correctly. Although in both cases he includes the definite article into the expanded phrase ("by the", instead of just the more usual "by"), to the same ultimate meaning and with short words that are traditionally not so often used in the initialisms (like "of" is not, here, also) and thus allows them to be more pronounceable acronyms that have become words in their own right rather than more awkward initialisms.
+He then makes the following three entries, and the further actual word from the title text, follow precisely the same pattern by simply taking the full phrase for "laser"/"maser" and changing the first word, as appropriate, and the initial letter of any other words that need to change to fit. The replacement first word is correct for these acronyms, but the other words formed from changing the first letter are nonsense.
+Acronym Comic Actual
+Laser ✅ Light Amplification by the Stimulated Emission of Radiation Light Amplification by Stimulated Emission of Radiation
+Maser ✅ Microwave Amplification by the Stimulated Emission of Radiation Microwave Amplification by Stimulated Emission of Radiation
+Sonar ❌ Sound Omplification by the Nimulated Amission of Radiation SOund Navigation And Ranging
+Radar ❌ Radio Amplification by the Dimulated Amission of Radiation RAdio Detection And Ranging
+Lidar ❌ Light Implification by the Dimulated Amission of Radiation LIght Detection And Ranging
+Lever (title text) ❌ Load Emplification by the Vimulated Emission of Radiation (not an acronym in common usage)
+Laser and maser are true-to-life acronyms. The remaining three acronyms' true expansions are as given in the table. The false definitions suppose that all of the acronyms simply follow the same model as the first two correct ones, and swap out the necessary letters to fit in a square-peg-round-hole manner. Note that the latter three in the table each include the second letter from their first word, for their partly-syllabic abbreviation as derived from their true phrase of origin.
+The title text extends this to the five-letter word "lever". This is an ordinary word, not a commonly used acronym. Levers have been used since time immemorial (even animals have been known to use them), and predates high-tech uses of radiation by millennia (it's one of the simple machines that Archimedes studied in Ancient Greece). Etymonline traces the origin of the word to the year 1300, from the French "levier", which shares the same definition.
+Transcript[edit]
+Easily-Confused Acronyms
+Cheat Sheet
+
+Laser
+Light Amplification by the Stimulated Emission of Radiation
+Maser
+Microwave Amplification by the Stimulated Emission of Radiation
+Sonar
+Sound Omplification by the Nimulated Emission of Radiation
+Radar
+Radio Amplification by the Dimulated Amission of Radiation
+Lidar
+Light Implification by the Dimulated Amission of Radiation
+Trivia[edit]
+LEVER is an uncommonly used acronym for Light Electric Vehicle Education and Research.
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Comic 1937 also features misinterpretation of acronyms. 2659: Unreliable Connection (talk) 03:59, 6 April 2023 (UTC)
+.... i am gonna need a cetation on that bit about Archimedes. Does anyone have one? I don't doubt the veracity of the statement, but we have standards around here! 162.158.154.143 06:14, 6 April 2023 (UTC)
+On the Equilibrium of Planes (Ancient Greek: Περὶ ἐπιπέδων ἱσορροπιῶν, romanized: perí epipédōn isorropiôn) is a treatise by Archimedes in two volumes. The first book contains a proof of the law of the lever ( https://en.m.wikipedia.org/wiki/On_the_Equilibrium_of_Planes ) 172.71.246.60 07:05, 6 April 2023 (UTC)
+The wikipedia page for LEVER is not working. I think it's case sensitive. N-eh (talk) 06:31, 6 April 2023 (UTC)
+fixed. 162.158.86.200 07:15, 6 April 2023 (UTC)
+Somebody posted a link to Comic 1937 by mistake and I made an edit to the page about San Diego and The Scrabble. Coincidentally, The new comic was also about acronyms. Incredible. 2659: Unreliable Connection (talk) 09:10, 6 April 2023 (UTC)
+Do we need a category about acronyms? There's 1341: Types of Editors, 1460: SMFW, and today's comic, and there may be more. 2659: Unreliable Connection (talk) 09:22, 6 April 2023 (UTC)
+xkcd = Xight Kmplification by the Cimulated Dmission of radiation --162.158.154.140 09:29, 6 April 2023 (UTC)
+Except that R was not even used. So it'd be "adiation", for we replace "R" with nothing. 172.68.51.12 09:02, 16 April 2023 (UTC)
+LEVER is an acronym - Light Electric Vehicle Education and Research, apparently.172.71.178.65 09:49, 6 April 2023 (UTC)
+Another use of LEVER as an acronym is Laboratory for Evaluation and Validation of Epidemiologic Research -- 172.71.222.172 14:34, 6 April 2023 (UTC)
+This raises the question why are there no SODARs, RANARs and LINARs? Or RASERs for that matter? --162.158.111.77 12:34, 6 April 2023 (UTC)
+RASERs only work in the online realm, where they're known as eRASERs.172.71.242.173 13:30, 6 April 2023 (UTC)
+In theory, you could build a RASER (that is, a radio-wavelength LASER) via the 21cm (1420 MHz) hyperfine hydrogen transmission. That would require some fairly nontrivial engineering, and probably needs a very large superconducting magnet to establish a magnetic field gradient and allow for separation of atoms into parallel and anti-parallel magnetic moment populations. But, in principle, because of the astronomical importance of the 21cm transition, you could use this as an interstellar signalling device. Indeed, SETI considered (but rejected) the idea early on (although I'm not sure that building a 21cm RASER was feasible at the time). 172.70.178.97 20:10, 6 April 2023 (UTC)
+RANAR exists pretty much only in controlled environment laboratory conditions. Radio doesn't reflect well enough off the ground for how noisy it tends to be in that spectrum. It's like trying to noticably brighten up a large grassy field in the middle of the day by shining a dim normal flashlight at it. 172.71.146.119 06:15, 7 April 2023 (UTC)
+...whilst looking through a narrow-band anti-green filter and waving the torch around to try to invoke observable parallax in the remaining illumination/shadows. 141.101.99.122 08:25, 8 April 2023 (UTC)
+Gotta say, I love this community for like this, the very reasonable conversation-rich question of why such logical things don't exist. :) NiceGuy1 (talk) 04:00, 8 April 2023 (UTC)
+Is this comic inspired by a laser incident? 2503: Memo Spike Connector (talk) 06:17, 14 April 2023 (UTC)
+It isn't just the first letter changed in the comic in the manner used in the article: if only the initials of stimulated were changed, it were "ntimulated", "dtimulated", "vtimulated" etc. So I believe that was just simplified to easen pronunciation.
+RANAR would mean Radio navigation and ranging (cf. above), LINAR would mean Light navigation and ranging, SODAR would mean Sound detection and ranging, etc. (but I don't know how usable any of these are, or if they are used outside of controlled environments)
+172.68.51.11 09:01, 16 April 2023 (UTC)
+Sad to see that TASER isn't in the list, cause that really throws someone for a loop. Thomas A. Swift's Electric Rifle -- Daemionfox (talk) 13:18, 19 April 2023 (please sign your comments with ~~~~)
+And here I was, thinking that TASER stood for Torture Amplification by Stimulated Emission of Radiation. 172.70.110.141 14:13, 4 May 2023 (UTC)
+Categories: All comicsComics from 2023Comics from AprilWednesday comicsScienceLanguage

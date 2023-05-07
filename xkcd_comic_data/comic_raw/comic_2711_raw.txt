@@ -1,0 +1,81 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2711: Optimal Bowling
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2711)
+|<< PrevComic #2711 (December 14, 2022)Next >>|
+Optimal Bowling
+
+Title text: If you want to bowl a strike, the optimal place is almost certainly inside a bowling alley, although with a little luck any establishment uphill from one could also work.
+Explanation[edit]
+This series of line graphs purports to advise players on how to improve their odds of achieving a strike in the sport of bowling – presumably ten-pin bowling, the most popular version of the sport in the United States. Among the parameters being measured — those being angle of throw, throwing speed, spinning speed, and weight of the ball — all four graphs encompass a range far larger than would be useful for reference by a bowler. The latter three in particular are on logarithmic scales, leading up to values that are impossible for a human to achieve.[citation needed]
+The first line graph indicates that a bowler has the greatest chance of achieving a strike by aiming the ball directly at the pins, with the chance of a strike decreasing rapidly as the ball is aimed to the left or the right. The closer you aim to the pins, the more likely it is you hit them.[citation needed] While a novice bowler may have difficulty achieving a 0° angle roll, their roll would still not come close to a -90° or 90° angle (due left or due right), much less a -180° or 180° angle (which, in either case, would be the opposite direction from the pins). Unlike with the other graphs, it is physically possible for a bowler to aim the ball at any angle, albeit not permissible under bowling rules; aiming the ball at an angle which deviates significantly from 0° would most likely cause the ball to end up in the gutter, while more violent or wildly aimed actions could create a risk of the ball going into one of the other lanes or missing the lanes entirely, which could annoy, anger, or even endanger other bowlers and employees of the bowling alley.
+The second graph indicates that a bowler has the greatest chance of achieving a strike by throwing the ball about 5–20 m/s (11–45 mph, 18–72 kph), with the chance of a strike decreasing as the speed is increased or decreased. Most bowlers cannot throw more than 45 m/s (100 mph or 160 kph).[citation needed] According to the graph, any throw faster than 100 m/s would cause equipment damage, and then widespread destruction several orders of magnitude later. (Possibly a reference to Relativistic Baseball.) The graph ends at the speed of light, as it is physically impossible to throw anything faster.
+The third graph concerns the rotational speed of the ball. The "ball explodes" section is a reference to one of Randall's favorite equations, which is that an object cannot spin faster than the square root of its specific tensile strength. Spinning the ball any faster than this limit would cause the bowling ball to lose its structural integrity and explosively disintegrate. At particularly high speeds, the material of the ball would be flung outwards at a significant fraction of the speed of light, causing, as in the second graph, widespread destruction (possibly a reference to One-Second Day.)
+The fourth graph in this comic illustrates a bowler's probability of a strike with a ball whose mass ranges from 100 kg (2.2 pounds) to close to 1010 kg (over 22 billion pounds), and continues by indicating that balls even larger than that would cause "equipment damage" (up to 1020 kg) or the creation of a black hole (starting from around 1025 kg and up). In reality, a ball would be very likely to cause equipment damage at much lower masses than 1010 kg.[citation needed] The last entry on the x-axis of this graph is 1040 kg, which is about 5 billion times the mass of the Sun. The United States Bowling Congress requires all bowling balls to weigh no more than 16 pounds (that is, a mass of no more than 7.257 kg), with no minimum weight. Hence, if the x-axis of the graph ran from, say, 0 to 8 kg, the graph might actually impart some useful information.
+In theory, an angle of exactly -180° or 180° with an extremely high speed, but less than escape velocity, could result in a strike if the ball traveled around the world and struck the pins from behind, after breaking through the wall behind the pins.
+The title text continues the trend of providing unhelpful information by stating that the optimal place to stand when trying to bowl a strike is inside the bowling alley, but mentions the possibility of "any establishment uphill from one" working, with a little luck. This suggests the possibility of rolling the bowling ball downhill, in to the bowling alley and the pins.
+Transcript[edit]
+[The header is surrounded on either side by small drawings of two bowling pins and a bowling ball.]
+Data for Optimal Bowling
+[Four line graphs are depicted. Each has a numbered one-word general description in a box at the top, an unlabeled y-axis, and a labeled x-axis. The relevant curve and other comments on each graph are in red.]
+1. Aim
+[The graph's x-axis is labeled from -180° to 180°.]
+Release Direction
+[The red curve on the graph is just above the x-axis at all points except for a steep peak around 0°. The red curve is labeled:]
+Relative Probability of Strike
+2. Speed
+[The graph's x-axis is labeled from 10-1 to 108, with the last point on the x-axis labeled "Speed of Light".]
+Ball Speed (m/s)
+[The red curve on the graph starts at the x-axis for 10-1, reaches its peak around 10, then declines and becomes a dashed line ending around three-quarters of the peak around 102. The remainder of the curve is replaced by two labels:]
+Equipment Damage [from approximately 102 to approximately 105]
+Widespread Destruction [from approximately 105 to the end of the axis]
+3. Spin
+[The graph's x-axis is labeled from 0 to 1012.]
+Spin (RPMs)
+[The red curve on the graph starts about halfway from its peak for 0, reaches its peak somewhere between 0 and 1,000, then declines and becomes a dashed line around 1,000, soon after which the remainder of the curve is replaced by two labels:]
+Ball Explodes [from approximately 10,000 to approximately 107.5]
+Widespread Destruction [from approximately 107.5 to the end of the axis]
+4. Weight
+[The graph's x-axis is labeled from 100 to 1040.]
+Ball Mass (kg)
+[The red curve on the graph starts just above the x-axis for 100, rises steeply and drops steeply ending just above the x-axis, then becoming a dashed line, all before reaching 1010. The remainder of the curve is replaced by two labels:]
+Equipment Damage [from approximately 109 to approximately 1022]
+Black Hole Created [from approximately 1025 to the end of the axis]
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Who cares about rules? I mean, I'm pretty sure your score won't count according to rules if you bowl from establishment uphill from bowling alley. -- Hkmaly (talk) 05:36, 15 December 2022 (UTC)
+If the ball has a diameter of 8.5 inches (multiplied by 2.54 and Pi makes about 67.8cm circumference) the rpm is also limited by the speed of light of the surface (reached at about 6.4x10^9rpm).
+Please elaborate on how widespread the aforementioned destruction would be. 172.71.154.38 10:50, 15 December 2022 (UTC)
+See What-If #1 (https://what-if.xkcd.com/1/) for reference. Elektrizikekswerk (talk) 11:01, 15 December 2022 (UTC)
+Really wide. Really, really wide.172.70.91.127 09:49, 19 December 2022 (UTC)
+Randall is clearly overestimating the mass range at which "equipment damage" would occur. Even 10^3 kilos is a //car//. I'm pretty sure that throwing a bowling ball the mass of a car would do a lot of equipment damage. I believe the 10^10 to 10^20 range should be "widespread destruction" (already a category above) and between that and the Schwarzchild mass should be something like "all life on Earth destroyed" because 10^20 kilos is plenty large enough for a global killer asteroid (admittedly its velocity would be much smaller... but still, I don't see how you have 1% of the Moon's mass in bowling ball without wiping out all life on Earth). 172.70.85.175 11:20, 15 December 2022 (UTC)
+That's the joke :) The humour is in the understatement Xseo (talk) 11:51, 15 December 2022 (UTC)
+If the bowling ball is made from material on Earth having 1 % of the Moons mass concentrated in one city but without any speed should not have any wide impact on Earth. Probably alot for those in the city. the gravity changes locally, and surrounding area. But not massive destruction. If 1% of Moons mass was added to Earth I also do not think it would make much difference, as long as it was placed softly on Earth. --Kynde (talk) 12:26, 15 December 2022 (UTC)
+For further edification: A 10^3 kg bowling ball traveling at 10^3 m/s is approximately equivalent to a shell fired from the main battery gun of a battleship. 162.158.159.74 11:40, 15 December 2022 (UTC)
+Or maybe a cannonball...?172.70.162.46 12:56, 16 December 2022 (UTC)
+The aim graph is wrong, isn't it? I have never practiced bowling, but I am pretty sure I have seen videos explaining that you need to aim on the side, and the spin will bring the ball to strike the pin group with an angle, not head on. 172.71.134.132 12:26, 15 December 2022 (UTC)
+It's not clear what the target is in the aim graph. If it's straight down the middle towards the headpin, you're right. But maybe it's aiming towards that optimal curve angle. Barmar (talk) 14:50, 15 December 2022 (UTC)
+on that note, what is assumed for the other 3 parameters as 1 is changed along the graph? 0? average? optimal? 172.71.22.160 15:04, 15 December 2022 (UTC)Bumpf
+considering the whole graph covers everything up to and including facing away from the lane, it could be that the spike "at" 0 degrees encompasses a lot of fine grain control. After all being 5 degrees off center wouldn't show up much in a 360 degree span, but could make a decent difference on where the ball hits within a lane.172.70.134.96 15:59, 15 December 2022 (UTC)
+It really depends on what kind of spin you impart. Beginners often bowl with virtually no spin, in which case the ideal aim point would be straight on (to the pocket between pins 1 and 2 or between 1 and 3, not to the headpin itself). Experience and/or instruction will typically lead to bowlers imparting spin that causes the ball to curve in the direction opposite the throwing hand, i.e., curving left for a right-handed bowler, so the more spin you impart, the farther you want to aim to the same side as your throwing hand. Dansiman (talk) 18:33, 21 December 2022 (UTC)
+Is there an extra gag in the fact all the numbers are on a logarithmic scale, or is that just so he can get to the absurdist values? 172.68.174.164 16:52, 15 December 2022 (UTC)
+I would like to know precisely how anybody scores a strike when their ball has 0 RPM!? Y'all playing on ice rinks!? --172.69.79.185 00:49, 16 December 2022 (UTC)
+I think "spin" is referring to horizontal spin (along the vertical axis), since "speed" is a separate graph. No spin then just means no curve. 172.71.182.49 08:19, 16 December 2022 (UTC)
+Actually, bowling lanes are supposed to have a coating of oil on them, so you absolutely can throw a ball with no spin in any direction, and it will glide about ⅔ of the way down the lane before the very low amount of friction on the ball introduces any appreciable spin in the direction of travel. Dansiman (talk) 18:33, 21 December 2022 (UTC)
+At the beginning it references "Ten Pin Bowling" by which I presume the author of that section was referring to "Duck Pin Bowling" which is the major form in the United States. There is also "Candle Pin Bowling" which is a different class of Ten Pin, but with very differently shaped pins and smaller balls without finger holes and mostly limited to small areas of the Northeast. Some of the physics is enough different that the curves would vary if they weren't so absurdly scaled already, in that sense the graphs are as applicable to Candle Pin as they are to Duck Pin. Of course, this is all in the extreme detail that's not really relevant to readers understanding, so I'm not sure if it needs to be explained. MAP (talk) 05:12, 16 December 2022 (UTC)
+No, I really meant ten-pin bowling. Duckpin bowling is a variation played regularly in only a few states, and candlepin bowling is yet another variation played in only a few states. But the kind of bowling most widely played in the U.S. is ten-pin bowling. See the respective Wikipedia articles linked in the preceding sentences. --172.71.254.94 08:17, 16 December 2022 (UTC)
+I'm surprised Randall didn't include a graph on ball size effect on your chances ;-) --162.158.129.138 09:51, 16 December 2022 (UTC)
+
+The hovertext excludes setting up pins in a non-standard bowling area. (such as with kids bowling pins in your living room) One wonders if this is intentional.
+I'm not sure I understand why the graph drops in the area of 'equipment damage'. Do you not get credit for a strike if the pins are all knocked down but the lane is destroyed? 172.70.206.92 (talk) 16:40, 16 December 2022 (please sign your comments with ~~~~)
+No. According to USBC Rule 8(g), damage causing the lane to come out of compliance is treated as the ball encountering a foreign obstacle (i.e. the damaged surface fragments) and as such results in a dead ball, requiring the delivery to be rebowled; presumably in a different lane. 172.69.22.16 10:32, 20 December 2022 (UTC)
+A ball too heavy to properly be rolled may damage equipment but not takes down any pins. —While False (museum | talk | contributions | logs | rights | printable version | page information | what links there | related changes | Google search | current time: 22:33) 16:51, 16 December 2022 (UTC)
+...IRTA graph 2 (speed), where the "probability of strike" drops, right into the amorphous "equipment damage" getting reached, not the mass, where it quickly drops to (near-)zero and stays there until the similar cloud.
+But it is likely much the same reason. An increasingly infeasible speed is going to effect the result. And probably even if you get a direct front-pin hit (or an angle close enough to make for a useful version of a Strike under most circumstances), it conveys forward momentum enough to power the middle-pins straight though and cause a Split (not only not a Strike, but reduces the possibility of making your second shot a plausible Spare).
+And, by the time you make your parameters actually at a level to cause damage, it no longer has a good Strike Probability value, with the state of the equipment (then the vicinity!) taking over from the original plot. 172.70.162.134 17:07, 16 December 2022 (UTC)
+What does IRTA mean?? I can't find a meaningful definition of it anywhere.108.162.237.194 22:17, 16 December 2022 (UTC)Bumpf
+"I Read That As...". HTH, HAND. (( <= "Honour To Hastur, His Ascendence Nears Daily" ;) )) 23:22, 16 December 2022 (UTC)
+It seems like another important data point is direction in relation to the pins. Best chance of success is when you're on the lane side of the pins. Anywhere else, you could still be aiming squarely at the pins, but the ball would have to go through solid objects to hit the pins: walls, machinery, ground... Mschmitt (talk) 19:46, 17 December 2022 (UTC)
+Categories: All comicsComics from 2022Comics from DecemberWednesday comicsPages using the "citation needed" templateLinks to xkcd.comLine graphsComics with colorSport

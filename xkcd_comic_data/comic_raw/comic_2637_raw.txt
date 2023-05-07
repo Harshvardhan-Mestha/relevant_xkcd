@@ -1,0 +1,78 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2637: Roman Numerals
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2637)
+|<< PrevComic #2637 (June 24, 2022)Next >>|
+Roman Numerals
+
+Title text: 100he100k out th1s 1nno5at4e str1ng en100o501ng 15e been 500e5e50op1ng! 1t's 6rtua100y perfe100t! ...hang on, what's a "virtuacy"?
+Explanation[edit]
+Roman numerals are the system of representing numbers used during the Roman Empire. The letters I, V, X, L, C, D, and M are used to represent numbers, with each letter representing a consistent value. Specifically, I represents 1, V represents 5, X represents 10, L represents 50, C represents 100, D represents 500, and M represents 1000. One way of stating the rules for combining Roman numerals next to each other are that a Roman numeral is added to a Roman numeral of equal or lesser value just to its right (e.g., II=1+1=2 because 1≥1, and VI=5+1=6 because 5≥1[citation needed]), and a Roman number is subtracted from a Roman numeral of greater value just to its right (e.g., IV=5-1=4 because 1<5, and IX=10-1=9 because 1<10). (Also, each place must be written separately, e.g., one cannot represent 49 via IL but instead must represent the tens place and ones place separately via XL IX—although the space would not be included in practice).
+The modern system of representing numbers is a decimal positional notation using the numerals (0, 1, 2, 3, 4, 5, 6, 7, 8, and 9). Westerners often call this system "Arabic numerals" or "Hindu–Arabic numerals" because they were invented in India and introduced to Europe by Arabic merchants.
+Thus in Roman numerals a digit always has the same absolute value but may be treated as positive or negative depending on the digit after it, whereas for Hindu-Arabic numerals, a digit's value changes by a power of 10 depending on its absolute position and is never subtracted.
+Cueball's original equations in Roman Numeral form are:
+I + I = II
+II + II = IV
+IV + V = IX
+Translated normally into more familiar Hindu–Arabic numerals, these equations are:
+1 + 1 = 2
+2 + 2 = 4
+4 + 5 = 9
+But Randall/Cueball replaced each letter individually with its value in Hindu-Arabic numerals — ignoring the abovementioned rules for interpreting combined Roman numbers, instead using the rules of Roman Numerals. "I" is replaced with "1", "V" is replaced with "5", and "X" is replaced with "10". For example, for IX at the end of the last equation, "I" is replaced with "1", and "X" is replaced with "10", so "IX" becomes "110". Thus, the equations are written
+1 + 1 = 1 1
+1 1 + 1 1 = 1 5
+1 5 + 5 = 1 10
+where the spaces have been added for clarity.
+An alternative interpretation of the third line, though not strictly in accordance with Roman numeral "rules", is
+15 + 5 = 20 (in decimal)
+20 is 2 0
+2 is 11
+So 20 is 11 0
+The joke is that because Arabic numerals do not use the same rules of addition and subtraction as Roman numerals, the equations appear incorrect in both systems. The usual interpetation of 11 is 10+1, not 1+1 as it is under the rules for interpreting Roman numerals. Randall derives additional humor from the premise that Cueball seems to know Roman numerals better than Arabic numerals (as demonstrated by the fact that he translated only the symbology and not the grammar) so that he would do math in Roman numerals and have to remember to convert his equations to Arabic numerals at the end. Schoolchildren in the West have been taught to do math with Arabic numerals, not Roman numerals, for centuries.
+In the title text, Randall applies the same idea of replacing Roman numerals with their values in Arabic numerals to strings of English words.
+100 he 100 k out th 1 s 1 nno 5 at 4 e str 1 ng en 100 o 501 ng 15 e been 500 e 5 e 50 op 1 ng! 1 t's 6 rtua 100 y perfe 100 t!
+C he C k out th I s I nno V at IV e str I ng en C o DI ng IV e been D e V e L op I ng! I t's VI rtua LL/C y perfe C t!
+The original string (with letters that would be interpreted as Roman numerals capitalized) is, "CheCk out thIs InnoVatIVe strIng enCoDIng I'Ve been DeVeLopIng! It's VIrtuaLLy perfeCt!" For the first word, "Check," C is replaced with the value of that Roman numeral in Arabic numerals, i.e., "100", in both instances of the word, which results in "100he100k". Unlike in the comic, Randall combines Roman numbers using the proper rules of addition and subtraction. For example, he replaces "IV" with "4", not "15", e.g., "innovative" becomes "1nno5at4e", not "1nno5at15e". (However, "I've" becomes "15e", not "4e", presumably because the apostrophe was removed after, not before, replacing the Roman numerals with Arabic numerals. However, there is not an obvious reason why Randall removed the apostrophe; in addition, this makes the word "i've" look like "xve".)
+Irony arises from the claim of "virtual perfection", as there are problems with this encoding.
+One problem with the encoding is that the double L in "virtually" is replaced with 100. This technically obeys Roman numerals' rule of adding the value of a letter to the value of an equal-valued letter just to its right (50+50=100). However, this addition rule should not apply, since in standard Roman numerals, a single number should never have multiple Vs, multiple Ls, or multiple Ds, e.g., 100 should be represented only by C (100), not LL (50 50). This would mean that a simplistic decoding script would erroneously decode "6rtua100y" to "VIrtuaCy", not "VIrtuaLLy". Thus, this string encoding system is not actually perfect. It loses information.
+Another problem with the encoding is that only a very small subset of the source text can be affected by this encoding: 7 letters of 26 letters for English (the language that the text is written in) and no non-alphabetical characters.
+Alternative decodings[edit]
+Until the modern codification in general use today, Roman numerals weren't standardised that much, so "LL" could have been a tolerated alternative to "C". For more on that, see Roman_numerals#Classical_Roman_numerals. However, having the decoding script use that alternative would not solve the problem but instead would make the decoding script replace Cs with LLs instead, e.g., "delloding sllript".
+One could also separate the L's into individual numbers, to become "virtua5050y", except this produces even more problems because 5,050 is actually MMMMML and "virtuammmmmly" is definitely not an English word. (Citation: look up "virtuammmmmly" on Wiktionary.)
+Transcript[edit]
+[Cueball writes on a wall or a whiteboard. This is what is written:]
+1+1=11
+11+11=15
+15+5=110
+[Caption below the panel:]
+Remember, Roman numerals are archaic, so always replace them with modern ones when doing math.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Immediately came to this site as soon as the comic popped up 172.70.114.43 22:43, 24 June 2022 (UTC)
+For anyone wondering about the alt text: "CheCk out thIs InnoVatIVe strIng enCoDIng IVe been DeVeLopIng! It's VIrtuaCy perfeCt! ...hang on, what's a "virtuacy"?" Roman numerals are in uppercase. : 162.158.90.209 23:00, 24 June 2022 (UTC)
+I didn't see this comment, but I decoded it above. Feel free to update with your text, which includes the casing.
+It should be virtually - LL is 50 50, C is 100. 172.70.110.121 00:37, 25 June 2022 (UTC)
+By the way, this encoding is not that innovative: back when Roman numbers still meant something to people they were oftentimes hidden inside inscriptions on churches and monuments. If you ever stand in front of a church and wonder why certain letters in a sentence of an inscription are capitalized seemingly at random, this may be the reason. --172.70.250.231 06:12, 25 June 2022 (UTC)
+The (almost) exact encoding style of the alt text also was used before, e.g. in works of fiction - the first I can think of is Howard Taylor's Schlock Mercenary (used for AI names) 172.70.242.45 13:41, 25 June 2022 (UTC)
+Relevant OEIS entry: https://oeis.org/A093788 162.158.129.117 23:43, 24 June 2022 (UTC)
+Well, I immediately got the comic, when I saw it, but (though I admire the effort put in) the explanation that seems to have been given is... overly long, IMO. I have no wish to invalidate all the thought put into it, but I really feel it says too much. Even by my standards (I'm often a waffler, as I 'improve' the accuracy and all-inclusiveness of such text). But don't want to rain on the existing author(s) parade, myself, so just sayin'... 162.158.159.15 02:01, 25 June 2022 (UTC)
+It's not overly long if someone spent the time writing it. -- Hkmaly (talk) 02:10, 25 June 2022 (UTC)
+I wondered too when first reading but like it geeky like that. --172.68.50.15 05:37, 25 June 2022 (UTC)
+I've repeatedly had my edits, longer and shorter, reverted completely away. I've occasionally started the same to manage the experience. Your opinion is a breathe of fresh air but I wouldn't be worried about increases in quality that shorten the text. One can even leave concepts in by replacing them with links. 172.70.110.241 12:01, 26 June 2022 (UTC)
+One thing you learn, when contributing to a wiki, is that you better be prepared to Kill Your Darlings, or have them killed by others. The many's the time I've written something I'm (eventually) quite pleased about, but it gets wiped out either by someone disagreeing with my particular form of self-satisfaction, or just completely rearranging things and either crashing through the carefully crafted copy or ruthlessly removing my radient repartee. But such is life...
+And often I feel that whoever got in there with the first footprint of explanation has not done it the way I would (surprisingly often I had the same idea, but obviously there are so many ways to do it... but here I may disagree entirely rather than "I'll happily work with it, then, however different it is...") and I might be very tempted to replace it wholesale. I don'5 think I have ever done so, but I might tweak it a lot, in bits and pieces. It may still upset an OP who finds it bears little relationship to what they submitted, but I try never to do anything beyond the general hum of the community. Coward that I am. But it can happen to anyone. 172.70.86.44 17:01, 26 June 2022 (UTC)
+I'm not sure about 'overly long', but as it stands it takes an awfully long time to come to the point. I'd be inclined to lift the basic explanation (roughly equating to the paragraph starting 'The joke is...') to the top, and only after that dive into the niceties of how each system works and what specifically is going on in the examples in the comic. 172.70.91.58 09:11, 27 June 2022 (UTC)
+I, in a rather faint and not really concerned way, object to the use of the phrase 'archaic' with regard to Roman Numerals. That would imply that they aren't in use at all, whereas when I look around me I can see a number of examples of current usage of Roman Numerals, e.g. Clock Faces, Chapter Numbering (some books) and the most important, the 'Manufacture Date' of a televisual programme from the BBC shown at the bottom of the end-credits. I believe a better phrase may be 'venerable' or 'historical' or 'unmodern'. 172.70.162.5 07:46, 25 June 2022 (UTC)
+I was also thinking that. But maybe qualified as "archaic but still commonly seen" (or similar), were my thoughts. I was wondering if it was a local perspective, though. 'Historical' US usage is rather sparser, I imagine, than the accumulation of Old World monuments/etc, from deeper back into the times it was more usual, so making only the "stylstically old" things predominantly use them (certain clock faces, etc). Meanwhile, even our programmes broadcast on the BBC still regularly close with the date in letters (anything from this year is "MMXXII") on the final frame/line of the credits, while our other broadcasters go with contemporary numerals in the same context. (I wonder, was 1999 "MIMIC", rather than "MCMXCIX"..? I think it was...) 141.101.98.221 11:58, 25 June 2022 (UTC)
+In mathematics, Roman numerals are archaic (obsolete, no longer in active use), common use is just for numbering (monarchs - themselves a somewhat archaic concept, generations of using the same name, events, sequels, volumes, paragraphs or appendices, etc.) or very occasionally for years (e.g. of construction) - "archaic" is correct even if you mean from the/an archaic period which may be the period when a civilization built the foundation for a later "classical" period ("Golden Age") (some exemptions may apply) or specifically the time of the Greek archaic era leading up to Classical (Hellenic) Greece, usually defined some time between about 800 and 480 BCE (they did (probably) originate from the Roman archaic period which overlaps with the Greek one) 172.70.242.45 13:41, 25 June 2022 (UTC)
+I recall that, while many 1999 films correctly used "MCMXCIX" at the end of their credit rolls, there was at least one that instead went with "MIM". Can't remember what it was, though. Also, MIMIC would be completely wrong, as that would equate to 1000 + (1000 - 1) + (100 - 1), or 2098. Dansiman (talk) 18:22, 28 June 2022 (UTC)
+I wondered when someone would spot the MIMIC error (later realised I was probably confusing myself with Mimic (film), but it was hours later, not worth an edit). But, yay! At least someone else did... ;) 172.70.85.211 20:43, 28 June 2022 (UTC)
+In case anyone is interested, I created a small encoder/decoder program (Python+PyQt): https://gist.github.com/MaurizioB/6bedeca961b5152006d030f56f817a2f Musicamanate (talk) 17:05, 25 June 2022 (UTC)
+It's rather ironic that the hindu/arabic numerals contain zero, while roman numerals don't. By mixing a zero into the roman numerals things get confusing.
+Ran500a100s 5ers1on of th1s en100o501ng 1s 4st 100o1000p50ete50y 50a100k1ng. He's ob6o5s50y forgotten that the 50etters 1, 5 and 10 are rea100y 4st 5ar1ants of 1 and 5 an500 999 not e11st 1n the 150ass99a50 50at1n a50phabet. "10" 1n part144ar 1s a Ger1000an99 1nno5at1on! (sorry, 1 4st 100o445n't res1st, tho5gh 1 al1000ost 11sh 1 ha500 - b5t 1 500ef1n1te50y 50o5e the 10or500 999 - aka "did" 1n 5nen100o500e500 10r1t1ng) --172.70.250.185 15:35, 27 June 2022 (UTC)
+I figured out that you treated "U" as identical to "V", "J" as identical to "I", and "W" as identical to "X", but I'm not sure why you encoded "couldn't" as "100o445n't" - V and L are never used as subtractors, so it should be something more like "100o550500n't" or maybe "100o555n't". Dansiman (talk) 18:47, 28 June 2022 (UTC)
+"virtuammmmmly" is a perfectly cromulent word! 172.70.82.3 18:23, 27 June 2022 (UTC)
+Since most English speakers know how Arabic numerals work (citation needed), maybe we should spend less time explaining that and more time explaining string encoding? Birdsinthewindow (talk) 21:39, 28 June 2022 (UTC)
+Categories: All comicsComics from 2022Comics from JuneFriday comicsPages using the "citation needed" templateComics featuring CueballMath

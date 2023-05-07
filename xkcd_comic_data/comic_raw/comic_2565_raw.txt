@@ -1,0 +1,57 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2565: Latency
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2565)
+|<< PrevComic #2565 (January 7, 2022)Next >>|
+Latency
+
+Title text: Each SCAPDFATIAT point increases the chance that the process will involve the phrase 'by the next business day.'
+While this comic was still on the front page of xkcd the Countdown in header text began.
+Explanation[edit]
+This comic is about the time it takes for a request to be processed; a total of 1 second is devoted to automated processes, but 2-15 minutes or longer are devoted to a not-yet-automated process that is performed by a human.
+Part of the humor comes from the fact that most, if not all, instances of a person copying and pasting data from one place to another could be trivially automated and included as part of the automated steps, if only a programmer could take the time to program the process. Having a human take several minutes to move data that a computer could move in fractions of a second is incredibly inefficient, and reflects the humorously poor optimization present in many routine processes.
+The title text refers to SCAPDFATIAT, which is defined in the comic as Someone Copies and Pastes Data From a Thing Into Another Thing.
+Because it requires a human worker to fully accomplish, in-between various other work commitments as well as possibly personal/non-work activities, it is plausible that (even if the copying was started promptly enough) the person involved will not have pasted onwards by the time their effective working day ends. It might be reasonable to assume that a job that ought to take no more than a few actual minutes thus is only 'guaranteed' to be concluded at some point the following working day (which may be a whole long weekend away, possibly including public holidays). The business will therefore state (e.g. in contractual service agreements) that the guaranteed response times are of the order of "within one working day". Even if they hope and expect that any request passed to their staff is handled within a much shorter timescale. If reliably capable of being fully automated (e.g. with a resilient and continually maintained server infrastructure), could be fulfilled almost instantly at any time of day or night. But it may be the need to keep an 'intelligent' human in the loop (as well as to "under-promise and over-deliver", rather than the reverse) that makes the concept of "next-working-day" a more attractive commitment to make.
+Transcript[edit]
+[Caption above a graph showing a bar with 6 lines between the two ends:]
+Typical process latency:
+[The bar is split in two small regions at either end with two times two lines close to each other at the left and only one of those pairs of lines near the right. In between is a very long white area with no features. Above the two small segments at either end, there are small brackets of this type "{" lying down so the tip points up towards a curved line that then goes up to two labels.]
+Left: Automated steps: 800 ms
+Right: Automated steps: 200 ms
+[A similar, but very long, bracket is below the bar indicating the long white area in the middle. The tip points down to a label:]
+Someone copies and pastes data from a thing into another thing:
+2-15 minutes
+(More if the person on call is busy)
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Ha! Welcome to my life. Just thought to check if there was a new xkcd yet (at 04:45, GMT) after spending the last five hours messing semi-manually with some geodata. Ok, the first three hours was in the text editor looking at the raw JSON file, and the next two was writing a Perl script to redo everything I had already done (and more, but not yet everything I will eventually want to do) without the fallible human element. Once the fallible human element has polished the script up to account for unforseen circumstances. 172.70.85.73 04:51, 8 January 2022 (UTC)
+
+what is SCAPDFATIAT 172.70.126.87 (talk) (please sign your comments with ~~~~)
+OH what is says in the Comic 172.70.126.87 (talk) (please sign your comments with ~~~~)
+Right, Someone Copies and Pastes From a Thing Into Another Thing 172.70.210.183 05:36, 8 January 2022 (UTC)
+
+I can relate to this. In fact, i use 2 computer screens just for that: I copy data from software X, screen 1 to quickly paste it into software Y, screen 2. 162.158.183.232 06:09, 8 January 2022 (UTC)
+
+I suspect that "cumshots" in the last paragraph is either a (very lame) joke or an incidence of spam. Either way, please remove it! Thanks. 172.69.71.187 (talk) (please sign your comments with ~~~~)
+It was this IP, 172.70.174.169, that was the perpetrator, but it was undone less than 20 minutes later... :-) --Kynde (talk) 17:20, 9 January 2022 (UTC)
+Often the reason for the SCAPDFATIAT step is that A Thing has no direct connection to Another Thing. So someone has to design a way for them to communicate to get the human out of the loop. Unless this process is done frequently, it doesn't reach the top of the priority list. Barmar (talk) 13:48, 8 January 2022 (UTC)
+There are tools for such automation (they're usually called either workflow or orchestration tools) and have been for decades, but they tend to be really fragile. If the services being orchestrated aren't aware of it, it is very easy for them to change things and break the coordination in a way that just fails silently. BTDT. --172.70.85.73 15:46, 8 January 2022 (UTC)
+There are many organizations where such automation workflow just _cannot_ happen because the IT or upper management will ignore the users request to integrate X with Y. Can be due to anything from incompetence, to relying on 3rd party vendors that don't offer any support, to financial reasons ("too expensive"), to power struggles, or all of the above. Ralfoide (talk) 19:01, 8 January 2022 (UTC)
+In my experience, company can more easily afford unqualified person spending day on something than me, the programmer, half hour. It gets less clear if the thing needs to happen repeatedly, but still, my time is costly and my list of tasks I need to work on endless. -- Hkmaly (talk) 01:41, 9 January 2022 (UTC)
+Someone had called this a Bar chart in the transcript. But it is not such a graph. But does this kind of graph have a specific name. Is it a kind of timeline? Or something different or do this not even have a specific name? I have deleted the bar graph from the now complete transcript (except if there is a better name for this type of graph.) --Kynde (talk) 17:20, 9 January 2022 (UTC)
+Kynde, this type of graph is a type of histogram. 172.70.126.215 (talk) (please sign your comments with ~~~~)
+(Moved your reply to a better position here in Talk. Also added the most basic Unsigned detail.)
+It's a rather limited subset of histogram (area-keyed, fixed 'height', thus 'bucket-width' is the only indicator of value), if you want to class it as that. One might as well call it a Gantt chart, simplified/collapsed down to one minimal line.
+(We've seen Gantt Charts and derivatives used by Randall, before, so the general form is no unfamiliar with him.)
+I do think there's probably a better name. Even if it's only "Workflow Timing Diagram" or something more literal. Though my Google-Fu doesn't help confirm/correct that, without spending ateast a little more effort on the possible search-terms I need.172.70.91.116 21:11, 12 January 2022 (UTC)
+I personally hate customer service bots that reply within a split second, instead of within a working day. I tend to contact customer service for problems that cannot be resolved by finding a word that happens to be found in the FAQ and sending me the FAQ entry that contains it --Gunterkoenigsmann (talk) 02:59, 10 January 2022 (UTC)
+To me this comic is the perfect prologue for 1319: Automation. Bischoff (talk) 07:16, 10 January 2022 (UTC)
+(first time editing, please forgive etiquette violations) Note that having a human in the loop is not always a sign of outdated processes and sometimes plays a very real safety and security role (either intentional or historical/coincidental). In terms of security, a human will interrupt code injection attemps or other attacks. In terms of safety, a human will (in most instances) use their judgement to avoid propagating failures. Replacing humans by automation is possible but requires a thorough exercise regarding security/safety and might involve tools much more complex than copy-paste. An example can be taken from Airbus ECAM messages: the computer detects a failure and suggests a course of action to the pilot - it does not fulfil the action itself, and this is the reason why.
+See also 1205: Is It Worth the Time? Esherril (talk) 16:06, 10 January 2022 (UTC)
+This is one reason it is nice to have a job that you honestly understand and isn't being closely monitored. If you can even partially automate a process like this, you can reduce your workload and increase your productivity, freeing time for more valuable tasks. Just be sure no one finds out you've changed your job title from data entry technician to macro babysitter. 172.70.174.43 17:01, 10 January 2022 (UTC)
+The explanation looks fine to me, if no one says anything by Wednesday next week I'm removing the incomplete tag. Kvarts314 (talk) 08:58, 17 February 2022 (UTC)
+Countdown[edit]
+See Countdown in header text. Discussion has been moved here Talk:Countdown_in_header_text. --Kynde (talk) 11:09, 12 January 2022 (UTC)
+Categories: All comicsComics from 2022Comics from JanuaryFriday comicsCharts

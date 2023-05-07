@@ -1,0 +1,76 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2566: Decorative Constants
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2566)
+|<< PrevComic #2566 (January 10, 2022)Next >>|
+Decorative Constants
+
+Title text: Arguably, the '1/2' in the drag equation is purely decorative, since drag coefficients are already unitless and could just as easily be half as big. Some derivations give more justification for the extra 1/2 than others, but one textbook just calls it 'a traditional tribute to Euler and Bernoulli.'
+This was the first comic that came out after the Countdown in header text started.
+Explanation[edit]
+This is another one of Randall's Tips, this time a Math Tip.
+Randall gives an example of a complex looking equation labeled 4-15:
+T = 𝔻m0(rout − rin)μ̅
+But since 𝔻 and μ̅ are "decorative", the equation can be reduced to
+T = m0(rout − rin)
+Here T is the net rate, m0 the unit mass and (rout − rin) the flow balance.
+The decorative symbols can be interpreted as constants 𝔻 = μ̅ = 1, in which case the implied operations of multiplication and exponentiation make sense. The 𝔻 is double-struck ("blackboard bold", thus in the comic only the vertical line is double). Mathematicians, who are always searching for more symbols[citation needed], have taken to distinguishing things represented by the same letter by using different fonts, such as 𝑑, 𝐝, 𝒅, 𝐷, 𝐃, 𝑫, 𝒹, 𝒟, 𝖉, 𝕯, ∂, 𝕕, and 𝔻. The double-struck font is easier to write on a blackboard than a proper bold letter and often represents a set, such as ℝ for the set of real numbers or ℂ for the set of complex numbers. 𝔻 can represent the unit disk in the complex plane, the set of decimal fractions, or the set of split-complex numbers.
+μ is the Greek lowercase mu and has many uses in mathematics and science. Here it has a bar, μ̅, which could indicate a number of things, including the complex conjugate. Intriguingly, μ is the symbol in statistics for the population mean, and the overbar represents the sample mean, so this could represent a random variable which is the average of a sample of means μi of different populations in some larger ensemble of populations.
+Using a special version both of D and μ to even further spice up the formula all leads up to the math tip:
+If one of your equations ever looks too simple, try adding some purely decorative constants.
+Other examples of well known equations that are profound but look simple include
+E = mc2 (Special Relativity),
+PV = nRT (the Ideal Gas Law),
+F = ma (Newton's Second Law),
+V = IR (Ohm's Law), and
+Gμν + Λ gμν = κTμν (Einstein field equations), and
+eπi+1 = 0 (Euler's Identity).
+Of these, only the Einstein field equations have been spiced up with decorative indices (which actually hide a system of ten nonlinear partial differential equations).
+In the title text Randall mentions the Drag equation, which is attributed to Lord Rayleigh. In fluid dynamics, the drag equation is a formula used to calculate the force of drag experienced by an object due to movement through a fully enclosing fluid. The equation is Fd = ½ρu2cdA. Here Fd is the drag force, ρ the mass density of the fluid, u the relative flow velocity, cd the drag coefficient and A is the area.
+Randall jokes that the factor of ½ in the equation is meaningless and purely decorative, since the drag coefficients, cd, are already unitless and could just as easily be half as big thus leaving out the ½ in front of the equation. The ½ is thus just an example of a "decorative constant." The usual reason for including the factor of ½ is that it is part of the formula for kinetic energy that appears in the derivation of the drag equation, i.e. ½ρu2. However, modern treatments are so condensed that this factor of ½ is often smuggled in with no explanation.
+Since we can choose the constants to be whatever we want, it could be possible to absorb the ½ into the drag coefficient cd, but that does not mean it is unmotivated, since it comes from the kinetic energy. Still, Randall quotes Frank White's Fluid Mechanics textbook, which two times calls it "a traditional tribute to Euler and Bernoulli." According to White, the factor of ½ rather comes from the calculation of the projected area of the object being dragged. Randall has brought up this point before, in his book, "How To"
+The line from White probably refers to renowned mathematicians Leonhard Euler and Daniel Bernoulli. Euler who is held to be one of the greatest mathematicians in history worked directly with Daniel and was a friend of the Bernoulli family, that produced eight mathematically gifted academics.
+Daniel Bernoulli is known for modifying the definition of vis viva (what we now call kinetic energy) from mv2 to ½mv2, as motivated by the derivation from the impulse equation. In 1741, he wrote
+[Define vis viva] esse ½ mvv = ∫pdx.
+That is, "define vis viva to be ½ mv2 = ∫pdx," where p is the force (from pressione) and dx is the differential of position (infinitesimal displacement). Today, this equation says that the kinetic energy imparted to an object at rest equals the work done on it.
+In the drag equation ½ ρu2 represents the dynamic pressure due to the kinetic energy of the fluid, and hence the 1/2 makes sense to keep in the equation, and could thus easily be argued not to represent a decorative constant.
+The title text is pretty much word-for-word a repeat from Randall's book How To. In Chapter 11: How to Play Football, he misuses the drag equation, and mentions this fact in more depth, in a footnote.
+Transcript[edit]
+[A small panel only with text. Written as an excerpt from a mathematical text book. Begins with a number for an equation, then follows the equation written in larger letters and symbols. And below are explanations of each term in the equation. The μ has a bar over the top and the D has a double vertical line.]
+Eq. 4-15
+T = 𝔻m0(rout - rin)μ̅
+T: Net rate
+m0: Unit mass
+(rout-rin): Flow balance
+𝔻, μ̅: Decorative
+[Caption below the panel:]
+Math tip: If one of your equations ever looks too simple, try adding some purely decorative constants.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I don't have any idea what to put in the actual description, but whoever does should probably note that r(in) - r(out) equals zero, not one. And multiplying by a constant 0 absolutely changes the value! GreatWyrmGold (talk) 21:59, 10 January 2022 (UTC)
+rout and rin are different values. The subscripts represent different instances of the same variable at different point. In the same way, you might calculate something happening over a time interval tend - tstart . 172.69.71.77 23:02, 10 January 2022 (UTC)
+Yes for sure they are two different values. On the other hand if μ is not 1 then the it is not just decorative! D on the other hand is just a proportionality constant, which may have a value other than 1. I have tried to put something in the explanation here. Quite a bit. Do not really now anything about Drag, so just took it from the wiki page. Also I hope someone can explain the formula in the image, as I'm sure it is just something about the flow, that would relate it to a drag equation. --Kynde (talk) 23:41, 10 January 2022 (UTC)
+Note that the title text is pretty much word-for-word a repeat from Randall's book *How To*. In Chapter 11: *How to Play Football*, he misuses the drag equation, and mentions this fact in more depth, in a footnote. Bit of trivia! --162.158.134.79 23:13, 10 January 2022 (UTC)
+Nice, I will have to check up on that. Thanks. --Kynde (talk) 23:41, 10 January 2022 (UTC)
+Can confirm this, the book mentions that the "traditional tribute to Euler and Bernoulli" comes from Frank White's Fluid Mechanics textbook. Clam (talk) 01:08, 11 January 2022 (UTC)
+There it is, page 266 in the 1986 2nd edition: "They both have a factor ½ as a traditional tribute to Bernoulli and Euler, and both are based on the projected area..." https://books.google.com/books?id=wGweAQAAIAAJ&q=traditional -- 172.70.162.5 02:13, 11 January 2022 (UTC)
+Great thanks have included both references in the explanation. --Kynde (talk) 08:32, 11 January 2022 (UTC)
+Wait, wouldn't the values be twice as big (rather than half as big) if you left off the 1/2? 141.101.69.154 12:43, 11 January 2022 (UTC)
+No. If 1/2Cd = Constant, then the new constant would be half as big as Cd since Cd=2x constant. You would just put in the 1/2 in the new version of Cd, so the new Cd is half as big as the old, and the final result the same.--Kynde (talk) 10:44, 12 January 2022 (UTC)
+Of course, the c^2 im e=mc^2 is just as decorative, when using natural units where c=1.... 172.68.50.171 00:29, 11 January 2022 (UTC)
+And the resulting equation is then just e=m - or m=e which is beautiful and profound. "Mass is Energy". Without the complications, you stop thinking of it as a PROCESS for converting one into the other and get the more profound point that Mass and Energy are the exact same thing. SteveBaker (talk) 03:33, 11 January 2022 (UTC)
+I respectfully disagree. The c² isn't decorative; mc² is a measure of energy and m is not. e=mc², like f=ma, still works even if you change the size of any of the basic units (of length, time, mass) from which the units of energy and force are derived. As I see it, an equation that ties you to any definition of unit size is less profound, not more. Tom239 (talk) 17:21, 12 January 2022 (UTC)
+To the sort of person who (thoughtfully) uses c=1, this feels a bit like saying that the "f" is profound in dist=sqrt[x^2+y^2+(z/f)^2], where of course I've measured xy-distances in miles and z-distances in feet, so f=5280ft/mi. Yes, it's entirely possible to choose different units for different coordinates, and if you're very accustomed to that then the conversion factors can be deeply important for your understanding of the system (and provide extra flexibility in your choice of units: you can easily use "f=1760yd/mi" if you'd prefer). But there's still a very well-defined sense in which sqrt[x^2+y^2+z^2] is the more fundamental equation, and the "f" is an unnecessary complication (however convenient it may be). Whether I'd call it "decorative"... I'm not sure. But I don't see this "f" as profound. Steuard (talk) 17:59, 29 May 2022 (UTC)
+I think the 1/2 in the drag equation is intuitive. I understand that it is technically superfluous, but F=Pd*A and Pd=1/2*rho*u^2 so the 1/2 carries over intuitively. 172.70.98.15 (talk) (please sign your comments with ~~~~)
+Agrees I had this written down in an early version of the explanation but that was edited out. Maybe I will put it in again.--Kynde (talk) 10:44, 12 January 2022 (UTC)
+Drag coefficients could just as easily be half as big. This is true but how is their being unitless relevant? It's more about how defining constants is partially arbitrary. Lev (talk) 08:07, 12 January 2022 (UTC)
+If Cd had a unit, say it was an energy which represented some relevant value for a given material, then it would not be correct to say that it was half as much, just because 1/2 came into the equation. But if it has no units, then it is just a constant saying something about the material, and then the 1/2 could in principle be absorbed without changing anything. But as stated above 1/2 actually has physical meaning in the way it enters the equation. --Kynde (talk) 10:44, 12 January 2022 (UTC)
+It doesn't make any difference. For instance, Coulomb's law works fine whether we write it F = -q1q2/(4πε0r2) or F = -kq1q2/r2. Similarly, if we had a factor of 2 in the gas law for some reason, that would just change the values of the gas constants.
+I've seen the double-struck capital "D" used commonly as a symbol for the Domain of a function (While the double-struck "R" was used for the range in that context) 162.158.63.243 21:16, 17 January 2022 (UTC)
+Does anybody know enough math to figure out what that equation is supposed to do? I really want to delete that tag.New editor (talk) 19:13, 25 January 2022 (UTC)
+The r terms are used in describing things like water treatment plants or dialysis machines, where you're trying to use fluid flow to regulate some solute. If fluid balance is large, it means the "tank" is going to empty or dry out. I guess T is the rate at which this happens. Not really a math thing, more of an engineering thing, seems to me.
+Count down clock[edit]
+See Countdown in header text. Discussion has been moved here Talk:Countdown_in_header_text. --Kynde (talk) 11:10, 12 January 2022 (UTC)
+Categories: All comicsComics from 2022Comics from JanuaryMonday comicsPages using the "citation needed" templateTipsMathComics featuring real people

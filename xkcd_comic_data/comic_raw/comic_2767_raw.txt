@@ -1,0 +1,42 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2767: Recipe Relativity
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2767)
+|<< PrevComic #2767 (April 24, 2023)Next >>|
+Recipe Relativity
+
+Title text: It says to cut the onions into 1/4" slices, but I'd better correct for length contraction.
+Explanation[edit]
+This explanation may be incomplete or incorrect: Created by an EDITOR MOVING AT 94% OF THE SPEED OF LIGHT. Do NOT delete this tag too soon.
+If you can address this issue, please edit the page! Thanks.
+In this comic, Randall is cooking a recipe found online. It took him much longer than the recipe said it would, and he concludes that this was due to time dilation as described in the theory of special relativity; that is, the recipe author was moving at 94% of the speed of light, causing relativistic effects, so that only 35 minutes passed for the author while 105 minutes passed for Randall. To calculate the 94% figure, he takes the recipe’s official duration (t’) and his actual duration (t), and then calculates what speed of light fraction would account for the cooking time difference.
+This is absurd[citation needed] and therefore humorous primarily because the most likely cause of the difference in time is that Randall is less skilled in making the recipe than its author, rather than relativistic effects. The recipe author would report the time in their own frame of reference, not Randall's, no matter what the difference in motion between the two.
+Randall is poking fun at online recipes that state an optimistic cooking time. The recipe author may assume an ideally equipped kitchen, a skilled chef, and the availability of prepared ingredients, such as canned or frozen cooked black beans instead of dried beans which take over an hour to soak and cook.[1]
+The title text takes the relativistic theory even further, saying that because of Lorentz contraction caused by the recipe author moving close to the speed of light, Randall should use different sizes of ingredients. If the recipe author calling for 1/4" onion slices is indeed traveling at 94% of the speed of light relative to Randall, he wonders whether his onions should be cut to 3/4" slices to match their size in his frame of reference. This is similarly absurd and therefore humorous.
+Transcript[edit]
+[In a small square panel the top part is written in black. It looks like a search from the internet and most of the top part of the browser is too small to be read. There are three small squares and a long rectangular address bar. To the right of the first small square which has a triangle inside it pointing down, there are two lines with unreadable text. Then followed by the second square, which is empty, and the address bar with a long line of unreadable text. Finally there are two lines of unreadable text before the last square which has a plus-shaped symbol inside it. Beneath this is a large header which can easily be read:]
+Black bean burrito bowl
+[Beneath this header there is a line with unreadable text, and below that line a thin empty rectangle. Beneath this is the second line of readable text. The last part indicating a time is circled in red. The readable black words are written in normal letters, as opposed to the standard of xkcd with all small caps.]
+Total time: 35 minutes
+[Beneath this there are three more lines of text, but this has all been written in red. Also it uses the standard xkcd all caps text format. The first line is normal text. And the last indication of time is also circled in red as the one above it, and a small double arrow goes between those two red lines around the time.]
+My actual time: 1h 45m
+[Below this there are two lines with equations written in math version, but here given here in text. The second equation is split over two lines. The last result is also circled in red.]
+t=t'/√(1-v2/c2)
+v=c*√(1-(t'/t)2) = c*√(1-(35/105)2) = 0.94c
+[Caption below the panel:]
+I think this recipe author is moving past me at 94% of the speed of light.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Just curious, does anyone know what the dimensions of the onion measure in the recipe when adjusting for contraction? 172.70.175.179 02:55, 25 April 2023 (UTC)
+Not so easy to correct for length contraction, as you have to know in which direction the author is moving (the length contraction only applies in that direction). Sebastian --172.68.110.169 15:23, 25 April 2023 (UTC)
+Is it worth explicitly saying in the explanation that this is the correct equation for time distortion in Special Relativity? Nitpicking (talk) 03:31, 25 April 2023 (UTC)
+Which observer timed the recipe at 35 minutes? The equations only make sense if the observer was moving in approximately the same inertial frame as Randall's, but I doubt such an observer could track a chef over 592 billion meters. 172.71.142.107 06:13, 25 April 2023 (UTC)
+I had something similar, turns out the I used the wrong pan. Using a better one helped. 172.71.102.5 07:02, 25 April 2023 (UTC)
+The first non-sponsored Google hit on cooking black beans says, "Cook soaked beans for about 45 to 60 minutes and unsoaked for about 50 to 65 minutes." However, my half-used 32 oz. bag of "Great Value" (Walmart) black beans says a "quick soak" takes an hour after a two minute boil, and then cooking soaked beans requires additional simmering for "1 - 1/2 to 2 hours". Can we agree that given the title and estimated time of the recipe, it almost certainly assumed the use of canned beans, but Randall had only dried beans? The circumstantial evidence seems quite compelling. 172.69.134.242 13:34, 25 April 2023 (UTC)
+I thought "burrito bowl" was just a fancy, more compelling neologism for "bean salad", but apparently the experts do draw a distinction: https://www.mexicali-blue.com/is-a-burrito-bowl-a-salad-examining-the-differences/ Not sure that's worth including, though. 162.158.166.231 13:55, 25 April 2023 (UTC)
+Is this one of those "Is cereal a soup?" issues?172.71.30.82 14:00, 25 April 2023 (UTC)
+It's not just online recipes that give false and misleading times. Items packaged for retail sales also give misleading "ready-to-eat" times. A Florida woman is suing Kraft Heinz Foods Company, saying their microwave mac and cheese takes longer to make than advertised. https://www.cnn.com/2022/11/28/business/florida-kraft-velveeta-mac-and-cheese-lawsuit/index.html TCMits (talk) 15:12, 25 April 2023 (UTC)
+My understanding is that both Munroe and R. Author share a reference frame in which the kitchen which the R. Author observed to write his post was moving at relativistic speed. This would explain why, when Munroe (foolishly) prepares the dish in the same reference frame where he lives, it takes longer. My issue is with the onion dimension calculation here: length contraction means that R. Author observes onions to be longitudinally shorter than they "really" are, by a factor gamma=3. Then, if we *let Munroe cook* in his own reference frame, he will need to cut onions longitudinally (this requires knowing the direction of motion of the kitchen) longer by gamma, so 3/4", in order to replicate the kitchen's work. Note that he should still cut the onion to 1/4" in the transverse directions, which experience no length contraction. --Henrynester (talk) 15:34, 25 April 2023 (UTC)
+Categories: All comicsComics from 2023Comics from AprilMonday comicsIncomplete explanationsPages using the "citation needed" templateComics with colorComics with lowercase textPhysicsFood

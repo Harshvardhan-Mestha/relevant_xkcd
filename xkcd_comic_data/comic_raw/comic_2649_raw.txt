@@ -1,0 +1,86 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2649: Physics Cost-Saving Tips
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2649)
+|<< PrevComic #2649 (July 22, 2022)Next >>|
+Physics Cost-Saving Tips
+
+Title text: I got banned from the county fair for handing out Helium-2 balloons. Apparently the instant massive plasma explosions violated some local ordinance or something.
+Explanation[edit]
+This is another one of Randall's Tips, this time with a series of Physics Cost-Saving Tips. It also continues the previous 2648: Chemicals comic's jocular theme of tricks to supposedly save money based on misinterpretations of science.
+It suggests four ways to reduce costs or provide something for free for physicists to save money on their research. For instance getting free electrons from a conductor or replacing regular helium with helium 2. None of these would provide any real advantages even when possible to implement, and could even be very dangerous, see below in the table. Obtaining money from physics experiments was also described in 2007: Brookhaven RHIC.
+In the title text, Randall claims to have been banned from the county fair for handing out helium-2 balloons because of the instant massive explosions caused by its radioactive decay (that helium-2 decays fast is mentioned in the comic, with a joke suggestion to use it quickly). He jokes that the balloons violated a local ordinance. Helium balloons are often given out at county fairs and similar events, but they are filled with helium-4 and therefore inert (a very small part will be helium-3, 2 ppm). A balloon filled with helium-2 is a practical impossibility because of its nanosecond half-life. Assuming a 12-inch diameter balloon at 1 atmosphere of pressure, the balloon-bomb would have a yield of roughly 17 tons of TNT equivalent.
+[Expand]
+Calculations
+The smallest nuclear bomb, the W54, had a yield of between 10 and 1,000 tons of TNT. The largest conventional bomb, the GBU-43/B MOAB, has a yield of roughly 11 tons. The 2020 Beirut explosion was roughly equivalent to 500 tons. So, while the helium-2 balloon bomb would be larger than all conventional bombs, it would still be smaller than most nukes. Handing out what are effectively small atomic bombs at a county fair would not go down well with any surviving local authorities, so merely being banned is a very mild punishment. Criminal charges such as mass murder and terrorism would be more likely if it weren't for the absurd impossibility of the scenario.
+Table of tips[edit]
+Cost-Saving Tip Explanation
+Try replacing regular vectors with pseudovectors whenever possible
+Relationship of pseudovectors torque (τ) and angular momentum (L) to "regular" Euclidean vectors position (r), force (F), and linear momentum (p) in an oscillatory rotating system. Not shown is the centripetal force of the spoke's tension, a Euclidean vector towards the axle proportional to linear momentum, converting it to angular momentum.
+The prefix "pseudo-" refers to an inauthentic variation of something. Fakes are usually cheaper than their original brand-name product, while often working just as well, so the comic implies a pseudovector could be a less expensive substitute for a regular vector. On the contrary, pseudovectors, or axial vectors, are distinct from regular Euclidean vectors, which have a magnitude and direction (velocity, for example). Pseudovectors are usually being involved with rotation or physical effects that share properties with rotation, similar to the relationship between angles and lengths. Pseudovectors are formed from the cross products of Euclidean vectors, in three dimensions, and while similar to Euclidean vectors, there is no physical meaning to their specific direction, only their magnitude and portions of their position. For example, angular momentum is described by a pseudovector, labeled L in the comic, normal to the plane of rotation, originating from the center of rotation, with magnitude equal to the angular velocity of rotation ω multiplied by the moment of inertia I. (The comic's diagram is drawn according to very uncommon left-handed coordinates instead of the standard right-hand rule. Randall is right-handed.[1])
+A square wave can be broken down into an infinite supply of valuable sine waves Fourier analysis can decompose any periodic function into a series of sine waves. A square wave is equal to the sum of an infinite series of sine waves. However, the sine waves are not removed or separated individually, so such a Fourier transform does not produce a "supply" of sine waves for practical use in any tasks other than analysis, and as abstract mathematical objects are exempt from the laws of supply and demand (most of the time),
+Cut waste by buying lighter isotopes that don't have any dead-weight neutrons Chemical elements are identified by the number of protons in each atomic nucleus, equal to the number of electrons in their shell (unless the atom is ionized), which dictates most of their chemical behavior. Isotopes are variants of the element with different numbers of neutrons in the nucleus, among which chemical behavior is usually nearly identical. The comic suggests that the neutrons don't serve any useful purpose, so, in theory, if purchasing an element by weight, and its isotopes have the same price per unit weight, then you can save money by buying isotopes with no neutrons at all. In reality, the cost per unit weight for material containing a larger concentration of normally rare isotopes, such as heavy water or enriched uranium, is much higher than the cost of material containing isotopes in their ordinary proportions. (An exception is depleted uranium, which costs less than regular uranium because it is a byproduct of the production of enriched uranium.) In addition, a certain range of neutron quantity is needed to keep atoms stable, as atoms with too many or too few neutrons will decay more quickly than the common isotopes. The image shown is helium-2, an isotope of helium which has a half-life of less than a nanosecond. It decays into two ionized hydrogen atoms, releasing a large amount of energy—hence the explosions mentioned in the title text.
+Conductors are a great source of free electrons (may carry charges) Free electrons are electrons that are not tightly bound to specific atoms so they can move freely, such as in conduction bands of the metallic bonds throughout the iron ingot depicted in the comic. Randall interprets "free" in a different sense, meaning no cost. The charges free electrons carry are electric, not monetary as implied by the pun. Ordinary matter usually contains electrons, but although the dielectric layer of a capacitor can collect electrons, it is not easy to store pure electrons, as they repel each other. When a solution has free electrons, it becomes alkaline (basic) and corrosive. Randall has explained the problems with collecting a large number of electrons before.
+Transcript[edit]
+[The comic shows four rows each with a drawing and an explanation text belonging to each drawing. They alternate between having the drawing on the left and the right side. Above the first row is a large header:]
+Physics Cost-Saving Tips
+[The first row has a drawing of a diagramatical spinning disc, at an angle. It is identified with an 'I', with a dotted axial arrow labelled 'L' and a rotational movement labelled 'ω' (small omega).
+I
+L
+ω
+[To the right of the diagram is this text:]
+Try replacing regular vectors with pseudovectors whenever possible
+[The second row shows a square wave with three maxima between four minima. Below the central maxima and the two nearby minima are five arrows pointing down (two bending left two right one straight down). Each arrow points to one of five sine waves below the square wave, in three rows, with different wavelengths. The one with the shortest wavelength is the top left, then the wavelength becomes longer for the one to the right and even longer for each of the next two, in the next row with the final very long wave with longest wavelength at the bottom, with the straight down arrow pointing to that. The long waves at the bottom has the same frequency as the square wave.]
+[To the left of the waves is this text:]
+A square wave can be broken down into an infinite supply of valuable sine waves
+[The third row shows two atomic models. The left containing two protons (white with a "+" sign), two neutrons (black) and orbited by two electrons (white with a "-" sign, small outlines, dotted orbits/movement lines). The right model is drawn similarly but without the black neutrons.]
++ +
+- -
++ +
+- -
+[The atoms have labels below and there is an extra message for the second model:]
+4He
+2He
+(Decays fast- use quickly)
+[To the right of the models is this text:]
+Cut waste by buying lighter isotopes that don't have any dead-weight neutrons
+[The fourth row shows a flat rectangular bar, drawn in perspective with a scattering of four small circles with "-" sign inside them and ten lines looking like parts of circles, all on the top face towards the far end.]
+- - - -
+[A bending arrow goes from a label above the bar and points to one of the circles. And on the forward-facing side of the bar there is a label.]
+Arrow: Free electrons
+Label: Iron
+[To the left of the bar is this text:]
+Conductors are a great source of free electrons
+(May carry charges)
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I don't recommend trying to make your voice squeeky by breathing He-2. Barmar (talk) 19:57, 22 July 2022 (UTC)
+But breathing a helium-rich mixture in general... so long as it still has sufficient oxygen in it ...I would speak highly of it! 162.158.34.221 20:27, 22 July 2022 (UTC)
+Please link comic 2007. I tried to do so myself but the edit errored.172.70.86.34 22:17, 22 July 2022 (UTC)
+The vandals are going rather hard today. Can we get the first few semi-protected or something please? SqueakSquawk4 (talk) 22:24, 22 July 2022 (UTC)
+I think I've fixed it. At least, it was fixed when I left this comment. I also don't do much wiki editing on anything, so I hope I actually fixed it and didn't break anything in the process. EDIT: Not sure if editing comments is appropriate, but it's just before 7AM UTC and it seems the vandalism has stopped. I think I had to fix it twice after I originally left this comment NErDysprosium (talk) 06:37, 23 July 2022 (UTC)
+They're back. Semi-protecting may work (though at a cost in useful edits); if any of the major contributors to this site know tricks to track down the physical location of an editing IP, that might open up other approaches. 172.70.230.3 03:33, 24 July 2022 (UTC)
+They're going after templates and similar infrastructure pages. Banning the little klanshit's username would be a good first action. 172.69.71.30 03:40, 24 July 2022 (UTC)
+Are the "charges" that free electrons carry implied to be monetary or criminal? 162.158.2.219 22:27, 22 July 2022 (UTC)
+Fundamental particles have dipole-matic immunity. 172.70.211.88 01:47, 23 July 2022 (UTC)
+Somone needs to rewrite that section on heavy water / enriched uranium... deuterium in heavy water has more neutrons (so fits the comics description), and u235 is actually neither the lower nor upper neutron count for natural uranium so also questionably fits the description. I would but my head hurts after trying to parse it 108.162.221.79 11:20, 23 July 2022 (UTC)
+Is it worth mentioning the L and omega displayed in the first illustration are in conflicting directions (not following the right hand rule…)?172.70.210.145
+How sinister! 172.70.91.80 19:28, 23 July 2022 (UTC)
+Done, including a video proving Randall is right-handed, so that can't be the reason. 172.70.206.163 07:45, 24 July 2022 (UTC)
+I disagree with the calculation of the energy of the ²He filled balloon: ²He -> H + H + 1.25MeV (Wikipedia). One Balloon is approx. 30-40l, i.e. approx 2 moles = 2 Avogadro Number = 1.2e24 Atoms of ²He. This means 1.2e24*1.25MeV = 1.9E24MeV = 3e11J = 71 ton of TNT (@4.2e9J/ ton of TNT (Wikipedia)). That is much less than a kiloton of TNT, but probably above the limit for recreational fireworks. The balloon might pop, too.
+Agreed; corrected. 172.70.211.88 09:15, 24 July 2022 (UTC)
+I have done my own calculations, and come to a number of roughly 18 tons of TNT. I have put my calculations on my profile, and linked it. Please comment there if you disagree. Thanks! SqueakSquawk4 (talk) 13:37, 24 July 2022 (UTC)
+The statement "This would make the Helium-2 balloon-bomb the most powerful human-made non-nuclear explosion ever" would seem to be inaccurate, given that it is not actually a non-nuclear explosion. Should this be edited? 172.70.110.135 03:43, 24 July 2022 (UTC)
+Deleted the sentence. 172.70.211.88 04:43, 24 July 2022 (UTC)
+How much yield would a Helium-2 baloon have, anyway? I've seen "Lots", "2 kilotonnes" and "70 tonnes". Does anyone know how to calculate it once and for all, and leave a citation trail?
+I just had a small search around, and can't seem to find the decay energy of helium-2. Does anyone even know how to calculate this???} SqueakSquawk4 (talk) 11:24, 24 July 2022 (UTC)
+Scroll up a couple threads. 172.69.34.32 11:02, 24 July 2022 (UTC)
+I didn't see that. I'm doing my own calculations now anyway. SqueakSquawk4 (talk) 11:24, 24 July 2022 (UTC)
+I have done my own calculations, and come to a number of roughly 18 tons of TNT. I have put my calculations on my profile, and linked it. Please comment there if you disagree. Thanks! SqueakSquawk4 (talk) 13:37, 24 July 2022 (UTC)
+Great! I replied to you there. 172.70.207.8 14:40, 24 July 2022 (UTC)
+Fantastic what-if on electrons. I love the idea that making the moon out of electrons would create a naked singularity with the mass of the universe. 172.70.211.134 07:47, 26 July 2022 (UTC)
+Dear Simulation Operator(s), please do not try that. 172.70.211.134 08:45, 28 July 2022 (UTC)
+Could the title text potentially be a play on "ordinance" and "ordnance" (the latter of which refers to explosions)? 172.69.34.18 21:58, 31 August 2022 (UTC)
+Categories: All comicsComics from 2022Comics from JulyFriday comicsPages using the "citation needed" templateTipsPhysicsChemistry

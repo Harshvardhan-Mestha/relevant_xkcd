@@ -1,0 +1,37 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2713: Data Point
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2713)
+|<< PrevComic #2713 (December 19, 2022)Next >>|
+Data Point
+
+Title text: In general you should only include your single best data point in the paper. The rest of the data can go in the supplementary materials.
+Explanation[edit]
+When scientific measurements are made, the conclusions are almost always based on many data points observed in relation to each other. The comic jokes that a single data point can somehow be of such interest in isolation that the other data may be disregarded. In reality, a single datum can almost never represent what the information in the related data taken together indicate.
+Randall's caption states that a figure illustrating a single datum thus constitutes a "science power move." (Similarly to the science tips of previous comics.)
+This is most likely intended as facetious satire, because the purpose of a chart or graph figure is to present multiple data which would be less clear as tabular or textual data, so there is rarely any reason to devote a figure to a single datum, regardless of its importance. The canonical counterexample is presentation of the mean of a group of measurements. (Figure here — note the point's specular reflection indicating 3-D.) A less common counterexample might be when an interesting singular matrix decomposition such as an eigenvector is characterized, but this would only occur when such a datum is highly dimensional. It also could be a joke about papers which only highlight particularly interesting or significant data without including the background measurements or similar mundane information necessary to fully understand or reproduce the findings. While there are accepted reasons for this practice, it can be annoying when trying to follow an otherwise useful procedure or comparing aspects of the results the authors did not anticipate.
+The title text suggests relegating all the other data to supplementary materials, presumably to avoid detracting from the single "cool" datum.
+Transcript[edit]
+[A graph is shown. There are regularly spaced unreadable labels along both axes. In the center there is a single data point with short symmetrical vertical error bars. The graph is dominated by a round white center behind the point from where brilliant white lines emanate out radially in all directions, filling most of the background area, and looking like a star or the sun. Beneath the graph there are two lines of unreadable caption text to the left, next to a rectangular legend box on the right with one dot, indicating the data point, and an unreadable label. Above the graph it is titled:]
+Figure 2.
+[Caption beneath the panel:]
+Science power move: When one of your data points is really cool, devote a whole figure to it.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+My theory: Randall got some interesting patterns drawing stars for the previous Gravity game, and wanted to show us how cool this one looks. 172.69.134.130 10:53, 20 December 2022 (UTC)
+To me this looks like The Sun from Gravity, but moreso, so you may be right. :) NiceGuy1 (talk) 07:04, 1 January 2023 (UTC)
+Kudos to whomever used "datum" in its correct singular form. And also a kudo to the same person for their use of "data" correctly. 172.70.179.3 12:27, 20 December 2022 (UTC)
+Anti-kudos for neglecting the etymology of kudos, ancient Greek κῦδος. In spite of ending in "s" it's a singular noun that means praise. Would a singular kudo be a pray or a prey? 172.70.134.94 13:14, 20 December 2022 (UTC)
+The irony is sweet as a molass. 162.158.78.27 18:11, 20 December 2022 (UTC)
+This reminds me of a “dad joke” my mom would make every time we had molasses out on the dining table: she would inevitably, at some point, ask me to “pass the lasses.” And I would follow the script, and say, “don’t you mean MOlasses?” To which she would reply, in her best (meaning: awful) fake southern drawl, “hows ken it be MOlasses, whens I ain’t had none yet.”John (talk) 05:25, 21 December 2022 (UTC)
+Molasses are one of the most irony foods they is. I have a molass to increase my iron all the time!172.71.254.26 10:07, 21 December 2022 (UTC)
+Oh my my, a Dad Joke delivered by a Mom. Kudos. :) NiceGuy1 (talk) 07:00, 1 January 2023 (UTC)
+In the business of quality engineering it's all too common for the lab to be asked to neglect "bad" data points. The method is known as "Test until good." -- "Aha! You finally got one data point that says the stuff's okay. Ship it!" 172.70.134.94 13:14, 20 December 2022 (UTC)
+This comic finally explains the reason for the diffraction spikes on the stars in JWST images.
+to be fair, there are certain data points which are mainly important in comparison to widely understood baselines, not to other data points in the actual test. things like fusion-energy-gain numbers, rocket ISP, nuclear warhead yield, etc. For those types of results, one valid data point that breaks the previous record is all that really matters. 172.70.126.232 01:32, 21 December 2022 (UTC)
+Isn't there a TIE fighter in the center of the picture? --162.158.129.80 11:50, 21 December 2022 (UTC)
+The usual convention is that whiskers around a solitary point are standard deviations (68% confidence intervals of normal distributions) but if they have perpendicular caps they're properly 95% confidence intervals (two standard deviations, again if the underlying data is normally distributed.) The convention for box-and-whiskers plots are different, where the whiskers are 95% confidence intervals whether they have caps or not, and the boxes are two quartiles (50% confidence intervals), and an off-center designation inside the box, by notches, or by the shape of the box represents the arithmetic mean (the median necessarily always being at the center of the box, which is often designated with a dashed line.) 172.71.158.230 03:03, 22 December 2022 (UTC)
+Uncapped whiskers around points can be 95%, 2σ intervals just as often as 1σ. Depend on the caption or text. 172.69.22.32 18:37, 28 December 2022 (UTC)
+Categories: All comicsComics from 2022Comics from DecemberMonday comicsScienceScientific research

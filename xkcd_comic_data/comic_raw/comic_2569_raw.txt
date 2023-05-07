@@ -1,0 +1,73 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2569: Hypothesis Generation
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2569)
+|<< PrevComic #2569 (January 17, 2022)Next >>|
+Hypothesis Generation
+
+Title text: Frazzled scientists are requesting that everyone please stop generating hypotheses for a little bit while they work through the backlog.
+This was the fourth comic to come out after the Countdown in header text started.
+Explanation[edit]
+Miss Lenhart is teaching a science class and starts by formulating the fact that to perform any science you need to generate a hypothesis in order to test it.
+The front row student, Cueball (presumably the rest of the students in the class are off panel), is thus prompted to ask the salient question of how one finds an original hypothesis. By using a clever prompting question in reply, Miss Lenhart allows the student to discover the answer himself. In typical Miss Lenhart fashion she is a bit rude, interrupting him before he can even formulate his thoughts. But the idea that he even has gotten an idea to share is proof that he has made a hypothesis about how to generate a hypothesis. This does not, however, answer how he did it, but now he knows he can do it.
+This approach may not have worked with less eager/capable students, so it highlights the strengths of both the student and the teacher - and that she had a good understanding of the student's ability to reason this out with just the barest of guidance. Or perhaps it is just another prank by Miss Lenhart.
+The key aspect being conveyed in this simple exchange is that one of the many good practices in science (no matter the aspect, though the specifics may change according to the precise field of study) is that one should first have an idea of what you can test and then perform the test to confirm (or rule out) your idea.
+In the title text the joke is that it is thus very easy to make hypotheses and thus everyone makes them all the time, so there are numerous ones to test. And the now frazzled scientists that are trying to work their way through them request that everyone stop making new hypotheses until they have worked their way through the huge backlog of untested hypotheses already made.
+Transcript[edit]
+[Miss Lenhart stands in front of a blackboard with various unreadable scribbles, gesturing towards it with a pointer.]
+Miss Lenhart: To do science, you generate a hypothesis, then test it.
+[Cueball is sitting at a desk, raising his hand.]
+Cueball: But how do you generate a hypothesis?
+[Miss Lenhart now stands in front of Cueball's desk, she is holding down the pointer and Cueball has his hands on his legs.]
+Miss Lenhart: Great question. How do you think you do it?
+Cueball: Well, maybe you -
+Miss Lenhart: And there you have it!
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I removed a couple of paragraphs that seem to be more about the the editor's opinions on education and the philosophy of science than the comic. -- Nitpicking (talk) (please sign your comments with ~~~~)
+I had a look at what you removed:
+I think this is a personal tutorial, or else bad teaching/learning by the intense Lenhart/Cueball interaction to the exclusion of all those unpictured.
+It is indeed important not to do tests and then work out what kind of hypothesis would lead to the inevitably significant results you have already seen to stand out.
+That said, the bits could have been less wordy.
+(I'd be tempted to add Reversion To The Mean as a key problem of reacting wth ideas to prior 'random' test-results, but that wouldn't help to shorten anything!) 172.70.91.126 17:38, 18 January 2022 (UTC)
+Also, what the heck happens on 31 January, as mentioned in the top image at xkcd.com? -- Nitpicking (talk) (please sign your comments with ~~~~)
+Haha, this is Randall teasing us about our hypotheses about the Countdown over at https://www.explainxkcd.com/wiki/index.php/Countdown_in_header_text Sure (talk) 13:01, 18 January 2022 (UTC)
+I just added this link Countdown in header text at the top of the comic aws for the previous four comics. See there. (and sign you comments ;-) --Kynde (talk) 13:03, 18 January 2022 (UTC)
+Oh, and I just read the title text. Totally makes sense from Randall's perspective! Sure (talk) 13:04, 18 January 2022 (UTC)
+I really do not think this comic is a comment on the countdown. But I can see why it could be funny for us here at explain. But I'm quite sure that Randall stays away from all these fora discussing his comics. We put way to much importance to this site if we think he actually comes here... ;-) --Kynde (talk) 13:14, 18 January 2022 (UTC)
+He doesn't need to come here! He just needs to like, go on the xkcd subreddit. Sure (talk) 14:26, 18 January 2022 (UTC)
+I don't think he would go there either... --Kynde (talk) 16:23, 18 January 2022 (UTC)
+I'm too shy to do the edit myself, but shouldn't the explanation mention how the comic is going meta ? Like, Cueball is generating a hypothesis about hypothesis generation! (btw, how would you test that kind of hypothesis?…) --Anonymous reader 172.70.86.22 (talk) (please sign your comments with ~~~~)
+You are never more anonymous than your IP, so please sign anyway. I think the meta of this is already implicit in the current explanation when it says: "He has made a hypothesis about how to generate a hypothesis. " --Kynde (talk) 16:23, 18 January 2022 (UTC)
+"You are never more anonymous than your IP, so please sign anyway." All right, sorry. Let's say I never commented yet, and I don't mean to start doing this regularly (although… we'll see!) (Understand: I don't have an account, and I don't want to register atm.) By the way, the IP signoff seems broken: I have nothing to do with "172.70.86.22", and it's faaaar from where I live, according to GeoIP. Back to my original point, I though it would be better to make an *explicit* reference to the meta level. Since it's an explanation, it ought to be made as clear as can be. But here's why I didn't make the edit myself: I don't usually edit wikis, so I'll trust your better jugement. --Not So Anonymous reader 172.68.226.223 (talk) (please sign your comments with ~~~~)
+Hi, as another anon-IP (of long standing... Hi Kynde, it's me again! ;) ) I'll just clue you in. The IP gets publically recorded in the change-history (so long as you don't have a username you're logged into) and this is likely the IP of the Cloudflare server/whatever that helps to aggregate some high volume traffic across the internet. It is possible to do two edits a minute apart and be recorded as (slightly) different IPs, because of the traffic-shaping that occurs. The geolocation of the IP is often nearest city (or a further city that is more important) either because of the infrastructure hub locales or because the geolocation tables are poisoned by having already been associated to a different location.
+So the IP isn't that useful for tying you down (I've seen other comments picking up the same IP as me, or vice-versa, by happening to route onwards via the same onward gateway) but it does tend to at least identify your country, while Kynde, there, doesn't give away his rough proximity to the original Legoland so long as he doesn't tell you that he's from Denmark. (Which he readily has - I'm not doxxing!)
+But what is really useful about signing your contribution properly with ~~~~ is that it handily shows the end of your comment, that vaguely useful IP (or logged-in identity) and the date-time of the edit. Others can work all this out by checking the history/revisions of a page (it's where I got the info for the {{unsigned ip|aaa.bbb.ccc.ddd}} I appended to your last text, didn't bother to transfer the timestamp too) but it's useful to try to remember to do it yourself.
+...and, as for whether you intend to edit wikis... Well, I do that an awful lot (not that I can prove it, but I also don't intend to) and yet I'm not sure I started off that way. I spotted an IP comment, the other day, that looks like it was me. It was (being properly signed and datestamped, to save time) a 2015 comment, and certainly not my first.
+There's nothing to lose. And neither is there if you get an account (probably... I've yet to do that after >7 years!). But use the four tildes either way (in Talk edits, etc, not in Explanation pages themselves) and you:
+a) Look like you know what you're doing, blending in with the other users in a useful way, and,
+b) Don't get an oververbose idiot like me tapping out a small handbook of 'useful hints and tips', in response to your idle comment, breaking the fourth wall of the usual conversational convention. ;)
+...yeah, so. That's just what I think. Well, some of it, but I'll stop now and sign this off. *pbbbt* 172.70.86.68 21:30, 18 January 2022 (UTC)
+How science works in primary school:
+Consider a question and generate a hypothesis
+Study the literature to understand the problem space
+Design a methodology to test the hypothesis
+Perform the experiment and record the results
+Analyse and interpret your results
+Draw conclusions and write a report
+How science works in practice:
+The sponsor comes to you with an invention he wants to sell
+Design a methodology to showcase the invention's advantages
+Run the experiment and hope the undocumented fragile DAQ system works
+Start with the test cases where the invention is expected to perform best
+Scrap the remaining test cases once it falls behind existing tech
+Graph the data and write a paper merely describing what the graphs show
+Skim any prior literature on the design to add citations
+D5xtgr (talk) 19:30, 18 January 2022 (UTC)
+This could also be interpreted as making fun of this simplistic (what people sometimes wrongly attribute to Popper) notion, that tweaking a hypothesis to better fit experimental data is inherently bad science, even though that's where a lot of hypotheses come from, that were then later confirmed by other experiments. Thus it seems like scientists have to come up with hypotheses on the spot as shown in the comic, instead of after pouring through mountains of data. Also it seems like it might be a taboo to go into details about "where hypotheses come from" (like it used to with babies).
+illuminatus 162.158.203.36 05:54, 19 January 2022 (UTC)
+"How do you think..." triggers me. If I thought I might know how to do it, I wouldn't have asked in the first place. --172.70.90.173 16:04, 19 January 2022 (UTC)
+Many would ask if they have an idea but are unsure, in which case stating ones idea and picking it apart is more valuable than being handed the final answer. Perhaps you aren't such a person and would only ask when completely truly stuck; in that case I'd be triggered too. 172.70.134.71 20:20, 20 January 2022 (UTC)
+Categories: All comicsComics from 2022Comics from JanuaryMonday comicsComics featuring Miss LenhartComics featuring CueballScience

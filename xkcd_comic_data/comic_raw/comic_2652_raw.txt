@@ -1,0 +1,103 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2652: Proxy Variable
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2652)
+|<< PrevComic #2652 (July 29, 2022)Next >>|
+Proxy Variable
+
+Title text: Our work has produced great answers. Now someone just needs to figure out which questions they go with.
+
+Explanation[edit]
+In this comic, Hairy is discussing use of a proxy variable with Cueball. In statistics, a proxy variable is used as a stand-in for one or more other variables that are difficult to measure. In order to be useful as such, proxy variables must be correlated with what they are intended to represent. For example, a drug might aim to reduce deaths from a slow-acting disease. But testing if it reduces deaths might take many years, so researchers might test for a proxy outcome instead, like whether the drug appears to mitigate loss of bone density or cell-damage. Physicians use blood pressure as one of many proxies for cardiovascular health.
+Hairy is dismissing the question of whether they are studying the right variable as too expensive to answer. This is deeply ironic and thus satirical, because good experiment design requires sufficient attention to the robustness of all the involved parts of an experiment, even if the expense may be prohibitive. This comic might be referring to the recent discovery of nearly two decades of allegedly fraudulent Alzheimer's disease research supporting a mistaken proxy hypothesis.
+Choosing the wrong proxy variable might make the research misleading, irrelevant, or as the title text suggests, answer the wrong question. Separating correlation from causation is necessary when interpreting proxy variable results to make sure the question they answer is known. Mere correlation instead of authentic causation yields weaker results. Exploratory causal analysis can assist with finding useful proxy variables, but is difficult for the layperson to interpret and can be misleading, because even if performed correctly, a combinatorial explosion of possible proxy variables can make traditional statistical significance analysis fail, requiring F-scores or similar measures. The history of pharmaceutical research is largely a graveyard of failed proxy hypotheses; that is one of the reasons for experiment registration regulations.
+The title text's notion of having an answer without knowing the actual question could also be be a reference to the classic comedy science fiction novel The Hitchhiker's Guide to the Galaxy, where in one scene Earth turns out to be a supercomputer built for the purpose of figuring out the question for the answer "42."
+Examples of noteworthy proxy variables[edit]
+Loss of bone density or damage to cells for toxicity
+Blood pressure for cardiovascular health
+Amyloid markers for Alzheimer's disease
+Local temperature for global warming severity
+GDP growth for development (demolishing a hospital adds to GDP but subtracts from development)
+Money supply size for price inflation (see e.g. the paradox of thrift)
+Carbonic anhydrase expression for carbon sequestration
+Asphalt production for carbon sequestration
+Proportion renewable energy for carbon reduction (see Jevons paradox)
+Dialytic desalination for carbon sequestration[1][2]
+Bacillus thuringiensis israelensis application for mosquito abatement
+Indoor carbon dioxide levels for air quality and ventilation
+Transcript[edit]
+[Cueball is looking at Hairy who points a pointer to a poster. On the poster there is a line graph at the top and below that a candlestick chart. The line graph appears to show a time series with a question mark inside a ellipsoid at the end of the curve. The candlestick chart shows a box-and-whiskers plot comparing two variables. There is no readable text except the question mark. Hairy's stick points just below the line chart.]
+Hairy: We want to study this variable, but it's too hard to observe.
+Poster: ?
+[In a slim panel only Hairy and the poster are shown. His pointer now points to the left variable in the box-and-whiskers plot,]
+Hairy: So we're studying this proxy variable.
+Poster: ?
+[Back to Cueball and Hairy with the poster out of frame. Hairy holds the pointer down by his side.]
+Cueball: Is it correlated with the other variable?
+Hairy: Look, we don't have the funding to answer every little question.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Maybe Randall is commenting on this recent article Nature Computational Science: Automated discovery of fundamental variables hidden in experimental data? 02:10, 30 July 2022 (UTC) suggested by a proxy editor
+Might be tangentially related to the alleged Alzheimer's disease drug Aduhelm, the anti-amyloid therapy, that did show some success in proxy variable (biomarker), but no success at all in curing the disease or its symptoms (no efficacy), but which got accepted with a huge amount of controversy by NDA (which disregarded its advisory committee’s recommendation against approving Aduhelm). --JakubNarebski (talk) 07:32, 30 July 2022 (UTC)
+More relevantly, it came out recently that last ~decade and a half of Alzheimer's drug research is based on monitoring effects in mice on a specific biomarker that may not actually exist in humans, and the initial study was potentially fraudulent. Seems like a damn topical proxy variable to me. 162.158.166.249 00:56, 31 July 2022 (UTC)
+"It’s not much of a stretch to suggest those amyloids are a primary cause of the associated memory loss and dementia," is the failed proxy hypothesis. 172.69.33.163 02:47, 31 July 2022 (UTC)
+I removed this paragraph:
+Proxy variables are of interest to non-scientists as they provide a scientific way to indirectly monitor or improve the complex systems that affect their lives. For example, blood pressure is a causative factor for cardiovascular disease so it can be used as a proxy variable for healthy lifestyle. However, people need to remember that it isn't necessarily the proxy variable alone that is of concern. Atmospheric carbon dioxide is not the only gas released by humanity with global warming potential and other factors affect climate change; and it is not carbon dioxide but the impact of climate change that will cause major social, economic, cultural damage to the future of the planet.
+because I want to discuss it. The first sentence needs a source, the second and third sentences claim blood pressure is used by non-scientists as a proxy for living a healthy lifestyle, which I'm not sure about on multiple levels, and the fourth and fifth sentences seem like PR for fossil fuel companies. #notallgreenhousegases Nevertheless, I feel as if there are likely one or two good ideas hidden in it. 172.70.206.95 16:01, 30 July 2022 (UTC)
+I feel like the author doesn't know the work climate scientists go to to avoid using greenhouse gas concentration as a proxy for global warming (all the models of atmospheric water and its forms.) For blood pressure, it's easier to see what was attempted to be gotten at. 172.70.211.90 16:37, 30 July 2022 (UTC)
+Yes: the ones who dangerously simplify the climate change to "we must stop produce carbon dioxide" are not scientists but politicians. -- Hkmaly (talk) 16:53, 30 July 2022 (UTC)
+Definitely. We don't even KNOW all factors affecting climate change. Still, the link between rising carbon dioxide and temperature looks much more solid that the link between money spent on fighting climate change and levels of carbon dioxide. ... Wait, you didn't wanted to talk about climate did you? :-) (For record, I always though there are much better reasons to stop using fossil fuels than fighting global warming. Recently, for example, the energetic security from geopolitically problematic regions came under lot of attention.) -- Hkmaly (talk) 16:46, 30 July 2022 (UTC)
+I want to talk about climate. Do you think we will be able to transition to carbon neutral and negative technologies in time to avoid the Jevons paradox? 172.70.214.185 17:00, 30 July 2022 (UTC)
+The Jevons Paradox exists if the only forces affecting the consumption of a resource are supply and demand. If you're asking about carbon-neutral/negative technological process making sustainable technologies profitable faster than fossil fuel profits grow, then no, there's no hope even before the Jevons Paradox is considered. But if other options are considered, the Jevons Paradox doesn't really apply. (To take an extreme example: It doesn't matter how fuel-efficient internal combustion engines get, they'll never be the preferred choice if their manufacture is banned.) GreatWyrmGold (talk) 18:14, 30 July 2022 (UTC)
+Only carbon negative technology requires 5×10^8 K or 50 keV and densities > 3×10^9 kg/m3. I think that in the moment we will be using THAT on industrial scale we would be quite desperate. Also, the amount of energy we will need is going to grow unless we reduce population a LOT (like, for example, if all ecological activists would do the carbon responsible thing and commit suicide). Also, more and more of that energy we will need will be specifically electrical energy. -- Hkmaly (talk) 20:21, 30 July 2022 (UTC)
+We need to remove 38 gigatons per year, which is only 0.7 milligrams per square centimeter of ocean. Think of the mean depth of the ocean: that square centimeter is very tall. From that perspective, isn't this an easy biological solution? That's only 0.5 micrograms per minute, from the full depth of each square centimeter of ocean, right? 172.70.214.43 20:47, 30 July 2022 (UTC)
+I'm not sure what is the "this" you talk about but it sounds you are only storing carbon, not removing it. BTW, one of best way to store carbon is to make more highways. -- Hkmaly (talk) 23:07, 30 July 2022 (UTC)
+Where on Earth would you ever want to build 38 gigatons of highways per year? By "this" I mean genetically modified phytoplankton; in particular modified by changes to carbonic anhydrase expression. 172.70.214.81 23:13, 30 July 2022 (UTC)
+Are there enough dissolved minerals in the ocean for that volume, assuming diatoms intended to sink to the seabed? 172.70.211.134 09:35, 31 July 2022 (UTC)
+The 'carbon responsible' thing to do would be for the 'ecological activists' to assassinate the people with the most polluting lifestyles, rather than committing suicide. 172.70.162.147 08:47, 1 August 2022 (UTC)
+Only if this can be achieved with entirely renewable means... Or offset whatever part of their efforts (like launching the orbital solar reflector, then burning their target to a crisp) cannot be considered entirely unpolluting. 172.70.85.221 09:06, 1 August 2022 (UTC)
+Everyone thinks this is about pharmacology, and maybe it is. But I've been taking economics courses this semester, so that's what I think of. "We can't measure this factor directly, so we made up a formula that should let us calculate it (if we've measured all relevant factors correctly and all our other assumptions and theories are valid)" is a pretty common thing in that field. GreatWyrmGold (talk) 18:14, 30 July 2022 (UTC)
+What's the best example, using GDP as a proxy for development? Or something current like using the money supply as a proxy for inflation? 172.70.214.95 20:19, 30 July 2022 (UTC)
+This is the remainder from below, apparently objected to:
+Proxy variables are of interest to non-scientists as they provide a way to indirectly monitor or improve the complex systems that affect their lives. For example, people use local temperature as a rough experiential proxy for the severity of global warming. Economists might mistake GDP for productive or useful development, or mistake the size of the money supply for price inflation. While correlated, the causation implied by such assumptions is very much in doubt, because the GDP increase of demolishing a hospital might conflict with the widespread understanding of development, and while the money supply size is a cause of inflation, there are many other causes.
+But it's different from the original. Regardless of what my IP address may or may not suggest, I know the original objector to the earliest version does not object to this edited version, because that objector was and is me. However, I have not yet decided whether I think it should be in the explanation. I will let you know when it gets off the main page, like tomorrow, roughly in a day unless Monday morning continues its traditional trend of presenting unexpected immediate commitments. I have to run a long errand tomorrow so let's say Tuesdayish.
+My initial impulse is to add another paragraph from the climate discussion above, and propose it for a subsection or collapse box. 172.70.214.81 14:35, 31 July 2022 (UTC)
+How about inserting: "The rate and conditions of carbonic anhydrase expression in genetically modified phytoplankton, such as diatoms intended to sink to the seabed, could be one of many partial proxies for carbon negative direct ocean removal. However, geoengineering success is difficult to measure, and harder to predict, because sometimes even small biological changes in one organism, like modulation of a gene, can have wide-ranging ecosystem effects."
+Not sure where the paragraph break should be. If two paragraphs, try appending a subsection; if one, try the collapse box before the first title text paragraph. If people could contribute other interesting examples of proxies for carbon removal (I remember reading about a desalination process?) that would be awesome. 172.70.214.43 14:53, 31 July 2022 (UTC)
+I'm not sure if you can use proportion of renewables, because of Jevons paradox. 172.70.211.90 14:59, 31 July 2022 (UTC)
+... We could do Bacillus thuringiensis israelensis application rate as a proxy for mosquito abatement to carry the ecology theme. 172.70.207.8 15:08, 31 July 2022 (UTC)
+I have questions about the phytoplankton stuff. Is it true that completely carbon negative sequestration could be accomplished with 0.5 micrograms per minute (carbon or carbonate) for each square centimeter of ocean? How can the innoculator be sure the strain is viable but not destructive? Are there any synthetic biology proposals for new carbonate diatoms? Can you guarantee sufficient sinking buoyancy from carbonates alone, or is silicon necessary for sequestration? Won't ocean bottom-feeders or e.g. whales just eat the phytoplankton and return it to the ocean and atmosphere when they die? (There could be worse carbon removal solutions than those providing extra whale food, but I fear keeping it unpalatable to bottom-feeders would require making it hazardous for other ocean life. What was the desalination ocean carbon removal proposal?) 172.70.211.90 15:47, 31 July 2022 (UTC)
+Desalination plus carbon capture: [3] or [4] or [5] or [6] or [7]. 172.69.33.9 16:33, 31 July 2022 (UTC)
+Is the amount desalinated a good proxy for the mass of carbon sequestered? 172.69.34.50 19:44, 31 July 2022 (UTC)
+If you have to fund it by selling the captured carbonate as hydrocarbon fuel, then it's carbon neutral, not carbon negative. 172.70.211.90 20:02, 31 July 2022 (UTC)
+The title of the bot at the top changed; it might have been done by the spammer, but regardless it seems less relevant than it usually is.
+this dude keeps spamming
+Sorry for the mild crassness, especially as a new user, but some Nazi f*ck is vandalizing the page. May someone please ban them? 172.71.26.59 (talk) 03:49, 30 July 2022 (please sign your comments with ~~~~)
+Nah, they're using multiple IPs. Someone could semi-protect it or something but there ain't any mods doing their job it seems. 172.70.147.47 (talk) 03:55, 30 July 2022 (please sign your comments with ~~~~)
+Where are the mods, anyways? 172.71.82.65 (talk) 03:59, 30 July 2022 (please sign your comments with ~~~~)
+You can't always count on volunteer authorities. Even us lowly IP address editors can revert vandalism. 172.69.33.199 04:09, 30 July 2022 (UTC)
+Yeah nah, we need it semi-protected 162.158.162.199 (talk) 04:13, 30 July 2022 (please sign your comments with ~~~~)
+Funny if that were the goal of the vandalism. 172.70.206.95 16:03, 30 July 2022 (UTC)
+One reason that I don't think it should be the go-to counter-vandalism approach being used. But not for me to say. Whilstsoever I'm capable of intervening at least as much as any vandal tries to, I support the mod actions (they are there, doing things, BTW).
+Without actually tolerating the vandal, we easily outnumber the person concerned (and the very few other spammers/bots that sneak through the clearly effective existing speedbumps) and this means that such nuisance edits are heavily mitigated. If you see the damaged bits then you're either a regular or a very unlucky occasional visitor.
+(This morning, I went to revert an ad-spam that I noted had been written over a page-redirect, to be told that someone else had just gotten there before me!)
+I've been on far more abused online resources, both web (early days, long before CAPTCHA technology) and elsewhere (having seen how Usenet was both before and after The Eternal September) and the interference here is extraordinarily given the generally open nature of the submission process.
+PS. Please do sign your posts ( with ~~~~ ), if only for the timestamp that makes the to and fro of conversations more understandable... 162.158.34.221 19:01, 30 July 2022 (UTC)
+The rant gets replaced within two minutes of each revert. Presumably it's done by bot. We need a mod to take action. 172.70.130.217 05:15, 30 July 2022 (UTC)
+Article has been restored but some idiots keep spamming the page with random things. pls do something mods 172.70.147.47 (talk) 03:59, 30 July 2022 (please sign your comments with ~~~~)
+it's not "some idiots" it's all one person using different ips. he posted the exact same covid rant several times. i think he's schizophrenic or something and just really wants to be heard --172.69.69.40 04:39, 30 July 2022 (UTC)
+But why here? Like, this is such a weird place to try and be heard, I'm sure even Reddit posts would have more visibility than edits to a webcomic wiki. NErDysprosium (talk) 06:06, 30 July 2022 (UTC)
+Don't underestimate the importance of the can't-get-jokes demographic for PSYOP recruitment. The invasion of Panama might not even have occurred if it weren't for people distracted by cartoons. 172.69.33.185 17:16, 30 July 2022 (UTC)
+As one of the admin I can say that I only come here when I have time. Also I'm not as technically skilled as some of the others. But we all just do this as a hobby. At least we are now some active admins, after several years with none... I was just made admin recently. But I can see that both Theusa and Davidy22 has been active, and that Theusa has made some changes to his bot so it also can revert spam. Hope that helps. --Kynde (talk) 12:57, 31 July 2022 (UTC)
+
+The protected version has much less text than the last non-vandalized version. 172.70.211.90 20:02, 30 July 2022 (UTC)
+Re "The history of pharmaceutical research is largely a graveyard of failed proxy hypotheses." True, but someone should add that is the reason for experiment registration regulations. 172.70.210.145 20:17, 30 July 2022 (UTC)
+I'm placing that version here, in hopes that it can be edited as a proxy for the protected version: 172.69.33.229 20:28, 30 July 2022 (UTC)
+[Expand]
+Mostly approved (see above) non-vandalized version of the explanation, as further edited
+That such improvements are withheld from the main public view must feel like a victory for the vandal. Can autoconfimed users promote it? 172.70.210.145 23:08, 30 July 2022 (UTC)
+I have added the above except the "Proxy variables are of interest to non-scientists" part as there was someone explaining why this was removed above here. I will thus not be the one putting it back in.--Kynde (talk) 12:57, 31 July 2022 (UTC)
+Is anyone going to comment that all of us IP editors are listed by our CDN proxy address? 172.69.33.123 20:44, 30 July 2022 (UTC)
+Categories: All comicsComics from 2022Comics from JulyFriday comicsComics featuring CueballComics featuring HairyScienceLine graphsChartsScientific research

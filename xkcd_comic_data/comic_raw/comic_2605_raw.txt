@@ -1,0 +1,52 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2605: Taylor Series
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2605)
+|<< PrevComic #2605 (April 11, 2022)Next >>|
+Taylor Series
+
+Title text: The Taylor series should have been canceled after the first term.
+Explanation[edit]
+In mathematics, a Taylor series expansion is a polynomial power series approximation of a function[1] around a given point, composed of an infinite sum of the function's derivatives, each both divided by successive factorials and multiplied by the incrementally increasing power of the distance from the given point. Such expansions usually continue without end. Beyond approximation of functions, Taylor series are also useful for deriving numerical approximations of irrational values, such as π, as well as symbolic forms to make functions easier to integrate or otherwise manipulate with calculus.[2] However, because they involve difficult calculus operations, and can be annoyingly tedious to calculate by hand, they are often not loved by math students.[3]
+Miss Lenhart appears to be teaching a class about how to use a Taylor series. She presumes her students want to keep learning about the series, in that they, "wish it would never end." She then says "Good news!" because the series does not end. The cartoon's humor is based on the contrast between wishing the series won't end, ordinarily desired of sequences of enjoyable events, and the infinite nature of the Taylor series, which is less likely appreciated by her students struggling to understand why the sums converge to their resulting value.
+The title text is a reference to the common practice among physicists and engineers of abbreviating the Taylor series to only the first few terms, typically one or two, in order to simplify the mathematics of their models. The title text is also a pun on the use of the word "series" to refer to a television program. It symbolizes the terms of the mathematical series as a metaphor with a television season, suggesting that only the first term is useful. It makes fun of the common sentiment against bad screenwriting of a series by saying that, "The series should have been cancelled after the first season," replacing "season" with "term." (Notably, both "term" and "season" are used to refer to a stretch of time during which a program is airing—generally, a television or scholastic program, respectively.) Also note that US President Zachary Taylor died during his first term. In a way, his presidency was cancelled during his first term.
+Transcript[edit]
+[Miss Lenhart pointing a stick at a whiteboard, which has some scribbled text written on it and one line is circled.]
+Miss Lenhart: At this point, you're probably thinking, "I love this equation and wish it would never end!"
+Miss Lenhart: Well, good news!
+[Caption below the panel:]
+Taylor series expansion is the worst.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I should point out that Taylor Series expansions can end - for polynomials 172.70.114.157 17:23, 11 April 2022 (UTC)
+Pics or it didn't happen. 172.68.132.206 04:45, 12 April 2022 (UTC)
+Tried to improve the text, including polynomial functions and approximation. Sebastian --172.68.110.121 18:53, 12 April 2022 (UTC)
+Most Physicists only like seasons 1 and 2. Fephisto (talk) 17:44, 11 April 2022 (UTC)
+I feel it really jumped the shark in the third term. --172.69.69.182 19:29, 11 April 2022 (UTC)
+Yeah, it does get a bit repetitive. It feels like the writers just started following a formula. Fephisto (talk) 19:37, 11 April 2022 (UTC)
+Non-mathematician here: what I don't get (and would appreciate having explained) is why he chose this specific instance of an infinite series. Is there something special about a Taylor series that makes it work best for this joke? Some deeper pun here that "Taylor Series" brings, over just using "(Laurent|Fourier|Dirichlet|Infinite) series" or even "Zeno's Paradox"? --172.69.69.182 19:44, 11 April 2022 (UTC)
+Taylor series is approximation of arbitrary function. Fourier serie is also approximation of arbitrary function, although in different way. Those others are something completely different, though. For example, Taylor serie is not DEFINED as infinite - it just usually is. Saying that Laurent series is infinite is like, well, sure it is, it's defined that way, saying that about Taylor series approximating specific function is actually nontrivial statement. -- Hkmaly (talk) 00:36, 12 April 2022 (UTC)
+Pet peeve: Series, not serie. There is no such word as “serie” in English. “Series” is both plural and singular. 108.162.246.178 10:43, 15 April 2022 (UTC)
+I feel like he could have worked in at least one Taylor Swift pun
+I thought Taylor series referred to Liz's husbands? (The gag comes far better in German, due to the double meaning of "Glied".) 141.101.105.119 08:35, 12 April 2022 (UTC)
+DuckDuckGo's search on "taylor series expansion taken to extremes" is remarkably unsatisfying, the first result being https://www.mathsisfun.com/algebra/taylor-series.html which nonetheless may be of use in the explanation. 172.68.132.206 04:42, 12 April 2022 (UTC)
+Can this be a reference to the Neverending Story? There the protagonist wishes that the books he love would, well, never end. --JezebelCeasedToExist (talk) 05:30, 12 April 2022 (UTC)
+I deleted the following passage:
+It could also reference the term, in office, of US President Zachary Taylor, who died after serving fifteen months, or the political career of Charles Taylor, whose first term ended in civil war and exile.
+Does anyone believe that those theories of the joke could have been made intentionally? 172.69.134.131 08:21, 12 April 2022 (UTC)
+I actually added that sentence. When someone talks about "the Taylor term", I specifically think of Zachary Taylor's term in office. The idea of a dead man continuing to a second term is amusing. Admittedly, Charles Taylor was seriously unlikely,but I included it because the joke could also apply. Cwallenpoole (talk) 12:52, 12 April 2022 (UTC)
+I don’t know about Chuck Taylor’s terms but he made some excellent sand shoes.108.162.246.178 10:47, 15 April 2022 (UTC)
+Rather than explaining the pun in the title text as referring to cancelling a TV series after the first season, which is a little weak because it misses the pun on the word "term". A better explanation would have the title text make a pun on a college course, i.e. "The college course, 'The Taylor series', should have been canceled after the first term." where 'term' is commonly used for the duration of a college class. This fits the context of the comic much better than a TV show. The TV show pun would possibly work if there was a TV series called "Taylor", but I don't think there was one. Rtanenbaum (talk) 13:00, 12 April 2022 (UTC)
+But we don't talk about cancelling courses after N terms, while this is a very common phrase regarding TV series. And television uses the word "series". Barmar (talk) 13:35, 12 April 2022 (UTC)
+I think this is specifically referring to the common scenario where a TV series has a strong, well-liked, self-contained first series, which is then spoilt by the financial imperative to make follow-up series which artificially stretch the concept beyond its limits. As opposed to the implication of the current explanation - that it should have been cancelled because the first series wasn't any good.162.158.34.221 09:32, 13 April 2022 (UTC)
+Are we entirely sure there's *not* a Taylor Swift joke here? I mean, is there some lyric like "I love this $X$ and I wish it would never end!", where $X$ is something like "night" or "feeling" or whatever? Kenahoo (talk) 03:03, 13 April 2022 (UTC)
+I've been spending the last eight months
+Thinking all love ever does
+Is break and burn, and end
+But on a Wednesday in a cafe
+I watched it begin again
+— also references James Taylor Z-brown (talk) 19:07, 20 April 2022 (UTC)
+For the want of a letter ('e' vs. 'o'), the joke could have been made instead about the ever-expanding (20 years!) "Schlock Mercenary" web comic by Howard Tayler. These Are Not The Comments You Are Looking For (talk) 03:56, 18 April 2022 (UTC)
+Categories: All comicsComics from 2022Comics from AprilMonday comicsComics featuring Miss LenhartMath

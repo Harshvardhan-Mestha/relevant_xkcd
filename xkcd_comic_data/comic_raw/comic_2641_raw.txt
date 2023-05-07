@@ -1,0 +1,71 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2641: Mouse Turbines
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2641)
+|<< PrevComic #2641 (July 4, 2022)Next >>|
+Mouse Turbines
+
+Title text: It's sad seeing those videos of turbine blade being torn apart in high winds, but it's the only way they can disperse their seeds.
+Explanation[edit]
+Beret Guy and Megan are walking during the summer, where Beret Guy expresses his appreciation for typical features of a summer day. Though, considering the rest of the comic, Beret Guy could mean there are large (or popular) server farms somewhere and that the bugs are video chatting. He also mentions "wind turbines" put up by field mice, which Megan initially assumes to be referring to dandelions (similar to the wordplay that Beret Guy utilized in 1322: Winter.) However, Beret Guy turns out to be speaking literally, as he picks up what is in fact a tiny wind turbine, says to make a wish, and blows into it. This causes the blades of the turbine to spin rapidly, generating a lot of power for the structure it is connected to, thus causing a field mouse to cheer in excitement.
+The comic was published on the 40th anniversary of the film release of The Secret of NIMH,[1] a story featuring field mice and rats who escaped from a lab experiment which left them with a similar intelligence to human beings. The story takes place as the rats strive to achieve self-sufficiency, so that they no longer need to steal power from human-built electrical lines. (The novel this film was based on, Mrs. Frisby and the Rats of NIMH, describes the experiments and the rats' struggles in more detail.)
+The title text builds on the similarities between small wind turbines and dandelions by claiming that turbines reproduce by dispersing their blades, in the manner of dandelion seed dispersal. Randall's suggestion of turbine seeds conflicts with Beret Guy's assertion that the turbines were built by field mice.
+Efficacy[edit]
+Sadly, the power output per size of wind turbines increases with their size,[2] a limitation not shared by other forms of renewable energy such as solar panels and pico hydro. According to this calculator, a 10 centimeter radius wind turbine powered by a 5.7 meter/second breath[3] would produce one watt at just 26% efficiency.
+Further frustrating mouse use of wind power, windspeed increases logarithmically with height above ground. Windspeed is reported as its value 10 meters above ground, where it is 1.5 times faster than at ground level.[4] In the U.S., where Randall lives, average year-round windspeed is about 15 km/h,[5] or about 2.8 m/s at ground level, yielding only 0.11 watts from such turbines. However, a typical adult mouse weighs 25 grams,[6] compared to about 81 kilograms for humans in the U.S.,[7] so we could estimate that mouse electricity needs would be about 0.03% of people's.[dubious] The average U.S. residential customer uses 1,242 watts of electricity,[8] 0.03% of which is 0.37 watts. Therefore, the three turbines visible in this comic could serve about 89% of a mouse's needs. While this figure does not account for necessary home energy storage efficiency (92.5% for the Tesla Powerwall) overhead, mice usually live much less extravagantly than typical Americans,[citation needed] so three turbines per mouse should be sufficient.
+Transcript[edit]
+[Megan and Beret Guy are walking on grass.]
+Beret Guy: Ahh, summer!
+Beret Guy: The clouds are big, the bugs are zooming,
+[Beret Guy stops walking. There are three small trefoil structures and a tiny building on the grass in front of him.]
+Beret Guy: and the field mice have put up their little wind turbines.
+[Beret Guy picks up one of the turbines. Under the turbine there is a wire attached to the ground.]
+Megan (off-panel): You mean dandelions?
+Beret Guy: No.
+[Beret Guy holds the turbine in front of him.]
+Beret Guy: Make a wish!
+[Beret Guy blows into the turbine blades and makes them spin. The wire transfers electricity towards the ground.]
+Puff
+⚡ ⚡ ⚡ ⚡
+Voice at ground level: Yaaay!
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Is anybody going to try to calculate the amount of power such a turbine could collect? -- Dtgriscom (talk) 19:24, 4 July 2022 (UTC)
+Good idea; what should we use for an estimate of the geometry for https://www.omnicalculator.com/ecology/wind-turbine ? The final panel makes it look like the blade diameter is about twice the size of a fist. [9] says "exhaled air velocity varies from 2.2 m/s to 9.9 m/s (5.66 ± 1.57 m/s, mean ± SD) and exhalation time varies from 2.10 s to 8.21 s (4.42 ± 1.73s, mean ± SD)."
+I guessed 10 cm radius and used that mean breath speed. I should have used the top 9.9 m/s though, shouldn't I? 172.70.214.185 20:56, 4 July 2022 (UTC)
+After a closer look at that article, the mean is more appropriate. 172.70.206.95 21:19, 4 July 2022 (UTC)
+I'm not sure how you'd judge that it's twice the size of a fist, given that stick people don't really have fists. I would assume that they're meant to be about the same size as dandelion heads - so about 3 or 4 cm (unless US dandelions are bigger than UK ones). They certainly look about that size in the second panel. You'd also need to factor in problems of interference, given the 'planting density' of these turbines, and the sub-optimal location surrounded by grasses, etc. 172.70.86.44 08:08, 6 July 2022 (UTC)
+The rotating diameter is shown as about a third the height of Beret Guy's head, so it's definitely not 20 cm. 172.70.210.125 02:47, 7 July 2022 (UTC)
+Human head says the average "vertical distance from the bottom of the chin (menton) to the top of the head" is about 22 cm, so perhaps we should go with 8-10 cm turbines instead? There aren't going to be enough of those to even charge a mouse cellphone. 172.70.211.52 01:28, 9 July 2022 (UTC)
+Although these miniscule wind turbines don't generate much power, mice probably don't need much. Barmar (talk) 21:17, 4 July 2022 (UTC)
+That's certainly a fair point. How much power would a mouse-sized fridge need? 172.70.206.95 21:23, 4 July 2022 (UTC)
+Mice consume a lot more food per body weight (especially for body heat because heat transfer scales with surface area, not mass/volume) than humans. Mouse-sized fridge efficiency would also be poor both because of the same size issue and reduced room for insulation. 627235 (talk) 11:13, 5 July 2022 (UTC)
+A 480 ml insulin travel fridge uses 5 watts on a 3% duty cycle depending on the ambient temperature and how much it's loaded, so that's in the realm of possibility, and seems large enough. I used to feed lab mice about 5 grams of Purina Lab Rodent Chow daily, which was maybe 8ml volume, but it doesn't need to be refrigerated. Googling suggests field mice can get all the water they need from a diet of seeds. It seems to me that if mice could use electricity, they'd need it more in the winter than the summer. 172.70.211.52 22:01, 5 July 2022 (UTC)
+Someone please check my mouse energy needs math and assumptions. I made a couple misplaced decimal mistakes getting to where it is now, and I'm going to have another beer. 172.70.211.52 22:17, 4 July 2022 (UTC)
+Not sure about numbers but some (if not most) energy requirements scale by surface area (Square–cube law or other measurements. There are also efficiency issues with at least lots of human-made miniature machines. 627235 (talk) 11:13, 5 July 2022 (UTC)
+What energy requirements scale by surface area? Pumping water, cooking, and refrigerating scales by mass. Converting footcandles to lumens depends on area, but that doesn't account for much lower mouse ceilings. 172.69.34.6 22:27, 5 July 2022 (UTC)
+Heat exchange is kind of a biggie a lot of things depend on. 627235 (talk) 12:30, 7 July 2022 (UTC)
+I'm confused by the statement that smaller turbines are less "efficient". There's nothing about efficiency at that link. 172.70.114.43 22:33, 4 July 2022 (UTC)
+The graph shows the ratio between size and output has risen from about half to 85%. What is a better term for this? I'm pretty sure one of the multiple definitions of efficiency is technically correct, but it can never hurt explaining better. 172.69.33.113 22:42, 4 July 2022 (UTC)
+Changed to "relative power output" but I'm not sure that captures the idea very well either. 172.69.33.113 22:44, 4 July 2022 (UTC)
+Well wind turbines may not scale down ideally but still better than nuclear power plants. I suspect those have fixed minimal size and it's pretty big. -- Hkmaly (talk) 23:32, 4 July 2022 (UTC)
+Apparently nuclear power can be "as small as a button cell" but mice are vulnerable to radioactive hazards, and haven't solved the waste disposal problem. 172.70.214.185 23:45, 4 July 2022 (UTC)
+Batteries based on radioactive decay (such as RTGs, thermionic cells, betavoltaic cells) are not nuclear power plants. That term specifically refers to power plants based on nuclear fission reactors. Zmatt (talk) 11:38, 6 July 2022 (UTC)
+Isn't the power output of a solar panel directly dependent on its size (and wether it's covered with snow, angle to the sun, clouds? And prolly something I'll think of as soon as I hit save).172.70.131.106 23:55, 4 July 2022 (UTC)
+Yes, but the power per size doesn't increase with size like wind turbines do. 172.69.33.63 00:01, 5 July 2022 (UTC)
+What is the smallest Tesla Powerwall available for purchase? 172.70.206.163 02:00, 5 July 2022 (UTC)
+You probably want an 18650 or similar cell, which are frequently discarded on the street and thus easily obtainable by mice. 172.69.33.171 03:02, 5 July 2022 (UTC)
+Why doesn't pico hydro have the same problems scaling down as wind? They're both fluid turbines. 172.70.214.185 02:24, 5 July 2022 (UTC)
+For the same reasons that small fans have several vanes, but large wind turbines have only three. I remember reading something about the physics (it's a laminar versus turbulent thing) but I can't remember the details now. I'll update here if I can find it. 172.70.210.125 03:08, 5 July 2022 (UTC)
+Here's part of it, but doesn't really get to the heart of the matter. 172.70.210.125 03:10, 5 July 2022 (UTC)
+I think it has more to do with the relative magnitude of drag in gases instead of liquids. I don't have a good source though. 172.70.211.36 03:21, 5 July 2022 (UTC)
+Turbine efficiency (especially for very small turbines) mostly depends on pressure differential and mass throughput. Water has three orders of magnitude higher density than air. Also, even with just a meter of water column, water offers a 10 kPa pressure differential while you only rarely get that much of a pressure differential in air (at the same height) even between areas of high and low pressure usually at least dozens (and commonly hundreds) of miles apart (there may be exceptions for things like tornadoes but good luck using their wind power), certainly not between the high and low pressure sides of a turbine. Efficiency in practice mostly depends on moved mass (of turbine blades, etc) compared to moved medium (water or air), friction (mount, generator, maybe a gearbox) compared to total power input and (if electricity is desired) generator efficiency which itself depends on generator size and rotation speed (hence the need for a gearbox). For a very small turbine, all those things would need to be extremely light as well. 627235 (talk) 11:13, 5 July 2022 (UTC)
+Who is Beret Guy telling to make a wish - Megan or the mice? -- Ken g6 (talk) 04:48, 5 July 2022 (UTC)
+I must tell you about NIMH. - 172.70.254.81 16:13, 5 July 2022 (UTC)
+Sometimes the explanation is funnier than the comic. 172.68.133.159 03:28, 6 July 2022 (UTC)
+Uh, what happened to the image!? Does anyone know how to fix it? 172.70.110.65 20:22, 6 July 2022 (UTC)
+Uhhhh, I read the book as a kid, it was called The Secret Of NIMH, just like the movie... At least, my copy... NiceGuy1 (talk) 04:26, 9 July 2022 (UTC)
+That could have been a novel-of-the-film or named-for-the-film more obvious tie-in. They had to change "Mrs. Frisby" to "Brisby" in that, anyway, because of the potential infringement upon the "frisbee" name, so while they were reskinning it with "Now a major motion picture!!!" or whatever, then why not..? 141.101.99.8 12:06, 9 July 2022 (UTC)
+Categories: All comicsComics from 2022Comics from JulyMonday comicsPages using the "citation needed" templateComics featuring MeganComics featuring Beret GuyAnimals

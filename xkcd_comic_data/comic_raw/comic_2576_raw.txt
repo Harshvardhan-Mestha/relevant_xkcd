@@ -1,0 +1,66 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2576: Control Group
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2576)
+|<< PrevComic #2576 (February 2, 2022)Next >>|
+Control Group
+
+Title text: Placeble 228 x/6
+⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜
+Explanation[edit]
+Wordle ([1]) is a web-based word puzzle game that was especially popular when this comic was released. In the comic, Ponytail asks Cueball whether he's playing the game; Cueball replies that he isn't, because he's "in the control group".
+In scientific studies, the control group stands in opposition to the treatment group; whereas the treatment group receives the experimental "treatment", the control group does not, instead receiving a placebo or nothing at all. This is done to establish a baseline—what would happen without intervention—against which the result of the experimental treatment is compared later.
+When Cueball replies that he's "in the control group", this implies that Ponytail and other Wordle players are part of a "treatment" group. This implies that playing Wordle may have some long-term effects worth studying. Jokingly, this may also imply that Wordle is some sort of social experiment, perhaps a sociological study conducted by Harvard. As noted in the caption to the comic, Randall has been using this line as his new all-purpose excuse when he is not doing something. It's a clever way of saying that you're determined not to take part, as a control group requires him to avoid it. Mind control studies can also be nonconsensual experiments that massively impact public behavior.
+More realistically, Cueball may be part of a real market research control group, which was not exposed to advertisements and memes supporting the game or anything associated with the game. Market research studies have been common since the advent of advertising.
+The title text is a parody of Wordle's sharing feature, which users have been posting on Twitter or other social media platforms to show their success or failure at the game. The title text shows a 5x6 grid, but calls it "Placeble" (a portmanteau of Placebo and Wordle) and has a number after it, suggesting that not only is the game a social experiment, but that a "placebo version" is being given to the control group. In the real Wordle sharing feature, the number represents the current day's game. On the date this comic was released, the Wordle website itself was on game 228, matching the number in the title text. Randall's placebo version of Wordle has blank/incorrect squares and has a score of "x/6" which is a loss in Wordle — unsuccessful after the maximum 6 tries.
+Transcript[edit]
+[Ponytail is looking at her smartphone which she is holding in her hand, while she is talking to Cueball.]
+Ponytail: Are you playing Wordle?
+Cueball: No, I'm in the control group.
+[Caption below the panel:]
+My new all-purpose excuse for when I'm not doing something
+Trivia[edit]
+The image size that was originally posted was much larger than normal. This is because Randall seems to have posted the same image both for the normal "double size" image and the "regular" size. As of February 9, 2022, Randall has updated the comic: the image on xkcd.com is now the same size as other comics.
+Later something similar happened with 2599: Spacecraft Debris Odds Ratio, when Randall changed the original comic, and made both images the same size, see that comics trivia.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This is my first explanation, feel free to improve upon it. KirbyDude25 (talk) 00:30, 3 February 2022 (UTC)
+Ran into your edit when I tried to submit mine, hah. I don't actually like Know Your Meme that much but I'm not sure where else I could source that joke. Maybe it's unnecessary. Obw (talk) 00:36, 3 February 2022 (UTC)
+Sorry about that. Thanks for expanding my explanation, especially the description of the "study" aspect. I think the joke is fine, though we'll see what others think. KirbyDude25 (talk) 00:43, 3 February 2022 (UTC)
+Your explanation of the title text actually helped me understand the joke there! I added a bit more to flesh out the explanation Obw (talk) 00:45, 3 February 2022 (UTC)
+Thanks! Your edits definitely helped clear up the study terminology. KirbyDude25 (talk) 00:50, 3 February 2022 (UTC)
+Is the text exceptionally large for an xkcd comic? I was seeing if my browser was zoomed in, but the previous comics are all a normal size 172.70.134.215 00:55, 3 February 2022 (UTC)
+I noticed that, too. It looks about 1.5 times larger than normal. I don't think it means anything, though; Randall probably just made the image the wrong size by accident. KirbyDude25 (talk) 01:00, 3 February 2022 (UTC)
+The image is the size normally used for the _2x version. In this case, the main image is the same size as the _2x version for some reason. Normal image: https://imgs.xkcd.com/comics/control_group.png; 2x image: https://imgs.xkcd.com/comics/control_group_2x.png; Normally the _2x version is double size for hi-DPI displays. I'm hoping that will get fixed and we'll get the normal size back. Orion205 (talk) 01:11, 3 February 2022 (UTC)
+This size is way better though. Do people still use low-res monitors? When I check the website, it shows up as 478 x 613 pixels, which is absurdly small, even for a webcomic. - 172.70.130.153 01:33, 3 February 2022 (UTC)
+Some of us use "low-res" monitors. 1280x720 here, which I see as standard and not "low". Ralfoide (talk) 21:46, 3 February 2022 (UTC)
+What decade is this?! Stores don't even sell 720p monitors anymore. When I bought my current tv, even HD less common than 4k. My PHONE is almost 4k, and it's over 4 years old at this point! - 172.70.130.153 01:46, 4 February 2022 (UTC)
+The site standard is to give the standard version, for various reasons not just confined to monitor (or, in my case, tablet) resolution. It doesn't happen here, but the double-wide version of some comics would often make my device shrink the rest of the page to make the image fit within the width.
+(Ironically, my device seems to load the _2x in the original published context, in normal non-huge comics, without changing the xkcd site dimensions, so maybe there's a CSS solution to that, as well as it clearly heing the reason for the current problem due to hard-coded pixel-widths adding up to less than necessary to wholey contain the image-width.)
+If the _2x version is necessary to see details (not the case here), a link to that version is given. Or if it has been uploaded as well, I suppose. But anyone can go to the source and get the _2x if they want it. But for this comic it adds little value. 172.70.85.79 02:57, 3 February 2022 (UTC)
+Is there some way to make it DEFAULT to the 2x version (here or on xkcd.com) without some kind of addons or external scripts? I didn't see any settings, and I don't want to register an account. - 162.158.74.166 03:05, 3 February 2022 (UTC)
+The bot that makes these pages now was set to use the _2x version by default briefly, but was asked to switch back to the normal size. See this talk page: User_talk:Theusaf. Orion205 (talk) 21:03, 3 February 2022 (UTC)
+Why is the "standard" version so tiny? If anything, they should make the <1mp version mobile-only, and the standard should be desktop/hd - 172.70.131.122 03:03, 3 February 2022 (UTC)
+I could give you several technical reasons why this is just not going to work here, without a lot of reworking that will probably involve breaking a significant number of readers of this site, but I don't think you'll be dissuaded. Like I said, it works 'natively' like that in the xkcd site, but it often breaks things here on explainxkcd (in my case, YMMV). It's been discussed under the Community Portal pages for this site, I know, but I'll leave it to you to find out how that went. 162.158.159.29 03:15, 3 February 2022 (UTC)
+
+Anyone know why the title text doesn't show properly? For me, the rows are on separate lines on xkcd.com but display on the same line over here, ruining the effect. Is there a hidden break character that's not displaying in the source? Zzyzx (talk) 03:07, 3 February 2022 (UTC)
+Knowing if you are in the control group or not can falsify the results, which is why any self-respecting study (aka blind or double blind) won't tell their participants this information. Kimmerin (talk) 10:25, 3 February 2022 (UTC)
+Agreed. I think that Cueball is trying to put two over on Ponytail, as well as anybody else that annoys him about Wordle. These Are Not The Comments You Are Looking For (talk) 03:17, 8 February 2022 (UTC)
+imo placeable could mean you get to place the correct or incorrect into the box? and the x/6 could have x be a variable, and the grey squares are actually blank to change to correct or incorrect? idk ive never played wordle 162.158.187.158 13:23, 3 February 2022 (UTC)Bumpf
+It says "Placeble," without the second A (meaning described above). Perhaps your theory about the squares is correct, but I think it's more likely that they're just blank and that the "placebo" Wordle doesn't actually have a word to guess. KirbyDude25 (talk) 13:32, 3 February 2022 (UTC)
+"Wordle" is just a portmanteau of "Word" and "Wardle" - so "Placeble" is likewise one of "placebo" and "Wordle". I don't think much more should be read into it. It would be interesting to think about how hard it is to not get any squares right in a Wordle puzzle, though. You'd have to get "lucky" on the first word. I'm not sure - can you enter the same word twice, or does the page stop you? 172.70.135.154 15:18, 3 February 2022 (UTC)
+Given the current context, it feels like there may also be some reference here to Wordle's 'virality', and allusion to virus-related vaccine and treatment studies.172.70.90.121 16:26, 3 February 2022 (UTC)
+I think Randall accidentally put up tomorrow’s comic early, then took it down after a few minutes. It was a graph about how often he thinks about his nasal passages.Szeth Pancakes (talk) 00:02, 4 February 2022 (UTC)
+That sounds like 2563: Throat and Nasal Passages. - Orion205 (talk) 02:31, 4 February 2022 (UTC)
+Huh. The site must’ve glitched out on me. Either that, or I’m mentally disturbed. I’m probably just mentally disturbed.Szeth Pancakes (talk) 19:53, 4 February 2022 (UTC)
+Does anyone else think this explanation is complete? It doesn't look like anything else needs to be added. KirbyDude25 (talk) 13:15, 4 February 2022 (UTC)
+Looks like it's normal size now on xkcd.com. Can someone update the image? KirbyDude25 (talk) 14:15, 9 February 2022 (UTC)
+I think this joke refers to the anti-vaxxer meme where someone refuses to get vaccinated against COVID-19 by saying: "I'm in the control group" to imply that the vacine hasn't been tested before being rolled out, and the people who take it are guinea pigs. Anti-vaxxers also believe that the disease is a hoax and the vaccine does nothing, hence the placebo joke. 172.70.250.13 02:27, 6 March 2022 (UTC)
+Categories: All comicsComics from 2022Comics from FebruaryWednesday comicsComics featuring PonytailComics featuring CueballPortmanteauComics edited after their publicationScientific research

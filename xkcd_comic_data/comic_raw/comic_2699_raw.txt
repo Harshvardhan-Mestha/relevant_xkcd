@@ -1,0 +1,125 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2699: Feature Comparison
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2699)
+|<< PrevComic #2699 (November 16, 2022)Next >>|
+Feature Comparison
+
+Title text: Below the Web, and the Dark Web, a shadowy parallel world of Cybiko users trade messages on the Translucent Neon Plastic Web.
+Explanation[edit]
+This comic compares different remote communication services, including the relatively well-known Twitter, Discord, Mastodon, Facebook (FB), Slack, Signal, Internet Relay Chat (IRC), Tumblr, Reddit, and SMS mobile telephone text messages. It also includes the less well-known Cybiko® wireless handheld computer for teens. For each of these, it purports to indicate which of various features they support. The comic illustrates how feature comparison charts and infographics can be abused by sellers who are trying to make their products look better than they really are, compared to their competitors. The comic may have been inspired by the recent surge in users looking for an alternative to Twitter, due to its purchase by Elon Musk, and the subsequent mass firings and resignation of its staff.
+The Cybiko was a handheld computer designed for teens and released in 2000, which featured its own two-way radio text messaging capabilities along with built-in games and a music player. Additional information about it is available at the Dead Media Archive, as the device has not been manufactured since 2003. The chart suggests that the Cybiko has an advantage over all of the other listed communication services, as it is capable of all eight of the table's listed features, with none of the others being close.
+The features compared are direct messaging, group chats, file transfer, built-in games, instances of the software run by individual users instead of the corporation producing it, lack of a central server requirement, mesh networking, and wireless message delivery without an active internet connection.
+Mesh networking is a form of connectivity that reduces or removes the need for a centralized server or predefined gateways to a communications 'backbone'. Nodes communicate directly with any nodes that happen to be contactable, and from there may connect through to whatever nodes are in mutual contact, or to be found further afield, either in real-time or asynchronously. The Cybiko has this ability, as well as wireless message delivery because it communicates directly to other devices via radio, hence the ability to operate without any internet connectivity at all. There are several ongoing projects for distributed social networking, but all of these additionally require a hardware layer to provide signalling via their respective protocols. The Cybiko provides such via its decentralized radio capabilities.
+The comic does not mention the downsides of the Cybiko, that being purchasing one, and finding friends who own one, can be its own challenge, as it was discontinued nearly 20 years ago. Additionally, the comparison can be considered apples to oranges, since Cybiko is a device rather than a service; a fairer comparison would be to a modern smartphone, which can provide most of these features via multiple apps, including ones written especially for such rival services. Even ignoring the above, some of the Cybiko's "advantages" come with their own drawbacks: while not requiring a central server nor the Internet, for example, is touted as a plus, the Cybiko instead relies on having other devices in proximity to relay messages, meaning that unless the person you are sending to is nearby, it will not function. This is not an issue on any of the other options.
+This comic contains several errors. Mastodon doesn't support file transfer. Discord does not provide for user-run instances itself, only user-moderated and administrated instances. (There are two third party Discord server implementations, but it is unclear whether those could be counted as run by users.) Slack does not provide for user-run instances itself. Reddit does not provide for user-run instances at all, only user moderation and administration. IRC does require at least one central server,[1] and relegates file transfer support to client extensions. Signal is heavily used in user-run instances via a diverse ecosystem of code forks; many of these don't require a central server, a couple use mesh networking. Reddit occasionally does have built-in games. Finally, SMS has a form of group chats, (Tumblr used to have a form of group chat, but it was removed in September of 2021).
+The comic has been updated twice to fix some of these errors. The first version suggested Mastodon did not support user-run instances and required a central server, and that Reddit supported file transfer. This was changed once shortly after publication to add a check mark under "Mastodon" for "User-Run Instances". A second change was made some time later to check "Doesn't Require Central Server" for Mastodon and uncheck "File Transfer" for Reddit.
+The title text refers to the translucent plastic covers that were popular in the late 1990s and early 2000s.
+Transcript[edit]
+[A table with checkmarks to indicate which features various messaging services have. Each column is labeled with a service name and its logo beneath, except that for the last column, the device's longer name is written higher than all the other services' names, with an arrow pointing to a drawing of the device below it.]
+Twitter Discord Mastodon FB Slack Signal IRC Tumblr Reddit SMS Cybiko® wireless
+handheld computer
+for teens (2000)
+Direct messages ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓
+Group chats ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓
+File transfer ✓ ✓ ✓ ✓ ✓ ✓ ✓
+Built-in games ✓ ✓ ✓
+User-run instances ✓ ✓ ✓ ✓ ✓ ✓
+Doesn't require central server ✓ ✓ ✓
+Mesh networking ✓
+Wireless message delivery works without internet ✓ ✓
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Is there something we can do about the trolls? people keep making nonsense edits and adding weird images that have nothing to do with the comic. (insert name here) (talk) 19:56, 18 November 2022 (UTC)
+The image has changed. Now Mastodon includes USER-RUN INSTANCES (though I believe it should also have a check next to DOESN'T REQUIRE CENTRAL SERVER).
+I tried googling "wikipedia feature comparison chart". Instead of finding a page explaining how these charts work, I got a chart comparing different wiki softwares. Barmar (talk) 23:22, 16 November 2022 (UTC)
+Of course, it wouldn't be hard to make apps on smartphones support mesh networks ... however, the manufacturers and app developers prefer to work hard to make sure they don't work without being connected to internet and serving advertisement. Although ... -- Hkmaly (talk) 00:25, 17 November 2022 (UTC)
+Actually, nearly all smartphones use radio chipsets running proprietary firmware with little to no mesh support; WiFi Direct depends upon protocol support from these chipsets, & specifically precludes relaying from device-to-device-to-device in a "decentralized mesh" fashion. DD-WRT & OpenWRT protocols support this kind of wireless decentralized mesh, but are not supported by the radio firmware present on consumer smartphones. Devices supporting these wireless mesh protocols do exist, but a lack of other nearby devices supporting those protocols, precludes relayed communication over multiple until such devices are deployed throughout the distance between a sender & recipient. In the US, there's only a couple bands allocated by the FCC which permit ciphered digital transmissions without a broadcast license, & the lineup of cellular handsets featuring radios for these bands can be counted on a few fingers.
+ProphetZarquon (talk) 19:55, 17 November 2022 (UTC)
+There seems to be a lot of wrongness about this matrix. Besides that mastodon instances can be run by user (which is fixed):
+Mastodon does not support file transfer. You can only upload images, and not even all image formats—webp is not supported. Some other ActivityPub servers support file upload, but then it's not Mastodon.
+IRC also doesn't support file transfer afaik.
+Mastodon and SMS don't require a central server
+Discord, Reddit, and Slack doesn't have user-run instances
+Discord doesn't have builtin games last time I checked. The games are by the bots,
+Discord used to have a game store accessible from the top menu. They dropped it because nobody used it. Schmurr (talk) 17:02, 1 March 2023 (UTC)
+I don't know about Slack, but pretty much all of Discord and Reddit is user-run/moderated instances.
+That slash is doing a lot of work there. 172.69.34.31 06:57, 17 November 2022 (UTC)
+Your definition for "instance" must be very different from mine then. For me, "instance" refer to the server software's instance; that is, the user must be able to run the server software on their own to qualify this. If you consider subreddits and discord chat rooms (I refuse to call them "servers", because that's not what they are) as "user-run instances", then so are Facebook groups, right? Those are not instances; they're just communities or groups moderated by some selected people. --172.71.215.3 12:55, 17 November 2022 (UTC)
+webp support was added in Mastodon 4.0. 162.158.222.124 08:38, 18 November 2022 (UTC)
+discord did recently add official built-in games in the form of "activities" in voice chat Sobsz (talk) 09:40, 19 November 2022 (UTC)
+"IRC itself is a teleconferencing system, which (through the use of the client-server model) is well-suited to running on many machines in a distributed fashion. A typical setup involves a single process (the server) forming a central point for clients (or other servers) to connect to, performing the required message delivery/multiplexing and other functions." – J. Oikarinen, D. Reed; Internet Relay Chat Protocol; RFC 1459; May 1993. Emphasis added. 172.71.154.158 01:45, 17 November 2022 (UTC)
+Notably, Mastodon eschews file transfer - audio specifically - for fear of enabling piracy (issue #7495). Tumblr would have a more comprehensive version of file transfer. 172.71.146.136 03:17, 17 November 2022 (UTC)
+IRC has (X)DCC for File Transfers and for it's centralisation it depends on the deployment, the original network that became EFNet (Eris-Free Network) doesn't have a central server, but things like Libera and OFTC have centralised services for authentication and servers maintained by only one organisation. Btw for games on the fediverse (which Mastodon is part of) Misskey includes some, sadly they're centralised. Lanodan (talk) 03:40, 17 November 2022 (UTC)
+Tumblr does have group chats. They're publicly viewable by anyone, but only people in the group can send messages, so I think they still count as group chats.
+It appears we are all having a 386 moment watching Randall finally be wrong about something. How dare he?! 172.70.111.30 05:37, 17 November 2022 (UTC)
+Nobody wants to put this train wreck into the explanation, but someone has to. I'm guessing we're waiting for further corrections just in case.
+ki172.69.34.31 06:57, 17 November 2022 (UTC)
+
+Discord did add games recently: https://discord.com/blog/server-activities-games-voice-watch-together Spenc (talk) 07:28, 17 November 2022 (UTC)
+He also just left out Matrix entirely, y'know I'm starting to think this isn't a serious comparison. --172.70.250.193 07:42, 17 November 2022 (UTC)
+He forgot to include humans, too, which support all of the features listed. 141.101.99.12 10:23, 18 November 2022 (UTC)
+Not sure what built-in would mean, but Slack has plenty of games you can install on it as an admin (Similar to Discord) 172.70.162.223 09:52, 17 November 2022 (UTC)
+Also on April fool's days Tumblr occasionally have some sort of built-in game 172.70.162.46 09:54, 17 November 2022 (UTC)
+xkcd has those too :p --172.71.215.3 12:55, 17 November 2022 (UTC)
+I'm wondering if we shouldn't include in the explanation, besides (on instead of) the link to Mesh networking, also a link to Comparison of software and protocols for distributed social networking. --Waldir (talk) 10:34, 17 November 2022 (UTC)
+I can't help to notice phpBB is so dead it's not even on this chart. -- Shirluban 172.71.122.79 10:37, 17 November 2022 (UTC)
+I agree that the table is riddled with a surprising number of errors, but if the conspiracy theory that Randall has been replaced by another, evil cartoonist (as I write, the head of this explanation) is meant to be funny ... it didn't seem amusing to this particular explainer. Nitpicking (talk) 12:55, 17 November 2022 (UTC)
+It wasn't meant to be funny, it was meant to explain the comic. How much fake news about fake news about fake news do we need before we talk about it? It's clear to anybody who can tell how severe the mistakes are, that this is what the comic is about. 172.70.111.29 15:10, 17 November 2022 (UTC)
+While I'm sure this could start a holy war in its own right, if you include MMS under the umbrella of SMS, you get sort-of file transfers and also group chats. Jpatterson (talk) 14:12, 17 November 2022 (UTC)
+If you think about the difference between user *run* instances vs user *hosted* instances, that might explain why Discord, Reddit, and Slack all have that check. However, I can't think of a possible reason why Mastodon is missing "Doesn't require central server" when that is its main selling point. :shrug: 108.162.246.67 14:59, 17 November 2022 (UTC)
+Somebody reverted my change that IRC does not require a central server, but it doesn't. The protocol has clients connecting to _one_ server among a _network_ of interconnected servers, where anybody can run such a network. 172.70.111.29 15:10, 17 November 2022 (UTC)
+There's still going to be centralization of administration even among federated nets of IRC servers, unlike USENET for example. 172.69.33.168 15:31, 17 November 2022 (UTC)
+Are we encountering a new kind of vandalism where plausible edits are made introducing terrible prose, typos, and falsehoods? I noticed something similar happened with the recent Y2K comic. I really don't like to log in because we usually show we can do good work with most people logged out and IP's CDN-obfusticated for actual mass anonymity, but I will absolutely log in and push for page protection if vandals start trying to get insidious with subterfuge. 172.69.33.168 15:31, 17 November 2022 (UTC)
+I don't know what vandalisms you're referring to. I've been adding the "Intermediate Edits", mostly behind HTML comments while fine-tuning so as not to make it look awful during the time I know it'll be half-completed (or less!).
+As to terrible prose, I cannot refute the possibility that I'm guilty of that. I do my best, but genuine typos or personal proclivities for purple prose may indeed creep in.
+With falsehoods, nothing I have added (or changed) is deliberately wrong, but may be not the same interpretation as someone else. I'm somewhat handicapped by not being a (regular/registered) user of most of the services (and may understand, e.g., Mesh Networking only in a form that a modern re-envisaging of it has moved drastically away from), but I've been taking my cues from only the very best external references (or Wikipedia!) and trying to boil down the supernumary technicalities to a more Explainxkcd-friendly format.
+As always, another editor with a genuinely better idea (in all those aspects) can refine things. As, I notice, has already been started. Didn't get an Edit Conflict, which I put down to being short and sharp in my insertions, and hope I caused not too many for others. - Taking a break from imposing my own edits, now. I shall deal with any further changes (or reversions) in good heart when I get the time again, later. Good luck and good editing to those who wish to pick up any of the work (or rework it) in the meantime. 172.70.91.53 15:58, 17 November 2022 (UTC)
+I think some of you missed the forest for the trees. The point of the comic is to illustrate how feature comparison charts, which are very common sales tools, might be abused to show that the seller's product looks better than it really is. That should be in the explanation of the comic. 172.70.210.243 17:27, 17 November 2022 (UTC)
+Agreed, there are a lot of the points that could be debated. Is "central server" meant a server not controlled by you? What is a user-run instance? As twitter has several clients available but is listed without "User-run instances". I bet cybiko is trending on google search right now. Harald (talk) 17:33, 17 November 2022 (UTC)
+Sort of https://trends.google.com/trends/explore?date=now%207-d&q=cybiko 172.71.154.38 19:13, 17 November 2022 (UTC)
+Even though a line about this has now been added, it still seems like it's slightly missing the point, in that it doesn't mention that while the Cybiko may support all those features, that doesn't mean (as the chart implies) that it supports them in a way that is comparatively useful to most users as the other options listed. I feel like the explanation should focus on how the Cybiko supports each of the features in turn, and why that's not a sensible comparison to make to the other options. 141.101.99.12 10:35, 18 November 2022 (UTC)
+Proposal
+Instead of trying to describe all the common platforms and features, as the HTML comments editor plans, why not just link to their Wikipedia articles and discuss the edge cases, like what counts as group chat or file transfer? Most people will understand the general terms. 172.70.214.252 19:41, 17 November 2022 (UTC)
+I see it as a handy summary that the respective Wikilink (which could still be followed) discusses at length, with history, CEOs, controversies, etc that we don't (normally, except maybe Twitter – for obvious current reasons/inspiration). Enough to brief the slightly adrift user (I have no idea how Discord works, I thought it was like Zoom!) or to clarify the tech used (the Mesh concept was backboneless self-organising swarm-communication, in my day, but is it possibly like Torrenting, according to one version of explanation?) without copypastaing absolutely everything.
+Plus the extensive "this is wrong, that is wrong..." can be quickly folded into a caveat (as one comment says) rather than the current clump edited in at the end, where it's a pain to read and I'm not sure I even read it thoroughly anyway. 172.70.90.2 21:19, 17 November 2022 (UTC)
+Outlining in HTML comments was a terrible idea with the opposite intended effect, so I am moving them all here:
+Services
+<!- to be populated
+Twitter
+A short-form 'microblogging' platform, originally based upon the use of SMS model (see below) for publishing a limited amount of text, with the option to directed towards named recipients and/or to highlight a topical subject by means of the much publicized 'hashtag'. It allows account-holders to read and respond to most of the global messages posted by other users, with some restrictions and only limited read access by those not subscribed.
+Twitter has recently been in the news due to its long-winded purchase by Elon Musk and the subsequent mass-firings/reorganization of its staff, causing much turmoil within its userbase and others with an interest in its use.
+As such, Twitter is capable of Direct Messaging (DMs) and a Group Chat that defaults to being one universal talking-shop limited only by the reader's ability to discover and follow any particular person or subject of interest.
+Discord
+Built as a platform for those involved in social gaming, it combines audio (VOIP) and text-messaging access through thematic chat rooms with a primarily invite-led mechanism to participate in those relevant to a given interest or activity.
+The capabilities of DMs, Group Chats, File Transfers, Built-in Games and User-Run Instances are noted.
+Although Discord apparently does not provide for user-run instances itself. There are two third-party Discord server implementations, but it is unclear whether those could be counted as user-run instances of Discord.
+Mastodon
+Facebook (FB)
+Slack
+Signal
+Internet Relay Chat (IRC)
+Tumblr
+Reddit
+Short Messaging Service (SMS)
+-- yet to be populated -->
+...
+<!- Also need to explain features: *DONE*Direct messages*DONE*, Group chats, File transfer, Built-in games, User-run instances, Doesn't require central server, *DONE*Mesh networking*DONE*, Wireless message delivery (without internet) -->
+...
+<!- The following can be shuffled into :*bulletpoints against the Services header, once populated, I hope... -->
+...
+<!- Probably two individual tables, or ;headered itemized lists, but not a single table as per comic (and as per Transcript) as fitting description text in place of ticks (or lack of them?) would look *awful*... -->
+<!- ...these comments as placeholder, or checklist for each item needing commenting, depending on how the next active editor directs things... -->
+Valiant effort, questionable implementation, terrible follow-through. 172.71.158.90 18:05, 18 November 2022 (UTC)
+"Reddit does not provide for user-run instances at all": Reddit wasn't open-source? https://github.com/reddit-archive/reddit/ Maybe Randall considers one taking the old 2017 code and running it as being an user-run instance. Do anyone do that? There are thousands of forks, but seems no one is maintained. 172.70.105.176 18:08, 18 November 2022 (UTC)
+The image was updated again, I uploaded the new one as feature_comparison_v3.png rather than a new version of the current image, as that's what the last person did when it changed the first time. Esogalt (talk) 11:45, 19 November 2022 (UTC)
+Mastodon[edit]
+"Mastodon doesn't require central servers" - This one seems like splitting hairs. It still uses servers, it's just that it goes for many small servers instead of a few big ones. 172.71.214.55 19:13, 18 November 2022 (UTC)
+Elon Musk[edit]
+"The comic was likely inspired by the recent news coverage of Twitter's purchase by Elon Musk, and the subsequent mass firings and resignation of its staff, causing many users to start looking for alternatives."
+I don't see any real connection here. Other than the fact that Twitter is the first column, and the fact that recent events occurred recently and the comic was also released recently. Correlation =/= Causation. 172.68.210.41 20:07, 18 November 2022 (UTC)
+I'm persuaded, because of the prominence of Mastodon, where most of the people I am following on Twitter are attempting to migrate. 172.70.211.145 03:13, 19 November 2022 (UTC)
+Watered it down a bit, to reflect the lack of agreement, but also to emphasise that the inspiration would be the search for alternatives, and only indirectly the takeover and controversy.172.70.91.54 16:37, 21 November 2022 (UTC)
+Categories: All comicsComics from 2022Comics from NovemberWednesday comicsChartsSocial networking

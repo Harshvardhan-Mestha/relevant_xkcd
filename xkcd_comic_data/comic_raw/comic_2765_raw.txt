@@ -1,0 +1,577 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2765: Escape Speed
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2765)
+|<< PrevComic #2765 (April 19, 2023)Next >>|
+Escape Speed
+
+Title text: Gotta go fast.
+Contents [hide] 
+1 Explanation
+1.1 The Hyperdrive
+1.2 Extra Escape Speed pages
+2 Transcript
+3 Trivia
+4 Celestial Bodies and Collectable Items
+5 Hacks
+6 Discussion
+
+To experience the interactivity of the game, visit the original comic.
+Explanation[edit]
+This explanation may be incomplete or incorrect: It could use some of the same segments and features as in the explanation of 1608: Hoverboard. For instance, functionality and extra pages with images and screenshots that could be linked.
+If you can address this issue, please edit the page! Thanks.
+This interactive comic is similar to 2712: Gravity, which celebrated the release of What If? 2, as you can visit different planets. Your fuel runs out and recharges slowly over time or instantly whenever you land. Like in Gravity, there is no "universal" point of view: the bottom of the window, "down", is oriented towards the object exerting the most gravity upon the player.
+You begin on the Starting Planet, near Origin. To escape Origin's gravitational force, gain enough momentum by swinging a few times inside the large hidden tunnel that goes from the rollercoaster to the opposing side of the planet. To help you find other planets there are also many small circles surrounding the spaceship indicating the locations of nearby or distant planets depending on how transparent these points are. Collecting circles with a star outline will improve the performance of the spaceship, such as by making the engine more efficient or increasing the rate at which the fuel recharges, and sometimes make you find a new item. Collecting small grey circles will instead just make you find an item, such as a rock with neat stripes, a cool bug, and a pretty leaf.
+Most planets and celestial objects are inside of a large Crystal Sphere in which there is a visible navigable crack. Halfway through the crack, gravity gets increasingly stronger as the spaceship feels the gravitational force of all the celestial bodies it is leaving behind. Above the crack in the Crystal Sphere, there is the Star Destroyer from 1608: Hoverboard, and on the opposite side of the crack, there is a huge part of the world in 1110: Click and Drag in the form of a round planet.
+The title text simply says, "Gotta go fast.", a reference to Sonic the Hedgehog (character) Sonic the Hedgehog's catchphrase, and the point of the game: getting able to go faster to escape larger and larger planets and leave the Crystal Sphere.
+The Hyperdrive[edit]
+The Hyperdrive is a powerful upgrade to the spaceship that massively boosts your thrusters. It is found at the center of the Boston Planet and is needed to explore the planets outside the Crystal Sphere and to escape from the black hole inside the Subway Planet. It can only be unlocked after deactivating the MIT Cloaking Device on the Subway Planet and collecting three of the four subway tokens found at different "Bostons". Subway tokens are circles with a T outline, and they have a distinct color: "blue", "red", "green", and "orange", the four colors of Boston's subway system. The blue token on the Boston Planet is not strictly necessary to get the Hyperdrive, although it is the easiest to obtain.
+Here's how to get the Hyperdrive:
+Get to the Subway Planet by launching from the bush where someone says "Shhh." on Origin. The Subway Planet features all the subways of North America except Boston, which has been ripped out and hidden by the MIT kids, leaving a big empty hole in the crust of the planet.
+Once on the Subway Planet, go to Morgantown, WV via Mexico City and Atlanta, and deactivate the MIT Cloaking Device to make the Boston Planet appear.
+Follow the two intangible grey lines that will first guide you to Origin and then the Roche Lobe Earth (one of the four Bostons) and collect the green subway token on it.
+Go back to Origin and collect the orange token on the Guitar Ship (see the table below for instructions on how to find these planets).
+Get to the East Coast of the US on the Projection of Earth and collect the red token.
+Now that the center of the Boston Planet is accessible, go there and collect the Hyperdrive. The planet also contains the final blue token, but it's not necessary to get to the Hyperdrive.
+Extra Escape Speed pages[edit]
+Since this comic is so big and complicated extra pages have been created to include much more information than is wished for on this main page (which is already of considerable size).
+These pages are listed here for convenience, but they are also listed in the relevant sections below:
+2765: Escape Speed/Transcript - The full transcript of the entire comic, as if you played the game can be found here. It is linked from the Transcript section.
+2765: Escape Speed/The whole image - A collection of different compilations of the whole Image.
+2765: Escape Speed/Screen-shots It can be linked from several sections
+Transcript[edit]
+[This transcript only covers the starting page as shown on xkcd: xkcd 2765. A full transcript of the entire comic can be found here.]
+[What is shown on xkcd it what is known as the Starting planet. It is a small planet. On top of it is a small spaceship standing on two legs. It has a circular shape on top of the legs with a round window. Next to it is a small tree which is higher than the spaceship. This is the spaceship to be controlled by the user. The planet has grass all around, and the entire planet is visible. But the ship is in the center, so most of the planet is in the lover part of the panel. The background around the planet is a star-studded black backdrop. Going around the planet to clockwise from the small tree, there are two more trees with some small bushes between the first small tree and the two next trees. A larger tree is on the opposite part of the planet. Between the two trees and this there is a small bush and the Beret Guy who looks and point up from his point of view (down as seen in the image as he is on the opposite side). He is exclaiming a word. After the largest tree next to him, come a small tree. Before that Cueball and Megan stand together. On the last part back to the spaceship there is another small bush. There are also four gray dots. One above the spaceship. One between the first three and the two. One above the largest of the two trees together. And the final near the bush to the left of the spaceship. Those four dots are part of the game and can be removed if the ship touches them. In the bottom right corner of the panel there is a small white square with a black house drawn upon it. There are two small black dots beneath it. A curved arrow goes below the house from the right to the left dot. This is the home button that will always take the player back to this starting window. To the very right of the panel on height with the spaceship there is a white bar about three times the height of the spaceship. This bar indicates how much energy the spaceship has. It always refuels immediately after landing anywhere.]
+Beret Guy: Wow!
+[As Beret Guy is upside down, so is his words. They can thus easily be read as MOM as they are written, as always, in all caps.]
+[As part of the game there are messages appearing the first time you enter the comic, and every time you return to home of to the comic from another comic. Although they are not part of the image, they do appear on the home image. These messages appear as black text in a rectangular white panel with a black border. The messages are only on screen for a short time. On a mobile phone browser "Use the arrow keys" is "Tap the sides of your screen". The three situations follow here:]
+[First time opening the game in a new browser there are two messages one appearing after the other:]
+Greetings!
+Use the arrow keys, pilot.
+[When pressing the home button only one message appears:]
+Welcome back, pilot.
+[When reloading or going to the page after having been in another page or having shut down the program and opening again, there will be two messages:]
+Welcome back! We saved your progress.
+Use the arrow keys, pilot.
+[When moving past the grey dots text is revealed in a similar manner to the greetings text. If it is items, then they are collected and listed beneath the panel under the heading "You've found:" A bulleted list will then start to grow beneath this as you play the game and collect items.]
+[For more transcripts from the rest of the game go to the full transcript page.]
+Trivia[edit]
+Since the comic came out on a Thursday instead of a Wednesday, it may have been timed to celebrate the test flight of the SpaceX Starship rocket, which was blown up four minutes after liftoff because its booster stage failed to separate. The large rocket found on the Click and Drag Planet has also been changed from the original look, possibly as a reference to SpaceX. It could also be a late April fools' comic, since for the second time in 12 years no such comic was published this year.
+If the spaceship has enough upgrades and is speeding through space fast enough, there is a glitch that lets the spaceship noclip through the Crystal Sphere without the Hyperdrive. The spaceship won't be able to stay in the air for more than one second without being pulled back, but it can move along its exterior edge.
+At (-945.399px, -694.381px), a person named Ryan is stuck in a small hole with a dog. This is a reference to a real event that happened to Dinosaur Comics author Ryan North. Nearby is featured the T-rex from his iconic comic strip, in the pose of the last panel.
+Celestial Bodies and Collectable Items[edit]
+This explanation may be incomplete or incorrect:
+ALL ITEM EXPLANATIONS AND LOCATIONS NEED TO BE TRANSFERRED FROM THE OLD PLANET LIST TO THE NEW TABLE
+We are currently switching from a disorganized list (below, inside the green banner) to the new table, but the explanations and locations for specific items are missing from the new table. Please help by copying them from the old list and adding them to the new table in this format:
+The item message ''&ndash; Where to find it &ndash; Explanation, such as references etc''
+Example: You found a cheese platter (Your tanks recharge faster) – Next to the cell tower – The cheese is a reference to 1234: Cheese
+OTHER ISSUE: Upgrades that end in "???" need to be replaced by the exact upgrade message shown to the user.
+If you can address this issue, please edit the page! Thanks.
+[Expand]
+OLD LIST – Expand to help copy over the missing item explanations –––>
+Spreadsheet of all items and messages extracted from the game's source code: https://docs.google.com/spreadsheets/d/1hygJKdwjkufAU3ZYC4NELdCX7XgRdOIW68vPUidR9qA
+Spreadsheet of coordinates for all celestial bodies extracted from the game's source code: https://docs.google.com/spreadsheets/d/1xhw3oVb4fMktZB_KEIF9fGkYCkfbpRMHKBLI63laTgc
+Map of the entire universe created by the community: https://aeromancer.dev/xkcd_2765/map.html
+Screenshots of the entire world, planets and celestial bodies made using this map can be found on this page
+This is an incomplete table of all celestial bodies and items, in descending order of planet size (the Starting Planet, Origin, and the Hollow Planet are at the top for their relevance):
+Collectable items
+Name Tiles (X, Y) Explanation You found... Upgrades Messages Subway tokens
+Starting Planet
+tiny-world
+(6024, -8976) To get here, click the "Home" button in the lower right corner of the comic.
+The planet is tiny, grassy, and has few trees. Beret Guy is saying "Wow!", but since he's on the other side of the planet, it looks like he is shouting "Mom!". This is a reference to the title text of 1117: My Sky, and it could also be a reference to 502: Dark Flow. Pressing the "Home" button to go back to the starting planet shows the message, "Welcome back, pilot", which may be a reference to the greeting that plays when re-entering a Titan in the Titanfall video games.
+a rock with neat stripes
+a cool bug
+a pretty leaf
+Wheeee!
+Origin
+origin
+(3096, -5904) To get here, launch from Beret Guy saying "Wow!" on the Starting Planet.
+The planet has a sign saying 'Welcome to Origin! You can never leave™'. A large hidden tunnel inside it leads from below the rollercoaster to the St. Louis Arch on the opposing side of the planet, which you can use to gain enough momentum to escape the gravitational force if you don't have many upgrades. There are lots of landmarks and signs that mark the directions to different planets.
+a secret glade
+a holographic Charizard business card
+a tiny meteorite!
+a 5G seagull
+a DVD of The Core (2003)
+a normal-looking leaf
+a marsh wren
+an orb wren
+a single grain of salt
+11 squares packed into a larger square
+a tumbleweed
+Nice flying! (Your tanks recharge faster now.)
+Welcome to liminal space
+The St. Louis arch is also known as the gateway to space.
+Be careful; this roller coaster can be disorienting!
+Hollow Planet
+hollow-shell
+(-13952, 1848) To get here, launch from the St. Louis Arch on Origin.
+The planet is just a shell with some gaps. On the outside, there are lots of landmarks and signs that mark the directions to different planets.
+You found a handful of the quantum foam that makes up the fabric of space! (Your engine gets a little more powerful.)
+You found a sixth lagrange point! (Your thrusters are more efficient now.)
+You found a glass of heavy water (Your engine gets a little more powerful.)
+Star Destroyer
+from star-destroyer-a to star-destroyer-i
+(18192, -130000) To get here, launch from the crack in the Crystal Sphere.
+The planet has been copied from 1608: Hoverboard, with the only difference being that Darth Vader's dialogue was changed from referencing Steven Universe to The Murderbot Diaries.
+an unread email
+a glass slipper with a glass foot in it
+a lymphocyte
+a forged resume
+a serif
+a Bursa of Fabricius
+a cluster of data points
+a premium subscription to food
+two goats and a new car
+an out-of-control trolley
+a helium-238 nucleus
+the Death Star plans
+You found a perpetual motion fidget spinner! (Your tanks recharge a bit faster now.)
+You found a vintage Juicero juicer! (Your thrusters are more efficient now.)
+Hmmm.
+Click and Drag Planet
+clickdrag-nw, clickdrag-ne, clickdrag-sw, and clickdrag-se
+(-31808, 111808) To get here, launch from the bow or stern of the Star Destroyer tangentially to the Crystal Sphere to orbit it and keep the stars in the background moving horizontally on the screen until you see a dot around the spaceship guiding you.
+The planet has mostly been copied from 1110: Click and Drag and modelled to form a round planet, so the drawings are very tiny. The large rocket has been changed from the original look, possibly as a reference to SpaceX. Originally, it had no gravity, and the spaceship was only attracted by the gravity of the Crystal Sphere. This made navigating around the planet difficult, so a later update added gravity to it to make it easier for players to explore it.
+an ant the size of Rhode Island
+a pin with 17 angels dancing on it
+The vehicle below gives you a boost (Your launch speed has increased.)
+We should turn back (Engine power???)
+You found an expert at underwater ropes. (Your thrusters are more efficient now.)
+You found a trisected angle! (Your launch speed has greatly increased.)
+Subway Planet
+subway-planet and black-hole-3
+(22000, 34000) To get here, launch from the bush where someone says "Shhh." on Origin.
+The planet is a reference to 1196: Subways and it's riddled with tunnels. Boston has been ripped out and hidden by the MIT kids, leaving a big empty hole in the crust of the planet, and there is a black hole at the center that can only be escaped with the Hyperdrive. You need to find the switch that turns off the MIT Cloaking Device to help you get the Hyperdrive. Once found, two intangible grey lines will appear (on the Subway Planet and on Origin), guiding you to one of the four Bostons.
+a relativistic bowling ball
+a Cybiko® wireless handheld computer for teens (2000)
+a handful of quantum foam
+a normal-sized apple
+You get the feeling you're not in Kansas anymore (Your tanks recharge a bit faster now.)
+There is no parking in the white zone (Your thrusters are more efficient now.)
+The next stop is Interplanetary Terminal G (Engine power???)
+You feel accomplished (Engine efficiency???)
+You found a brightly-lit billboard (Your thrusters are more efficient now.)
+You found a hot dog (Your launch speed has increased.)
+You found a bottle of Coke Absolute Zero! (Your thrusters are more efficient now.)
+You found a beige electron! (???)
+You found $30 in Yahoo! cash! (Engine power???)
+You found a friendly cat! (???)
+Transfer here for Mornington Crescent
+MIT Cloaking Device deactivated! Boston detected. (Blue, red, green, and orange lines activated.)
+Boston Planet
+mbta
+(-42000, 8000) To get here, launch from the back of the Shuttle Skeleton.
+The planet is the Boston subway system that was ripped out from the Subway Planet by the MIT kids. The Hyperdrive, needed to explore the planets outside the Crystal Sphere, is at the center of the planet, which is only accessible after getting the green, red and orange subway tokens. The blue token is not strictly necessary to get the Hyperdrive, although it is the easiest to obtain. If the player goes to the location of the Boston Planet before turning off the MIT Cloaking Device, they will only find an invisible region out in space that has gravity, at the center of which a "strangely heavy subway token" can be found. The gravitational force around it remains even after the token is collected. As hinted by Blondie on Andal, the MIT Cloaking Device doesn't affect gravity, therefore the cloaked Boston planet is intangible and invisible, but its mass still affects the gravitational field around it.
+a strangely heavy subway token
+Blue line deactivated!
+Welcome to MIT! You acquired a hyperdrive!
+Projection of Earth
+earth-map
+(-15808, 22192) To get here, launch from the Earth map landmark on Origin or the sign on the Hollow Planet.
+The planet is a huge, distorted map of all land masses on Earth. The spaceship can fly where water would be, but it can't go over land.
+the Heart of the Ocean
+a whale shark
+some microbial life
+some tin from the pantai remis mine
+a sparkling gem
+a piece of pumice
+You found the Principality of Sealand! (Your engine gets a little more powerful.)
+You found a Rhode Island the size of an ant! (Your engine gets a little more powerful.)
+You found an icosahedral d10 (Your engine gets a little more powerful.)
+Red line deactivated!
+What If? Planet
+gravity-earth
+(-46000, -24000) To get here, launch from the two people explaining where Boston is on Origin, the left of Stonehenge on the Round Planet, or the left rim of the Guitar Ship.
+The planet contains several scenes from what if? 2 and 2712: Gravity. Megan and Cueball are floating inside a small space in the center of the planet, which can be reached after getting the Hyperdrive. This is arguably the most remote object within the Crystal Sphere, since all the planets around it are very distant from it.
+an eye in the sky
+a stick
+an asterisk
+a sterile neutrino
+a secret leaf
+a pair of squirrel goggles
+a large hadron
+a smooth green snake
+You found a sunken treasure (Your thrusters are more efficient now.)
+The Yellowstone Super What? (Your launch speed has increased.)
+Nutritional Facts - Serving Size: 1 Cloud, Total Calories: 0 (Your engine gets a little more powerful.)
+You captured the flag! You decide to leave it there, but it's yours. (Your engine gets a little more powerful.)
+You found a steam calliope! (Your engine gets a little more powerful.)
+You found a dna base pair! (Your engine gets a little more powerful.)
+Uzumaki
+uzumaki
+(-3904, -26904) To get here, launch from Origin's spiral landmark, the sign on the Hollow Planet, or below the plane-towed banner on the Round Planet.
+The planet is a large spiral of grass inspired by the manga Uzumaki by Junji Ito. A Roomba is loose, a reference to 1558: Vet.
+a golden radio tuned to 1.618 MHz
+a scroll lock key
+a primordial black hole
+a cool pair of shoes with flames on the side
+an ink cartridge
+a podcast episode
+a festive but somehow unnerving holiday card from Junji Ito
+a friendly bee
+a spiral-cut diamond
+a burrito
+You found a tree-filled grove and a nice spot for quiet contemplation (Your thrusters are significantly more efficient now.)
+You found a single caffeine molecule! (Your tanks recharge a bit faster now.)
+Exit Only
+You're going the wrong way!
+Round Planet
+orb
+(-19154, -7288) To get here, launch from the tower with an orb on it on Origin or the sign on the Hollow Planet.
+The planet is moderately small with no vegetation and some architecture such as Stonehenge and the Great Wall of China.
+a swatch pop-out wristwatch
+You found a sensible cheese platter (Your tanks recharge a bit faster now)
+[no message] (Your engine gets a little more powerful.)
+Jurassic Park Planet
+gravity-qwantz
+(20000, 11000) To get here, launch from the dinosaur on Origin or the Andalites on Andal.
+The planet is covered in dinosaurs from Dinosaur Comics and has very weak gravity.
+a tiny pteranodon
+a baby hedgehog
+a tattered knapsack containing about $194,00 in $20 bills
+Today is a good day I think for space exploration (Your engine gets a little more powerful.)
+But what if gravity doesn't actually exist? (Your tanks recharge a bit faster now.)
+Andal
+platform-planet
+(12048, 14048) To get here, launch from the Andal landmark near the pyramids on Origin or below Saturn's equator, when the soccer ball is oriented to the bottom left compared to the spaceship.
+The planet is small and has a T-shaped tower, mountains, and grass.
+You found two Andalites, one canonical! (Your thrusters are more efficient now.)
+What a nice place for a ship to sit! (Your tanks recharge a bit faster now.)
+You found a friend (Your thrusters are more efficient now.)
+You found baby shoes (and baby)! (Your engine gets a little more powerful.)
+Comet 67P
+67p
+(18048, -11152) To get here, launch from the duck next to the 'Caution: long vertical drop' sign on Origin.
+The planet is a reference to the comet 67P/Churyumov–Gerasimenko and contains the crashed Rosetta spacecraft along with the Philae lander that landed on it in 2014.
+Some people believe that when the Earth appears in the sky, it's a harbinger of doom. (Your tanks recharge a bit faster now.)
+You found a broken smoke machine (Your engine gets a little more powerful.)
+Anyone for Scrabble later? (Your engine gets a little more powerful.)
+You found The Long Now Foundation's nickel paperweight containing an archive of every published Animorphs book! (Your launch speed has increased.)
+Guitar Ship
+guitar-ship
+(-12000, -30000) To get here, launch from near Uzumaki.
+The planet is a huge guitar labeled 'Boston' with the city skyline under a dome on the back (a reference to the cover art of the album Boston).
+a guitar pick
+Orange line deactivated!
+Saturn
+saturn
+(2600, 14000) To get here, launch from the pyramid with Saturn on it on Origin. If you see the Spacetime Soccer Field, you're too far left.
+The planet has a soccer ball inside it, a reference to 2513: Saturn Hexagon.
+a really cool data point
+You found a pair of platonic solids, not quite touching! (Your engine gets a little more powerful.)
+You found a block of scandium! (Your engine gets a little more powerful.)
+Roche Lobe Earth
+earth-roche and normal-moon
+(-9952, -3952) To get here, launch from the landmark that looks like a very round cannon firing a cannon ball on Origin.
+The planet is a distorted Earth being attracted by the gravity of the moon, which makes the Earth look like a giant drop of water. See Roche Lobe for more information.
+a curious humboldt squid
+a bathyscaphe
+a wayward Roomba full of moondust
+Green line deactivated!
+Giant Spider
+spider
+(26982, -8714) To get here, launch from the spider landmark on Origin.
+The object is a giant spider floating in space with eight people standing on top of his legs.
+a spider-silk scarf
+You found a friendly jumping spider (Your engine gets a little more powerful.)
+Dark Matter Planet
+dark-matter
+(-2892, 2640) To get here, launch from the goal on the half of the field with just one person on it on Spacetime Soccer Field.
+The planet is small and grey, and it has the words "Dark matter" inside. On its surface, there are two squirrels and Ponytail exclaiming "I found it!", a reference to 2186: Dark Matter).
+You found a delicate music box. (Your engine gets a little more powerful.)
+Shuttle Skeleton
+space-shuttle
+(-30200, 14576) To get here, launch from the Shuttle Skeleton landmark on Origin or Northwest from Alaska on the Projection of Earth.
+The object is a reference to the Space Shuttle Skeleton from 2630: Shuttle Skeleton.
+a piece of space shuttle food
+A little upgrade works wonders on fuel efficiency (Your thrusters are more efficient now.)
+Diffraction Spikes Star
+diffraction
+(-19944, 11240) To get here, launch from the back of the left "hand" of the Shuttle Skeleton or the north of Alaska.
+The object is a very spiky star, a reference to 2762: Diffraction Spikes.
+a hydrogen ion
+a piece of coronium (iron)
+SafetySat
+safetysat
+(17024, 1024) To get here, launch from the cell tower on Origin.
+The object is a reference to 1992: SafetySat.
+a first of its kind
+[no message] (Your thrusters are more efficient now.)
+The more refined oil had a dinner engagement (Your thrusters are more efficient now.)
+Spacetime Soccer Field
+soccerfield
+(6048, 4048) To get here, launch from the pyramid with a soccer ball on it on Origin.
+The planet is reference to 2705: Spacetime Soccer and consists of a central white body, goals on the poles, and intangible lines farther away.
+GOOOOOOOOAAAAA- AAAALLLLLLLLLLLLL!!! (Your thrusters are more efficient now.)
+GOOOOOOOOAAAAA- AAAALLLLLLLLLLLLL!!! (Your engine gets a little more powerful.)
+You found the 3 million point line (Your thrusters are more efficient now.)
+You found a sunspot! (Your launch speed has increased.)
+Voyager 1
+voyager-1
+(1606, -14282) To get here, launch from the "Receiving transmission" communication device near the spiral landmark on Origin.
+The object is a satellite flying in space around Origin.
+You found Voyager 1! Some of its great speed rubs off on you. (Your engine thrust has increased significantly.)
+Voyager 2
+voyager-2
+(10682, -5172) To get here, launch from the "Receiving transmission" communication device near the spider landmark on Origin.
+The object is a satellite flying in space around Origin.
+You found Voyager 2! Some of its great speed rubs off on you. (Your engine thrust has increased significantly.)
+Crystal Sphere
+from ring-1 to ring-36
+To get here, launch from anywhere and keep avoiding planets until you hit it.
+Most planets and celestial objects are inside of a large Crystal Sphere in which there is a visible navigable crack. Halfway through the crack, gravity gets increasingly stronger as the spaceship feels the gravitational force of all the celestial bodies it is leaving behind. Despite a person on Origin saying that "there's no way you'd be able to escape [the Crystal Sphere's] gravitation pull. You'd need some kind of a Hyperdrive for that", it's actually possible to get out of the Crystal Sphere without the Hyperdrive (but the spaceship won't be able to stay in the air for more than a second without being pulled back). Above the crack, there is an arch made up of the repeating words "The End", which is reminiscent of the "Don't leave the play area" message in 1608: Hoverboard that appeared when the player tried to get out of it.
+a necklace of element samples whose symbols spell out your name
+the platinum cylinder formerly used to define the kilogram
+A significant boost to the engines for a curious pilot (Engine power???)
+You found the gold crown Archimedes stole! (Your engine thrust has increased significantly.)
+Crack in the Crystal Sphere To get here, launch from the two characters talking about 'shooting for the moon' on Origin or the 'Exit' sign on the Hollow Planet.
+This section of the Crystal Sphere was violently removed, similarly to how Boston was ripped out from the Subway Planet, leaving jagged edges and construction materials visible. Judging by the shape of the edges of the crack, it doesn't look like the Crystal Sphere is made of crystal. As noticed by Ponytail in the Hollow Planet, when the player is inside the Crystal Sphere, they don't feel a gravitational pull from the huge structure, but when they're outside, the spaceship feels the gravitational force of all the celestial bodies it is leaving behind, resulting in an very strong pull towards the interior of the Crystal Sphere. Above the crack, there is an arch made up of the repeating words "The End", which is reminiscent of the "Don't leave the play area" message in 1608: Hoverboard that appeared when the player tried to get out of it. The Crystal Sphere may be a reference to The Crystal Spheres, a short story by science fiction author David Brin which suggests that each star with habitable planets in the universe is surrounded by a crystal sphere that can be broken only from the inside and is otherwise completely impenetrable.
+There is a way out (Your launch speed has increased.)
+Right lane must turn right
+Left lane must turn left
+Open Space Outside the Crystal Sphere
+It is very lonely out here (Your tanks recharge much faster now.)
+You found a needle in a haystack (Engine power???)
+From here you can view the source of it all. (Your thrusters are more efficient now.)
+Hacks[edit]
+Some of the modes and hacks from 2712: Gravity return in this comic and can be activated by opening the browser console (F12, Ctr+Shift+I or Cmd+Option+I to open your browser's developer tools, then choose the Console tab) and typing a command.
+[Expand]
+
+
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+"A special feature it that it does not have its own gravity, so the ship continues to be attracted to the crystal sphere regardless of which side of the planet you're on." This seems wrong. You are attracted to the Click and Drag planet and can land on it on any side. It is just that the gravity of the crystal sphere is so relatively huge that it quickly overpowers the gravity of the planet when too high above the surface on the near side makes the ground appear sloped on the "sides", similar to the moon of Origin. It would be really cool if someone could make a map that showed the gravity field everywhere. 162.158.203.39 11:09, 25 April 2023 (UTC)
+When Beret Guy says "Wow!" on the starting planet, isn't it actually a reference to the alt text of 1117: My Sky, and not 502: Dark Flow? --BrightBlackHole (talk) 18:13, 23 April 2023 (UTC)
+With an old browser (all I have, this moment) I just have the starscape, the hovertext and a button in the bottom right corner to seemingly reset (same starscape, and briefly the message "Welcome back pilot", or words to that effect). I look forward to trying it on something more interactive, on this very-late-for-Wednesday special comic... 172.71.242.87 17:02, 20 April 2023 (UTC)
+For me, Firefox 112 and Chrome 112 work just fine. 172.68.50.133 15:10, 22 April 2023 (UTC)
+The only cheat is "window.python("import antigravity"). (To my knowledge) "ze.goggles()" dosen't work/do anything. Arrow keys, WASD, and HJKL work for movement. (Working on an object table) --Purah126 (talk) 17:04, 20 April 2023 (UTC)
+I tried to correct a BOT error, but the BOT reverted the correction back to an error. (Or my 'poor browser', see above, is also going wrong with the hovertext). So we need the BOT's human pappy to override it. ;) 172.71.242.87
+NVM, done now. Somehow... 172.70.162.159 17:15, 20 April 2023 (UTC)
+Looks like the original title text contained the error, but has since been fixed. —theusaf (talk) 18:12, 20 April 2023 (UTC)
+Spoiler but there is hollow space between the rollercoaster and the St Louis arch 17:17, 20 April 2023 (UTC)
+Okay I'm still working on it but here's the link to my object table: [1] --Purah126 (talk) 17:27, 20 April 2023 (UTC)
+I'm having trouble using the arrow keys, because it keeps moving the browser window up and down. 108.162.245.11 18:02, 20 April 2023 (UTC)
+Try clicking on the comic itself, which should move focus there. --Moble (talk) 18:15, 20 April 2023 (UTC)
+I managed to escape the larger planet's gravity well by jumping off the start planet and perfectly manipulating to barely miss it. it wasn't until afterwards thatI found the tunnel --Toriski3037 (talk) 18:12, 20 April 2023 (UTC)
+The tunnel is how you escape the planet. Fall through and when you get to the center use your thrusters to leave. --Silverfunk 18:15, 20 April 2023 (UTC)
+There is a way to escape the crystal dome. Fly to the edge and continue around until you find the crack. You need to get enough power ups on your ship in order to make it out. --Silverfunk 18:19, 20 April 2023 (UTC)
+You can also find the crack pretty easily by finding the 6th Lagrange Point and finding the sign that says "Exit" and heading straight there. Admiral Memo (talk) 19:11, 20 April 2023 (UTC)
+Absolutely no idea what you’re even talking about. I see a mostly black picture with some white spots. Your ‘explanation’ explains nothing, just makes the confusion worse.
+You probably need a relatively modern browser and Javascript turned on 172.70.251.107 19:44, 20 April 2023 (UTC)
+There is an area that is a huge maze with cities marked on it -the subway system. In Washington DC there is a black hole, which even with lots of power ups I think is inescapable once you land on it (you can reset and retain your powerups). The map of the subway system is from xkcd 1196.
+I'm pretty sure the area is Boston. Also, the black hole just has very high, not infinite, gravity. --Purah126 (talk) 18:27, 20 April 2023 (UTC)
+Re:"there is a way out" - I went farther down and launched upwards as quickly as I could while not hitting the sides to get past the intense gravity. You can get to the top on the left side, but the gravity is so strong that you're basically stuck to the ground. If you scoot along farther to the left you see a spot that says "the end". Just past there, there is a small dip that, due to how strong the gravity is, I couldn't get out of. I wouldn't be surprised if you got enough upgrades you could get past it.
+If you go right instead, you can go all the way around the "crystal dome" and there is a point of interest a long the way (half way around maybe?) 172.71.154.214 19:34, 20 April 2023 (UTC)
+Should we start saying what planets things are on? 162.158.146.41
+Once you get off the planet by falling through the tunnel and shooting out the other side you can fly around space, visiting other planets. There are power ups in the form of balls with stars in the center. Each power up gives your ship more thrust, faster recharge, etc. If you keep flying straight eventually you get to a white barrier that goes all around space. This is the crystal dome that is mentioned on the "origin" planet. If you fly along the dome long enough you will eventually come across a crack in it. As you fly up through the crack the gravity gets stronger and stronger. Eventually you will not be able to any further. You have to get enough power ups to fly out. Once out there is a dome of text that just says "The end." --Silverfunk 18:52, 20 April 2023 (UTC)
+Which is not remotely actually the end. ;) 172.71.254.100 22:30, 20 April 2023 (UTC)
+I have raw images for the points of interest here: https://aeromancer.dev/xkcd_2765/ Aeromancer (talk) 21:00, 20 April 2023 (UTC)
+Cool! There are apparently quite a bunch of places I missed... (which is unsurprising given that I mostly navigated by flying in random directions while hoping to get to where I wanted (still haven’t figured how to reliably find Subway) Nleanba (talk) 12:06, 21 April 2023 (UTC)
+apparently if you exit the page it saves your "you've found:" stuff and your position, and a spoilery upgrade that shows a gray line, but not any of the upgrades you got to your ship. (the upgrades do NOT reappear anywhere, so you can't collect them again.) thanks firefox for randomly closing to install an update --172.70.110.214 21:52, 20 April 2023 (UTC)
+^this is a major buzzkill. The page crashed on me twice, and both times I lost my upgrades. It's essentially non-functional now.
+you can probably hack back the upgrades quickly somehow. for me, i found a handy variable to use for 'accessibility' (if you want to cheat/skip parts) is to set the starting position to that of some other location, for example to skip to 'mtba' (the +1000s are just so you're not warped to the center of the object, you'll need to tweak for other locations):
+ window.Comic.voyager.opts.startPos = [window.Comic.map.locations[61].pos[0]+1000, window.Comic.map.locations[61].pos[1] + 1000]
+to reset to the original starting location:
+ window.Comic.voyager.opts.startPos = window.Comic.map.player.pos
+in firefox anyway, you can use this to browse the game objects to poke around more:
+ console.dir(window.Comic)
+in particular, .voyager and .map.locations are interesting, as is .gamestate. i didn't look into forcing upgrades, i grinded those out myself, just didn't want to hunt down all the subway tokens manually ... 172.69.134.55 22:04, 20 April 2023 (UTC)
+Try these
+_.updatePlayerConfig({ thrustDuration: _.playerConfig.thrustDuration + 2.5 })
+_.updatePlayerConfig({ thrustDuration: _.playerConfig.thrustDuration + 0.4 })
+These are the commands run when the most powerful upgrades are run. --Purah126 (talk) 23:30, 20 April 2023 (UTC)
+You can refer to https://www.explainxkcd.com/wiki/index.php/2712:_Gravity#Hacks for Console commands ...
+ In Microsoft Edge on Windows, you can change your speed and refuel-rate as shown.  At speed=2, you can escape the black hole in Washington, DC.
+ Comic.gameHandle.playerConfig.speed=0.9
+ Comic.gameHandle.playerConfig.thrustRecoveryTime=0.000001
+Looks like I'll have to wait awhile for someone to make a map I can simply scroll around instead of playing interactive mode. As much fun as it was in the beginning, it's miserable once you've lost your upgrades.
+Was floating around in space and found a point where the ship just sits there and the screen orientation spins dramatically when moving around that point. Makes me think there's either a microsingularity there, or maybe something cloaked that only leaks gravitation (mentioned by some characters). Is there a way to check what my coordinates are so I can report the anomaly 172.70.230.73 23:16, 20 April 2023 (UTC)
+          Found this as well.  It was a marked location, and there was a heavy subway token at this point.  After you pick up the token, the location appears to be empty.
+Ah, okay. So the residual gravitation field was left behind. Thanks! Still looking for a way to read out my current coordinates though - you know, for science 162.158.154.141 23:26, 20 April 2023 (UTC)
+I think I figured it out. Just added "Comic.voyager.pos.x" and "Comic.voyager.pos.y" to the "Watch Expressions" portion of the Web Developer Tools -> Debugger. Simple for those who know. But something new to me. The coordinates for the microgravity well is [-20473, 3682] 162.158.154.143 23:33, 20 April 2023 (UTC)
+Has anyone found the orange line token? I thought it would be with the group singing a Boston song on Origin, but it doesn't seem to be? 162.158.63.68 23:48, 20 April 2023 (UTC)
+Skimming through the code, it looks like the MIT cloaking system also cloaks the subway lines or something? And MIT harbors a hyperdrive?? 162.158.63.79 23:59, 20 April 2023 (UTC)
+If you've lost your upgrades, you can reset the game to its original state by deleting your xkcd.com cookies. Whoop whoop pull up (talk) 00:07, 21 April 2023 (UTC)
+Looks like resetting shouldn't be necessary anymore, just hard-refreshing: https://www.reddit.com/r/xkcd/comments/12t8e9i/xkcd_2765_escape_speed/jh2tvpl/ 162.158.146.208 00:09, 21 April 2023 (UTC)
+There's Quite a bit outside the crystal shell and "the end" rainbow. on the opposite side of the shell there's a small dot with "the platinum cylinder formerly used to define the kilogram", directly above the "rainbow" there's a stream of missiles leading to 2 areas (follow them either way), and even more engine upgrades for some reason. I stopped exploring after that - 172.69.33.155 00:29, 21 April 2023 (UTC)
+guess this is the late april fools comic. youtu.be/miLcaqq2Zpk 01:34, 21 April 2023 (UTC)
+Probably, the captain of the Corellian corvette adds a message signed April 3rd 2023 to his log. 162.158.86.116 10:09, 5 May 2023 (UTC)
+If you get stuck with your engine in a weird mode like warp or infinite improbability drive you can fix it by using the command ship.engines = “lander” and the ship gets set back to normal. I don’t think it keeps any upgrades though.
+You can also escape the planet with the sign that you can never leave, simply by starting there and keeping your finger down. The rocket will return a few times but gets further away each time and eventually lands on your home (start) location. No need to visit the rollercoaster. XKCDnl (talk) 04:51, 21 April 2023 (UTC)
+Found out that when landed on a surface, with the shield not automatically active, in some condition (maybe some thrust score) using the down-arrow retro thruster allows you to slowly "back up" through surfaces. Can be used to back-through some of the MBTA path blockers thereby reducing the need to deactivate all the blocked paths 162.158.154.174 05:02, 21 April 2023 (UTC)
+Yeah, when slamming into a surface with high enough speed (possible even without hyperdrive, but very easy with), the ship seems to clip through the ground. It's possible then to navigate (very slowly) through the solid mass, which makes it even possible to leave the crystal sphere without hyperdrive (you are, however, stuck very close to the ground outside). Annoyingly, this also allows the ship to get stuck occasionaly: e.g. when slamming into Boston in the lettering or blocked lines, or on the Earth-map in lakes. Nleanba (talk) 12:19, 21 April 2023 (UTC)
+I've found about 80 total subway tokens, but for the life of me cannot remember where the subway planet was.
+If you travel straight through the hole right next to the starter planet, you'll land at a guiding planet Toby (talk) 13:37, 21 April 2023 (UTC)
+Am I hallucinating, or is this a sequel with the same basic "space UI" as a previous comic? (I can't find it in the index, but I remember an extremely similar xkcd comic, with a spaceship being navigated between distant planets.) If such a comic exists, it should be mentioned in this one's description. -- Dtgriscom (talk) 14:02, 21 April 2023 (UTC)
+I found the the "gold crown Archimedes stole" (which significantly boosts thrusters) and "a necklace of element samples whose symbols spell out your name (note: hopefully you are not named 'Katherine' or 'Brandon')" whilst traveling around the crystal sphere. How should I add those to the list? -- mezimm 172.68.34.180 14:14, 21 April 2023 (UTC)
+The end is not the end - you will need a lot of speed BUT the "there is a way out" leads to the outside of a round planet that everything you have discovered is inside. Continue flying up and you will see a second planet in the wayfinder. There is a line of torpedos and a tunnel up there playerPos: (1361.094208512935,-62444.80167042731) Megan(??) is talking to cuebal and firing torpedos "we have not photon torpedos so I'm firing regular ones"
+"You found a Juicero Juicer"
+Megan to cueball "Prediction: Seconds before you die you will remember these words" while walkint to an icecream cooler
+"you found and out of control trolley"
+skateboarder in a bubble going AAAAAAAAaaa (2206.485760681366,-64359.17874192683)
+There are multiple ways through this layer in these tunnels
+"you found a lymphocyte" (-5565.828800080446,-64207.654606168755)
+Outside this layer seems infinite currently have made it past y = -5,000,000
+Wayfinder is no longer changing headed back to circle the outer layer and confirm that the layer past the end is the end
+162.158.146.57Frogg 15:43 April 21
+The orange token is near the spiral planet. It's on a floating stadium-like thing with "BOSTON" labeled on it.
+
+
+The outer layer is not a layer it seems like some sort of ship, perhaps a star destroyer, roughly triangular shaped.
+Found and emperor in a cloak "My Emperor... We all share in yuour newfound enthusiams for birdwatching but normally one watches them in the wild, rather than drugging them and imprisoning them in a house of stairs."
+Cueball "Aha! Darth Vaders secret Gold Bullion Reserves! We'll be rich!" Megan "I'm not sure this is cannon"
+Definitely a star destroyer, found the command tower. cool stuff! (22067.78723320221,-71701.23138735193)
+
+For complete Locations list see Comic.map.locations it is a 75 item array accessible in developer tools it gives coordinates and names that will be useful to the wiki I think.
+
+162.158.146.57Frogg 16:21 April 21 2023 UTC
+I got stuck in VANCOUVER. Literally. I was flying so fast I clipped into the N and will have to reset to get out. I had many engine upgrades and was going in random directions since my "regular search pattern" had stopped finding things, so I don't know how to get back. I only know it exists.... 172.71.170.94 16:26, 21 April 2023 (UTC)
+Still not found my way back to VANCOUVER, but I love the hint that the space shuttle was a dinosaur. Straight off the nose of the shuttle is the compromise projected Earth. 162.158.174.101 16:46, 21 April 2023 (UTC)
+OK, I think I found VANCOUVER. I gave up on looking for it and went for other things and after finding MONTERREY on the Subway Planet I suspect that VANCOUVER is somewhere here too.
+Also, if someone does a long edit of this Discussion page they will overwrite your edits made in the mean time. You can find them in the History if you want to restore them. 172.71.166.248 17:47, 21 April 2023 (UTC)
+I'm sure that "17 angels on the head of pin" is a Calvin and Hobbes Reference, but I can't seem to find the comic online.Argis13 (talk) 18:13, 21 April 2023 (UTC)
+Okay, so, after sleeping on it, and reading trough the entire online archive of Calvin and Hobbes, I'm pretty sure that I was misremembering a Dilbert Strip as a C&H strip, and I don't think that would put an intentional reference to Dilbert anymore. Also I'm not paying money to Scott Adams to search the Dilbert archives. Argis13 (talk) 03:32, 22 April 2023 (UTC)
+The angels on the head of a pin thing is a long-standing theological debate point (see https://en.wikipedia.org/wiki/How_many_angels_can_dance_on_the_head_of_a_pin%3F) - however, the use of precisely 17 is likely a reference to "The Science of Discworld II", in which Ridcully is certain that the number of angels that can fit on the head of a pin is precisely 16. 17 would be a deliberate disproof of Ridcully's claim. --172.69.64.157 04:40, 2 May 2023 (UTC)
+CHEAT: window.noclip = true; is pretty handy if you're struggling with navigating through some mazes. 172.70.34.29 18:24, 21 April 2023 (UTC)
+
+The absolute best I can get out of this page (across multiple browsers and platforms) is on my Android versions of Chrome and Firefox. It forces itself into full-screen mode and then by using touch regions at either side of the scene I can get one/both "turning thruster" plus the main-thruster to show a 'flame'. I can get it to turn, both ways, very very slowly but I seem to have no forward-thrust ability at all. I can be parallel to the ground and the side thrust from pressing both sides doesn't move me sideways any noticable amount (nor will a turning craft "roll" away from the palm-tree), free of gravitational resistance in that direction. If I stay facing upwards (or return to it) I just settle down under the weak (but stronger than any thrust!) gravity, spawn landing-gear and I no longer can even induce a rotation now being perched on legs. This is consistent in both browsers, so I rule out javascript-running inconsistencies in any obvious way.
+I presume (from reading the above) that I can get better thrusting, but whether by collecting things that I can't reach or by 'cheating' (more awkward, on mobile browsers, to edit page-variables/etc), I can't help thinking that it's already going wrong for me in ways it isn't for everyone else. And none of my desktop browsers even play ball for me at all (all I have is star background and the reset-button).
+On mobile browsers I've got a short thin line on the right-hand edge of the (fullscreen) background that I thought might be some sort of draggable power-bar (at 50% position, perhaps), but it doesn't respond to touch/dragging, or change at all. Might be just a relic of being on a wider-than-expected aspect ratio screen. Or it's something jutting (barely) on-screen from another nearby on-screen object/destination. As the viewpoint never moves, it's hard to say either way.
+This is more functionality than I ever got with Gravity, so maybe I'm just unluckily using incompatible browsers/platforms. A pity, though, that this is where I'm left with this. It looks like everyone else (or many, at least) are getting a lot out of this (and that), just not me. 172.69.79.137 21:41, 21 April 2023 (UTC)
+I couldn't play this at all on mobile (neither chrome nor firefox worked: I got the same behavior as you). It works fine on desktop, though. (I'm using Firefox 112 on Ubuntu 23.04). Granted, controls kinda suck at the beginning, but that's intended. You should get at least a little forward trust if pressing UP on a physical keyboard (at least enough to get you off the ground). 172.69.3.212 04:09, 30 April 2023 (UTC)
+I think the giant spider might be a Tintin reference (see The Shooting Star). 172.64.238.140 00:31, 22 April 2023 (UTC)
+Two things: First, you don't need the warpdrive to be able to exit the crystal sphere or to even explore the area outside of it like the cruiser ship. It's enough to have most of the other upgrades from inside the sphere and do some careful flying/orbital mechanicsing. Second with the warpdrive and most other upgrades you can escape from the black hole in the air and space museum. You likely can escape without the warp drive as well with some very careful flying but it's quite tricky to time the thrusters correctly to get a nice elliptical orbit going. --172.69.59.64 18:47, 22 April 2023 (UTC)
+Given the occasional occurrences of D&D as a topic in xkcd and the recent re-publication of the Spelljammer setting for fifth edition D&D, the Crystal Sphere might be a reference to Spelljammer (which likely drew on the already-mentioned story The Crystal Spheres by David Brin for the idea since Spelljammer was published 5 years after the short story). 141.101.68.204 22:57, 25 April 2023 (UTC)
+I'm having a similar reset problem as everyone else. My game crashed, my speed upgrades stayed, but my energy regen upgrades are gone. Which is quite annoying. Does anyone know of a solution to this?
+Most of the upgrades I've collected with a given star token have not been the same as what's listed here. I think that which upgrade you get is either semi-random, or that there is a sequential list and you get the upgrades in a predetermined order - with the exception of the "significant" boost upgrades, and perhaps some that specifically relate to the message when found (like the Tank recharge upgrade on Andal, or the Thruster Efficiency upgrade at the Shuttle Skeleton). Dansiman (talk) 22:23, 27 April 2023 (UTC)
+Time slowed
+I got the "A single molecule of caffeine" upgrade, and it didn't seem to make my tanks recharge faster. Instead, it made my rocket's movement speed extremely slow. Is anyone else experiencing this? I tried reloading and even deleting all cache data stored on XKCD. It still didn't fix it. Any ideas?
+Did not personally experience this issue, but if you're looking to reset your progress, try pasting this into your browser console and refresh the comic page: localStorage.save = ""; 172.70.34.29 21:22, 21 April 2023 (UTC)
+Experiencing a similar issue. It was also right after getting a power up, but a different one. "A significant engine boost for a curious pilot". My forward speed and turning speed have been cut down significantly, and gravity seems lower as well. I checked in an incognito page, and turning speed is still much slower than when I initially played, so it seems to affect any instance of the game. I'd love a solution that doesn't require wiping my progress. Maybe I'll try warping to an upgrade I haven't gotten (since getting there myself is basically impossible) and see if collecting it fixes it. 172.70.130.85 03:26, 22 April 2023 (UTC)
+Inspecting element and putting Comic.voyager.opts.speed into the console showed that my current speed was 0.285, which seems low. I manually changed it with Comic.voyager.opts.speed = 1.0 which mostly fixed things. I still feel that my turning speed is lower than before, but otherwise I'm moving around like I used to. Option to avoid resetting progress. 172.70.130.85 18:47, 22 April 2023 (UTC)
+I had the same problem. I played around with console, but it seems like the issue is related to browser tick speed, since things like falling to the ground when returning to the start position are also very slow. The problem went away after I closed some other tabs and plugged in my laptop (not certain which of those fixed it). 162.158.155.177 04:12, 23 April 2023 (UTC)
+That happened to me too, but I plugged my computer in and now it's working fine.
+Guessing it's just a power saver feature reducing the tick speed then. 172.70.110.140 03:46, 24 April 2023 (UTC)
+Turning off chrome's "energy saver" worked for me. Rotartsi (talk) 17:07, 29 April 2023 (UTC)
+Full map of the whole thing, what do?
+Someone called u/Boojum on the XKCD subreddit (old reddit link, new reddit link) managed to reverse engineer how the game encodes the map data and posted the whole thing for us to enjoy, should we just put it at the very top or be more measured?
+Full zoomable version here: https://aeromancer.dev/xkcd_2765/map.html 172.69.135.75 23:19, 21 April 2023 (UTC)
+"A sparking Gem" in the Gulf of Boni in Indonesia 162.158.155.178 23:38, 21 April 2023 (UTC)
+There's also this map (from Reddit), which shows the location of all the collectables and seems to load a bit faster than the other one --CruseCtrl (talk) 13:49, 25 April 2023 (UTC)
+Article structure and explaining
+I have the impression, that the article structure is a bit messy, and I like to make some suggestions to improve it. Currently, the article is structured with a section for each planets. I suggest to keep that structure roughly but create several list below each of those sections
+1. First I suggest to rename the "List of planets" to "List of planets and space objects".
+2. Second, I'd like to point out, there are several things to collect, which you can categorize clearly as following:
+"You've found"-items: They appear as a collectible dot. When collected, there is a message of the style "You found WHATEVER". And that WHATEVER item gets added to the list "You've found:" below the comic.
+Upgrades: They appear as large circle with a star.
+Messages: They only display a message when you reach a certain spot. I think it is not visible that there is a message, before you reach that spot.
+Subway puzzle tokens. They appear as dot with a "T" letter in it and unlock passages at the second subway planet.
+Basically you can get a good overview about those at https://aeromancer.dev/xkcd_2765/map.html if you turn on those 4 things in the layer menu in the upper right corner. Beside from that you might also discover:
+Fixed text messages. From xkcd characters or on signs. You could also add the subway station names.
+Interesting looking objects. This is a bit vague, as it is not clear, what to add there.
+However, those are completely passive things which do not interact with the space ship of the player.
+I think we should describe those four types of collectibles in the explanation section.
+3. Currently, the lists at the planets do not separate the categories which I mentioned at 2. or only separate Messages from other collectibles. Sometimes it seems to me some of the passive objects or messages went into the list, too. So I suggest to always separate the these six categories and add at least the first four of those to each planet and space object, unless the list is empty. For Fixed text messages I am not sure, if it is worth to always list them, but it is a clearly defined group. For the Interesting looking objects I would not make a list because it is not clear what to add or not. Instead I suggest to always describe them in the description text for the planet/space object.
+4. Note, that players get that "You've found:" list below the comic. Many would like to find out, if their list is complete and whether they have found everything. Currently with the list in that article this is not possible at all. Therefore, I think it is important, that the lists for the "You've found" matches exactly the list which appears below the game.
+5. Explain xkcd is about explaining. Many of the You've found, Upgrades, and Messages are (more or less funny) jokes or references to real things and/or other xkcd comics. We should explain them very shortly for each. So, behind each You've found, Upgrades, and Messages I suggest to put a very short explanation. You can separate this with a hyphen, a line break, start with italique font or do some other optical separation.
+6. Another option would be to create a huge sortable table with four columns:
+Planet / Space Object
+Type ('You've found, Message, Upgrade, Subway token, fixed text message)
+Text (1 to 1 as in the game)
+Explanation for the joke or reference.
+However, I am currently a bit more in favor for the planet/space object sections and just going with list.
+What do you think about those 6 suggestions? Are you with me? Should we start with this restructuring? --172.70.246.39 12:53, 22 April 2023 (UTC)
+I think it is good suggestions. Although text on the image should also be added to the full transcript. But yes in principle all references and jokes should be explained. But it is a huge project. I have also been taking some screenshots that I would like to add for reference but again it is such a huge and tedious job to upload them all. I think there should be a table of all the collectible items that would be nice to have with sortable so you can check alphabetically but also with planet/place so you can sort on that. Maybe no explanation there, but go to planet sections for that? --Kynde (talk) 10:20, 25 April 2023 (UTC)
+Hi, I have just finished the (hopefully) full transcript of the objects inside and on the outer edge of the Crystal Sphere. I have transcribed all the dialogues, monologues, signs and inscriptions. As for the messages of "You found" kind, I have copied them from the spreadsheet, just to be sure. Screenshotting is uncomfortable and my memory is short, so I have made a lot of mistakes until I noticed the spreadsheet. However, I have not put in the (shortened) object names as they appear on the "you've found" list. I think it may be a good start to take all the texts from there and put them in a table, so people can start writing explanations for everything. I will try to transcribe the rest (the big ships and the Click and Drag planet), but I am a bit tired of it already, maybe someone would take over. It's almost midnight here, have a good sleep everybody! --Malgond, late April 26th.
+Fun little game. You can even do a little antigravity park without the antigravity cheat on! https://imgur.com/a/sJ72VvW 108.162.227.49 14:01, 22 April 2023 (UTC)
+Outside the shell I found a powerup called "it is very lonely out here". I forget what kind of powerup it was...I had left the star destroyer and orbited counter-clockwise around the shell for several seconds before I saw it by chance, and after a bit of searching I was able to backtrack and pick it up. 172.70.127.133 00:04, 23 April 2023 (UTC)Nathan
+If anyone needs a hint, black hole moon IJustWantToEditStuff (talk) 23:33, 23 April 2023 (UTC)
+Glitches?
+Anybody else got duplicate items? After picking up "very lonely out here", I fell into the crystal sphere hard enough to glitch and get stuck, so warped back home… and then noticed that the orb wren seemed to have respawned. Looking down the list (with the help of ctrl+F), I see that it does indeed appear twice in the list of objects I've found. No idea what happened there. I then went back to the outside and eventually managed to find the last item (the one talking about the "source"), but as soon as I touched it the ship became stationary. The messages appeared, but the item didn't vanish, and the controls were unresponsive. Refreshing the page left me in deep space, so I resorted to using the wayfinder script to find the dot again; and it confirmed that I'd collected everything.
+Is there something I've missed, or are these both weird little glitches? -- Angel (talk) 11:57, 24 April 2023 (UTC) i cant teleport it puts me in the middle of the starry void my thrusteres work but i dont move 172.71.222.132 13:09, 26 April 2023 (UTC)
+I can't say this happens on every planet, but on a few I've tried (What-If planet, small starting planet) if you are landed (no shields on) you can reverse thrust into the ground and dig into the planet. In most cases there is nothing to find, but the "What-If Planet" has a Megan and Cueball floating around the open core. 172.70.126.141 21:23, 28 April 2023 (UTC)mlganser3
+Click and Drag Planet Trivia
+Didn't know where to put this, so I made a new category: The Water tower on the click and drag planet is placed on the location with the highest gravity potential (which makes sense, of course!) 172.70.114.88 21:13, 24 April 2023 (UTC)
+What-If Planet Core
+Once the hyperdrive has been obtained it is possible to travel to the centre of the What-If planet by parking on top of the volcano, accelerating forwards for a couple of seconds, stopping, then powering in reverse. Keeping reverse held down down for a very long time once in reverse, it will gradually travel to the centre of the planet where you meet Megan and Cueball. 172.70.90.101 17:00, 25 April 2023 (UTC)
+If you keep going in reverse past Megan and Cueball, eventually you pop out on the opposite side of the planet, just on the other side of a short pillar from where another Megan is sitting. (Megan sits on a block looking at a short pillar. On the other side of this pillar is where you emerge if entering from the volcano.) You can also enter here by landing then powering in reverse. Also, I was able to enter here in forward thrust, going quite fast (lucky shot, maybe?) but I got all the way into the center of the planet in very short order.
+I've found that I can reverse thrust from any standing location and dig into any planet, not just the What-If Planet. 172.70.127.134 21:13, 28 April 2023 (UTC) mlganser3
+Yeah, there seems to be a corridor of sorts through the What-If planet centre, between the volcano and the pillar that Megan is contemplating. Since it takes soooo long to go down the volcano, I definitely recommend starting at the pillar and reversing in. If you land on the pillar itself and reverse, it should get you to the centre space relatively quickly.172.71.123.148 10:47, 5 May 2023 (UTC)
+Inital Statrting Bug
+I have a bug in my game where when I start, I am pushed off of the starting planet, and I continue to get pushed around. My shield is up and everything, and sometimes it tries to land. I have tried many of the cheats, but they aren't working. I need some help! AlabroX201 - 13:22, 26 April 2023 (UTC) Update: NoClip stops the bug, but only when it is true. 13:28 26 April 20203 (UTC)
+Making a table to organize EVERYTHING
+Good heavens, y'all - format table so text is at the top of the cell.
+I'm currently making a table to organize planet (file)names, coordinates, and explanations, and the four item types and their explanation, inspired by the comments from Kynde, Malgond, and 172.70.246.39. Here's my progress so far, do you have any suggestions or feedback? A few things to note:
+I will try to add all explanations for each item found
+The "???" are there because the spreadsheet with all the items doesn't include the message shown to the user. I temporarily put the words that the wiki used instead
+All the "Z" between items will be replaced by a new line. The editor I'm using doesn't support adding new lines directly
+Can someone let me know how to find the coordinates of each planet? Many thanks
+Filename Description Tiles (X, Y) Explanation "You found" items Upgrades Messages Subway tokens
+tiny-world Starting planet To return here from anywhere, click the "Home" button in lower right corner. The planet is tiny, grassy, a has few trees. Beret-Guy says 'Wow!'. a rock with neat stripes!Za cool bug!Za pretty leaf! Wheeee!
+origin Origin To get here, simply fall from the starting planet by thrusting off from Beret Guy's place. The planet has a sign saying 'Welcome to Origin! You can never leave™'. A large shaft leads from below the rollercoaster to the St. Louis Arch on the opposing side. Lots of landmarks (many on small pedestals) each mark the direction to a different planet. a secret gladeZa holographic Charizard business cardZa tiny meteorite!Za 5G seagullZa DVD of The Core (2003)Za normal-looking leafZa marsh wrenZan orb wrenZa single grain of saltZ11 squares packed into a larger squareZa tumbleweed Nice flying! (Your tanks recharge faster now.) Welcome to liminal spaceZThe St. Louis arch is also known as the gateway to space.ZBe careful; this roller coaster can be disorienting!
+hollow-shell Hollow Planet To get here, swing through Origin's central shaft and out the St. Louis Arch. The planet is just a shell with some gaps. On the outside, there are signs pointing at the directions to a few other planets. a handful of the quantum foam that makes up the fabric of space! You found a sixth lagrange point! (Your thrusters are more efficient now.)ZYou found a glass of heavy water (engine a little more powerful???)
+orb Round Planet To get here, launch from the sign on the Hollow Planet or the tower with an orb on it on Origin. The planet is moderately small with no vegetation and some architecture such as Stonehenge and the Great Wall of China. a swatch pop-out wristwatch You found a sensible cheese platter (Your tanks recharge a bit faster now)Z??? (engine a little more powerful???)
+uzumaki Uzumaki To get here, launch from the sign on the Hollow Planet, Origin's spiral monument, or below the plane-towed banner on the Round Planet. The planet is a large spiral of grass inspired by the manga Uzumaki by Junji Ito. A Roomba is loose, a reference to 1558: Vet. a golden radio tuned to 1.618 MHzZa scroll lock keyZa primordial black holeZa cool pair of shoes with flames on the sideZan ink cartridgeZa podcast episodeZa festive but somehow unnerving holiday card from Junji ItoZa friendly beeZa spiral-cut diamondZa burrito You found a tree-filled grove and a nice spot for quiet contemplation (Your thrusters are significantly more efficient now.)ZYou found a single caffeine molecule! (Your tanks recharge a bit faster now.) Exit OnlyZYou're going the wrong way!Z
+guitar-ship Guitar Ship To get here, launch from near Uzumaki. The planet is an enormous guitar labeled 'Boston' with the city skyline under a dome on the back (a reference to the cover art of the album Boston). A guitar shaped UFO with "BOSTON" written on it and the skyline of Boston under a dome at the bottom. a guitar pick Orange line deactivated!
+soccerfield Spacetime Soccer Field To get here, launch from the pyramid with a soccer ball on top on Origin. The planet is reference to 2705: Spacetime Soccer and consists of a central pure-white body, goals on the poles and intangible lines farther away. GOOOOOOOOAAAAAAAAALLLLLLLLLLLLL!!! (Your thrusters are more efficient now.)ZGOOOOOOOOAAAAAAAAALLLLLLLLLLLLL!!! (Thrust Speed???)ZYou found the 3 million point line (Your thrusters are more efficient now.)ZYou found a sunspot! (Your launch speed has increased.)
+saturn Saturn To get here, launch from the pyramid with a ringed on top on Origin. If you instead see the Spacetime Soccer Field, you're too far left. The planet has a soccer ball inside it, a reference to 2513: Saturn Hexagon a really cool data point You found a pair of platonic solids, not quite touching! (Thrust power???)ZYou found a block of scandium! (Thrust power???)
+platform-planet Andal To get here, launch from below Saturn's equator, when the soccer ball is oriented to the bottom left compared to the rocket, or from the miniature of Andal to the left of the pyramids on Origin. The planet is small and has a T-shaped tower, mountains, and grass. On a grass patch Blondie says to Cueball "The MIT cloaking device only affects the electroweak and nuclear forces. Gravity is the odd one out, as usual.", hinting that 'A random point out in space' is the Subway Planet. You found two Andalites, one canonical! (Your thrusters are more efficient now.)ZWhat a nice place for a ship to sit! (Your tanks recharge a bit faster now.)ZYou found a friend (Your thrusters are more efficient now.)ZYou found baby shoes (and baby)! (Engine power???)
+earth-map Compromise Projection of Earth The planet is a huge distorted map of all land masses on Earth. The rocket can fly where water would be, but it can't go over land
+Do you have any suggestions or feedback? --FaviFake (talk) 17:57, 28 April 2023 (UTC)
+There's a bit of a mix in the game itself between messages, "You found" items and powerups. At first it looked like a small grey dot is an item, a bigger grey star is a powerup. Sometimes they're collocated, i.e. a dot inside the hollow center of a star. But further in the game, I have found hollow stars (i.e. without the dot inside) which leave a "you found" list item anyway. Also, sometimes the "you found" message contains a description that differs from the name on the list below the game viewport. The ultimate source of all is the spreadsheet linked at the start of List of planets section. Any Message (including "you found..." messages) can be accompanied by an Item and an Action (an upgrade or some other things like decloaking or subway token), both of them or none of them. I think it shall be somehow reflected in the table. For example: one column for Message (a value always present), another for Item name (may be empty) and another for Effect (may be empty). Unfortunately, the spreadsheet does not contain the kind of visual representation (a dot, a star, a star with a dot inside, or none at all). --Malgond
+Another comment: the Explanation column is currently a short description (of a planet) and some of its features, the way to get there, only sometimes containing an explanation of what the planet name refers to. These should be separate. Explanation shall be a short paragraph about a pun or reference connected to the name of a planet or the text found in the game. For example, explanation for the Message/Item of "11 squares packed into a larger square" shall have a reference to 2740:_Square_Packing and a short description of the mathematical problem involved. I also think we may need separate tables for planets (with very general descriptions and directions), features on the planets, possibly one table per planet (containing architecture, vegetation, animals, people etc. - if worth noting or there's some pun or reference), items and messages to be collected by the player (maybe one per planet), and for words spoken by the people and messages written somewhere (again, only if they contain a pun or a reference). Otherwise, the table would be too big. --Malgond
+Hey, thanks for replying.
+>[...] ... I think it shall be somehow reflected in the table. For example: one column for Message (a value always present), another for Item name (may be empty) and another for Effect (may be empty). Unfortunately, the spreadsheet does not contain the kind of visual representation (a dot, a star, a star with a dot inside, or none at all).
+Yeah I noticed that too, but tbh I don't think it's SO important that needs to be included in the table or even in the entire page. Also, it would be very time-consuming.
+> the Explanation column is currently a short description (of a planet) and some of its features, the way to get there, only sometimes containing an explanation of what the planet name refers to. These should be separate.
+I don't think they should be separate, because it would mean that the table would get even bigger and navigating it would be harder. You're welcome to add any information in the explanation section, as I'm not editing its contents.
+> explanation for the Message/Item of "11 squares packed into a larger square" shall have a reference to 2740:_Square_Packing and a short description of the mathematical problem involved.
+I totally agree, and as I said in the initial message (above the table), I plan on adding item-specific explanations next to the item "names".
+> I also think we may need separate tables for planets (with very general descriptions and directions), features on the planets, possibly one table per planet (containing architecture, vegetation, animals, people etc. - if worth noting or there's some pun or reference), items and messages to be collected by the player (maybe one per planet), and for words spoken by the people and messages written somewhere (again, only if they contain a pun or a reference).
+I'm sorry but the amount of effort I'm putting in this "simple" table is already IMMENSE. This would probably require dozens of hours between exploration and formatting. I'm afraid I won't be doing that myself :) FaviFake (talk) 13:57, 29 April 2023 (UTC)
+If you want to get rid of the "Z", you can make line breaks inside the wiki's editing window using the expression < b r > (remove the spaces--I couldn't type the phrase without getting a break). It's the html code for a line break. Technically, I think < / b r > works, too. Really, though, just put openCarrot br closeCarrot wherever you want a break and you'll be fine. --Sorry, I don't have a name here, so I can't really sign this. 11:21, 30 April 2023 (UTC)
+Thanks, but i figured it out. I used Notepad++ to replace all uppercase "Z" with two line breaks and an asterisk. This thing took soooooooo many hours to make, I'm so proud I've finally published it. I'll never touch it again. Now I despertly need to sleep, g'night everyone! FaviFake (talk) 23:24, 30 April 2023 (UTC)
+General style that I use:
+The first linefeed/break in any cell content is fully respected
+(Because it takes a line that starts with a cell-markup and then one that doesn't, and actually understands it as a different qualification, so the LF between isn't collapsed to mere whitespace?)
+Other div-like markup starters (e.g. bullet points) enforce this.
+But, if you want to add linebreaks where it won't (third-and-later paragraphs?), I sugest using <br />, the self-closing single-tag version that can't be misinterpretted by any (XML-aware, in general) markup-parser.
+You can even use it in the midst of
+some text
+flow, whhich might be useful for certain layouts (and their sources).
+...Or double-LF can often do the job, too. But just Preview things to see what does/does not need additional tweaking... 162.158.34.22 23:55, 30 April 2023 (UTC)
+I like the idea of the table thank for making it. I have added two more pages, one with overview images of the world and the planets and one with a place to post the screen shots needed for making a full explanation. Put some of the relevant images up already but will not have time to much more the rest of this week. --Kynde (talk) 14:26, 1 May 2023 (UTC)
+Speedrun
+Has anyone started making speedruns of this yet? I'd absolutely love to see an any% run to vader, or to some other end game location. 172.69.3.200 04:57, 30 April 2023 (UTC)
+Gravity of shell
+Halfway thru the crack, gravity gets increasingly stronger as the spaceship feels the gravitational force of all the celestial bodies it is leaving behind.
+It's the gravity of the shell itself, no? A uniform shell has no net force on objects inside it. Wwoods (talk) 23:09, 30 April 2023 (UTC)
+I have removed the topic lines, as they mess with the main explanations table of contest. They are not needed here in the discussion and we try not to use them so do not ass new. Just make a heading with text like here above! --Kynde (talk) 12:29, 1 May 2023 (UTC)
+Good job, they were getting annoying. FaviFake (talk) 15:01, 1 May 2023 (UTC)
+
+I'm not a fan of the new table. It's harder to use 'cause long text is limited to narrow column. How to get to where you're going needs to be its own column if we're doing this. And I used the old list to organized to order I wanted to do things in.162.158.154.19 20:08, 1 May 2023 (UTC)
+Hey, I'm not sure when you made the comment, but yesterday Kynde noticed that an item message was one extremely long word (something like "GOOOOOOOOOOAAAAAAAAAAAAAAAL!!!") and added a space that made the table look much better. I think it's readable enough, and it's way more organized that the old list (and i added more info that wasn't there).
+>How to get to where you're going needs to be its own column if we're doing this
+If you add another column it's gonna get even more narrow, I think it's best to keep it as is. One could argue the instructions to get there are part of the explanation for the planet. FaviFake (talk) 15:15, 2 May 2023 (UTC)
+I think it's important to keep the flow of conversation, so I'm putting this after what I'm replying to. I hope that's not too confusing.
+>It's way more organized that the old list (and i added more info that wasn't there).
+Yes, but in this particular instance, I think there are better ways of doing it. You can set a template up where every planet is dealt with typographically in exactly the same way. Each piece of information is in the same place relative to other pieces and handled typographically the same way in every single planet, the objects in interplanetay space and the objects in extraspherical space. You'd loose the ability of a table to sort by arbitrary columns which doesn't seem to be a help with this information, but you'd also loose the annoying short lines, the fact that for most entries, the column head way up there above the readable portion of the screen and because you can use typography to show what different data is, it's a little more intuitive to us monkey-brained folk.
+For example Planet-name: Large, Bold. Colon, name in code, comma, coordinates as x=number and y=numers, all in regular wight roman. New line, Explanation of how to get there starting with "To get there" and in italics. New line, any other notes in roman. New line, a bullet-pointed list of items and messages to find. Each entry is structured Name of object or message when found in roman, powerup text in prethases, And then any notes in italics.
+Andal: Filename: Andal, x= 123456 y= -654321
+To get here, launch from below Saturn's equator, when the soccer ball is oriented to the bottom left compared to the rocket, or from the miniature of Andal to the left of the pyramids on Origin.
+The planet is small and has a T-shaped tower, mountains, and grass. On a grass patch Blondie says to Cueball "The MIT cloaking device only affects the electroweak and nuclear forces. Gravity is the odd one out, as usual.", hinting that 'A random point out in space' is the Subway Planet.
+You found two Andalites, one canonical! (Your thrusters are more efficient now.)
+What a nice place for a ship to sit! (Your tanks recharge a bit faster now.)
+You found a friend (Your thrusters are more efficient now.)
+You found baby shoes (and baby)! (Engine power???)
+This can be tweeked and I don't program in html ever so this can be improved. And I recognize that this is harder than a table, but it is much better.
+I don't really agree this is better, the main reason we wanted to create the table in the first place was so that people could sort it at their liking: "there should be a table of all the collectible items that would be nice to have with sortable so you can check alphabetically but also with planet/place so you can sort on that". Imagine someone wanted to obtain as many upgrades as possible: they would just sort the table to put the upgrades first and discard planets without them, or sort by subway tokens, to get the hyperdrive and know exactly where to look. A table is the only way to have that, and it's also more compact than a list. FaviFake (talk) 14:28, 6 May 2023 (UTC)
+162.158.62.47 22:52, 5 May 2023 (UTC)
+Hi FaviFake, thank you for the table version! You can get the list of coordinates from the console with this js command:
+ console.log(Comic.map.locations.map(e=>[e.name,e.pos[0],e.pos[1]].join("\t")).join("\n"))
+you will get a list with planet, x coordinate, y coordinate that is easy to manage. Hydra454 (talk)
+Thank you! I added all the coordinates and moved the planet filenames to the Planet Name column to make more space for the other columns
+Categories: All comicsComics from 2023Comics from AprilWednesday comicsIncomplete explanationsLinks to xkcd.comLarge drawingsComics with animationDynamic comicsInteractive comicsComics with inverted brightnessSpaceComics featuring CueballComics featuring MeganComics featuring PonytailComics featuring HairyComics featuring White HatComics featuring Black HatComics featuring Beret GuyComics featuring HairbunComics featuring BlondieComics featuring Knit CapCharacters with hatsComics featuring real peopleMultiple CueballsVideo gamesStar WarsAnimalsSpidersSquirrelsDinosaursSongsSoccerRobotsFoodVolcanoesSpace probesAstronomyMapsAviationAirplane bannerBook promotion

@@ -1,0 +1,40 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2556: Turing Complete
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2556)
+|<< PrevComic #2556 (December 17, 2021)Next >>|
+Turing Complete
+
+Title text: Thanks to the ForcedEntry exploit, your company's entire tech stack can now be hosted out of a PDF you texted to someone.
+Explanation[edit]
+A Turing machine is a theoretical computer that has an infinite tape of symbols. It can read and change the symbols on the tape as it moves up and down this tape according to a set of instructions (program).
+This very simple machine can be shown to do every computational task that what we think of as a "computer" can do, given the right program and enough time. Something that is Turing complete is able to act as a Turing machine, though generally physical examples are limited to having a finite tape,[citation needed] and this means it is also able to do basically every computational task.
+Many pieces of hardware and software are supposed to be Turing complete (even Excel, as previously pointed out in 2453: Excel Lambda). Some other things turn out to be Turing complete, even if they weren't designed for it (for instance, the tabletop game Magic: The Gathering or, at least within xkcd meta-reality, rocks in a desert). Whatever Ponytail has been referring to is not shown, but it seems to be an anecdote about how something seemingly too simple and/or specialized to exhibit such a computational equivalence has been discovered to actually be that capable. Ponytail may refer to the recent articles about the background of the NSO zero click exploit for iPhones, e.g. this.
+Mario is the lead character in a long running series of video games including Donkey Kong, Super Mario Bros and Mario Kart. Running video games, such as Doom, is one common way of demonstrating the ability to run arbitrary programs on devices that were not intended as general purpose computers. With complex processors being installed in more and more devices, it's plausible that someone could get a dishwasher to play Mario.
+However, another reason to make a device run arbitrary code is to breach security. If the owner of a system assumes that it can only do one specific thing, like operate a dishwasher, they may not take precautions against hacking. But if the system is actually Turing-complete, a hacker could potentially make it do something else, like become part of a botnet. Therefore, "this is actually Turing-complete" could be the prelude to a complicated hacking attempt. Sophisticated hacking attacks are often the work of hackers that have the support of a government, or nation-state.
+The ForcedEntry exploit is a way that was developed to allow PDF files to force malware onto various devices. PDF files are normally used to present documents. The exploit uses a PDF's ability to do logic operations on pixels to implement a simple virtual CPU within one of the PDF renderer's decompression functions. Constructing a CPU in this way is similar to how a hardware CPU is made of individual logic gates. ForcedEntry was publicized a few days before this comic came out.
+In the title-text it is suggested that this mechanism can be used for what might be more legal and practical purposes, although this might be up to some interpretation depending upon who has the right (and permission) to do what.
+A tech stack is one shorthand way of describing the way an integrated grouping of communicating software packages provides everything from the deepest data handling (even as low-level as an operating system itself) to the user interface. All of these will normally be on a computer (or possibly many of them, whether locally or distributed worldwide) and if a sufficiently functional surrogate system is capable of emulating this (computing what the original computer(s) would do) then it can be considered to effectively be the same stack of technology and duplicate or replace the originals.
+Transcript[edit]
+[Ponytail has raised her hand, palm up, as she addresses Cueball.]
+Ponytail: ...Now, it turns out this is actually Turing-Complete...
+[Caption below the panel:]
+This phrase either means someone spent six months getting a dishwasher to play Mario or you're under attack by a nation-state.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This is a reference to the new FORCEDENTRY exploit analysis by Google's project zero: https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html The exploit runs a full (turing-complete) VM within a PDF decompression algorithm. 172.70.86.68 22:37, 17 December 2021 (UTC)
+I don't think "attack by a nation-state" is referring to Turing's WWII work. I think it means a modern nation-state is using FORCEDENTRY to attack you via some unexpected device. Barmar (talk) 23:56, 17 December 2021 (UTC)
+I think it actually is a reference to national security agencies being able to get into your phone and get all your private data and so on 108.162.237.5 01:00, 18 December 2021 (UTC)Bumpf
+The explanation should probably also mention that https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html was published just two days before this comic. Frank 162.158.94.165 11:09, 18 December 2021 (UTC)
+I added in a much needed A Bunch of Rocks reference. I mean, it's a possibly broken Turing Machine (because the operator is 'only human' and occasionally makes mistakes in his process. But, by definition, anything capable of simulating (many!) things that are themselves considered Turing Complete is thus by itself Turing Complete as it carries out (or could carry out) all the tasks that are successfully (or potentially) carried out by them 'on their own'. It's a metaphysical (metaphilosophical? metasomethingorother...) issue, of course. ;) 172.70.91.84 00:29, 19 December 2021 (UTC)
+(Actually, that was before I then went back and fully read ABOR, to fulfill my nostalgia. I forgot that it actually says it is TC in an in-frame footnote. That might be what prompted me to think of it, so forget about me being too clever, it's just true. Voice Of God, etc.) 172.70.91.84 00:34, 19 December 2021 (UTC)
+It is also one of my favorite and I remember the footnote without reading it again now ;-) Wow a dust mote just disappeared in front of me... :-D (updated your post with a link to the comic!) --Kynde (talk) 08:03, 20 December 2021 (UTC)
+Do things feel more and more like Stross's Accelerando to you as well? 172.68.246.129 09:09, 22 December 2021 (UTC)
+Honestly surprised Randall didn't reference Doom in this comic. It's the one game that's synonymous with running on unusual hardware. 172.70.85.79 23:41, 23 December 2021 (UTC)
+Weird Machines and Turing Completeness[edit]
+This comic is closely related to the language security work on weird machines, yes? Could someone more knowledgeable comment?--Philip Romolo Neri (talk) 09:25, 10 January 2022 (UTC)
+[edit]
+A Turing tape is unbounded, not infinite. At any given time, only a finite number of symbols have been read or written, but that number can grow without limit over time. In principle, a real-world machine that was able to request more memory whenever it ran out of what it had could be considered equally unbounded - at least if the universe is infinite. Brangdon (talk) 13:14, 23 April 2022 (UTC)
+Categories: All comicsComics from 2021Comics from DecemberFriday comicsPages using the "citation needed" templateComics featuring PonytailComics featuring CueballProgrammingVideo games

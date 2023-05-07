@@ -1,0 +1,69 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2537: Painbow Award
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2537)
+|<< PrevComic #2537 (November 3, 2021)Next >>|
+Painbow Award
+
+Title text: This year, our team took home the dark blue ribbon, better than the midnight blue we got last year but still short of the winning navy blue.
+Explanation[edit]
+This comic makes fun of the badly selected color scales used in the figures for scientific papers by suggesting that the scientists picking them are in competition to use the most problematic scale. The title of the comic is a portmanteau of "pain" and "rainbow" suggesting a humorous name for terrible color scales.
+The color scale here showcases a collection of unintuitive and unhelpful decisions. Starting from the top, white fades down into green, which then fades into red (passing through brown in the middle instead of yellow, indicating subtractive color mixing instead of additive color mixing, for no obvious reason). The red then turns back into green as the intensity decreases further. Red and green in close proximity make the energy levels hard or impossible to distinguish for those with protanopic color vision deficiency. This confusion is repeated at lower energy levels, where blue transitions to black and then back into white via a gray with a tiny tinge of blue. The highest and lowest recorded energy levels have the same color value, which is less than ideal. That Randall is aware of color blindness and the problems this causes has been revealed in other comics like this one 1213: Combination Vision Test.
+Although it's possible (for someone with full color vision) to interpret data from this graph from context clues - the white that fades to green is high-energy white, while the white that fades to blue is low-energy white - there's no benefit to doing things this way, and a lot of downsides. Additionally, there are regions in the color scale where the color changes very rapidly, which creates the false appearance of an edge in what is likely a smooth function.
+Because the color scale includes black, representing just over 20 unlabeled units, it is possible that the graph axes, labels, and perhaps even the comic's caption represent measured values. Because they don't blend continuously with the negative space around them, this appears unlikely.
+Real-world analogues to the Painbow Award include radar meteorology charts, where different types of precipitation have different color schemes that can overlap and blend in confusing transition zones. In the field of data visualization, the CIELAB color space, perceptually uniform color spaces, or even more specialized scales have been developed to replace simple algebraic interpolation of red, green, and blue values.
+The title text takes the concept of bad color combinations further, suggesting the use of navy blue (    ), dark blue (    ), and midnight blue (    ) for first, second, and third respectively. These are the names of three similar xkcd colors, and, as sighted readers will be able to see, there is very little difference between them [citation needed]. However, the choice of blue(s) may be a direct play upon the association of the Blue Riband (a.k.a. "Blue Ribbon") and/or Cordon Bleu (likewise, but this time direct from the French) awards, extended in common use for excellence across a much wider range of competitive fields.
+For rosette-rewarded competitions (e.g. livestock parades, dog-shows, etc) the first prize ones are commonly blue (red for 2nd and either yellow or white for 3rd), though it may not be logically obvious to someone unfamiliar with this, perhaps more used to yellow depicting the 'gold standard, first place' indicator or red as the most alerting hue in some other ranking situations. Where a depicted award schema is directly gold/silver/bronze-influenced, however, the gold and bronze 'metallic off-yellows' can sometimes be more confused with each other than with the mid-level desaturated 'silver'
+Transcript[edit]
+[A figure of a graph is shown, the figure has a number as if used in a paper. The graph has two labeled axis but without any units given. The Y-Axis has 15 ticks of equal length, the X-axis has 21 ticks, with every fifth double the height of the other. The graph displays a messy shape with color gradients, with a bright spot to the right of the shape around the middle right part of the graph. This bright spot is surrounded by mainly green and red, with darker colors at the edge, and the rest of the graph white. On the right side of the graph there is a labeled bar with the color scale. To the right of this are numbers indicating what the color represents. The color scale begins at the bottom with white, then goes to gray/blue, to black, back to blue, to gray, to green, to dark red, to red which fades via brown in to green, from where it fades slowly from darker green to lighter green ending up as yellow before going back to white again at the top.]
+Label: Figure 2
+Y-Axis: λ
+X-Axis: θ (phase)
+Scale label: Peak Energy
+120
+100
+80
+60
+40
+20
+0
+[Caption under the panel:]
+Every year, disgruntled scientists compete for the Painbow Award for worst color scale.
+Trivia[edit]
+When originally uploaded, the caption used the phrase "color gradient" rather than "color scale"
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+LOL 127.0.0.1 19:49, 3 November 2021 (UTC)
+f!rst p0st 172.69.170.53 19:50, 3 November 2021 (UTC)
+Mein gott, this color palette IS actually painful to look at. 172.70.178.161 20:02, 3 November 2021 (UTC)
+The caption has changed since the image was captured ("color gradient" changed to "color scale"), we need to pull the new comic. Barmar (talk) 20:08, 3 November 2021 (UTC)
+I updated the file, although the changes haven't taken effect yet. theusaf (talk) 20:37, 3 November 2021 (UTC)
+Does anyone know what Lambda is often used for in physics (or other sciences) as it relates to Theta, where Theta is phase? 127.0.0.1 20:48, 3 November 2021 (UTC).
+I'm surprised YOU don't know. Wavelength. -- Hkmaly (talk) 22:38, 3 November 2021 (UTC)
+Why are you talking to yourself? 127.0.0.1 21:07, 3 November 2021 (UTC).
+Wouldn't that make this chart self-referential, in that each color output at any particular x,y coordinate can somehow be measured in terms of wavelength and phasing (red shift)? 127.0.0.1 21:17, 3 November 2021 (UTC).
+I think you're responding to my comment (it seems to be above it, though?). Not sure exactly what you mean by self-referential either, but I suppose somewhat. Assuming this is a black body curve, the emission spectra has a peak at the point where the graph shows "peak" intensity; this wavelength is based off the temperature of the black body itself (see Wien's displacement law), whilst the redshift is based on the relative velocity of an observer & the black body (i.e. a star, usually).--Sapphirejulia (talk) 23:28, 3 November 2021 (UTC)
+If I had to guess (as an "armchair" astronomer), it seems to be similar to that of a black body (Planck curve) but also showing the phase. A phase shift to me means change in wavelength, i.e. Delta lambda / lambda, but that's normally denoted by the z-parameter (see Wikipedia's redshift article). There's also a phase angle listed under astronomy on Wikipedia, which could relate but never heard of it before. --Sapphirejulia (talk) 23:28, 3 November 2021 (UTC)
+Scientific publications aren't the only contenders for the award. I see a Painbow during almost every TV weather report. Captured an image of one of them, hope it displays correctly.
+JohnB (talk) 22:20, 3 November 2021 (UTC)
+This subreddit has a lot of these scales: https://www.reddit.com/r/dataisugly Fabian42 (talk) 00:03, 4 November 2021 (UTC)
+When I'm developing a continuum of colours on a scale (or scale-like) system I tend to try one of two things:
+Hue-based angle, going from one hue-angle to another hue-angle (usually normalised for fullest saturation) at no more than ⅚ths of a rotation between, to keep maximum looking too like minimum, and choosing the endpoints and via-point to be meaningful (e.g. red to green via blue, or magenta to yellow via cyan - whatever best works).
+A series of connected straight-lines through the RGB colour-cube, without too much criss-crossings, again with meaning. I'll make that more complex if necessary, e.g. for eightmap of the Earth, deepest depth #000 (or #002ish, maybe) to #0FF at the minimum depth, linearly #0(n)(n) for n inversely normalised to depth; quickly use #0FF->#FF8->#0F0 across the intertidal range; then from lowest elevations to highest #0F0 shades to something like #A50 (or maybe a grey) then onward to #FFF for the top. All done with simple gradient-based formulae linking height(/depth) directly to whatever changing component there is.
+...though I don't usually thing about dichromatic vision (let alone monochromatic), in either case, so I may indeed make things difficult for some people. 172.70.85.249 01:19, 4 November 2021 (UTC)
+At the moment it states: "The red then turns back into green as the intensity increases further." Is there something I misunderstands or is the intensity not decreasing when going from top to bottom? I would have said "when the intensity decreases further" --Kynde (talk) 08:18, 4 November 2021 (UTC)
+Also, it doesn't turn back in to green - it's some sort of teal.172.70.85.225 14:51, 5 November 2021 (UTC)
+I just like to share some great 'further reads' on scientific colormaps for the ones interested. A must watch on this topic is the talk by Nathaniel Smith and Stéfan van der Walt on the development of matplotlibs colormap. Apart from very entertaining, it has been the best introduction to color theory I've ever seen. If you're more into scientific literature, just get directly to the Nature article explaining proper color maps. Fabio Crameri, the author of this article is advocating good colormap practice and also has a website providing scientific colormaps that I found very beneficial. Lvdgraaff (talk) 13:34, 4 November 2021 (UTC)
+Ribbon colors appear to only be consistent about first and second place - after that, they're all over. See https://www.mclaughlinribbonawards.com/award-ribbon-place-color-guide/ and https://www.classicdesignawards.com/ribbonstock.shtml#horsecolors for examples. I've tweaked the third place note - leaving these links for anyone curious. --Bobson (talk) 14:15, 4 November 2021 (UTC)
+I found this to describe phase as it relates to wavelength: http://ww2010.atmos.uiuc.edu/%28Gh%29/guides/rs/rad/basics/wv.rxml#:~:text=The%20phase%20of%20a%20wave%2C%20measured%20in%20degrees%2C,position%20of%20the%20wave%20along%20the%20vertical%20line. It's similar to how phase is used to measure any sine wave (including alternating current, audio, etc.). While in this case, wavelength is not necessarily based on the electromagnetic spectrum, you could argue that given that this could be a graph indicating the amount of energy at any given wavelength during the different phases of a wave, that what is plotted on the y axis are the different wavelengths of light (though I would expect to see shorter wave lengths producing more energy, not less, which may be what this graph is indicating given that white is at both extremes, notwithstanding the black curve).
+That said, if indeed wavelength refers to light, then it would indeed make the chart self-referential, in that you could look at any produced color and run that color (or in the case of white light, colors) through the y axis in order to determine the amount of energy (depicted as colors) produced at different phases for that particular wave length. 127.0.0.1 16:25, 4 November 2021 (UTC)
+I'll add that wavelength (measured as hertz and referred to as frequency) and phase are very common measurements in alternating current (in that you cannot connect a generator that is out of phase with a high voltage line without risking damage to the generator), however there are other factors that feed into energy produced beyond hertz or phase (particularly, frequency (hertz), voltage, and amps). 127.0.0.1 16:34, 4 November 2021 (UTC)
+Color blind representations[edit]
+I made color blind representations of this comic to show how bad the color scale is then: original, grayscale, protanopia, deuteranopia, tritanopia. But I can't upload them here as a new account. Could someone grab them and add them to the page? https://imgur.com/a/tyS28Hd R0uge (talk) 15:32, 4 November 2021 (UTC)
+I am someone with Deuteranomaly, a different (and more common) form of colorblindness than protanopia. I also have extreme difficulty in distinguishing the red and green in the graph; however, the description only lists protanopic individuals as those with difficulty seeing it. Because deuteranopia is much more common than protanopia and also affects the vision of the graph, the description should list both. MrYellow04 (talk) 16:56, 4 November 2021 (UTC)
+Good colored graph[edit]
+Suggestion: add Randall's graph but with a better color scale to see if something interesting is hiding in the data? sirKitKat 162.158.233.11 07:43, 6 November 2021 (UTC)
+Found someone who did it on GitHub: https://github.com/steveharoz/painbow 172.70.147.135 07:14, 11 November 2021 (UTC)
+Categories: All comicsComics from 2021Comics from NovemberWednesday comicsPages using the "citation needed" templateComics with colorCharts

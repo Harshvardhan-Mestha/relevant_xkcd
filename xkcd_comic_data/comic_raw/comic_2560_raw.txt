@@ -1,0 +1,36 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2560: Confounding Variables
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2560)
+|<< PrevComic #2560 (December 27, 2021)Next >>|
+Confounding Variables
+
+Title text: You can find a perfect correlation if you just control for the residual.
+Explanation[edit]
+Miss Lenhart is teaching a course which apparently covers at least an overview of statistics.
+In statistics, a confounding variable is a third variable that's related to the independent variable, and also causally related to the dependent variable. An example is that you see a correlation between sunburn rates and ice cream consumption; the confounding variable is temperature: high temperatures cause people go out in the sun and get burned more, and also eat more ice cream.
+One way to control for a confounding variable by restricting your data-set to samples with the same value of the confounding variable. But if you do this too much, your choice of that "same value" can produce results that don't generalize. Common examples of this in medical testing are using subjects of the same sex or race -- the results may only be valid for that sex/race, not for all subjects.
+There can also often be multiple confounding variables. It may be difficult to control for all of them without narrowing down your data-set so much that it's not useful. So you have to choose which variables to control for, and this choice biases your results.
+In the final panel, Miss Lenhart suggests a sweet spot in the middle, where both confounding variables and your control impact the end result, thus making you "doubly wrong". "Doubly wrong" result would simultaneously display wrong correlations (not enough of controlled variables) and be too narrow to be useful (too many controlled variables), thus the 'worst of both worlds'.
+Finally she admits that no matter what you do the results will be misleading, so statistics are useless. This would seem to be an unexpected declaration from someone supposedly trying to actually teach statistics[citation needed], and expecting her students to continue the course. Though there is a possibility that she is not there to purely educate this subject, but is instead running a course with a different purpose and it just happens that this week concluded with this particular targeted critique.
+In the title text, the residual refers to the difference between any particular data point and the graph that's supposed to describe the overall relationship. The collection of all residuals is used to determine how well the line fits the data. If you control for this by including a variable that perfectly matches the discrepancies between the predicted and actual outcomes, you would have a perfectly-fitting model: however, it is nigh impossible (especially in the social and behavioral sciences) to find a "final variable" that perfectly provides all the "missing pieces" of the prediction model.
+Transcript[edit]
+[Miss Lenhart is holding a pointer and pointing at a board with a large heading with some unreadable text beneath it. Below this there are two graphs with scattered points. In the top graph the points are almost on a straight increasing line. In the bottom the data points seem to be more random. Mrs Lenhart covers most of the right side of the board, but there is more unreadable text to the right of her.]
+Miss Lenhart: If you don't control for confounding variables, they'll mask the real effect and mislead you.
+Heading: Statistics
+[Miss Lenhart is holding the pointer down in one hand while she holds a finger in the air with the other hand. The board is no longer shown.]
+Miss Lenhart: But if you control for too many variables, your choices will shape the data and you'll mislead yourself.
+[Miss Lenhart is holding both arms down, still with the pointer in her hand.]
+Miss Lenhart: Somewhere in the middle is the sweet spot where you do both, making you doubly wrong.
+Miss Lenhart: Stats are a farce and truth is unknowable. See you next week!
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This is the earliest in the day that I can recall a comic being published in a long time. It's not even noon ET yet. Barmar (talk) 16:39, 27 December 2021 (UTC)
+This explanation will not be complete until someone explains the title text. I assume controlling for the residual will lead to a null result, but I don't know statistics well enough to know. 172.70.110.171 17:10, 27 December 2021 (UTC)
+"Stats are a farce and the truth is unknowable." She jests, but... 172.70.178.25 18:31, 27 December 2021 (UTC)
+Many people have made similar observations over the centuries [1] Seebert (talk) 16:31, 28 December 2021 (UTC)
+Stats provide answers, but not questions - that's what my professor used to say 141.101.104.14 12:04, 30 December 2021 (UTC)
+"(Why was the word "remit" used and why was it linked to Mythbusters? Both were unnecessarily confusing.)"... Well, "remit" ≈ "purpose" as I used it (Wiktionary, Noun section, item 1: "(chiefly Britain) Terms of reference; set of responsibilities; scope. quotations" - seeing that it's apparently British, and the remit scope of most of the verb forms, I now understand your confusion). And the suggestion was that this was not a (bad/offputting?) Statistics course but a course that "mythbusted" a range of subjects, somewhat like Every Major's Terrible, that we catch just as Statistics in particular gets a page or so of short shrift about. 172.70.85.73 23:01, 29 December 2021 (UTC)
+Categories: All comicsComics from 2021Comics from DecemberMonday comicsPages using the "citation needed" templateComics featuring Miss LenhartStatisticsCharts

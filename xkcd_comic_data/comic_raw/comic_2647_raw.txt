@@ -1,0 +1,58 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2647: Capri Suns
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2647)
+|<< PrevComic #2647 (July 18, 2022)Next >>|
+Capri Suns
+
+Title text: [As security is dragging me away] "Come on, at least I didn't make the mistake in the other direction!"
+Explanation[edit]
+Cueball has been impersonating a doctor at a hospital. But his attempt to fool the staff (including Megan and Doctor Ponytail) fails when he mistakes a saline bag (as labeled when zoomed in) for a Capri Sun juice drink.
+Capri Sun is a fruit juice concentrate beverage that comes in soft rectangular mylar bags with a small seal near the top, to be pierced with an included straw so as to sip the drink. Saline bags, used in hospitals and other medical settings, are also soft and rectangular, with an intravenous (I.V.) drip connection about the same size as such straws, and usually contain a 0.9% sodium chloride (table salt) solution in sterile water so they are salty enough to be isotonic with blood. Capri Sun is mostly sugar water, and only 0.00008% salt,[1] so it tastes sweet instead.
+Almost everyone would be very unlikely to accidentally mistake saline bags for Capri Sun, especially a medical doctor.[citation needed] Cueball begins to realize that his attempt to impersonate a doctor has derailed when the hospital staff notice that he made such an absurdly unlikely and therefore humorous error.
+The title text makes it clear that Cueball is being removed from the hospital by security personnel. While they are dragging him out, he tries to point out that drinking saline is better than putting Capri Sun into a patient's I.V. drip, as it would endanger the patient,[2] arguing that this mitigates the severity of his transgression. The guards apprehending him are unlikely to be persuaded, as impersonating hospital staff is a serious offense with dangerous risks and severe consequences. In California, the unlicensed practice of medicine can result in a maximum $10,000 fine, up to three years in prison, or both.[3]
+The comic arguably continues 451: Impostor and 699: Trimester.
+Transcript[edit]
+[Cueball, wearing a lab coat, is drinking out of a straw inserted into an IV drip bag that is labeled "saline" (on the 2x image; it is rendered unreadable on the standard resolution version, just like the rest of the label's squiggles). Cueball is surrounded by hospital staff. To the left is Megan with a white hat, she is holding a clipboard, with a paper with unreadable text. To his right is Dr. Ponytail holding a rolled up paper under one arm and, to the right of her, a man with a similar hat as Megan. They are all looking at Cueball.]
+Cueball: You know, these Capri Suns are good, but they're really salty.
+[Caption below the panel:]
+I think the hospital may be starting to realize that I'm not actually a doctor.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+The title text could also be referring to a catheter. I'm not sure which is funnier, but one is certainly grosser. 172.70.85.115 18:15, 18 July 2022 (UTC)
+That is definitely a urine collection bag from the end of a catheter. The colour would make it doubly "mistakable" for a Capri-Sun with primary flavour/colour being orange. And urine (when collected and undiluted) is usually orange in colour. 172.69.156.215 18:38, 18 July 2022 (UTC)
+Actually, Capri Sun drinks are generally completely colorless, since the pouches are opaque and the liquid is therefore never really seen, so there's no need for artificial coloring to be added (which is the only reason other similar drinks have a color to them). Dansiman (talk) 21:27, 18 July 2022 (UTC)
+Depends on the flavor, because they have actual fruit juice. The drinks with cherry juice, for example, are red, and deeper than the drinks with orange juice are orange/yellow, because of the strength of pigment in the juices. 172.70.206.213 01:41, 19 July 2022 (UTC)
+https://www.reddit.com/r/mildlyinteresting/comments/as0vpa/caprisun_in_a_cup/ 172.70.206.163 10:46, 19 July 2022 (UTC)
+I feel like these are more likely saline bags, given that 1) they've got a substantial amount of text on them, more consistent with saline bags' photos (https://www.google.com/search?q=saline+bag&tbm=isch) than with urine bags, which generally are blank. The tiny label text on the bag also seems to read saline -- would it be all right to change this to the preferred interpretation? Lorea (talk) 18:56, 18 July 2022 (UTC)
+In the larger version, the text clearly says "Saline" 172.71.30.123 21:38, 18 July 2022 (UTC)
+Zooming in on the larger version the text clearly says "saline". I've updated the transcript to reflect that. I've also cleaned up the explanation to incorporate that update.-- The Cat Lady (talk) 00:12, 19 July 2022 (UTC)
+How do you see the double size image?
+I used the Zoom function on my TV screen :P -- The Cat Lady (talk) 21:33, 19 July 2022 (UTC)
+https://imgs.xkcd.com/comics/capri_suns_2x.png 108.162.241.103 00:38, 20 July 2022 (UTC)
+If you're into reading the HTML source, you'll see something (not got it in front of me) in the <img>-tag that points the correctly responding browser (based upon detection of available screen resolution/size within the browser page area, IIRC) to load up the hi-res version.
+But if you don't want to go into that, just click on the image permalink at the bottom (the .png/.whatever one) to get that direct then edit the name in the address bar from ".../image_name.png" to ".../image_name_2x.png" (add underscore-two-ex in there) and usually that'll load the larger file.
+Won't work with the more interactive comics. I also believe (at least originally) the non-2x and the 2x versions have been uploaded as the same on at least one occasion. But it works well enough on this particular comic (because I did it to confirm the SALINE detail to my own satisfaction), as the prior poster also indicates. 172.70.91.80 01:10, 20 July 2022 (UTC)
+Yeah, it's definitely an IV bag, not a urine bag. I would say to change it back. 172.70.214.185 19:01, 18 July 2022 (UTC)
+All I can say is "thank goodness for explainXKCD" otherwise I had no idea as Capri Sun isn't a thing in many countries 172.69.62.49 23:19, 18 July 2022 (UTC)
+There was I thinking it was blood 172.70.91.78 07:34, 19 July 2022 (UTC)
+Me, too. I came here to see if people had figured out if cueball was casually slurping down a pint of blood. 172.68.110.187 08:46, 16 September 2022 (UTC)
+
+Heat wave in Europe and drought conditions provide this Twitter user to imagine Capri Sun as IV Drip [4] Rtanenbaum (talk) 17:08, 19 July 2022 (UTC)
+IV sucrose solutions aren't that bad
+Regarding whether IV Capri Sun is potentially dangerous, please see [5] which discusses IV injection of 100 ml of 50% sucrose solution as a therapeutic, and [6] which states sucrose is quickly cleared by the kidneys. The other simple sugars aren't going to hurt. Citric acid is "a common ingredient used in [injected] pharmaceutical formulations."[7]. What's in Capri Sun which could cause IV toxicity? Its ingredients are, per [8], "WATER; SUGAR; APPLE JUICE CONCENTRATE; CITRIC ACID; GRAPE, PINEAPPLE AND CHERRY JUICE CONCENTRATES; NATURAL FLAVOR; MUSHROOM EXTRACT." It's pasteurized.
+I'm trying to find some quantification of the level at which undigested fruit juices are harmful when injected. They can cause temporary loss of liver and kidney function along with clotting resulting in pulmonary embolism, but it's not clear at what concentrations they become dangerous, and I can't find good sources. 172.69.34.32 09:27, 19 July 2022 (UTC)
+https://www.bbc.com/news/world-asia-china-47623816 will have to do for now. 172.70.214.95 09:33, 19 July 2022 (UTC)
+"The investigation is still ongoing. Please overlook this minor oversight." "Oh, disgusted nurse, you are so very sexy! Would you like a higher paying job at a competing facility?" 162.158.62.87 22:58, 19 July 2022 (UTC)
+
+Well, some barrel of laughs decided to vandalize the front of the page with the n word. 162.158.107.220, in case anybody's wondering. 172.70.130.217`
+That address belongs to Cloudflare (Which is the CDN ExplainXKCD uses), not sure why someone is using their hosts to browse here. If you're sure the defacement came from there, you should report it to abuse@cloudflare.com MAP (talk) 04:33, 22 July 2022 (UTC)
+Everyone is 'coming from' Cloudflare hosts. Because that's what channelling through Cloudflare does for everyone. (It's all built into the configuration being used.) What's often more interesting is which Cloudflare intermediary (or group of them) it comes in through - whether openly as an IP (like me) or in the hidden behind a username (like you).
+Reporting to the abuse@ might (though I doubt it) help to isolate any given true origin and prevent it at the traffic-shaping level. e.g. massive DDOS trying to come in from a given geographically static true origin, which CF might also prefer to try to bounce before overloading one of their own gateway servers... though I bet anything they want to do happens only because their massively over-capable systems already are set up to be self-protecting of their own limitation
+There are other things that can be done (known to those who might like to do them), but they're beyond the lower-level people on here. 172.70.90.223 09:41, 22 July 2022 (UTC)
+Mediawiki can get the real IP address: https://serverfault.com/a/526551 I should mention this on the admin page.... 172.70.211.134 15:41, 22 July 2022 (UTC)
+I believe that's been suggested already (you may have been told that already, I think I saw newer edits in that vicinity when I started to check just now). This may or may not be immediately practical to do (and it's certainly an old request) and it's neither the only thing that can be done (given the access to do it) nor would be the ultimate panacea. AIUI, from reading things out here on the fringes. (i.e. Not a bad suggestion, but not entirely sure if it's immediately available to be done.) 162.158.34.221 19:08, 22 July 2022 (UTC)
+Why is this in category Multiple Cueballs? Surely that's Hairy on the right, with his defining characteristic covered by a surgical cap? Nitpicking (talk) 03:17, 24 September 2022 (UTC)
+Categories: All comicsComics from 2022Comics from JulyMonday comicsPages using the "citation needed" templateComics featuring MeganComics featuring CueballDoctor PonytailMultiple CueballsCharacters with hatsMedicineFood

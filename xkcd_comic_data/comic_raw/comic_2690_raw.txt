@@ -1,0 +1,57 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2690: Cool S
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2690)
+|<< PrevComic #2690 (October 26, 2022)Next >>|
+Cool S
+
+Title text: Although I hear they were caught cheating off of Rosalind, who sat at a desk in front of them.
+Explanation[edit]
+The 'Cool S' is a stylized drawing of the letter "S". It is a popular doodle among teenagers and pre-teens as it can be quickly hashed out using six vertical lines which are then connected with an appropriate pattern of diagonal lines. The drawing has been around for a very long time, and may be independently discovered simply because it is a logical progression of combining a series of straight lines in an interesting manner.
+Randall first draws the steps to make the Cool S. Then he draws a chain of repeats of this pattern, excluding the end caps, making something that looks like a twisted rope. Finally he separates the two strands and adds cross bars, creating something that turns out to have a visual similarity to the discovered helical structure of DNA. However, although the final diagram is a double helix, the chirality, or "handedness", is backwards: an actual DNA molecule usually winds in the opposite direction (clockwise, if you're looking at it end-on). (The tutorial at How to (correctly) draw DNA describes this in more detail.) It is possible for left-handed DNA segments, called Z-DNA, to form in purine-pyrimidine alternating regions; but this is much less common than the more typical conformations of B-DNA and A-DNA. (B-DNA is the most common and is elongated with accentuated major grooves: see Nucleic acid structure. This asymmetry can be seen in the spacing between strand segments, which alternates between short and long distances, as opposed to A-DNA and Z-DNA where these distances are much more uniform.)
+He posits that the helical shape of DNA was originally discovered when somebody decided to doodle this extended S pattern.
+Understanding the shape of the DNA molecule was an important step towards understanding how it duplicates itself and serves as a template for RNA. In real life, Francis Crick and James Watson were awarded a Nobel Prize for this discovery.
+The title text is a reference to Rosalind Franklin, who made a material contribution to the discovery of DNA but was controversially not included in the Nobel Prize. Many are quick to assume she was excluded simply due to sexism, although she had also been dead for five years and Nobel Prizes are not awarded posthumously, regardless of the nature of the contribution. Franklin's boss at the time of the discovery, Maurice Wilkins, was also named on the prize. Wilkins had shared some of Franklin's data with Watson, who then shared what he saw with Crick. None of the three men ever told Franklin that Watson and Crick had based their model on her data.
+This account is reminiscent of how August Kekulé said he identified the ring structure of the benzene molecule. He claimed to have had a dream in which the atoms were moving around, with the last grabbing onto the first like the classic image of a snake grabbing its tail, forming a ring of six lines.
+Transcript[edit]
+[10 drawings evolving from simple dashes, to a "cool S" symbol, to a representation of DNA. Unless otherwise stated, each drawing adds to the previous drawing]
+First drawing - three vertical lines side by side over three equally sized vertical lines
+Second drawing - Two diagonal lines added from the bottom of the top left line to the top of the bottom middle line, and the bottom of the top middle line to the top of the bottom right line
+Third drawing - Four diagonal lines added from the top of the top left line and top right line, and the bottom of the bottom right line and bottom left line. The two lines at the top meet above the top middle line, at a 90 degree angle. The two lines at the bottom meet below the bottom middle line, at a 90 degree angle, making an incomplete "Cool S", missing two lines.
+Fourth drawing - Two diagonal lines added. One from top of the bottom left line, pointing towards the bottom of the top middle line; it stops halfway where it intersects with the line between the top of the bottom middle line and the bottom of the top left line drawn in the second drawing. One from bottom of the top right line, pointing towards the top of the bottom middle line; it stops halfway where it intersects with the line between the bottom of the top middle line and the top of the bottom right line drawn in the second drawing. forming a complete "Cool S"
+Fifth drawing - Resets the last few steps and is the same as the second drawing.
+Sixth drawing (located under the first drawing, making a new line of drawings) - The lines from the fifth drawing remain present and untouched, but there are now three vertical lines side by side above and below, with a gap left between them and the previous lines.
+Seventh drawing - The pattern between the middle two sets of three lines established in the second drawing is repeated above and below, such that for each pair of three lines, Two diagonal lines are added from the bottom of the top left line to the top of the bottom middle line, and from the bottom of the top middle line to the top of the bottom right line
+Eighth drawing - The pattern between the middle two sets of three lines established in the fourth drawing is both reimplemented, and repeated in the upper and lower two sets of lines. One from top of the bottom left line, pointing towards the bottom of the top middle line; it stops halfway where it intersects with the line between the top of the bottom middle line and the bottom of the top left line drawn in the second drawing. One from bottom of the top right line, pointing towards the top of the bottom middle line; it stops halfway where it intersects with the line between the bottom of the top middle line and the top of the bottom right line drawn in the second drawing.
+Ninth drawing - The same pattern as in the eight drawing, but with dots in some sections of the pattern.
+Tenth drawing - The same pattern as in the ninth drawing, but the pattern is spaced out in halves. The dots have turned into lines, creating something comparable to DNA.
+[Caption below the panel]:
+The structure of DNA was originally discovered by a group of especially cool middle school researchers.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Wow. Never seen a blank one before Boatster (talk) 14:23, 26 October 2022 (UTC)
+Apologies for my mediocre attempt, new to this Boatster (talk) 14:30, 26 October 2022 (UTC)
+I used to do these chains! 108.162.237.25 15:38, 26 October 2022 (UTC)Bumpf
+You must have used to be DNA polymerase, then! —While False (museum | talk | contributions | logs | rights) 19:27, 26 October 2022 (UTC)
+As a molecular biologist, I'm a bit annoyed any time I see DNA drawn as a left-handed helix. Perhaps this was intentional on Randall's part.
+To expand on Bumpf's comment -- DNA is typically right-handed, so it was most probably derived from the "cool Z". (Yes, Z-DNA (q.v.) is left-handed -- perhaps leading to Randall's presentation) 172.70.178.221 17:04, 26 October 2022 (UTC)
+I mean, I've never seen on so angular before either. 17:15, 26 October 2022 (UTC)
+Z DNA was not discovered until the 1980s and is a minor form. Also, it doesn't really look much like the regular helix. Franklin had X-ray data on A and B form DNA. B is the most well known form. Also, so as not to have someone else blamed for my comment, the left-hand comment was "docpelletier," me.
+This was actually a rediscovery, Celtic decorators had discovered it before. Fabian42 (talk) 18:56, 26 October 2022 (UTC)
+Dosen't the transcript generally not have the title text included? --172.70.82.167 19:14, 26 October 2022 (UTC)
+Correct. The transcript is of the image only. —While False (museum | talk | contributions | logs | rights) 19:23, 26 October 2022 (UTC)
+Should we try a more descriptive transcript? I could write up a description, but wasn't sure if I should. MAP (talk) 23:00, 26 October 2022 (UTC)
+Yes, we always should. Remember that it's partly for people who cannot see the images and need something fully understandable read out to them (an easier ask than trying to accomodate every single possible relevent text-search for comic feaures, which is another reason to have it.) I was tempted myself, but not had the time. But anybody can 'improve' more or less anything (acknowledging that it's subjective) so if you have the means, motive and opportunity then why not? 172.69.79.163 23:38, 26 October 2022 (UTC)
+Not giving her the Prize because she was already dead is still discrimination. Didn't Pratchett even had word for that? -- Hkmaly (talk) 19:29, 26 October 2022 (UTC)
+There is debate to be had on whether it is or isn't discrimination when as a rule, the prize isn't awared posthumously unless the person recieved the award before death.--Mapron01 (talk) 19:44, 26 October 2022 (UTC)
+From the world of Pratchett: "Undead, not Unperson!" - Although that might only count if Franklin also became like 896: Marie Curie, at least in time for the original award being decided). 172.71.186.163 20:52, 26 October 2022 (UTC)
+I think there's more to the controversy over Rosalind Franklin than just being omitted from the Nobel Prize. The significance of her contribution was downplayed in the media in general. Practically everyone has heard of Watson and Crick, but relatively few lay people have heard of Franklin. Although I guess that can be considered a natural result of them receiving the Nobel. Barmar (talk) 20:08, 26 October 2022 (UTC)
+She's at least getting (assuming it can be rearranged) a Mars rover... I think C&W aren't getting anything like that, whatever past supplemental honours they got in response/parallel to their Nobelisations... 172.71.186.163 20:52, 26 October 2022 (UTC)
+I think we need a clarification. Whether a spiral winds clockwise or widdershins when you look at it end-on depends which end you are looking at.MarquisOfCarrabass (talk) 05:09, 27 October 2022 (UTC)
+Except it doesn't. Take apart your nearest pen and try looking at the spring inside from either end, and you'll see. 141.101.77.62 06:51, 27 October 2022 (UTC)
+The spring in my pen twists to the right as it goes down, whichever end I hold upward. Nutster (talk) 13:42, 27 October 2022 (UTC)
+This is a trick comment - when you take apart a pen the spring will invariably fly off somewhere never to be found again, so you won't be able to examine it.172.70.162.155 15:44, 28 October 2022 (UTC)
+Actually, a spiral can wind differently depending upon how you view it (c.f. a watch-spring or a particular type of rafia tablemat). But not a helix, such as a pen spring or DNA, which is what we have here. That indeed has constant chirality; without deliberate deformation, either pushing it through itself or unwrapping and allowing it to rewrap in the opposite direction of coiling, as anyone trying to rationalise a badly tangled telephone handest cable of years past (or similar) will have realised. 172.70.85.25 17:45, 28 October 2022 (UTC)
+Categories: All comicsComics from 2022Comics from OctoberWednesday comicsBiologyComics featuring real people

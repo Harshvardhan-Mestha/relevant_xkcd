@@ -1,0 +1,91 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2520: Symbols
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2520)
+|<< PrevComic #2520 (September 24, 2021)Next >>|
+Symbols
+
+Title text: "röntgen" and "rem" are 20th-century physics terms that mean "no trespassing."
+Explanation[edit]
+This comic refers to elements of (mostly mathematical or engineering) notation commonly used in various fields of math and science. Each piece of notation is presented as "symbolizing" not what it specifically means, but a typical context in which it might be encountered, see below.
+Many of the individual descriptions look like verbiage that might be found on informational or warnings signs or placards, although typically with a silly edge.
+The title text refers to two non-SI units of radiation measurement, röntgen and rem. In the mid-20th century when they were in use, the dangers of radiation weren't as well understood as today, so an area with radiation that was noteworthy back then is probably dangerous, hence the no trespassing part.
+Later Randall made a similar comic, 2586: Greek Letters, regarding the use of Greek letters in math.
+Symbols[edit]
+d⁄dx: An undergrad is working very hard d/dx is the symbol for a single-variable derivative. This is one of the basic operations in calculus and consequently is ubiquitous in the work of undergraduates in the sciences. A hard-working undergraduate in the relevant fields would churn through exercises using this symbol.
+∂⁄∂x: A grad student is working very hard The replacement of the standard "d" letters with the curly letters "∂" denotes the partial derivative, which generalizes the ordinary derivative to multi-variable calculus. Problems with partial derivatives, especially partial differential equations, can be extremely challenging. Although PDEs would typically be first taught at an undergraduate level, difficult partial derivatives would be encountered in graduate-level work.
+ħ: Oh wow, this is apparently a quantum thing ħ (pronounced "h-bar") is a symbol used for (the reduced) Planck's constant, a universal, fundamental constant in quantum physics. ħ is equal to the energy of a photon divided by its frequency, and angular momentum in quantum mechanical systems is measured in quantized integer or half-integer units of ħ. Classical physics appears as a limit of quantum physics if all "actions" (quantities of dimension energy * time, momentum * length, or angular momentum) are much larger than ħ. Conversely, you can also formally set ħ=0 to get classical results from quantum formulae. This means that effects that are proportional to some power of ħ cannot be explained classically, and instead are "a quantum thing".
+Rₑ: Someone needs to do a lot of tedious numerical work; hopefully it's not you The Reynolds number (which is usually denoted by "Re," not "Re" as it appears in the comic) is the most important dimensionless group in fluid mechanics. Named for Osborne Reynolds, Re characterizes the relative sizes of inertial and viscous effects in a moving fluid. Large values of Re are indicative of turbulent flow, which cannot usually be retrieved analytically, and so numerical modeling is necessary. Accurate numerical studies of high-Reynolds-number flows are notoriously difficult to create and program.
+Alternatively, Rₑ could stand for electronic transition dipole moment in a molecule. This appears in quantum-mechanical calculations of transition probabilities and also includes a lot of unpleasant numerical work. Rₑ is also a term used for the radius of the Earth at mean sea level, though this is not necessarily a complex term in and of itself.
+Another alternative is that Rₑ could refer to Relative Error, a measurement of precision or accuracy. Used often in the analysis of scientific data and numerical analysis.
+(Ta⁴ - Tb⁴): You are at risk of skin burns The Stefan-Boltzmann law says that a perfectly absorbing ("black body") source emits electromagnetic radiation with a power per unit area of σT4, where σ is a known constant and T is the absolute temperature. The quantity (Ta4 – Tb4) thus appears in any calculation of purely radiative energy transfer between two bodies, one at temperature Ta and the other at Tb. When the radiative transfer is large enough to be the most important form of heat interchange, it is normally also large enough to sear the skin with thermal or ultraviolet burns.
+NA: You are probably about to make an incredibly dangerous arithmetic error NA, or Avogadro's number, is the number of molecules in a mole of a substance, approximately the number of carbon atoms in exactly 12 grams of carbon-12. This is an enormous number, exactly 6.022 140 76 × 10²³, or 602 214 076 000 000 000 000 000. Working with NA, it is easy to accidentally divide by it instead of multiplying or vice versa, leading to erroneous and nonsensical answers such as ~10-23 molecules (even though you can't have less than 1 whole molecule) or ~1046 moles (>1043 to 1045 kilograms, depending on the chemical) of a substance.
+µm: Careful, that equipment is expensive Micrometers are a very small unit of distance. Micrometers are commonly used to measure wavelengths in the infrared, and infrared detectors are very expensive, compared with visible wavelength counterparts. Of course, micrometers are used as a measurement of distance in other contexts, but any distance-measuring device capable of accurately measuring micrometer distances would also be expensive. Similarly, tools used to create or calibrate items within micrometer tolerances can also be expensive.
+mK: Careful, that equipment is very expensive Kelvin is a temperature scale roughly speaking similar to Celsius, but taking absolute zero as its zero point instead of the freezing point of water (rigorously speaking, its definition is now based on the Boltzmann constant). Millikelvins (1/1000 of a Kelvin) are used for high precision temperature work. Frequently this is used in processes of cooling temperatures to nearly absolute zero - such as superconductors or other quantum effects that occur when atoms are almost still. This is suggesting that the symbol appears on a sensitive experimental system probing quantum mechanical behavior that would likely only exist in an advanced laboratory. Any equipment that works down at mK temperatures, or at least to mK precision and accuracy, is likely to be very expensive.
+nm: Don't shine that in your eye Nanometers are frequently seen in the listed wavelengths for lasers. Pointing a visible or infrared laser at someone's eye is notoriously dangerous; the tightly-focused coherent light can cause permanent damage very quickly.
+eV: Definitely don't shine that in your eye Electron volt energies are typical of moderate-energy particle beams, produced by accelerating electrons (or protons) over macroscopic voltages. These particle beams can be even more damaging (and are probably a direct reference to Anatoli Bugorski) to soft tissues than optical-wavelength lasers.
+mSv: You're about to get into an Internet argument The millisievert is a unit of radiation dose absorbed. It is a very small dosage, but the joke refers to Internet trolls debating the effects of low-dose radiation sources, such as 5G wireless networks. Randall's comment may also be referring to this chart.
+mg/kg: Go wash your hands This unit measures the dose of a drug or other chemical in milligrams per kilogram of body mass. If the appropriate dose - or worse, the lethal dose - is measured in mg/kg (parts per million), then the substance may be quite toxic.
+µg/kg: Go get in the chemical shower A unit 1/1000 times the size of mg/kg. If a dosage is measured in micrograms per kilogram (parts per billion), any accident probably requires whole-body decontamination procedures.
+π or τ: Whatever answer you get will be wrong by a factor of exactly two π is defined as the ratio of a circle's circumference to its diameter, while τ is defined as the ratio of a circle's circumference to its radius (and is therefore equal to 2π). π has been used as the primary constant for describing the circumference and area of circles millennia ago, but proponents of τ claim that τ is more natural in most contexts since it makes working in radians more straightforward. Actually, "Pi" symbol used to be occasionally used for the constant now called Tau. The joke here is that whichever constant you use, it will probably be the wrong one (off by a factor of two, one way or the other) for the formula you are trying to use. The debate over Tau vs Pi was solved by Randall in this compromise: 1292: Pi vs. Tau.
+Transcript[edit]
+[A list with 14 different scientific constants/symbols are shown. Next to each symbol is a description. Above the list is a heading and beneath that a subheading.]
+Symbols
+And what they mean
+d⁄dx    An undergrad is working very hard
+∂⁄∂x    A grad student is working very hard
+ħ       Oh wow, this is apparently a quantum thing
+Rₑ     Someone needs to do a lot of tedious numerical work; hopefully it's not you
+(Ta⁴ - Tb⁴)    You are at risk of skin burns
+NA    You are probably about to make an incredibly dangerous arithmetic error
+µm    Careful, that equipment is expensive
+mK    Careful, that equipment is very expensive
+nm    Don't shine that in your eye
+eV     Definitely don't shine that in your eye
+mSv  You're about to get into an internet argument
+mg/kg      Go wash your hands
+µg/kg      Go get in the chemical shower
+π or τ      Whatever answer you get will be wrong by a factor of exactly two
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Great work by whomever did this, but is it possible R_e is something else? I agree that the numerical aspect makes it seem like a fluid mechanics problem, but I've never seen the Reynolds number with a subscripted e... only a regular size e, such that it is Re, not R_e. 108.162.237.93 20:36, 24 September 2021 (UTC)
+R sub e (not Re) is Effective Reproduction Number. This is related to infection rates. I'm pretty sure it's R sub e, not Re given that infection rates are very much on his mind right now.
+It would be out of place relative to all the other entries, though, which are all physics related. IMO it's more likely this was an error.
+Earth's radius is abbreviated "R sub e" 162.158.107.4 21:30, 24 September 2021 (UTC)
+Could be the remainder of a series (i.e. the error when using the first terms of the series as an approximation). Determining upper bounds on this error is usually very tedious.
+R sub e is tire effective rolling radius (or effective radius)--a radius based on the distance traveled by one rotation of a pneumatic tire. Re is similar to the unloaded radius (for radial tires) and normally larger than the loaded radius (distance from axle to ground).
+My first thought was that this referred to the "real part" operator, although that's typically represented by a plain Re (no subscript).
+Re seems to be related to number theory, like in those papers where's they tediously prove that there are infinities of different sizes.
+Extra vote for number theory theory, I've seen R_e most when referring to Real part of a function, which does often bring in tedious calculations
+Re is almost definitely not meant to have any electronic structure meaning here. The subscript alpha in R_alpha is indexing over x,y,z (cartesian coordinates) as a transition dipole moment term.
+T to the fourth power looks like blackbody radiation, any ideas what specifically that formula represents? 162.158.203.22 20:40, 24 September 2021 (UTC)
+There's an equation for what reflects off a spherical object that is a quartic equation (although I'd expect concave reflectors, not convex ones, to risk skin-burn. Or, more likely something to do with UV (non-)absorbtion or generation, but I imagine someone knows exactly what it is, without someone like me just guessing wildly. ;) 141.101.99.82 21:05, 24 September 2021 (UTC)
+This wiki does not seem to have a consistent formatting structure for lists
+The NA could also soon become NAN (not a number) thus being only a step away from the dangerous arthmeric error. --162.158.88.43 21:38, 24 September 2021 (UTC)
+Bold Title
+Content starting with a tab
+
+Bold title content continues on same line
+
+Regular title
+Content on a new line, but not starting with a tab
+As well as tables and mixes of these formats. Maybe someone should pick one and apply it to all the explanations. I just noticed it because of the inconsistencies as people are quickly throwing something together for this new comic. 162.158.107.4 21:02, 24 September 2021 (UTC)
+I read the penultimate line as "Mg" and was trying to imagine a meaning for "megagrams per kilogram". Sloppy Greek letter there, Randall. Nitpicking (talk) 03:17, 25 September 2021 (UTC)
+I find this criticism very unreasonable. Randall's "m" is written very differently, there are plenty of examples of it in this very cartoon to avoid confusion, and micrograms are far more commonly used than megagrams. I had no problem whatsoever recognizing the letter mu, and I don't see how this could be a problem for anyone already familiar with that letter. 162.158.90.85 11:11, 26 September 2021 (UTC)
+Why are partial derivatives considered graduate-level? They're typically covered in first level undergraduate science courses, along with gradients and such. FPSCanarussia (talk) 03:34, 25 September 2021 (UTC)
+The reference to "micrometer" links to the Wikipedia page for the measuring device, but it should link to the page for the unit of length: https://en.wikipedia.org/wiki/Micrometre Professor Frink (talk) 15:58, 25 September 2021 (UTC)
+Adding to “Micrometer/Micrometre” above: this “any” is not really correct:
+Of course, micrometers are used as a measurement of distance in other contexts, but any distance-measuring device capable of accurately measuring micrometer distances would also be expensive.
+The “Micrometers” as seen in the Wikipedia article can measure distances of some micrometers accurately, but are not really expensive. Probably even cheaper than any equipment which can not measure distances. --162.158.88.239 18:19, 25 September 2021 (UTC)
+In certain circles (or, perhaps, between them as they roll), the typical Reynolds number is just three digits... ;) 162.158.159.95 20:04, 25 September 2021 (UTC)
+"When radiative transfer is large enough to be the most important form of heat interchange, it is normally also large enough to sear the skin with thermal or ultraviolet burns." Radiative transfer is the dominant heat transfer from a (idle) human body in a 20C room. There is no risk of seared skin in this situation. As an aside if people understood the role of radiative heat transfer we'd have more comfortable and cheaper HVAC systems (and more underfloor heating).172.70.34.91 20:08, 25 September 2021 (UTC)
+I cannot recall ever using Avogadro's constant in a stochiometric calculation. You do everything in mole or gram mole. NA implicitly cancels and never even appears.172.70.34.91 20:08, 25 September 2021 (UTC)
+mSV (millisievert) is also likely to show up in other internet debates as well, usually related to Chernobyl, Fukushima, Three Mile Island, or [other such nuclear accidents|https://www.ucsusa.org/resources/brief-history-nuclear-accidents-worldwide] Also likely to show up in any discussion on nuclear energy to alleviate global warming, especially given modern reactor designs to reduce such incidents.Seebert (talk) 20:15, 27 September 2021 (UTC)
+d⁄dx is not the symbol for a single variable derivative, but the symbol for a total derivative. Partial derivatives and total derivatives happen to be equal when the function depends on only one variable, but in general both partial and total derivatives are used in multivariate calculus 198.41.231.172 05:56, 29 September 2021 (UTC)
+I know arguments on the Internet often aren't logical, but the mSV really wouldn't make any sense in the context of arguing about 5G as that is non-ionizing radiation. Ullallulloo (talk) 14:37, 7 October 2021 (UTC)
+eV may more specifically be a reference to https://en.wikipedia.org/wiki/Anatoli_Bugorski --172.70.35.70 03:59, 8 October 2021 (UTC)
+R_e could also refer to the elastic limit in solid mechanics, where it is the lowest stress at which permanent deformation will occur. At least my university (in Germany) uses that symbol. Interestingly, stress analysis can also involve a lot of numerical work, at least outside of simplified examples. 172.70.250.185 (talk) (please sign your comments with ~~~~)
+No comment about your experience, but in response to your edit-comment of "(sorry if I'm editing wrong)", just remember to sign with four tildes ( ~~~~ ) here in the Talk page, to make any discussion easier to read and timestamp things a bit (it was written just now, so I haven't bothered to add that detail, above, future readers can correctly assume just a few minutes have passed from then until now and my own signature addition). 172.69.79.173 19:58, 22 July 2022 (UTC)
+Categories: All comicsComics from 2021Comics from SeptemberFriday comicsMathPhysicsChemistryBiology5G

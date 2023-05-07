@@ -1,0 +1,120 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2604: Frankenstein Captcha
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2604)
+|<< PrevComic #2604 (April 8, 2022)Next >>|
+Frankenstein Captcha
+
+Title text: The distinction between a ship and a boat is a line drawn in water.
+Explanation[edit]
+This comic strip is a play on the meanings (and misunderstanding) of the name "Frankenstein". Frankenstein; or, the Modern Prometheus is an 1818 novel by Mary Shelley about a medical student named Victor Frankenstein who creates an artificial life-form. The man he creates once describes himself as "the Adam of [Frankenstein's] labour" in the book, and strictly speaking is properly known as "Frankenstein's monster" (or perhaps "creation" or "son"), but is often erroneously called "Frankenstein" himself. This has been fertile ground for many, many debates about whether the monster could also properly be called "Frankenstein," either as a family name, an honorific, or simply because it's more recognizable and convenient. Randall has weighed in on the debate himself in a previous comic, 1589: Frankenstein.
+The CAPTCHA shown in the comic instructs the user to select all tiles containing Frankenstein. The tiles include both a reanimated corpse resembling Frankenstein's monster and a scientist yelling, "It's alive!” who is clearly intended to be Victor Frankenstein. The problem arises from the contrast between various definitions of the term Frankenstein. Going just off the book's text, the monster has no name, so the correct answer to the CAPTCHA is just the left square of the third row. However, the character depicted there is clearly Henry Frankenstein from the famous 1931 film adaptation (Victor Frankenstein never said the words "it's alive!" in the book), and likewise the creature depicted is clearly inspired by Boris Karloff's iconic portrayal in that film and its sequels. If the images are captured from that film, then all four of them could be said to be "containing (a subset of) Frankenstein (the 1931 film)". Alternatively, if the CAPTCHA user's canonical version of "Frankenstein" is the official xkcd story of Frankenstein (see 1589: Frankenstein), the correct tiles would be row 1 column 3, row 3 column 4, and row 4 column 4.
+Some CAPTCHAs - especially Google's widely spread reCAPTCHA - nowadays serve a dual purpose: (1) to separate human users from bots by way of intelligent interaction, and (2) to train a neural network, hence the "correct answer" to image recognition CAPTCHAs is not known ahead of time and is merely based on the most commonly-chosen tiles. Thus, a user who knows that "Frankenstein" refers only to the scientist would face this CAPTCHA with dread, uttering "Oh No" as they realize that they must select the tiles containing the monster, and possibly not even be allowed to select the tile containing the actual scientist Victor Frankenstein if they want to pass the CAPTCHA.
+Alternatively, this comic strip with its "Oh No" caption could be referencing 1897, which would imply that someone had actually created a Frankenstein's monster which needs to be located as soon as possible.
+Many of the other tiles appear to be pictures of entities that inspire similar pedantry. For example, there is a picture of a turtle (or possibly a tortoise, or a reference to the Voight-Kampff test used in a manner analogous to CAPTCHA), a ship (or possibly a boat), Link (the name given to each of several protagonists that appear across generations and timelines, throughout the Legend of Zelda video games, who many erroneously refer to as Zelda), a pond (or possibly a lake, a puddle, or a mirage), a tomato (often subject to the fruit or vegetable debate), an erupting volcano (with lava, or is it magma?), the planet Pluto (or is it a dwarf planet?), and a man and a woman (who may be dating or just friends). Other tiles seem to be inspired by images that commonly occur in actual captchas, like the STOP sign or the traffic light. However, at least some of these may also be meant to fall into the category of entities that inspire pedantry, for example: because traffic lights can also be called traffic signals or stoplights; many people thinking that the shape of a stop sign is a hexagon, not an octagon; and the definition of a sandwich (previously discussed as a “random semi-ironic obsession” in 1835).
+The title text refers to one of the methods used to distinguish a ship from a boat. When making a turn, if the vessel leans towards the inside of the turn circle then it is considered a boat, whereas if the vessel leans away from the turn circle it is considered a ship[1]. Since the vessel generates a wake as it moves, checking whether it is a boat or a ship can be done while it is literally drawing a line on the water (the wake). The phrase "a line drawn in water" is also an idiom for something ephemeral. Ironically, it has persisted for a long time and dates back at least to the early Buddhists. (e.g. AN 3.132 & AN 7.74). The distinction between a ship and a boat is also unclear, having changed over time, with no universally accepted rule to distinguish between the two. The title text is also a pun on the common idiom "drawing a line in the sand." The title text could also be referencing the image of a boat or ship that appears as one of the CAPTCHA tiles in the comic, where Randall has drawn a squiggly line often used in crude drawings to represent a waterline.
+Transcript[edit]
+[A captcha design, with a header and four rows of four pictures each below it. The header, in white lettering on a blue background, reads:]
+To continue, please click
+All squares containing
+Frankenstein
+[The pictures, all with gray backgrounds, are as follows, from left to right in each row:]
+Row 1
+Tortoise (or turtle)
+Ship (or boat)
+Frankenstein's monster (often mistaken as Frankenstein) waking up from a slab, while lightning strikes.
+Monster: GRRR
+Link from Legend of Zelda series (often mistaken as Zelda)
+Row 2
+Lake (or pond), possibly a mirage, in the Egyptian desert
+Megan (or Science Girl, or Danish--possibly a direct joke about this wiki)
+The top of a volcano spewing lava (or magma)
+Pumpkin (or squash [fruit vs vegetable])
+Row 3
+A mad scientist (Victor Frankenstein) throwing a switch while lightning strikes outside
+Frankenstein: It's alive!
+Sandwich
+Stop sign
+Girl running away from Frankenstein's monster
+Girl: Monster!
+Row 4
+Rocket (spaceship) flying by Pluto (planet or dwarf planet)
+Cueball and Ponytail standing next to each other
+Traffic light (also called a stoplight, possibly mistaken as stop sign?) (called a robot in South Africa/Zimbabwe)
+Frankenstein's monster
+[Caption below the panel]:
+Oh no.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Don't forget it's canon the Frankenstein is the name of the Monster https://www.explainxkcd.com/wiki/index.php/1589:_Frankenstein
+The other squares contain things that might also be ambiguously named:
+There is tortoise/turtle ship/boat/yacht monster Napolean/Nelson
+puddle/pond/lake girl/woman magma/lava squash/pumpkin/gourd/..
+Frankenstein (sandwich?) (stop sign?) monster
+Rocket/spaceship(Or planet/dwarf planet?) (couple?) (traffic light?) monster.
+I can't think of any other term for the sandwich, the couple, or the traffic signals. Are these a call back to the self driving car captcha https://xkcd.com/1897/
+162.158.159.125 16:28, 8 April 2022 (UTC)
+That's neither Nelson nor Napoleon but rather Link from the Legend of Zelda series. He has the shield with a Triforce symbol on it, the hat that's pointed in the back, and a sword that's surprisingly recognizable as the Master Sword despite xkcd's low detail art style.
+108.162.245.43 16:43, 8 April 2022 (UTC)
+I suspect some of the other squares are common “well-actually” topics, eg. a pumpkin/squash is actually a fruit. The “puddle” is a mirage. Row 2 column 2 has a 9 drawn in their hair… a Franken-nine? — Alex
+--162.158.2.23 16:38, 8 April 2022 (UTC)
+The astronomical body might be a meteoroid? 172.70.114.77 16:56, 8 April 2022 (UTC)
+Oh wait, missed the heart crater. nvm that's gotta be Pluto 172.70.230.75 16:57, 8 April 2022 (UTC)
+The sandwich is probably due to pedantry over 'is [x] a sandwich' debates. 172.70.250.67 17:04, 8 April 2022 (UTC)
+In that case, it should have been a hot dog.  ;D
+ProphetZarquon (talk) 17:09, 8 April 2022 (UTC)
+Seems likely. Also reminds me of https://xkcd.com/2301/ 172.70.134.237 17:18, 8 April 2022 (UTC)
+Could the lake/pond tile actually be a fata morgana - given the desert setting implied by the sun and the pyramids? Captain Nemo (talk) 17:13, 8 April 2022 (UTC)
+What lake/pond? There is no water there, man. I think you're just seeing an illusion, created by heat ripples in the air. (I'm kidding; just trying to keep up the "mirage".)
+ProphetZarquon (talk) 17:24, 8 April 2022 (UTC)
+The current explanation does not mention the Title Text, nor does it explain the paraphrased quote. I believe the original quote mentions "a line in the sand"?
+ProphetZarquon (talk) 17:11, 8 April 2022 (UTC)
+There's also the classic turn of phrase "There's a thin line between ConceptA and ConceptB" which is what I thought of when I read that. MAP (talk) 19:19, 8 April 2022 (UTC)
+a tomato is the gold standard for uncertainty in pronunciation
+the sandwich's definition is both precise and vague: nerd fight! Hotdog? Burrito? Pizza? Doughnut?
+in the 1931 the little girl does not run away but is, er, cared for by the monster. the flower is not pictured. --Misterstick (talk) 17:26, 8 April 2022 (UTC)
+What if the planet contains Frankenstein (either the monster or the doctor) and you just can't tell at this resolution??! 19:51, 8 April 2022 (UTC)
+The planet also might be named Frankenstein. Or an asteroid. There isn't one yet, but maybe in the future?
+Closest match for name is "10246 Frankenwald"
+A bit disappointed Randall didn't take the opportunity to include the 1972 Edgar Winter Group album "They Only Come Out at Night", which contains the track "Frankenstein." 172.70.131.176 18:51, 8 April 2022 (UTC)
+The turtle may be a reference to "turtle rifle", a series of GAN exercises resulting in producing objects that neural networks recognize as something completely else. A famous one was a turtle-shaped toy, which looked quite like a normal turtle to a human eye, but a characteristic pattern on its shell made neural networks to classify it as a rifle.
+Based on the standard levels of pedantry, I am surprised that no-one yet has pointed out that we are not supposed to click on ONLY the correct images. Taking the union of both Frankenstein sets should then be accepted (unless we faced union-bashers in the Frankenstein-basher crowd).
+The instructions use standard CAPTCHA language, "only" is understood (otherwise a bot could just click all boxes and the test would be defeated). Barmar (talk) 22:26, 8 April 2022 (UTC)
+But I saw no picture of a cat... 172.70.86.44 22:25, 8 April 2022 (UTC)
+Also, in my experience, CAPTCHAs that ask for "Click all squares with <whatever>" on a non-refreshing grid of otherwise independent images - which I often-enough encounter in this very site - tend to assume exactly three squares are correct. (e.g. it asks for "all tractors", and there are two tractors and some non-tractor vehicle like a road-roller, then it doesn't matter if *I* think that's not actually a tractor, it won't let me past until I've clicked the road-roller). The rules are different for refreshing images (click an image's square, it presents a new image, until eventually every square that had previously been one-or-more picture(s) of the target-type are now all irrelevent to click) or a gridded single-scene (I haven't worked that one out fully... if it's asking for Traffic Lights, do I just need to do the squares entirely containing such light units/only those with the 'light' part of the units/every single square with even the barest edge of the frame around the lights/all squares even with just the poles/wires suspending the lights up off the ground... sometimes it seems to like what I do, sometimes it retests me, and I don't know if it's unhappy with my choice or so absolutely happy with my choice that it desperately wants me to help the Algorithm just that little bit more). *cough* Anyway. What I'm saying is, if I was seriously trying to answer this comic's example, I'd be looking for exactly three Frankenstein squares of one (dubious) kind or another. 172.70.86.44 22:25, 8 April 2022 (UTC)
+I've seen plenty of this type of CAPTCHA with fewer than 3 correct tiles. Unless I'm not human enough to recognize all the matches.... Barmar (talk) 22:29, 8 April 2022 (UTC)
+I think you both just proved you are robots. Humans are too dumb to do this level of analysis. 108.162.241.9 03:04, 9 April 2022 (UTC)
+My (limited) experience with CAPTCHA is it doesn't matter what tiles you click, as long as you don't take too long to finish.(which can happen if you spend a lot of time squinting at the images or pondering semantical variations)172.70.178.33 23:29, 2 May 2022 (UTC)
+"Knowledge is Knowing Frankenstein isn’t the Monster, Wisdom is Knowing Frankenstein is the Monster" - https://commons.emich.edu/ac/vol3/iss1/4/ 108.162.241.9 02:56, 9 April 2022 (UTC)
+I have to mention the "lost ending" of Frankenstein which is found at https://imgur.com/gallery/bCGEw . --172.70.130.125 03:36, 9 April 2022 (UTC)
+May be worth noting that the traffic light's three coloured circles are all shaded black. In some countries (I know I've seen someone I trust saying it's true in the USA and UK), the law specifies that you must treat a broken traffic light (or one which you reasonably believe to be broken; such as if it's not lit up) as a stop sign. Does this mean you'd click it in a CAPTCHA that asks for stop signs? Angel (talk) 09:04, 9 April 2022 (UTC)
+I was today years old when I learned that "ship" and "boat" aren't literally interchangeable like "eggplant" and "aubergine". 172.70.131.216 09:22, 9 April 2022 (UTC)
+The way I understood it is that a ship carries boats – think of a cruise liner or cargo ship with lifeboats, or a naval vessel with longboats or the captain's gig – but a boat, like a rowboat, speedboat, or personal watercraft, does not. RAGBRAIvet (talk) 16:26, 9 April 2022 (UTC)
+I learned it as being that a ship needs somewhere proper to land (like a pier or a proper dock), while a boat you can bring close enough to the shore and jump off; or run it up the beach. Guess people have different definitions. Angel (talk) 17:57, 9 April 2022 (UTC)
+Ask yourself this: If the person in charge of that vessel told me to call him Captain, would I think he was a pretentious ass? If no, it's a ship.108.162.238.150 18:14, 10 April 2022 (UTC)
+I wonder if any of those vegetables would count as "Frankenstein foods". --172.70.85.211 13:38, 9 April 2022 (UTC)
+That was my initial assumption when I saw it (on my phone) and couldn't tell what they were Angel (talk) 17:57, 9 April 2022 (UTC)
+Some other possible things that could be on such a Captcha: Big Ben (a bell inside Elizabeth Tower), Metroid (an alien creature that the bounty hunter Samus repeatedly encountered), and the Pink Panther (a stolen diamond pursued by Inspector Clouseau).172.70.135.32 20:38, 9 April 2022 (UTC)
+Hang on...a tiled-image CAPTCHA has no 'correct' answer? How am I just hearing this now? Yorkshire Pudding (talk) 21:37, 9 April 2022 (UTC)
+I see an octagon containing STOP, but no square containing FRANKENSTEIN. I think that makes this particular captcha unsolvable. These Are Not The Comments You Are Looking For (talk) 01:01, 10 April 2022 (UTC)
+I have to suggest an alternate interpretation: CAPTCHAs are used as a way to provide sample data for machine learning AI. A situation like in the comic implies that there is a reason that an AI would need to be trained to recognise Frankenstein (presumably the monster), perhaps because he's real and on the loose, hence the dread. 172.69.34.84 06:47, 10 April 2022 (UTC)
+I am amused by this possibility. It also plays on the term CAPTCHA by suggesting that the monster is on the loose and needs to be CAPTURED.172.70.178.33 23:29, 2 May 2022 (UTC)
+Really dark take: the people are all part of Frankenstein, it's just that their pictures were taken before their deaths. --Vdizz (talk) 05:08, 11 April 2022 (UTC)
+GPT-3's opinion[edit]
+I just asked OpenAI's latest GPT-3 model at https://beta.openai.com/playground with default settings thusly:
+What does Frankenstein look like?
+Frankenstein is a large, muscular creature with green skin and long, black hair. He has large, white eyes and a flat, square head. His mouth is large and filled with sharp teeth. He has long, powerful arms and legs.
+What does Victor Frankenstein look like?
+Victor Frankenstein is a tall, thin man with dark hair and eyes. He is very intelligent and has a strong interest in science.
+So the point of this is that if you spend millions of dollars to train an English language interaction model based on the authoritative texts available to contemporary venture capitalists, "Frankenstein" is considered to be the monster, not its creator.
+Note you can't really do this kind of instant inquiry with Google Trends or Google Books Ngrams. 172.69.33.145 03:59, 11 April 2022 (UTC)
+Don't forget that in certain regions (well, maybe just South Africa) a stoplight is called a robot. 172.69.68.202 15:23, 11 April 2022 (UTC)
+1263: Reassuring. 172.68.132.206 04:39, 12 April 2022 (UTC)
+I am so amazingly disappointed that one of the captcha images is not a treacherous depiction of a pipe. -- [[User:{{{1}}}|{{{1}}}]] ([[User talk:{{{1}}}|talk]]) (please sign your comments with ~~~~)
+"Ceci n'est pas un canal de communication FIFO simplex"? 172.70.91.36 20:02, 12 April 2022 (UTC)
+isn't it referencing things that have been named after or called Frankenstein (a turtle, an heirloom tomato variety, a sandwich, a hairstyle, etc.)? 108.162.237.9 21:54, 15 April 2022 (UTC)
+Hmm... "(That's not a thing even though the surrounding text written by same author is accurate. I don't doubt the person who wrote it thinks this about normal captchas, but even sophisticated users do not, and likely won't fail a single captcha by not doing this.)", to explain one particular (de-)edit. I didn't write that bit, but I did write the "Also, in my experience, CAPTCHAs that ask for..." further up this Talk page, and as such I found it a reasonable interpretation of my experience. Not going to reinstate it, but just want to register my resemblence to the remark. Carry on, though... As you were... 172.70.85.211 06:03, 6 May 2022 (UTC)
+Captcha looks like the reverse of 4 pics 1 word. Sorry, I can't create talk pages, so could you help move this line to the Category:CAPTCHA talk page? 172.69.135.43 00:53, 25 April 2023 (UTC)
+Categories: All comicsComics from 2022Comics from AprilFriday comicsComics with colorCAPTCHAFrankensteinAnimalsFood

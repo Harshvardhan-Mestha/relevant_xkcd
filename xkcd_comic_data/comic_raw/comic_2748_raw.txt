@@ -1,0 +1,68 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2748: Radians Are Cursed
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2748)
+|<< PrevComic #2748 (March 10, 2023)Next >>|
+Radians Are Cursed
+
+Title text: Phil Plait once pointed out that you can calculate the total angular area of the sky this way. If the sky is a sphere with radius 57.3 degrees, then its area is 4*pi*r^2=41,253 square degrees. This makes dimensional analysts SO mad, but you can't argue with results.
+Explanation[edit]
+This comic presents a series of Math Facts, appearing to be in a sequential order.
+The first fact states that the unit circle has a radius of one, which is precisely its definition. Randall labels this fact as being "normal," complete with a large green checkmark to verify this. The unit circle is typically used in abstract contexts rather than applications with a specific length unit (such as meters). For example, the trigonometric functions cosine and sine can be define the x and y coordinates of a point on the unit circle without any additional factor.
+The second fact states that one radian is equal to the length of a circle's radius. This isn't actually the way that the unit is defined. Instead, radians are usually defined as the angle encompassing an arc of a circle equal in length to its radius. This comic's logic is thus somewhat erroneous. However, this fact is still labeled as also being "normal." Also, while Randall again uses the unit circle in the fact's associated diagram, any circle could theoretically be used to show the conventional definition. Under the standard definition of an angle as the ratio of the length of a circular arc to its radius, the radian is a dimensionless unit equal to 1.
+A correct version of the second fact would be that a radian has the same value (1) as the radius of the unit circle.
+The third fact states that one radian is equal to 57.3°. This is indeed true (albeit rounded). The circumference of a circle is 2π radius-lengths, so the angle of a complete circle is both 2π rad and 360°. Thus 1 rad = 180/π°. This fact is again labeled "normal."
+The fourth and final fact states that because it was determined in earlier facts that a radian is equal to the radius of the unit circle as well as 57.3°, then the radius of the unit circle must be equal to 57.3°. This is usually not how degrees are supposed to work, because they are a measure of angle, not length. Hence, this fact is labeled "cursed" by Randall, leading to the comic's title. (However, since the radian is also an angular measure, the second fact could be viewed as equally cursed.)
+The title text is referring to Phil Plait's claim about the size of the sky, which was published on his blog: http://www.badastronomy.com/bitesize/bigsky.html. Dimensional analysis utilizes the rationale that both sides of an equation need to have the same unit. Radius typically refers to a length, which has SI units of meters. The surface area has SI units of square meters. The units of Phil Plait's "angular area" is as the title text mentions, square degrees. Thus the comic's dimensional analysts (not a profession, but instead the adherents of the mathematical technique) are said to be angered by this argument.
+Randall has alluded to Plait's angular area tip previously in his own blog What If?, in a post that examined the chances of hitting various celestial objects with a laser blast aimed at random from Earth's surface.
+Transcript[edit]
+[Title:]
+Math facts
+[A diagram of a circle is shown with radius labeled as “1”]
+The unit circle has a radius of one [In green] ✓ Normal
+[The diagram now has another (unlabeled and lighter) radius at a 57.3 degree angle. The arc between the points where the radii intersect the circle is labeled as “1”]
+One radian equals the length of a circle’s radius [In green] ✓ Normal
+[The diagram now is completely unlabeled except for the arc, which is labeled as “57.3°”]
+One radian is 57.3 degrees [In green] ✓ Normal
+[The first diagram is shown; however, the radius is labeled as “57.3°”]
+The unit circle has a radius of 57.3 degrees [In red] ✗ Cursed
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+how do transcript 172.70.127.37 19:23, 10 March 2023 (UTC)
+https://en.wikipedia.org/wiki/Square_degree may be of some help with this one. 162.158.166.124 19:44, 10 March 2023 (UTC)
+The comic isn't actually correct. A radian is not equal to the length of a circle's radius; it is equal to the length of the radius, multiplied by 2π, divided by the perimeter, which is why it has no units, while the length does. In other words, radian/2pi=length of radius/length of perimeter. 172.70.46.84 19:51, 10 March 2023 (UTC)
+As suggested by the above Wikipedia link, square degrees are in fact often used in astronomical contexts. Also, it's quite standard to say that radian=1; see for example SI derived unit. An angle is the ratio between the arc length and the radius, and we just optionally append "radian" for clarity. So 1 = 57.3 degrees is correct; Randall simply used the wrong argument to obtain it. Aseyhe (talk) 20:57, 10 March 2023 (UTC)
+I always understood radian to be the name of the unit, so by definition 1 radian=1. Barmar (talk) 21:17, 10 March 2023 (UTC)
+It is a shame that astronomers don't use the proper unit for such things: the steradian. It is literally there for describing the 3D equivalent of angle. Oh well... --172.69.79.137 04:16, 11 March 2023 (UTC)
+It is a shame that astronomers don't use the proper for length, preferring ad-hoc units based on the solar system. But if you use a different ad-hoc unit based on the properties of the solar system they throw a hissy fit.172.70.38.150 06:51, 12 March 2023 (UTC)
+Indeed, what is the "proper [distance unit?] for length"? Light-year, based on Earth's orbital period. AU, based upon Earth's orbital radius. (Kilo)metre, based (approximately, and quartered) upon Earth's circumpolar circumference. Parsec, based upon Earth's orbital radius and a notionally arbitrary subdivision of angle. (Which can be avoided by mathematically more pure "paradians"???) Planck-lengths, might be not solar-/geo-centric but creates horribly huge numbers even at the human scale. ;) 172.70.86.128 16:07, 12 March 2023 (UTC)
+Planck length could work. Large Number problem can be resolved by 10insert number here Planck Lengths, since astronomers already do it, and round _insert number here_!! 1844161 (talk) 15:43, 14 April 2023 (UTC)
+Someone fix the vandalism, how do you upload images? --Purah126 (talk) 03:06, 11 March 2023 (UTC)
+I'm doing it but that user needs to be blocked.
+To revert images, scroll down and click the revert link next to the last good version.
+And do not feed the trolls. ~ Megan she/her talk/contribs 03:10, 11 March 2023 (UTC)
+On reading this I vividly remembered a maths teacher once asking our class "What's 10% of a straight line?", and the looks of disgust and bewilderment when he said the answer was 18 degrees. 172.70.86.147 08:31, 11 March 2023 (UTC)
+I just hope that was Celsius degrees (or Kelvin), rather than Fahrenheit(/Rankine). ;) 172.71.242.190 10:51, 11 March 2023 (UTC)
+If you use Kelvin with degrees you have already lost...172.68.51.178 13:29, 11 March 2023 (UTC)
+So the volume of the sky is 4/3 π r³ = 7,092,429 cubic degrees
+I remember in the quantum mechanics class we figured that if \hbar is defined to be h/2π, then we might as well introduce the notation \pibar as an alternative for 1/2. Captain Nemo (talk) 11:08, 12 March 2023 (UTC)
+The logic is fine once you recall the formula s = r x theta. The arc length subtended by an angle is equal to the radius times the angle. On the unit circle, the radius is 1 (no unit). Therefore, the subtended arc length of 1 radian is s = 1 x 1 radian = 1 radian. 172.71.22.117 21:45, 12 March 2023 (UTC)
+"...the radius is 1 (no unit)." There's definitely a unit. It's whatever the unit the unit circle is reflecting (even if that's mathematical Unity). And in the case of dimensional analysis, it's a particular dimension that you'd need to account for, and the difference between this radians thing and the degrees thing is only the inclusion of dimensionless pi-based constant of conversion. Doesn't change the understanding of the issue, but I believe that some explanations/comments aren't then conveying it onwards accurately. 172.69.79.184 22:15, 12 March 2023 (UTC)
+I mean, I'm sorry, but respectfully, you are wrong. The unit circle is *by definition* a circle of radius 1. There is no unit attached to that. 172.71.82.41 01:55, 13 March 2023 (UTC)
+Correction: The unit is that of the radius, by definition. It is one of that unit, whatever that unit may be. You attach whatever unit you want to it, when you want to, but it isn't actually a unitless value when you start comparing it with othe values whose relationship and own unit are known. 172.71.178.207 03:59, 13 March 2023 (UTC)
+I'd say the radius of a plain unit circle is unitless, but not dimensionless. It has a length dimension, but we don't necessarily attach a unit to that dimension. Pmc (talk) 18:19, 25 April 2023 (UTC)
+There is actually some dispute about whether angles should be measured using units. I can't find it now, but there was an article by someone arguing that the current SI definition of the radian as 1 rad = 1 m / 1 m was flawed. He felt that units of angle should have a dimension, A, and rewrote several formulae slightly to accommodate this. But more often today, the radian is considered dimensionless with a value of exactly 1, making it not actually a "unit" so much as a hint telling how the angle was measured. In this definition, an angle has a measure of x (radians) iff the circular arc it intercepts as a central angle has an arclength of x times the circle's radius. Under this definition, the following become mathematically correct:
+rad = 1
+° = π/180
+Radius of unit circle = 1 = (180/π)(π/180) = (180/π)° = 57.29577...°
+(1°)² = π²/32400
+There is really nothing mysterious about it. Here, we are just defining the radian and degree as real numbers. This is how we treat them in Calculus. For instance, d/dx sin(2x rad) = 2 cos(2x rad), not (2 rad) cos(2x rad) as the chain rule implies. This is because 2 rad = 2. This also helps explain why Phil Plait's bizarre dimensional analysis actually does work. In particular, the last equation above would normally be written with "rad" on the right-hand side, giving a conversion between square degrees and square radians. Using the fact that the area of a sphere is 4πr², we see that the area of the unit sphere must be 4π square radians, and thus 4π * (32400/π²) * (1°)² = (129600/π)°² = 41252.961...°². Note that a "square radian" is also equal to a "steradian" by definition, which is the solid angle that subtends 1/(4π) of the surface of the sphere. 172.70.127.38 02:56, 13 March 2023 (UTC)
+In complex analysis we defined the exponential function as a power series. Pure complex numbers, no units or even a hint that there is such a thing as an angle in the definition. Many theorems and lemmas about the properties of exp(z) follow, including derivatives, integrals, Eulers formula, Eulers identity. Sin() and cos() are defined as the real and imaginary parts of exp(); pi is defined as a number via Eulers identity. No circles or angles involved. In the last lecture the properties of the exponential combine in a few lemmas to show that it can trivially solve a bunch of problems such as the simple harmonic oscillator and trigonometry.
+The point is we can define exp(), hence sin() and cos(), without using angles. There is no need for a unit for angles until you start working with angles, just as there is no need for a unit for elephants until you start counting elephants. You could reorder the textbook, put the trigonometry chapter before complex analysis and define angles first, but you'd have to be a masochist or a high school teacher to do it that way.172.70.174.160 05:24, 13 March 2023 (UTC)
+Sure, but in the same way "number of elephants" is dimensionless, "measure of angle" is also dimensionless. That's not true of physical quantities like distance or area. And in this convention, we do have radian = 1. (The SI even defines the radian as 1 m / 1 m, so clearly it has to equal 1.) 172.71.254.135 19:18, 13 March 2023 (UTC)
+2 pi is a full circle, also in another galaxy, or in another universe. All real units contain (are, in fact) some arbitrarily chosen factor. --172.71.246.11 08:07, 14 March 2023 (UTC)
+They needn't be... 172.70.162.135 13:16, 14 March 2023 (UTC)
+Anyone else surprised Randall didn't save this comic for Pi Day? It would've been a perfect fit, and just 4 days later! PotatoGod (talk) 06:30, 15 March 2023 (UTC)
+Categories: All comicsComics from 2023Comics from MarchFriday comicsMathGeometryFactsComics with colorComics featuring real peopleComics featuring cursed items

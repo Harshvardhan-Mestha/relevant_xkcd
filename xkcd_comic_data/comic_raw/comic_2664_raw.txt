@@ -1,0 +1,61 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2664: Cloud Swirls
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2664)
+|<< PrevComic #2664 (August 26, 2022)Next >>|
+Cloud Swirls
+
+Title text: 'Why did you get into fluid dynamics?' 'Well, SOME planet has to have the coolest clouds, odds are it's not ours, and rockets are slow.'
+Explanation[edit]
+There are planets.[1] A lot of them, even.[2] Like our planet, for instance.[3] In 3D software, depictions are often rendered at a lower quality when the viewer's perspective is far away from them, to save on computational work for aspects the user can't clearly discern. This idea is built upon here, conceivably to suggest how simulations of universes might seem different than base reality to observers within them.
+In this comic, Cueball and Megan theorize that complicated cloud formations occur naturally on other planets in other solar systems. On planets with no observers to look at the clouds closely, our universe, or the simulation thereof, might not afford to render a visual depiction of the atmosphere in higher quality. Meteorologists and physicists on Earth might notice that such exoplanet atmospheres do not obey formal Navier-Stokes fluid dynamics, but instead reflect low-quality corner-cutting of such calculations, such as exhibiting only smooth laminar flow instead of turbulence, its alternative. The foregoing would make sense if the Universe is actually simulated by a computer (a 43% probability[4]) and the being(s) who are running the physics simulator, or have coded our universe, wanted to speed things up.
+[Expand]
+Further considerations
+Of course, most people do not think that the Universe is a simulation,[actual citation needed] but society does not know that it isn't a simulation with absolute certainty. There is a direct relationship between the question of the simulation hypothesis in metaphysics and Pascal's wager in theism, i.e., whether God(s) exist(s), with weighty implications regarding free will and determinism, such as which raise the question of non-naturalist compatibilism.
+Megan proposes an additional theory that the universe is intended to make cool swirly clouds, and that the presence of life to observe these clouds is a bothersome coincidence. This goes against the theory that the Universe must not care about making cool swirly clouds since it wants to skimp on their fluid dynamics calculations. Even among followers of the simulation hypothesis, ascribing sentiment, emotion, or motivations to the entire universe is usually considered to be in jest, because of the dissimilarities between sentient beings and cosmologically distant sets of galaxies.[citation needed] This jest forms the basis of the comic's humor. Neither ascribing motivations to the Universe nor positing the purpose of a constructed simulation of our reality are falsifiable hypotheses subject to scientific inquiry, although they may imply logical and mathematical inferences.
+The title text includes a dialogue with one person asking another why they got into fluid dynamics. The answer implies that the motivation was to simulate the clouds of planetary atmospheres unreachable by today's rocket technology.
+Transcript[edit]
+[Cueball and Megan standing on a field, looking out at a landscape of clouds]
+Cueball: It's weird to think there are countless planets with air and stuff but no life.
+Cueball: Billions of years of clouds making cool shapes with no one to look at them.
+[Just Cueball and Megan standing next to each other]
+Megan: Yeah, it seems like a waste. The universe getting the complex fluid dynamics right for every momentary swirl of cloud.
+Megan: Just a huge amount of work.
+[Cueball and Megan walk away to the right]
+Cueball: Maybe atmospheres have smooth laminar flow until someone looks closely.
+Megan: Or maybe the universe just likes making swirly clouds, and is annoyed that we're watching.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+3-D video games? HUH??172.70.131.126 09:33, 27 August 2022 (UTC)
+It's not how I would have started the Explanation, but I think it'll quickly be rewritten enough that this element is downplayed/subsumed in some more generalised attempt to explain everything from QFD to the CBR. As I'm only just reading this now, just before I have to wander off to do something else, I shall have to defer my own dabbling edits until later, by which time it will have been matured (or at least remixed) into a more thorough text, so no point me worrying upon how to improve the necessary but rarely inviolable initial attempt to Explain. 172.70.85.5 11:51, 27 August 2022 (UTC)
+Maybe in some combination with the Observer effect (physics), it's an attempt to get at the simulation hypothesis maybe?
+I absolutely do not get whatever it is that the title text is saying, so I'm sitting this one out. 172.70.214.189 14:56, 27 August 2022 (UTC)
+I'd interpret it as them studying fluid dynamics in hope of discovering a way to create the coolest possible cloud. --172.68.50.207 15:07, 27 August 2022 (UTC)
+Aye. Given we can't see the 'best clouds' here (because the chances are low that we can) and we can't go and see the absolute best clouds (due to limitations on visiting every likely place out there), by intensely studying the phenomenon that in part dictates how all clouds look one might create (or visually predict the look of) the superior type through rigorous simulation/emulation/etc. 172.70.162.155 15:53, 27 August 2022 (UTC)
+Much more computing power could be saved by skimping on the chemistry of the quattuordecillions of atoms in the oceans than the clouds in the sky ... but skimping on oceanic chemistry would make biogenesis much less feasible. However, Earth has life.
+Wait, what if this is the solution to the Fermi paradox? /jk Xkcdjerry (talk) 02:49, 28 August 2022 (UTC)
+"Of course, most people do not think that the Universe is a simulation..." feels like a genuine [citation needed] to me. I can't say with confidence that it's the prevailing theory, but it's been gaining so much traction in this day and age that it feels weird to claim with confidence that the majority of people don't think it.
+Agree. On the other hand, I don't think the Universe simulation cheats to save computing resources. With the scale it works in, it must be massively parallel system which isn't able to reallocate resources from one area to other. Also, if whoever programmed the simulation would be willing to cheat, they would start with not designing the physical laws so complicated. Or alternatively, they would cheat big, changing our memories to make everything seem to work correctly. -- Hkmaly (talk) 23:44, 28 August 2022 (UTC)
+Yes. If the universe were like The Matrix—i.e., its main goal were to house beings possessing minds—then simulating only the input to each being’s senses would be the most economical.
+However, the amount of computation to identify beings and what information constitutes their input might be so hard as to be analogous to the halting problem, or technically undecidable (but subject to likely useful heuristics, depending on the purpose of any such simulation.) This gets into non-naturalist compatibilism on the free will question, but it's not clear whether such a discussion would add anything directly to an explanation of the comic, but is worth considering. Maybe in the "Further considerations" block. 172.69.34.28 20:29, 29 August 2022 (UTC)
+Am I the only one who feels like the Explanation is lacking its customary explanatoriousness? I propose a table in the form of Pascal's wager, which when projected on the Mandelbrot set, looks like clouds. 162.158.166.173 03:12, 29 August 2022 (UTC)
+I don't think this is an accurate description or explanation of the title text, so I am moving it here:
+"The response is, more or less, that the second person wants to see “the coolest clouds”. If one devised a system to determine what would qualify as the coolest clouds (an entirely subjective thing), then one could rank planets on how cool their clouds were. Since only one planet would have the best clouds and there is a great number of planets, it is statistically unlikely that Earth - or any of the other planets in our system - will be the winner. Thus, in order to see the coolest clouds, one must either travel to another system or learn fluid dynamics to simulate them. Compared to the vast distances a ship must travel to reach even the nearest star, even rockets seem slow, and it would take a long time to get even a fraction of the way there. Because of this, the latter is chosen."
+162.158.166.173 03:59, 29 August 2022 (UTC)
+I was surprised to see that removed. It looked exactly like the explanation for the TT, to me. The alternative seems to lack so much of the implied rationale. But maybe the simulation of this site provided to my brain is different from the simulation of this site provided to yours (assuming you exist, and you aren't a confounding factor included 8n my whole simulation of what I might or might not be experiencing).... 172.70.91.78
+It assumes that different atmospheric compositions could produce cooler clouds, which is tautological given the subjectivity of the criterion, but questionable from the perspective of mean opinions over a wide population such as the readership. The current two sentence explanation of the title text sidesteps that issue, and is much easier and faster to read. 172.70.214.183 20:54, 29 August 2022 (UTC)
+I was reminded by this strip of the fact that THIS planet, the only planet in our solar system where the natural satellite has the correct relationship with the sun to occasionally block it out in an extremely cool way (with the 'diamond ring' corona effect), is also the only planet (so far as we know) where such , solar eclipses can be APPRECIATED...
+MarquisOfCarrabass (talk) 06:23, 29 August 2022 (UTC)
+This is the WORST explainxkcd "Explanation" I have ever seen. There is absolutely NOTHING in the comic that has ANYTHING to do with 3D videogames and any such ideas come COMPLETELY from out of the blue. SHEESH! 172.70.130.171 10:40, 29 August 2022 (UTC)
+Agreed. The comic is about planets and clouds, there is nothing about simulations or rendering at all. The last panel is a hint at anthropomorphizing (if that's a word) the universe for humour, as if it just creates neat clouds for fun. 172.70.91.128 07:18, 30 August 2022 (UTC)
+Getting fluid dynamics right being a lot of work is absolutely a reference to simulation, and I don't see how such in the context of observations of our reality can escape entailing the simulation hypothesis. 172.70.214.183 00:43, 31 August 2022 (UTC)
+As for the "Further consideration" section, it's a whole big pile of . . . something . . . that belongs somewhere else but not here. 172.70.131.170 10:46, 29 August 2022 (UTC)
+Click the Expand link, pay the consequences :D 172.70.206.213 23:48, 29 August 2022 (UTC)
+Is there a difference between ascribing motivations to the Universe and positing the purpose of a constructed simulation of our reality? 172.70.211.146 23:37, 29 August 2022 (UTC)
+Neither are falsifiable hypotheses, to begin with. 172.70.206.213 23:45, 29 August 2022 (UTC)
+Yes; there is a difference. The first says nothing about where the motivations come from and the second is specific about it. If the Universe has motivations they could come from any number of unknown sources . . . . 172.70.178.107 10:43, 30 August 2022 (UTC)
+Feels like this deserves a link to the Cloud Appreciation Society Miamiclay (talk) 07:07, 31 August 2022 (UTC)
+Feels like you could replace the whole explanation with that link and it would be more explanatory. I understood the comic more before I tried to read the explanation than I do afterwards. 172.70.91.78 11:36, 2 September 2022 (UTC)
+Categories: All comicsComics from 2022Comics from AugustFriday comicsPages using the "citation needed" templateComics featuring CueballComics featuring MeganWeatherPhysicsAstronomy

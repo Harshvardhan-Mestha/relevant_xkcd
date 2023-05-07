@@ -1,0 +1,42 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2689: Fermat's First Theorem
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2689)
+|<< PrevComic #2689 (October 24, 2022)Next >>|
+Fermat's First Theorem
+
+Title text: Mathematicians quickly determined that it spells ANT BNECN, an unusual theoretical dish which was not successfully cooked until Andrew Wiles made it for breakfast in the 1990s.
+Explanation[edit]
+This is a reference to Fermat's Last Theorem, humorously implying that Pierre de Fermat created a similar theorem as a child. Fermat's Last Theorem states that no three positive integers a, b, and c satisfy the equation an+bn=cn for any integer value of n greater than 2. It is notable for having remained unproved for hundreds of years, despite many attempts to prove it; it's called his 'last' theorem because it was the last one left without proof or disproof. The Taniyama–Shimura conjecture (now known as the Modularity theorem) and the epsilon conjecture (now known as Ribet's theorem) together imply that Fermat's Last Theorem is true. The epsilon conjecture, proposed by Jean-Pierre Serre, became provable thanks to Ken Ribet in 1986. Andrew Wiles, with assistance from his former student Richard Taylor, succeeded in proving a special case of the Taniyama-Shimura conjecture for semistable elliptical curves in 1995, which finally established the proof of Fermat's Last Theorem. (The full Modularity theorem was subsequently established as correct by Wiles's former students Brian Conrad, Fred Diamond and Richard Taylor, and Christophe Breuil in 2001.)
+The young Fermat here didn't try to prove the mathematical equation, but simply tried to read it as words, treating the "+" sign as a "t" so that "AN+" can be read as "ANT". His interpretation was quickly disproved because there's no "A" between "B" and "C", and no "O" between "C" and "N". It's unclear if this is considered Fermat's First Theorem because it was the first he made, or because it was the first to be conclusively disproved.
+In the title text, the "words" are "ANT BNECN", treating the equals sign "=" as an "E"; while "=" doesn't look especially close to "E", it is similar in that it contains horizontal bars in a horizontally symmetrical arrangement (and of course, it can be read as "equals", which begins with "E"). If the letter E is written in sans-serif block text in white on a black background, the "negative space" between the Upper Bar, the Middle Bar and the Lower Bar of the E form a =. The comic shows a blackboard with white letters. The text then references Wiles, asserting that he proved this modified form of Fermat's First Theorem as well by cooking this "ant bnecn" (whatever "bnecn" is) as breakfast.
+2492: Commonly Mispronounced Equations also contains equations pronounced as if they were words in the ordinary sense.
+Transcript[edit]
+[A Hairy-like boy, representing Pierre de Fermat as a child, stands at a blackboard holding a piece of chalk. To his right is Miss Lenhart. The following text is somewhat crudely written on the blackboard:]
+AN + BN = CN
+SPELLS
+ANT BACON
+[Caption below the panel]:
+Fermat's First Theorem was quickly disproved
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+but it does spell ant bacon JLZ0kTC5 (talk) 18:35, 24 October 2022 (UTC)
+Possible reference to Fermat's Last Theorem. 172.70.206.151 (talk) 18:43, 24 October 2022 (UTC) (please sign your comments with ~~~~)
+Make that certain reference to Fermat's Last Theorem. --172.70.179.30 18:57, 24 October 2022
+2492:_Commonly_Mispronounced_Equations? JLZ0kTC5 (talk) 19:45, 24 October 2022 (UTC)
+Yes, added it. —While False (museum | talk | contributions | logs | rights) 21:46, 24 October 2022 (UTC)
+Thanks JLZ0kTC5 (talk) 14:28, 25 October 2022 (UTC)
+Is it worth pointing out that Fermat's Last Theorum was not the last one he postulated, but the last one that remained unproven? Or do we leave all that to the Wikipedia link for anyone curious? 172.71.26.59 20:50, 24 October 2022 (UTC)
+I say leave it to Wikipedia, since it doesn't seem to help with explaining any part of the comic.172.71.94.179 06:49, 25 October 2022 (UTC)
+It may also be considered "last" in the sense that it was published posthumously, having previously been just a handwritten note in the margin of another text. Shamino (talk) 12:11, 27 October 2022 (UTC)
+Little Fermat's Theorem, as opposed to Fermat's Little Theorem. 162.158.2.219 20:58, 24 October 2022 (UTC)
+Fermat was French (not American). Not sure, what the French call the equals sign. Sebastian --198.41.242.215 07:07, 25 October 2022 (UTC)
+They call it égale, so it does start with an (accented) E.172.70.162.77 08:48, 25 October 2022 (UTC)
+Randall's Fermat seems to speak English, since "ant" and "bacon" are English. And "BNECN" is not Fermat's interpretation, but discovered centuries later, perhaps by Wyles, who is American. Barmar (talk) 14:05, 25 October 2022 (UTC)
+Sir Andrew Wiles is British. (He was living in the U.S. when he published his proof of Fermat's last theorem, though.) --172.71.22.191 18:04, 25 October 2022 (UTC)
+In Semitic languages we omit vowels when writing words, so "An+BnCn" could be read as "Ant Bancon", which is close enough. Ralfoide (talk) 16:59, 25 October 2022 (UTC)
+Reminds me of this bit about how Einstein came up with the formula for relativity: https://youtu.be/rsyJX3sESjs. Shamino (talk) 12:21, 26 October 2022 (UTC)
+I think that, given the detail we've already gone into about how to prove Fermat's Last Theorem, it's reasonable to include a bit of the history. Namely, that it was the last theorem left with neither proof nor counterexample.172.71.166.217 04:52, 31 October 2022 (UTC)
+Categories: All comicsComics from 2022Comics from OctoberMonday comicsMathComics featuring Miss LenhartComics featuring real people

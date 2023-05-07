@@ -1,0 +1,60 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2764: Cosmological Nostalgia Content
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2764)
+|<< PrevComic #2764 (April 17, 2023)Next >>|
+Cosmological Nostalgia Content
+
+Title text: Later renouncing clickbait, Einstein called his inclusion of cosmological content in general relativity the biggest blunder of his career.
+Explanation[edit]
+This explanation may be incomplete or incorrect: Created by a z=90s KID - The entire start of this explanation with the made up word multimanteu that has nothing to do with this comic should be changes maybe just deleted! Needs more explanation of what the click bait in the title text refers to in the context of the Einstein blunder and why that belongs in this nostalgia comic. Do NOT delete this tag too soon.
+If you can address this issue, please edit the page! Thanks.
+Like many xkcds, this comic is a figurative multimanteau, in this case a combination of "cosmological constant" (an astrophysics term to quantify the rate of expansion of the universe) and "nostalgia content" (clickbait marketing aimed at a specific age group referencing pop culture from their youth). The canonical examples of nostalgia content are "Only 90s Kids Remember..." and "Feel Old yet?". Some people of relatively advanced years like to make comparisons to others in their age group of where events that they remember fit into history; e.g., "The first moon landing was closer to the end of World War I than to today."
+In cosmology, z is the symbol for redshift, which is the phenomenon where photons traveling from an object that is moving away from the observer exhibits an increase in wavelength, resulting in its color shifting towards the red end of the spectrum. Due to the accelerating expansion of the universe, objects that are further away from us are moving away from us at a faster velocity, resulting in higher redshift. As light has finite velocity, it takes a longer time for light from faraway objects to arrive at the observer.[1] So the light observed at the present must have been emitted by the faraway object further back in time. Megan is stating that only people that appear to the observer with high redshift (z = 10) will have existed sufficiently further back in the past to remember when the first stars were still forming. Megan also has a red tint (she is drawn in the color #462424, a very dark red; here is a comparison of #462424 and black:     ), indicating that she is one such z = 10 kid. This would mean that she was born around 500 million years after the universe was formed, or almost 13 billion years ago. However, the James Webb Space Telescope famously discovered fully formed, large, bright galaxies around z = 10 (of which the only explanations forthcoming so far are primordial black holes[2][3] or axion miniclusters[4]) so Megan's nostalgia may be somewhat confabulatory.
+White Hat, meanwhile, is referencing the fact that the universe has three eras: radiation dominated, matter dominated, and dark energy dominated. As the universe expands, the density of radiation and matter decreases due to their dilution, causing the universe, which first started off being dominated by radiation, to then become dominated by matter, then by dark energy (which does not dilute as the universe expands). Dark energy dominated era, which is when "dark energy started accelerating the universe's expansion" started around 5 billion years ago while bacteria evolved around 3 billion years ago, meaning that they evolved closer to dark energy domination than to today.
+The title and title text play with the similarity in sound between 'content' and 'constant', segueing between web(page) content and cosmological constant.
+The title text refers to Einstein's inclusion of the cosmological constant to his theory of general relativity in order to attain a static model of the universe, which he later removed, reportedly referring to it as his "biggest blunder". Cosmological constant has, today, been generally accepted as a part of the current cosmological model, relating to the concept of dark energy.
+Transcript[edit]
+[Megan (with a red tint) holds both her arms out and up while she is talking to Cueball to the left of her. To the right of Megan White Hat is holding both arms out and down while he is talking to Ponytail to the right of him.]
+Megan: Only z=10 kids remember watching the cool dark gas that suffused the universe being eaten away by expanding bubbles of plasma around the first stars!
+White Hat: Want to feel old? Bacteria evolved closer to when dark energy started accelerating the universe's expansion than to today!
+[Caption below the panel]:
+Cosmological Nostalgia Content
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+When I added the transcript it broke the "Created by a BOT" tag on explanation, even though I didn't touch explanation 172.71.151.98 05:30, 18 April 2023 (UTC)
+No, it was broken before your edit. Someone else changed "BOT" to "Z=90s KID". The equal sign causes problems for mediawiki, but it's been fixed now. --Orion205 (talk) 06:03, 18 April 2023 (UTC)
+For anyone who would benefit from a deeper explanation:
+In the syntax for templates, equals signs come after parameter names (see Help:Templates § Parameters). So, Created by a Z was parsed as the name of a nonexistent template parameter, and 90s KID - Please change this comment when editing this page. Do NOT delete this tag too soon. was passed in as that parameter's value.
+That still wouldn't necessarily be a problem. It just also left the first parameter empty. This specific template is programmed to show an error message when that happens. ~AgentMuffin 06:13, 18 April 2023 (UTC)
+Two times the red tint around Megan has been mentioned, in explanation and transcript... I cannot see that, no matter how much I zoon in. Is it actually there (can it be measured on the image file?) or is it just someone who wished it was like that? If it can be measrued it should be explained and if not then the mention should be deleted --Kynde (talk) 07:13, 18 April 2023 (UTC)
+What I meant was that Megan's line art in this comic appeared more brownish/reddish to me than the line art of the other characters. Specifically, the colour hex #472425 using an online colour hex checker. --Multiuniverse (talk) 07:22, 18 April 2023 (UTC)
+It's definitely there, but I didn't notice it until I saw it mentioned. It's subtle enough that I imagine certain displays or differences in individual color perception could make it harder to see, but trust me, it's certainly there. 162.158.222.5 07:24, 18 April 2023 (UTC)
+Why is everyone so unsure? it's definitely there. Mushrooms (talk) 09:00, 18 April 2023 (UTC)
+Not all monitors have the same quality, I can imagine that on some cheapish laptop screens it can be a lot harder to see -- 172.71.131.134 12:20, 18 April 2023 (UTC)
+On this laptop (Dell Latitude 600 - good for its time, a rather archaic thing now) it shows just. Took the explanation mentioning it for me to notice. (And, yes, I'm using pretty archaic kit, at this moment. Though not my oldest, because I tend not to throw away 'perfectly working' things. That said, when it comes to remembering how the universe is, I'm not quite in the "I remember when all this was fields" category...) 172.71.242.203 19:31, 18 April 2023 (UTC)
+For cheap laptops try tilting the screen (or moving your head).162.158.158.146 05:00, 23 April 2023 (UTC)
+For me: red green color blindness Josot (talk) 12:27, 18 April 2023 (UTC)
+
+For anybody wondering: the current (accurately measured) Highest redshifts is z = 11.1 Josot (talk) 12:31, 18 April 2023 (UTC)
+Isn't it a bit ironic that Randall now clearly identifies "Want to feel old" content as clickbait, while I remember that he himself did a number of comics around that topic some years ago? I imagine that he changed his opinion BECAUSE that became such a popular clickbait topic. Could you link to some of these older comics? ("Want to feel old? Randall Munroe did "want to feel old" comics closer to the inception of xkcd than to today.")--172.71.160.38 07:47, 19 April 2023 (UTC)
+😄 --Catherine (talk) 22:14, 21 April 2023 (UTC)
+Light's velocity is limited only by the speed of causality. As such, I'd recommend modifying the language about light having a "finite" velocity. Technically speaking, the speed of a photon, from the photon's perspective, is non-existent, and what the photon sees, traveling at the speed of causality, is everything happening all at once across it's path. In other words, from the perspective of the photon, there is no passage of time. However, simultaneity varies based on the perspective of the observer.
+InB4
+Before anyone embarrasses themself by asking, "multimanteau" is obviously a portmanteau of "multiple" and "portmanteau". Sheesh, get with the neurolinguistic program. "Phrasemanteau" would also be an acceptable neologism. - Frankie (talk) 11:48, 18 April 2023 (UTC)
+I'm not fond of a explanation needing an explanation :/
+The first relevant use of "multimanteau" found by Google is this page Victor (talk) 09:01, 19 April 2023 (UTC)
+Presumably that makes everything else a unimanteau?172.70.85.67 14:40, 19 April 2023 (UTC)
+That word and the first sentence needs to be deleted from the explanation! --Kynde (talk) 19:43, 19 April 2023 (UTC)
+Inconstant "Constant"
+I find it weird that so much professional study still refers to an assumed "cosmological constant", when it is observably not constant. Feels like we should be calling it "the cosmological value", since expansion has not been occurring uniformly & considerable localized variation in "vacuum energy" seems relatively certain. Parts of the observable universe are considerably older than the "big bang" that so much theory is hung upon; what part of "these laws are localized effects, not unchanging constants" has not been obvious, for >30 years? ProphetZarquon (talk) 14:31, 18 April 2023 (UTC)
+This may be related to the fact that there are so many actual problems around the cosmological "constant" that noone wants to bother renaming it before getting better idea what it actually is. -- Hkmaly (talk) 21:01, 18 April 2023 (UTC)
+I'm in agreement with you,ProphetZarquon, with a slight change. In most of the sciences we call something that's not constant a "variable". Thus we'd have the "cosmologicial variable". Which admittedly does not roll off the tongue as easily. Maybe "cosmic variable" instead? Which seems too alike a "Cepheid variable" star now. Hmm. Maybe I agree with Hkmaly afterall. 😂 Iggynelix (talk) 13:40, 19 April 2023 (UTC)
+"Cosmological function" or "cosmological field" is probably more appropriate than "cosmological variable".162.158.63.79 05:10, 23 April 2023 (UTC)
+Missing comic
+It's mid-morning (ET) on Thursday and there's still no new Wednesday comic. Barmar (talk) 13:47, 20 April 2023 (UTC)
+Very late (definitely Thursday, I think in all time-zones if it isn't even Friday already), but now exists. The interactivity of it might have had to absorb more time to set up in a working manner... 172.70.162.158 17:19, 20 April 2023 (UTC)
+Wednesday's very late (i.e. Thursday) is followed by also very late Friday (not yet seen on Saturday, UTC or almost all(?) US timezones). Maybe shortly, but if this continues to be A Thing with a Monday->Tuesday delay then... Certainly check whether defacto publication dates/days need to be revised from the traditional expectation (or even the official publication one). 141.101.99.157 09:23, 22 April 2023 (UTC) (ps. or, meant to say, late and/or meta April Fool..?)
+Categories: All comicsComics from 2023Comics from AprilMonday comicsIncomplete explanationsComics featuring CueballComics featuring MeganComics featuring White HatComics featuring PonytailComics featuring real peopleComics to make one feel oldComics with colorCosmologyBiologyClickbait

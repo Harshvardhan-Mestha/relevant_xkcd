@@ -1,0 +1,376 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2601: Instructions
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2601)
+|<< PrevComic #2601 (April 1, 2022)Next >>|
+Instructions
+
+[Click comic to enlarge]
+Title text: Happy little turtles
+To experience the interactivity of this comic, visit the original comic.
+Contents [hide] 
+1 Explanation
+1.1 Unique header text
+2 Trivia
+3 Transcript
+4 The Resulting Image
+4.1 Explanation of the image
+4.2 Transcript of the image
+5 Index of facts
+5.1 Sources
+6 Discussion
+6.1 Narrative vs. code
+
+Explanation[edit]
+This is the 12th April fools' comic released by Randall. The previous April fools' comic was 2445: Checkbox, which was released on Thursday, April 1st, 2021.
+When loading the comic just a small dot is shown, a radio button (or option button). Usually, there would be more than one to give the user options. Once it has been selected it cannot be deselected. Once pressed the button turns blue and this starts the real part of this April fool's comic.
+The comic consists of an audio file. The speech is a mix of facts about turtles and coding instructions in LOGO. When executed, the instructions draw an xkcd comic. The audio file is 9 hours and 7 minutes long.
+Click to view the animation of the code running to create the picture, sourced from the GitHub.
+See the resulting comic below.
+And see how it is animated here.
+This has been compiled by theinternetftw on Github.
+The transcript of the quotes (the non-code) can be found here 2601: Instructions/Audio Transcript.
+Images of the dynamic changes and other pictures relating to this comic can be found here 2601: Instructions/Images.
+Once the voice begins to describe the instructions (hence the title) it is possible to mute the audio by pressing a muted button at the bottom right of the screen. This fades into view when the radio button is pushed. Pressing it will change the button to a non muted loudspeaker. These were the same buttons that were in the previous April fool's comic 2445: Checkbox. That was the first xkcd comic with audio, and thus these were two April fools' comics with audio in a row, and these are the only comics with audio. In the Checkbox comic, the mute buttons meaning are reversed, so the sound is on when the loudspeaker is shown and muted when the mute button is shown. It could be another layer to the April fool's joke or just an error by Randall.
+The image originally displayed on this page was of a small turtle crawling in the center where the radio button is in the real comic. That was the image that would be downloaded by web crawlers like explain xkcd's bot, as it is what was placed here on xkcd: https://imgs.xkcd.com/comics/instructions_2x.png. This is of course not the real comic, which cannot be downloaded in that manner.
+The "turtle" is a key concept in Logo, a programming language especially designed to teach programming to children in an easy way. The turtle in the logo is the cursor. Programming commands move the turtle, drawing a line as it goes. Of course, listening to hours of instructions, including the speech-synthesized reading of source code, is not an easy way to code or draw a picture.[citation needed]
+In addition, at the end of the audio the voice says:
+"I even talk to turtles at times, but you need to understand LOGO to appreciate the great, great things that have been created. We spend so much of our life typing, looking, but never ever seeing."
+The title text alludes to Bob Ross's catchphrase "happy little trees" in The Joy of Painting, a PBS TV show in which Ross leads the viewer through the painting of a nature scene. The audio file itself is also presented in the style of The Joy of Painting; it begins with greeting the viewer and introducing the color palette to be used (just one color, in this case, as Logo and all computer monitors of the time were monochrome). The speaker then reads out some helper functions to be used in programming the scene, which is more analogous to Ross's palette of paints (titanium white, carmine red, etc.) along with words of encouragement as each is completed. The functions are DIST, to calculate the Euclidean distance between two points, LERP, to perform linear interpolation, MIX to average two numbers (with LERP), and CUBIC to draw cubic Hermite splines. From there, the speaker alternates between sketching parts of the scene and offering more words of encouragement, mixed in with turtle facts.
+Transcribing the audio into text was organized as a project on github.
+This is not the first time that Randall made an interactive comic where turtles played a big part, see 1416: Pixels. In this, he jokes with the idea of turtles all the way down, which is also mentioned in the audio file. He also made a comic simply called 889: Turtles.
+Unique header text[edit]
+This comic has a unique header text, see the details here. The header is:
+"Today's comic was created with Patrick, Amber, @chromakode, Michael, Kat, Conor, @zigdon, and Benjamin Staffin."
+The header had not changed since the promotion of the new what if? 2 book.
+Trivia[edit]
+If you have scripts disabled, you will just see a picture of a little turtle which is not interactive.
+The Tree being atop a turtle in the finished comic (as well as the general turtle theme) could be a reference to the programming phrase "it's turtles all the way down", which is used to describe infinite recursion. A world atop a turtle (albeit with elephants between) is also a Discworld reference, derived by Terry Pratchett from the same mythic roots, and something Randall is known to have occasionally referenced.
+Transcript[edit]
+[The comic consists of one radio button, a small circle in the center of a large white panel. It is interactive. When pressing the radio button (selecting it), it turns blue. The second the radio button is pressed a more than 9-hour long audio file of coding instructions begins to play, and a mute button appears in the bottom right corner. It fades slowly into full opacity. Pressing this button will change it to a loudspeaker. It toggles whether there is sound playing or not. It is not possible to shut down the audio by pressing the radio button. Once selected it cannot be deselected as there is only this one option.]
+[Covered by the radio button is an image of a turtle crawling from left to right, with a dotted line trailing behind it, indicating its movement. This image can only be seen by looking in the place where images for xkcd are usually placed on xkcd.]
+[To read a transcript of the audio file go here: 2601: Instructions/Audio Transcript.]
+The Resulting Image[edit]
+Explanation of the image[edit]
+The image drawn by the Logo program is a depiction of Bob Ross standing in front of a canvas, on which he has painted "a happy little tree, holding up a happy little world". However, unlike his usual "happy little trees", the tree depicted is not a small pine, but rather a gargantuan World Tree growing from the back of a giant World Turtle, on which a Flat Earth rests. (The "happy little world" does bear several small pines more typical of his style.) Several ornaments hang from the World Tree, referencing the common practice of hanging ornaments on Christmas trees.
+Near the middle of the world, a Cueball sits while listening to the radio, perhaps tuning in to the same transmission that generated the image. Closer to the reader, a turtle is shown walking around, leaving dotted-line tracks behind it, suggestive of the Logo turtle. The dotted-line tracks spell out "TY", shorthand for "thank you" (presumably directed to the readers).
+At the far top right, a dotted line is shown past which the words "vacuum decay" are written. This is a hypothetical effect in which the universe, being in a metastable} state, decays to a true vacuum, and the resulting annihilation of everything expands at the speed of light. As such, humans would have no idea if there were an approaching false vacuum until it arrived at Earth.
+At the far left of the image, a robot and human are drawn next to a turtle which has flipped onto its back. The robot declares, "Poor thing!" while the human says "I'll help". This is a reference to the "empathy tests" employed to distinguish humans from androids in Do Androids Dream of Electric Sheep? and its film adaptation Blade Runner. As part of the test, the listener is asked to imagine being in the desert, flipping a tortoise onto its back, and refusing to turn it back over, while their eyes are monitored for signs of emotional response (or lack thereof). In this case, the robot expresses sympathy for the turtle and the human declares that he will turn it back over. (In this case, however, the robot is very clearly distinguishable from a human being.)
+Transcript of the image[edit]
+[A man with large hair and a beard, meant to resemble Bob Ross, is holding an artist's palette with five patches of paint in one hand and a paintbrush in the other. He looks upon his canvas, where he has painted a large painting.]
+Painter: A happy little tree
+Painter: Holding up a happy little world.
+[The painting contains lots of stuff. Most notably, an enormous tree with a large, flat top grows on the back of a similarly large turtle at the bottom of the painting, the top of whose shell has been replaced with soil. On the tree is a robot that sees Cueball bending down to lift a turtle that is on its back. They talk:]
+Robot: Poor thing!
+Cueball: I'll help
+[In the top right corner, there is a dotted line forming a semi-circle around the corner. Inside this are the words:]
+Vacuum decay
+[There are no other words in the image. The image includes:]
+In the sky:
+Mars, including:
+A Mars rover (appears to be Curiosity or Perseverance), which is examining a turtle
+A small rover (appears to be Sojourner)
+The JWST (James Webb Space Telescope)
+The ISS and what appears to be a TIE fighter transiting the sun
+Saturn
+A small planet with a man and a flower (Le Petit Prince by Antoine de Saint-Exupéry)
+A moon of Saturn, with both Cueball and a tiny turtle
+A constellation in the shape of a turtle
+A constellation in the shape of a kite (or a tetrahedron)
+A constellation that appears to be the little dipper (Ursa Minor) stacked inside the big dipper (Ursa Major), resembling a lemon squeezer, next to an object that appears to be half a lemon.
+Cueball playing tennis with incoming meteors
+A rocket
+Three birds
+Two galaxies
+A star which appears to have teleported
+On top of the tree:
+Cueball listening to a radio
+Ponytail holding a balloon
+Megan looking over the edge
+A turtle who may have walked a path in the shape of the letters "T" and "Y"
+A squirrel
+A rabbit
+Two happy little trees
+Eight scattered tufts of grass and five scattered rocks
+Mountains in the background, one of which seems to have a gigantic Egg on its top and stairs leading to it, which is likely a reference to the video game The Legend of Zelda: Link's Awakening.
+Under the tree:
+Beret guy looking out of a window in the tree
+Blondie standing at the base of the tree
+One happy little tree on top of the turtle
+Ponytail in a balloon, throwing out an anchor towards the turtle
+A helicopter with a stegosaurus tail (thagomizer)
+Three glass ball ornaments hanging from the tree
+Index of facts[edit]
+Merriam-Webster defines a turtle as a noun. https://xkcd.com/2601/radio.mp3#t=569
+Here are some interesting notes from interesting facts about turtles. https://xkcd.com/2601/radio.mp3#t=962
+Over a great many years, I have taken a great interest in the land turtle. https://xkcd.com/2601/radio.mp3#t=973
+One of the interesting points about turtles is their great variety of foods. https://xkcd.com/2601/radio.mp3#t=1415
+in the pen and in five minutes it is surrounded by the turtles, https://xkcd.com/2601/radio.mp3#t=1976
+when I found one of the large turtles had caught and disemboweled, the very large toad, https://xkcd.com/2601/radio.mp3#t=2648
+I have seen turtles eating at 11:00 at night https://xkcd.com/2601/radio.mp3#t=2655
+the youngest of turtles I have ever had seems to take to the same food as the adults https://xkcd.com/2601/radio.mp3#t=3506
+I made friends with a turtle yesterday and he gave me his phone number. https://xkcd.com/2601/radio.mp3#t=4283
+Running away is slow as compared to this turtle propulsion. https://xkcd.com/2601/radio.mp3#t=4522
+Occasionally one can see a turtle dragging another one along https://xkcd.com/2601/radio.mp3#t=5370
+I have never known a land turtle to bite https://xkcd.com/2601/radio.mp3#t=5382
+Some people have turtles in their cellars believing that they catch rats and mice. https://xkcd.com/2601/radio.mp3#t=5853
+I believe that these turtles died because they were exhausted https://xkcd.com/2601/radio.mp3#t=5879
+and mice might be kept away by the noise made by the turtle making its endless https://xkcd.com/2601/radio.mp3#t=6151
+But doubt whether a turtle could catch a rat or a mouse https://xkcd.com/2601/radio.mp3#t=6158
+In this, the turtles would enjoy themselves https://xkcd.com/2601/radio.mp3#t=6437
+How about some interesting things in 10 facts about marine turtles from the WWF UK. https://xkcd.com/2601/radio.mp3#t=6622
+There are seven species of marine turtle. https://xkcd.com/2601/radio.mp3#t=6628
+Marine turtles were around more than 100 https://xkcd.com/2601/radio.mp3#t=6632
+These days, scientists recognize seven species of marine turtle, https://xkcd.com/2601/radio.mp3#t=6638
+turtles do not have teeth. https://xkcd.com/2601/radio.mp3#t=6890
+Turtle shells are made of over 50 bones fused together. https://xkcd.com/2601/radio.mp3#t=7064
+The first few years of a marine turtle's life are known as the lost years. https://xkcd.com/2601/radio.mp3#t=7352
+Marine turtle species vary greatly in size. https://xkcd.com/2601/radio.mp3#t=7654
+Wales holds the world record for the largest marine turtle ever found https://xkcd.com/2601/radio.mp3#t=7675
+1000 marine turtle hatchlings make it to adulthood. https://xkcd.com/2601/radio.mp3#t=8216
+turtles seem to prefer red, orange, and yellow food. https://xkcd.com/2601/radio.mp3#t=10106
+I'm beginning to suspect it's turtles all the way down https://xkcd.com/2601/radio.mp3#t=10403
+marine turtles can migrate incredibly long distances. https://xkcd.com/2601/radio.mp3#t=10623
+Marine turtles. https://xkcd.com/2601/radio.mp3#t=11365
+move the turtle https://xkcd.com/2601/radio.mp3#t=11788
+Here are some more interesting bits from interesting facts about turtles. https://xkcd.com/2601/radio.mp3#t=11913
+several occasions with the turtle still in c. https://xkcd.com/2601/radio.mp3#t=12612
+there is an artist in the bottom of everybody https://xkcd.com/2601/radio.mp3#t=12934
+The number laid by a turtle varies https://xkcd.com/2601/radio.mp3#t=15403
+I have also observed one turtle laying its eggs https://xkcd.com/2601/radio.mp3#t=15411
+I had the pleasure of seeing six little baby turtles come out https://xkcd.com/2601/radio.mp3#t=16167
+The turtle commenced to dig at six p.m. https://xkcd.com/2601/radio.mp3#t=16753
+Five days later a second turtle dug these eggs out arid, https://xkcd.com/2601/radio.mp3#t=16760
+personally. I do not believe that the turtle digging out. https://xkcd.com/2601/radio.mp3#t=16768
+turtles a year factoid. Actually just statistical error, https://xkcd.com/2601/radio.mp3#t=16972
+average person paints zero turtles per year https://xkcd.com/2601/radio.mp3#t=16976
+turtles. Georg who lives in cave and eats over 10,000 each day https://xkcd.com/2601/radio.mp3#t=16980
+The young turtles when they make their emergence at the end of three months, https://xkcd.com/2601/radio.mp3#t=17234
+Do you know what A sea turtle's favorite sandwiches? https://xkcd.com/2601/radio.mp3#t=17526
+Just ask the next sea turtle you meet. https://xkcd.com/2601/radio.mp3#t=17536
+Here are some interesting observations from odd facts about turtles. https://xkcd.com/2601/radio.mp3#t=17639
+It has been said that the turtle, https://xkcd.com/2601/radio.mp3#t=17647
+In many ways. The turtle is one or the strangest of living things, https://xkcd.com/2601/radio.mp3#t=17943
+But the turtle in all his varieties in all his ways is a most mysterious animal. https://xkcd.com/2601/radio.mp3#t=17961
+Your turtle is neither fish, flesh nor fowl. https://xkcd.com/2601/radio.mp3#t=17979
+a little turtle https://xkcd.com/2601/radio.mp3#t=18667
+there is none so tenacious of life as the turtle https://xkcd.com/2601/radio.mp3#t=18986
+Leave the turtle apparently undisturbed https://xkcd.com/2601/radio.mp3#t=18992
+Just as soon as a baby turtle emerges from the egg off he scuttles down to the sea. https://xkcd.com/2601/radio.mp3#t=19273
+The young turtle feeds unmolested while his armor undergoes the hardening process https://xkcd.com/2601/radio.mp3#t=19306
+whatever the young sea turtle eats and wherever he eats it https://xkcd.com/2601/radio.mp3#t=19628
+the turtle is free from all danger https://xkcd.com/2601/radio.mp3#t=19915
+interferes with the turtle https://xkcd.com/2601/radio.mp3#t=19924
+Cool facts about turtles from Deutsche Welle. https://xkcd.com/2601/radio.mp3#t=20499
+There is a reason why turtles look a little prehistoric. https://xkcd.com/2601/radio.mp3#t=20506
+Luckily for the turtles, they're burrowing and water-dwelling habits. https://xkcd.com/2601/radio.mp3#t=20527
+While a turtle's lifespan largely depends on the species, https://xkcd.com/2601/radio.mp3#t=20926
+A typical pet turtle can make it to anywhere between 10 and 80 years. https://xkcd.com/2601/radio.mp3#t=20935
+Researchers think some turtles could even be hundreds of years old. https://xkcd.com/2601/radio.mp3#t=20949
+There are currently 356 known species of turtles. https://xkcd.com/2601/radio.mp3#t=21629
+There are sea turtles, leatherback turtles, snapping turtles, https://xkcd.com/2601/radio.mp3#t=21642
+pond turtles, soft-shelled turtles, and of course tortoises, https://xkcd.com/2601/radio.mp3#t=21646
+Not all turtles or tortoises https://xkcd.com/2601/radio.mp3#t=22175
+but all tortoises or turtles. https://xkcd.com/2601/radio.mp3#t=22177
+technically all tortoises are in fact turtles. https://xkcd.com/2601/radio.mp3#t=22181
+But the main difference between turtles and https://xkcd.com/2601/radio.mp3#t=22192
+while most turtles live in or near water https://xkcd.com/2601/radio.mp3#t=22198
+Some turtles are vegetarians https://xkcd.com/2601/radio.mp3#t=22405
+Most turtles are actually omnivores but a few species https://xkcd.com/2601/radio.mp3#t=22409
+Not to the fearsome-looking alligator turtle https://xkcd.com/2601/radio.mp3#t=22421
+Even water-dwelling turtles will dig their nests https://xkcd.com/2601/radio.mp3#t=22805
+No species of turtle sticks around to raise their young. https://xkcd.com/2601/radio.mp3#t=22814
+A turtle's gender is determined by temperature https://xkcd.com/2601/radio.mp3#t=23005
+A turtle's gender is determined after fertilization. https://xkcd.com/2601/radio.mp3#t=23010
+If the turtles eggs incubate below 27.7 degrees Celsius, https://xkcd.com/2601/radio.mp3#t=23015
+turtles tend to give birth to more females https://xkcd.com/2601/radio.mp3#t=23037
+Sea turtles are known for their amazing ability to return https://xkcd.com/2601/radio.mp3#t=23182
+turtles can navigate their way at sea by https://xkcd.com/2601/radio.mp3#t=23190
+turtles have strong underwater eyesight. https://xkcd.com/2601/radio.mp3#t=23618
+Although sea turtles are famous for their internal GPS https://xkcd.com/2601/radio.mp3#t=23629
+Six out of seven turtle species are classified as https://xkcd.com/2601/radio.mp3#t=23919
+How about some interesting facts from turtle facts by Alina Bradford. https://xkcd.com/2601/radio.mp3#t=24214
+turtles are reptiles with hard shells that protect them from predators. https://xkcd.com/2601/radio.mp3#t=24221
+Turtles live all over the world in almost every type of climate https://xkcd.com/2601/radio.mp3#t=24233
+the turtle order https://xkcd.com/2601/radio.mp3#t=24479
+turtle, https://xkcd.com/2601/radio.mp3#t=24874
+turtles spend most of their lives in water. https://xkcd.com/2601/radio.mp3#t=25251
+Sea turtles rarely leave the ocean except to lay eggs in the sand. https://xkcd.com/2601/radio.mp3#t=25260
+Freshwater turtles live in ponds and lakes https://xkcd.com/2601/radio.mp3#t=25266
+With so many different types of turtle. https://xkcd.com/2601/radio.mp3#t=25760
+The largest sea turtle species is the leatherback turtle. https://xkcd.com/2601/radio.mp3#t=25765
+The largest freshwater turtle in North America is the alligator snapping turtle. https://xkcd.com/2601/radio.mp3#t=25788
+The Yangtze giant softshell turtle is the largest softshell turtle. https://xkcd.com/2601/radio.mp3#t=25799
+A turtle's shell is a modified rib cage and part of its vertebral column https://xkcd.com/2601/radio.mp3#t=26177
+All the thoughts of a turtle are turtles and of a rabbit rabbits. https://xkcd.com/2601/radio.mp3#t=26401
+So let's try to think like a turtle https://xkcd.com/2601/radio.mp3#t=26406
+Many turtles are able to retract their heads and feet into their shells, https://xkcd.com/2601/radio.mp3#t=26450
+turtles are placed in the two sub-orders based on the method of retraction. https://xkcd.com/2601/radio.mp3#t=26455
+Sea turtles have lost the ability to retract their heads https://xkcd.com/2601/radio.mp3#t=26472
+turtles are very adaptive and can be found on every continent except Antarctica. https://xkcd.com/2601/radio.mp3#t=26676
+Most turtle species are found in southeastern North America and South Asia. https://xkcd.com/2601/radio.mp3#t=26681
+sea turtles can be found in the coral triangle. https://xkcd.com/2601/radio.mp3#t=26844
+what do you get if you cross a turtle with a giraffe, https://xkcd.com/2601/radio.mp3#t=26976
+a turtleneck https://xkcd.com/2601/radio.mp3#t=26981
+The African helmeted turtle is the most common turtle in Africa, https://xkcd.com/2601/radio.mp3#t=27157
+roti island. Snake-necked turtles are found only on Rhode island. https://xkcd.com/2601/radio.mp3#t=27221
+turtles are not social creatures https://xkcd.com/2601/radio.mp3#t=27393
+while they typically don't mind if there are other turtles around them, https://xkcd.com/2601/radio.mp3#t=27396
+Most turtles are active during the day, https://xkcd.com/2601/radio.mp3#t=27405
+turtles are not silent creatures. https://xkcd.com/2601/radio.mp3#t=27537
+Most turtles are omnivores. https://xkcd.com/2601/radio.mp3#t=27961
+musk turtles eat mollusks, https://xkcd.com/2601/radio.mp3#t=27968
+The cooter turtle is mostly vegetarian https://xkcd.com/2601/radio.mp3#t=27973
+and the green sea turtle only eats grasses and algae. https://xkcd.com/2601/radio.mp3#t=27976
+The alligator snapping turtle lures in fish with its tongue https://xkcd.com/2601/radio.mp3#t=28293
+crayfish and other turtles. https://xkcd.com/2601/radio.mp3#t=28313
+All turtles lay eggs. https://xkcd.com/2601/radio.mp3#t=28483
+No species of turtle nurtures their young https://xkcd.com/2601/radio.mp3#t=28493
+turtles reach the age to mate at different times. https://xkcd.com/2601/radio.mp3#t=28762
+Male and female turtles intertwined their tails so https://xkcd.com/2601/radio.mp3#t=29117
+sea turtles travel from the ocean to lay eggs on beaches. https://xkcd.com/2601/radio.mp3#t=29387
+sea turtles lay around 110 eggs in a nest https://xkcd.com/2601/radio.mp3#t=29392
+Though the flatback turtle only lays 50 at a time https://xkcd.com/2601/radio.mp3#t=29396
+the temperature of the sand affects the sex of the turtle. https://xkcd.com/2601/radio.mp3#t=29661
+Too many sea turtle females are being born https://xkcd.com/2601/radio.mp3#t=29673
+according to the sea turtle. Conservancy https://xkcd.com/2601/radio.mp3#t=29679
+Many turtle species are listed as threatened, https://xkcd.com/2601/radio.mp3#t=29984
+I even talked to turtles at times https://xkcd.com/2601/radio.mp3#t=32815
+Sources[edit]
+Merriam-Webster, "Turtle" https://www.merriam-webster.com/dictionary/turtle
+Forest And Stream, January 1916, p. 764: "Interesting Facts About Turtles"—"A Little Nature Study by a Scientist that will Interest Old and Young Naturalists Alike"—"By Randle C. Rosenberger M.D., Professor of Hygiene and Bacteriology, Jefferson Medical College, Philadelphia, Pa." https://www.biodiversitylibrary.org/item/281932#page/8/mode/1up
+"Top 10 Facts About Marine Turtles", https://www.wwf.org.uk/learn/fascinating-facts/marine-turtles
+"Odd facts about turtles", Christian observer, May 11th, 1919
+"World Turtle Day: 10 cool facts about turtles" from Deutsche Welle, 22 May 2020, by Ineke Mules https://www.dw.com/en/turtles-tortoises-difference-facts/g-53260454
+"Turtle Facts" by Alina Bradford, published October 02, 2015, https://www.livescience.com/52361-turtle-facts.html
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Turtle graphics
+So these are instructions for a turtle graphics program. The audio is drawn from https://xkcd.com/2601/radio.mp3, a 9 hour 7 minute 12 second long audio file It's generated by feeding turtle code into a text-to-speech program, but idk which language or which program. If you can convert the speech back to text, somehow without ruining the formatting (or just do a lot of editing with regex until it looks right), you could feed it into a turtle graphics program and get the resulting drawing.
+If you're not familiar with Turtle and Logo, look at this [guide]. The short version is that these commands move a little cursor, called a turtle, which draws a line as it moves and turns. At this time, contributors have applied a few different computer transcriptions to the entire audio. There are quotes about turtles from a variety of sources intermixed with Logo code. It is expected that some correction to the code is needed, such as adding parenthesis that are not spoken in the audio. Standard Logo commands found in the audio are: PENUP, PENDOWN, SETHEADING (N) (N), SETXY (N) (N), and FORWARD (N). Some custom functions are defined, including DIST (N) (N) (N) (N), LERP (N) (N) (N), MIX (N) (N), CUBIC (N) (N) (N) (N), and SQUARE (N) (N). The next steps are to test the transcripts of these custom functions in a Logo interpreter, at which point we can begin drawing the picture. Mannerisky (talk) 02:45, 2 April 2022 (UTC)
+The picture indeed will be Bob Ross. The first hour of radio has him saying, "A happy little tree - holding up a happy little world." We can coordinate transcribing this code at GitHub Repository. Credit for this progress goes to the GitHub owner. Mannerisky (talk) 04:55, 2 April 2022 (UTC)
+I don't know what the current image on this page is. Is that the drawing you get by following these instructions? 172.70.100.4 20:58, 1 April 2022 (UTC)
+Wait I see now, that is the actual image for the comic. It just gets covered up by the button so I can't see it. 172.70.126.87 21:03, 1 April 2022 (UTC)
+Ah, it looks like someone realized it's actually longer than that. After downloading it, I found it to be 131,329,389 bytes. The Windows Properties viewer claims it is 8h41m08s in length, but that's wrong. It is actually 9h07m06s. By the way, the code is in the Logo language. He seems to have copied this from a book, but I don't know which one. 172.70.100.4 21:12, 1 April 2022 (UTC)
+Worth taking a look at? I can start looking for books that contain that text162.158.107.52 21:39, 1 April 2022 (UTC)
+The automatic speech system is using standard punctuation processing, meaning that critical marks for the code aren't being announced. You can't get the code from the samples without filling in the blanks after getting a transcript. N (talk) 22:19, 1 April 2022 (UTC)
+The MP3 file ends with this text: "I even talk to turtles at times. But you need to understand LOGO to appreciate the great, great things that have been created. We spend so much of our life typing, looking, but never ever seeing." 162.158.222.151 21:17, 1 April 2022 (UTC)
+april fools' comic? GcGYSF(asterisk)P(vertical line)e (talk) 21:18, 1 April 2022 (UTC)
+I think it's an April Fool's joke. 108.162.238.148 21:20, 1 April 2022 (UTC)
+Well is it 2022/04/01 141.101.77.189 21:26, 1 April 2022 (UTC)
+Broken Version
+I think mine's broken. I don't get it. 172.70.130.91 21:29, 1 April 2022 (UTC)
+You press the radio button, it selects it, then you can press it a zillion times in any pattern and all it ever does is blink the entire image. Nothing else ever appears other than the radio button, and there’s never any sound so pressing the speaker in the corner to supposedly turn it on or off is also completely pointless.172.70.126.65 23:31, 1 April 2022 (UTC)
+Alright, it’s April 2nd now, so if all of you have been LYING about it actually doing something, just playing along with the joke, you can admit it now.172.70.130.153 18:40, 2 April 2022 (UTC)
+Did it only work on American April 1st, or only for some people? It's the third of April here now, and it's still a boring button that clicks on once and does nothing else. Have I missed it? 108.162.249.13 20:38, 2 April 2022 (UTC)
+Given the alt text "happy little turtles" and the tone of the narration I assume we're supposed to pretend the narrator is Bob Ross guiding us to creating an artistic masterpiece with Logo 172.70.211.72 21:31, 1 April 2022 (UTC)
+Guys, it's been HOURS and the transcription is still incomplete. Step it up! 172.70.162.77 21:37, 1 April 2022 (UTC)
+Not even sure what the transcript should be. I did my best162.158.107.52 21:41, 1 April 2022 (UTC)
+I have a feeling this might be one of the longest transcripts on the site. 108.162.245.43 21:57, 1 April 2022 (UTC)
+Wanna bet? 1608: Hoverboard/Transcript... --Kynde (talk) 20:35, 2 April 2022 (UTC)
+Or 980: Money/Transcript --Kynde (talk) 21:59, 2 April 2022 (UTC)
+Up until someone automates the process, I'll be working on the transcript and saving it in exkcd in parts (: Don't worry too much about edit overrides, I'll be transcribing in a google doc to avoid that! --Wielder of the Staple Gun (talk) 21:53, 1 April 2022 (UTC)
+The sections about turtles between the code blocks seems to be from
+Interesting Facts About Turtles A Little Nature Study by a Scientist that will Interest Old and Young Naturalists Alike By Randle C. Rosenberger M. D., Professor of Hygiene and Bacteriology, Jefferson Medical College, Philadelphia, Pa. https://archive.org/stream/foreststream861916newy/foreststream861916newy_djvu.txt
+The uni.xkcd version of this comic also just shows the turtle like this article. So much for uses two April Fools comics against each other ;) 172.70.114.77 22:44, 1 April 2022 (UTC)
+I ran the MP3 through Amazon Transcribe. It can do only 4 hours at a time, so I had to split the original file. I went from start to 03:59:59, 03:59:59 to 07:59:58, and 07:59:58 to end. Amazon Transcribe also gave me some subtitle files (index 1). They have time codes in them. So if someone wanted to note the times of the little quips, and host the audio file somewhere where links to the middle of the file can be generated (like YouTube), that could be cool. Below are the transcriptions for analysis. Replace X with 1, 2, or 3; and replace Y with json, srt, or vtt. Pgn674 (talk) 23:15, 1 April 2022 (UTC)
+https://pgn674.s3.amazonaws.com/xkcd-2601/xkcd-2601-X.Y
+No need to host anything special. Let's say we want to jump to time code 02:35:14.840 from the vtt subtitle file #1 (line 7084, subtitle 1771). 2*60*60+35*60+14=9314. Subtract a few seconds, and make a link like this. Click here to learn about turtle noises: https://xkcd.com/2601/radio.mp3#t=9310 Pgn674 (talk) 23:48, 1 April 2022 (UTC)
+I went and found all mentions of "turtle", extracted those lines, and generated links to them. Programmatically. If anyone wants to go through and do some manual review and fine tuning, go ahead. Pgn674 (talk) 00:57, 2 April 2022 (UTC)
+I threw Adobe Premiere Pro at it: https://anonfiles.com/pbYfK7Sax4/radio_csv; and https://anonfiles.com/35YbKeScxe/radio_txt are the results. Note: these transcribe until 07:01:28:19. I am currently in the process of making APP suffer more and churn out the last two hours. --ẞ qwertz (talk) 23:54, 1 April 2022 (UTC)
+So... what language is this? I'm hearing: PENUP, PENDOWN, SETHEADING (N) (N), SETXY (N) (N), FORWARD (N) - all of which are standard LOGO commands. But I'm also hearing something that sounds like CUBIC (N) (N) (N) (N) (N) (N), though it could also be QBIT, or text-to-speech for something like "^3". Either way it's NOT a standard LOGO command, so suggests it's a variant. Does not seem to be KTurtle, POOL, UCBLogo. QLogo, FMSLogo, and then I got bored searching. --172.69.71.91 00:37, 2 April 2022 (UTC)
+In the automatic transcription it has "Two cubic colon X one colon Y one colon X two"... which would be TO CUBIC :X1 :Y1 :X2 ... so it is defined above. 162.158.107.230 01:15, 2 April 2022 (UTC)
+Yes, some of the commands seem to be defined at the top. CUBIC at the top, SQUARE maybe somewhere else. So a shortcut to decyphering it might be to just extract and render all the cubes from the "CUBIC" and "SQUARE" commands, given their values. But what format are the cubes? Are they even the coordinates of cubes? For both commands, the six numbers seem to be in the format A B A B A B where the As and Bs are similar or even in some cases identical, which seems a strange thing for a cube:
+SetXY -443 412
+PenDown
+Square -443 405 -443 397 -444 390
+The definition seems to be something like:
+ToCubic : X1 : Y1 : X2 : Y2 : Ex : Ey --- Parameter definitions?
+local Make " X0 XCor  --- Local variable definitions?
+Local Make " Y0 YCor
+Local Make " ErrX1 Lerp : X0 : X 0.25
+local Make " ErrY1 Lerp : Y0 : Ey 0.25
+Local Make " ErrX2 Lerp : X0 : Ex 0.75
+Local Make " ErrY2 Lerp : Y0 : Ey 0.75
+IfElse
+  Or
+    LessP : picks error Dist : ErrX1 : ErrY1 : X1 : Y1 
+    LessP : picks error Dist : ErrX2 : ErrY2 : X2 : Y2
+[
+    Local Make " Qx0 mix : X0 : X1
+    Local Make " Qy0 mix : Y0 : Y1
+    Local Make " Qx1 mix : X1 : X2
+    Local Make " qy1 Mix : Y1 : Y2
+    Local Make " Qx2 mix : X2 : EX
+    Local Make " Qy2 mix : Y2 : Ey
+    Local Make " Lx0 mix : Qx0 : QX1
+    Local Make " Ly0 mix : Qy0 : QY1
+    Local Make " Lx1 Mix : Qx1 : Qx2
+    Local Make " Ly1 Mix : qy1 : Q
+    Local Make " PmX Mix : Lx0 : Lx1
+    Local Make " PmY Mix : Ly0 : LY1
+    Cubic : Qx0 : qy0 : Lx0 : Ly0 : PmX : PmY
+    Cubic : Lx1 : Ly1 : Qx2 : Qy2 : Ex : Ey
+]
+[
+    SetXY : Ex : Ey
+]
+Least, that's what it sounds like, but I suspect round brackets and suchlike are not spoken aloud :( --108.162.221.95 01:54, 2 April 2022 (UTC)
+Maybe it's implementing a cubic spline interpolation, not a tridimensional cube. 172.70.131.214 11:08, 2 April 2022 (UTC)
+Feels like the speech processing is lossy, so generating the code will be a lengthy labor of love transcribing it, then debugging it, trying to fill the gaps. The code may also have been fed through an automated "Bob Ross filter" which may have lost even more data. --172.69.71.91 00:37, 2 April 2022 (UTC)
+About a quarter of the way into the text is the line "You know, I'm beginning to suspect it's turtles all the way down!" 162.158.78.215 00:46, 2 April 2022 (UTC)
+it's concerning that the only real way we'll be able to figure this comic out is to compile the entire 9 hour computer-generated voice speech. youtube.com/watch?v=miLcaqq2Zpk (talk) 01:40, 2 April 2022 (UTC)
+Anyone actually doing any transcribing of this audio text is a true April Fools' fool, hence the reason to release this on April 1st. But I'd still like to see what the Fools' come up with :-D --Kynde (talk) 21:26, 2 April 2022 (UTC)
+I'm moving all things about audio transcription here: 2601: Instructions/Audio Transcript, both the real transcript and peoples very long comments in the main discussion, to keep the main page short and keep loading time down. The comments from here go in the discussion for that page --Kynde (talk) 20:35, 2 April 2022 (UTC)
+OMG, fond memories of LOGO! I'm in a loud bar at the moment so I can't listen, and I'm not listening to NINE HOURS anyway, LOL! Everybody DOES realize, someone needs to extract the program and run it in LOGO, right? I would guarantee this draws something interesting and/or stupid. :) NiceGuy1 (talk) 03:27, 2 April 2022 (UTC)
+I found a GitHub Repository for transcription. May be of use to you guys for adding more info and citations to this Wiki. By the way, I didn't know this wiki existed. I don't want to create an account for it right now so good luck guys ;-; 04:12, 2 April 2022 (UTC)
+I tried running some code through "ucblogo" on a Linux distro, but didn't get very far with it. ---Tim 04:16, 2 April 2022 (UTC)
+Given that the audio is generated by text-to-speech, could a source-aware speech-to-text work better (fewer errors and less manual correction) than a generic one? For example, finding the right text-to-speech, extracting a sound for each phoneme, and then searching for near-identical snippets of waveform, seems like it could potentially be more reliable than the generic neural nets which are primarily trained for real human speech. Or even training a neural net on the same text-to-speech source, with a big block of sample data, if that would help distinguish homophones. Presumably someone here is good enough at this sort of thing to try that? Sqek (talk) 10:05, 2 April 2022 (UTC)
+I think that the original comment at the top is the best approach. Using the speech-to-text data posted yesterday, and doing some simple regsubs, I can get it into good enough shape that I can proceed to transcribe the whole program by editing the file while listening to the audio, in real time. "In real time" means nine hours to correctly transcribe the whole thing. So any other approach would have to do better than nine hours. Plus if somebody put a little effort into organization, the transcription can be parallelized and so completed in nine hours / N transcribers. ---Tim 172.70.38.41 13:10, 2 April 2022 (UTC)
+I was helping with this last night, and here are the major steps we've done to interpret the code and who has helped, I think.
+Pgn674 Used AWS to make a transcription of the audio, which we have been building from
+172.68.118.59 Transcribed the critical functions at the top of the transcription
+theinternetftw Found a working interpreter and set up a collaboration space at a GitHub repo, and has since been maintaining the code
+theinternetftw Also transcribed the first hour and got us our view of a partial picture
+somebody1234 Got a messy but runnable version of the entire transcription and a view of the entire picture with errors
+Many people are transcribing bits of audio and submitting to GitHub. Here is the list of contributors
+Mannerisky (talk) 15:06, 2 April 2022 (UTC)
+I have changed the image to that which is seen on xkcd when loading the comic. It has not been updated on this page yet as of when I write this. But the turtle is of course not the comic, but a placeholder for those webcrawlers that would fail when trying to download the radio button. I have also added info on this in the current explanation. As I have made a link to a new sub page for the looong audio transcript and removed all of that from this page and discussion and put it here: 2601: Instructions/Audio Transcript --Kynde (talk) 21:38, 2 April 2022 (UTC)
+I started planning to write some code to figure this out, but moved on to other things after a few hours, due to psychological issues I have. The draft just runs the audio through the start of a random speech to text model. I trained a tokenizer around the logo code but didn't move farther. There are a lot of possible next steps, some of which others have mentioned. A simple approach would be to finetune the model around the hand-transcribed data. https://colab.research.google.com/gist/xloem/4310a26b6c9d13adac14307b948157d3/untitled4.ipynb 172.70.114.147 23:04, 2 April 2022 (UTC)
+Any plans to exkcd the "real" comic that gets drawn by the LOGO code in the audio? I mean, I recognize, e. g., the Mars rover and Ursa Major, but what's the significance of the vacuum decay here, for instance? Nitpicking (talk) 01:18, 3 April 2022 (UTC)
+Now that the project is complete, we should add the resulting image on this page (not just a link to github). It'll be what folks are looking for first. And then we can start identifying the many references in the picture and turtle quotes. Mannerisky (talk) 04:26, 3 April 2022 (UTC)
+well, i added the picture. youtube.com/watch?v=miLcaqq2Zpk (talk) 08:08, 3 April 2022 (UTC)
+Vacuum decay is the total annihilation of the observable universe, which (in theory, depending on details we don't yet know) could happen at any point and at any time and would expand at the speed of light to clobber any space it reaches. Since it's limited to the speed of light, I guess it wouldn't affect regions of the universe that are receding faster than that. So, it's a bit of irony contrasting the happy picture. See https://en.wikipedia.org/wiki/False_vacuum_decay . For an even better explanation, try Katie Mack's excellent book, https://www.amazon.com/End-Everything-Astrophysically-Speaking/dp/198210354X 172.70.110.65 14:13, 6 April 2022 (UTC)
+It was wonderful watching all of this unfold. Great work everyone. I don't have an account here, nor on github, but I thought I'd mention that the makesvg.py uses the ':=' operator which was introduced in python 3.8. Not all of us have it on our creaky old machines. Maybe add a comment in the usage at the top of the file? Or better, refactor the .py? -- 172.70.100.4 14:39, 3 April 2022 (UTC)
+
+Is there a trick to making it work? I've tried both Firefox and Chrome. I hear the narration and can toggle the mute, but it never draws the picture for me. I have enabled JavaScript and I have disabled Privacy Badger, NoSCript, and uBlock Origin and still no joy. I did find the final drawing so I've seen the animation via GIF. --108.162.221.221
+Signing with triple tilde puts the WRONG IP address for me! My IP is NOT 108.162.221.221, my IP is 47.186.56.37. What gives????
+--108.162.221.221
+Just FYI, your registered IP (like mine) is probably from the (regional?) gateway that mediates between you, at your true and current internet-facing IP, and the serving server. It's not something for you to really worry about, but you asked.
+i'm trying to find a way to say this that doesn't sound condescending, but do you actually think the comic draws the picture or are you using https://benediktwerner.github.io/xkcd-2601-drawer/ ? if it's the former, the comic does not draw the picture. if it's the latter, you have to click the "use the latest code" button and *then* click draw. again, i know that sounded super condescending, pls don't think i'm trying to be mean. New editor (talk) 05:24, 4 April 2022 (UTC)
+does this comic *technically* feature beret guy, ponytail, etc or not. they're not *in* the comic, but it could be said to feature them. New editor (talk) 05:31, 4 April 2022 (UTC)
+What is
+CUBIC
+? GcGYSF(asterisk)P(vertical line)e (talk) 05:45, 4 April 2022 (UTC)
+A function defined above (both in the transcript and, partially, in this Talk page) that is there to define certain smooth lines via a cascade of interesting LOGO procedural code, including branch-tests, that I wasn't even aware could be done until I started to read it.
+(I mean, I didn't even know LOGO used Polish Notation, having last practically dabbled with it on the probably vastly more limited interpreters that ran on BBC Microcomputers at school, back in the early '80s. You could define procedures with params, but I can't remember this syntax, nor any tests available that seem to suggest recursive tests until the finest changes do nothing.)
+That was at my first glance, I've avoided the pages until most of the fuss died down because I could see a lot of work being shovelled in, by others, and I knew I couldn't add much but confusion. But I now think I can take leisurely ride through the code and see what I can personally pick up from it. (Cheers to the army of volunteers that mobilised to make this possible, BTW!) 162.158.159.11 20:56, 4 April 2022 (UTC)
+The inserted comments don't seem to just be facts about turtles - they also include 'Rossisms' - e.g. "I've just covered the entire canvas in a layer of light."172.69.79.153 08:35, 4 April 2022 (UTC)
+The explanation should reference the World Turtle (https://en.wikipedia.org/wiki/World_Turtle) in regard to the finished image.172.69.79.153 08:46, 4 April 2022 (UTC)
+I hope that's Cory Doctorow in the hot air balloon. 172.70.110.209 13:35, 4 April 2022 (UTC)
+I don’t have an account, but I wanted to add that if you are subscribed to email updates (by clicking email on the xkcd website) the update reads: “Sadly today's comic is best views on the web” 162.158.107.198
+Narrative vs. code[edit]
+There should be some statement that there's code and narrative mixed within the transcript; you can't just hand the whole thing to Logo and expect it to work.
+(Unless, of course, there's some way of telling Logo to ignore a block of text that wouldn't be spoken when you actually read the annotated block. In which case, the transcript needs to be so-annotated. I doubt it, though.)
+-- Dtgriscom (talk) 10:25, 4 April 2022 (UTC)
+The transcript on GitHub prefixes narration by `;` which turns it into a comment that is not parsed by LOGO. It would be cool to have this read out loud like it seems to have been designed: "Bob Ross" talking about painting while "painting" using logo. It'd be something like "Narrate, execute code snippet, narrate, excute code" until the entire picture is done. I noticed, for example, that he talks about drawing a "happy little tree" in between a section of code that, surprise, draws a tree. 162.158.222.151 11:23, 4 April 2022 (UTC)
+Good thing to notice, and now we have two topics:
+1. What the transcription page should show. Big, big bonus points if we could have a transcript that, when fed to a "text to speech" tool, would produce exactly what the comic's audio track includes (e.g. no "semicolon Happy Little Tree here")
+2. What the output animations should include. What if you'd see a blank canvas, and hear the AI-Bob-Ross narrate, and then watch the code execute and draw? Then, more narration, then more code executing? You could even have the code sections be read out loud, and see the results in real time, It would take a lot of patience to watch the results. (I ain't gonna do it, though...)
+-- Dtgriscom (talk) 12:14, 4 April 2022 (UTC)
+One line in the narrative, "I read in the L.A. Times this morning that 42,000 Mazda cars were recalled because of a spider problem. Really makes you think doesn’t it?" could be refering to https://xkcd.com/2600/, namely "Will I have to start worrying about spiders after Tuesday?"
+162.158.222.39 13:55, 4 April 2022 (UTC)
+No, it actually references a thing that happened in 2014, because Mazda's cars are for some reason spider magnets. 162.158.222.157 06:58, 5 April 2022 (UTC)
+Categories: All comicsComics from 2022Comics from AprilFriday comicsLinks to xkcd.comPages using the "citation needed" templateApril fools' comicsInteractive comicsDynamic comicsComics with animationComics with colorComics with audioAnimals

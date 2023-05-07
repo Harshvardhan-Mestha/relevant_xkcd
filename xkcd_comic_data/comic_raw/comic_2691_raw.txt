@@ -1,0 +1,43 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2691: Encryption
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2691)
+|<< PrevComic #2691 (October 28, 2022)Next >>|
+Encryption
+
+Title text: WARNING: PEOPLE NAMED EVE ARE PROHIBITED FROM INSTALLING THIS APP!
+Explanation[edit]
+When teaching encryption / cryptography, it is common to use a story about sending messages from Alice to Bob (Party "A" and Party "B" respectively). Cueball claims to have created a texting app that only allows for this one thing. It does not, however, allow "Bob" to reply, making the usefulness of the app questionable at best. It is unclear how it enforces the name restriction, but it is possible that the app figures out the name of the phone's owner. The title text mentions Eve, who in the typical story represents an "eavesdropper", someone who attempts to intercept the messages between Alice and Bob. The fact that persons named Eve are 'forbidden' from installing the app suggests that it might not actually be as secure as Cueball advertises -- it may be that he naively thinks that it's just the name that makes the eavesdropper, and that by excluding all Eves, Alice's messages to Bob will remain private. It is not clear which phones will support this app, but it appears to be perfectly suited for the xkcd Phones.
+Note also that Eve being forbidden to install the app parallels another Eve being forbidden to eat an apple (an app-le?) in a common retelling of the Biblical story of the Garden of Eden (though the actual Biblical text doesn't refer to an apple). Spoiler alert: The Biblical Eve ate the forbidden fruit anyway, and this Eve is probably going to install the app anyway...
+The comics 177: Alice and Bob and 1323: Protocol are also about Alice and Bob.
+Even if the assumption that you could divine people's roles and motives from their names were correct, if the names of the users don't need to be verified, it seems possible for a bad actor to circumvent the security features of the app by simply lying about their name. Genuine users could also undermine the security with double installations and a complete mess of a contact list in which everyone's names are somehow identified as "Alice" or "Bob", in order to increase its utility to them. Also, it would appear that "Bob" needn't be the commonly used name of the message receiver, in this scenario – it could also be a diminutive of what he is actually known by. Thus a user might claim to be "Bob" whichever his given name is.
+This may be related to the announcement that Signal would be discontinuing support for SMS/MMS messages.
+Transcript[edit]
+[Cueball showing a phone to a long-haired woman, identified in the caption as Alice]
+Cueball: The app will let you send messages to your friend Robert, or my brother.
+Alice: Can they reply?
+Cueball: No.
+[Caption below the panel]:
+My new secure texting app only allows people named Alice to send messages to people named Bob.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+More generally, when the explanation of the encryption algorithm needs example people, it picks names going sequentially through the alphabet. Alice and Bob are the canonical first two, names starting with C and D would be next. Eve, the eavesdropper, is next. Barmar (talk) 04:01, 29 October 2022 (UTC)
+...though it depends upon what other protagonists/required roles are to be featured in the scenario as to which initials get given to the 'normal' example correspondants. And I'm sure you could come up with other punny names for other novel roles, if you're in the position to require something special, only Alice and Bob being (normally!) inviolable as to both role and initialism. 172.70.91.58 09:43, 29 October 2022 (UTC)
+Is this comic a subtle reference to Signal announcing the discontinuing of SMS/MMS support, thus vastly lowering the number of people that Signal users can send messages to? 172.70.114.205 09:10, 29 October 2022 (UTC)
+... Maybe add some text explaining what Signal is? 172.71.158.7 18:33, 31 October 2022 (UTC)
+I'd reckon you're also banned from the app if your name is Mallory, which might be inconvenient if you're James Bond's boss. Then again, that's Voldemort... IByte (talk) 10:36, 29 October 2022 (UTC)
+This was hilarious. And it's the only app you should be able to install on the XKCD Phone, for obvious security reasons. Ralfoide (talk) 16:18, 29 October 2022 (UTC)
+Reminds me of a notorious movie from 1969, Bob & Carol & Ted & Alice, a plot point of which is knowledge shared incompletely between the four. I believe the names are coincidental but, not knowing when Alice, Bob, Charles and Diana were first used, it may not be. Dhugot (talk) 18:16, 29 October 2022 (UTC)
+... The naming convention appears to have started with the creators of the RSA algorithm.Dhugot (talk)
+Since we know without question the name of the female character in this comic, does she join the list of other named characters for every other time we see someone with a similar hairstyle? Trimeta (talk) 02:58, 30 October 2022 (UTC)
+Not just yet. Unless we can definitively backdate her hairstyled appearance, but consider it upon reappearance. Three options to do it, though:
+If there's not enough to split her from Megan (though I think there is), do as we do did with Rob for Cueball (incidentally mentioned here, but I think there's no category to cover that, just a mention within Megan that there's a not-Megan-but-nearly)...
+Go for a full new character in her own right if she gets (or has previously gotten, without our realising until now) another distinct appearance or two...
+If Randall repeats Alice/others in a further series of Alice And Bob 'tales' (plenty of scope for the actual appearance of Eve, or Mallory/Mike or whoever – if the whim takes him) group her and the 'gang under an "Alice and Bob" entry (e.g. if a clear Ivan appears even just the once, he gets tidily filed under his own subheader there)...
+..definitely some consideration to be had. Anyone could review hairstyles carefully (or dialogue?), both forward and back in time, and propose (or enact?) the solution that you think best applies. It's not up to me with no ability to create (or banish) new pages, but that's my immediate thoughts. 172.70.162.5 09:34, 30 October 2022 (UTC)
+Does this lend new information about named character Rob? The girl has a friend Robert, and this cueball has a brother, which seem to be separate people, both of whom could be called Bob. I don't see a particular connection, but I see there is investigation to who the girl is, and that may lead to something. FWIW I think she looks like Science Girl; based on age alone that could connect her to Bobby Tables. How does time pass in xkcd, do we expect child characters to grow up or remain the same age across comics? We should look across previous Rob comics and see if they're consistent with him being brother to this Cueball. Robm (talk) 16:36, 30 October 2022 (UTC)robm
+Considering the fact that Rob's computer username is robm, and m is Randall's last initial, I believe that Rob is a depiction of Randall's brother, though I obviously could be wrong. Yaygya (talk) 18:45, 20 December 2022 (UTC)
+The proposed relationship with Twitter seems unlikely since both Twitter itself and Elon's announced prospect on the platform as of now have nothing to do with secured messaging app.172.70.223.68 16:13, 1 November 2022 (UTC)
+Categories: All comicsComics from 2022Comics from OctoberFriday comicsComics featuring CueballCryptographySmartphones

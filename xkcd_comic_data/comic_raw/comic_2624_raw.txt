@@ -1,0 +1,57 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2624: Voyager Wires
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2624)
+|<< PrevComic #2624 (May 25, 2022)Next >>|
+Voyager Wires
+
+Title text: Also, they're getting increasingly worried that someone will accidentally hit the 'retract' button, and that the end of the cable thrashing around as it winds up could devastate the Earth's surface.
+Explanation[edit]
+This comic claims that the Voyager probes communicate with NASA though ridiculously long copper wires. These wires would have to be continuously lengthened as the probes travel away from Earth. Supposedly, because of "high copper prices and budget constraints," they may not be able to afford to lengthen the wires much longer. If this occurred, they would have to either cut the wires or let them break, which would prevent any further communication with the probes. In reality they use radio waves, not long copper wires, so this will not actually happen.
+If copper wires were dragged by the Voyager probes, assuming a 1 mm² thick cable, 550 tons of copper would be needed per hour and it would add 1 million Ohm per hour to the cable resistance. At $8,560/ton, this would cost $41 billion dollars/year, which would be nearly twice NASA's entire annual budget.
+The resulting wire would slow down the probes by drag unless the wire itself was actively suspended (i.e. accelerated) continuously as it was fed. The wire could not be used for any other mechanical purpose such as a space elevator for this reason.
+Since the Earth spins, the wires would also spool around the Earth, slowing the probes down even further. Clearly, this is not a good idea. This problem might be avoided if the wires reached earth at one of the poles. Or perhaps they could go to an airplane that flies around earth at exactly 15 degrees of longitude per hour, with periodic air-to-air refueling, so that it is always on the side of the earth facing the probe.
+Because the Voyager probes aren't in the plane of the earth's orbit around the sun, the Earth would not, in its rotation around the sun, drag these copper wires through the sun. If it did, the wires would melt.[citation needed]
+The title text references the phenomenon seen with self-retracting cables, such as are commonly found on vacuum cleaners, where the free end of the cable, where the plug is, oscillates more and more wildly as the cable approaches full retraction, leading to the danger of a painful rap on the hand if it is not withdrawn in time. A planet-sized impact of this kind could cause severe damage.
+A few days before this comic was released, NASA had reported receiving corrupted data from the Voyager 1 probe. The fact that they are receiving any data at all means that the attitude control system must be working (or else the antenna would not point at Earth), but they continue to investigate how that data could be corrupted after that point.
+Spoiler alert
+The consequence of a cable between a craft in space and a planetary location being suddenly retracted was recently imagined in the first episode of the Apple TV+ series Foundation, wherein a space elevator tether was severed. It didn't end well for anyone other than the terrorists who won the freedom of thousands of inhabited worlds which had formerly suffered under the jackbooted oppression of Trantor's fascist galactic Empire regime.
+Another illustration in fiction of a severed space elevator is in Red Mars, part of the Mars Trilogy by Kim Stanley Robinson.
+Transcript[edit]
+[In the bottom right corner is a space probe, with large satellite dish and long antenna. Behind it runs a long wire, that makes three loops before it is connected to North America on the Earth in the top left corner. To the left of the Earth there is a second wire, which goes off-panel to the left.]
+[Caption below the panel:]
+Sad news: Due to high copper prices and budget constraints, NASA may finally have to cut the wires that they've been spooling out to communicate with Voyager 1 and 2.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+This is fun - assuming a pair of 14ga wires were run the 14.5 billion mile distance from Earth to Voyager 1, the mass of copper would be on the order of 1012 kg, or ~5 times the mass of copper ever mined out of the earth. 172.70.126.87 17:18, 25 May 2022 (UTC)
+Wow, that's a lot of copper! I wonder how they've been communicating with the probes up until now? :) Danny E. Corchado (talk) 20:46, 25 May 2022 (UTC)
+Why are you assuming 14 gauge when 30 gauge (0.08mm diameter) is for sale? Only 3,440 Ohms per kilometer! 172.68.133.89 00:02, 26 May 2022 (UTC)
+At current prices for copper, this spool would cost ~9.6 trillion dollars. Surprisingly, that's only about a third of the US national debt. --KrazyKat (talk) 17:29, 25 May 2022 (UTC)
+Hear me out here: if all the high school dropouts are employed making space probe wire, where are the health insurance companies going to be able to get people who will deny coverage against attending physicians' recommendations? Eh? See what I'm getting at?!? 172.68.133.89 00:04, 26 May 2022 (UTC)
+The problem of the Earth spinning could be solved by putting the contact at one of the poles; it will have to be on a swivel joint to prevent it from twisting. But there's also the Earth revolving around the Sun, which requires the cable length to cycle up and down by 186 million miles every year. I guess we could use a big version of dog leash holders. Barmar (talk) 17:44, 25 May 2022 (UTC)
+Days before this comic was published, NASA reported issues with Voyager 1, reporting that "the probe’s attitude articulation and control system (AACS) don’t reflect what’s actually happening onboard" [1]
+"the data may appear to be randomly generated, or does not reflect any possible state the AACS could be in"
+Has anyone alerted the SETI Institute? They live for this kind of thing. 172.68.133.89 00:08, 26 May 2022 (UTC)
+If they used wires and it was due to budget constraints, why not reel the Voyager probes back in and recycle the wire? 108.162.245.173 19:24, 25 May 2022 (UTC)
+Only if you feel a tug, then tell your friend to get the net ready. 172.68.133.89 00:09, 26 May 2022 (UTC)
+Quick calc+google - world copper reserves are estimated at 870 million tonnes, Voyager 1 is 14,471,238,963 miles from Earth (Voyager 2 a bit closer, 12 x 10^9 miles)... a lot of unit conversions and simple arithmetics later... World copper reserves would be enough for a cable with about 4 mm^2 cross-section (2,3 mm diameter) for one of them or 2.3 mm^2 cross-section (1,7 mm diameter) cables to both. Someone check the math please, it's been a long day... 172.68.110.139 19:31, 25 May 2022 (UTC)
+This is a comic worth a What-If-article. Even with zero friction extraction systems and enough available copper, there is the problem of the speed you need to send out new wire. Voyager is moving at ca. 17 km/s and Earth moves at about 30. So when Earth and Voyager move in opposite directions you have to produce *a lot* of wire per second in order to keep up with that (not exactly 47 km/s because Voyager is moving away from the ecliptic. Kimmerin (talk) 19:53, 25 May 2022 (UTC)
+Yes, definitely worth a What If! Randall, if you read this, please write a What If article on this! Danny E. Corchado (talk) 20:47, 25 May 2022 (UTC)
+Maybe this is a sly advertisement for an existing article in the forthcoming book! :) 172.70.34.105 21:24, 25 May 2022 (UTC)
+Voyager 1 and 2 communicate with each other, or with Earth? --172.70.126.65 20:27, 25 May 2022 (UTC)
+The comic clearly shows the wire going all the way from a Voyager to Earth. Barmar (talk) 22:00, 25 May 2022 (UTC)
+The explanation mentions the wire going through the Sun when we're on opposite sides of the Sun. But the Voyagers aren't traveling in the ecliptic plane, so it will probably miss the Sun. Although it still might be close enough that the heat will melt it. Barmar (talk) 22:00, 25 May 2022 (UTC)
+While this isn't a problem now, it would have been one during the first three years of its mission where the probe traveled from planet to planet. See e.g. https://de.m.wikipedia.org/wiki/Datei:Voyager_1_Scaled_Track_de.svg for the track of Voyager I.Kimmerin (talk) 07:10, 27 May 2022 (UTC)
+Is the whole joke of the "Alternate explanation" that they went overboard with the [citation needed]s? Barmar (talk) 22:00, 25 May 2022 (UTC)
+Removed this section. 172.69.33.117 23:15, 25 May 2022 (UTC)
+Theoretically speaking, if the copper spool were to be anchored at the North or South Pole, it would avoid issues of wraparound. 172.70.35.70 23:02, 25 May 2022 (UTC)
+Now you just have to work out what happens as the conductor moves (around, but also feeds out through) the geomagnetic field. (See Electrodynamic tether, not sure if it would help or not to be anchored directly upon the maximum declanation point of the geomagnetic pole, which isn't quite at the axial pole for the purposes of rotation-mitigation 172.70.85.177 23:44, 25 May 2022 (UTC)
+What about the Star Trek reference in the Title Text? That's definitely referring to the VGER probe that returned to Earth after being elevated to an AI. 172.70.91.90 06:39, 26 May 2022 (UTC)
+I don’t think many other people use the word “definitely” in that way.172.70.210.125 19:58, 26 May 2022 (UTC)
+172.70.218.225 10:27, 26 May 2022 (UTC)anyone wanting to calculating the resistance and power requirements for current data transfer rates to Voyager through a copper wire?
+Quite funny how people focus on how this could actually work... Pole anchor, on a plane, not hitting sun, when the tensile strength of the Cu wire has not even been mentioned... :-D --Kynde (talk) 13:49, 26 May 2022 (UTC)
+It looks like the suggested plan is to keep a lot of slack on the line. 172.70.210.233 02:56, 27 May 2022 (UTC)
+that is what the comic is portraying, though. A lot of slack so we can cut it some--FrankHightower (talk) 17:28, 29 May 2022 (UTC)
+Categories: All comicsComics from 2022Comics from MayWednesday comicsPages using the "citation needed" templateSpace probes

@@ -1,0 +1,63 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2553: Incident Report
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2553)
+|<< PrevComic #2553 (December 10, 2021)Next >>|
+Incident Report
+
+Title text: Increasing-precision timestamps are the Jaws theme of incident reports.
+Explanation[edit]
+An incident report describes the sequence of events when something goes wrong, including the lead-up as well as the aftermath. This usually involves describing at what time related events happen. In this comic, a report at a nuclear power plant on the day of the comic's publishing starts with particularly vague timestamps (that a package of fireworks arrived "roughly 18 hours prior" to it), then uses approximate minute-level precision ("14:00" and "14:20", which could reasonably be five minutes off in either direction), then minute-level precision ("14:28"), then second-level precision ("14:29:22" and "14:29:26").
+This suggests that the clock time is really a proxy for the amount of time before one specific moment where everything falls apart, and when seconds start appearing, it implies that the recollection is within a few minutes of the disaster. Normally the increased level of precision reflects close monitoring capabilities of the affected systems, reviewing monitoring equipment, such as surveillance camera and microphone recordings, and/or detailed analysis by incident investigators. It may have been sufficient for the resulting inquiry to merely note the prior arrival of the original package, and possibly then read off (whatever remains of) the signing-in logs for the approximate times each member of staff arrives on the scene. At some point, though, the investigation will refer to fully timestamped security recordings, perhaps even eventually frame-by-frame with particular interest in exactly which things touched exactly what other things, in sequence, in order to hopefully learn all the necessary lessons about the incident.
+Synchronization of events is important in incident investigations, so often systems are required to take input from common, relatively precise time references, such as GPS, WWV broadcast, or cellular telephone systems. For example, an aircraft crash needs radar positioning data synced with voice communications and flight recorder data. Lack of correlation between these is a potential source of conspiracy theories, for example one of the hijacked planes on 9/11 crashed into Pennsylvania either at 10:03 or 10:06 depending on two different information sources.
+In many situations, incident reports are anonymized as shown to protect the identities of those people involved in the incidents. This is often done to prevent unnecessary blaming of certain individuals, particularly when it hasn't yet been determined whether the incident was negligence or just an accident.
+Examples of real-life incident reports with second-level precision timestamps showing the increasing precision around critical moments include:
+Explosion of the Space Shuttle Challenger
+Chernobyl explosion
+Three Mile Island Accident
+January 6
+The report shown cuts off before reaching the actual incident, leaving it to the reader to imagine what happened next. If the birthday cake has lit candles, one possible sequence of events is that a dropped or badly thrown juggling pin could have hit one of them and then rolled over to the fireworks package, thus igniting the package. This would have caused the fireworks to go off underneath the reactor control's console.
+Although the comic refers to juggling "pins", jugglers commonly call those props "clubs." It is possible Randall is confusing the similarly shaped objects in 10-pin bowling to juggling clubs. "Pins" are another name for a component of Uranium Carbide type nuclear fuel rods, which are involved in the safe control of the nuclear reaction within a nuclear power plant. No sane reactor staff would juggle these complex, heavy and expensive pieces of equipment.[citation needed]
+The title text refers to the theme music from the 1975 film Jaws, which has come to represent impending danger. Movies use music to create the correct emotional tone; suspenseful music indicates that something bad is about to happen. The Jaws theme is an iconic example, famously used to create a sense of foreboding, then uses increasingly rapid tempo to build a sense of imminent danger, culminating in a dramatic moment of disaster (a shark attack, in the film). As with the increasing tempo of this theme, the increasing precision with which events are recorded in an incident report build the increasing sense that something terrible is imminent.
+9603120071 is an actual accession number for an incident at San Onofre Nuclear Generating Station in 1996. Four slightly contaminated stray kittens were found, cleaned, and adopted. No clock times were mentioned in the report.
+Real-world nuclear power stations have strictly regulated control rooms which would prevent the simultaneous presence of fireworks, juggling and birthday celebrations.[1][2] There is no East Valley nuclear power plant, but there are two reactor units at the nuclear power plant in Beaver Valley, Pennsylvania.
+Transcript[edit]
+Facility: East Valley Nuclear Plant
+Date: 12/10/2021
+Report ID: 9603120071
+Event description: Roughly 18 hours prior to the incident, an Amazon package containing fireworks was mistakenly delivered to the reactor control room and left under the console.
+The next day, at approximately 14:00, Technician A arrived at the facility with a bag containing four juggling pins. At 14:20, Technician A entered the control room, and joined Technician B at the console.
+At 14:28, Technician C exited the elevator and approached the control room holding a birthday cake intended for Technician B.
+At 14:29:22, Technician A said "Hey [Technician B], check out this cool trick I learned" while taking out the juggling pins. Technician B turned to look just as, at 14:29:26, Technician C entered holding the cake.
+[Caption below the panel]:
+You know things are about to get bad when the incident report starts including seconds in the timestamps.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+It seems that "juggling pins" is also a common term for them. Many websites selling them call them pins. Wikipedia says they "sometimes are referred to as pins or batons by non-jugglers". Presumably the technician writing the IR is not a juggler. Barmar (talk) 23:00, 10 December 2021 (UTC)
+
+I'm going to assume that 12/10/2021 is the flawed American date system? Kev (talk) 23:01, 10 December 2021 (UTC)
+You have read The Leaky Establishment. Dave Langford always claims he did not smuggle nuclear material out, but will admit to a filing cabinet. Arachrah (talk) 23:09, 10 December 2021 (UTC)
+strictly regulated control rooms which would prevent the simultaneous presence of fireworks, juggling and birthday celebrations - I would hope that in control room of nuclear power plants, fireworks, juggling and birthday celebrations can't be present AT ALL, not just simultaneously ... -- Hkmaly (talk) 23:15, 10 December 2021 (UTC)
+You might think that, but I'm basing my edits on that documentary of modern American life entitled "The Simpsons" Kev (talk) 11:23, 11 December 2021 (UTC)
+As an operator at a nuclear power plant I can tell you that birthday cake is not infrequently present in the control room. But yeah, juggling would be quite discouraged, and security would not be happy if you tried to bring fireworks into the Protected Area. Also, for the record, I have never heard the fuel rods called "pins" (though that may be regional), and while the description of fuel rods here isn't *technically* false I think that "control rods" are what the writer was attempting to describe. (The design of the fuel rods does of course effect neutron flux et al, but they are not positionable or anything like that so to say that they "control reaction speed" is rather misleading.) --172.70.126.65 12:23, 11 December 2021 (UTC)
+I take your point and greater knowledge and so have more precisely linked to the wikipedia page from which I gained such knowledge Kev (talk) 20:16, 11 December 2021 (UTC)
+It's perhaps worth noting that the comic was posted within hours of Amazon in real life releasing an incident report for a major outage of one of their server locations which affected many of their services, perhaps explaining how an Amazon delivery worker accidentally delivered fireworks to the wrong location. 172.70.110.173 02:36, 11 December 2021 (UTC)
+It's never specified to be a birthday cake, but I don't know how to put that in the explanation. 172.70.175.80 03:05, 11 December 2021 (UTC)Bumpf
+The third paragraph says "a birthday cake intended for Technician B". --172.70.130.205 04:55, 11 December 2021 (UTC)
+Noting that Randall is not above drilling down even to decimals (or subunits) of seconds as needed. Relarivistic Baseball and Vlass Half Empty come immediately to mind. But I'm not sure if he's gone down the Xeno's Paradox route of starting off fairly long-scale and as the finale approaches cutting down the gap between each itemisation and the next to finer and finer distictions. Wouldn't be surprised if he did, but I'd have to search for it. 172.70.85.227 03:45, 11 December 2021 (UTC)
+I don't think that "false minute-level precision" is correct here. In fact, the next more precise-looking times might actually be false precision: go to https://en.wikipedia.org/wiki/False_precision to see what I mean. I don't know how to express the changing precision indications, however . . . . 172.70.126.87 11:32, 11 December 2021 (UTC)
+I suppose Seconds From Disaster is just the kind of show this would end up on... IByte (talk) 15:21, 11 December 2021 (UTC)
+(1) Although anonymous, it appears that we know it's Technician B's birthday which is quite personally identifiable and (2) I want more follow up about the kittens, for public safety. We could be looking at a new animal martial arts franchise but I can't decide if that's the best case or worst. 172.70.85.41 15:50, 11 December 2021 (UTC) Robert Carnegie rja.carnegie@gmail.com
+...they've possibly already got a more direct competition. (See also other examples for the generally furry, if not feline, if you prefer. ;) ) 162.158.159.43 16:55, 11 December 2021 (UTC)
+Is there an xkcd fanfic site where the story continues? I sure would love to read what happens at the microsecond level. How detailed will the story get? Femtosecond maybe? Ah such suspense! Ralfoide (talk) 18:18, 11 December 2021 (UTC)
+Heisenberg might have something to say about getting too precise. Barmar (talk) 13:55, 12 December 2021 (UTC)
+Schrödinger's opinion on this might be anything. Has anyone checked yet? 172.70.162.155 16:46, 12 December 2021 (UTC)
+If the end result was any injury that required medical attention or a reactor SCRAM there would be an incident report. A SCRAM would be more likely to have accurate timestamps from the logs. So it is possible that the incident report is for a fairly minor result. 162.158.107.40 14:41, 12 December 2021 (UTC)
+Was this inspired by the pretty serious Log4Shell (cve-2021-44228) that came out exactly that day (2021/12/10)? Can assure you many incident reports were written that day 162.158.233.53 10:18, 13 December 2021 (UTC)
+who decided to put some of their unreobtainable time into that incomplete tag? also, thank you to whoever did that https://www.youtube.com/watch?v=miLcaqq2Zpk (talk) 12:05, 13 December 2021 (UTC)
+Astonishingly, incident 9603120071 wasn't previously mentioned on Onofre Nuclear Generating Station's Wikipedia page. It is now! 172.70.135.98 16:11, 13 December 2021 (UTC)
+↑ U.S. Nuclear Regulatory Commission, Regulatory Guide 1.114, "Guidance to Operators at the Controls and to Senior Operators in the Control Room of a nuclear Power Unit." (https://www.nrc.gov/docs/ML0823/ML082380236.pdf)
+↑ U.S. Nuclear Regulatory Commission, Regulatory Guide 1.189, "Fire Protection for Nuclear Power Plants." (https://www.nrc.gov/docs/ML1734/ML17340A875.pdf)
+Categories: All comicsComics from 2021Comics from DecemberFriday comicsPages using the "citation needed" template

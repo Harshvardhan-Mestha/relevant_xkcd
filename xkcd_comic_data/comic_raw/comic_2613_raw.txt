@@ -1,0 +1,158 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2613: Bad Map Projection: Madagascator
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2613)
+|<< PrevComic #2613 (April 29, 2022)Next >>|
+Bad Map Projection: Madagascator
+
+Title text: The projection's north pole is in a small lake on the island of Mahé in the Seychelles, which is off the top of the map and larger than the rest of the Earth's land area combined.
+Explanation[edit]
+This is the fifth comic in the series of Bad Map Projections displaying Bad Map Projection #248: Madagascator. It came about 10 months after the fourth 2489: Bad Map Projection: The Greenland Special (#299).
+This time, Randall used the classic Mercator projection but instead of placing the North Pole on top and the South Pole on the bottom it is oriented so that the top is the island of Mahé. The map projection is technically a Oblique Mercator projection, with an unusual choice of the cylinder's axis. Since the Mercator projection tends to visually distort areas near the top and bottom of the resulting map, this gives some areas, notably Madagascar, very unusual shapes, hence the name the Madagascator — a portmanteau of "Madagascar" and "Mercator"!
+The Mercator projection became the standard projection for world maps during the 1800s, because a straight line (or rhumb line) in a Mercator map represents a constant bearing relative to true north. Historically, when navigation was performed by compass, this was a very valuable feature, since one (adjusting for the differences between true and magnetic north) could plot a constant-bearing course between two locations by simply looking at their relative direction on the map.
+However, in the mid-20th century, the Mercator was criticized because it causes distortion near the north and south poles of the map, giving an inaccurate impression of relative sizes. The most commonly given example of this is the size of Greenland — although on the Mercator it appears to be larger than Africa in area, Africa in reality covers an area 14 times that of Greenland.
+Randall turns this example on its head by making Madagascar, rather than Greenland, appear larger in the Madagascator than in reality. By contrast with Greenland, the world's largest non-continent island, Madagascar is only the fourth-largest island in the world, behind Greenland, New Guinea, and Borneo.
+To accomplish this, instead of placing the north pole of the map at the geographic North Pole, Randall places the north pole of the map on the island of Mahé in Seychelles. As Madagascar is relatively close to Mahé (around 650 mi (1050 km) distant), placing the north pole of the Mercator projection at Mahé significantly distorts the size of Madagascar, making it appear comparable in size to Europe on the map.
+But this distortion is even more pronounced when it comes to the island of Mahé itself, as Randall notes in the title text. Although Mahé, the largest island in Seychelles with an area of 60.7 square mi (157.2 square km), is minuscule even compared to Madagascar, the claim in the title text that it appears "larger than the rest of the Earth's land area combined" is an understatement.
+No part of Mahé is visible in the comic, but clicking on the actual comic will open a website that displays Mercator projections with a pole in any chosen location, with the location of the one opened set to Mahé. The chosen pole is (infinitely far to) the right of the screen, while its antipode is on the left. With this, it is possible to see that the island is indeed larger than the rest of the map's land area combined. A single national park within the island rivals Africa in size, and the narrow dirt road closest to the pole appears thicker than Panama. This also reveals that the location of the map's north pole (the "small lake" mentioned by Randall) is the lake impounded by the Rochon Dam, a popular tourist location in Mahé.
+Unlike previous Bad Map Projections, Morocco and Western Sahara are drawn as one unlabelled country.
+Comparison of actual/mapped areas[edit]
+Landmass Status Actual Area[1]
+(Millions of Km²) Proportion
+Land Area Proportion
+Image Area[2] Distortion[3]
+Africa[4] Continent
+2nd largest 29.7 19.95% 35% +15.1%
+Eurasia[4] Continent
+Largest 53.4 35.83% 30% -5.83%
+North America[5] Continent
+3rd largest 19.3 12.96% 15% +2.04%
+South America[5] Continent
+4th largest 17.8 11.96% 7.8% -4.16%
+Antarctica[6] Continent
+5th largest 14.2 9.53% 5.3% -4.23%
+Madagascar Island
+4th largest 0.592 0.40% 2.9% +2.50%
+Australia Continent
+Smallest 7.55 5.07% 2.5% -2.57%
+Greenland[6] Island
+Largest 2.17 1.45% 0.87% -0.58%
+Borneo Island
+3rd largest 0.749 0.50% 0.37% -0.13%
+New Guinea Island
+2nd largest 0.786 0.53% 0.32% -0.21%
+Japan[7] Island
+7th largest 0.228 0.15% 0.10% -0.05%
+Mainland Britain Island
+9th largest 0.209 0.14% 0.10% -0.04%
+Island of Ireland Island
+20th largest 0.082 0.05% 0.03% -0.02%
+↑ Major contiguous land areas that should exclude all islands, especially major ones, especially especially those listed separately
+↑ Of only these listed areas listed
+↑ NB. Difference between percentages, rather than percentage difference
+↑
+4.0 4.1 Edge at Suez Canal
+↑
+5.0 5.1 Edge at Panama Canal
+↑
+6.0 6.1 Significant ice-sheets may complicate mapped/actual 'land' areas
+↑ Honshu only
+Transcript[edit]
+Bad Map Projection
+#248: Madagascator
+Mercator projection but with the North Pole in the Indian Ocean so it exaggerates the size of Madagascar instead of Greenland. Various countries and oceans are labeled, and country borders are shown.
+[A drawn world map in Mercator projection, with the North Pole in the Indian Ocean. The center of the map appears to be near Europe, causing regions bordering the Atlantic Ocean to appear compressed relative to those away from the it. Landmasses close to the Indian Ocean appear heavily distorted, especially the African coast, Middle East and the Indian subcontinent appearing far larger than they really are. Madagascar is now distorted and appears far larger than Greenland, which is now on the Equator, and is now comparable in size to Australia and Antarctica, both of which are on the 'equator' of this new map.]
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Anyone else want to play this (and the other bad map projections) as maps in a 4X/Grand Strategy game? Mazz0 (talk) 18:02, 29 April 2022 (UTC)
+Clicking on the original comic brings up the actual projection used, it looks like.
+I'm on an old machine here (because it usually doesn't matter), and clicked on the image on the xkcd site to get the image, to be told that Your browser does not support WebGL :'( by the URL https://mrgris.com/projects/merc-extreme/#-4.64274,55.45253 - I will have to check from a less 'primitive' device, but it looks like it's got a special click-through, which might be worth mentioning in the Explanation. I can check myself in a few minutes, but noting here first in case I get delay. 141.101.98.11 19:38, 29 April 2022 (UTC)
+I have added the click. It opens an website app showing a Mercator with the North Pole set to wherever you want, with this one in particular set Mahé just as Randall said. Mapron01 (talk) 19:40, 29 April 2022 (UTC)
+Added a table, based upon some rapid pixel-analysis I did. No, I didn't include Indonesia, etc, and the "Africa size probably includes Madagascar" sort of thing could need sorting, but I mentioned that below so nobody is under misapprehension. 162.158.34.221 22:04, 29 April 2022 (UTC)
+I think having the official size also be a percent of the world (or at least another column like that) would make it easier to see how the distortion affects the size. And/or distortion from a normal Mercator projection 172.70.230.143 (talk) (please sign your comments with ~~~~)
+That was my initial intention, or at least a percentage-of-reality column alongside (plus adding sorting to the columns), and maybe a differential between the two percentages just for fun. But I wanted to take time to make sure I was correctly counting how much area was (say) Eurasia but without Japan, etc. Maybe I'll actually get around to that shortly. There are other (formatting) tweaks I wasn't overly happy with in my original. 141.101.98.11 19:00, 30 April 2022 (UTC)
+Okey dokey. New table. Sortable, extra columns and 'real world' figures improved on. (e.g. "North America" is land-areas of Canada through to Panama minus all significant islands (though some of the Canadian archipelago might have been drawn in as contiguous, etc, etc, and I think I only included Alaska in my sums just the once). Which took a lot more effort than I'd have prefered, like including Peninsula Malaysia and not the offshore bits. I wish I could say I spent as much time on the initial image-analysis (at least include NZ N+S Islands as an entry, right?) and the raw data is now archived elsewhere.
+I also augmented with footnote references, but not sure if I've done it right. Readable (defined in first instance, where used multiple times) in the source if anyone thinks there's any better ways of doing it (had my heart set on dagger/double-dagger/etc, but never mind). But there you are.
+Enjoy! 172.70.90.63 23:11, 30 April 2022 (UTC)
+Should there be another column on the table that describes the fold-change of the actual to displayed area? I think it would help emphasize the distortion of Madagascar. Dextrous Fred (talk) 16:35, 2 May 2022 (UTC)
+
+Hopefully the vandal won't bother this one. 172.70.211.18 17:23, 29 April 2022 (UTC)
+Looks like they did, but they seem to be done because someone gave them the emoticon. --172.70.126.87 22:36, 29 April 2022 (UTC)
+A mistake. We already know it's likely they'll be back at a later date with some other stunt to stroke their supremely fragile ego. (Whether or not things like this comment provokes them, I definitely consider my conscience clear in this regard.) But what happens, happens. 172.69.79.223 22:43, 29 April 2022 (UTC)
+Is it any surprise they're already back? The emoticon was a cheap excuse for the infantile, childish behaviour of someone without a life that gets their  shits and giggles out of being nothing more than a pest.Mapron01 (talk) 23:01, 29 April 2022 (UTC)
+this page is kinda sussy tbh 172.70.214.81 18:11, 29 April 2022 (UTC)
+[spam]
+I have looked at the Wikipedia pages, and there is _no_ reference to Among Us on any map-related pages (and vice versa). What is your problem? 172.70.242.195 18:43, 29 April 2022 (UTC)
+[spam]
+I take it you're the vandal... Something (talk) 19:00, 29 April 2022 (UTC)
+ID does imply they are the vandal, they were adding the lyricis earlier today...Mapron01 (talk) 19:23, 29 April 2022 (UTC)
+I fixed the redirect they made of Danish going to the main page. I think some other pages got redirected into a redirect loop that should now be fixed. Flumnble (talk) 15:24, 1 May 2022 (UTC)
+Concerning the so called compromise of vandalising this page to make the vandal satisfied: That’s not a compromise but letting ourselves be exhorted by and obeying the vandal. That’s absolutely the worst we could do and would fuel the vandal enormously. While False (talk) 05:04, 2 May 2022 (UTC)
+I agree with this. It ruins the article. Can't they just ban him? Or lock the article like wikipedia? 172.70.130.161 05:48, 2 May 2022 (UTC)
+The people trying to compromise with the vandal have to stop. They were vandalizing the last comic, the same thing was tried and they did stop... only to move on to vandalizing not just this comic but also other, older ones. It does not work. All it does is give them a free pass on their vandalizing and give them more satisfaction than they would otherwise, and it's not constructive in any way to the article, especially if the demand is something as absurd as having a Doug Walker image in an page for a comic that has zero relationship to him. And this time it didn't even get them to stop. Mapron01 (talk) 14:33, 2 May 2022 (UTC)
+Please note that the user https://www.explainxkcd.com/wiki/index.php/User:WhiIe_FaIse ("whiie faiise") has made contributions and signed them with my signature. Do not take any comment apparently from a known user for being made by its signed sender without checking history. While False (talk) 05:04, 2 May 2022 (UTC)
+holave[edit]
+exclamacioneve holave inefe eguntapre omoce uedope ayudareve ave esteve itiose inefe 108.162.245.43 02:53, 1 May 2022 (UTC)
+Does anyone know what language this is written in? I have no idea what this person is saying (asking?) and Google Translate wasn't much help. 108.162.246.178 03:09, 1 May 2022 (UTC)
+eclaracionde oye one hablove ingleseve erope oye ieroque ayudareve esteve ikiwe inefe 108.162.216.143 04:01, 1 May 2022 (UTC)
+My first thought was esperanto (or ido or interlingua, given lack of accents), certainly a latinesque-based language or conlang, but given the edits put onto this effort, it's possibly even sabotaged, or was written by someone for whom it most definitely not was their first language. (I even thought it was "Pig-esperanto"... This is that idiot who changed entire Explanations to Pig-Latin, I'm sure.)
+I've got no real affinity to languages but I can recognise the possible roots of a lot of that. Some use of "...speak(ing) English..." is obvious in the latter post, for example, at an educated guess.
+But I would say this is a prelude to some "I want you to wear bunny-ears when you revert stuff" thing, which I for one won't try to solve this puzzle for. (I'll just revert and revert and revert, if I'm around, and ignore the "trying to be clever" stuff. Nearly deleted this, actually, but restrained myself.) Otherwise, I leave it to those who know their conlangs better than me. Once it strays too far beyond technical English and its classical roots, I'm not really a linguistics person as I said, so it's useless to me whether it's an international message of friendship or extortion instructions. "Holave", whoever you are, but no thanks. 172.70.162.155 10:10, 1 May 2022 (UTC)
+How will they shut down all their ports?
+Yeah, it definitely looks like a conlang based on a Latinesque language, probably Spanish. "exclamacioneve" is probably "exclamacion" = "exclamation" (not sure why a sentence would begin with "exclamation"), holave=hola=hello, ayudareve=ayudar=help, hablove=hablo="I speak" (could actually be a different conjugation, but this is the most likely), and ingleseve=ingles=English. They seem to be saying "I speak English" (or "I don't speak English" if "one" means "no"). 172.70.130.5 14:11, 1 May 2022 (UTC)
+"I don't speak English" seems more likely, so it's probably a good guess that "one" does mean "no." 172.70.178.199 14:15, 1 May 2022 (UTC)
+It seems to be some sort of pig-Spanish, with punctuation written out. Decoded, it's “exclamacion hola fine pregunta como puedo ayudar a este sitio fine” and “declaracion yo no hablo ingles pero yo quiero ayudar este wiki fine”, meaning “exclamation hi end question how can i help on this site end” and “statement i dont speak english but i want to help this wiki end”. Kapostamas (talk) 15:15, 1 May 2022 (UTC)
+How will they shut down all their ports?
+(Somehow the thread got duplicated; I merged the threads) That makes sense. It seems like if someone wanted to help, they would at least use a real language. Do you think this is the vandal? 172.70.178.33 15:31, 1 May 2022 (UTC)
+Definitely the vandal. These were some of the vandal edit summaries on the last comic: "Orpe avorfe one andalizarve esteve aginape" "ise eviertere estove eve incluyeve unve emojive ede a'rbolve ede avidadne enve use esumenre ede edicio'nve, one ole olvere've ave acerehve" "one incluyesteve uneve emojive ede a'rboleve ede avidadene" @Kapostamas can you understand those? 172.70.178.33 15:42, 1 May 2022 (UTC)
+“Por favor no vandalizar este pagina”; “Si revierte esto e incluye un emoji de árbol de navidad ne su resumen de edición, no lo volveré a hacere”; “No incluyeste un emoji de árbol de navidad”.
+That is, “Please do not vandalize this page”; “If you revert this and include a Christmas tree emoji in the edit summary, I will not do it again”; “You haven't included a Christmas tree emoji”. Must be some earlier version of this “dialect”, since there is punctuation and diacritics are marked by apostrophes, making it somewhat easier to recognize as mangled Spanish. Kapostamas (talk) 16:08, 1 May 2022 (UTC)
+
+(Written before 172.70.178.33 got posted, just above.) I'd stake my bottom dollar/peso/euro/whatever on it. Still, marginally entertaining, but not in the intended way (which is good).
+As for the "Exclamation" start, two basic theories:
+It's word-literal of "¡Some punctuation!" (partnered eith "inefe"=>"end), because the encoding system doesn't have punctuation, it reads it out (maybe literally, e.g. via screen-reader) and it's like a telegram convention "HAVE REACHED NORTH POLE STOP PLEASE ADVISE WHICH DIRECTION NOW STOP" (i.e. full-stop/period in word form).
+It's a start that says "I exclaim (that)...", and the other "I declare (that)..." in a sort of grammatical necessity for this particular lingo. Similar to "Statement: I am a computer. Question: Are you a computer?" in (deliberately-?)bad scifi dialogue.
+Possibly a mix of both, and also some tertiary ideas I have. And the word-for-word translations make a sort of sense in either/both/all these contexts. Not that I'd respond to them, but I'll gladly talk about them and actually do something intellectually interesting with the mess. Silk purse from sow's ear, etc. 172.70.90.63 15:55, 1 May 2022 (UTC)
+What's the rule for "translating" into this "dialect"? It seems like it is very similar to pig Latin, but with a few changes? 108.162.216.17 16:27, 1 May 2022 (UTC)
+As far as I know:
+Write your message in Spanish.
+Enclose each of your sentences between declaración/exclamación/pregunta at the front (according to closing punctuation – ./!/? respectively) and fine at the end. Remove original punctuation. Probably do something about commas as well.
+Remove diacritics.
+For each word, move the initial consonant cluster to the end. If there is no initial consonant (or if it's silent, like H), instead add a V to the end of the word. Then append a final E to each word.
+Kapostamas (talk) 17:29, 1 May 2022 (UTC)
+Okay, that makes sense, thank you! It also looks like if the word ends in a consonant, you add an e to the end both before and after the moved/new consonant (group), because otherwise exclamación would become "exclamacionve" when it is actually "exclamacioneve." It also looks like we've been successfully 356ed by the vandal. 172.70.126.65 17:50, 1 May 2022 (UTC)
+That supposes that they always applied their own rules perfectly. There are many places where this rule seems to be in effect and many where it doesn't; sometimes even the same word is transcribed in two different ways. Since my Spanish is rudimentary at best, I've simply included some of these E's in the transcription without noticing them. Kapostamas (talk) 19:28, 1 May 2022 (UTC)
+It looks like they added the e-between-consonants rule in later messages. 172.70.131.106 19:40, 1 May 2022 (UTC)
+That explains many of them, but there's still “eclaracionde” in the second message. Kapostamas (talk) 20:54, 1 May 2022 (UTC)
+eclaracionede esaseve eglasere eque ese esele ocurrieroneve onese orrectasece inefe eclaracionede itace eclaracionde inefe uefe uneve erroreve ipograficote yve eberiade erese itace eclaracionede inefe inefe 172.70.126.65 21:04, 1 May 2022 (UTC)
+Hmm, more pig-Spanish.
+After undoing the word changes, but leaving the grammar as-is, it says: "declaracion esas reglas que se les ocurrieron son correctas fine declaracion cita declaracion fine fue un error tipografico y deberia ser cita declaracion fine fine"
+The first sentence appears to mean "Those rules that (either "they" or plural "you") came up with are correct."
+The rest of it doesn't make much sense; there are even two "fine"s in a row. @Kapostamas do you know what this message means? 172.70.130.161 02:57, 2 May 2022 (UTC)
+I did not even try to parse it, but it occured to me it was like "I used, quote, 'quotes', endquote..." as a deliberately obtuse nesting (especially when ripped of its additional punctuation). So under the system in which start and end words are used, the start and end of a sentence that contains those words (perhaps not paired), the ambiguity arises. That said, the self-referential nature of it also indicates quite clearly that they are thinking they are being clever. They aren't, but it's interesting to watch. 172.70.162.77 09:05, 2 May 2022 (UTC)
+Translated, it's something like “statement quote eclaracionde end was a typing error and should have been quote eclaracionede end end”. It's just another kind of punctuation.
+Two-deep nesting is not that complicated to parse. Now, using “declaración” or “fine” as words on their own right – that would really be confusing. Kapostamas (talk) 10:33, 2 May 2022 (UTC)
+Okay, that makes sense. "eclaracionde" was a typing error and should have been "eclaracionede."
+More pig-Spanish (replaced with [spam] in the "Current vandalism elsewhere" discussion):
+"exclamacioneve holave inefe eguntapre omoce estaseve inefe eclaracionde ete oyese inefe"
+"exclamacion hola fine pregunta como estas fine declaracion te soy fine"
+"Hello! How are you? I am you."
+The last sentence ("ete oyese"/"te soy"/"I am you") doesn't make much sense; @Kapostamas is it right? 172.70.178.199 21:50, 2 May 2022 (UTC)
+Considering the name, I'd say it's correct. Kapostamas (talk) 22:49, 2 May 2022 (UTC)
+Possibly meant to be "te oyes fine" - an attempted joke using the 'fine' as part of the sentence - "You sound fine"? Although 'oyes' ought to encode as 'oyeseve'.172.69.79.223 11:37, 3 May 2022 (UTC)
+It was oyese ute originally, which unambiguously means “I am you”. inefe may be fin or fine, neither of which means “fine” in English. To spell out the name thing: the message was written under the username Whilе Falsе (with Cyrillic Е's), to While False. Kapostamas (talk) 13:44, 3 May 2022 (UTC)
+Current vandalism elsewhere[edit]
+Someone with an account needs to unvandalise what I am fairly certain is our pig-Spaniards work, in another of their incarnations.
+ 16:32, 2 May 2022 X K C D (talk | contribs) moved page Talk:1014: Car Problems to Talk:1014: Trouser Problems
+ 16:32, 2 May 2022 X K C D (talk | contribs) moved page 1014: Car Problems to 1014: Trouser Problems
+...those two alterations, as listed in the Move Log, easy to find. (I already reverted the text within.) Naturally, I assume we'll see more of the same in future. In this instance I'm putting this note in the (for the moment) latest entry rather than the Admin area, as I think it's linked to the above. 172.70.86.44 17:27, 2 May 2022 (UTC)
+Second change made, trying to invert the "WhiieFaise" impersonation and make it look like "WhiLeFaLse" is in the wrong. Also much messing with everything. Please someone check that this edit restored only what was necessary and didn't remove anything at least plausibly genuine. 172.70.162.5 17:47, 2 May 2022 (UTC)
+Thank you. While False (talk) 18:08, 2 May 2022 (UTC)
+I just happened to check and saw 'things' happening, so dove in to mitigate what I could (and unfold further as I was doing that). Then I saw that you were active too. I hope we didn't clash much in our individual efforts. And with the confluence of vandalising techniques in this latest episode, I think we have confirmation that a number of recent outbreaks under different guises were by just one idiot. 172.70.91.36 18:40, 2 May 2022 (UTC)
+Yep. Thank you. While False (talk) 18:51, 2 May 2022 (UTC)
+[Spam] Whilе Falsе (talk) 20:54, 2 May 2022 (UTC)
+Well, there it goes. One more impostor account, this time with “Ｗ” instead of “W”. While False (talk) 21:00, 2 May 2022 (UTC)
+The same person now also uses Ｗhile False with “Ｗ” instead of “W” and ”е” instead of “e” to vandalise in my name. While False (talk) 21:08, 2 May 2022 (UTC)
+Oh god I used the mercator to center on my house Behold the “StLouiscator” TenGolf MathHacker (talk) 21:15, 3 April 2023 (UTC)
+Categories: All comicsComics from 2022Comics from AprilFriday comicsBad Map ProjectionsPortmanteau

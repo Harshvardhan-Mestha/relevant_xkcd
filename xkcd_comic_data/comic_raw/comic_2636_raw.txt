@@ -1,0 +1,345 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2636: What If? 2 Countdown
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2636)
+|<< PrevComic #2636 (June 22, 2022)Next >>|
+What If? 2 Countdown
+
+Title text: If you don't end the 99 Bottles of Beer recursion at N=0 it just becomes The Other Song That Never Ends.
+Explanation[edit]
+This comic takes the idea of advent calendars to the extreme. It uses absurd and obscure ways to measure the amount of time until Randall's new book What if? 2 is released, with esoteric units and esoteric numbers. See explanation of each day in the table below
+Some concepts that appear multiple times throughout the calendar are:
+SI prefixes, which can be applied to the beginning of a unit's name to multiply or divide the unit by powers of 10 or 1,000. This is standard for units like meters and grams, but is rarely applied to measurements of time other than when a unit of less than one second is needed, most commonly in various fields of science and engineering such as physics and electronics.
+The Gettysburg Address, a famous speech delivered by U.S. president Abraham Lincoln in 1863, where he began by referring to the signing of the Declaration of Independence taking place "four score and seven years ago". A score is a dated term for the number 20, so "four score and seven" is equivalent to 87.
+A dog year is traditionally considered to be one-seventh the length of a normal human year, since a dog's overall lifespan is roughly one-seventh of a typical human's. The comic applies this to other units of time, such as minutes and months, each of which is also one-seventh the length of the standard unit. The number 7 (traditionally a "lucky number") is also used in many of the numbers quoted in the calendar.
+Other comparative durations of time that are not normally or usefully applied to day-length multiples. At the top end, there is the age of the universe, at the other there is Planck-time – with entire durations of periods of human history and the time needed to watch popular TV/film franchises in-between – most of which require a non-trivial multiplier or divisor to bring them to the necessary scale required.
+A baker's dozen is 13, or one more than a normal dozen. Here, the "baker's" prefix can be applied to any unit by adding an extra one of its constituent parts, like an extra hour added to a day.
+Irrational numbers like pi (3.14159...), Euler's number or e (2.71828...), the golden ratio (1.61803...), and the square root of 2 (1.41421...). These are all interesting numbers because of their mathematical properties, but very impractical to use as arbitrary measurements of time because they have an endless series of non-repeating decimal digits.
+The teenage dating game Seven minutes in heaven.
+Rotational and orbital periods of various bodies in the Solar System.
+Finally the song 99 Bottles of Beer, is also used twice in the calendar, as the one after a full week and then for the final day before release.
+The title text refers to the recursive time period on the final day before release, September 12 where the 99 Bottles of Beer song is song 99 times, but with one less verse every time (so 99 verses the first time, 98 verses the second, 97, 96 ... 2 and 1 the last). If you don't stop when you reach N=0 bottles, the repetition never ends, so that time interval becomes infinite. He then calls it "The Other Song That Never Ends", comparing it to The Song That Never Ends. That song is a repetitive children's song, which is specifically intended to go on forever. The difference is that the Beer song has a natural stopping point at 0, while The Song That Never Ends is completely repetitive.
+Table of the calendar countdown[edit]
+Days left Date Duration specified Duration in days Explanation
+83 Jun 22 πe millidecades 82.03 days π ≈ 3.14159, e ≈ 2.718, so πe is about 22.459. A millidecade is 1/1,000 decade, or 1/100 year, or 3.652425 days. Multiplying these results is 82.03 days.
+82 Jun 23 7 megaseconds 81.02 days 7,000,000 seconds. 60*60*24 = 86,400 seconds in a day, so 7,000,000/86,400 ≈ 81.02 days
+81 Jun 24 e lunar months 80.27 days A lunar month ≈ 29.53059 days, e ≈ 2.718, so 29.53059*2.718 ≈ 80.26 days.
+80 Jun 25 60 rotations of Foucault's pendulum in Paris 79.5 days Foucault's pendulum demonstrates Earth's revolution, with the one at the latitude of Paris completing a full rotation every 31.8 hours.
+79 Jun 26 8 milligenerations 78.89 days A generation is in general 22-33 years, with a reasonable mid-point of 27; and 8 x 0.001 (milli) x 365.2425 (accounting for leap years) x 27 ≈ 78.89 days
+78 Jun 27 777,777 dog minutes 77.16 days A popular myth is that dogs age 7 times faster than humans, so 1 dog minute equals 1/7 human minutes.
+77 Jun 28 7! episodes of Jeopardy! (skipping ads) 77+ days 7! = 7x6x5x4x3x2x1 = 5040. The standard episode of Jeopardy is 22-26 minutes, skipping ads. At 22 minutes each, the total is 110,880 minutes, or exactly 77 days.
+76 Jun 29 5,000 repeats of 99 Bottles of Beer 76.39 days Each verse of 99 Bottles of Beer is "N bottles of beer on the wall, N bottles of beer. Take one down, pass it around, N-1 bottles of beer on the wall." The entire song contains 99 verses. Randall apparently sings this rather slowly at around 72 bpm, taking about 13 seconds per verse. It can be done somewhat faster as shown here, where the 99 verse takes less than 17.5 minutes for 10.6 second pr verse. Then it would only take two months, or 61 days, 15 days too little.
+75 Jun 30 5 baker's fortnights 75 days A baker's dozen is a dozen (12) plus 1 extra item. Randall has generalized this to adding 1 to any unit. A fortnight is 14 days (or more properly "fourteen nights", by its original use), so a baker's fortnight is 15 days. 5x15 is 75 days.
+74 Jul 1 √2 dog years 73.79 days See day 78 (Jun 27). 1.4142 × (365 / 7)
+73 Jul 2 π millivics (1/1000th of Queen Victoria's reign) 72.97 days Queen Victoria ruled between 20 June 1837 and 22 January 1901 (23,226 days). 3.14159 × 23.226
+72 Jul 3 42 drives from NYC to LA (Google Maps estimate) 71.75 days According to Google Maps, the drive from New York City to Los Angeles via I-80 W (2789 miles or 4489 km) takes 41 hours.
+71 Jul 4 1,000 viewings of Groundhog Day 70.14 days Using Groundhog Day's 101-minute run time.
+70 Jul 5 100,000 minutes 69.44 days 1,440 minutes per day
+69 Jul 6 1/10th of Martian year 68.70 Earth days Martian sidereal and tropical years both round to 687.0 Earth days
+68 Jul 7 1,234,567 sound-miles 67.63 days The speed of sound in air depends on the temperature. 15 °C or 59 °F gives the value 340 m/s and the travel time of 67.6349058 days.
+67 Jul 8 2πe seconds 66.74 days 2^(π^e) = 5,766,073 seconds. The order of operations for multiple exponentiation without parentheses is top-first.
+66 Jul 9 216 beats (Swatch Internet Time) 65.54 days A ".beat" is equal to 1/1,000 day.
+65 Jul 10 1,000 ISS orbits 64.58 days Each orbit of the ISS takes 90-93 minutes. Here a value of 93 minutes is used.
+64 Jul 11 🎵🎶🎵 Five hundred twenty five thousand (base seven) minutes 62.88 days This refers to radix-7 arithmetic: 525,0007 minutes = 90,55210 minutes (5 × 7^5 + 2 × 7^4 + 5 × 7^3). Also references the opening and recurring line "Five hundred twenty five thousand six hundred minutes" from Seasons of Love, a song from the musical Rent, which is also referenced in 1047: Approximations. "Base seven" has the same rhythm as "six hundred".
+63 Jul 12 1050 Planck times 62.38 days 10^50 x 5.39 x 10^-44 seconds. The powers of 10 can be simplified, thus 5.39 × 10^6
+62 Jul 13 4,000 episodes of The Office (skipping ads) 61.11 days The Office was originally a BBC television show which had no commercial breaks, so Randall must be referring to the later US version, which is logical as he's American. This US "half-hour" comedy format contains 22 minutes of content (including the title sequence) and 8 minutes of ads. There are only 201 distinct episodes of the US version, so watching 4,000 episodes would require a lot of re-watching.
+61 Jul 14 Four score and seven kilominutes 60.42 days 87 x 1,000 minutes
+60 Jul 15 2 lunar months 59.06 days There are a number of different ways to define the lunar month. The most common is the synodic month, because it relates to the phases of the moon, and it's approximately 29.53 days.
+59 Jul 16 Half a day on Venus 58.38 Earth days A Venus synodic day is 116 days 18 hours.
+58 Jul 17 5 megaseconds 57.87 days 5,000,000 seconds
+57 Jul 18 30 microLits (1/1,000,000th of the time since the invention of literature) 57.21 days 3200 BCE is the approximate date of pre-Sumerian proto-writing as given in Wikipedia's article on the history of writing. 5,222 years × 30 × 10-6.
+56 Jul 19 1,000 viewings of Run Lola Run 55.57 days Using the movie's run time of 80 minutes.
+55 Jul 20 One million sound-miles 54.78 days The speed of sound in air depends on the temperature. 15 °C or 59 °F gives the value 340 m/s and the travel time of 54.7843137 days.
+54 Jul 21 30 Ionian months 53.07 Earth days Orbital period of Io around Jupiter is approximately 1.77 days.
+53 Jul 22 One dog year 52.18 days See day 78 (Jun 27). 365.2425 / 7
+52 Jul 23 60 viewings of Star Wars Episodes I-IX 51.75 days According to Fansided the combined running times are 20 hours 42 minutes.
+51 Jul 24 1/100,000,000,000th of the universe's age 50.40 days The universe is estimated to be about 13.8 billion years old.
+50 Jul 25 5 milli-generations 49.3 days See day 79 (Jun 26). 5 × (27 × 365.2425) / 1,000
+49 Jul 26 10,000 games of 7 minutes in Heaven or 7 games of 10,000 minutes in Heaven 48.61 days Seven minutes in heaven is an Anglo-culture teenager game, occuring in several movies. 10,000 minutes in Heaven is almost a week of making out (or doing whatever) in a closet, so this game is unlikely.[citation needed]
+48 Jul 27 φeπ minutes 47.41 days Phi (the golden ratio) to the power of e to the power of pi. 1.618 ^ (2.718 ^ 3.14159) = 68,284.14 minutes
+47 Jul 28 4 megaseconds 46.30 days 4,000,000 seconds
+46 Jul 29 216 minutes 45.51 days 65,536 minutes
+45 Jul 30 eee seconds 44.15 days 3,814,279.10 seconds
+44 Jul 31 π fortnights 43.98 days 3.14159 x 14 days
+43 Aug 1 One devil's spacewalk (666 orbits of the ISS) 43.01 days See day 65 (Jul 10). 666 is the number of the beast. 666 × 93 minutes.
+42 Aug 2 1 kilowatt-hour per watt 41.66 days 1,000 hours
+41 Aug 3 eπ Ionian months 40.93 Earth days Orbital period of Io around Jupiter is 1.769137786 days. 2.718 ^ 3.14159 × 1.769
+40 Aug 4 30 rotations of Foucault's pendulum in Paris 39.75 days Refer to Day 80 (Jun 25). Half of that day's 79.5 days, 30 × 31.8 hours
+39 Aug 5 e fortnights 38.06 days 2.71828 x 14 days
+38 Aug 6 ππ baker's days (25 hours) 37.98 days See day 75 (Jun 30). 3.14159 ^ 3.14159 × 25
+37 Aug 7 One deciyear 36.52 days One tenth of one year
+36 Aug 8 7! milliweeks 35.28 days 5,040 × 0.001 weeks
+35 Aug 9 100,000 plays of the Jeopardy! "Think" music 34.72 days Think is the music played while the contestants try to answer the Final Jeopardy question; it is 30 seconds long. 30 × 100,000 seconds
+34 Aug 10 1000 basketball games (game time) 33.33 days Uses the NBA game time of four 12-minute quarters, or 48 minutes
+33 Aug 11 777 hours 32.38 days 24 hours per day
+32 Aug 12 One millilincoln (1/1000 of fourscore and seven years) 31.78 days Abraham Lincoln's Gettysburg Address begins with the famous phrase "Four score and seven years ago". 1 score = twenty.
+31 Aug 13 1,000 episodes of 60 Minutes (skipping ads) 30.56 days A television hour is between 42 and 44 minutes, with the remaining time used by ads. This uses a television 'hour' containing 44 minutes of content and 16 minutes of ads.
+30 Aug 14 All of Star Trek, consecutively 28.55 days According to CBR of January 21, 2021, this consists of:
+3,950 minutes of The Original Series
+528 minutes of The Animated Series
+7,832 minutes of The Next Generation
+7,920 minutes of Deep Space 9
+7,740 minutes of Voyager
+4,116 minutes of Enterprise
+250 minutes of Lower Decks, Season 1
+4,725 minutes of Discovery, the first 3 seasons
+450 minutes of Picard, Season 1
+150 minutes of Short Treks
+688 minutes of The Original Series films
+448 minutes of The Next Generation films
+381 minutes of the three rebooted universe films
+In the year and a half since publishing that article, there have been:
+250 minutes of Lower Decks, Season 2
+585 minutes of Discovery, Season 4
+450 minutes of Picard, Season 2
+237 minutes of Prodigy, the first half of Season 1
+411 minutes of Strange New Worlds, up to and including June 23, the day after this comic (8 out of 10 episodes of Season 1)
+The last two episodes of Strange New Worlds, taking the franchise until July 7, would add roughly 0.035 of a day each, a negligible difference.
+29 Aug 15 777,777 nanocenturies 28.41 days 777,777 × 10-9 × 100 years.
+28 Aug 16 One sidereal lunar month 27.3 days The time it takes moon to return to the same position relative to the fixed stars
+27 Aug 17 6 dog months 26.14 days See day 78 (Jun 27). A month averaging 30.5 days / 7
+26 Aug 18 ππ kilominutes 25.32 days 36,462.16 minutes
+25 Aug 19 7 games of 7! minutes in Heaven 24.5 days 7 x 5040 (7 factorial) minutes. See also day 49 (Jul 26).
+24 Aug 20 50 viewings of the extended Lord of the Rings trilogy 23.82 days The Fellowship of the Ring extended version is 208 minutes, The Two Towers is 226 minutes, and The Return of the King is 252 minutes for its extended version, according to FictionHorizon.com
+23 Aug 21 A drive from NYC to LA where you keep remembering new things you forgot and have to go back 6 times 22.21 days See day 72 (Jul 3). This is for 6 round-trips and 1 one-way trip, so 13 trips at 41 hours each.
+22 Aug 22 It's a Small World sung at 1/10,000th speed 21.06 days It's a Small World is a song that was composed for the attraction of the same name at various Disney theme parks, and plays continuously at them in various languages. The song lasts 12–15 minutes, depending on the language. However, Randall seems to be using a single iteration of the song, such as this YouTube video of 3:02, posted by Disney themselves. As such, it's 3:02 × 10,000.
+21 Aug 23 500 hours 20.83 days 24 hours per day, or 0.041678 days per hour
+20 Aug 24 √2 fortnights 19.80 days 1.4142 × 14 days
+19 Aug 25 Time it would take Vanessa Carlton to walk 1,000 miles 18.94 days Vanessa Carlton is an American singer, and A Thousand Miles is her most successful song. Randall estimates her walking speed at about 2.2 miles/hour.
+18 Aug 26 100,000 breaths 17.36* days The normal respiratory rate for adults is typically 12-20 breaths per minute, or about 3-5 seconds each. *However, the day length here is for 15 seconds/breath, so Randall may be a practitioner of slow breathing.
+17 Aug 27 √2 megaseconds 16.37 days 1.4142 × 1,000,000 seconds
+16 Aug 28 πππ πcoseconds 15.51 days 1.3402 × 1018 picoseconds (i.e., 10-12 seconds), making a joke how the mathematical "pi" is written with the character "π" by using it to spell "picoseconds". This is probably related to the fact that the prefix "pico" is often mis-[citation needed]-pronounced as "PIE-co" rather than "PICK-o".
+15 Aug 29 One baker's fortnight (15 days) 15 days See day 75 (Jun 30)
+14 Aug 30 One baker's dozen (13) baker's days (25 hours) 13.54 days 325 hours; see day 75 (Jun 30)
+13 Aug 31 300 hours 12.5 days 0.041678 days per hour
+12 Sep 1 One million seconds 11.57 days 86,400 seconds per day
+11 Sep 2 One nonstop bike ride from NYC to LA 10.54 days Google maps estimates the trip at 253 hours
+10 Sep 3 1⁄1,000th of a generation 9.86 days See day 79 (Jun 26). A generation being taken as 27 years.
+9 Sep 4 777,777 seconds 9.002 days 1.15741 × 10-5 days per second
+8 Sep 5 100 viewings of Groundhog Day 7.01 days See Day 71 (Jul 4).
+7 Sep 6 100 games of Lincoln Kissing (fourscore and seven minutes in Heaven) 6.04 days 8,700 minutes
+6 Sep 7 One pico-universe-lifetime 5.04 days See Day 51 (Jul 24). 13.8 billion years, "pico" meaning to divide by 1 trillion, thus 13.8 / 1,000.
+5 Sep 8 The Baby Shark chorus for a family of 50,000 sharks 4.63 days The chorus lasts about 8 seconds per 'person'
+4 Sep 9 One centiyear 3.65 days 365.2425 days/100
+3 Sep 10 Cyndi Lauper's Time After Time played 1,000 times 2.79 days Based on a length of 4 minutes, 1 second
+2 Sep 11 Speed (1994) played at one frame per second 1.9 days Speed (1994 film) has runtime of 116 minutes = 6,960 seconds = 167,040 film frames at standard frame rate of 24 frames/second
+1 Sep 12 F(99) where F(N) means sing all the verses of N Bottles of Beer On the wall followed by F(N-1) 0.76 days Each iteration contains N verses. N + N-1 + N-2 ... + 1 equals N * (N+1) / 2, so 99 recursions = 4950 verses. Using the same 13-second (72 bpm) rate as Jun 29, this is close to 18 hours. Probably refers to Donald Knuth's article The Complexity of Songs. This F(99) song is referenced in the title text, see explanation above.
+0 Sep 13 What If? 2 release day N/A Book launched!
+Transcript[edit]
+[The comic is a calendar that counts down to a specific date, like a Christmas calendar starting on June 2nd and ending on September 13th (2022). Each day is represented with a large square and there are 12 weeks for a total of 84 days. The days belonging to a particular month are surrounded by a thicker frame than between days from the same month. The first day of each month plus the very first day has the date given with three letters representing the month and the day number. This is written at the top right corner in a frame. All other days either only have the number for the day in the frame in the corner, or, if there are too much text on the day, no number is written. A single day has the number without the frame around it. The very last day notes what the countdown is for and there are three large stars places around the text, as well as smaller and larger dots, likely representing more stars in the entire field. All other days have text on all white background. The text represents a time that fits the time span from that day until the final day. The calendar begins on a Wednesday, and since the calendar week begins on a Sunday, there are three days missing to the left in the top row, and similarly four days are missing to the right in the bottom row as the last day is a Tuesday. Above the calendar is a large heading with a subheading below:]
+Countdown to What if? 2
+(Preorder at xkcd.com/whatif2 to get it at the end of the countdown)
+[The date given, either as written or else mentioned if not written in comic, and then follows the text on that day:]
+Jun 22
+πe millidecades
+23
+7 megaseconds
+24
+e lunar months
+25
+60 rotations of Foucault's pendulum in Paris
+26
+8 milligenerations
+27
+777,777 dog minutes
+28
+7! episodes of Jeopardy! (skipping ads)
+29
+5,000 repeats of 99 Bottles of Beer
+30
+5 baker's fortnights (15 days)
+Jul 1
+√2 dog years
+[Date left out on the 2nd.]
+π millivics (1/1000th of Queen Victoria's reign)
+3
+42 drives from NYC to LA (Google Maps estimate)
+4
+1,000 viewings of Groundhog Day
+5
+100,000 minutes
+6
+1/10th of Martian year
+7
+1,234,567 sound-miles
+8
+2πe seconds
+9
+216 beats (Swatch Internet Time)
+10
+1,000 ISS orbits
+11
+[Four musical notes are shown at the top.]
+Five hundred twenty five thousand (base seven) minutes
+12
+1050 Planck times
+13
+4,000 episodes of The Office (skipping ads)
+14
+Four score and seven kilominutes
+15
+2 lunar months
+16
+Half a day on Venus
+17
+5 megaseconds
+[Date left out on the 18th.]
+30 microLits (1/1,000,000th of the time since the invention of literature)
+19
+1,000 viewings of Run Lola Run
+20
+One million sound-miles
+21
+30 Ionian months
+22
+One dog year
+23
+60 viewings of Star Wars Episodes I-IX
+24
+1/100,000,000,000th of the universe's age
+25
+5 milli-generations
+[Date left out on the 26th.]
+10,000 games of 7 minutes in Heaven or 7 games of 10,000 minutes in Heaven
+27
+φeπ minutes
+28
+4 megaseconds
+29
+216 minutes
+30
+eee seconds
+31
+π fortnights
+Aug 1
+One devil's spacewalk (666 orbits of the ISS)
+2
+1 kilowatt-hour per watt
+3
+eπ Ionian months
+4
+30 rotations of Foucault's pendulum in Paris
+5
+e fortnights
+6
+πe baker's days (25 hours)
+7
+One deciyear
+8
+7! milliweeks
+9
+100,000 plays of the Jeopardy! "Think" music
+10
+1000 basketball games (game time)
+11
+777 hours
+12
+One millilincoln (1/1000 of fourscore and seven years)
+13
+1,000 episodes of 60 Minutes (skipping ads)
+14
+All of Star Trek, consecutively
+15
+777,777 nanocenturies
+16
+One sidereal lunar month
+17
+6 dog months
+18
+ππ kilominutes
+19
+7 games of 7! minutes in Heaven
+20
+50 viewings of the extended Lord of the Rings trilogy
+[Date left out on the 21th.]
+A drive from NYC to LA where you keep remembering new things you forgot and have to go back 6 times
+[Date left out on the 22nd.]
+It's a Small World sung at 1/10,000th speed
+23
+500 hours
+24
+√2 fortnights
+[Date left out on the 25th.]
+Time it would take Vanessa Carlton to walk 1,000 miles
+26
+100,000 breaths
+27
+√2 megaseconds
+28
+πππ πcoseconds
+29 [The date is not inside a small frame as all other dates shown.]
+One baker's fortnight (15 days)
+30
+One baker's dozen (13) baker's days (25 hours)
+31
+300 hours
+Sep 1
+One million seconds
+2
+One nonstop bike ride from NYC to LA
+3
+1⁄1,000th of a generation
+4
+777,777 seconds
+5
+100 viewings of Groundhog Day
+[Date left out on the 6th.]
+100 games of Lincoln Kissing (Fourscore and seven minutes in Heaven)
+7
+One pico-universe-lifetime
+8
+The Baby Shark chorus for a family of 50,000 sharks
+9
+One centiyear
+10
+Cyndi Lauper's Time After Time played 1,000 times
+[Date left out on the 11th.]
+Speed (1994) played at one frame per second
+[Date left out on the 12th.]
+F(99) where F(N) means sing all the verses of N Bottles of Beer On the wall followed by F(N-1)
+13
+What If? 2 release day
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I've started the table to explain all the calendar entries. Barmar (talk) 00:19, 23 June 2022 (UTC)
+Is the dog minutes calculation backwards? 777,777 dog minutes should be 777,777 x 7 human minutes, which is over 10 years. Randall seems to be dividing instead of multiplying. Barmar (talk) 00:36, 23 June 2022 (UTC)
+No - 1 human year = 7 dog years; 1 dog year = 1/7 human year; 1 dog minute = 1/7 human minute; 777,777 dog minutes = 111,111 human minutes = 77 days, 3 hours, 51 minutes. 172.70.90.173 11:32, 23 June 2022 (UTC)
+First entry is probably mistake by Randall, e^pi would give value of 84.5 162.158.203.38 11:57, 23 June 2022 (UTC)
+That would be too high, though. 82.xxx days (from midnight at the start of launch day) would fall within the 83rd day before it (Jun 22). 84.5 would fall within the 85th (Jun 20). 172.70.91.58 12:15, 23 June 2022 (UTC)
+Not sure if this is even worth mentioning, but he forgot the box around the date number in the top corner for August 29th. 172.70.126.151 12:49, 23 June 2022 (UTC)
+Fyi, used wolfram alpha for most of the calculations. Seems to be able to handle anything I throw at it (nanocenturies, megaseconds, fortnights etc) Aditya95sriram (talk) 13:02, 23 June 2022 (UTC)aditya95sriram
+Some of the calculations done forward (assuming what Randall means as a Generation, for example) might be best done as "to get this many days, what does Randall think ilhe is starting from. And see if 365, 365.25 or even 365.24 days per year works best, where relevent. Although I think in many cases you'll find the fractional differences negligable, when done right. (I'm also a bit surprised by the off-by-one errors in days-to-go and derived value, but I suspect that this is because of assymetric rounding effects that would be revealed by running the assumption backwards and seeing how different (or otherwise) the decimals actually are.) 172.70.85.211 13:32, 23 June 2022 (UTC)
+I would suggest using 365.2425 days per year, as that's consistent with current leap year conventions. Dansiman (talk) 21:49, 23 June 2022 (UTC)
+Did not see your comment, but already done trivial replacement. No recalculation that goes more complicated than magnitude, though.
+(For the mathematically curious, in the Gregorian calendar it's normally 365 days, but a leap day every four years (+0.25 => 365.25), except no leap day every century (-0.01 => 365.24), except there is every fourth century (+0.0025 => 365.2425). Which is very very close to the more astronomically-precise figure of 365.2422, at least at this point in our planet's history and definitely over the timescale of the Gregorian calendar itself. edit-to-add-convoluted-musings: A successor system might need to de-reinstate three of the Four-Millenial leap-days in every 10,000 year period, or perhaps by re-removing four of its various leap-days then re-reinstating one of those back again, but by the time it's relevent I doubt that 365.2422 is going to be as valid for whatever reason... Hey, by then, maybe we could just deliberately adjust the Earth in or out a bit to make it a better fraction/not a fraction at all! )
+On the other hand, the old adage is "no use being precise over imprecise details". One can perhaps apply it to nominal decades (the true average decade; though a given decade might be 10*365 days plus either two or three leap-days, for 3652.5±0.5 days in that instance... not equally likely each way, though) but the Generations calculation already assumes 27 years per generation (not even 27.5, exactly half way between 22 and 33, which already seems a dubious backformation to suit other purposes) and gets a good-enough approximate number. Using a factor precise to around 1 in 146000 alongside one that's unlikely to be even as accurate as 1 in 54 is a bit rich and overly anal (rather than analytic) in the long-run.
+But this is explainxkcd, so I'm not saying it's misplaced, just that those who would be pedantic about everything (myself included) might find themselves even more out-pedanted in very reasonable circumstances... ;) 172.70.162.77 22:47, 23 June 2022 (UTC)
+Not sure about most numbers but at least the order of magnitude seemed plausible. I can't quite find a proper way to read August 28th. π^π^π is roughly 80662.666 - if you read πcoseconds as "picoseconds", that's way less than a second. I have no idea what π * coseconds are supposed to be. π * c * o * seconds doesn't look much better - there are values associated with "c" (speed of light, for example) but I have no idea what "o" could be and certainly nothing that would make this a unit of time. Sixteen days would be 1,353,600,000,000,000,000 ps (picoseconds). π^π^π^π is three orders of magnitude too small, π^π^π^π^π is many orders of magnitude too big a number. Am I missing something (really obvious, maybe?) here? 627235 (talk) 14:52, 23 June 2022 (UTC)
+Exponent towers are by convention evaluated top-down, so pi^pi^pi should be read as pi^(pi^pi), which is ~1.34e18, which in picoseconds is ~15.51 days. 172.70.114.71 15:21, 23 June 2022 (UTC)
+10,000 minutes in Heaven is making out for a week. I was able to find a record for the longest kiss (58 hours, 35 minutes), but not the longest make-out session. I think Randall may be indulging in some nerdy wishfull thinking. Barmar (talk) 15:27, 23 June 2022 (UTC)
+When the beer song reached F(0) how would you 'take one down' from -1 bottles of beer? Would they be imaginary bottles of beer? (Joking) At F(n-1) would there be a matter/antimatter annihilation, where Randal could do a riff of What-If #1 and describe the play by play of the bartender turning into exotic forms of matter? 172.69.68.88 15:58, 23 June 2022 (UTC)
+(Not ✓-1, it's just straight repeated subtraction, not a power function...) After so much beer, you probably think it a good idea (even necessary) to fill cans up and start to put them back up on the wall... Not sure you could sustain it, to the point of F(-99), but I think someone'd be more than ready to start the process when F(-1) is invoked, for any group of just a few likely individuals.. 172.70.91.58 16:23, 23 June 2022 (UTC)
+This begs the question of what beer bottles are doing on a wall, rather than a shelf. Barmar (talk) 16:26, 23 June 2022 (UTC)
+Randall already considered what happens at F(0), refer to the title text. Paddles (talk) 08:16, 24 June 2022 (UTC)
+If you wanted to take down an imaginary bottle of beer, you'd have to take it from another wall that runs orthogonal to the original wall. 172.70.85.211 08:50, 24 June 2022 (UTC)
+We've finally filled in all the units columns in the table. Hopefully someone can automate turning that into a transcript. Barmar (talk) 16:51, 23 June 2022 (UTC)
+Funfact: This comic mentions Cyndi Lauper by name, and it was published on her birthday… 162.158.38.27 20:51, 23 June 2022 (UTC)
+Sweet! I'm a big fan of playing Time after Time on repeat to get into a flow state, so I loved that one. 162.158.166.183 20:43, 24 June 2022 (UTC)
+Looks like someone's math is wrong on the explanation for July 18. I calculated using 4681 and 4763 years and they came out to 51.29 days and 52.19 days, respectively. So then I worked backwards and determined that Randall would actually have to be using a number closer to 5200 years to arrive at the correct result of 57 days. Dansiman (talk) 21:49, 23 June 2022 (UTC)
+Randall seems to be wrong about "It's a Small World". The song is about 2 minutes long, so at 1/10,000 speed it's 20,000 minutes = 14 days. He seems to be using a length a little over 3 minutes. I found a YouTube video of the ride that's 3:45, but the song ends at 2:15 and the rest is silent. Barmar (talk) 22:16, 23 June 2022 (UTC)
+This video of it on YouTube lasts 3:02. It was uploaded by Universal Music Group (allied with Disney), making it some kind of 'official' version, and its length fits Randall's calculation. (Also, thanks for making the table!) DKMell (talk) 22:38, 23 June 2022 (UTC)
+That could be it. It has a long instrumental coda after the singing is done. Barmar (talk) 14:07, 24 June 2022 (UTC)
+Could "eπ Ionian months" also be a very subtle reference to the Euler identity given the first two characters of Ionian? Or am I reading/visualising a bit too much into it? Paddles (talk) 08:16, 24 June 2022 (UTC)
+Aug 26 needs editing, but I just reset my password and can't fix it. At 4 breaths per minute, 100,000 breaths is 17.36 days. To get 17 days exactly, Randall would need to assume about 4.085 breaths per minute. Wjw 08:24, 24 June 2022 (UTC)
+Most of the calculations are very approximate. Barmar (talk) 14:07, 24 June 2022 (UTC)
+Many of them were given to subsecond digits of precision, too, so I rounded everything off to two significant digits of days unless there was some compelling reason to have 0, 1, or 3. Don't @ me, because I filled up and homogenized all that column, finally (except for 100,000 breaths, which are slow enough to be what I'm guessing is probably Randall's error.) If someone wants to get a better value for the total duration of Star Trek than the January, 2021 reference I found by counting all the released episodes since up to the date of the cartoon, please do. 162.158.166.183 20:26, 24 June 2022 (UTC)
+For Star Trek total run time, it might be best to count all episodes scheduled for release up until August 14, the date of that specification. 172.70.210.233 21:02, 24 June 2022 (UTC)
+There's a closing /div HTML tag on the front page after the transcript (but not on this page). Nitpicking (talk) 17:21, 24 June 2022 (UTC)
+Thoughts on including a "% of error" column in the table?172.70.130.121 15:54, 27 June 2022 (UTC)
+An additional column would make it look worse on mobile portrait, and a residual error wouldn't really explain anything that readers couldn't get a gist of by eyeballing. 172.70.210.233 01:31, 3 July 2022 (UTC)
+Most of these don't really have a margin of error, they're all based on specific numbers, beyond that most of them can go to a ridiculous number of decimal places (mostly due to the infinite decimal places of pi, e and phi). Rounding to 2 decimal places is sufficient and doesn't count as a "margin of error". NiceGuy1 (talk) 23:54, 3 July 2022 (UTC)
+Several entries were rather unspecific, particularly the ones just saying "See day whatever" (and one "Refer"), so I plugged in some numbers. Also, it seems like the Star Trek entry should specify what's included - strange that unlike the others, it doesn't end up under a day less than the target. Also, that entry referred to/used an article which summarized CBR, I replaced it with the detailed article from CBR itself, then listed all the shows and movies, and added the things the article missed. NiceGuy1 (talk) 23:54, 3 July 2022 (UTC)
+Great work. I wonder if Randall is counting some fan-made Trek. 172.70.211.36 01:10, 5 July 2022 (UTC)
+Categories: All comicsComics from 2022Comics from JuneWednesday comicsPages using the "citation needed" templateBook promotionComics featuring real peopleSongsAnimalsTime

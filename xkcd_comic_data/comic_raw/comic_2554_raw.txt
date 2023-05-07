@@ -1,0 +1,37 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2554: Gift Exchange
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2554)
+|<< PrevComic #2554 (December 13, 2021)Next >>|
+Gift Exchange
+
+Title text: In addition to having all their budgets in a spreadsheet with consistent formatting, they just love expressing preferences on a well-calibrated numerical scale.
+Explanation[edit]
+In December, white elephant gift exchange parties are popular, in which party-goers bring and exchange presents, via a variety of procedures which often involve individuals taking turns to pick a present. Usually they can either pick a wrapped present and open it, or take a present that someone else has opened already.
+Many political scientists think that creating a fair gift exchange is a really tricky problem, since it involves different valuation of various goods (one person might like socks while another person would not), a possible incentive to misrepresent how much you value things ("You're going to have to offer me a LOT to give up these socks, because I really like them"), arbitrary order effects (who goes first matters), and more. These problems have a lot of political analogues in the political science topics of social choice theory and mechanism design, and many political scientists dedicate years of their life to figuring out the best solutions. Therefore, a political scientist would enjoy the challenge of creating a fair gift exchange; it is the best gift that Ponytail could have given them.
+The scenario Ponytail presents is formally known as a fair item allocation problem, for which there are various approaches to how to define fair, and various proposed allocation algorithms, some of which are computationally intractable even for small numbers of participants.
+The fact that the family loves surveys implies that a favourite method of political scientists, surveying the electorate, would be greatly appreciated. The "It's okay if it's complicated" line is funny because many of the theoretically best solutions a political scientist might come up with would be very complicated--far more so than the typical person would want to think about.
+In the title text, having well-formatted budgets makes a scientist's job much easier since it is better for data manipulation. In the same way, expressing preferences on a well-calibrated numerical scale makes data manipulation simple and straightforward. Therefore, Ponytail's scenario is an excellent gift for the political scientist. It also extends the humorous scenario of the nerdy family who enjoy filling in complex surveys - the same family would be likely to enjoy a well-formatted budget spreadsheet.
+Transcript[edit]
+[Ponytail is talking to Cueball.]
+Ponytail: Ugh, I have to organize a fair gift exchange for my survey-loving family.
+Ponytail: Do you want to help?
+Ponytail: They said it's "okay if it's complicated."
+[Caption below the panel:]
+The perfect gift for a political scientist
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+I assumed this comic was saying that political scientists like looking at the data from "surveys". And "it's complicated" reminds me of a survey option. The title text seems to be about survey ratings, which are from a 1-5 or 1-10 scale. 172.69.35.244 17:57, 13 December 2021 (UTC)
+
+Shouldn't someone mention that this comic came out a few weeks before Christmas, when it is customary for people in certain Christian countries to give gifts to each other (citation needed)?
+
+I thought that the point was that Ponytail was being given the present of having to organise the fair gift exchange, not that she was giving her family a gift of it.
+Ponytail says "Ugh" at the start, implying that she doesn't want to organize the exchange, but since Cueball in this strip is a political scientist, she's offering him the gift of getting to organize it. --162.158.75.39 04:42, 15 December 2021 (UTC)
+white elephant gift exchange? We call it Evil Santa a play on Secret Santa 108.162.249.15 09:00, 15 December 2021 (UTC)
+Oh, I now see that there are a number of listed variants on the Secret Santa page 108.162.249.107 09:05, 15 December 2021 (UTC)
+Might the title also be a reference to Matcel Mauss' classical text "The Gift: Forms and Functions of Exchange in Archaic Societies" ? 162.158.238.9 09:43, 15 December 2021 (UTC)
+Is the mention of "white elephant" appropriate here? The comic itself doesn't seem to imply that this is about "white elephant" gifts, but rather the opposite (desired, or fair, gifts) 172.70.134.89 18:54, 15 December 2021 (UTC)
+It might be worth pointing out in this article that this particular problem was solved ([1]) over 14 years ago by a mathematician (a useful branch of knowledge), Dr. Chris Okasaki, not by a political ‘scientist’ (har har). The persons involved in the gift exchange create want lists, a tool takes the want lists and creates a bipartite graph with certain properties then finds a perfect matching representing the optimal trades, ensuring that everyone who trades something they brought for something else gets something they like better than what they started with.
+The comics also reminds of a scene in Neal Stephenson's Cryptonomicon - one of the heroes, mathematician, solved the problem of dividing an inheritance among relatives by letting them place items on a 2D coordinate plot drawn on a parking lot (and spending a week on supercomputer to calculate the final results). 172.70.90.173 00:01, 14 January 2022 (UTC) Edheldil
+Categories: All comicsComics from 2021Comics from DecemberMonday comicsComics featuring PonytailComics featuring CueballChristmas

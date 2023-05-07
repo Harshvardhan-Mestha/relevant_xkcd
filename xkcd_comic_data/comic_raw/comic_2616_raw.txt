@@ -1,0 +1,60 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2616: Deep End
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2616)
+|<< PrevComic #2616 (May 6, 2022)Next >>|
+Deep End
+
+Title text: Hey! No running in the back-arc basin!
+Explanation[edit]
+Pools, like oceans, contain water.[citation needed] This comic produces a schematic for the former, derived from science about the latter. On Earth, the surface consists of tectonic plates which move around. In this comic, Randall equates swimming pools with plate tectonics, to explain how deep ends form in said pools. In actuality, swimming pools aren't formed by plate tectonics (at least, not the ones made by people; we can't be sure about the others).
+A swimming pool is a pool of water, typically used for swimming. Most of these have a deep end and a shallow end. This is intentional, usually to allow less confident swimmers to have somewhere to stand up when needed, while also accommodating activities (such as diving, underwater swimming, rescue practice, etc.) which would not be possible in shallower water.
+Subduction, a geological process in which one plate slips beneath another and is forced down into the mantle, is shown here as the reason swimming pools have deep ends. This usually takes place between continental plates and oceanic plates, although it could happen with two oceanic plates. The comic depicts the former, an oceanic plate subducting under a continental one. With tectonic plates, this often results in a deep oceanic trench where one plate slides beneath the other, as well as a chain of volcanoes above areas farther along the subducting plate, where rock that has liquefied from the subduction comes toward the surface as magma and erupts in volcanoes. An example is the Cascadia Subduction Zone in which the Juan de Fuca Plate is subducting beneath the North American Plate, creating the volcanic Cascade Range.
+A splash zone is an area of a waterpark with water being sprayed around, allowing people to get wet without the need to get into the pool. It is not a geological term, but splash zone can mean the area next to a coastline that gets splashed by waves. In this comic, the splash zone consists of natural geysers, fed by the bubbles of water that return upwards from the subducted plate.
+The title text refers to back-arc basins, zones of depression that sometimes occur slightly beyond volcanic arcs due to a rift in the tectonic plate. The ban on running in this area likely has more to do with its proximity to the pool area than any danger intrinsic to back-arc basins. A typical safety rule around swimming pools is to avoid running on the pool deck to prevent injuries due to slipping and falling on the hard deck.
+Other comics that mention unusual tectonic plate motion include 1388: Subduction License and 1874: Geologic Faults.
+Transcript[edit]
+[Caption above the scene]
+How deep ends form in pools
+[On the left of the image is the shallowest water in the pool, about the height of Megan. All the water in the image is grey. She is swimming in the water, and a duck floatie and a beach ball are floating to the left of her. It is labeled]
+Shallow End
+[Underneath, a thick layer is labeled]
+Pool Floor
+[Going to the right from there, the pool floor begins to curve downwards. As the floor goes down, the water gets deeper. In the deepest area, it is labeled]
+Deep End
+[At the bottom of the deep end, there is a curve and a deposit on the pool floor. Within the sediment and pool floor, there are some small pools of trapped water, labeled with three arrows]
+Trapped Water
+[On the pool floor an arrow indicates that the oceanic plate is moving left-to-right across the image, which is labeled]
+Subduction
+[Some of the water pools are dragged along by the pool floor, while others float up through the ground. The latter are accompanied by several arrows pointing up to indicate upwards movement. These are labeled:] Upward Migration
+[At the surface there is an area, which is labeled]
+Splash zone
+[The water erupts in two geysers, the left slightly larger than the other. Several children (small versions of Ponytail, Hairy, and Science Girl as herself) are playing there. Science Girl is sitting with her arms in the air facing the geysers, and Ponytail and Hairy are running towards the right geyser, Hairy with his arms in the air. The area is labeled]
+Splash Zone
+[To the left of the splash zone is the edge of the pool, where a Cueball figure is in mid-air after jumping off the diving board, with his arms outstretched. This is labeled]
+Pool Deck
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Help me with this please? SqueakSquawk4 (talk) 00:19, 7 May 2022 (UTC)
+I'll get round to it. Though I suspect others are already well on their way to explain exactly the same obvious things as I'd explain, but better and with nuances I haven't considered yet. I think the usual (recent replacement) Bot might have been hit by the anti-vandal measures, so we'll have to do as we did between the prior one and this one's deployment.
+First things first, though, I think you/whoever uploaded the _large-sized image. Arguments about it aside (basically, it's too big for screens such as mine - whether you consider that just my problem or not), the practice is to upload the non-2x version. Can I encourage you/someone to do that and adjust accordingly? 172.69.79.153 23:18, 6 May 2022 (UTC)
+Firstly, That was me. I uploaded that. I don't know how to get one that isn't 2x. (Edit: Found it!) Sorry. Secondly, I mostly meant help with the it-not-appearing-on-the-next/previous-bar. Thank you though. SqueakSquawk4 (talk) 00:17, 7 May 2022 (UTC)
+(Yeah, on checking, the proper image to take is 555x321 while this one is (natively) 1110x642.) 172.69.79.153 23:22, 6 May 2022 (UTC)
+I've downloaded the correct size image from xkcd.com and uploaded it in place of the 2x version. If you don't see it immediately, it might be cached on an intermediate server, so give it some time. Ianrbibtitlht (talk) 00:30, 7 May 2022 (UTC)
+Thank you for doing that! ε> I didn't even know there were 2x and normal versions until today! -- SqueakSquawk4 (talk) (please sign your comments with ~~~~)
+It's largely invisible to the end user, viewing source xkcd site it is good at giving you what fits. But I don't think there's an easy way to make explainXKCD do the same, so generally it's better to go with the 'normal' (or smaller) one, even if the larger (or best resolution) one works for you. There are exceptions, and Randall has made design choices or errors that mixed this up somewhat, at times.
+On the whole, I think you did quite well to initiate this new comic, in the absence of an automatic upload. Obvious errors were obvious, and correctable. ;) Do always remember to sign with ~~~~, here in the Talk pages, though! :-P. 172.70.90.63 08:11, 7 May 2022 (UTC)
+Thank you for explaining. As I said above, I didn't even know there were different versions until this. I'll remeber to to the non-2x one in the future, if I ever do this again.
+Also, you said that the errors I made were correctable. The biggest problem I saw was the bar at the top (The previous/next one) ignoring this page. May I ask how that was corrected? Thanks! SqueakSquawk4 (talk) 12:58, 7 May 2022 (UTC)
+It's one of the other steps in the list given in User:DgbrtBOT... Don't hold me to it, but the LATESTCOMIC info might do it. If it doesn't, it's surely useful to do for some other reason, though, and one of the other steps does it instead. ;)
+(I haven't bothered to analyse any of the interdependent wikicode/templates, but I presume it's a finely developed process, with or without Bot-populating.) 141.101.98.221 13:58, 7 May 2022 (UTC)
+At the time of this comment, the Explanation info-box was missing the usual "Created by …" comment. These Are Not The Comments You Are Looking For (talk) 07:07, 8 May 2022 (UTC)
+I don't know who needs to hear this but when writing a transcript do not: Explain the image/refer to things with interpretations/comment on the image/intersperse the text of the comic in the description. Just a note for next time!Mushrooms (talk) 15:57, 8 May 2022 (UTC)
+To be clear, I was aware that this was not the standard transcript format—I moved some descriptive analysis into the transcript section largely to have a basis for the content. I'm fairly new here and have never actually modified the transcript, so I figured I'd better let someone who did know how to do it properly finalize it rather than try for myself to produce anything other than a rough, obviously incomplete draft. Ncpenguin 18:35, 8 May 2022 (UTC)
+Kind of surprised there's no mention of oceanic trenches, which are typically created this way and are the ultimate deep end. 108.162.238.86 21:14, 8 May 2022 (UTC)
+What does "VOS COMO" mean? 172.70.126.221 05:36, 9 May 2022 (UTC)
+You would slow,y drift to the deep end if you stood in the shallow end long enough Reerolmses (talk) 01:05, 10 May 2022 (UTC)
+(This comment moved here from being originally put in the main article, obviously not intended to be a 'serious' explanatory comment. Also, it's [actual citation needed], using {{Actual citation needed}}, but I don't think that applied well enough anyway.) 172.70.90.145 01:45, 10 May 2022 (UTC) Wouldn't the splash zone's water com out in wave (pun intended) Reerolmses (talk) 01:29, 14 May 2022 (UTC) when even the muppets were on [xkcd.com/now]
+Categories: All comicsComics from 2022Comics from MayFriday comicsPages using the "citation needed" templateComics featuring CueballGeologyComics featuring Science GirlComics featuring HairyComics featuring Ponytail

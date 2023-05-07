@@ -1,0 +1,81 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2532: Censored Vaccine Card
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2532)
+|<< PrevComic #2532 (October 22, 2021)Next >>|
+Censored Vaccine Card
+
+Title text: CVS's pharmacies are fine, but I much prefer their [censored]s.
+Explanation[edit]
+This comic is another entry in a series of comics related to the COVID-19 pandemic, specifically regarding the COVID-19 vaccine.
+The comic hinges on the sharing of vaccination card photos on social media as proof that the user has been vaccinated against COVID-19 (in this case, gotten a booster shot, a third dose of the vaccine). When people in the United States first started receiving their vaccine shots, a large number of them shared photos of the CDC vaccination proof cards that they received alongside the vaccines; it was enough of a trend that the FTC released an official statement warning vaccine recipients not to share photos, due to the cards containing personal identification that probably should not be made public.
+The irony here is that Randall has "censored" (redacted) some impersonal lines, such as the instructions that are identical on all vaccination cards, and many easy-to-guess lines, while not censoring any of said personal information. Considering the date of the 3rd dose (one day prior to the comic's uploading), it is likely that the blackouts in the last line are only covering whitespace.
+Another possible reference here is to the practice of filing for FOIA requests that has been getting more popular in recent years, with sites like muckrock.com developing to support it. These requests provide for citizens to view the contents of government files, but the files first go through a process of redaction via solid black rectangles. The information that is redacted can seem random, ridiculous, and frustrating, and be a source of legal action.
+The caption indicates that his intention is to "seem more mysterious". This is best exemplified by the blanking of most of the word "clinician" to leave the acronym "CIA", referring to the US government agency known for its frequently "mysterious" (classified) activity, as well as its liberal use of redaction like that in the comic.
+A real and appropriately censored CDC vaccination record.
+The "19" in COVID-19 is systematically censored in the comic. This is humorous because currently COVID-19 is the only thing that could be meant by "COVID-[anything]", and so the redaction is pointless. This may also be intended, in the interest of mystery, to imply some future outbreak of a similar disease (given an identifier based on the year of its inception).
+The sentence at the top of the card, which appears once in English and once in Spanish, has equivalent portions redacted in both languages:
+"medical information" and "the vaccines you have received" in the English version, and
+"información médica" and "las vacunas que ha recibido" in the Spanish.
+This is the first comic including a sentence (or, given the censorship, at least a good portion of one) in Spanish.
+CVS Pharmacy is a pharmacy chain in the US which provides COVID-19 vaccinations. CVS #05309 is in Pineville, LA, while Randall lives in Massachusetts; it is not clear why he would have received his first vaccine dose in Louisiana.
+The title text comments on the "Provider or clinic site" of the second dose on the card. Where the word "pharmacy" appears in the previous row (and would be on a real card), it is censored in the comic. The most reasonable assumption is that the word is still "pharmacy" and that Randall has simply chosen to redact that instance for some reason, but the title text humorously implies that it was in fact some other CVS-related venture where he got his second dose, for instance a "CVS parking lot" or perhaps an anti-submarine warfare carrier.
+CVS's parent company, CVS Health, does have other enterprises with compatible names: CVS Caremark and CVS Specialty. However, neither of these provide COVID-19 vaccinations.
+Numerical trivia[edit]
+Randall's patient number is the 2nd to 9th digits of the fractional part of the decimal expansion of pi inclusively: 41592653.
+The lot numbers of the first and second doses allude to two numbers that appear frequently in Star Wars and other works related to George Lucas: 1138, and 2187. Forty comics later, in 2572: Alien Observers, THX 1138 is also indirectly referenced in the number of one of the humans mentioned. The lot number of the third dose is the Ramanujan-Hardy number.
+The Clinician number for the first shot is the last 4 digits of the phone number for "Jenny" 867-5309, which has been entered into communication technology by a massive number of people.
+Given the reasonable assumption[citation needed] that the partially censored year relates to the twentieth century, the date of birth on the card corresponds to that given in the acknowledged timeline for Randall. The censorship of that specific part of his date of birth might be related to the fact that the number "19" has been systematically redacted on the card. Another interpretation is that Randall is implying he is either over one hundred years old or a time traveler, although neither is likely to be true.[citation needed]
+Transcript[edit]
+[Profile picture of a Cueball's head and shoulders, with unreadable lines of text to the right.]
+Check it out, I just got my booster!
+[Picture of the U.S. COVID-19 Vaccination Record Card attached on a media post. The card includes pre-printed information in black and handwritten information in blue, the latter indicated here by bold text. Some of the text has been blacked out, indicated here by "[censored]".]
+COVID-[censored] Vaccination record card
+[At the upper right of the card appears the logo of the U.S. Department of Health and Human Services, a stylized eagle surrounded by the words "Department of Health & Human Services USA", although those words are not legible in this drawing. Next to that appears the logo of the Centers for Disease Control and Prevention, a shaded box with the letters "CDC" and the words "Centers for Disease Control and [censored]" below it.]
+Please keep this record card, which includes [censored]
+about [censored].
+Por favor, guarde esta tarjeta de registro, que incluye [censored]
+[censored] sobre [censored].
+Munroe Randall
+Last Name First Name
+10-17-[censored]84 41592653
+Date of birth Patient number
+[A table fills the remainder of the card. It has four columns and five rows. The first row gives the column names:]
+Vaccine. Manufacturer lot number. Date. Provider or clinic site.
+[The rest of the rows have been filled out. Each "date" cell also includes pre-printed "MM DD YY" below the line where the date is written.]
+1st dose COVID-[censored]. Pfizer ER1138. 04/01/21. CVS Pharmacy Clinician #5309.
+2nd dose COVID-[censored]. Pfizer ES2187. 04/22/21. CVS [censored] [censored].
+Other. 3rd dose [censored] FH1729. 10/21/21. [censored] [censored] [censored]CIA[censored].
+Other. [censored]. [censored]/[censored]/[censored]. [censored].
+[Caption below panel:]
+Security tip: To seem more mysterious, try censoring only non-identifying information.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Huh,his birthday was a week ago. Happy belated brithday!162.158.48.115 04:03, 23 October 2021 (UTC)
+What if this card is from the future and Cuedall is legitimately censoring his fourth dose. 162.158.255.43 22:38, 22 October 2021 (UTC) Running Gazelle
+Numbers: Patient number is digits of pi after 3.1; 1138 and 2187 seem to be Star Wars references; 5309 is...Jenny? and 1729 is the Ramanujan-Hardy number. Clam (talk) 23:16, 22 October 2021 (UTC)
+I should be used to it by now (several decades of personal exposure to it) but I *still* have to double-take at dates in the illogical MM-DD-(YY)YY format. 162.158.155.161 23:34, 22 October 2021 (UTC)
+Agreed. This "mixed endian" format makes no sense.172.68.133.105 19:43, 26 October 2021 (UTC)
+This is timely for me, I'm getting my booster tomorrow. Barmar (talk) 00:32, 23 October 2021 (UTC)
+The date of birth corresponds to the date formerly on Randall's Wikipedia article, which never had an acceptable citation (only a now irretrievable wiki). The year is cited there, but not the rest. Yngvadottir (talk) 01:42, 23 October 2021 (UTC)
+The sleuths at English Wikipedia retrieved the wiki. The context does make it highly likely that this is Randall's real birth date. --108.162.219.105 21:04, 23 October 2021 (UTC)
+Randall's pretty young. I wonder (it's none of my business, of course) whether he got a booster because his wife is a cancer survivor. Nitpicking (talk) 03:05, 23 October 2021 (UTC)
+"This is the first comic including a sentence in Spanish." Well, it includes most of the sentence in Spanish, but it not a complete Spanish sentence, because it is heavily redacted. So there has not actually been a Spanish sentence in XKCD yet. Nutster (talk) 04:15, 23 October 2021 (UTC)
+I've added the rest of the text to the transcript, but someone who knows wiki markup and/or transcript convention better than me should definitely revise the formatting. Esogalt (talk) 07:46, 23 October 2021 (UTC)
+I was wondering why is Randal still using CVS, surely by now he has migrated to git? 162.158.159.105
+Don't know if this is a joke about code repositories or not, but CVS is a pharmacy chain in the US. 172.69.34.87 09:21, 23 October 2021 (UTC)
+I've added this to the explanation. Esogalt (talk) 09:36, 23 October 2021 (UTC)
+This feels very SCP-esque. 172.69.214.17 17:31, 23 October 2021 (UTC)
+[REDACTED] 172.69.68.106 23:23, 24 October 2021 (UTC)
+It's interesting that the censor bars are parallel to the card, rather than the photo of the card, implying either a painstaking attention to detail (not implausible for Randall), or that he has actually physically blacked out the information on the card itself. Esogalt (talk) 17:37, 23 October 2021 (UTC)
+The entire image of Randal's card is a drawing, BTW. These Are Not The Comments You Are Looking For (talk) 04:05, 26 October 2021 (UTC)
+Yes, my analysis was "in character", so to speak. Esogalt (talk) 05:02, 28 October 2021 (UTC)
+Doesn't that say "Clinician #5309"? that would not refer to the store, but to the employee who administered the shot. Nitpicking (talk) 02:43, 24 October 2021 (UTC)
+Wouldn't it be more appropriate to describe it as a redacted vaccination card rather than censored? Barmar (talk) 13:45, 24 October 2021 (UTC)
+If it has been wafted through the purifying smoke of a thurible (there's no indication it hasn't!) we could say it has been censered..? 141.101.107.81 15:37, 24 October 2021 (UTC)
+I dislike that the explanation is taken the comic extremely literal. In several places it refers to Randall and seems to identify Randall with the author of the comic, for instance when pointing out a place of living not mentioned in the comic. This is in particular crucial when it comes to the date of birth, which coincides with the date of birth typically assigned to the author of the comic. However, the English Wikipedia sees insufficient evidence in the public record to name his birthday. --162.158.93.214 05:42, 26 October 2021 (UTC)
+I mean, Randall Munroe is both the name on the card and the author of the comic, but I would agree(?) that xkcd Randall is more of a fictionalisation of Real Life Randall. I don't see a problem with comparing the locations though -- what would a less literal interpretation look like to you? There was some back-and-forth on the birth date thing, and I think someone took Randall's page on this wiki as a reliable source, which isn't proper (though it's an entertaining example of citogenesis).
+There was already a mention of the last line being blank; yours felt a bit easier to read so I've attempted to merge them. Esogalt (talk) 07:30, 26 October 2021 (UTC)
+Categories: All comicsComics from 2021Comics from OctoberFriday comicsPages using the "citation needed" templateComics with colorCOVID-19COVID-19 vaccineComics featuring Randall Munroe

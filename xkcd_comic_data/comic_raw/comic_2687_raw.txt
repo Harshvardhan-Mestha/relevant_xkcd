@@ -1,0 +1,78 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2687: Division Notation
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2687)
+|<< PrevComic #2687 (October 19, 2022)Next >>|
+Division Notation
+
+Title text: Science tip: Scientists hardly ever use the two-dot division sign, and when they do it often doesn't even mean division, but they still get REALLY mad when you repurpose it to write stuff like SALE! ALL SHOES 30÷ OFF!
+Explanation[edit]
+In this comic there is another one of Randall's Tips, this time a Science Tip, however, it is only mentioned in the title text. See below for more.
+This comic pokes fun at some of the ways to write the division operation in math. In this comic, Randall has used A as the dividend (the number being divided) and B as the divisor (the number that A is divided by). Division is the fourth simplest arithmetic operation in mathematics, after addition, subtraction, and multiplication.[1]
+The first two of the seven notations shown are the division sign (÷) and the long division notation used for short division and long division in beginning arithmetic. (Note: division typography is only used in some countries, and there are different notations in the non-English speaking world). These methods of division are often used by school children because the ÷ sign is what most people use when first learning division, and the short division format is usually the first algorithm learned for dividing arbitrary dividends, typically starting with the easier abbreviated short division form.
+The expression on the third line, A/B, is the way division is usually written in software code. The four simple arithmetic operations in programming usually are +, -, *, /. This line was not in the first version of the comic. This is most commonly seen in regular mathematics as it somewhat saves space, and is easy to type with the slash key. Additionally, it uses standard ASCII characters instead of sophisticated notation. A notable exception is APL, which uses an idiosyncratic character set modeled after traditional arithmetic.
+The expression on the fourth line, A/B, is how division is usually written by hand[actual citation needed]. It is nearly identical to the fraction notation that follows, but the diagonal line allows each number to be bigger while still fitting into a single line of text. The third line's representation is the best approximation of this line's notation on a computer, without using more obscure Unicode characters. The Unicode character set can be used to accurately represent division as on the fourth line in plain text, using a small set of precomposed fractions (⅔, ⅕, etc.), regular numerals and U+2044 FRACTION SLASH (e.g. 22⁄7, provided font support exists), or superscript and subscript numerals (e.g. ²²/₇, or ²²⁄₇ with the fraction slash). Using any of these requires a greater knowledge of Unicode, and the know-how (and, possibly, patience) to type them, so it is likely that only a Unicode enthusiast would type division like this. You could also use HTML, like this: 22/7.
+The fifth notation is the way division is written in science and intermediate and higher mathematics:
+A
+B
+, i.e. the dividend on the top of the expression, over the divisor on the bottom with a horizontal line separating them. This is how a fraction would be written. It has the advantage of clearly separating the numerator and denominator when they are longer expressions, such as polynomials, without needing to add parentheses. This format is mostly used in written and professionally typeset math, as it can't be typed without something like MathML, LaTeX or HTML tables.
+The sixth, "fancy," notation uses a negative exponent. The exponent -1 is equivalent to reciprocation. It can be used to keep an entire division expression on one line. Note that AB-1 is equal to A/B only if A and B are in a commutative ring (and B has an inverse). If A and B are, for example, matrices, AB-1 is not the same in general as B-1A (and the notation A/B is never used in this case as it would be ambiguous). The AB-1 format is also often used to express physical units.
+The final form of notation declares a function. The writer defines a new function, F, that takes in the parameters A and B, before listing out the function's definition (trailing off in increasingly smaller text). Defining things as functions is very normal for mathematics, but likely not very efficient at all to commonly do for the simple operation of division. Occasionally a highly formalized definition such as this could be a setup for an elaborate and extensive proof, hence Randall warns the reader they should escape while they still can. Integer division can be defined in terms of multiplicative inequalities and the remainder, or modulo ('%' in most programming languages) operator. This situation is likely to occur in many sorts of algebra, where one might have to define what "division" means for two elements of a mathematical object such as a group, ring, or magma. One example would be an object G, such that, for two elements A and B of G, "A divided by B" is defined as an element C such that CB=A, or alternatively as an element C such that BC=A. These definitions will differ if multiplication in G is not commutative. Furthermore, if such a C is not unique, the function F(A,B) will need to include a method to select a unique value for "A divided by B" for each A and B. Thus, the F(A,B) in the comic might not even refer to a uniquely defined operation, but simply to the property of a function F(A,B) that is a valid division operation on G, given some definition of division. You were warned.
+The title text is a Science Tip. It discusses how the division sign (÷) has fallen out of favor in most professional contexts (the ISO-80000 guidelines even specify the symbol "should not be used") yet has resisted all efforts to repurpose it as a new function. Specifically, it pokes fun at how similar the division sign is to a percent sign (%). A scientist might be really mad at the use of the division sign as an alternative to a percent sign because it is the wrong symbol in that context, ever though they never use it for the original meaning any more. The use of ÷ instead of % is something that may appear on signs for discount offers.
+Transcript[edit]
+[The transcript has both formatted text for visuals and a description at the start of the line.]
+[Underlined text:] Division notation
+[A [Division sign] B is above, B [Long division symbol] A is below. They are connected by a close brace.]
+A÷B
+B⟌A
+}
+[Label on the right:] Schoolchild
+A/B
+[Label:] Software engineer
+[A/B except the A is slightly above and the B is slightly below, and the slash is more diagonal to fit them.] A⁄B
+[Label:] Normal person or Unicode enthusiast
+[A fraction with A on the top and B on the bottom.]
+A
+B
+[Label:] Scientist
+[AB with -1 in superscript.] AB-1
+[Label:] Fancy scientist
+F(A, B) [text gets smaller] such that [text gets smaller] F(G)= [Text is too small to read]
+[Label:] Oh no, run
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Fun fact: In Poland, we don't write the long division like that; we just write A:B with the bar above. I was VERY confused the first time I saw that notation. 172.70.246.235 21:03, 19 October 2022 (UTC)
+Unrelated to Polish notation, i presume? 172.70.134.13 22:43, 19 October 2022 (UTC)Bumpf
+Unrelated. Never used Polish notation in school. 172.71.160.23 10:25, 20 October 2022 (UTC)
+In German elementary school we learned the a:b notation. When we learned more complex divisions in secondary school it was with the "scientist" notation. And as I am a software engineer AND (presumably) a normal person I use in general the respective notations. Elektrizikekswerk (talk) 07:24, 20 October 2022 (UTC)
+For me, the version on the xkcd website has an additional line ("A/B: Software Engineer") that's not on this site. I think the comic might have been updated. Is anyone else seeing that? JBYoshi (talk) 23:20, 19 October 2022 (UTC)
+Updated. Natg19 (talk) 00:31, 20 October 2022 (UTC)
+For the Unicode one, I think it’s a reference to ⁄ (U+2044, fraction slash) or characters like ½, ¼, etc. - Cherryblossom (talk) 00:24, 20 October 2022 (UTC)
+Is it important to note that 1/2 auctocorrects to ½ in many text-based programs like Microsoft Word?--Theunlucky (talk) 02:32, 20 October 2022 (UTC)
+It's possible to use fraction-style notation in LaTeX by using \frac, or am I missing something?--162.158.2.125 05:49, 20 October 2022 (UTC)
+"the long division symbol is only used in some countries". Only English-speaking ones, to be more precise. Most of the countries of the world use a different notation. 172.68.51.80 06:19, 20 October 2022 (UTC)
+In the UK, the 'long division symbol' is nowadays often referred to (particularly with Primary classes, children aged 4 - 11) as the "Bus Stop Method". Because it looks like a UK bus shelter. MarquisOfCarrabass (talk) 07:07, 20 October 2022 (UTC)
+I always used (still use, on the rare occasions that I do it) the notation inverted - B)_A - so that the answer is output beneath the problem, which makes more sense to me, given that we generally read down the page. I guess that would be a vandalised bus stop?172.70.162.147 09:16, 20 October 2022 (UTC)
+When doing long-division, the intermediary sums (the calculated 'integer remainders' subtractions of progressively high-to-low powers of ten) would be done below in the 'standard' long-multiplication/addig/subtraction direction. The answer-figure is progressively created by the 'carry'-inverse to these more normal-looking arithmatic. Or so I surmise. Haven't used long-division, much, in 40 years or so (except in a polynomial-factoring thing, occasionally, using an extended version of the principle upon powers-of-whatever) so I might have the wrong-idea as to why the answer goes high (in that the non-answer that nevertheless leads to the answer goes low). ;) 162.158.159.29 16:17, 20 October 2022 (UTC)
+For me, the remainders go in small figures above the next integer, so that they basically form a new number to divide.172.70.86.48 08:27, 24 October 2022 (UTC)
+As a Dutch primary schoolchild, I have used a÷b for calculations and "a over b" for fractions (e.g. ⅘). For more difficult divisions, like what is 785/35, we used Staartdelingen (nl), long division, of which the primary notation is 35/735\. I think in early highschool we started using a over b for more complex calculations, "like (x+3) over 5 = 2, what is x". I had up to this XKCD never seen B⟌A, and would confuse it for what we use as square root symbol (√). IIVQ (talk) 07:16, 20 October 2022 (UTC)
+Come to think of it, it's kind of odd that we used ":" for division. Why are there this many different division notations anyway? Same for multiplication. There's x, *, ⋅, x but centered vertically, and concatenation (for letter variables)!
+The : operator is for ratios, where a:b could be a/b or b/a, but also metaphors, where a:b::c:d means a is to b as c is to d. 162.158.166.73 09:05, 20 October 2022 (UTC)
+In Austria, school children are using the "scientist" notation from this comic. 172.68.50.51 08:17, 20 October 2022 (UTC)
+Same thing in Russia 172.71.98.97 08:46, 20 October 2022 (UTC)
+I live in Denmark, and “÷” seems to be often used here for subtraction, instead of a minus sign! Got confused a few times. nicolas (talk) 08:52, 20 October 2022 (UTC)
+Also from DK and have often seen ÷ used as % and on my keyboard as I type this there is a ÷ on the number part of the keyboard to the right. But when I push it I get this: "/" In school we used this A:B to mean A/B, just as in Poland as mentioned above. Today I would write 10/2 not 10:2 or 10÷2. But I never used the last version. --Kynde (talk) 19:08, 23 October 2022 (UTC)
+tableau
+tab·leau /ˌtaˈblō/ noun
+a group of models or motionless figures representing a scene from a story or from history; a tableau vivant. "in the first act the action is presented in a series of tableaux"
+I don't think it means what the editor including it thinks it means. 172.69.22.185 09:02, 20 October 2022 (UTC)
+"A graphic description or representation" - https://www.merriam-webster.com/dictionary/tableau
+It derives from the idea of 'things set out on a table'. The arrangement of cards in a solitaire game is also called a tableau. 172.70.162.147 09:24, 20 October 2022 (UTC)
+changed to radices. 172.70.206.93 10:18, 20 October 2022 (UTC)
+Well that's not right, is it? - "the pungent usually crisp root of a widely cultivated Eurasian plant (Raphanus sativus) of the mustard family usually eaten raw"... 172.71.178.13 13:22, 20 October 2022 (UTC)
+Naw... A radish is "like, almost 'rad', man, but not quite!", while "radices" are totally cool freezer-food!
+The discussion of matrices and commutative rings is off topic. The comic is clearly about scalars alone. Please! 172.69.134.17 20:46, 20 October 2022 (UTC)
+I thought it seemed on topic given the joke and demographic, but I think it could be presented better. 172.70.110.231 02:07, 21 October 2022 (UTC)
+Categories: All comicsComics from 2022Comics from OctoberWednesday comicsMathScienceProgrammingScience tip

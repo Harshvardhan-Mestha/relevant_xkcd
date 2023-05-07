@@ -1,0 +1,41 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2708: Mystery Asterisk Destination
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2708)
+|<< PrevComic #2708 (December 7, 2022)Next >>|
+Mystery Asterisk Destination
+
+Title text: If you ever see the † dagger symbol with no unmatched footnote, it means the writer is saying the phrase while threatening you with a dagger.
+Explanation[edit]
+This comic pertains to the use of asterisks and other symbols for footnotes or endnotes.* It jokes that when an asterisk appears after a word without a corresponding footnote, it refers to this comic. Missing footnotes can be frustrating, so this comic may provide closure for some readers; similar in spirit to 391: Anti-Mindvirus and opposite to the tension created by the unmatched parenthesis in 859: (.
+The title text jokes that unmatched instances of † (the dagger symbol, also used for footnotes) are threats being made by the author to the reader with a physical dagger. As of this writing, it states "If you ever see the † dagger symbol with no unmatched footnote...", forming a double negative. This is likely a typo intended as "...no matching footnote."
+† In some contexts, an unpaired asterisk or dagger may not refer to a footnote, and thus not constitute a mystery. Examples include programming languages and mathematical expressions using asterisks such as for the multiplication operator, and dates of birth and death which are sometimes indicated with an asterisk or dagger respectively.
+Transcript[edit]
+[A blank panel with text at the bottom.]
+*Whenever you see a mystery asterisk that doesn't have a matching footnote, it points here.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+ChatGPT explanation:
+The xkcd comic is a humorous reference to the use of asterisks in written text to indicate a footnote or additional information. In this case, the asterisk in the comic is not accompanied by a corresponding footnote, and instead, the text at the bottom of the panel explains that the asterisk points to this explanation. The joke is that the explanation itself is not particularly useful or illuminating, as it simply states that the asterisk points to this very explanation.
+Mediocre at best. Trying again after removing the space after the asterisk from the transcript, and including the title text:
+This xkcd comic is a reference to the use of asterisks and other symbols in footnotes and endnotes to indicate a reference or explanation. In this case, the comic shows a blank panel with a note at the bottom that says "Whenever you see a mystery asterisk that doesn't have a matching footnote, it points here." This is a humorous way of saying that when an asterisk appears in a piece of text without a corresponding footnote, it is pointing to the explanation provided in this comic.
+The title text adds an additional layer of humor by saying that if a writer uses the "dagger" symbol (also known as a "†" symbol) without a corresponding footnote, it means that the writer is threatening the reader with a physical dagger. This is meant to be a tongue-in-cheek joke about the potential dangers of reading footnotes.
+Better but still seriously flawed in the final sentence. The prompt prefix I used in front of the transcript was, "Explain the following xkcd comic. The title text should be explained in a separate paragraph.\n\n" 172.69.134.16 20:10, 7 December 2022 (UTC)
+Adapted in part, fun and good. I wouldn't mind a bot posting to talk when the transcript is stable for half an hour, let's see what it can do! 172.69.33.123 20:41, 7 December 2022 (UTC)
+"with no unmatched footnote" is shockingly bad grammar.
+I swear I've seen this comic before somewhere. Was there a similar SMBC? 172.71.166.218 08:51, 8 December 2022 (UTC)
+I feel that the current explanation misses that it's not that uncommon to see asterisks that ought to have a related footnote, but don't. Or a footnote pointed to nowhere in the text. This most often happends on packaging or advertisement. The fact that not every asterisk is there to mark a footnote is a valuable addition, but not the point of the comic. 172.71.114.7 13:23, 8 December 2022 (UTC)
+This is like the Malkavian sourcebook which contains page XX (where XX is the placeholder page left blank for final pagination)
+Isn't the hover text wrong? It seems like he means either "dagger symbol with an unmatched footnote" or "dagger symbol with no matched footnote." Am I missing something here? 172.69.134.131 13:41, 8 December 2022 (UTC)
+It could be intentional. The implication could be that if there was an unmatched footnote (an extra footnote), then the dagger symbol would be referencing it. So if there are no unmatched footnotes, then the dagger symbol has a different purpose as described.--172.71.134.192 23:19, 9 December 2022 (UTC)
+Now I have a really bad time... Because I cannot think of any categories for this comic, and that bothers me like an unanswered footnote asterix*  ;-) --Kynde (talk) 14:02, 8 December 2022 (UTC)
+There is at least one other comic about footnotes, so we could make a Category:Footnotes --172.71.254.33 14:51, 8 December 2022 (UTC)
+I would like to re-emphasize that missing footnotes happen ALL THE TIME with junk mail. Drives me crazy.
+This comic has resolved so much social anxiety I had! All those Kindle Unlimited stories and webnovels that had missing footnotes have now been solved! Thanks XKCD!!!
+I remember Robert Anton Wilson giving a reading in at a Santa Cruz bookstore back in the 90s where he had some 1790s Catholic conspiracy theorist who went on at length about how the French revolutionists had been sending coded messages with asterisks in public documents. There were so many examples given. 172.69.134.160 02:56, 9 December 2022 (UTC)
+Mary's little lamb / Upon the grass did frisk. / But Mary was afraid / Her little * / 162.158.166.173 13:16, 9 December 2022 (UTC)
+I always thought it would be funny if, deep through a chain of bibliographies, there was an ancient physics textbook with "*complex conjugate †conjugate transpose" in it also, this is the guy who introduced the dagger notation for the conjugate transpose
+For physical location, the mystery asterisk has been printed and posted on the wall of the Unalaska, Alaska, Planning Office at approximately 166.5379386°W 53.8731971°N.
+Categories: All comicsComics from 2022Comics from DecemberWednesday comicsFootnotes

@@ -1,0 +1,122 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2614: 2
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2614)
+This page refers to the comic named "2". For comic #2, see 2: Petit Trees (sketch).
+|<< PrevComic #2614 (May 2, 2022)Next >>|
+2
+
+Title text: It's like sigma summation notation, except instead of summing the argument over all values of i, you 2 the argument over all values of 2.
+Explanation[edit]
+This demonstrates the different ways in which the number 2 can be typeset in various scientific fields. While these ways of typesetting are used with any number, using the number 2 in this instance provides a clear illustration how adding numbers can significantly alter a feature of a concept (such as the number of electrons in an atom) or perform a mathematical operation on it (such as raising a value to its second power).
+The dotted box represents any character (a number, letter, or bigram of letters, as appropriate to the various signifiers). All the other notation consists only of the digit 2, with occasional additional punctuation, in various locations in relation to this character. Each of these is labelled as to what its 'purpose' might normally be with respect to the general term:
+Regular Math
+Precedes the term. "2x" indicates two times the value of x in normal algebraic use that should be familiar for many people.
+Physics
+A preceding superscript. "2H" would indicate the particular isotope of hydrogen with the atomic weight of two, namely deuterium, which is most often encountered when working with the atomic level of matter where the total number of neutrons and protons in the atom is important. It can also represent tetration, which is iterated exponentiation.
+Chemical Physics
+A preceding subscript, as in "2He", indicates the atomic number of an atom, which is the number of protons it contains. It is thus a guide to the number of electrons its unionised form usually has and hence is meaningful for its potential chemical interactions with other atoms. This number of protons should be invariant for any particular named element, but is usually given simultaneously with the presuperscripted mass number for which it can indicate the applicable nuclear physics. Chemical physics is a subdiscipline of physics and chemistry. It can also represent pentation, which is iterated tetration.
+Regular Math or Footnotes
+A trailing superscript is typical of a power value; in this case "x²" would be x multiplied by itself - a common mathematical standard.
+Additionally, superscripted numbers are one common way to mark words in a line of text in a way to refer to a footnote, typically placed at the bottom of the page and containing additional information that would distract from the main text itself. The ambiguity between footnotes and exponents was used in 1184: Circumference Formula.
+Chemistry
+A trailing subscript is used in chemistry to indicate a multiple of the element (or group of elements, in brackets) in a chemical formula. "H2O" indicates two hydrogen atoms bond with a single oxygen atom in a molecule of water.
+Matrices! ("2,2")
+Extending the trailing subscript with a comma-separated value usually indicates a multidimensional array (e.g., establishing a 2-by-2 square of numbers, or this particular position in such an array), which is in the realm of matrix mathematics. This is a little bit beyond 'everyday algebra' for many people, as seemingly indicated by the exclamation of the mere mention of matrices.
+The Physicists Are At It Again ("2;2")
+This label encompasses a mark that turns the prior comma into a semicolon, as part of the trailing subscript. This is a common notation for the Covariant derivative of a tensor field, which is commonly used in the mathematics of general relativity.
+Either High School Math Function or Incomprehensible Group Theory
+The number 2 in parentheses that follow a term would normally be the argument to a function. For example, "f(2)" means that you should take the value 2, and find the result if manipulated by the predefined function f. It is generally taught as part of algebraic mathematics in high school.
+In group theory, however, the number 2 in parentheses could indicate a special kind of group, such as an an element of a symmetry group that keeps 2 fixed, or some kind of group of 2x2 matrices. For instance, SU(2) is a 3-dimensional Lie group of unitary matrices. These concepts are taught in graduate or advanced undergraduate mathematics courses.
+Oh no. Whatever this is, it's cursed.
+A symbol centered underneath another larger symbol is normally reserved for doing summations or products, where the big symbol is Σ or Π, or some other operation applied to a sequence of numbers. It does not make sense to have a single number on top of a smaller one. As with other things where something appears to have gone wrong in Randall's comic universe, the explanation for this particular anomaly is that it is 'Cursed'.
+Two natural numbers may be stacked directly on top of one another in parentheses as binomial coefficients: (
+2
+2
+), but those are always the same size, denoting a combination. In this case, 2 choose 2 is equal to one combination.
+The usage mentioned in the alt text is an operation (e.g. Σ for summation) over a variable, usually indicated by a letter such as i, where the operation is performed over all values of the variable (i.e., you Σ (sum) the argument over all values of i). In the "2" case, the alt text says "you 2 the argument over all values of 2" (i.e., the Σ operation has been replaced by the "2" operation and the i variable has been replaced by the "2" variable). 2 is usually not an operation, though the definition of 2 under Church encoding is a function that takes in and produces functions. 2 applied to 2 in Church encoding is 4. However, the title text implies that 2 is treated like a variable, which it is not (and it's definitely not a operator and variable at the same time).
+Things being cursed is a common trope within recent xkcd comics, which have mentioned items including Cursed chairs and cursed connectors. This notation is one of the few occasions where the supernatural has demonstrable implications for science and mathematics for those foolhardy enough to use it.
+Transcript[edit]
+[An apparent generalisation of a scientific expression consisting of a dotted rectangular 'box' outline, left empty, and various commonly-themed symbology around it:]
+[as normal text, to the left of all the rest:] 2
+[superscript to the immediate left of the box:] 2
+[subscript also to the immediate left of the box:] 2
+[superscript to the immediate right of the box:] 2
+[subscript also to the immediate right of the box:] 2;2 [i.e. separated by a semicolon]
+[as normal text, to the right of almost all the rest:] (2) [i.e. enclosed in standard parentheses]
+[smaller subscript, centered immediately beneath the 2 within the parentheses:] 2
+[Further details are drawn in grey tone, around or near various of the elements of the expression:]
+[Captions above the numbers]
+[with an arrow pointing to the leftmost 2:] Regular Math
+[with an arrow pointing to the leftwards superscript 2:] Physics
+[with an arrow pointing to the rightwards superscript 2:] Regular math or footnotes
+[with an arrow pointing to the parenthetical 2 at the right:] Either high school math functions or incomprehensible group theory
+[Captions below the numbers]
+[with an arrow pointing to the leftwards subscript 2:] Chemical Physics
+[with an arrow pointing to just the rightwards subscript 2:] Chemistry
+[with an arrow pointing to a distorted grey ring snaking around only the comma of the semicolon and the following 2 of the rightmost subscript:] Matrices!
+[with an arrow pointing to a larger grey ring that passes fully around the whole semicolon and final 2 of the rightmost subscript:] The physicists are at it again
+[with an arrow pointing to the small 2 placed below the parenthetical 2:] Oh no. Whatever this is, it's cursed.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Hello people. Anyone got an explanation for this? 172.70.114.229 22:59, 2 May 2022 (UTC)
+dog walker in the coments section omg (shodul we replace this with a smaller version because i think whiel it is legitimite discussion and not vandaelism this time it shoudl not be so fuck god damn large) --172.70.114.229 07:35, 3 May 2022 (UTC)
+friends romans countrymen lend me your ears previously this comment had a picture of doug walker attached to it and i was not aware it was vandalism and not a part of the comment which explains my preivous comment; thank you for reaidng --172.70.114.247 07:37, 3 May 2022 (UTC)
+In the Java programming language, the this keyword refers to either instance fields in the object itself (as opposed to local or parameter variables), or alternatively can be used to call the parent's constructor. 8^) Mr. I (talk) 12:19, 4 May 2022 (UTC)
+if by "parent" you mean "superclass" then that's actually `super` not `this` - `this(...)` is used to call another constructor *in the current class*. 172.68.66.3 09:25, 21 May 2022 (UTC)
+To the person who has requested a citation that two is a number... here you go: https://youtu.be/dBVoIUASFS0?t=82. Can someone who knows how to add citations add it? :D --172.70.110.209 23:09, 2 May 2022 (UTC)
+The [citation needed] thing is a running joke here thanks to 285: Wikipedian Protester. It's used for obvious statements of fact on this wiki as a joke (basically the opposite of its Wikipedia use). KirbyDude25 (talk) 00:43, 3 May 2022 (UTC)
+I'm sorry to inform you that you probably became another victim of Poe's law (or "r/whooosh", as kids say these days). I was just playing the SMBC citation game. --172.70.110.209 02:08, 3 May 2022 (UTC)
+And we try to limit the use to only very very funny situations or when there is actually need for a citation, so as to not ruin it by having it on every single explanation!!! ;-) --Kynde (talk) 06:08, 3 May 2022 (UTC)
+Hey all, the group theory thing reminds me a lot of cyclic groups or ideals generated by the value 2. Also equivalence classes (which come up in group theory) can be written with [brackets] but may be confused with <cyclic groups> or (ideals).
+The 2;2 notation looks like the notation \mu; \nu that is used for covariant derivatives of tensors in physics. Also 2,2 looks like \mu, \nu that is used for partial derivatives of tensors. And as mentioned above, (2) could be a cyclic subgroup or ideal generated by two or a special case of cycle notation for elements of symmetry groups used to mean an element that keeps 2 fixed. 162.158.62.120 23:32, 2 May 2022 (UTC)
+I second the point about tensors. Maybe you could expand the summation notation slightly. It's common to use index sets or rules underneath large symbols for all sorts of things, like sums, products, direct sums, direct products, unions, intersections, integrals, and much, much more. So here, the large 2 in parentheses represents one of these symbols. Rather than adding or multiplying the elements or whatever, you are twoing them, whatever that means. You are twoing over all values of 2, apparently. It's sort of reminiscent of jokes with punchlines like "for sufficiently large values of 2." There are of course, different 2s out there. Like, there is the von Neumann ordinal 2, the integer 2, the rational number 2, the real number 2, the complex number 2, the residue class of 2 mod 3, etc. All of these may be represented by 2. Perhaps we are indexing over some collection of canonical representations of 2? 172.70.130.161 00:02, 3 May 2022 (UTC)
+Explanation needs something about one of the 2s being cursed. Also, this should be added to the category for cursed stuff (I think it's cursed things, but did not look it up). 172.70.211.72 01:37, 3 May 2022 (UTC)
+Superscript or subscripts before a thing can indicate tetration and pentation. 172.68.66.63 03:35, 3 May 2022 (UTC)
+Did anyone else think there should have been a 2 after everything else (after the parentheses) with an arrow pointing to it labeled “sequels”?172.70.126.65 06:09, 3 May 2022 (UTC)
+Damnit, I do now; yes.
+ProphetZarquon (talk) 19:14, 4 May 2022 (UTC)
+Damn there is (again?) some idiot that replaces the explanation with text :-/ Wish we could ban those persons! --Kynde (talk) 06:10, 3 May 2022 (UTC)
+What the vandal do those edit summaries mean? 172.70.130.121 06:16, 3 May 2022 (UTC)
+What do those "et tu" edit summaries mean? (The ones on all the edits replacing the text with "Friends, Romans, Countrymen...") 162.158.107.142 17:22, 3 May 2022 (UTC)
+doug walker! the guy keeps chaging the image to doug fucking walker! awhat the fuck is up wiht that !!! --172.70.114.229 07:33, 3 May 2022 (UTC)
+ok im'm pretty sure janny is soem transphobic slur (for reference the vandalism edit at 07:36's comment was "clean it up janny") did dog wlaker do a transphobic thing and now some altright pople who find it worth there time to change the Exain Xkcd page inage to Dog WAlker are nutting there balls dry???? --172.70.230.75 07:38, 3 May 2022 (UTC)
+I assumed it was calling us, the people who clear up their mess, "janitors", i.e. menial cleaners/fixer-upperers. But I honestly don't know what dialect/culture uses that (sounds a bit Australian, but not exclusively, and it's a typical and not necessarily derogative kind of word-shortenning that anybody might use) and if they do mean to call us janitors then... I'm happy to be a janitor. It's a worthwhile occupation, and I consider that an important job that I'll willingly do in the face of such a moron.
+Jannie is 4chan slang for moderator of some kind, as since 4chan is a an awful place, the people who clean it up are officially called janitors. 108.162.245.251 06:22, 5 May 2022 (UTC)
+172.70.86.44 09:49, 3 May 2022 (UTC) This should probably be added to Category:Comics sharing name172.70.178.199 15:41, 3 May 2022 (UTC)
+No there are not other comic called 2. The comic with number 2 is not the name of that comic. And the only other number only comics are year numbers like 2016.--Kynde (talk) 18:22, 3 May 2022 (UTC)
+There should be a category: comics featuring cursed items 172.70.230.63 (talk) (please sign your comments with ~~~~)
+Can you list at least 5. Then I will consider it. --Kynde (talk) 18:22, 3 May 2022 (UTC)
+There's 5 here https://www.explainxkcd.com/wiki/index.php/Category:Cursed_Connectors and one here 2332 Kev (talk) 18:34, 3 May 2022 (UTC)
+Noting that the infamous Cursed Chair had not been labelled, yet Curse(d?) Words had, I added the former and took no additional liberties in adding all other cursed things that seemed to lie within that scope (some by in-comic or in-titletext reference, I know) that weren't already included through the Cursed Connectors membership. I web-commented each Catsgory-markuped entry (to varying degrees of directness) in case anybody needs a clue as to why it is added. Obviously I accept any community disagreement on some of the more marginal representative 'items' (words, air, and a <4th minus one> thing that is even more conceptual), but that's what a collaborative wiki is for, yes? ;) 172.70.85.177 21:17, 3 May 2022 (UTC)
+Who put a Ukrainian flag at the top of the page? 172.70.230.63 (talk) (please sign your comments with ~~~~)
+i agree with whoever did that, but maybe a bit smaller or on the bottom so it doesn't interfere with normal usage of this? 172.69.69.170 18:10, 3 May 2022 (UTC)Bumpf
+Is it better now? 108.162.245.15 18:19, 3 May 2022 (UTC)
+Another vandal. Of course it should not be there. I support Ukraine but this page has nothing to do with that situation! --Kynde (talk) 18:22, 3 May 2022 (UTC)
+It’s one of very many cases of vandalism in recent days. As Kynde says, it should not be there. And of course we don’t take instructions from vandals. While False (talk) 18:31, 3 May 2022 (UTC)
+On behalf of the militant centrist wing of the ExplainXKCD community, I welcome the support for Ukraine but I worry as to who decides that this website supports a particular perspective. Ukraine's right to self determination is obvious, but another contributor could suggest something more suspect. Kev (talk) 18:34, 3 May 2022 (UTC)
+Yeah. I guess the vandal thought he would be any less obvious if his spam was disguised as support for Ukraine. Notice that it appeared at the same time as a new onslaught elsewhere at the site, as well as on this comic. While False (talk) 18:37, 3 May 2022 (UTC)
+The comment about combinatorics, in the section about the "cursed" stuff, uses superscript and subscript 2s. But that isn't quite correct; they should be stacked rather than one after the other. It *should* be possible to get the proper display using math mode, which is permitted in the main body of explanation though not in the transcript. I think it *ought* to be something like "<math>{2}\choose{2}</math>", but when I try it, I get an error: "Failed to parse (Missing <code>texvc</code> executable. Please see math/README to configure.)" -- clearly I don't know what I'm doing. Can someone who's more knowledgeable than I am fix that, please? BunsenH (talk) 18:27, 4 May 2022 (UTC)
+Vandals[edit]
+Looks like there's some full scale vandalism happening - can anyone lock the site? Kev (talk) 18:48, 3 May 2022 (UTC)
+( Nafedalbi (talk) 19:04, 3 May 2022 (UTC)
+Indeed, See the contributions of X. K. C. D.. While False (talk) 21:19, 3 May 2022 (UTC)
+Uh, whoops. Don't mind that. Nafedalbi (talk) 19:05, 3 May 2022 (UTC)
+WITW is happening now? 108.162.246.212 21:44, 3 May 2022 (UTC)
+This: https://www.explainxkcd.com/wiki/index.php/User:X._K._C._D./common.js While False (talk) 21:48, 3 May 2022 (UTC)
+Crap. (no pun intended) They wrote a bot. Is there a way to stop that? 108.162.245.251 21:51, 3 May 2022 (UTC)
+I don't think the bot can be stopped without an admin, but a counterbot that undos edits to any crapped pages could work. --4D4850 (talk) 01:32, 4 May 2022 (UTC)
+uhh apparently linking to a category puts it at the bottom - how do I link to a category? GcGYSF(asterisk)P(vertical line)e (talk) 04:13, 4 May 2022 (UTC)
+Wait you have to put a : before the name GcGYSF(asterisk)P(vertical line)e (talk) 04:16, 4 May 2022 (UTC)
+Did the bad bot scare the good bot away? 162.158.107.30 05:22, 5 May 2022 (UTC)
+Probably. Crap --Kynde (talk) 06:16, 5 May 2022 (UTC)
+Binomial coefficient notation in HTML/CSS[edit]
+I'm having some trouble getting (<table style="display: inline-table; line-height: 0.6em; vertical-align: middle;"><tr><td>2</td></tr><tr><td>2</td></tr></table>) (
+2
+2
+) to work right. The digits are too small on mobile Chrome, and too large on desktop Chrome. Can someone with better CSS experience than I try to even them out please? My apologies in advance if a curse is at play. 172.70.207.8 07:05, 12 May 2022 (UTC)
+The ideal solution would probably be to use "math" mode to display the symbols. There are several options: "\choose", "\binom" / "\dbinom" / "\tbinom". But I don't know how to enable that. I'm under the impression that when a "math" expression is used in this wiki, the expression is essentially compiled into an image, and I don't know how to make that happen. If I edit a page with an existing math-mode expression and make any change to the expression, the expression breaks with an error message, as I mention above. BunsenH (talk) 15:48, 12 May 2022 (UTC)
+I guess we need an admin to fix mathml. I know they exist because someone finally updated the template for which explanation is still incomplete, which hadn't been updated for like a decade. 172.70.207.8 16:37, 12 May 2022 (UTC)
+Categories: All comicsComics from 2022Comics from MayMonday comicsMathPhysicsChemistryComics featuring cursed items

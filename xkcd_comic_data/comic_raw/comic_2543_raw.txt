@@ -1,0 +1,42 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2543: Never Told Anyone
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2543)
+|<< PrevComic #2543 (November 17, 2021)Next >>|
+Never Told Anyone
+
+Title text: Even if you said you were an employee of the website, if you asked for my password, I'd tell you.
+Explanation[edit]
+This comic combines stereotypes about two secrets that one would normally be reluctant to share: dark, personal secrets, and passwords. In the comic, Megan appears to be about to tell Cueball a secret of the former variety, but twists it by instead revealing a one-time code (presumably for the use of two-factor authentication for an online account). This is poking fun at the serious-looking warnings that typically accompany the generation of one-time codes. For example: "DO NOT share this code with anyone. We will NEVER call you to ask for it." While this is still something Megan should normally be reluctant to share, it has much less value to Cueball than a personal secret[citation needed] unless his intent was to steal Megan's account - and even then it's probably useless, as these codes become invalid after they're used (hence the term "one-time") or a few minutes after generation. Cueball compounds the humor by reacting with a shocked gasp, as one would be more expected to react to a dark secret.
+Users are generally warned never to tell their password to anyone, not even a support representative of the site; real technical support reps shouldn't ever need your password, and anyone with a true configured-in authority should never even find it necessary to know/use it. However, one tactic that hackers use to break into accounts is to claim to be calling from the site and say that they need your password to fix some vague and/or mythical problem with the account. The title text says that Megan trusts Cueball so much that, despite knowing this, she would divulge her password to him even if he tried this approach on her. There is a further irony here, as Megan is focusing on the exception to the rule ("Don't even tell an employee" implies "You shouldn't tell anyone") as if it was the most important factor.
+Transcript[edit]
+[Megan and Cueball are holding hands, she has turned her head towards him, while he is still looking at the scenery. They are standing on the edge of a cliff, overlooking a vast stretch of land with water to the right and mountains far off. There are many details with lakes and smaller bodies of water on the land, three larger and three smaller clouds near the horizon and the sun is shining from the top right corner.]
+Megan: I've never told anyone this before.
+[Cueball has turned towards Megan, as they are still holding hands, in an otherwise empty panel.]
+Megan: I know I shouldn't.
+Megan: But I feel like I can trust you.
+[Megan and Cueball are no longer holding hands as he has taken both his hands up in front of his mouth and a sound escapes him, as shown with small lines coming off his head with the speech line going up from above them.]
+Megan: My one-time code is 263827.
+Cueball: *Gasp*
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Possible alternative explanation: It's a quick one-time two-factor authentication code that is generated with an app like google auth, or sent by sms, and is only valid for a minute or too. A password would still be needed,and therefore it would be almost completely useless. Billsmithsmithbill22 (talk) 02:16, 18 November 2021 (UTC) Bill Smith
+That's how I interpreted it, too. Password recovery links are usually very long strings, not just 6 digits. The joke is that the email or SMS with the 2FA code usually warns not to disclose the code, even though it can't be reused. Barmar (talk) 02:43, 18 November 2021 (UTC)
+Some Services offer a form of 2FA where they give you a list of 10 one time passwords / back-up codes that are valid indefinitely and are supposed to be printed out, in case access to the phone is lost. The generally romantic atmosphere of the comic makes me feel the number is more like that, especially since she also offers him her password in the alt-text. Ruffy314 (talk) 10:39, 18 November 2021 (UTC)
+263827 is prime, is that worthy of a mention? 108.162.249.63 (talk) 21:13, 17 November 2021 (UTC) (please sign your comments with ~~~~)
+If you think it is a factor! (...of a semiprime, maybe.) 172.70.90.141 03:48, 18 November 2021 (UTC)
+Could "I never told anyone *this* before" be a wordplay on the fact that it is a one-time code, which means if she told anyone else before it would have been a different one? 172.68.110.133 03:55, 18 November 2021 (UTC)
+The number here is 263827. In the original Star Wars movie, the trash compactor that the main characters get stuck in is numbered 3263827. Any chance that this is an incredibly obscure Star Wars reference? (I figure since one-time codes are usually six digits, using that full seven-digit number would be a bit of a distraction.) Ghostelephant (talk) 05:01, 18 November 2021 (UTC) No way that's a coincidence! That is simply too unlikely to be an accident.172.70.178.123 08:14, 18 November 2021 (UTC)
+How on earth did you figure this out? Do you just happen to know the number of that trash compactor? And if so, how? And why? For me this comment raises way more questions than the comic did. Bischoff (talk) 10:58, 18 November 2021 (UTC)
+Though I'm not as obsessive with Star Wars to know this particular number, I know that the THX 1138 4EB meme pops up again throughout Lucas's later oevre, and (like just the other day) gets co-opted referentially by the Randalls of this world. Forty-odd years of obsession by generations of fans would not leave a single remastered pixel/unremastered grain of footage unanalysed of every last detail. I've personally used "6EQUJ5" as an obscure reference, at times, and had others have known/worked out what I was echoing (even before Google) and that's from a far more transient source... 172.70.90.211 11:35, 18 November 2021 (UTC)
+6EQUJ5 is no longer considered a one time code. In the 70s, it was inexplicable, but since then it has been found again. In fact, it is not considered to have a unique source. 172.70.82.111 20:20, 18 November 2021 (UTC)
+Going back to how I noticed -- I double-checked it before commenting to make sure, but yeah I do happen to know that particular number haha. It came up at some point on a Star Wars podcast, where a guest talked about making a good friend in elementary school after realizing they had both memorized that number. I think they also said that particular number was chosen because it was Mark Hamill's phone number at the time. I guess at that point I was like "huh yeah I should probably know this number" (though I am not really sure why). A benefit, of course, is that every time I listen to the Star Wars Radio Drama I notice that they leave out a digit and it bothers me.... Ghostelephant (talk) 01:30, 19 November 2021 (UTC)
+Aren't one time codes also used for Bluetooth pairing? If so, couldn't this be considered a marriage proposal? --Divad27182 (talk) 13:49, 18 November 2021 (UTC)
+If that's what you consider a proposal, I fear you will have plenty trouble finding a spouse---- 162.158.203.36 (talk) 13:45, 18 November 2021 (please sign your comments with ~~~~)
+"Repeat these digits back to me (over an alternate communications channel) to pair with me." A bit geeky perhaps (cf. XKCD), but could be either a proposition or proposal. --Divad27182 (talk) 14:39, 19 November 2021 (UTC)
+I was thinking of something along those lines. They don't say what service the code is for, so it gave me a kind of weird train of thought like "this is a code that will give you access to me, but only if you use it right away". Was wondering if anyone else was thinking along those lines Angel (talk) 01:26, 19 November 2021 (UTC)
+Can some tell me why this comic is *still* in List of all comics even though it's number 2543, and so should be in the next page (2501-3000) --GcGYSF(asterisk)P(vertical line)e (talk) 19:42, 18 November 2021 (UTC)
+Joke's on you: I've already used that code before. --172.70.85.227 10:48, 19 November 2021 (UTC)
+Categories: All comicsComics from 2021Comics from NovemberWednesday comicsPages using the "citation needed" templateComics featuring MeganComics featuring CueballRomanceComputer security

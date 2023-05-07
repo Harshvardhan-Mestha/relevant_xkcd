@@ -1,0 +1,69 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2619: Crêpe
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2619)
+|<< PrevComic #2619 (May 13, 2022)Next >>|
+Crêpe
+
+Title text: A medicine that makes you put two dots over your letters more often is a diäretic.
+Explanation[edit]
+The word "crêpe" in the comic
+Cueball has made a crêpe, a thin pancake known for its legendary status in French cuisine, which he proudly announces. However, the circumflex (the accent above the e) is written strangely. Instead of the usual simple angle (^), it looks more like the outline of a flattened arrowhead (⮝). Megan, who can apparently hear the orthography of spoken text, comments on the odd shape with an appropriate pun.
+Megan's response, "Weird circumflex but okay" is a play on the recent expression Weird flex, but ok. A "flex" is bragging about something. A "weird flex" is used when the speaker acknowledges (perhaps ironically) that the first person is attempting to brag about something, but doesn't recognise the thing as brag-worthy.
+Her answer could also be applied to the shape of the crêpe, as circumflex means "bent around".
+In some dialects of English (e.g. British English), and in the original French pronunciation, "crêpe" is said so that the ê is pronounced as in "get" (i.e. "cr-eh-p"), but American English speakers pronounce it like an "A" (i.e. "cr-ay-p").
+The title text continues the wordplay by saying that "A medicine that makes you put two dots over your letters more often is a diäretic".
+The word diäretic is a pun on diuretic (a substance promoting increased urine production), diaeresis (a symbol in the form of two dots placed above a vowel, as the ä in the made up word diäretic; the adjective form of diaeresis can be spelled "dieretic") and diacritic (a glyph added to a letter to distinguish its sound from the normal version, what both the circumflex and the diaeresis are). See also the comic 1647: Diacritics about the use of these. Taking a diäretic medicine would supposedly cause you to use diaereses (also known as umlauts) över möre lëtters thän wöuld üsuallÿ bë thë cäse.
+Diacritics are rarely used in English, potentially because of the diverse set of origin languages it developed from, or the wide variation of pronunciations within a same nation, but are a common feature of other languages. In English, they are normally only seen in specific loanwords (such as crêpe) or used for emphasis or decoration (for example the metal umlaut seen in rock bands like Motörhead, Mötley Crüe, Queensrÿche, or Spın̈al Tap). The exception to this is the diaresis, which when it is used at all, is placed over the second vowel in a double-vowel word to indicate a morphological break between them as opposed to a diphthong (e.g. naïve or coöperation). The diaresis is optional, and, especially with words beginning with the co- prefix (e.g. cooperation, coevolution, or coincidence), rarely used. The New Yorker magazine is a famous outlier, advising consistent use of the diaresis in its style guide.
+Transcript[edit]
+[Cueball is holding a plate up in both hand, showing Megan the crepe lying on the plate. His word for crêpe has a different diacritic over the "e" than the normal circumflex (^). Instead it looks more like an open arrow head.]
+Cueball: Check out this crêpe I made!
+Megan: Weird circumflex, but okay.
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+You can almost make the same weird circumflex by using combining diacritics. e, then inverted breve then circumflex. Doesn't seem to render properly with firefox at least --> ȇ̂ 172.70.114.241 14:20, 13 May 2022 (UTC)
+U+2372 is a caret with a tilde through it: ⍲ 108.162.245.251 14:45, 13 May 2022 (UTC)
+Would you like a crē̂pe? 162.158.63.32 20:05, 13 May 2022 (UTC)
+I looked at a few more unicode things. I'm not too familiar with unicode; there are a few more down curves I think, but I didn't see any way to make it just like the image. I think wiki markup or an embedded image would probably do this best, and may be worthwhile if anybody's excited. 162.158.63.32 20:05, 13 May 2022 (UTC)
+The closest I can find is 🢕, which may render okay on desktop but not mobile as
+🢕 
+crepe
+given that terrible table/css hackery that you'll regret looking at if you find this comment in wikitext. Someone with the patience to codepen up a three cell-tall table with varying font-size:s and line-height:s can probably overlay ∧ and ^ to get the exact shape, but I doubt it would be robustly cross-platform, and of course certainly not across arbitrary fonts, or worse, on mobile because we can't control viewport scaling in wikitext, because that's a head/meta tag. 172.69.33.25 21:09, 14 May 2022 (UTC)
+....does a ruby tag work in wikicode?? because i see table in there and thats scary. 172.70.114.241 14:52, 15 May 2022 (UTC)
+Presumably you tried it. Neither the template or the <ruby> tag works. Whoever came up with the stroke/fill approach had the right idea:
+⮝  
+crepe
+172.70.211.36 00:52, 16 May 2022 (UTC)
+Is it possible to vertically stretch a character? A combination of a "regular" circumflex and a vertically-stretched circumflex might work. BunsenH (talk) 18:41, 13 May 2022 (UTC)
+I didn't realise it was actually two circumflexes of different heights. This is pretty visible in the new picture. There might be a taller or shorter circumflex somewhere in unicode, but I think stretching would take mathml or something dunno. 172.70.110.65 23:38, 13 May 2022 (UTC)
+I think the circumflex is not an "A" but more of a split-and-stretched delta, or an arrowhead. Maybe show a zoom-in of the circumflex (obviously from the 2x image) in the explanation? 108.162.221.163 14:47, 13 May 2022 (UTC)Bumpf
+Also, i noticed there are weird white dots past the corners of the border. They are even more visible in the 2x! 108.162.221.163 14:50, 13 May 2022 (UTC)Bumpf
+A chevron, perchance? --172.68.50.15 14:52, 13 May 2022 (UTC)
+Is it not also a play on "weird flex but OK"? https://www.dictionary.com/e/slang/weird-flex-but-okay/ 108.162.241.11 (talk) (please sign your comments with ~~~~)
+IPA would be appreciated 172.70.110.241 (talk) (please sign your comments with ~~~~)
+I would say the accepted online versions seem to work well for me:
+US pronunciation: /kɹeɪp/ ("krayp")
+UK possibilities: /kɹɛp/, /kɹeɪp/ ("krep" or "krayp")
+For me, I'd use the former for food (e.g. "Crêpes Suzette") as a fairly direct loan from French,
+But I'd say the latter for paper (the crinkly-tissue stuff)
+Fr pronunciation: /kʁɛp/ ("krep", but with that funny French 'r'! ;) )
+YMMV, and possibly different regional British accents (or just who they learnt the terms from) might vary quite wildly. I'm not sure the average Brit truly understand French (typographic) accents. Though possibly we are more inclined to at least try something than your average American. :p 172.69.79.209 21:18, 13 May 2022 (UTC)
+In British English it's pronounced 'pancake'. ;o) 162.158.158.248 08:19, 16 May 2022 (UTC)
+It doesn't really look like an "A". It's more a hollow outline of a circumflex. You can see it more clearly in the 2x version. 172.70.54.247 19:28, 13 May 2022 (UTC)
+The crêpe itself is also in the shape of an accent. -JT 162.158.126.55 (talk) (please sign your comments with ~~~~)
+Is this a reference to the vandalism attacks? "crap" and "crêpe" are somewhat similar. 172.70.178.27 23:16, 13 May 2022 (UTC)
+There tends to be no acknowledgement at all that Randall takes any notice of what goes on here at the moment. Despite the occasional suspicion that he deliberarely Nerd Snipes us with a comic that is particularly designe to be hard to document 'normally'. I'd say it's a pure co-inky-dink, personally. 172.69.79.223 18:55, 14 May 2022 (UTC)
+I admit I have just such a slight suspicion for this very comic. 172.69.33.25 21:11, 14 May 2022 (UTC)
+If the circumflex is interpreted as a small capital A, it could be considered a form of ruby text, phonetic characters used to transcribe logographic characters. 172.68.189.38 19:21, 14 May 2022 (UTC)
+Am I the only one who thought it is supposed to be some kind of combination of the 3 french accents? one aigu ´ and one grave `above a circonflexe ^ (in many fonts the first two are significantly steeper in my experience)? 172.68.50.91 14:28, 16 May 2022 (UTC)
+At first I thought it was related to this joke since I've been seeing a few variations on it recently. But checking the dates makes it look like it wasn't *that* recently, so maybe not. 162.158.50.84 22:28, 16 May 2022 (UTC)
+dots over letters[edit]
+If, as the current version suggests, a diuretic is in fact a medicine to promote urin excretion, the title text might also refer to the practice of writing one's name in snow using urin and, having diurtetic-induced spare writing fuel, being forced to add diacritic symbols. 162.158.90.177 (talk) 22:07, 16 May 2022 (please sign your comments with ~~~~)
+The diaeresis is not the same as the umlaut like the description suggests. They're different symbols with different purposes that just happen to look the same. The diaeresis is used to indicate a syllable break before the vowel it's placed on (e.g. naïve), and the umlaut modifies the sound of the vowel it's placed on (e.g. Übermensch). (For clarity, the paragraph above wasn't written by me, it just lacks a signature)172.68.50.91 04:20, 18 May 2022 (UTC)
+(Regarding your point on paragraphs, yes, people are being sloppy with signing - or not signing - I'm inserting the relevent placeholder for readability. No further comment as to the two-dots or anything, but piping up rather than just sneaking in and adding this thing silently. And perhaps removing your now unnecessary 'clarification', which would restore balance but ruder to do than going all meta like this!) 172.70.90.211 08:15, 18 May 2022 (UTC)
+Hear the orthography[edit]
+Another related joke: --ColorfulGalaxy (talk) 08:34, 13 December 2022 (UTC)
+"Knock knock" "Who's there?" "Triangle" "Triangle who" "It's Triangle WHO. Notice the capitalization."
+Categories: All comicsComics from 2022Comics from MayFriday comicsComics featuring CueballComics featuring MeganLanguagePunsFood

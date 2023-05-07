@@ -1,0 +1,46 @@
+We still need to complete some explanations like this one: 1608: Hoverboard. All incomplete explanations are here.
+Never use the Math markup language at the transcript. The reason for this you can read at the Editor FAQ.
+2571: Hydraulic Analogy
+Explain xkcd: It's 'cause you're dumb.
+(Redirected from 2571)
+|<< PrevComic #2571 (January 21, 2022)Next >>|
+Hydraulic Analogy
+
+Title text: Current (water) running through the water (wires) causes it to boil, increasing the pressure (voltage), but resisting (impeding) the flow of hydroelectricity (water currents). This is the basis for Ohm's law.
+This was the sixth comic to come out after the Countdown in header text started.
+Explanation[edit]
+Electric flow is commonly represented by a "hydraulic analogy". In this analogy, the water pressure represents voltage and the flow of the water is the current. Electric resistance is represented by a constricted section of a pipe.
+Miss Lenhart is teaching a class and starts to explain this analogy when Cueball suddenly has an idea and changes her diagrams - connecting the electrical diagram and the hydraulic diagram. In doing this, he has envisioned what comes to be called a "liquitricity device", combining liquid water and electric current flows together and given a suitably portmanteau title.
+The last panel shows that Miss Lenhart and Cueball eventually receive the Nobel Prize, presumably the Nobel Prize in Physics, for the design and construction of the device - indicating that rather than being purely theoretical it has actually been practical to make this device.
+The title text 'explains' how this device works and references Ohm's Law, one of the fundamental laws of electricity, but strangely seems as much an incomprehensible mix of the two as the diagram in explaining whatever form of possible duality it actually employs.
+One of the featured Footer comics, 730: Circuit Diagram, displays a very complex circuit diagram. Although no pump or direct water flow can be found here, it all ends up in a beaker with holy water. And there is a symbol labeled 3 liters, at the bottom close to the beaker. This is the symbol for an orifice or flow restriction used on plumbing or hydraulic diagrams. So Randall already mixed water flow and circuit diagrams over 10 years ago.
+Transcript[edit]
+[Miss Lenhart stands next to a white board with two diagrams while pointing to the first. While she is explaining Cueball interrupts her from off-panel as seen by his voice coming from the right side out of a starburst on the panels edge. The diagrams are a schematic circuit diagram and a water flow diagram. There is a battery (with labels on top and bottom) on the left and a resistor on the right of the circuit as well as labels on each of these and one at the top part of the wire. There is a pump to the left and a tighter section of the pipe to the right, as well as labels on these and on the top part of the pipe. At the bottom there is two arrow pointing in towards the pipe, this also has a label.]
+Miss Lenhart: Electric current is like water flowing in a pipe. The pressure represents-
+Cueball [off-panel]: Wait, hold on.
+Labels on circuit: + - V I R
+Labels on flow diagram: Pump F R D
+[The view changes so Miss Lenhart and the white board are seen from the side. She still stands next to the white board, arms now down, as Cueball approaches the board with a marker held in one hand. The diagrams can still be seen, but distorted from being viewed from the side, and no labels are readable.]
+Cueball: Do you mind if I just...
+[Zoom in on Cueball, who is drawing on the white board, which is the left edge of the panel, i.e. not visible in the panel. Noises from the marker drawing on the board comes up from the tip of the marker pen. The movement of the pen is indicated with small lines on either side.]
+Scribble
+Scribble
+Scribble
+[Miss Lenhart and Cueball, holding the marker pen down, stand on either side of the white board looking at Cueball's version with the merged diagram. He has connected the two, so instead of the wire going down after the resistor in the circuit diagram, it now is connected with water flowing to the right just below the resistor, and then up into the pump to the right of the resistor. At the bottom where the water pipe before bent up into the pump, the water now continues running to the left (the pipe was not drawn around it by Cueball), and it now flows where the bottom part of the wire, from the circuit, was before, turning up below the battery and connecting with it there. All the labels from before have been retained as follows.]
+Labels on diagram: + - V I R Pump F R D
+[Miss Lenhart and Cueball stand on a podium with a Cueball-like presenter. The presenter is holding two Nobel Prize medals up in his hands. He is holding them from the strings they are attached to, so the medals hang below his hands.]
+Presenter: And for the design and construction of the liquitricity device, the Nobel Prize goes to...
+
+ add a comment! ⋅  add a topic (use sparingly)! ⋅  refresh comments!
+Discussion
+Is it significant that the Cueball giving the prize just says "The Nobel Prize" without specifying which one? Did the Cueball who discovered this machine get all the Nobel Prizes? 172.70.131.214 05:48, 22 January 2022 (UTC)
+I would assume the Nobel Prize for Physics, but who knows. 172.70.211.26 06:14, 22 January 2022 (UTC)
+It can only be physics, and since they are both on stage and there are two prizes then of course Miss Lenhart also receives a prize, and they share the prize for their co-work. They probably worked together on the project after Cueball's idea. Even if not, it has been common that the professor shared the prize (or took it all) if one of their students (especially woman students) got the idea. That the one starting the teaching here is a woman here, just turns this around. --Kynde (talk) 07:33, 22 January 2022 (UTC)
+That it was constructed implies more than just the out-of-thin-air novel theorisation by Cueball (a number of Physics prizes were won for things that couldn't be physically invoked - at least at the time) so I choose to believe that Miss L became an equal party (neither more nor less rightfully resposible for the eventual result) as it was developed from mad scribbling to (equally mad?) 'reality'. Well, that's my headcanon, but I'm sure that Randall wouldn't have any reason to disagree. (Especially if I'm pointing my headcannon at him at the time!) 172.70.91.126 09:59, 22 January 2022 (UTC)
+For Science, of course! https://tvtropes.org/pmwiki/pmwiki.php/Main/ArtisticLicenseAwards Elektrizikekswerk (talk) 09:17, 24 January 2022 (UTC)
+He just simply wins all of them. Beanie talk 23:28, 29 January 2022 (UTC)
+Do we need to pick apart the title text? Each initial bit is almost straight analogy ripped from the classic electrodynamic/hydronynamic comparison, though just as incompatible (and mixed up) as the diagram. Oh, and I linked wave-particle duality just for the awful second-order pun, but I was going to line up various other dualities (from electric/magnetic, to the T-/S-dualities of M-theory) and equivalences (esp. Mass-Energy) in an attempt to 'explain' what is somehow indicated to be going on. Doubtless future editors will oblige if they think they can do it better. 172.70.91.126 09:59, 22 January 2022 (UTC)
+It occurs to me that there is already an electrical component to the water-flow diagram -- the pump needs an electrical current to operate. And if the battery providing voltage to the electrical diagram is a wet cell, maybe there's a connection over there as well. LtPowers (talk) 13:16, 22 January 2022 (UTC)
+Pumps existed before electricity was harnessed. 172.70.110.81 15:15, 24 January 2022 (UTC)
+I will admit to wondering at times if pumping a conductive fluid rapidly, which was conducting an AC current would change frequency or amperage of the current, and how it would change. Caveat, don't mention that to recent engineering or physics graduates. Apparently, ionic conduction is not well explained to them, and they have to season a few years before they figure it out. Even though that's the entire meaning of "ground return" in AC current studies.172.70.126.65 10:56, 27 January 2022 (UTC)
+Categories: All comicsComics from 2022Comics from JanuaryFriday comicsComics featuring Miss LenhartComics featuring CueballMultiple CueballsPhysicsNobel PrizePortmanteau

@@ -33,4 +33,6 @@ def build_all_faiss():
         elapsed_time = et - st
         print('Execution time:', elapsed_time, 'seconds')
 
-build_all_faiss()
+#build_all_faiss()
+
+

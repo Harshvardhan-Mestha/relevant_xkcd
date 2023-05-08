@@ -25,7 +25,7 @@ def generate_embedding(n):
 
 def build_all_faiss():
     
-    for i in range(0,772+1):
+    for i in range(0,2772):
         st = time.time()
         generate_embedding(i+1)
         print("comic "+str(i+1)+"complete")

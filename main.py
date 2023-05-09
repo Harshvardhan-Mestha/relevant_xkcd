@@ -14,9 +14,13 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain.vectorstores import FAISS
 from langchain.document_loaders import TextLoader
 from langchain.embeddings import HuggingFaceEmbeddings 
+import re
+import json
+from urllib.request import urlopen
+
 
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
-
+main = FAISS.load_local("xkcd_comic_data/comic_faiss/faiss_main", embeddings)
 
 
 @app.route('/')
@@ -35,10 +39,26 @@ def prompt():
         
         data = "its up <POST>"
       
-        db = FAISS.load_local("world_facts", embeddings)
         query = request.form["prompt"]
-        docs = db.similarity_search_with_score(query)
+        docs = main.similarity_search_with_score(query)
+        comics = list()
+        imgs = list()
 
+
+
+        for doc in docs:
+            comic_name = str(doc[0].metadata['source'])
+            comic_name = str(re.search('comic_\d{1,4}_raw.txt', comic_name).group())
+            comic_no = int(re.search('\d{1,4}',comic_name).group())
+            comics.append(comic_no)
         #return jsonify({'data': data})
-        return render_template('index.html',prompt=docs)
+
+        for comic in comics:
+            url = "https://xkcd.com/"+str(comic)+"/info.0.json"
+            response = urlopen(url)
+            data_json = json.loads(response.read())
+            imgs.append(data_json['img'])
+
+        return render_template('index.html',img1=imgs[0],img2=imgs[1],img3=imgs[2],img4=imgs[3])
     
+

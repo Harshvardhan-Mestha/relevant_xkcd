@@ -51,14 +51,11 @@ def prompt():
             comic_name = str(re.search('comic_\d{1,4}_raw.txt', comic_name).group())
             comic_no = int(re.search('\d{1,4}',comic_name).group())
             comics.append(comic_no)
-        #return jsonify({'data': data})
-
-        for comic in comics:
-            url = "https://xkcd.com/"+str(comic)+"/info.0.json"
+            url = "https://xkcd.com/"+str(comic_no)+"/info.0.json"
             response = urlopen(url)
             data_json = json.loads(response.read())
             imgs.append(data_json['img'])
-
+            
         return render_template('index.html',img1=imgs[0],img2=imgs[1],img3=imgs[2],img4=imgs[3])
     
 

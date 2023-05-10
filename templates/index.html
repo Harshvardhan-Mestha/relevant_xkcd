@@ -2,21 +2,22 @@
 <html>
 <head>
     <title>Relevant xkcd</title>
+    <link rel="stylesheet" href='/stylesheets/styles.css' />
 </head>
 <body>
     <h1>Type anything and it will find the relevant xkcd !</h1>
-    <form action="http://127.0.0.1:5000/prompt" method="post">
-        <input type="text" placeholder="Space themed jokes." name="prompt" id="prompt">
-        <button type="submit">Find xkcd !</button>
-    </form>
+    <div id="form_container">
+        <form action="http://127.0.0.1:5000/prompt" method="post">
+            <input type="text" placeholder="Space themed jokes." name="prompt" id="prompt" value="{{query}}">
+            <button type="submit">Find xkcd !</button>
+        </form>
+    </div>
     
     <div id="response">
-        <p>
-            <img src="{{img1}}">
-            <img src="{{img2}}">
-            <img src="{{img3}}">
-            <img src="{{img4}}">
-        </p>
+        <img src="{{img1}}">
+        <img src="{{img2}}">
+        <img src="{{img3}}">
+        <img src="{{img4}}">
     </div>
 
 </body>

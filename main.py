@@ -4,8 +4,8 @@ from flask import Flask, jsonify, request, render_template
 
 
 # creating a Flask app
-app = Flask(__name__)
-  
+app = Flask(__name__,static_folder='stylesheets')
+
 # on the terminal type: curl http://127.0.0.1:5000/
 # returns hello world when we use GET.
 # returns the data that we send when we use POST.
@@ -56,6 +56,6 @@ def prompt():
             data_json = json.loads(response.read())
             imgs.append(data_json['img'])
             
-        return render_template('index.html',img1=imgs[0],img2=imgs[1],img3=imgs[2],img4=imgs[3])
+        return render_template('index.html',query=request.form["prompt"],img1=imgs[0],img2=imgs[1],img3=imgs[2],img4=imgs[3])
     
 

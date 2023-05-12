@@ -68,7 +68,7 @@ joblib
 jupyter_client
 jupyter_core
 kiwisolver
-langchain
+langchain==0.0.103
 lxml
 MarkupSafe
 marshmallow
@@ -168,7 +168,3 @@ XlsxWriter
 xxhash
 yarl
 flask
-langchain.text_splitter
-langchain.vectorstores
-langchain.document_loaders
-langchain.embeddings

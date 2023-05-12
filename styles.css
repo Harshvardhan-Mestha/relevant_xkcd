@@ -4,7 +4,9 @@ body{
     display: flex;
     align-items: center;
     flex-direction: column;
+    gap: 1vh;
 }
+
 #form_container{
     width: 50vw;
     height: 10vh;
@@ -25,4 +27,25 @@ input{
     display: flex;
     width: 50vw;
     flex-direction: column;
+    gap: 1vh;
 }
+
+button{
+    background-color: white;
+    height: 3.7vh;
+    border: 1px black solid;
+    margin: 0;
+    border-radius: 5px;
+
+
+}
+
+button:hover{
+    background-color: #96A8C8;
+}
+
+a{
+    text-decoration: none;
+    color: darkblue;
+}
+

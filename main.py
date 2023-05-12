@@ -10,9 +10,7 @@ app = Flask(__name__,static_folder='stylesheets')
 # returns hello world when we use GET.
 # returns the data that we send when we use POST.
 
-from langchain.text_splitter import CharacterTextSplitter
 from langchain.vectorstores import FAISS
-from langchain.document_loaders import TextLoader
 from langchain.embeddings import HuggingFaceEmbeddings 
 import re
 import json

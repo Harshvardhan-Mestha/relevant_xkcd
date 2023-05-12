@@ -2,4 +2,5 @@
 Flask
 langchain==0.0.103
 faiss-cpu
+gunicorn
 

@@ -44,7 +44,7 @@ faiss-cpu==1.7.3
 fastapi==0.95.0
 filelock==3.9.0
 Flask==2.2.2
-fonttools==4.39.2
+fonttools
 frozenlist==1.3.3
 greenlet==2.0.2
 gunicorn==20.1.0

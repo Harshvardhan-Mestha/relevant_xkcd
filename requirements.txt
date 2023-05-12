@@ -58,7 +58,7 @@ humbug==0.2.8
 idna==3.4
 imagesize==1.4.1
 ipykernel
-ipython==8.11.0
+ipython
 itsdangerous==2.1.2
 javalang==0.13.0
 jedi==0.18.2

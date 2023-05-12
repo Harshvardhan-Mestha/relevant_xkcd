@@ -23,12 +23,9 @@ embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 main = FAISS.load_local("xkcd_comic_data/comic_faiss/faiss_main", embeddings)
 
 
-@app.route('/')
-def home():
-    return render_template("index.html")
 
 
-@app.route('/prompt', methods = ['GET','POST'])
+@app.route('/', methods = ['GET','POST'])
 def prompt():
     if(request.method == 'GET'):
   

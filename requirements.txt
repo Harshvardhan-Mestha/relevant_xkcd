@@ -167,4 +167,3 @@ wrapt
 XlsxWriter
 xxhash
 yarl
-flask

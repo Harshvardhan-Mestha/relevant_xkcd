@@ -3,3 +3,4 @@ flask
 langchain==0.0.134
 faiss-cpu
 sentence_transformers
+gunicorn

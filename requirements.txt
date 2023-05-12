@@ -70,7 +70,6 @@ jupyter_core
 kiwisolver
 langchain
 lxml
-manifest-ml
 MarkupSafe
 marshmallow
 marshmallow-enum

@@ -145,7 +145,6 @@ stack-data
 starlette
 tenacity
 threadpoolctl
-tiktoken
 tokenizers
 torch
 torchvision

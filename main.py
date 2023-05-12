@@ -9,8 +9,10 @@ app = Flask(__name__,static_folder='stylesheets')
 # on the terminal type: curl http://127.0.0.1:5000/
 # returns hello world when we use GET.
 # returns the data that we send when we use POST.
-
+import langchain
+from langchain.text_splitter import CharacterTextSplitter
 from langchain.vectorstores import FAISS
+from langchain.document_loaders import TextLoader
 from langchain.embeddings import HuggingFaceEmbeddings 
 import re
 import json

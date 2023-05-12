@@ -167,3 +167,8 @@ wrapt
 XlsxWriter
 xxhash
 yarl
+flask
+langchain.text_splitter
+langchain.vectorstores
+langchain.document_loaders
+langchain.embeddings

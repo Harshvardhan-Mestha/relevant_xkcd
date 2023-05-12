@@ -8,8 +8,13 @@ import time
 
 
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+loader = TextLoader('/Users/harshvardhanmestha/repos/relevant_xkcd/xkcd_comic_data/comic_raw/blank.txt')
+documents = loader.load()
+text_splitter = CharacterTextSplitter(chunk_size=1, chunk_overlap=0)
+docs = text_splitter.split_documents(documents)
+main = FAISS.from_documents(docs, embeddings)
 
-main = FAISS.load_local("xkcd_comic_data/comic_faiss/faiss_main", embeddings)
+
 
 for i in range(0,2772):
     st = time.time()

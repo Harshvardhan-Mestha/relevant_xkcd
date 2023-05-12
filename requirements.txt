@@ -1,6 +1,7 @@
 
-Flask
-langchain==0.0.103
+flask
+langchain==0.0.134
 faiss-cpu
 gunicorn
 sentence_transformers
+pydantic

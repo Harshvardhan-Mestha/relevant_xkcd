@@ -17,3 +17,5 @@ important links:
 7. https://www.selenium.dev/documentation/webdriver/getting_started/first_script/
 
 8. https://www.selenium.dev/documentation/webdriver/elements/finders/
+
+9. https://github.com/facebookresearch/faiss/issues/821

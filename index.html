@@ -2,19 +2,15 @@
 <html>
 <head>
     <title>Relevant xkcd</title>
-    <link rel="stylesheet" href='/stylesheets/styles.css' />
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <h1>Type anything and it will find the relevant xkcd !</h1>
-    <div id="form_container">
-        <form action="https://relevant-xkcd-api.onrender.com/prompt" method="post">
-            <input type="text" placeholder="Space themed jokes." name="prompt" id="prompt" value="">
-            <button type="submit">Find xkcd !</button>
-        </form>
-    </div>
+    <form action="https://relevantxkcd.me" method="post">
+        <input type="text" placeholder="Space themed jokes." name="prompt" id="prompt">
+        <button type="submit">Find xkcd !</button>
+    </form>
     
-    
-
     <div id="footer">
         Made by <a href="https://github.com/Harshvardhan-Mestha">Harshvardhan Mestha</a>
     </div>

@@ -19,6 +19,13 @@ body{
     flex-direction: row;
 }
 
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
 input{
     width: 40vw;
     height: 3vh;

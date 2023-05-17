@@ -1,0 +1,3 @@
+relevantxkcd.me{
+    reverse_proxy localhost:5000
+}

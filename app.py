@@ -60,3 +60,7 @@ def prompt():
         return render_template('index.html',query=request.form["prompt"],img1=imgs[0],img2=imgs[1],img3=imgs[2],img4=imgs[3])
     
 
+
+# driver function
+if __name__ == '__main__':
+    app.run(debug = False)

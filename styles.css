@@ -5,7 +5,7 @@ body{
     align-items: center;
     flex-direction: column;
     gap: 1vh;
-    zoom: 1.3;
+    zoom: 1;
 }
 
 #form_container{
@@ -18,7 +18,8 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: row;
-    
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 form{
@@ -31,6 +32,8 @@ form{
 input{
     width: 40vw;
     height: 30px;
+    margin-left: 20px;
+
 }
 
 #response{
@@ -43,12 +46,13 @@ input{
 button{
     background-color: white;
     height: 30px;
+    width: 80px;
     border: 1px black solid;
     margin: 0;
     border-radius: 5px;
     color: black;
     margin-left: 5px;
-
+    margin-right: 20px;
 }
 
 button:hover{

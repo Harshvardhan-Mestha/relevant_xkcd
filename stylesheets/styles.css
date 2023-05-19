@@ -38,9 +38,10 @@ input{
 
 #response{
     display: flex;
-    width: 50vw;
     flex-direction: column;
     gap: 1vh;
+    align-items: center;
+    justify-content: center;
 }
 
 button{

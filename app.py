@@ -49,6 +49,8 @@ def prompt():
 
         for doc in docs:
             comic_name = str(doc[0].metadata['source'])
+            if comic_name is None:
+                return render_template('index.html',query="No relevant comics were found, Please try a different prompt.",img1="",img2="",img3="",img4="")
             comic_name = str(re.search('comic_\d{1,4}_raw.txt', comic_name).group())
             comic_no = int(re.search('\d{1,4}',comic_name).group())
             comics.append(comic_no)

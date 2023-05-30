@@ -57,9 +57,10 @@ def prompt():
             data_json = json.loads(response.read())
             imgs.append(data_json['img'])
         print(imgs)
-        return render_template('index.html',query=request.form["prompt"],img1=imgs[0],img2=imgs[1],img3=imgs[2],img4=imgs[3])
-    
-
+        if(len(imgs)==4):
+            return render_template('index.html',query=request.form["prompt"],img1=imgs[0],img2=imgs[1],img3=imgs[2],img4=imgs[3])
+        else:
+            return render_template('index.html',query="No relevant comics were found, Please try a different prompt.",img1="",img2="",img3="",img4="")
 
 # driver function
 if __name__ == '__main__':

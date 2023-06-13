@@ -61,7 +61,7 @@ def prompt():
             response = urlopen(url)
             data_json = json.loads(response.read())
             imgs.append(data_json['img'])
-            urls.append(data_json['nums'])
+            urls.append(data_json['num'])
 
         print(imgs)
         if(len(imgs)==4):

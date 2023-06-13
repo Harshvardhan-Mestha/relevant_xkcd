@@ -44,7 +44,7 @@ def prompt():
         docs = main.similarity_search_with_score(query)
         comics = list()
         imgs = list()
-
+        urls = list()
 
 
         for doc in docs:
@@ -57,14 +57,17 @@ def prompt():
             comic_no = int(re.search('\d{1,4}',comic_name).group())
             comics.append(comic_no)
             url = "https://xkcd.com/"+str(comic_no)+"/info.0.json"
+
             response = urlopen(url)
             data_json = json.loads(response.read())
             imgs.append(data_json['img'])
+            urls.append(data_json['nums'])
+
         print(imgs)
         if(len(imgs)==4):
-            return render_template('index.html',query=request.form["prompt"],img1=imgs[0],img2=imgs[1],img3=imgs[2],img4=imgs[3])
+            return render_template('index.html',query=request.form["prompt"],img1=imgs[0],img2=imgs[1],img3=imgs[2],img4=imgs[3],url1=urls[0],url2=urls[1],url3=urls[2],url4=urls[3])
         else:
-            return render_template('index.html',query="No relevant comics were found, Please try a different prompt.",img1="",img2="",img3="",img4="")
+            return render_template('index.html',query="No relevant comics were found, Please try a different prompt.",img1="",img2="",img3="",img4="",url1="",url2="",url3="",url4="")
 
 # driver function
 if __name__ == '__main__':
